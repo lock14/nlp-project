@@ -1,0 +1,969 @@
+{484}{533}(Door opening and footsteps)
+{535}{584}(Coughing and chatter)
+{715}{784}(Man rustles paper and clears throat)
+{786}{854}MAN: This is a poem, that was...
+{897}{962}Um, I found it in the Iibrary.
+{973}{1022}(CIears throat) It's for my son.
+{1075}{1115}To A Child Dancing In The Wind.
+{1179}{1228}"Dance there upon the shore
+{1253}{1295}What need have you to care
+{1297}{1341}For wind or waters roar?
+{1343}{1381}Tumble out your hair
+{1404}{1452}That the salt drops have wet
+{1497}{1543}What need have you to dread
+{1545}{1591}The monstrous crying of the wind? "
+{1714}{1770}(Laughter)
+{2279}{2328}(Gulls cry)
+{2355}{2404}(Waves lap the shore)
+{2633}{2695}Excuse me. Excuse me. Excuse me.
+{3203}{3236}Excuse me.
+{3273}{3291}James.
+{3293}{3323}James?
+{3325}{3368}James! James! Come here.
+{3405}{3455}Stay close, OK?
+{3457}{3517}Give me your hand, tight. Hold it tight.
+{3776}{3825}Sorry. Sorry.
+{3876}{3916}- Sorry.|- Where are they?
+{4224}{4292}Listen, Frank,|You look after yourself, all right?
+{4294}{4353}Angela, this way.
+{4355}{4392}Sorry. Excuse me.
+{4431}{4493}(Cheering and whistling)|- There she goes, boys.
+{4656}{4713}Look at that. Isn't that fantastic?
+{4846}{4913}- Rob!|- Mum, there you are.
+{4915}{4979}Hello. I thought I was going to miss it.
+{5036}{5097}- Where's Grandpa?|- I don't know.
+{5253}{5310}Pappy won't be coming. He's not here.
+{5741}{5780}Come on, Frank.
+{5919}{5981}You're missing it, Frank.
+{6159}{6226}- You coming out?|- I'll be out in a minute, Danny.
+{6552}{6630}How can they let someone else|build our navy's ships?
+{6632}{6681}It's just the way it is.
+{6683}{6732}And you...
+{6734}{6786}How can they let you go?
+{6842}{6906}- You want this?|- No, thanks.
+{7444}{7480}All right, Gus?
+{7482}{7526}(Whirring of machinery)
+{7557}{7640}(Siren)|- You all right?
+{8210}{8275}- Joan Redmond?|- Yeah, I'm sorry.
+{8277}{8335}Excuse me. I'm sorry.
+{8360}{8414}Excuse me. I'm sorry.
+{8522}{8551}- Sorry.|- Right...
+{8553}{8647}As I was saying, driving a bus|is exactly the same as driving a car,
+{8649}{8743}except for the 50 or so back-seat drivers|sitting behind you.
+{8940}{8989}(Door opens)
+{9218}{9267}Rob brought the boys for your last day.
+{9363}{9412}They were looking for you.
+{9414}{9494}Gus Fuller lost his hand today.
+{9496}{9530}Oh!
+{9565}{9589}How?
+{9591}{9669}- One of the presses.|- (Gasps)
+{9809}{9844}Will he get more money?
+{9895}{9944}I watched him do it.
+{11183}{11232}That's you tidy.
+{11414}{11463}See you soon, love.
+{12027}{12064}- Hello.|- Hi.
+{12066}{12171}- JSA, pensions or disability?|- I'm looking for a job.
+{12173}{12212}First time?
+{12214}{12289}- Yeah.|- You'll need to speak to someone.
+{12314}{12348}Let's see who's free.
+{12725}{12768}Angela.
+{12770}{12844}- All right?|- OK.
+{13409}{13482}Look, Frank, you don't have to fill it in here.
+{13500}{13545}You can do it at home.
+{13901}{13940}(Breathes rapidly)
+{14151}{14200}(Panting)
+{14539}{14637}- Won't be the same at work without Frank.|- You got the boot as well, you dozy pillock!
+{14639}{14714}He might have a heart attack.|That happens, doesn't it?
+{14716}{14766}Work, Monday.|Redundant, Tuesday.
+{14768}{14820}Heart attack, Wednesday.
+{14822}{14895}Frank will be all right, then. Today's Thursday.
+{14915}{15001}What in the name of total insanity|are you wearing?
+{15003}{15099}- Och, I had nae clean ones.|- Tell me they're not your mother's.
+{15118}{15166}Don't be daft. They're big Janine's.
+{15168}{15256}- She left them in the pub on Friday.|- Don't let Frank catch you wearing them.
+{15258}{15328}- I knew they'd come in handy.|- For what exactly?
+{15330}{15377}What if I get run over?
+{15436}{15554}Frank won't be coming swimming tonight.|I'm glad I got out when I did. It's turned nasty.
+{15556}{15620}Frank could have stayed like I did.|The men respect him.
+{15622}{15716}All he had to do was let them upstairs think|they were running the job.
+{15718}{15770}Man's too pig-headed for his own good.
+{15961}{16032}- Frank, I didn't mean...|- Leave it, Eddie.
+{16224}{16261}See you in the pool, then.
+{17511}{17535}Frank?
+{17638}{17691}Frank?
+{17729}{17768}- Frank?|JOAN: Excuse me.
+{17770}{17811}Frank?
+{17834}{17892}Frank, where are you going?
+{17914}{17966}EDDlE: Frank!|JOAN: Oh, my God!
+{17968}{17993}Frank!
+{17995}{18062}Hey, man. Hey!
+{18064}{18103}Get an ambulance, Joan!
+{18105}{18152}Please, no.
+{18154}{18192}You're all right, man.
+{18194}{18243}Get out of my way!
+{18388}{18442}It's OK. He's OK. Dad's fine.
+{18461}{18525}It was a panic attack.|That's what the doctor said.
+{18527}{18562}- What?|- A panic attack.
+{18564}{18625}Only, don't mention it when he comes out.
+{18627}{18676}OK, let's go.
+{18678}{18730}- Eddie rang me.|- Eddie's got a big mouth.
+{18732}{18786}- He was worried.|- I slipped, OK?
+{18788}{18863}- Can I get money for a can of Coke?|- You collapsed.
+{18865}{18942}- Mum says you had a panic attack.|- I slipped and fell. It happens.
+{18944}{19021}- What are you asking me for?|- Have you got money for a can of Coke?
+{19023}{19068}No, I don't. Have you got your purse?
+{19070}{19132}- No, I don't have my purse.|- Ask your dad for the money.
+{19134}{19178}- How do I get out of here?|- Down there.
+{19180}{19220}- Right, left?|- That way, Frank.
+{19222}{19301}- Right, I'll find it.|- I'm really sorry, love.
+{19330}{19383}Come on, boys, let's go.
+{19410}{19475}- What is the matter with you?|- You shouldn't...
+{19477}{19558}- You could have said hello.|- You should not have told him.
+{19706}{19727}(Bell)
+{19729}{19799}- Hands.|(Lift door shuts)
+{20021}{20098}- Is Pappy all right?|- Of course he is.
+{20249}{20300}Do you like Pappy?
+{20302}{20356}Pappy and I are just different.
+{20393}{20434}Pappy doesn't like you.
+{20750}{20806}Oh, look who it is. Frank's little girl.
+{20808}{20852}(Sniggering)
+{20891}{20971}Are ourfish suppers ready yet, Chinaman?
+{20973}{21076}Oh, God love us.|He's a real chatterbox tonight, isn't he?
+{21078}{21109}(Chuckling)
+{21137}{21182}Tell you what. I've changed my mind.
+{21184}{21233}I fancy a curry.
+{21468}{21513}See you Tuesday.
+{21714}{21763}Just a bag of chips, please, Chan.
+{21814}{21900}I heard about your Dad. I'm er...sorry.
+{22152}{22201}OK, Chan?
+{22219}{22260}Frank, all right?
+{22287}{22323}Good book?
+{22350}{22425}It's for my wife. It's about cooking.
+{22484}{22533}What are you looking for?
+{22590}{22639}I don't know.
+{22680}{22730}But whatever it is, it's not in here.
+{22941}{23007}JOAN: He doesn't know|what to do with himself any more.
+{23009}{23075}More than I can say for you, driving a bus.|Have you told him?
+{23077}{23152}No. Don't want to give him|anything else to worry about.
+{23154}{23218}He's going to find out sooner or later.
+{23220}{23297}He's shut me out again, Michelle.|Like when Stuart...
+{23299}{23382}It won't last long.|Are things better with him and Rob?
+{23384}{23416}Not really.
+{23680}{23718}- Good evening.|- Hiya.
+{23720}{23759}- Bag of chips, please.|- OK.
+{23884}{23955}- Is your Dad around?|- No.
+{23974}{24023}Salt and vinegar?
+{24043}{24072}Please.
+{24445}{24494}(Laughter on TV)
+{24512}{24602}Oh, hi, Frank. Come on in.|I'm just off to work.
+{24624}{24669}Tom Cruise is in the front room.
+{24671}{24757}Eddie, it's Frank. He's got chips.
+{24925}{25056}TV:..but our industrious Iittle beetle is about|to meet someone altogether more scary...
+{25058}{25107}I've seen this before.
+{25138}{25297}That wee beetle pushes that big ball of shite|for what is the equivalent of six miles for him.
+{25299}{25355}Then just as he gets to where he's going,
+{25385}{25443}another beetle comes...
+{25445}{25496}and steals it from under his nose.
+{25498}{25560}It's what happens. Wait, you'll see.
+{25562}{25616}Six miles.
+{25618}{25667}Poor bastard.
+{25669}{25736}They'll have you shovelling shit, you know that?
+{25797}{25846}I know.
+{25922}{25990}You still coming on the booze cruise to France?
+{25992}{26037}It will do us good.
+{26039}{26088}I can see myself on the ship now.
+{26115}{26197}Captain Eddie Fraser, beer in my hand
+{26218}{26278}and the sea air in my lungs.
+{26280}{26318}DANNY: Oh, Eddie!
+{26320}{26375}That seagull's eating your puke.
+{26420}{26510}He caught it in the air.|That seagull caught it in the air.
+{26512}{26589}Puke again, Eddie. Go on, puke again.
+{26706}{26747}That's brilliant that.
+{27143}{27192}All right?
+{27225}{27263}Bloody hell.
+{27265}{27360}You can see France already.|Isn't very far, is it?
+{27362}{27407}Near enough to swim.
+{27409}{27464}I wish I had.
+{27814}{27843}(Laughter)
+{28123}{28161}EDDlE: Frank?
+{28197}{28250}Frank?
+{28252}{28301}You all right?
+{28393}{28451}How mad would you have to be to swim this?
+{28470}{28506}Totally.
+{28702}{28786}DANNY: How far is it to France?|EDDlE: We're in France, you dipstick.
+{28805}{28878}DANNY: I know we're in France|but how far is it from Britain?
+{28880}{28970}NORMAN: 20 miles,|give or take the odd oil tanker.
+{28972}{29025}DANNY: 20 miles, eh?|How do they measure that?
+{29027}{29088}MlCHELLE: They look very small from here.
+{29090}{29182}They are very small. It's just|us women like to shrink when we get near them.
+{29184}{29291}You can't just swim across|one of the busiest shipping routes in the world.
+{29293}{29366}Who do you show your passport to?|Punch and Judy?
+{29368}{29458}- The deckchair man.|- I was a deckchair man for a day.
+{29460}{29539}- Only a day?|- It wasn't what I was expecting.
+{29569}{29663}MlCHELLE: Did you tell him yet?|JOAN: No. God, no.
+{29665}{29714}I will.
+{29716}{29799}He won't like it.|He'll think it's to do with him losing his job.
+{29801}{29898}MlCHELLE: And he'll like it even less|when he finds out the truth.
+{29900}{29968}That it's got absolutely nothing|to do with him at all.
+{30395}{30496}Sorry to pull you back to the yard like this,|Frank. It's a small little matter.
+{30498}{30588}I just need to prove something.|I know you must be busy.
+{30622}{30671}So, you know these guys, Frank?
+{30705}{30795}- So...|- I've told you...I didn't see anything.
+{30843}{30919}He must have been desperate.|He's going to get nothing.
+{30947}{30996}He used the wrong hand.
+{31053}{31097}He's right-handed.
+{31124}{31140}Duncan.
+{31212}{31262}He crossed hands...
+{31264}{31303}to operate the press.
+{31396}{31420}OK.
+{31518}{31597}You should have been more loyal|to the company, Frank.
+{31618}{31660}You wouldn't know what loyalty is.
+{31681}{31740}Loyalty is a full wage packet|at the end of the week.
+{31772}{31821}Loyalty is being valued.
+{31847}{31903}Being happy with yourself.
+{31927}{31986}Are you happy with yourself, Frank?
+{32040}{32089}Who do you think you are?
+{32127}{32218}You seriously think you can intimidate people|into being loyal to you?
+{32268}{32356}There's not a man in this yard|would piss on you if you were on fire.
+{32546}{32583}Hi, Frank.
+{32585}{32629}Cannae keep away, eh?
+{34292}{34357}- I knocked a vase over.|- Which one?
+{34359}{34439}- The one with the crack in it?|- No, the other one.
+{34498}{34547}Will it fix?
+{34679}{34728}I need to go and get changed.
+{34730}{34779}(Squelches)
+{34889}{34960}So what if you swam the CIyde?|It doesn't prove anything.
+{34962}{35019}The Channel's a completely different thing.
+{35021}{35085}- Do you think you could, then, Frank?|- I know I could.
+{35086}{35163}EDDlE: Look...you got made redundant.
+{35165}{35231}You should just face up to it like everyone else.
+{35589}{35638}Face up to it?
+{35761}{35810}Like you did, Eddie?
+{36308}{36377}- That's a lot of reading.|- It's a lot of swimming.
+{36395}{36492}- You think I'm wasting my time?|- A gem cannot be polished without friction,
+{36494}{36550}nor a man perfected without trials.
+{36614}{36714}- Is that a yes or a no?|- When do we start?
+{37198}{37266}Hey, hey, hey.|What have we forgotten?
+{37384}{37433}What's this?
+{37457}{37521}You know we're not allowed. In you go.
+{37550}{37589}I'll see you at 3:30.
+{37591}{37636}- Bye!|- Bye!
+{37951}{37990}- All right, son.|- Dad.
+{38022}{38052}OK?
+{38099}{38133}You?
+{38135}{38186}Yeah, good.
+{38188}{38226}Busy?
+{38228}{38263}Aye.
+{38359}{38411}You used to have one of them. Remember?
+{38435}{38464}Yeah.
+{38509}{38573}They had one each|but they're always losing them.
+{38608}{38673}I was going to go for a coffee. Want to come?
+{38691}{38747}I'd better not. Got to get on.
+{38782}{38824}Maybe next time.
+{38855}{38879}Aye.
+{39357}{39414}I promised Michelle I'd fix this for her.
+{39416}{39474}I just wanted to see what was inside.
+{39476}{39532}Now it doesn't seem to want to go back together.
+{39534}{39615}Things aren't meant to be fixed nowadays.
+{39637}{39674}No.
+{39676}{39736}Not by you, anyway.
+{39890}{39914}How's work?
+{40043}{40122}What was it Sausage Finger said today?|Something funny.
+{40234}{40309}No, I can't remember.|It was funny anyway, whatever it was.
+{40331}{40395}The thing that he said. It was funny.
+{40457}{40506}I'm going to swim it, Ed.
+{40596}{40635}I know you are.
+{41155}{41232}- Oh, my, that's a lot of reading.|- It's a lot of swimming.
+{41234}{41302}Probably mentions sharks.|Does it mention sharks, Frank?
+{41304}{41371}EDDlE: There's no sharks in the Channel.|- This one shark,
+{41373}{41439}they opened it up|and found a telly and a box of condoms.
+{41441}{41505}- They did not.|- And don't tell me the telly was still on?
+{41506}{41617}Look, it's important they take this seriously|or you may as well not bother.
+{41619}{41683}- Bloody hell.|- Bugger me.
+{41685}{41759}Are you coming or are you going?
+{41761}{41815}- Sorry, Frank.|- Sorry, Frank.
+{41862}{41949}- There is the training schedule.|- I don't mean to be rude, Chan...
+{41951}{42042}- Things to do to set the swim up.|-..but I didn't think you could speak English.
+{42044}{42115}- I didn't think you could speak.|- Danny...
+{42117}{42166}First, we need to register the swim.
+{42168}{42257}I've only heard you say three words|and two of them were "salt" and "vinegar".
+{42259}{42301}Will you let the man speak?
+{42334}{42369}Sorry, Chan.
+{42371}{42442}Next, we have to get a boat|and an experienced pilot.
+{42444}{42509}How about Merv? He's got a boat.
+{42511}{42564}Merv the Perv has got a boat?
+{42566}{42624}A daft pointy one,|all chrome and shiny plastic.
+{42626}{42697}- I don't want to talk to Merv.|NORMAN: It's got a dinky wee bar.
+{42699}{42763}- Does it go fast, though?|- Like shit off a stick.
+{43152}{43204}EDDlE: Two years, that's what it takes.
+{43206}{43255}I want to do it in six months.
+{43286}{43335}Would you have time to help me?
+{43337}{43374}Aye.
+{43452}{43527}Ed, I would have asked you|but I didn't think you would have time.
+{43529}{43654}Aye, well, Chan is probably better|at this sort of thing than me, anyway.
+{43773}{43864}Look, guys, do me a favour|and can we just keep this to ourselves?
+{43889}{43923}- Sure.|- Aye.
+{43980}{44044}- Is he in?|- Aye, he's in the kitchen.
+{44045}{44069}Right.
+{44071}{44120}(Doorbell)
+{44224}{44273}- Good evening, Joan.|- Hello, Norman.
+{44344}{44413}- I've got a cake.|- Oh, very nice.
+{44454}{44503}(Doorbell)
+{44556}{44620}- Hello, Mrs Redmond.|- Hello.
+{44622}{44714}- It's Danny. Danny Campbell.|- Ah, right.
+{44716}{44775}You want Frank? He's...in the kitchen.
+{44777}{44826}(Doorbell)
+{44963}{45018}Come in.
+{45020}{45069}He's in the kitchen.
+{46681}{46732}Keep your eyes open, James.
+{46734}{46763}In here.
+{46787}{46836}On you go.
+{46848}{46894}- All right, Rob?|- Danny, how's things?
+{46896}{46966}Aye, not bad. Skint, no job, no girlfriend.
+{46968}{47043}And I've been wearing big Janine's knickers|since last February.
+{47045}{47127}I can't complain.|It's not easy that, doing a woman's job.
+{47173}{47259}Here, I'll leave you to it.|Rather you than me.
+{47261}{47315}- You OK?|- Yeah.
+{47317}{47388}Leave it alone, you big numpty.
+{47390}{47451}And try to stay on your feet.
+{47453}{47511}I saw Dad down the pool again.|What's he up to?
+{47513}{47574}- Swimming.|- It seems he's there all the time.
+{47576}{47629}Well, it does him good. Away you go.
+{47656}{47732}- How did they both manage to fall over?|- Practice.
+{47783}{47843}- May we go up to our room?|- Yes, you can.
+{47845}{47911}I didn't know you had this.
+{47955}{48032}Angela dug it out. It's a good sand boat.
+{48069}{48164}Well, that's all you ever wanted to make,|both of you. It must be in your blood.
+{48187}{48221}Biscuit?
+{48248}{48317}- I go up there now and then.|- Mm, I know.
+{48661}{48695}Mum?
+{48781}{48836}I failed my bus test.
+{49007}{49045}That's not bad.
+{49047}{49126}Time's faster and you're getting|more distance from the strokes.
+{49128}{49189}But it's still a long way from the real thing.
+{49253}{49318}You'd be better at bus driving than me.
+{49320}{49401}I thought about it. Kept seeing those ads.
+{49403}{49455}So, why didn't you tell us?
+{49511}{49558}There's no sugar in this.
+{49601}{49675}- Can you take it again?|- You get three goes.
+{49677}{49748}You should try for it. You'd be good.
+{49750}{49838}What, and have Angela give up work?|She earns twice what I could.
+{49840}{49935}- I've said I can help with the twins.|- And I've said they're my kids.
+{49937}{50034}If I'm not prepared to look after them,|then we shouldn't have had them.
+{50052}{50121}- What?|- You're like your Dad.
+{50402}{50453}Right, boys, over to the side of the pool.
+{50477}{50526}Right, go on beside Campbell.
+{50545}{50590}Good boy.
+{50619}{50705}Aaron, when you get to the side of the pool,|just stop and wait.
+{50837}{50886}Hold on, Jonathan.
+{51225}{51274}- You OK?|- It's all right, he's fine.
+{51276}{51364}- I'm all right.|- It's the way he swims. It's OK, just leave him.
+{51383}{51422}Thank you.
+{51734}{51776}- Yes!|- Yes.
+{51778}{51830}Did you see that, big man?
+{52483}{52544}- Call that swimming?|- Aye.
+{52669}{52735}- Have you got a name?|- Aaron.
+{52806}{52855}Good name.
+{52873}{52922}Good swimmer.
+{53068}{53102}Rob, hurry up.
+{53385}{53454}- Come on, let's go.|- He's probably not here.
+{53456}{53528}You said he comes here all the time.|Unless you don't want to.
+{53530}{53629}I'm coming. And I didn't say "all of the time".|I said "some of the time", smartarse.
+{53631}{53664}Where are you going to?
+{53666}{53720}- All right, Frank?|- All right, Danny.
+{53743}{53788}- Who's that?|- I used to work with him.
+{54417}{54485}ROB: I'm going to be first. No cheating.
+{54508}{54524}Ah.
+{54526}{54603}- You got a head start.|- Ah, my toe. Stubbed my toe.
+{54605}{54654}ROB: Who won the race?|BOY: You.
+{54690}{54739}ANGELA: Somebody's going to get caught.
+{54741}{54801}- Whose clothes are whose?|- Anyone else in here?
+{54803}{54851}ROB: No, no, you're safe.
+{54853}{54915}Will you come out?|Why are you hiding in there?
+{54917}{54978}Get out of there.|You've got the shampoo?
+{54980}{55010}Have l?
+{55012}{55086}ANGELA: Why do men's changing rooms|always smell of P-I-S-S?
+{55088}{55168}You're lucky, normally they smell of S-H-l-T.
+{55170}{55204}What does that spell?
+{55206}{55255}(Laughter)
+{55326}{55421}ROB: Right, clothes on. What's first?|ANGELA: Come on. Let's get dressed.
+{55440}{55509}ROB: Your coat. You're freezing.
+{56198}{56247}- See you Monday.|- Excuse me.
+{56333}{56382}See you Monday.
+{56524}{56584}- Just the three.|- Danny.
+{56621}{56720}Get his change right, Shirley.|He'll be watching the pennies.
+{57487}{57596}It's not even May. You can't go|swimming outdoors this time of year.
+{57598}{57669}I've got to get colder.|I'm going to Loch Lomond tomorrow.
+{57671}{57756}- There's frost forecast.|- I think we should all do it, lend a bit of morale.
+{57758}{57837}- I'll do it. What about you, Eddie?|- Oh, yeah, count me in.
+{57839}{57930}Not me. I support much better when I'm dry.|I'm more your dry kind of supporter.
+{57932}{57999}- Nice cake, Norman.|- Yeah, less salt this time.
+{58118}{58142}Here we go.
+{58223}{58272}Come on, Eddie.
+{58331}{58368}Where are you going?
+{58387}{58470}Eddie, come on in. You can do this.
+{58710}{58760}DANNY: Hold on, Frank!
+{58762}{58811}I'II be right with you.
+{58909}{58963}Don't worry, son. It'll grow back.
+{58965}{59023}It better had. I'm playing football later on.
+{59025}{59083}Here we go, lads.|Nice cold beers to warm you up.
+{59085}{59126}Cheers, Norman.
+{59128}{59177}- Hey, slainte.|- Slainte.
+{59212}{59256}The fire of the crucible.
+{59258}{59332}- God, what is the fire of the crucible?|- A Chinese proverb.
+{59334}{59386}From now on you have to train in the cold.
+{59388}{59463}Not only that, you have to swim|25 miles a week six days a week.
+{59465}{59522}- (Laughs)|- Here, I've got one for you, Chan.
+{59524}{59620}Man who walks through airport turnstile|sideways is going to Bangkok.
+{59775}{59834}How did you know he's going to Bangkok?
+{59836}{59868}DANNY: Bang cock.
+{59870}{59911}Bang cock.
+{59967}{60058}We still need to get a hold of a boat|so we can support Frank in the water.
+{60060}{60153}- I told you, Merv the Perv's got a boat.|- But do you think he'd let us have a go on it?
+{60155}{60226}I don't see why not.|He'd let you have a go with his wife.
+{60244}{60308}Bang cock! Bang co...
+{60310}{60355}(Laughter)
+{60655}{60691}Oh, no, I can't.
+{60693}{60772}I thought I could but I can't.|I'll see you at the bus stop.
+{60774}{60804}MERV: Hey!
+{60806}{60847}Hey, over here.
+{60849}{60898}Come on.
+{60931}{60980}Don't be shy, give it a try.
+{61040}{61091}Merv, it's Frank. Can I have a word?
+{61109}{61173}Ooh, hiya, Frank.
+{61174}{61238}- Hey, Vera, it's Frank.|- (Muffled) Oh, hello, Frank.
+{61239}{61295}- Hi, Vera.|MERV: How's Joan?
+{61297}{61357}Joan's... She's fine. She's... Yeah.
+{61359}{61391}(Muffled talk)
+{61393}{61493}Oh, she's still after Joan's recipe|for that lemon cheesecake.
+{61495}{61589}I'll remind her.|Listen, I'm sorry, is... Is this a bad time?
+{61591}{61661}- Cos I could come back later...|- No, no, it's great, Frank.
+{61698}{61831}Norman says you've got a boat.|I was wondering if maybe we could...borrow it.
+{61854}{61929}- I want to shag it.|- Merv probably has.
+{61931}{61978}Are you sure you know what you're doing?
+{61980}{62048}Of course I do. I used to be in the sea cadets.
+{62050}{62115}A bit different|to a leaky canoe on the Clyde, this.
+{62117}{62202}- Don't worry, I'll be careful.|- Yeah, well, just make sure you are.
+{62221}{62264}Are you not coming, Norman?
+{62266}{62367}Get on there with the missing link at the helm?|You're joking, aren't you?
+{62369}{62485}No, I'll leave it till I find my sea legs.|Next time, maybe.
+{62524}{62588}- Help!|- Slow down!
+{62680}{62718}Right then.
+{62745}{62794}(Engine won't start)
+{62863}{62947}- Ah, you flooded it.|- I'll fix it. Just give us a minute.
+{62949}{62998}Norman!
+{63000}{63034}Help!
+{63036}{63092}EDDlE: Norman!
+{63094}{63132}(Engine starts)
+{63197}{63237}Oh!
+{63262}{63292}Oh, shite!
+{63584}{63606}Bollocks!
+{63636}{63676}Aaargh!
+{64265}{64314}Keep your eye on that, will you?
+{64451}{64500}What's on your mind, son?
+{64520}{64565}- I've been thinking.|- What with?
+{64599}{64685}I was thinking...|I could have a go at the Channel, too.
+{64687}{64749}- Yeah?|- Yeah.
+{64751}{64791}What do you think?
+{64793}{64838}Do you think you're up to it?
+{64840}{64902}Oh, yeah. Definitely.
+{64904}{64958}- Yeah?|- Definitely.
+{65223}{65265}DANNY: AII right, Rob?
+{65292}{65336}Evening, Janine.
+{65338}{65408}Pint of lager,|eight packets of crisps, assorted flavours,
+{65410}{65464}no prawn cocktail, two pork pies,
+{65466}{65530}three ham sandwiches,|and a pint of Guinness, please.
+{65532}{65620}I'm in training, swimming.|I've got to bulk up.
+{65622}{65680}- You're swimming?|- Training.
+{65682}{65734}But I'm getting mentally prepared.
+{65736}{65776}I'm in mental training.
+{65778}{65869}- So how's things with you, then?|- The same.
+{65897}{65947}How is the big fella?
+{65949}{65979}What?
+{65981}{66054}Your little boy?|He fell on his arse the last time I saw you.
+{66056}{66081}Oh, yeah.
+{66083}{66150}He's all right. He does it all the time.
+{66152}{66253}- He bounces back quick enough.|- Oh, yeah. They're very bouncy, kids.
+{66255}{66348}Like balls or castles. Still...
+{66350}{66443}It's got to be the most difficult job in the world,|that, being a dad.
+{66445}{66494}Probably why mine left us.
+{66532}{66593}But you don't miss what you never had, do you?
+{66675}{66730}Make sure you stay in front of him, Frank.
+{66732}{66808}If the water suddenly gets warm,|that'll be Danny.
+{66852}{66900}- How many have you eaten?|- Just the one.
+{66902}{66941}Well, get rid of it.
+{67011}{67047}Right, OK.
+{67049}{67164}Don't do anything stupid.|If you get into trouble, go to the boat. Yeah?
+{67166}{67239}All right. Now remember, we're not superheroes.
+{67241}{67293}- I hear you. I'm good.|- OK, let's go.
+{67295}{67352}What's that?
+{67354}{67398}Jellyfish.
+{67416}{67457}They're fine. They're fine.
+{67535}{67592}Come on!
+{67668}{67717}- It's colder than last time.|- Slow down.
+{67719}{67799}DANNY: Come on, here we go.|FRANK: Right, hey, Danny.
+{67801}{67850}- Watch this.|- Pace yourself.
+{68446}{68510}TAPE: You are king of the jungle.
+{68550}{68599}I am a lion.
+{68629}{68680}Now repeat after me...
+{68866}{68915}(Gasping)
+{69051}{69100}Right, there you go, Frank.
+{69149}{69213}Why can't they just hold onto the boat and get it?
+{69215}{69318}Frank wants to do it right.|If they touch the boat, the swim won't count.
+{69738}{69812}Now repeat after me,|you are not a man, you are a wolf.
+{69814}{69881}(Tape on fast rewind)
+{69904}{69951}(Car horn)
+{70089}{70183}- Eddie! He's got cramp.|- Start the boat, Chan. Start the boat.
+{70185}{70256}Danny! Danny, hold on!
+{70258}{70298}- Danny!|- Hold on, Danny!
+{70300}{70346}(Engine won't start)
+{70389}{70432}It won't start.
+{70629}{70701}It's OK. Calm down. Take it easy.
+{71440}{71505}- What did the doctor say?|- It's fine.
+{71507}{71586}The doctor says he's going to be all right,|no thanks to you.
+{71588}{71642}He looks to you like a dad.
+{71644}{71687}You should have stopped him.
+{71719}{71809}- It wasn't Frank's fault, Ma.|- I will not have him go in the water again.
+{71811}{71851}Ma, it was my own fault.
+{72002}{72051}I just wanted to be the man for once.
+{72105}{72184}Olympic superstar, Nike sponsorship.
+{72186}{72241}Just be the man, you know?
+{72298}{72347}Like you.
+{72443}{72494}I didn't want you to be disappointed.
+{72520}{72597}I was when I found out|it was Eddie that gave me the kiss of life.
+{72700}{72774}- Are you going training now?|- Mm.
+{72776}{72831}Put some down for me, will you?
+{72860}{72944}He can help out. On the boat or something.
+{72966}{73041}But he wears a lifejacket|if he's anywhere near you.
+{73145}{73226}- So his mother's not too happy, then?|- I should have stopped him.
+{73228}{73285}Remember you stopped Rob swimming in here?
+{73287}{73323}Yeah, he was seven.
+{73325}{73408}He cursed like mad when I pulled him out|because his mates were watching.
+{73410}{73455}Jumped right back in again.
+{73457}{73532}Ah, you know,|if I had disobeyed my father at that age,
+{73534}{73583}he'd have beat the hell out of me.
+{73607}{73656}But I loved him.
+{73689}{73729}I've never hit Rob.
+{73731}{73773}Ever. Not once.
+{73815}{73884}We never can find two words|to say to each other.
+{73967}{74018}Seems like everything's backwards.
+{74067}{74100}FRANK: That's us.
+{74102}{74199}CHAN: Frank, you need to build up|your stamina so we need to go for a big one.
+{74201}{74262}CHAN: 1 5 miles, OK?|FRANK: OK.
+{74264}{74358}CHAN: Have you been for a medical.|FRANK: Yeah, I got the all-clear.
+{74378}{74446}Why don't we just take a chance|and go down to Dover?
+{74448}{74505}It's a long way to go if we don't find somebody.
+{74507}{74599}You said yourself,|if we don't find a pilot, you can't swim.
+{74601}{74669}OK. OK. I'll go there later this week.
+{74671}{74746}I'll come for the ride.|Get a saver, should be cheap enough.
+{74748}{74857}Take Danny, too.|Make sure he brings his water wings this time.
+{75099}{75139}It said "apply thickly".
+{75170}{75219}EDDlE: Maybe we overdid it.
+{75556}{75605}- I'm sorry.|- Oh!
+{75607}{75647}Was it the lorry?
+{75649}{75706}But he swerved first. Lunatic!
+{75708}{75834}Mrs Redmond, you need to be more...|I'll let you go one more time.
+{76048}{76079}There.
+{76097}{76190}Right, I've just had a word with the barmaid.
+{76192}{76262}Apparently there is a guy that can do it.
+{76264}{76323}Goes by the name of Mad Bob.
+{76325}{76358}Mad Bob?
+{76387}{76435}He doesn't sound normal.
+{76437}{76506}He sounds frigging nuts. Is he here?
+{76508}{76552}You looking for a boat?
+{76575}{76659}- We might be.|- Either you are or you're not.
+{76717}{76741}We are.
+{76743}{76820}- So it's you that's going to be swimming?|- Mm-hm.
+{76996}{77087}If you can't beat me,|you ain't the man to do the swim.
+{77106}{77155}And I ain't the man to take you.
+{77227}{77278}I take it you're Mad Bob?
+{77503}{77535}We go on three.
+{77656}{77680}One...
+{77710}{77752}..two...
+{77775}{77791}three!
+{77816}{77875}BOB: 850 the crossing. 200 deposit.
+{77877}{77918}No refunds.
+{77920}{77978}But we get to see your boat?
+{77980}{78010}What for?
+{78012}{78071}We get to see the boat.
+{78073}{78128}Righty-ho, you get to see the boat.
+{78187}{78231}Shark.
+{78233}{78266}35-footer.
+{78420}{78490}Fell off my bike. Two-wheeler.
+{78509}{78550}FRANK: Let's go.
+{78608}{78657}BOB: There she is.
+{78717}{78755}Is this yours?
+{78823}{78866}FRANK: It's all right.
+{78884}{78920}It's good.
+{78922}{78981}Yeah, very nice.
+{79006}{79065}CHAN: There you go, fellas.|FRANK: What date is it?
+{79067}{79122}EDDlE: 22nd June.|CHAN: Aye, it's the 22nd.
+{79124}{79218}NORMAN: Hang on. Is that a two or a five?|- You sure?
+{79220}{79269}Yeah, it's the 22nd.
+{79350}{79407}ROB: One...two...three!
+{79459}{79498}(Cheering)
+{79500}{79548}* Forthey are jolly good fellows
+{79550}{79609}* For they are jolly good fellows
+{79620}{79688}* For they are jolly good fellows
+{79690}{79739}* And so say all of us
+{79751}{79785}* And so say all of us
+{79787}{79841}- Where were you?|- Sorry, I got held up.
+{79843}{79902}- I'll get you some food.|- No, it's fine, I've...
+{79904}{79953}And a nice big piece of cake.
+{80034}{80093}- Were you waiting for me?|- They were.
+{80095}{80171}It's fine. It worked out better.|Come on, let's go crazy.
+{80173}{80222}(Shrieking)
+{80357}{80391}Hey!
+{80431}{80464}Here.
+{80466}{80516}So what did you get them?
+{80518}{80614}The kids? Since when did I do the shopping?|Your mother likes to get those things.
+{80650}{80711}You got them those racetracks.
+{80713}{80772}Mum still does that thing|where she signs the card
+{80774}{80840}and makes it look like you've signed it, too.
+{80943}{80984}How's the swimming coming on?
+{80986}{81056}I heard you are going to swim|the English Channel.
+{81195}{81266}- I didn't tell her.|- You were right not to.
+{81268}{81309}- Why?|- Because you heard wrong.
+{81340}{81424}I heard that Danny parked Merv's boat|halfway up the beach
+{81426}{81498}and that you are planning|to swim the Channel this summer.
+{81500}{81554}Danny gets carried away.
+{81708}{81765}- Saw you down the library.|- I like reading.
+{81767}{81824}- Saw you down the pool.|- I like swimming.
+{81845}{81865}What?
+{81918}{81977}I'm going to get some jelly|before it's all gone.
+{82184}{82240}You can have another go, can't you?
+{82242}{82306}I just can't seem to concentrate lately.
+{82307}{82409}- You told him at last, then?|- No, it's not that. It's...something else.
+{82454}{82503}I think he might be having an affair.
+{82602}{82641}But he's acting so odd.
+{82643}{82721}- I'm sorry, that's just daft. I mean...|- Well, there's Vera.
+{82723}{82757}(Michelle Iaughs)
+{82759}{82823}It's not funny.|She rang last week and...
+{82824}{82892}It's probably just got something|to do with the boat.
+{82894}{82952}- What boat?|- The boat.
+{82954}{83034}The lads are borrowing a boat|to help Frank swim the Channel.
+{83058}{83092}What channel?
+{83126}{83174}Thank you.
+{83842}{83892}- Nice.|- Mm.
+{83983}{84040}You know we were talking about buying a car?
+{84065}{84135}Hm, I fixed the wing mirror back on.
+{84153}{84242}Well, Michelle says|Arthur Hall is selling his Metro. It's red.
+{84269}{84339}- Thought we said a new car could wait?|- No, we didn't. You did.
+{84390}{84455}Well, we have to be careful|with the money from now on.
+{84457}{84532}Michelle says the insides are just like new.
+{84598}{84707}She also says you've been borrowing Merv's|boat to help you train to swim the Channel.
+{84709}{84821}The English Channel. And I was wondering|when you were thinking about telling me.
+{84953}{85033}I was also wondering how it is|we can't afford a new car
+{85035}{85134}but you can afford to pay for a boat|to show you the way to bloody France.
+{85208}{85319}I'd be worried about you trying to swim|all that way, Frank, if I wasn 't so angry.
+{85420}{85534}I've never asked you for anything, Frank.|But honesty was something I took for granted.
+{86792}{86858}Well, look who it is - the three wise monkeys.
+{86860}{86962}Rob, your dad's got a few more lengths to do.|Why don't we wait for him outside?
+{86964}{87047}I know about his little secret.|I just want to talk to him, all right?
+{87049}{87073}- Come on.|- Eddie...
+{87075}{87099}Hey!
+{87257}{87306}You're a liar, Dad.
+{87333}{87403}You lied to me about swimming the Channel.
+{87473}{87528}- Maybe I did.|- Why?
+{87612}{87676}- Is it because I don't have a job?|- It's not about you.
+{87678}{87771}Because I look after the twins?|I'm not ashamed of that, Dad.
+{87773}{87831}I'm not ashamed like you think I should be.
+{87833}{87893}Good. You're not ashamed.
+{87895}{87944}No, but you are.
+{87996}{88045}You're the one who's ashamed!
+{88081}{88149}- I'm not listening to this.|- Why? What are you afraid of?
+{88151}{88215}Afraid I'll drown? Look at me, I'm drowning.
+{88375}{88412}36 years.
+{88423}{88470}36 years.
+{88472}{88536}1 2 hours a day, five days a week.
+{88537}{88642}Now you tell me,|when was I supposed to go shopping?
+{88844}{88893}(Coughs)
+{89624}{89678}He'll be OK. Just needs time to cool off.
+{89696}{89752}We need to make sure you keep up the times.
+{89754}{89807}- No.|- What?
+{89809}{89833}No.
+{90048}{90091}- I can't do it.|EDDlE: But, Frank...
+{90093}{90137}I can't do it.
+{90164}{90230}FRANK: He's right.|- Come on, Frank. Come on.
+{90232}{90286}I'm not going to be swimming.
+{90831}{90880}(Turns engine off)
+{90905}{90959}Your father didn't mean to hurt you.
+{91069}{91118}I was married once.
+{91203}{91260}Her name was Bridget.
+{91262}{91319}She left me for a jam salesman.
+{91361}{91423}She never even liked jam.
+{91520}{91579}I didn't bother with women again after that.
+{91581}{91647}I was too scared|the same thing would happen all over.
+{91679}{91756}If anyone tried to get close,|I just pushed them away.
+{91858}{91944}Your father did the same thing with you|after the accident.
+{91946}{91983}Pushed you away.
+{92027}{92073}He blames me.
+{92101}{92151}No, he doesn't.
+{92153}{92215}He blames himself. Always has.
+{92335}{92411}Now you're soaking the seat|and it's leather. It'll stain.
+{93641}{93683}All that way, Frank.
+{93914}{93962}I thought we were too old for secrets.
+{94072}{94129}Like learning how to drive a bus?
+{94421}{94485}There was an ad in the paper.
+{94522}{94571}I failed twice.
+{94618}{94693}But I'm going to take it again.|I'm not giving up.
+{95413}{95462}Let's just play when it smashes.
+{95485}{95556}All right, you ready?|You take that one, all right?
+{95849}{95911}ANGELA: We're not catching the train, James.
+{95913}{95992}There's no point in racing,|I've got the keys, remember.
+{96115}{96174}- (Whispers) Pappy?|- Sh!
+{96215}{96286}- Are you playing a game?|- Yeah.
+{96288}{96370}ANGELA: Don't make me come back out.|- You better go inside.
+{96483}{96541}- Is it a secret?|- Yeah.
+{96543}{96591}Like Daddy's wee brother?
+{96631}{96724}He says we mustn't talk about him.|That it makes you sad.
+{96742}{96788}Does it make you sad?
+{96815}{96865}Sometimes.
+{96914}{96970}- I won't tell.|- Good boy.
+{97073}{97120}Are you going to swim the Channel?
+{97164}{97226}I don't know. What do you think?
+{97228}{97279}Dad says it's too dangerous.
+{97364}{97414}What is the Channel?
+{97416}{97514}It's the sea between England and France.
+{97565}{97618}Are there any...sharks?
+{97620}{97665}No sharks.
+{97667}{97740}- Crocodiles?|- Mm-mn.
+{97742}{97795}- Piranhas?|- Bananas?
+{97797}{97877}- Piranhas?|- Piranhas!
+{97879}{97931}No, no piranhas.
+{97933}{97995}It doesn't sound too dangerous to me, then.
+{97997}{98046}ANGELA: I'II count to five.
+{98307}{98361}I can swim like a fish.
+{98616}{98692}ANGELA: Are you stopping out here all day|or are you coming in?
+{99525}{99589}Hey, big man, you not swimming?
+{100210}{100234}Yes!
+{100356}{100420}That's 5 Pounds you owe me. I told you he'd be here.
+{100573}{100614}We're the delegation.
+{100645}{100693}A delegation?
+{100695}{100791}- It's a kind of a gang.|- Thanks for that, Danny.
+{100871}{100924}Does the delegation have a proposal?
+{100926}{100972}EDDlE: Yeah.
+{100974}{101019}We think you're wrong to give up.
+{101021}{101070}Now we've come this far.
+{101104}{101189}- We also think you're a big daft bollocks...|- See him?
+{101191}{101237}See that little laddie with red hair?
+{101297}{101385}It takes everything out of him|just to swim one width. Just one.
+{101431}{101519}He won't take any help and he never gives up.
+{101545}{101577}Ever.
+{101696}{101764}- And when he gets to the other side...|- Yes!
+{101855}{101904}I'm not giving up.
+{102395}{102438}That toilet needs cleaning again.
+{102584}{102618}Do it yourself.
+{102954}{103000}He's on his knees and she's...
+{103002}{103051}Take it steady.
+{103069}{103126}All right, ladies? Pam.
+{103128}{103181}- Oh, my God!|- All right, love?
+{103206}{103274}- You nearly finished?|- Uh-huh.
+{103276}{103325}Only I thought we might go out.
+{103357}{103399}You mean together?
+{103529}{103616}Oh, aye. You and me. Me and you.
+{103790}{103819}Excuse me.
+{103851}{103895}Please don't drop the bags.
+{103897}{103928}They split.
+{103952}{103986}Oh, aye?
+{104017}{104058}Sorry, pal.
+{104200}{104283}- See you Wednesday.|- See you Wednesday.
+{104602}{104634}I nearly drowned.
+{104636}{104695}- We heard.|- In the sea.
+{104697}{104793}- What were you doing in the sea?|- I don't know.
+{104795}{104835}Do you want to go out with me?
+{104904}{104937}Yeah!
+{104939}{104987}Good.
+{104989}{105028}That's good.
+{105077}{105124}Happy days.
+{105394}{105437}(Shipping forecast on radio)
+{105532}{105588}You smell of chlorine.
+{105590}{105651}Like Dad when he was laid out.
+{105737}{105802}He used to smell of oil and Woodbines.
+{105895}{105944}I was 1 6.
+{105980}{106037}You came round to talk to Dad about something.
+{106073}{106131}I couldn't believe how handsome you were.
+{106368}{106422}I'm learning to drive a bus.
+{106440}{106517}And then, if I pass, I'm going to drive a bus.
+{106544}{106602}It'll be my job, a proper job.
+{106641}{106690}Driving a bus.
+{106751}{106800}I'm going up.
+{106825}{106900}So should you. You have a big day tomorrow.
+{107856}{107914}Thanks for the sandwiches.
+{107932}{107971}Good luck.
+{107973}{108091}That...time when I came to see your father...
+{108112}{108143}I didn't.
+{108193}{108237}I came to see you.
+{108426}{108478}DANNY: I spy with my little eye...
+{108480}{108548}- You'll never get this. A.|FRANK: Air freshener.
+{108550}{108584}EDDlE: Ambulance.|- No.
+{108586}{108638}- You might get it, Norman.|NORMAN: Why?
+{108640}{108713}Because you're nearer it.|You could say you're on it.
+{108715}{108758}- I'm on it?|- Kind of.
+{108760}{108793}EDDlE: Arse.|- No.
+{108795}{108856}You'd have that as well.|Unless it was Norman's arse.
+{108858}{108935}NORMAN: Leave my arse out of this.|DANNY: And that would be N-A.
+{109781}{109830}(Gulls cry)
+{110071}{110135}- You OK with heights?|- Yeah.
+{110170}{110225}- You?|- Oh, yeah.
+{110227}{110276}- You sure?|- Mm-hm.
+{110352}{110442}FRANK: I was thinking about Joan.|I should have told her.
+{110496}{110545}Don't know what I was hiding.
+{110598}{110689}- Maybe we should leave him alone.|- Why? We should be there for him.
+{110691}{110783}- What if he doesn't want us there?|- Oh, you're as pig-headed as your father.
+{110785}{110880}Of course he wants us there.|He just doesn't know how to ask.
+{110882}{110962}- But he's not going to achieve anything by it.|- How do you know?
+{110964}{111060}Because he's not going to bring Stuart back|by swimming the Channel.
+{111108}{111162}Oh, Rob.
+{111164}{111235}It's not Stuart he wants back.
+{111338}{111372}I'm away.
+{111532}{111614}- Mum, thanks for the toys.|- It's OK.
+{111684}{111733}What toys?
+{111900}{111937}(Fart)
+{111939}{112018}DANNY: Better out than in, right?|EDDlE: For God's sake!
+{112050}{112127}NORMAN: One more of them|and you're sleeping in the car.
+{112129}{112176}(Sniggering)
+{112178}{112267}FRANK: I knew a guy once|could fart in German.
+{112269}{112318}(Laughter)
+{112601}{112647}You took your time.
+{112666}{112715}I'm sitting in the front.
+{112853}{112907}The observer fellow seems all right.
+{113090}{113148}Right, it's five o'clock. Let's get cracking.
+{113150}{113239}OK, don't forget, don't touch the boat|or anyone on it once you get going
+{113241}{113289}or it will invalidate your swim.
+{113291}{113334}When you get to France, get on dry land,
+{113336}{113392}pick up a stone and bring it back to the boat.
+{113394}{113437}OK.
+{113439}{113500}- Good luck.|- Thank you. Thank you.
+{113549}{113573}Well, go.
+{113575}{113623}- Good luck, mate.|- Good luck, Frank.
+{113625}{113677}Thanks, lads.
+{113679}{113708}Right.
+{113809}{113840}See yous.
+{113842}{113935}- You're not joining us?|- No, I don't float very well.
+{113937}{113987}Me, neither.
+{114057}{114081}OK.
+{114281}{114330}(Boat's engine starts up)
+{115608}{115665}Come on, Frank.
+{115667}{115711}That's the way.
+{116854}{116915}Ah, we'll be there in no time, Frank.
+{116958}{117007}It's a nice rhythm, that.
+{117046}{117118}One, two, three, four...
+{117150}{117243}I'm all right, Frank. I'm all right. Carry on.
+{117330}{117432}- You passed, didn't you?|- I thought you'd never ask.
+{117434}{117510}Well done, Mum.|Congratulations, that's brilliant!
+{117512}{117570}JOAN: I think we should celebrate|with a gum drop.
+{118038}{118106}- The fumes are killing me.|- I can't help that.
+{118159}{118223}I'm keeping this close to keep you on course.
+{118263}{118315}FRANK: I can't breathe.
+{118317}{118383}- I'll go ahead.|- Well, what bloody use will I be then?
+{118446}{118515}Stupid bastard. Bloody fool.
+{118707}{118771}TAPE: I am confident.
+{118772}{118854}- I am confident.|- I am a Iion.
+{118856}{118915}I am a lion.|I'm not a timorous beastie.
+{118917}{118970}I am a lion.
+{119437}{119492}EDDlE: He's doing great.|- No, he's not.
+{119494}{119569}At this rate he's not going to make it to the cap|before the ebb tide.
+{119571}{119636}And if he doesn't,|he's going to get swept back out to sea.
+{119638}{119687}- lsn't that being bleak?|- No, he's right.
+{119689}{119765}BOB: Look, I'II pick up the pace|and he's going to have to keep up.
+{119767}{119815}CHAN: Better do some hypothermia checks.
+{119817}{119859}Can we get closer to him?
+{119963}{120036}Frank, where are you swimming from?
+{120063}{120095}England.
+{120097}{120187}- Where in England?|- Dover.
+{120189}{120260}- What day is it?|- What?
+{120262}{120360}- What day is it?|- Thursday.
+{120362}{120397}He seems all right.
+{120713}{120759}Come on.
+{120761}{120855}I didn't think to ask|where in France he was swimming to.
+{120857}{120942}- There. That's where he's swimming to.|ANGELA: How do you know?
+{120944}{121001}- Pappy showed me.|- When did Pappy show you?
+{121003}{121048}I'm not telling you.
+{121161}{121215}BOB: How many times did you try it yourself?
+{121217}{121251}Three.
+{121253}{121320}- Did you ever make it?|- Third time lucky.
+{121572}{121621}(Gulls cry)
+{121645}{121695}There it is. Sortie - way out.
+{122203}{122260}- What is it?|- Ebb tide.
+{122297}{122379}BOB: It's dragging him back out.|EDDlE: What if he can't beat it?
+{122381}{122483}- Can't you do anything?|- He's in for the long haul.
+{122485}{122545}- He won't be able to last that long.|- Yes, he will.
+{122547}{122594}CHAN: His body temperature is dropping.
+{122596}{122660}If he doesn't make this beach,|he won't make it at all.
+{122702}{122740}EDDlE: Frank!
+{122742}{122807}You've only three miles to go, Frank.
+{122809}{122874}I know you're hurting,|but you got to swim faster.
+{122876}{122973}The tide's against you.|Frank, you've got to swim faster. Come on!
+{123150}{123202}You can do it, Frank.
+{123204}{123253}You can do it.
+{123475}{123524}(Gulls cry)
+{123875}{123914}(Yells in frustration)
+{123930}{124033}FRANK: Stay there! Stay there! Don't move!|Don't you move from there.
+{124035}{124058}(Whimpering)
+{124264}{124341}Stop that. Stop it!
+{124343}{124392}(Gulls cry)
+{124467}{124488}(Gasps)
+{124693}{124749}Come on, Frank, come on.
+{125614}{125630}No!
+{125658}{125700}Is he all right?
+{125702}{125734}(Yells)
+{125736}{125813}(Joan cries)
+{125815}{125862}(Yells)
+{125925}{125959}Bloody hell!
+{126412}{126479}I need to come out, lads.
+{126517}{126559}What do you think you're doing?
+{126561}{126642}Why don't you just take it slower for a wee while,|see if it passes?
+{126644}{126695}I'm sorry, Chan.
+{126697}{126747}I can't do it, mate.
+{126749}{126807}You're nearly there. Look it's not far.
+{126809}{126838}I can't do it.
+{126840}{126918}OBSERVER: Your body is hurting|because you're burning your fat.
+{126920}{126966}It won't Iast. You'II get through it.
+{126968}{127042}Yeah, Frank. It's just the pain barrier.|It's all in your mind.
+{127044}{127132}- Get me out! It's too far.|- Bollocks! It's always been this far.
+{127134}{127230}- You come in and swim it, then!|- Fine. Get on board and we all can go home.
+{127232}{127302}All my life I've looked up to you, Frank.
+{127304}{127338}All my life.
+{127340}{127428}- I never saw you back down from anything.|- It's too far.
+{127430}{127503}I'm nobody but you know that.
+{127505}{127571}But I'm not daft. I see what's going on here.
+{127606}{127655}Out here in the middle of nowhere.
+{127726}{127787}But he's not here, is he, Frank?
+{127820}{127869}He never was.
+{127910}{127969}It's taken you 23 years to find that out.
+{128086}{128120}So what now?
+{128190}{128239}Well, I'll tell you what now.
+{128271}{128371}You get back to swimming|and you shut up about how far it is.
+{128373}{128430}And you shut up about how much it hurts.
+{128432}{128498}Because you don't have a choice.|You never did.
+{128564}{128616}So, come on.
+{128618}{128672}Get stuck in and put some down.
+{128674}{128723}We're wasting time.
+{129008}{129057}I'll go on, then.
+{129244}{129273}ANGELA: It's him!
+{129290}{129333}No, I can't see for sure but...
+{129335}{129385}- Yeah, that's Frank!|JOAN: Let me see!
+{129894}{129950}Right there. Look. Can you see him?
+{130059}{130115}Come on. Let's go.
+{130117}{130161}Come on, I need to be there, Mum.
+{130163}{130213}Come on, Mum!
+{130215}{130249}My God!
+{132872}{132966}If he touches him before he gets out of the water|the swim won't be recognised.
+{132968}{133063}- Don't, Rob!|- Don't touch him!
+{133065}{133081}Frank!
+{133126}{133177}Let him get out the water!
+{133663}{133704}What's he want?
+{133983}{134027}Oh, God!
+{134438}{134468}What?
+{134504}{134561}Did I miss something?
+{134642}{134689}- Yes!|- Yes!
+{134756}{134785}Yes!
+{134838}{134887}Come on.
+{135430}{135485}DANNY: We did it! We swam the Channel!
+{135727}{135761}Norman!
+{135795}{135844}I took the ferry.
+{135928}{135992}Get the stone. Get the stone.
+{135994}{136035}Pick up a stone.
+{136037}{136081}Yes!
+{136137}{136237}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<

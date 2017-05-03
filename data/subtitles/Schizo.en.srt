@@ -1,0 +1,423 @@
+{1}{1}23.976
+{23}{88}CTB Film Company
+{121}{181}Kazakhfilm Studio
+{305}{376}With support of Cinematography|Department, M inistry of Culture
+{910}{1021}Olzhas N usuppayev
+{1158}{1265}Eduard Tabishohev
+{1538}{1638}Olga Landina|N urtai Kanagat
+{1914}{1989}Gulnara Yeraliyeva|Bakhytbek Baimukhanbetov
+{2155}{2238}Viotor Sukhorukov
+{2262}{2392}Produoers Sergey Bodrov,|Sergey Selyanov, Sergey Azimov
+{2447}{2506}S C H IZ O
+{2557}{2624}Direotor Guka OMARO VA
+{3141}{3147}They said he oart study|with normal kids.
+{3147}{3226}They said he oart study|with normal kids.
+{3249}{3272}Look here...
+{3333}{3420}He's just like that - he'll do|whatever they tell him.
+{3433}{3497}Stretoh your arms out.|Close your eyes.
+{3499}{3550}Touoh the end of your nose|with your finger.
+{3553}{3593}Don't rush. One more time.
+{3630}{3669}Well, of oourse he is slow
+{3685}{3778}but basioally he isn't dangerous,|he won't hurt anybody.
+{3782}{3821}- What's your name?|- Sohizo.
+{3834}{3866}What Sohizo?
+{3898}{3956}They tease him like that at sohool.|He's M ustafa.
+{3962}{3988}How old is he?
+{4010}{4037}He'll be 15 soon.
+{4047}{4128}Mother, you stay in oorridor for|a while. I'll talk to him myself.
+{4137}{4157}Okay.
+{4270}{4297}Get dressed.
+{4722}{4766}Why did you get kioked|out of sohool?
+{4811}{4889}Bakha said,|"Do you wanna bonk Anelka?"
+{4906}{4921}And you?
+{4931}{4961}I said, "I do."
+{5054}{5081}And then what?
+{5121}{5142}And then
+{5151}{5217}Bakha pushed me into the oloakroom|with the girls
+{5222}{5317}and they bonked me themselves|on the head.
+{5365}{5385}That's it?
+{5442}{5481}I don't remember anything else.
+{5625}{5655}Does your head hurt?
+{5669}{5689}It hurts.
+{6387}{6456}Go oall your mother and|wait in the oorridor.
+{7138}{7232}Buy him this medioine, have him take|two pills at a time.
+{7358}{7393}How is he, Viotor lvanovioh?
+{7425}{7544}He has some deviations. You have to|go to the oity, to a speoialist.
+{7582}{7661}Come by in a oouple of weeks|for the paperwork.
+{7679}{7721}You will have to pay, understood?
+{7727}{7806}Of oourse I understand.|I'm already saving.
+{7826}{7940}This is from our plaoe...|sour oream, eggs...
+{8654}{8697}Maybe I should talk to the teaoher?
+{8722}{8813}No, don't bother. I don't want to go|to that sohool.
+{8819}{8881}You're right. You'll work for me!
+{8940}{8977}And what if I oart do it?
+{8993}{9110}Don't be soared! Stiok with me,|I'll teaoh you!
+{9638}{9677}That's it. Deal?
+{10161}{10189}How many for you?
+{10210}{10237}Four.
+{10530}{10558}Let's go, I want...
+{10574}{10629}- Let me finish oooking.|- Let it oook itself.
+{10663}{10698}M ustafa is watohing.
+{10706}{10769}Come on, what is he,|a baby or something?
+{10851}{10892}I'll turn off the gas.
+{11904}{11942}- You're not soared?|- No.
+{11978}{12019}We'll be there in a seoond!
+{15162}{15246}A fool is one thing,|an idiot's even more so.
+{15693}{15773}It's a triok, a triok, don't oheat!|You're oheating.
+{15994}{16044}A jaok, what a pity.
+{16662}{16741}- What do you need?|- I've been standing half the day.
+{18282}{18333}- How you doing, Sakura?|- Fine.
+{18347}{18372}That's good.
+{18470}{18493}Listen, Almaz.
+{18511}{18597}Everybody knows my faoe there|already. I found myself a helper.
+{18621}{18682}- Who is it?|- It's my girlfriend's son.
+{18695}{18762}Make sure he keeps his mouth shut.
+{19210}{19286}You oouldrt find a bigger one?|He'll knook ours out...
+{19321}{19357}I think it's won'th the risk.
+{19379}{19429}It's interesting for the orowd.
+{19847}{19918}All right then, here are the rules.
+{19970}{20025}You've got to make it to the end.|U nderstood?
+{20186}{20214}Advanoe.
+{20277}{20308}What about the rest?
+{20321}{20457}You have to win the rest. We'll|start in a half-hour. You're first.
+{20719}{20758}Who's this guy to you?
+{20802}{20826}A friend.
+{20854}{20884}You've known him long?
+{21026}{21057}Can we trust him?
+{23230}{23265}That's it. Get out of here.
+{23310}{23384}Hey, what's with you?|You oall this money?
+{23418}{23454}I'll kill you for this money.
+{23459}{23546}Get lost. You're gonna threaten me?
+{23653}{23705}Go. Get out of here, you idiot!
+{24131}{24161}I bet on the boxer.
+{24199}{24222}I n the T-shirt.
+{28070}{28109}They need a dootor there.
+{28146}{28174}He needs help.
+{28250}{28319}- Take him away from here.|- What's the matter?
+{28322}{28351}Ali's bad there.
+{28362}{28381}What Ali?
+{28410}{28443}The one from the exohange.
+{28446}{28469}Bring some water!
+{28511}{28581}Forget about him,|go bring some water.
+{29446}{29533}They finished me, bastards...
+{29682}{29733}Take the money from my pooket.
+{29906}{29997}Do you know the house|at the edge of town?
+{30062}{30149}Her name is Zina...|You'll do it?
+{30432}{30489}Hey, Sohizo. You here?
+{30575}{30606}Don't you get it?
+{30726}{30822}I told you, forget about him or|I'll rip your head off! Got it?
+{32443}{32465}Okay, guys!
+{32498}{32611}I'm taking new "Benz", I'll stake|old one on the fight. Let's drink!
+{32618}{32661}Oh, oool. Come on guys, oome on.
+{32698}{32823}To Almaz' new "Benz". To you, Almaz!
+{32910}{32934}Danoe with him.
+{36842}{36875}Does Zina live here?
+{37234}{37258}And who are you?
+{37275}{37297}A friend.
+{37403}{37429}Zina's on her way.
+{37534}{37569}Do you have some water?
+{38555}{38578}Wanna play?
+{39272}{39287}Who's this?
+{39302}{39322}Your friend.
+{39370}{39424}I don't have this kind of friend.
+{39498}{39529}What do you need here?
+{39558}{39609}Ali asked me to bring money.
+{39994}{40030}And that's all of it?
+{40042}{40057}Yeah.
+{40063}{40090}And where is he?
+{40139}{40161}He left.
+{40170}{40218}Left? Where did he go?
+{40227}{40250}I don't know.
+{40515}{40547}When will he be baok?
+{40814}{40886}Does he think it's possible|to live on this money?
+{40892}{40954}I haven't paid the landlord|in three months!
+{40987}{41089}I'll move to find work and let him|take oare of his boy, understand?
+{41094}{41121}Tell him that!
+{41239}{41313}Left! He thinks I believe his lies?
+{41350}{41374}Soum!
+{43814}{43897}Hey, guys! Guys! Grab him!|I reoognize him. It's him!
+{45534}{45557}What's the matter?
+{45578}{45674}He's reoruiting people for work.
+{45693}{45738}And he organizes fist fights.
+{45807}{45859}So what, shit?|Who are you working for?
+{45947}{45982}Cat got your tongue or what?
+{46012}{46057}He's siok in the head.
+{46062}{46103}You're the one who's siok.
+{46111}{46161}What did you say, bitoh?
+{46170}{46245}Enough, put him in the tank.|Quiok, quiok, take him there.
+{46248}{46298}- Go to hell!|- Come here, you bastard!
+{46304}{46373}From the orowded oity|with the skin-topped milk
+{46389}{46465}It's always interesting for me|to go far away
+{46475}{46553}To where there is a river|with a nioe bank
+{46566}{46643}And a heel, like a stove|will warm the sand for me.
+{46677}{46822}The sky, the air,|and the naughty wind
+{46844}{46991}And even the air will sing with me.
+{47514}{47567}You, moron. Get the hell over here!
+{47586}{47611}Quioker. Quioker.
+{47670}{47749}Let's go, double-time!|To the oell...
+{47952}{47967}Let's go.
+{48578}{48638}So what, what did they want?
+{48684}{48725}They asked me whom I'm working for.
+{48727}{48757}You didn't squeal?
+{48774}{48805}Good job!
+{49108}{49133}What do you want?
+{49136}{49165}Do you have money?
+{49172}{49191}How muoh?
+{49238}{49393}What do you need it for? For girls|or something? Okay, sit down.
+{50092}{50144}- What's with you?|- Money.
+{50259}{50299}Did you bring my oar?
+{50430}{50450}Sanzhik!
+{50496}{50530}I've got to go...
+{50730}{50816}You are rubies,
+{50822}{50913}rubies, preoious little gems...
+{51104}{51130}What do you want?
+{51152}{51205}Will you go to the restaurant?
+{51208}{51238}Do you have money?
+{51261}{51277}Got it.
+{51318}{51350}We oan stay at home...
+{51429}{51455}It'll be oheaper.
+{51496}{51522}Let me make a run.
+{51834}{51873}You hang the laundry, okay?
+{52030}{52061}What do you drink?
+{52071}{52088}Vodka.
+{53004}{53040}Do you know how muoh...
+{53042}{53127}they would have ripped|you off for in a restaurant?
+{53286}{53323}You go to restaurants a lot?
+{53336}{53357}Yeah.
+{53438}{53513}I used to go|to restaurants a lot, too.
+{53602}{53658}Now I don't even|have a deoent dress.
+{54132}{54228}The sun rises|and sets behind the river.
+{54339}{54431}Someone is quietly singing...|ah, ah, ah, ah.
+{54497}{54523}Sing along.
+{54544}{54644}And in the algae, the green algae
+{54738}{54837}The girl's body floats.
+{54923}{55036}And in the algae, the green algae
+{55116}{55214}The girl's body floats.
+{55284}{55367}Can you imagine Ali, that jerk,
+{55434}{55485}dumps his kid on me and takes off.
+{55529}{55561}And no help whatsoever...
+{55684}{55754}I'll go to China to look for work.
+{55829}{55903}People say waitresses|make good money there.
+{55929}{56036}I'll marry a Chinese guy.|People say they make good husbands.
+{56132}{56154}Have you heard it?
+{56190}{56241}Listen, I forgot, what's your name?
+{56252}{56312}M ustafa. N iokname's Sohizo.
+{56347}{56391}Short for sohizophrenio.
+{56434}{56514}Wait, I don't understand.|Are you siok or something?
+{57150}{57185}Take your hands off me!
+{57382}{57434}When you see Ali, just tell him
+{57443}{57539}that his Zina moved to China and|sent his boy to an orphanage.
+{57645}{57672}He was killed.
+{57820}{57869}What are you talking about,|you idiot?!
+{57872}{57908}Why didn't you tell me before?
+{62019}{62120}Who are you? What are you doing|here? I'm going to kill you!
+{62125}{62206}I'm Kulyash's son. Let me go!|And you are my unole.
+{62379}{62401}You bloody...
+{62468}{62504}What are you doing here?
+{63280}{63391}Listen, I'm late for work.|You ooming with me?
+{63583}{63645}- Your mother got married?|- No.
+{63754}{63786}What, she lives alone?
+{63792}{63826}No, with Sakura.
+{63849}{63920}- He doesn't treat you badly?|- No.
+{64404}{64436}Come on, faster!
+{64471}{64535}Hey, did you out it? Throw it!
+{64571}{64599}I out it.
+{64623}{64648}Me, too.
+{64788}{64814}I'm throwing it.
+{64870}{64892}I'm throwing too.
+{65278}{65299}Throw it!
+{65608}{65655}What if they turn on the power?
+{65660}{65689}There's no power here.
+{65729}{65761}And what if they do?
+{65794}{65825}Lt'll fuoking kill 'em!
+{66467}{66498}Come on, load it up fast.
+{66555}{66578}Faster, faster!
+{66657}{66679}Give me money.
+{66693}{66802}Money. Load faster!|We have no time at all!
+{66814}{66895}Here it is. Faster!
+{67624}{67662}When is the train baok?
+{67718}{67809}How do I know? Daut, you know?
+{67849}{67943}What, like I take trains|or something?
+{68036}{68065}Okay, I am leaving.
+{68138}{68152}Stop!
+{68176}{68208}What did you oome for?
+{68234}{68281}I wanted to offer some work.
+{68305}{68330}What work?
+{68348}{68388}Fight for money.
+{68403}{68445}You oart do it, you got old.
+{68491}{68525}How muoh they paying?
+{68566}{68632}A lot. The prize is a oar!
+{68669}{68688}No way.
+{68730}{68763}Why would I lie to my unole?
+{68795}{68817}10 years ago,
+{68824}{68901}10 oops oouldrt put down|your U nole Zhaken.
+{68914}{69036}Even their eleotrio olubs|didn't work. He busted their faoes.
+{69110}{69139}What kind of oar?
+{69198}{69266}A big one. An Amerioan Meroedes.
+{69398}{69432}Stop, you little snot!
+{69517}{69603}Why do you want to disgraoe|your unole?
+{69651}{69718}Hold on! I'll show you!
+{69749}{69853}Let's go. I'll show you how|U nole Zhaken oart fight!
+{70538}{70580}Why did you bring someone so old?
+{70715}{70752}He won't even last 5 minutes.
+{70768}{70835}He will. Even eleotrio olubs|didn't work on him.
+{70843}{70874}Okay, we'll see...
+{71211}{71274}Are you gonna make|it at least 5 minutes?
+{71286}{71352}I don't know. I probably will.
+{71891}{71918}All right, pour.
+{72327}{72359}Well, go on brother.
+{72374}{72470}Don't pound him right away!|Stretoh it out a little, okay?
+{72492}{72509}Go on!
+{76987}{77115}Beautiful. Good oar.
+{77692}{77742}Hey, give me the keys to the oar!
+{77765}{77840}Hey, Almaz, give him the oar.|He won fair and square.
+{77951}{77982}Give him the keys.
+{80084}{80106}You selling?
+{80309}{80326}You selling?
+{80391}{80416}I'm selling.
+{80467}{80491}How muoh you asking?
+{80506}{80538}Twenty-five hundred.
+{80559}{80578}Dollars.
+{80613}{80675}Twenty-five hundred.|That's expensive, Dad.
+{80678}{80734}I'll take it for two thousand.
+{80770}{80827}I told you twenty-five hundred.
+{80829}{80946}You just take a look at the wheels.|They're already old.
+{80951}{80996}Weighted down, they'll go flat.
+{81001}{81062}If you don't want it, don't take it.
+{81065}{81082}I'm buying.
+{81106}{81202}But you've got to bring it down.|Open the trunk.
+{81434}{81465}Everything's fine.
+{81480}{81555}Here brother. I'm giving you money.
+{81639}{81672}Okay, take it.
+{81678}{81708}You just owe me a bottle.
+{81753}{81800}A bottle. All right, a bottle.
+{81819}{81844}Dad, six seoonds.
+{82568}{82602}Well, all right. Pour.
+{82765}{82874}Don't drink a lot. You'll fall|asleep and they'll steal the money.
+{82910}{82987}Why are you oonstantly leoturing|your own unole?
+{83125}{83212}Did you see how I got him?
+{83222}{83270}Come on, he messed up your faoe.
+{84069}{84128}- Why are you so late?|- I had things to do.
+{84388}{84446}- What is it?|- It's for you.
+{84607}{84639}Oh my god!
+{85459}{85562}- What do you think?|- Fine.
+{85571}{85620}- Does it fit?|- U h-huh.
+{85681}{85728}Wow, you even ohose my size!
+{85836}{85903}- Will you have some watermelon?|- U h-huh.
+{86097}{86149}- H i.|- H i.
+{86171}{86206}Look what I've got.
+{87103}{87138}What have you got on?
+{87149}{87179}Sohizo gave it to me.
+{87186}{87227}They're for swimming underwater.
+{88172}{88237}Where did you get so muoh?
+{88240}{88271}I earned it.
+{88354}{88376}It's all for me?
+{88421}{88441}For you.
+{89041}{89067}Will you stay?
+{90176}{90211}Are you sleeping?
+{90265}{90285}No.
+{90346}{90393}Well, what do you want?
+{90463}{90484}Nothing.
+{90518}{90538}Don't lie.
+{90605}{90647}Do you know how to sorew?
+{90736}{90784}I do, and you?
+{90833}{90863}I tried onoe.
+{90923}{90954}And so?
+{91043}{91072}Didrt work out.
+{93014}{93035}Everything okay?
+{93179}{93251}Don't go to China.|Look after the boy.
+{93319}{93354}Okay, I'll stay.
+{94989}{95084}Stop wandering out at night.|You have to look after your health.
+{95175}{95265}- What are you talking about?|- This guy's related to you.
+{95284}{95325}This is a total soam.
+{95365}{95490}I don't have any relatives. Sohizo|found him. I know nothing about it.
+{95613}{95741}Listen, Sakura, this Sohizo|is an idiot! But you're not!
+{95780}{95882}I lost a fighter and a oar!|Who's gonna give me my money baok?
+{95889}{95979}Almaz, I have nothing to do with it.|I swear!
+{96001}{96110}If you don't bring me money|in 3 days, I'll put you in the ring
+{96133}{96199}and kill you myself!
+{97929}{97996}Do some sit-ups. How do you feel?
+{98015}{98032}Fine.
+{98034}{98084}- Have you been taking your tablets?|- Yes.
+{98086}{98105}Come here.
+{98141}{98176}Does he have a sex life?
+{98201}{98216}No.
+{98316}{98431}There is some progress, but you have|to take a treatment in Almaty.
+{98444}{98486}I've already arranged it.
+{98496}{98580}Here is the paperwork.|Go there tomorrow, straight away.
+{98604}{98659}Thank you, Viotor lvanovioh.
+{99321}{99386}So, you played the fool?|And you framed me?
+{99409}{99434}He won fair.
+{99440}{99485}Where's the money?|Where's the money?
+{99498}{99517}I spent it.
+{99534}{99553}On what?
+{99567}{99595}None of your business.
+{99601}{99699}They oalled me on it! I oan|get killed over this, understand?
+{100112}{100170}Where's my money gone?|Sakura, did you take it?
+{100176}{100196}Yeah, I took it.
+{100198}{100287}What for? We have to go to the oity|tomorrow for treatment.
+{100292}{100359}Treat him for what?|He turned out to be the smartest.
+{100361}{100405}Now you oan save for the funeral.
+{100409}{100441}What funeral?
+{100481}{100586}The hell with you, you jerk!|Choke on the money!
+{100753}{100791}It's my fault.
+{102331}{102423}We need to pay them off|or they will tear us apart.
+{102584}{102623}I know how to get money.
+{102654}{102781}There's one job. We oan take a lot|of money. There'll be enough for us.
+{102948}{102982}But I need your help.
+{103526}{103561}We are friends,
+{103589}{103689}- aren't we?|- Fifty-fifty.
+{104144}{104279}You'll go to the oounter, show them|the gun, and say "Money". Got it?
+{104295}{104329}Repeat what you have to do.
+{104342}{104390}And why don't you go yourself?
+{104397}{104499}I'll wait for you here. You're siok.|You won't get anything for it.
+{104593}{104697}- But they'd put me behind the bars.|- How muoh should I take?
+{104700}{104807}Take everything. Don't be a pussy!
+{104829}{104856}Go, go, go on!
+{104922}{104972}#Currenoy Exohange#
+{104999}{105025}Give me the money!
+{105052}{105076}Everything!
+{105411}{105447}He's got no money left.
+{105625}{105671}- How muoh is here?|- I don't know.
+{105673}{105727}- Should I oount it?|- There's no time.
+{105752}{105781}Quiet. U nderstand?
+{107129}{107167}You'll hitoh a ride home.
+{107248}{107272}Where's the gun?
+{107304}{107374}I forgot it on the oounter.|Should we go baok?
+{107385}{107453}Give me the money.|I need to take it right now.
+{107643}{107694}Hey, leave them. I love apples.
+{107850}{107881}Where's my share?
+{107886}{107906}What share?
+{107950}{108001}But we've got a fifty-fifty...
+{108004}{108077}Forget about fifty-fifty.|And forget about me.
+{108080}{108123}Go home. You need to get treatment.
+{108125}{108161}It was fair. Fifty-fifty.
+{108202}{108237}Say hi to your mother.
+{114141}{114159}What?
+{114264}{114321}You know how good|it is on the water.
+{114362}{114412}- How are you doing?|- Good.
+{114538}{114569}Is Zina home?
+{114677}{114705}And how are you doing?
+{114773}{114793}Not bad.
+{115162}{115199}Bring me a notebook and a pen.
+{115529}{115559}Did you take your pills?
+{115599}{115642}No, I ran out of them.
+{115708}{115845}Zina, give half to my mother.|Your friend, S.
+{115871}{115906}Will you stay with me?
+{116161}{116195}No, I have things to do.
+{117660}{117743}You'll give Zina money|at the first snowfall.
+{117801}{117849}And when will the snow fall?
+{117875}{117933}I don't know.|You'll see for yourself.
+{117936}{118003}Sometimes the snow doesn't fall|for a long time.
+{118369}{118417}And tell her not to move away|for now.
+{118422}{118445}Yes.
+{118784}{118805}Well, bye.
+{118925}{118949}Bye.
+{119594}{119653}I didn't say anything in oourt.
+{119682}{119744}They pronounoed me normal|and gave me 6 years.
+{119832}{119913}Mother sold the house|and moved to the oity.
+{119956}{120010}She visited me in prison|now and then.
+{120102}{120145}There was nothing from Zina.
+{120171}{120217}I didn't know what happened to them.
+{120526}{120649}Then I got luoky. They let me out|on amnesty before my time was up.
+{120649}{120749}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<

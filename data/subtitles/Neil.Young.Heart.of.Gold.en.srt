@@ -1,0 +1,929 @@
+{100}{250}Subrip: Krzysiek  - jarzyna
+{1640}{1677}{y:i}In the morning
+{1680}{1781}{y:i}when I wake up and listen to the sound
+{1807}{1900}{y:i}Of the birds outside on the roof
+{1979}{2075}{y:i}I try to ignore what the paper says
+{2131}{2237}{y:i}And I try not to read all the news
+{2299}{2416}{y:i}And I'll hold you if you had a bad dream
+{2453}{2570}{y:i}And I hope it never comes true
+{2627}{2743}{y:i}'Cause you and I been through|{y:i}so many things together
+{2782}{2883}{y:i}And the sun starts climbing the roof
+{2948}{2995}{y:i}It's a dream
+{2998}{3065}{y:i}Only a dream
+{3106}{3167}{y:i}And it's fading now
+{3242}{3293}{y:i}Fading away
+{3329}{3388}{y:i}Only a dream
+{3433}{3478}{y:i}Just a memory
+{3480}{3509}{y:i}without anywhere
+{3512}{3602}You come here to make a record,|and you got great musicians...
+{3605}{3674}you know, and I always gather|my own friends around...
+{3676}{3718}that I pick, you know, to play.
+{3721}{3831}I don't really go|for the studio musician guys that much.
+{3835}{3910}You know, I don't come in and say,|"Get me this," and "Get me that."
+{3913}{3964}But I have my own band.
+{3966}{4044}And I like to play on the road|with the same band I use in the studio.
+{4046}{4119}I've been working with Neil for 35...|Since '70.
+{4178}{4296}And we cut "Harvest" here in Nashville.|He was doing "The Johnny Cash Show..."
+{4298}{4377}and he showed up at that studio,|Quadrafonic...
+{4379}{4434}down on Grand Avenue, I think.
+{4453}{4550}And he wanted to do some music...
+{4553}{4632}that he'd written recently,|and this was in the '70s.
+{4653}{4715}And he stopped...
+{4718}{4776}One of the engineers|stopped a bass player...
+{4778}{4826}who was walking down the street...
+{4828}{4917}and said, "You wanna come in|and do some music with Neil Young?"
+{4919}{4972}And he said, "Sure." So he came in.
+{4974}{5030}It was Tim Drummond,|was the bass player's name.
+{5054}{5138}And they asked him|if Neil wanted a steel guitar player...
+{5141}{5199}and I lived about two blocks|down the street.
+{5234}{5311}And so he called me up,|and I came down...
+{5314}{5378}and they were|already recording at the time...
+{5382}{5461}and I set up my steel|and kind of snuck in there...
+{5463}{5529}and started playing.
+{5545}{5656}And we did five songs before we ever|stopped and introduced ourselves.
+{5672}{5757}My family used to drive up|from Birmingham, Alabama area.
+{5822}{5871}And we would go...
+{5874}{5926}Try to make it up|at least once a month...
+{5929}{5990}but a lot of times we made it up|twice a month...
+{5993}{6067}to come to the Ryman|to see the Grand Ole Opry...
+{6070}{6182}and have "breakfast with the stars" as|they said down on Broadway back then.
+{6203}{6293}It was a little radio show that...
+{6297}{6354}the people that was gonna go|to the Ryman that night...
+{6356}{6428}could go down and eat breakfast|with all the people...
+{6436}{6520}that were sober enough|the next morning...
+{6535}{6575}to have breakfast.
+{6578}{6640}I've performed at the Ryman one time...
+{6642}{6699}with my songwriting friend Dan Penn.
+{6704}{6798}And we were invited to play with...
+{6800}{6889}They called it the Legendary|Songwriter's Series or something...
+{6894}{6938}and that was a lot of fun, you know.
+{6941}{7023}And that place has great acoustics,|I think.
+{7026}{7058}You know, it's just...
+{7076}{7133}You can crank it out|without trying too hard.
+{7135}{7217}A lot of, you know, the volume carries|real well there, seem like.
+{7219}{7274}The Ryman Auditorium,|there's such a vibe in there.
+{7285}{7373}There's this sound in there|that is unlike any other place.
+{7421}{7493}And that's really nice|because some places...
+{7496}{7558}you come,|and they sound like a big tin can.
+{7561}{7594}And there is something about it.
+{7597}{7647}Obviously,|there's a lot of stories in this building.
+{7650}{7694}And I'm sure glad|they didn't tear it down.
+{7697}{7756}They were apparently|gonna tear it down.
+{7759}{7810}But now they're building a high rise...
+{7813}{7879}on the side where those beautiful|stained glass windows are.
+{7882}{7935}It's gonna block out the light.
+{7938}{7984}And I don't know how anybody could...
+{7986}{8023}That should be illegal.
+{8026}{8144}You know, like, the artistic police|or the aesthetic police should...
+{8179}{8249}if there was such a thing,|should come and arrest them.
+{8278}{8341}On this last project, I mean,|he made a statement to me...
+{8343}{8371}and I didn't believe it.
+{8378}{8493}He said, "It's been two years|since I've wrote something, right?"
+{8495}{8565}And when he got to the hotel|around his old buddies again...
+{8567}{8609}you couldn't get him from writing.
+{8612}{8661}You couldn't stop him from writing,|you know.
+{8663}{8688}That's just how it comes.
+{8690}{8779}- I had no idea that there was.|- But there was a little, to be honest...
+{8783}{8809}there was a little bit of, kind of...
+{8812}{8848}We just picked up on a little bit of, like...
+{8850}{8916}something's going on.|We don't know what's going on, exactly.
+{8918}{9004}When he made this record, it was right|after he found out he had the aneurysm.
+{9006}{9086}And I think of it as like,|his life flashing before his eyes.
+{9090}{9195}And just remembering all these things,|and wanting to say these things.
+{9198}{9234}'Cause, you know, you don't...
+{9237}{9290}We didn't really know|what was gonna happen.
+{9294}{9358}He said, "I got this brain aneurysm."
+{9362}{9473}And, I mean, the world stopped.|To me, it was just like, "You what?"
+{9478}{9564}And he said, "Yeah.|I've got this brain aneurysm...
+{9566}{9643}"and I'm gonna go to New York|next Tuesday...
+{9646}{9719}"and they're gonna...|You know, they're gonna do this thing."
+{9723}{9775}He goes, "And it's really wild,|what they're gonna do."
+{9778}{9806}I said, "Well, what are they gonna do?"
+{9809}{9886}He said,|"Well, they're gonna go in there...
+{9889}{9982}"and they're gonna put|these little bitty springs in there...
+{9988}{10079}"and they're biodegradable.|And what that does is, that makes...
+{10086}{10179}"the body produce the scar tissue,|which then negates the aneurysm."
+{10182}{10244}I'm sitting there going, "What?"|You know.
+{10246}{10328}And,|"Why are you sitting here right now?
+{10332}{10382}"How is that?" You know.
+{10385}{10473}"How can it be|that you're going there next Tuesday...
+{10476}{10533}"and we're sitting here recording?"
+{10538}{10589}I'm just going, "What's..."
+{11173}{11245}{y:i}Prairie wind blowing through my head
+{11361}{11430}{y:i}Prairie wind blowing through my head
+{11484}{11585}We don't use a tenor saxophone,|we use two baritone parts instead...
+{11590}{11669}so that the part of the tenor|has a lot of bite to it.
+{11713}{11803}{y:i}Trying to remember what Daddy said
+{12154}{12249}B45. "Heart of Gold,"|written and recorded. "Old Man..."
+{12288}{12330}{y:i}Check. One, two.
+{12345}{12373}{y:i}You wanna come out?
+{12376}{12408}{y:i}Check. One, two. Check. One, two.
+{12408}{12442}{y:i}Check. One, two. Check. One, two.
+{12724}{12772}All right.|Just keep this with you all night.
+{12774}{12845}Every time you come outside|you need it to get back in. Thanks.
+{12965}{13020}{y:i}I just wanna play well and I wanna...
+{13022}{13077}{y:i}you know,|{y:i}share the stage with my friends...
+{13082}{13122}{y:i}give the best I can.
+{13130}{13215}{y:i}We're gonna get in there|{y:i}and let the muse have us.
+{13224}{13253}{y:i}Take a shot.
+{13279}{13306}{y:i}Send it out.
+{13633}{13704}{y:i}Good evening, ladies and gentlemen,|{y:i}and welcome to the Ryman.
+{13706}{13781}{y:i}And the world premiere|"of Neil Young's" Prairie Wind.
+{14104}{14157}{y:i}The painter stood
+{14166}{14209}{y:i}Before her work
+{14227}{14304}{y:i}She looked around everywhere
+{14364}{14456}{y:i}She saw the pictures|{y:i}and she painted them
+{14508}{14581}{y:i}Picking colors from the air
+{14645}{14697}{y:i}Green to green
+{14715}{14750}{y:i}Red to red
+{14770}{14856}{y:i}Yellow to yellow|{y:i}In the light
+{14912}{15008}{y:i}Black to black|{y:i}When the evening comes
+{15047}{15128}{y:i}Blue to blue|{y:i}Through the night
+{15418}{15473}{y:i}It's a long road
+{15560}{15613}{y:i}Behind me
+{15686}{15740}{y:i}It's a long road
+{15830}{15884}{y:i}Ahead
+{15886}{15997}{y:i}If you follow every dream
+{16015}{16070}{y:i}You might get lost
+{16147}{16257}{y:i}If you follow every dream
+{16301}{16336}{y:i}You might
+{16338}{16372}{y:i}Get
+{16374}{16415}{y:i}Lost
+{16642}{16698}{y:i}She toed the line
+{16710}{16762}{y:i}She held her end up
+{16777}{16857}{y:i}She did the work of two men
+{16907}{16993}{y:i}But in the end|{y:i}She fell down
+{17043}{17121}{y:i}Before she got up again
+{17178}{17282}{y:i}I have my friends eternally
+{17312}{17397}{y:i}We leave our tracks in the sound
+{17460}{17540}{y:i}Some of them are with me now
+{17590}{17672}{y:i}Some of them can't be found
+{17962}{18014}{y:i}It's a long road
+{18107}{18152}{y:i}Behind me
+{18222}{18285}{y:i}And I miss you now
+{18426}{18538}{y:i}If you follow every dream
+{18553}{18628}{y:i}You might get lost
+{18697}{18810}{y:i}If you follow every dream
+{18835}{18878}{y:i}You might
+{18881}{18913}{y:i}Get
+{18916}{18955}{y:i}Lost
+{19195}{19248}{y:i}Green to green
+{19266}{19309}{y:i}Red to red
+{19321}{19392}{y:i}Yellow to yellow|{y:i}In the light
+{19458}{19543}{y:i}Black to black|{y:i}When the evening comes
+{19590}{19674}{y:i}Blue to blue|{y:i}Through the night
+{20438}{20513}{y:i}See the bluebird fly
+{20515}{20584}{y:i}easy as a dream
+{20586}{20650}{y:i}Dipping and bobbing in the sun
+{20723}{20777}{y:i}Could she be the one
+{20782}{20841}{y:i}I saw so long ago
+{20872}{20967}{y:i}Could she be the one to take me home
+{21005}{21062}{y:i}This pasture is green
+{21070}{21131}{y:i}I'm walking in the sun
+{21144}{21229}{y:i}It's turning brown|{y:i}I'm standing in the rain
+{21279}{21341}{y:i}My overcoat is worn
+{21344}{21409}{y:i}The pockets are all torn
+{21420}{21500}{y:i}I'm moving away from the pain
+{21569}{21616}{y:i}Tick-tock
+{21633}{21685}{y:i}The clock on the wall
+{21701}{21782}{y:i}No wonder we're losing time
+{21845}{21901}{y:i}Ring, ring
+{21914}{21969}{y:i}The old church bell
+{21985}{22092}{y:i}The bride and her love
+{22114}{22230}{y:i}Seeking guidance from above
+{22674}{22789}{y:i}Amber waves of grain|{y:i}bow in the prairie wind
+{22810}{22927}{y:i}I'm hearing Willie singing|{y:i}on the radio again
+{22949}{23068}{y:i}That song from 9/11|{y:i}keeps ringing in my head
+{23090}{23205}{y:i}I'll always remember|{y:i}something Chris Rock said
+{23227}{23285}{y:i}Don't send no more candles
+{23294}{23344}{y:i}No matter what you do
+{23359}{23413}{y:i}Then Willie stopped singing
+{23428}{23485}{y:i}And the prairie wind blew
+{23502}{23619}{y:i}The green kept rolling on|{y:i}For miles and miles
+{23652}{23741}{y:i}Fields of fuel rolling on for miles
+{23787}{23836}{y:i}Tick-tock
+{23857}{23919}{y:i}The clock on the wall
+{23922}{24004}{y:i}No wonder we're losing time
+{24064}{24128}{y:i}Toll, toll
+{24137}{24196}{y:i}The fallen soldier bell
+{24202}{24294}{y:i}The old church on the hill
+{24338}{24455}{y:i}Still standing when so many fell
+{25162}{25276}{y:i}Back when I was young|{y:i}the birds blocked out the sun
+{25290}{25363}{y:i}Before the great migration south
+{25432}{25548}{y:i}We only shot a few|{y:i}They last the winter through
+{25566}{25656}{y:i}Mother cooked them good|{y:i}and served them up
+{25710}{25821}{y:i}Somewhere a senator|{y:i}sits in a leather chair
+{25841}{25939}{y:i}Behind a big wooden desk
+{25976}{26091}{y:i}The caribou we kill|{y:i}mean nothing to him
+{26107}{26210}{y:i}He took his money just like all the rest
+{26248}{26297}{y:i}Tick-tock
+{26322}{26367}{y:i}The clock on the wall
+{26382}{26479}{y:i}No wonder we're losing time
+{26531}{26581}{y:i}Ring, ring
+{26599}{26663}{y:i}Ring the wedding bells
+{26669}{26774}{y:i}The bride takes the ring
+{26794}{26900}{y:i}And the happy people sing
+{29068}{29110}{y:i}I just want to thank you
+{29113}{29182}{y:i}For all of the things you've done
+{29259}{29325}{y:i}I've been thinking about you
+{29328}{29403}{y:i}I just want to send my love
+{29491}{29550}{y:i}I send my best to you
+{29552}{29622}{y:i}That's my message of love
+{29702}{29793}{y:i}For all the things you did|{y:i}I never thank you enough
+{29898}{29947}{y:i}Feel like I'm falling
+{29951}{30028}{y:i}Falling off the face of the Earth
+{30058}{30133}{y:i}Falling off the face of the Earth
+{30163}{30235}{y:i}Falling off the face of the Earth
+{30270}{30343}{y:i}Falling off the face of the Earth
+{30947}{30997}{y:i}I just want to tell you
+{31002}{31069}{y:i}You sure mean a lot to me
+{31158}{31200}{y:i}It may sound simple
+{31202}{31272}{y:i}But you are the world to me
+{31376}{31420}{y:i}It's such a precious thing
+{31422}{31473}{y:i}The time we shared together
+{31580}{31633}{y:i}I must apologize
+{31636}{31682}{y:i}For the troubled times
+{31785}{31828}{y:i}Feel like I'm falling
+{31838}{31896}{y:i}Falling off the face of the Earth
+{31940}{31997}{y:i}Falling off the face of the Earth
+{32042}{32112}{y:i}Falling off the face of the Earth
+{32157}{32233}{y:i}Falling off the face of the Earth
+{32827}{32884}{y:i}Feel like I'm falling
+{32886}{32963}{y:i}Falling off the face of the Earth
+{32987}{33040}{y:i}Falling off the face of the Earth
+{33090}{33145}{y:i}Falling off the face of the Earth
+{33200}{33251}{y:i}Falling off the face of the Earth
+{33302}{33353}{y:i}Falling off the face of the Earth
+{33458}{33505}{y:i}Feel like I'm falling
+{33507}{33562}{y:i}Falling off the face of the Earth
+{34412}{34449}This is a song here...
+{34451}{34513}When I first started playing guitar...
+{34526}{34585}I was a chicken farmer at the time...
+{34604}{34679}I was about seven|or eight years old or something and...
+{34682}{34721}Maybe a little older than that.
+{34735}{34841}But my daddy brought me|an Arthur Godfrey ukulele...
+{34843}{34885}a little plastic one.
+{34898}{34963}And, now, I didn't know|what to do with it or anything...
+{34966}{35020}but he said, "You might need this."
+{35023}{35110}And then he sang me a song...
+{35158}{35191}which I never heard him sing before,|or anything.
+{35194}{35263}And then he got this funny grin|on his face and he was looking at me.
+{35266}{35310}And I was watching him.
+{35324}{35389}Then I had to go feed the chickens.
+{35510}{35558}One, two, three...
+{35947}{36021}{y:i}When I was a growing boy
+{36037}{36107}{y:i}Rocking on my daddy's knee
+{36145}{36218}{y:i}Daddy took an old guitar and sang
+{36242}{36296}{y:i}Bury me on the Ione prairie
+{36324}{36389}{y:i}Uncle Bob sat at the piano
+{36422}{36490}{y:i}My girl cousins sang harmony
+{36532}{36612}{y:i}Those were the good old family times
+{36633}{36695}{y:i}That left a big mark on me
+{37130}{37193}{y:i}Bury me out on the prairie
+{37219}{37292}{y:i}Where the buffalo used to roam
+{37311}{37397}{y:i}Where the Canada geese|{y:i}once filled the sky
+{37424}{37489}{y:i}And then I won't be far from home
+{37519}{37586}{y:i}Yeah, bury me out on the prairie
+{37610}{37682}{y:i}Where the buffalo used to roam
+{37718}{37807}{y:i}You won't have to shed a tear for me
+{37819}{37890}{y:i}'Cause then I won't be far from home
+{38314}{38383}{y:i}Out on the Trans-Canada Highway
+{38402}{38471}{y:i}I was talking to a firefly
+{38511}{38593}{y:i}Trying to make my way|{y:i}to Nashville, Tennessee
+{38602}{38668}{y:i}When another car passed me by
+{38691}{38762}{y:i}Some day I'm gonna make big money
+{38798}{38865}{y:i}And buy myself a big old car
+{38882}{38967}{y:i}Make my way on down|{y:i}to the Promised Land
+{38997}{39073}{y:i}And then I'm gonna really go far
+{39482}{39552}{y:i}Bury me out on the prairie
+{39575}{39647}{y:i}Where the buffalo used to roam
+{39675}{39756}{y:i}Where the Canada geese|{y:i}once filled the sky
+{39776}{39848}{y:i}And then I won't be far from home
+{39866}{39943}{y:i}Just bury me out on the prairie
+{39962}{40036}{y:i}Where the buffalo used to roam
+{40064}{40157}{y:i}You won't have to shed a tear for me
+{40166}{40237}{y:i}'Cause then I won't be far from home
+{40951}{40989}You know,|to look around Nashville today...
+{40991}{41057}there's a lot more cars,|there's a lot more new buildings.
+{41060}{41133}I often wonder what Hank Williams|would have thought...
+{41154}{41218}if he stepped out of that stage door...
+{41221}{41255}on his way to Tootsie's, and looked up...
+{41258}{41322}and saw the Gaylord|Entertainment Center sitting there.
+{41406}{41497}So things have changed, I think.|But the spirit's still here...
+{41514}{41567}and that's a beautiful thing.
+{42120}{42162}{y:i}In the morning
+{42165}{42264}{y:i}when I wake up and listen to the sound
+{42294}{42393}{y:i}Of the birds outside on the roof
+{42474}{42588}{y:i}I try to ignore what the paper says
+{42635}{42745}{y:i}And I try not to read all the news
+{42806}{42919}{y:i}And I'll hold you if you had a bad dream
+{42978}{43088}{y:i}And I hope that it never comes true
+{43155}{43268}{y:i}'Cause you and I been through|{y:i}so many things together
+{43319}{43428}{y:i}And the sun starts climbing the roof
+{43492}{43538}{y:i}It's a dream
+{43541}{43596}{y:i}It's only a dream
+{43658}{43714}{y:i}Just a memory
+{43796}{43842}{y:i}Fading away
+{43884}{43942}{y:i}It's only a dream
+{43995}{44051}{y:i}Just a memory
+{44062}{44099}{y:i}without anywhere
+{44168}{44209}{y:i}to stay
+{44503}{44620}{y:i}Red River still flows|{y:i}through my hometown
+{44692}{44785}{y:i}Rollin' and tumblin' on its way
+{44857}{44960}{y:i}Swirling around the old bridge pylons
+{45018}{45117}{y:i}Where a boy fishes the morning away
+{45198}{45308}{y:i}A bicycle leans on an oak tree
+{45362}{45471}{y:i}While the cars rumble over his head
+{45539}{45655}{y:i}An airplane leaves a trail|{y:i}in an empty blue sky
+{45702}{45789}{y:i}And the young birds call out to be fed
+{45858}{45897}{y:i}It's a dream
+{45910}{45965}{y:i}It's only a dream
+{46025}{46084}{y:i}And it's fading now
+{46165}{46214}{y:i}Fading away
+{46243}{46300}{y:i}It's only a dream
+{46359}{46408}{y:i}Just a memory
+{46413}{46469}{y:i}without anywhere
+{46534}{46581}{y:i}to stay
+{47226}{47342}{y:i}An old man walks along on the sidewalk
+{47382}{47495}{y:i}With sunglasses and an old Stetson hat
+{47566}{47683}{y:i}The four winds blow the back|{y:i}of his overcoat away
+{47729}{47809}{y:i}As he stops with a policeman to chat
+{47895}{47997}{y:i}And a train rolls out of the station
+{48058}{48170}{y:i}That was really something in its day
+{48233}{48280}{y:i}Picking up speed
+{48303}{48362}{y:i}on the straight prairie rails
+{48397}{48508}{y:i}As it carries its passengers away
+{48558}{48602}{y:i}It's gone
+{48605}{48666}{y:i}It's only a dream
+{48720}{48773}{y:i}And it's fading now
+{48855}{48906}{y:i}Fading away
+{48938}{48990}{y:i}It's only a dream
+{49056}{49106}{y:i}Just a memory
+{49109}{49153}{y:i}without anywhere
+{49229}{49285}{y:i}to stay
+{49565}{49611}{y:i}It's a dream
+{49614}{49668}{y:i}It's only a dream
+{49731}{49787}{y:i}And it's fading now
+{49871}{49921}{y:i}Fading away
+{49951}{50008}{y:i}It's only a dream
+{50083}{50115}{y:i}Just a memory
+{50118}{50166}{y:i}without anywhere
+{50238}{50286}{y:i}to stay
+{50574}{50620}{y:i}It's a dream
+{50628}{50681}{y:i}It's only a dream
+{50746}{50807}{y:i}And it's fading now
+{50893}{50940}{y:i}Fading away
+{51658}{51701}Thank you, Nashville.
+{52070}{52139}Well, it sure is great to be here tonight|with all of you.
+{52302}{52398}You know, getting to be|about that time, some of us are...
+{52409}{52468}starting to lose our parents and stuff.
+{52522}{52599}My daddy passed away|a couple of months ago...
+{52664}{52736}and in the last part of his life,|he had dementia.
+{52763}{52799}And that's...
+{52810}{52882}I know some of you know|what that's like...
+{52934}{53033}and it's something else to see|your loved ones living in the moment.
+{53048}{53076}But...
+{53116}{53188}when he passed,|we had a nice service for him...
+{53198}{53274}and my little cousin, or niece...
+{53278}{53354}she was about this high, and|she came up to me, said, you know:
+{53360}{53454}"Daddy was okay.|He knew what was going on.
+{53555}{53614}"Once a police car pulled up|behind him...
+{53633}{53686}"right behind him,|there was this police car...
+{53689}{53730}"and he said, 'Cop.'
+{53759}{53806}"So I know he was okay."
+{54884}{54973}{y:i}Trying to remember what my daddy said
+{55063}{55161}{y:i}Before too much time|{y:i}took away his head
+{55253}{55367}{y:i}He said we're gonna go back|{y:i}and I'll show you what I'm talking about
+{55454}{55573}{y:i}Back to Cypress River|{y:i}back to the old farmhouse
+{55757}{55849}{y:i}Prairie wind blowing through my head
+{55950}{56044}{y:i}Prairie wind blowing through my head
+{56127}{56194}{y:i}Trying to remember what Daddy said
+{56329}{56400}{y:i}Prairie wind blowing through my head
+{56403}{56508}{y:i}Well, I tried to tell the people|{y:i}but they never heard a word I said
+{56582}{56681}{y:i}They say there's nothing out there|{y:i}but wheat fields anyway
+{56781}{56876}{y:i}Just a farmer's wife hanging laundry|{y:i}in her back yard
+{56978}{57077}{y:i}Out on the prairie|{y:i}where the wind blows long and hard
+{57281}{57367}{y:i}Prairie wind blowing through my head
+{57472}{57556}{y:i}Prairie wind blowing through my head
+{57650}{57725}{y:i}Trying to remember what Daddy said
+{57850}{57926}{y:i}Prairie wind blowing through my head
+{58497}{58589}{y:i}Late at night|{y:i}lights dancing in the northern sky
+{58859}{58967}{y:i}Just the Indian spirits|{y:i}trying to show me how to fly
+{59237}{59348}{y:i}You can see into the future|{y:i}but it may be a mirage
+{59616}{59725}{y:i}Like a new car sitting there|{y:i}in your old garage
+{59922}{59998}{y:i}Prairie wind blowing through my head
+{60107}{60178}{y:i}Prairie wind blowing through my head
+{60738}{60843}{y:i}Well, there's a place on the prairie|{y:i}where evil and goodness play
+{60933}{61037}{y:i}Daddy told me all about it|{y:i}but I don't remember what he said
+{61104}{61152}{y:i}Well, it may be afternoon
+{61155}{61224}{y:i}and it may be the dead of night
+{61298}{61408}{y:i}But you'll know when you see it|{y:i}'cause it sure is a hell of a sight
+{61600}{61677}{y:i}Prairie wind blowing through my head
+{61694}{61773}{y:i}Prairie wind blowing through my head
+{61790}{61843}{y:i}Prairie wind blowing through my head
+{61862}{61941}{y:i}Trying to remember what my daddy said
+{61975}{62043}{y:i}Prairie wind blowing through my head
+{62046}{62124}{y:i}Before too much time|{y:i}took away his head
+{62162}{62229}{y:i}Prairie wind blowing through my head
+{62232}{62347}{y:i}So we're gonna go back|{y:i}and I'll show you what I'm talking about
+{62350}{62421}{y:i}Prairie wind blowing through my head
+{62537}{62607}{y:i}Prairie wind blowing through my head
+{62610}{62724}{y:i}Going back to Cypress River|{y:i}back to the old farmhouse
+{62726}{62793}{y:i}Prairie wind blowing through my head
+{62910}{62981}{y:i}Prairie wind blowing through my head
+{63098}{63166}{y:i}Prairie wind blowing through my head
+{63290}{63360}{y:i}Prairie wind blowing through my head
+{63478}{63554}{y:i}Prairie wind blowing through my head
+{63667}{63743}{y:i}Prairie wind blowing through my head
+{64282}{64313}Thank you.
+{64433}{64496}You know, I got a beautiful young girl.
+{64517}{64586}She's just turned 21.
+{64612}{64706}She's going back|for her last year of college pretty soon.
+{64773}{64857}She'd probably be embarrassed|if I said anything more about her.
+{64871}{64938}You know how that is? Can't say much.
+{64993}{65075}Anyway, there was a time|I used to write these kind of songs...
+{65078}{65121}for girls my own age.
+{65277}{65361}- You still got a few good years.|- Yeah. I got a few left in me.
+{65579}{65670}So this is what you might call|kind of an empty-nester song.
+{65690}{65721}It's a new genre...
+{65723}{65806}and they might even have|a new kind of radio station for them.
+{66287}{66377}{y:i}When your summer days|{y:i}come tumbling down
+{66394}{66466}{y:i}And you find yourself alone
+{66500}{66562}{y:i}You can come back
+{66576}{66619}{y:i}and be with me
+{66703}{66786}{y:i}Just close your eyes and I'll be there
+{66834}{66889}{y:i}Listen to the sound
+{66920}{66978}{y:i}Of this old heart
+{66999}{67063}{y:i}beating for you
+{67162}{67209}{y:i}Yes, I miss you
+{67245}{67319}{y:i}But I never want to hold you down
+{67372}{67410}{y:i}You might say
+{67424}{67480}{y:i}I'm here for you
+{68006}{68085}{y:i}When the winter comes|{y:i}to your new home
+{68110}{68182}{y:i}And snowflakes are falling down
+{68204}{68252}{y:i}You can come back
+{68292}{68334}{y:i}and be with me
+{68426}{68506}{y:i}Just close your eyes and I'll be there
+{68546}{68604}{y:i}Listen to the sound
+{68631}{68672}{y:i}Of this old heart
+{68717}{68771}{y:i}beating for you
+{68871}{68922}{y:i}Yes, I miss you
+{68950}{69021}{y:i}But I never want to hold you down
+{69083}{69134}{y:i}You might say
+{69158}{69211}{y:i}I'm here for you
+{69317}{69424}{y:i}In the spring|{y:i}protective arms surrounded you
+{69525}{69604}{y:i}In the fall, we let you go your way
+{69728}{69844}{y:i}Happiness I know will always find you
+{69946}{70047}{y:i}And when it does, I hope that it will stay
+{70986}{71026}{y:i}Yes, I miss you
+{71057}{71149}{y:i}But I never want to hold you down
+{71195}{71240}{y:i}You might say
+{71267}{71324}{y:i}I'm here for you
+{71430}{71485}{y:i}Yes, I miss you
+{71502}{71594}{y:i}But I never want to hold you down
+{71638}{71666}{y:i}You might say
+{71701}{71765}{y:i}I'm here for you
+{71848}{71888}{y:i}I'll always be
+{71924}{71994}{y:i}here for you
+{72276}{72308}Thank you.
+{72552}{72584}You know...
+{72606}{72704}one of my favorite guitars in the world|is Willie Nelson's guitar...
+{72712}{72760}and the way it looks.
+{72805}{72843}And this guitar here...
+{72860}{72924}my friend Grant, Grant Boatwright...
+{72930}{73007}found this guitar for me|about 30 years ago...
+{73017}{73073}and I bought it from Tuck Taylor.
+{73085}{73151}And this is Hank's old guitar.
+{73342}{73453}It was here in 1951, I think,|and that was Hank's last show here.
+{73460}{73512}Maybe, I think it was...
+{73522}{73575}Maybe he got back.|He got fired, I know that.
+{73578}{73656}But maybe he came back|one more time, I'm not sure but...
+{73672}{73754}don't think so.|So I'm glad to see it back here...
+{73757}{73792}and I'm glad...
+{74229}{74274}Anyway, here's a tune for you.
+{74486}{74562}{y:i}This old guitar ain't mine to keep
+{74643}{74707}{y:i}I'm taking care of it now
+{74804}{74898}{y:i}It's been around for years and years
+{74956}{75033}{y:i}Just waiting in its old case
+{75108}{75209}{y:i}It's been up and down the country roads
+{75286}{75357}{y:i}It brought a tear and a smile
+{75438}{75529}{y:i}It's had its share of dreams and hopes
+{75603}{75676}{y:i}It never went out of style
+{75759}{75850}{y:i}The more I play it, the better it sounds
+{75923}{75991}{y:i}It cries when I leave it alone
+{76079}{76162}{y:i}Silently it waits for me
+{76239}{76299}{y:i}Or someone else I suppose
+{76398}{76437}{y:i}This old guitar
+{76585}{76638}{y:i}This old guitar
+{76718}{76757}{y:i}This old guitar
+{77558}{77645}{y:i}This old guitar has caught some breaks
+{77706}{77776}{y:i}But it never searched for gold
+{77868}{77961}{y:i}It can't be blamed for my mistakes
+{78028}{78096}{y:i}It only does what it's told
+{78183}{78266}{y:i}It's been a messenger|{y:i}in times of trouble
+{78337}{78400}{y:i}In times of hope and fear
+{78493}{78577}{y:i}When I get drunk and seeing double
+{78646}{78731}{y:i}It jumps behind the wheel and steers
+{78802}{78893}{y:i}This old guitar ain't mine to keep
+{78960}{79022}{y:i}It's mine to play for a while
+{79115}{79198}{y:i}This old guitar ain't mine to keep
+{79274}{79335}{y:i}It's only mine for a while
+{79429}{79477}{y:i}This old guitar
+{79608}{79659}{y:i}This old guitar
+{79736}{79782}{y:i}This old guitar
+{79914}{79969}{y:i}This old guitar
+{80042}{80097}{y:i}This old guitar
+{80962}{81033}{y:i}Was he thinkin' about my country
+{81091}{81176}{y:i}Or the color of my skin?
+{81222}{81307}{y:i}Was he thinkin' about my religion
+{81353}{81442}{y:i}And the way I worshipped him?
+{81487}{81588}{y:i}Did he create just me in his image
+{81629}{81718}{y:i}Or every living thing?
+{81770}{81863}{y:i}When God made me
+{81908}{82001}{y:i}When God made me
+{82306}{82399}{y:i}Was he planning only for believers
+{82436}{82523}{y:i}Or for those who just have faith?
+{82570}{82654}{y:i}Did he envision all the wars
+{82701}{82787}{y:i}That were fought in his name?
+{82832}{82919}{y:i}Did he think there was only one way
+{82985}{83043}{y:i}To be close to him?
+{83102}{83199}{y:i}When God made me
+{83241}{83337}{y:i}When God made me
+{83650}{83723}{y:i}Did he give us the gift of love
+{83785}{83869}{y:i}To say who we could choose?
+{83925}{84023}{y:i}When God made me
+{84067}{84164}{y:i}When God made me
+{84203}{84299}{y:i}When God made me
+{84353}{84448}{y:i}When God made me
+{84486}{84552}{y:i}Did he give me the gift of voice
+{84614}{84676}{y:i}So some could silence me?
+{84749}{84832}{y:i}Did he give me the gift of vision
+{84882}{84972}{y:i}Not knowing what I might see?
+{85012}{85100}{y:i}Did he give us the gift of compassion
+{85156}{85242}{y:i}To help our fellow man?
+{85290}{85388}{y:i}When God made me
+{85440}{85534}{y:i}When God made me
+{85584}{85680}{y:i}When God made me
+{85727}{85824}{y:i}When God made me
+{86782}{86834}{y:i}I am a child
+{86855}{86904}{y:i}I'll last a while
+{86926}{86968}{y:i}You can't conceive
+{86983}{87040}{y:i}of the pleasure in my smile
+{87077}{87128}{y:i}You hold my hand
+{87149}{87207}{y:i}rough up my hair
+{87226}{87302}{y:i}It's lots of fun|{y:i}to have you there
+{87373}{87471}{y:i}I gave to you|{y:i}now you give to me
+{87519}{87596}{y:i}I'd like to know|{y:i}what you've learned
+{87663}{87774}{y:i}The sky is blue|{y:i}and so is the sea
+{87814}{87858}{y:i}What is the color
+{87881}{87937}{y:i}when black is burned?
+{87962}{88013}{y:i}What is the color?
+{88388}{88435}{y:i}You are a man
+{88457}{88505}{y:i}you understand
+{88529}{88572}{y:i}You pick me up
+{88574}{88636}{y:i}then you lay me down again
+{88674}{88729}{y:i}You make the rules
+{88745}{88800}{y:i}you say what's fair
+{88816}{88891}{y:i}It's lots of fun|{y:i}to have you there
+{88960}{89062}{y:i}I gave to you|{y:i}now you give to me
+{89106}{89181}{y:i}I'd like to know|{y:i}what you've learned
+{89250}{89324}{y:i}The sky is blue|{y:i}and so is the sea
+{89401}{89448}{y:i}What is the color
+{89464}{89521}{y:i}when black is burned?
+{89545}{89590}{y:i}What is the color?
+{90726}{90798}{y:i}Come a little bit closer
+{90832}{90894}{y:i}Hear what I have to say
+{91137}{91203}{y:i}Just like children sleeping
+{91250}{91312}{y:i}We could dream this night away
+{91544}{91612}{y:i}But there's a full moon rising
+{91650}{91719}{y:i}Let's go dancing in the light
+{91965}{92030}{y:i}We know where the music's playing
+{92069}{92148}{y:i}Let's go out and feel the night
+{92381}{92466}{y:i}Because I'm still in love with you
+{92499}{92571}{y:i}I want to see you dance again
+{92595}{92682}{y:i}Because I'm still in love with you
+{92721}{92783}{y:i}On this harvest moon
+{93243}{93304}{y:i}When we were strangers
+{93346}{93409}{y:i}I watched you from afar
+{93663}{93717}{y:i}When we were lovers
+{93755}{93840}{y:i}I loved you with all my heart
+{94058}{94123}{y:i}But now it's gettin' late
+{94175}{94242}{y:i}And the moon is climbin' high
+{94469}{94540}{y:i}I want to celebrate
+{94587}{94676}{y:i}See it shinin' in your eye
+{94898}{94993}{y:i}Because I'm still in love with you
+{95017}{95088}{y:i}I want to see you dance again
+{95120}{95197}{y:i}Because I'm still in love with you
+{95243}{95304}{y:i}On this harvest moon
+{96557}{96658}{y:i}Because I'm still in love with you
+{96675}{96745}{y:i}I want to see you dance again
+{96773}{96847}{y:i}Because I'm still in love with you
+{96897}{96954}{y:i}On this harvest moon
+{97346}{97399}{y:i}Harvest moon
+{98469}{98524}{y:i}I want to live
+{98537}{98588}{y:i}I want to give
+{98607}{98704}{y:i}I've been a miner|{y:i}for a heart of gold
+{98745}{98842}{y:i}It's these expressions|{y:i}I never give
+{98880}{98988}{y:i}That keep me searching|{y:i}for a heart of gold
+{99025}{99077}{y:i}And I'm getting old
+{99161}{99243}{y:i}Keep me searching|{y:i}for a heart of gold
+{99300}{99358}{y:i}And I'm getting old
+{99966}{100025}{y:i}I've been to Hollywood
+{100035}{100095}{y:i}I went to Redwood
+{100101}{100204}{y:i}I crossed the ocean|{y:i}for a heart of gold
+{100240}{100296}{y:i}I've been in my mind
+{100309}{100368}{y:i}it's such a fine line
+{100383}{100467}{y:i}Keeps me searching|{y:i}for a heart of gold
+{100520}{100575}{y:i}And I'm getting old
+{100655}{100736}{y:i}Keep me searching|{y:i}for a heart of gold
+{100791}{100850}{y:i}And I'm getting old
+{101332}{101412}{y:i}Keep me searching|{y:i}for a heart of gold
+{101468}{101546}{y:i}Keep me searching|{y:i}and I'm growing old
+{101603}{101682}{y:i}Keep me searching|{y:i}for a heart of gold
+{101732}{101813}{y:i}I've been a miner|{y:i}for a heart of gold
+{102288}{102326}Thank you.
+{102416}{102485}About that time when I wrote that song|and I was touring...
+{102488}{102524}I had also...
+{102539}{102618}just, you know,|being a rich hippie for the first time...
+{102625}{102676}had purchased a ranch.
+{102690}{102722}And...
+{102738}{102798}I still live there today.
+{102809}{102876}And there was a couple living on it...
+{102879}{102937}that were the caretakers and...
+{102970}{103048}Old gentleman named Louis Avela...
+{103052}{103091}and his wife, Clara.
+{103104}{103156}And there was this old blue jeep there.
+{103159}{103227}And Louis took me for a...
+{103255}{103296}took me for a ride...
+{103303}{103345}in this blue jeep.
+{103353}{103418}And he gets me up there|on the top side of the place...
+{103421}{103507}and there's this lake up there|that fed all the pastures...
+{103509}{103576}and he says, "Well, tell me,|how does a young man like yourself...
+{103579}{103640}"have enough money|to buy a place like this?"
+{103656}{103752}And I said, "Well, I'm just lucky, Louis.|Just real lucky."
+{103770}{103848}He said, "Well,|that's the darnedest thing I ever heard."
+{103940}{103985}And then I wrote this song for him.
+{104438}{104496}{y:i}Old man, look at my life
+{104514}{104592}{y:i}I'm a lot like you were
+{104653}{104713}{y:i}Old man, look at my life
+{104728}{104807}{y:i}I'm a lot like you were
+{105121}{105180}{y:i}Old man, look at my life
+{105206}{105277}{y:i}Twenty-four|{y:i}and there's so much more
+{105287}{105352}{y:i}Live alone in a paradise
+{105360}{105425}{y:i}That makes me think of two
+{105456}{105519}{y:i}Love lost, such a cost
+{105537}{105609}{y:i}Give me things|{y:i}that don't get lost
+{105623}{105695}{y:i}Like a coin that won't get tossed
+{105697}{105755}{y:i}Rolling home to you
+{105955}{106015}{y:i}Old man, take a look at my life
+{106017}{106072}{y:i}I'm a lot like you
+{106121}{106180}{y:i}I need someone to love me
+{106182}{106244}{y:i}the whole day through
+{106285}{106348}{y:i}Ah, one look in my eyes
+{106355}{106417}{y:i}and you can tell that's true
+{106792}{106861}{y:i}Lullabies, look in your eyes
+{106877}{106946}{y:i}Run around in the same old town
+{106958}{107028}{y:i}Doesn't mean that much to me
+{107030}{107095}{y:i}To mean that much to you
+{107125}{107189}{y:i}I've been first and last
+{107208}{107280}{y:i}Look at how the time goes past
+{107297}{107359}{y:i}But I'm all alone at last
+{107368}{107419}{y:i}Rolling home to you
+{107623}{107687}{y:i}Old man, take a look at my life
+{107689}{107747}{y:i}I'm a lot like you
+{107790}{107852}{y:i}I need someone to love me
+{107854}{107916}{y:i}the whole day through
+{107960}{108020}{y:i}Ah, one look in my eyes
+{108022}{108088}{y:i}and you can tell that's true
+{108343}{108402}{y:i}Old man, look at my life
+{108414}{108476}{y:i}I'm a lot like you were
+{108553}{108610}{y:i}Old man, look at my life
+{108625}{108688}{y:i}I'm a lot like you were
+{109479}{109560}{y:i}I caught you knockin'|{y:i}at my cellar door
+{109583}{109662}{y:i}I love you, baby|{y:i}can I have some more
+{109691}{109794}{y:i}Oh, the damage done
+{109884}{109955}{y:i}I hit the city|{y:i}and I lost my band
+{109983}{110060}{y:i}I watched the needle|{y:i}take another man
+{110088}{110195}{y:i}Gone, gone, the damage done
+{110692}{110768}{y:i}I sing the song|{y:i}because I love the man
+{110790}{110866}{y:i}I know that some|{y:i}of you don't understand
+{110897}{110945}{y:i}Milk-blood
+{110957}{111069}{y:i}to keep from running out
+{111097}{111172}{y:i}I've seen the needle|{y:i}and the damage done
+{111199}{111270}{y:i}A little part of it in everyone
+{111301}{111369}{y:i}But every junkie's|{y:i}like a settin' sun
+{112597}{112664}{y:i}King went a-runnin' after deer
+{112667}{112731}{y:i}Wasn't scared of jumpin'|{y:i}off the truck in high gear
+{112733}{112800}{y:i}King went a-sniffin'|{y:i}and he would go
+{112802}{112904}{y:i}Was the best old hound dog|{y:i}I ever did know
+{112908}{112970}{y:i}I had a dog and his name was King
+{112973}{113041}{y:i}I told the dog about everything
+{113044}{113107}"There in my truck, the dog and I
+{113111}{113188}{y:i}Then one day the King up and died
+{113457}{113532}{y:i}Then I thought about|{y:i}the times we had
+{113534}{113599}{y:i}Once when I kicked him|{y:i}when he was bad
+{113602}{113663}{y:i}Old King sure meant a lot to me
+{113665}{113767}{y:i}But that hound dog is history
+{114018}{114086}{y:i}King went a-howlin' after deer
+{114089}{114156}{y:i}Wasn't scared of jumpin'|{y:i}off the truck in high gear
+{114161}{114223}{y:i}King went a-sniffin'|{y:i}and he would go
+{114225}{114327}{y:i}Was the best old hound dog|{y:i}I ever did know
+{114816}{114886}{y:i}That old King was a friend of mine
+{114889}{114957}{y:i}Never knew a dog|{y:i}that was half as fine
+{114959}{115021}{y:i}I may find one, you never do know
+{115024}{115101}{y:i}'Cause I still got a long way to go
+{115505}{115579}{y:i}I had a dog and his name was King
+{115581}{115648}{y:i}I told the dog about everything
+{115650}{115713}{y:i}Old King sure meant a lot to me
+{115716}{115800}{y:i}But that hound dog is history
+{117413}{117484}{y:i}King went a-howlin' after deer
+{117487}{117552}{y:i}Wasn't scared of jumpin'|{y:i}off the truck in high gear
+{117554}{117618}{y:i}King went a-sniffin'|{y:i}and he would go
+{117621}{117705}{y:i}Was the best old hound dog|{y:i}I ever did know
+{118251}{118305}Is there a guitar player in the house?
+{118384}{118469}This song here,|I recorded here in Nashville...
+{118532}{118593}and Nicolette Larson|sang this song with me.
+{118598}{118657}I'd really like to do this one for her.
+{118828}{118879}{y:i}Comes a time
+{118917}{118978}{y:i}when you're driftin'
+{118997}{119070}{y:i}Comes a time|{y:i}when you settle down
+{119125}{119177}{y:i}Comes a light
+{119196}{119250}{y:i}feelin's lifting
+{119261}{119356}{y:i}Lift that baby|{y:i}right up off the ground
+{119395}{119513}{y:i}Oh, this old world
+{119519}{119575}{y:i}keeps spinning round
+{119597}{119659}{y:i}It's a wonder tall trees
+{119661}{119709}{y:i}ain't layin' down
+{119740}{119799}{y:i}There comes a time
+{119893}{119939}"You and I
+{119973}{120014}{y:i}we were captured
+{120041}{120131}{y:i}We took our souls|{y:i}and we flew away
+{120181}{120293}{y:i}We were right|{y:i}we were giving
+{120316}{120414}{y:i}That's how we kept|{y:i}what we gave away
+{120460}{120570}{y:i}Oh, this old world
+{120573}{120632}{y:i}keeps spinnin' round
+{120644}{120708}{y:i}It's a wonder tall trees
+{120715}{120776}{y:i}ain't layin' down
+{120791}{120859}{y:i}There comes a time
+{121504}{121614}{y:i}Oh, this old world
+{121617}{121666}{y:i}keeps spinnin' round
+{121686}{121751}{y:i}It's a wonder tall trees
+{121753}{121818}{y:i}ain't laying down
+{121833}{121893}{y:i}There comes a time
+{121959}{122012}{y:i}Comes a time
+{122097}{122146}{y:i}Comes a time
+{122233}{122280}{y:i}Comes a time
+{122370}{122431}{y:i}Comes a time
+{122441}{122484}{y:i}Comes a time
+{122510}{122560}{y:i}Comes a time
+{122983}{123020}Thank you.
+{123085}{123154}This song here was written|by lan Tyson.
+{123157}{123184}He's a Canadian.
+{123186}{123261}He's living out in Calgary,|on his ranch, right now...
+{123268}{123345}But when I was just a kid,|16 years or 17 years old...
+{123348}{123441}I went to this place near Winnipeg|where I grew up...
+{123444}{123491}and it's called Falcon Lake.
+{123493}{123529}And it's just one of those first times...
+{123532}{123602}when you really got away from home|and were on your own.
+{123605}{123670}I was just kind of feeling it|for the first time.
+{123675}{123723}And there was this little...
+{123725}{123797}kind of a restaurant place|with a jukebox in it that was there...
+{123799}{123845}and I used to go there.
+{123847}{123896}And I think I spent all my money...
+{123899}{123978}playing this next song|over and over again.
+{123981}{124053}It was the most beautiful record|that I've ever heard in my life...
+{124056}{124103}and I just could not get enough of it.
+{124106}{124184}And so, I don't have the record|with me here...
+{124189}{124288}but I'm gonna sing it with my friends,|and we'll see what we can do.
+{124853}{124923}{y:i}Think I'll go out to Alberta
+{124959}{125024}{y:i}Weather's good there in the fall
+{125060}{125135}{y:i}I got some friends that I could go
+{125153}{125205}{y:i}to working for
+{125266}{125339}{y:i}Still I wish you'd change your mind
+{125375}{125440}{y:i}If I ask you one more time
+{125470}{125584}{y:i}But we've been through that|{y:i}a hundred times or more
+{125670}{125743}{y:i}Four strong winds that blow Ionely
+{125778}{125841}{y:i}Seven seas that run high
+{125878}{125952}{y:i}All those things that don't change
+{125981}{126031}{y:i}Come what may
+{126090}{126177}{y:i}If the good times are all gone
+{126192}{126256}{y:i}Then I'm bound for moving on
+{126297}{126416}{y:i}I'll look for you if I'm ever back this way
+{126505}{126584}{y:i}If I get there before the snow flies
+{126615}{126681}{y:i}And if things are looking good
+{126711}{126755}{y:i}You could meet me
+{126757}{126825}{y:i}if I send you down the fare
+{126913}{126995}{y:i}But by then it would be winter
+{127011}{127093}{y:i}Not too much for you to do
+{127124}{127200}{y:i}And those winds sure can blow cold
+{127213}{127261}{y:i}way out there
+{127325}{127415}{y:i}Four strong winds that blow Ionely
+{127434}{127497}{y:i}Seven seas that run high
+{127533}{127611}{y:i}All those things that don't change
+{127635}{127688}{y:i}Come what may
+{127738}{127811}{y:i}If the good times are all gone
+{127847}{127913}{y:i}Then I'm bound for moving on
+{127953}{128064}{y:i}I'll look for you if I'm ever back this way
+{128557}{128647}{y:i}Still I wish you'd change your mind
+{128664}{128748}{y:i}If I ask you one more time
+{128782}{128901}{y:i}But we've been through that|{y:i}a hundred times or more
+{128981}{129056}{y:i}Four strong winds that blow Ionely
+{129083}{129147}{y:i}Seven seas that run high
+{129186}{129260}{y:i}All those things that don't change
+{129282}{129331}{y:i}Come what may
+{129397}{129468}{y:i}If the good times are all gone
+{129508}{129574}{y:i}Then I'm bound for moving on
+{129605}{129721}{y:i}I'll look for you if I'm ever back this way
+{129818}{129935}{y:i}I'll look for you if I'm ever back this way
+{130858}{130916}{y:i}One of these days
+{130950}{131035}{y:i}I'm gonna sit down|{y:i}and write a long letter
+{131073}{131161}{y:i}To all the good friends I've known
+{131278}{131334}{y:i}And I'm gonna try
+{131365}{131452}{y:i}To thank them all|{y:i}for the good times together
+{131493}{131580}{y:i}Though so apart we've grown
+{131688}{131742}{y:i}One of these days
+{131782}{131864}{y:i}I'm gonna sit down|{y:i}and write a long letter
+{131897}{131973}{y:i}To all the good friends I've known
+{132105}{132162}{y:i}One of these days
+{132208}{132264}{y:i}One of these days
+{132311}{132368}{y:i}One of these days
+{132394}{132441}- "And it won't be long"|- "Won't be long"
+{132443}{132498}- "Won't be long"|- "Won't be long"
+{132925}{132980}{y:i}And I'm gonna thank
+{133023}{133088}{y:i}That old country fiddler
+{133137}{133200}{y:i}And all those rough boys
+{133239}{133307}{y:i}Who played that rock 'n' roll
+{133338}{133395}{y:i}Well, I never tried
+{133445}{133505}{y:i}to burn any bridges
+{133557}{133611}{y:i}But I know I let
+{133613}{133692}{y:i}some good things go
+{133755}{133808}{y:i}One of these days
+{133841}{133927}{y:i}I'm gonna sit down|{y:i}and write a long letter
+{133961}{134052}{y:i}To all the good friends I've known
+{134165}{134223}{y:i}One of these days
+{134271}{134324}{y:i}One of these days
+{134369}{134427}{y:i}One of these days
+{134448}{134497}- "And it won't be long"|- "Won't be long"
+{134500}{134564}- "Won't be long"|- "Won't be long"
+{134985}{135047}{y:i}From down in LA
+{135092}{135155}{y:i}All the way to Nashville
+{135193}{135251}{y:i}From New York City
+{135281}{135345}{y:i}To my Canadian prairie home
+{135400}{135463}{y:i}My friends are scattered
+{135489}{135559}{y:i}Like leaves from an old maple
+{135613}{135667}{y:i}Some are weak
+{135713}{135767}{y:i}some are strong
+{135809}{135862}{y:i}One of these days
+{135894}{135969}{y:i}I'm gonna sit down|{y:i}and write a long letter
+{136021}{136107}{y:i}To all the good friends I've known
+{136220}{136278}{y:i}One of these days
+{136319}{136376}{y:i}One of these days
+{136423}{136480}{y:i}One of these days
+{136496}{136548}- "And it won't be long"|- "Won't be long"
+{136553}{136612}- "Won't be long"|- "Won't be long"
+{136633}{136688}{y:i}One of these days
+{136731}{136788}{y:i}One of these days
+{136833}{136876}{y:i}One of these days
+{136896}{136952}- "And it won't be long"|- "Won't be long"
+{136955}{137024}- "Won't be long"|- "Won't be long"
+{137036}{137092}{y:i}One of these days
+{137141}{137193}{y:i}One of these days
+{137245}{137298}{y:i}One of these days
+{137309}{137360}- "And it won't be long"|- "Won't be long"
+{137366}{137430}- "Won't be long"|- "Won't be long"
+{138717}{138794}{y:i}Don't call pretty Peggy
+{138835}{138895}{y:i}she can't hear you no more
+{139050}{139112}{y:i}Don't leave no message
+{139171}{139231}{y:i}'round her back door
+{139362}{139433}{y:i}They say the old laughing lady
+{139504}{139560}{y:i}been here before
+{139715}{139775}{y:i}She don't keep time
+{139841}{139915}{y:i}She don't count score
+{140450}{140526}{y:i}Well, you can't have a cupboard
+{140565}{140644}{y:i}if there ain't no wall
+{140806}{140868}{y:i}You got to move
+{140888}{140986}{y:i}there's no time for you to stall
+{141093}{141172}{y:i}They say the old laughing lady
+{141233}{141288}{y:i}dropped by to call
+{141468}{141520}{y:i}When she leaves
+{141558}{141634}{y:i}she leaves nothing at all
+{142522}{142594}{y:i}See the drunkard of the village
+{142641}{142710}{y:i}falling on the street
+{142882}{142943}{y:i}Can't tell his ankle
+{142969}{143049}{y:i}from the rest of his feet
+{143169}{143256}{y:i}He loves his old laughing lady
+{143296}{143380}{y:i}'cause her taste is so sweet
+{143512}{143592}{y:i}But the laughing lady's loving
+{143626}{143708}{y:i}ain't the kind he can keep
+{144192}{144263}{y:i}There's a fever on the freeway
+{144310}{144372}{y:i}blacks out the night
+{144508}{144584}{y:i}There's a slipping on the stairway
+{144633}{144709}{y:i}just don't feel right
+{144825}{144901}{y:i}And there's a rumbling|{y:i}in the bedroom
+{144961}{145021}{y:i}a flashing of light
+{145234}{145316}{y:i}There's the old laughing lady
+{145357}{145440}{y:i}everything is all right
+{145571}{145652}{y:i}It's the old laughing lady
+{145690}{145772}{y:i}everything is all right
+{145896}{145981}{y:i}There's the old laughing lady
+{145996}{146096}>> 

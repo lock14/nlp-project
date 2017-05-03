@@ -1,0 +1,762 @@
+{1}{1}25.000
+{1902}{1945}I'll ask George to fix your hair
+{1948}{1994}like Zbeida Tarwath had
+{1997}{2064}in that movie with Farid el Atrash.
+{2067}{2134}- Which movie?|- She only did one with him.
+{2137}{2203}- She was in many movies.|- But only one with him.
+{2225}{2274}Why are you laughing?|Didn't she look great?
+{2295}{2355}Take it.
+{2547}{2625}Isn't it a nice hairdo?|You can see her entire face.
+{2728}{2787}Let's go.
+{2932}{2974}- Good morning.|- To you too.
+{2977}{3033}- Congratulations.|- God bless you.
+{3491}{3545}Congratulations.
+{4984}{5053}Best wishes Mona!|- God bless you.
+{5094}{5182}Dad is still sad over|President Assad's death.
+{5189}{5260}I hope the demonstration|won't spoil my wedding.
+{5263}{5303}Enough, Mona!
+{5303}{5350}- Good morning.|- Good morning, young ladies.
+{5353}{5407}- How's the bride today?|- Fine.
+{5673}{5784}Listen! You're speaking to the|Vice-Minister of Culture himself!
+{5808}{5909}Sir, sir... You have|lipstick on your lips.
+{6040}{6099}Go back to work. Go on.
+{6152}{6228}Sir, lipstick suits you well.
+{6231}{6275}What are you doing?
+{6305}{6376}Darling, Jamila,|it's not what you think.
+{6379}{6440}I'm your beloved husband|and you snow me... you
+{6443}{6504}Cut! Cut! Cut!
+{6507}{6525}Stop!
+{6525}{6599}You know me,|not you snow me...!
+{6602}{6647}What's up, Tallel?
+{6651}{6705}Can't you get one line right?
+{6708}{6769}I'm sorry.|I'm getting married today.
+{6772}{6796}What?
+{6796}{6848}Today's your wedding?
+{6853}{6912}Guys, Tallel's getting married today.
+{6915}{6994}- Don't embarrass me.|- Why didn't you announce it?
+{6997}{7051}Congratulations, Tallel.
+{7054}{7093}Who's the bride?|Do we know her?
+{7096}{7146}She's a relative from the Golan.
+{7149}{7230}The Golan Heights?|So how did you meet her?
+{7237}{7266}They sent me a picture.
+{7323}{7366}You fell in love with a picture?
+{7378}{7439}Let's see.
+{7439}{7479}She's pretty.
+{7494}{7556}- She's really pretty.|- Let me see.
+{7561}{7593}She's gorgeous.
+{7670}{7714}That's too much hair.
+{7717}{7792}I asked you to fix it|like Zbeida Tarwath.
+{7795}{7892}Patience, madam.|Your sister is so impatient.
+{7898}{7942}I hope Tallel|and his family like it.
+{7945}{8079}Everyone will love it. You'll be|the prettiest bride in Damascus.
+{8085}{8130}My cousin's a hairdresser there.
+{8133}{8170}The photographer's here.
+{8174}{8225}I'll give you his number.
+{8278}{8312}Good morning...
+{8336}{8371}Sorry I'm late.
+{8449}{8496}- Who's Amal?|- I am.
+{8503}{8539}Hi, I'm Arik.
+{8542}{8642}This is my sister Mona and those|are my daughters Mai and Rama.
+{8645}{8673}Hi, how's it going?
+{8676}{8718}Where's the socket?
+{8724}{8779}There.
+{8779}{8897}Here we go. Act normal.|Don't look at the camera.
+{8921}{8964}Come over here for a sec.
+{9000}{9044}- What's your name?|- Call me George.
+{9072}{9109}Everyone calls me George.
+{9112}{9151}But my real name is Ali.
+{9282}{9324}The flight from Moscow|was too much.
+{9336}{9382}He'll sleep through the wedding.
+{9547}{9575}Is this appropriate?
+{9599}{9627}No.
+{9647}{9685}Wear something more conservative.
+{9728}{9788}Fine.
+{10162}{10192}Passport please.
+{10200}{10226}Thank you.
+{10417}{10492}{Y:i}Name: Marwan Salman|Nationality: Undefined
+{10517}{10572}Know why it's great|to return to Israel?
+{10585}{10620}'Cause of the pretty women.
+{10623}{10682}- What did you do in Italy?|- Italian girls are pretty
+{10685}{10712}but you're prettier...
+{10712}{10759}Sir, what did you do in Italy?
+{10762}{10834}- Business. I'm a businessman.|- What kind of business?
+{10843}{10961}Trade, clothing, shoes,|perfumes, whatever sells.
+{10964}{11001}- Where did you stay there?|- Hold on.
+{11045}{11203}Hi, I just landed.|I'll see you after my sister's wedding.
+{11206}{11238}Where did you stay?
+{11241}{11311}They interrogated me|enough when I left Israel.
+{11314}{11349}- Wait there.|- Why?
+{11352}{11400}Just wait there.
+{11470}{11509}Today's a big day for the Druze
+{11512}{11613}of the Golan. The pro-Syrian Druze|might provoke the demonstrators
+{11616}{11718}supporting the new President and|cause a riot which could turn violent.
+{11738}{11780}Therefore we must be careful today.
+{11800}{11830}Questions?
+{11878}{12012}OK, let me remind you there's a|wedding at the border today at 3pm.
+{12017}{12105}No problem, except the bride|is the daughter of Hammed Salman
+{12119}{12199}who's pro-Syrian, out on parole,
+{12218}{12285}And there's a warrant against|him going to the border. Clear?
+{12519}{12556}Hammed!
+{12556}{12638}When is Marwan arriving?|I need someone to help me.
+{12649}{12717}He'll be here soon,|his plane landed at six.
+{12726}{12799}But you can't rely on|Marwan with these things.
+{12808}{12869}And when is Hattem |supposed to arrive?
+{12977}{13058}If Amal and my daughters|were back, they'd help.
+{13061}{13139}Who'll help me?|Everyone will be at the demonstration.
+{13142}{13177}No one'll help me!
+{13207}{13312}Amin, stop complaining!|Go and slaughter some more sheep.
+{13328}{13360}Ready?
+{13360}{13421}Yes.
+{13423}{13468}One, two, three!
+{13530}{13566}Smile, everybody.
+{13584}{13612}Together!
+{13726}{13746}Mona,
+{13746}{13782}what's wrong?|Did something happen?
+{13797}{13849}Isn't she a beautiful bride?
+{13868}{13891}Yes.
+{13891}{13928}We'll never see her again.
+{13947}{14017}What do you mean?|She'll come visit, won't she?
+{14039}{14114}Why won't you see her again?|I don't get it.
+{14209}{14242}I'll miss you.
+{14282}{14359}Film me, I want to say something.
+{14419}{14512}Tallel, when you see this,
+{14539}{14589}Mona will already be your wife.
+{14655}{14709}It's the last time I see her.
+{14756}{14810}We're giving you our treasure.
+{14847}{14911}Protect her like the apple of your eye.
+{14925}{14963}Watch over her.
+{15466}{15501}Congratulations to the bride.
+{15549}{15594}Best wishes, Mona.
+{16304}{16339}The village elders are here.
+{16396}{16457}Go inside.
+{16636}{16663}Hello.
+{16663}{16694}Hello.
+{16697}{16730}Go to your room.
+{16790}{16820}Go upstairs...
+{17042}{17075}Listen, Hammed...
+{17111}{17168}You know how much we respect you.
+{17179}{17263}We've heard your son|Hattem's coming to the wedding.
+{17280}{17384}As far as we're concerned, he's outcast|since he married the Russian.
+{17393}{17422}If he shows up,
+{17428}{17475}you won't see us here.
+{17523}{17558}Dear friends,
+{17614}{17685}Hattem hasn't been here|for more than 8 years.
+{17719}{17764}Today is his sister's wedding.
+{17787}{17869}You know that this will|be his last chance to see her.
+{17883}{17992}Listen, Hammed, you know|how much we appreciate you.
+{18010}{18060}If it were anyone else,
+{18075}{18154}we wouldn't have troubled ourselves|to come.
+{18181}{18229}We'll never forget
+{18238}{18281}what you did for our village
+{18297}{18349}nor your years in jail.
+{18360}{18404}But this is different!
+{18413}{18444}If you prefer him...
+{18464}{18507}and go against our religion,
+{18535}{18577}you will lose our support
+{18582}{18638}and we will cast you out, too.
+{19507}{19554}Long time since you've been here?
+{19601}{19660}Yes, almost 8 years.
+{19663}{19697}Seriously? 8 years?
+{19700}{19783}You'll behave yourself|at Grandfather's house, promise?
+{19862}{19891}Hattem?
+{19891}{19945}Let's go over the Arabic|you taught me.
+{19966}{20011}How do you say|"Congratulations"?
+{20066}{20092}Hallo?
+{20170}{20206}Congrations...
+{20221}{20264}How you are?
+{20278}{20378}You can speak English.|My sisters understand English.
+{20391}{20492}Why? Don't I speak well?|I won't speak at all then.
+{20522}{20564}Try to get some sleep.
+{20589}{20626}You worry too much.
+{20671}{20717}You'll improve with time.
+{20814}{20875}Relax, your parents will love him.
+{21044}{21156}{Y:i}Huge crowds this morning|at the central square of Damascus
+{21159}{21278}{Y:i}to pay their respect to the|late President and welcome his son:
+{21962}{21996}That's the way it is.
+{22142}{22175}Bless you.
+{22197}{22230}May God please you.
+{22233}{22264}Greetings!
+{22279}{22312}Congratulations!
+{22569}{22672}{Y:i}Our beloved president Bashar el-Assad
+{22675}{22737}{Y:i}will deliver his speech|from the Parliament:
+{22745}{22839}{Y:i}The Israeli withdrawal|in the 80s and 90s
+{22842}{22904}{Y:i}and the retreat from Lebanon|this past May
+{22907}{23011}{Y:i}proved the importance|of our solidarity:::
+{23044}{23092}He looks even tougher|than his father.
+{23113}{23164}{Y:i}People of Majdal!
+{23167}{23214}{Y:i}Come to the village square!
+{23217}{23298}{Y:i}Join the demonstration|for our new President:
+{23312}{23349}I'll be back.
+{23385}{23442}Don't worry!
+{23449}{23498}Go ahead, I'll join you soon.
+{23501}{23551}Don't be late, Hammed.
+{23652}{23685}Dad!
+{23728}{23774}Are you going to the demonstration?
+{23812}{23844}I won't be late.
+{23858}{23904}Please don't go.
+{23908}{23980}Your parole terms|forbid you to do that.
+{23997}{24047}Please don't go.|For Mona's sake.
+{24071}{24120}Why don't you let this day|go on peacefully?
+{24137}{24189}We don't want|to visit you in jail again.
+{24213}{24255}I have to go.
+{24261}{24336}What will people think?|That Hammed is a coward?
+{24340}{24419}You haven't slept well|since you came out of jail.
+{24465}{24517}You're haunted by nightmares.
+{24635}{24682}Don't worry about me, Amal.
+{24732}{24776}They can't hurt me.
+{24879}{24978}Join us, the Syrians|are close to our hearts!
+{25292}{25395}Join us, the Syrians|have sacrificed their blood!
+{25704}{25805}Unity, national unity.|The Golan belongs to Syria.
+{25889}{25968}With spirit, with blood,|we'll redeem Bashar!
+{25977}{26034}With spirit, with blood,|we'll redeem Bashar!
+{26037}{26089}Hammed... Hammed!
+{26092}{26129}Come here! Come!
+{26170}{26225}Aren't you on parole?|What are you doing here?
+{26246}{26277}Go home.
+{26282}{26335}- I'm not leaving.|- Don't provoke me. You know
+{26338}{26408}what happens to those who|provoke me!
+{26411}{26479}Remember or|should I remind you, 5002?
+{26488}{26534}You still remember my number.
+{26542}{26655}Even I forgot it. I'm not afraid of you.|I was never afraid of you.
+{26660}{26774}A country of criminals! For 33 years|you are occupying us without shame.
+{26812}{26889}Hammed, go home.|Your daughter is getting married today.
+{26947}{27032}With spirit, with blood,|we'll redeem the Golan!
+{27250}{27282}I'll miss you.
+{27485}{27529}I'll be lonely there.
+{27606}{27636}I'm afraid.
+{27654}{27687}Don't be afraid.
+{27724}{27789}Tallel will love you|and you'll love him.
+{27818}{27881}It won't be|like your previous marriage.
+{27903}{27945}It's different this time.
+{27979}{28021}What makes you so sure?
+{28067}{28184}Life with him could turn out|to be a lot worse than my life now.
+{28216}{28289}Perhaps I'm going from one jail|to another one.
+{28295}{28325}Stop it.
+{28335}{28439}You'll have a much better life there.
+{28630}{28686}And what if we don't get along?
+{28708}{28796}I won't be able to come back here.
+{28840}{28891}Stop being so pessimistic!
+{28927}{28967}Stop it!
+{29268}{29364}I'm marrying someone|I only know from television.
+{29493}{29560}At least you knew Amin|before you married him.
+{29564}{29595}Knew him?
+{29616}{29696}I saw him once|when he came to fix our roof!
+{29746}{29800}A week later we were engaged...
+{29811}{29856}A month later married...
+{29887}{29931}And then I was pregnant.
+{30115}{30149}You're not happy.
+{30182}{30242}You were never happy with Amin.
+{30255}{30305}How can I leave you here?
+{31028}{31072}Wow, what a mess.
+{31104}{31170}Do me a favor,|take your suitcases and get out.
+{31178}{31269}What? My house|is on the other side of the village!
+{31273}{31336}I don't want these Arabs|to throw stones at my cab.
+{31339}{31379}Mom, who are those people?
+{31421}{31463}Come on, get out already!
+{31568}{31603}We have to get out.
+{32172}{32243}Hold it, hold it...|Did you get me the whiskey?
+{32254}{32353}I swear I was delayed at the airport.|They gave me hell.
+{32421}{32457}Why don't you believe me?
+{32504}{32573}Calm down, relax. Don't get upset.
+{32576}{32680}I promise I'll meet you|with the money in 2 hours, OK?
+{32713}{32770}Bye. Asshole.
+{33395}{33425}Hattem!
+{33446}{33480}Marwan?
+{33485}{33517}It's my brother!
+{33537}{33569}Marwan!
+{33583}{33619}Come on, get in!
+{33821}{33847}Amal!
+{33899}{33959}Mother!
+{33959}{33985}Marwan?
+{34021}{34057}Welcome home, son.
+{34082}{34113}I have a surprise.
+{34131}{34160}Amal?
+{34725}{34755}Hattem!
+{34815}{34920}Darling! Darling!
+{35527}{35581}Meet Evelina, my wife.
+{35593}{35628}Congrations.
+{35649}{35730}And this is our son Hammed.
+{35849}{35933}God bless you, son.
+{36110}{36139}Hattem!
+{36415}{36463}- You look stunning!|- My turn now!
+{36624}{36695}Majdal hasn't seen|such a demonstration for years!
+{36711}{36759}Bashar's speech was very good.
+{36773}{36816}He's Assad (lion) son of Assad.
+{36890}{36934}- Welcome home, son.|- Father...
+{37323}{37369}God bless you, Father.
+{37402}{37436}How are you?
+{37697}{37744}Don't you want to welcome your son?
+{37880}{37910}Come in.
+{38936}{38976}It's been 8 years,
+{38995}{39054}and he still won't talk to me.
+{39100}{39159}I thought he would soften up|over the years.
+{39183}{39251}Maybe you were right.|We shouldn't have come here.
+{39282}{39329}How long can one hide?
+{39354}{39384}Enough!
+{39420}{39507}I'll try to convince Dad.|He'll agree in the end.
+{39523}{39625}Mom agrees, Dad is the problem.|You have to be patient.
+{39634}{39711}I have no problem waiting,|but are you sure you'll convince him?
+{39895}{39956}Who was it? He must have seen us!
+{39967}{40100}Byan, clean out the blood before it|dries. Slaughter the remaining sheep.
+{40107}{40156}No need to slaughter more.
+{40159}{40230}You want people to say|my father-in-law feeds his guests
+{40233}{40285}like he was fed in the Israeli prison?|No way!
+{40314}{40386}- Is everything all right?|- Yes.
+{40389}{40428}- Forget anything?|- No.
+{40481}{40586}Abu-Salim, we need three more tables.
+{40592}{40645}- Where from?|- The neighbors.
+{40648}{40694}Where's Marwan?|Where did that monkey go?
+{40786}{40812}Hello, Salach.
+{41030}{41059}Hammed!
+{41170}{41252}Doesn't Hattem's son look|just like his Aunt Mona?
+{41256}{41315}No, he looks like the Russian...
+{41367}{41418}Want to marry|an Israeli collaborator?
+{41426}{41468}He's not. His father is.
+{41471}{41522}Shut up! Don't say a word.
+{41535}{41638}You're not marrying him|as long as I live. Clear?
+{41720}{41787}OK, let me go back to Granddad.
+{41790}{41827}You're not going anywhere!
+{41846}{41921}Go to your room! Beat it!
+{42031}{42071}I don't want to see you!
+{42640}{42709}{Y:i}School of Social Work|at Haifa University
+{43062}{43149}Marwan, how did you know|my favorite perfume?
+{43200}{43245}Looks like Tallel, right?
+{43299}{43352}Only God knows|if he's a good man.
+{43381}{43493}If my deal goes through,|I'll buy you great gifts.
+{43502}{43563}Amal, I'll buy you a car.
+{43578}{43649}No... I'll take you and Amin to Italy.
+{43653}{43719}- Only without Amin.|- OK, without Amin...
+{43752}{43807}For you Mona, I'll get...
+{43846}{43914}a private jet,|so you can come visit us.
+{43949}{43998}I'll teach you how to fly it.
+{44129}{44159}I'm going to look for Hattem.
+{44273}{44316}And I must go help Amin
+{44319}{44347}before he murders me.
+{44580}{44610}{Y:i}Beat it!
+{45305}{45365}{Y:i}Are you spying on me?!
+{45431}{45465}Don't be angry with Dad.
+{45492}{45532}You know he loves you.
+{45546}{45607}His situation here|is very sensitive.
+{45619}{45733}The elders came today,|threatening to cast him out, too.
+{45738}{45774}And you know how they are.
+{45804}{45891}It makes me mad how much I know,|but he shouldn't have given up on me.
+{45894}{45938}When has he given up on you?
+{45952}{46028}Didn't we grow up |in the same house?
+{46040}{46083}Dad was never here for us.
+{46093}{46127}Have you forgotten?
+{46150}{46176}I haven't, Hattem.
+{46180}{46254}But this isn't a good|time to settle accounts.
+{46276}{46349}You know the Israelis won't let him|go to the border to send Mona off.
+{46385}{46484}Our father is dead inside.|Don't make it any worse for him.
+{46487}{46526}I'm making it worse!?
+{46617}{46720}Try to understand,|for me and for Mona's sake.
+{46723}{46756}Excuse me.
+{46759}{46820}It'll all work out|after the wedding.
+{47079}{47168}Go to our mailbox and if|you see a letter for me,
+{47171}{47228}bring it and don't let|anyone know. Got it?
+{47308}{47349}Mom, I'm going|to Kiryat Shmona.
+{47374}{47419}Don't go to the police.
+{47432}{47474}Your Dad'll be very angry.
+{47477}{47585}He doesn't need to know! If he asks,|tell him I went to buy something.
+{47617}{47673}You know|how much it will please Mona.
+{47678}{47717}I know, I know...
+{47738}{47779}Pray this day ends peacefully.
+{47795}{47829}I'll be back soon.
+{47923}{47976}She's blond,
+{47979}{48027}but she doesn't know|how to slice a tomato.
+{48040}{48113}Yes, but Hattem's wife is a doctor.
+{48117}{48185}She runs a large hospital in Russia.
+{48193}{48265}She probably serves him|hospital food.
+{48300}{48345}All the women wanted Hattem.
+{48350}{48410}He could have married|the best local girl
+{48413}{48454}instead of the Russian.
+{48576}{48626}This is how you slice a tomato.
+{48670}{48701}Very thin.
+{48905}{48939}Hello...
+{48956}{49006}We... and tabula...
+{49051}{49092}{Y:i}Cousin!
+{49097}{49209}{Y:i}Tell the family your uncle passed away:
+{49212}{49245}{Y:i}May his soul rest in peace:
+{49248}{49326}{Y:i}May his soul rest in peace:
+{49355}{49393}And may God strengthen you
+{49396}{49478}so you can face this tragedy.
+{49493}{49547}{Y:i}Hi, Dad: How are you?
+{49550}{49655}How are you, Fahdi?|How are things going at university?
+{49659}{49705}{Y:i}Thank God, going well:
+{49708}{49801}Tell me, son, is the|wedding on as scheduled?
+{49819}{49959}{Y:i}Sure, Dad: Tallel and his family|are on their way from Damascus:
+{49959}{50008}{Y:i}When are you coming to the border?
+{50014}{50067}I can't come.
+{50080}{50155}The Israelis don't allow it.
+{50158}{50241}{Y:i}I can't now. I'll call you later.|- It'll be OK, Dad:
+{50272}{50346}{Y:i}How are you, Marwan?|When did you arrive?
+{50398}{50494}{Y:i}Don't forget to send with Mona|a kilo of coffee from the Golan:
+{50530}{50569}{Y:i}Coffee with spices:
+{50628}{50696}Is everybody OK? |My plane arrives at midnight.
+{50711}{50752}Will Mom be at the airport?
+{50782}{50820}Is she bringing Ginger?
+{50857}{50942}Send my kisses to everyone.|See you.
+{52208}{52324}A fine cigar from Cuba|for my favorite uncle!
+{52334}{52420}If you make it stand on your mustache,|I'll give you a bottle of whiskey!
+{52462}{52522}Marwan, what do you do abroad?
+{52527}{52553}Business.
+{52553}{52616}But what kind of business?|What do you sell?
+{52620}{52662}Whatever comes to mind.
+{52677}{52717}Games for kids,
+{52720}{52772}games for adults. Watches...
+{52775}{52867}When'll you get married? We want|to see your kids before we die.
+{52871}{52899}God willing.
+{52902}{52956}God willing we see your children
+{52959}{53021}or we die?
+{53062}{53103}Marriage isn't for him.
+{53107}{53173}He has many women. French, Italian,
+{53176}{53219}even Jewish!
+{53255}{53368}C'mon, what do you mean? I'll|marry a local girl in the end.
+{53371}{53423}Nonsense, nonsense...
+{53716}{53775}You Druze know|how to throw a wedding.
+{53782}{53815}Hold my calls.
+{53885}{53942}A Druze wedding is the real thing.
+{53945}{54060}Not like our weddings|with the bad food...
+{54070}{54115}Been to one of our weddings?
+{54124}{54172}One? Why not a hundred?
+{54187}{54266}I have many friends in the Golan.|In Majdal too.
+{54269}{54333}Most of my friends are Druze.|Fine people.
+{54336}{54389}So can my father come to the border?
+{54397}{54450}- What did you say your name is?|Amal? - Yes.
+{54494}{54616}How do you like your coffee?|I buy only genuine Arab coffee.
+{54619}{54664}Rafi, two coffees please.
+{54675}{54702}Thanks.
+{54755}{54789}I can't approve it.
+{54814}{54849}Sorry.
+{54849}{54910}It's the last time|he'll see his daughter.
+{54934}{54976}Don't take that away from him.
+{54982}{55062}If not for him, do it for her.|It will break her heart.
+{55069}{55114}I feel for you, truly.
+{55117}{55176}He can't go near the security zone.
+{55179}{55215}What harm can he do there?
+{55333}{55363}Thank you, Rafi.
+{55467}{55517}Drink, it's genuine Arab coffee.
+{55520}{55619}I didn't come for coffee, |I came to ask you for a favor.
+{55693}{55737}You can't stop me|going to the border.
+{55740}{55802}- You're not going there.|- But...
+{55805}{55874}No buts, you're not going,|end of story.
+{55878}{55935}You treat me the same way|the Israelis treat you.
+{56174}{56223}Your brother annoys me.
+{56284}{56328}- Welcome.|- Congratulations.
+{56331}{56385}Thank you.
+{56895}{56936}Hi Uncle, how's it going?
+{56991}{57041}Mom, where have you been?
+{57072}{57117}- Where's Dad?|- He went home.
+{57159}{57183}And Mai?
+{57183}{57251}She didn't return|after the demonstration.
+{57303}{57343}OK, get something to eat.
+{57673}{57712}Mai isn't allowed out.
+{57718}{57789}It's your fault. You're too liberal.
+{57792}{57899}Amin, I didn't come here to argue.|We need to go back to the wedding.
+{57917}{57979}Do you want people to|distance themselves from us?
+{57986}{58022}Amal,
+{58022}{58111}I love you, but I|can't stand the gossip.
+{58114}{58212}"Your wife wears pants,|your daughter loves a collaborator".
+{58234}{58307}Isn't the shame of|Hattem's marriage enough?
+{58312}{58366}- Hattem?|- Yes, Hattem!
+{58373}{58421}You can't even look him in the eyes.
+{58489}{58561}This isn't the time.|We must get back to my parents.
+{58564}{58633}So what are you waiting for?
+{58638}{58692}- And Mai?|- She's grounded.
+{58718}{58824}Let her say goodbye to Mona.|You know how attached they are.
+{58844}{58877}Coming?
+{58912}{58949}Only with Mai.
+{59708}{59752}{Y:i}Amal Safdi has been accepted
+{59755}{59821}{Y:i}into the B: A: Social Work Program:
+{60007}{60084}Mom, I'm sorry I caused|you and Dad to fight.
+{60131}{60196}Now he won't let you go|to university.
+{60218}{60248}Don't worry.
+{60273}{60307}It'll be all right.
+{60345}{60390}Everything will be fine.
+{60412}{60441}And you?
+{60441}{60476}What about you?
+{60613}{60683}God willing, your fortune|will be better than mine.
+{60734}{60795}Don't give in the way I do.
+{60809}{60857}Don't you dare give up!
+{60885}{60936}I've already missed my chance
+{60948}{61006}but your entire life is ahead of you.
+{61060}{61131}Go wash your face|and rest a while,
+{61180}{61248}I'll come back soon to|take you to the border.
+{61263}{61306}But Dad will be furious.
+{61311}{61344}Let him.
+{61365}{61402}Go...
+{61547}{61584}Let me kiss you.
+{62539}{62595}Hello, my sweet! How are you?
+{64405}{64495}Please, enjoy...
+{65627}{65664}How did you find me?
+{65745}{65778}You told me.
+{65799}{65827}Me?
+{65835}{65897}When?
+{65951}{66027}"The place became crowded|and the air thick.
+{66070}{66118}"I feel like I'm choking.
+{66165}{66212}"I feel there's no place on earth
+{66215}{66344}"which can contain|my pain and suffering.
+{66394}{66479}"The apple tree is my well of secrets,
+{66485}{66548}I sit under it and cry. "
+{66649}{66708}I remember every word you sent me.
+{66775}{66852}Your letters kept me going in Russia.
+{66913}{66999}They made me feel I was|still living among you,
+{67002}{67070}kept up-to-date with everyone's life.
+{67249}{67310}Tell me, how are things with Amin?
+{67367}{67396}As usual.
+{67400}{67482}What is "as usual"?|What did you fight about?
+{67488}{67533}Trivial things.
+{67613}{67653}About your studies?
+{67819}{67880}Amal, listen to me.
+{67895}{67952}I'm not saying you should give up,
+{67966}{68062}but there are ways to persuade Amin.
+{68087}{68159}Amin loves and respects you.
+{68204}{68256}I don't know what to say.
+{68276}{68327}We haven't had a conversation in years,
+{68378}{68433}I'm used to writing you letters.
+{68441}{68474}It's easier for me.
+{69580}{69607}What's wrong?
+{69610}{69658}A tire exploded.
+{69672}{69714}People, get off the bus.
+{69717}{69787}We have a flat tire. God help us.
+{69970}{70018}{Y:i}- Yes?|- Haven't you left yet, Joseph?
+{70034}{70084}I'm leaving. What's the rush?
+{70087}{70167}{Y:i}- Did you take the stamp I gave you?|- A hundred times you asked me!
+{70170}{70229}{Y:i}- Did you take it?|- I did, I did:
+{70233}{70295}{Y:i}Check again:
+{70451}{70481}{Y:i}Well?
+{70512}{70557}{Y:i}- I checked.|- Good:
+{70570}{70632}Say, won't we have problems|with this new stamp?
+{70638}{70714}{Y:i}No, these are the new|regulations: It's fine:
+{70734}{70786}If they're the new regulations...
+{70789}{70873}{Y:i}- And bring me Golan apples:|- OK, OK.
+{70971}{71029}You've done a good job.
+{71033}{71083}- Give this to your men.|- Thank you.
+{71102}{71130}God bless you.
+{71144}{71180}Dad, can I have a word?
+{71311}{71374}I went to see the police|officer in Kiryat Shmona.
+{71388}{71447}Amal, you made a mistake.
+{71481}{71520}You humiliated yourself
+{71532}{71562}and you humiliated me.
+{71680}{71727}I thought it would please you.
+{71782}{71823}I went there for you.
+{71903}{71980}I know how much you want to|see Mona off at the border.
+{72050}{72147}It wasn't easy for me to go to him,
+{72191}{72263}knowing what he has done to you.
+{72687}{72789}{Y:i}Plenty of wishes to the beautiful|couple, my heart wishes them well
+{72803}{72907}{Y:i}Congratulate them|and spread jasmine flowers all around
+{72919}{72999}{Y:i}We'll sing them wedding tunes
+{73002}{73091}{Y:i}Love will reside in their home at night
+{73094}{73197}{Y:i}God bless them with serenity
+{73206}{73347}{Y:i}Soon, it'll be everyone's luck,|loved ones
+{74070}{74130}Let's go.
+{74141}{74196}Congratulations.
+{74470}{74509}Marwan, I'm off.
+{75177}{75230}What's wrong, Dad? Get in.
+{75250}{75314}Don't worry about the elders.|They won't show up anyway.
+{75319}{75383}I know... I know.
+{75386}{75444}We'll worry about it|after the wedding.
+{75585}{75641}Marwan, I'll be right back.
+{75666}{75717}Get in, Amal.
+{75737}{75776}Go without me.
+{75789}{75839}- Where are you going?|- I'll follow you.
+{76323}{76390}What's going on? We'll be late!
+{76393}{76478}It's stuck, I can't undo it, sir!
+{76506}{76550}Let me do it.
+{77055}{77084}Let's go!
+{79364}{79484}What? What's going on?|Just a minute.
+{79523}{79567}You can't stay here.
+{79570}{79627}Drive back. Right now!
+{79630}{79701}All of you, go to the parking lot.
+{79714}{79763}Wow, what a mess...
+{80240}{80271}Congratulations.
+{80307}{80355}Wait here! Wait here!
+{80365}{80407}Wait here!
+{80554}{80625}Don't you speak Hebrew?|Wait!
+{80653}{80704}OK, congratulations.
+{80795}{80848}- Who are you?|- I'm her father.
+{80851}{80919}Her father? OK...
+{82198}{82259}Hi sister, how are you?
+{82263}{82319}I hope Dad came with you!
+{83151}{83196}Don't worry, he'll show up.
+{83237}{83274}How do you know?
+{83345}{83382}I just know.
+{83865}{83915}Soldier, open the gate, please.
+{84085}{84166}Mom, why are you late?|Everyone is already inside.
+{84248}{84309}- Who are you?|- Her family.
+{84312}{84349}Her family... IDs please.
+{84352}{84435}The car goes to the parking lot.
+{84438}{84494}Amal, where have you been?
+{84540}{84575}I'm talking to you.
+{84616}{84675}Amin, leave me alone, not now!
+{84708}{84748}- You can go in.|- Thank you.
+{84787}{84816}I'm speaking to you.
+{84844}{84887}Leave me alone, I said!
+{84918}{84944}Mom, wait for me.
+{85011}{85037}Mom...
+{85377}{85413}They haven't arrived yet?
+{86350}{86417}You see? I told you.
+{86716}{86774}- What happened to you?|- My clothes got dirty...
+{86778}{86849}- And why are you late?|- We had a flat tire.
+{86913}{86956}That's your bride Mona,
+{86975}{87028}and that's my sister, Amal.
+{87618}{87703}- What are you doing here?|- Saying goodbye to my daughter.
+{87707}{87764}You're not supposed to be here.|Come with me.
+{87767}{87795}Where to?
+{87795}{87837}I don't want to make a scene here.
+{87847}{87925}- Where do you take him?|- Butt out.
+{87928}{87963}Marwan, wait.
+{87989}{88017}Marwan!
+{88130}{88189}You raise your child for 25 years
+{88192}{88290}and on the most important day of|her life, you can't say goodbye?
+{88293}{88354}You can't enter a closed military zone.
+{88357}{88464}Military zone? Two caravans|and your Israeli flag?
+{88473}{88520}You have contempt for our flag too?
+{88532}{88584}Your Syrian friends |treated you better?
+{88602}{88669}Go before I arrest you.
+{88672}{88733}- You said he could...|- I said nothing.
+{88766}{88850}- Where do you think you're going?|- To say goodbye to my daughter.
+{89340}{89417}Stop, my dear! Stop!
+{89537}{89571}I'm scared.
+{89598}{89681}You be strong and proud.
+{89685}{89738}Do only what's right for you.
+{89768}{89806}You are Hammed's daughter.
+{90460}{90516}That's it? Did you say goodbye?
+{90539}{90572}Now get in the car.
+{90752}{90780}Everyone step back!
+{90783}{90853}- Why are you arresting him?|- Back!
+{90856}{90906}- You too!|- I'm his attorney.
+{90909}{90939}His attorney?
+{90947}{90990}- Yes.|- Do you have a warrant?
+{91053}{91090}Show me a warrant.
+{91139}{91195}Otherwise, this arrest is illegal.
+{91647}{91682}You're off the hook.
+{91770}{91807}This time.
+{92077}{92189}{Y:i}Tension in the West Bank continues:|Shots were fired at an army post
+{92192}{92270}{Y:i}near Nablus, no injuries reported:::
+{92365}{92460}{Y:i}Are you in the Golan already?|Don't forget to buy apples!
+{92463}{92501}OK, OK...
+{92517}{92612}{Y:i}In the Golan, demonstrations in|support of the new President:::
+{92815}{92859}- How are the apples?|- Terrific.
+{92862}{92901}- Two boxes please.|- No problem.
+{92978}{93040}What?
+{93046}{93084}Son, is something wrong?|Where are you?
+{93134}{93208}Nablus? They said on the|news there's shooting there.
+{93242}{93270}Are you sure?
+{93347}{93394}I'm worried and so is your mother.
+{93472}{93516}Promise me you'll take care.
+{93577}{93614}Great. Bye.
+{93665}{93696}- My son.|- God bless him.
+{93699}{93785}- Thank you.|- Have a nice day.
+{94011}{94051}- Hello, Joseph.|- Hello, hello.
+{94550}{94595}Hello, have a seat.|Thank you.
+{94641}{94702}{Y:i}Name: Mona Salman|Nationality: Undefined
+{94823}{94855}Mother's name is Samiha?
+{94913}{94949}Father's name Hammed?
+{94976}{95053}Born on November 30th, 1976?
+{95064}{95126}Yes.
+{95256}{95287}Congratulations.
+{96403}{96457}Thank you.
+{98611}{98669}Look what I got from the policemen!
+{99045}{99102}- Dad!|- I'll be right back.
+{100305}{100368}Don't worry, Dad, it will be OK.
+{100511}{100539}Welcome... welcome...
+{101958}{102015}Give her something to|drink or she'll dehydrate.
+{102067}{102108}Does he want to eat?
+{102147}{102181}I'm fine.
+{102195}{102274}Two hours, man, two hours.|My sister is getting married.
+{102277}{102326}What can I do?|I'm at the border.
+{102366}{102404}I can't now.
+{102438}{102487}It will take time.
+{102501}{102547}I'll talk to you later, OK?
+{103172}{103208}Amal, relax.
+{103258}{103292}Let her speak!
+{105161}{105222}I'm sorry.
+{105690}{105729}It's bad luck
+{105735}{105796}not to get married|on your wedding day.
+{106418}{106450}What's going on?
+{107250}{107277}Stay here!
+{107283}{107340}- Amin. - Dad?|- Amal!
+{107472}{107509}Bring water!
+{108077}{108168}{Y:i}What's going on?|Why the delay?
+{108326}{108356}{Y:i}Mona?
+{108373}{108420}{Y:i}Aren't the procedures over?
+{108472}{108513}I don't know.
+{108525}{108557}I'm sorry.
+{108560}{108640}{Y:i}It's OK, don't worry:|I'm waiting for you:
+{108644}{108692}{Y:i}The family is dying to see you:
+{108699}{108753}{Y:i}I'm dying to see you, too:
+{108784}{108821}So am I.
+{109421}{109458}Don't you have something to say?
+{109532}{109603}No, I have nothing to say.
+{109632}{109691}I know you read the letter.
+{109810}{109887}Enough already.
+{109921}{109981}You can't stop me from|going to university.
+{110025}{110117}The girls are grown up now,|there are no excuses anymore.
+{110141}{110286}What people say is more|important than what I want?
+{110299}{110399}Do you want people to say|I'm not a man?
+{110422}{110466}That I can't
+{110469}{110518}control my own wife?
+{110575}{110612}Understand me, Amal.
+{110707}{110788}{Y:i}The Israeli army announced|that Nablus is sealed off:::
+{113110}{113145}Bring some water.
+{113148}{113175}OK.
+{113808}{113843}Minister's office.
+{113874}{113921}They're connecting me.
+{114524}{114576}No answer. I was cut off.
+{114599}{114626}What shall we do?
+{115323}{115371}- Would you like a seat?|- Thank you.
+{115676}{115723}Worried because you don't know him?
+{115784}{115866}There are no rules.|Marriage is like a watermelon.
+{115880}{115945}You can't tell what's|inside till you open it up.
+{115959}{115996}It's a matter of fate.
+{116009}{116041}Do you believe in fate?
+{116072}{116099}Are you married?
+{116110}{116182}No, I'm not married.|But I believe in fate.
+{116228}{116262}Why aren't you married?
+{116287}{116326}I'm not sure anyone will want me.
+{116362}{116411}I'm fat and I can't stop eating.
+{116416}{116468}You know, food|is sort of a compensation...
+{116503}{116530}Hello?
+{116546}{116578}No, I can't make it.
+{116596}{116641}Find someone else.
+{116668}{116719}Aren't there other|photographers in Kiryat Shmona?
+{116722}{116764}I'm stuck here with the Syrian bride.
+{116819}{116883}I'll find a replacement.|What time is the Bar-Mitzva?
+{116905}{116968}Lt'll be OK. Bye.
+{117026}{117073}- See you.|- Bye.
+{117090}{117152}What's new, son?
+{117185}{117216}Gun shots?
+{117246}{117307}Are you OK?
+{117524}{117566}Son, I'll get back to you.
+{117766}{117839}Guys, can someone bring|me correction fluid?
+{117861}{117889}Correction fluid?
+{118025}{118058}I understand your pain,
+{118074}{118107}I have children too.
+{118226}{118255}- Here you are.|- Thank you.
+{118714}{118740}Problem solved!
+{118859}{118886}Congratulations.
+{118886}{118921}Thank you.
+{118932}{118969}Thank you, Joseph.
+{119138}{119171}Thank you.
+{119171}{119197}Start singing, Mom.
+{120307}{120341}Congratulations.
+{121306}{121350}Meet my father.
+{121369}{121397}Evelyna...
+{121409}{121437}Beautiful bride...
+{121617}{121654}Welcome to your home
+{121685}{121720}and to your family.
+{121970}{122003}Friends!
+{122009}{122045}Problem solved.
+{122059}{122135}We'll send you kisses with the bride.
+{122145}{122271}Marwan! Send the coffee I|asked for with the kisses.
+{122274}{122349}3 kilos. Drink it until|it comes out of your ears!
+{122383}{122416}Take good care of Mona.
+{122419}{122486}I'll take care of the coff... of Mona.
+{124942}{124979}What's wrong now?
+{125015}{125076}I can't sign something|I don't understand.
+{125080}{125119}This is unbearable.
+{125178}{125241}I'm sorry, there's nothing I can do.
+{126677}{126713}What's going on, son?
+{126816}{126882}- Where's she going?|- She's crazy.
+{126977}{127014}Jeanne, what's going on?

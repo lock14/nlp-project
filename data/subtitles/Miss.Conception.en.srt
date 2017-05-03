@@ -1,0 +1,1387 @@
+{1945}{2012}/George.
+{2042}{2109}Georgie.
+{2146}{2211}George.
+{2259}{2326}Georgie.
+{2510}{2570}Shit.
+{2648}{2691}Georgina, phone.
+{2692}{2721}Georgina.
+{2722}{2759}What? What's the matter?
+{2760}{2804}/The phone is ringing, sweetheart.
+{2805}{2903}I think it's for you.
+{3042}{3136}Right. I'll get it.
+{3194}{3253}/What's the point of|/having an answerphone
+{3254}{3334}if you don't even switch it on.
+{3335}{3407}/Oh, shit!
+{3423}{3465}/Hello.
+{3466}{3565}Daniel, hi. All right, what's|happened? Okay, calm...
+{3566}{3676}Oh, that's great news. Mm.
+{3731}{3782}/How, how is she?
+{3783}{3849}Oh. Ah-ha.
+{3850}{3956}Er, no, God, no, I'm really glad|you woke me up to tell me that. Mmm.
+{3957}{4035}/Right, well, er... I guess we'll, um,
+{4036}{4099}/we'll see you both, er,|/see the three of you soon.
+{4100}{4150}/Yeah, er, er,
+{4151}{4279}Okay. Well, well done you two. Bye.
+{4280}{4325}Rebecca's had her baby.
+{4326}{4380}Yes. The, the baby has finally arrived.
+{4381}{4421}So, is it a boy or a girl?
+{4422}{4459}Er, hair, weight?
+{4460}{4493}Um, they didn't say.
+{4494}{4532}Name? Does it have a name?
+{4533}{4564}Er,
+{4565}{4622}Anything. Eye color?
+{4623}{4684}Eyes. Eyes. It's got eyes.
+{4685}{4795}God, I hope it's got eyes.
+{4823}{4904}/Your sister had a baby.|/A brand new little baby!
+{4905}{4930}Yay!
+{4931}{4961}Get dressed.
+{4962}{5014}Are you mad? It's dark out there.
+{5015}{5041}We need a present.
+{5042}{5077}It's the middle of the night.
+{5078}{5111}We need a present.
+{5112}{5159}Ok, I will go to the 24 hour garage.
+{5160}{5233}Good plan. Get it 20|Bensons and a a Twix.
+{5234}{5313}Your sister had a baby.|A teeny, tiny baby.
+{5314}{5439}I know, my darling. It's lovely.
+{5476}{5544}I'll go to town with mum in|the morning for the present.
+{5545}{5617}Good plan.
+{5704}{5765}Aren't you excited, just a little?
+{5766}{5903}Well, um, now you come to mention it,
+{5964}{6009}Ooh, Miss Salt!
+{6010}{6130}Can you imagine what it's like to|hold your very own little baby?
+{6131}{6205}Not really.
+{6311}{6350}Do we have to?
+{6351}{6411}Yeah.
+{6600}{6631}/I wish you weren't going.
+{6632}{6672}It's only for a couple of nights.
+{6673}{6707}What time is Robert coming?
+{6708}{6744}He's not. Alexandra is.
+{6745}{6817}Alexandra? That's a pretty name.
+{6818}{6886}She's a failed fashion student|or a model or something.
+{6887}{6931}A model?
+{6932}{6985}/You know. One of those|/annoying daddy's rich girls
+{6986}{7066}/who always gets bailed out. And|/as Daddy is our major financier...
+{7067}{7114}She's going to Newcastle with you?
+{7115}{7161}No, no. Ireland, next week.
+{7162}{7193}What?
+{7194}{7238}Oh God, they're here.
+{7239}{7297}Couldn't you work with|someone unattractive?
+{7298}{7364}Don't worry, darling, she's not my type.
+{7365}{7465}She looks a bit like a Russian|tennis player. A male one.
+{7466}{7503}/Love you.
+{7504}{7583}Yeah, me too!
+{8208}{8254}/Hey Brian, she's here.
+{8255}{8376}/Your girlfriend's here, Brian.
+{8377}{8411}/Morning, Jim.
+{8412}{8496}/Morning, boss.
+{8559}{8643}Morning, Brian.
+{8662}{8685}Morning, boss.
+{8686}{8723}How's it going?
+{8724}{8781}Everything's fine from|where I'm standing.
+{8782}{8860}Tell the rest of the Village People|I don't want to be disturbed.
+{8861}{8914}I have a lot of work and I|need to get my head down.
+{8915}{9058}Well, you don't have|to. But if you insist.
+{9059}{9113}/Hey, Brian-o, watch your hernia.
+{9114}{9186}Can someone give Brian a hand?|Looks like he's struggling.
+{9187}{9240}No, I'm fine.
+{9241}{9335}/Too heavy for you?
+{9360}{9463}/You big girl's blouse.
+{9720}{9749}Mum!
+{9750}{9793}/Hello!
+{9794}{9856}Hello!
+{9894}{9985}You look so good. How are you?
+{9986}{10017}I'm fine.
+{10018}{10121}Oh, my goodness. This looks a bit grand.
+{10122}{10157}It's exciting.
+{10158}{10278}I should think it's very pricey.
+{10279}{10416}Now, darling, don't get carried away.
+{10455}{10491}Holy...
+{10492}{10552}Shit!
+{10698}{10760}Hello.
+{10925}{10985}Oh, look, little dragonflies.
+{10986}{11053}/I know.
+{11058}{11124}/Your biological clock is ticking,
+{11125}{11175}/and you can't turn it back.
+{11176}{11290}/But for some women, this issue|/may be of even greater concern
+{11291}{11379}/and for those women, Doctor Dupompe
+{11380}{11452}/is the leading physician in|/the field of infertility.
+{11453}{11531}/The early menopause can affect as many
+{11532}{11661}/as one in every four|/women, even as young as 34.
+{11662}{11704}Just like poor old Harriet.
+{11705}{11802}Auntie Harry? Hairy Harry? I|thought she was just a lesbian.
+{11803}{11843}/Come here, darling!
+{11844}{11956}/That Harriet. She always|/had problems down below.
+{11957}{12049}/Dr Dupompe could be your|/hope in a barren world.
+{12050}{12127}/Symptoms include weight gain
+{12128}{12238}/headaches, changes in body odor,
+{12239}{12319}/and an increase in facial hair.
+{12320}{12384}/If it wasn't for Doctor Dupompe,
+{12385}{12426}/I would have remained childless.
+{12427}{12519}/To put your mind at|/rest, why not visit us
+{12520}{12654}/at Dupompe Fertility Care. We care.
+{12722}{12744}I'll take it.
+{12745}{12795}It's 150 pounds!
+{12796}{12870}Wrap it up.
+{13024}{13064}Come on, we're going to be late.
+{13065}{13170}Calm down. It's just over there.
+{13171}{13280}/Oh, darling, please, slow down.
+{13281}{13405}So, Arabella has found me|the most fabulous new guru
+{13406}{13485}who is going to change my life,|and I have an appointment with her
+{13486}{13598}today at three o'clock. So, think|I'll make it? Or should I call her?
+{13599}{13635}Alright, I'll just call her.
+{13636}{13680}Darling, you know I'm there for you,
+{13681}{13737}but couldn't you have waited for Zak?
+{13738}{13806}I'm 33 years old, and early|menopause runs in my family.
+{13807}{13861}My mum is a good Catholic,|I'm an only child,
+{13862}{13930}and Auntie Harry has a|mustache. Do the maths!
+{13931}{14030}Look, I've had five periods last|year. Five out of a possible 12.
+{14031}{14059}Alright.
+{14060}{14149}Not another word.
+{14257}{14320}/Hello, Dupompe Fertility Clinic.
+{14321}{14400}Hope you're not as sterile as this room.
+{14401}{14504}How kind. Remind me|again why you're here.
+{14505}{14568}What does Zak think|about all of this anyway?
+{14569}{14614}Oh. Mmm.
+{14615}{14676}Oh, brilliant.
+{14677}{14754}Look, he's working really hard,|I don't want to worry him.
+{14755}{14835}And you know he gets funny|about women's bits and babies.
+{14836}{14920}Darling, you're going to scare|the living daylights out of him.
+{14921}{14961}I want a baby more than anything.
+{14962}{15039}I know it's a hideous concept to|you but could you, for once just
+{15040}{15157}be nice and supportive and|agree with everything I say?
+{15158}{15207}/Hello? Yes, of course.
+{15208}{15302}/Miss Salt, please.
+{15357}{15409}/And this is my best friend Clem.
+{15410}{15456}Hello to Miss Clem.
+{15457}{15575}Who looks like a very|healthy young lady.
+{15576}{15613}Oh.
+{15614}{15673}Thank you for seeing me|on such short notice.
+{15674}{15728}/It's always a pleasure|/to see young women
+{15729}{15824}/who take their fertility|/health seriously.
+{15825}{15895}/Miss Clem, do you have 'des enfants'?
+{15896}{15986}What, me? No. Not even 'des' goldfish.
+{15987}{16044}I don't want to ruin my physique.
+{16045}{16087}/Such a pity, no? So,
+{16088}{16150}down to business, yes?
+{16151}{16187}Yes.
+{16188}{16334}Now, laparoscopy is|a very light surgery.
+{16351}{16418}There is no scars whatsoever.
+{16419}{16507}It's just a little peek at the ovaries.
+{16508}{16553}Well, it should be free, then.
+{16554}{16626}Thank you, Clem. When will we|know that everything is okay?
+{16627}{16721}Soon enough. Well, I'm sure|a healthy young lady like you
+{16722}{16865}has nothing to worry about.|Okay? Shall we get started?
+{16866}{17033}Your best, best friend can come|back for you in about three hours.
+{17034}{17123}Right. Good luck.
+{17182}{17264}And no funny business. I'm a lawyer.
+{17265}{17332}Mmm-hmm.
+{17402}{17470}/Nurse, prepare five|/milligrams to start with.
+{17471}{17507}/Yes, doctor.
+{17508}{17582}/Thank you.
+{17625}{17681}/Calm down, Miss Salt.
+{17682}{17822}/We'll just put you|/into a twilight sleep.
+{17823}{17881}Hmm.
+{18313}{18345}Hi!
+{18346}{18370}Hello!
+{18371}{18418}I'm glad you're back.
+{18419}{18458}Ooh!
+{18459}{18537}We're going to a party at your|sister's house for the baby.
+{18538}{18640}What? Now? You are joking?
+{18641}{18715}Okay, okay.
+{18954}{19022}Don't wind Daniel up about|his 'Chelsea tractor. '
+{19023}{19070}Don't get pissed and do the crap joke.
+{19071}{19105}The elephant is very funny.
+{19106}{19142}In front of your mother?
+{19143}{19201}And at least pretend you're|interested in the baby.
+{19202}{19262}Okay!
+{19295}{19341}Hello.
+{19342}{19385}Hello, darling.
+{19386}{19421}Congratulations.
+{19422}{19490}/Ah, yeah.
+{19491}{19570}Eyes. It's got eyes.|Two of them. Told you.
+{19571}{19647}They generally come with eyes.
+{19648}{19748}/Cor, It's got a kind|/of squidged up face
+{19749}{19842}as well. It's all sort|of squidgy. Just there.
+{19843}{19912}How nice of you to point|out the squidginess.
+{19913}{20029}But 'it' is a she. Your niece, Arabella.
+{20030}{20169}/Oh, it's not... it's|/not doing a shit, is it?
+{20170}{20253}No, she's yawning.
+{20254}{20281}/Oh.
+{20282}{20348}She's so beautiful, look at her.
+{20349}{20383}/Yeah, God, love her.
+{20384}{20480}Is there any, um...?
+{20505}{20529}Can l...?
+{20530}{20587}Have her? By all means.
+{20588}{20683}I lost all feeling in my|left arm 20 minutes ago.
+{20684}{20715}Hello.
+{20716}{20757}/It's not good for my nether regions
+{20758}{20812}/to be sitting in the|/one place for too long.
+{20813}{20901}Jesus Christ, what is that?!
+{20902}{21046}That's me. It's what's|called a belly cast.
+{21047}{21100}/God, that's amazing.
+{21101}{21190}/It took forever.
+{21487}{21514}/It's funny.
+{21515}{21577}/I wasn't keen at first
+{21578}{21617}/but I'm really glad that Daniel
+{21618}{21653}/persuaded me to get it done.
+{21654}{21721}There you go. Don't touch it.
+{21722}{21787}/It's a perfect reminder|/of a precious time.
+{21788}{21888}And a constant reminder of|why I have stretch marks.
+{21889}{21999}It's a small price to pay.
+{22001}{22054}/Uh-oh.
+{22055}{22130}/My poor belly.
+{22131}{22239}/I didn't, that wasn't...
+{22290}{22363}/That was... right, that was...
+{22364}{22385}What you doing?
+{22386}{22451}/Sorry.
+{22454}{22501}Well, don't walk off like that, I mean,
+{22502}{22574}someone is gonna have to clear it up.
+{22575}{22610}/Oh.
+{22611}{22671}Kids!
+{22732}{22781}Well, that didn't go too badly.
+{22782}{22831}That was you, wasn't it?
+{22832}{22942}What? That little boy|was running around...
+{22943}{22994}You smashed your sister's sculpture.
+{22995}{23034}Yeah.
+{23035}{23103}It's bad enough you broke it,|but you blame a three year-old.
+{23104}{23133}I'm sorry.
+{23134}{23174}You couldn't care less.
+{23175}{23221}Well, you know...
+{23222}{23306}Exactly. How could I ever think you'd|be responsible enough to be a father?
+{23307}{23343}Overreaction!
+{23344}{23435}/What's the point?
+{23539}{23690}Rebecca is looking well,|isn't she... darling?
+{23691}{23749}Yes.
+{23784}{23840}Bizarrely, this baby|lark seems to suit her.
+{23841}{23952}Why would the concept of a baby|suiting someone be so bizarre to you?
+{23953}{23997}I'm just saying my sister is doing well.
+{23998}{24073}Strange that she's three years|younger but much more mature.
+{24074}{24117}That's your opinion.
+{24118}{24193}You've won every prize possible|for your documentaries.
+{24194}{24247}What more do you need|to prove you're ready?
+{24248}{24346}/You can't keep avoiding the issue.|/Just tell me why do you hate...
+{24347}{24397}/I do not hate babies! Okay?
+{24398}{24442}How'd you know I was gonna say "babies"?
+{24443}{24500}/Stop the car.
+{24501}{24542}/No, I'm not gonna stop the car.
+{24543}{24585}It's all about you, isn't it?
+{24586}{24629}What about what makes me happy?
+{24630}{24665}/All right then.
+{24666}{24693}/Good!
+{24694}{24735}/Idiot!
+{24736}{24780}Hmpf!
+{24781}{24865}Georgina, get back in the|car, you're being ridiculous.
+{24866}{24906}All right, we'll talk.
+{24907}{24976}I don't wanna talk to a babyaphobe.
+{24977}{25031}If you won't give me what I need,
+{25032}{25078}then I'll find someone else who will.
+{25079}{25170}You mark my words.
+{25245}{25331}Where you going?
+{25538}{25610}Fuck sake.
+{25614}{25684}Fuck off!
+{25913}{25990}You can stay here as long as it takes.
+{25991}{26045}Yeah, thanks, mate.
+{26046}{26117}Just give her a couple of|days, she'll calm down.
+{26118}{26219}/You know what they're like.
+{26220}{26250}/Women.
+{26251}{26325}Yes, women.
+{26370}{26396}Who would have them?
+{26397}{26414}/Me.
+{26415}{26436}Yeah.
+{26437}{26473}And you.
+{26474}{26568}If she'd let you back in your|flat... Which she won't.
+{26569}{26616}Well... just leave her to sweat it out.
+{26617}{26700}I'll be back from Ireland in a couple|of weeks. She'll be all over me.
+{26701}{26851}You should never have put the words|"hate" and "baby" in the same sentence.
+{26852}{26885}Big mistake?
+{26886}{26953}/She's not getting any younger, is she?
+{26954}{27074}No. She's not a spring chicken.
+{27075}{27169}And in my experience, when|they hit a certain age,
+{27170}{27242}they get funny about babies and shite.
+{27243}{27348}Bloody biological clock.
+{27430}{27503}You know what, Benny boy? You're right.
+{27504}{27610}I fancy just chilling here,|sinking a couple of beers...
+{27611}{27673}watch some shit on the telly.
+{27674}{27791}Just you and me. Couple of big|men having some big man fun.
+{27792}{27874}/Zak. Too gay.
+{27909}{28046}Yeah, it was a bit, wasn't it? Sorry.
+{28654}{28681}Hello?
+{28682}{28719}/Miss Salt?
+{28720}{28767}/Dr Dupompe would like to see you.
+{28768}{28857}Yes, I'll be there.
+{28858}{28928}Bollocks!
+{29156}{29296}/A woman is born with a|/definitive number of ova
+{29297}{29374}and then the shop
+{29375}{29440}/shuts.
+{29454}{29508}But I have some left?
+{29509}{29667}/Madame, I can see only|/one ovum on the right.
+{29668}{29789}/Now, you have two|/weeks before you ovulate
+{29790}{29825}and then...
+{29826}{29895}It's bye-bye baby, hello mustache.
+{29896}{30028}Clem! So when exactly do I ovulate?
+{30067}{30121}The 22nd,
+{30122}{30168}/23rd, 24th and 25th.
+{30169}{30215}Oh, the 25th is my birthday.
+{30216}{30269}/Then a baby shall be your gift.
+{30270}{30332}Now, for these four days,
+{30333}{30452}/you will need to spend every|/second with your husband.
+{30453}{30489}I don't have a husband.
+{30490}{30530}Your boyfriend?
+{30531}{30590}No, there's no-one.
+{30591}{30681}Can't you just take it out
+{30682}{30733}and put it in a lovely little container
+{30734}{30782}and cryogenically freeze it for later?
+{30783}{30896}/Madame, it's not a sorbet.
+{30908}{30999}/May I suggest...?
+{31062}{31208}Sperm? I don't want|sperm, I want a baby.
+{31496}{31535}Hello!
+{31536}{31601}How are you?
+{31602}{31622}Are you okay?
+{31623}{31697}/It's terrible.
+{31698}{31761}Really, really bad. What's happened.
+{31762}{31793}Well, what?
+{31794}{31851}/I spoke to my guru last night,
+{31852}{31926}says that I can't eat chocolate anymore.
+{31927}{31987}/That it's blocking all my chakras.
+{31988}{32055}/It's just so hard for me to imagine.
+{32056}{32128}So... that's it.
+{32129}{32234}For the rest of my|life. No chocolate ever.
+{32235}{32295}Yeah.
+{32296}{32449}Do you have the same|chocolate chakra thing?
+{32467}{32549}I have this weird recurring|nightmare, where I wake up,
+{32550}{32621}and I'm old and hairy and alone.
+{32622}{32685}And I'm actually living my nightmare.
+{32686}{32777}/I ordered starters because I|/thought you might be peckish.
+{32778}{32860}Listen, you're not hairy|or old, you're beautiful.
+{32861}{32933}Thank you.
+{33069}{33177}I need more than one egg!
+{33182}{33229}You can have mine, if you like.
+{33230}{33395}Darling, she's only got|one egg left, down there.
+{33412}{33442}/One ovum left.
+{33443}{33482}What, you mean...
+{33483}{33511}/Yes.
+{33512}{33620}/Oh God. Just the one? Oh...
+{33621}{33714}That's bad, isn't it? Is that bad?
+{33715}{33761}/Listen, listen,
+{33762}{33861}/remember when we were 14 and the|/dentist said you needed braces?
+{33862}{33942}/We said that we were going|/to go get 10 second opinions
+{33943}{34015}/and we did go get ten|/second opinions and
+{34016}{34076}all the dentists said|that you needed braces.
+{34077}{34125}We don't have time for second opinions.
+{34126}{34316}I've got two weeks, I've only|got the one egg left. Just one!
+{34317}{34408}Right. Yeah. Um...
+{34428}{34491}/I prefer the red to the London stock,
+{34492}{34551}/but the red is 1 p more.
+{34552}{34601}/It's your choice, boss.
+{34602}{34700}This is the local one.
+{34701}{34771}Hmm. That one.
+{34772}{34799}No, that one.
+{34800}{34884}No, er, that one. Hang on a sec.
+{34885}{34947}Right.
+{35063}{35195}Alexandra, can you get that please?
+{35521}{35610}Wait right there.
+{35684}{35720}/It wasn't important.
+{35721}{35758}Let me know if Georgina calls.
+{35759}{35874}I thought you guys broke up.
+{36109}{36142}Georgina, I just need...
+{36143}{36299}We'll do it later. John,|out, I'm in a hurry.
+{37254}{37277}Good morning.
+{37278}{37311}I wondered...
+{37312}{37369}Hi! Alexandra.
+{37370}{37437}Hi. Nice to meet you.
+{37438}{37473}Is Zak Solomon in?
+{37474}{37503}And you are...
+{37504}{37569}Georgina. His... friend.
+{37570}{37631}/Funny. He's not mentioned you.
+{37632}{37715}/Really? Oh, is he here?
+{37716}{37772}Zakkie? You just missed him.
+{37773}{37814}He left for Ireland this morning.
+{37815}{37884}He wasn't supposed to|leave till tomorrow!
+{37885}{37979}Last minute change. He said he|just couldn't wait to get away.
+{37980}{38046}You know how impulsive Zakkie is.
+{38047}{38122}There must be some way of|contacting him. It's really urgent.
+{38123}{38209}His cell phone doesn't|work on the island. Sorry.
+{38210}{38277}There must be some way to contact him?
+{38278}{38338}I'll be joining him tomorrow,|so leave it with me.
+{38339}{38429}I'll tell him to call...|who are you again?
+{38430}{38490}Georgina! Can you write it down?
+{38491}{38567}He's booked us this quaint little|B & B in the middle of nowhere.
+{38568}{38606}Maybe that'll have a land line.
+{38607}{38699}No running water or heating, mind you.
+{38700}{38810}Just each other... for warmth.
+{38811}{38841}Are you and Zak...?
+{38842}{38873}/Hello Daddy?
+{38874}{38960}It was really nice to|meet you, Geraldine.
+{38961}{39050}Daddy, I need more|allowance for my trip.
+{39051}{39209}/Yes, to Ireland. Oh,|/really? I'm so excited!
+{40334}{40418}You're probably just working too hard.
+{40419}{40525}Why don't you take a holiday|with Clem? Find somewhere nice.
+{40526}{40574}Go and have some fun.
+{40575}{40753}Holidays are for happy people who want|to spend time with their loved ones.
+{40754}{40859}Hello! How's my favorite lady?
+{40860}{40885}Hello, darling.
+{40886}{40907}Hello.
+{40908}{40949}Fancy a cuppa?
+{40950}{41016}May I have a cappuccino with|extra cream and choccy?
+{41017}{41053}Thank you.
+{41054}{41158}So, darling, I have done it.
+{41159}{41230}I have called Guru Luke,
+{41231}{41293}and she said it's all|right to give your "spunk"
+{41294}{41419}to a complete stranger. Namaste.
+{41461}{41519}So, how long will it|take to get to Scotland?
+{41520}{41563}Ireland. We're going to Ireland.
+{41564}{41593}Oh.
+{41594}{41654}It's probably about a 45-minute flight.
+{41655}{41756}Then a boat trip over. Should be|at the hotel by about teatime.
+{41757}{41798}Soda rolls and cheese, I expect.
+{41799}{41879}Not cheese. It gives me migraines.|Believe me, it's not pretty.
+{41880}{41950}I barf like an elephant.
+{41951}{42011}Nice.
+{42058}{42118}/To the most successful insemination
+{42119}{42141}/that will ever be.
+{42142}{42200}Yay.
+{42237}{42342}Alright, darling, how's the plan?
+{42343}{42395}It's in development.
+{42396}{42490}/Let's have a look.
+{42550}{42586}There's nothing on it.
+{42587}{42636}I need your help.
+{42637}{42731}/Darling, help her.
+{42911}{42938}Don't look.
+{42939}{43047}/Stop being such a queen.
+{43066}{43125}/How obvious, Justin. Very deep.
+{43126}{43179}"Sexy straight man." That's practical.
+{43180}{43253}And on Day Four
+{43254}{43365}if we erase "sexy" and "straight"
+{43366}{43457}/and add "Justin."
+{43531}{43639}I think you're very sexy.
+{43921}{43999}Just stunning.
+{44000}{44085}So close to the mainland,|but so wild and untouched.
+{44086}{44200}Oh, yes. We're untouched by|the modern hand of Satan.
+{44201}{44274}/Apart from the odd plane or two.
+{44275}{44350}Island Life. The Rugged West.
+{44351}{44480}Day One, we find ourselves in Inishmaan.
+{44481}{44545}/It's the least populated|/of the Aran islands.
+{44546}{44587}/It's a wild, rugged beauty
+{44588}{44675}which has embraced human|life for over 5, 000 years.
+{44676}{44758}Is there a TV?
+{44770}{44833}Why waste time doing a TV program
+{44834}{44908}/about people who don't own|/a TV? Doesn't make sense.
+{44909}{44969}/If every assistant was like you,
+{44970}{45040}there'd be a drastic|improvement in viewing quality.
+{45041}{45135}You're right there.
+{45424}{45479}I don't want any stranger,|someone I know is awkward
+{45480}{45541}and we've established the|sperm bank is a no-no.
+{45542}{45591}What about "Sexy Brian"?
+{45592}{45644}How could I look him|in the face every day?
+{45645}{45749}/What about "Sexy Brian"?
+{45750}{45787}It's not ethical.
+{45788}{45850}/I don't feel we're focused.
+{45851}{45957}I really don't. What about a wedding?
+{45958}{46080}/Because everyone's really pissed and|/there's loads of love in the room.
+{46081}{46115}Yeah, or a Christmas party.
+{46116}{46168}In April?
+{46169}{46193}Right. A funeral.
+{46194}{46224}That's sick.
+{46225}{46257}I love it.
+{46258}{46290}Yeah, think about it.
+{46291}{46356}There are a lot of vulnerable men,
+{46357}{46429}/overwhelmed with emotion and|/not thinking too straight,
+{46430}{46544}/some alcohol, gorgeous|/Georgie, easy pickings.
+{46545}{46657}/I think it's fantastic.|/Alright, so, to review.
+{46658}{46733}On Day One you are going to lure
+{46734}{46833}a really sexy handpicked stranger|back to your apartment, right?
+{46834}{46900}/The only thing to figure out|/is how you're going to lure
+{46901}{46953}/the stranger back to your apartment.
+{46954}{47008}Then, on Day Two, if|you haven't shagged,
+{47009}{47076}then you go to a very|chic, tasteful burial.
+{47077}{47169}/The dead man can be no older|/than 40, because he'll have loads
+{47170}{47244}/of really sad lonely friends|/you'll have to comfort.
+{47245}{47332}On Day Three, if you|haven't shagged by then
+{47333}{47418}we'll just have to go to|some club, and you'll just
+{47419}{47481}take the first randy stranger.
+{47482}{47578}/And take him back to a|/hotel, it's easier to escape.
+{47579}{47681}And I do know of a really fabulous|hotel near the club I've in mind.
+{47682}{47769}/And if we do get to Day|/Four, Justin, darling, my pet,
+{47770}{47844}I'll even get you a hotel room.
+{47845}{47909}I think you should|definitely buy some sperm
+{47910}{47954}just in case the plan is a flop.
+{47955}{48061}/Justin? I think with you|/on hand for the top-up,
+{48062}{48167}/this plan is foolproof.
+{48858}{48913}So Lizzie decided to get a lodger.
+{48914}{48949}She puts one ad in The Post
+{48950}{49007}and the first guy that|walks in within 10 seconds
+{49008}{49077}they're having sex all|over the apartment. So...
+{49078}{49125}No, that's it, that's it.
+{49126}{49196}Day One, we advertise your house to let,
+{49197}{49265}by luring the Sexy|Stranger to your house.
+{49266}{49314}Have to tidy up Zak's stuff.
+{49315}{49401}But you're really|getting the hang of it!
+{49402}{49481}Oh Clem, look. There's Ben.
+{49482}{49529}/Maybe he knows how to get hold of Zak.
+{49530}{49566}Oh God.
+{49567}{49613}All right?
+{49614}{49669}/Stop it, stop it. Don't, don't.
+{49670}{49695}Why?
+{49696}{49733}Don't call him over, please.
+{49734}{49762}Have you and Ben...?
+{49763}{49797}/I have not and I never will.
+{49798}{49823}All right, girls?
+{49824}{49860}Ben!
+{49861}{49899}(dryly Hello.
+{49900}{49958}Interesting tree?
+{49959}{50084}/Yes, I happen to like the bark and|/the leaves on the tree very much.
+{50085}{50128}Getting in shape?
+{50129}{50237}I don't think there's anything|wrong with my shape, thank you.
+{50238}{50294}I know.
+{50295}{50378}We're in a park, and|Clem needed a wee, so...
+{50379}{50425}The tree gets it.
+{50426}{50538}If you don't mind, I'd actually|like a bit of privacy.
+{50539}{50589}I'm really glad we bumped into you,
+{50590}{50644}I really need to get hold of Zak.
+{50645}{50718}Sorry, I don't do|domestics. Keep me out.
+{50719}{50799}I know it's a lot to ask,|but it's really urgent.
+{50800}{50889}If he gets in touch,|I'll tell him to call.
+{50890}{50931}Thanks, Ben.
+{50932}{50973}Ben,
+{50974}{51026}can you please go back to your friends
+{51027}{51082}so I can have a wee? Thanks.
+{51083}{51123}Watching is out of the question?
+{51124}{51179}Ew.
+{51236}{51290}All right, lads, slide it over here.
+{51291}{51317}Shut up.
+{51318}{51344}I like bark.
+{51345}{51399}Shut up. Stop it.
+{51400}{51505}What was wrong with you?
+{51639}{51690}/Beautiful apartment for rent.
+{51691}{51743}/Open for viewing between six and eight.
+{51744}{51798}/It's not too early for|/you to have sex, is it?
+{51799}{51906}Hello? Yes, it would suit|a young professional person
+{51907}{52025}Dark, handsome males in|prime physical condition.
+{52026}{52074}/Maybe you'd prefer to place it
+{52075}{52117}/in the 'lonely hearts' section?
+{52118}{52172}This is a serious advertisement.
+{52173}{52229}The apartment just|happens to be very manly.
+{52230}{52385}/Of course, madam. Can I take|/your credit card details, please?
+{52386}{52489}/Are you sure you want|/to go through with this?
+{52490}{52600}I want to be pregnant.|I want to be a mother.
+{52601}{52655}I want the whole experience.
+{52656}{52790}My whole body is just aching for it.
+{52798}{52870}All right.
+{52953}{53009}Justin!
+{53010}{53057}Justin, for fuck's sake!
+{53058}{53135}Sorry, Coco.
+{53142}{53202}Hello. Be careful.
+{53203}{53225}Hello.
+{53226}{53277}Hello.
+{53278}{53370}So, Georgie has hundreds of|professional young males
+{53371}{53441}coming tomorrow, so can|you make her look fabulous
+{53442}{53492}and just do your magicky things?
+{53493}{53528}Right.
+{53529}{53697}And, Justin, I want to be|sexy but not too slutty.
+{53742}{53808}/Only one ovum left.
+{53809}{53853}/I need more than one egg.
+{53854}{53903}/On Day One, a sexy handpicked stranger
+{53904}{53945}/will be lured to your apartment,
+{53946}{54102}/but we need to find a|/way to lure him back.
+{55188}{55344}"My belly is a welcoming womb|of warmth and willingness."
+{55345}{55525}My belly is a welcoming womb|of warmth and willingness.
+{55731}{55788}I didn't realize|microphones were so fluffy.
+{55789}{55870}The mic is inside.
+{55871}{55915}/Do they come in different colors?
+{55916}{55959}A pink one would look really cool.
+{55960}{56034}Great idea.
+{56201}{56256}Ow!
+{56296}{56351}So,
+{56378}{56497}we'll spend the first few days|shooting G Vs, landscapes, etcetera.
+{56498}{56554}Pretty pictures?
+{56555}{56597}Yeah, yeah.
+{56598}{56673}And when people are used to seeing us,
+{56674}{56729}when we've had a few drinks
+{56730}{56774}/we can start doing some interviews.
+{56775}{56829}Try to fit in, gain people's trust.
+{56830}{56881}Integrity, that sort of thing.
+{56882}{56988}/Oh, you're so cute and|/so fluffy and adorable!
+{56989}{57097}/Zak, take a picture of this!
+{57098}{57259}You do realize that donkey|probably has rabies.
+{57573}{57634}Are you sure we're|doing the right thing?
+{57635}{57782}Stop panicking. It's|really going to be fine.
+{57783}{57850}/Darling, what's all this?
+{57851}{57911}/I thought I'd make a casual reference
+{57912}{57953}and see how compatible we are.
+{57954}{58014}/You're not going to marry|/them, you want their sperm.
+{58015}{58105}But if I want a nice baby it|helps to have similar interests.
+{58106}{58149}Have you prepared your story?
+{58150}{58197}Uh, no.
+{58198}{58248}/What are you going to|/say about yourself?
+{58249}{58309}I'm Georgina Salt, I own|a construction company.
+{58310}{58335}No!
+{58336}{58368}/No?
+{58369}{58402}/No.
+{58403}{58465}I'm Georgina Salt, I own|a construction company.
+{58466}{58515}No, they don't want|a girl in a hard hat,
+{58516}{58631}they want a woman who is strange|and mysterious and fabulous.
+{58632}{58719}Strange, mysterious, fabulous.
+{58720}{58753}Try these.
+{58754}{58815}They're sort of...
+{58816}{58893}/They're just...
+{58894}{58929}We should go.
+{58930}{59002}Good luck.
+{59103}{59152}/Hang on. Another dog.
+{59153}{59243}No. We asked for handsome|professional males.
+{59244}{59306}Quick!
+{59312}{59412}Hi. Sorry. Are you here|to rent that apartment?
+{59413}{59529}No, I'm so sorry, but it's been|rented by me and my fiance.
+{59530}{59601}We're just so in love. Sorry.
+{59602}{59667}Oh God.
+{59811}{59948}Did you not put "straight" in the ad?
+{60231}{60297}Oh God, this is a|complete waste of time.
+{60298}{60382}Hello, soldier.
+{60507}{60566}Hi. Bob Tushy.
+{60567}{60621}You have a really nice place.
+{60622}{60658}Thank you.
+{60659}{60763}So, where are you heading?
+{60764}{60879}Ummm, I've been headhunted|to head-up the head office.
+{60880}{60947}It's very exciting stuff.
+{60948}{61029}So where's head office? Anywhere nice?
+{61030}{61119}Ummm, Kazakhstan.
+{61145}{61203}Wow.
+{61254}{61350}What will a... beautiful|lady like you do out there?
+{61351}{61453}Umm, it's very hush-hush, on the QT, but
+{61454}{61595}I'll probably be killed while I'm away.
+{61658}{61695}Right.
+{61696}{61730}/Would you like to sit down?
+{61731}{61791}Okay.
+{61920}{61961}Do you like Italian food?
+{61962}{61989}I love it.
+{61990}{62021}Oh!
+{62022}{62065}I started making my own pasta recently.
+{62066}{62118}Messy, but it's worth it.
+{62119}{62162}What do you make?
+{62163}{62292}Linguine, tortellini... All kinds.
+{62326}{62353}Do you like France?
+{62354}{62432}I just went there on my holidays.
+{62433}{62457}Yeah.
+{62458}{62514}Oh! Where did you go?
+{62515}{62601}Paris, and then Versailles,|which is amazing.
+{62602}{62653}I've been there. It's so beautiful.
+{62654}{62683}Stunning, really.
+{62684}{62742}Yes.
+{62766}{62809}Do you like architecture?
+{62810}{62884}My sister's an architect.
+{62885}{62971}I have a lot of respect|for what she does
+{62972}{63033}because, um, she builds things...
+{63034}{63131}then, they're always there.
+{63132}{63191}/Georgina, darling, it's me!
+{63192}{63255}/Baby, if you're there, pick up please!
+{63256}{63321}/Hello?
+{63330}{63380}/Darling, it's me.
+{63381}{63438}/Baby, if you're there,|/can you pick up please?
+{63439}{63461}Zak!
+{63462}{63501}Darling?
+{63502}{63539}/Thank God. I'm so glad you called.
+{63540}{63581}Just, um, hold on.
+{63582}{63617}Have you got someone there?
+{63618}{63644}Mr. Tushy.
+{63645}{63672}Hello?
+{63673}{63709}I am so sorry, but the apartment
+{63710}{63778}has just been rented by a very nice man.
+{63779}{63812}Well, maybe I could call.
+{63813}{63885}Maybe not.
+{63891}{63972}Zak, are you still there? You'll|never guess what's happened.
+{63973}{64012}I have to see you.
+{64013}{64085}/Zakkie, honey, could you zip me up?
+{64086}{64177}Georgie? Georgina?
+{64345}{64496}What?! I only asked if|you could zip me up?
+{64534}{64614}/I don't understand. Why|/call if he's still with her?
+{64615}{64689}Who knows what's running|through his head.
+{64690}{64814}/He probably wants|/his pie and his chips.
+{64815}{64856}He wouldn't do that.
+{64857}{64971}George, he's a man. And|he's selfish, and, darling,
+{64972}{65074}he's let you down when|you needed him the most.
+{65075}{65155}What do you know about it? You|don't know what it's like, do you?
+{65156}{65222}/The longest you've been|/with someone is three weeks.
+{65223}{65317}/You don't know what it's like to|/be with someone for the longterm.
+{65318}{65421}/That's not true. I was with|/with Greg for one year.
+{65422}{65623}Whoop dee doo. You had a teenage|crush on some boy 13 years ago.
+{65658}{65785}Did you know that I was pregnant?
+{65834}{65904}You know,
+{65916}{66002}I was so scared.
+{66030}{66080}/And I thought
+{66081}{66146}I don't want to get fat.
+{66147}{66178}And I want...
+{66179}{66305}and I still want to go to parties.
+{66306}{66405}And I want to wear|short dresses. So we...
+{66406}{66502}I made the decision.
+{66567}{66653}And it was gone.
+{66664}{66710}/And I thought, "Right,
+{66711}{66886}now everything's going to just|go back to normal" and...
+{66887}{66909}/he left.
+{66910}{66992}/I'm so sorry.
+{66994}{67081}Do you know that he used to...
+{67082}{67128}kiss me right here...
+{67129}{67203}/to wake me up in the morning...
+{67204}{67336}/Just move the hair out of my eyes.
+{67382}{67473}/Fucking coconuts.
+{67493}{67601}He always smelled of coconut shampoo.
+{67602}{67650}Oh, Clem.
+{67651}{67747}Why didn't you tell me? I would have|been there. I would have helped you.
+{67748}{67799}I didn't tell you because|I don't want to be
+{67800}{67937}one of those really sad dreary women.
+{68047}{68167}You won't be. I won't let you.
+{68196}{68309}And I won't let you either.
+{68351}{68423}Come here.
+{68673}{68720}/My belly is a welcoming womb
+{68721}{68834}/of warmth and willingness.
+{69427}{69477}"I am a fertile female
+{69478}{69550}"full of fecundity and fruitfulness.
+{69551}{69611}"I am a fertile female
+{69612}{69746}full of fecundity and fruitfulness."
+{69769}{69822}/For fuck's sake! It's just a drizzle!
+{69823}{69853}Come on!
+{69854}{69896}Know how frizzy this'll get?
+{69897}{70091}You are about as much use as an|ejector seat in a helicopter!
+{70152}{70262}Come on, Georgie, pick up.
+{70269}{70358}No signal. Great.
+{70526}{70575}(Clem So many men, so little time.
+{70576}{70625}How did this guy Benny die?
+{70626}{70670}Parachute jump.
+{70671}{70698}Ouch.
+{70699}{70759}Come on.
+{70760}{70793}Hello!
+{70794}{70829}Hello.
+{70830}{70882}Hi. Our friend seems|to have disappeared.
+{70883}{70941}Can we get a lift to the|party? I mean, the wake?
+{70942}{70979}Sure. Hop in. I'm Malcolm.
+{70980}{71001}Georgina.
+{71002}{71030}Clem.
+{71031}{71069}There you go.
+{71070}{71142}Thank you.
+{71406}{71511}/This one is for Benny boy.
+{71512}{71610}This looks promising.
+{71635}{71700}Bubbly.
+{71730}{71793}Excuse me, darling,|how did you know Benny?
+{71794}{71849}Everyone knew Benny.
+{71850}{71880}Hello. Thank you.
+{71881}{72003}He owned the club. Boy's Night.
+{72052}{72167}/Yeah, you're with me, love.
+{72278}{72336}Isn't this great? They|are well up for it.
+{72337}{72375}If I can't pull one of this lot,
+{72376}{72498}you might as well shoot me now.
+{72541}{72654}I better load both barrels.
+{73623}{73658}They're...
+{73659}{73687}Yes.
+{73688}{73740}All of them?
+{73741}{73837}Well, maybe not them.
+{73838}{73887}But the rest?
+{73888}{73965}At a guess, yes.
+{73966}{74098}/Hello. Dressing down for this one.
+{74380}{74413}Do you mind?
+{74414}{74484}Carry on.
+{74587}{74622}/He would have loved this.
+{74623}{74648}Who?
+{74649}{74714}Well, Benny.
+{74715}{74815}Oh, yes. He would, wouldn't he?
+{74816}{74869}I'm James, by the way.|Benny's accountant.
+{74870}{74903}Oh, his ex-accountant.
+{74904}{74941}You're his ex-accountant?
+{74942}{75031}No, I mean you are with him|being dead and everything.
+{75032}{75104}Oh, right.
+{75170}{75255}It's a nice disco, isn't it?|Do you like disco dancing?
+{75256}{75332}Mm. My girlfriend,|well, my ex-girlfriend
+{75333}{75409}I danced like I had a poker|up my arse, which put me off.
+{75410}{75449}No shit?!
+{75450}{75510}Yeah.
+{75582}{75649}Right. Well, it was nice|to meet you, um...?
+{75650}{75707}Georgina. I'll look out|for the poker dancing.
+{75708}{75758}/I'm afraid you'll be|/looking for a while.
+{75759}{75823}I'm off home. It's been a long day.
+{75824}{75903}Oh, er, wait... could I, um,
+{75904}{76010}could I go home with you?|I mean, wait, sorry,
+{76011}{76128}could I get a lift|home to my home? Um...
+{76129}{76181}Would I have to dance?
+{76182}{76302}Um, dancing is not obligatory.
+{76323}{76400}I'd love to.
+{76902}{76976}I'm sorry about the mess. I've|been so busy with work lately.
+{76977}{77008}Busy, busy, busy.
+{77009}{77086}Yes... Busy.
+{77171}{77265}Oh, it's... homely.
+{77418}{77509}Would you like some wine before...?
+{77510}{77605}Wine would be lovely before...
+{77606}{77757}Um, take a seat, make|yourself comfortable.
+{77987}{78087}It was so sad when I|heard about... Benny.
+{78088}{78152}/It was such a shock.
+{78153}{78215}Well, he liked to take risks, didn't he?
+{78216}{78326}/I suppose knowing he lived his|/life to the full is some comfort.
+{78327}{78456}/We had some crazy times together.
+{78474}{78548}/Did you now?
+{78549}{78579}Like what, exactly?
+{78580}{78657}The usual crazy stuff. It's madness.
+{78658}{78706}Anyway, let's not talk about Benny.
+{78707}{78763}/It's so sad. Let's just talk about us.
+{78764}{78836}Yes. Let's.
+{78837}{78898}Oh, shit.
+{78899}{78956}Hm. Shit just about covers it.
+{78957}{79084}Oh. Er, no, er, look,|it's very complicated.
+{79085}{79135}No, it's very simple. "Day one"
+{79136}{79191}No, you don't understand.|Some more wine?
+{79192}{79319}What kind of sick person are you?
+{79374}{79409}/And for the record,
+{79410}{79542}your flat has gone way past homely.
+{79811}{79878}/I need more than one egg.
+{79879}{79939}/I don't want sperm, I want a baby.
+{79940}{80096}/22nd, 23rd, 24th, 25th.|/Zak, where are you?
+{80258}{80314}/Oh, Zak, where are you?
+{80315}{80420}/Let's get you something|/nice for your birthday.
+{80421}{80469}What do you need, dear?
+{80470}{80521}They don't sell what I need here.
+{80522}{80573}I don't feel like partying this year.
+{80574}{80616}All right, love.
+{80617}{80773}But at least let me make|you a birthday cake.
+{81102}{81168}Why don't we split up and|we'll have it done in no time?
+{81169}{81255}All right, love.
+{82062}{82101}/Someone likes his nuts!
+{82102}{82160}Mom!
+{82221}{82295}Nice young man.
+{82296}{82425}Now, dear, have we got everything?
+{82624}{82690}What may be boring for you|may not be for other people.
+{82691}{82733}Christ, if it's...
+{82734}{82789}You can't say that, okay? Not here.
+{82790}{82827}Jesus.
+{82828}{82915}Or that! They'd prefer if you swore.
+{82916}{82957}You'd be better off with a "shit."
+{82958}{83014}Or, just a good loud "fuck."
+{83015}{83059}Hi.
+{83060}{83173}Welcome. Please, follow me.
+{83401}{83502}Upstairs are the dormitories|and the prayer rooms.
+{83503}{83643}Not you, sir. Only the|young lady can come.
+{83644}{83714}Um, uh...
+{83795}{83841}Look... if you want decent funding
+{83842}{83888}for this precious series of yours,
+{83889}{83950}it's gonna have to be great, not good.
+{83951}{84022}/So just relax, and let|/me do what I do best.
+{84023}{84066}And what is that, exactly?
+{84067}{84114}Girl talk.
+{84115}{84194}Hey! Wait up!
+{84761}{84857}Beautiful, isn't it?
+{84872}{84902}Yeah.
+{84903}{84991}/A mother and her newborn child.
+{84992}{85077}/Creation. Nothing is more divine.
+{85078}{85161}/I suppose not.
+{85162}{85284}I wouldn't have thought that|you think about that stuff.
+{85285}{85395}You know, you being a nun.
+{85481}{85534}Must be hard for you.
+{85535}{85609}For a woman to... give that up.
+{85610}{85795}I think for me, as a woman...|it's the hardest sacrifice.
+{85955}{86053}I think you're right.
+{86547}{86643}Oh, Zak. I miss you.
+{86836}{86901}/Brian.
+{86925}{86956}You all right, boss?
+{86957}{87026}Sorry, I didn't get much sleep.
+{87027}{87072}I hope he was worth it.
+{87073}{87175}There's nothing like that going|on at all. Zak and I broke up.
+{87176}{87219}Oh great.
+{87220}{87327}It's not, because I just told you|my six-year relationship has ended.
+{87328}{87368}So, it's not great.
+{87369}{87445}No, it's not great for you, and|it's not great for him, but...
+{87446}{87542}but for other available men
+{87543}{87617}it's great.
+{87683}{87753}Well, uh,
+{87783}{87864}it's really hot in here.
+{87865}{87884}/Uh,
+{87885}{87969}um, what, um...
+{88115}{88154}/Georgina?
+{88155}{88180}Georgina?
+{88181}{88236}Um,
+{88243}{88300}Women have needs, Brian,
+{88301}{88388}and I need these needs to be
+{88389}{88461}tended to.
+{88482}{88568}Bloody hell, that's fantastic.
+{88569}{88622}I'll knead your needs any time, love.
+{88623}{88649}Oh yeah.
+{88650}{88686}Great.
+{88687}{88754}What about the weekend of the 25th,
+{88755}{88805}which happens to be tomorrow?
+{88806}{88845}Eh?
+{88846}{88918}We could do the morning, or I|could slip you in after lunch.
+{88919}{88955}Oh, slip me in...
+{88956}{88992}No pressure.
+{88993}{89043}It's a bit formal. Want|me to sign a contract?
+{89044}{89181}Actually, do you want to do that? No?
+{89212}{89268}I'll get back to you.
+{89269}{89331}Great.
+{89338}{89405}Alright.
+{89525}{89583}Okay, so the nuns are a|little pissy. So what?
+{89584}{89646}Pissy? Just don't get it, do you?
+{89647}{89779}You've ruined everything. Without|the nuns, we have nothing. Okay?
+{89780}{89855}/Without me, you have nothing,|/Zak Solomon. So I suggest
+{89856}{89921}if you want my daddy funding|this silly documentary
+{89922}{89991}/you start being nicer|/to me. A lot nicer.
+{89992}{90143}Well, frankly, my dear, I don't|give a fuck anymore, okay?!
+{90144}{90206}Sorry.
+{90235}{90349}I'd like a ticket to London, please.
+{90350}{90496}Hi, I need to be on the next|flight to London, please.
+{90497}{90569}Thank you.
+{90570}{90614}The last ticket has just gone.
+{90615}{90675}What?
+{90742}{90790}Please, I need to be on that flight.
+{90791}{90881}Well, maybe you could ask the lady.
+{90882}{90924}I'd rather cover my balls in honey
+{90925}{90970}and stick them in an ants' nest.
+{90971}{91092}I'm very sorry, sir, there's|nothing more I can do for you.
+{91093}{91141}Okay, where's the next flight from?
+{91142}{91173}Anywhere?
+{91174}{91248}Okay. The Dublin flight is full.
+{91249}{91276}Right.
+{91277}{91326}I'm just checking Belfast for you.
+{91327}{91352}Good.
+{91353}{91433}Yes. No. That's full, too.
+{91434}{91490}There must be something you can do.
+{91491}{91606}You thought about the ferry?
+{91758}{91824}Hi. I need to get to Cork for the ferry.
+{91825}{91880}Can you get me there in three hours?
+{91881}{91924}You must be joking.
+{91925}{91964}No? ...Okay.
+{91965}{92034}/How about now?
+{92035}{92064}Brilliant.
+{92065}{92182}/I did it in four hours once.
+{92260}{92370}/Boarding for the Pembroke|/ferry is now closing.
+{92371}{92414}Excuse me.
+{92415}{92470}Oi!
+{92540}{92579}Alright, look,
+{92580}{92710}"After insemination, keep legs|raised for 15 minutes. " Oh.
+{92711}{92780}"Sperm must be used before|it separates and gets cold."
+{92781}{92826}Yuk. That's disgusting.
+{92827}{92887}All right, moving on. Look, look.
+{92888}{92977}/Here's a list of loads and|/loads of potential daddies.
+{92978}{93067}4-50 looks good. He's German,|Scottish and Italian. That's nice.
+{93068}{93146}No, no. Your baby will then work
+{93147}{93264}/really hard at making loads|/of teeny-weeny little pizzas.
+{93265}{93356}Look, what about there,|number four. That one.
+{93357}{93449}/Look at him. English and|/Hungarian. There we go.
+{93450}{93555}You could pretend it's Zak's, and|then I can sue him for maintenance.
+{93556}{93712}Shouldn't have to pretend,|he should be here.
+{93734}{93780}Just call me 'one egg'.
+{93781}{93804}No.
+{93805}{93850}No boyfriend, one egg.
+{93851}{93880}/No, but, darling,
+{93881}{93977}Happy. We're going to be happy now.
+{93978}{94004}Happy one egg.
+{94005}{94042}Look, was that a smile?
+{94043}{94117}/There we go, there's|/a smile. I like that.
+{94118}{94185}Come here.
+{94186}{94308}I wish I could see their faces.
+{94332}{94390}/Evening, ladies. Having fun?
+{94391}{94475}Mm, Ignita sad.
+{94476}{94567}She not want to go back to Stockholm.
+{94568}{94688}Away you go. Enjoy yourselves.
+{95109}{95161}/I can see that girl's arse.
+{95162}{95200}I can actually see her arse.
+{95201}{95301}/She'll catch pneumonia.
+{95302}{95387}Look, darling, do you see what I see?
+{95388}{95484}/Yeah, and the rest!
+{95699}{95747}Think there's room for a brain?
+{95748}{95793}Perfect.
+{95794}{95893}/But the thing about slappers is|/that they consider sex their job
+{95894}{96031}/and condoms are like their|/uniform, so they just buckle up.
+{96032}{96074}/That sort of defeats the purpose.
+{96075}{96142}Well, tell him that you're a virgin.
+{96143}{96188}I'm 30 bloody 4 tomorrow.
+{96189}{96220}Yes, but you're Irish.
+{96221}{96277}I'm half Irish. And tonight I'm Swedish.
+{96278}{96344}Well, new plan. You're Irish again.
+{96345}{96414}/I don't really think they|/have virgins in Sweden.
+{96415}{96530}Now go. Go get him, darling.
+{97808}{97952}Ciao, bella. Where hid you all my lives?
+{98266}{98297}(receptionist Hello.
+{98298}{98389}Room 8-42, please.
+{98429}{98486}You come party with us?
+{98487}{98526}No, thank you, sir.
+{98527}{98651}I'm sure madam will|see to all your needs.
+{98652}{98767}Hope they're not next to us.
+{98810}{98849}Mamma mia.
+{98850}{98932}Ha! Bellisima!
+{99120}{99235}Zak, I'll never forgive you.
+{99426}{99513}So, princess, you miss Ireland?
+{99514}{99606}No, but I was the|runner-up for Miss Jamaica.
+{99607}{99631}Up your bottom.
+{99632}{99728}Not on a first date.
+{99850}{99928}Luca, you're a very handsome man.
+{99929}{99991}Yeah... me, too.
+{99992}{100055}Um, I want you to be my first.
+{100056}{100096}Yeah. Madonna!
+{100097}{100231}Madonna, but not the singer. Like...
+{100246}{100301}Oh my God!
+{100302}{100350}Oh shit!
+{100351}{100480}I have to go to the bathroom.|Be back in a minute.
+{100481}{100577}Don't move a muscle.
+{101072}{101169}Yeah, Colin? I'll be outside|in two minutes, mate.
+{101170}{101326}No, nothing much. Just|a card, and some cash.
+{101445}{101494}No, I don't think I'll bother...
+{101495}{101612}She's a bit soft in the head.
+{101711}{101828}/Luca, please be gentle with me.
+{101829}{101889}Luca?
+{102188}{102248}Fuck!
+{102264}{102324}Fuck!
+{102467}{102500}/Hello?
+{102501}{102559}Clem, it's me. Let's do it.
+{102560}{102711}/Right. Is it the pizza|/man or Mr Goulash?
+{102813}{102870}/I don't want sperm, I want a baby.
+{102871}{102936}/And Justin on hand for the task.
+{102937}{102981}/I need more than one egg.
+{102982}{103027}/If we even get to Day Four,
+{103028}{103229}/you need to seriously consider|/replacing your entire wardrobe.
+{103801}{103866}Excuse me, I'm looking|for a turkey baster.
+{103867}{103989}You're well-organized, girls. Come|in handy for Christmas there.
+{103990}{104055}/Coming in handy will be no use to us,
+{104056}{104174}/you see, my friend, she went on|/the Internet and she ordered...
+{104175}{104210}No, no.
+{104211}{104336}You don't want to waste|your money on one of those.
+{104337}{104453}Have one of these. I|know. She's a beauty.
+{104454}{104520}/And she'll always double up as a spoon.
+{104521}{104603}That's lovely. It's a|top of the range spoon.
+{104604}{104672}Bit of a squeeze. What I|need is a turkey baster.
+{104673}{104729}/Yeah, the one with|/the huge squishy balls
+{104730}{104780}/and the long plastic thingy.
+{104781}{104925}Something really... big and, like, hard.
+{104951}{105041}Do you think one day I'm gonna|meet a turkey baster of my own?
+{105042}{105142}I think it's talking to me.|Hello. And what do you do?
+{105143}{105238}He bastes turkeys. That's|really fascinating.
+{105239}{105305}Darling, I'm being an|insensitive cow, I'm sorry.
+{105306}{105362}I want Zak. I only want Zak.
+{105363}{105465}You can't speak about other men|in front of Mr Turkey Baster.
+{105466}{105525}I just never thought|it would come to this.
+{105526}{105638}The potential father of my child|is a sodding kitchen utensil.
+{105639}{105749}Stop it. Stop it. Come on.
+{105902}{106000}Excuse me, I'm sorry!
+{106053}{106140}Hi. How you doing? I need|to to get to London.
+{106141}{106171}London, is it?
+{106172}{106199}Yeah.
+{106200}{106241}That's an hundred pound each way.
+{106242}{106333}Do you take credit cards? No?|Visa, Mastercard, American Express?
+{106334}{106400}/There's an 'hole in|/the wall' up the road.
+{106401}{106509}Right. Don't go anywhere.
+{106857}{106919}Fuck!!
+{107105}{107132}Morning, boss.
+{107133}{107160}Good morning, Brian.
+{107161}{107224}It's a bit of a mess.
+{107225}{107264}Which bathroom?
+{107265}{107326}Up the stairs. It's only because|people were using the lav
+{107327}{107409}/that we found out there was a problem.
+{107410}{107491}Yuk. Can't believe people use|the toilet in a show home.
+{107492}{107580}Yep as funny as folk.|Let's check upstairs.
+{107581}{107676}Anyway, it just means that this unit
+{107677}{107712}will be out of order for a bit.
+{107713}{107746}That can't be helped.
+{107747}{107802}Hm.
+{107917}{107985}I wonder if it's only the|toilets that they use.
+{107986}{108084}Well, you never know.
+{108093}{108194}I, um... I phoned you.
+{108221}{108312}Last night. I left a message|about our date today.
+{108313}{108375}Right.
+{108393}{108483}We hadn't confirmed|times or what, but...
+{108484}{108558}So, boss, here we are... How about it?
+{108559}{108639}Oh... we couldn't. I mean,|what if someone came in?
+{108640}{108696}There's only two sets of keys
+{108697}{108801}and I've got one and|you've got the other.
+{108802}{108874}So why don't you...
+{108875}{109033}get yourself comfy...|and I'll go and lock up.
+{109150}{109279}Here we go, here we go, here we go
+{109408}{109497}Come on! Come on!
+{109502}{109533}Brian, I just wanna say...
+{109534}{109606}Come here.
+{109653}{109700}Right, you ready for this?
+{109701}{109729}Yeah... I just wanna
+{109730}{109850}Yeah, go, go. I'll be in here.
+{109884}{109932}/I'll tell you what, love,
+{109933}{109997}I've been thinking about|this for absolutely ages.
+{109998}{110032}Really?
+{110033}{110076}Wait and see what I've got for you.
+{110077}{110168}It's an absolute belter.
+{110169}{110265}Hey, I've not had any complaints...|I'm not gonna start now.
+{110266}{110339}/Hey, don't worry about precautions.
+{110340}{110507}I had a bad case of mumps|last year, so I'm infertile.
+{110508}{110542}What?
+{110543}{110594}/It's fine. I had kids early.
+{110595}{110669}I've got a ten year old and an|eight year old with my first wife.
+{110670}{110738}It comes in handy, now|I'm back on the market.
+{110739}{110808}/Mind you, it was a nasty business.
+{110809}{110880}/My bollocks swelled to|/the size of a watermelon.
+{110881}{110951}They took on a life of their own.
+{110952}{111024}/I had to sit on a special cushion.
+{111025}{111138}Anyway... you nearly ready?
+{111235}{111280}I've just got to go to the bathroom.
+{111281}{111348}That one is broken, so I'm|going to run downstairs.
+{111349}{111416}Hey, no problemo. Whatever.
+{111417}{111496}Come on, lad!
+{112465}{112642}"After insemination, keep|legs raised for 20 minutes."
+{113013}{113041}Miss Salt?
+{113042}{113068}Yes.
+{113069}{113168}Your, um... Sign here, please.
+{113169}{113358}Don't forget, keep it warm,|and use it before it separates.
+{113997}{114052}Oh.
+{114160}{114263}Oh, shit, it's too big.
+{114613}{114674}Right, little ones, I want|you to swim, swim, swim.
+{114675}{114699}/Georgina?
+{114700}{114758}Mum!
+{114760}{114852}Happy birthday, dear. I|wanted to surprise you.
+{114853}{114954}Oh dear, the icing is not dry.
+{114955}{115015}I'll just pop it in the fridge.
+{115016}{115090}Or should we have a piece now?
+{115091}{115145}Oh, no, no.
+{115146}{115207}It's so lovely, I just want to save it
+{115208}{115253}to show it to Justin and Clem.
+{115254}{115348}Oh, Justin. He's a nice boy, isn't he?
+{115349}{115433}Yes, he's nice.
+{115781}{115850}God... no-one said it would be easy
+{115851}{115920}but I for one never thought|that it would come to this.
+{115921}{116007}Hm. Nor me, l...
+{116046}{116094}Oh, darling.
+{116095}{116211}If I had the necessary machinery,|I'd step in and I'd do it.
+{116212}{116305}No, I haven't got it. So I can't do it.
+{116306}{116358}Right, no, of course.
+{116359}{116401}/And I want you to remember that...
+{116402}{116516}"It is a far greater thing that..."
+{116517}{116593}you do today... than...
+{116594}{116632}Done, are you?
+{116633}{116677}I don't know what it is but...
+{116678}{116738}Anyway, listen. The thing is,
+{116739}{116856}/you're standing in 'the|/last chance saloon. '
+{116857}{116921}You fuck this up...
+{116922}{117030}and you fuck up her life.
+{117057}{117085}Okay.
+{117086}{117162}/Anyway, darling... have fun.
+{117163}{117188}Right.
+{117189}{117271}/Bye. Alright.
+{117336}{117398}Hello.
+{117514}{117641}Thank you so much for doing this.
+{117722}{117773}Hello. We've booked a room for Jones.
+{117774}{117891}Mr. and Mrs. A suite, please.
+{118102}{118171}(Zak Taxi! Taxi!
+{118172}{118200}Taxi!
+{118201}{118226}Homeless git!
+{118227}{118269}Yeah, you too, mate.
+{118270}{118330}Taxi!
+{118627}{118697}Look, I know it's awkward,|but I want you to know,
+{118698}{118740}I'm really grateful.
+{118741}{118796}Ah!
+{119029}{119058}Fuck.
+{119059}{119099}/Just breathing. Feeling good.
+{119100}{119150}/Just a child, just|/the rest of your life.
+{119151}{119270}/It's nothing, it's fine. Breathe in.
+{119271}{119332}Breathe. Just feeling good.
+{119333}{119393}Fuck.
+{119452}{119555}/Come on. Come on! God.
+{119590}{119674}/Come on. Up you get.
+{119675}{119745}How's it going?
+{119746}{119809}/Not very well. Uh...
+{119810}{119901}Anything I can do?
+{119969}{120000}I don't know, uh,
+{120001}{120087}/Well, you could...
+{120088}{120142}I don't know, you could...
+{120143}{120263}you could pretend to be Brian.
+{120385}{120460}(deep voice I'm Brian. Sex|god of Salt Construction.
+{120461}{120560}/I'm wearing tight jeans, and sweat is|/dripping off my big bulging muscles.
+{120561}{120779}/I've got a huge belter waiting for|/you, and I want to grab your arse.
+{120799}{120883}That was great.
+{120963}{121024}/Yes! Yes!
+{121025}{121129}/Oh my God! Oh yes! Yes! Oh my God!
+{121130}{121200}/Georgie, you're not gonna|/believe it. It's amazing!
+{121201}{121288}George Michael has just|called me, and he said that
+{121289}{121363}he wants me to do his|costumes for his next tour.
+{121364}{121404}What?!
+{121405}{121490}Yes! And I have to go now. He|wants me to go to a fitting now.
+{121491}{121600}I want it. I want that spunk.|So you get back in there.
+{121601}{121666}George.
+{121721}{121791}I can't do it.
+{121792}{121842}It's a huge responsibility.
+{121843}{121968}I can't have a baby with you|because Clem ordered me to.
+{121969}{122012}I'm sorry. I'm really sorry.
+{122013}{122057}You can't pull out now. I forbid you.
+{122058}{122151}We'll go down to the bar,|and I will find you a man.
+{122152}{122232}No way. I'm sick of looking at|every man like he's a dick on legs.
+{122233}{122292}I have one day left, and you promised!
+{122293}{122331}You're my best friend!
+{122332}{122375}No, I'm not gonna get my pants off.
+{122376}{122425}You're not taking off my trousers.
+{122426}{122464}I am not having sex with you!
+{122465}{122537}I'm walking out of this room. Ow!
+{122538}{122601}You deserve a whipping! I'm|going to give it to you!
+{122602}{122696}/Stop it! Stop it! Help! Help me!
+{122697}{122733}Can you come back later?
+{122734}{122774}/Come along.
+{122775}{122847}What I do in the privacy of my|own room...! We were wrestling!
+{122848}{122924}Hang on, it was role playing.|You're gonna hear from me.
+{122925}{122959}Yes.
+{122960}{123018}We're two consenting adults|and he was up for it!
+{123019}{123044}Thank you, madam.
+{123045}{123109}And... good night!
+{123110}{123184}Good night.
+{123361}{123419}Taxi. Taxi!
+{123420}{123453}Taxi!
+{123454}{123538}Please! ...Yes!
+{123681}{123803}/I said, "I'll not go near|/that thing. You're crazy. "
+{123804}{123840}Ben!
+{123841}{123918}You alright?
+{123941}{124020}What's wrong?
+{124120}{124173}I had a dream of my life.
+{124174}{124241}I would marry Zak and we would have
+{124242}{124288}a few children and a lovely home.
+{124289}{124373}/I'm sure that's what Zak|/wants, too. Deep down.
+{124374}{124424}I know about Alexandra.
+{124425}{124461}/The daddy's girl?
+{124462}{124528}/Mouth with more teeth than a shark?
+{124529}{124591}I know all about their|affair. It's okay.
+{124592}{124665}No, he thinks she's a|complete pain in the arse.
+{124666}{124743}Well, even if he wasn't with her,|I can't force him to be with me.
+{124744}{124790}I miss him so much.
+{124791}{124898}Georgina, it's all right.
+{124899}{124938}Hey, Zak!
+{124939}{124972}What's going on?
+{124973}{125064}Zak! I'm so glad you're back! Thank God.
+{125065}{125107}Zak, it's not what you think.
+{125108}{125132}Not what I think?
+{125133}{125164}Wait!
+{125165}{125218}/You can't keep your hands off her!
+{125219}{125296}It's taken half my life to get here!
+{125297}{125334}Georgina was very upset.
+{125335}{125394}No, no, no. This is|upset. You absolute arse!
+{125395}{125432}/Wait! Stop! Stop!
+{125433}{125498}Wanker!
+{125741}{125787}Oh my God. I'm so sorry.
+{125788}{125886}I'm sorry. Wait, Zak!
+{125918}{125988}Zak! Zak!
+{126137}{126232}/You've reached Zak Solomon's|/voicemail. Please leave a message.
+{126233}{126319}I have something important|to tell you. Please call me.
+{126320}{126483}I need to see you tonight,|before it's too late.
+{128082}{128162}Maybe God has other plans for me.
+{128163}{128229}All right, uhh...
+{128230}{128310}Would you like some vodka?
+{128311}{128354}No.
+{128355}{128443}What about some beer or whiskey?
+{128444}{128476}No.
+{128477}{128606}No? All right, I know,|what about echinacea,
+{128607}{128689}with sort of ginger? Do you like that?
+{128690}{128737}All right, I'll have a weak one.
+{128738}{128799}Alright.
+{128800}{128903}Oh, I'll be right back.
+{129056}{129128}Oh. Hello.
+{129159}{129200}/What do you want?
+{129201}{129295}I had a wee spot of bother with|Georgina and Zak. Have you...
+{129296}{129371}/Hey, Georgina! Did you find Zak?
+{129372}{129460}Are you all right? I felt bad.
+{129461}{129494}I tried calling him.
+{129495}{129591}I'm sorry I ran out.
+{129603}{129629}Clem, hi.
+{129630}{129669}Zak.
+{129670}{129741}I need to find out what's going|on between Georgina and Ben.
+{129742}{129788}/You're all right?
+{129789}{129837}/I'm absolutely fine.
+{129838}{129892}Or maybe I should just see for myself.
+{129893}{129947}/I don't believe this.
+{129948}{129997}/You're getting this all wrong.
+{129998}{130072}Oh really?!
+{130107}{130169}Ow! That really hurt!
+{130170}{130261}Right... get down!
+{130267}{130365}/Do as you're told! How many times...?
+{130366}{130439}Oh, great, I'm bleeding.
+{130440}{130494}/I've been telling you,|/I don't fancy Georgina.
+{130495}{130600}/She's all right, but...|/she's no Clem, is she?
+{130601}{130643}What?
+{130644}{130704}What?
+{130711}{130749}Well, you're just so...
+{130750}{130783}What?
+{130784}{130900}/What I mean is you're really...
+{130901}{130926}Do you like me?
+{130927}{130962}Well, yeah.
+{130963}{130987}Yeah?
+{130988}{131018}/Is that okay?
+{131019}{131136}That's fine, good, thank you.
+{131172}{131211}Don't. Stop looking.
+{131212}{131236}Excuse me.
+{131237}{131295}Aye.
+{131316}{131381}So now that we've established that
+{131382}{131440}I'm not the hot property|that you think I am
+{131441}{131472}what do you want?
+{131473}{131540}Then you can go crawling|back to Alexandra.
+{131541}{131574}What?
+{131575}{131647}Alexandra?
+{131693}{131806}You are joking, aren't you?
+{131833}{131906}Okay, you're not. Sure, she's beautiful,
+{131907}{132035}but that's not what I look for in|a person, George, you know that.
+{132036}{132131}What I mean is that you|are way past beautiful.
+{132132}{132212}You're not past it, obviously.
+{132213}{132335}I mean, you're beautiful, but|you're so much more than that.
+{132336}{132417}Oh shit, um...
+{132418}{132510}Georgie... I love you, okay?
+{132511}{132575}I've never stopped loving|you. Not for a second.
+{132576}{132712}Life without you doesn't make any sense.
+{132713}{132854}Georgie, please, can we just, can we...
+{132909}{132972}Look... I want what you want.
+{132973}{133059}And not because you want me to|want it but because I want it too.
+{133060}{133117}Does that make sense?
+{133118}{133185}Well, unfortunately for|me, it's too bloody late.
+{133186}{133258}I've become your ideal woman,|but I can't have children.
+{133259}{133327}What? Georgie!
+{133328}{133409}Georgie! What do you mean?
+{133410}{133445}Ask them, they'll tell you.
+{133446}{133473}I wanna ask you.
+{133474}{133558}Leave me alone.
+{133746}{133806}Well?
+{134458}{134544}/They've explained|/everything. I'm so sorry.
+{134545}{134616}/I really meant what I|/said. Let's still try.
+{134617}{134708}/Okay? I love you.
+{135185}{135236}Can I come in, boss?
+{135237}{135328}/Brian, come in. Hi.
+{135329}{135383}About the other day, uh...
+{135384}{135462}Look, don't say another word.
+{135463}{135542}Yeah, I know.
+{135557}{135585}I know.
+{135586}{135636}It was my bollocks, weren't it?
+{135637}{135702}Not exactly. It...
+{135703}{135742}Look... I know.
+{135743}{135868}Sometimes the sheer size of my|down belows scares people off.
+{135869}{135904}That was before the mumps.
+{135905}{135957}Oh!
+{135958}{136000}Yeah, well.
+{136001}{136047}Thank you for this lovely chat.
+{136048}{136116}Maybe we could just put it behind us?
+{136117}{136188}Yeah, no problemo. It'll|just be our little secret.
+{136189}{136222}Thank you, Brian.
+{136223}{136312}And all the lads who|saw you running off.
+{136313}{136464}It'll be their little|secret as well. Okay.
+{136829}{136896}Come in!
+{137142}{137197}Hi.
+{137558}{137596}/Hello.
+{137597}{137652}Ow.
+{137728}{137762}/Hi.
+{137763}{137804}/Hi.
+{137805}{137865}Ouch!
+{137898}{137931}/Hello.
+{137932}{137987}Hi.
+{139033}{139084}/Miss Salt. This is Linda,
+{139085}{139128}/at the Park Mews Clinic.
+{139129}{139204}/As you requested, we've rechecked|/your positive urine test.
+{139205}{139264}/And the result of your blood test shows
+{139265}{139380}/that you are 100% pregnant!
+{140081}{140139}Zachariah, darling.
+{140140}{140178}Lovely party.
+{140179}{140241}She's so sweet, how she's sleeping.
+{140242}{140321}Show me again.
+{140322}{140416}It's just gorgeous.
+{140900}{141013}Don't worry, it'll be fine.
+{141133}{141179}I want to give you your real present.
+{141180}{141276}Mm. My real present.
+{141317}{141386}Come and get it. You have to look for it
+{141387}{141472}Okay, do you wanna give me a clue?
+{141473}{141533}Cold.
+{141612}{141677}Warmer.
+{141802}{141886}Very, very hot.
+{141943}{142013}You're...
+{142225}{142251}/you're...
+{142252}{142317}um, uh,
+{142511}{142562}God! Wow, it's...
+{142563}{142601}Woo!
+{142602}{142784}Hip hip... Hooray! Hip hip...|Hooray! Hip hip... Hooray!
+{142788}{142870}Oh, come here!
+{142888}{142928}I love you.
+{142929}{143013}I love you too.

@@ -1,0 +1,5873 @@
+1
+00:00:19,960 --> 00:00:23,880
+<i># And every time it rains
+# It rains pennies from heaven</i>
+
+2
+00:00:25,600 --> 00:00:29,200
+<i># Don't you know each cloud
+# contains pennies from heaven?</i>
+
+3
+00:00:30,640 --> 00:00:33,160
+<i># You'll find your fortune falling</i>
+
+4
+00:00:33,280 --> 00:00:34,800
+<i># All over town</i>
+
+5
+00:00:35,480 --> 00:00:40,040
+<i># Be sure that your umbrella
+# is up-up-up-up-upside down</i>
+
+6
+00:00:40,160 --> 00:00:43,760
+<i># And trade them for a package
+# of sunshine and ravioli</i>
+
+7
+00:00:43,880 --> 00:00:46,120
+<i>Nice weather we're having, huh?</i>
+
+8
+00:00:47,040 --> 00:00:49,240
+<i>Here in the kingdom of Malaria,</i>
+
+9
+00:00:49,360 --> 00:00:54,320
+<i>every day's forecast is rainy
+with a 100% chance of horror.</i>
+
+10
+00:00:55,680 --> 00:00:56,960
+<i>It wasn't always like this, though.</i>
+
+11
+00:00:57,640 --> 00:01:00,320
+<i>Years ago, Malaria was
+a sunny land of farmers.</i>
+
+12
+00:01:00,440 --> 00:01:03,680
+<i>Until the mysterious storm clouds
+rolled in and never left.</i>
+
+13
+00:01:05,480 --> 00:01:09,280
+<i>They killed our crops,
+and our people became poor.</i>
+
+14
+00:01:09,400 --> 00:01:11,040
+<i>And that's when King Malbert...</i>
+
+15
+00:01:11,120 --> 00:01:13,360
+<i>thought up a new way
+for us to make money,</i>
+
+16
+00:01:13,480 --> 00:01:15,240
+<i>Evil Inventions.</i>
+
+17
+00:01:15,360 --> 00:01:18,240
+<i>The kind that crush you, kill you,
+bring you back to life,</i>
+
+18
+00:01:18,360 --> 00:01:20,720
+<i>then kill you again,
+way worse.</i>
+
+19
+00:01:20,840 --> 00:01:23,160
+<i>We invent them, and the world
+pays us not to unleash them.</i>
+
+20
+00:01:23,280 --> 00:01:27,200
+<i>Oh, It's a great gig, especially
+if you're an Evil Scientist.</i>
+
+21
+00:01:27,320 --> 00:01:30,280
+<i>Fame, fortune,
+a rent-free castle in the hills.</i>
+
+22
+00:01:30,400 --> 00:01:32,520
+<i>They get it all.
+They're the top of the heap.</i>
+
+23
+00:01:32,640 --> 00:01:35,520
+Igor! Pull the switch!
+
+24
+00:01:36,680 --> 00:01:39,000
+Yes, Master!
+
+25
+00:01:39,120 --> 00:01:42,960
+<i>And the bottom of the heap?
+Those are the poor slobs like me,</i>
+
+26
+00:01:43,080 --> 00:01:46,040
+<i>born with a hunch on our back, Igors.</i>
+
+27
+00:01:46,440 --> 00:01:48,440
+<i>Actually, that Igor's not me.</i>
+
+28
+00:01:50,040 --> 00:01:53,000
+Igor! Pull the switch!
+
+29
+00:01:53,240 --> 00:01:55,240
+Yes, Master!
+
+30
+00:01:55,680 --> 00:01:57,360
+<i>No, no, no,
+that's not me, either.</i>
+
+31
+00:02:01,880 --> 00:02:04,240
+<i>That's me. See?
+I look nothing like those other guys,</i>
+
+32
+00:02:04,360 --> 00:02:05,720
+<i>much better-looking.</i>
+
+33
+00:02:05,840 --> 00:02:09,880
+<i>Anyway, all Igors are forced
+to serve Evil Scientists.</i>
+
+34
+00:02:10,360 --> 00:02:13,160
+<i>Our life is a permanent graveyard shift.</i>
+
+35
+00:02:13,280 --> 00:02:15,520
+<i>But I never wanted to be an Igor.</i>
+
+36
+00:02:16,640 --> 00:02:19,200
+<i>I always wanted to be
+an Evil Scientist.</i>
+
+37
+00:02:19,320 --> 00:02:23,120
+<i>Unfortunately, the hunch on my
+back was a one-way ticket</i>
+
+38
+00:02:24,200 --> 00:02:25,560
+<i>to Igor School.</i>
+
+39
+00:02:25,680 --> 00:02:29,600
+<i>I majored in Talking With a Slur
+and graduated with a Yes Masters Degree.</i>
+
+40
+00:02:30,560 --> 00:02:32,240
+<i>Then, it was off to find a job.</i>
+
+41
+00:02:32,800 --> 00:02:36,320
+Hi, I'm here about the "Igor Wanted" ad.
+My name's Igor.
+
+42
+00:02:36,440 --> 00:02:38,680
+Well, of course it is.
+I've got a hunch on my back.
+
+43
+00:02:38,800 --> 00:02:40,600
+What's my name gonna be? Kevin?
+
+44
+00:02:46,000 --> 00:02:47,880
+<i>They didn't
+appreciate my creative style.</i>
+
+45
+00:02:48,720 --> 00:02:51,240
+<i>But eventually, I landed a job
+for Dr. Glickenstein.</i>
+
+46
+00:02:51,360 --> 00:02:53,720
+Pull the switch!
+
+47
+00:02:54,560 --> 00:02:56,080
+<i>Not the smartest scientist.</i>
+
+48
+00:02:56,200 --> 00:02:59,000
+<i>His last invention was an Evil Lasagna.</i>
+
+49
+00:02:59,120 --> 00:03:01,720
+<i>It didn't kill anyone.
+And it actually tasted pretty good.</i>
+
+50
+00:03:01,840 --> 00:03:02,880
+Igor!
+
+51
+00:03:05,240 --> 00:03:06,960
+<i>Igors aren't allowed to invent,</i>
+
+52
+00:03:07,080 --> 00:03:09,800
+<i>but I still manage to work
+on my own inventions in secret.</i>
+
+53
+00:03:09,920 --> 00:03:11,600
+<i>And this new one is gonna be
+the one that proves</i>
+
+54
+00:03:11,720 --> 00:03:15,400
+<i>that I'm the biggest Evil Genius
+of them all, and not just another...</i>
+
+55
+00:03:15,520 --> 00:03:17,080
+Igor!
+
+56
+00:03:21,760 --> 00:03:24,000
+<i>Once they see what I can do,
+I'll have a whole new life,</i>
+
+57
+00:03:24,120 --> 00:03:27,480
+<i>and I'll never have to answer
+to another master again.</i>
+
+58
+00:03:27,600 --> 00:03:29,360
+Sorry Master.
+What did you say?
+
+59
+00:03:29,480 --> 00:03:30,760
+Oh! I mean...
+
+60
+00:03:32,000 --> 00:03:35,400
+Sorry, Master.
+I was in the bathroom.
+
+61
+00:03:35,520 --> 00:03:39,600
+Had a bat stuck in the belfry,
+if you know what I mean, Master.
+
+62
+00:03:39,720 --> 00:03:42,600
+I don't want to hear your
+toilet memoirs, you cretin!
+
+63
+00:03:42,720 --> 00:03:45,960
+I give you five minutes a week
+to take care of your business.
+
+64
+00:03:46,080 --> 00:03:48,520
+I'm not running a resort here!
+
+65
+00:03:48,640 --> 00:03:51,720
+Now get over there and...
+
+66
+00:03:51,840 --> 00:03:53,440
+Pull the switch!
+
+67
+00:03:53,560 --> 00:03:55,680
+Yes, Master!
+
+68
+00:04:10,520 --> 00:04:12,640
+Yes! Yes!
+
+69
+00:04:13,360 --> 00:04:14,880
+Yes!
+
+70
+00:04:17,800 --> 00:04:20,880
+Who's the failure now, Mother?
+
+71
+00:04:30,640 --> 00:04:33,160
+Mummy, Mummy, you were right!
+
+72
+00:04:33,280 --> 00:04:35,880
+I was never meant to be a scientist.
+
+73
+00:04:36,000 --> 00:04:39,120
+I should have been a plumber like you!
+
+74
+00:04:40,120 --> 00:04:42,280
+That was the first time
+he was right all day.
+
+75
+00:04:42,400 --> 00:04:46,480
+You! Go find me a 16-gigawatt
+temporal transducer!
+
+76
+00:04:46,600 --> 00:04:50,680
+Excuse me, Master, are you sure
+you don't mean 21-gigawatt?
+
+77
+00:04:50,800 --> 00:04:52,800
+You're correcting me?
+
+78
+00:04:55,200 --> 00:04:56,320
+Strike!
+
+79
+00:04:57,840 --> 00:04:59,400
+I should do more improv.
+
+80
+00:05:02,560 --> 00:05:03,720
+My hunch.
+
+81
+00:05:03,840 --> 00:05:06,120
+Oh, there she goes. Much better.
+
+82
+00:05:06,240 --> 00:05:08,160
+<i>Good evening, friends!</i>
+
+83
+00:05:08,280 --> 00:05:11,480
+<i>That's Scamper,
+one of my most successful inventions.</i>
+
+84
+00:05:18,000 --> 00:05:19,240
+<i>I made him immortal.</i>
+
+85
+00:05:19,360 --> 00:05:22,600
+<i>Which is kind of a hassle for him,
+since he doesn't want to live.</i>
+
+86
+00:05:22,720 --> 00:05:25,440
+Will nothing end this vicious cycle?
+
+87
+00:05:25,560 --> 00:05:26,920
+<i>I also made him talk.</i>
+
+88
+00:05:27,000 --> 00:05:29,560
+<i>Which is a hassle for me,
+since he never shuts up.</i>
+
+89
+00:05:29,680 --> 00:05:30,720
+No fair!
+
+90
+00:05:30,840 --> 00:05:33,680
+You wasted your immortality formula
+on the wrong guy, Igor.
+
+91
+00:05:33,800 --> 00:05:36,040
+<i>That's Brain, one
+of my other inventions.</i>
+
+92
+00:05:36,160 --> 00:05:38,480
+<i>Legend has it when the smartest
+man in the world died,</i>
+
+93
+00:05:38,600 --> 00:05:40,440
+<i>they put his brain in a jar.</i>
+
+94
+00:05:40,560 --> 00:05:42,320
+<i>This is not that brain.</i>
+
+95
+00:05:42,480 --> 00:05:45,320
+I wanna live forever!
+I got plans! And dreams!
+
+96
+00:05:45,440 --> 00:05:47,480
+I got a squeaky wheel!
+Was that me?
+
+97
+00:05:47,600 --> 00:05:48,520
+Really, Brain?
+
+98
+00:05:48,640 --> 00:05:51,280
+You want to be trapped in an
+endless existential nightmare,
+
+99
+00:05:51,400 --> 00:05:52,360
+forced to keep living,
+
+100
+00:05:52,480 --> 00:05:54,400
+even though life is meaningless
+
+101
+00:05:54,480 --> 00:05:55,720
+and nothing matters?
+
+102
+00:05:55,840 --> 00:05:57,120
+Possibly.
+
+103
+00:05:57,320 --> 00:05:58,920
+What exactly did you say?
+
+104
+00:05:59,040 --> 00:06:02,640
+Too bad he wasted his intelligence
+formula on me, too, Brain.
+
+105
+00:06:02,760 --> 00:06:04,880
+Or should I say "Brian"?
+
+106
+00:06:05,520 --> 00:06:07,280
+Hey! I was in a hurry!
+
+107
+00:06:07,840 --> 00:06:09,480
+Stupid permanent marker.
+
+108
+00:06:09,600 --> 00:06:10,520
+Enough.
+
+109
+00:06:10,640 --> 00:06:11,960
+The Evil Science Fair is in a week,
+
+110
+00:06:12,080 --> 00:06:14,440
+and Glickenstein is gonna lose again.
+
+111
+00:06:14,560 --> 00:06:17,160
+Okay, I get it.
+You want me to fix his invention.
+
+112
+00:06:17,280 --> 00:06:21,280
+Now I'll just need a screwdriver,
+some nails and my bag of marbles.
+
+113
+00:06:21,400 --> 00:06:22,800
+Don't touch his invention, Brain.
+
+114
+00:06:22,920 --> 00:06:25,640
+Fine! You don't want the
+benefit of my brain power?
+
+115
+00:06:25,760 --> 00:06:27,160
+Then, farewell, Igor.
+
+116
+00:06:28,320 --> 00:06:31,280
+Like a gentle fawn,
+I shall leave this meadow.
+
+117
+00:06:40,600 --> 00:06:42,720
+On second thought
+maybe I'll stick around,
+
+118
+00:06:42,840 --> 00:06:44,920
+so I can watch Mr. Smarty-hunch
+
+119
+00:06:45,040 --> 00:06:46,680
+fix Glickenstein's invention.
+
+120
+00:06:47,200 --> 00:06:49,960
+I could! But you know
+what would happen if I did!
+
+121
+00:06:50,080 --> 00:06:52,840
+The same thing he'd do if he
+found out I invented you two.
+
+122
+00:06:52,960 --> 00:06:54,360
+He'd recycle me.
+
+123
+00:06:54,480 --> 00:06:57,040
+Can you imagine being chopped up
+and used for body parts
+
+124
+00:06:57,160 --> 00:06:58,600
+and God knows what else?
+
+125
+00:06:58,720 --> 00:06:59,880
+Horrible.
+
+126
+00:07:03,840 --> 00:07:05,280
+Dang it!
+Still here.
+
+127
+00:07:08,600 --> 00:07:10,200
+If I had my shot,
+
+128
+00:07:10,320 --> 00:07:14,480
+I could be one of the greatest
+Evil Scientists Malaria has ever seen.
+
+129
+00:07:15,240 --> 00:07:17,480
+They'd all cheer my name
+
+130
+00:07:17,600 --> 00:07:20,840
+just like they do for the
+great Dr. Schadenfreude!
+
+131
+00:07:38,200 --> 00:07:41,600
+And now your
+master of disaster, the chief of grief,
+
+132
+00:07:41,720 --> 00:07:43,240
+a man who needs no introduction,
+
+133
+00:07:43,360 --> 00:07:45,960
+but who will brutally
+torture me if he doesn't get one,
+
+134
+00:07:46,080 --> 00:07:49,280
+Dr. Schadenfreude!
+
+135
+00:07:50,520 --> 00:07:53,160
+Thank you thank you.
+You're too kind
+
+136
+00:07:53,280 --> 00:07:54,680
+And I'm not.
+
+137
+00:07:54,800 --> 00:07:59,200
+But I want to welcome you all to my
+annual pre-Evil Science Fair party.
+
+138
+00:07:59,320 --> 00:08:00,520
+My girlfriend Jaclyn.
+
+139
+00:08:00,640 --> 00:08:02,560
+You know, she may seem like
+
+140
+00:08:02,680 --> 00:08:04,840
+a shallow, conniving wretch...
+
+141
+00:08:06,240 --> 00:08:08,720
+That's all I got.
+That pretty much sums her up.
+
+142
+00:08:11,120 --> 00:08:15,920
+A toast to the undefeated winner
+of 17 Evil Science Fairs
+
+143
+00:08:16,040 --> 00:08:19,000
+and the greatest Evil
+Genius in the world.
+
+144
+00:08:21,280 --> 00:08:23,080
+Bow for the King!
+
+145
+00:08:26,640 --> 00:08:29,000
+"The greatest Evil
+Genius in the world. "
+
+146
+00:08:29,120 --> 00:08:31,520
+I remember when people
+used to call me that.
+
+147
+00:08:31,640 --> 00:08:35,160
+Back when the clouds destroyed
+our peaceful land of farmers,
+
+148
+00:08:35,280 --> 00:08:39,000
+and my plan to blackmail
+the world saved us all
+
+149
+00:08:39,120 --> 00:08:43,880
+Yes, as you've told us all
+over and over and over.
+
+150
+00:08:44,000 --> 00:08:45,480
+Yeah, well, here's more.
+
+151
+00:08:45,600 --> 00:08:49,560
+Did you know that years ago,
+Schoddy's family name was Poekelmacher?
+
+152
+00:08:50,240 --> 00:08:52,880
+His family were pickle-makers.
+
+153
+00:08:54,200 --> 00:08:58,160
+So, what's your Evil Invention
+this year, Doctor, kosher or dill?
+
+154
+00:09:01,280 --> 00:09:04,200
+I want to shove a pickle
+right where the sun don't shine.
+
+155
+00:09:04,320 --> 00:09:06,440
+You mean Malaria, Master?
+
+156
+00:09:08,480 --> 00:09:11,080
+No matter how many
+Evil Science Fairs I win,
+
+157
+00:09:11,200 --> 00:09:14,000
+I always have to bow
+down to that idiot.
+
+158
+00:09:14,120 --> 00:09:16,120
+I will never get the respect he gets!
+
+159
+00:09:16,240 --> 00:09:20,240
+Respect? Respect isn't gonna
+keep me in baby-seal boots.
+
+160
+00:09:21,880 --> 00:09:24,000
+You just need to keep on winning
+
+161
+00:09:24,320 --> 00:09:27,440
+Well, that is spoken
+like a true worthless leech,
+
+162
+00:09:27,560 --> 00:09:32,120
+who, by the way still has not helped
+me steal this year's winning invention.
+
+163
+00:09:32,240 --> 00:09:34,280
+You know, maybe if you
+were a real scientist,
+
+164
+00:09:34,400 --> 00:09:36,520
+you wouldn't need
+me to help you cheat every year.
+
+165
+00:09:39,360 --> 00:09:41,800
+Your whole lab is fake,
+
+166
+00:09:41,920 --> 00:09:43,440
+just like you.
+
+167
+00:09:45,440 --> 00:09:50,000
+And maybe I should throw you
+back in the gutter where I found you!
+
+168
+00:09:50,400 --> 00:09:53,400
+You're one to talk,
+Dr. Schadenfraude!
+
+169
+00:09:54,000 --> 00:09:55,680
+You don't have the guts.
+
+170
+00:10:07,360 --> 00:10:09,680
+Is Daddy still mad at me?
+
+171
+00:10:09,800 --> 00:10:11,600
+No.
+
+172
+00:10:11,720 --> 00:10:13,480
+But you and your friend Heidi
+
+173
+00:10:13,600 --> 00:10:15,480
+still have a little job to do.
+
+174
+00:10:16,240 --> 00:10:17,960
+Oh, we're trying.
+
+175
+00:10:18,080 --> 00:10:20,440
+Well, try a little bit harder!
+
+176
+00:10:21,840 --> 00:10:23,200
+Because this year,
+
+177
+00:10:23,320 --> 00:10:25,160
+I won't stop at just winning
+the Evil Science Fair.
+
+178
+00:10:26,360 --> 00:10:29,080
+I'm gonna unleash my winning invention
+
+179
+00:10:29,200 --> 00:10:32,840
+on the King's smug little face,
+
+180
+00:10:32,960 --> 00:10:36,120
+and then he'll be the one
+groveling at my feet!
+
+181
+00:10:40,800 --> 00:10:42,320
+Hi there.
+
+182
+00:10:42,440 --> 00:10:45,320
+Look, it's your
+little girlfriend, Heidi.
+
+183
+00:10:45,440 --> 00:10:46,600
+You take a cocoa break,
+
+184
+00:10:46,720 --> 00:10:49,520
+and I'll guard your plans
+for your new invention.
+
+185
+00:10:49,640 --> 00:10:51,280
+No, wait! You'll spill on my plans.
+
+186
+00:10:51,400 --> 00:10:52,960
+Heidi, you're not careful enough!
+
+187
+00:10:53,080 --> 00:10:55,000
+You're so sloppy sometimes.
+
+188
+00:10:55,640 --> 00:10:56,840
+Oh, poopshkin.
+
+189
+00:10:56,960 --> 00:11:01,000
+I went to the evil bookstore
+and got you an inspirational poster.
+
+190
+00:11:01,680 --> 00:11:03,840
+It's a little kitten!
+
+191
+00:11:03,960 --> 00:11:07,920
+To remind you to always take time
+in your day for a little torture.
+
+192
+00:11:10,400 --> 00:11:12,040
+My transducer!
+
+193
+00:11:12,160 --> 00:11:14,600
+Time to go.
+I have no time for cocoa or kittens!
+
+194
+00:11:14,720 --> 00:11:16,320
+I have to work on my plans
+alone and in secret.
+
+195
+00:11:17,480 --> 00:11:19,480
+In other words, bon voyage.
+
+196
+00:11:21,120 --> 00:11:23,400
+Who doesn't like tortured kittens?
+
+197
+00:11:24,160 --> 00:11:25,760
+I...
+I like kittens.
+
+198
+00:11:26,120 --> 00:11:28,840
+I don't like dirty little hunchpeople.
+
+199
+00:11:29,360 --> 00:11:31,640
+Great, Schadenfreude's gonna kil me.
+
+200
+00:11:33,040 --> 00:11:36,320
+<i>And why are there two transducers?</i>
+
+201
+00:11:36,440 --> 00:11:40,760
+Master, the 21-gigawatt
+might be somewhat safer, I think.
+
+202
+00:11:41,080 --> 00:11:43,800
+Think? Igors don't think.
+
+203
+00:11:43,920 --> 00:11:46,760
+I'm using the 16-gigawatt, you fool!
+
+204
+00:11:47,360 --> 00:11:50,480
+Now get over there and pull the switch!
+
+205
+00:11:54,080 --> 00:11:55,760
+What are you waiting for?
+
+206
+00:11:55,880 --> 00:11:57,280
+Yes, Master!
+
+207
+00:12:00,680 --> 00:12:02,720
+Yes! Yes!
+
+208
+00:12:03,400 --> 00:12:04,960
+Yes!
+
+209
+00:12:07,920 --> 00:12:11,160
+I told you the 16 would work, you Igor.
+
+210
+00:12:12,960 --> 00:12:15,880
+Behold my rocket ship!
+
+211
+00:12:17,120 --> 00:12:19,160
+Born to stream through the world,
+
+212
+00:12:19,280 --> 00:12:22,520
+unleashing pain and misery on everyone.
+
+213
+00:12:23,440 --> 00:12:25,720
+I named her after you, Mother.
+
+214
+00:12:28,040 --> 00:12:31,840
+Now to take the old
+cow for a test drive.
+
+215
+00:12:32,480 --> 00:12:34,600
+No, Master!
+The rocket is going to...
+
+216
+00:12:42,240 --> 00:12:43,720
+Uh... Yeah that.
+
+217
+00:12:43,840 --> 00:12:45,000
+Finally.
+
+218
+00:12:45,640 --> 00:12:49,440
+Now I can throw out that rug
+in the foyer. That thing is hideous.
+
+219
+00:12:49,560 --> 00:12:51,520
+We were all thinking it.
+I just said it.
+
+220
+00:12:52,800 --> 00:12:54,320
+Oh, no, who's that?
+What am I gonna do?
+
+221
+00:12:54,440 --> 00:12:56,960
+Relax, this is Glickenstein's castle.
+
+222
+00:12:57,080 --> 00:12:59,080
+And he doesn't have
+to open that door for anyone.
+
+223
+00:12:59,200 --> 00:13:00,760
+Open for the King!
+
+224
+00:13:01,600 --> 00:13:03,160
+Except for the King.
+Oh, my God! Oh, my God!
+
+225
+00:13:03,280 --> 00:13:04,960
+He's here to see Glickenstein!
+What do I tell him?
+
+226
+00:13:05,080 --> 00:13:06,280
+Tell him the truth.
+And if he kills us,
+
+227
+00:13:06,400 --> 00:13:08,760
+I'll come back
+and give you a beautiful funeral.
+
+228
+00:13:08,880 --> 00:13:11,360
+Right, right. The truth,
+that's a good option. Right, right.
+
+229
+00:13:12,360 --> 00:13:15,040
+Glicky!
+Glicky, my boy.
+
+230
+00:13:15,160 --> 00:13:16,480
+Where's Glicky?
+
+231
+00:13:16,600 --> 00:13:18,760
+Your Highness, he's gone.
+
+232
+00:13:18,880 --> 00:13:20,960
+Curse it, I need to see his invention.
+
+233
+00:13:21,080 --> 00:13:22,600
+Schadenfreude is getting too popular.
+
+234
+00:13:22,720 --> 00:13:24,160
+The people might make him king.
+
+235
+00:13:24,280 --> 00:13:25,520
+Someone has to beat him this year,
+
+236
+00:13:25,640 --> 00:13:27,720
+with an invention more evil than his.
+
+237
+00:13:27,840 --> 00:13:30,440
+Someone who can snatch
+Schadenfreude's number one position
+
+238
+00:13:30,560 --> 00:13:32,600
+and rub his face in number two!
+
+239
+00:13:32,720 --> 00:13:33,680
+Ew...
+
+240
+00:13:33,800 --> 00:13:37,000
+Your Highness,
+Dr. Glickenstein is...
+
+241
+00:13:37,600 --> 00:13:39,040
+creating life!
+
+242
+00:13:39,320 --> 00:13:40,640
+Did you say "life"?
+
+243
+00:13:40,760 --> 00:13:41,680
+Yes.
+
+244
+00:13:41,800 --> 00:13:46,440
+Thinking, breathing life that can
+destroy freely all on its own.
+
+245
+00:13:47,200 --> 00:13:50,160
+No Evil Scientist has ever
+been able to create life
+
+246
+00:13:50,280 --> 00:13:51,960
+Oh, sure they've mutated life.
+
+247
+00:13:52,080 --> 00:13:53,080
+They've ended life.
+
+248
+00:13:53,200 --> 00:13:55,320
+They've blasted life into
+a million gooey pieces.
+
+249
+00:13:55,440 --> 00:13:57,120
+But created life?
+
+250
+00:13:57,240 --> 00:14:02,200
+A weapon like that would be
+the greatest Evil Invention of all time.
+
+251
+00:14:02,320 --> 00:14:04,800
+And its inventor the
+greatest Evil Scientist of all time?
+
+252
+00:14:04,920 --> 00:14:07,080
+Of course!
+This is what I've been waiting for.
+
+253
+00:14:07,200 --> 00:14:09,800
+And it's your job to make sure
+nothing happens to Glickenstein,
+
+254
+00:14:09,920 --> 00:14:12,040
+or I'll throw
+you down the recycling chute
+
+255
+00:14:12,160 --> 00:14:14,720
+and use your hunch as a speed bump!
+
+256
+00:14:15,960 --> 00:14:18,600
+Oh, this is big.
+Schadenfreude's winning streak is over.
+
+257
+00:14:18,720 --> 00:14:20,920
+Come on boys!
+Let's go kick some old people.
+
+258
+00:14:22,880 --> 00:14:25,000
+Ow! What is wrong with you?
+
+259
+00:14:25,120 --> 00:14:27,520
+That's for having a death wish.
+That's my thing.
+
+260
+00:14:27,640 --> 00:14:29,640
+I am not gonna die, Scamper.
+
+261
+00:14:31,360 --> 00:14:33,440
+For the first time ever,
+
+262
+00:14:33,560 --> 00:14:35,320
+I'm gonna live!
+
+263
+00:14:43,840 --> 00:14:46,240
+I sometimes come down here to think.
+
+264
+00:14:46,840 --> 00:14:48,520
+Wow, how interesting.
+
+265
+00:14:48,640 --> 00:14:50,120
+What's next?
+You're gonna pull out a guitar
+
+266
+00:14:50,240 --> 00:14:53,440
+and play us a song you wrote
+in college about being misunderstood?
+
+267
+00:15:05,760 --> 00:15:07,880
+I know, right?
+And she's not even done yet.
+
+268
+00:15:14,240 --> 00:15:16,760
+<i>Baby, baby, it looks
+like it's gonna hail</i>
+
+269
+00:15:18,720 --> 00:15:21,480
+<i>Baby, baby, it looks
+like it's gonna hail</i>
+
+270
+00:15:22,760 --> 00:15:24,040
+<i>You better come inside</i>
+
+271
+00:15:24,160 --> 00:15:25,800
+<i>Let me teach you how to jive and wail</i>
+
+272
+00:15:28,200 --> 00:15:30,800
+Come on, bigger.
+Do it. Come on, make it bigger.
+
+273
+00:15:32,480 --> 00:15:33,640
+Bigger!
+
+274
+00:15:36,640 --> 00:15:40,120
+Okay to the left. Very good.
+Now back to the right.
+
+275
+00:15:40,240 --> 00:15:42,200
+No, no, no!
+
+276
+00:15:42,320 --> 00:15:46,880
+To the left, now back to the right.
+To the right. To the right.
+
+277
+00:15:47,000 --> 00:15:48,760
+Is that even her hand?
+
+278
+00:15:57,720 --> 00:16:00,280
+And now to make her
+skin indestructible.
+
+279
+00:16:00,400 --> 00:16:01,600
+<i>You gotta jump, jive,
+and then you wail</i>
+
+280
+00:16:01,720 --> 00:16:03,720
+<i>You gotta jump, jive,
+and then you wail</i>
+
+281
+00:16:03,840 --> 00:16:06,080
+<i>You gotta jump, jive,
+and then you wail</i>
+
+282
+00:16:13,680 --> 00:16:16,280
+Did you see that?
+Shoot him again.
+
+283
+00:16:21,480 --> 00:16:22,560
+And now, the crucial last piece,
+
+284
+00:16:22,680 --> 00:16:25,560
+the source of all, the Monster's power,
+
+285
+00:16:29,000 --> 00:16:30,720
+the Evil Bone.
+
+286
+00:16:33,440 --> 00:16:36,440
+I have to hurry.
+It loses its power in the light.
+
+287
+00:16:45,320 --> 00:16:46,600
+That's it.
+
+288
+00:16:47,360 --> 00:16:48,840
+Only one thing left to do.
+
+289
+00:16:48,960 --> 00:16:51,000
+He said "do. "
+
+290
+00:16:52,680 --> 00:16:55,280
+Pull the switch!
+
+291
+00:17:01,400 --> 00:17:03,320
+Do not yell at me.
+
+292
+00:17:03,960 --> 00:17:06,000
+Oh, I'm sorry.
+I was just...
+
+293
+00:17:06,520 --> 00:17:08,000
+Pull the switch.
+
+294
+00:17:10,480 --> 00:17:11,560
+Please pull the switch.
+
+295
+00:17:11,680 --> 00:17:12,600
+That's better.
+
+296
+00:17:12,720 --> 00:17:15,000
+Wait, wait, wait, wait!
+Why does he get to pull the switch?
+
+297
+00:17:16,160 --> 00:17:18,400
+Because I'm not an idiot, Brian.
+
+298
+00:17:18,520 --> 00:17:19,440
+My name is not Brian!
+
+299
+00:17:19,560 --> 00:17:20,840
+Then you must have his jar.
+
+300
+00:17:20,960 --> 00:17:23,120
+Stop! You can both pull the switch.
+
+301
+00:17:23,240 --> 00:17:26,200
+On the count of three. One.
+
+302
+00:17:26,560 --> 00:17:29,520
+Hey! No fair!
+You said we could both pull the...
+
+303
+00:17:43,720 --> 00:17:45,440
+Rise!
+
+304
+00:17:46,600 --> 00:17:48,320
+Rise!
+
+305
+00:17:57,600 --> 00:17:58,600
+I...
+
+306
+00:17:59,040 --> 00:18:00,640
+I don't believe it.
+
+307
+00:18:01,680 --> 00:18:04,160
+I'm a failure.
+I'm a...
+
+308
+00:18:04,800 --> 00:18:06,400
+I'm an Igor.
+
+309
+00:18:06,520 --> 00:18:07,440
+Get rid of that thing.
+
+310
+00:18:07,560 --> 00:18:09,400
+I never want to see it again.
+
+311
+00:18:10,400 --> 00:18:12,320
+Funny you should say that.
+
+312
+00:18:16,160 --> 00:18:18,680
+Uh... Igor? Yeah.
+Where did the monster go?
+
+313
+00:18:18,800 --> 00:18:19,720
+I don't know, Brain.
+
+314
+00:18:19,840 --> 00:18:22,240
+May I suggest looking behind you?
+
+315
+00:18:24,560 --> 00:18:25,880
+It was just a suggestion.
+
+316
+00:18:32,480 --> 00:18:35,840
+Maybe it just spontaneously combusted?
+
+317
+00:18:35,960 --> 00:18:39,640
+Oh, yeah sure.
+I've read about that in...
+
+318
+00:18:39,760 --> 00:18:42,160
+Who am I kidding?
+I can't read!
+
+319
+00:19:06,840 --> 00:19:10,040
+And just like that she
+was out of their lives.
+
+320
+00:19:10,960 --> 00:19:12,920
+I did it. I...
+
+321
+00:19:13,480 --> 00:19:15,040
+I created life.
+
+322
+00:19:16,880 --> 00:19:18,720
+Has that hole always been there?
+
+323
+00:19:19,960 --> 00:19:21,120
+Come on!
+
+324
+00:19:25,520 --> 00:19:26,440
+Let me get this straight
+
+325
+00:19:26,560 --> 00:19:29,760
+We are chasing after the
+bloodthirsty monster?
+
+326
+00:19:31,680 --> 00:19:33,240
+"Home For Blind Orphans. "
+
+327
+00:19:35,400 --> 00:19:38,160
+Oh God, she's killing blind orphans!
+
+328
+00:19:38,280 --> 00:19:41,640
+That's so evil!
+I mean, which is great, but...
+
+329
+00:19:42,960 --> 00:19:44,440
+Blind orphans!
+
+330
+00:19:51,640 --> 00:19:53,120
+I wanna go next.
+
+331
+00:19:53,280 --> 00:19:54,400
+Me, me, pick me!
+
+332
+00:19:54,520 --> 00:19:57,640
+I wonder what diabolical deed
+she has planned next.
+
+333
+00:19:57,760 --> 00:19:58,680
+Piggyback rides?
+
+334
+00:19:58,760 --> 00:19:59,960
+It's my turn!
+I wanna go next!
+
+335
+00:20:00,040 --> 00:20:00,795
+I wanna go next!
+
+336
+00:20:00,800 --> 00:20:02,320
+Me! Me! Pick me!
+Me! Me!
+
+337
+00:20:02,440 --> 00:20:04,440
+Blind orphans get everything!
+
+338
+00:20:04,880 --> 00:20:05,800
+Ah
+
+339
+00:20:05,920 --> 00:20:08,800
+Your very large friend is a sweetheart.
+
+340
+00:20:08,920 --> 00:20:10,320
+No, she's not.
+
+341
+00:20:11,720 --> 00:20:13,120
+I am your master,
+and I command you
+
+342
+00:20:13,240 --> 00:20:15,440
+to stop this gesture
+of goodwill right now
+
+343
+00:20:15,560 --> 00:20:17,120
+and put them down.
+
+344
+00:20:18,880 --> 00:20:19,920
+Down!
+
+345
+00:20:21,120 --> 00:20:23,800
+Okay, now you're gonna
+march right back to
+
+346
+00:20:23,920 --> 00:20:25,120
+the castle, got it?
+
+347
+00:20:25,880 --> 00:20:27,280
+Oh, he's dead!
+
+348
+00:20:30,880 --> 00:20:34,080
+Those are paper flowers
+the orphans sell.
+
+349
+00:20:34,200 --> 00:20:36,880
+Sounds like someone likes them.
+
+350
+00:20:37,000 --> 00:20:38,520
+You touch it,
+you buy it!
+
+351
+00:20:44,680 --> 00:20:45,680
+Master!
+
+352
+00:20:45,800 --> 00:20:48,240
+I looked inside Dr Glickenstein's castle
+
+353
+00:20:48,360 --> 00:20:49,640
+and didn't see anyone.
+
+354
+00:20:49,760 --> 00:20:51,080
+But that's not all...
+
+355
+00:20:51,200 --> 00:20:53,560
+Yes, it is,
+because your voice is annoying.
+
+356
+00:20:53,680 --> 00:20:55,720
+Now, to break into
+Glickenstein's castle
+
+357
+00:20:55,840 --> 00:20:57,960
+and steal the plans
+like Heid failed to do.
+
+358
+00:21:04,440 --> 00:21:06,560
+What did this?
+
+359
+00:21:06,680 --> 00:21:11,000
+I'm guessing something big.
+Something like this.
+
+360
+00:21:12,360 --> 00:21:15,160
+Life? Glickenstein invented ife?
+
+361
+00:21:15,280 --> 00:21:18,040
+I don't think he had a hand in it.
+
+362
+00:21:19,440 --> 00:21:21,240
+Well, if he's toast,
+
+363
+00:21:21,840 --> 00:21:23,400
+who invented that?
+
+364
+00:21:24,280 --> 00:21:25,240
+I don't believe it.
+
+365
+00:21:26,440 --> 00:21:27,480
+Wow,
+
+366
+00:21:27,600 --> 00:21:31,040
+so not only is every other
+Evil Scientist smarter than you,
+
+367
+00:21:31,160 --> 00:21:33,040
+and Igor is, too?
+
+368
+00:21:33,520 --> 00:21:35,120
+Ouch!
+
+369
+00:21:35,240 --> 00:21:37,560
+Smart is not mouthing off
+
+370
+00:21:37,680 --> 00:21:42,240
+to the man who has just found
+his way to take the throne.
+
+371
+00:21:49,160 --> 00:21:52,600
+<i>Oh, baby, won't you please come home?</i>
+
+372
+00:21:54,840 --> 00:21:56,680
+<i>'Cause your little daddy's
+gonna be all alone</i>
+
+373
+00:21:56,800 --> 00:22:00,280
+She must be making a club
+of flowers to smash us with.
+
+374
+00:22:01,400 --> 00:22:03,840
+This must be very
+embarrassing for you.
+
+375
+00:22:03,960 --> 00:22:06,120
+<i>I never thought that we could part</i>
+
+376
+00:22:07,280 --> 00:22:11,720
+<i>For every hour in the day
+you can hear me say</i>
+
+377
+00:22:12,320 --> 00:22:15,280
+<i>Baby, won't you please come home?
+I need you, I need you</i>
+
+378
+00:22:15,400 --> 00:22:17,560
+Okay clearly her
+Evil Bone wasn't activated
+
+379
+00:22:17,680 --> 00:22:19,560
+when she came to life. That's it.
+
+380
+00:22:19,680 --> 00:22:21,040
+Ooh! I have an idea!
+
+381
+00:22:21,160 --> 00:22:23,120
+Is it about this situation?
+
+382
+00:22:23,520 --> 00:22:24,480
+No.
+
+383
+00:22:24,600 --> 00:22:26,200
+Is it even an idea?
+
+384
+00:22:26,960 --> 00:22:28,840
+Is French fries an idea?
+
+385
+00:22:31,400 --> 00:22:33,480
+So, how do you activate it?
+
+386
+00:22:33,600 --> 00:22:35,480
+We need to kick-start it.
+
+387
+00:22:35,600 --> 00:22:37,640
+We need to get her to
+commit one act of evil.
+
+388
+00:22:38,840 --> 00:22:40,680
+She wouldn't hurt a fly.
+
+389
+00:22:42,840 --> 00:22:44,240
+Okay. Monster,
+
+390
+00:22:44,600 --> 00:22:46,600
+I command you to kill that fly.
+
+391
+00:22:47,840 --> 00:22:49,960
+Kill it! Kill it!
+
+392
+00:22:50,080 --> 00:22:52,560
+Kill it, girl!
+Come on! You're a killer!
+
+393
+00:22:52,680 --> 00:22:55,320
+Maim it! Wound it! Insult it!
+
+394
+00:22:55,440 --> 00:22:57,960
+Something!
+Kill it! Kill it!
+
+395
+00:22:58,080 --> 00:22:59,600
+Kill, kill, kill!
+
+396
+00:23:01,360 --> 00:23:02,840
+You were saying?
+
+397
+00:23:10,080 --> 00:23:12,200
+No, no, no!
+You're evil!
+
+398
+00:23:12,640 --> 00:23:13,800
+Evil!
+
+399
+00:23:13,920 --> 00:23:14,960
+Evil!
+
+400
+00:23:15,080 --> 00:23:16,120
+E...
+
+401
+00:23:16,880 --> 00:23:17,880
+Eva.
+
+402
+00:23:18,240 --> 00:23:20,840
+What? No, you're not Eva.
+
+403
+00:23:20,960 --> 00:23:22,400
+Eva. Eva.
+
+404
+00:23:24,480 --> 00:23:25,800
+What now, genius?
+
+405
+00:23:25,920 --> 00:23:28,640
+Well, thank you for asking.
+What we're going to do...
+
+406
+00:23:28,760 --> 00:23:31,120
+Go soak your brain, Brian.
+
+407
+00:23:31,240 --> 00:23:33,400
+That's actually not a bad idea.
+
+408
+00:23:34,000 --> 00:23:35,120
+Monster want a brain wash?
+
+409
+00:23:50,080 --> 00:23:50,960
+Next!
+
+410
+00:23:51,080 --> 00:23:52,040
+Hi, I'd like to...
+
+411
+00:23:52,160 --> 00:23:55,880
+Hey, who you talking to?
+I'm the head guy here!
+
+412
+00:23:56,000 --> 00:23:57,440
+Oh, excuse me. Sorry.
+
+413
+00:23:57,560 --> 00:23:59,880
+What the heck is that?
+
+414
+00:24:00,000 --> 00:24:01,200
+It's my Aunt Eva.
+
+415
+00:24:01,320 --> 00:24:03,000
+She's getting a little
+sweet in her old age
+
+416
+00:24:03,120 --> 00:24:06,080
+so I'd like to,
+I don't know, evil her up a bit.
+
+417
+00:24:07,080 --> 00:24:09,560
+"Sunday Night Massacre. " No.
+"Arsonist. "
+
+418
+00:24:09,680 --> 00:24:11,240
+Gee, they all look so good.
+
+419
+00:24:11,360 --> 00:24:13,440
+How about the "Axe Murderer" brain wash?
+
+420
+00:24:13,920 --> 00:24:16,600
+Oh! She must be very special to you.
+
+421
+00:24:35,960 --> 00:24:39,400
+Hey! Don't touch that!
+It s a very complicated system!
+
+422
+00:24:39,520 --> 00:24:42,160
+One wrong button and you'll just
+be watching regular cable
+
+423
+00:24:42,280 --> 00:24:45,640
+You wanna waste your
+nephew's money like that? Huh? Huh?
+
+424
+00:25:00,120 --> 00:25:01,520
+Gosh I feel like I'm sending my kid
+
+425
+00:25:01,640 --> 00:25:04,160
+off to school for the first time.
+
+426
+00:25:04,320 --> 00:25:06,600
+You know, to learn how to murder.
+
+427
+00:25:07,480 --> 00:25:09,600
+Hi. How are you?
+Great wings.
+
+428
+00:25:09,720 --> 00:25:12,200
+Listen, could you squeeze me in
+for a brain wash, too?
+
+429
+00:25:12,320 --> 00:25:14,160
+A nice thorough scrubbing.
+
+430
+00:25:14,280 --> 00:25:15,680
+What are you?
+An imbecile?
+
+431
+00:25:15,800 --> 00:25:19,080
+<i>Oh, parlez Italian?
+Taco grande to meet you.</i>
+
+432
+00:25:19,800 --> 00:25:22,880
+Yeah. Take Brian to Room Number 4.
+
+433
+00:25:26,400 --> 00:25:27,880
+"Wish you weren't there.
+
+434
+00:25:28,000 --> 00:25:32,160
+"This card teleports your enemy to you
+so you can destroy him in person. "
+
+435
+00:25:32,280 --> 00:25:33,320
+Call me old-fashioned,
+
+436
+00:25:33,440 --> 00:25:35,480
+but what happened to cards
+that just blew your head off?
+
+437
+00:25:35,600 --> 00:25:37,040
+Just think Scamper.
+In a few short moments,
+
+438
+00:25:37,160 --> 00:25:40,280
+I'm gonna have the most
+Evil Invention of all time.
+
+439
+00:25:41,440 --> 00:25:44,240
+It's my whole life savings,
+but I think I'm going to treat myself.
+
+440
+00:25:46,880 --> 00:25:48,440
+Oh, my hunch.
+
+441
+00:25:49,280 --> 00:25:51,000
+"Happy Mother's Day. '
+
+442
+00:25:54,880 --> 00:25:59,240
+See, that's what I'm talking about.
+Simple, elegant, classic.
+
+443
+00:26:00,040 --> 00:26:02,920
+You've seen a lot of brains I'm sure.
+
+444
+00:26:03,040 --> 00:26:05,760
+Mine's bigger than average, right? No?
+
+445
+00:26:06,720 --> 00:26:08,920
+Hello? Can you even talk?
+
+446
+00:26:11,280 --> 00:26:13,680
+Canadians.
+I'll just watch TV.
+
+447
+00:26:15,080 --> 00:26:16,040
+Whoops!
+
+448
+00:26:16,160 --> 00:26:17,560
+Butterfingers.
+
+449
+00:26:20,160 --> 00:26:23,040
+Oh. Great. Hold on.
+
+450
+00:26:23,160 --> 00:26:25,480
+And it's cold, it's cold,
+it's cold, it's cold, it's cold.
+
+451
+00:26:25,640 --> 00:26:28,200
+<i>Hey, Monster,
+can I borrow your remote?</i>
+
+452
+00:26:28,640 --> 00:26:29,880
+Thank you.
+
+453
+00:26:33,680 --> 00:26:34,840
+Oh, come on!
+
+454
+00:26:38,960 --> 00:26:41,160
+<i>Let's do the twist
+Around and around and around</i>
+
+455
+00:26:41,680 --> 00:26:42,640
+Stupid remote!
+
+456
+00:26:43,080 --> 00:26:45,680
+<i>To plumb the depths of
+Blanche DuBois in Streetcar</i>
+
+457
+00:26:45,800 --> 00:26:49,240
+<i>is the ultimate challenge
+for any modern actress.</i>
+
+458
+00:26:54,400 --> 00:26:57,440
+Well, our evil bun should be
+out of the oven soon.
+
+459
+00:27:06,480 --> 00:27:08,680
+Estephan, you're a magician!
+
+460
+00:27:08,800 --> 00:27:10,120
+What's that smell?
+
+461
+00:27:10,240 --> 00:27:13,320
+My new air freshener,
+"Dead Dog. " Jealous?
+
+462
+00:27:16,960 --> 00:27:18,720
+I don't hear anything.
+
+463
+00:27:22,600 --> 00:27:24,160
+I think it worked.
+
+464
+00:27:25,720 --> 00:27:26,880
+Maybe they did too much?
+
+465
+00:27:27,000 --> 00:27:28,240
+Oh. Was it?
+
+466
+00:27:28,360 --> 00:27:31,720
+Was I too much?
+I was pushing, wasn't I?
+
+467
+00:27:31,840 --> 00:27:34,240
+It was only a vocal exercise,
+but that is a beginner's mistake
+
+468
+00:27:34,360 --> 00:27:37,120
+I have to own that.
+That's just where I am.
+
+469
+00:27:37,440 --> 00:27:40,920
+If only I knew whether
+I had the "it" factor.
+
+470
+00:27:41,040 --> 00:27:42,760
+But how can you know?
+I mean, you can't learn that,
+
+471
+00:27:42,880 --> 00:27:44,520
+you just have to be born with it.
+
+472
+00:27:44,640 --> 00:27:48,120
+Oh listen to me going on
+and on about me me, me.
+
+473
+00:27:48,240 --> 00:27:51,080
+Let's talk about you, Igor.
+Do you think I have "it"?
+
+474
+00:27:51,200 --> 00:27:55,160
+<i>Let's thank our guest who
+has taught us in one hour,</i>
+
+475
+00:27:55,280 --> 00:27:59,160
+<i>a lifetime worth of lessons in acting.</i>
+
+476
+00:27:59,440 --> 00:28:00,560
+Acting?
+
+477
+00:28:02,440 --> 00:28:04,280
+Who changed the channel?
+
+478
+00:28:04,400 --> 00:28:05,320
+Wait, where's the remote?
+
+479
+00:28:05,440 --> 00:28:07,240
+Move it!
+I need this room.
+
+480
+00:28:07,360 --> 00:28:09,560
+No, no, no. Wait!
+We need to unbrainwash her!
+
+481
+00:28:09,680 --> 00:28:11,400
+No can do, pal.
+
+482
+00:28:11,520 --> 00:28:15,040
+Every wash comes with a sealant
+guaranteed to last a lifetime.
+
+483
+00:28:15,160 --> 00:28:17,160
+In other words, buzz off!
+
+484
+00:28:22,720 --> 00:28:25,320
+Okay, things to do,
+sign up for yoga classes
+
+485
+00:28:25,440 --> 00:28:28,960
+get new headshots, adopt children
+from all over the world.
+
+486
+00:28:29,080 --> 00:28:31,840
+Oh! time for my elocution exercises.
+
+487
+00:28:32,200 --> 00:28:34,720
+I need a box of biscuits.
+I need a box of biscuits.
+
+488
+00:28:34,840 --> 00:28:36,560
+It's just failure after failure.
+
+489
+00:28:36,680 --> 00:28:39,320
+After failure,
+after failure...
+
+490
+00:28:39,840 --> 00:28:42,000
+Oh, sorry, I thought we were
+counting off all your failures.
+
+491
+00:28:42,120 --> 00:28:44,480
+Biscuit mixer, a box of mix...
+
+492
+00:28:44,600 --> 00:28:47,560
+A box of mixed biscuits
+and a biscuit mixer.
+
+493
+00:28:47,720 --> 00:28:49,080
+I need a box...
+
+494
+00:28:49,160 --> 00:28:50,440
+Stop the carriage!
+
+495
+00:28:50,560 --> 00:28:52,080
+Ow!
+
+496
+00:28:52,200 --> 00:28:53,160
+What? What's the matter?
+
+497
+00:28:53,280 --> 00:28:56,360
+I don't mean to be a prima donna,
+but I think I need a bigger trailer.
+
+498
+00:28:56,480 --> 00:28:58,800
+After failure, after
+failure, after failure...
+
+499
+00:28:58,920 --> 00:29:01,400
+After failure, after failure...
+
+500
+00:29:05,040 --> 00:29:07,680
+That monster is about to be mine.
+
+501
+00:29:07,800 --> 00:29:09,640
+Oh, really? How?
+
+502
+00:29:09,760 --> 00:29:13,680
+Well, with a little something I
+just stole for the occasion, okay?
+
+503
+00:29:16,960 --> 00:29:18,880
+Practice poses for the red carpet,
+
+504
+00:29:19,000 --> 00:29:22,680
+become an environmentalist,
+but still fly private when necessary.
+
+505
+00:29:26,160 --> 00:29:30,600
+A Shrink, Ray? Oh, that's a genius'
+plan for stealing a monster.
+
+506
+00:29:30,720 --> 00:29:32,520
+Hey! I don't come down
+to where you work and...
+
+507
+00:29:32,640 --> 00:29:35,760
+Oh, that's right, you don't work!
+So shut your cake hole, darling!
+
+508
+00:29:35,880 --> 00:29:38,920
+Now to shrink Igor
+and steal his monster.
+
+509
+00:29:45,240 --> 00:29:48,200
+Oh, God. Did I hit it?
+Did I hit it? I hope I didn't hit it!
+
+510
+00:29:48,320 --> 00:29:51,280
+You, sir, put the
+"Evil" in "Evil Scientist. "
+
+511
+00:29:51,400 --> 00:29:52,560
+Here we go.
+
+512
+00:29:54,280 --> 00:29:55,560
+What the...?
+
+513
+00:30:00,480 --> 00:30:02,760
+Hold on! Pull over.
+I'm getting jar sick!
+
+514
+00:30:02,880 --> 00:30:04,320
+Someone's trying to shoot us!
+
+515
+00:30:04,440 --> 00:30:08,320
+Paparazzi! Why can't those
+vultures leave me a one?
+
+516
+00:30:12,320 --> 00:30:14,760
+This has totally
+ruined my spa day.
+
+517
+00:30:22,400 --> 00:30:23,800
+To the right!
+
+518
+00:30:23,920 --> 00:30:24,720
+To the right!
+
+519
+00:30:25,240 --> 00:30:27,800
+This is the worst
+car service I have ever used!
+
+520
+00:30:37,280 --> 00:30:38,600
+Now I get to watch you die.
+
+521
+00:30:38,720 --> 00:30:39,720
+Hold on!
+
+522
+00:30:48,800 --> 00:30:49,720
+Brake. Brake!
+
+523
+00:30:49,840 --> 00:30:50,800
+Uh-oh!
+
+524
+00:30:50,920 --> 00:30:52,200
+Put the brake on, you...
+
+525
+00:30:56,000 --> 00:30:57,000
+Okay.
+
+526
+00:30:58,560 --> 00:31:00,120
+Fire the rocket booster!
+
+527
+00:31:00,640 --> 00:31:02,320
+I can't see who it is!
+
+528
+00:31:02,440 --> 00:31:03,400
+Here I come!
+
+529
+00:31:03,520 --> 00:31:05,400
+Oh! My beautiful face.
+
+530
+00:31:05,600 --> 00:31:08,120
+No more Doctor. Don't Kill Anybody!
+
+531
+00:31:10,400 --> 00:31:13,600
+We're not gonna make it!
+We're not gonna make it!
+
+532
+00:31:17,320 --> 00:31:19,880
+If only you'd made
+yourself indestructible!
+
+533
+00:31:20,000 --> 00:31:21,800
+Indestructible.
+Indestructible.
+
+534
+00:31:21,920 --> 00:31:23,320
+Who wants to be a big movie star?
+
+535
+00:31:23,440 --> 00:31:25,240
+Me! Me! I do.
+
+536
+00:31:40,640 --> 00:31:43,360
+This would be the right time
+to curb your suicidal tendencies.
+
+537
+00:31:43,480 --> 00:31:46,160
+BRAIN
+Hey! I can see my room from here.
+
+538
+00:31:51,240 --> 00:31:53,400
+Go away! Look,
+I'm very important.
+
+539
+00:31:53,520 --> 00:31:55,560
+Ew! What's that smell?
+
+540
+00:31:55,680 --> 00:31:59,760
+Oh, yes, wait, it is the big,
+whopping stench of failure.
+
+541
+00:31:59,880 --> 00:32:04,880
+Ironically, at an inch tall, you still
+have the biggest mouth in Malaria.
+
+542
+00:32:19,720 --> 00:32:20,640
+Thank you.
+
+543
+00:32:20,760 --> 00:32:22,040
+You're very welcome.
+
+544
+00:32:22,560 --> 00:32:23,960
+You saved my life.
+
+545
+00:32:24,080 --> 00:32:28,840
+As an actor, I feel things very deeply,
+and I treasure all of life.
+
+546
+00:32:33,280 --> 00:32:36,400
+FIY, it is actually me
+you should thank.
+
+547
+00:32:36,520 --> 00:32:38,760
+I was the one who changed the
+channel on her brain wash.
+
+548
+00:32:38,880 --> 00:32:39,760
+- What?
+- Yep,
+
+549
+00:32:39,880 --> 00:32:42,800
+and if she had been evil,
+she would have let us all die.
+
+550
+00:32:42,920 --> 00:32:45,120
+So technically,
+I'm the one who saved us.
+
+551
+00:32:45,240 --> 00:32:47,320
+But no need to thank me.
+
+552
+00:32:47,840 --> 00:32:49,600
+Actually, a "thank you" would be nice.
+
+553
+00:32:49,720 --> 00:32:53,280
+It could be in the form of
+a card or a poem, your choice.
+
+554
+00:32:53,400 --> 00:32:55,000
+I a so like ponies.
+
+555
+00:32:56,600 --> 00:32:57,720
+An axe?
+
+556
+00:32:58,680 --> 00:32:59,800
+I don't want an axe. That's crazy.
+
+557
+00:32:59,920 --> 00:33:01,000
+Why would you offer me an axe?
+
+558
+00:33:01,120 --> 00:33:04,680
+You made my monster an actress!
+
+559
+00:33:04,800 --> 00:33:07,080
+This is why people
+are afraid of hunchbacks!
+
+560
+00:33:07,200 --> 00:33:08,480
+This. Right here!
+
+561
+00:33:08,600 --> 00:33:10,040
+Oh! What play are they rehearsing?
+
+562
+00:33:10,160 --> 00:33:11,240
+<i>Brain-Dead.</i>
+
+563
+00:33:11,360 --> 00:33:13,120
+Don't let him kill me!
+It's gonna be a smash.
+
+564
+00:33:13,240 --> 00:33:14,320
+Don't let him kill me!
+
+565
+00:33:17,600 --> 00:33:20,160
+The only thing killed here is my dream.
+
+566
+00:33:20,480 --> 00:33:22,080
+Bravo! Bravo!
+
+567
+00:33:22,200 --> 00:33:23,120
+Huh?
+
+568
+00:33:23,240 --> 00:33:25,440
+Oh, you guys are so lucky to have work.
+
+569
+00:33:25,560 --> 00:33:28,840
+If only I had a role I could
+really sink my teeth into.
+
+570
+00:33:29,760 --> 00:33:31,280
+Eva, you're in luck.
+
+571
+00:33:31,400 --> 00:33:33,280
+In four days, there is
+an audition for the lead
+
+572
+00:33:33,400 --> 00:33:36,520
+in the biggest play
+to hit Malaria since...
+
+573
+00:33:36,640 --> 00:33:38,760
+<i>The Desperate Hunchback
+Who Grasped at Straws?</i>
+
+574
+00:33:38,880 --> 00:33:41,280
+Seriously, Eva,
+this could be your big break!
+
+575
+00:33:41,400 --> 00:33:44,440
+Oh, my gosh! I don't believe it!
+What play is it?
+
+576
+00:33:44,560 --> 00:33:45,720
+Play? What play is it?
+
+577
+00:33:45,840 --> 00:33:47,000
+<i>Is it Annie?</i>
+
+578
+00:33:47,760 --> 00:33:48,840
+<i>Annie?</i>
+
+579
+00:33:48,960 --> 00:33:52,280
+So many terrific girls
+got their start playing Annie.
+
+580
+00:33:52,400 --> 00:33:54,560
+<i>Yes, that's it!
+It's Annie!</i>
+
+581
+00:33:54,680 --> 00:33:56,560
+So it's actually a musical?
+
+582
+00:34:03,680 --> 00:34:05,000
+I think I just wet myself.
+
+583
+00:34:05,120 --> 00:34:06,680
+Someone can sing!
+
+584
+00:34:07,080 --> 00:34:10,000
+<i>Gosh! Me trying out for Annie,</i>
+
+585
+00:34:10,360 --> 00:34:14,400
+the plucky orphan whose song of hope
+lifts the heart of a weary nation?
+
+586
+00:34:14,520 --> 00:34:16,880
+Yeah. Except in this version,
+Annie goes nuts
+
+587
+00:34:17,000 --> 00:34:18,640
+and battles a bunch of Evil Inventions
+
+588
+00:34:18,760 --> 00:34:20,680
+in deadly hand-to-hand combat.
+
+589
+00:34:20,800 --> 00:34:23,240
+Wow. How avant-garde.
+
+590
+00:34:23,360 --> 00:34:26,480
+Yeah. Trust me.
+You were born to be in this production.
+
+591
+00:34:27,520 --> 00:34:32,720
+<i>The sun'll come out tomorrow</i>
+
+592
+00:34:32,840 --> 00:34:33,800
+<i>Bet your...</i>
+
+593
+00:34:33,920 --> 00:34:35,800
+No, you missed it, again.
+
+594
+00:34:36,280 --> 00:34:39,400
+Excuse me, Igor, but I think
+you're supposed to say "cut. "
+
+595
+00:34:39,520 --> 00:34:40,640
+That's for film.
+
+596
+00:34:40,760 --> 00:34:41,680
+Film?
+
+597
+00:34:41,800 --> 00:34:45,000
+Can you imagine a face
+like that on a 40-foot screen?
+
+598
+00:34:46,000 --> 00:34:47,880
+All right, all right.
+Now, listen, Eva...
+
+599
+00:34:48,000 --> 00:34:50,040
+Excuse me, Igor,
+I'm a little distracted.
+
+600
+00:34:50,160 --> 00:34:51,240
+What?
+
+601
+00:34:51,360 --> 00:34:54,000
+I think the makeup girl
+is out to get me.
+
+602
+00:34:56,280 --> 00:34:59,200
+No, that's Brain. And he's not
+the makeup girl, he's the idiot.
+
+603
+00:34:59,320 --> 00:35:01,640
+Now try to remember
+on the word "tomorrow,"
+
+604
+00:35:01,760 --> 00:35:05,160
+you re supposed to crush the
+Evil Invention to your left!
+
+605
+00:35:05,280 --> 00:35:06,960
+You mean "stage left. "
+
+606
+00:35:07,080 --> 00:35:10,120
+Yeah, whatever. You're supposed
+to smash it to smithereens.
+
+607
+00:35:10,240 --> 00:35:11,760
+I know, it's just...
+
+608
+00:35:11,880 --> 00:35:14,120
+It looks kind of real, and
+it's hard because I would
+
+609
+00:35:14,200 --> 00:35:15,240
+never hurt anything real
+
+610
+00:35:15,360 --> 00:35:16,320
+The props at the audition
+
+611
+00:35:16,440 --> 00:35:17,800
+are gonna look even more real, Eva.
+
+612
+00:35:17,920 --> 00:35:19,800
+Some may even scream
+when you smash them.
+
+613
+00:35:19,920 --> 00:35:20,960
+Oh, really?
+
+614
+00:35:21,080 --> 00:35:23,800
+Yes. And they're also
+going to fight back.
+
+615
+00:35:23,920 --> 00:35:25,240
+But it's all for reality's sake.
+
+616
+00:35:25,360 --> 00:35:26,760
+But if you don't want
+to be a real actress...
+
+617
+00:35:26,880 --> 00:35:28,840
+Oh, no, no.
+I do, I do.
+
+618
+00:35:28,960 --> 00:35:31,120
+This is a block for me
+but I will get through it.
+
+619
+00:35:31,240 --> 00:35:33,720
+Once more, from the top,
+with feeling.
+
+620
+00:35:34,560 --> 00:35:37,160
+I just have a teeny,
+teeny, tiny suggestion.
+
+621
+00:35:37,280 --> 00:35:40,360
+Now, I know I m not the director
+but at the end of the number,
+
+622
+00:35:40,480 --> 00:35:43,240
+I would love to try
+something like this...
+
+623
+00:35:43,360 --> 00:35:47,400
+<i>You're only a day</i>
+
+624
+00:35:47,520 --> 00:35:51,160
+<i>Away</i>
+
+625
+00:36:08,640 --> 00:36:09,840
+Works for me.
+
+626
+00:36:16,000 --> 00:36:19,720
+<i>Dr. Igor.
+Dr. Igor von Igorstein.</i>
+
+627
+00:36:19,840 --> 00:36:23,520
+<i>No, no, no. The Evil Revered
+Igor von Igorstein III.</i>
+
+628
+00:36:23,640 --> 00:36:24,720
+<i>I can't believe it.</i>
+
+629
+00:36:24,800 --> 00:36:27,280
+<i>I might actually be
+able to pull this off.</i>
+
+630
+00:36:30,200 --> 00:36:32,840
+Good work today, Eva.
+You took some really...
+
+631
+00:36:34,000 --> 00:36:35,240
+big steps.
+
+632
+00:36:36,320 --> 00:36:37,880
+Thank you, Igor.
+
+633
+00:36:38,560 --> 00:36:40,400
+I'm whispering to protect my voice.
+
+634
+00:36:40,520 --> 00:36:43,120
+I really couldn't
+have done it without you.
+
+635
+00:36:43,920 --> 00:36:45,560
+Isn't it beautiful?
+
+636
+00:36:46,120 --> 00:36:49,040
+King Malbert has turned
+this country into a paradise.
+
+637
+00:36:49,160 --> 00:36:53,080
+His tower shines out for all the world
+to see as a beacon of evil.
+
+638
+00:36:53,200 --> 00:36:54,880
+And that's a good thing?
+
+639
+00:36:55,000 --> 00:36:57,080
+We were a nothing country
+until King Malbert taught us
+
+640
+00:36:57,200 --> 00:36:59,240
+that the way to succeed
+is by doing evil.
+
+641
+00:36:59,360 --> 00:37:00,360
+Phew!
+
+642
+00:37:00,480 --> 00:37:01,960
+This is a tough town.
+
+643
+00:37:02,080 --> 00:37:04,840
+Well, in this world,
+nice guys finish last.
+
+644
+00:37:05,520 --> 00:37:08,000
+So, I have to step on
+people to get ahead?
+
+645
+00:37:08,120 --> 00:37:09,040
+Uh...
+
+646
+00:37:09,160 --> 00:37:10,160
+Yeah.
+
+647
+00:37:10,280 --> 00:37:13,760
+Well, I'd rather be a
+good nobody than an evil somebody.
+
+648
+00:37:13,880 --> 00:37:16,640
+And so would you.
+Because you're good, Igor.
+
+649
+00:37:16,760 --> 00:37:17,720
+Eva, don't say that.
+
+650
+00:37:17,840 --> 00:37:19,440
+It's true.
+You are good.
+
+651
+00:37:19,560 --> 00:37:20,720
+Seriously, stop saying that!
+
+652
+00:37:20,840 --> 00:37:22,920
+But you are!
+You've helped me with my audition.
+
+653
+00:37:23,040 --> 00:37:25,160
+You've made me this delicious tea.
+
+654
+00:37:25,280 --> 00:37:26,480
+You're a very good friend.
+
+655
+00:37:26,600 --> 00:37:28,200
+Evil Scientists don't have friends.
+
+656
+00:37:28,320 --> 00:37:30,200
+Well, what are Brain and Scamper?
+
+657
+00:37:30,320 --> 00:37:31,280
+Headaches.
+
+658
+00:37:31,400 --> 00:37:32,360
+Oh!
+
+659
+00:37:32,760 --> 00:37:34,240
+Is that all I am?
+
+660
+00:37:34,360 --> 00:37:35,280
+No.
+
+661
+00:37:35,400 --> 00:37:38,160
+Okay. Then you can be
+my number two friend.
+
+662
+00:37:38,280 --> 00:37:41,400
+Number two friend.
+Well, who's your number one friend?
+
+663
+00:37:41,520 --> 00:37:43,560
+See? You're jealous.
+
+664
+00:37:44,080 --> 00:37:46,280
+You do wanna be my friend.
+
+665
+00:37:47,080 --> 00:37:49,120
+I guess I'm just a pushover.
+
+666
+00:37:50,880 --> 00:37:54,800
+<i>Hi, welcome to Cristall Clear.
+I'm Carl Cristall.</i>
+
+667
+00:37:55,320 --> 00:37:59,360
+Tonight, we have a very special guest,
+someone we all love and respect.
+
+668
+00:37:59,480 --> 00:38:02,160
+It's Honkers the Gassy Monkey.
+But first, King Malbert.
+
+669
+00:38:02,280 --> 00:38:04,600
+You're not wearing
+any, you know, pants.
+
+670
+00:38:04,720 --> 00:38:05,640
+Hmm?
+
+671
+00:38:05,760 --> 00:38:07,040
+Oh, no, I'm not.
+
+672
+00:38:07,160 --> 00:38:10,040
+I figure, why does an
+invisible man need to wear pants?
+
+673
+00:38:10,160 --> 00:38:12,560
+It's very liberating,
+Your Highness.
+
+674
+00:38:12,800 --> 00:38:14,640
+Sire, the clouds,
+
+675
+00:38:14,760 --> 00:38:17,400
+were they a blessing or a curse?
+
+676
+00:38:18,040 --> 00:38:21,440
+Well, of course, I would never
+wish the clouds on my people.
+
+677
+00:38:21,560 --> 00:38:24,200
+But we rallied together
+for the common good
+
+678
+00:38:24,320 --> 00:38:27,880
+by embracing evil,
+and look at us now!
+
+679
+00:38:28,000 --> 00:38:29,760
+Respected, successful.
+
+680
+00:38:33,000 --> 00:38:33,920
+What are you doing?
+
+681
+00:38:34,040 --> 00:38:35,120
+Scratching my invisible...
+
+682
+00:38:35,240 --> 00:38:37,320
+But getting back to my
+next question, sire.
+
+683
+00:38:37,440 --> 00:38:40,000
+The Evil Science Fair is two days away.
+
+684
+00:38:40,120 --> 00:38:43,280
+Any predictions?
+Can anyone beat Dr. Schadenfreude?
+
+685
+00:38:43,680 --> 00:38:45,520
+Well, I hate to predict.
+
+686
+00:38:46,720 --> 00:38:50,320
+I mean, all the Evil Scientists
+are twisted fiends in their own right.
+
+687
+00:38:50,440 --> 00:38:52,200
+That said, there may
+be a genius this year
+
+688
+00:38:52,320 --> 00:38:54,600
+with an Evil Invention so revolutionary
+
+689
+00:38:54,720 --> 00:38:57,880
+that Schadenfreude might finally
+get knocked off his perch!
+
+690
+00:38:58,000 --> 00:39:01,360
+The only one getting
+knocked off his perch is you!
+
+691
+00:39:01,680 --> 00:39:03,160
+Damn it, I need that monster!
+
+692
+00:39:03,280 --> 00:39:04,520
+I will not be beaten
+
+693
+00:39:04,640 --> 00:39:07,680
+by a hunchbacked
+pot-bellied, bulgy-eyed runt.
+
+694
+00:39:08,200 --> 00:39:11,600
+I think he's kind of cute.
+Talent is attractive.
+
+695
+00:39:11,720 --> 00:39:14,400
+I can just picture Igor
+and his monster now,
+
+696
+00:39:14,520 --> 00:39:17,840
+plotting their deadly combat maneuvers.
+
+697
+00:39:20,840 --> 00:39:23,960
+<i># I got a woman as big
+# as a house, yes, sir</i>
+
+698
+00:39:25,120 --> 00:39:28,360
+<i># She's as big as a two-family
+# house with a porch and a fence</i>
+
+699
+00:39:28,560 --> 00:39:29,960
+<i># You won't believe what you see
+# when you look at her</i>
+
+700
+00:39:33,040 --> 00:39:35,720
+<i># She's enormous, colossal,
+# tremendous, gigantic, immense</i>
+
+701
+00:39:37,000 --> 00:39:40,360
+<i># Why try to deny it?
+# She's just what I like.</i>
+
+702
+00:39:40,480 --> 00:39:42,680
+<i># If she goes on a diet</i>
+
+703
+00:39:43,560 --> 00:39:45,120
+<i># I'll go on strike.</i>
+
+704
+00:39:45,920 --> 00:39:47,600
+<i># The bigger the figure
+# The better I like her</i>
+
+705
+00:39:47,720 --> 00:39:49,440
+<i># The better I like her
+# The better I feed her</i>
+
+706
+00:39:49,560 --> 00:39:51,160
+<i># The better I feed her
+# The bigger the figure</i>
+
+707
+00:39:51,280 --> 00:39:53,880
+<i># The bigger the figure
+# The more I can love</i>
+
+708
+00:40:11,760 --> 00:40:15,280
+<i># She's exactly like a watermelon</i>
+
+709
+00:40:15,840 --> 00:40:17,600
+<i># Big and round and sweet</i>
+
+710
+00:40:18,920 --> 00:40:22,280
+<i># And in a party dress
+# She may be quite a mess</i>
+
+711
+00:40:22,400 --> 00:40:25,040
+<i># But I love her a lot
+# So what if she's not</i>
+
+712
+00:40:25,120 --> 00:40:25,880
+<i># so neat?</i>
+
+713
+00:40:26,160 --> 00:40:27,720
+<i># The bigger the figure</i>
+
+714
+00:40:28,000 --> 00:40:29,400
+<i># The better I like her</i>
+
+715
+00:40:29,880 --> 00:40:31,240
+<i># The better I like her</i>
+
+716
+00:40:31,560 --> 00:40:33,000
+<i># The better I feed her</i>
+
+717
+00:40:33,360 --> 00:40:35,120
+<i># The better I feed her
+# The bigger the figure</i>
+
+718
+00:40:35,240 --> 00:40:38,120
+<i># The bigger the figure
+# The more I can love</i>
+
+719
+00:40:39,920 --> 00:40:41,480
+<i># If she ever</i>
+
+720
+00:40:41,600 --> 00:40:43,320
+<i># Eats me out of money</i>
+
+721
+00:40:43,840 --> 00:40:45,640
+<i># And we needed the rent</i>
+
+722
+00:40:47,000 --> 00:40:50,200
+<i># Oh, that'll be a cinch
+# 'Cause when we're in a pinch</i>
+
+723
+00:40:50,320 --> 00:40:52,920
+<i># I can put her to work
+# under a circus tent</i>
+
+724
+00:40:54,160 --> 00:40:55,920
+<i># The bigger the figure
+# The better I like her</i>
+
+725
+00:40:56,040 --> 00:40:57,800
+<i># The better I like her
+# The better I feed her</i>
+
+726
+00:40:57,920 --> 00:40:59,800
+<i># The better I feed her
+# The bigger the figure</i>
+
+727
+00:40:59,920 --> 00:41:02,520
+<i># The bigger the figure
+# The more I can love</i>
+
+728
+00:41:03,520 --> 00:41:05,640
+Guys, can you come in here?
+
+729
+00:41:06,200 --> 00:41:07,960
+I need to talk to you.
+
+730
+00:41:09,000 --> 00:41:12,480
+If she's having a woman problem
+it's all yours.
+
+731
+00:41:28,000 --> 00:41:29,320
+Ta-da!
+
+732
+00:41:29,680 --> 00:41:31,040
+What are these?
+
+733
+00:41:31,160 --> 00:41:32,920
+Opening night presents.
+
+734
+00:41:33,520 --> 00:41:35,440
+I know it's technically
+just an audition tomorrow,
+
+735
+00:41:35,560 --> 00:41:36,720
+but I figured "What the hey?"
+
+736
+00:41:36,840 --> 00:41:39,720
+They're not much, since I had
+to use stuff I found around here
+
+737
+00:41:39,840 --> 00:41:42,000
+but, well...
+You first, Brain!
+
+738
+00:41:42,120 --> 00:41:45,640
+An envelope!
+You spoil me rotten, lady.
+
+739
+00:41:45,760 --> 00:41:47,680
+I think we better open it.
+
+740
+00:41:48,400 --> 00:41:50,240
+It's a new label for your jar.
+
+741
+00:41:51,400 --> 00:41:53,400
+And Brain is spelled right!
+
+742
+00:41:54,280 --> 00:41:55,560
+It is, right?
+
+743
+00:41:55,680 --> 00:41:57,680
+You shouldn't really worry
+about labels, though,
+
+744
+00:41:57,800 --> 00:42:00,000
+because you may be a brain,
+but you have heart.
+
+745
+00:42:01,200 --> 00:42:03,240
+And in some ways,
+that's more important.
+
+746
+00:42:03,360 --> 00:42:06,040
+Heart? I'd kill for a pair of feet.
+
+747
+00:42:07,320 --> 00:42:10,960
+Open yours, Scamper.
+It s a prehistoric evergreen.
+
+748
+00:42:11,080 --> 00:42:13,480
+They live forever.
+I just want to make sure
+
+749
+00:42:13,600 --> 00:42:15,840
+that if anything
+ever happens to the three of us,
+
+750
+00:42:15,960 --> 00:42:17,080
+you always have company.
+
+751
+00:42:17,200 --> 00:42:20,080
+Great. I must be allergic to it.
+
+752
+00:42:20,200 --> 00:42:23,640
+With any luck, it'll kill me
+with its dinosaur-era toxins.
+
+753
+00:42:24,640 --> 00:42:26,600
+Can we move on to Igor now?
+
+754
+00:42:28,000 --> 00:42:30,360
+No one's ever given me a gift before.
+
+755
+00:42:30,480 --> 00:42:33,160
+It's something no
+director can be without.
+
+756
+00:42:34,360 --> 00:42:35,520
+A beret!
+
+757
+00:42:38,240 --> 00:42:39,160
+Voilà!
+
+758
+00:42:39,280 --> 00:42:40,480
+That's French for,
+
+759
+00:42:40,600 --> 00:42:43,200
+"Please stop pelting me and
+my ridiculous hat with rocks. "
+
+760
+00:42:43,320 --> 00:42:45,720
+Hey, Igor where's our gift for Eva?
+
+761
+00:42:46,120 --> 00:42:47,040
+Our gift?
+
+762
+00:42:47,160 --> 00:42:48,960
+Oh! You guys didn't.
+
+763
+00:42:49,080 --> 00:42:50,200
+We did.
+
+764
+00:42:51,080 --> 00:42:53,000
+Where'd you put it, Igor?
+
+765
+00:42:53,160 --> 00:42:55,960
+It s in the other room.
+
+766
+00:42:59,200 --> 00:43:01,880
+Gift, gift, gift, gift.
+
+767
+00:43:07,760 --> 00:43:10,520
+Eva. Well, we got you this.
+
+768
+00:43:11,760 --> 00:43:13,240
+It's a necklace.
+
+769
+00:43:21,000 --> 00:43:23,800
+It's the most beautiful
+thing I've ever seen!
+
+770
+00:43:25,240 --> 00:43:26,720
+Igor, can you...
+
+771
+00:43:26,840 --> 00:43:28,880
+I would do it myself,
+but I am all thumbs.
+
+772
+00:43:29,000 --> 00:43:32,200
+Yeah, I'm sorry about that.
+I got the thumbs on sale.
+
+773
+00:43:33,120 --> 00:43:34,240
+I'm never gonna take this off.
+
+774
+00:43:34,360 --> 00:43:37,600
+That way all of you will be
+close to my heart forever.
+
+775
+00:43:39,680 --> 00:43:43,040
+I need to go write this down
+in my sense-memory journal!
+
+776
+00:43:43,360 --> 00:43:45,240
+Oh, where did I put my glitter pen?
+
+777
+00:43:47,520 --> 00:43:49,680
+See, this is the kind of
+moment that'd be tough
+
+778
+00:43:49,800 --> 00:43:52,840
+for someone who wasn't meant
+to be an Evil Scientist.
+
+779
+00:43:52,960 --> 00:43:56,440
+Somebody who'd go all soft
+and want to tell her the truth.
+
+780
+00:43:57,720 --> 00:44:00,120
+But lucky for us, I'm evil, right?
+
+781
+00:44:00,240 --> 00:44:01,880
+Yeah. Lucky us.
+
+782
+00:44:02,880 --> 00:44:04,520
+I don't feel lucky.
+
+783
+00:44:14,440 --> 00:44:17,200
+So we stay on track,
+'cause we're almost there,
+
+784
+00:44:17,320 --> 00:44:20,000
+and I just don't let
+her get into my head.
+
+785
+00:44:25,240 --> 00:44:27,160
+It s so hard being a little hunchback.
+
+786
+00:44:27,280 --> 00:44:28,360
+Heidi!
+
+787
+00:44:28,480 --> 00:44:31,240
+Dr. Glickenstein is under the rug.
+I mean, under the weather.
+
+788
+00:44:31,360 --> 00:44:33,240
+I didn't come to see him.
+
+789
+00:44:33,840 --> 00:44:35,960
+I came to see you.
+
+790
+00:44:36,720 --> 00:44:37,720
+Me?
+
+791
+00:44:44,320 --> 00:44:48,080
+By the way, an Igor came by today
+
+792
+00:44:48,200 --> 00:44:50,840
+and asked me to
+hands-deliver this to you.
+
+793
+00:44:51,320 --> 00:44:53,080
+And these are my hands.
+
+794
+00:44:54,160 --> 00:44:55,080
+What? What is it?
+
+795
+00:44:55,200 --> 00:44:57,000
+<i>Ja, I haven't any idea.</i>
+
+796
+00:44:57,120 --> 00:44:58,640
+"Wish You Weren't There. "
+
+797
+00:45:03,720 --> 00:45:07,000
+Oh, excellent, wonderful.
+
+798
+00:45:07,360 --> 00:45:08,920
+You got my card.
+
+799
+00:45:12,080 --> 00:45:13,000
+Is everything okay?
+
+800
+00:45:14,120 --> 00:45:15,040
+I heard a strange noise.
+
+801
+00:45:15,160 --> 00:45:16,080
+Ooh!
+
+802
+00:45:16,200 --> 00:45:18,440
+Oh, I wasn't at the door
+listening to you and Igor.
+
+803
+00:45:18,560 --> 00:45:19,800
+I just...
+
+804
+00:45:20,800 --> 00:45:23,720
+Hi! We haven't met. I'm Eva.
+
+805
+00:45:26,400 --> 00:45:28,160
+Oh you're upset, aren't you?
+
+806
+00:45:28,280 --> 00:45:31,080
+"Who is this strange woman
+living with Igor," right?
+
+807
+00:45:31,200 --> 00:45:33,720
+Well, believe me,
+Igor and I are just friends.
+
+808
+00:45:33,840 --> 00:45:36,360
+As his girlfriend you have
+nothing to worry about.
+
+809
+00:45:36,480 --> 00:45:38,040
+I'm not his girlfriend.
+
+810
+00:45:38,160 --> 00:45:39,320
+You're not?
+
+811
+00:45:39,440 --> 00:45:41,480
+But the way he looks at you...
+
+812
+00:45:42,080 --> 00:45:43,400
+He never looks at me that way.
+
+813
+00:45:43,520 --> 00:45:45,480
+Maybe some men like girls
+
+814
+00:45:45,600 --> 00:45:49,240
+who don't look like they've
+been put together at the junkyard.
+
+815
+00:45:50,880 --> 00:45:51,880
+Right.
+
+816
+00:45:52,000 --> 00:45:54,600
+You have a very ugly face.
+
+817
+00:45:56,360 --> 00:45:59,200
+Well, I have to go
+get some rest for my audit on tomorrow.
+
+818
+00:45:59,360 --> 00:46:00,560
+It was nice meeting you.
+
+819
+00:46:00,680 --> 00:46:01,640
+Oh.
+
+820
+00:46:02,800 --> 00:46:03,960
+Whoops!
+
+821
+00:46:05,800 --> 00:46:07,000
+Audit on?
+
+822
+00:46:12,320 --> 00:46:14,840
+So, how's your cocktail, Igor?
+
+823
+00:46:14,960 --> 00:46:16,840
+Is it nice? You like t?
+
+824
+00:46:16,960 --> 00:46:19,880
+Is it coconut-ty?
+Coconut-ty enough?
+
+825
+00:46:20,000 --> 00:46:23,000
+Wait! You should be sipping in style!
+
+826
+00:46:23,520 --> 00:46:25,560
+Igor Krazy Straw!
+Right now.
+
+827
+00:46:28,560 --> 00:46:31,240
+Small trumpet. Isn't that better?
+Doesn't that taste better?
+
+828
+00:46:31,360 --> 00:46:32,280
+Excuse me, sir, but why...
+
+829
+00:46:33,880 --> 00:46:35,600
+I mean, why am I here?
+
+830
+00:46:35,720 --> 00:46:37,480
+You can drop that slur around me.
+
+831
+00:46:37,600 --> 00:46:40,560
+I don't even make my Igors talk
+that way. Isn't that right, Igor?
+
+832
+00:46:40,680 --> 00:46:44,200
+Oh, that's right, Master.
+
+833
+00:46:44,320 --> 00:46:45,960
+How many times do I have to tell you?
+
+834
+00:46:46,080 --> 00:46:48,440
+Call me Frederick.
+Okay? That's my name.
+
+835
+00:46:48,560 --> 00:46:50,360
+Okay. Frederick!
+
+836
+00:46:51,080 --> 00:46:53,640
+I have to get back.
+Dr. Glickenstein will be missing me.
+
+837
+00:46:53,760 --> 00:46:57,920
+Somehow, I think he's missing
+more than his right-hand man.
+
+838
+00:46:59,080 --> 00:47:03,800
+Look, Iggy baby I know all about
+Glickenstein and his deadness.
+
+839
+00:47:04,960 --> 00:47:07,120
+I also know about your monster.
+
+840
+00:47:08,000 --> 00:47:09,440
+I m gonna guess your plan.
+
+841
+00:47:09,560 --> 00:47:11,160
+You win the Evil Science Fair,
+
+842
+00:47:11,240 --> 00:47:13,640
+and then everyone looks
+past the hunch thing,
+
+843
+00:47:13,760 --> 00:47:15,560
+and they accept you for the real you.
+
+844
+00:47:15,680 --> 00:47:18,200
+You grab the girl of your dreams
+and you cha-cha-cha your way
+
+845
+00:47:18,320 --> 00:47:19,360
+to a happy ending.
+
+846
+00:47:19,480 --> 00:47:20,480
+Am I close on this?
+
+847
+00:47:20,600 --> 00:47:21,960
+No, not entirely.
+
+848
+00:47:23,440 --> 00:47:24,760
+I don't know how to cha-cha.
+
+849
+00:47:25,480 --> 00:47:27,840
+We're a lot alike, Igor.
+
+850
+00:47:27,960 --> 00:47:29,920
+I want to be more as well,
+
+851
+00:47:30,040 --> 00:47:32,360
+but society, it won't let me.
+It stops me.
+
+852
+00:47:32,480 --> 00:47:33,480
+So, this is my plan:
+
+853
+00:47:33,600 --> 00:47:36,680
+I enter Evil Science Fair
+with your monster and then I win.
+
+854
+00:47:36,800 --> 00:47:38,840
+I turn the monster on the King.
+
+855
+00:47:38,960 --> 00:47:42,360
+Ding dong, the King is dead,
+long live the new king, me!
+
+856
+00:47:44,360 --> 00:47:49,800
+And then you come in as Malaria's
+new Evil Scientist Dr. Igor.
+
+857
+00:47:50,480 --> 00:47:51,960
+So what do you say to
+that? Is that nice?
+
+858
+00:47:52,080 --> 00:47:52,840
+Is that really nice?
+
+859
+00:47:52,880 --> 00:47:54,640
+You want to overthrow the King?
+
+860
+00:47:54,760 --> 00:47:57,040
+I thought you wanted
+to be an Evil Scientist.
+
+861
+00:47:57,160 --> 00:47:58,080
+I do. But...
+
+862
+00:47:58,200 --> 00:47:59,800
+Stop thinking like an Igor!
+
+863
+00:47:59,920 --> 00:48:03,080
+Evil Scientists do not let
+anyone stand in their way.
+
+864
+00:48:03,760 --> 00:48:05,880
+Yes. I know. They step
+on people to get ahead.
+
+865
+00:48:06,000 --> 00:48:07,120
+Exactly!
+
+866
+00:48:08,000 --> 00:48:08,960
+She'll never do it.
+
+867
+00:48:09,080 --> 00:48:09,960
+She?
+
+868
+00:48:10,080 --> 00:48:11,240
+The monster.
+She isn't evil.
+
+869
+00:48:11,360 --> 00:48:13,800
+Something went wrong and her
+Evil Bone was never activated.
+
+870
+00:48:13,920 --> 00:48:17,000
+So how do we get this Evil Bone
+up and running, huh?
+
+871
+00:48:17,120 --> 00:48:20,880
+We kick it, we slap it,
+we take it to the movies, call it Irene?
+
+872
+00:48:21,400 --> 00:48:22,680
+She needs to commit an evil act,
+
+873
+00:48:22,800 --> 00:48:24,360
+but since she's not evil, she won't.
+
+874
+00:48:26,520 --> 00:48:27,880
+Well, your troubles are over then,
+
+875
+00:48:28,000 --> 00:48:31,320
+because I can get a woman
+to do absolutely anything.
+
+876
+00:48:31,880 --> 00:48:32,840
+I don't know.
+
+877
+00:48:32,960 --> 00:48:36,240
+Don't tell me that you have
+feelings for this thing?
+
+878
+00:48:36,360 --> 00:48:37,680
+- No.
+- Good,
+
+879
+00:48:38,400 --> 00:48:40,640
+because that would be pathetic.
+
+880
+00:48:41,520 --> 00:48:45,920
+I can give you everything
+you have ever wanted.
+
+881
+00:48:46,400 --> 00:48:47,400
+I think I need to go.
+
+882
+00:48:47,520 --> 00:48:49,920
+Look, the Evil Science Fair
+is in a few hours.
+
+883
+00:48:50,040 --> 00:48:52,800
+You're either with me or against me.
+
+884
+00:48:52,920 --> 00:48:55,000
+Yes or no?
+
+885
+00:48:58,600 --> 00:49:00,160
+I take that as a no.
+
+886
+00:49:00,320 --> 00:49:02,840
+What are you going to do now, smart guy?
+
+887
+00:49:18,000 --> 00:49:19,200
+Oh!
+
+888
+00:49:22,280 --> 00:49:23,320
+No!
+
+889
+00:49:25,120 --> 00:49:26,640
+Frederick!
+
+890
+00:49:28,320 --> 00:49:30,040
+Frederick! Why are you swimming?
+
+891
+00:49:30,160 --> 00:49:31,720
+You just ate 10 minutes ago.
+
+892
+00:49:31,840 --> 00:49:33,480
+Get off of me, you buffoon!
+
+893
+00:50:02,760 --> 00:50:04,480
+Okay,
+we finished your costume.
+
+894
+00:50:04,600 --> 00:50:06,760
+I just hope it's cinched
+enough at the waist.
+
+895
+00:50:06,880 --> 00:50:09,000
+Obviously, if I had more time,
+I would have made it flare out
+
+896
+00:50:09,120 --> 00:50:10,320
+a little bit more over the knees.
+
+897
+00:50:10,440 --> 00:50:13,480
+Stop touching it, Brain,
+I'm creating a look here.
+
+898
+00:50:14,440 --> 00:50:17,440
+You guys are my friends.
+So, you'll tell me the truth, right?
+
+899
+00:50:17,560 --> 00:50:19,080
+Yeah, sure.
+
+900
+00:50:20,040 --> 00:50:22,360
+Do you think I'm pretty?
+
+901
+00:50:24,880 --> 00:50:28,680
+Brain, get me a tub of eye-liner,
+a pound of lipstick,
+
+902
+00:50:28,800 --> 00:50:32,360
+and if all else fails,
+the severed head of a supermodel.
+
+903
+00:50:32,480 --> 00:50:35,200
+Okay, the Jacuzzi is not a bathroom.
+
+904
+00:50:35,280 --> 00:50:36,040
+I know that now.
+
+905
+00:50:37,240 --> 00:50:39,760
+Please, please take your own
+sweet time! I'm loving it here!
+
+906
+00:50:39,880 --> 00:50:41,280
+Oh, really?
+
+907
+00:50:41,400 --> 00:50:43,120
+Well, then maybe you
+should stay down there
+
+908
+00:50:43,240 --> 00:50:45,640
+with your Igor, poopshkin!
+
+909
+00:50:45,760 --> 00:50:47,880
+You know something?
+He's a good listener,
+
+910
+00:50:48,000 --> 00:50:51,840
+he's got soft hands, and unlike you,
+he sometimes shaves his legs!
+
+911
+00:51:00,960 --> 00:51:04,320
+Wait.
+No kissing Heidi.
+
+912
+00:51:06,880 --> 00:51:09,480
+Or do you like me better as Heidi?
+
+913
+00:51:09,640 --> 00:51:12,360
+Hmm. Jaclyn, Heidi, Jaclyn, Heidi.
+
+914
+00:51:13,680 --> 00:51:14,760
+It would be really swell
+
+915
+00:51:14,880 --> 00:51:17,320
+if you didn't go
+psycho-girlfriend on me right now.
+
+916
+00:51:17,440 --> 00:51:19,240
+I'm not psycho!
+
+917
+00:51:19,360 --> 00:51:20,320
+Obviously not.
+
+918
+00:51:20,440 --> 00:51:25,480
+How would you feel if every day
+you had to be 13 different people?
+
+919
+00:51:25,600 --> 00:51:28,080
+I'm Jaclyn, your girlfriend.
+
+920
+00:51:30,720 --> 00:51:33,480
+Then I'm Dr. Nachtmahrs girlfriend.
+
+921
+00:51:34,400 --> 00:51:36,840
+Then I'm Dr. Groaner's girlfriend.
+
+922
+00:51:36,960 --> 00:51:38,480
+All for you!
+
+923
+00:51:38,600 --> 00:51:41,800
+To help you steal
+inventions year after year.
+
+924
+00:51:41,920 --> 00:51:45,960
+And I still say those stolen pills
+were the best invention yet.
+
+925
+00:51:46,080 --> 00:51:48,800
+Well, this time they really paid off.
+
+926
+00:51:48,920 --> 00:51:51,640
+Guess what Mommy found out
+about our favorite little monster?
+
+927
+00:51:51,760 --> 00:51:53,160
+Or should I say actress?
+
+928
+00:51:53,280 --> 00:51:54,200
+Oh.
+
+929
+00:51:57,040 --> 00:51:58,120
+Eva.
+
+930
+00:52:02,240 --> 00:52:04,360
+Eva, Eva!
+
+931
+00:52:08,920 --> 00:52:12,440
+Just breathe. Okay.
+Center yourself on the body.
+
+932
+00:52:19,880 --> 00:52:22,680
+I'm ready for my close-up, Mr. Director.
+
+933
+00:52:29,400 --> 00:52:32,840
+Oh, no, this isn't happening.
+Act graceful. Act graceful.
+
+934
+00:52:32,960 --> 00:52:33,960
+Keep smiling.
+
+935
+00:52:39,680 --> 00:52:41,000
+Too close?
+
+936
+00:52:41,520 --> 00:52:44,480
+No. Eva, you look...
+You look beautiful.
+
+937
+00:52:45,240 --> 00:52:46,800
+Oh this is such a cliché,
+
+938
+00:52:46,920 --> 00:52:50,160
+the leading lady falling
+for her director.
+
+939
+00:52:50,600 --> 00:52:53,160
+Well, you're not used to high heels
+
+940
+00:52:54,760 --> 00:52:56,240
+Oh, you mean...
+
+941
+00:52:56,840 --> 00:52:58,480
+Our work here is done.
+
+942
+00:52:58,600 --> 00:52:59,720
+Our work?
+
+943
+00:52:59,840 --> 00:53:02,880
+You spent the entire time
+playing with a piece of ribbon.
+
+944
+00:53:07,600 --> 00:53:10,920
+Eva, about the audition, I think
+I've given you the wrong direction.
+
+945
+00:53:11,040 --> 00:53:13,600
+But I feel so prepared.
+
+946
+00:53:13,720 --> 00:53:17,800
+No, I've been trying to make you
+play a role that you're not right for.
+
+947
+00:53:17,920 --> 00:53:18,800
+What?
+
+948
+00:53:18,920 --> 00:53:20,000
+I have to tell you the truth.
+
+949
+00:53:22,960 --> 00:53:25,520
+He did.
+I'll just be a minute.
+
+950
+00:53:27,960 --> 00:53:32,040
+Oh, Igor. Ow!
+My ankle.
+
+951
+00:53:32,160 --> 00:53:34,920
+It twisted like the pretzel, Igor!
+
+952
+00:53:36,440 --> 00:53:37,880
+Enchanting.
+
+953
+00:53:38,000 --> 00:53:40,480
+Thank you. And who are you?
+
+954
+00:53:41,040 --> 00:53:45,880
+Someone who does not want
+your unique gifts to go to waste.
+
+955
+00:53:47,040 --> 00:53:48,480
+Are you a talent agent?
+
+956
+00:53:48,880 --> 00:53:51,920
+I was so deep down worried
+
+957
+00:53:52,040 --> 00:53:55,760
+that when you opened the card
+I thought I lost you forever.
+
+958
+00:53:55,880 --> 00:53:57,800
+Heidi, I need to tell you something.
+
+959
+00:53:57,920 --> 00:53:59,320
+I don't know what it is,
+
+960
+00:53:59,440 --> 00:54:02,480
+but I fee like for the
+first time in my life,
+
+961
+00:54:02,600 --> 00:54:05,640
+I'm seeing a real Igor.
+
+962
+00:54:06,400 --> 00:54:09,160
+And I think I'm in love with him.
+
+963
+00:54:13,160 --> 00:54:15,640
+Wow, when it rains, it pours.
+
+964
+00:54:16,640 --> 00:54:17,560
+No, no.
+
+965
+00:54:17,680 --> 00:54:20,120
+Igor is a liar.
+He does this...
+
+966
+00:54:20,240 --> 00:54:23,200
+Igor would never lie to me.
+Igor cares about me.
+
+967
+00:54:23,320 --> 00:54:25,320
+Cares?
+He doesn't care.
+
+968
+00:54:25,440 --> 00:54:28,240
+Because he built you to be a weapon.
+
+969
+00:54:28,360 --> 00:54:30,720
+No, no, no, you re wrong.
+
+970
+00:54:30,840 --> 00:54:33,120
+He'll never look at you
+and see a woman.
+
+971
+00:54:33,240 --> 00:54:36,040
+All he will ever see is a monster.
+
+972
+00:54:36,160 --> 00:54:37,960
+I don't believe you.
+
+973
+00:54:38,080 --> 00:54:39,880
+Open your eyes.
+
+974
+00:54:40,000 --> 00:54:43,520
+Igor has someone else
+in mind for your role.
+
+975
+00:54:43,640 --> 00:54:45,040
+Heidi, no!
+
+976
+00:54:48,200 --> 00:54:49,840
+There's nothing more for you here.
+
+977
+00:54:49,960 --> 00:54:53,960
+Come with me.
+I will make you a star.
+
+978
+00:55:12,480 --> 00:55:13,560
+No.
+
+979
+00:55:15,240 --> 00:55:16,200
+Oh!
+
+980
+00:55:16,320 --> 00:55:17,560
+What's wrong?
+
+981
+00:55:17,680 --> 00:55:20,240
+I can't believe I'm saying this,
+but I've made someone else.
+
+982
+00:55:20,360 --> 00:55:21,320
+Huh?
+
+983
+00:55:21,440 --> 00:55:24,880
+I mean, I've met someone else,
+who I made. It s complicated.
+
+984
+00:55:25,000 --> 00:55:26,280
+Wait a minute.
+
+985
+00:55:26,400 --> 00:55:28,120
+You're rejecting me?
+
+986
+00:55:28,240 --> 00:55:29,200
+I'm sorry.
+
+987
+00:55:29,320 --> 00:55:31,880
+For that big bumpy thing?
+
+988
+00:55:32,960 --> 00:55:33,880
+How do you know about...
+
+989
+00:55:34,000 --> 00:55:39,400
+I mean, this isn't even the sexiest me,
+but come on! Look at you.
+
+990
+00:55:39,520 --> 00:55:42,640
+You're hideous.
+You really are.
+
+991
+00:55:42,760 --> 00:55:44,760
+And I kissed you!
+
+992
+00:55:44,880 --> 00:55:46,120
+Ugh! Yuck!
+
+993
+00:55:46,240 --> 00:55:47,280
+Um...
+
+994
+00:55:50,240 --> 00:55:51,520
+You're a monster.
+
+995
+00:55:51,640 --> 00:55:55,160
+And as we know, monsters
+only exist to be used.
+
+996
+00:55:58,520 --> 00:55:59,640
+Schadenfreude!
+
+997
+00:56:00,480 --> 00:56:01,640
+Eva.
+
+998
+00:56:07,480 --> 00:56:08,800
+Seize him!
+
+999
+00:56:09,880 --> 00:56:11,720
+Where's Glickenstein?
+
+1000
+00:56:11,840 --> 00:56:14,360
+And before you answer,
+you should know
+
+1001
+00:56:14,480 --> 00:56:16,680
+that someone sent me this!
+
+1002
+00:56:18,080 --> 00:56:20,680
+Your Highness, he's dead.
+
+1003
+00:56:20,800 --> 00:56:23,160
+And he didn't invent life, did he?
+
+1004
+00:56:23,440 --> 00:56:24,360
+No.
+
+1005
+00:56:25,560 --> 00:56:26,640
+I did.
+
+1006
+00:56:28,360 --> 00:56:29,840
+An Igor inventing...
+
+1007
+00:56:29,960 --> 00:56:30,920
+Silence!
+
+1008
+00:56:31,440 --> 00:56:33,480
+Hunchy invented life, eh?
+
+1009
+00:56:33,600 --> 00:56:35,200
+Well, where is it?
+
+1010
+00:56:35,320 --> 00:56:37,840
+It's a she, and I think
+someone's taken her.
+
+1011
+00:56:37,960 --> 00:56:42,880
+Well, if she comes back,
+we'll just tell her where to find you.
+
+1012
+00:56:43,000 --> 00:56:45,800
+In the Igor recycling plant!
+
+1013
+00:56:45,920 --> 00:56:49,080
+No! Please!
+No! No!
+
+1014
+00:56:50,840 --> 00:56:52,560
+Eva, where are you?
+
+1015
+00:56:54,280 --> 00:56:56,440
+Eva.
+
+1016
+00:57:05,680 --> 00:57:08,440
+Eva.
+
+1017
+00:57:29,280 --> 00:57:31,880
+<i>Lock your doors
+and hide your loved ones.</i>
+
+1018
+00:57:32,000 --> 00:57:35,480
+<i>It's the annual Evil Science Fair!</i>
+
+1019
+00:57:35,600 --> 00:57:39,080
+I m Carl Cristall
+and I m coming to you live, invisible
+
+1020
+00:57:39,200 --> 00:57:41,120
+and totally au nature!
+
+1021
+00:57:43,280 --> 00:57:46,640
+<i>Fans are taking their seats,
+includlng King Malbert himself!</i>
+
+1022
+00:57:46,760 --> 00:57:48,560
+Don't touch me!
+
+1023
+00:57:48,680 --> 00:57:50,680
+<i>Meanwhile, the
+scientists are in their locker rooms,</i>
+
+1024
+00:57:50,800 --> 00:57:52,960
+<i>prepping their Evil Inventions!</i>
+
+1025
+00:58:09,000 --> 00:58:12,160
+Here we are.
+A dressing room fit for a leading lady.
+
+1026
+00:58:13,320 --> 00:58:15,000
+Wow, listen to that.
+
+1027
+00:58:15,640 --> 00:58:18,040
+How many girls are
+auditioning for this project?
+
+1028
+00:58:30,360 --> 00:58:31,280
+I'm gonna go save him.
+
+1029
+00:58:31,400 --> 00:58:32,320
+Wait.
+
+1030
+00:58:32,440 --> 00:58:34,280
+Look, maybe I'm not a genius, okay.
+
+1031
+00:58:34,400 --> 00:58:37,840
+But I know one thing, I have to try
+
+1032
+00:58:37,960 --> 00:58:40,920
+No, I was gonna say,
+"Wait I'm coming with you. "
+
+1033
+00:58:42,880 --> 00:58:44,280
+On three.
+
+1034
+00:58:45,120 --> 00:58:46,080
+One.
+
+1035
+00:58:46,400 --> 00:58:47,760
+Hey! No fair!
+
+1036
+00:58:55,840 --> 00:58:57,000
+What are you doing here?
+
+1037
+00:58:57,120 --> 00:58:59,000
+We're here to rescue you!
+
+1038
+00:59:01,800 --> 00:59:04,400
+I don't want to be rescued.
+I'm an Igor.
+
+1039
+00:59:04,520 --> 00:59:05,880
+And this is what happens to us.
+
+1040
+00:59:08,840 --> 00:59:11,480
+Figures, just when I decided
+I want to live...
+
+1041
+00:59:16,320 --> 00:59:17,800
+Don't peek.
+
+1042
+00:59:17,920 --> 00:59:19,400
+Don't worry.
+
+1043
+00:59:20,640 --> 00:59:23,760
+I hope I can still do a
+decent audition without Igors help.
+
+1044
+00:59:23,880 --> 00:59:28,320
+Trust me, I'm the one who's gonna
+bring out the real you.
+
+1045
+00:59:30,240 --> 00:59:31,480
+This isn't you, Igor.
+
+1046
+00:59:31,600 --> 00:59:34,800
+Where's all that stupid
+optimism and annoying can-do attitude?
+
+1047
+00:59:34,920 --> 00:59:37,000
+I tried to be someone different,
+but the world wouldn't let me.
+
+1048
+00:59:37,120 --> 00:59:42,120
+Don't you want to go after Eva
+and save her from Schadenfreude?
+
+1049
+00:59:42,240 --> 00:59:44,560
+Are you actually trying to
+hypnotize me, Brain?
+
+1050
+00:59:44,680 --> 00:59:46,760
+Yes!
+
+1051
+00:59:46,880 --> 00:59:49,760
+But if that's not working,
+then how about this?
+
+1052
+00:59:49,880 --> 00:59:50,840
+<i>Ow!</i>
+
+1053
+00:59:51,520 --> 00:59:53,640
+Eva needs you and you're
+the only hunchback
+
+1054
+00:59:53,760 --> 00:59:56,280
+that can stand tall and fight for her.
+
+1055
+00:59:58,200 --> 01:00:00,760
+Brain, that may be the smartest
+thing you've ever said.
+
+1056
+01:00:02,520 --> 01:00:03,520
+Reach, Brain! Reach!
+
+1057
+01:00:04,680 --> 01:00:06,680
+You should have built me
+with a longer arm.
+
+1058
+01:00:10,440 --> 01:00:11,760
+Huh?
+Huh?
+
+1059
+01:00:11,880 --> 01:00:15,520
+What? Like this is the first time
+I ve gnawed my own feet off.
+
+1060
+01:00:20,240 --> 01:00:21,680
+Who says rabbits' feet are lucky?
+
+1061
+01:00:24,200 --> 01:00:26,000
+Wheels, don't fail me now!
+
+1062
+01:00:29,280 --> 01:00:31,840
+Wheels failed me!
+Wheels failed me!
+
+1063
+01:00:38,440 --> 01:00:40,080
+We went that way!
+
+1064
+01:00:43,680 --> 01:00:44,960
+What are you doing?
+
+1065
+01:00:45,080 --> 01:00:46,320
+Looking for the secret passage!
+
+1066
+01:00:46,440 --> 01:00:47,840
+There's always a secret passage!
+
+1067
+01:00:47,960 --> 01:00:50,720
+Darn it Brain,
+there's no secret passage!
+
+1068
+01:00:50,840 --> 01:00:52,120
+It's over.
+
+1069
+01:00:58,400 --> 01:01:00,200
+I'm sorry, you were saying?
+
+1070
+01:01:00,320 --> 01:01:02,760
+Technically,
+it's a secret staircase.
+
+1071
+01:01:07,280 --> 01:01:11,920
+<i>Welcome! To you and the millions
+of viewers around the globe!</i>
+
+1072
+01:01:12,040 --> 01:01:14,200
+<i>They come from all corners.</i>
+
+1073
+01:01:14,320 --> 01:01:15,560
+<i>And just look at them.</i>
+
+1074
+01:01:15,680 --> 01:01:19,240
+<i>They're all worried sick
+about one thing, world peace.</i>
+
+1075
+01:01:19,360 --> 01:01:21,800
+<i>Well, tonight, it's within their grasp.</i>
+
+1076
+01:01:21,920 --> 01:01:27,360
+<i>And it has but a small price,
+and that prlce is $100 billion.</i>
+
+1077
+01:01:32,600 --> 01:01:34,680
+And I, for one,
+I think they can do it.
+
+1078
+01:01:34,800 --> 01:01:36,280
+And if they don't we I,
+
+1079
+01:01:36,400 --> 01:01:39,240
+the Evil Invention last standing
+will be unleashed on the world.
+
+1080
+01:01:39,360 --> 01:01:42,280
+Ah! It'd just be too
+horrible to imagine.
+
+1081
+01:01:52,960 --> 01:01:54,280
+Where are we?
+
+1082
+01:01:55,160 --> 01:01:56,560
+And why am I panting?
+
+1083
+01:01:56,680 --> 01:01:57,880
+I don't have lungs.
+
+1084
+01:01:58,000 --> 01:02:01,560
+The tower of the King's castle.
+Look, there's the Killiseum.
+
+1085
+01:02:04,800 --> 01:02:07,880
+Wow, I don't know what it is,
+but I want one!
+
+1086
+01:02:08,640 --> 01:02:11,760
+It's the beacon of evil
+on top of the royal castle.
+
+1087
+01:02:12,320 --> 01:02:14,880
+Wait. Is it a beacon?
+
+1088
+01:02:16,440 --> 01:02:18,960
+Whoa, whoa, whoa.
+Where are you going?
+
+1089
+01:02:19,200 --> 01:02:21,080
+And bring me back a toy!
+
+1090
+01:03:14,960 --> 01:03:18,040
+The King's beacon is
+really a weather ray.
+
+1091
+01:03:18,680 --> 01:03:21,760
+King Ma bert is making the storm clouds.
+
+1092
+01:03:24,480 --> 01:03:27,240
+<i>So, citizens
+of the world, I beseech you...</i>
+
+1093
+01:03:27,360 --> 01:03:29,240
+<i>- He lied to us.
+- ... call the number</i>
+
+1094
+01:03:29,360 --> 01:03:30,280
+<i>on the bottom of your screens.</i>
+
+1095
+01:03:30,400 --> 01:03:31,480
+<i>Yes, right there.</i>
+
+1096
+01:03:31,560 --> 01:03:34,680
+<i>You need to give, just
+like we need to be evil.</i>
+
+1097
+01:03:35,040 --> 01:03:37,400
+You need to be evil.
+
+1098
+01:03:37,520 --> 01:03:39,080
+I know my choreography,
+if that's what you mean.
+
+1099
+01:03:39,200 --> 01:03:43,440
+I think you need to go deeper.
+Have you ever done anything evil?
+
+1100
+01:03:44,400 --> 01:03:45,320
+No.
+
+1101
+01:03:45,440 --> 01:03:46,640
+Well, then how can you
+play it truthfully?
+
+1102
+01:03:46,760 --> 01:03:49,160
+You know you can't get
+this part if you fake it.
+
+1103
+01:03:49,280 --> 01:03:50,320
+Hit me.
+
+1104
+01:03:50,440 --> 01:03:52,000
+- What?
+- Hit me.
+
+1105
+01:03:52,120 --> 01:03:53,680
+I could never hit anyone.
+
+1106
+01:03:53,800 --> 01:03:55,560
+Oh, my God!
+Oh, my God! Oh, my God!
+
+1107
+01:03:55,680 --> 01:03:58,520
+Igor was right.
+You are not an actress.
+
+1108
+01:03:58,640 --> 01:03:59,560
+Yes, I am.
+
+1109
+01:03:59,680 --> 01:04:01,960
+Oh, no, you're not.
+No wonder he chose Heidi.
+
+1110
+01:04:02,080 --> 01:04:04,880
+I mean, you know,
+she's beautiful and you are not.
+
+1111
+01:04:05,000 --> 01:04:06,560
+She has got talent and you do not.
+
+1112
+01:04:06,680 --> 01:04:07,640
+Don't you say that!
+
+1113
+01:04:07,760 --> 01:04:10,200
+Look at you.
+You are pathetic!
+
+1114
+01:04:10,320 --> 01:04:11,520
+No, I'm not!
+
+1115
+01:04:11,640 --> 01:04:13,600
+Yes, you are!
+You're just a big, freaky...
+
+1116
+01:04:13,720 --> 01:04:15,600
+And here it is baby.
+Buckle up, here it comes.
+
+1117
+01:04:15,720 --> 01:04:18,960
+You are an ugly monster!
+You couldn't act your way out of a...
+
+1118
+01:04:19,080 --> 01:04:20,080
+Ah!
+
+1119
+01:04:37,320 --> 01:04:40,360
+We've got Annie!
+
+1120
+01:04:41,600 --> 01:04:46,120
+Malarians, let's get evil.
+
+1121
+01:05:08,440 --> 01:05:10,440
+What? You're gonna lower yourself down?
+
+1122
+01:05:10,560 --> 01:05:12,400
+You've got your job, I ve got mine.
+
+1123
+01:05:12,520 --> 01:05:13,720
+I'm coming, Eva!
+
+1124
+01:05:14,600 --> 01:05:16,320
+And bring me back a toy!
+
+1125
+01:05:33,720 --> 01:05:34,640
+Phew!
+
+1126
+01:05:34,760 --> 01:05:35,920
+That was close.
+
+1127
+01:05:37,120 --> 01:05:38,880
+He s okay! He's...
+
+1128
+01:05:40,960 --> 01:05:41,920
+Oh!
+
+1129
+01:05:46,200 --> 01:05:47,680
+I'm coming, Eva.
+
+1130
+01:05:51,160 --> 01:05:53,480
+Pull the switch!
+
+1131
+01:05:54,800 --> 01:05:58,560
+<i>And here comes
+this year's Evil Inventions!</i>
+
+1132
+01:06:27,600 --> 01:06:31,160
+<i>What a menagerie
+of mayhem-loving monstrosities.</i>
+
+1133
+01:06:37,120 --> 01:06:40,480
+<i>Take a good look, world,
+any of these could be coming for you!</i>
+
+1134
+01:06:41,920 --> 01:06:43,960
+<i>Only one Evil Invention left.</i>
+
+1135
+01:06:45,040 --> 01:06:48,320
+Time for my crowning achievement.
+
+1136
+01:06:48,440 --> 01:06:49,840
+Pull the switch!
+
+1137
+01:07:08,880 --> 01:07:11,520
+That's Dr. Schadenfreude's invention?
+
+1138
+01:07:17,280 --> 01:07:18,600
+Eva?
+
+1139
+01:07:19,120 --> 01:07:21,480
+Let the battle begin.
+
+1140
+01:07:21,600 --> 01:07:22,760
+No.
+
+1141
+01:07:25,040 --> 01:07:30,920
+<i>The sun'll come out</i>
+
+1142
+01:07:31,040 --> 01:07:34,200
+<i>Tomorrow</i>
+
+1143
+01:07:34,320 --> 01:07:36,480
+<i>Hold on!
+What's this? It's fighting.</i>
+
+1144
+01:07:36,600 --> 01:07:42,160
+<i>Bet your bottom dollar that tomorrow...</i>
+
+1145
+01:07:42,280 --> 01:07:43,680
+<i>And winning!</i>
+
+1146
+01:07:43,800 --> 01:07:48,000
+<i>There'll be sun!</i>
+
+1147
+01:07:48,120 --> 01:07:50,280
+Let me through!
+Let me through! I made her!
+
+1148
+01:07:50,400 --> 01:07:51,600
+You made her?
+
+1149
+01:07:51,720 --> 01:07:54,440
+Hey, here's the genius
+Igor that made her.
+
+1150
+01:07:54,560 --> 01:07:57,960
+<i>Just thinking about</i>
+
+1151
+01:07:58,080 --> 01:08:00,800
+<i>Tomorrow</i>
+
+1152
+01:08:00,920 --> 01:08:05,120
+<i>Clears away the cobwebs</i>
+
+1153
+01:08:05,240 --> 01:08:08,040
+<i>And the sorrow</i>
+
+1154
+01:08:08,160 --> 01:08:12,880
+<i>Till there's none</i>
+
+1155
+01:08:16,320 --> 01:08:18,000
+Eva, Eva!
+
+1156
+01:08:21,400 --> 01:08:23,720
+<i>And wait!
+An Igor has entered the arena.</i>
+
+1157
+01:08:23,840 --> 01:08:27,200
+<i>I just stick out my chin and grin</i>
+
+1158
+01:08:27,320 --> 01:08:29,720
+<i>Don't worry,
+folks, he'll be dead soon.</i>
+
+1159
+01:08:30,560 --> 01:08:34,480
+<i>Oh!</i>
+
+1160
+01:08:37,440 --> 01:08:39,200
+She's almost at her big finish!
+
+1161
+01:08:39,320 --> 01:08:42,840
+And if we don't destroy
+this weather ray, it's really over.
+
+1162
+01:08:54,040 --> 01:08:57,160
+<i>The sun'll come out tomorrow</i>
+
+1163
+01:08:57,280 --> 01:08:58,640
+<i>So you gotta hang on</i>
+
+1164
+01:08:58,760 --> 01:09:00,520
+<i>Leave
+it to Schadenfreude,</i>
+
+1165
+01:09:00,640 --> 01:09:04,600
+<i>destroying his enemies
+with a giant girl in a red dress.</i>
+
+1166
+01:09:06,280 --> 01:09:08,960
+I can't believe
+Schadenfreude did it again
+
+1167
+01:09:10,520 --> 01:09:12,520
+What are you doing in
+the King's box, Schoddy?
+
+1168
+01:09:12,640 --> 01:09:15,720
+I was about to ask you
+the same question, Malby.
+
+1169
+01:09:15,840 --> 01:09:17,960
+Malby? What's the meaning of this?
+
+1170
+01:09:18,080 --> 01:09:21,640
+This means you're through.
+Or should I say 'overthrown"?
+
+1171
+01:09:25,760 --> 01:09:27,920
+Hey you unhand him.
+
+1172
+01:09:28,480 --> 01:09:29,680
+He's your new king.
+
+1173
+01:09:30,880 --> 01:09:32,200
+And if you have a problem with that
+
+1174
+01:09:32,320 --> 01:09:34,440
+please take it up with the head
+of my complaint department,
+
+1175
+01:09:34,560 --> 01:09:35,840
+who's the big monster over there.
+
+1176
+01:09:38,200 --> 01:09:39,600
+Majesty.
+
+1177
+01:09:40,640 --> 01:09:43,640
+There's gotta be a faster way
+to demolish this thing!
+
+1178
+01:09:43,760 --> 01:09:46,440
+We're all going to die! Except you!
+
+1179
+01:09:46,560 --> 01:09:47,760
+Oh, yeah.
+
+1180
+01:09:59,200 --> 01:10:04,280
+<i>Tomorrow</i>
+
+1181
+01:10:05,680 --> 01:10:08,680
+<i>Tomorrow</i>
+
+1182
+01:10:08,800 --> 01:10:11,200
+<i>I love ya</i>
+
+1183
+01:10:11,360 --> 01:10:12,720
+<i>Tomorrow</i>
+
+1184
+01:10:12,840 --> 01:10:14,920
+She's going to take
+this whole place apart.
+
+1185
+01:10:17,840 --> 01:10:21,880
+<i>You're always a day...</i>
+
+1186
+01:10:23,680 --> 01:10:25,960
+Wait! This isn't you.
+
+1187
+01:10:27,560 --> 01:10:30,000
+I did create you to be evil.
+
+1188
+01:10:30,120 --> 01:10:33,120
+I'm sorry I lied to you.
+I lied to you about everything.
+
+1189
+01:10:35,680 --> 01:10:37,680
+It's just a role.
+You don't have to play it.
+
+1190
+01:10:38,960 --> 01:10:43,240
+Yes, she does! You're an Igor.
+She's an Evil Invention!
+
+1191
+01:10:43,360 --> 01:10:46,000
+No. Everyone has
+an Evil Bone in their body,
+
+1192
+01:10:46,120 --> 01:10:48,360
+but we choose whether or not to use it.
+
+1193
+01:10:50,000 --> 01:10:52,200
+And as someone I love once said,
+
+1194
+01:10:52,800 --> 01:10:56,680
+"It's better to be a good nobody
+than an evil somebody. "
+
+1195
+01:11:27,680 --> 01:11:29,160
+I'm not evil.
+
+1196
+01:11:31,360 --> 01:11:32,800
+I'm Eva.
+
+1197
+01:11:34,120 --> 01:11:36,040
+That is the correct answer.
+
+1198
+01:11:36,160 --> 01:11:39,800
+Igor, I felt like
+I was in a dark, horrible place.
+
+1199
+01:11:40,640 --> 01:11:41,760
+We all were.
+
+1200
+01:11:41,880 --> 01:11:44,080
+Wait! What's happening?
+
+1201
+01:11:44,680 --> 01:11:47,160
+The end of Malaria's
+evil role in the world.
+
+1202
+01:11:47,280 --> 01:11:48,600
+Camera 2!
+
+1203
+01:11:49,200 --> 01:11:52,240
+<i>Oh! Excellent.
+Thank you!</i>
+
+1204
+01:11:52,920 --> 01:11:55,400
+<i>For generations, Klng Malbert
+has kept us in the dark</i>
+
+1205
+01:11:55,520 --> 01:11:59,040
+<i>by creating the clouds
+with a weather ray!</i>
+
+1206
+01:11:59,160 --> 01:12:00,480
+<i>He lied to us!</i>
+
+1207
+01:12:00,600 --> 01:12:02,880
+<i>We trusted him and he lied to us.</i>
+
+1208
+01:12:03,000 --> 01:12:06,680
+<i>He tricked us into thinking
+we needed to be evil to survive!</i>
+
+1209
+01:12:07,160 --> 01:12:08,720
+<i>But we don't!</i>
+
+1210
+01:12:10,560 --> 01:12:12,000
+None of us do.
+
+1211
+01:12:15,800 --> 01:12:18,440
+This is outrageous!
+He has no proof!
+
+1212
+01:12:18,560 --> 01:12:21,400
+Where's his proof?
+I demand to see proof!
+
+1213
+01:12:23,440 --> 01:12:25,000
+I demand to see...
+
+1214
+01:12:30,200 --> 01:12:31,320
+Oops!
+
+1215
+01:12:32,520 --> 01:12:34,000
+I'm sure he's fine.
+
+1216
+01:12:34,120 --> 01:12:36,840
+Long live King Schadenfreude!
+Everybody!
+
+1217
+01:12:36,960 --> 01:12:38,760
+King Malbert the liar is dead!
+
+1218
+01:12:38,880 --> 01:12:41,320
+Long live King Schadenfreude!
+
+1219
+01:12:41,440 --> 01:12:42,960
+Everybody say, "Long live... "
+
+1220
+01:12:46,040 --> 01:12:48,920
+Well, that was a short reign.
+
+1221
+01:12:49,480 --> 01:12:52,520
+Hey, fellas, I'm single again!
+
+1222
+01:12:54,040 --> 01:12:55,560
+No more pills.
+
+1223
+01:12:57,080 --> 01:12:59,680
+They can't see what I really look like.
+
+1224
+01:13:02,240 --> 01:13:04,320
+My evil days are over!
+
+1225
+01:13:04,440 --> 01:13:07,080
+From here on out,
+all evil doings will be handled
+
+1226
+01:13:07,200 --> 01:13:09,960
+by my manager/boyfriend.
+
+1227
+01:13:15,480 --> 01:13:19,840
+Eva! Eva! Eva!
+
+1228
+01:13:19,960 --> 01:13:25,080
+Eva Eva! Eva!
+
+1229
+01:13:34,080 --> 01:13:36,080
+President Igor,
+now that you're in charge,
+
+1230
+01:13:36,200 --> 01:13:39,200
+will pants continue to be
+as expensive and uncomfortable
+
+1231
+01:13:39,320 --> 01:13:41,600
+as they were under the
+previous administration?
+
+1232
+01:13:41,720 --> 01:13:44,360
+What? What? No.
+Everything is about pants.
+
+1233
+01:13:44,480 --> 01:13:47,280
+Why is everything about pants with you?
+
+1234
+01:13:47,400 --> 01:13:49,840
+There you have it.
+Another politician afraid to answer.
+
+1235
+01:13:49,960 --> 01:13:52,240
+the tough, pants-related
+questions of Carl Cristall.
+
+1236
+01:13:55,360 --> 01:13:59,560
+Pickles.
+Old family recipe. Pickles.
+
+1237
+01:13:59,680 --> 01:14:02,680
+Cocoas Strudel!
+
+1238
+01:14:05,080 --> 01:14:06,280
+Mmm-hmm!
+
+1239
+01:14:06,400 --> 01:14:07,480
+Yuck!
+
+1240
+01:14:10,400 --> 01:14:13,160
+Pick me up at 7:00.
+I'm gonna go home and shave.
+
+1241
+01:14:16,640 --> 01:14:18,480
+Hey Scamper,
+have you seen Eva?
+
+1242
+01:14:18,600 --> 01:14:20,240
+No. Go away.
+
+1243
+01:14:20,360 --> 01:14:23,920
+Hans, you're wearing this backwards.
+What are you? Blind?
+
+1244
+01:14:24,680 --> 01:14:26,760
+Let's switch this around.
+
+1245
+01:14:27,720 --> 01:14:29,720
+So, what do you do?
+
+1246
+01:14:29,840 --> 01:14:32,880
+I'm a genius. What do you do, mister?
+
+1247
+01:14:35,320 --> 01:14:36,280
+I'm sorry I'm late.
+
+1248
+01:14:36,400 --> 01:14:38,760
+I left your opening night gift
+back at the lab.
+
+1249
+01:14:38,880 --> 01:14:41,240
+Oh, my necklace!
+
+1250
+01:14:41,360 --> 01:14:42,800
+Look inside.
+
+1251
+01:14:47,200 --> 01:14:48,560
+Oh, my gosh.
+
+1252
+01:14:48,680 --> 01:14:50,400
+You're really gonna make this?
+
+1253
+01:14:50,520 --> 01:14:53,880
+Yeah. And if it doesn't work out,
+then we'll just adopt.
+
+1254
+01:14:57,240 --> 01:14:59,560
+It's a big step,
+getting a pet together.
+
+1255
+01:14:59,680 --> 01:15:02,080
+Come on, after living
+with Brain and Scamper
+
+1256
+01:15:02,200 --> 01:15:04,600
+everything will seem like a breeze.
+
+1257
+01:15:13,000 --> 01:15:17,920
+<i>I can see clearly
+now the rain has gone</i>
+
+1258
+01:15:20,800 --> 01:15:25,600
+<i>I can see all obstacles in my way</i>
+
+1259
+01:15:28,480 --> 01:15:33,240
+<i>Gone are the dark clouds
+that had me blind</i>
+
+1260
+01:15:34,000 --> 01:15:39,800
+<i>It's going to be a bright,
+bright sunshiny day</i>
+
+1261
+01:15:41,640 --> 01:15:47,440
+<i>It's going to be a bright,
+bright sunshiny day</i>
+
+1262
+01:15:49,360 --> 01:15:54,240
+<i>It's going to be a bright,
+bright sunshiny day</i>
+
+1263
+01:15:55,960 --> 01:15:56,880
+<i># I got a pocket
+# Got a pocket full of sunshine</i>
+
+1264
+01:15:57,000 --> 01:15:58,960
+<i># I got a love and I know
+# that it's all mine</i>
+
+1265
+01:15:59,080 --> 01:16:01,400
+<i># Oh, oh, oh</i>
+
+1266
+01:16:03,200 --> 01:16:05,160
+<i># Do what you want
+# But you never gonna break me</i>
+
+1267
+01:16:05,280 --> 01:16:07,320
+<i># Sticks and stones are
+# never gonna shake me</i>
+
+1268
+01:16:07,440 --> 01:16:09,760
+<i># Oh, oh, oh</i>
+
+1269
+01:16:10,880 --> 01:16:12,840
+<i># Take me away
+# Take me away</i>
+
+1270
+01:16:12,960 --> 01:16:14,880
+<i># A secret place
+# A secret place</i>
+
+1271
+01:16:15,000 --> 01:16:17,040
+<i># A sweet escape
+# A sweet escape</i>
+
+1272
+01:16:17,200 --> 01:16:19,200
+<i># Take me away
+# Take me away</i>
+
+1273
+01:16:19,360 --> 01:16:21,240
+<i># Take me away
+# Take me away</i>
+
+1274
+01:16:21,360 --> 01:16:23,280
+<i># To better days
+# To better days</i>
+
+1275
+01:16:23,400 --> 01:16:25,360
+<i># Take me away
+# Take me away</i>
+
+1276
+01:16:25,480 --> 01:16:27,840
+<i># A hiding place
+# A hiding place</i>
+
+1277
+01:16:28,400 --> 01:16:30,400
+<i># I got a pocket
+# Got a pocket full of sunshine</i>
+
+1278
+01:16:30,520 --> 01:16:32,440
+<i># I got a love and I know
+# that it's all mine</i>
+
+1279
+01:16:32,560 --> 01:16:33,560
+<i># Oh, oh, oh
+# Got a pocket</i>
+
+1280
+01:16:33,640 --> 01:16:34,880
+<i># Got a pocket full of sunshine</i>
+
+1281
+01:16:35,000 --> 01:16:36,680
+<i># Got a love and I know
+# that it's all mine</i>
+
+1282
+01:16:36,800 --> 01:16:38,760
+<i># Do what you want
+# But you never gonna break me</i>
+
+1283
+01:16:38,880 --> 01:16:40,840
+<i># Sticks and stones are
+# never gonna shake me</i>
+
+1284
+01:16:40,960 --> 01:16:43,240
+<i># Oh, oh, oh
+# Never gonna shake me</i>
+
+1285
+01:16:43,360 --> 01:16:45,040
+<i># Never gonna shake me</i>
+
+1286
+01:16:45,160 --> 01:16:47,120
+<i># I got a pocket
+# Got a pocket full of sunshine</i>
+
+1287
+01:16:47,240 --> 01:16:49,160
+<i># I got a love and I know
+# that it's all mine</i>
+
+1288
+01:16:49,280 --> 01:16:51,520
+<i># Oh, oh, oh</i>
+
+1289
+01:16:53,440 --> 01:16:55,480
+<i># Wish that you could
+# But you ain't gonna own me</i>
+
+1290
+01:16:55,600 --> 01:16:57,600
+<i># Or do anything you can to control me</i>
+
+1291
+01:16:57,720 --> 01:16:59,720
+<i># Oh, oh, oh
+# You can't control me</i>
+
+1292
+01:16:59,840 --> 01:17:01,040
+<i># You can't control me</i>
+
+1293
+01:17:01,120 --> 01:17:03,120
+<i># Take me away
+# Take me away</i>
+
+1294
+01:17:03,240 --> 01:17:05,200
+<i># A secret place
+# A secret place</i>
+
+1295
+01:17:05,320 --> 01:17:07,320
+<i># A sweet escape
+# A sweet escape</i>
+
+1296
+01:17:07,480 --> 01:17:09,480
+<i># Take me away
+# Take me away</i>
+
+1297
+01:17:09,600 --> 01:17:11,440
+<i># Take me away
+# Take me away</i>
+
+1298
+01:17:11,560 --> 01:17:13,560
+<i># To better days
+# To better days</i>
+
+1299
+01:17:13,680 --> 01:17:15,640
+<i># Take me away
+# Take me away</i>
+
+1300
+01:17:15,760 --> 01:17:17,760
+<i># A hiding place
+# A hiding place</i>
+
+1301
+01:17:17,880 --> 01:17:21,960
+<i># There's a place that I go
+# Where nobody knows</i>
+
+1302
+01:17:22,080 --> 01:17:26,200
+<i># Where the rivers flow
+# And I call it home</i>
+
+1303
+01:17:26,320 --> 01:17:30,320
+<i># And there's no more lies
+# And darkness is light</i>
+
+1304
+01:17:30,440 --> 01:17:35,560
+<i># And nobody cries
+# There's only butterflies</i>
+
+1305
+01:17:36,680 --> 01:17:38,760
+<i># Take me away
+# Take me away</i>
+
+1306
+01:17:38,880 --> 01:17:40,760
+<i># A secret place
+# A secret place</i>
+
+1307
+01:17:40,880 --> 01:17:42,840
+<i># A sweet escape
+# A sweet escape</i>
+
+1308
+01:17:42,960 --> 01:17:44,960
+<i># Take me away
+# Take me away</i>
+
+1309
+01:17:45,080 --> 01:17:47,120
+<i># Take me away
+# Take me away</i>
+
+1310
+01:17:47,240 --> 01:17:49,120
+<i># To better days
+# To better days</i>
+
+1311
+01:17:49,240 --> 01:17:51,280
+<i># Take me away
+# Take me away</i>
+
+1312
+01:17:51,400 --> 01:17:53,320
+<i># A hiding place
+# A hiding place</i>
+
+1313
+01:17:53,440 --> 01:17:55,480
+<i># Take me away
+# Take me away</i>
+
+1314
+01:17:55,600 --> 01:17:57,520
+<i># A secret place
+# A secret place</i>
+
+1315
+01:17:57,640 --> 01:17:59,600
+<i># To better days
+# To better days</i>
+
+1316
+01:17:59,760 --> 01:18:01,720
+<i># Take me away
+# Take me away</i>
+
+1317
+01:18:01,840 --> 01:18:03,880
+<i># Take me away
+# Take me away</i>
+
+1318
+01:18:04,000 --> 01:18:05,920
+<i># To better days
+# To better days</i>
+
+1319
+01:18:06,040 --> 01:18:08,040
+<i># Take me away
+# Take me away</i>
+
+1320
+01:18:08,160 --> 01:18:10,400
+<i># A hiding place
+# A hiding place</i>
+
+1321
+01:18:15,720 --> 01:18:19,280
+<i># The sun is on my side
+# Take me for a ride</i>
+
+1322
+01:18:19,640 --> 01:18:24,920
+<i># I smile up to the sky
+# I know I'll be all right</i>
+

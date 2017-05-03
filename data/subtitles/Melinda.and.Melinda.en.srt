@@ -1,0 +1,1287 @@
+{1}{1}25.000
+{2755}{2812}The essence of life isn't comic.
+{2814}{2861}lt's tragic.
+{2863}{2979}There's nothing intrinsically funny|about the terrible facts of human existence.
+{2981}{3119}l disagree. Philosophers call it absurd|because, in the end, all you can do is laugh.
+{3121}{3223}Human aspirations|are so ludicrous and irrational.
+{3225}{3319}l mean, if the underlying reality|of our being was tragic,
+{3321}{3385}my plays would make more than yours,
+{3387}{3486}because my stories would resonate|more profoundly with the human soul.
+{3488}{3634}l mean, it's exactly because tragedy|hits on the truly painful essence of life
+{3636}{3701}that people run to my comedies for escape.
+{3703}{3732}No, no.
+{3734}{3816}Tragedy confronts. Comedy escapes.
+{3818}{3883}Look, you guys,|what are we discussing here?
+{3885}{4033}ls there a deeper reality in comedy or|tragedy? Who can make such ajudgment?
+{4035}{4144}Look, let me tell you a story and you tell me,|is it material for a comedy or a tragedy?
+{4146}{4194}This happened to some people l know.
+{4196}{4291}lt's a small dinner party. The hosts|are trying to impress one of their guests.
+{4293}{4397}Suddenly the doorbell rings and out of|nowhere an unexpected person shows up.
+{4399}{4466}- A man or a woman?|- A woman. l'll give you the details
+{4468}{4528}and you tell me comedy or tragedy.
+{4530}{4630}So, the guest enters and|everyone is surprised, especially the host.
+{4632}{4700}Turns out she's got a particular problem...
+{4702}{4753}My God, that's quite amusing.
+{4755}{4848}l mean, she barges in unannounced|while they're eating.
+{4850}{4927}What you told us|would make a very good romantic comedy.
+{4929}{5032}- Because you see the world comically.|- You're missing the tragic implications.
+{5034}{5165}The entanglement it suggests.|No, l see the whole thing quite differently.
+{5167}{5228}l see this lone figure -
+{5230}{5308}a woman who's maybe just come off a bus.
+{5310}{5465}She's toting a suitcase. Maybe|she's searching nervously for an address.
+{6053}{6095}Hello?
+{6097}{6163}Who is it?
+{6165}{6195}Hello?
+{6200}{6240}Hello?
+{6271}{6347}- Can l help you, miss?|- The Springers.
+{6349}{6399}Top floor.
+{6847}{6942}- lt's really good.|- These speakers are wonderful.
+{6944}{7014}You do pick up|every little nuance of the orchestra.
+{7016}{7081}Tell me again|why l can't have a glass of wine?
+{7083}{7146}Every pregnancy,|she asks the same question.
+{7148}{7214}This is the ''Concerto in D''.
+{7216}{7287}Yes. My God,|you really know your Stravinsky.
+{7289}{7350}This would be good theme music for the play.
+{7352}{7411}- Lee?|- That's a brilliant idea.
+{7413}{7528}l need a little help with the final touches.
+{7530}{7640}- Can you get the two big serving dishes?|- l'm running out of obsequious banter.
+{7642}{7712}- How's it going?|- He thinks l'm perfect for the part.
+{7714}{7770}The goddamn producer|wants more of a name.
+{7772}{7902}l don't understand why they make|such a big deal. lt's not like it's the lead.
+{7904}{7988}My first audition went better.|l don't know what happened.
+{7990}{8080}- And l know it's not the lead, Laurel.|- Doesn't he have any clout?
+{8082}{8188}They want a name. l'm not a name.|You didn't marry a name.
+{8199}{8286}- Sally said how much she loves your place.|- How long are you here?
+{8288}{8373}Six months, and we're still not finished.
+{8375}{8443}We have to furnish slowly|cos we used up all our money.
+{8445}{8542}We could not go on in that one-bedroom.|The piano ate up the living room.
+{8544}{8651}We're living beyond our means. l get nervous.|Laurel is certain God will provide.
+{8653}{8737}- They're poor, but happy.|- Definitely poor.
+{8739}{8815}- What do you do, Peter?|- l'm a lawyer. No jokes, please.
+{8817}{8878}Think the music's a little too loud?
+{8880}{8982}l saw you listening to the Mahler and crying.|You should have seen her.
+{8984}{9078}She was listening to Mahler|with tears streaming down her face.
+{9080}{9147}She looked so beautiful. l wanted to hug her.
+{9149}{9233}Yeah. But l had to get up early|and film a deodorant commercial.
+{9235}{9315}That's work at least, right?
+{9317}{9373}l think someone rang before. Did you hear?
+{9375}{9482}- So, how do you all know each other?|- We grew up together, Cassie and l.
+{9484}{9579}We were those little girls at school|with the plaid skirts.
+{9581}{9693}- And Lee and l met at Northwestern.|- He was the star actor, the handsome athlete.
+{9695}{9782}Everybody wanted him. But Laurel got him.
+{9869}{9912}- Melinda?|- Hi.
+{9914}{9964}Melinda?
+{9978}{10047}- Hi, Melinda, hi.|- My goodness.
+{10049}{10094}God.
+{10096}{10131}Cassie.
+{10133}{10188}l'm stunned.
+{10190}{10239}Here, let me take these.
+{10241}{10302}God, look at you. You look so...
+{10304}{10378}No, don't. Don't say what you're thinking of.
+{10380}{10479}l've been on a bus.|l've been on a Greyhound bus since Tuesday,
+{10481}{10591}so l'm sure l look like|the wreck of the Hesperus.
+{10593}{10688}A bus from where?|l mean, what are you doing here?
+{10690}{10795}l've moved around.|l had to keep moving.
+{10797}{10860}Events unfolded
+{10862}{10947}in such a way that...
+{10949}{11006}ls it all right if l smoke?
+{11008}{11133}l just feel a little nervous|barging in on you like this.
+{11135}{11225}Why don't you sit down and eat with us?|This is Jack and Sally Oliver.
+{11227}{11253}- Hi.|- Hi.
+{11255}{11306}l'm Melinda Robicheaux.
+{11308}{11403}l've gone back to my mother's name.|lt's French. She was Parisienne.
+{11405}{11466}You must have dropped|off the goddamn moon.
+{11468}{11545}- Shall l get a chair?|- l could use a drink.
+{11547}{11603}Champagne or white wine.
+{11605}{11738}The truth is,|l've gotten very used to single malt Scotch.
+{11740}{11826}An acquaintance of mine|introduced me to it, so...
+{11828}{11908}l really should freshen up, though.
+{11910}{12000}lf l could just get a single malt Scotch, and...
+{12002}{12073}Look at me. Jesus. l need a hot shower.
+{12075}{12127}Yeah. OK, please...
+{12129}{12194}Excuse us. Please start.
+{12196}{12251}This is so unexpected.
+{12301}{12353}l'll say.
+{12355}{12459}- You had no hint she was coming?|- She was nuts then, and she's nuts now.
+{12461}{12538}- Did you see the look in her eyes?|- She's been on a bus.
+{12540}{12592}You were asking how we know each other.
+{12594}{12672}Melinda is the third musketeer.|We went to school together.
+{12674}{12776}- We haven't heard from her in ages.|- Yeah. She's had personal difficulties.
+{12778}{12888}She said she'd be coming to New York from...|l can't remember, Chicago or lndiana,
+{12890}{12994}and could we put her up?|Laurel said, ''Sure.'' l myself...
+{12996}{13104}This is not the time to discuss this.|Let's just eat and change the subject.
+{13106}{13225}Well, what can you do? We've all had friends|drop in unannounced. Remember your aunt?
+{13227}{13349}l put up an extra bed. l fix up the room for her.|She doesn't show when she says she will.
+{13351}{13445}So we try to contact her|and there's no trace of her.
+{13447}{13584}Two months later, she calls up unannounced|in the middle of a frigging dinner party.
+{13586}{13667}- Am l unreasonable?|- No, no!
+{13675}{13827}You're missing the whole point. You have the|makings of a delightful human comedy here.
+{13829}{13890}You missed the humour in everything.
+{13892}{14002}l see a sweet, tree-lined block|on the Upper East Side.
+{14004}{14141}lt's a dinner party. The husband is fawning|over his guest. He's a moviemaker.
+{14143}{14203}No, wait.
+{14205}{14367}Here's the idea. Make the film director the|wife. He's just her out-of-work actor husband.
+{14369}{14479}She's trying to impress the guest|and raise the money for an independent film.
+{14481}{14587}l just told Jennifer that Steve is interested|in investing in Susan's next movie.
+{14589}{14711}Yeah. l have most of the money. l've just|been trying to get it going now for two years.
+{14713}{14793}l liked your first picture.|Would you do this one on video too?
+{14795}{14877}No. That was just because|we only had $300,000.
+{14879}{14971}- This one will be on 35mm for sure.|- Well, how much do you need?
+{14973}{15059}l've raised about four million|and we need another two million.
+{15061}{15121}The problem is the theme is controversial.
+{15123}{15195}- What's the theme?|- Well, let's put it this way.
+{15197}{15349}lt's a mostly all-female cast|and it's called The Castration Sonata.
+{15351}{15441}- Do you happen to have single malt Scotch?|- You know, let me check.
+{15458}{15577}- Hurry. l'm running out of obsequious banter.|- Don't throw me. Everything's timed.
+{15579}{15666}Chilean sea bass and caramelised filo|is not like scrambled eggs.
+{15668}{15790}Well, he happens to love it. Does he love it|$2 million worth? God, l hope so.
+{15792}{15846}l told you we should keep single malt Scotch.
+{15848}{15891}- Who drinks it?|- He does.
+{15893}{16001}God, you're definitely going all out.|You're dressed very sexy.
+{16003}{16081}- Hobie, keep your eyes on the sea bass!|- OK, OK, OK.
+{16095}{16225}She goes down to buy|a bottle of single malt Scotch.
+{16372}{16422}Are you OK?
+{16472}{16531}Yeah, l'm fine.
+{16533}{16589}- Are you sure?|- Yeah.
+{16695}{16800}Here we go. These are|Coquilles St Jacques with cinnamon.
+{16802}{16936}And we're having sea bass in a caramelised|filo pastry, lightly dusted with lime powder.
+{16938}{17042}- Did someone send you a yuppie cookbook?|- Susan says you're a wonderful chef.
+{17044}{17112}l'm an out-of-work actor.
+{17128}{17178}Who's that?
+{17210}{17242}- Hi.|- Hi.
+{17244}{17304}l'm sorry. l hope l'm not intruding.
+{17306}{17365}No, it's OK.
+{17413}{17552}l've been having a kind of bad time|and l just took some sleeping pills.
+{17554}{17626}- Sleeping pills?|- How many?
+{17628}{17719}- 28.|- Whoa! Call 911.
+{17721}{17810}Stay and just eat. lt's gonna get cold.|Sit. Just stay and eat.
+{17812}{17851}lt's OK. lt's OK.
+{17853}{17918}- Hobie, make some black coffee.|- OK, OK.
+{17920}{17985}l'm allergic to coffee,|but do you have any vodka?
+{17987}{18053}- Vodka?|- Maybe we should call a doctor.
+{18055}{18130}lt's OK.|l just need something to calm my nerves.
+{18132}{18216}- Do you live in this building?|- l've been subletting for a month.
+{18218}{18284}- Somebody call a doctor.|- Careful.
+{18286}{18354}- l'm gonna be sick.|- That's the best thing.
+{18356}{18442}No, no, not on the carpet.|That's a new carpet. Go to the bathroom.
+{18444}{18512}l smell smoke. Can you smell smoke?
+{18514}{18605}God! The Chilean sea bass|lightly dusted with lime!
+{18635}{18762}Should you be taking those pills?|You didn't have any dinner.
+{18794}{18855}lf l don't, l can't sleep.
+{18857}{18952}Well, Cassie's put on weight,|not that l'd ever say anything to her.
+{18954}{19041}- Cassie's pregnant.|- Again?
+{19043}{19116}They swear they're stopping at three children.
+{19118}{19182}For me, two was just the right number.
+{19184}{19301}- ls there any word?|- No, there's none. There's nothing.
+{19338}{19445}Now, l don't want you to get panicky,|but l am planning on staying. Just for a while.
+{19447}{19586}l just need to find a place|and settle in and rebuild my career.
+{19588}{19661}And you did say that you had|enough room to put me up.
+{19663}{19749}We were surprised you never showed up.|We had everything ready.
+{19751}{19829}Lee had gotten your room in order.
+{19831}{19932}l apologise for that. l was going through|a kind of confused down period.
+{19934}{20034}l was worried. Lee couldn't figure out|how to get in contact with you.
+{20036}{20101}l'd no idea you were using different names.
+{20103}{20172}What happened?|l thought the worst was over.
+{20197}{20293}- Can l speak openly?|- Of course.
+{20362}{20427}l tried to commit suicide.
+{20446}{20507}You didn't.
+{20509}{20587}l did, and it wasn't a half-hearted attempt.
+{20589}{20647}lt wasn't a cry for help.
+{20661}{20786}Why? l thought everything that happened was|past. l thought you'd pulled yourself together.
+{20788}{20931}Because that's what l wrote you,|and some days l honestly thought it.
+{20933}{21056}But in the end,|l just couldn't take it any more.
+{21067}{21100}Melinda.
+{21134}{21226}You didn't find me because l was indisposed.
+{21246}{21381}lf you've never been in a state mental hospital|in a straitjacket, l wouldn't recommend one,
+{21383}{21473}especially not the one l was in,|in the Midwest.
+{21475}{21528}l'm overwhelmed.
+{21530}{21588}Are you OK? l mean...
+{21599}{21662}l'm all right. l'm on the road back.
+{21664}{21760}l'm still a little fragile|when everything closes in,
+{21762}{21844}but l get stronger every day.
+{21846}{21925}You know you're welcome to stay here|as long as you like.
+{22033}{22107}- There. How long is she gonna stay?|- Why?
+{22109}{22178}We promised my sister|could stay for Thanksgiving.
+{22180}{22268}- Well, Thanksgiving's not for a while.|- Well, l'm just saying.
+{22270}{22374}- She's trying to pull her life back together.|- She's her own worst enemy.
+{22376}{22455}- You don't know the details.|- Details? What details?
+{22457}{22525}She was married to some doctor.|She had two kids.
+{22527}{22601}What was she doing playing around with...|What was he?
+{22603}{22660}He was a photographer.
+{22662}{22692}Melinda.
+{22694}{22795}Lee's right. Whatever l went through,|l'm responsible for.
+{22797}{22891}Look, we've all been drinking|and we're really tired. lt's...
+{22893}{22951}No, he's right.
+{22953}{23070}l was married to a man who loved me|and gave me the two most beautiful children.
+{23072}{23169}That l'm not allowed|to set eyes on them is just proof
+{23171}{23243}of my weakness and my husband's strength.
+{23245}{23327}No. lt's disgusting how much influence|he had on the judge.
+{23329}{23393}lt's who you know. Life is all networking.
+{23395}{23511}l brought it on myself because l was bored.
+{23535}{23607}l mean, not bored with my children.
+{23648}{23710}God, they were the light of my life.
+{23712}{23802}But l was bored being a doctor's wife,
+{23804}{23888}just as my mother was bored|being a doctor's wife.
+{23890}{24035}Like Madame Bovary.|lt's not that St Louis isn't very beautiful.
+{24037}{24087}lt's just that
+{24134}{24294}everything that had seemed|so magical when l married Josh
+{24296}{24371}somehow just melted away.
+{24373}{24445}lt was OK, you know?
+{24447}{24572}And no matter what l did,|l couldn't make it any better.
+{24628}{24693}And then this
+{24695}{24769}man with a romantic name -
+{24771}{24856}John San Giuliano -
+{24920}{24975}took my photograph.
+{25010}{25110}And l fell in love with him,
+{25112}{25215}and we began having this love affair.
+{25235}{25328}And he wanted to know|if l could see myself living in ltaly,
+{25330}{25491}and l said, ''Well, look, Mr San Giuliano,|l'm married to a surgeon with two children.''
+{25493}{25572}''My life is fixed,|so don't ask me to tax my imagination.''
+{25574}{25744}''Let's just confine our passion to local motels|and forget Capistrano.''
+{25836}{25886}And then
+{25913}{26025}reality set in|in the person of a private detective
+{26027}{26112}with the unlikely name of Woodkrutch,
+{26154}{26209}and my children
+{26211}{26318}were handed over|to my humiliated husband forever.
+{26389}{26498}Mr San Giuliano
+{26500}{26615}took me on a safari to help me forget things.
+{26617}{26717}But l can't forget, no matter how hard l try.
+{26737}{26812}Then he met someone else.
+{26823}{26890}Stop, Melinda.
+{26902}{26972}Why? lt only gets worse.
+{27032}{27095}So that's pretty much how l got here.
+{27097}{27158}My God, that's a sad story.
+{27160}{27249}Guy leads her on, causes her to break up|her marriage, then dumps her.
+{27251}{27349}l caught him in bed with one of his models.|l mean, who can blame him?
+{27351}{27477}She was a 6ft Swede who was a Miss World|runner-up. Her legs started at her chin.
+{27479}{27602}See, that's why my film, The Castration|Sonata, puts male sexuality in perspective.
+{27604}{27739}lt's lucky you didn't have children.|He could have made custody trouble.
+{27741}{27831}l always wanted to have children,|but my husband wouldn't hear of it.
+{27833}{27922}He couldn't bear having sex with|a pregnant woman for nine months,
+{27924}{27962}especially the fat months.
+{27964}{28056}- So, what are you gonna do now?|- l'm an art historian.
+{28058}{28123}At least, that's what l majored in at Brandeis.
+{28125}{28210}And l may be getting offered|ajob in an art gallery.
+{28212}{28296}lt's only cataloguing,|but l'm in no position to turn it down.
+{28298}{28372}Anyone for more Ants Climb a Tree|before l throw it out?
+{28374}{28450}- l can't eat another bite.|- Dinner was delicious.
+{28452}{28532}Sorry about burning the sea bass|and the kitchen curtains.
+{28534}{28593}- l'm sorry about busting in on you.|- No, no.
+{28595}{28726}We love it when unexpected women|barge in and throw up. l'm kidding.
+{28728}{28810}l hope tonight didn't kill my chances|of getting my movie made.
+{28812}{28864}No, no. l think Steve Walsh was OK.
+{28866}{28943}l told him l was gonna play|a male character in the movie.
+{28945}{29002}- What did he say?|- We discussed acting.
+{29004}{29070}l told him about|my award-winning Pygmalion.
+{29072}{29187}- Hobie, that was in college.|- lt was brilliant to play Henry with a limp.
+{29189}{29290}God, l hate being an assistant director.|After you've made your own film?
+{29292}{29381}Sad thing is, he could have|my movie happen like that.
+{29383}{29449}What's $2 million to a real-estate billionaire?
+{29451}{29522}The upkeep of his private jet|is worth more than that.
+{29524}{29606}He was very impressed with you,|and you looked very sexy.
+{29608}{29716}- Really? You thought l looked sexy?|- You are sexy. Really, you're very sexy.
+{29718}{29785}- Hobie, it's 2am.|- What's going on?
+{29787}{29885}We used to make love all the time,|and now there's always an excuse.
+{29887}{29981}l'm going through|an emotionally difficult time creatively.
+{29983}{30104}- You feel we don't communicate?|- Of course we do. Can we not talk about it?
+{30215}{30287}Hi. Sorry l'm late.
+{30289}{30385}l saw these the other day.|l think they would look very beautiful on you.
+{30387}{30468}Beautiful, but you know Lee.|He gets crazy about my spending.
+{30470}{30530}How's he doing? You're not hurting for cash?
+{30532}{30602}He's on tenterhooks about the play,|but we're fine.
+{30604}{30698}He's got a number of irons on the fire,|some promising possibilities.
+{30700}{30779}- l have a very good prospect for Melinda.|- Ajob prospect?
+{30781}{30822}A guy.
+{30824}{30896}- Remember Bud Silverglide?|- No. Have l met him?
+{30898}{31007}Remember we had Thanksgiving at my house|and he brought his little girl Emily?
+{31009}{31094}- Emily... Emily?|- His wife had died the year before.
+{31096}{31159}Yes. l sat next to him.|He's average-looking.
+{31161}{31210}He's fine. He'd be perfect.
+{31212}{31313}He's a very lovely guy. He's smart.|He's been through his share of suffering.
+{31315}{31383}Melinda would have a ready-made family.
+{31385}{31471}You think he's right for her?|l remember him as pleasant, but...
+{31473}{31582}She should be so lucky. He's got a very|successful dental practice in Manhattan.
+{31584}{31637}He plays bridge. He likes to hike.
+{31639}{31730}Think he'd be interested in Melinda,|especially when her past unfolds?
+{31732}{31818}l know. She's in no bargaining position|when all the facts come out.
+{31820}{31874}Look, l can only bring them together.
+{31876}{31978}He's not the kind of guy who'd ever|wind up hurting her. That means a lot.
+{31980}{32060}Left to her own devices,|Melinda can be self-destructive.
+{32062}{32184}Bud is sweet, and l know he's lonely because|he's taken ads in the personal columns.
+{32186}{32253}Don't tell Melinda that.
+{32255}{32347}Peter's checking into her custody case|to see if it's a lost cause.
+{32349}{32425}l told her to meet us here for lunch|after herjob interview.
+{32427}{32497}- Should we sit?|- l don't know. Can we take this table?
+{32499}{32543}Thanks.
+{32545}{32633}l know it's here somewhere.|We got this house guest living here.
+{32635}{32746}Everything's messed up. l wish she would|check before she moves my possessions.
+{32748}{32840}l love your loft. lt's really amazing.
+{32842}{32935}Here we are.|An essay on Desdemona's role in Othello.
+{32937}{33041}The scene you should do in our next class|is the one we talked about yesterday.
+{33043}{33124}- You really think l'm ready for it?|- l do.
+{33126}{33213}You're among the two or three|most talented students in my class,
+{33215}{33286}and the sooner you challenge yourself,|the better.
+{33288}{33435}You're the only one who makes me feel|confident enough to take chances.
+{33558}{33620}Aren't you nervous bringing me back here?
+{33622}{33761}lt's OK. My wife's shopping, then going to|lunch. She's always shopping and lunching.
+{33763}{33899}She grew up shopping and lunching.|Her mother did, and her grandmother.
+{33901}{33990}You shouldn't really drink so early in the day.
+{33992}{34085}Shopping and lunching's what you get|when you marry a Park Avenue princess.
+{34087}{34161}- What does your wife do?|- Besides shopping?
+{34163}{34248}She teaches tin-eared teenagers|at a music school a few days a week.
+{34250}{34402}lt's funny, but life has a malicious way|of dealing with great potential.
+{34540}{34590}My God. Get...
+{34816}{34843}Hi.
+{34845}{34936}l just got back from my job interview.
+{34956}{35119}l don't think it went too well,|so just stopped off for a little pick-me-up.
+{35121}{35171}- You OK?|- Yeah.
+{35198}{35345}Yeah. Well, l'm gonna go and meet Laurel and|Cassie for lunch in our old neighbourhood.
+{35467}{35532}l'm just gonna go freshen up.
+{35726}{35850}- The park hasn't changed a bit.|- Not at all. lt brings back so many memories.
+{35852}{35971}Those days are gone when the three of us|thought we could call the shots.
+{35973}{36065}What l wouldn't give to wake up|and find my life has been a bad dream
+{36067}{36121}and we're all still 17.
+{36123}{36183}Tell me about it.
+{36185}{36302}You wouldn't change anything. l mean,|your life is pretty much on track, right?
+{36304}{36460}Well, the question's not fair. l mean, who|wouldn't profit from a second go around?
+{36462}{36522}So, what about Bud Silverglide?
+{36541}{36609}The dentist with the charming little daughter?
+{36611}{36717}He's a wonderful guy. lf anything|ever did happen and you hit it off,
+{36719}{36779}you could establish something solid.
+{36781}{36874}Not more unrealistic pipe dreams|that can't help but wind up badly.
+{36876}{36957}l'm sorry. Did that come out harsh?
+{36959}{37046}The truth is, l'm nervous.|l wanna meet someone so desperately,
+{37048}{37135}but when the chance comes along,|l just panic.
+{37137}{37258}lt won't be a date. l'll make a dinner party|and we'll all be there to support you.
+{37260}{37343}l'll invite a number of nice guests|and he'll be one of them,
+{37345}{37473}and if you meet and hit if off, then great,|and if not, then no obligation.
+{37492}{37583}Yeah. When he hears my story...|My God. l come with such baggage.
+{37585}{37698}- Well, don't go in with a defeatist attitude.|- Yeah. First see if you even like him.
+{37700}{37763}lf he's as nice as Cassie's painting him...
+{37765}{37828}He's a good catch,|if l can speak pragmatically,
+{37830}{37924}especially for you,|cos he's got his feet on the ground.
+{37926}{38053}lf l find him at all attractive, l think l should|just tell him my whole story right off.
+{38055}{38188}Or do you think it's better to wait? Let him|take the hook first, and then run with it?
+{38190}{38279}God. l can't believe l'm even asking this.
+{38281}{38356}l'm already strategising.|l haven't met this guy yet.
+{38358}{38438}lf we're gonna do this,|it has to be completely informal,
+{38440}{38579}cos l can't handle it any other way.|l don't have any dressy clothes anyhow.
+{38581}{38658}Funny part of that is,|as elegant as l can look -
+{38660}{38758}and you know, l can look pretty stylish -
+{38760}{38842}men find women sexier in casual attire.
+{38865}{38953}lt's true. l could wear my hair down and loose.
+{38955}{39052}That's enticing already.|At least it's not intimidating.
+{39054}{39142}- You haven't told him anything about me?|- l can if you like.
+{39144}{39196}No. No.
+{39198}{39360}My sad tale should come from my lips,|if and when l choose to reveal it.
+{39410}{39491}Cut. OK, great. That was great. lt was great.
+{39493}{39558}You took the note great. Print one and six.
+{39560}{39649}You got it? OK, hey, everybody,|that's lunch. One hour. Thank you.
+{39651}{39729}- Hey, are you gonnajoin us?|- No. l'm meeting a friend.
+{39731}{39802}Tell the actors we're gonna do|scene ten instead of 26.
+{39804}{39895}OK. We're doing scene ten instead of 26.
+{40052}{40090}- Hey.|- Hey.
+{40092}{40159}- Should we just sit here?|- Yeah.
+{40182}{40321}- So, what did he say?|- That Steve is inclined to put up the money.
+{40342}{40411}He likes your script|and wants to have lunch with you.
+{40413}{40470}- Fantastic!|- Yeah, it looks really good.
+{40472}{40563}He was concerned that you intended for|Hobie to play the psychiatrist.
+{40565}{40640}- You know, he wants a name.|- l understand.
+{40642}{40703}lt's gonna be kind of|a touchy subject at home
+{40705}{40814}because, l mean, the truth is|he'd make the perfect shrink, and he knows it.
+{40816}{40944}But, let's face it, he's not a name,|and l want people to see my movie too, so...
+{40946}{41061}Well, l'm sure that you guys will figure it out,|and l think it's very exciting.
+{41063}{41131}Doug and l know somebody|perfect for Melinda,
+{41133}{41198}your downstairs neighbour|who crashed dinner.
+{41200}{41249}- Remember Greg Earlinger?|- No.
+{41251}{41348}- Doug's dentist. You met him with us once.|- Yes. He has a great sports car.
+{41350}{41411}The Bentley. He's single and available.
+{41413}{41492}She would find him fascinating.|He's smart, sensitive...
+{41494}{41545}Why would he be interested in her?
+{41547}{41665}She seemed quite pretty, she's offbeat|and Greg always likes complicated women.
+{41667}{41806}Doug has already hyped him on her.|Ask her if we can give him her number, OK?
+{42035}{42072}- Hey.|- Melinda.
+{42074}{42100}- Hey.|- Hi.
+{42102}{42140}Hi.
+{42142}{42212}My friend Walt. This is Melinda.|She just moved in.
+{42214}{42261}- How are you?|- Nice to meet you.
+{42263}{42316}- How's it going?|- All right.
+{42318}{42429}l just interviewed for ajob at an art gallery|and l don't think it went too well.
+{42431}{42534}You never know. l had a voice-over audition|today. Thought l'd never get it.
+{42536}{42624}Bang, l was chosen.|lt's the voice of a toothpaste.
+{42626}{42728}That's good. l'm trying to decide|whether to stay and wait for the phone call
+{42730}{42814}or whether l should go out|and treat myself to a movie.
+{42816}{42877}Why don't you come with us?
+{42879}{42941}- Where?|- Going to the track.
+{42943}{43031}- To the track?|- Yeah. Horse races. Belmont.
+{43033}{43105}- What, you play the horses?|- Never.
+{43107}{43215}Well, l go every ten years. Walt's always|going. He's a gambling degenerate.
+{43217}{43315}- Yes. Can't you tell l'm a degenerate?|- l'm a complete novice, like you.
+{43317}{43398}Come on. lt's a beautiful day.|We'll have some laughs.
+{43400}{43522}- Sure. l don't have any money.|- l've got plenty of money.
+{43524}{43597}For both of us. We'll pool our resources.
+{43599}{43665}- lf you want.|- OK. All right. Yeah.
+{43667}{43724}- Nice to meet you.|- Nice to meet you again.
+{43808}{43883}- Come on! Come on, Bedazzled!|- Let's go, Bedazzled.
+{43885}{43959}No, no. You did not bet on Bedazzled.|lt's a 90-1 horse!
+{43961}{44056}- lf it wins, we're rich.|- He's right, Hobie. He's dropping back.
+{44058}{44149}No, no, no, no, no. He's second.|He's second... second from last.
+{44215}{44367}So, l have to ask you, how'd you go from|living on the Upper East Side to St Louis?
+{44369}{44441}l moved there for him. He was gorgeous.
+{44443}{44569}He was talented, he was sexy,|he was a doctor, he was charming...
+{44571}{44621}Yes, but where's the attraction?
+{44623}{44702}- He just knew how to touch me.|- You mean emotionally?
+{44704}{44750}No, with his hands.
+{44752}{44860}l'm a very passionate person,|so sex is very important to me.
+{44862}{44964}You know, l need a lot of physical intimacy|very often and creatively.
+{44966}{45054}Right. Right, right, right, right.|That's... that's... Yeah.
+{45056}{45138}- Am l being too frank?|- No, no, no. No, l just...
+{45140}{45206}l'll be OK. l get hot flashes.
+{45208}{45311}- Your wife is passionate. l can tell by looking.|- Right, right.
+{45313}{45428}A lot of people have noticed.|Why did your marriage fail again?
+{45430}{45497}He was cheating with his secretary.
+{45499}{45607}l felt neglected,|so l started seeing someone else.
+{45609}{45721}l just wanna find someone,|fall in love and have a life.
+{46905}{46986}- Hello.|- Hey. Guess what?
+{46988}{47073}- What?|- Steve is putting up the money for my film.
+{47075}{47139}That's great. Congratulations.
+{47141}{47239}So if l'm suddenly very busy and distracted,|don't take it personally.
+{47241}{47309}- And we have to talk about casting.|- Yes.
+{47311}{47410}- What did you do today?|- l told you. l went out to the track.
+{47412}{47472}Yeah. With who again?
+{47474}{47601}With who? With me, with me.|With me... me and Walt. Walt Wagner.
+{47603}{47705}- Well, l hope you didn't lose a lot.|- No. We don't have a lot, so l couldn't.
+{47707}{47795}ln fact, if l had more money,|we could've lost more.
+{47797}{47856}lt's a system l developed.
+{47858}{47939}Why didn't you just tell her|Melinda came along?
+{47941}{48013}- What did you just say about Melinda?|- What? No.
+{48015}{48067}l didn't say anything about Melinda.
+{48069}{48190}- You just muttered her name.|- l was wondering how the poor thing's doing.
+{48192}{48254}You know, plain-looking girl, all alone...
+{48256}{48317}- l'd hardly call her plain-looking.|- Well...
+{48319}{48432}Jennifer wants to set her up with someone.|Remember Greg Earlinger, Doug's dentist?
+{48434}{48547}We met him once. He's a tall, sexy,|handsome-looking guy. The Bentley.
+{48549}{48608}Very well off. Charming, bright.
+{48610}{48708}- You commented on how impressive he was.|- Vaguely.
+{48710}{48818}- Anyway, Doug's hyped him on Melinda.|- Yeah, l think... Why, l do recall him.
+{48820}{48926}Wasn't he full of himself, though?|Kind of an unjustified self-confidence?
+{48928}{49034}- As l recall, it was justified.|- Someone who has an answer for everything.
+{49036}{49110}l'm gonna ask Melinda|if it's OK if we give him her number.
+{49112}{49198}No. No, don't be silly.|What does she wanna do with a dentist?
+{49200}{49280}She was already married to a doctor.|She found that dull.
+{49282}{49362}- A dentist is the same thing, but oral.|- Greg's not dull.
+{49364}{49460}He hikes. He's a great bridge player.|Tennis. He goes on safaris.
+{49462}{49557}Well, it ... l mean, who goes on safaris?
+{49559}{49669}- You need shots to do that.|- Melinda, hey, it's Susan. How are you?
+{49671}{49788}Good. l was wondering if it was OK with you|if we give your number to this wonderful guy.
+{49790}{49869}l'm not giving the number out.|Don't say that l am...
+{49871}{49978}He's a very rich dentist. He's cultivated|and athletic. He's gorgeous-looking.
+{49980}{50030}''Gorgeous dentist'' is an oxymoron.
+{50032}{50151}And... There's nothing to be nervous about.|Look, we'll all go out, the four of us.
+{50153}{50271}We'll go to dinner or we'll go to a show|or something. l don't think you'll be sorry.
+{50273}{50371}- l think she's never, ever gonna go for it.|- OK, great.
+{50373}{50449}- Not in a million years.|- Fantastic. OK, bye.
+{50451}{50544}- She loves the idea.|- l told you.
+{50614}{50665}Hi. What are you doing down here?
+{50667}{50772}l got the part! The director kept insisting|and the producers finally gave in.
+{50774}{50880}- That's great, Lee.|- Finally, a role l can make sing.
+{50882}{50946}You're certainly a natural for the character.
+{50948}{51026}- Why would you say that?|- You've said it a hundred times.
+{51028}{51097}l said l could act the hell out of it. He's a loser.
+{51099}{51181}Let's not fight. l meant|nobody can play the part like you can.
+{51183}{51269}You see me like that, don't you?|l'm asking. ls that how you see me?
+{51271}{51378}l'm really happy for you. l know how much|you wanted this. Can't we leave it at that?
+{51380}{51493}l'm wired. l didn't mean to seem snappish.|Shall we go out to dinner and celebrate?
+{51495}{51602}- Tonight's Cassie's party.|- Yeah, right. OK. Jesus.
+{51604}{51718}lt's time Melinda met someone, moved on.|l'd like a little privacy in the apartment.
+{51735}{51788}OK.
+{51790}{51851}l've got a couple of options.
+{51853}{51903}l could wear...
+{51905}{51973}l can wear this skirt
+{51975}{52032}with this shirt, like this.
+{52034}{52148}This goes around the other way, like this,|and l could wear it with this shirt here.
+{52150}{52252}- What do you think?|- The silk one is sexier, but this one's elegant.
+{52254}{52371}You think the silk one's sexier? So maybe|l should wear this. Sex works best in the end.
+{52373}{52518}Men like to feel there's some hot payoff|waiting for 'em somewhere down the track.
+{52520}{52649}- God, look at me. l'm so fat.|- Fat? Melinda, everyone should be so fat.
+{52651}{52741}l didn't eat anything since Friday.|l wanted to lose six pounds.
+{52743}{52876}lt's not healthy. l mean, an empty stomach|and all those pills, and...
+{52878}{52999}l don't know. Maybe this is better. Maybe|sex is too predatory a message to send,
+{53001}{53069}and elegance is a wiser opening gambit.
+{53071}{53153}l don't think it matters much.|You look great. Doesn't she?
+{53155}{53231}Yeah. Very stylish.
+{53233}{53352}Look at me. l'm fat. l can't lose any weight.|l think l need another drink.
+{53354}{53404}Alcohol's fattening.
+{53433}{53515}- Can you make it a vodka?|- Plus an empty stomach with pills?
+{53517}{53596}Vodka's not fattening.|l need something to calm me down,
+{53598}{53664}just to make me a little more confident.
+{53666}{53783}- l've got goddamn circles under my eyes.|- You look fine.
+{53794}{53874}That's easy for you to say|because you're still beautiful.
+{53876}{53928}l feel like l'm running on empty.
+{53930}{54012}l don't wanna go.|Honestly, l don't wanna go to this thing.
+{54014}{54111}Come on. lt's just a little party with friends.
+{54204}{54339}How did l wind up desperate? Because that's|what l am, Laurel. There's no other word.
+{54341}{54416}You're a catch for the right man.|You really are.
+{54418}{54519}Falling in love|is gonna work wonders for you.
+{54668}{54757}- Congratulations. l hear Lee got that part.|- We're very excited.
+{54759}{54881}No one at school played the classics like Lee.|They still talk about the Strindberg series.
+{54883}{55000}Yes. He's held himself back from commercial|work because he's got such high standards.
+{55002}{55065}- He won't do anything just for the money.|- Yeah.
+{55187}{55303}l knew that director would have his way,|and he wanted you.
+{55305}{55424}My agent'll bring film people to the opening|cos there's talk of a project in California.
+{55426}{55513}l'd drink to your good fortune,|but vodka's not good for Samantha.
+{55515}{55565}lt's gonna be a girl.
+{55567}{55637}Cassie, l never slept|with a pregnant woman before.
+{55639}{55666}- No?|- No.
+{55668}{55755}lt always struck me as so erotic -|doing it with your big belly.
+{55757}{55850}Peter says it's just like|screwing any fat person.
+{55852}{55975}l don't suppose he'd lend you out to me|so l could satisfy a lifelong lustful curiosity?
+{55977}{56093}Why don't you get Laurel pregnant? Then|you wouldn't need to make arrangements.
+{56095}{56222}Maybe if things work out now, we can start to|think about it. l always wanted to have kids.
+{56224}{56314}Knock her up, then you can|make love to her in all the trimesters.
+{56316}{56425}lf you knew how much l wanted to do it with|you, you'd do itjust out of human kindness.
+{56427}{56521}Too late. Ball was in your court years ago.|You ran in another direction.
+{56523}{56612}How's our matchmaking going?|They seem to be hitting it off well.
+{56614}{56695}Peter, what's it like|to sleep with a pregnant woman?
+{56697}{56787}Have you ever made love|with a loser at Weight Watchers?
+{56789}{56858}Didn't l tell you?
+{56869}{56949}The great thing about hiking is you're free.
+{56951}{57001}You feel free.
+{57003}{57155}You're up there in the mountains|or in the woods, and it's beautiful.
+{57157}{57223}Almost religious.
+{57225}{57277}And l am not religious.
+{57279}{57366}Certainly not after Dorothy passed away.
+{57395}{57466}That must have been really tough|on your daughter.
+{57468}{57591}l've tried to explain it all to Emily,|including the whole religious aspect,
+{57593}{57666}but what the hell? She's four.
+{57686}{57818}l just don't want her to be angry at God|or against religion.
+{57820}{57902}l want her to be happy and educate herself
+{57904}{58015}and make her own decisions|about the big questions.
+{58048}{58107}Look, Melinda,
+{58109}{58240}l'd love to call you. Maybe we could spend|some time getting to know one another.
+{58242}{58342}l know you just returned to New York,|but it's really changed.
+{58344}{58419}l'd be glad to show you around.
+{58421}{58526}To tell you the truth, Bud,|l don't really think l'm ready to go out yet.
+{58528}{58642}l don't think it would be fair to you.|Maybe when l'm a little more settled.
+{58644}{58697}Sure. At your leisure.
+{58699}{58761}l understand.
+{58763}{58815}Jesus.
+{58817}{58932}Emily's with a new sitter tonight|and, of course, l'm a basket case.
+{58934}{59029}- That's very sweet.|- Would you excuse me?
+{59571}{59638}Laurel, you know this one. Play.
+{59687}{59784}- l can't. He plays so beautifully.|- Hey, here. Come on.
+{59786}{59836}Come on.
+{60253}{60318}Take over. You're wonderful.
+{61115}{61198}Sorry. l didn't mean to interrupt.|l'm just gonna get a drink.
+{61200}{61309}That's OK. l was just rubbing this lamp,|hoping to change my life.
+{61311}{61421}Well, l believe in magic. ln the end,|l think it's the only thing that can save us.
+{61423}{61531}- You're the piano player.|- Not any more. l'm on a break.
+{61533}{61649}A mysterious stranger has temporarily|taken over. l must say, she plays beautifully.
+{61651}{61695}Hey.
+{61697}{61752}Are your eyes misting over?
+{61754}{61873}This song, it's meaningful to me.|lt was playing the night l met someone.
+{61875}{61944}So are they tears of sorrow or tears ofjoy?
+{61946}{62021}Well, aren't those the same tears?
+{62049}{62087}Yeah.
+{62089}{62232}Why do things that start off so promisingly|always have a way of ending up in the dump?
+{62234}{62334}- Not for everyone.|- Well, for anybody with any imagination.
+{62336}{62425}You know, life is manageable enough|if you keep your hopes modest.
+{62427}{62551}The minute you allow yourself sweet dreams|you run the risk of them crashing down.
+{62553}{62619}There's plenty of old songs that l cry over.
+{62621}{62684}My name is Melinda.
+{62686}{62760}Melinda Robicheaux. lt's French.
+{62762}{62859}- That's a very beautiful name.|- Thank you. lt's my mother's.
+{62861}{62982}She married a Dr Nash, so l grew up Nash,|but l've changed it to her name.
+{62984}{63040}And that is a wise choice.
+{63042}{63091}lt's very musical.
+{63093}{63183}My name is Ellis Moonsong.|l am from Harlem, USA.
+{63185}{63273}Ellis Moonsong. ls that really your name?
+{63275}{63346}Yes, it is. Let's go and sit down.
+{63348}{63446}lt's wonderful. You also play beautifully.
+{63448}{63514}Well, one thing l could always do|was make music.
+{63516}{63620}l can play all the instruments,|but my specialty is composition.
+{63622}{63724}l've written two operas. One was done|at Yale, l'm proud to say successfully,
+{63726}{63815}and the other one is being done|in Santa Fe next summer.
+{63817}{63887}- Very impressive.|- Yeah, listen to me brag.
+{63889}{63989}l'm insecure, so l sell myself.|The truth is, not everybody likes the music.
+{63991}{64090}They're kind of modern,|but the critics were extremely supportive.
+{64092}{64175}ls that what you wanna be -|another Verdi or Puccini?
+{64177}{64250}l don't kid myself, you know, but, yeah.
+{64252}{64360}lf l could rub that lamp and have my wish...|Operas, symphonies, string quartets.
+{64362}{64494}There's a lot of interest in my work in Europe.|l might go to Barcelona or to Paris to live.
+{64496}{64643}God, l can't stop gushing about myself.|You've opened Pandora's box.
+{64645}{64693}And you?
+{64695}{64794}l don't write opera,|but my life has been one.
+{64796}{64930}l'm one of those heroines too high-strung|for existence on this planet,
+{64932}{64997}although l brought|my worst troubles on myself.
+{64999}{65084}l shouldn't have reached|so thoughtlessly for my dreams.
+{65086}{65170}We grab without thinking|because we're passionate people.
+{65172}{65240}l knew you were passionate|once we started talking.
+{65242}{65309}- How?|- How?
+{65311}{65364}Well, your eyes, your voice.
+{65366}{65439}l got a great instinct about people.
+{65441}{65490}You know, l do. lt's a gift.
+{65492}{65574}Let me get right to the point.|Can l get to know you better?
+{65576}{65687}l gotta go back and play, but|could we have lunch, you know, or dinner?
+{65689}{65771}You can certainly have my number,|if that's what you're asking.
+{65837}{65900}Let me... l'll just get a pen.
+{65902}{65952}There you are.
+{65954}{66051}- l saw Mr Bud Silverglide.|- The mystery pianist.
+{66053}{66134}Mr Moonsong, Ellis Moonsong, this is Laurel.
+{66136}{66225}Laurel? l dated a Laurel.|She broke my heart.
+{66227}{66327}l wrote this piece of music and l dedicated it|to her hoping it would win her back.
+{66329}{66430}- Let me be the first to tell you, it did not.|- He composes serious music.
+{66432}{66515}You two should have a lot to discuss|cos Laurel gave concerts.
+{66517}{66575}Those days vanished with the lost chord.
+{66577}{66679}His opera was a big success at Yale|and they're doing the other one where?
+{66681}{66747}At the Santa Fe Opera House.
+{66765}{66833}lt's great when it's stretched out|in front of you.
+{66835}{66901}Well, l wish l was as optimistic as you.
+{66903}{66988}- Well, l'll call you tomorrow.|- l'm busy tomorrow.
+{66990}{67072}- What's tomorrow?|- Well, then, l'll call you the day after.
+{67074}{67129}lf you feel like it.
+{67265}{67361}What happened with you|and the swell dentist?
+{67363}{67415}He was very, very sweet.
+{67417}{67460}Very cute.
+{67462}{67517}Butjust not for me.
+{67538}{67671}But Ellis Moonsong is very poetic.
+{67673}{67713}Melinda.
+{67715}{67774}Things are amazing.
+{67776}{67835}You meet a stranger, and in a sudden rush,
+{67837}{67923}you're thinking to yourself,|''Could l live in Barcelona?''
+{67925}{68075}Be careful. l mean, you can't go through life|rubbing lamps and wishing.
+{68104}{68179}lt doesn't work. Take it from me.
+{68411}{68448}Hey.
+{68450}{68495}Greg Earlinger.
+{68542}{68603}Hi.
+{68605}{68672}- Greg Earlinger.|- l'm Susan. We've met.
+{68674}{68746}- This is Melinda.|- Yes, wow.
+{68748}{68810}- Nice to meet you.|- Nice to meet you.
+{68812}{68885}- So, this is Hobie.|- You're the gynaecologist.
+{68887}{68945}- Close. No, l'm the dentist.|- Dentist.
+{68947}{69017}Dentist. What were you thinking?
+{69137}{69258}- l love it at this time of year. lt's so beautiful.|- lt's nice when it's so bright, huh?
+{69260}{69333}You know, it's really sexy, isn't it?
+{69335}{69437}- You look a little carsick.|- Why? Cos l'm the colour of guacamole?
+{69439}{69539}This is going well.|Look how happy she looks.
+{69541}{69650}l wish we could afford a pad in the Hamptons.|Everybody who's anybody has one.
+{69652}{69780}But if you're somebody who's nobody, it's no|fun to be around anybody who's everybody.
+{69782}{69855}lsn't he charming?|And don't tell me he's not gorgeous.
+{69857}{69913}lf you like perfect features.
+{69915}{69967}Don't be such a crab.
+{69969}{70046}l'm gonna try to come out here more often.
+{70070}{70137}- Wow, it's so big.|- Thank you.
+{70139}{70239}lt's so clean, too.|lt's a great place to entertain, which l love.
+{70241}{70321}- God, Hobie, isn't it amazing?|- Yeah, l love the ramp.
+{70323}{70403}lt's wheelchair accessible.|That's important out here.
+{70405}{70472}- Go ahead, guys. Go in.|- Thanks.
+{70558}{70658}lt's tremendous for aerobics.|Come on, try it, Hobie.
+{70660}{70709}What do you do for exercise?
+{70711}{70796}Tiddlywinks.|And an occasional anxiety attack.
+{70798}{70910}- Try it, Hobie. lt's good manners.|- Since when do l have good manners?
+{70912}{70995}- What is that? ls it a pig?|- l don't know.
+{70997}{71053}Hey, Greg, did you shoot this?
+{71055}{71119}Well, actually, l shot all of those.
+{71121}{71223}Twice a year l go to Africa.|The experience would take your breath away.
+{71225}{71300}Huge herds of kudu -|greater kudu and lesser kudu.
+{71302}{71384}- Which is bigger? The greater or the lesser?|- Hobie!
+{71386}{71538}l think it would be the sexiest thing to sleep|under the stars in the middle of the jungle...
+{71540}{71628}lf you don't mind waking up|with a python in your sleeping bag.
+{71630}{71743}No, no. The whole thing is very civilised.|They have beds and bathrooms and showers.
+{71745}{71865}But no elevators. ln case you're being chased|by a tiger and you have to get up into a tree.
+{71867}{71942}- l'd have to take the elevator.|- l don't understand.
+{71944}{72007}- Me neither.|- Did you shoot all the furniture?
+{72009}{72127}- So, Melinda, have you ever shot a gun?|- How quickly was it shot? Freshly shot?
+{72252}{72323}- Right here?|- That's fine. This was fun. Thank you.
+{72325}{72391}- Are you sure you'll be all right?|- l'm fine.
+{72393}{72491}- Do you wanna come up for a drink?|- A drink! Yeah, we could do that.
+{72493}{72571}- We can't. You have to get up early.|- Why? l'm out of work.
+{72573}{72668}Hey, do you have any tequila?|l make the world's most potent margarita.
+{72670}{72721}- They're very strong.|- l sure do.
+{72723}{72787}- Are you all right?|- Here, can l help you?
+{72789}{72872}- Very good. You know this car so well.|- He's like an old man.
+{72874}{72951}- Thank you.|- l'm fine.
+{72953}{72993}lt's like we're dancing.
+{72995}{73074}- Tequila's on the surgeon general's list.|- Just be quiet.
+{73076}{73152}Why'd he stop twice to get the car washed?
+{73165}{73272}God, he's incredible, isn't he?|lt'd be great for Melinda if things worked out.
+{73274}{73335}l wouldn't let that guy fill my teeth.
+{73337}{73423}l mean, anyone who gets his jollies|putting holes in animals...
+{73425}{73496}The Ernest Hemingway of the root canal set.
+{73498}{73566}He's probably got her in bed by now.
+{73586}{73650}l didn't think she could stand him.
+{73652}{73724}Not every woman falls|for that phoney social rap,
+{73726}{73873}you know, with the Haut-Brion and|special cheeses and backgammon trophy.
+{73875}{73933}Someone must blow him up with an air hose.
+{73935}{74066}You know what? Can we just not discuss it?|And, frankly, l thought you acted like a clown.
+{74068}{74153}Now, can l talk to you for a minute?|And try not to get upset.
+{74155}{74268}What? You wanna spend more time in|the Hamptons whether l go with you or not?
+{74270}{74341}l told you Steve Walsh|is gonna co-produce my film.
+{74343}{74450}Yes, that's fantastic. l figured out|a great way to play the psychiatrist.
+{74452}{74531}lt's fresh. With a limp. l do a great limp,
+{74533}{74605}and that will account|for his crushing insecurity.
+{74607}{74691}That way, when l make a pass at Rosalie,|l expect the rejection.
+{74693}{74748}You won't be able to play the shrink.
+{74750}{74806}- Why not?|- Steve wants a name.
+{74808}{74895}- l have a name on my driver's licence.|- He won't go with an unknown.
+{74897}{74991}- You're the director. You say what goes.|- Without him, there's no film.
+{74993}{75066}But l'm the perfect psychiatrist. You said it.
+{75068}{75143}l think l can find something else|for you in the script.
+{75145}{75202}- Like what?|- What about Moe Flanders?
+{75204}{75292}You'd be a natural.|You're more Flanders than you are the shrink.
+{75294}{75419}Flanders? The retarded elevator operator|with the cleft palate?
+{75421}{75522}- ls that how you see me?|- When have l said you had a cleft palate?
+{75524}{75598}- Help!|- My God. That's Melinda.
+{75600}{75678}He's raping her.|Probably put Novocaine in her margarita.
+{75680}{75770}- Help! Help!|- What is it? What's wrong? What's wrong?
+{75772}{75847}l got a tick! There's a tick in my leg.
+{75849}{75942}- Where's Greg?|- He's a dentist. He doesn't do tick extractions.
+{75944}{76013}His beeper went off.|He had some kind of emergency.
+{76015}{76088}Someone saw a rhino on Sixth Avenue|and they needed a hunter.
+{76090}{76185}- Get it out! Quick! Please! Please!|- l don't know how. ln the Bronx we had mice.
+{76187}{76295}You need a doctor. You can't pull it out cos|the body comes out and the head stays in.
+{76297}{76395}- l feel terrible. l think l'm gonna faint.|- Take her to the emergency room.
+{76397}{76497}- There's a tick inside me sucking my blood!|- lt's not sucking your blood.
+{76499}{76575}Those are leeches.|But this is disgusting enough.
+{77297}{77397}l'm so sorry. lt was so nice of you|to come and hang with me.
+{77399}{77434}That's OK.
+{77436}{77583}Actually, l love watching a live creature being|pulled out of somebody's body at 3.30am.
+{77585}{77720}- lf that happens again, please call me.|- lt was really nice of you - this whole day.
+{77722}{77789}lt's obvious|you don't care much for the beach.
+{77791}{77938}lt's not the beach so much as the ocean, the|sand and the seagulls and things like that.
+{77940}{77985}Well, go.
+{77987}{78051}You've had a long day. Rest.
+{78053}{78130}Call me. l'm over here if you need me. OK?
+{78132}{78237}But try not to panic.|The screaming frightened me.
+{78239}{78361}And you would be totally cool if you had a|live insect crawling around under your skin?
+{78363}{78420}l wouldn't enjoy it, but l wouldn't panic.
+{78422}{78501}That's good because|there's one in the back of your neck.
+{78503}{78543}- My neck?|- Your neck.
+{78545}{78599}- My neck?|- Yes. Right here. lt's OK.
+{78601}{78657}- Get it off! Get it off me!|- Relax. OK.
+{78775}{78848}This is exciting.|l've never been to the races before.
+{78850}{78957}Here's a horse called Broadway Melody.|l think that's a lucky name.
+{78959}{79109}Well, it's not very sensible to pick horses|by their names, but l guess it's romantic.
+{79435}{79483}That was so beautiful.
+{79485}{79565}There is no more sublime music|than that second movement.
+{79567}{79648}Laurel cannot listen without crying.|Her eyes are all red.
+{79650}{79760}l'm with her. When Raphael first laid eyes|upon the Sistine Chapel he passed out.
+{79762}{79845}- Aren't you gonna find us a taxi?|- Yeah, let's go.
+{79847}{79906}She's head over heels in love with him.
+{79908}{79992}He's gifted, sensitive.|He is unfazed by the details of her past.
+{79994}{80061}He is, in fact, moved by her suffering.
+{80063}{80204}Even the awful story she's been|reluctant to tell but feels that she must.
+{80220}{80277}l killed him.
+{80279}{80344}But it was an accident.
+{80377}{80422}No.
+{80464}{80571}ln my defence, l will say|l was out of my mind on drugs.
+{80573}{80645}l shouldn't say drugs. Pills.
+{80647}{80718}Pills to help me sleep at night,|pills to keep me awake,
+{80720}{80881}whatever l could get my hands on to sweep|my various pains and anxieties under the rug.
+{80939}{81033}But if l'm honest about it, l did mean to do it.
+{81035}{81080}No.
+{81133}{81211}l denied it in the trial, of course.
+{81213}{81273}But the fact is, l...
+{81312}{81381}l couldn't think of what else to do.
+{81401}{81477}l thought about killing myself.
+{81479}{81584}Why l didn't, l can't say.|lt would have been much more rational.
+{81586}{81673}l thought about killing his girlfriend.
+{81715}{81769}Maryanne was her name.
+{81771}{81821}Maryanne Lane.
+{81884}{81939}And it was...
+{81965}{82025}lt was so easy buying a gun.
+{82062}{82187}l just drove out of state|and l walked into a store and l bought one.
+{82189}{82234}There were no questions asked.
+{82236}{82401}l bought a box of bullets and l loaded it|like l'd been handling one my whole life.
+{82437}{82518}lt was all very premeditated,
+{82556}{82672}despite what my attorneys|would have everyone believe.
+{82674}{82734}And then l
+{82736}{82795}drove back to where he worked.
+{82797}{82931}lt was next to a Christian Science|reading room. l remember that.
+{82933}{83031}And l just waited out the front|for him to come out.
+{83033}{83112}And even that wasn't very difficult.
+{83132}{83250}There was a slight drizzle, l remember that,|but the wait wasn't interminable.
+{83252}{83302}And then
+{83329}{83456}when he came out and walked to his car,|l simply confronted him.
+{83476}{83576}And he said some|very cold and cruel things to me,
+{83578}{83683}and l shot Mr San Giuliano
+{83760}{83815}as l had planned to.
+{83870}{83925}As l had planned.
+{84042}{84193}Well, they must have felt the circumstances|were extenuating if you got off so lightly.
+{84195}{84249}lt may seem lightly to you,
+{84260}{84310}but it was nothing but hell.
+{84312}{84452}And if you've never been arrested and put|on trial, well, that alone is sentence enough.
+{84454}{84511}The horror, the...
+{84513}{84673}the tension, the police, the journalists...|l went over my story hundreds of times -
+{84675}{84763}the jilted mother, seduced away|from her family, sick on drugs,
+{84765}{84852}the struggle for the gun, the gun goes off.
+{84932}{84992}But there was no struggle.
+{85036}{85094}That was legal fiction.
+{85115}{85187}Well, you had good lawyers.
+{85189}{85251}Not like your child custody team.
+{85349}{85465}l rememberjust lying|in my cell at night and thinking,
+{85485}{85535}''My God.''
+{85583}{85673}''You are Melinda Nash from Park Avenue.''
+{85719}{85841}''What the hell are you doing|in a women's prison in lllinois?''
+{85899}{86029}So, naturally, after l got out|l decided to end it all.
+{86150}{86202}What do you want?
+{86314}{86439}l want to want to live.
+{86476}{86531}Everybody wants to live.
+{86686}{86790}Now that l met you,|l'm feeling a little more positive about it.
+{86814}{86889}Congratulate me. l just got canned.
+{86925}{87039}My version differs from theirs. They would|have you believe l couldn't hold my liquor,
+{87041}{87131}which anyone who knows me|knows is a baseless canard.
+{87133}{87197}Lee, l knew this would happen.
+{87215}{87291}You did? Well, why didn't you tell me?
+{87293}{87373}l'm angry and disgusted.|l mean, Christ, can you blame them?
+{87375}{87489}Thank you for the emotional support.|l'll see you around.
+{87602}{87655}- Hey.|- Hi.
+{87657}{87769}- You all right? You seem a little glum.|- Lee got fired.
+{87808}{87845}What happened?
+{87847}{87912}lt was the producer.|They'd always wanted a name.
+{87914}{88005}- They got nervous cos ticket sales were slow.|- l'm sorry.
+{88007}{88106}- l know the realities of the marketplace.|- Yeah. So, what are you gonna do?
+{88108}{88216}l don't know if l should feel sorry for myself|or shop to blot out my depression.
+{88218}{88263}- Neither. Come with us.|- With you?
+{88265}{88357}Sure. l'm taking Melinda|to a recording session. Bartók.
+{88359}{88411}- No...|- lt'll take your mind off things.
+{88413}{88512}- You love Bartók. They're doing a quartet.|- You remembered?
+{88514}{88590}- Come on.|- Do l have time to change?
+{88592}{88686}- You look fine. Look at me.|- l feel so grungy. l've been working all day.
+{88688}{88793}- All right, but hurry, then we'll get a coffee.|- OK.
+{89383}{89460}- lt's beautiful, isn't it?|- They're so good.
+{89462}{89583}l could never decide between the piano and|the cello. The result is l play them both badly.
+{89585}{89665}- And the viola.|- l heard you play the piano. You're good.
+{89667}{89693}- No.|- Yes.
+{89695}{89790}Full of feeling.|You have a lovely touch of the keys.
+{89792}{89876}l can see a person's soul|by their intonation on an instrument -
+{89878}{89962}- keyboard, horn or strings. l can. lt's a gift.|- You saw my soul?
+{89964}{90071}Right off the bat. That first party,|when you sat down next to me to play,
+{90073}{90180}the minute you touched the keys|the chord went through me like a knife.
+{90182}{90249}l don't dare ask you what you saw.
+{90310}{90375}lt's great.
+{90377}{90497}Although l find|the more turbulent parts a little scary.
+{90598}{90662}- He's still not home.|- Come to dinner with us.
+{90664}{90728}- No, l can't.|- Come on. lt's gonna be fun.
+{90730}{90872}We'll go down to this little bistro downtown|west. lt's very quiet, very dark, very French.
+{90874}{91007}- l haven't been to a dark bistro since college.|- You'll love it. l've fallen in love there.
+{91015}{91062}No more for me.
+{91064}{91135}- Melinda was the fast, advanced one.|- Come on.
+{91137}{91217}All the men were crazy for her.|They were drawn to her.
+{91219}{91272}Her unpredictability.
+{91274}{91332}No, Laurel was the star of our group.
+{91334}{91418}l remember how jealous everyone was|when you married Lee.
+{91420}{91500}Lee was the most attractive,|most charismatic actor.
+{91502}{91654}My God. You almost broke Cassie's heart,|not that she'd ever admit it.
+{91656}{91780}Forgive me. Am l being too open here?|lt's just l feel great.
+{91782}{91839}- What is this?|- lt's a Haut-Brion.
+{91841}{91927}My head is swimming. But it feels good.
+{91929}{92050}You were the first one in our group to sleep|with a man. You were so very sophisticated.
+{92052}{92164}- l admired it. l did.|- Yeah, well, it was probably true.
+{92166}{92311}- l had a deep hunger for physical intimacy.|- A hunger that could not be denied.
+{92313}{92404}Not once adolescence descended|and the hormones kicked in.
+{92406}{92518}Melinda had a reputation|for being postmodern in bed.
+{92520}{92668}Life is short. That was a sobering discovery|l made when my mother killed herself.
+{92670}{92820}Short, and not about anything except|what you can touch and what touches you.
+{92854}{92904}Whereas l...
+{92925}{93004}l've only made love with one man in my life.
+{93006}{93098}Lee was the first|and Lee was the whole story ever since.
+{93100}{93172}That's perfect. No, l mean it.
+{93174}{93290}l think there's something almost mystical|about two people who only know each other.
+{93292}{93351}And, really, you're both very alike.
+{93353}{93440}You know, you're both very,|very passionate women.
+{93442}{93562}You're poured into one person, and you've|wanted to live out different experiences.
+{93610}{93678}- ls that you?|- No.
+{93680}{93740}No, l think it's me.
+{93808}{93858}So, l got a message.
+{93911}{94013}That was Peter.|l think he's got some news about my children.
+{94038}{94128}- Would you excuse me for a minute?|- Yeah, go ahead.
+{94344}{94417}l was determined not to ask you
+{94419}{94526}what you saw when you looked|right through to my soul when we met.
+{94528}{94573}But l wanna know.
+{94586}{94641}Something very clouded
+{94668}{94710}and
+{94712}{94779}protective,
+{94781}{94852}with lots of longing. There was...
+{94854}{94966}Wow, there was a great longing|in the notes you played.
+{94988}{95130}That's as accurate a diagnosis as a shrink|would make. lt took you a much shorter time.
+{95132}{95184}You sat down and pressed the keyboard,
+{95186}{95313}and l thought, ''Who is this lovely creature|with the melancholy touch on the keyboard?''
+{95315}{95430}Then l saw your wedding ring,|and l thought, you know, story of my life.
+{95444}{95499}ls that the story of your life?
+{95510}{95576}Well, it's the main chapters.
+{95611}{95663}My first impression was,
+{95665}{95713}he's handsome,
+{95715}{95763}he's lost,
+{95765}{95827}he's got inscrutable eyes...
+{95848}{95917}Melinda would like him.
+{95947}{95998}Speaking of Melinda.
+{96057}{96147}l don't dare say this, but it looks hopeful.
+{96185}{96244}God.
+{96246}{96324}l almost wish this opportunity|hadn't come up, you know.
+{96326}{96410}l just don't know|if l can handle the tension.
+{96412}{96464}l mean...
+{96466}{96579}- Just say it doesn't work out.|- lt will. You have to think positively.
+{96581}{96704}She's right. You were correct when you said|that life is short and not about anything,
+{96706}{96847}but one thing l do know is that we were not|put on this Earth to be dragged all the time.
+{96886}{96943}We should go.
+{96945}{97055}l was hoping that you could come by my|class one afternoon and lecture the students.
+{97057}{97153}- lt would be so meaningful to them.|- l'd love to.
+{97155}{97268}l'm a good lecturer. l just hope|l'm not a better lecturer than a composer.
+{97378}{97466}- You're home.|- l'm sorry, Laurel.
+{97468}{97521}l really messed things up.
+{97523}{97616}Yes, well, you really have|to get a handle on your drinking.
+{97618}{97684}Yes. And l will.
+{97686}{97751}Of course, now the boat sailed.
+{97794}{97874}- Made you some dinner.|- l ate.
+{97876}{97948}Where were you?
+{97950}{98022}l had some late meetings at school.
+{98436}{98510}- l don't know what to do.|- And you're sure?
+{98512}{98616}- Yes. lt was there in his talk, in his eyes.|- And you flirted back?
+{98618}{98701}Yes. l was outta control,|letting him know l was there for him.
+{98703}{98752}God. Poor Melinda.
+{98754}{98862}l don't wanna hear about poor Melinda.|Other people's lives are falling apart.
+{98864}{98950}Peter and l suspected|it was not going well with Lee.
+{98952}{99032}Does everyone? Am l gossiped about?
+{99034}{99086}God, that poor girl.
+{99088}{99179}- Don't worry. l'm not gonna do anything.|- You already have.
+{99181}{99272}lf you get divorced, there'll be lots of men.|Peter and l can help.
+{99274}{99401}No. l'm not gonna be the pathetic single|friend getting introduced to some dentist.
+{99403}{99473}You're gonna act on this. l see it.
+{99567}{99649}l don't know what to do.|l can't stop thinking about Melinda.
+{99651}{99736}She just knocked on our door|carrying her neurosis in her arms.
+{99738}{99815}- Now l can't get her out of my mind.|- Come on. You're married.
+{99817}{99961}l know. l know that. l'm consumed with guilt.|l dream of myself kissing Melinda.
+{99963}{100045}- Then l'm on trial at Nuremberg.|- How does Melinda feel?
+{100047}{100158}l haven't been able to tell her that.|The subject of infidelity's out of the question.
+{100160}{100234}- You don't know if she feels the same?|- No, l think she does.
+{100236}{100332}l just haven't had a chance to pursue it.|l mean, Walt, here's the thing.
+{100334}{100406}My marriage has been on the decline|for a long time.
+{100408}{100465}We hardly ever sleep together.
+{100467}{100567}The last time we did|Susan just lay there staring into the darkness
+{100569}{100644}as if her parents had been killed in a fire.
+{100646}{100747}Well, why can't you just tell her|it's not working any more?
+{100749}{100882}l don't wanna hurt her. l couldn't fire my|podiatrist who operated on my wrong foot.
+{100884}{100943}Maybe you should go back to your shrink.
+{100945}{101035}He'd just recommend Prozac.|l think he has stock in the company.
+{101037}{101111}- Maybe you're using Susan as an excuse.|- No.
+{101113}{101190}Yes. Maybe you don't even really wanna do it.
+{101192}{101322}No, cos if there was a button l could push to|be with Melinda but not hurt Susan, l'd do it.
+{101324}{101436}Tell me this. How wise is it to get involved|with a woman with Melinda's track record?
+{101438}{101558}That's why l'm convinced l'm in love with her,|because there's no logical reason to be.
+{101560}{101630}- Be a man. Be honest with Susan.|- l don't know...
+{101632}{101727}That's what you have to do!|Be honest with her. She'll live, you'll live.
+{101729}{101812}Then you go out,|you buy Melinda a nice little bauble -
+{101814}{101868}l heard her say that she likes Art Deco -
+{101870}{101954}- take her out, confess your feelings.|- You sure?
+{101956}{102058}- Yeah. That's the way.|- This is gonna crush Susan.
+{102386}{102480}How you doin'?|The Deco pin there.
+{102482}{102533}- How much is that?|- That's $150.
+{102535}{102637}- Could you giftwrap that for me?|- Yes, of course.
+{103042}{103154}l wish l could be with Melinda|without hurting my wife.
+{103865}{103981}- Hobie, what are you doing here?|- Now, don't get upset.
+{103983}{104133}Hobie, l think you should know that Steve|and l have become attracted to one another.
+{104162}{104264}- You have?|- lf you punch me in the nose, l'd understand.
+{104266}{104339}He came here to be with me while l told you.
+{104341}{104423}You have to admit,|things have run out of steam between us.
+{104425}{104498}l just... Try to understand.
+{104500}{104546}l do.
+{104548}{104648}l think we've been drifting a...|Wait. You do understand?
+{104650}{104719}l do. Most definitely.
+{104721}{104851}You're having an affair with Steve Walsh.|He's wonderful. He's clever.
+{104853}{104942}He's smart. He's fabulously wealthy.
+{104953}{105053}l know. l just want you to know|l don't want anything.
+{105055}{105125}l know how tough|your work has been for you,
+{105127}{105226}and we've decided Steve|is just gonna help with all the legal expenses,
+{105228}{105340}and l just want everything to be|as painless and as civilised as possible.
+{105342}{105446}You know, l think that|we can always be friends.
+{105457}{105542}Melinda. Hobie.|Can you meet me for a few minutes?
+{105544}{105628}There's something l'm dying to tell you|when you get off work.
+{105630}{105716}You know that little French bistro|on the corner of Tenth Avenue?
+{105718}{105789}The little candlelightjoint,|near where you work.
+{105933}{106050}Are you sure you should be drinking|so much without having any lunch?
+{106052}{106180}Well, we worked through lunch.|l was doing a voice-over commercial.
+{106182}{106273}lt's not what l envisioned|when l was at Northwestern.
+{106275}{106381}They still talk about|my portrayal of King Lear.
+{106383}{106444}l played it with a limp.
+{106490}{106557}How are you liking the job at the gallery?
+{106574}{106644}Well, my boss is great.
+{106646}{106716}- She has amazing taste.|- Good.
+{106737}{106824}l mean, it's not a very high-paying job,|but it's fantastic
+{106826}{106929}cos l have plenty of time|to think about what l wanna do with my life.
+{106931}{106991}Well, l'm glad you said that.
+{107021}{107152}God, you look very pretty in this candlelight.
+{107180}{107296}l'm sure anyone would look amazing|with all this flickering shadows
+{107298}{107352}and all the wine you're drinking.
+{107354}{107447}Right. Right. Well, l'm drinking
+{107449}{107525}because life moves so fast.
+{107527}{107582}So unpredictably.
+{107584}{107672}You know, it's over so fast|and in the end, what is it?
+{107674}{107732}Chekhov said a soap bubble.
+{107762}{107848}Did l tell you l played Uncle Vanya once?
+{107850}{107920}With a limp. lt was interesting.
+{107972}{108114}You know, it's funny|that you should say ''unpredictable'',
+{108116}{108206}because l was walking home yesterday.
+{108208}{108267}l have to tell you this story.
+{108269}{108360}So, some people were moving|into an apartment on 90th Street.
+{108362}{108465}And they were moving this piano,|so there was this piano just, you know,
+{108467}{108527}sitting in the middle of the sidewalk.
+{108529}{108665}And l couldn't resist the temptation|just to go up and give it a little tinkle.
+{108667}{108742}l play a little piano.|l used to play in high school.
+{108744}{108825}l actually gave some concerts.
+{108827}{108974}Anyway, l'm playing this piano. l'm playing|this little tune that my mother taught me.
+{108976}{109034}And this...
+{109036}{109090}this guy came up
+{109092}{109152}and started talking to me.
+{109298}{109348}- Hi.|- Hi.
+{109456}{109506}That's good.
+{109528}{109598}- You play the melody.|- All right.
+{109717}{109782}ls that what you're trying for?
+{109824}{109884}- Exactly.|- Good.
+{109920}{109997}So, his name is Billy Wheeler,
+{109999}{110057}and he's a piano player.
+{110059}{110125}And he also writes pretty music.
+{110127}{110239}And he walked me back to my apartment|and he invited me out on a date.
+{110241}{110298}And
+{110300}{110364}l think l'm in love.
+{110384}{110469}- ln love?|- Well, l mean, l'm exaggerating, of course,
+{110471}{110555}but some bell definitely went off.
+{110566}{110654}- A bell?|- One of those bells that now and then rings,
+{110656}{110815}as Mr Cole Porter put it. So, anyway, l just|thought that you would be pleased to know.
+{110817}{110879}So, what is it that you wanted to tell me?
+{110987}{111066}l don't... lt doesn't matter.
+{111068}{111240}OK. This situation is perfect -|he's despondent, he's desperate, he's suicidal.
+{111251}{111323}All the comic elements are in place.
+{111325}{111456}Now she's going out with Billy Wheeler,|and Hobie's the single upstairs neighbour.
+{111458}{111507}Now she's fixing him up.
+{111509}{111559}We must know somebody for Hobie.
+{111561}{111633}- The woman who owns your art gallery?|- Phoebe's married.
+{111635}{111723}l don't need to meet anyone.|l'm fine just staying in my room and...
+{111725}{111791}And what? Moping?
+{111793}{111883}Get out and reinvest your emotion.|Don't indulge your depression.
+{111885}{111976}- Hey. Stacey Fox. Why not?|- Who?
+{111978}{112088}She recently broke up with some Wall|Street guy. She's bright and great-looking.
+{112090}{112143}- What does she do?|- lnvestment.
+{112145}{112240}One of those business suits|who makes love to you on a conference call.
+{112242}{112391}She's no stereotype. She posed for a feature|for Playboy on naked political conservatives.
+{112393}{112504}Well, uh, l don't know if that's his type.|She's probably got augmented cleavage.
+{112506}{112588}She's anybody's type. Come on.|Wednesday's Halloween.
+{112590}{112682}We were gonna go out. You should|meet Stacey. l think she just broke up.
+{112684}{112807}Hobie agrees to being fixed up,|but he's still madly in love with Melinda.
+{112809}{112918}He dreams about her all the time.|He's consumed with jealousy.
+{112920}{113033}He can't bear the thought that she might|be making love with another man.
+{113035}{113132}He wants to know!|But he doesn't wanna know.
+{113134}{113194}lt's driving him crazy.
+{113469}{113558}Did you hear something?|l heard something at the front.
+{113560}{113662}Can you just go check the door?|Make sure it's locked.
+{115108}{115202}- What is it? What's the matter?|- l need to talk to you.
+{115204}{115274}You look terrible. What happened?
+{115276}{115367}l think Laurel and Ellis are having an affair.
+{115369}{115429}What?
+{115431}{115500}l'm going crazy. l just...
+{115502}{115570}- Take it easy, will you?|- l don't know what to do.
+{115572}{115646}- Well, what makes you think so?|- l just know it, OK?
+{115648}{115759}l've been through this once before.|Laurel is supposed to be my closest friend.
+{115761}{115883}But what makes you think|that something's going on?
+{115885}{116011}l thought it was my paranoia. Then last week|l was coming home from house hunting.
+{116013}{116176}Ellis was out of town. And l overheard|this argument between Laurel and Lee.
+{116187}{116250}- What's this?|- What?
+{116252}{116318}Whose key is this? Who's A?
+{116320}{116356}A?
+{116358}{116415}Whose keys are in our bathroom?|Who was here?
+{116417}{116467}l don't know.
+{116494}{116565}- You were with someone.|- Laurel.
+{116567}{116646}- You had a woman here!|- l can't listen to these accusations.
+{116648}{116710}- You slept with someone here?|- Leave me alone.
+{116712}{116785}l can't get into another|big discussion of my life.
+{116787}{116888}Just because l was up here with someone|talking, doesn't mean we went to bed.
+{116890}{116942}l am finished with this, Lee.
+{116944}{117016}- You're a fine one to talk.|- What does that mean?
+{117018}{117105}You'd love to call it quits|now your eye's on someone else.
+{117107}{117202}- What?|- You throw yourself at Melinda's boyfriend.
+{117204}{117308}- Don't try and turn this around!|- l'm amazed she tolerates it.
+{117310}{117372}You're mixing things up cos you were caught.
+{117374}{117473}No, you were caught. l know you|when you slip into your seductive mode.
+{117475}{117594}- l'm not gonna have this stupid conversation!|- Don't worry, l won't be around much longer.
+{117596}{117665}And then you can feel free|to pursue whoever you want!
+{117667}{117744}From that moment, the demons set in.
+{117746}{117847}l just couldn't sleep.|Doesn't matter how many pills l take.
+{117849}{117988}l just feel myself consumed with suspicion|and l'm ashamed of it.
+{117990}{118015}Melinda...
+{118017}{118090}Cassie, you know it's true.|l can see it in your face.
+{118092}{118185}Look, you have to pull yourself together.|You've been popping pills.
+{118187}{118264}- You've been drinking...|- Stop avoiding answering me.
+{118266}{118337}l don't know anything.
+{118339}{118477}l called Ellis today. He's not where|he said he'd be, so l called Laurel's school.
+{118479}{118571}She'd called in sick.|Clearly, she's not home sick.
+{118573}{118698}Listen, even if your worst fears were true,|you can'tjust go off the deep end.
+{118745}{118890}l pick up the phone extension. l have to know.|At the same time, l don't wanna know.
+{118892}{118969}Listen, you cannot|give yourself over to fantasies.
+{118971}{119076}Let's find out the reality first,|and stop drinking.
+{119078}{119137}For God's sakes, it's not even noon yet.
+{119139}{119237}God. l have an appointment|with your husband at noon.
+{119239}{119291}Well, you're gonna be late.
+{119311}{119371}l'm afraid the news is not good.
+{119489}{119521}No?
+{119523}{119681}My partner gave it everything he had, but the|politics of the situation is just too difficult.
+{119683}{119744}Your ex-husband is very well connected
+{119746}{119838}and very determined|to keep the children from you.
+{119840}{119945}Naturally, the criminal conviction didn't help.
+{119976}{120067}lt's funny. l steeled myself for this result,
+{120069}{120154}but now that it's come...
+{120174}{120304}You know, l know this will sound|very Pollyanna, but it's true.
+{120306}{120442}When they grow up, they will want to know|who their mother was and get to know you.
+{120444}{120554}My guess is they'll be quite angry|at their father for his unreasonableness.
+{120556}{120642}You'll see. They'll grow up and come to you.
+{120711}{120777}Well, l'm certain that they will.
+{120779}{120919}l'm sure that they'll take after me|and look very much like my mother.
+{120921}{120972}My mother
+{120974}{121081}was a very gifted interior decorator.
+{121083}{121204}And l studied art,|so l've always had this flair for graphics.
+{121206}{121265}Can l get you anything?
+{121303}{121409}No, l just hope that you'll be|sending some of your clients to me
+{121411}{121491}when l get more established, you know.
+{121535}{121641}Did l tell you that my mother... my mother...
+{121643}{121764}my mother was|a very gifted interior decorator?
+{121766}{121901}She was very talented. She did some|amazing houses on the Upper West Side.
+{122760}{122823}Melinda...
+{122825}{122908}There's been no easy way|to handle this situation.
+{123271}{123341}l think we need to talk.
+{123388}{123493}No, these situations are never easy.
+{123530}{123584}l'm sorry, Melinda.
+{123586}{123660}l really am sorry. lt's just...
+{123662}{123819}We planned to tell you, but each of us|was so bewildered as how to approach it.
+{123835}{123896}Bewildered.
+{123898}{123967}lt's not like we planned on it happening.
+{123969}{124130}We were going to explain things|as soon as we figured out the best approach.
+{124132}{124258}- l loved you.|- l don't have a satisfying explanation.
+{124260}{124335}You know, these things happen.
+{124366}{124413}Living is messy.
+{124478}{124540}My head is spinning.
+{124542}{124611}l need to lie down and rest.
+{124613}{124681}l wanna close my eyes
+{124683}{124743}and never open them again.
+{124822}{124887}- l'm going out the window.|- Ellis.
+{124916}{124996}Meli... What are you doing?
+{124998}{125048}l'm going out!
+{125199}{125247}Cassie?
+{125249}{125326}Melinda has to come|and stay with you for a while.
+{125328}{125380}No, there is no other answer.
+{125382}{125505}She has to be watched, and it's awkward|with me and Ellis under the circumstances.
+{125507}{125565}Well, l can't be responsible either.
+{125567}{125694}Let's face it, Cassie. She's one of those people|who will always need help.
+{125696}{125798}lt's sad, but we have to|move on with our lives.
+{126001}{126118}You killed her.|You killed her as l am about to kill you.
+{126478}{126528}Come, Vitus.
+{126635}{126700}Are we men or are we children?
+{126723}{126782}- Of what use...|- So, what do you think?
+{126784}{126878}She's gorgeous. Hard to believe|a Republican could be that sexual.
+{126880}{126970}l bet she could put your portfolio in order.
+{127395}{127542}- l thought you didn't like to dance.|- l'm just trying to be a good sport.
+{127805}{127926}l think it'd only be fair|to tell you, l'm a liberal.
+{127928}{127997}Are you talking politically|or in the bedroom?
+{127999}{128149}l was talking politically.|ln the bedroom, l'm a left-wing liberal.
+{128151}{128221}ln the bedroom, l'm a radical.
+{128253}{128312}Look, can l level with you?
+{128314}{128423}ln the past few months of my marriage|l really didn't sleep with my wife.
+{128425}{128477}We weren't sleeping at all.
+{128479}{128547}l... So it's,... you know.
+{128549}{128609}l'm a little out of practice.
+{128611}{128732}Politically speaking,|l'm ready for a little affirmative action.
+{128734}{128818}What do you say we blow this joint|and go back to your place?
+{128820}{128947}My place? Yes, by all means.|lt'd be great. This is like a drea...
+{128949}{129051}So you're not gonna hold the fact|that we have conflicting viewpoints
+{129053}{129123}on the direction America should take|against me?
+{129125}{129227}l mean, l'd hate to get all worked up|and then we find we differ on a tax cut.
+{129229}{129324}Come on.|l haven't made love in a while either.
+{129353}{129446}Yes. l will never vote|against school prayer again.
+{129803}{129895}- Hey, what are they up to?|- What do you think?
+{129990}{130067}- So much dancing.|- That was so much fun.
+{130100}{130150}You'll have to forgive the disarray.
+{130152}{130276}My cleaning woman won $168 million|in the lottery and she asked for the day off.
+{130278}{130358}- Ajoke.|- You must get depressed sleeping alone.
+{130360}{130467}The truth is, l frighten myself. l'm always|worried burglars are gonna break in.
+{130469}{130582}- l bought a baseball bat. Oh, drinks.|- l know the feeling of being dumped.
+{130584}{130676}Except in my case,|it was between my fiancé and my best friend.
+{130678}{130727}- No!|- Yes.
+{130729}{130844}l'd known her all my life. We were school|mates. We went through everything together.
+{130846}{130926}She was the one who was responsible|for my meeting my fiancé.
+{130928}{130992}lt's a sad story. lt's awful.
+{130994}{131096}Do you mind sleeping on cotton sheets?|l know you posed for Playboy on satin.
+{131098}{131194}l couldn't help noticing|how they'd always make eye contact.
+{131196}{131293}l thought l was paranoid,|but l should have trusted my instinct.
+{131295}{131345}Always go with your gut feeling.
+{131347}{131494}Sometimes l would pick up the phone|after it would ring, and there'd be no one.
+{131496}{131573}- But they were signalling each other.|- Stacey.
+{131575}{131662}Making love, meeting secretly,|laughing at me...
+{131664}{131763}- l'm sure they weren't laughing at you.|- We were moving in together.
+{131765}{131862}Looking for an apartment together,|to live together. l loved him.
+{131864}{131919}- l'm sure.|- My closest friend knew that.
+{131921}{132026}She knew how much l cared about him. She|knew my whole life was wrapped up in him.
+{132028}{132131}Of course. Should l dim the lights?|Maybe a little jazz. Do you like jazz?
+{132133}{132228}- l can't bear it. l can't bear to think about it.|- Don't think about it.
+{132230}{132339}You know, life is so rotten, so cruel,|and then, finally, about nothing.
+{132341}{132406}We can just stretch out on the carpet if you...
+{132408}{132475}l can't stand it!|l'm going out the window.
+{132477}{132504}What?
+{132506}{132631}- l'm going out the window.|- Stacey, wait! Are you crazy?
+{132633}{132668}Stacey...
+{132670}{132714}Stacey.
+{132716}{132792}- Leave me alone. l wanna end it all!|- No, no, no!
+{132794}{132854}- Stop it! Stop it! Stop it!|- Please!
+{132856}{132916}Let's talk about what...
+{132960}{133003}Jeez.
+{133005}{133035}God!
+{133037}{133085}Please, let me go.
+{133087}{133127}Let me go!
+{133146}{133232}Kiss me. l love you.
+{133266}{133316}Kiss me. Please.
+{133466}{133526}My gosh.
+{133528}{133597}What a dream.
+{134173}{134227}Melinda! What...
+{134229}{134323}- What are you doing here?|- My God.
+{134325}{134383}l was listening at your door.
+{134385}{134475}- For what?|- l was jealous.
+{134477}{134558}- Jealous? Jealous of what?|- Well...
+{134560}{134711}You went home with Stacey,|and all night long l've been upset.
+{134713}{134809}So l guess l've realised|how much l care for you.
+{134811}{134919}- Really?|- ls she here? l heard lovemaking talk.
+{134921}{134992}No, that was a dream.
+{134994}{135051}You were dreaming about her?
+{135053}{135117}l was dreaming of you, actually.
+{135119}{135240}- Me? Why were you dreaming about me?|- l dreamt l was making love to you.
+{135267}{135329}- Really?|- Melinda...
+{135331}{135387}l'm in love with you.
+{135419}{135491}Me? You never said anything.
+{135493}{135578}l was married,|and when it was breaking up you met Bill.
+{135580}{135689}My God. Couldn't you tell|l've been in love with you for a long time?
+{135691}{135765}l couldn't even tell that l was in love with you.
+{135767}{135821}And now you're spying on me.
+{135823}{135874}What a silly thing -
+{135876}{136010}a grown woman, a mature, sophisticated|woman, outside a door, spying.
+{136031}{136130}By the way,|l found a piece of your bathrobe in my door.
+{136176}{136314}- Strange. l should tell my laundress.|- You don't have a laundress.
+{136316}{136401}Well, marry me and we'll get a laundress.
+{136601}{136729}So, you see, it's all in the eye of the beholder.|We hear a little story, a few hearsay details.
+{136731}{136873}You mould them into a tragic tale - a woman's|weakness for romance is her undoing.
+{136875}{136920}And that's how you see life.
+{136922}{137037}Whereas you, you take those details,|you put them into an amusing romance.
+{137039}{137084}Great. That's your take on life.
+{137086}{137202}But, obviously, there is no one|definitive essence that can be pinned down.
+{137204}{137293}Well, moments of humour do exist.|l exploit them.
+{137295}{137381}But, you know, they exist|within a tragic overall framework.
+{137383}{137471}ls everybody going|to Phil Dorfman's funeral next week?
+{137473}{137584}He dropped dead of a heart attack. He just|had his cardiogram, which was perfect.
+{137586}{137674}- l hate funerals.|- Me too. Always, at the wrong time, l laugh.
+{137676}{137826}See, that's my point. We laugh because|it masks our real terror about mortality.
+{137828}{137895}l didn't mean to bring up|the subject of funerals.
+{137897}{138020}Well, how can it be a romantic, funny world|if you can't trust your own cardiogram?
+{138022}{138099}- l wanna be cremated.|- Now? Or after your death?
+{138101}{138198}Let's change the subject. We came out|to have a fun and relaxing evening.
+{138200}{138284}Let's drink to good times. Comic or tragic,
+{138286}{138374}the most important thing to do|is to enjoy life while you can
+{138376}{138470}because we only go round once,|and when it's over, it's over.
+{138472}{138604}And, perfect cardiogram or not, when|you least expect it, it could end like that.
+{142146}{142225}Visiontext Subtitles: Margaret Burke
+{142598}{142648}ENGLlSH
+{142698}{142798}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<

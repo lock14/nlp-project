@@ -1,0 +1,1128 @@
+{1}{1}25.000
+{2536}{2574}The Zenith Team.
+{2606}{2698}Five young superheroes|who fought to protect the world from evil.
+{3101}{3167}Led by Captain Zoom|and his brother Concussion,
+{3207}{3254}the team saved many lives.
+{3308}{3355}Team Zenith.
+{3429}{3502}Oh, and with the help of their sidekick,|Dr Grant.
+{3534}{3594}The government sought to enhance|the team's powers
+{3596}{3646}using Gamma-13 radiation.
+{3715}{3779}Zoom got faster and stronger,
+{3824}{3897}but the Gamma turned Concussion|to the dark side.
+{3926}{3978}He turned on his own team.
+{4152}{4192}Zoom lost his powers
+{4216}{4245}and his brother.
+{4681}{4762}We're coming up now.|Prepare to deactivate cloaking device.
+{4960}{5050}I told you not to call me|unless the world was going to end.
+{5053}{5090}I don't know about the world ending,
+{5092}{5146}but we've been tracking|a pan-dimensional anomaly
+{5148}{5214}that seems to be moving toward|our time-space continuum.
+{5216}{5288}Dr Grant, I speak Greek, not geek.
+{5298}{5331}Let me put it this way.
+{5333}{5395}Concussion is still alive,|and he's coming back.
+{5397}{5435}He was destroyed.
+{5467}{5533}- Nope.|- We were there. We both saw it.
+{5563}{5589}Nope.
+{5627}{5678}Twelve days and counting.
+{5687}{5721}The time has come.
+{5758}{5814}I'm reactivating the Zenith Programme.
+{5824}{5908}Find me some kids.|Misfits, outcasts, weirdoes.
+{5921}{5956}Give me that file.
+{6038}{6094}Zoom's the only one who can train them.
+{6096}{6126}Now, get to Long Beach,
+{6128}{6210}find him, evaluate his condition,|and bring him back here.
+{6290}{6332}You know he won't cooperate.
+{6334}{6410}You won the Nobel Prize, Doctor.|You'll think of something.
+{7273}{7319}Okay, he's looking. Come now.
+{7392}{7435}There's a car coming, lady.
+{7475}{7506}Hey, look out.
+{7606}{7667}Yeah, you're sure you're okay, huh?
+{7671}{7733}- That guy almost killed me.|- Watch out for the
+{7735}{7761}grease.
+{7795}{7838}Should have told you|about those grease spots.
+{7840}{7877}Come on, get up.
+{7912}{7939}Grant?
+{7943}{7992}- Hello, Zoom.|- It's Jack.
+{8023}{8071}Okay, Jack.
+{8099}{8136}It's good to see you.
+{8143}{8187}Wow. You got old.
+{8256}{8305}It's been, what, 30 years?
+{8309}{8395}- What are you doing here, Grant?|- We're starting up a new team.
+{8397}{8439}Men's slow-pitch softball?
+{8509}{8550}No, a new Zenith team.
+{8571}{8635}- You can't be serious.|- We are serious, Mr Shepard.
+{8637}{8701}- Why is the green dress talking?|- I'm a psychologist.
+{8703}{8766}I'm sorry. This is Miss Holloway.|She works with me.
+{8768}{8811}Yes, and despite the theatrics,
+{8813}{8866}which were not my idea, by the way,
+{8882}{8915}you're the only one who can help us.
+{8917}{8965}You're the only superhero left.
+{8995}{9047}Somebody's been giving you|the wrong information.
+{9049}{9100}So, if you'll excuse me, I got work to do.
+{9102}{9159}We're here to take you back,|not to invite you back.
+{9161}{9235}And we're authorised to use|whatever means necessary.
+{9237}{9299}- Grant, Grant, Grant.|- You can't shoot him.
+{9331}{9368}- Nice.|- Sorry.
+{9632}{9663}Trick or treat.
+{9675}{9713}Here you go, sweetie.
+{9767}{9799}Trick or treat.
+{9927}{9966}- Thank you.|- Thanks a lot.
+{9968}{10022}- Give it here, Howdy Doo-Doo.|- Bully.
+{10269}{10298}Oh, my gosh.
+{10371}{10399}Thank you.
+{10493}{10527}I'll take that.
+{10553}{10587}She's so weird.
+{10607}{10634}Freak.
+{10662}{10699}That was a good one.
+{11127}{11159}Oh, my gosh.
+{11163}{11199}What just happened?
+{11201}{11239}How does my hair look?
+{11454}{11480}Dylan.
+{11519}{11600}Perhaps you'd like to come up|and finish Newton's equation?
+{11607}{11670}I think Newton can finish his own equation.
+{11707}{11735}Now, Dylan.
+{12941}{12972}Yes.
+{13312}{13392}Check it out.|Lard-butt's going to snap the board in half.
+{14224}{14260}Wake up, Zoom.
+{14262}{14344}Zoom? Welcome back to Area 52.
+{14418}{14465}Thank you, Grant, for bringing me|back to a place
+{14467}{14514}I've been avoiding for the last 30 years.
+{14516}{14576}You have two choices as I understand it.
+{14584}{14631}One is to stay here
+{14633}{14694}and the other is to go directly to prison.
+{14696}{14732}How long in prison?
+{14736}{14820}We are also very happy to pay you $500,000.
+{14852}{14949}You know you could've just said that|instead of shooting me with a dart.
+{14994}{15020}Yes.
+{15022}{15050}Mr Shepard.
+{15059}{15148}Mr Shepard, I can't tell you how happy I am|that you've come aboard.
+{15150}{15182}It's you.
+{15253}{15295}Do you have an inner-ear problem|or something?
+{15297}{15330}- Zoom...|- Jack.
+{15338}{15365}Right, Jack.
+{15367}{15460}Miss Holloway is our leading researcher|in the area of latent superhuman abilities.
+{15462}{15513}She'll be in charge of|training the new Zenith team.
+{15515}{15564}She's also quite a fan of yours.
+{15592}{15669}I have every issue of|Captain Zoom And His Amazing Team,
+{15672}{15726}most of them|still in their original plastic sleeves.
+{15728}{15776}That's creepy.|But do you still have that green dress?
+{15778}{15832}I even have the|fifth anniversary double issue,
+{15834}{15874}Zoom Vs. The Atomic Melt.
+{15876}{15992}I have it in Japanese, German,|Farsi, Hindi and Braille.
+{15999}{16063}How about that green dress? Still have that?
+{16209}{16274}Ladies and gentlemen,|may I have your attention, please?
+{16276}{16322}The return of Zoom.
+{16404}{16498}Show of hands, who here does not live|with their mom in her basement?
+{16653}{16723}We have assembled a group|of 10 special candidates.
+{16725}{16788}The extent of their abilities is still unknown,
+{16790}{16832}like it was when your team arrived.
+{16834}{16888}We wanted your help|in choosing the ones with the best potential
+{16890}{16916}for a new Zenith team.
+{16918}{16976}Well, for half a million dollars|in cash and prizes
+{16978}{17039}let's take a look at those contestants,|shall we?
+{17283}{17327}What, are we forming a spelling bee?
+{17329}{17386}I assure you, they are all quite gifted.
+{17388}{17435}Gifted what? They're a bunch of kids.
+{17437}{17507}And what power do they have? I haven't|read or heard about a Gamma event.
+{17509}{17536}Well, there weren't any.
+{17538}{17593}My studies in meta-human|psychophysiology
+{17595}{17640}have made Gamma treatments obsolete.
+{17642}{17708}I am quite confident|that we can develop their abilities
+{17710}{17776}far beyond what was achieved|during the Gamma-13 days.
+{17778}{17823}And we can do it safely
+{17835}{17865}and naturally.
+{17897}{17944}I'm sorry, I must've dozed off there|for a minute.
+{17946}{17988}Times have changed, Zoom.
+{18032}{18112}Well, they'd better be able to do|some mind-blowing stuff.
+{18304}{18355}What is this? She's blinking fast.
+{18359}{18435}- She was better in the audition.|- I am a little cooler.
+{18563}{18589}Oh, dude.
+{18717}{18766}Now you see him, now you don't.
+{18772}{18802}How you doing?
+{19142}{19197}Pass the hand sanitiser, please.
+{19268}{19390}A-B-C-D-E-F-G-H-l-J-K-L-M-N-O-P...
+{19392}{19424}Stop that.
+{19441}{19506}You're singing the alphabet.|That's not a power.
+{19508}{19555}And your voice is average, it's not super.
+{19557}{19593}It is, too, super.
+{19829}{19893}Get another table in here, please.|Right away.
+{20152}{20182}I see things.
+{20187}{20228}Do you see dead people?
+{20230}{20310}I see that you suffer|from a massive inferiority complex.
+{20337}{20383}I try to hide that so well.
+{20460}{20507}I'm Jupiter the Gas Giant.
+{20565}{20607}- Say, "Excuse me."|- Yikes.
+{20743}{20816}Is he doing it,|or is he just naturally that chubby?
+{21210}{21242}It's so cool.
+{21772}{21800}Miss Holloway,
+{21802}{21865}how would you like to introduce|our trainees to their new instructor?
+{21867}{21911}I would love to. You ready?
+{21914}{21963}- Yeah. I can't wait.|- Okay.
+{22084}{22126}That is getting so old.
+{22128}{22197}Well, considering you can read my mind,|I don't have many options.
+{22199}{22261}I can't read your mind. I just feel stuff.
+{22268}{22330}And you could stop hitting on me entirely.
+{22333}{22393}No, I can't do that.
+{22406}{22444}You and I are destiny.
+{22491}{22586}Children, I would like to formally|introduce you to a very great man,
+{22593}{22625}Mr Jack Shepard.
+{22740}{22793}Sorry. I don't remember eating that.
+{22827}{22873}Great man or washed-up loser?
+{22921}{22976}It's a fine line. What a nice kid.
+{22978}{23064}Is the long hair and the James Dean angst|just a package with you?
+{23066}{23147}Mr Shepard is uniquely qualified|to be your new instructor.
+{23158}{23206}And now he'll tell you why.
+{23218}{23249}What?
+{23252}{23286}Oh, yeah, kids,
+{23304}{23355}do you have any idea|what you're doing here or why?
+{23357}{23386}Me.
+{23427}{23473}Come on. Come on. Me, me, me.
+{23559}{23585}Me.
+{23587}{23659}- All right, the little one.|- We were brought here in super secret
+{23661}{23730}because we were selected|out of a huge group of kids
+{23732}{23763}because we're really special
+{23765}{23835}and they needed special kids|for a special course.
+{23839}{23887}That's what Miss Holloway said.
+{23923}{23993}I don't think I've ever heard anybody|use that many "specials" in a sentence.
+{23995}{24089}She actually worked it in there|one more time than Collins did.
+{24093}{24156}But it's all a lie.|We're here because we're different.
+{24158}{24199}- We're not different.|- Come on. Chill out.
+{24201}{24261}You can pick up a car, and you're six.|How different does it get?
+{24263}{24321}- Don't tell her that.|- Don't be a jerk, man.
+{24323}{24389}- What? Tucker, I'm not being a jerk.|- Children.
+{24478}{24529}- Sorry.|- Okay, maybe this'll help.
+{24531}{24608}I spent a lot of time here at Camp Secret
+{24624}{24700}when I was just about your age.|And you know what?
+{24705}{24741}It pretty much
+{24745}{24790}- ruined my life.|- Mr Shepard.
+{24792}{24866}Hey, the military would like you to be|just like me.
+{24868}{24926}You have to work hard and focus.
+{24941}{24981}But most of all, most important,
+{24983}{25070}you're going to need|massive doses of Gamma-13 emissions.
+{25074}{25163}So let's wheel in that big machine|and zap the little guys, huh?
+{25165}{25254}- That's not true. Mr Shepard. Hallway.|- Right. Let's go to the hallway.
+{25256}{25364}You guys want to slip into that lead|underwear, you wanna protect your privates.
+{25380}{25426}Always the smart aleck.
+{25430}{25493}But he is definitely the target, sir.
+{25498}{25586}The centre of the dimensional probing|is following Zoom here, from Long Beach.
+{25588}{25668}We've finally found something|that Shepard excels at.
+{25679}{25716}Being the bait.
+{25718}{25767}If you can't get those kids|combat-ready in time,
+{25769}{25894}I'll have to dose them with enough|Gamma-13 to sterilise a trailer park.
+{25910}{25974}And if that should happen,|you can rest assured, sir,
+{25976}{26077}that I will do everything in my power|to make sure it's not my fault.
+{26124}{26185}I told you.|We will not be dosing the children.
+{26187}{26282}Based on what we have in there, I think|you might want to dose them just a little.
+{26284}{26365}Come on. Drop them by a nuclear facility|and leave them there.
+{26367}{26434}Or drop them off at the dentist and|have them x-rayed 200 or 300 times.
+{26436}{26479}I don't think you understand|their sensitive condition.
+{26481}{26525}What about my sensitive condition?
+{26527}{26597}I'm being asked|to betray children for money.
+{26662}{26701}- Are you done?|- I left a little pause there
+{26703}{26770}in case you wanted to slip and fall again.
+{26881}{26927}Grant, what am I doing here?
+{26929}{26990}- Come on.|- Let me show you something.
+{27087}{27114}Wow.
+{27125}{27173}I made that suit for you.
+{27207}{27275}Too bad you never got a chance to wear it.
+{27309}{27364}- Welcome back, Zoom.|- It's Jack.
+{27377}{27409}It's Zoom.
+{27440}{27469}Wow.
+{27483}{27536}Where'd you put... Is this...
+{27700}{27729}Cool. Zoom comics.
+{27731}{27786}Tucker, wait. Do not touch this.
+{27805}{27879}This is a first edition.|Don't even touch the sleeve.
+{27881}{27982}Now, everyone, please put on your|pH-balancing, antibacterial gloves.
+{28071}{28100}Or not.
+{28108}{28145}Why are you giving us these?
+{28147}{28186}Well, I'm not giving them to you,
+{28188}{28228}but I'm showing them to you
+{28230}{28321}because yesterday you asked me|why Mr Shepard was a great man.
+{28323}{28349}Well,
+{28367}{28404}this is why he's a great man.
+{28406}{28459}Because he collects comic books?
+{28461}{28541}No. Because he is the comic book.
+{28556}{28618}Mr Shepard is Captain Zoom.
+{28628}{28692}And these comics are a record
+{28704}{28810}of the incredible things that Zoom and|his amazing team did to protect mankind.
+{28817}{28863}He was the leader of the Zenith team
+{28865}{28956}faster than Quicksilver, the Flash|and Superman all together.
+{28966}{28995}No way.
+{29013}{29039}Way.
+{29095}{29126}Zoom.
+{29128}{29161}You're Captain Zoom.
+{29163}{29237}- Can you eat fast, too?|- Zoom. Do something fast.
+{29239}{29303}Well, I guess the cat's out of the bag, huh?
+{29305}{29351}You don't look like a superhero.
+{29353}{29413}I don't? Are you sure?
+{29474}{29510}You know why?
+{29526}{29558}Because I'm not a superhero.
+{29560}{29603}There's no such thing as superheroes.
+{29605}{29699}No matter what people told you around here,|you're not superheroes.
+{29701}{29746}We're superheroes?
+{29755}{29789}Awesome.
+{29811}{29838}Yes.
+{29840}{29910}You're definitely white kids, I'll tell you that.
+{29958}{30044}- Yeah. What?|- Do we get names? And costumes?
+{30060}{30143}- I'm sorry, what's your name again?|- Cindy Collins, age six.
+{30145}{30218}Cindy Collins, age six. This isn't a parade.
+{30228}{30300}Or a Girl Scout jamboree or some sleepover.
+{30302}{30339}It's a military installation.
+{30341}{30402}You get military stuff. Functional ware.
+{30404}{30492}You see this? I used to be able|to move my entire body that fast.
+{30494}{30542}So they put me|in a polycarbonate silicone suit.
+{30544}{30604}That way I didn't vibrate out of my clothes.
+{30606}{30649}You've got to stop doing that.
+{30651}{30708}Can my superhero costume be a tutu?
+{30710}{30743}Are you even trying to listen to me?
+{30745}{30774}So what are they going to make us do?
+{30776}{30847}I don't know, dude.|Let me think about that for just a minute.
+{30849}{30911}And you're supposed to be training us.
+{30936}{31015}Give me a break.|You can barely tie your shoes.
+{31023}{31096}Come on, let's let Mr Zoom|finish his oatmeal.
+{31125}{31174}It's Cream of Wheat, dude.
+{31235}{31305}It's remarkable. 2.5 tons per arm.
+{31353}{31391}Wow, you shaved.
+{31403}{31444}Wow, you noticed.
+{31464}{31547}Would you believe that little girl|is holding 5 tons above her head?
+{31549}{31605}- Look at that.|- Wait.
+{31607}{31635}Cindy, what are you wearing?
+{31637}{31676}It's my alter eggo.
+{31678}{31708}You mean your "alter ego"?
+{31710}{31748}I'm a princess.
+{31754}{31831}- Cindy, you're not a princess.|- But I look pretty.
+{31835}{31916}Yeah, but pretty girls don't have any|real friends and they never get any respect.
+{31918}{31961}Take Miss Holloway, for instance.
+{31963}{31990}Hey.
+{32082}{32116}Scatter.
+{32203}{32251}Nice toss, Cindy. Really good.
+{32253}{32335}Why don't you get a juice box|and a Rice Krispy treat?
+{32960}{33032}It's unbelievable.|It's as if he's not even there.
+{33034}{33110}- Because he's not there.|- He's escaped again.
+{33125}{33168}Security, Code Dylan.
+{33182}{33238}I repeat, Code Dylan. Thank you.
+{33252}{33348}- I don't know why he does that.|- Because he doesn't like it here, Grant.
+{33350}{33400}Don't know why not. It's good food.
+{33402}{33483}Dr Grant.|Tucker won't come out of the bullpen.
+{33551}{33591}It's okay, Tucker.
+{33593}{33659}I know you don't have any control|over this thing yet,
+{33661}{33698}but can you please try to expand?
+{33700}{33750}- I am trying, all right?|- You're wasting your time.
+{33752}{33841}- Jack, you are undermining his confidence.|- What confidence?
+{33850}{33906}He's a lazy little chubba bubba.
+{34072}{34174}Hey, Marsha.|Exactly what part of him is this?
+{34204}{34232}Help.
+{34276}{34354}Hey there. Those kids|aren't going to be ready for anything.
+{34356}{34412}Unless, of course,|you put Tucker in a vat of paint.
+{34414}{34483}He swells up, you could do a room|in a couple of seconds. Other than that...
+{34485}{34555}Well, maybe if you trained them at all...
+{34565}{34646}Look, you know, it just might help|if I knew what I was training them for.
+{34648}{34705}I'm sorry. I don't have time right now.|I'm late for a meeting.
+{34707}{34742}Look out.
+{34769}{34824}Oh, man... Hey, are you all right?
+{34826}{34874}- Yes.|- That was some fall.
+{34879}{34980}You know, you're a nice woman.|But this whole programme is a mistake.
+{34996}{35075}The last thing the world needs is|a bunch of kids running around in costumes
+{35077}{35131}thinking that they're heroes.
+{35218}{35246}Sorry.
+{35294}{35328}What happened to you?
+{35330}{35384}What happened to the Sacred Oath?
+{35386}{35417}Issue number one.
+{35419}{35524}"Faster than fast. Truer than true.|In the pursuit of justice
+{35526}{35606}- "there is no speed limit."|- There is no speed limit.
+{35608}{35652}Yeah. Are you bipolar?
+{35663}{35696}It's a comic book.
+{35698}{35759}It's government propaganda.|They made it up.
+{35761}{35819}- I'm sorry. Who's talking?|- To cover up.
+{35821}{35907}It wasn't true.|It's not... None of that stuff is true.
+{36023}{36063}It was true to me.
+{36134}{36219}The brain scans do not correlate|with the children's test results.
+{36221}{36291}They are subconsciously suppressing|their full abilities.
+{36293}{36391}We face an imminent threat.|These kids have got to be ready now.
+{36406}{36493}Sir, it might help|if I knew what the imminent threat was.
+{36513}{36576}Sorry I'm late. I didn't get the memo.
+{36601}{36698}You know? But I heard the word|"imminent threat." What exactly...
+{36700}{36780}Hold it, Shepard. We're holding a meeting|for people who matter,
+{36782}{36822}and Miss Holloway.
+{36824}{36851}Well,
+{36867}{36954}I think maybe a big bowl of prunes|might turn that frown upside down, General.
+{36956}{37053}Guards, take him where the losers are|plotting another failure. He knows the way.
+{37055}{37137}- Go to see your family, huh?|- Get him out of here now.
+{37168}{37234}Five days and counting.
+{38126}{38160}Scatter.
+{38292}{38322}Holloway.
+{38328}{38396}You mind telling me what was going on|between you and Larraby?
+{38398}{38436}Jack, it's late.
+{38438}{38520}I can't help those kids|unless I know what's going on.
+{38610}{38686}You know, when they started talking|about bringing you in...
+{38688}{38738}- Yeah?|...I was ecstatic.
+{38774}{38848}Finally I would meet the only real superhero|left in the world.
+{38850}{38897}Would you let that|superhero stuff go, please?
+{38899}{38973}A hero who would fight for justice|at all costs.
+{39027}{39066}I was a really lonely,
+{39092}{39128}kind of weird child.
+{39136}{39177}Well, at least you know|you've grown out of that.
+{39179}{39261}And the only comfort I found|was in reading about you.
+{39275}{39336}That's because you're out of your mind.
+{39338}{39406}You gotta stop with this comic book stuff.
+{39464}{39526}You know, the first thing you said to me|was that you're not a real superhero.
+{39528}{39588}- Right.|- Well, I didn't believe you then.
+{39590}{39664}But congratulations,|because you have convinced me.
+{39666}{39712}You are nothing but a bitter man
+{39714}{39808}happily getting paid to take your|resentments out on these children.
+{39810}{39846}It's horrible.
+{39965}{40002}All right, then.
+{40052}{40095}We'll do this again.
+{40146}{40206}Hey, that was a good meeting|last night, Grant.
+{40208}{40256}Yeah, it was cool.|It was just a simple staff meeting.
+{40258}{40295}That's what I thought, simple staff meeting,
+{40297}{40334}based on the way|I was shuffled out of there.
+{40336}{40365}So where we going?
+{40367}{40400}We've got combat training tomorrow.
+{40402}{40476}We've got to get you into|some protective gear.
+{40644}{40740}I don't want to hold your hand, thanks.|I don't want to hold your hand.
+{40772}{40813}Let go of my hand.
+{40839}{40884}That's quite painful.
+{40904}{40994}All right. I'll hold your hand. Careful.|And what'd I tell you about costumes?
+{40996}{41064}It's not a costume. It's my perfective gear.
+{41066}{41116}Yeah? How's a ballerina costume|going to protect you?
+{41118}{41188}Are you crazy?|Who wants to hurt a ballerina?
+{41212}{41268}Other ballerinas, Baryshnikov.
+{41389}{41434}Wait a minute. No way.
+{41453}{41501}Is that you, Mr Pibb?
+{41504}{41546}You recognise me?
+{41548}{41597}How you doing, buddy? Give me five.
+{41599}{41629}Mr Pibb?
+{41631}{41680}Yeah, that's the name we gave him.
+{41682}{41742}We didn't have many friends down here,|so they built us one.
+{41744}{41808}He'd go get you candy and sodas,|that sort of thing.
+{41810}{41853}You were nice to him.
+{41855}{41937}Do you have to touch things to,|like, understand them?
+{41939}{42004}- Not always.|- What's he thinking about now?
+{42006}{42070}He thinks you've had an increase in mass.
+{42072}{42113}Mr Pibb.
+{42115}{42191}It's impossible to know|what he thinks, Miss Jones.
+{42193}{42265}His programme|is a rudimentary 15-megabyte system.
+{42267}{42298}He has no thoughts.
+{42300}{42361}I suppose you don't have thoughts|of what your life would be like
+{42363}{42414}if you were a figure skater?
+{42542}{42664}Well, then. I guess I'll leave you kids|in the capable hands of Jack Shepard.
+{42672}{42740}You do that, Grant. I'll take care of them.
+{42752}{42836}Mr Pibb, is that old Rambler|still down in the hangar?
+{42870}{42905}Got the keys?
+{42938}{42991}All right, come on, guys. Watch your heads.
+{42993}{43056}Come on, this way. Get over here.|Go over there.
+{43058}{43133}All right, Pibb.|Knock off the security cameras.
+{43151}{43195}Open the door.
+{43224}{43265}Let's go. Go, go, go.
+{43313}{43376}All right, stand right there. Ready?
+{43485}{43519}- Whoa.|- Whoa.
+{43630}{43722}It's the flying saucer from Area 51. It exists.
+{43724}{43759}Look at that.
+{43767}{43793}Wow.
+{43796}{43869}We rebuilt it as best we could|after it crash-landed in the late '40s.
+{43871}{43913}It's really awesome.
+{43915}{43957}Yeah, it's amazing.
+{43983}{44029}Yeah. It's really cool.
+{44062}{44158}And is this what's going to take us|to all of our superhero gigs?
+{44171}{44221}I'm getting goose bumps.
+{44404}{44459}Got to stabilise this thing.
+{44461}{44505}- Can I try?|- You want to drive?
+{44507}{44535}Yeah, definitely.
+{44537}{44592}All right, just sit down there.
+{44605}{44701}And you want to get your hands in that|green and blue slime.
+{44703}{44735}Right.
+{44738}{44809}- Little gross in there, isn't it?|- Nasty, yeah.
+{44811}{44845}Oh, boy.
+{44861}{44926}- Let's make this thing rock.|- Yeah, how do you make it go faster?
+{44928}{45021}Faster?|Therein lies the problem, guys, of the FE-12.
+{45027}{45070}We never really figured this thing out.
+{45072}{45127}It only goes 20 miles an hour.
+{45225}{45317}Maybe there's less to figure out|than there is to understand.
+{45421}{45469}Hey, barbeque, to go.
+{45543}{45585}Tucker, put the cow back.
+{45587}{45613}But I'm hungry.
+{45615}{45650}- Tucker.|- All right.
+{45832}{45876}Hey, hey, hey. Watch the...
+{45907}{45941}...light pole.
+{45996}{46058}Hello. Welcome to Wendy's.|May I take your order, please?
+{46060}{46107}- Classic Triple, lettuce, tomato.|- Get me one.
+{46109}{46182}Classic Triple, lettuce, tomato... I got it.
+{46197}{46223}Classic...
+{46225}{46289}- Can you see? Can you see this?|- No, it's all green and blurry.
+{46291}{46340}- Extra fries.|- Hold on a second.
+{46417}{46485}I'm going to have a...|What kind of toys do you have?
+{46487}{46579}Chicken. Spicy Chicken Sandwich.|The other order's Crispy Nuggets.
+{46581}{46629}- Is that it?|- Six Frosties.
+{46631}{46670}Six Frosties. Chocolate.
+{46672}{46744}All right.|Now, what's everyone else drinking?
+{47297}{47339}We come in peace.
+{47507}{47546}Take me with you.
+{47559}{47613}That's right, Bob. We're outside the Wendy's|where apparently
+{47615}{47689}a lot of people have seen|some type of flying saucer.
+{47691}{47754}I'm here with David right now,|who actually works at Wendy's.
+{47756}{47786}David, can you tell us what you saw?
+{47788}{47873}I saw the flying saucer. I saw it land.|I saw it make this noise that it made.
+{47875}{47921}It went...
+{47923}{47970}as it wobbled, and then...
+{47985}{48036}That's it. That's the way they sounded.
+{48038}{48100}- That's the way it was.|- And you actually saw the aliens? I mean...
+{48102}{48178}Well, it's not that...|The alien in the spaceship ordered from me.
+{48180}{48270}You know, I don't know.|Maybe the spaceship runs on ice cream.
+{48273}{48301}That's my theory.
+{48303}{48373}Because he ordered|a whole bunch of Frosties.
+{48391}{48422}Oh, no.
+{48597}{48641}Just go back and act like nothing happened.
+{48643}{48706}We had a great day. Let's just|leave it at that. All right, you guys?
+{48708}{48763}If I were you, Dylan, I'd disappear.|Hey, Marsha.
+{48765}{48822}Mr Shepard. How dare you?
+{48830}{48941}- Do you even know what you've done?|- Yeah. I got you a hot chicken sandwich.
+{48954}{48990}No, thank you.
+{49001}{49027}Are you a vegetarian?
+{49029}{49113}You're supposed to be training these kids|for their first simulation.
+{49115}{49189}And instead, you're out gallivanting|in a stolen spaceship.
+{49191}{49232}Was I gallivanting?
+{49243}{49324}Looks like the saucer's not the only|thing stuck in the '50s.
+{49326}{49367}You're probably 50.
+{49638}{49686}I'm not a vegetarian.
+{49707}{49774}It's a life choice. Nothing wrong with it.
+{50347}{50380}Cindy.
+{50382}{50430}Let go of my face, please.
+{50527}{50572}What are you doing in here?
+{50574}{50614}I had a bad dream.
+{50674}{50701}Well,
+{50746}{50799}I'm sorry you had a bad dream.
+{50838}{50894}That's easy to do here, I guess.
+{50904}{50930}You...
+{51064}{51126}- Let's walk you back to your room.|- Can I sleep here?
+{51128}{51201}- Just for tonight?|- No, that's not a real good idea.
+{51299}{51361}You don't want to stay here. I snore.
+{51378}{51410}I'm quite gassy.
+{51412}{51445}I'm scared.
+{51488}{51535}Hello? Little help here?
+{51657}{51696}You want to stay on the couch?
+{51698}{51737}Thanks, Mr Zoom.
+{51804}{51850}Can you let the light in?
+{51852}{51878}Yeah.
+{51894}{51942}I'll leave the door open.
+{51946}{52029}Because why would we want it dark|while we're sleeping?
+{52134}{52174}Good night, Cindy.
+{52278}{52310}Mr Zoom?
+{52312}{52348}Cindy, please.
+{52357}{52394}Am I different?
+{52463}{52490}Yeah.
+{52498}{52549}You know, but in a good way.
+{52562}{52589}I feel too different.
+{52591}{52646}Yeah, I'm sure you do,|because you're wearing a rabbit outfit.
+{52648}{52681}You gotta go to sleep, Cindy.
+{52683}{52748}Is that why Mommy and Daddy|sent me here?
+{53009}{53038}Listen.
+{53062}{53111}You were right the first day.
+{53113}{53153}You're special.
+{53155}{53213}There's nobody in the world|that can do what you do.
+{53215}{53254}Your parents, who love you very much,
+{53256}{53346}they sent you here|so you'd learn how to use your difference
+{53394}{53431}to help people.
+{53550}{53581}Good night.
+{54183}{54216}Good night.
+{54230}{54282}That was bolted to the wall.
+{54484}{54596}Welcome to our fully operational,|multi-platform J-1000 mission simulator.
+{54606}{54683}It is imperative|that you learn to avoid enemy fire.
+{54685}{54718}A bit more advanced than in your day, eh?
+{54720}{54772}Yeah, in my day|we just had that British guy named Ben
+{54774}{54807}who threw sticks at us.
+{54809}{54843}So what are the holes for?
+{54845}{54913}It's funny you should ask that.|That's the first question people ask.
+{54915}{54976}Our technician is Dick. Dick?
+{54995}{55061}The holes are for firing the paintballs.
+{55083}{55127}All right. I'm out of here.
+{55129}{55191}Oh, great. Another Code Dylan.
+{55193}{55243}He must like that isolation room.
+{55245}{55310}We'll have to proceed without Mr West.
+{55340}{55437}The objective is to get the kids|to 70%% combat capacity.
+{55439}{55544}I'm going to start them off easily,|about 10%% . What do you think? 10%%?
+{55546}{55595}Yeah, yeah. That sounds great.
+{55597}{55635}Dick, 10.
+{55770}{55883}Children, your goal is to stop the simulator|by pressing that red button in the centre.
+{55885}{55931}How hard can that be?
+{55934}{55973}I don't know.
+{56238}{56308}Are you working on attraction or repulsion?
+{56310}{56338}Watch.
+{56392}{56423}Ready?
+{56643}{56695}That would be attraction.
+{56735}{56780}Oh, I'm sorry. I didn't...
+{56799}{56827}Meanie.
+{56835}{56863}Oh, no.
+{57498}{57547}- Watch out.|- Look out.
+{57619}{57655}I'm getting...
+{57830}{57865}I want a name.
+{57867}{57924}Ten more, that's your name.
+{58072}{58110}Get me a name.
+{58113}{58183}Hey. How about nine more?|There's your name.
+{58780}{58827}Excuse me, Dr Grant.
+{58877}{58917}Sorry, Dr Grant.
+{58919}{58954}Why the rush, kids?
+{59123}{59159}Watch out.
+{59349}{59435}You see, it all works together|in a double helix.
+{59449}{59496}So if you can manage to...
+{59531}{59636}I've got a thing. If you could get the|double helix going, I'll be right back.
+{59679}{59717}Think double helix.
+{59751}{59819}- That was ridiculous.|- That was really bad.
+{59832}{59875}I thought it was fun.
+{59979}{60051}Hey, guys. I shook down|our robot buddy, Mr Pibb,
+{60053}{60094}and I got you some snacks.
+{60096}{60146}I got mine already. Thanks.
+{60194}{60247}You guys look like modern art.
+{60303}{60350}Come on.|How'd you guys think the training went?
+{60352}{60437}- Oh, please. Like you care.|- Hey. Chill out a little bit.
+{60448}{60509}I'm not the one that dropped you off|here at the military base, you know.
+{60511}{60608}No, you didn't drop us off here,|but you were supposed to teach us.
+{60659}{60722}Thanks for all the training, Captain.
+{60726}{60783}- You don't care about us.|- She's right.
+{60789}{60895}I got hit with so many paintballs,|I've got more bruises than skin.
+{60897}{60939}- Mr Shepard?|- What?
+{60956}{60996}You care about us,
+{61008}{61036}right?
+{61100}{61137}I brought cake.
+{61147}{61227}Don't be fooled, Cindy.|He only cares about himself.
+{61246}{61287}Come here. Let's go get you cleaned up.
+{61289}{61327}Wait. Hey, look.
+{61489}{61516}Cake.
+{61784}{61843}Smells like old socks in here.
+{61845}{61882}Is he in there?
+{61996}{62053}Sucks being in here, doesn't it?
+{62060}{62104}You know, Larraby actually knitted this.
+{62106}{62190}He and Grant, buck naked by a fire,|knit one, purl two.
+{62198}{62269}They knitted this to contain people like us.
+{62299}{62345}I got out of here three times.
+{62347}{62416}And I'll bet Cindy could get out of here|whenever she wanted to.
+{62418}{62498}When I was her age, I used to just have|one leg work faster than the other.
+{62500}{62542}I did this kind of fast hopping thing.
+{62544}{62584}So you could skip?
+{62586}{62632}Hop. Let's go with hop.
+{62658}{62713}One day, a bunch of my buddies|wanted to go down to the creek,
+{62715}{62783}you know, to throw fish at each other,|paint our face. Guy stuff, you know.
+{62785}{62858}I wanted to go there so bad|that I concentrated
+{62860}{62941}- and I just began to do my little...|- Skipping thing.
+{62948}{62979}Hopping.
+{62999}{63076}All of a sudden, man, I was there.|Boy, they noticed that.
+{63078}{63126}And then other people noticed.
+{63140}{63212}People like the Zenith Programme,|they noticed.
+{63232}{63309}So they dragged me and my...|They dragged me and my older brother...
+{63311}{63405}- I didn't know you had a brother.|- They dragged me here, and Grant,
+{63407}{63488}I think he's had enough. Let him out.|Come on, Dylan.
+{63552}{63592}This is Control.
+{63594}{63650}This is Mr Grant. You can release Dr West.
+{63652}{63724}I'm sorry. This is Dr West.|Could you release Mr Grant?
+{63726}{63776}- Okay, you want us to release...|- No, don't release Dr Grant.
+{63778}{63836}- Release Mr West.|- Wait, you want us... You just said...
+{63838}{63892}- Just do what I say.|- Yes, sir.
+{64021}{64075}Two days and counting.
+{64209}{64277}I'm pretty sure the ice cream's this way.
+{64370}{64432}"Outdoor Survival Simulator"?
+{64644}{64672}Sweet.
+{64721}{64765}This room is so cool.
+{64842}{64899}What's Dr Grant doing in there?
+{64908}{64934}Look.
+{64952}{64990}Close the door.
+{65115}{65142}Kids.
+{65148}{65218}Very good. That's great. It's closing up.
+{65220}{65249}Keep it open just a...
+{65251}{65317}It's going... Oh, no, it's go... No, no.
+{65334}{65364}It closed.
+{65366}{65442}Good job.|Shouldn't you be in bed? Seriously.
+{65450}{65498}Are you waiting for Peter Pan?
+{65521}{65554}I'm just kidding around. Tucker.
+{65556}{65642}Could you back off the control panel|a little bit? There are buttons on there
+{65644}{65686}I really don't want you to push,
+{65688}{65720}because...
+{65914}{65982}I told you not to...|Why didn't you listen to me?
+{65990}{66019}Okay, that's it.
+{66021}{66124}Summer, I want you to open that door.|I want the rain to stop right away,
+{66128}{66155}please.
+{66157}{66200}You're making me very angry, children.
+{66202}{66253}This is not funny. This is not...
+{66425}{66464}What's he doing?
+{66473}{66534}Press another button. Do not push button.
+{66558}{66596}I told you, no button.
+{66625}{66656}If you...
+{66855}{66888}No more buttons.
+{67396}{67431}Do it, Cindy.
+{68115}{68164}Oh, nasty. Come on.
+{68412}{68497}It is the emotional core that is missing|in these children's lives.
+{68499}{68564}...that magnetises so you can't move.
+{68566}{68633}Put your head against these little diodes|and they give you
+{68635}{68716}13 times the lethal dose
+{68729}{68772}of Gamma radiation.
+{68780}{68825}And that made you more powerful?
+{68827}{68871}Dylan, they're not going to put you in here.
+{68873}{68914}That's why I'm here.
+{68916}{68977}To encourage your talents naturally.
+{69009}{69115}Dylan, I'm talking to you. Where do you go|when you fuzz out like that?
+{69132}{69158}I...
+{69170}{69256}You don't perchance get a little headache|over your eye when you do that, do you?
+{69258}{69285}Maybe.
+{69287}{69317}Maybe?
+{69331}{69360}Maybe.
+{69364}{69424}Dylan, I got an idea.
+{69430}{69528}I want you to think about Summer right now.|Stand here and see if you can find her.
+{69530}{69580}- But she's nowhere near here.|- I understand that.
+{69582}{69684}Trust your instincts. Go down this hallway|in your mind and find her.
+{70117}{70156}I'm in her room.
+{70169}{70200}No, I...
+{70238}{70284}I can see her dancing.
+{70370}{70469}This is unbelievable. This is a real gift.|It's called mind-sight.
+{70485}{70513}Look,
+{70536}{70630}these kids are going to need a leader.|This team needs one.
+{70636}{70704}And a leader is someone|who can see the way.
+{70706}{70753}I think that may be you.
+{70813}{70901}And which one of the old team|had the mind-sight thing like me?
+{70903}{70955}- Oh, Marksman.|- Marksman.
+{70976}{71050}What happened to him?|And your girlfriend, Ace?
+{71057}{71143}They all lost their lives doing what they do,|being heroes.
+{71145}{71199}- Like in the comic book.|- Yeah.
+{71223}{71305}So this killer, Concussion...|I thought that was all made up.
+{71307}{71353}Some of it was made up.
+{71363}{71464}So this maniac wiped out the whole team?
+{71473}{71553}It really wasn't his fault.|I mean, they made him into that.
+{71555}{71604}He was part of the team?
+{71620}{71671}- Yeah.|- And you trusted him.
+{71680}{71709}He was your friend, and he...
+{71711}{71785}You don't know what|you're talking about, okay?
+{71817}{71869}Concussion was your brother.
+{71955}{71998}His name was Connor.
+{73665}{73723}Summer, what's with the necklace?
+{73764}{73852}It was the last thing my parents gave me|before they left.
+{73857}{73913}I guess they couldn't handle my powers.
+{73999}{74029}Can I...
+{74380}{74451}I'm sorry, Miss Holloway.|We couldn't find him anywhere.
+{74453}{74492}Okay. Thank you.
+{74560}{74663}All right. Well, we'll just have|to proceed without Mr Shepard today.
+{74678}{74726}If everyone will open up their books...
+{74728}{74794}Hey, sorry I'm late,|but I had to get my gang together.
+{74796}{74886}Make the measurements, guys.|Don't be afraid to tickle them.
+{74954}{75017}It almost looks like you're glad to see me.
+{75038}{75157}No, no, I'm not... I'm not glad to see you.|I mean, the children are glad to see you.
+{75171}{75272}And, well, I guess if they're glad to see you,|then I'm glad to see you. I don't know.
+{75274}{75310}Okay. I'm glad.
+{75312}{75348}- Go ahead.|- Okay.
+{75350}{75406}Well, anyway, kids,|this is what we're going to do.
+{75408}{75450}We're gonna continue|your physical training,
+{75452}{75498}along with your teamwork exercises,
+{75500}{75572}but to complement your internal strengths.
+{75598}{75660}- When do we get names?|- We'll deal with that, but right now,
+{75662}{75708}most importantly,|I want to deal with the fundamentals,
+{75710}{75783}and there's two fundamentals,|control and execution.
+{75785}{75846}Think about it. Control and execution.
+{75848}{75890}Come on, guys. Follow me.
+{76030}{76086}One. Two. Three.
+{76350}{76378}Pull.
+{76434}{76470}You all right?
+{76472}{76538}He's invented a super fabric for Tucker.
+{76554}{76597}Congratulations, Ed.
+{76773}{76800}Yeah.
+{76854}{76966}The coolest, strongest, best time|you ever attracted or repelled something
+{76968}{77029}because whenever that was, it was just...
+{77107}{77139}Nailed it.
+{77384}{77414}Thanks.
+{77702}{77741}- I got it.|- Yes.
+{77905}{77931}Yeah!
+{77960}{78002}Yeah, man. Nice job.
+{78075}{78118}Well, how are they?
+{78133}{78190}They're enjoying their victory.
+{78206}{78264}- It's been quite a week for them.|- Yeah.
+{78275}{78331}Why the sudden change of heart?
+{78384}{78452}They're becoming a real team, those kids.
+{78462}{78568}And I didn't realise what an incredible team|I had until they were gone.
+{78585}{78656}And I'd like them|to avoid that same mistake.
+{78682}{78709}Nuts?
+{78718}{78758}No. It's beautiful.
+{78760}{78812}No, I mean do you like nuts?
+{78838}{78872}Yes, please.
+{78881}{78930}- There you go.|- Thank you.
+{78938}{79011}I think if we'd had someone|who cared about us
+{79022}{79090}and taught us to succeed as a family,
+{79094}{79212}things would've been different for Connor,|and certainly for the rest of the team.
+{79226}{79259}Somebody...
+{79297}{79338}Somebody like you.
+{79481}{79526}I ain't cleaning that up.
+{79554}{79637}Our only hope lies|with Marsha and Zoom training the kids.
+{79639}{79691}You can't be considering Gamma radiation
+{79693}{79749}after what happened to Zoom's brother?
+{79751}{79825}Concussion becoming evil|was a horrible result.
+{79906}{79975}He's coming for Zoom|sooner than I thought.
+{79996}{80051}And this is where he'll emerge.
+{80058}{80160}These will allow you to see|the dimensional rift we've been tracking.
+{80226}{80286}He's more powerful than I thought.
+{80298}{80381}You better have a plan|that works this time, birdbrain.
+{80383}{80430}Well, the kids will have to distract him
+{80432}{80503}so that we can launch|the sonic net I've designed.
+{80505}{80551}The net will capture him in such a way
+{80553}{80618}that it causes him|to concuss back on himself.
+{80620}{80703}- Is that our only option?|- Well, if Zoom still had his powers,
+{80705}{80750}his speed could create a mega vortex
+{80752}{80846}which would trap Concussion and reverse|the dark effects of the Gamma radiation.
+{80848}{80892}How much time have we got?
+{80912}{80961}Forty-eight hours. Tops.
+{81176}{81212}Anybody home?
+{81214}{81244}- Hi.|- Hey.
+{81251}{81310}- Nothing to wear?|- How'd you guess?
+{81336}{81405}Come here. Maybe I have something for you.
+{81496}{81569}There it is. I knew it was in here somewhere.
+{81593}{81619}Wow.
+{81636}{81662}Pretty.
+{81767}{81804}That's perfect.
+{81806}{81853}- Are you sure?|- Oh, yeah.
+{81855}{81935}It's just one of many purchased|for dates that never happened.
+{81937}{82006}Turned out to be lonely nights|reading my comic books.
+{82008}{82059}In between the crying fits.
+{82090}{82142}It all started with my prom.
+{82171}{82278}I always thought the prom queen|should be the girl with the highest I.Q.
+{82289}{82338}Now that would make sense.
+{82858}{82944}Finally, a woman without a lab coat.|We got a party now.
+{82966}{83009}You know, I like having you here.|Don't get me wrong.
+{83011}{83082}But I'm not sure Cindy|can handle the competition.
+{83084}{83182}- This is really nice of you.|- Well, they worked hard. They deserve this.
+{83637}{83674}Look at Summer.
+{83746}{83776}- Hi.|- Hey.
+{83796}{83853}So, where are you going dressed like that?
+{83855}{83907}Why? Do I look stupid?
+{83909}{83954}No, you look nice.
+{84014}{84065}- Hi.|- Hey.
+{84122}{84187}- You like it?|- Yeah. You look beautiful.
+{84230}{84290}I thought your necklace looked a little bare,
+{84292}{84346}so I made this for you in R and D.
+{84489}{84568}For everything I see in you,|and everything I don't.
+{84666}{84726}I think your powers are wonderful.
+{84770}{84817}I'm not that wonderful.
+{84833}{84882}I mean, I just hope you're not disappointed
+{84884}{84950}with what you do or don't see from here.
+{84970}{85024}As long as I get to keep looking,
+{85026}{85096}I guarantee you I'll never be disappointed.
+{85643}{85687}Do you want to dance?
+{85750}{85777}Yes.
+{85787}{85869}Do you mind if we take these off?|Because you are so...
+{85890}{85919}blind.
+{85930}{85973}Whoa. Let me put these back on.
+{85975}{86011}No, it's okay.
+{86038}{86106}You'll just have to move a little closer.
+{86178}{86222}Still can't see you.
+{86474}{86533}What the hey is going on here?
+{86535}{86574}This room is off-limits.
+{86576}{86654}Hey. Come on, Your Highness, calm down.|You're going to have a stroke.
+{86656}{86707}Look. Have a drink.|The kids are just having fun.
+{86709}{86767}The kids want to have a little fun?|I like to have fun.
+{86769}{86826}Kids, let's take a 10-mile run.
+{86842}{86923}Guards. Holloway.|Make sure it happens now. Move out.
+{86963}{87030}Boy, for a straight guy, you're dramatic.
+{87079}{87116}What's all this stuff? What are you doing?
+{87118}{87182}Something I should have done long ago.
+{87259}{87311}You're going to hurt these kids|like you hurt my team.
+{87313}{87376}To meet my standards, whatever it takes.
+{87378}{87450}We'll be starting first thing in the morning.
+{87590}{87631}Let's get cracking.
+{87759}{87832}Hey, guys. Everybody. Get up. Come on.|Get up.
+{87874}{87952}Come on, gorgeous. Hop up.|Sleeping's for wimps. Get up. Come on.
+{87954}{88010}Come on. Come on.|Come on, come on. There you go.
+{88012}{88063}Everybody. Come on. Get up.
+{88073}{88125}Hurry, before the guards see us.
+{88127}{88216}Good, good, good. Figured you guys|would be getting tired of sleeping.
+{88218}{88303}Come on. Tucker, come on, buddy, get up.|Roll that big potato out of bed.
+{88305}{88388}Hit your light. There you go, come on.|Get up, get up.
+{88430}{88456}What's the matter with you?
+{88458}{88546}What time did you go to bed last night?|How tired can you guys...
+{88548}{88662}All right. Somebody brush his teeth,|get him in his outfit. Let's go. Come on.
+{88682}{88721}I said let's go.
+{89167}{89203}All right, all right.
+{89205}{89285}What are you dressed as, Super-Poodle?|What is that?
+{89341}{89383}Where are we going?
+{89404}{89478}Oh, neat. An electrical panel.
+{89608}{89663}It's a secret electrical panel.
+{89665}{89693}Quiet.
+{89737}{89767}Come on.
+{89844}{89914}I'm tired. Let's go back to bed.
+{89916}{89958}- I'm hungry.|- I'm cold.
+{89960}{90024}Stop whining. Superheroes don't whine.
+{90105}{90136}Where are we?
+{90138}{90213}We are someplace|where the cameras won't see us.
+{90258}{90320}- Whoa, what is this?|- Are we getting our names?
+{90322}{90371}Finally, we get our names.
+{90379}{90429}Wait, I thought you said names don't matter.
+{90431}{90528}All right, all right. I was mistaken.|You want names? You got to have names.
+{90530}{90613}Chubby will now be called|"The Incredible Bulk."
+{90615}{90653}- Oh, dude.|- That's stupid.
+{90655}{90727}You, the bully, let's call you "Strong Girl."
+{90729}{90789}- I want something pretty.|- That is pretty.
+{90791}{90828}- No, it's not.|- Yes, it is pretty.
+{90830}{90895}And for you, let's go with "Mental Chick."
+{90897}{90946}- Mental Chick?|- I like that.
+{90948}{90983}- That is not funny.|- Yes, it is.
+{90985}{91023}- I think it's good, 'cause you're...|- I like it.
+{91025}{91063}That's terrible. You're not calling me that.
+{91065}{91119}Yeah, Mental Chick and Invisiteen.
+{91121}{91176}Whoa. No, that is terrible.
+{91178}{91231}- Come on. You're Mega-Boy.|- Mega-Boy?
+{91233}{91272}- What do you call me?|- Houdini.
+{91274}{91320}- Houdini?|- You know? He's always escaping stuff.
+{91322}{91354}- Princess.|- Princess.
+{91356}{91413}- And she's Wonder.|- Thanks.
+{91415}{91493}All right, I give up. You guys want to|name yourselves, you've named yourselves.
+{91495}{91526}- Houdini.|- Princess.
+{91528}{91563}- Wonder.|- Mega-Boy.
+{91565}{91629}- Now we're a team.|- Now we're a family.
+{91710}{91752}And this family is getting out of here.
+{91754}{91799}I'm taking you someplace safe tonight.
+{91801}{91857}- But we're heroes now.|- And we have names and everything.
+{91859}{91905}I know you do.|You have names, you're heroes,
+{91907}{91959}but I think it'd be safer|if we just got out of here.
+{91961}{92005}Take the FE-12, we can use that and...
+{92054}{92103}What's the matter, Dylan?
+{92123}{92165}I'm in a hallway.
+{92174}{92213}Stay out of the ladies' room.
+{92215}{92273}Okay, now, I'm in a control room.
+{92280}{92371}- What do you see?|- I see Dr Grant and Larraby.
+{92387}{92453}Tell me they're wearing women's dresses.
+{92514}{92573}There's frozen images on a screen.
+{92643}{92688}I know what they're training us for.
+{92690}{92717}What?
+{92736}{92772}Your brother.
+{92804}{92867}He's alive. He's coming back.
+{92994}{93029}That's impossible.
+{93031}{93072}Stay out of sight.
+{93141}{93247}General Larraby, it is only a matter|of moments before Concussion will be here.
+{93254}{93360}At 8:59 p.m., the portal broke through|the final dimension.
+{93441}{93510}Wow. Just when I was beginning to like you.
+{93512}{93583}"It's all for the kids, helping them cope,|bring out what's best in them."
+{93585}{93669}- What are you talking about?|- Stop the innocent routine, okay?
+{93671}{93697}What?
+{93722}{93749}Jack.
+{93751}{93812}That's when we deploy the sonic net.
+{93833}{93874}What the hell's going on?
+{93901}{93953}Right now, my stomach flesh is burning.
+{93955}{94038}- Jack. Jack, can you talk to me?|- Not now, Holloway.
+{94040}{94082}Guards, get her out of here.
+{94084}{94157}My brother is alive? Why didn't you tell me?
+{94171}{94288}Well, you know... Is that a flock of birds|or my car alarm? Hold on a minute.
+{94290}{94354}We didn't tell you about Connor|because you didn't need to know.
+{94356}{94443}They're going to be heroes, Jack,|and heroes always do the right thing.
+{94445}{94500}You're going to send these kids|up against Concussion?
+{94502}{94543}They'll never have a chance.
+{94545}{94647}Not the way you've trained them.|Guards, take this bozo away.
+{94663}{94724}One hour and counting.
+{94793}{94867}I'm way too big for this. You can't... Guys...
+{94888}{94943}You know, they're just a bunch of kids.
+{94945}{94981}You can't do this.
+{95168}{95220}Five, seven, and nine clear.
+{95256}{95288}It's a go.
+{95512}{95545}We're clear over here.
+{95812}{95849}What'd you see?
+{95881}{95935}They're prepping the Gamma-13.
+{96101}{96155}Miss Holloway will stop them,
+{96157}{96189}won't she?
+{96195}{96237}I don't know, Cindy.
+{96276}{96301}I don't know.
+{96505}{96548}Well, I'm...
+{96579}{96622}I'm afraid it's time.
+{96728}{96784}I'm so sorry about this. Truly.
+{96789}{96844}It's okay. We're used to being used.
+{96846}{96920}I know there's nothing I can do|to make this up to you,
+{96922}{96962}except possibly...
+{97136}{97165}Tucker.
+{97295}{97358}- That was awesome.|- Come on, let's go.
+{97649}{97700}Can I help you, Miss Jones?
+{97765}{97813}Put me down, Miss Jones.
+{97909}{97958}Man, that is so hot.
+{97964}{98000}You think so?
+{98049}{98115}- Hey, not bad. Nice work.|- Thanks.
+{98133}{98173}Hasta luego, man.
+{98191}{98234}I'll check this one.
+{98249}{98277}I think he's...
+{98279}{98321}- Where is he?|- I think he's over here.
+{98323}{98370}No. No. He's right here.
+{98394}{98474}Hey. Somebody call for a rescue party|with extra cheese?
+{98482}{98536}Hey, it's about time. Open the door.
+{98538}{98582}You want to do the honours?
+{98663}{98713}Hey, maybe something like,
+{98719}{98821}"Stand back. We're going to break|the door down" could have been tossed out.
+{98933}{99036}You know there's a little green button|to the left that says, "Open"?
+{99068}{99112}- You all right?|- Yeah.
+{99114}{99197}- Wait. Why is she here?|- No, it's cool. She's one of us.
+{99199}{99252}- What do you mean, she's one of us?|- She blows.
+{99254}{99302}- Yeah.|- No, I mean she blows.
+{99304}{99345}Come on. Show him.
+{99578}{99605}So...
+{99617}{99657}So you've got powers?
+{99659}{99750}Remember I was kind of a weird child?|That's why I came here.
+{99758}{99790}Why didn't you say something?
+{99792}{99845}This is, like, great news.|You're like part of the family.
+{99847}{99915}- Dudes. Escape, remember?|- Right. Let's go.
+{99982}{100073}I want this done as fast and|efficiently as possible. Highest levels.
+{100075}{100106}Yes, sir.
+{100111}{100145}What's that?
+{100154}{100187}What's happening?
+{100247}{100308}Dylan. Open it up.
+{100506}{100596}- What are you doing?|- I'm saving the day. That's what I do.
+{100632}{100683}Summer, get us out of here.
+{100819}{100860}This is all wrong.
+{100981}{101021}This goes there
+{101023}{101087}and that, there.
+{101108}{101153}Hey, Dylan, get inside.
+{101184}{101217}Get inside.
+{101310}{101360}Shut the hangar doors.
+{101377}{101433}Shut the hangar doors.
+{101509}{101535}Oh, boy.
+{101609}{101638}Summer.
+{101729}{101774}- We're hot to go.|- Yes.
+{101817}{101849}What about Jack?
+{102217}{102281}T-minus 10 minutes.
+{102512}{102575}You got to drop me off here|and take the kids someplace safe.
+{102577}{102629}- We're not leaving you.|- Well, then, wait here.
+{102631}{102685}At least do that. Wait for me.|Let me talk to my brother.
+{102687}{102716}This is between him and me.
+{102718}{102748}But we're family.
+{102750}{102809}Believe me. I know what I'm doing.
+{102939}{102985}I know what I'm doing.
+{103030}{103076}Yeah.
+{103291}{103343}What am I doing?
+{103412}{103471}Mr Pibb, Jack's out there all alone.
+{103473}{103548}He needs our help.|Will you distract Concussion?
+{103554}{103584}Please?
+{104094}{104123}Connor.
+{104177}{104218}My God, it is you.
+{104245}{104306}Connor, it's me, Jack. It's Jack.
+{104326}{104375}Nobody wants to fight you.
+{104397}{104440}I just want to talk.
+{104546}{104573}Wow.
+{104597}{104645}- You got old, little brother.|- Yeah.
+{104647}{104718}Well, I guess I didn't have the advantage of
+{104720}{104781}living large in some dimensional rift|where I don't age...
+{104783}{104840}Living large? Try alone.
+{104845}{104906}Conscious only of being betrayed by you|in that living hell.
+{104908}{104941}Betrayed? You took out the whole team.
+{104943}{105012}You shouldn't have tried to stop me, Jackie.
+{105014}{105043}Jackie?
+{105058}{105130}What did Mom tell you|about calling me Jackie?
+{105338}{105376}That was good.
+{105378}{105435}Boy, that... That smarts.
+{105516}{105585}Well, you certainly haven't|lost your touch, brother.
+{105587}{105633}Have you lost your powers, Jack?
+{105635}{105664}Well...
+{105999}{106053}You've got to stop doing that.
+{106097}{106153}You have lost your powers, Jack.
+{106157}{106225}Boy. Hey, are those new boots?
+{106241}{106352}When you say lost my powers,|I think if I really looked, I could find them.
+{106466}{106528}This is even better than I expected.
+{106628}{106693}Load up the sonic net and prepare to fire.
+{106749}{106825}This is it, Jack. I've waited 30 years for this.
+{106935}{106962}Pibb?
+{106990}{107017}Pibb?
+{107021}{107118}Wow. They must have really dragged you|out of the mothballs, huh?
+{107255}{107284}Steady.
+{107321}{107385}Well, hope you got an army behind you.
+{107545}{107597}Or a tiny girl in pigtails.
+{107618}{107657}What is this, "Attack of the Pre-schoolers"?
+{107659}{107715}These kids, they don't know what they're|doing, Connor. This is between you and me.
+{107717}{107757}- So this is the new team, huh?|- Cindy, go back.
+{107759}{107848}You just run up to the big bad guy|all willy-nilly now? Is that how it goes?
+{107850}{107877}Fire.
+{108094}{108147}- Cindy, run.|- No, no.
+{108149}{108175}Zoom!
+{108337}{108381}Cindy, are you okay?
+{108389}{108475}Cindy, you're safe now.|You're okay. It's me. It's Jack.
+{108477}{108532}Please, Cindy, don't do this to me.
+{108534}{108595}You're all right. Come on, Princess.
+{108655}{108708}Princess? That's me.
+{108746}{108806}Mr Shepard, you moved so fast.
+{108893}{108927}Yes, I did.
+{109064}{109129}I knew it.|I knew you hadn't lost your powers.
+{109131}{109183}Guess I just needed a reason to use them.
+{109185}{109244}Jack, I'm sorry. You were right, man.|We weren't ready.
+{109246}{109304}Yeah, yeah. Come on.|You read the comic books.
+{109306}{109371}Superhero secret, first plan never works.
+{109373}{109429}Is that it? Is that all you got?
+{109439}{109489}Not by a long shot, sonny-boy.
+{109559}{109622}Stand back. No, no, no.|Everybody, get back.
+{109661}{109731}Load up the second net and prepare to fire.
+{109733}{109785}That's a fantastic idea, sir.
+{109787}{109833}I wish we had a second net.
+{109835}{109896}Why, you fumbling, bumbling bozo.
+{110152}{110226}Okay, all right. You guys, wait right here.
+{110234}{110300}I'll be back in a second, give or take.
+{111017}{111058}Just like riding a bike.
+{111261}{111338}Is that it?|Is there anyone else who can face me?
+{111344}{111446}- I'm still standing here, you little twerp.|- Sir, I wouldn't do that.
+{111499}{111539}What's that sound?
+{111604}{111648}- Hey, it's...|- Jackie.
+{111781}{111812}Actually,
+{111833}{111865}it's Zoom.
+{111871}{111937}- Suit looks good.|- Nice suit, lizard-boy.
+{112039}{112078}Let's play ball.
+{112413}{112455}- Zoom.|- Hey.
+{112538}{112622}Hey, Connor.|You kind of suck at this, don't you, dude?
+{113302}{113353}Oh, no. He's going to miss.
+{113665}{113745}Zoom. We have a chance to save him.
+{113760}{113817}You must close the vortex.
+{113840}{113899}Must save Connor.
+{114431}{114477}No.
+{114597}{114626}Connor.
+{115083}{115151}Connor, the vortex worked this time.
+{115180}{115245}Maybe you can use your powers for good.
+{115293}{115323}I'm sorry, Jack.
+{115325}{115391}Give your little brother a hug. Come on.
+{115397}{115442}Yeah. I got my brother back.
+{115444}{115495}- We did it.|- Now that's what I call teamwork.
+{115497}{115563}This is Connor. This is Dylan. Come on.
+{115566}{115622}Welcome to the family, brother.
+{115640}{115666}This is Marsha.
+{115668}{115705}- Nice to meet you.|- You, too.
+{115707}{115756}- Hi. What's your name?|- Cindy.
+{115759}{115796}- Cindy.|- Hey. Summer.
+{115827}{115890}- I'm Tucker. How's it going?|- Tucker, hi.
+{115937}{115979}Somebody's going to have to drive|on the way back. We've got the...
+{115981}{116018}Can I? Can I drive?
+{116020}{116061}- Can she drive?|- Yeah, she can drive.
+{116063}{116119}We got the FE-12 running again.|Remember the old saucer from back then?
+{116121}{116184}Oh, yeah. Where is it? Out there? Oh, yeah.
+{116190}{116227}Hold it, Zoom.
+{116354}{116381}What?
+{116406}{116446}What are you going to do now?
+{116448}{116525}You know us heroes.|We always do the right thing.
+{116563}{116622}Come on, Grant. We got work to do.
+{116845}{116942}Rapunzel, Rapunzel, let down your hair.
+{116950}{116996}It's Princess Rapunzel.
+{117000}{117030}Whatever.
+{117542}{117569}Whoa.
+{117606}{117639}My prince.
+{117796}{117838}That's my Princess.
+{118869}{118897}Ready.
+{118920}{118950}Go, red.
+{118963}{119028}Go, white. Go, red.
+{119046}{119097}Fight. Fight. Fight.
+{120221}{120312}And so, Zoom was reunited with his brother
+{120325}{120371}and a new Zenith team.
+{120401}{120449}But they were more than a team.
+{120451}{120497}They were a family.
+{120529}{120572}Team Zenith.
+{120920}{120948}Marker.
+{120950}{120981}I'll try one time bigger.
+{120983}{121027}- No, I'm kidding.|- I'm kidding, I got it.
+{121029}{121080}I'm quicker than you think.
+{121129}{121189}We're funnier on TV.|Maybe it's the screen size.
+{121191}{121236}- Lf you went like this.|- Rolling.
+{121238}{121306}We like to poo in our pants
+{121319}{121360}We like to poo in our pants
+{121362}{121404}That's not in the script.
+{121430}{121479}Look, dude, I don't know.
+{121561}{121654}- I apologise.|- No, I want to do it just like that.
+{121666}{121707}These... Have a sensitive condition?
+{121709}{121758}Who knows? You're the one|who's supposed to say the stuff.
+{121760}{121831}You're the one on camera.|Who cares about me? Shut up. I'll do it.
+{121833}{121883}These children have a... Are in a...
+{121885}{121924}All right. Sorry.
+{121974}{122075}And you want these little lunatics|to be like me?
+{122130}{122172}Now I've forgotten exactly what to say
+{122174}{122235}because I was so in love with Courteney|for just a moment.
+{122237}{122264}Where's Matt LeBlanc?
+{122266}{122292}Everybody.
+{122294}{122356}We like to poo in our pants
+{122371}{122441}We like to poo in our pants

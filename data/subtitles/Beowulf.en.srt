@@ -1,0 +1,3679 @@
+1
+00:01:31,323 --> 00:01:37,671
+Hrothgar! Hrothgar! Hrothgar!
+Hrothgar! Hrothgar! Hrothgar!
+
+2
+00:01:39,064 --> 00:01:41,265
+I want mead!
+
+3
+00:01:41,266 --> 00:01:43,678
+Give me some mead, my Queen!
+
+4
+00:01:48,707 --> 00:01:53,122
+Thank you, my beautiful Queen.
+
+5
+00:01:57,483 --> 00:02:00,293
+Hrothgar! Hrothgar! Hrothgar!
+
+6
+00:02:04,590 --> 00:02:06,925
+This is how it works, Aesher.
+
+7
+00:02:06,926 --> 00:02:10,662
+After you die,
+you wouldn't really be dead
+
+8
+00:02:10,663 --> 00:02:15,578
+providing you have accepted him
+as the one and only God.
+
+9
+00:02:26,546 --> 00:02:29,049
+All right, back! Back!
+
+10
+00:02:51,472 --> 00:02:53,239
+Here, my beauty, give me a kiss.
+
+11
+00:02:53,240 --> 00:02:56,175
+I want a kiss! Give me a kiss!
+I want a kiss!
+
+12
+00:02:56,176 --> 00:02:58,349
+Please, stop it!
+
+13
+00:03:03,283 --> 00:03:04,454
+More!
+
+14
+00:03:07,020 --> 00:03:10,490
+My thanes, my beautiful thanes!
+
+15
+00:03:10,491 --> 00:03:13,826
+One year ago, I, Hrothgar, your King
+
+16
+00:03:13,827 --> 00:03:16,763
+swore that we would
+celebrate our victories
+
+17
+00:03:16,764 --> 00:03:20,336
+in a new hall, mighty and beautiful!
+
+18
+00:03:21,002 --> 00:03:24,571
+Have I not kept my oath? Yeah.
+
+19
+00:03:24,572 --> 00:03:29,843
+In this hall, we shall divide
+the spoils of our conquests,
+
+20
+00:03:29,844 --> 00:03:32,246
+the gold and the treasure.
+
+21
+00:03:32,247 --> 00:03:37,423
+And this shall be a place of merriment,
+joy, and fornication!
+
+22
+00:03:42,023 --> 00:03:48,098
+From now until the end of time,
+I name this hall Herot!
+
+23
+00:03:50,632 --> 00:03:54,011
+Treasure!
+Let's hand out some treasure!
+
+24
+00:03:55,470 --> 00:03:57,104
+Give me some of that!
+
+25
+00:03:57,105 --> 00:03:58,778
+From my conquests!
+
+26
+00:04:00,543 --> 00:04:02,410
+Unferth!
+
+27
+00:04:02,411 --> 00:04:08,149
+For Unferth, for Unferth,
+my wisest advisor,
+
+28
+00:04:08,150 --> 00:04:14,489
+violator of virgins
+and best and bravest of brave brawlers.
+
+29
+00:04:14,490 --> 00:04:19,427
+Unferth, where the hell are you,
+you weasel-faced bastard?
+
+30
+00:04:19,428 --> 00:04:21,771
+I'm here, my King.
+
+31
+00:04:22,965 --> 00:04:26,378
+Unferth, come here, you ungrateful lout!
+
+32
+00:04:38,347 --> 00:04:44,253
+<i>♪ Hrothgar! Hrothgar! Hrothgar!
+Hrothgar! Hrothgar! Hrothgar! ♪</i>
+
+33
+00:04:44,254 --> 00:04:48,357
+<i>♪ He faced a demon dragon
+When other men would freeze ♪</i>
+
+34
+00:04:48,358 --> 00:04:52,361
+<i>♪ And then, my lords, he took his sword
+And brought it to its knees... ♪</i>
+
+35
+00:04:52,362 --> 00:04:54,263
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+36
+00:04:54,264 --> 00:04:56,869
+<i>♪ The greatest of our kings ♪</i>
+
+37
+00:04:58,134 --> 00:05:00,705
+<i>♪ He broke the dragon's wings ♪</i>
+
+38
+00:05:01,404 --> 00:05:03,440
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+39
+00:05:04,140 --> 00:05:08,444
+<i>♪ The kingdom fell in darkness
+And shadows ruled the night ♪</i>
+
+40
+00:05:08,445 --> 00:05:12,481
+<i>♪ With no sign of dawn, he soldiered on
+And brought us back to life ♪</i>
+
+41
+00:05:12,482 --> 00:05:14,383
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+42
+00:05:14,384 --> 00:05:16,352
+<i>♪ He never shook your faith ♪</i>
+
+43
+00:05:16,353 --> 00:05:18,187
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+44
+00:05:18,188 --> 00:05:20,862
+<i>♪ Let every cup be raised ♪</i>
+
+45
+00:05:21,325 --> 00:05:24,169
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+46
+00:06:32,397 --> 00:06:36,400
+<i>♪ He offered us protection
+When monsters roamed the land ♪</i>
+
+47
+00:06:36,401 --> 00:06:40,576
+<i>♪ And one by one, he took them on
+They perished at his hand ♪</i>
+
+48
+00:06:41,840 --> 00:06:43,546
+Mead!
+
+49
+00:06:44,444 --> 00:06:45,945
+Mead!
+
+50
+00:06:46,813 --> 00:06:48,346
+Mead!
+
+51
+00:06:48,347 --> 00:06:52,284
+You're spilling it. Where's my mead?
+You're spilling it.
+
+52
+00:06:52,285 --> 00:06:54,094
+You're spilling it!
+
+53
+00:06:54,987 --> 00:06:57,189
+Cain, you clumsy idiot!
+
+54
+00:06:57,190 --> 00:06:59,829
+How dare you waste the King's mead?
+
+55
+00:07:09,502 --> 00:07:13,472
+<i>♪ He rose up like a savior
+When every hope was gone ♪</i>
+
+56
+00:07:13,473 --> 00:07:15,540
+<i>♪ The beast was gored
+and peace restored ♪</i>
+
+57
+00:07:15,541 --> 00:07:17,509
+<i>♪ His memory will live on ♪</i>
+
+58
+00:07:17,510 --> 00:07:19,244
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+59
+00:07:19,245 --> 00:07:21,446
+<i>♪ Let every cup be raised ♪</i>
+
+60
+00:07:21,447 --> 00:07:23,181
+<i>♪ Hrothgar! Hrothgar! ♪</i>
+
+61
+00:07:23,182 --> 00:07:25,959
+<i>♪ Now and forever ♪</i>
+
+62
+00:08:48,102 --> 00:08:50,776
+A sword! Give me a sword!
+
+63
+00:08:57,947 --> 00:08:59,949
+Come! Arm yourselves!
+
+64
+00:09:02,017 --> 00:09:03,894
+Stay down, my Lady!
+
+65
+00:09:20,603 --> 00:09:22,776
+- Give me a sword! A sword!
+- My Lord!
+
+66
+00:10:08,051 --> 00:10:09,757
+No!
+
+67
+00:10:43,688 --> 00:10:44,962
+Fight me!
+
+68
+00:10:46,457 --> 00:10:47,765
+Fight me!
+
+69
+00:10:51,929 --> 00:10:53,305
+Fight me.
+
+70
+00:11:36,909 --> 00:11:39,412
+You fight me, damn you.
+
+71
+00:11:41,514 --> 00:11:42,685
+Nay.
+
+72
+00:12:28,962 --> 00:12:31,237
+What was that?
+
+73
+00:12:34,201 --> 00:12:35,805
+Grendel.
+
+74
+00:12:45,412 --> 00:12:48,984
+Grendel, what have you done?
+
+75
+00:12:50,184 --> 00:12:53,426
+What have you done, Grendel?
+
+76
+00:12:55,602 --> 00:12:57,394
+Mother...?
+
+77
+00:13:00,562 --> 00:13:03,931
+Fish and wolf and bear
+
+78
+00:13:03,932 --> 00:13:06,033
+and sheep or two,
+
+79
+00:13:06,034 --> 00:13:08,275
+but not men.
+
+80
+00:13:10,599 --> 00:13:14,602
+Men? They are small.
+
+81
+00:13:17,856 --> 00:13:19,898
+Here...
+
+82
+00:13:21,082 --> 00:13:22,822
+Men, Grendel.
+
+83
+00:13:23,785 --> 00:13:26,993
+They have slain so many of our kind.
+
+84
+00:13:31,095 --> 00:13:32,846
+Men...
+
+85
+00:13:33,014 --> 00:13:35,724
+...they screamed!
+
+86
+00:13:37,060 --> 00:13:41,063
+The men bellowed and screamed!
+
+87
+00:13:41,230 --> 00:13:44,900
+The men hurt me,
+
+88
+00:13:45,068 --> 00:13:49,446
+they hurt my head,
+
+89
+00:13:50,114 --> 00:13:57,000
+hurt my ear...
+
+90
+00:13:59,922 --> 00:14:02,993
+Was Hrothgar there?
+
+91
+00:14:09,926 --> 00:14:14,012
+I did not hurt him, no.
+
+92
+00:14:14,180 --> 00:14:15,824
+Good...
+
+93
+00:14:15,871 --> 00:14:18,206
+Good boy.
+
+94
+00:14:18,207 --> 00:14:20,050
+And tender.
+
+95
+00:14:21,562 --> 00:14:23,897
+Mother...
+
+96
+00:14:33,290 --> 00:14:36,559
+Men, build another pyre!
+
+97
+00:14:36,560 --> 00:14:39,128
+There's dry wood behind the stables.
+
+98
+00:14:39,129 --> 00:14:41,263
+Then burn the dead.
+
+99
+00:14:41,264 --> 00:14:44,967
+And seal the hall!
+Close the doors and the windows.
+
+100
+00:14:44,968 --> 00:14:46,735
+And by the King's order,
+
+101
+00:14:46,736 --> 00:14:50,206
+there should be no singing
+or merrymaking of any kind.
+
+102
+00:14:51,341 --> 00:14:53,411
+This place reeks of death.
+
+103
+00:14:55,378 --> 00:14:58,113
+The scops are singing
+the shame of Herot
+
+104
+00:14:58,114 --> 00:15:02,952
+as far south as the middle kingdom
+and as far north as the ice-lands.
+
+105
+00:15:02,953 --> 00:15:06,289
+I've let it be known that
+I will give half the gold in my kingdom
+
+106
+00:15:06,290 --> 00:15:08,892
+to any man who can rid us of Grendel.
+
+107
+00:15:08,893 --> 00:15:10,660
+My King, for deliverance
+
+108
+00:15:10,661 --> 00:15:15,398
+our people sacrifice goats and sheep
+to Odin and Heimdall.
+
+109
+00:15:15,399 --> 00:15:17,567
+With your permission,
+
+110
+00:15:17,568 --> 00:15:22,105
+shall we also pray
+to the new Roman god, Christ Jesus?
+
+111
+00:15:22,106 --> 00:15:25,018
+Perhaps he can lift our affliction.
+
+112
+00:15:26,711 --> 00:15:28,986
+No, Unferth, no.
+
+113
+00:15:29,447 --> 00:15:33,617
+No, the gods will do nothing for us
+that we will not do for ourselves.
+
+114
+00:15:33,618 --> 00:15:35,153
+What we need is a hero.
+
+115
+00:15:42,893 --> 00:15:44,667
+Hold your oars up!
+
+116
+00:15:47,332 --> 00:15:48,902
+And heave!
+
+117
+00:15:52,471 --> 00:15:56,073
+Can you see the coast?
+Can you see the Danes' guide-fire?
+
+118
+00:15:56,074 --> 00:15:59,343
+I see nothing but the wind and the rain!
+
+119
+00:15:59,344 --> 00:16:02,480
+No fire, no stars by which to navigate.
+
+120
+00:16:02,481 --> 00:16:05,383
+We're lost! Given to the sea!
+
+121
+00:16:05,384 --> 00:16:07,051
+The sea's my mother!
+
+122
+00:16:07,052 --> 00:16:10,055
+She'll never take me back
+to her murky womb.
+
+123
+00:16:20,165 --> 00:16:22,199
+My mother was a fishwife in Uppland.
+
+124
+00:16:22,200 --> 00:16:25,806
+I was rather hoping to die in battle
+as a warrior should!
+
+125
+00:16:28,374 --> 00:16:29,818
+Heave!
+
+126
+00:16:32,178 --> 00:16:35,591
+The men are worried
+the storm has no end, Beowulf.
+
+127
+00:16:36,215 --> 00:16:38,817
+It's no earthly storm,
+that much is for sure.
+
+128
+00:16:38,818 --> 00:16:42,287
+But this demon's tempest
+will not hold us out
+
+129
+00:16:42,288 --> 00:16:44,995
+if we really want in!
+
+130
+00:16:48,328 --> 00:16:50,128
+Who wants to live?
+
+131
+00:16:50,129 --> 00:16:51,730
+We do!
+
+132
+00:16:51,731 --> 00:16:55,500
+Then pull your oars! Let's see you do it!
+
+133
+00:16:55,501 --> 00:16:57,502
+For Beowulf!
+
+134
+00:16:57,503 --> 00:16:59,471
+For gold!
+
+135
+00:16:59,472 --> 00:17:00,814
+For glory!
+
+136
+00:17:22,429 --> 00:17:25,637
+Heave! Heave!
+
+137
+00:17:27,401 --> 00:17:30,245
+Heave! Heave!
+
+138
+00:17:40,647 --> 00:17:42,081
+Beowulf.
+
+139
+00:17:42,082 --> 00:17:43,561
+Hold fast!
+
+140
+00:17:45,419 --> 00:17:46,420
+No.
+
+141
+00:18:03,405 --> 00:18:07,474
+Who are you?
+From your dress, you are warriors.
+
+142
+00:18:07,475 --> 00:18:10,077
+Speak! Why should I
+not run you through right now?
+
+143
+00:18:10,078 --> 00:18:12,613
+We are Geats.
+
+144
+00:18:12,614 --> 00:18:15,287
+I am Beowulf, son of Ecgtheow.
+
+145
+00:18:16,718 --> 00:18:20,821
+We come seeking your Prince Hrothgar
+in friendship.
+
+146
+00:18:20,822 --> 00:18:23,957
+They say you have a monster here?
+
+147
+00:18:23,958 --> 00:18:26,427
+They say your lands are cursed.
+
+148
+00:18:26,428 --> 00:18:27,528
+Is that what they say?
+
+149
+00:18:27,529 --> 00:18:29,396
+Bards sing of Hrothgar's shame
+
+150
+00:18:29,397 --> 00:18:32,032
+from the frozen North
+to the shores of Vinland.
+
+151
+00:18:32,033 --> 00:18:33,902
+There's no shame
+to be accursed by demons!
+
+152
+00:18:33,903 --> 00:18:38,249
+I am Beowulf!
+And I am here to kill your monster.
+
+153
+00:18:41,076 --> 00:18:43,711
+I thought there were no more heroes
+foolish enough
+
+154
+00:18:43,712 --> 00:18:46,281
+to come around here
+and die for our gold.
+
+155
+00:18:46,282 --> 00:18:51,231
+If we die, it'll be for
+glory, not for gold.
+
+156
+00:19:03,666 --> 00:19:05,533
+My Lord?
+
+157
+00:19:05,534 --> 00:19:09,003
+My Lord?
+There are warriors outside. Geats.
+
+158
+00:19:09,004 --> 00:19:10,472
+But they are no beggars,
+
+159
+00:19:10,473 --> 00:19:12,140
+and their leader Beowulf
+is an imposing...
+
+160
+00:19:12,141 --> 00:19:14,484
+Beowulf? Ecgtheow's little boy?
+
+161
+00:19:15,545 --> 00:19:17,313
+Beowulf. Where is he? Where?
+
+162
+00:19:17,314 --> 00:19:20,056
+There you are.
+Beowulf, welcome, my boy.
+
+163
+00:19:21,017 --> 00:19:24,453
+Welcome. Yes. How's your father?
+
+164
+00:19:24,454 --> 00:19:25,955
+Dead.
+
+165
+00:19:25,956 --> 00:19:29,091
+Died in battle with sea-raiders
+two winters back.
+
+166
+00:19:29,092 --> 00:19:31,093
+Well, he was a brave man.
+
+167
+00:19:31,094 --> 00:19:34,029
+May I ask why you have come to us
+from across the sea?
+
+168
+00:19:34,030 --> 00:19:36,305
+I've come to kill your monster.
+
+169
+00:19:37,601 --> 00:19:40,903
+And to taste that famous mead of yours.
+
+170
+00:19:40,904 --> 00:19:45,318
+There have been many brave men
+who have come to taste my Lord's mead
+
+171
+00:19:47,244 --> 00:19:51,715
+and many who have sworn
+to rid his hall of our nightmare.
+
+172
+00:19:52,716 --> 00:19:56,553
+But in the morning,
+there was nothing left of any of them
+
+173
+00:19:56,554 --> 00:19:59,296
+but blood to be cleaned from the floor
+
+174
+00:19:59,957 --> 00:20:02,937
+and the benches, and the walls.
+
+175
+00:20:08,566 --> 00:20:12,479
+I have drunk nothing, yet.
+
+176
+00:20:14,171 --> 00:20:17,073
+But I will kill your monster.
+
+177
+00:20:17,074 --> 00:20:22,212
+He will kill the monster.
+Did you hear that? Grendel will die.
+
+178
+00:20:22,213 --> 00:20:25,319
+- Grendel?
+- Yeah, the monster is called Grendel.
+
+179
+00:20:26,651 --> 00:20:29,653
+Then I will kill your Grendel.
+
+180
+00:20:29,654 --> 00:20:33,957
+I, Beowulf,
+killed a tribe of giants on the Orkneys,
+
+181
+00:20:33,958 --> 00:20:37,227
+crushed the skulls of sea-serpents,
+
+182
+00:20:37,228 --> 00:20:42,266
+and this troll of yours
+will trouble you no more.
+
+183
+00:20:42,267 --> 00:20:46,070
+A hero! A hero!
+I knew the sea would bring us a hero!
+
+184
+00:20:46,071 --> 00:20:49,540
+So will you go up to the moors,
+to the dark pool by the cave
+
+185
+00:20:49,541 --> 00:20:51,475
+and kill the monster in its den?
+
+186
+00:20:51,476 --> 00:20:56,550
+I have 14 brave thanes with me.
+We have been long at sea.
+
+187
+00:20:58,584 --> 00:21:03,788
+It is high time, mighty Hrothgar,
+to break open your golden mead
+
+188
+00:21:03,789 --> 00:21:05,656
+famed across the world
+
+189
+00:21:05,657 --> 00:21:10,328
+and to feast
+in your legendary mead hall.
+
+190
+00:21:10,329 --> 00:21:14,065
+The mead hall has been sealed
+by his Lord's order.
+
+191
+00:21:14,066 --> 00:21:17,945
+Merrymaking in the hall
+brings the devil, Grendel.
+
+192
+00:21:21,774 --> 00:21:23,218
+Well, then.
+
+193
+00:21:24,277 --> 00:21:26,984
+Open the mead hall! Let's drink!
+
+194
+00:22:08,122 --> 00:22:10,966
+We don't want any trouble
+with the locals.
+
+195
+00:22:11,925 --> 00:22:16,362
+Hondshew, make me feel
+you're pretending to listen to me.
+
+196
+00:22:16,363 --> 00:22:18,931
+It's only been five days
+since you waved your wife goodbye.
+
+197
+00:22:18,932 --> 00:22:23,403
+Five days? In the name of Odin,
+no wonder my loins are burning!
+
+198
+00:22:28,676 --> 00:22:31,077
+Beowulf, there you are.
+
+199
+00:22:31,078 --> 00:22:34,113
+I was thinking about your father.
+Great man.
+
+200
+00:22:34,114 --> 00:22:35,515
+He was fleeing the Wulfings
+
+201
+00:22:35,516 --> 00:22:38,117
+and he'd killed one of them
+with his bare hands.
+
+202
+00:22:38,118 --> 00:22:41,120
+- Heatholaf.
+- That's it, yeah. That's right.
+
+203
+00:22:41,121 --> 00:22:45,993
+I paid the blood debt for your father,
+and he swore his oath to me.
+
+204
+00:22:45,994 --> 00:22:50,067
+So I saved his skin,
+and you're here to save ours, that right?
+
+205
+00:22:57,505 --> 00:23:00,941
+All hail the great Beowulf,
+
+206
+00:23:00,942 --> 00:23:05,652
+come to save
+our pathetic Danish skins, eh?
+
+207
+00:23:06,948 --> 00:23:11,852
+And we are so damned grateful,
+mighty Beowulf.
+
+208
+00:23:11,853 --> 00:23:17,803
+But can I ask a question,
+as a huge admirer of yours?
+
+209
+00:23:24,499 --> 00:23:28,470
+There was another Beowulf
+I heard tell of
+
+210
+00:23:28,471 --> 00:23:33,443
+who challenged Brecca the Mighty to
+a swimming race out on the open sea.
+
+211
+00:23:35,244 --> 00:23:36,711
+Was that you?
+
+212
+00:23:36,712 --> 00:23:38,919
+I swam against Brecca.
+
+213
+00:23:43,919 --> 00:23:48,256
+Because I thought
+it had to be a different Beowulf,
+
+214
+00:23:48,257 --> 00:23:51,226
+someone else of the same name.
+
+215
+00:23:51,227 --> 00:23:55,697
+Because, you see,
+the Beowulf I heard of
+
+216
+00:23:55,698 --> 00:23:59,373
+swam against Brecca and lost.
+
+217
+00:24:00,102 --> 00:24:04,339
+He risked his life and Brecca's
+
+218
+00:24:04,340 --> 00:24:07,843
+to serve his own vanity and pride.
+
+219
+00:24:07,844 --> 00:24:10,347
+A boastful fool.
+
+220
+00:24:11,014 --> 00:24:13,323
+And he lost!
+
+221
+00:24:14,551 --> 00:24:18,260
+So I thought it had to be someone else.
+
+222
+00:24:21,558 --> 00:24:24,061
+I swam against Brecca.
+
+223
+00:24:24,928 --> 00:24:29,198
+But victory was his, not yours.
+
+224
+00:24:29,199 --> 00:24:34,341
+A mighty warrior who cannot even
+win a swimming match!
+
+225
+00:24:35,872 --> 00:24:38,113
+Speaking only for myself here,
+
+226
+00:24:39,743 --> 00:24:44,046
+not only do I doubt that you will be
+able to stand for a moment
+
+227
+00:24:44,047 --> 00:24:45,748
+against Grendel,
+
+228
+00:24:45,749 --> 00:24:50,995
+I doubt that you will even have the belly
+to stay in the hall all night.
+
+229
+00:24:55,159 --> 00:24:58,731
+I find it difficult to argue with a drunk.
+
+230
+00:25:01,799 --> 00:25:05,940
+But it's true, I did not win the race.
+
+231
+00:25:07,004 --> 00:25:11,441
+We swam for five days, neck and neck.
+
+232
+00:25:11,442 --> 00:25:15,545
+I was conserving my strength
+for the final stretch
+
+233
+00:25:15,546 --> 00:25:18,549
+when this storm blew up
+
+234
+00:25:19,317 --> 00:25:22,423
+and with it came sea monsters.
+
+235
+00:25:36,201 --> 00:25:40,104
+Again and again, the monsters attacked!
+
+236
+00:25:40,105 --> 00:25:43,711
+Dark things from the sea's depths.
+
+237
+00:25:51,984 --> 00:25:57,154
+I hacked and I lashed
+at these foul beasts with my sword,
+
+238
+00:25:57,155 --> 00:25:59,760
+spilling their guts into the sea.
+
+239
+00:26:10,369 --> 00:26:13,874
+Beowulf!
+
+240
+00:26:21,114 --> 00:26:26,359
+Then one of them seized me by its jaws
+
+241
+00:26:30,023 --> 00:26:32,264
+and dragged me to the bottom.
+
+242
+00:26:58,786 --> 00:27:03,234
+I killed the monster with my own blade
+
+243
+00:27:04,458 --> 00:27:07,632
+and I plunged it into its heart.
+
+244
+00:27:09,964 --> 00:27:12,967
+Yes, of course. The sea monsters.
+
+245
+00:27:14,168 --> 00:27:17,444
+And you killed, what was it? 20?
+
+246
+00:27:19,373 --> 00:27:20,874
+Nine.
+
+247
+00:27:21,875 --> 00:27:23,409
+Last time it were three.
+
+248
+00:27:23,410 --> 00:27:27,289
+But would you do me the honor
+of telling me your name?
+
+249
+00:27:30,484 --> 00:27:34,056
+I am Unferth, son of Ecglaf.
+
+250
+00:27:35,223 --> 00:27:38,533
+Unferth, son of Ecglaf.
+
+251
+00:27:40,729 --> 00:27:42,299
+I know who you are.
+
+252
+00:27:43,932 --> 00:27:47,167
+They say you killed both your brothers
+
+253
+00:27:47,168 --> 00:27:51,047
+when you witnessed them
+having knowledge of your mother.
+
+254
+00:27:52,273 --> 00:27:56,643
+I have another true thing to tell you,
+Unferth Kinslayer.
+
+255
+00:27:56,644 --> 00:28:01,215
+If your strength and heart
+was as strong and fierce as your words,
+
+256
+00:28:01,216 --> 00:28:04,585
+Grendel would not feel free to murder
+and gorge on your people
+
+257
+00:28:04,586 --> 00:28:06,954
+without fear of retaliation.
+
+258
+00:28:06,955 --> 00:28:09,390
+Tonight will be different!
+
+259
+00:28:09,391 --> 00:28:14,306
+Tonight, he will find Geats waiting
+for him, not frightened sheep
+
+260
+00:28:20,202 --> 00:28:21,840
+like you.
+
+261
+00:28:27,043 --> 00:28:28,453
+Well done!
+
+262
+00:28:30,813 --> 00:28:35,550
+That's the spirit, Beowulf.
+That's the spirit we need.
+
+263
+00:28:35,551 --> 00:28:38,622
+So you will kill my Grendel for me,
+will you?
+
+264
+00:28:42,058 --> 00:28:47,769
+Well, let's all drink in celebration
+of the kill that is to come.
+
+265
+00:28:56,906 --> 00:29:01,110
+<i>♪ Lips ripe as the berries in June ♪</i>
+
+266
+00:29:01,111 --> 00:29:05,214
+<i>♪ Red the rose, red the rose ♪</i>
+
+267
+00:29:05,215 --> 00:29:09,585
+<i>♪ Skin pale as the light of the moon ♪</i>
+
+268
+00:29:09,586 --> 00:29:13,192
+<i>♪ Gently as she goes ♪</i>
+
+269
+00:29:13,957 --> 00:29:15,724
+<i>♪ Eyes blue as the sea and the sky ♪</i>
+
+270
+00:29:15,725 --> 00:29:18,227
+Beowulf. Come.
+
+271
+00:29:18,228 --> 00:29:20,296
+<i>♪ Water flows, water flows ♪</i>
+
+272
+00:29:20,297 --> 00:29:22,364
+Come with me.
+I want to show you something.
+
+273
+00:29:22,365 --> 00:29:26,569
+<i>♪ Heart burning like fire in the night ♪</i>
+
+274
+00:29:26,570 --> 00:29:30,176
+<i>♪ Gently as she goes ♪</i>
+
+275
+00:29:35,045 --> 00:29:36,216
+Come.
+
+276
+00:29:40,852 --> 00:29:42,058
+There.
+
+277
+00:29:42,887 --> 00:29:44,991
+The Royal Dragon Horn.
+
+278
+00:29:48,426 --> 00:29:51,128
+It is beautiful.
+
+279
+00:29:51,129 --> 00:29:53,230
+Isn't it magnificent?
+
+280
+00:29:53,231 --> 00:29:55,699
+She's the prize of my treasure.
+
+281
+00:29:55,700 --> 00:30:00,770
+I claimed her after my battle with Fafnir,
+the dragon of the Northern moors.
+
+282
+00:30:00,771 --> 00:30:02,910
+Nearly cost me my life.
+
+283
+00:30:03,741 --> 00:30:08,378
+And there's a soft spot
+under the throat, there.
+
+284
+00:30:08,379 --> 00:30:11,883
+See? You have to go in
+with a knife or a dagger.
+
+285
+00:30:15,853 --> 00:30:18,560
+It's the only way you can kill a dragon.
+
+286
+00:30:19,891 --> 00:30:24,898
+I wonder how many men
+have died for love of her beauty.
+
+287
+00:30:26,131 --> 00:30:27,871
+Can you blame them?
+
+288
+00:30:28,433 --> 00:30:31,436
+If you destroy my Grendel for me,
+
+289
+00:30:32,404 --> 00:30:37,478
+she'll be yours forever
+and ever and ever.
+
+290
+00:30:39,478 --> 00:30:41,958
+You do me great honor.
+
+291
+00:30:43,682 --> 00:30:45,684
+It is we who are honored.
+
+292
+00:31:07,640 --> 00:31:09,074
+Is that your demon?
+
+293
+00:31:09,075 --> 00:31:11,877
+That was a wolf.
+You don't hear Grendel when he comes.
+
+294
+00:31:11,878 --> 00:31:14,913
+No? Well, you'll hear me, I promise.
+
+295
+00:31:14,914 --> 00:31:19,051
+Come on, my mighty lust limb
+can transport you to paradise,
+
+296
+00:31:19,052 --> 00:31:20,619
+to ecstasy and back.
+
+297
+00:31:20,620 --> 00:31:23,589
+No other man
+will ever be able to satisfy you again.
+
+298
+00:31:23,590 --> 00:31:25,357
+- Sorry.
+- Come on!
+
+299
+00:31:25,358 --> 00:31:27,893
+- I said no and I meant no.
+- Why not?
+
+300
+00:31:27,894 --> 00:31:32,331
+Because it's late and it's dark and the
+monster could arrive at any moment!
+
+301
+00:31:32,332 --> 00:31:35,074
+Well, then, how about a quick gobble?
+
+302
+00:31:40,473 --> 00:31:43,642
+The hour is upon us.
+
+303
+00:31:43,643 --> 00:31:46,818
+This old man needs his sleep.
+
+304
+00:31:47,514 --> 00:31:51,427
+Where's my beautiful bedmate?
+Come, my love.
+
+305
+00:31:53,921 --> 00:31:55,422
+In a moment.
+
+306
+00:31:56,190 --> 00:31:59,535
+Come, Wealthow,
+let us pound the pillows.
+
+307
+00:32:00,327 --> 00:32:01,897
+Don't touch me!
+
+308
+00:32:03,797 --> 00:32:05,901
+That's the spirit, my girl.
+
+309
+00:32:06,667 --> 00:32:08,009
+My Lord!
+
+310
+00:32:12,906 --> 00:32:17,777
+Perhaps Her Majesty
+could grace our ears
+
+311
+00:32:17,778 --> 00:32:22,420
+with one more melody
+before we all retire?
+
+312
+00:32:27,756 --> 00:32:29,735
+It's the least I can do.
+
+313
+00:32:37,332 --> 00:32:41,473
+Beowulf, I'll hope to see you
+in the morning, Odin willing.
+
+314
+00:32:42,337 --> 00:32:46,444
+And make sure
+your thanes secure the doors.
+
+315
+00:32:47,942 --> 00:32:50,445
+Good night. Good night.
+
+316
+00:32:52,814 --> 00:32:56,917
+Good night, Beowulf.
+Watch out for sea monsters.
+
+317
+00:32:56,918 --> 00:33:00,729
+I'm sure your imagination
+must be teeming with them.
+
+318
+00:33:08,630 --> 00:33:11,266
+<i>♪ Just wait ♪</i>
+
+319
+00:33:11,267 --> 00:33:14,269
+<i>♪ Though wide he may roam ♪</i>
+
+320
+00:33:14,270 --> 00:33:19,810
+<i>♪ Always a hero comes home ♪</i>
+
+321
+00:33:23,546 --> 00:33:29,317
+<i>♪ He goes where no one has gone ♪</i>
+
+322
+00:33:29,318 --> 00:33:34,233
+<i>♪ But always a hero comes home ♪</i>
+
+323
+00:33:54,411 --> 00:33:59,982
+<i>♪ He goes where no one has gone ♪</i>
+
+324
+00:33:59,983 --> 00:34:06,525
+<i>♪ But always a hero comes home ♪</i>
+
+325
+00:34:12,195 --> 00:34:15,198
+That was beautiful.
+
+326
+00:34:29,212 --> 00:34:31,658
+You need to go now, Your Majesty.
+
+327
+00:34:32,483 --> 00:34:34,485
+Of course. Grendel.
+
+328
+00:34:42,126 --> 00:34:44,561
+The demon is my husband's shame.
+
+329
+00:34:44,562 --> 00:34:47,235
+It's not a shame, it's a curse.
+
+330
+00:34:47,598 --> 00:34:49,805
+No, shame.
+
+331
+00:34:51,035 --> 00:34:54,311
+My husband has no other. No sons.
+
+332
+00:34:56,040 --> 00:34:58,208
+And he will have no more,
+for all his talk.
+
+333
+00:34:58,209 --> 00:35:01,378
+Oy, Hondshew. How was she?
+
+334
+00:35:01,379 --> 00:35:03,313
+Nah. Not my type.
+
+335
+00:35:03,314 --> 00:35:05,191
+I know your type.
+
+336
+00:35:13,224 --> 00:35:15,671
+Lord Beowulf, what are you doing?
+
+337
+00:35:16,628 --> 00:35:19,797
+The creature has no sword, no armor.
+
+338
+00:35:19,798 --> 00:35:23,334
+And I have no weapon
+capable of slaying a monster.
+
+339
+00:35:23,335 --> 00:35:25,703
+We shall fight as equals.
+
+340
+00:35:25,704 --> 00:35:27,740
+And fate
+
+341
+00:35:29,875 --> 00:35:31,581
+shall decide.
+
+342
+00:35:52,297 --> 00:35:54,868
+Good. Tie it off with more chain.
+
+343
+00:35:58,605 --> 00:36:00,584
+Enough frican' about!
+
+344
+00:36:10,350 --> 00:36:12,718
+You're mad, you know that?
+
+345
+00:36:12,719 --> 00:36:14,129
+Yes.
+
+346
+00:36:19,592 --> 00:36:22,663
+Something vexes you, my Wiglaf?
+
+347
+00:36:25,498 --> 00:36:28,410
+I don't like the smell of this one,
+my Lord.
+
+348
+00:36:29,602 --> 00:36:31,604
+The men are unprepared.
+
+349
+00:36:31,905 --> 00:36:33,975
+They're distracted.
+
+350
+00:36:34,641 --> 00:36:37,209
+Too many untended women here!
+
+351
+00:36:37,210 --> 00:36:40,021
+Abstinence prior to battle is essential!
+
+352
+00:36:42,716 --> 00:36:46,419
+A warrior's mind must be unblurred,
+my Lord.
+
+353
+00:36:46,420 --> 00:36:48,229
+Good night, Wiglaf.
+
+354
+00:36:52,893 --> 00:36:54,561
+And while you're sleeping,
+what're we meant to do?
+
+355
+00:36:54,562 --> 00:36:57,201
+Sing! Loudly!
+
+356
+00:37:00,634 --> 00:37:04,337
+Well, you heard him.
+He wants us to sing. So sing!
+
+357
+00:37:04,338 --> 00:37:05,908
+Olaf, sing!
+
+358
+00:37:10,644 --> 00:37:14,414
+<i>♪ There was a dozen virgins ♪</i>
+
+359
+00:37:14,415 --> 00:37:16,282
+<i>♪ Friesians, Danes and Franks ♪</i>
+
+360
+00:37:16,283 --> 00:37:20,254
+<i>♪ We took them for some swifan
+And all we got were wanks ♪</i>
+
+361
+00:37:20,255 --> 00:37:24,925
+<i>♪ Oh, we are Beowulf's army
+Each a mighty thane ♪</i>
+
+362
+00:37:24,926 --> 00:37:27,661
+<i>♪ We'll pummel your asses
+And ravage your lasses ♪</i>
+
+363
+00:37:27,662 --> 00:37:28,996
+<i>♪ Then do it all over again ♪</i>
+
+364
+00:37:28,997 --> 00:37:32,499
+<i>♪ The fattest of the virgins
+I knew her for a whore ♪</i>
+
+365
+00:37:32,500 --> 00:37:35,903
+<i>♪ I gave her all my codpiece
+And still she wanted more ♪</i>
+
+366
+00:37:35,904 --> 00:37:39,406
+<i>♪ Her sister was from Norway
+She cost me 20 groats ♪</i>
+
+367
+00:37:39,407 --> 00:37:42,943
+<i>♪ She showed me there was more ways
+Than one to sow my oats ♪</i>
+
+368
+00:37:42,944 --> 00:37:46,280
+<i>♪ Her mother was from Iceland
+And she was mighty hot ♪</i>
+
+369
+00:37:46,281 --> 00:37:50,058
+<i>♪ She'd need a whole damn iceberg
+To cool her burning... ♪</i>
+
+370
+00:37:55,090 --> 00:37:57,763
+Grendel. He knocks.
+
+371
+00:38:00,095 --> 00:38:03,732
+That must be my sweet plum, Yrsa.
+
+372
+00:38:03,733 --> 00:38:04,866
+She's ready for me
+to taste her juicy fruit.
+
+373
+00:38:04,867 --> 00:38:05,902
+My Lord.
+
+374
+00:38:08,838 --> 00:38:11,841
+Patience, patience, my love.
+
+375
+00:38:14,677 --> 00:38:17,054
+No! Hondshew! No!
+
+376
+00:38:28,524 --> 00:38:31,732
+Swife me! It's the frican' monster!
+
+377
+00:40:25,277 --> 00:40:28,053
+I swear, the bastard has no pintel!
+
+378
+00:41:09,155 --> 00:41:10,964
+- No pintel.
+- Aye.
+
+379
+00:41:33,080 --> 00:41:36,493
+- The demon shrinks!
+- It shrinks! It shrinks!
+
+380
+00:41:57,438 --> 00:42:00,475
+Demon!
+
+381
+00:42:39,748 --> 00:42:43,923
+Your bloodletting
+days are finished, demon!
+
+382
+00:42:45,640 --> 00:42:49,059
+I am not a demon.
+
+383
+00:42:49,090 --> 00:42:51,365
+It speaks. It speaks!
+
+384
+00:42:51,813 --> 00:42:55,273
+What are you?
+
+385
+00:42:55,331 --> 00:43:00,602
+I am ripper, tearer, slasher, gouger.
+
+386
+00:43:00,603 --> 00:43:04,606
+I am the teeth in the darkness,
+the talons in the night.
+
+387
+00:43:04,607 --> 00:43:08,076
+Mine is strength and lust and power!
+
+388
+00:43:08,077 --> 00:43:10,318
+I am Beowulf!
+
+389
+00:43:36,406 --> 00:43:38,010
+Grendel's arm!
+
+390
+00:43:39,276 --> 00:43:40,777
+You've done it!
+
+391
+00:43:43,080 --> 00:43:44,559
+He's done it!
+
+392
+00:43:45,248 --> 00:43:49,196
+He's torn the limbs from the beast!
+Beowulf has killed him!
+
+393
+00:43:51,154 --> 00:43:54,256
+- Hail, Beowulf!
+- Hail, Beowulf!
+
+394
+00:43:54,257 --> 00:43:57,059
+- Hail, Beowulf!
+- Hail, Beowulf!
+
+395
+00:43:57,060 --> 00:44:00,131
+- Hail, Beowulf!
+- Hail, Beowulf!
+
+396
+00:44:02,099 --> 00:44:05,170
+My Lord, Beowulf has killed the demon!
+
+397
+00:44:06,870 --> 00:44:08,713
+Odin be praised.
+
+398
+00:44:10,207 --> 00:44:13,711
+- Go tell the scops. Spread the word!
+- Yes, my Lord.
+
+399
+00:44:17,081 --> 00:44:20,118
+Tomorrow will be
+a glorious day of rejoicing.
+
+400
+00:44:21,119 --> 00:44:23,098
+Our nightmare is over.
+
+401
+00:44:25,790 --> 00:44:27,826
+Come to bed, my sweet.
+
+402
+00:44:30,762 --> 00:44:35,532
+My kingdom needs an heir!
+I need a son! It's time you did your duty.
+
+403
+00:44:35,533 --> 00:44:39,208
+How can I ever lay with you,
+knowing you laid with her?
+
+404
+00:44:42,874 --> 00:44:45,115
+I should never have told you.
+
+405
+00:44:47,412 --> 00:44:49,482
+I should never have told you.
+
+406
+00:45:10,868 --> 00:45:14,496
+Grendel, my son.
+
+407
+00:45:14,540 --> 00:45:16,747
+My poor son.
+
+408
+00:45:17,083 --> 00:45:19,042
+Mother...
+
+409
+00:45:20,753 --> 00:45:25,048
+They hurt me, Mother.
+
+410
+00:45:26,051 --> 00:45:28,827
+Sleep now, my son.
+
+411
+00:45:30,805 --> 00:45:35,475
+He murdered me, Mother.
+
+412
+00:45:35,527 --> 00:45:37,768
+Who murdered you, my son?
+
+413
+00:45:40,273 --> 00:45:44,067
+He ripped off my arm.
+
+414
+00:45:45,371 --> 00:45:49,080
+He will pay, my darling.
+
+415
+00:45:49,490 --> 00:45:51,783
+Who was the man?
+
+416
+00:45:53,327 --> 00:45:56,121
+He was so strong.
+
+417
+00:45:57,582 --> 00:46:01,835
+- So strong.
+- Who was the man?
+
+418
+00:46:03,170 --> 00:46:10,176
+His...
+
+419
+00:46:11,762 --> 00:46:14,472
+...name was...
+
+420
+00:46:16,767 --> 00:46:18,768
+...Beowulf.
+
+421
+00:46:32,052 --> 00:46:33,758
+Beowulf.
+
+422
+00:46:41,962 --> 00:46:44,499
+They were great warriors.
+
+423
+00:46:46,901 --> 00:46:49,202
+They died a foul death.
+
+424
+00:46:49,203 --> 00:46:53,907
+They were murdered by a foul creature
+from the depths of hell.
+
+425
+00:46:53,908 --> 00:46:57,514
+The bards
+will sing of their glory forever.
+
+426
+00:47:03,051 --> 00:47:07,021
+Come, let us drink to their memory.
+
+427
+00:47:07,022 --> 00:47:09,924
+I want you to raise the first cup.
+
+428
+00:47:09,925 --> 00:47:13,527
+I am not in the mood for merrymaking.
+
+429
+00:47:13,528 --> 00:47:16,736
+I'll ride down to the mooring,
+prepare the boat.
+
+430
+00:47:18,600 --> 00:47:22,206
+We still leave tomorrow, on the tide,
+do we not?
+
+431
+00:47:24,139 --> 00:47:25,472
+Aye.
+
+432
+00:47:25,473 --> 00:47:28,852
+My thanes, my friends, brothers,
+
+433
+00:47:30,812 --> 00:47:35,658
+this place for me
+has been a hall of sadness.
+
+434
+00:47:36,751 --> 00:47:38,319
+And for all of us,
+
+435
+00:47:38,320 --> 00:47:42,022
+it has been a place of misery,
+bloodshed, and death.
+
+436
+00:47:42,023 --> 00:47:46,194
+But today,
+the monster's reign has ended.
+
+437
+00:47:46,195 --> 00:47:50,498
+They say he ripped the monster's
+limb off with his bare hands.
+
+438
+00:47:50,499 --> 00:47:54,769
+I wonder if Beowulf's strength is only
+in his arms, or in his legs as well,
+
+439
+00:47:54,770 --> 00:47:56,681
+all three of them?
+
+440
+00:47:57,740 --> 00:48:01,243
+Well, after the feast tonight,
+I'm sure you can find out, Gitte.
+
+441
+00:48:01,244 --> 00:48:04,679
+Me? It's not me he wants, my Queen.
+
+442
+00:48:04,680 --> 00:48:06,181
+Bring it here!
+
+443
+00:48:06,816 --> 00:48:08,625
+Wealthow, my love,
+
+444
+00:48:09,952 --> 00:48:12,625
+why don't you do the honors?
+
+445
+00:48:27,170 --> 00:48:28,842
+For you, my Lord.
+
+446
+00:48:34,678 --> 00:48:37,090
+Thank you, great King.
+
+447
+00:48:42,953 --> 00:48:44,557
+And all of you,
+
+448
+00:48:47,591 --> 00:48:52,005
+I wish you'd have been there last night
+to see me kill the monster.
+
+449
+00:48:52,496 --> 00:48:55,164
+I was asleep when he arrived.
+
+450
+00:48:55,165 --> 00:48:59,335
+He ripped open the doors
+with his bare hands.
+
+451
+00:48:59,336 --> 00:49:04,707
+He stood 20 feet tall,
+possessing the strength of 10 men.
+
+452
+00:49:04,708 --> 00:49:09,624
+I looked at him and said,
+"I am Beowulf!"
+
+453
+00:50:52,619 --> 00:50:54,189
+Brave thane.
+
+454
+00:50:57,056 --> 00:50:58,591
+My Queen.
+
+455
+00:51:09,269 --> 00:51:10,941
+I love you.
+
+456
+00:51:11,871 --> 00:51:13,407
+I want you, my King.
+
+457
+00:51:14,475 --> 00:51:15,885
+Only you.
+
+458
+00:51:16,710 --> 00:51:20,089
+<i>My hero, meen looviyend.</i>
+
+459
+00:51:21,348 --> 00:51:23,054
+I don't understand.
+
+460
+00:51:24,485 --> 00:51:26,396
+Where's your husband?
+
+461
+00:51:26,821 --> 00:51:28,095
+Dead.
+
+462
+00:51:29,957 --> 00:51:31,094
+Dead?
+
+463
+00:51:32,893 --> 00:51:34,804
+This is a dream.
+
+464
+00:51:35,729 --> 00:51:39,199
+This is not happening.
+You're just a dream.
+
+465
+00:51:39,200 --> 00:51:42,180
+Me, darling? A dream?
+
+466
+00:51:44,038 --> 00:51:49,419
+Give me a child.
+Enter me and give me a son!
+
+467
+00:52:23,445 --> 00:52:26,391
+In the name of Odin!
+
+468
+00:52:27,983 --> 00:52:29,985
+Is Grendel not dead?
+
+469
+00:52:31,186 --> 00:52:34,288
+Has he grown his arm anew?
+
+470
+00:52:34,289 --> 00:52:36,725
+It's not Grendel.
+
+471
+00:52:36,726 --> 00:52:39,361
+Not Grendel? Then who?
+
+472
+00:52:39,362 --> 00:52:40,863
+His mother.
+
+473
+00:52:42,164 --> 00:52:44,666
+It's Grendel you killed.
+
+474
+00:52:44,667 --> 00:52:49,309
+I had hoped his mother
+had left the land long, long ago.
+
+475
+00:52:50,940 --> 00:52:53,613
+How many monsters must I slay?
+
+476
+00:52:55,077 --> 00:52:58,313
+Grendel's mother? Father?
+Grendel's uncle?
+
+477
+00:52:58,314 --> 00:53:01,750
+Must I hack down
+a whole family tree of demons?
+
+478
+00:53:01,751 --> 00:53:03,184
+She is the last of them.
+
+479
+00:53:03,185 --> 00:53:04,619
+With her gone,
+
+480
+00:53:04,620 --> 00:53:08,290
+demonkind will slip back
+into the darkness from whence it came.
+
+481
+00:53:08,291 --> 00:53:09,891
+Where it belongs.
+
+482
+00:53:09,892 --> 00:53:14,135
+And the mother's mate?
+Where is Grendel's father?
+
+483
+00:53:17,833 --> 00:53:20,814
+Grendel's father
+can do no harm to man.
+
+484
+00:53:25,175 --> 00:53:26,551
+Beowulf,
+
+485
+00:53:27,477 --> 00:53:32,281
+I was wrong to doubt you before,
+and I shall not again.
+
+486
+00:53:32,282 --> 00:53:36,423
+Yours is the blood of courage.
+I beg your forgiveness.
+
+487
+00:53:39,022 --> 00:53:40,330
+Granted.
+
+488
+00:53:40,924 --> 00:53:42,664
+Cain! Cain!
+
+489
+00:53:52,936 --> 00:53:57,440
+Take my sword.
+It belonged to my father's father.
+
+490
+00:53:57,441 --> 00:53:59,809
+It's called "Hrunting."
+
+491
+00:53:59,810 --> 00:54:03,451
+That sword is no match
+for demon magic.
+
+492
+00:54:04,816 --> 00:54:07,057
+I'm sorry I ever doubted you.
+
+493
+00:54:12,056 --> 00:54:16,595
+No, I'm sorry I mentioned
+you murdered your brothers.
+
+494
+00:54:17,528 --> 00:54:19,871
+They were hasty words.
+
+495
+00:54:22,767 --> 00:54:26,612
+Unferth, I may not return.
+
+496
+00:54:28,139 --> 00:54:31,552
+Your ancestral sword
+might be lost with me.
+
+497
+00:54:32,243 --> 00:54:36,054
+As long as it is with you,
+it will never be lost.
+
+498
+00:54:45,457 --> 00:54:48,164
+And you, mighty Wiglaf,
+
+499
+00:54:51,063 --> 00:54:53,065
+are you still with me?
+
+500
+00:54:55,534 --> 00:54:57,035
+To the end.
+
+501
+00:55:25,198 --> 00:55:26,369
+Look.
+
+502
+00:55:31,638 --> 00:55:34,540
+She's probably a water demon.
+
+503
+00:55:34,541 --> 00:55:36,575
+You don't want to meet her
+in her element.
+
+504
+00:55:36,576 --> 00:55:37,884
+I know.
+
+505
+00:55:39,245 --> 00:55:42,081
+Do you want me to go in with you?
+
+506
+00:55:42,082 --> 00:55:43,816
+Good.
+
+507
+00:55:43,817 --> 00:55:45,352
+I'll be here.
+
+508
+00:57:55,318 --> 00:57:57,263
+I see you've brought me treasure.
+
+509
+00:58:01,991 --> 00:58:03,800
+Show yourself!
+
+510
+00:58:06,429 --> 00:58:07,930
+What are you?
+
+511
+00:58:56,047 --> 00:58:58,925
+Are you the one they call Beowulf?
+
+512
+00:59:18,703 --> 00:59:20,705
+The Bee-Wolf.
+
+513
+00:59:22,473 --> 00:59:23,883
+The bear.
+
+514
+00:59:36,221 --> 00:59:39,497
+Such a strong man you are.
+
+515
+00:59:40,225 --> 00:59:42,830
+With the strength of a king.
+
+516
+00:59:44,496 --> 00:59:47,772
+The king you will one day become.
+
+517
+00:59:50,469 --> 00:59:54,639
+What do you know of me, demon?
+
+518
+00:59:54,640 --> 00:59:59,110
+I know that underneath your glamour
+
+519
+00:59:59,111 --> 01:00:03,423
+you're as much a monster
+as my son, Grendel.
+
+520
+01:00:05,684 --> 01:00:07,561
+My glamour?
+
+521
+01:00:08,620 --> 01:00:13,034
+One needs glamour to become a king.
+
+522
+01:00:15,428 --> 01:00:21,071
+A man like you could own
+the greatest tale ever sung.
+
+523
+01:00:22,268 --> 01:00:25,237
+Your story would live on
+
+524
+01:00:25,238 --> 01:00:30,915
+when everything now alive is dust.
+
+525
+01:00:38,318 --> 01:00:39,660
+Beowulf.
+
+526
+01:00:41,621 --> 01:00:44,990
+It has been a long time
+
+527
+01:00:44,991 --> 01:00:47,767
+since a man has come to visit me.
+
+528
+01:00:48,828 --> 01:00:51,399
+I need no sword to kill you.
+
+529
+01:00:53,600 --> 01:00:56,740
+Of course you don't, my love.
+
+530
+01:00:59,273 --> 01:01:01,912
+You took a son from me.
+
+531
+01:01:03,778 --> 01:01:06,781
+Give me a son, brave thane.
+
+532
+01:01:09,183 --> 01:01:11,094
+Stay with me.
+
+533
+01:01:12,319 --> 01:01:14,025
+Love me.
+
+534
+01:01:16,223 --> 01:01:18,258
+Love me
+
+535
+01:01:18,259 --> 01:01:24,539
+and I shall weave you riches
+beyond imagination.
+
+536
+01:01:25,933 --> 01:01:28,504
+I shall make you
+
+537
+01:01:29,236 --> 01:01:32,979
+the greatest king that ever lived.
+
+538
+01:01:41,149 --> 01:01:45,786
+As long as you hold me in your heart
+
+539
+01:01:45,787 --> 01:01:51,327
+and this golden horn
+remains in my keeping,
+
+540
+01:01:52,727 --> 01:01:55,264
+you will forever be king.
+
+541
+01:01:57,933 --> 01:01:59,810
+Forever strong,
+
+542
+01:02:01,036 --> 01:02:02,674
+mighty
+
+543
+01:02:03,405 --> 01:02:05,509
+and all powerful.
+
+544
+01:02:07,142 --> 01:02:10,350
+This I promise.
+
+545
+01:02:15,016 --> 01:02:19,726
+This I swear.
+
+546
+01:02:39,442 --> 01:02:40,921
+My Lord.
+
+547
+01:02:42,812 --> 01:02:45,046
+It's dead, my Lady.
+
+548
+01:02:45,047 --> 01:02:49,918
+When I finished off
+Grendel's monstrous mother,
+
+549
+01:02:49,919 --> 01:02:52,023
+I severed the brute's head.
+
+550
+01:02:53,222 --> 01:02:54,996
+Our curse is lifted.
+
+551
+01:02:55,725 --> 01:02:58,994
+Our curse is lifted. Odin be praised!
+
+552
+01:02:58,995 --> 01:03:00,940
+Beowulf be praised!
+
+553
+01:03:01,931 --> 01:03:03,911
+Our curse is lifted.
+
+554
+01:03:05,569 --> 01:03:08,606
+Take this out of my sight. Unferth!
+
+555
+01:03:09,139 --> 01:03:11,642
+Into the sea, quickly.
+
+556
+01:03:14,645 --> 01:03:18,781
+I plunged Hrunting
+into Grendel's mother's chest
+
+557
+01:03:18,782 --> 01:03:22,785
+and when I pulled the sword
+free from her corpse,
+
+558
+01:03:22,786 --> 01:03:25,354
+the creature sprang back to life,
+
+559
+01:03:25,355 --> 01:03:29,962
+so I plunged the sword back into
+the hag's chest and there it will stay.
+
+560
+01:03:31,261 --> 01:03:33,206
+Till Ragnarok, huh?
+
+561
+01:03:36,633 --> 01:03:40,478
+And our people shall be grateful
+till the Ragnarok.
+
+562
+01:03:46,611 --> 01:03:48,879
+More mead, my Lord?
+
+563
+01:03:48,880 --> 01:03:50,051
+Aye.
+
+564
+01:03:51,449 --> 01:03:55,727
+And the drinking horn, do you have it?
+
+565
+01:03:56,454 --> 01:03:57,625
+No.
+
+566
+01:03:59,057 --> 01:04:04,027
+I knew the greedy witch desired it,
+so I threw it into the swamp.
+
+567
+01:04:04,028 --> 01:04:06,463
+And when she followed,
+that's where I struck,
+
+568
+01:04:06,464 --> 01:04:08,967
+with the mighty sword Hrunting.
+
+569
+01:04:10,535 --> 01:04:14,448
+When she was dead, I looked for it,
+but it was gone forever.
+
+570
+01:04:15,740 --> 01:04:19,415
+Then find our hero another cup,
+my love.
+
+571
+01:04:21,279 --> 01:04:24,521
+First, the hero and I must talk.
+
+572
+01:04:26,118 --> 01:04:27,494
+Beowulf.
+
+573
+01:04:35,461 --> 01:04:38,373
+So you brought back
+the head of Grendel.
+
+574
+01:04:39,198 --> 01:04:41,735
+What about the head of the mother?
+
+575
+01:04:42,668 --> 01:04:45,570
+With her dead and cold in the bog,
+
+576
+01:04:45,571 --> 01:04:49,075
+is it not enough
+to return one monster's head?
+
+577
+01:04:50,609 --> 01:04:52,281
+Did you kill her?
+
+578
+01:04:53,045 --> 01:04:57,652
+Would you like to hear the story of my
+struggle against this monstrous hag?
+
+579
+01:04:59,418 --> 01:05:03,366
+She's no hag, Beowulf.
+We both know that.
+
+580
+01:05:04,356 --> 01:05:08,498
+But answer me, did you kill her?
+
+581
+01:05:14,701 --> 01:05:18,876
+Would I have been able to escape her,
+had I not?
+
+582
+01:05:26,980 --> 01:05:30,086
+Grendel is dead.
+That's all that matters to me.
+
+583
+01:05:30,617 --> 01:05:32,790
+He can bother me no more.
+
+584
+01:05:33,553 --> 01:05:38,661
+The mother, "the hag,"
+she's not my curse.
+
+585
+01:05:40,460 --> 01:05:42,064
+Not anymore.
+
+586
+01:05:43,596 --> 01:05:45,166
+Not anymore.
+
+587
+01:05:47,634 --> 01:05:49,402
+Listen to me!
+
+588
+01:05:49,403 --> 01:05:51,246
+Listen to me!
+
+589
+01:05:54,275 --> 01:05:58,978
+Because my Lord Beowulf
+is a mighty hero
+
+590
+01:05:58,979 --> 01:06:03,383
+and because
+he killed the demon Grendel
+
+591
+01:06:03,384 --> 01:06:06,019
+and laid its mother in her grave...
+
+592
+01:06:06,020 --> 01:06:08,788
+- To Beowulf!
+- Long live Beowulf!
+
+593
+01:06:08,789 --> 01:06:11,963
+...and because I have no heir,
+
+594
+01:06:13,928 --> 01:06:15,964
+I have no sons,
+
+595
+01:06:17,798 --> 01:06:21,000
+I declare that on my death,
+
+596
+01:06:21,001 --> 01:06:24,107
+all that I possess, my kingdom,
+
+597
+01:06:25,072 --> 01:06:28,212
+my hall of sadness and shame,
+
+598
+01:06:29,176 --> 01:06:32,681
+and even my lovely young Queen,
+
+599
+01:06:34,883 --> 01:06:36,384
+my Wealthow,
+
+600
+01:06:39,888 --> 01:06:42,891
+everything, everything
+
+601
+01:06:46,995 --> 01:06:51,165
+I leave to this, our hero.
+
+602
+01:06:51,166 --> 01:06:53,509
+- But, my Lord...
+- I have spoken!
+
+603
+01:06:56,371 --> 01:06:57,872
+I have spoken!
+
+604
+01:07:01,843 --> 01:07:03,911
+When I am gone,
+
+605
+01:07:03,912 --> 01:07:08,451
+Beowulf, son of Ecgtheow,
+shall be king!
+
+606
+01:07:18,294 --> 01:07:19,704
+Beowulf!
+
+607
+01:07:24,333 --> 01:07:25,868
+My Lord.
+
+608
+01:07:27,336 --> 01:07:29,782
+Everything in its time, Beowulf.
+
+609
+01:07:44,153 --> 01:07:45,791
+Hrothgar!
+
+610
+01:07:52,261 --> 01:07:54,036
+He must have fallen.
+
+611
+01:08:25,395 --> 01:08:30,333
+- All hail King Beowulf.
+- All hail King Beowulf.
+
+612
+01:08:30,334 --> 01:08:32,677
+All hail King Beowulf.
+
+613
+01:08:35,639 --> 01:08:37,380
+King Beowulf.
+
+614
+01:09:12,544 --> 01:09:14,278
+Archers.
+
+615
+01:09:14,279 --> 01:09:16,122
+Archers!
+
+616
+01:09:47,012 --> 01:09:50,014
+This is not battle, Wiglaf.
+
+617
+01:09:50,015 --> 01:09:51,858
+This is slaughter.
+
+618
+01:09:53,886 --> 01:09:57,322
+The Frisians want to make
+themselves heroes, my Lord.
+
+619
+01:09:57,323 --> 01:09:59,625
+They want the bards
+to sing of their deeds.
+
+620
+01:09:59,626 --> 01:10:01,760
+It's going to be a short song.
+
+621
+01:10:01,761 --> 01:10:03,295
+Now, can you blame them?
+
+622
+01:10:03,296 --> 01:10:05,130
+Your legend is known
+from the high seas
+
+623
+01:10:05,131 --> 01:10:07,466
+and the snow barriers
+to the great island kingdom.
+
+624
+01:10:07,467 --> 01:10:09,468
+You are the monster slayer.
+
+625
+01:10:09,469 --> 01:10:11,915
+We men are the monsters now.
+
+626
+01:10:13,907 --> 01:10:16,751
+The time of heroes is dead, Wiglaf.
+
+627
+01:10:17,777 --> 01:10:20,212
+The Christ God has killed it,
+
+628
+01:10:20,213 --> 01:10:25,351
+leaving humankind with nothing
+but weeping martyrs,
+
+629
+01:10:25,352 --> 01:10:28,220
+fear and shame.
+
+630
+01:10:28,221 --> 01:10:32,191
+Show me to Beowulf!
+Show me to King Beowulf!
+
+631
+01:10:32,926 --> 01:10:35,227
+Come on, Frisian. Speak up!
+
+632
+01:10:35,228 --> 01:10:36,729
+Leave him!
+
+633
+01:10:37,530 --> 01:10:40,867
+You think it sport
+to mock your opponents in this fashion?
+
+634
+01:10:40,868 --> 01:10:44,337
+Let him die quickly,
+with some honor still intact.
+
+635
+01:10:44,338 --> 01:10:46,112
+Coward!
+
+636
+01:10:46,774 --> 01:10:48,908
+Kill me yourself!
+
+637
+01:10:48,909 --> 01:10:52,579
+Balls! The king
+must never engage in direct battle.
+
+638
+01:10:52,580 --> 01:10:55,782
+Kill the invader now! Do it quickly!
+Put his head on a spear.
+
+639
+01:10:55,783 --> 01:10:56,954
+Stop!
+
+640
+01:11:07,261 --> 01:11:10,674
+My Lord, the king
+must not engage in direct battle.
+
+641
+01:11:13,634 --> 01:11:15,113
+Let him up.
+
+642
+01:11:19,640 --> 01:11:22,883
+You want your name
+in the Song of Beowulf?
+
+643
+01:11:24,346 --> 01:11:29,727
+You think it should end with me killed
+by some Frisian raider with no name?
+
+644
+01:11:34,423 --> 01:11:37,725
+I'm Finn of Frisia
+
+645
+01:11:37,726 --> 01:11:40,961
+and my name
+shall be remembered forever.
+
+646
+01:11:40,962 --> 01:11:43,032
+Only if you kill me!
+
+647
+01:11:44,666 --> 01:11:47,009
+Otherwise, you're nothing.
+
+648
+01:11:47,869 --> 01:11:52,442
+You think you're the first to try
+to kill me, or the hundredth?
+
+649
+01:11:54,176 --> 01:11:57,211
+Well, let me tell you something, Frisian.
+
+650
+01:11:57,212 --> 01:12:00,715
+The gods will not allow my death
+by your feeble blade.
+
+651
+01:12:00,716 --> 01:12:05,387
+The gods will not allow me to die
+by a sword, or be taken by the sea.
+
+652
+01:12:05,388 --> 01:12:09,734
+The gods will not let me
+pass in my sleep, ripe with age!
+
+653
+01:12:12,729 --> 01:12:16,998
+Plant your ax here, Finn of Frisia.
+Take my life.
+
+654
+01:12:16,999 --> 01:12:20,105
+Someone give him a sword, or I'll...
+
+655
+01:12:20,970 --> 01:12:24,041
+You'll what? Kill me?
+
+656
+01:12:24,974 --> 01:12:29,354
+Well, kill me! Do it! Kill me! Kill me!
+
+657
+01:12:46,597 --> 01:12:49,668
+You know why you can't kill me,
+my friend?
+
+658
+01:12:51,535 --> 01:12:56,177
+'Cause I died many, many years ago
+when I was young.
+
+659
+01:13:02,346 --> 01:13:05,081
+Give him a gold piece
+and send him home.
+
+660
+01:13:05,082 --> 01:13:07,186
+He has a story to tell.
+
+661
+01:13:36,314 --> 01:13:37,849
+Your Majesty?
+
+662
+01:13:38,650 --> 01:13:40,151
+Are you hurt?
+
+663
+01:13:41,820 --> 01:13:43,355
+Not a scratch.
+
+664
+01:13:50,628 --> 01:13:52,698
+So beautiful.
+
+665
+01:13:54,065 --> 01:13:55,874
+And so young.
+
+666
+01:13:56,501 --> 01:13:59,536
+You know, Ursula, when I was young,
+
+667
+01:13:59,537 --> 01:14:03,674
+I used to think being a king
+was about battling every morning
+
+668
+01:14:03,675 --> 01:14:06,343
+and counting the gold
+and loot in the afternoon
+
+669
+01:14:06,344 --> 01:14:09,587
+and swiving beautiful women
+every evening.
+
+670
+01:14:11,183 --> 01:14:16,098
+But now, well, nothing is as good
+as it should have been.
+
+671
+01:14:17,289 --> 01:14:21,760
+Not even the "swiving a beautiful woman
+every night" part, Your Majesty?
+
+672
+01:14:24,697 --> 01:14:27,439
+Well, some nights, Ursula, some nights.
+
+673
+01:14:28,634 --> 01:14:30,501
+Perhaps tonight?
+
+674
+01:14:30,502 --> 01:14:34,539
+No, tonight, I feel my age upon me.
+
+675
+01:14:34,540 --> 01:14:36,952
+Tomorrow, after the celebrations.
+
+676
+01:14:37,476 --> 01:14:40,545
+We can't forget what tomorrow is,
+can we now?
+
+677
+01:14:40,546 --> 01:14:44,616
+Your day.
+When the Song of Beowulf is told
+
+678
+01:14:44,617 --> 01:14:47,654
+of how you lifted the darkness
+from the land.
+
+679
+01:14:48,787 --> 01:14:53,259
+And the day after,
+we celebrate the birth of Hallend Christ.
+
+680
+01:14:58,632 --> 01:15:01,112
+I see you've survived.
+
+681
+01:15:04,905 --> 01:15:06,816
+Alas, my Queen,
+
+682
+01:15:07,807 --> 01:15:11,577
+the Frisian invaders
+have been pushed into the sea.
+
+683
+01:15:11,578 --> 01:15:13,946
+You are not a widow,
+
+684
+01:15:13,947 --> 01:15:14,982
+yet.
+
+685
+01:15:16,850 --> 01:15:20,559
+How comforting, my husband.
+
+686
+01:15:22,856 --> 01:15:26,428
+Hail, Beowulf! Hail, Beowulf!
+
+687
+01:16:31,259 --> 01:16:32,760
+Unferth.
+
+688
+01:16:33,562 --> 01:16:36,697
+You're not celebrating
+your King's glory tonight?
+
+689
+01:16:36,698 --> 01:16:38,939
+I have something for the King.
+
+690
+01:16:39,735 --> 01:16:41,235
+What is it?
+
+691
+01:16:41,236 --> 01:16:44,271
+I said I have something for the King.
+
+692
+01:16:44,272 --> 01:16:46,774
+- Show it to me.
+- I will not.
+
+693
+01:16:46,775 --> 01:16:48,982
+You will show it to me first.
+
+694
+01:16:49,277 --> 01:16:51,212
+Bollocks, Wiglaf.
+
+695
+01:16:51,213 --> 01:16:54,015
+I'll show it first to Beowulf.
+The King needs to see it.
+
+696
+01:16:54,016 --> 01:16:55,392
+The King
+
+697
+01:16:56,452 --> 01:16:58,261
+needs to see what?
+
+698
+01:17:06,529 --> 01:17:10,033
+Lost and now found.
+
+699
+01:17:19,308 --> 01:17:21,754
+A gift fit for a king.
+
+700
+01:17:25,481 --> 01:17:27,483
+Do you recognize it?
+
+701
+01:17:31,287 --> 01:17:33,855
+Where did you find this?
+
+702
+01:17:33,856 --> 01:17:39,128
+On the moors. My slave Cain found it
+on the barren hill where nothing grows.
+
+703
+01:17:39,129 --> 01:17:42,769
+I beat him for treading near
+such an unholy place.
+
+704
+01:17:44,301 --> 01:17:45,745
+My Lord,
+
+705
+01:17:47,504 --> 01:17:49,005
+isn't this...
+
+706
+01:18:02,152 --> 01:18:03,995
+So, Lord Beowulf,
+
+707
+01:18:10,127 --> 01:18:14,803
+it's come back to you,
+after all these years.
+
+708
+01:18:16,834 --> 01:18:19,603
+My Lord, this is the slave who found it.
+
+709
+01:18:19,604 --> 01:18:21,939
+Please, please don't kill me!
+
+710
+01:18:21,940 --> 01:18:25,109
+Where did you find this treasure?
+
+711
+01:18:25,110 --> 01:18:28,112
+I'm sorry I ran away, Master.
+But please don't hurt me no more.
+
+712
+01:18:28,113 --> 01:18:30,058
+- Answer your King!
+- Stop!
+
+713
+01:18:31,116 --> 01:18:32,390
+Stop.
+
+714
+01:18:39,457 --> 01:18:40,628
+Where?
+
+715
+01:18:41,559 --> 01:18:44,301
+Up, up on the moors.
+
+716
+01:18:45,797 --> 01:18:49,073
+But I was gonna bring it back, Master.
+I swear.
+
+717
+01:18:50,468 --> 01:18:51,912
+Is that all?
+
+718
+01:18:53,605 --> 01:18:56,210
+No demon? No witch?
+
+719
+01:18:58,977 --> 01:19:00,319
+No woman?
+
+720
+01:19:11,657 --> 01:19:15,827
+Hail, Beowulf! Hail, Beowulf!
+
+721
+01:19:15,828 --> 01:19:21,799
+Hail, Beowulf! Hail, Beowulf!
+Hail, Beowulf!
+
+722
+01:19:21,800 --> 01:19:27,443
+Hail, Beowulf! Hail, Beowulf!
+Hail, Beowulf!
+
+723
+01:19:32,111 --> 01:19:36,714
+Look at you. You're nothing,
+
+724
+01:19:36,715 --> 01:19:39,517
+an empty nothing.
+
+725
+01:19:39,518 --> 01:19:41,386
+Come forth!
+
+726
+01:19:41,387 --> 01:19:43,424
+Show yourself!
+
+727
+01:19:45,926 --> 01:19:48,872
+Even with all your riches,
+
+728
+01:19:49,896 --> 01:19:53,639
+your kingdom, your power, your glory
+
+729
+01:19:54,501 --> 01:19:56,981
+and your women.
+
+730
+01:19:59,806 --> 01:20:04,118
+Which one do you think
+I should kill first,
+
+731
+01:20:05,178 --> 01:20:08,614
+your pretty little bedwarmer,
+
+732
+01:20:08,615 --> 01:20:11,391
+or your wise Queen?
+
+733
+01:20:14,054 --> 01:20:15,658
+What are you?
+
+734
+01:20:19,759 --> 01:20:22,262
+I'm something you left behind,
+
+735
+01:20:23,897 --> 01:20:24,899
+Father!
+
+736
+01:20:50,224 --> 01:20:52,260
+Another restless night?
+
+737
+01:20:58,299 --> 01:21:00,142
+It's all right, girl.
+
+738
+01:21:01,002 --> 01:21:03,004
+I'm not going to eat you.
+
+739
+01:21:11,546 --> 01:21:13,719
+He has bad dreams.
+
+740
+01:21:14,750 --> 01:21:17,093
+They've been coming more often.
+
+741
+01:21:18,287 --> 01:21:21,734
+He's a king, and kings
+have a lot on their conscience.
+
+742
+01:21:28,930 --> 01:21:31,433
+He calls your name in his sleep.
+
+743
+01:21:33,468 --> 01:21:34,947
+Does he?
+
+744
+01:21:40,842 --> 01:21:44,653
+I believe he still holds you in his heart.
+
+745
+01:21:46,515 --> 01:21:47,823
+Do you?
+
+746
+01:21:51,421 --> 01:21:53,423
+I often wonder
+
+747
+01:21:55,758 --> 01:21:57,359
+what happened.
+
+748
+01:21:57,360 --> 01:21:58,839
+To us?
+
+749
+01:22:04,667 --> 01:22:06,544
+Too many secrets.
+
+750
+01:22:13,142 --> 01:22:15,121
+God, help us.
+
+751
+01:22:42,373 --> 01:22:45,547
+What? What do you want of me?
+
+752
+01:22:47,044 --> 01:22:51,356
+I have a message for my father.
+
+753
+01:22:52,383 --> 01:22:54,726
+Tell me! What did this?
+
+754
+01:22:54,852 --> 01:22:59,288
+I saw our whole village burn.
+Children screaming as they died!
+
+755
+01:22:59,289 --> 01:23:02,358
+I saw it, Your Majesty,
+vomiting fire and smoke!
+
+756
+01:23:02,359 --> 01:23:04,360
+Damn you! What was it?
+
+757
+01:23:04,361 --> 01:23:05,840
+A dragon!
+
+758
+01:23:07,064 --> 01:23:09,407
+- It's Unferth, my Lord!
+- Unferth.
+
+759
+01:23:10,100 --> 01:23:12,979
+You say a dragon did this? Stop!
+
+760
+01:23:15,774 --> 01:23:18,618
+You had an agreement.
+
+761
+01:23:19,077 --> 01:23:21,545
+You would not be harmed.
+
+762
+01:23:21,546 --> 01:23:24,581
+But now the golden horn
+has returned to you.
+
+763
+01:23:24,582 --> 01:23:27,184
+The agreement is ended.
+
+764
+01:23:27,185 --> 01:23:29,319
+Who? Who said that?
+
+765
+01:23:29,320 --> 01:23:31,663
+"The sins of the fathers!"
+
+766
+01:23:32,624 --> 01:23:35,793
+That's the last thing I heard.
+
+767
+01:23:35,794 --> 01:23:40,297
+The last thing before
+my family was burned alive!
+
+768
+01:23:40,298 --> 01:23:43,074
+The sins of the fathers!
+
+769
+01:23:44,436 --> 01:23:47,439
+Sins of the fathers!
+
+770
+01:23:48,139 --> 01:23:50,676
+The sins of the fathers!
+
+771
+01:23:52,010 --> 01:23:54,787
+The sins of the fathers!
+
+772
+01:24:00,753 --> 01:24:04,489
+Take up your positions along
+the northern edge of the great gorge.
+
+773
+01:24:04,490 --> 01:24:07,358
+It is our only hope if I fail.
+
+774
+01:24:07,359 --> 01:24:08,701
+My Lord.
+
+775
+01:24:12,431 --> 01:24:14,499
+Don't go, I beg you!
+
+776
+01:24:14,500 --> 01:24:16,946
+You are free. I release you.
+
+777
+01:24:18,237 --> 01:24:22,340
+Find a good man and bear him children.
+But bear him a son.
+
+778
+01:24:22,341 --> 01:24:24,342
+I don't want anyone else. I want you.
+
+779
+01:24:24,343 --> 01:24:27,011
+I am not the man you think me to be!
+
+780
+01:24:27,012 --> 01:24:31,416
+You're a great man! And a hero!
+This I know to be true.
+
+781
+01:24:31,417 --> 01:24:34,363
+Then you are as foolish
+as the rest of them!
+
+782
+01:24:48,335 --> 01:24:50,569
+Very impressive, dear.
+
+783
+01:24:50,570 --> 01:24:54,040
+But the armor suited you better
+when you were younger.
+
+784
+01:24:55,509 --> 01:24:57,215
+I'm sure it did.
+
+785
+01:25:02,148 --> 01:25:04,783
+Why don't you take that poor girl
+
+786
+01:25:04,784 --> 01:25:08,187
+and live out your remaining years
+in peace?
+
+787
+01:25:08,188 --> 01:25:10,861
+Let some young hero save us.
+
+788
+01:25:11,224 --> 01:25:12,395
+What?
+
+789
+01:25:12,926 --> 01:25:16,567
+And let the nightmare
+start all over again?
+
+790
+01:25:18,132 --> 01:25:22,080
+No. I visited this horror
+upon my kingdom.
+
+791
+01:25:23,170 --> 01:25:26,412
+- I must be the one to finish her.
+- Her.
+
+792
+01:25:30,578 --> 01:25:32,955
+Was she so beautiful, Beowulf?
+
+793
+01:25:35,016 --> 01:25:36,893
+A beauty so costly?
+
+794
+01:25:43,157 --> 01:25:47,230
+Beautiful, and full of fine promises.
+
+795
+01:25:52,099 --> 01:25:53,805
+I was weak.
+
+796
+01:25:56,637 --> 01:25:58,241
+I am sorry.
+
+797
+01:26:01,410 --> 01:26:03,549
+So, so sorry.
+
+798
+01:26:08,517 --> 01:26:11,395
+I have always loved you, my Queen.
+
+799
+01:26:14,122 --> 01:26:15,623
+And I you.
+
+800
+01:26:26,234 --> 01:26:28,145
+Keep a memory of me,
+
+801
+01:26:29,204 --> 01:26:31,843
+not as a king or a hero,
+
+802
+01:26:33,508 --> 01:26:35,043
+but as a man,
+
+803
+01:26:36,411 --> 01:26:38,356
+fallible and flawed.
+
+804
+01:26:55,565 --> 01:26:57,633
+This is the place.
+
+805
+01:26:57,634 --> 01:27:00,239
+Where you slayed Grendel's mother.
+
+806
+01:27:04,107 --> 01:27:06,951
+Wiglaf, I have no sons,
+
+807
+01:27:07,977 --> 01:27:12,447
+and if this demon kills me,
+I have arranged with the heralds
+
+808
+01:27:12,448 --> 01:27:13,882
+that you shall be king.
+
+809
+01:27:13,883 --> 01:27:16,454
+Don't speak of such things, my Lord.
+
+810
+01:27:19,989 --> 01:27:23,493
+Great friend,
+there is something you should know.
+
+811
+01:27:23,494 --> 01:27:26,362
+Nay! There is nothing I should know.
+
+812
+01:27:26,363 --> 01:27:29,699
+You are Beowulf.
+Beowulf the mighty, the hero!
+
+813
+01:27:29,700 --> 01:27:32,301
+The slayer and destroyer of demons!
+
+814
+01:27:32,302 --> 01:27:34,837
+Now, let us kill this flying devil
+where it sleeps
+
+815
+01:27:34,838 --> 01:27:37,215
+and get on with our bloody lives!
+
+816
+01:27:42,513 --> 01:27:45,220
+- Do you want me to go in with you?
+- No.
+
+817
+01:27:47,084 --> 01:27:48,358
+Good.
+
+818
+01:28:34,833 --> 01:28:36,312
+Beowulf.
+
+819
+01:28:37,368 --> 01:28:39,973
+It has been a long time.
+
+820
+01:28:47,079 --> 01:28:51,823
+Take your damned horn
+and leave my land in peace.
+
+821
+01:28:55,287 --> 01:28:57,630
+Too late, my love.
+
+822
+01:29:18,878 --> 01:29:20,857
+Odin's swifan balls!
+
+823
+01:29:29,723 --> 01:29:31,668
+It's heading for Herot!
+
+824
+01:30:35,156 --> 01:30:36,760
+Now!
+
+825
+01:30:45,566 --> 01:30:47,136
+Hrothgar.
+
+826
+01:31:57,907 --> 01:32:00,944
+Come on, come on!
+Come on! Come on!
+
+827
+01:32:12,588 --> 01:32:13,897
+Damn you!
+
+828
+01:32:20,397 --> 01:32:23,844
+I'll have your lizard head on a spike!
+
+829
+01:34:34,401 --> 01:34:36,107
+No!
+
+830
+01:36:30,486 --> 01:36:31,896
+My Lord!
+
+831
+01:37:01,217 --> 01:37:05,358
+No!
+
+832
+01:38:36,582 --> 01:38:39,250
+Over here! Attend the Queen.
+
+833
+01:38:39,251 --> 01:38:41,458
+- Attend the Queen.
+- Attend the Queen.
+
+834
+01:40:24,258 --> 01:40:27,204
+I told you we were too old to be heroes.
+
+835
+01:40:28,863 --> 01:40:31,064
+Let's get you to a healer.
+
+836
+01:40:31,065 --> 01:40:33,101
+Not this time, old friend.
+
+837
+01:40:33,768 --> 01:40:36,103
+You are Beowulf.
+
+838
+01:40:36,104 --> 01:40:39,608
+A little thing like this
+isn't going to finish you off.
+
+839
+01:40:40,342 --> 01:40:43,049
+Do you hear her?
+
+840
+01:40:45,948 --> 01:40:47,722
+I hear nothing.
+
+841
+01:40:48,984 --> 01:40:51,886
+Grendel's mother,
+my son's mother, my...
+
+842
+01:40:51,887 --> 01:40:53,688
+- No, my Lord.
+- My...
+
+843
+01:40:53,689 --> 01:40:57,068
+You killed Grendel's mother
+when we were young.
+
+844
+01:40:58,494 --> 01:41:00,132
+They sing of it.
+
+845
+01:41:01,830 --> 01:41:04,310
+Too late for lies, Wiglaf.
+
+846
+01:41:06,635 --> 01:41:08,114
+Too late.
+
+847
+01:42:15,406 --> 01:42:16,850
+He was
+
+848
+01:42:18,275 --> 01:42:20,414
+the bravest of us.
+
+849
+01:42:24,588 --> 01:42:26,548
+He was the prince
+
+850
+01:42:28,675 --> 01:42:30,427
+of all warriors.
+
+851
+01:42:34,096 --> 01:42:36,599
+His name will live forever.
+
+852
+01:42:47,860 --> 01:42:50,488
+His song shall be sung forever.
+
