@@ -1,8435 +1,8435 @@
-1
-00:00:20,767 --> 00:00:23,640
+
+
 <i>All right, we're at scene B.
 We're in the living room.</i>
 
-2
-00:00:23,641 --> 00:00:25,711
+
+
 <i>Settle, please.</i>
 
-3
-00:00:25,712 --> 00:00:27,216
+
+
 <i>Ready, Ed?</i>
 
-4
-00:00:27,217 --> 00:00:29,221
+
+
 <i>And action.</i>
 
-5
-00:00:29,222 --> 00:00:31,426
+
+
 <i>Don't argue with me, Sharon.
 I don't want to hear it.</i>
 
-6
-00:00:31,427 --> 00:00:32,829
+
+
 <i>I know what I saw.</i>
 
-7
-00:00:32,830 --> 00:00:34,668
+
+
 <i>That girl is
 out of control.</i>
 
-8
-00:00:34,669 --> 00:00:36,906
+
+
 I came in here, I found
 my sweet darling daughter
 
-9
-00:00:36,907 --> 00:00:40,515
+
+
 making out on the couch with
 that Martin kid. It was horrific.
 
-10
-00:00:40,516 --> 00:00:44,191
+
+
 I haven't seen that much tongue
 since your Uncle Morty's last seder.
 
-11
-00:00:44,192 --> 00:00:46,463
+
+
 <i>Excuse me, Ed,
 but I seem to recall</i>
 
-12
-00:00:46,464 --> 00:00:49,003
+
+
 <i>you throwing that tongue around
 pretty good when we were dating.</i>
 
-13
-00:00:49,004 --> 00:00:51,175
+
+
 <i>I have no memory of that.
 When we were first together,</i>
 
-14
-00:00:51,176 --> 00:00:52,913
+
+
 <i>I was always
 the perfect gentleman.</i>
 
-15
-00:00:52,914 --> 00:00:55,018
+
+
 <i>It wasn't about sex.
 It was about romance.</i>
 
-16
-00:00:55,019 --> 00:00:56,722
+
+
 <i>Yeah, I remember
 the romance.</i>
 
-17
-00:00:56,723 --> 00:00:59,528
+
+
 <i>Our first kiss was in a dark alley
 behind a bad Mexican restaurant.</i>
 
-18
-00:00:59,529 --> 00:01:01,433
+
+
 <i>That was very romantic--</i>
 
-19
-00:01:01,434 --> 00:01:03,505
+
+
 <i>the cool night air,
 the starry sky.</i>
 
-20
-00:01:03,506 --> 00:01:04,942
+
+
 <i>The snow-covered
 dumpster.</i>
 
-21
-00:01:04,943 --> 00:01:06,112
+
+
 <i>There was no dumpster.</i>
 
-22
-00:01:06,113 --> 00:01:08,017
+
+
 <i>Ed, we were standing
 right next to it.</i>
 
-23
-00:01:08,018 --> 00:01:09,821
+
+
 <i>I do not remember
 a dumpster.</i>
 
-24
-00:01:09,822 --> 00:01:13,463
+
+
 <i>That would explain why I get so
 excited whenever we have chimichangas.</i>
 
-25
-00:01:13,464 --> 00:01:15,368
+
+
 Ah.
 
-26
-00:01:15,369 --> 00:01:16,905
+
+
 <i>Okay, guys, moving on.</i>
 
-27
-00:01:16,906 --> 00:01:19,512
+
+
 <i>Scene E-- we're over here
 at airport security.</i>
 
-28
-00:01:30,640 --> 00:01:32,243
+
+
 - Taylor?
 - Shit.
 
-29
-00:01:32,244 --> 00:01:34,783
+
+
 - Hey.  Hey.
 - You ran right out of there.
 
-30
-00:01:34,784 --> 00:01:36,788
+
+
 Yeah, I wasn't running.
 I was walking.
 
-31
-00:01:36,789 --> 00:01:38,425
+
+
 Pretty good for
 Wednesday.
 
-32
-00:01:38,426 --> 00:01:40,163
+
+
 Yeah.
 Yeah, I thought so.
 
-33
-00:01:40,164 --> 00:01:41,800
+
+
 - Really?
 - Nah.
 
-34
-00:01:41,801 --> 00:01:43,672
+
+
 Of course not.
 It was shit.  We'll fix it.
 
-35
-00:01:43,673 --> 00:01:45,075
+
+
 - Where are you going?
 - Dentist.
 
-36
-00:01:45,076 --> 00:01:47,080
+
+
 - Ooh!  Ouch.
 - Yeah.
 
-37
-00:01:47,081 --> 00:01:47,826
+
+
 That's gonna hurt.
 
-38
-00:01:47,827 --> 00:01:50,020
+
+
 Listen, Taylor, I just want
 to give you the head's up.
 
-39
-00:01:50,021 --> 00:01:52,594
+
+
 Ed's unhappy.
 He's been calling Carrie.
 
-40
-00:01:52,595 --> 00:01:54,264
+
+
 He says you're
 ignoring him.
 
-41
-00:01:54,265 --> 00:01:57,472
+
+
 Jesus Christ, I'm in there five
 times a day holding his hand,
 
-42
-00:01:57,473 --> 00:02:00,045
+
+
 listening to all his
 lame-ass joke pitches,
 
-43
-00:02:00,046 --> 00:02:02,852
+
+
 all that crap about solar
 energy for the umpteenth time.
 
-44
-00:02:02,853 --> 00:02:05,894
+
+
 Yeah, well, he's the star of your
 show so you can't just ignore him.
 
-45
-00:02:05,895 --> 00:02:08,166
+
+
 And he's godfather to one
 of Carrie's kids, you know.
 
-46
-00:02:08,167 --> 00:02:11,106
+
+
 Like I give a shit.
 Listen, you remind Begley
 
-47
-00:02:11,107 --> 00:02:13,813
+
+
 that before I came on board,
 no one was watching this show.
 
-48
-00:02:13,814 --> 00:02:16,419
+
+
 Last time I looked, we're
 like 26th in the ratings.
 
-49
-00:02:16,420 --> 00:02:19,193
+
+
 Oh, when was that? 'Cause last
 week you were in the low 50s.
 
-50
-00:02:19,194 --> 00:02:21,632
+
+
 Think I care
 about the ratings?
 
-51
-00:02:21,633 --> 00:02:23,871
+
+
 Listen, can we talk
 about this some other time?
 
-52
-00:02:23,872 --> 00:02:25,742
+
+
 Taylor, I don't want
 to be a dick.
 
-53
-00:02:25,743 --> 00:02:29,151
+
+
 No, it's okay.
 You can't help yourself.
 
-54
-00:02:29,152 --> 00:02:31,624
+
+
 Look.
 
-55
-00:02:31,625 --> 00:02:33,228
+
+
 You need this job.
 
-56
-00:02:35,000 --> 00:02:37,639
+
+
 <i>After your spectacular
 flameout a couple of seasons ago,</i>
 
-57
-00:02:37,640 --> 00:02:40,178
+
+
 <i>people weren't exactly
 lined up to hire you.</i>
 
-58
-00:02:40,179 --> 00:02:42,851
+
+
 Now, if this was maybe my
 last chance at the business,
 
-59
-00:02:42,852 --> 00:02:46,661
+
+
 I think that I'd be kissing my
 star's ass as often as was necessary.
 
-60
-00:02:46,662 --> 00:02:48,766
+
+
 Yeah.
 
-61
-00:02:48,767 --> 00:02:50,504
+
+
 Enjoy the dentist.
 
-62
-00:03:09,953 --> 00:03:11,957
+
+
 <i>What are you doing?</i>
 
-63
-00:03:11,958 --> 00:03:13,628
+
+
 <i>Hit him off the rail!</i>
 
-64
-00:03:15,601 --> 00:03:17,805
+
+
 Come on!
 
-65
-00:03:17,806 --> 00:03:20,245
+
+
 Come on, come on!
 Hit him.
 
-66
-00:03:42,233 --> 00:03:44,370
+
+
 <i>- Hey, Honey.
 - Hi, you.</i>
 
-67
-00:03:44,371 --> 00:03:46,510
+
+
 <i>How's it going?
 How was your run-through?</i>
 
-68
-00:03:46,511 --> 00:03:49,383
+
+
 Well, if they ever put together a
 tribunal for crimes against comedy,
 
-69
-00:03:49,384 --> 00:03:50,687
+
+
 I'm fucked.
 
-70
-00:03:50,688 --> 00:03:53,025
+
+
 <i>- What's up?
 - Nothing.</i>
 
-71
-00:03:53,026 --> 00:03:55,164
+
+
 Just paying some bills.
 Where are you?
 
-72
-00:03:55,165 --> 00:03:57,441
+
+
 <i>- Work.
 - I just called the office.</i>
 
-73
-00:03:57,442 --> 00:03:58,606
+
+
 They said you were gone.
 
-74
-00:03:58,607 --> 00:04:00,444
+
+
 Ah, well, I'm at
 the network.
 
-75
-00:04:00,445 --> 00:04:02,717
+
+
 Actually, I'm about to
 head into a meeting.
 
-76
-00:04:02,718 --> 00:04:04,989
+
+
 - Hey, I'm in here.
 
-77
-00:04:04,990 --> 00:04:07,462
+
+
 <i>- Are you using the phone?
 - I'm using a phone.</i>
 
-78
-00:04:07,463 --> 00:04:09,332
+
+
 Do you mind?
 
-79
-00:04:09,333 --> 00:04:12,106
+
+
 Open that door!
 I gotta make a phone call.
 
-80
-00:04:12,107 --> 00:04:13,944
+
+
 <i>- Hon-- honey?</i>
 
-81
-00:04:13,945 --> 00:04:15,515
+
+
 <i>- Who was that?
 - Honey, I'm gonna--</i>
 
-82
-00:04:15,516 --> 00:04:17,620
+
+
 I'm gonna actually--
 I'm gonna call you back, okay?
 
-83
-00:04:17,621 --> 00:04:18,956
+
+
 <i>Open the door!
 I gotta make a phone call!</i>
 
-84
-00:04:18,957 --> 00:04:19,692
+
+
 I'll call you right back.
 
-85
-00:04:23,502 --> 00:04:25,439
+
+
 <i>- Hello?
 - Sorry, honey.</i>
 
-86
-00:04:25,440 --> 00:04:28,012
+
+
 <i>- Hi.  So you're at the network?
 - Yup.</i>
 
-87
-00:04:28,013 --> 00:04:30,184
+
+
 Can you-- can you not
 sweep right now?
 
-88
-00:04:30,185 --> 00:04:32,056
+
+
 Yes, I am.
 What's up?
 
-89
-00:04:32,057 --> 00:04:34,261
+
+
 My sister called. She wants
 us to go out there later.
 
-90
-00:04:34,262 --> 00:04:35,832
+
+
 Some kind of
 family emergency.
 
-91
-00:04:35,833 --> 00:04:37,904
+
+
 Well, so we have to drive
 all the way out to the desert?
 
-92
-00:04:37,905 --> 00:04:40,510
+
+
 She says she needs to
 talk to me in person.
 
-93
-00:04:40,511 --> 00:04:42,782
+
+
 Do you think you can
 be home by 5:00, 5:30?
 
-94
-00:04:44,755 --> 00:04:46,324
+
+
 Hang-- hang on
 a second.
 
-95
-00:04:46,325 --> 00:04:48,329
+
+
 Sir, can you please?
 Please?
 
-96
-00:04:48,330 --> 00:04:51,604
+
+
 Honey, I'm-- I'm really up
 to my ass here, you know?
 
-97
-00:04:51,605 --> 00:04:54,644
+
+
 I've got this meeting to do.
 I have a rewrite.
 
-98
-00:04:55,982 --> 00:04:58,087
+
+
 Are you in a bathroom?
 
-99
-00:04:58,088 --> 00:05:01,729
+
+
 Yes. Yes, they do have bathrooms
 at the network, you know.
 
-100
-00:05:01,730 --> 00:05:03,934
+
+
 Not all the shit
 ends up on the schedule.
 
-101
-00:05:03,935 --> 00:05:05,773
+
+
 <i>Hello?</i>
 
-102
-00:05:07,077 --> 00:05:08,613
+
+
 <i>Hello?</i>
 
-103
-00:05:08,614 --> 00:05:10,216
+
+
 Are you at the track?
 
-104
-00:05:10,217 --> 00:05:12,656
+
+
 Lorraine.
 Lorraine, I am not gambling.
 
-105
-00:05:12,657 --> 00:05:15,329
+
+
 I haven't made a bet in weeks,
 possibly a month.
 
-106
-00:05:15,330 --> 00:05:17,168
+
+
 <i>Okay.</i>
 
-107
-00:05:17,169 --> 00:05:19,373
+
+
 I'm doing
 what you wanted.
 
-108
-00:05:19,374 --> 00:05:21,779
+
+
 I'm not gambling.
 I'm seeing that guy.
 
-109
-00:05:21,780 --> 00:05:22,256
+
+
 - I'm sorry.
 
-110
-00:05:22,257 --> 00:05:23,884
+
+
 <i>- I mean, come on./i>
 Give me a break.</i>
 
-111
-00:05:23,885 --> 00:05:26,290
+
+
 I know, I'm sorry.
 
-112
-00:05:26,291 --> 00:05:28,295
+
+
 Do you think you can
 be home by 5:00?
 
-113
-00:05:28,296 --> 00:05:30,100
+
+
 5:30.  I'll try.
 
-114
-00:05:30,101 --> 00:05:32,305
+
+
 <i>- I love you.
 - I love you too.</i>
 
-115
-00:05:34,645 --> 00:05:36,850
+
+
 Uh, you're breaking up,
 sweetheart.
 
-116
-00:05:36,851 --> 00:05:39,456
+
+
 I'll check in with
 you later, all right?
 
-117
-00:05:39,457 --> 00:05:41,293
+
+
 Just sweep.
 
-118
-00:05:44,202 --> 00:05:47,777
+
+
 Go, number one! Number
 three, die! One, go!
 
-119
-00:05:47,778 --> 00:05:51,620
+
+
 Go, one! Oh, number one!
 Oh, fuck. Oh, fuck you--
 
-120
-00:05:51,621 --> 00:05:54,393
+
+
 <i>Taylor, why do you
 bet on the horses?</i>
 
-121
-00:05:54,394 --> 00:05:57,635
+
+
 <i>I don't know.
 I guess I like the challenge of it.</i>
 
-122
-00:05:57,636 --> 00:06:01,277
+
+
 <i>Go to the track,
 race form under your arm,</i>
 
-123
-00:06:01,278 --> 00:06:04,418
+
+
 <i>it's nine races and
 thousands of possibilities.</i>
 
-124
-00:06:05,989 --> 00:06:08,260
+
+
 <i>I like the whole experience,
 really.</i>
 
-125
-00:06:09,431 --> 00:06:11,502
+
+
 <i>The horses,
 the puzzle of it,</i>
 
-126
-00:06:11,503 --> 00:06:13,407
+
+
 <i>the people.</i>
 
-127
-00:06:13,408 --> 00:06:15,345
+
+
 <i>I just love it.
 I really do.</i>
 
-128
-00:06:16,583 --> 00:06:19,087
+
+
 When was the last time
 you went to the track?
 
-129
-00:06:19,088 --> 00:06:21,059
+
+
 It's been a while.
 
-130
-00:06:22,631 --> 00:06:24,635
+
+
 Do you think you're
 ready to give it up?
 
-131
-00:06:24,636 --> 00:06:26,172
+
+
 Totally?
 
-132
-00:06:26,173 --> 00:06:29,179
+
+
 Total abstinence is the only
 effective course of treatment
 
-133
-00:06:29,180 --> 00:06:31,251
+
+
 with horse-race gamblers.
 
-134
-00:06:31,252 --> 00:06:34,058
+
+
 Look-- look,
 I used to drink.
 
-135
-00:06:34,059 --> 00:06:36,264
+
+
 I used to do drugs.
 I stopped.
 
-136
-00:06:36,265 --> 00:06:39,605
+
+
 I've been clean
 for almost two years.
 
-137
-00:06:39,606 --> 00:06:42,914
+
+
 My work was--
 I had to stop.
 
-138
-00:06:42,915 --> 00:06:45,520
+
+
 But the track?
 
-139
-00:06:45,521 --> 00:06:48,126
+
+
 Who am I hurting?
 I earn enough money.
 
-140
-00:06:48,127 --> 00:06:49,830
+
+
 You don't think
 it's destructive?
 
-141
-00:06:49,831 --> 00:06:51,969
+
+
 I've already quit
 enough stuff.
 
-142
-00:06:51,970 --> 00:06:54,241
+
+
 I don't want to
 give up everything.
 
-143
-00:06:57,183 --> 00:06:58,953
+
+
 Then why are you here?
 
-144
-00:07:01,260 --> 00:07:04,066
+
+
 My wife thinks I need
 to talk to somebody.
 
-145
-00:07:05,470 --> 00:07:07,809
+
+
 What's the point
 of talking
 
-146
-00:07:07,810 --> 00:07:10,147
+
+
 if you have no intention
 of quitting?
 
-147
-00:07:14,325 --> 00:07:16,096
+
+
 <i>Taylor?</i>
 
-148
-00:07:18,369 --> 00:07:21,208
+
+
 Is that clock right?
 Because I...
 
-149
-00:07:21,209 --> 00:07:24,684
+
+
 Think our 50 minutes
 are up.
 
-150
-00:07:35,612 --> 00:07:37,716
+
+
 <i>- Hit him, hit him, hit him!</i>
 
-151
-00:07:37,717 --> 00:07:40,924
+
+
 Hit him! Oh, God,
 no no no.
 
-152
-00:07:41,994 --> 00:07:44,333
+
+
 Oh, God.
 Shit.
 
-153
-00:07:45,971 --> 00:07:48,776
+
+
 What's the matter?
 I'm only 10 minutes late.
 
-154
-00:07:48,777 --> 00:07:51,550
+
+
 That's not so bad
 considering the day I had.
 
-155
-00:07:51,551 --> 00:07:54,591
+
+
 Dr. Chase says hello,
 by the way.
 
-156
-00:07:54,592 --> 00:07:57,264
+
+
 Hello, Dr. Chase.
 
-157
-00:07:57,265 --> 00:07:59,370
+
+
 <i>Is it something I did?</i>
 
-158
-00:08:01,442 --> 00:08:04,048
+
+
 I just--
 
-159
-00:08:04,049 --> 00:08:07,790
+
+
 I went to that new organic
 market next to the coffee place.
 
-160
-00:08:07,791 --> 00:08:09,060
+
+
 <i>Okay.</i>
 
-161
-00:08:09,061 --> 00:08:12,101
+
+
 And as I was leaving,
 I bumped into Nancy Karos.
 
-162
-00:08:12,102 --> 00:08:13,973
+
+
 And we're talking,
 
-163
-00:08:13,974 --> 00:08:15,977
+
+
 and she asked me
 what you were working on
 
-164
-00:08:15,978 --> 00:08:18,718
+
+
 and I told her and then she
 said-- this is unbelievable,
 
-165
-00:08:18,719 --> 00:08:21,123
+
+
 she said, "You're kidding me.
 That show sucks."
 
-166
-00:08:21,124 --> 00:08:23,863
+
+
 <i>- Mm-hmm, well...
 - Well, I went off on her</i>
 
-167
-00:08:23,864 --> 00:08:26,905
+
+
 and I was yelling and
 I think I used the C word.
 
-168
-00:08:26,906 --> 00:08:28,475
+
+
 <i>- Holy shit.
 - Yeah.</i>
 
-169
-00:08:28,476 --> 00:08:31,115
+
+
 And then she, like,
 put her hand on my shoulder
 
-170
-00:08:31,116 --> 00:08:33,888
+
+
 and I pushed her
 and she fell...
 
-171
-00:08:33,889 --> 00:08:36,963
+
+
 into some gourds--
 into a gourd display.
 
-172
-00:08:36,964 --> 00:08:40,405
+
+
 The C word?  Wow.
 
-173
-00:08:40,406 --> 00:08:42,410
+
+
 I'm guessing we
 won't be invited
 
-174
-00:08:42,411 --> 00:08:44,415
+
+
 to their Fourth of
 July thing this year.
 
-175
-00:08:44,416 --> 00:08:46,252
+
+
 No.  I was shaking
 the whole way home.
 
-176
-00:08:46,253 --> 00:08:49,527
+
+
 Honey-- honey, you're very
 loyal and I love you for it.
 
-177
-00:08:49,528 --> 00:08:52,735
+
+
 But the show does suck.
 
-178
-00:08:52,736 --> 00:08:54,974
+
+
 But you're
 making it better.
 
-179
-00:08:57,047 --> 00:08:59,084
+
+
 Nobody messes
 with my man.
 
-180
-00:09:00,321 --> 00:09:02,259
+
+
 I'll wait for you
 downstairs.
 
-181
-00:09:14,523 --> 00:09:16,194
+
+
 Damn it!
 
-182
-00:09:16,195 --> 00:09:18,399
+
+
 I'll get you,
 you little prick!
 
-183
-00:09:18,400 --> 00:09:20,604
+
+
 God! Squirrels.
 
-184
-00:09:20,605 --> 00:09:22,642
+
+
 Goddamn useless...
 
-185
-00:09:22,643 --> 00:09:26,184
+
+
 they bury shit all over the place.
 They tear up my yard.
 
-186
-00:09:26,185 --> 00:09:27,956
+
+
 Assholes!
 
-187
-00:09:27,957 --> 00:09:30,194
+
+
 Ha!
 Dad said "asshole."
 
-188
-00:09:30,195 --> 00:09:32,266
+
+
 I don't know what
 it's like where you are,
 
-189
-00:09:32,267 --> 00:09:34,739
+
+
 but around here
 it's a serious problem.
 
-190
-00:09:34,740 --> 00:09:36,477
+
+
 Well, what can
 you do?
 
-191
-00:09:36,478 --> 00:09:41,021
+
+
 I can blow their fuckin' little
 furry heads off, is what I can do.
 
-192
-00:09:41,022 --> 00:09:43,261
+
+
 Larry, you might want
 to keep your voice down.
 
-193
-00:09:43,262 --> 00:09:45,199
+
+
 I think the boys
 can hear you.
 
-194
-00:09:45,200 --> 00:09:46,903
+
+
 Do you have kids?
 
-195
-00:09:46,904 --> 00:09:50,813
+
+
 Then don't tell me
 how to behave around mine.
 
-196
-00:09:57,730 --> 00:09:59,133
+
+
 Let's go.
 
-197
-00:09:59,134 --> 00:10:01,138
+
+
 Hey, you want
 another beer?
 
-198
-00:10:01,139 --> 00:10:03,611
+
+
 - No. No, this is--
 - Oh, lemonade.
 
-199
-00:10:03,612 --> 00:10:04,848
+
+
 - Yeah.
 - Right.
 
-200
-00:10:04,849 --> 00:10:06,451
+
+
 Sorry.
 
-201
-00:10:06,452 --> 00:10:08,055
+
+
 God, must be tough.
 
-202
-00:10:08,056 --> 00:10:10,963
+
+
 - Not drinking.
 - It's been about two years.
 
-203
-00:10:10,964 --> 00:10:12,233
+
+
 Dad Dad Dad!
 
-204
-00:10:12,234 --> 00:10:13,803
+
+
 Can we shoot?
 
-205
-00:10:13,804 --> 00:10:15,540
+
+
 Yeah. Yeah.
 
-206
-00:10:15,541 --> 00:10:17,980
+
+
 Just, you know,
 be careful.
 
-207
-00:10:17,981 --> 00:10:22,023
+
+
 And if you aim at
 each other, lower body only.
 
-208
-00:10:22,024 --> 00:10:24,463
+
+
 - No faces.
 - Okay!
 
-209
-00:10:27,404 --> 00:10:29,174
+
+
 You can't catch me!
 
-210
-00:10:29,175 --> 00:10:31,179
+
+
 <i>- How's your show going?
 - Great.</i>
 
-211
-00:10:31,180 --> 00:10:32,650
+
+
 <i>I don't watch it.</i>
 
-212
-00:10:32,651 --> 00:10:34,888
+
+
 Uh, I would, but...
 
-213
-00:10:34,889 --> 00:10:38,698
+
+
 I don't need my boys exposed to
 all that sex and foul language.
 
-214
-00:10:38,699 --> 00:10:40,168
+
+
 Yeah, I get that.
 
-215
-00:10:40,169 --> 00:10:42,875
+
+
 Uh, they're not killing
 each other, are they?
 
-216
-00:10:42,876 --> 00:10:45,815
+
+
 You can't kill anybody
 with an air pistol.
 
-217
-00:10:45,816 --> 00:10:49,324
+
+
 Well, you know, maybe
 if you got up real close
 
-218
-00:10:49,325 --> 00:10:51,830
+
+
 and pumped one right
 in the eye.
 
-219
-00:10:51,831 --> 00:10:53,935
+
+
 That's the trouble
 with you liberals.
 
-220
-00:10:53,936 --> 00:10:56,843
+
+
 Hey, you get all nervous
 around guns.
 
-221
-00:10:56,844 --> 00:10:59,048
+
+
 Just guns in the hands
 of third graders.
 
-222
-00:11:01,054 --> 00:11:03,058
+
+
 Boys, damn it!
 
-223
-00:11:03,059 --> 00:11:05,665
+
+
 No, that is coming
 out of your allowance!
 
-224
-00:11:05,666 --> 00:11:08,272
+
+
 He complains about
 the foul language in the show.
 
-225
-00:11:08,273 --> 00:11:10,377
+
+
 Meanwhile, he's back there
 in front of his kids
 
-226
-00:11:10,378 --> 00:11:12,949
+
+
 yelling, "Fuck the squirrels"
 at the top of his lungs.
 
-227
-00:11:12,950 --> 00:11:16,792
+
+
 The boys are running around doing the
 first 20 minutes of "Saving Private Ryan."
 
-228
-00:11:16,793 --> 00:11:18,897
+
+
 Well, people take different
 approaches to parenting.
 
-229
-00:11:18,898 --> 00:11:20,735
+
+
 Yeah, well, I just don't
 think it's right
 
-230
-00:11:20,736 --> 00:11:22,807
+
+
 to raise children whose
 inner sense of security
 
-231
-00:11:22,808 --> 00:11:24,946
+
+
 depends on whether or not
 they have a full clip handy.
 
-232
-00:11:24,947 --> 00:11:26,951
+
+
 They're having trouble
 with Amanda.
 
-233
-00:11:26,952 --> 00:11:28,258
+
+
 - That's the big emergency?
 
-234
-00:11:28,259 --> 00:11:30,192
+
+
 - She's in Las Vegas
 with some boyfriend.
 
-235
-00:11:30,193 --> 00:11:31,629
+
+
 - Well, how old is she?
 - 20.
 
-236
-00:11:31,630 --> 00:11:34,069
+
+
 - That seems all right.
 - She's working as a prostitute.
 
-237
-00:11:34,070 --> 00:11:36,875
+
+
 What?
 She's working as a what?
 
-238
-00:11:36,876 --> 00:11:39,047
+
+
 She's working as
 a prostitute.
 
-239
-00:11:39,048 --> 00:11:40,651
+
+
 - Holy shit!
 - Shh!
 
-240
-00:11:40,652 --> 00:11:43,525
+
+
 Are you kidding? She's
 a prostitute? A hooker?
 
-241
-00:11:43,526 --> 00:11:45,998
+
+
 Yes. Keep your voice down.
 Get in the car.
 
-242
-00:11:45,999 --> 00:11:48,404
+
+
 Wait a minute, my 20-year-old
 niece is working as a hooker?
 
-243
-00:11:48,405 --> 00:11:49,741
+
+
 <i>Get in the car!</i>
 
-244
-00:11:49,742 --> 00:11:51,545
+
+
 Amanda called a couple
 of months ago
 
-245
-00:11:51,546 --> 00:11:53,784
+
+
 all excited about
 this job she got dancing.
 
-246
-00:11:53,785 --> 00:11:55,454
+
+
 - In a show?
 - No, some club.
 
-247
-00:11:55,455 --> 00:11:58,128
+
+
 Ah, well, I could have
 told you right there.
 
-248
-00:11:58,129 --> 00:12:00,768
+
+
 You see, in Vegas, dancing is
 a euphemism for stripping.
 
-249
-00:12:00,769 --> 00:12:03,307
+
+
 And stripping is
 a euphemism for hooking.
 
-250
-00:12:03,308 --> 00:12:05,346
+
+
 Okay.
 
-251
-00:12:05,347 --> 00:12:07,685
+
+
 So Amanda had this friend,
 Lauren.
 
-252
-00:12:07,686 --> 00:12:09,456
+
+
 And she went out
 to Las Vegas
 
-253
-00:12:09,457 --> 00:12:11,327
+
+
 and stayed with Amanda
 for a few days.
 
-254
-00:12:11,328 --> 00:12:13,666
+
+
 And she was so worried,
 she called Karen.
 
-255
-00:12:13,667 --> 00:12:16,674
+
+
 And she told her that she
 thinks Amanda might be on drugs.
 
-256
-00:12:16,675 --> 00:12:19,448
+
+
 And she told her that Amanda
 was being a hooker?
 
-257
-00:12:19,449 --> 00:12:21,118
+
+
 How does she know?
 
-258
-00:12:21,119 --> 00:12:23,123
+
+
 Amanda just came out
 and said it.
 
-259
-00:12:23,124 --> 00:12:25,329
+
+
 I guess she has a lot
 of money and a new house.
 
-260
-00:12:25,330 --> 00:12:27,334
+
+
 And, Taylor, you can't tell
 anybody about this
 
-261
-00:12:27,335 --> 00:12:29,171
+
+
 because Karen doesn't
 want it spread around.
 
-262
-00:12:29,172 --> 00:12:31,009
+
+
 I'm sure they're probably
 saving it for
 
-263
-00:12:31,010 --> 00:12:33,549
+
+
 that idiotic Christmas
 letter they write every year.
 
-264
-00:12:33,550 --> 00:12:37,526
+
+
 "Donny's in third grade. Larry,
 Jr. Just got his gun permit
 
-265
-00:12:37,527 --> 00:12:41,001
+
+
 and Amanda's in Vegas with some
 strange guy's baby batter in her hair."
 
-266
-00:12:41,002 --> 00:12:42,839
+
+
 - Uh, that's--
 - Don't do that. I'm driving.
 
-267
-00:12:42,840 --> 00:12:44,576
+
+
 - That's not funny.
 - Don't hit when I'm driving.
 
-268
-00:12:44,577 --> 00:12:47,584
+
+
 Listen, Karen wants to get
 Amanda into rehab
 
-269
-00:12:47,585 --> 00:12:49,756
+
+
 and there's this place
 in Malibu--
 
-270
-00:12:49,757 --> 00:12:52,062
+
+
 Clark-- Clark Baron
 Chrysalis Center.
 
-271
-00:12:52,063 --> 00:12:54,301
+
+
 - I've heard of it.
 - It's in "people" every other week.
 
-272
-00:12:54,302 --> 00:12:56,573
+
+
 They mostly deal
 with young people.
 
-273
-00:12:56,574 --> 00:13:00,015
+
+
 It's a six-week program and
 I said we would pay for it.
 
-274
-00:13:00,016 --> 00:13:03,223
+
+
 - How much?
 - $15,000.
 
-275
-00:13:03,224 --> 00:13:04,793
+
+
 Okay.
 
-276
-00:13:04,794 --> 00:13:06,631
+
+
 How do they intend
 to get her there?
 
-277
-00:13:06,632 --> 00:13:08,770
+
+
 They're hoping she's
 gonna want to go.
 
-278
-00:13:08,771 --> 00:13:11,175
+
+
 Oh, yeah, 'cause everybody
 wants to go to rehab.
 
-279
-00:13:11,176 --> 00:13:13,782
+
+
 Rehab's about the happiest
 place on earth
 
-280
-00:13:13,783 --> 00:13:15,420
+
+
 right-- right behind
 Disneyland.
 
-281
-00:13:15,421 --> 00:13:18,427
+
+
 You know, will you just please stop it?
 Because you're not helping.
 
-282
-00:13:18,428 --> 00:13:21,100
+
+
 I need a cigarette.
 
-283
-00:13:21,101 --> 00:13:24,075
+
+
 I don't think there--
 I don't thing there are any in there.
 
-284
-00:13:29,890 --> 00:13:32,228
+
+
 What are these?
 
-285
-00:13:32,229 --> 00:13:35,202
+
+
 - Oh, those. Those are-- they're old.
 - Today's the 14th.
 
-286
-00:13:35,203 --> 00:13:37,274
+
+
 - They're from months ago.
 - These are from today.
 
-287
-00:13:37,275 --> 00:13:39,512
+
+
 Uh, I'm not sure.
 
-288
-00:13:43,891 --> 00:13:48,100
+
+
 Jesus, Taylor. I asked
 you, were you at the track.
 
-289
-00:13:48,101 --> 00:13:50,172
+
+
 Well, when you asked,
 I wasn't.
 
-290
-00:13:53,415 --> 00:13:56,522
+
+
 When did you go? Before or
 after you session with Dr. Chase?
 
-291
-00:14:00,198 --> 00:14:02,035
+
+
 Can you turn the car around?
 
-292
-00:14:02,036 --> 00:14:03,772
+
+
 It's just a few bets.
 
-293
-00:14:03,773 --> 00:14:06,546
+
+
 It's no more
 than $200 tops.
 
-294
-00:14:09,588 --> 00:14:11,526
+
+
 Turn the car around.
 
-295
-00:14:12,595 --> 00:14:14,734
+
+
 All right,
 I made a mistake.
 
-296
-00:14:14,735 --> 00:14:16,772
+
+
 But I've been doing
 much better.
 
-297
-00:14:16,773 --> 00:14:19,011
+
+
 It was only a matter of time
 until I slipped up, right?
 
-298
-00:14:19,012 --> 00:14:20,714
+
+
 - You lied to me.
 - Lorraine.
 
-299
-00:14:20,715 --> 00:14:23,254
+
+
 Lorraine, don't do this.
 Don't do this-- I don't see the problem.
 
-300
-00:14:23,255 --> 00:14:25,259
+
+
 Yeah, I know you don't.
 There's this thing,
 
-301
-00:14:25,260 --> 00:14:27,331
+
+
 Taylor, in a marriage
 called "trust."
 
-302
-00:14:27,332 --> 00:14:29,804
+
+
 You and I, after so many years
 of your lies and your bullshit,
 
-303
-00:14:29,805 --> 00:14:31,374
+
+
 we don't have a lot
 of it left.
 
-304
-00:14:31,375 --> 00:14:34,081
+
+
 - I'm sorry.
 - Yeah, because you got caught.
 
-305
-00:14:34,082 --> 00:14:36,421
+
+
 'Cause you're in trouble.
 Just go home.
 
-306
-00:14:36,422 --> 00:14:37,131
+
+
 - Lorraine.
 
-307
-00:14:37,132 --> 00:14:40,029
+
+
 - Go home and figure
 out what you really want.
 
-308
-00:15:35,501 --> 00:15:38,775
+
+
 Hey. Hey, honey,
 thanks for picking up.
 
-309
-00:15:40,313 --> 00:15:43,720
+
+
 Well, what I want is to say
 that I'm an asshole.
 
-310
-00:15:43,721 --> 00:15:45,825
+
+
 But I'm gonna
 make it up to you.
 
-311
-00:15:45,826 --> 00:15:47,830
+
+
 And I'm gonna prove to you
 once and for all
 
-312
-00:15:47,831 --> 00:15:50,738
+
+
 that I can control
 the gambling.
 
-313
-00:15:50,739 --> 00:15:53,010
+
+
 <i>- I'm going to Vegas--</i>
 
-314
-00:15:53,011 --> 00:15:55,315
+
+
 Hello? Hello?
 
-315
-00:15:55,316 --> 00:15:57,118
+
+
 - Let me finish.
 I'm going to Vegas and--
 
-316
-00:15:59,528 --> 00:16:01,465
+
+
 Please let me finish.
 
-317
-00:16:01,466 --> 00:16:04,605
+
+
 I'm leaving first thing in the
 morning. I'm going to find Amanda
 
-318
-00:16:04,606 --> 00:16:06,744
+
+
 and I'm gonna take her
 to rehab.
 
-319
-00:16:06,745 --> 00:16:10,052
+
+
 And while I'm in Las Vegas,
 I'm not gonna gamble one cent.
 
-320
-00:16:10,053 --> 00:16:11,724
+
+
 <i>- Damn it!</i>
 
-321
-00:16:11,725 --> 00:16:13,394
+
+
 God damn it.
 
-322
-00:16:13,395 --> 00:16:15,633
+
+
 Okay, listen
 and don't hang up.
 
-323
-00:16:15,634 --> 00:16:18,206
+
+
 I made a mistake, yes.
 
-324
-00:16:18,207 --> 00:16:20,545
+
+
 But I'm gonna do
 this thing for Amanda
 
-325
-00:16:20,546 --> 00:16:24,221
+
+
 because-- because you are
 everything to me.
 
-326
-00:16:24,222 --> 00:16:28,599
+
+
 You-- you're my whole life
 and I love you.
 
-327
-00:16:28,600 --> 00:16:31,940
+
+
 And-- and if I lose you,
 I've--
 
-328
-00:16:31,941 --> 00:16:34,513
+
+
 I've got nothing.
 Okay?
 
-329
-00:16:37,020 --> 00:16:39,359
+
+
 Why are you answering
 her phone, Larry?
 
-330
-00:16:41,365 --> 00:16:43,669
+
+
 Just tell her
 to call me.
 
-331
-00:17:07,095 --> 00:17:09,600
+
+
 <i># there's everywhere else #</i>
 
-332
-00:17:09,601 --> 00:17:12,273
+
+
 <i># and then there's Vegas #</i>
 
-333
-00:17:14,279 --> 00:17:18,054
+
+
 <i># anywhere else just don't
 fit the bill #</i>
 
-334
-00:17:20,427 --> 00:17:22,633
+
+
 <i># you travel the world #</i>
 
-335
-00:17:22,634 --> 00:17:25,540
+
+
 <i># and then
 there's Vegas #</i>
 
-336
-00:17:25,541 --> 00:17:29,015
+
+
 <i># you feel like
 a king #</i>
 
-337
-00:17:29,016 --> 00:17:30,786
+
+
 <i># king of the whole
 damn hill... #</i>
 
-338
-00:17:30,787 --> 00:17:33,526
+
+
 - Asshole!
 
-339
-00:17:33,527 --> 00:17:35,297
+
+
 <i># Boston's got her beans... #</i>
 
-340
-00:17:35,298 --> 00:17:37,001
+
+
 It's okay.  Sorry.
 
-341
-00:17:37,002 --> 00:17:37,552
+
+
 - Thank you.
 
-342
-00:17:37,553 --> 00:17:39,340
+
+
 <i>- # Pittsburgh,she's got steel #</i>
 
-343
-00:17:39,341 --> 00:17:43,150
+
+
 <i># they won't set your heart
 to racin' #</i>
 
-344
-00:17:43,151 --> 00:17:45,923
+
+
 <i># like a spin of the wheel #</i>
 
-345
-00:17:45,924 --> 00:17:48,396
+
+
 <i># there's everywhere else #</i>
 
-346
-00:17:48,397 --> 00:17:52,072
+
+
 <i># and then there's Vegas,
 baby #</i>
 
-347
-00:17:52,073 --> 00:17:54,445
+
+
 <i># there's nowhere else #</i>
 
-348
-00:17:54,446 --> 00:17:56,148
+
+
 <i># no place I'd rather be... #</i>
 
-349
-00:17:56,149 --> 00:17:57,920
+
+
 Good to see you,
 Mr. Mendon.
 
-350
-00:18:11,053 --> 00:18:13,826
+
+
 <i># there's everywhere else #</i>
 
-351
-00:18:13,827 --> 00:18:18,137
+
+
 <i># and then there's
 Vegas, baby #</i>
 
-352
-00:18:18,138 --> 00:18:20,509
+
+
 <i># ain't no place,
 no place-- #</i>
 
-353
-00:18:20,510 --> 00:18:22,648
+
+
 This isn't your usual suite,
 Mr. Mendon.
 
-354
-00:18:22,649 --> 00:18:24,152
+
+
 No problem.
 It's fine.
 
-355
-00:18:24,153 --> 00:18:25,655
+
+
 You can just
 put that anywhere.
 
-356
-00:18:25,656 --> 00:18:27,927
+
+
 Now you've got the new plasma
 screens in every room.
 
-357
-00:18:27,928 --> 00:18:30,033
+
+
 And there's a little one
 in the bathroom.
 
-358
-00:18:30,034 --> 00:18:31,971
+
+
 Great.  It's perfect.
 You can drop that anywhere.
 
-359
-00:18:33,910 --> 00:18:35,547
+
+
 You haven't been here
 in a while, huh?
 
-360
-00:18:35,548 --> 00:18:37,050
+
+
 I've been busy
 with the show.
 
-361
-00:18:37,051 --> 00:18:39,624
+
+
 - Which one is it again?
 - "Those MacAllisters."
 
-362
-00:18:39,625 --> 00:18:42,731
+
+
 Oh, yeah.
 That show's great.
 
-363
-00:18:42,732 --> 00:18:45,772
+
+
 You get a bigger tip if you
 tell me what you really think.
 
-364
-00:18:45,773 --> 00:18:48,445
+
+
 Oh, no.
 
-365
-00:18:48,446 --> 00:18:50,049
+
+
 No, I like it.
 It's good...
 
-366
-00:18:52,022 --> 00:18:54,627
+
+
 If you like crap.
 
-367
-00:18:57,000 --> 00:18:59,306
+
+
 'Cause it's a total
 piece of shit.
 
-368
-00:18:59,307 --> 00:19:01,411
+
+
 Probably the biggest piece
 of shit in the history of--
 
-369
-00:19:01,412 --> 00:19:04,852
+
+
 Okay okay, you got greedy.
 You had the hundred but you blew it.
 
-370
-00:19:04,853 --> 00:19:06,857
+
+
 Kidding.
 
-371
-00:19:06,858 --> 00:19:09,063
+
+
 Hey, well, thanks,
 Mr. Mendon.
 
-372
-00:19:09,064 --> 00:19:11,001
+
+
 <i>- And welcome back.
 - Knock knock.</i>
 
-373
-00:19:11,002 --> 00:19:13,014
+
+
 - If there's anything else
 you want me to do...
 
-374
-00:19:13,015 --> 00:19:13,307
+
+
 - Thanks.
 
-375
-00:19:13,308 --> 00:19:14,384
+
+
 I heard you were here.
 
-376
-00:19:14,385 --> 00:19:16,047
+
+
 I came right up with extra pillows.
 
-377
-00:19:16,048 --> 00:19:17,718
+
+
 Oh, you're too good
 to me, Sally.
 
-378
-00:19:17,719 --> 00:19:19,689
+
+
 - Sharon.
 - Oh, I remember.
 
-379
-00:19:19,690 --> 00:19:21,728
+
+
 Did I leave you
 a good tip last time?
 
-380
-00:19:21,729 --> 00:19:22,672
+
+
 <i>- I think so.</i>
 
-381
-00:19:22,673 --> 00:19:24,936
+
+
 - Well, if you're not
 sure, it wasn't big enough.
 
-382
-00:19:24,937 --> 00:19:26,807
+
+
 I'm gonna leave you
 a very nice tip this visit.
 
-383
-00:19:26,808 --> 00:19:29,246
+
+
 Oh, I don't expect anything,
 Mr. Mendon.
 
-384
-00:19:29,247 --> 00:19:32,153
+
+
 It's gonna be big,
 so get ready.  I feel lucky.
 
-385
-00:19:33,659 --> 00:19:36,531
+
+
 I would like $15,000
 in cash
 
-386
-00:19:36,532 --> 00:19:41,076
+
+
 and you can hold the rest.
 Hopefully I won't need it.
 
-387
-00:19:41,077 --> 00:19:43,883
+
+
 Ooh, gosh,
 I sure hope not.
 
-388
-00:19:43,884 --> 00:19:47,658
+
+
 I'm gonna need my supervisor's
 approval on this, Mr. Mendon.
 
-389
-00:19:47,659 --> 00:19:51,101
+
+
 Why? Why?  I'm a regular--
 I'm a regular player here.
 
-390
-00:19:51,102 --> 00:19:53,874
+
+
 We need approval on
 anything over $10,000
 
-391
-00:19:53,875 --> 00:19:56,280
+
+
 and this is way
 over that amount.
 
-392
-00:19:56,281 --> 00:19:58,385
+
+
 Marty?
 
-393
-00:20:00,224 --> 00:20:03,230
+
+
 He's busy right now.
 Can you wait two seconds?
 
-394
-00:20:07,776 --> 00:20:09,613
+
+
 Is Michael Henry here?
 
-395
-00:20:09,614 --> 00:20:10,248
+
+
 Taylor, can I
 tell you something?
 
-396
-00:20:10,249 --> 00:20:11,117
+
+
 You know these people?
 
-397
-00:20:11,118 --> 00:20:12,988
+
+
 They're all about
 the money.
 
-398
-00:20:12,989 --> 00:20:15,160
+
+
 They don't see
 beyond that.
 
-399
-00:20:15,161 --> 00:20:17,733
+
+
 They don't care
 about this.
 
-400
-00:20:17,734 --> 00:20:19,471
+
+
 What is that?
 
-401
-00:20:19,472 --> 00:20:21,008
+
+
 The relationship.
 
-402
-00:20:21,009 --> 00:20:22,745
+
+
 This relationship
 right here.
 
-403
-00:20:22,746 --> 00:20:23,948
+
+
 Oh.
 
-404
-00:20:23,949 --> 00:20:26,655
+
+
 This relationship right here,
 this is real.
 
-405
-00:20:26,656 --> 00:20:29,128
+
+
 The rest of it,
 as far as I'm concerned--
 
-406
-00:20:29,129 --> 00:20:30,598
+
+
 bullshit.
 
-407
-00:20:30,599 --> 00:20:32,336
+
+
 Michael, what is
 the issue?
 
-408
-00:20:32,337 --> 00:20:35,678
+
+
 Um, we had that situation
 last time you were here--
 
-409
-00:20:35,679 --> 00:20:38,685
+
+
 I hesitate to even
 call it a situation--
 
-410
-00:20:38,686 --> 00:20:40,523
+
+
 that minor non-event.
 
-411
-00:20:40,524 --> 00:20:42,027
+
+
 I don't remember that.
 
-412
-00:20:42,028 --> 00:20:43,530
+
+
 The check that bounced.
 
-413
-00:20:43,531 --> 00:20:45,769
+
+
 That was my business
 manager's fault.
 
-414
-00:20:45,770 --> 00:20:47,340
+
+
 I told you that.
 I explained that.
 
-415
-00:20:47,341 --> 00:20:49,880
+
+
 Hey hey, you're preaching
 to the choir.
 
-416
-00:20:49,881 --> 00:20:52,052
+
+
 You're the preacher,
 I'm up in the loft.
 
-417
-00:20:52,053 --> 00:20:53,822
+
+
 I got the music,
 I'm singing.
 
-418
-00:20:53,823 --> 00:20:56,429
+
+
 And I'm also listening
 and I'm understanding.
 
-419
-00:20:56,430 --> 00:20:58,267
+
+
 And I'm in complete
 agreement.
 
-420
-00:20:58,268 --> 00:21:00,072
+
+
 - Hey, Michael.
 - Hey, look at you!
 
-421
-00:21:00,073 --> 00:21:03,012
+
+
 Look how hot you are!
 I can feel the heat way over here!
 
-422
-00:21:03,013 --> 00:21:06,721
+
+
 You bastard!  My eyebrows are
 almost completely burned off.
 
-423
-00:21:06,722 --> 00:21:09,394
+
+
 That guy's a complete prick.
 
-424
-00:21:09,395 --> 00:21:12,569
+
+
 No, he and I--
 we don't have this.
 
-425
-00:21:14,675 --> 00:21:16,479
+
+
 This is what I have
 with him.
 
-426
-00:21:16,480 --> 00:21:18,284
+
+
 Well, that looks
 like what we have.
 
-427
-00:21:18,285 --> 00:21:20,188
+
+
 What? God, no no.
 Look at this.
 
-428
-00:21:20,189 --> 00:21:22,995
+
+
 This only goes one way.
 Look, it's me giving.  Giving.
 
-429
-00:21:22,996 --> 00:21:24,732
+
+
 It looks the same to me.
 
-430
-00:21:24,733 --> 00:21:27,573
+
+
 No no, we--
 we have this.
 
-431
-00:21:27,574 --> 00:21:29,745
+
+
 - See, there it is, Daddy.
 - 'Kay.
 
-432
-00:21:29,746 --> 00:21:31,750
+
+
 I still don't understand.
 Listen,
 
-433
-00:21:31,751 --> 00:21:34,557
+
+
 Do you guys not want my action
 here? Is that what it is?
 
-434
-00:21:34,558 --> 00:21:35,693
+
+
 No no, it's not that.  No.
 
-435
-00:21:35,694 --> 00:21:37,231
+
+
 'Cause just tell me,
 Michael.
 
-436
-00:21:37,232 --> 00:21:40,104
+
+
 Because if that's true, I'll
 go across the street right now.
 
-437
-00:21:40,105 --> 00:21:43,078
+
+
 You know how much money I lose.
 They'd be thrilled to have me.
 
-438
-00:21:43,079 --> 00:21:45,116
+
+
 Okay, now you're hurting me.
 
-439
-00:21:46,922 --> 00:21:49,427
+
+
 I'll handle these pricks.
 You're good to go.
 
-440
-00:21:49,428 --> 00:21:52,334
+
+
 Go on, go get you some money
 and start having some fun.
 
-441
-00:21:52,335 --> 00:21:53,938
+
+
 <i>As they come into
 the stretch,</i>
 
-442
-00:21:53,939 --> 00:21:56,411
+
+
 <i>Dugal on the inside,
 Cootie Booton on the outside.</i>
 
-443
-00:21:56,412 --> 00:21:58,116
+
+
 <i>Dugal finding more
 of the rail</i>
 
-444
-00:21:58,117 --> 00:21:59,853
+
+
 <i>but here comes
 Cootie Booton.</i>
 
-445
-00:21:59,854 --> 00:22:01,858
+
+
 <i>Cootie Booton's finding
 another gear.</i>
 
-446
-00:22:01,859 --> 00:22:04,364
+
+
 <i>Nose to nose with Dugal.
 Here comes the wire.</i>
 
-447
-00:22:04,365 --> 00:22:05,719
+
+
 <i>Cootie Booton in front.</i>
 
-448
-00:22:05,720 --> 00:22:07,839
+
+
 <i>A desperate last lunge
 from Dugal.</i>
 
-449
-00:22:07,840 --> 00:22:09,343
+
+
 <i>Dugal wins by a nose!</i>
 
-450
-00:22:09,344 --> 00:22:11,348
+
+
 <i>Cootie Booton
 an unlucky second.</i>
 
-451
-00:22:11,349 --> 00:22:13,620
+
+
 <i>And a long way back
 to Hankus Maximus III</i>
 
-452
-00:22:13,621 --> 00:22:16,461
+
+
 <i>with Mr. Charlie
 rounding out...</i>
 
-453
-00:22:16,462 --> 00:22:19,736
+
+
 <i>Come on, three.
 There you go.</i>
 
-454
-00:22:19,737 --> 00:22:22,175
+
+
 Come on, three.
 Go, three.
 
-455
-00:22:22,176 --> 00:22:24,815
+
+
 Go, three.  Go, three.
 Go, three!
 
-456
-00:22:24,816 --> 00:22:27,421
+
+
 No, six-- three.
 No six-- three.
 
-457
-00:22:27,422 --> 00:22:29,627
+
+
 Three three three!
 Where's the wire-- the wire?
 
-458
-00:22:29,628 --> 00:22:32,133
+
+
 - Where is the wire?
 
-459
-00:22:32,134 --> 00:22:33,703
+
+
 - Three.
 - That's the winner.
 
-460
-00:22:38,016 --> 00:22:39,852
+
+
 <i>And as they head down
 the back stretch</i>
 
-461
-00:22:39,853 --> 00:22:41,723
+
+
 <i>The first time in their
 mile-and-three-quarters journey...</i>
 
-462
-00:22:47,138 --> 00:22:48,808
+
+
 <i>Cocktails.</i>
 
-463
-00:22:48,809 --> 00:22:50,211
+
+
 <i>Cocktails.</i>
 
-464
-00:22:52,986 --> 00:22:55,925
+
+
 - Miss? - What can I get you?
 
-465
-00:22:55,926 --> 00:22:57,997
+
+
 You have--
 
-466
-00:22:57,998 --> 00:23:00,837
+
+
 - Do you have Jameson's?
 - Yeah.
 
-467
-00:23:00,838 --> 00:23:03,243
+
+
 I'll take a diet coke.
 
-468
-00:23:03,244 --> 00:23:04,680
+
+
 And the Jameson's?
 
-469
-00:23:04,681 --> 00:23:07,420
+
+
 No, just the coke.
 Uh, diet.
 
-470
-00:23:07,421 --> 00:23:09,860
+
+
 You have lettuce
 on you.
 
-471
-00:23:09,861 --> 00:23:11,530
+
+
 Oh, it's this shirt.
 
-472
-00:23:11,531 --> 00:23:14,037
+
+
 It came that way.
 
-473
-00:23:14,038 --> 00:23:16,275
+
+
 Cocktails.
 
-474
-00:23:17,713 --> 00:23:19,183
+
+
 <i>Cocktails.</i>
 
-475
-00:23:35,625 --> 00:23:38,330
+
+
 <i>And that's all from
 Hapsburg, Pennsylvania.</i>
 
-476
-00:23:38,331 --> 00:23:40,669
+
+
 <i>First post tomorrow
 at 7:00 a.M.</i>
 
-477
-00:23:40,670 --> 00:23:42,809
+
+
 <i>Drive safely
 and good night.</i>
 
-478
-00:23:52,500 --> 00:23:52,944
+
+
 - Hello?
 
-479
-00:23:52,945 --> 00:23:55,106
+
+
 <i>-So you
 actually went?</i>
 
-480
-00:23:55,107 --> 00:23:58,481
+
+
 Yeah.
 How are you?
 
-481
-00:23:58,482 --> 00:24:01,054
+
+
 <i>- I'm home.
 - Good.</i>
 
-482
-00:24:01,055 --> 00:24:03,559
+
+
 There were quite a few
 calls from work today.
 
-483
-00:24:03,560 --> 00:24:05,932
+
+
 I guess you didn't tell anyone
 you were running off.
 
-484
-00:24:05,933 --> 00:24:08,304
+
+
 They camera-blocked all day.
 They didn't need me.
 
-485
-00:24:08,305 --> 00:24:10,209
+
+
 If they call again,
 tell them I'll be back
 
-486
-00:24:10,210 --> 00:24:12,214
+
+
 by show time
 tomorrow night.
 
-487
-00:24:12,215 --> 00:24:14,988
+
+
 Or I'll call them. Yeah,
 I'll be back. Don't worry.
 
-488
-00:24:14,989 --> 00:24:16,826
+
+
 <i>How much
 have you lost?</i>
 
-489
-00:24:16,827 --> 00:24:19,265
+
+
 Honey-- honey, this is
 not about gambling.
 
-490
-00:24:19,266 --> 00:24:20,702
+
+
 I told you.
 
-491
-00:24:20,703 --> 00:24:23,041
+
+
 Even if I wanted to gamble,
 where would I get the money?
 
-492
-00:24:23,042 --> 00:24:25,815
+
+
 I don't have an ATM card.
 I don't have my checkbook.
 
-493
-00:24:25,816 --> 00:24:28,856
+
+
 <i>I don't have any access to cash.
 This is not about gambling.</i>
 
-494
-00:24:30,360 --> 00:24:32,598
+
+
 <i>Hello?</i>
 
-495
-00:24:32,599 --> 00:24:35,038
+
+
 Do you know where
 the Aztec Casino is?
 
-496
-00:24:35,039 --> 00:24:36,876
+
+
 The Aztec? What, you mean
 like the Indians?
 
-497
-00:24:39,817 --> 00:24:42,389
+
+
 <i>I spoke to Lauren a little
 while ago-- Amanda's friend.</i>
 
-498
-00:24:42,390 --> 00:24:44,193
+
+
 <i>She said that's the name
 of the casino</i>
 
-499
-00:24:44,194 --> 00:24:46,900
+
+
 <i>Where Amanda hangs out
 to do her work.</i>
 
-500
-00:24:48,372 --> 00:24:50,376
+
+
 <i>If you're really serious
 about finding her,</i>
 
-501
-00:24:50,377 --> 00:24:51,913
+
+
 <i>you might want
 to start there.</i>
 
-502
-00:24:55,456 --> 00:24:57,928
+
+
 Cocktails.
 Cocktails.
 
-503
-00:25:05,013 --> 00:25:06,448
+
+
 What can I get you?
 
-504
-00:25:06,449 --> 00:25:07,718
+
+
 Club soda.
 
-505
-00:25:07,719 --> 00:25:09,189
+
+
 <i>cocktails?</i>
 
-506
-00:25:09,190 --> 00:25:11,194
+
+
 Interesting theme
 for a casino.
 
-507
-00:25:11,195 --> 00:25:14,535
+
+
 You know, the Aztecs
 performed human sacrifices.
 
-508
-00:25:14,536 --> 00:25:17,242
+
+
 That's one of the reasons
 they were wiped out by Cortez
 
-509
-00:25:17,243 --> 00:25:19,415
+
+
 - and the conquistadors.
 - I wouldn't know.
 
-510
-00:25:19,416 --> 00:25:21,954
+
+
 We don't get a lot
 of 'em in here.
 
-511
-00:25:21,955 --> 00:25:23,458
+
+
 Right.
 
-512
-00:25:23,459 --> 00:25:27,067
+
+
 So-- so listen,
 I'm in town by myself.
 
-513
-00:25:27,068 --> 00:25:28,537
+
+
 Okay.
 
-514
-00:25:28,538 --> 00:25:32,212
+
+
 And, you know how it is.
 It gets-- gets a little lonely at night.
 
-515
-00:25:32,213 --> 00:25:33,549
+
+
 Sure.
 
-516
-00:25:33,550 --> 00:25:35,655
+
+
 So I was hoping to
 find some company.
 
-517
-00:25:35,656 --> 00:25:37,793
+
+
 - Company?
 - Right.
 
-518
-00:25:37,794 --> 00:25:39,631
+
+
 You're asking me
 about some company?
 
-519
-00:25:39,632 --> 00:25:42,405
+
+
 Right.
 
-520
-00:25:42,406 --> 00:25:44,544
+
+
 I get off at 2:00.
 
-521
-00:25:44,545 --> 00:25:46,549
+
+
 I don't kiss, I don't call you
 "sweetheart" or "darling,"
 
-522
-00:25:46,550 --> 00:25:48,185
+
+
 And I don't take it
 in the ass.
 
-523
-00:25:48,186 --> 00:25:49,455
+
+
 Oh now, hold on.
 
-524
-00:25:49,456 --> 00:25:50,592
+
+
 Cash only.
 
-525
-00:25:50,593 --> 00:25:52,429
+
+
 No, I'm looking
 for a girl.
 
-526
-00:25:52,430 --> 00:25:54,067
+
+
 I don't do three-ways.
 
-527
-00:25:54,068 --> 00:25:55,939
+
+
 No, just a girl.
 
-528
-00:25:55,940 --> 00:25:57,509
+
+
 I'm looking for
 just a girl.
 
-529
-00:25:59,213 --> 00:26:00,650
+
+
 Oh.
 
-530
-00:26:00,651 --> 00:26:02,321
+
+
 Check over
 by the elevators.
 
-531
-00:26:02,322 --> 00:26:04,025
+
+
 Thanks.
 
-532
-00:26:05,496 --> 00:26:07,534
+
+
 I'm super-hung
 if it makes any difference.
 
-533
-00:26:07,535 --> 00:26:09,004
+
+
 It doesn't.
 
-534
-00:26:12,480 --> 00:26:14,517
+
+
 Oh, fine.
 You and your friend,
 
-535
-00:26:14,518 --> 00:26:16,623
+
+
 you're not gonna
 leave me alone, are you?
 
-536
-00:26:16,624 --> 00:26:17,105
+
+
 <i>- No?</i>
 
-537
-00:26:17,106 --> 00:26:18,628
+
+
 <i>We appreciate it, though.</i>
 
-538
-00:26:18,629 --> 00:26:20,699
+
+
 <i>- Have fun.
 - You guys.</i>
 
-539
-00:26:20,700 --> 00:26:23,006
+
+
 Hey, stud, how--
 
-540
-00:26:23,007 --> 00:26:26,347
+
+
 Oh my God.
 Oh, my gosh!
 
-541
-00:26:26,348 --> 00:26:28,151
+
+
 - Hi, stranger.
 - Uncle Taylor!
 
-542
-00:26:28,152 --> 00:26:29,488
+
+
 What are you doing here?
 
-543
-00:26:29,489 --> 00:26:30,991
+
+
 Well, you know,
 me and Aztecs.
 
-544
-00:26:30,992 --> 00:26:33,331
+
+
 How's Aunt Lorraine?
 Is she here?
 
-545
-00:26:33,332 --> 00:26:34,968
+
+
 No, she's home.
 
-546
-00:26:34,969 --> 00:26:39,379
+
+
 This is-- well, this
 is a nice surprise.
 
-547
-00:26:39,380 --> 00:26:40,849
+
+
 Yeah.
 
-548
-00:26:40,850 --> 00:26:43,623
+
+
 So do you want to go and talk
 someplace? You know, catch up?
 
-549
-00:26:43,624 --> 00:26:47,499
+
+
 Um, yeah, I would love that.
 I just-- I really can't right now.
 
-550
-00:26:47,500 --> 00:26:49,170
+
+
 Can you take a break?
 
-551
-00:26:49,171 --> 00:26:51,309
+
+
 I can't.  Slow night.
 Gotta make the rent.
 
-552
-00:26:51,310 --> 00:26:53,748
+
+
 Hi, sweetheart.
 I love your shirt.
 
-553
-00:26:53,749 --> 00:26:55,218
+
+
 Go down on me for free,
 it's yours.
 
-554
-00:26:55,219 --> 00:26:58,059
+
+
 Guys, guys, is that
 really necessary?
 
-555
-00:26:58,060 --> 00:26:59,896
+
+
 - It's okay.
 
-556
-00:26:59,897 --> 00:27:01,434
+
+
 That was rude.
 
-557
-00:27:01,435 --> 00:27:04,208
+
+
 Um, listen, Uncle Taylor,
 I really need you to, um...
 
-558
-00:27:04,209 --> 00:27:05,911
+
+
 I know what
 you're doing, Amanda.
 
-559
-00:27:05,912 --> 00:27:07,148
+
+
 What?
 
-560
-00:27:07,149 --> 00:27:08,685
+
+
 I know what
 you're doing here.
 
-561
-00:27:08,686 --> 00:27:12,228
+
+
 Yeah, I think everyone
 knows what I'm doing here.
 
-562
-00:27:12,229 --> 00:27:13,664
+
+
 You don't care?
 
-563
-00:27:13,665 --> 00:27:16,070
+
+
 Why should I care?
 It's my job.
 
-564
-00:27:16,071 --> 00:27:17,675
+
+
 Shit.
 
-565
-00:27:17,676 --> 00:27:19,612
+
+
 This asshole.
 
-566
-00:27:22,086 --> 00:27:23,622
+
+
 Hi.
 
-567
-00:27:25,361 --> 00:27:26,930
+
+
 This young lady
 bothering you, sir?
 
-568
-00:27:26,931 --> 00:27:28,200
+
+
 No.
 Thank you for asking.
 
-569
-00:27:28,201 --> 00:27:29,905
+
+
 I'm not talking to you,
 am I, sweetheart?
 
-570
-00:27:29,906 --> 00:27:31,709
+
+
 No, I'm fine.
 This is my niece.
 
-571
-00:27:31,710 --> 00:27:34,048
+
+
 Oh, really?
 Never heard that one before.
 
-572
-00:27:34,049 --> 00:27:35,886
+
+
 You a guest
 at the hotel?
 
-573
-00:27:35,887 --> 00:27:37,958
+
+
 No, I'm staying
 at the--
 
-574
-00:27:37,959 --> 00:27:39,729
+
+
 Feel free to enjoy
 the casino,
 
-575
-00:27:39,730 --> 00:27:41,767
+
+
 But elevators are for
 hotel guests, okay?
 
-576
-00:27:41,768 --> 00:27:43,672
+
+
 - Thanks.
 - Okay.
 
-577
-00:27:45,444 --> 00:27:48,250
+
+
 Prick. Give him 20 bucks, he doesn't
 hassle you for a couple hours.
 
-578
-00:27:48,251 --> 00:27:50,288
+
+
 So, can we talk?
 
-579
-00:27:50,289 --> 00:27:52,394
+
+
 Listen, I really
 gotta go.  Okay?
 
-580
-00:27:52,395 --> 00:27:54,833
+
+
 - What time do you get off?
 - Um, one more customer.
 
-581
-00:27:54,834 --> 00:27:56,303
+
+
 - Can you hang?
 - Sure.
 
-582
-00:27:56,304 --> 00:27:58,275
+
+
 All right, I'll meet you
 out front by Azi.
 
-583
-00:27:58,276 --> 00:27:58,538
+
+
 - Who?
 
-584
-00:27:58,539 --> 00:27:59,979
+
+
 - The big statue guy in the lobby.
 
-585
-00:27:59,980 --> 00:28:01,449
+
+
 - Great.  Okay.
 - Okay?
 
-586
-00:28:01,450 --> 00:28:02,953
+
+
 Bye.
 
-587
-00:28:02,954 --> 00:28:05,526
+
+
 - Howdy, you.
 - Hey, gorgeous.
 
-588
-00:28:05,527 --> 00:28:07,965
+
+
 <i>- What are you doing tonight?
 - I'm not doing nothing.</i>
 
-589
-00:28:07,966 --> 00:28:09,536
+
+
 Or nobody.
 
-590
-00:28:09,537 --> 00:28:12,710
+
+
 Oh, well, we're gonna have
 to change that now, won't we?
 
-591
-00:28:12,711 --> 00:28:14,749
+
+
 Ooh wee!
 Ah!
 
-592
-00:28:14,750 --> 00:28:16,352
+
+
 <i>So, where are you from,
 cowboy?</i>
 
-593
-00:28:16,353 --> 00:28:19,327
+
+
 <i>I'm from Burbank,
 Californ-ay-a!</i>
 
-594
-00:28:19,328 --> 00:28:22,034
+
+
 <i>They got real cowboys
 in Burbank.</i>
 
-595
-00:28:22,035 --> 00:28:24,707
+
+
 <i>Do they really?
 Well, I got my boots on!</i>
 
-596
-00:28:27,080 --> 00:28:28,684
+
+
 This is a nice car.
 
-597
-00:28:28,685 --> 00:28:30,221
+
+
 Thank you.
 I just got it.
 
-598
-00:28:32,595 --> 00:28:34,598
+
+
 Isn't that
 the best smell?
 
-599
-00:28:34,599 --> 00:28:37,472
+
+
 It's the best smell. I mean,
 it probably causes cancer,
 
-600
-00:28:37,473 --> 00:28:38,976
+
+
 but all
 the good stuff does.
 
-601
-00:28:38,977 --> 00:28:43,554
+
+
 Yep.  Cigarettes, asbestos,
 high-tension power lines.
 
-602
-00:28:43,555 --> 00:28:46,528
+
+
 Soon there'll be nothing
 left to enjoy.
 
-603
-00:28:46,529 --> 00:28:48,566
+
+
 <i>So, where do you
 want to talk?</i>
 
-604
-00:28:48,567 --> 00:28:49,969
+
+
 Oh, I know a place.
 
-605
-00:28:49,970 --> 00:28:51,974
+
+
 I just have to go home
 and change first.
 
-606
-00:28:51,975 --> 00:28:53,979
+
+
 And you have to see
 my house. Oh, my gosh,
 
-607
-00:28:53,980 --> 00:28:55,951
+
+
 my gorgeous,
 fabulous house.
 
-608
-00:28:55,952 --> 00:28:58,324
+
+
 I love it so much.
 
-609
-00:28:58,325 --> 00:29:01,398
+
+
 Greg?  Baby?
 
-610
-00:29:01,399 --> 00:29:02,968
+
+
 Hello?
 
-611
-00:29:02,969 --> 00:29:04,673
+
+
 Where should
 I put these?
 
-612
-00:29:04,674 --> 00:29:06,911
+
+
 Oh, just over here
 by the door.
 
-613
-00:29:06,912 --> 00:29:08,783
+
+
 Trying to keep
 the carpet nice.
 
-614
-00:29:12,259 --> 00:29:14,063
+
+
 Come on in.
 
-615
-00:29:14,064 --> 00:29:15,868
+
+
 Isn't it perfect?
 
-616
-00:29:15,869 --> 00:29:18,641
+
+
 Everything in here
 is just perfection.
 
-617
-00:29:18,642 --> 00:29:20,846
+
+
 Well, except for
 that lamp
 
-618
-00:29:20,847 --> 00:29:23,386
+
+
 because it looks perfect,
 but it's a little high
 
-619
-00:29:23,387 --> 00:29:24,890
+
+
 and the wall's
 a little low.
 
-620
-00:29:24,891 --> 00:29:28,331
+
+
 And so, 'cause the lamp
 is high, it doesn't really--
 
-621
-00:29:28,332 --> 00:29:30,069
+
+
 do you know what I mean?
 
-622
-00:29:30,070 --> 00:29:32,508
+
+
 Anyway, I'm gonna take it back in
 the next couple weeks anyway, so--
 
-623
-00:29:32,509 --> 00:29:36,351
+
+
 Okay, I'm gonna go pee.
 You stay here, make yourself cozy.
 
-624
-00:29:36,352 --> 00:29:37,821
+
+
 Be right back.
 
-625
-00:29:42,501 --> 00:29:45,608
+
+
 Don't tell me to shut up.
 Why do you have to be so mean?
 
-626
-00:29:45,609 --> 00:29:47,613
+
+
 Who are you?
 
-627
-00:29:47,614 --> 00:29:49,885
+
+
 I came with Amanda.
 She's in the bathroom.
 
-628
-00:29:49,886 --> 00:29:52,491
+
+
 <i>Better not be a fuckin' john.</i>
 
-629
-00:29:52,492 --> 00:29:53,695
+
+
 No, I'm her Uncle.
 
-630
-00:29:53,696 --> 00:29:55,065
+
+
 - Hi.
 - Get out.
 
-631
-00:29:55,066 --> 00:29:57,705
+
+
 I am going.
 You are such an asshole.
 
-632
-00:29:57,706 --> 00:29:58,974
+
+
 Just go.
 
-633
-00:29:58,975 --> 00:30:00,377
+
+
 Call me.
 
-634
-00:30:07,162 --> 00:30:09,367
+
+
 - You're the television guy?
 - Guilty.
 
-635
-00:30:16,051 --> 00:30:18,589
+
+
 <i>- Amanda! - Oh, hi, baby.</i>
 
-636
-00:30:18,590 --> 00:30:20,294
+
+
 <i>I'll be right out.</i>
 
-637
-00:30:20,295 --> 00:30:22,098
+
+
 <i>Oh, you guys, I have
 a really great idea.</i>
 
-638
-00:30:22,099 --> 00:30:23,402
+
+
 <i>I'll be two seconds.</i>
 
-639
-00:30:25,441 --> 00:30:27,645
+
+
 You can tell Amanda
 about the girl if you want.
 
-640
-00:30:27,646 --> 00:30:28,747
+
+
 It's no big deal.
 
-641
-00:30:28,748 --> 00:30:30,218
+
+
 Oh, no, I'm not
 planning on--
 
-642
-00:30:30,219 --> 00:30:32,357
+
+
 You can if you want to.
 No big secret.
 
-643
-00:30:32,358 --> 00:30:34,662
+
+
 - It's none of my business.
 - She knows about the other chicks.
 
-644
-00:30:34,663 --> 00:30:36,032
+
+
 Is there more than one?
 
-645
-00:30:36,033 --> 00:30:38,472
+
+
 Oh, yeah. Yeah.
 Just the way it has to be.
 
-646
-00:30:38,473 --> 00:30:41,479
+
+
 I don't follow that.
 
-647
-00:30:42,917 --> 00:30:45,389
+
+
 Amanda's out banging all these
 strange guys all the time.
 
-648
-00:30:45,390 --> 00:30:47,194
+
+
 I gotta deal with that,
 you know?
 
-649
-00:30:47,195 --> 00:30:48,797
+
+
 So I bang other chicks.
 
-650
-00:30:48,798 --> 00:30:50,301
+
+
 It keeps it equal.
 
-651
-00:30:50,302 --> 00:30:53,409
+
+
 Keep the playing field flat,
 you know?
 
-652
-00:30:53,410 --> 00:30:55,748
+
+
 - Flat.
 - I see.
 
-653
-00:30:55,749 --> 00:30:57,419
+
+
 Yeah.
 
-654
-00:30:58,754 --> 00:31:00,924
+
+
 Don't say anything
 about the girl.
 
-655
-00:31:00,925 --> 00:31:03,029
+
+
 - I thought you just said--
 - Just keep your fucking mouth shut.
 
-656
-00:31:04,800 --> 00:31:06,937
+
+
 - Hi, baby.
 - Hi, baby.
 
-657
-00:31:06,938 --> 00:31:08,139
+
+
 Hi.
 
-658
-00:31:08,140 --> 00:31:10,277
+
+
 Mmm, I missed you.
 
-659
-00:31:12,316 --> 00:31:14,653
+
+
 - Hi.
 - Okay, that's enough.
 
-660
-00:31:14,654 --> 00:31:17,826
+
+
 Look at my big man.
 Isn't he gorgeous?
 
-661
-00:31:17,827 --> 00:31:19,730
+
+
 <i>So gorgeous.</i>
 
-662
-00:31:19,731 --> 00:31:21,734
+
+
 Hey, we're gonna go someplace
 and hang out. You wanna come?
 
-663
-00:31:21,735 --> 00:31:24,173
+
+
 Oh, no no.
 Babe, I'm real tired.
 
-664
-00:31:24,174 --> 00:31:26,612
+
+
 Greg, damn it!
 Coaster.
 
-665
-00:31:26,613 --> 00:31:28,382
+
+
 I'm sorry,
 I forgot.
 
-666
-00:31:28,383 --> 00:31:30,253
+
+
 <i>I'm trying to keep things
 nice around here.</i>
 
-667
-00:31:30,254 --> 00:31:32,825
+
+
 - I mean, fuck me.
 - I'm sorry.  Christ.
 
-668
-00:31:34,529 --> 00:31:37,535
+
+
 No no no, I'm sorry.
 I'm sorry.
 
-669
-00:31:37,536 --> 00:31:39,839
+
+
 He endures
 my little outbursts.
 
-670
-00:31:39,840 --> 00:31:41,376
+
+
 <i>Don't you, baby?</i>
 
-671
-00:31:41,377 --> 00:31:43,380
+
+
 Greg is going to school.
 
-672
-00:31:43,381 --> 00:31:45,685
+
+
 Tell him.
 
-673
-00:31:48,959 --> 00:31:51,932
+
+
 Refrigeration.
 Learn the heating and cooling business.
 
-674
-00:31:51,933 --> 00:31:54,938
+
+
 My focus is more
 on cooling.
 
-675
-00:31:54,939 --> 00:31:57,310
+
+
 So, a lot of
 money in that?
 
-676
-00:31:57,311 --> 00:31:59,147
+
+
 Coolness?
 
-677
-00:31:59,148 --> 00:32:02,186
+
+
 Global warming?
 Ever hear of it?
 
-678
-00:32:02,187 --> 00:32:04,424
+
+
 What an idiot.
 
-679
-00:32:04,425 --> 00:32:07,096
+
+
 I forgot to tell you
 about my brilliant idea.
 
-680
-00:32:07,097 --> 00:32:09,268
+
+
 You should come over tomorrow
 night and I'll cook dinner.
 
-681
-00:32:09,269 --> 00:32:12,040
+
+
 - That'd be nice.
 - Yeah?
 
-682
-00:32:12,041 --> 00:32:13,443
+
+
 You'll be home.
 Right, baby?
 
-683
-00:32:13,444 --> 00:32:14,880
+
+
 I guess.
 I might be tired.
 
-684
-00:32:14,881 --> 00:32:16,884
+
+
 Oh, no no.
 You'll be fine.
 
-685
-00:32:16,885 --> 00:32:19,456
+
+
 Come on.  Okay, now
 I have to plan a menu.
 
-686
-00:32:19,457 --> 00:32:21,326
+
+
 Oh, I'm so excited.
 
-687
-00:32:21,327 --> 00:32:24,834
+
+
 Okay, I'm gonna go change.
 You guys bond.
 
-688
-00:32:31,482 --> 00:32:34,388
+
+
 You could tell Amanda
 about the girl if you want.
 
-689
-00:32:36,025 --> 00:32:38,129
+
+
 But don't.
 
-690
-00:32:38,130 --> 00:32:39,899
+
+
 I'm fuckin' serious,
 asshole.
 
-691
-00:32:50,656 --> 00:32:52,793
+
+
 Did you love Greg?
 
-692
-00:32:52,794 --> 00:32:55,432
+
+
 Don't you just love him?
 He's so hot.
 
-693
-00:32:55,433 --> 00:32:57,136
+
+
 Don't you think
 he's hot?
 
-694
-00:32:57,137 --> 00:32:58,505
+
+
 Yes, he's hot.
 
-695
-00:32:58,506 --> 00:33:00,342
+
+
 Hot and sociopathic.
 
-696
-00:33:00,343 --> 00:33:01,712
+
+
 <i>- What?
 - Nothing.</i>
 
-697
-00:33:01,713 --> 00:33:03,749
+
+
 He's very very hot.
 
-698
-00:33:03,750 --> 00:33:05,753
+
+
 He doesn't mind
 your chosen profession?
 
-699
-00:33:05,754 --> 00:33:06,388
+
+
 Why should he?
 
-700
-00:33:06,389 --> 00:33:08,425
+
+
 My profession pays for
 his school, his clothes
 
-701
-00:33:08,426 --> 00:33:10,163
+
+
 and his brand-new truck.
 
-702
-00:33:10,164 --> 00:33:11,866
+
+
 I keep my boy very happy.
 
-703
-00:33:11,867 --> 00:33:13,202
+
+
 Where are we going?
 
-704
-00:33:13,203 --> 00:33:15,607
+
+
 Oh, I know a place up
 the strip that doesn't card me.
 
-705
-00:33:15,608 --> 00:33:17,946
+
+
 But we got to make
 one more stop first.
 
-706
-00:33:21,353 --> 00:33:22,956
+
+
 <i>( helicopter buzzing )</i>
 
-707
-00:33:24,994 --> 00:33:26,898
+
+
 Is the car gonna
 be okay here?
 
-708
-00:33:26,899 --> 00:33:28,836
+
+
 <i>- Oh, yeah, sure.</i>
 
-709
-00:33:28,837 --> 00:33:30,539
+
+
 How about us?
 
-710
-00:33:30,540 --> 00:33:33,144
+
+
 So, anyway, I came here--
 it was, like, last year
 
-711
-00:33:33,145 --> 00:33:35,816
+
+
 and I got a job at the
 International House of Pancakes.
 
-712
-00:33:35,817 --> 00:33:37,720
+
+
 <i>- Do you know it?
 - Yeah.</i>
 
-713
-00:33:37,721 --> 00:33:40,460
+
+
 Yeah, I usually say IHOP,
 'cause it's shorter,
 
-714
-00:33:40,461 --> 00:33:42,631
+
+
 but I wasn't sure
 if you'd heard of it.
 
-715
-00:33:42,632 --> 00:33:45,036
+
+
 Oh, well, it lists both names
 in Zagat, so I'm good.
 
-716
-00:33:45,037 --> 00:33:46,505
+
+
 So, anyway,
 
-717
-00:33:46,506 --> 00:33:50,347
+
+
 my friend Michelle-- she worked
 with me but she was a hostess--
 
-718
-00:33:50,348 --> 00:33:52,518
+
+
 she got this job
 dancing at this club.
 
-719
-00:33:52,519 --> 00:33:54,289
+
+
 - Dancing?
 - Stripping.
 
-720
-00:33:54,290 --> 00:33:56,727
+
+
 She was making huge money,
 no taxes.
 
-721
-00:33:56,728 --> 00:33:58,999
+
+
 - Everything under the table.
 - Including Michelle, no doubt.
 
-722
-00:33:59,000 --> 00:34:01,538
+
+
 Oh, poor guy.
 
-723
-00:34:01,539 --> 00:34:03,642
+
+
 - I hate to see that.
 - Mmm.
 
-724
-00:34:03,643 --> 00:34:07,216
+
+
 So, anyway, she introduces me
 to the owner of the club.
 
-725
-00:34:07,217 --> 00:34:09,220
+
+
 Before you know it,
 I'm dancing.
 
-726
-00:34:09,221 --> 00:34:10,857
+
+
 - Stripping?
 - Yeah.
 
-727
-00:34:10,858 --> 00:34:12,961
+
+
 And you just started,
 just like that?
 
-728
-00:34:12,962 --> 00:34:15,767
+
+
 Well, you don't really need
 a lot of training to strip.
 
-729
-00:34:15,768 --> 00:34:18,507
+
+
 I mean, I've taken off my clothes
 every night before I go to bed.
 
-730
-00:34:18,508 --> 00:34:20,544
+
+
 - You know?
 
-731
-00:34:20,545 --> 00:34:22,515
+
+
 Oh, my gosh!
 
-732
-00:34:22,516 --> 00:34:24,185
+
+
 - What was that?
 - I don't know.
 
-733
-00:34:24,186 --> 00:34:26,222
+
+
 Shit. Scared me.
 
-734
-00:34:26,223 --> 00:34:28,226
+
+
 - Did you see me jump?
 - Just keep walking.
 
-735
-00:34:28,227 --> 00:34:30,765
+
+
 Oh my God.
 So, yeah, no training.
 
-736
-00:34:30,766 --> 00:34:33,538
+
+
 Except I took a
 pole-dancing seminar once.
 
-737
-00:34:33,539 --> 00:34:35,542
+
+
 - That's it.
 - They have seminars in pole dancing?
 
-738
-00:34:35,543 --> 00:34:37,747
+
+
 Yeah, at the local
 community college.
 
-739
-00:34:37,748 --> 00:34:40,118
+
+
 Isn't Vegas the best?
 
-740
-00:34:40,119 --> 00:34:43,692
+
+
 I killed at the club. I had this whole
 "Sweet Young Thing" working for me.
 
-741
-00:34:43,693 --> 00:34:46,298
+
+
 Every guy who pays for a blowjob
 wants to get it from a girl
 
-742
-00:34:46,299 --> 00:34:48,302
+
+
 who looks like she's never
 given one before.
 
-743
-00:34:48,303 --> 00:34:49,286
+
+
 - That's my look.
 
-744
-00:34:49,287 --> 00:34:51,542
+
+
 - You do remember
 I'm your uncle, right?
 
-745
-00:34:54,683 --> 00:34:56,286
+
+
 - Yeah?
 - Hi.
 
-746
-00:34:56,287 --> 00:34:58,290
+
+
 - Is Link here?
 - You picking up?
 
-747
-00:34:58,291 --> 00:34:59,826
+
+
 Yeah, he knows.
 
-748
-00:34:59,827 --> 00:35:01,062
+
+
 Shut the door.
 
-749
-00:35:03,001 --> 00:35:04,771
+
+
 This will only take
 two seconds.
 
-750
-00:35:04,772 --> 00:35:05,538
+
+
 Cool.
 
-751
-00:35:13,924 --> 00:35:16,094
+
+
 - Hey, you want some?
 - Uh, no.
 
-752
-00:35:16,095 --> 00:35:19,000
+
+
 No, thanks.
 I'm-- I'm married.
 
-753
-00:35:19,001 --> 00:35:21,439
+
+
 - Really?
 - Yeah.
 
-754
-00:35:21,440 --> 00:35:22,324
+
+
 - Oh, so is she.
 
-755
-00:35:22,325 --> 00:35:24,646
+
+
 - That's nice, to have
 something in common.
 
-756
-00:35:24,647 --> 00:35:26,984
+
+
 <i>My mouth's watering already. </i>
 
-757
-00:35:26,985 --> 00:35:29,322
+
+
 Okay, you can
 come back now.
 
-758
-00:35:29,323 --> 00:35:31,827
+
+
 Yeah. Enjoy.
 
-759
-00:35:31,828 --> 00:35:35,001
+
+
 Here's your pony, sweetness,
 all saddled up and ready to ride.
 
-760
-00:35:35,002 --> 00:35:37,005
+
+
 - Thank you, sir.
 - You're welcome. You'll love it.
 
-761
-00:35:37,006 --> 00:35:38,875
+
+
 - Hey, how's B.V.?
 - He's great.
 
-762
-00:35:38,876 --> 00:35:41,180
+
+
 Good.  Good, you tell him it should
 be ready by the end of the week.
 
-763
-00:35:41,181 --> 00:35:43,385
+
+
 Okay.
 
-764
-00:35:43,386 --> 00:35:46,892
+
+
 Hey, what's with
 Principal Skinner?
 
-765
-00:35:46,893 --> 00:35:48,896
+
+
 He's cool.
 He's my uncle.
 
-766
-00:35:48,897 --> 00:35:50,733
+
+
 - No shit?
 - Yeah.
 
-767
-00:35:50,734 --> 00:35:52,003
+
+
 No, none at all.
 Hi.
 
-768
-00:35:52,004 --> 00:35:54,776
+
+
 Hey.
 Hey, your uncle?
 
-769
-00:35:54,777 --> 00:35:56,980
+
+
 Wow.
 I had an uncle once.
 
-770
-00:35:56,981 --> 00:36:00,054
+
+
 Or I killed some gook's uncle in 'Nam.
 I can't remember which.
 
-771
-00:36:00,055 --> 00:36:01,690
+
+
 - How's it going?
 - Good.
 
-772
-00:36:01,691 --> 00:36:03,628
+
+
 - You?
 - Well, I got no legs.
 
-773
-00:36:03,629 --> 00:36:05,865
+
+
 I got no balls.
 I piss out of a tube.
 
-774
-00:36:05,866 --> 00:36:08,003
+
+
 How the fuck do you
 think it's going?
 
-775
-00:36:08,004 --> 00:36:10,809
+
+
 Right, but getting
 the good parking spaces
 
-776
-00:36:10,810 --> 00:36:13,114
+
+
 must take some
 of the sting out of it.
 
-777
-00:36:14,785 --> 00:36:16,253
+
+
 You're funny.
 
-778
-00:36:16,254 --> 00:36:18,559
+
+
 He's funny.
 You're funny.
 
-779
-00:36:18,560 --> 00:36:20,796
+
+
 Thank you.
 Good to meet you.
 
-780
-00:36:20,797 --> 00:36:21,999
+
+
 Good to meet you.
 
-781
-00:36:22,000 --> 00:36:24,237
+
+
 I'd like to introduce you
 to my better half.
 
-782
-00:36:24,238 --> 00:36:26,976
+
+
 Unfortunately, it got blown off
 10 kliks out the Haiphong.
 
-783
-00:36:26,977 --> 00:36:29,081
+
+
 You were in the shit?
 
-784
-00:36:29,082 --> 00:36:31,419
+
+
 Up to my neck,
 sweetie.
 
-785
-00:36:31,420 --> 00:36:32,889
+
+
 Up to my neck.
 
-786
-00:36:32,890 --> 00:36:35,561
+
+
 Hey, you want
 something?
 
-787
-00:36:35,562 --> 00:36:37,899
+
+
 - No, I'm good.
 - Come on!
 
-788
-00:36:37,900 --> 00:36:40,138
+
+
 You're in Vegas, queer-bait.
 Loosen up a little.
 
-789
-00:36:40,139 --> 00:36:41,941
+
+
 Good point.
 You have any pot?
 
-790
-00:36:41,942 --> 00:36:43,512
+
+
 Pot?
 
-791
-00:36:43,513 --> 00:36:46,785
+
+
 Who the fuck smokes
 pot anymore?  Pot?
 
-792
-00:36:46,786 --> 00:36:48,008
+
+
 Hell, they ought to take pot,
 
-793
-00:36:48,009 --> 00:36:50,325
+
+
 they ought to hang it on the
 wall of a museum somewhere.
 
-794
-00:36:50,326 --> 00:36:53,398
+
+
 That's how old pot is.
 Pot is old, motherfucker.
 
-795
-00:36:53,399 --> 00:36:54,668
+
+
 So you don't have any?
 
-796
-00:36:56,306 --> 00:36:58,676
+
+
 Oh.
 Hey, TJ?
 
-797
-00:36:59,914 --> 00:37:01,248
+
+
 Yeah?
 
-798
-00:37:01,249 --> 00:37:02,685
+
+
 Hey, go around back.
 See if my mom's up.
 
-799
-00:37:05,525 --> 00:37:07,595
+
+
 Pot.
 
-800
-00:37:07,596 --> 00:37:11,571
+
+
 This pot is terrible.
 It's all stems and seeds.
 
-801
-00:37:11,572 --> 00:37:15,512
+
+
 Link's a good guy, but that
 stuff in 'Nam? Never happened.
 
-802
-00:37:15,513 --> 00:37:16,948
+
+
 I don't even think
 it's pot.
 
-803
-00:37:16,949 --> 00:37:19,520
+
+
 - Might be marjoram.
 - When he was 15,
 
-804
-00:37:19,521 --> 00:37:22,961
+
+
 he got drunk one night and a train
 ran him over and cut him in half.
 
-805
-00:37:22,962 --> 00:37:24,498
+
+
 Can you imagine that?
 
-806
-00:37:24,499 --> 00:37:26,502
+
+
 Getting cut in half
 by a train?
 
-807
-00:37:26,503 --> 00:37:27,838
+
+
 That would suck.
 
-808
-00:37:27,839 --> 00:37:29,407
+
+
 Beats getting cut
 in thirds.
 
-809
-00:37:29,408 --> 00:37:31,913
+
+
 - What did you get?
 - Oh, it's not for me.
 
-810
-00:37:31,914 --> 00:37:34,218
+
+
 I have this friend,
 she's an addict
 
-811
-00:37:34,219 --> 00:37:35,888
+
+
 and she got busted
 a couple times,
 
-812
-00:37:35,889 --> 00:37:38,761
+
+
 so I buy for her.
 A little less every other week.
 
-813
-00:37:38,762 --> 00:37:41,266
+
+
 - Not for you?
 - I think I just said that.
 
-814
-00:37:41,267 --> 00:37:43,437
+
+
 We have to make
 one more stop.
 
-815
-00:37:50,052 --> 00:37:51,922
+
+
 Isn't Kyoki great?
 
-816
-00:37:51,923 --> 00:37:54,727
+
+
 She's, like, the best
 scrabble player ever.
 
-817
-00:37:57,902 --> 00:38:00,039
+
+
 What do you want
 for our dinner?
 
-818
-00:38:00,040 --> 00:38:01,576
+
+
 - What?
 - Tomorrow night.
 
-819
-00:38:01,577 --> 00:38:03,746
+
+
 - Uh, is chicken okay?
 - Oh, yeah, chicken's fine.
 
-820
-00:38:12,131 --> 00:38:14,971
+
+
 - I see a pretty lady.
 - Amanda!
 
-821
-00:38:14,972 --> 00:38:17,442
+
+
 - Hi, cutie.
 - Special delivery.
 
-822
-00:38:17,443 --> 00:38:20,248
+
+
 Life saver.
 Totally serious.
 
-823
-00:38:20,249 --> 00:38:23,188
+
+
 - What's on your ass?
 - Oh, I know. Isn't it awful?
 
-824
-00:38:23,189 --> 00:38:27,363
+
+
 I'm nairing my butt.
 Nair-- the hair removal shit.
 
-825
-00:38:27,364 --> 00:38:27,665
+
+
 - Yeah.
 
-826
-00:38:27,666 --> 00:38:29,468
+
+
 - I came in tonight,
 looked in the mirror.
 
-827
-00:38:29,469 --> 00:38:32,407
+
+
 There was this long, huge hair
 growing out of the side of my ass.
 
-828
-00:38:32,408 --> 00:38:33,643
+
+
 - Gross.
 - I know!
 
-829
-00:38:33,644 --> 00:38:36,415
+
+
 I started thinking,
 "I can see that one."
 
-830
-00:38:36,416 --> 00:38:38,219
+
+
 Who knows how many more
 there are back there?
 
-831
-00:38:38,220 --> 00:38:40,457
+
+
 I didn't want to risk it.
 I'm nairing the whole thing.
 
-832
-00:38:40,458 --> 00:38:41,860
+
+
 - Oh.
 - Howdy.
 
-833
-00:38:41,861 --> 00:38:43,897
+
+
 - Hello, hi.
 - Trick?
 
-834
-00:38:43,898 --> 00:38:46,904
+
+
 - My uncle.
 - Oh. Sweet.
 
-835
-00:38:46,905 --> 00:38:49,042
+
+
 <i>- This is Whisper.
 - Hello, Whisper.</i>
 
-836
-00:38:49,043 --> 00:38:51,480
+
+
 - Emory.
 - Oh, is Emory your real name?
 
-837
-00:38:51,481 --> 00:38:53,251
+
+
 No.
 
-838
-00:38:53,252 --> 00:38:55,488
+
+
 I love this girl.
 She is so great.
 
-839
-00:38:55,489 --> 00:38:57,192
+
+
 - I'm blushing.
 - I mean it.
 
-840
-00:38:57,193 --> 00:38:59,497
+
+
 Most of these girls,
 they're just total cunts.
 
-841
-00:38:59,498 --> 00:39:02,904
+
+
 You want to smash their heads
 in with a fucking rock.
 
-842
-00:39:02,905 --> 00:39:05,276
+
+
 Makes me sick thinking
 about you with that guy.
 
-843
-00:39:05,277 --> 00:39:06,980
+
+
 Greg's nice.
 
-844
-00:39:06,981 --> 00:39:10,754
+
+
 Honey, nothing on this planet
 with a cock attached to it is nice!
 
-845
-00:39:10,755 --> 00:39:13,026
+
+
 Watch your language,
 lady.
 
-846
-00:39:13,027 --> 00:39:14,830
+
+
 - Sorry.
 - That's okay.
 
-847
-00:39:14,831 --> 00:39:17,034
+
+
 I'm still back on
 that "cunts and rocks."
 
-848
-00:39:17,035 --> 00:39:19,238
+
+
 - Saw B.V.
 - I know!
 
-849
-00:39:19,239 --> 00:39:22,212
+
+
 - Looking good.
 - He's gotten even bigger than before!
 
-850
-00:39:22,213 --> 00:39:23,714
+
+
 I didn't think
 it was possible.
 
-851
-00:39:23,715 --> 00:39:25,719
+
+
 - It's disgusting!
 - He's huge.
 
-852
-00:39:25,720 --> 00:39:27,188
+
+
 He picked me up once...
 
-853
-00:39:28,927 --> 00:39:31,197
+
+
 - Cheers.
 - Cheers.
 
-854
-00:39:31,198 --> 00:39:34,137
+
+
 Club soda.  Why don't you
 just kill yourself?
 
-855
-00:39:34,138 --> 00:39:36,776
+
+
 It's next on my list.
 
-856
-00:39:38,781 --> 00:39:41,552
+
+
 - What?
 - I can't get over it.
 
-857
-00:39:41,553 --> 00:39:44,926
+
+
 - The hooker thing.
 - Are you okay?
 
-858
-00:39:44,927 --> 00:39:47,532
+
+
 I have a home for
 the first time in my life.
 
-859
-00:39:47,533 --> 00:39:49,636
+
+
 You had a home when
 you were a kid.
 
-860
-00:39:49,637 --> 00:39:52,609
+
+
 My parents split and I went
 to go live with my dad
 
-861
-00:39:52,610 --> 00:39:54,112
+
+
 and he married Janine,
 
-862
-00:39:54,113 --> 00:39:56,951
+
+
 who's this total psychotic
 bitch Nazi vegan who hates me.
 
-863
-00:39:56,952 --> 00:39:58,688
+
+
 So then I went to go live
 with my mom,
 
-864
-00:39:58,689 --> 00:40:00,826
+
+
 - and she married Larry.
 - Well, Larry's okay.
 
-865
-00:40:02,263 --> 00:40:04,166
+
+
 Well, okay, go on.
 
-866
-00:40:04,167 --> 00:40:07,039
+
+
 Yeah. And then I went to
 go back and live with my dad
 
-867
-00:40:07,040 --> 00:40:10,513
+
+
 and that sucked, and then his brother
 started raping me, which really sucked.
 
-868
-00:40:10,514 --> 00:40:12,417
+
+
 - Raping you?
 - Whoa, there's a table.
 
-869
-00:40:12,418 --> 00:40:14,254
+
+
 - Here-- we can sit down.
 - Raping you?
 
-870
-00:40:14,255 --> 00:40:19,132
+
+
 Your-- your father's
 - your father's brother raped you?
 
-871
-00:40:19,133 --> 00:40:21,269
+
+
 Uh, my Uncle Bobby?
 Yeah.
 
-872
-00:40:21,270 --> 00:40:22,706
+
+
 He raped you?
 
-873
-00:40:22,707 --> 00:40:25,545
+
+
 Yeah, for, like,
 eight months.
 
-874
-00:40:25,546 --> 00:40:27,883
+
+
 Jesus.
 
-875
-00:40:27,884 --> 00:40:29,820
+
+
 It's old news.
 
-876
-00:40:29,821 --> 00:40:31,557
+
+
 I thought I was
 a shitty uncle.
 
-877
-00:40:31,558 --> 00:40:34,129
+
+
 Look,
 it doesn't matter.
 
-878
-00:40:34,130 --> 00:40:37,069
+
+
 I'm here now,
 I'm happy.
 
-879
-00:40:37,070 --> 00:40:39,140
+
+
 And I have
 the perfect home.
 
-880
-00:40:39,141 --> 00:40:41,445
+
+
 Yeah, but look what
 you have to do to get it.
 
-881
-00:40:41,446 --> 00:40:44,752
+
+
 It doesn't matter. I mean, the
 minute I walk through that door,
 
-882
-00:40:44,753 --> 00:40:47,658
+
+
 all the sadness and all
 the bullshit stays outside.
 
-883
-00:40:47,659 --> 00:40:49,562
+
+
 And everybody needs that.
 
-884
-00:40:49,563 --> 00:40:52,635
+
+
 You know, after a day of doing whatever
 horrible, awful thing you got to do
 
-885
-00:40:52,636 --> 00:40:55,073
+
+
 to make money, you need
 a place to go
 
-886
-00:40:55,074 --> 00:40:59,716
+
+
 where it's quiet and you can
 just remember who you really are.
 
-887
-00:40:59,717 --> 00:41:03,892
+
+
 And the terrible, awful thing you do--
 you don't have any options?
 
-888
-00:41:05,363 --> 00:41:08,368
+
+
 Yeah.  Yeah, sure, I could
 go back to IHOP.
 
-889
-00:41:08,369 --> 00:41:11,541
+
+
 I could work there for
 a whole month, with overtime,
 
-890
-00:41:11,542 --> 00:41:13,780
+
+
 or I could do eight or
 nine guys over a weekend
 
-891
-00:41:13,781 --> 00:41:15,316
+
+
 And make the exact
 same amount.
 
-892
-00:41:15,317 --> 00:41:17,220
+
+
 What would you do?
 
-893
-00:41:17,221 --> 00:41:19,425
+
+
 Uh, eight guys, fine.
 More than that,
 
-894
-00:41:19,426 --> 00:41:22,532
+
+
 I would worry I was in it for
 something more than the money.
 
-895
-00:41:22,533 --> 00:41:25,771
+
+
 You really don't
 feel exploited?
 
-896
-00:41:25,772 --> 00:41:28,143
+
+
 All I know is,
 
-897
-00:41:28,144 --> 00:41:30,982
+
+
 after 20 minutes--
 usually less,
 
-898
-00:41:30,983 --> 00:41:34,356
+
+
 I got it all: I got their money,
 I got their gratitude.
 
-899
-00:41:34,357 --> 00:41:36,928
+
+
 So what if I have to let them
 jizz on my tits to get it?
 
-900
-00:41:40,169 --> 00:41:41,672
+
+
 What?
 
-901
-00:41:41,673 --> 00:41:44,211
+
+
 It's just not every uncle
 who gets to hear his niece
 
-902
-00:41:44,212 --> 00:41:46,648
+
+
 say "jizz" and "tits"
 in the same sentence.
 
-903
-00:41:46,649 --> 00:41:49,421
+
+
 I-- I need a little air.
 
-904
-00:41:51,527 --> 00:41:53,430
+
+
 <i>So listen, Amanda,</i>
 
-905
-00:41:53,431 --> 00:41:56,904
+
+
 the reason I'm in town--
 
-906
-00:41:56,905 --> 00:42:00,244
+
+
 your mom and your aunt
 asked me to come
 
-907
-00:42:00,245 --> 00:42:02,649
+
+
 because they're
 worried about you.
 
-908
-00:42:02,650 --> 00:42:07,325
+
+
 They're thinking maybe you have
 a drug problem or something.
 
-909
-00:42:07,326 --> 00:42:08,762
+
+
 I don't.
 
-910
-00:42:08,763 --> 00:42:11,435
+
+
 Okay.
 
-911
-00:42:11,436 --> 00:42:13,672
+
+
 There's a rehab
 place in Malibu--
 
-912
-00:42:13,673 --> 00:42:15,676
+
+
 It's called
 the Clark-something Center.
 
-913
-00:42:15,677 --> 00:42:18,950
+
+
 The Clark-- Clark Baron.
 Yeah, it's Clark Baron.
 
-914
-00:42:18,951 --> 00:42:21,221
+
+
 You see it in
 "people" magazine?
 
-915
-00:42:21,222 --> 00:42:23,293
+
+
 Well, we got you a room there
 with a view of the canyon--
 
-916
-00:42:23,294 --> 00:42:24,962
+
+
 - What are you laughing at?
 
-917
-00:42:24,963 --> 00:42:27,334
+
+
 This is perfect.
 
-918
-00:42:27,335 --> 00:42:29,506
+
+
 You telling me
 to go to rehab?
 
-919
-00:42:29,507 --> 00:42:31,109
+
+
 Why is that so strange?
 
-920
-00:42:31,110 --> 00:42:34,649
+
+
 Hello, my mom and your wife
 are sisters.  They talk.
 
-921
-00:42:34,650 --> 00:42:37,656
+
+
 I know about
 your gambling problem
 
-922
-00:42:37,657 --> 00:42:40,762
+
+
 and your drinking problem
 and your drug problem.
 
-923
-00:42:40,763 --> 00:42:43,000
+
+
 Well, those are not issues
 for me anymore.
 
-924
-00:42:43,001 --> 00:42:45,874
+
+
 I know all about you puking at
 the Emmy's a couple years ago,
 
-925
-00:42:45,875 --> 00:42:49,481
+
+
 and how you lost $150,000 in
 three days at the racetrack.
 
-926
-00:42:49,482 --> 00:42:52,921
+
+
 She's talking about somebody else.
 Do you have any ketchup for these?
 
-927
-00:42:52,922 --> 00:42:54,725
+
+
 And how you got fired
 from that hit show
 
-928
-00:42:54,726 --> 00:42:56,730
+
+
 because you were so fuckin'
 loaded the whole time.
 
-929
-00:42:56,731 --> 00:42:59,001
+
+
 Hello? You're, like,
 50 years old.
 
-930
-00:42:59,002 --> 00:43:02,040
+
+
 - I'm 43.
 - And you can't carry a checkbook
 
-931
-00:43:02,041 --> 00:43:04,379
+
+
 Or credit cards?
 I mean, what's with that?
 
-932
-00:43:04,380 --> 00:43:05,882
+
+
 My choice.
 
-933
-00:43:05,883 --> 00:43:08,488
+
+
 My therapist's choice,
 actually.
 
-934
-00:43:08,489 --> 00:43:10,692
+
+
 Because you can't
 control yourself.
 
-935
-00:43:10,693 --> 00:43:14,200
+
+
 Whenever you need money or a check,
 you have to ask Aunt Lorraine for it?
 
-936
-00:43:14,201 --> 00:43:17,439
+
+
 - That must suck.
 - Okay, my life is fucked up.
 
-937
-00:43:17,440 --> 00:43:19,811
+
+
 But it took me
 43 years to get here.
 
-938
-00:43:19,812 --> 00:43:22,250
+
+
 Look at you--
 you're 20 years old.
 
-939
-00:43:22,251 --> 00:43:24,254
+
+
 At this rate, by the time
 you're my age,
 
-940
-00:43:24,255 --> 00:43:27,227
+
+
 you won't be my age
 because you'll be dead.
 
-941
-00:43:27,228 --> 00:43:29,999
+
+
 I don't need rehab.
 
-942
-00:43:30,000 --> 00:43:33,073
+
+
 I take Extacy, but
 that's just for my work,
 
-943
-00:43:33,074 --> 00:43:35,010
+
+
 to get in the mood,
 you know?  But...
 
-944
-00:43:35,011 --> 00:43:36,847
+
+
 - Are you hooked on it?
 - No.
 
-945
-00:43:36,848 --> 00:43:40,421
+
+
 Unlike you, I can take something and
 not become instantly addicted to it.
 
-946
-00:43:40,422 --> 00:43:42,994
+
+
 I'm not an addict.
 I'm in recovery.
 
-947
-00:43:42,995 --> 00:43:44,596
+
+
 You're an addict.
 
-948
-00:43:44,597 --> 00:43:47,102
+
+
 - I'm getting help.
 - Because you're an addict.
 
-949
-00:43:47,103 --> 00:43:49,072
+
+
 I'm not an addict.
 
-950
-00:43:55,186 --> 00:43:57,457
+
+
 - What is that?
 - Extacy.
 
-951
-00:43:57,458 --> 00:43:59,027
+
+
 I don't want it.
 
-952
-00:43:59,028 --> 00:44:01,666
+
+
 No no no,
 it's not for you.
 
-953
-00:44:01,667 --> 00:44:03,771
+
+
 I just want you to
 hold onto it for me.
 
-954
-00:44:03,772 --> 00:44:05,040
+
+
 No!
 
-955
-00:44:05,041 --> 00:44:06,309
+
+
 Because you can't.
 
-956
-00:44:06,310 --> 00:44:08,981
+
+
 Because you know,
 sooner or later,
 
-957
-00:44:08,982 --> 00:44:10,618
+
+
 probably sooner,
 
-958
-00:44:10,619 --> 00:44:12,790
+
+
 you're gonna wind up
 taking it. Right?
 
-959
-00:44:12,791 --> 00:44:16,464
+
+
 20 years old, you're so--
 you're so goddamned smart.
 
-960
-00:44:16,465 --> 00:44:19,737
+
+
 Remember, don't take it.
 I'm gonna want it back.
 
-961
-00:44:22,745 --> 00:44:24,915
+
+
 <i># Mr. Rooster #</i>
 
-962
-00:44:24,916 --> 00:44:27,287
+
+
 <i># don't wake me up
 too early #</i>
 
-963
-00:44:27,288 --> 00:44:30,126
+
+
 <i># we talked all night,
 my girlie and me #</i>
 
-964
-00:44:32,265 --> 00:44:34,569
+
+
 <i># Mr. Rooster #</i>
 
-965
-00:44:34,570 --> 00:44:37,073
+
+
 <i># don't start no
 trouble brewing #</i>
 
-966
-00:44:37,074 --> 00:44:38,210
+
+
 <i># no cock-a-doodle
 dooing #</i>
 
-967
-00:44:38,211 --> 00:44:40,814
+
+
 <i># or red eyes, see #</i>
 
-968
-00:44:40,815 --> 00:44:42,451
+
+
 <i># how about 8:00 o'clock? #</i>
 
-969
-00:44:42,452 --> 00:44:44,122
+
+
 <i> # don't try it #</i>
 
-970
-00:44:44,123 --> 00:44:46,494
+
+
 <i>- # 9:00 o'clock? #
 - # no, don't you dare #</i>
 
-971
-00:44:46,495 --> 00:44:49,333
+
+
 <i>- # 10:00 o'clock? #
 - # I'll start a riot #</i>
 
-972
-00:44:49,334 --> 00:44:51,304
+
+
 <i>- # noon? #
 - hello?</i>
 
-973
-00:44:51,305 --> 00:44:53,508
+
+
 Did I wake you?
 
-974
-00:44:53,509 --> 00:44:55,646
+
+
 <i>- Actually, no.
 - Are you sure?</i>
 
-975
-00:44:57,751 --> 00:44:59,454
+
+
 Yep, definitely.
 
-976
-00:44:59,455 --> 00:45:02,460
+
+
 I found Amanda.
 
-977
-00:45:02,461 --> 00:45:05,066
+
+
 She's at that place--
 the Inca.
 
-978
-00:45:05,067 --> 00:45:06,903
+
+
 <i>- The Aztec.
 - Right.</i>
 
-979
-00:45:06,904 --> 00:45:10,143
+
+
 <i>- Is she really hooking?
 - Yep, she really is.</i>
 
-980
-00:45:10,144 --> 00:45:13,049
+
+
 Oh, God.
 
-981
-00:45:13,050 --> 00:45:15,053
+
+
 Did you talk to her
 about rehab?
 
-982
-00:45:15,054 --> 00:45:16,991
+
+
 <i>She's not interested.</i>
 
-983
-00:45:16,992 --> 00:45:18,861
+
+
 Taylor, you have to
 get her out of there.
 
-984
-00:45:18,862 --> 00:45:21,233
+
+
 Well, I'm having dinner
 with her tomorrow night--
 
-985
-00:45:21,234 --> 00:45:22,837
+
+
 I mean, tonight.
 
-986
-00:45:22,838 --> 00:45:26,143
+
+
 <i>I'll bring it up again,
 but I don't think so.</i>
 
-987
-00:45:28,049 --> 00:45:29,684
+
+
 Did you take a check
 from my checkbook?
 
-988
-00:45:31,590 --> 00:45:34,260
+
+
 - What?
 - Did you?
 
-989
-00:45:34,261 --> 00:45:37,067
+
+
 <i>- No.
 - One's missing.</i>
 
-990
-00:45:37,068 --> 00:45:39,538
+
+
 Well, maybe you used it
 and forgot about it.
 
-991
-00:45:39,539 --> 00:45:43,480
+
+
 It's missing from
 the middle of the checkbook.
 
-992
-00:45:43,481 --> 00:45:46,153
+
+
 Well, why are you looking in
 the middle of your checkbook?
 
-993
-00:45:46,154 --> 00:45:48,691
+
+
 Habit.
 
-994
-00:45:53,369 --> 00:45:55,706
+
+
 Taylor--
 
-995
-00:45:55,707 --> 00:45:59,246
+
+
 Taylor, if you took the check,
 just tell me.
 
-996
-00:45:59,247 --> 00:46:02,921
+
+
 Look, I'm-- you know, I'm
 just here trying to help you.
 
-997
-00:46:02,922 --> 00:46:05,025
+
+
 <i>I'm here trying
 to help your family.</i>
 
-998
-00:46:05,026 --> 00:46:08,734
+
+
 Okay, I'm just telling you,
 I called the bank-- I put a stop on it.
 
-999
-00:46:08,735 --> 00:46:10,971
+
+
 Well, good.
 
-1000
-00:46:10,972 --> 00:46:13,577
+
+
 Good, I mean, if you lose a check,
 that's what you should do.
 
-1001
-00:46:13,578 --> 00:46:16,116
+
+
 I don't see how it concerns me,
 but that's fine.
 
-1002
-00:46:16,117 --> 00:46:18,520
+
+
 Okay.  Good.  Fine.
 
-1003
-00:46:18,521 --> 00:46:20,525
+
+
 Call me after you talk
 to Amanda again.
 
-1004
-00:46:20,526 --> 00:46:22,729
+
+
 Right.
 
-1005
-00:46:29,979 --> 00:46:32,417
+
+
 - 20,000.
 - Oh, darn.
 
-1006
-00:46:32,418 --> 00:46:34,621
+
+
 - Things not going too well?
 - You guessed.
 
-1007
-00:46:34,622 --> 00:46:37,226
+
+
 You'll turn it around,
 Mr. Mendon.
 
-1008
-00:46:37,227 --> 00:46:40,667
+
+
 I have a feeling.
 Sign, please.
 
-1009
-00:46:40,668 --> 00:46:43,807
+
+
 You playing blackjack?
 
-1010
-00:46:43,808 --> 00:46:47,614
+
+
 - Horses.
 - Ooh, that's fun.
 
-1011
-00:46:47,615 --> 00:46:50,722
+
+
 Did you ever see that movie
 about the horse Seabiscuit?
 
-1012
-00:46:50,723 --> 00:46:54,229
+
+
 - Yeah.
 - That was a great movie.
 
-1013
-00:46:54,230 --> 00:46:56,300
+
+
 I think it was called
 "Seabiscuit," right?
 
-1014
-00:46:56,301 --> 00:46:58,905
+
+
 No, I think it was
 called
 
-1015
-00:46:58,906 --> 00:47:01,611
+
+
 "Steve, the story
 of Seabiscuit."
 
-1016
-00:47:01,612 --> 00:47:04,250
+
+
 Aw!
 
-1017
-00:47:04,251 --> 00:47:08,091
+
+
 That's what I get for
 asking a comedy writer.
 
-1018
-00:47:08,092 --> 00:47:10,797
+
+
 One, two, three, four,
 five, six, seven, eight--
 
-1019
-00:47:12,535 --> 00:47:15,673
+
+
 First race at Belmont--
 $2,000 to win
 
-1020
-00:47:15,674 --> 00:47:17,678
+
+
 and place in the two-horse--
 pass the potatoes.
 
-1021
-00:47:17,679 --> 00:47:19,248
+
+
 <i>all right.
 One, two, three--</i>
 
-1022
-00:47:19,249 --> 00:47:21,553
+
+
 <i>but look at this,
 on the far outside,</i>
 
-1023
-00:47:21,554 --> 00:47:24,692
+
+
 <i>Pass the Potatoes is
 making a huge move!</i>
 
-1024
-00:47:24,693 --> 00:47:26,697
+
+
 <i>He's picking off runners
 one by one.</i>
 
-1025
-00:47:26,698 --> 00:47:29,269
+
+
 <i>Pass the Potatoes
 roars to the front.</i>
 
-1026
-00:47:29,270 --> 00:47:31,039
+
+
 <i>The rest of the field
 looks like-- oh oh!</i>
 
-1027
-00:47:31,040 --> 00:47:33,211
+
+
 <i>Pass the Potatoes
 took a bad step.</i>
 
-1028
-00:47:33,212 --> 00:47:34,948
+
+
 <i>Oh, he's toast!</i>
 
-1029
-00:47:39,992 --> 00:47:42,864
+
+
 - Cocktails.  Cocktails.
 - Miss?
 
-1030
-00:47:42,865 --> 00:47:44,836
+
+
 Diet coke?
 
-1031
-00:47:44,837 --> 00:47:48,844
+
+
 Yeah.
 And a Jameson's.  A double.
 
-1032
-00:47:50,147 --> 00:47:51,816
+
+
 Quickly.
 
-1033
-00:47:54,022 --> 00:47:56,426
+
+
 - 20,000.
 - Ooh.
 
-1034
-00:47:56,427 --> 00:47:58,431
+
+
 Ooh, hiss.
 
-1035
-00:47:58,432 --> 00:48:01,337
+
+
 You're gonna turn it
 around, Mr. Mendon.
 
-1036
-00:48:01,338 --> 00:48:02,940
+
+
 I just know you are.
 
-1037
-00:48:02,941 --> 00:48:05,345
+
+
 - I have a very strong--
 
-1038
-00:48:07,383 --> 00:48:09,387
+
+
 Oh, dear.
 
-1039
-00:48:09,388 --> 00:48:10,723
+
+
 Oh, dear?
 
-1040
-00:48:10,724 --> 00:48:13,128
+
+
 What, "Oh, dear"?
 
-1041
-00:48:13,129 --> 00:48:14,932
+
+
 Two seconds.
 
-1042
-00:48:14,933 --> 00:48:16,836
+
+
 Marty?
 
-1043
-00:48:16,837 --> 00:48:19,408
+
+
 <i>Okay, here's what
 probably happened...</i>
 
-1044
-00:48:19,409 --> 00:48:20,977
+
+
 <i>Great.  Go.</i>
 
-1045
-00:48:20,978 --> 00:48:24,285
+
+
 <i>The check that my wife wrote
 before the one that I gave you,</i>
 
-1046
-00:48:24,286 --> 00:48:28,026
+
+
 <i>she bought a Matisse
 lithograph from a gallery</i>
 
-1047
-00:48:28,027 --> 00:48:30,364
+
+
 in Beverly hills.
 But when she got it home,
 
-1048
-00:48:30,365 --> 00:48:33,504
+
+
 there was a mark on
 the upper left-hand corner--
 
-1049
-00:48:33,505 --> 00:48:36,578
+
+
 a smudge, so she put
 a stop on the check.
 
-1050
-00:48:36,579 --> 00:48:38,982
+
+
 But the bank obviously
 made a mistake
 
-1051
-00:48:38,983 --> 00:48:41,254
+
+
 and put a stop on
 the next check,
 
-1052
-00:48:41,255 --> 00:48:43,592
+
+
 which would be the check
 I gave you guys.
 
-1053
-00:48:43,593 --> 00:48:47,199
+
+
 That's the only explanation I
 can come up with at this moment.
 
-1054
-00:48:47,200 --> 00:48:48,803
+
+
 I mean, that's all.
 
-1055
-00:48:48,804 --> 00:48:52,845
+
+
 Well, look, I know
 you're good for the money.
 
-1056
-00:48:52,846 --> 00:48:56,151
+
+
 That's not an issue.
 But, my bosses,
 
-1057
-00:48:56,152 --> 00:48:58,257
+
+
 you know,
 the asshole brigade,
 
-1058
-00:48:58,258 --> 00:49:00,361
+
+
 a different story.
 You have another check?
 
-1059
-00:49:00,362 --> 00:49:03,768
+
+
 - I don't.
 - Okay, again, no issue between us.
 
-1060
-00:49:03,769 --> 00:49:05,906
+
+
 But I have to answer
 to a higher power.
 
-1061
-00:49:05,907 --> 00:49:10,015
+
+
 And if the casino gets stuck with
 this, then they cut off my balls,
 
-1062
-00:49:10,016 --> 00:49:12,152
+
+
 - throw 'em on the craps table.
 - You won't get stuck.
 
-1063
-00:49:12,153 --> 00:49:14,156
+
+
 I know, I know.
 That's not even a concern.
 
-1064
-00:49:14,157 --> 00:49:18,165
+
+
 But until this is resolved, I won't
 be able to give you any more cash.
 
-1065
-00:49:18,166 --> 00:49:21,038
+
+
 I'm busted, you know?
 I'm down 60,000.
 
-1066
-00:49:21,039 --> 00:49:21,432
+
+
 - 62,000.
 
-1067
-00:49:21,433 --> 00:49:23,743
+
+
 - And now you guys won't
 give me a chance to get even?
 
-1068
-00:49:23,744 --> 00:49:26,081
+
+
 - Is that fair?
 - It's not me, Taylor.
 
-1069
-00:49:26,082 --> 00:49:28,587
+
+
 I've lost a shitload of money
 in this place the last few years.
 
-1070
-00:49:28,588 --> 00:49:30,591
+
+
 And this is how you
 treat me?
 
-1071
-00:49:30,592 --> 00:49:32,428
+
+
 I mean, come on, Michael.
 
-1072
-00:49:37,940 --> 00:49:40,578
+
+
 They're gonna kill me.
 I'll give you five.
 
-1073
-00:49:40,579 --> 00:49:42,817
+
+
 - Five?
 - Best I can do.
 
-1074
-00:49:42,818 --> 00:49:46,056
+
+
 You're kidding? I can lose
 five walking from here to there.
 
-1075
-00:49:46,057 --> 00:49:47,627
+
+
 I have no doubt.
 
-1076
-00:49:47,628 --> 00:49:49,631
+
+
 - Five grand.
 
-1077
-00:49:49,632 --> 00:49:53,940
+
+
 Why don't I just stay and
 gamble with the old ladies?
 
-1078
-00:49:53,941 --> 00:49:57,180
+
+
 I'm doing you--
 I'm doing you a favor.
 
-1079
-00:49:57,181 --> 00:49:59,786
+
+
 - All right.
 - But now you have to do one for me.
 
-1080
-00:49:59,787 --> 00:50:02,625
+
+
 Look, I give you five.
 You're down 67.
 
-1081
-00:50:02,626 --> 00:50:05,197
+
+
 Get another check.
 Have your bank wire the money.
 
-1082
-00:50:05,198 --> 00:50:07,769
+
+
 - Okay.
 - End of the day would be great.
 
-1083
-00:50:07,770 --> 00:50:10,274
+
+
 If not,
 first thing tomorrow.
 
-1084
-00:50:10,275 --> 00:50:12,513
+
+
 Yeah.
 
-1085
-00:50:12,514 --> 00:50:14,015
+
+
 Let's go to the cage.
 
-1086
-00:50:14,016 --> 00:50:16,487
+
+
 - Five grand?
 - You're welcome.
 
-1087
-00:50:21,198 --> 00:50:22,934
+
+
 - Hey, you!
 - Hey.
 
-1088
-00:50:22,935 --> 00:50:25,206
+
+
 - Hi.
 - Well, this is a surprise.
 
-1089
-00:50:25,207 --> 00:50:28,145
+
+
 Yeah, I was just shopping next
 door and I figured you'd be here.
 
-1090
-00:50:28,146 --> 00:50:29,983
+
+
 Are we still on
 for dinner tonight?
 
-1091
-00:50:29,984 --> 00:50:32,888
+
+
 Yeah, as long as you're not having
 horse, I'm looking forward to it.
 
-1092
-00:50:32,889 --> 00:50:34,792
+
+
 - Good.
 - Why don't you sit down
 
-1093
-00:50:34,793 --> 00:50:38,667
+
+
 - and maybe change my luck?
 - Aw!
 
-1094
-00:50:38,668 --> 00:50:40,505
+
+
 Thanks.
 
-1095
-00:50:43,245 --> 00:50:46,117
+
+
 Are you drinking?
 I thought you were in recovery?
 
-1096
-00:50:46,118 --> 00:50:49,423
+
+
 Oh, no, that's not mine.
 I've been changing seats.
 
-1097
-00:50:49,424 --> 00:50:52,229
+
+
 - Jameson's?
 - No.
 
-1098
-00:50:52,230 --> 00:50:55,002
+
+
 You just ordered this,
 like, two seconds ago.
 
-1099
-00:50:55,003 --> 00:50:56,538
+
+
 Thanks.
 
-1100
-00:50:58,376 --> 00:51:00,046
+
+
 Wait a minute.
 
-1101
-00:51:01,383 --> 00:51:02,851
+
+
 Busted!
 
-1102
-00:51:02,852 --> 00:51:05,657
+
+
 I'm taking a quick break
 from my recovery.
 
-1103
-00:51:05,658 --> 00:51:06,894
+
+
 Cheers!
 
-1104
-00:51:06,895 --> 00:51:09,933
+
+
 Oh, this is sad.
 This is so sad.
 
-1105
-00:51:09,934 --> 00:51:12,205
+
+
 Two days in Vegas,
 you're already off the wagon.
 
-1106
-00:51:12,206 --> 00:51:14,242
+
+
 And I'm the one
 who needs rehab?
 
-1107
-00:51:14,243 --> 00:51:15,545
+
+
 How you doing?
 
-1108
-00:51:16,782 --> 00:51:18,919
+
+
 How you doin'?
 
-1109
-00:51:18,920 --> 00:51:21,791
+
+
 - Hi.
 - Remember me?
 
-1110
-00:51:21,792 --> 00:51:22,860
+
+
 No.
 
-1111
-00:51:22,861 --> 00:51:24,564
+
+
 I think I told you
 my name was Mike.
 
-1112
-00:51:26,970 --> 00:51:29,374
+
+
 You remember me?
 
-1113
-00:51:29,375 --> 00:51:30,577
+
+
 Sorry.
 
-1114
-00:51:30,578 --> 00:51:32,280
+
+
 Come on, we had such
 a good time,
 
-1115
-00:51:32,281 --> 00:51:33,716
+
+
 I gave you an extra 50.
 
-1116
-00:51:33,717 --> 00:51:36,455
+
+
 Listen, I'm really
 busy right now,
 
-1117
-00:51:36,456 --> 00:51:38,861
+
+
 - so thank you.
 - Oh oh, sorry, yeah.
 
-1118
-00:51:38,862 --> 00:51:41,867
+
+
 Right right,
 you're working.  Yeah.
 
-1119
-00:51:41,868 --> 00:51:44,539
+
+
 And since I don't have my wallet
 open, you got no use for me--
 
-1120
-00:51:44,540 --> 00:51:46,878
+
+
 She doesn't want to talk to you.
 She doesn't want to talk to you, okay?
 
-1121
-00:51:46,879 --> 00:51:48,715
+
+
 - Hey!  Hey!
 - Huh?  What?
 
-1122
-00:51:48,716 --> 00:51:50,419
+
+
 Asshole, stay out of this,
 all right?
 
-1123
-00:51:50,420 --> 00:51:52,523
+
+
 - I'm getting security.
 - This is between the whore and me.
 
-1124
-00:51:52,524 --> 00:51:54,326
+
+
 - I'm getting security.
 - No no no.  No, don't.
 
-1125
-00:51:54,327 --> 00:51:56,164
+
+
 She sticks her ass in
 my face for half an hour
 
-1126
-00:51:56,165 --> 00:51:58,368
+
+
 and now she pretends
 she doesn't know me.
 
-1127
-00:51:58,369 --> 00:52:00,473
+
+
 Oh, wait,
 I do know you.
 
-1128
-00:52:00,474 --> 00:52:03,813
+
+
 I'm sorry.
 Yeah, you were the guy
 
-1129
-00:52:03,814 --> 00:52:06,118
+
+
 with the cock like
 a roll of dimes.
 
-1130
-00:52:10,829 --> 00:52:12,665
+
+
 <i>Oh, look at this.
 - You don't fuckin' know me!</i>
 
-1131
-00:52:12,666 --> 00:52:14,837
+
+
 Never do that again.
 I'll fuckin' kill you!
 
-1132
-00:52:14,838 --> 00:52:17,274
+
+
 <i>- You fuckin' asshole!
 - Get this fuckin' bitch off me!</i>
 
-1133
-00:52:17,275 --> 00:52:20,281
+
+
 - You don't even know my name!
 - Jesus, Amanda.
 
-1134
-00:52:20,282 --> 00:52:22,152
+
+
 - Fuck you!
 - Okay okay okay okay!
 
-1135
-00:52:22,153 --> 00:52:23,421
+
+
 Get-- enough!
 Enough enough!
 
-1136
-00:52:23,422 --> 00:52:25,525
+
+
 Get her off!
 
-1137
-00:52:25,526 --> 00:52:28,231
+
+
 - Enough!  Stop it!
 - Jesus.
 
-1138
-00:52:28,232 --> 00:52:30,569
+
+
 Enough! If you want to
 fight, then go somewhere else.
 
-1139
-00:52:30,570 --> 00:52:31,905
+
+
 - Get off me!
 - Back up!
 
-1140
-00:52:31,906 --> 00:52:33,943
+
+
 What's going on?
 
-1141
-00:52:33,944 --> 00:52:36,148
+
+
 Nothing.
 
-1142
-00:52:36,149 --> 00:52:39,154
+
+
 It's-- it's okay.
 Sorry.
 
-1143
-00:52:43,464 --> 00:52:45,133
+
+
 - She with you?
 - Yeah.
 
-1144
-00:52:45,134 --> 00:52:46,937
+
+
 Yeah, I'm with him.
 I guess that means
 
-1145
-00:52:46,938 --> 00:52:48,941
+
+
 you can't take me in
 the back and rough me up, huh?
 
-1146
-00:52:48,942 --> 00:52:50,311
+
+
 I'm gonna go to
 the bathroom
 
-1147
-00:52:50,312 --> 00:52:52,817
+
+
 unless you'd like me to
 piss myself right here.
 
-1148
-00:52:52,818 --> 00:52:55,923
+
+
 I'll see you tonight.
 Asshole.
 
-1149
-00:52:55,924 --> 00:52:57,660
+
+
 She's my niece.
 
-1150
-00:53:54,380 --> 00:53:55,748
+
+
 Excuse me?
 
-1151
-00:53:55,749 --> 00:53:58,287
+
+
 Could you get me another
 Jameson's on the rocks, please?
 
-1152
-00:53:58,288 --> 00:54:00,926
+
+
 You know, why don't you bring
 me two Jameson's with water?
 
-1153
-00:54:00,927 --> 00:54:02,930
+
+
 That way I won't have to
 keep bugging you.
 
-1154
-00:54:02,931 --> 00:54:05,236
+
+
 Hello?  Oh, God,
 I hate this place.
 
-1155
-00:54:07,074 --> 00:54:09,344
+
+
 Taylor?
 Hey, how you doin'?
 
-1156
-00:54:09,345 --> 00:54:12,083
+
+
 Hey. Hey, Tony.
 How's things at I.C.M.?
 
-1157
-00:54:12,084 --> 00:54:15,757
+
+
 It's C.A.A. now. I went over to
 the dark side about a year ago.
 
-1158
-00:54:15,758 --> 00:54:18,630
+
+
 You're out early.
 Wedding's not till 7:00.
 
-1159
-00:54:18,631 --> 00:54:19,766
+
+
 What wedding?
 
-1160
-00:54:19,767 --> 00:54:20,902
+
+
 Billy Gerald's.
 
-1161
-00:54:20,903 --> 00:54:22,739
+
+
 I mean, you worked
 with him, right?
 
-1162
-00:54:22,740 --> 00:54:24,342
+
+
 Well, he worked for me.
 Yeah.
 
-1163
-00:54:24,343 --> 00:54:27,048
+
+
 So you're not invited
 to the, uh...?
 
-1164
-00:54:27,049 --> 00:54:28,818
+
+
 No.
 
-1165
-00:54:28,819 --> 00:54:31,089
+
+
 See, I thought that it
 was weird seeing you here.
 
-1166
-00:54:31,090 --> 00:54:34,129
+
+
 You know, Billy's always telling that
 story about how you pissed in his jacuzzi,
 
-1167
-00:54:34,130 --> 00:54:35,599
+
+
 some party three years ago.
 
-1168
-00:54:35,600 --> 00:54:37,169
+
+
 Never used it again,
 you know.
 
-1169
-00:54:37,170 --> 00:54:39,273
+
+
 Yeah, well, I went through
 a rough patch back then.
 
-1170
-00:54:39,274 --> 00:54:41,779
+
+
 I hear you, pal.
 Hey, speaking of rough patches,
 
-1171
-00:54:41,780 --> 00:54:44,484
+
+
 you got totally boned on the
 Begley thing. Guy's a dick.
 
-1172
-00:54:44,485 --> 00:54:46,288
+
+
 What are you
 talking about?
 
-1173
-00:54:46,289 --> 00:54:48,292
+
+
 You don't know?
 
-1174
-00:54:49,362 --> 00:54:51,298
+
+
 Jesus, Taylor.
 Sorry.
 
-1175
-00:54:53,571 --> 00:54:55,307
+
+
 I just read it.
 
-1176
-00:55:00,285 --> 00:55:03,190
+
+
 Johnny-- Johnny, I can't
 believe you couldn't reach me.
 
-1177
-00:55:03,191 --> 00:55:05,729
+
+
 I've been here
 for two days.
 
-1178
-00:55:05,730 --> 00:55:07,699
+
+
 I haven't checked
 my messages.
 
-1179
-00:55:07,700 --> 00:55:10,205
+
+
 I've been dealing
 with this family thing.
 
-1180
-00:55:10,206 --> 00:55:11,808
+
+
 Yes, in Vegas.
 
-1181
-00:55:11,809 --> 00:55:14,013
+
+
 I mean, I have to
 hear about it
 
-1182
-00:55:14,014 --> 00:55:15,816
+
+
 from fucking Tony Clark?
 
-1183
-00:55:17,822 --> 00:55:20,059
+
+
 What do you mean, have I
 been talking to C.A.A.?
 
-1184
-00:55:20,060 --> 00:55:22,998
+
+
 This isn't about you.
 This is about me getting fired
 
-1185
-00:55:22,999 --> 00:55:26,572
+
+
 and me finding the story
 buried on page three.
 
-1186
-00:55:26,573 --> 00:55:28,844
+
+
 Yeah, I don't rate
 the fuckin' cover?
 
-1187
-00:55:28,845 --> 00:55:31,550
+
+
 You know, maybe I should
 be talking to C.A.A., Johnny.
 
-1188
-00:55:31,551 --> 00:55:33,019
+
+
 How about that?
 
-1189
-00:55:33,020 --> 00:55:33,854
+
+
 Yeah, fuck--
 
-1190
-00:55:35,359 --> 00:55:36,360
+
+
 Shit.
 
-1191
-00:55:40,904 --> 00:55:43,108
+
+
 - Here you go.
 - Smells delicious.
 
-1192
-00:55:43,109 --> 00:55:46,214
+
+
 Thank you.  I made
 the sauce from scratch.
 
-1193
-00:55:46,215 --> 00:55:48,218
+
+
 Baby-- iPod.
 
-1194
-00:55:48,219 --> 00:55:49,788
+
+
 - What? What?
 - Off. Off.
 
-1195
-00:55:49,789 --> 00:55:51,959
+
+
 And please put
 your napkin on your lap.
 
-1196
-00:55:51,960 --> 00:55:55,133
+
+
 Thank you. It's actually
 not really from scratch.
 
-1197
-00:55:55,134 --> 00:55:58,741
+
+
 It's from a jar, but I added
 some extra stuff of my own.
 
-1198
-00:55:58,742 --> 00:56:00,778
+
+
 I thought we were
 having chicken?
 
-1199
-00:56:00,779 --> 00:56:03,050
+
+
 We are, but this
 is the first course.
 
-1200
-00:56:03,051 --> 00:56:04,619
+
+
 We're being fancy
 tonight, baby.
 
-1201
-00:56:04,620 --> 00:56:07,392
+
+
 - I want chicken.
 - It's coming.
 
-1202
-00:56:07,393 --> 00:56:09,897
+
+
 Eat your pasta.
 
-1203
-00:56:13,673 --> 00:56:15,943
+
+
 This is fun.
 
-1204
-00:56:15,944 --> 00:56:18,348
+
+
 We should have people
 over more often.
 
-1205
-00:56:18,349 --> 00:56:21,188
+
+
 What's that
 supposed to mean?
 
-1206
-00:56:21,189 --> 00:56:22,390
+
+
 Nothing.
 
-1207
-00:56:25,030 --> 00:56:27,468
+
+
 You told her.
 You fuck!
 
-1208
-00:56:27,469 --> 00:56:29,004
+
+
 What are you
 talking about?
 
-1209
-00:56:29,005 --> 00:56:30,874
+
+
 Thanks a lot,
 asshole.
 
-1210
-00:56:30,875 --> 00:56:33,013
+
+
 - I didn't tell her anything.
 - Oh, yeah?
 
-1211
-00:56:33,014 --> 00:56:34,415
+
+
 I didn't.
 
-1212
-00:56:39,427 --> 00:56:41,397
+
+
 Pasta looks good.
 
-1213
-00:56:41,398 --> 00:56:43,401
+
+
 What do you think
 he told me?
 
-1214
-00:56:43,402 --> 00:56:45,305
+
+
 Nothing.
 
-1215
-00:56:45,306 --> 00:56:46,675
+
+
 Greg.
 
-1216
-00:56:46,676 --> 00:56:49,881
+
+
 - Greg?
 - I'm eating here.
 
-1217
-00:56:49,882 --> 00:56:53,088
+
+
 Can't you see that?
 Jesus, I had a rough day at school.
 
-1218
-00:56:53,089 --> 00:56:54,725
+
+
 All I want to do
 is eat my dinner
 
-1219
-00:56:54,726 --> 00:56:56,629
+
+
 without people jumping
 all over my ass.
 
-1220
-00:56:56,630 --> 00:56:59,769
+
+
 You're right.
 I'm sorry.
 
-1221
-00:56:59,770 --> 00:57:01,940
+
+
 Why are you such a nagging
 bitch all the time?
 
-1222
-00:57:04,346 --> 00:57:07,151
+
+
 - He had a girl in the house.
 - Fuck you.
 
-1223
-00:57:07,152 --> 00:57:09,489
+
+
 <i>- When?
 - Yesterday.</i>
 
-1224
-00:57:09,490 --> 00:57:11,693
+
+
 You were up
 in the bathroom.
 
-1225
-00:57:11,694 --> 00:57:13,631
+
+
 Big news.
 She knows.
 
-1226
-00:57:13,632 --> 00:57:16,136
+
+
 I told him about our deal.
 He thinks he's busting my balls.
 
-1227
-00:57:16,137 --> 00:57:18,241
+
+
 Go ahead, ask her.
 She doesn't fuckin' care, dude.
 
-1228
-00:57:18,242 --> 00:57:21,548
+
+
 That's right.
 I-- I don't care,
 
-1229
-00:57:21,549 --> 00:57:24,153
+
+
 unless the girl
 was inside my home.
 
-1230
-00:57:24,154 --> 00:57:25,957
+
+
 Greg, you know
 the rules!
 
-1231
-00:57:25,958 --> 00:57:27,961
+
+
 It's my home too.
 You said.
 
-1232
-00:57:27,962 --> 00:57:30,100
+
+
 No, this place
 is sacred.
 
-1233
-00:57:30,101 --> 00:57:31,970
+
+
 Yeah, sacred.
 What am I supposed to do?
 
-1234
-00:57:31,971 --> 00:57:34,208
+
+
 Some chick wants to do me, I'm supposed
 to say we have to go to her place
 
-1235
-00:57:34,209 --> 00:57:36,313
+
+
 because I'm not allowed to
 screw chicks in my own home?
 
-1236
-00:57:36,314 --> 00:57:38,082
+
+
 I mean, how do you think
 that makes me feel?
 
-1237
-00:57:38,083 --> 00:57:39,686
+
+
 Why don't you just
 cut my balls off?
 
-1238
-00:57:39,687 --> 00:57:41,022
+
+
 - Use this.
 - Fuck you.
 
-1239
-00:57:41,023 --> 00:57:42,926
+
+
 Don't talk
 to my uncle like that.
 
-1240
-00:57:42,927 --> 00:57:45,131
+
+
 You're taking his side on this?
 Fuck you too then!
 
-1241
-00:57:45,132 --> 00:57:47,269
+
+
 <i>I mean, come on, baby.
 We had a good thing going here.</i>
 
-1242
-00:57:47,270 --> 00:57:49,273
+
+
 <i>This guy shows up and
 it's nothing but trouble.</i>
 
-1243
-00:57:49,274 --> 00:57:51,477
+
+
 Okay, um, can we
 please
 
-1244
-00:57:51,478 --> 00:57:53,616
+
+
 just talk about
 something else?
 
-1245
-00:57:53,617 --> 00:57:56,288
+
+
 I just would like
 to have a nice dinner.
 
-1246
-00:57:56,289 --> 00:57:58,859
+
+
 Let's just change
 the subject.
 
-1247
-00:57:58,860 --> 00:58:02,167
+
+
 Fine.
 
-1248
-00:58:02,168 --> 00:58:04,304
+
+
 She had her shoes on
 in the house.
 
-1249
-00:58:04,305 --> 00:58:06,108
+
+
 Greg, damn it!
 
-1250
-00:58:06,109 --> 00:58:08,180
+
+
 You know what?
 Fuck this. Here.
 
-1251
-00:58:08,181 --> 00:58:10,184
+
+
 - You happy?
 
-1252
-00:58:10,185 --> 00:58:12,288
+
+
 - What's the matter with you?
 - What's the matter with me?
 
-1253
-00:58:12,289 --> 00:58:14,325
+
+
 My fuckin' dinner's ruined.
 That's what's the matter with me.
 
-1254
-00:58:14,326 --> 00:58:15,929
+
+
 I didn't even get to
 eat my chicken.
 
-1255
-00:58:15,930 --> 00:58:17,799
+
+
 You know what?
 Fuckin' keep your chicken. I'm done.
 
-1256
-00:58:17,800 --> 00:58:19,971
+
+
 Oh my God!  No no, don't get up,
 don't get up. It'll get on the carpet.
 
-1257
-00:58:19,972 --> 00:58:21,775
+
+
 <i>- No no no no, baby!</i>
 
-1258
-00:58:21,776 --> 00:58:26,083
+
+
 Um, come back, please please.
 Greg!  I'll get the chicken!
 
-1259
-00:58:26,084 --> 00:58:27,520
+
+
 <i>It's too late!</i>
 
-1260
-00:58:33,534 --> 00:58:37,040
+
+
 Um, I'm sorry.
 
-1261
-00:58:37,041 --> 00:58:38,978
+
+
 So much for
 my fancy dinner.
 
-1262
-00:58:38,979 --> 00:58:41,550
+
+
 I'll go get
 some paper towels.
 
-1263
-00:58:45,959 --> 00:58:48,197
+
+
 You fuck this up for me
 and I'll kill you!
 
-1264
-00:58:48,198 --> 00:58:50,067
+
+
 What are you gonna do?
 Refrigerate me to death?
 
-1265
-00:58:56,448 --> 00:58:58,853
+
+
 Oh.
 Oh, shit.
 
-1266
-00:59:03,497 --> 00:59:05,500
+
+
 <i>We must do dinner again.</i>
 
-1267
-00:59:05,501 --> 00:59:07,771
+
+
 <i>Warn me.
 I'll wear my best tarp.</i>
 
-1268
-00:59:07,772 --> 00:59:09,474
+
+
 I'm sorry about Greg.
 
-1269
-00:59:09,475 --> 00:59:12,013
+
+
 He's just
 really sensitive.
 
-1270
-00:59:12,014 --> 00:59:14,117
+
+
 I got that when
 he threatened to kill me.
 
-1271
-00:59:14,118 --> 00:59:16,623
+
+
 Why are you
 with that asshole?
 
-1272
-00:59:16,624 --> 00:59:20,532
+
+
 Well, you know how you have
 this image in your head
 
-1273
-00:59:20,533 --> 00:59:22,803
+
+
 of the perfect person
 for you?
 
-1274
-00:59:22,804 --> 00:59:25,910
+
+
 I met Greg,
 and he was
 
-1275
-00:59:25,911 --> 00:59:28,214
+
+
 my mental perfect
 image come to life.
 
-1276
-00:59:28,215 --> 00:59:30,018
+
+
 Emphasis on the "mental."
 
-1277
-00:59:30,019 --> 00:59:32,657
+
+
 You do realize he's
 not at all perfect?
 
-1278
-00:59:32,658 --> 00:59:37,200
+
+
 When you change out that lamp,
 you might want to take him along.
 
-1279
-00:59:37,201 --> 00:59:39,004
+
+
 What can I say?
 
-1280
-00:59:39,005 --> 00:59:42,278
+
+
 He-- he looks right.
 
-1281
-00:59:42,279 --> 00:59:45,384
+
+
 You know? So maybe
 if I keep loving him,
 
-1282
-00:59:45,385 --> 00:59:48,624
+
+
 then he'll be right.
 
-1283
-00:59:48,625 --> 00:59:50,628
+
+
 Do you want to gamble?
 
-1284
-00:59:50,629 --> 00:59:52,966
+
+
 Let's go gamble. You can
 win me some big money.
 
-1285
-00:59:52,967 --> 00:59:55,305
+
+
 Okay, I'll go and change
 out of these clothes.
 
-1286
-00:59:55,306 --> 00:59:57,108
+
+
 Okay.
 Well, hurry.
 
-1287
-00:59:57,109 --> 01:00:00,148
+
+
 I'll wait here.
 I got the fever.
 
-1288
-01:00:29,511 --> 01:00:30,679
+
+
 <i>Sir? - A little one.</i>
 
-1289
-01:00:30,680 --> 01:00:32,416
+
+
 I'll get it.
 
-1290
-01:00:32,417 --> 01:00:34,120
+
+
 Bless you.
 
-1291
-01:00:34,121 --> 01:00:35,790
+
+
 <i>60, 20...</i>
 
-1292
-01:00:35,791 --> 01:00:38,161
+
+
 How you liking
 that recovery break?
 
-1293
-01:00:38,162 --> 01:00:39,665
+
+
 It's been great.
 
-1294
-01:00:39,666 --> 01:00:42,504
+
+
 But I've decided I'm going
 right back to recovery
 
-1295
-01:00:42,505 --> 01:00:45,376
+
+
 <i>- right after my next drink.</i>
 
-1296
-01:00:45,377 --> 01:00:46,813
+
+
 Oh.
 
-1297
-01:00:48,183 --> 01:00:50,187
+
+
 I gotta make a call.
 
-1298
-01:00:50,188 --> 01:00:52,024
+
+
 Okay, but come
 right back.
 
-1299
-01:00:52,025 --> 01:00:53,861
+
+
 We have to talk
 about rehab again.
 
-1300
-01:00:58,639 --> 01:01:00,909
+
+
 Oh, shit.
 Shit.
 
-1301
-01:01:00,910 --> 01:01:04,350
+
+
 - Here you go.
 - Oh, could you bring me another one?
 
-1302
-01:01:04,351 --> 01:01:06,688
+
+
 Make it a double
 because I'm going--
 
-1303
-01:01:06,689 --> 01:01:08,726
+
+
 I'm going to quit
 drinking right after.
 
-1304
-01:01:08,727 --> 01:01:10,830
+
+
 - 'Kay.
 - Thank you.
 
-1305
-01:01:10,831 --> 01:01:13,302
+
+
 Hey, how's it going,
 handsome?
 
-1306
-01:01:13,303 --> 01:01:14,872
+
+
 Hey, I am handsome.
 
-1307
-01:01:16,777 --> 01:01:20,417
+
+
 Uh, is there any news on
 the money from the bank?
 
-1308
-01:01:20,418 --> 01:01:22,421
+
+
 I don't want to push
 but they're asking.
 
-1309
-01:01:22,422 --> 01:01:24,025
+
+
 Oh, yeah, I'm on it.
 I called
 
-1310
-01:01:24,026 --> 01:01:26,397
+
+
 and they can do a transfer
 first thing in the morning.
 
-1311
-01:01:26,398 --> 01:01:27,899
+
+
 Excellent.
 Thank you, sir.
 
-1312
-01:01:30,339 --> 01:01:32,008
+
+
 I can get you better.
 
-1313
-01:01:32,009 --> 01:01:34,179
+
+
 What do you mean?
 
-1314
-01:01:34,180 --> 01:01:35,749
+
+
 Your little friend?
 
-1315
-01:01:35,750 --> 01:01:38,889
+
+
 I can get you one who's
 not so trashy.
 
-1316
-01:01:38,890 --> 01:01:40,927
+
+
 She's my niece.
 
-1317
-01:01:40,928 --> 01:01:44,200
+
+
 I can get you
 a better niece.
 
-1318
-01:01:44,201 --> 01:01:46,605
+
+
 How about
 a black niece?
 
-1319
-01:01:46,606 --> 01:01:50,346
+
+
 Uh, naughty little
 Asian niece?
 
-1320
-01:01:50,347 --> 01:01:52,317
+
+
 "Me so horny."
 
-1321
-01:01:53,755 --> 01:01:55,825
+
+
 Hi, there.
 
-1322
-01:01:55,826 --> 01:01:57,929
+
+
 - Hi.
 - Have a good evening.
 
-1323
-01:01:59,767 --> 01:02:01,771
+
+
 - Who's that?
 - Some guy.
 
-1324
-01:02:01,772 --> 01:02:02,940
+
+
 Hello.
 
-1325
-01:02:08,219 --> 01:02:10,689
+
+
 Are you okay?
 
-1326
-01:02:10,690 --> 01:02:13,428
+
+
 Yeah, I'm--
 
-1327
-01:02:13,429 --> 01:02:16,468
+
+
 I didn't sleep much--
 sleep much last night.
 
-1328
-01:02:19,776 --> 01:02:23,550
+
+
 Ah. Ha ha!
 That was weird.
 
-1329
-01:02:23,551 --> 01:02:25,554
+
+
 Oh my God.
 
-1330
-01:02:25,555 --> 01:02:26,823
+
+
 You took the X.
 
-1331
-01:02:26,824 --> 01:02:28,928
+
+
 - No.
 - Yes, you took it.
 
-1332
-01:02:28,929 --> 01:02:30,264
+
+
 No, I did not.
 
-1333
-01:02:30,265 --> 01:02:32,636
+
+
 - Then give it back to me.
 - I took it.
 
-1334
-01:02:32,637 --> 01:02:35,675
+
+
 I took it.
 It's great.
 
-1335
-01:02:35,676 --> 01:02:38,080
+
+
 It's really great.
 
-1336
-01:02:38,081 --> 01:02:40,251
+
+
 Am I talking loud?
 
-1337
-01:02:40,252 --> 01:02:42,490
+
+
 Is this too loud,
 how I'm talking now?
 
-1338
-01:02:44,695 --> 01:02:47,433
+
+
 <i>You know,
 you really really</i>
 
-1339
-01:02:47,434 --> 01:02:50,606
+
+
 <i>really should take me up
 on this offer.</i>
 
-1340
-01:02:50,607 --> 01:02:53,345
+
+
 <i>It's $15,000,
 but I think it is--</i>
 
-1341
-01:02:53,346 --> 01:02:55,584
+
+
 <i>it is so worth it.</i>
 
-1342
-01:02:55,585 --> 01:02:58,991
+
+
 'Cause you have to get
 your life on the right path.
 
-1343
-01:02:58,992 --> 01:03:01,964
+
+
 You do.
 It's important.
 
-1344
-01:03:01,965 --> 01:03:04,001
+
+
 Or you could just
 fuck it.
 
-1345
-01:03:09,547 --> 01:03:11,150
+
+
 You're great,
 you know?
 
-1346
-01:03:11,151 --> 01:03:13,220
+
+
 <i>You are.</i>
 
-1347
-01:03:13,221 --> 01:03:15,459
+
+
 I don't think I've ever
 told you that before,
 
-1348
-01:03:15,460 --> 01:03:18,265
+
+
 but you really are.
 You are really really--
 
-1349
-01:03:18,266 --> 01:03:19,033
+
+
 you're great.
 
-1350
-01:03:21,172 --> 01:03:22,741
+
+
 Yeah?
 
-1351
-01:03:22,742 --> 01:03:25,045
+
+
 Would you be saying that
 if you weren't so fucked up?
 
-1352
-01:03:27,920 --> 01:03:31,726
+
+
 Oh, it must be hard
 being a hooker.
 
-1353
-01:03:31,727 --> 01:03:34,632
+
+
 I don't think
 I could do it.
 
-1354
-01:03:34,633 --> 01:03:37,038
+
+
 I think I would
 rather kill myself.
 
-1355
-01:03:39,443 --> 01:03:41,681
+
+
 You know...
 
-1356
-01:03:41,682 --> 01:03:44,453
+
+
 The first time
 I ever did it,
 
-1357
-01:03:44,454 --> 01:03:46,557
+
+
 I was here
 at this hotel.
 
-1358
-01:03:48,529 --> 01:03:52,135
+
+
 These guys came from,
 like, Iowa
 
-1359
-01:03:52,136 --> 01:03:54,941
+
+
 or someplace like that
 for this bachelor party
 
-1360
-01:03:54,942 --> 01:03:58,082
+
+
 and me and this other girl
 came over to entertain.
 
-1361
-01:04:00,187 --> 01:04:03,994
+
+
 And you could just tell that
 they'd been talking for months,
 
-1362
-01:04:03,995 --> 01:04:07,434
+
+
 like, "Oh, dude, we're
 gonna go to Vegas.
 
-1363
-01:04:07,435 --> 01:04:11,009
+
+
 We're gonna
 get some hookers."
 
-1364
-01:04:11,010 --> 01:04:13,080
+
+
 They were horrified.
 
-1365
-01:04:14,651 --> 01:04:17,322
+
+
 They just stood there
 
-1366
-01:04:17,323 --> 01:04:19,594
+
+
 and stared at us like we
 were exhibits at a zoo.
 
-1367
-01:04:23,169 --> 01:04:26,141
+
+
 And this one guy, um...
 
-1368
-01:04:26,142 --> 01:04:29,815
+
+
 he took me
 into the bathroom,
 
-1369
-01:04:29,816 --> 01:04:32,187
+
+
 he pushed me down
 on my knees
 
-1370
-01:04:32,188 --> 01:04:34,592
+
+
 and he stuck
 his cock in my mouth.
 
-1371
-01:04:36,530 --> 01:04:38,601
+
+
 He came in, like,
 two seconds.
 
-1372
-01:04:41,407 --> 01:04:43,143
+
+
 And he zipped up,
 
-1373
-01:04:43,144 --> 01:04:44,613
+
+
 Walked out.
 
-1374
-01:04:47,186 --> 01:04:49,624
+
+
 Didn't say one word
 to me.
 
-1375
-01:04:52,764 --> 01:04:56,404
+
+
 You know...
 
-1376
-01:04:56,405 --> 01:04:59,210
+
+
 It's funny.
 
-1377
-01:04:59,211 --> 01:05:02,817
+
+
 When you do
 something like that,
 
-1378
-01:05:02,818 --> 01:05:05,156
+
+
 It's who you are
 for the rest of your life.
 
-1379
-01:05:09,733 --> 01:05:13,573
+
+
 You could stop, but...
 
-1380
-01:05:13,574 --> 01:05:16,647
+
+
 really, what's the point?
 I mean...
 
-1381
-01:05:22,962 --> 01:05:25,165
+
+
 you're always gonna
 be that girl...
 
-1382
-01:05:27,438 --> 01:05:29,674
+
+
 on her knees on
 the bathroom floor.
 
-1383
-01:05:35,187 --> 01:05:37,190
+
+
 And you know it.
 
-1384
-01:05:40,966 --> 01:05:42,167
+
+
 <i>Mmm.</i>
 
-1385
-01:05:49,851 --> 01:05:52,022
+
+
 <i>Hello?</i>
 
-1386
-01:05:52,023 --> 01:05:53,659
+
+
 <i>Mr. Mendon?</i>
 
-1387
-01:05:53,660 --> 01:05:54,694
+
+
 Mmmm.
 
-1388
-01:05:56,465 --> 01:05:58,702
+
+
 Hello?
 
-1389
-01:06:01,175 --> 01:06:03,746
+
+
 - Yeah?
 - Are you okay?
 
-1390
-01:06:03,747 --> 01:06:07,387
+
+
 What are you--
 what are you doing?
 
-1391
-01:06:07,388 --> 01:06:08,823
+
+
 What-- what time is it?
 
-1392
-01:06:08,824 --> 01:06:10,861
+
+
 <i>It's 10 to 5:00.</i>
 
-1393
-01:06:10,862 --> 01:06:14,401
+
+
 Why are you--
 10 to 5:00?
 
-1394
-01:06:14,402 --> 01:06:16,707
+
+
 10 to 5:00
 in the afternoon.
 
-1395
-01:06:16,708 --> 01:06:18,844
+
+
 What?
 
-1396
-01:06:18,845 --> 01:06:21,049
+
+
 Is it still today?
 
-1397
-01:06:21,050 --> 01:06:22,720
+
+
 It's Saturday.
 
-1398
-01:06:24,190 --> 01:06:26,193
+
+
 Mr. Mendon.
 
-1399
-01:06:26,194 --> 01:06:27,730
+
+
 Congratulations again.
 
-1400
-01:06:31,105 --> 01:06:33,909
+
+
 Mr. Mendon!
 
-1401
-01:06:33,910 --> 01:06:36,749
+
+
 See?  I told you
 you'd turn it around.
 
-1402
-01:06:36,750 --> 01:06:38,252
+
+
 Good for you!
 
-1403
-01:06:43,631 --> 01:06:46,870
+
+
 I have never seen
 anything like it.
 
-1404
-01:06:46,871 --> 01:06:50,712
+
+
 You were hot as balls!
 Blackjack, roulette.
 
-1405
-01:06:50,713 --> 01:06:52,281
+
+
 When was this?
 
-1406
-01:06:52,282 --> 01:06:53,618
+
+
 Last night.
 
-1407
-01:06:53,619 --> 01:06:54,553
+
+
 When?
 
-1408
-01:06:54,554 --> 01:06:56,757
+
+
 Uh...
 
-1409
-01:06:56,758 --> 01:06:59,163
+
+
 I saw you around 9:00.
 
-1410
-01:06:59,164 --> 01:07:01,601
+
+
 You were, ha ha,
 pretty good.
 
-1411
-01:07:01,602 --> 01:07:03,539
+
+
 The gaming gods
 were smiling on you.
 
-1412
-01:07:03,540 --> 01:07:06,445
+
+
 Uh, last time I saw you
 was just before 2:00
 
-1413
-01:07:06,446 --> 01:07:09,651
+
+
 When you cashed out. And listen, I was
 able to buy you a little extra time,
 
-1414
-01:07:09,652 --> 01:07:11,789
+
+
 you know, on the check,
 because of your big win.
 
-1415
-01:07:11,790 --> 01:07:15,129
+
+
 So just pay the cage
 the 67,000
 
-1416
-01:07:15,130 --> 01:07:17,134
+
+
 When you get the chance.
 
-1417
-01:07:17,135 --> 01:07:19,138
+
+
 How much did
 I cash in for?
 
-1418
-01:07:19,139 --> 01:07:22,211
+
+
 You-- you don't remember?
 
-1419
-01:07:22,212 --> 01:07:24,983
+
+
 I'm a little hazy.
 
-1420
-01:07:24,984 --> 01:07:29,426
+
+
 Hey, if I cashed in
 $186,000,
 
-1421
-01:07:29,427 --> 01:07:30,796
+
+
 the last thing I'd be
 is hazy.
 
-1422
-01:08:03,466 --> 01:08:04,834
+
+
 Shit.
 
-1423
-01:08:11,315 --> 01:08:13,552
+
+
 <i>- What?
 - Hello.</i>
 
-1424
-01:08:13,553 --> 01:08:14,788
+
+
 Hi.
 
-1425
-01:08:14,789 --> 01:08:16,793
+
+
 <i>- Where have you been?
 - In my room.</i>
 
-1426
-01:08:16,794 --> 01:08:19,364
+
+
 Well, I called a dozen times
 last night and today
 
-1427
-01:08:19,365 --> 01:08:20,901
+
+
 and the phone
 just kept ringing.
 
-1428
-01:08:20,902 --> 01:08:22,671
+
+
 <i>Well, I was
 with Amanda. </i>
 
-1429
-01:08:22,672 --> 01:08:25,777
+
+
 Uh-huh.
 And you're still there
 
-1430
-01:08:25,778 --> 01:08:28,383
+
+
 so I'm assuming she doesn't
 want to go to rehab.
 
-1431
-01:08:28,384 --> 01:08:30,722
+
+
 <i>- She's not interested.
 - Taylor.</i>
 
-1432
-01:08:30,723 --> 01:08:32,826
+
+
 Look, what am I supposed
 to do?  Kidnap her?
 
-1433
-01:08:32,827 --> 01:08:35,966
+
+
 It doesn't work that way. You can't
 help people who don't want to be helped.
 
-1434
-01:08:35,967 --> 01:08:39,206
+
+
 You know, you never really
 intended to help her, did you?
 
-1435
-01:08:39,207 --> 01:08:43,582
+
+
 - What?
 - This trip was just all about you.
 
-1436
-01:08:43,583 --> 01:08:46,054
+
+
 You and your
 fucking gambling!
 
-1437
-01:08:46,055 --> 01:08:49,728
+
+
 Listen, I haven't gambled one
 penny all day. That's the truth.
 
-1438
-01:08:49,729 --> 01:08:53,303
+
+
 <i>The bank called.</i>
 
-1439
-01:08:53,304 --> 01:08:56,042
+
+
 They get a call from
 the casino about a check?
 
-1440
-01:08:56,043 --> 01:08:58,413
+
+
 For $100,000?
 
-1441
-01:08:58,414 --> 01:09:00,585
+
+
 What check?
 
-1442
-01:09:00,586 --> 01:09:02,589
+
+
 Oh, stop it, please.
 Just stop it.
 
-1443
-01:09:02,590 --> 01:09:05,996
+
+
 The check you took from my drawer.
 The check you told me you didn't take!
 
-1444
-01:09:05,997 --> 01:09:08,100
+
+
 Listen, I make the money
 that goes into the account.
 
-1445
-01:09:08,101 --> 01:09:10,339
+
+
 <i>- I'm the one who--
 - Oh, Taylor, please stop!</i>
 
-1446
-01:09:10,340 --> 01:09:12,944
+
+
 - Well, if it's about the money--
 - It's not about the money!
 
-1447
-01:09:12,945 --> 01:09:16,351
+
+
 You have no clue what it's about
 so please just stop talking
 
-1448
-01:09:16,352 --> 01:09:19,925
+
+
 while I have the smallest
 amount of respect left for you.
 
-1449
-01:09:31,317 --> 01:09:33,420
+
+
 Why did I think
 this would work?
 
-1450
-01:09:39,935 --> 01:09:43,809
+
+
 I thought if I loved you enough,
 you wouldn't fuck me over.
 
-1451
-01:09:43,810 --> 01:09:47,817
+
+
 <i>But you don't care
 about me, Taylor.</i>
 
-1452
-01:09:47,818 --> 01:09:49,287
+
+
 I do.
 
-1453
-01:09:49,288 --> 01:09:52,327
+
+
 <i>No, you don't.</i>
 
-1454
-01:09:52,328 --> 01:09:54,431
+
+
 You only care
 about yourself
 
-1455
-01:09:54,432 --> 01:09:57,471
+
+
 and those stupid horses.
 
-1456
-01:10:02,349 --> 01:10:03,684
+
+
 Don't come home.
 
-1457
-01:10:03,685 --> 01:10:05,087
+
+
 What does that mean?
 
-1458
-01:10:05,088 --> 01:10:06,957
+
+
 <i>I called a lawyer.</i>
 
-1459
-01:10:09,597 --> 01:10:11,734
+
+
 So-- so what am I
 supposed to do now?
 
-1460
-01:10:11,735 --> 01:10:13,404
+
+
 Beg you for another chance?
 
-1461
-01:10:13,405 --> 01:10:15,643
+
+
 <i>Lorraine?</i>
 
-1462
-01:10:15,644 --> 01:10:18,315
+
+
 Uh, I'm such an idiot.
 
-1463
-01:10:18,316 --> 01:10:19,484
+
+
 Lorrai--
 
-1464
-01:10:35,351 --> 01:10:37,889
+
+
 <i>Hi, we're not here.
 Leave a message.</i>
 
-1465
-01:10:37,890 --> 01:10:39,826
+
+
 Lorraine, pick up
 the phone.
 
-1466
-01:10:39,827 --> 01:10:43,334
+
+
 <i>Lorraine, please
 pick up the phone.</i>
 
-1467
-01:10:43,335 --> 01:10:45,872
+
+
 <i>Hello?
 You're scaring me.</i>
 
-1468
-01:10:45,873 --> 01:10:49,680
+
+
 <i>You're-- if that's what you were
 trying to do, you've succeeded.</i>
 
-1469
-01:10:49,681 --> 01:10:53,221
+
+
 Hell-- listen, I'll stop gambling.  I promise.
 
-1470
-01:10:53,222 --> 01:10:54,858
+
+
 Please?
 
-1471
-01:10:54,859 --> 01:10:56,462
+
+
 Please--
 
-1472
-01:10:56,463 --> 01:10:58,332
+
+
 What do you want
 me to do?
 
-1473
-01:10:58,333 --> 01:10:59,534
+
+
 Lorraine?
 
-1474
-01:11:29,733 --> 01:11:34,040
+
+
 You misplaced $186,000
 in cash and chips?
 
-1475
-01:11:34,041 --> 01:11:35,544
+
+
 How does that happen?
 
-1476
-01:11:35,545 --> 01:11:38,650
+
+
 Sometimes I hide the money
 if I have a really big score.
 
-1477
-01:11:38,651 --> 01:11:41,222
+
+
 I tore my room apart.
 It's not there.
 
-1478
-01:11:41,223 --> 01:11:42,959
+
+
 Oh, Christ.
 
-1479
-01:11:42,960 --> 01:11:45,231
+
+
 Listen, that girl that
 you saw me with last night?
 
-1480
-01:11:45,232 --> 01:11:47,202
+
+
 - I think she has the money.
 - The-- the hooker?
 
-1481
-01:11:47,203 --> 01:11:49,206
+
+
 She's not a hooker.
 
-1482
-01:11:49,207 --> 01:11:51,811
+
+
 Who gives a shit?
 What am I gonna do now?
 
-1483
-01:11:51,812 --> 01:11:53,281
+
+
 <i>What are you gonna
 do now?</i>
 
-1484
-01:11:53,282 --> 01:11:55,719
+
+
 I put my ass on the line
 for you-- that five grand?
 
-1485
-01:11:55,720 --> 01:11:57,456
+
+
 What if my bosses
 hold me responsible?
 
-1486
-01:11:57,457 --> 01:11:59,260
+
+
 I don't have that kind
 of money to throw around
 
-1487
-01:11:59,261 --> 01:12:00,530
+
+
 just 'cause
 you're a fuck-up.
 
-1488
-01:12:00,531 --> 01:12:02,567
+
+
 What?  What did you
 just call me?
 
-1489
-01:12:02,568 --> 01:12:03,717
+
+
 - What did you just call me?
 
-1490
-01:12:03,718 --> 01:12:05,440
+
+
 - And there's still
 nothing from your bank.
 
-1491
-01:12:05,441 --> 01:12:07,210
+
+
 Well, there might be
 a problem with that.
 
-1492
-01:12:07,211 --> 01:12:09,181
+
+
 You see, my wife called
 and I have a little trouble--
 
-1493
-01:12:09,182 --> 01:12:11,018
+
+
 Just forget it!
 
-1494
-01:12:11,019 --> 01:12:13,557
+
+
 I knew you'd fuck me over.
 It's my own fault.
 
-1495
-01:12:13,558 --> 01:12:16,763
+
+
 - Get out of here.
 - What are you doing?
 
-1496
-01:12:16,764 --> 01:12:19,770
+
+
 What are you doing?  Wait.
 You're kicking me out?
 
-1497
-01:12:19,771 --> 01:12:21,541
+
+
 Yeah, that's what
 I'm doing.
 
-1498
-01:12:21,542 --> 01:12:24,080
+
+
 What about this?
 
-1499
-01:12:24,081 --> 01:12:26,717
+
+
 What about
 the relationship, huh?
 
-1500
-01:12:26,718 --> 01:12:29,423
+
+
 - Or was that all bullshit?
 - Do I have to call security?
 
-1501
-01:12:29,424 --> 01:12:30,960
+
+
 You never really
 wanted me to win.
 
-1502
-01:12:30,961 --> 01:12:33,899
+
+
 Hey, asshole,
 I want everyone to win.
 
-1503
-01:12:33,900 --> 01:12:36,538
+
+
 But the funny thing?
 It doesn't work out that way.
 
-1504
-01:12:36,539 --> 01:12:38,577
+
+
 Some people win.
 Most people lose.
 
-1505
-01:12:38,578 --> 01:12:40,781
+
+
 The mistake everybody makes
 is they keep coming back.
 
-1506
-01:12:40,782 --> 01:12:43,954
+
+
 But I have to tell you?
 The king of fuckin' losers?
 
-1507
-01:12:43,955 --> 01:12:45,157
+
+
 You prick!
 
-1508
-01:12:49,701 --> 01:12:53,674
+
+
 Hey, call security.
 This man just tried to attack me.
 
-1509
-01:12:53,675 --> 01:12:54,643
+
+
 Okay.
 
-1510
-01:12:59,989 --> 01:13:01,157
+
+
 All right.
 
-1511
-01:13:04,331 --> 01:13:07,170
+
+
 Oh, congratulations again,
 Mr. Mendon!
 
-1512
-01:13:17,827 --> 01:13:19,529
+
+
 - Hi.
 - Hello.
 
-1513
-01:13:19,530 --> 01:13:22,000
+
+
 - You a friend of Greg's?
 - No, Amanda's.
 
-1514
-01:13:22,001 --> 01:13:25,308
+
+
 - Is she home?
 - God, I hope not. That'd be weird.
 
-1515
-01:13:25,309 --> 01:13:27,278
+
+
 Greg said she'd be
 out until late.
 
-1516
-01:13:27,279 --> 01:13:28,915
+
+
 Is-- is she working?
 
-1517
-01:13:28,916 --> 01:13:30,853
+
+
 No, she's with
 some friends at a club.
 
-1518
-01:13:30,854 --> 01:13:33,258
+
+
 Your nose is bleeding.
 
-1519
-01:13:33,259 --> 01:13:34,494
+
+
 Which club?
 
-1520
-01:13:34,495 --> 01:13:36,765
+
+
 God, he told me.
 Let me think.
 
-1521
-01:13:36,766 --> 01:13:39,371
+
+
 The Thaiger--
 the Thaiger Club.
 
-1522
-01:13:39,372 --> 01:13:41,108
+
+
 It's not spelled
 like the animal.
 
-1523
-01:13:41,109 --> 01:13:44,716
+
+
 It's Thaiger, T-h-a-i.
 Like the food.
 
-1524
-01:13:44,717 --> 01:13:47,989
+
+
 - Like the country?
 - It's a country too?
 
-1525
-01:13:47,990 --> 01:13:50,093
+
+
 Where is it?
 
-1526
-01:13:50,094 --> 01:13:51,329
+
+
 The country?
 
-1527
-01:13:51,330 --> 01:13:53,333
+
+
 The club.
 
-1528
-01:13:53,334 --> 01:13:56,908
+
+
 It's in North Vegas
 on Viceroy, I think.
 
-1529
-01:13:56,909 --> 01:13:59,346
+
+
 Viceroy?
 Thank you.
 
-1530
-01:13:59,347 --> 01:14:00,882
+
+
 Take your shoes off.
 
-1531
-01:14:03,556 --> 01:14:06,728
+
+
 <i># one, two--
 one, two, three! #</i>
 
-1532
-01:14:41,435 --> 01:14:42,270
+
+
 Hey.
 
-1533
-01:14:44,475 --> 01:14:45,844
+
+
 Hey.
 
-1534
-01:14:45,845 --> 01:14:48,449
+
+
 Hi.  Are you
 ever going home?
 
-1535
-01:14:48,450 --> 01:14:49,852
+
+
 We need to talk.
 
-1536
-01:14:49,853 --> 01:14:51,722
+
+
 What?
 I can't hear you.
 
-1537
-01:14:51,723 --> 01:14:53,293
+
+
 We need to talk,
 you and me.
 
-1538
-01:15:03,950 --> 01:15:06,119
+
+
 I don't know what the hell
 you're talking about.
 
-1539
-01:15:06,120 --> 01:15:07,690
+
+
 Don't screw with me,
 Amanda.
 
-1540
-01:15:07,691 --> 01:15:10,095
+
+
 - Where is my money?
 - You gave me $2,000.
 
-1541
-01:15:10,096 --> 01:15:11,765
+
+
 You said I was
 your good-luck charm.
 
-1542
-01:15:11,766 --> 01:15:14,203
+
+
 If you think I'm gonna give it back
 to you, you can go fuck yourself.
 
-1543
-01:15:14,204 --> 01:15:16,208
+
+
 - Don't talk to me like that.
 - I'm going home.
 
-1544
-01:15:16,209 --> 01:15:18,012
+
+
 Oh, you are?  Yeah,
 why don't you do that?
 
-1545
-01:15:18,013 --> 01:15:20,216
+
+
 Why don't we take a trip
 to your sacred place
 
-1546
-01:15:20,217 --> 01:15:23,857
+
+
 and say hi to Greg and the chick
 that he's banging as we speak
 
-1547
-01:15:23,858 --> 01:15:25,408
+
+
 - and then you can
 give me my damn money!
 
-1548
-01:15:25,409 --> 01:15:25,961
+
+
 - Leave me alone.
 
-1549
-01:15:25,962 --> 01:15:27,665
+
+
 Don't walk away
 from me, Amanda.
 
-1550
-01:15:27,666 --> 01:15:29,870
+
+
 Don't touch me!
 Don't you dare fucking touch me!
 
-1551
-01:15:29,871 --> 01:15:32,976
+
+
 Okay.  Listen, Amanda. I'm not
 fucking around. I need the money.
 
-1552
-01:15:32,977 --> 01:15:35,415
+
+
 - No, I'm not fucking around!
 - It's $186,000!
 
-1553
-01:15:35,416 --> 01:15:36,817
+
+
 - Get out of my life!
 - I won the money.
 
-1554
-01:15:36,818 --> 01:15:37,886
+
+
 - I want it back!
 - I swear to God!
 
-1555
-01:15:37,887 --> 01:15:39,156
+
+
 Whoa, hey, whoa,
 what's this?
 
-1556
-01:15:39,157 --> 01:15:40,960
+
+
 Shit.
 
-1557
-01:15:40,961 --> 01:15:43,064
+
+
 You okay, Amanda?
 
-1558
-01:15:43,065 --> 01:15:45,636
+
+
 Yeah, I'm fine, B.V.
 I'm fine.
 
-1559
-01:15:45,637 --> 01:15:49,044
+
+
 So you like to rough up the
 ladies, huh? That's your thing?
 
-1560
-01:15:49,045 --> 01:15:51,181
+
+
 She's my niece.
 
-1561
-01:15:51,182 --> 01:15:53,720
+
+
 No, he really is
 my uncle, B.V.
 
-1562
-01:15:53,721 --> 01:15:56,859
+
+
 That ain't the answer
 B.V. Was looking for.
 
-1563
-01:15:56,860 --> 01:15:58,363
+
+
 She has my money.
 
-1564
-01:15:58,364 --> 01:15:59,665
+
+
 <i>Yeah, and knowing my girl,</i>
 
-1565
-01:15:59,667 --> 01:16:01,737
+
+
 <i>She did something real nice
 to make that money.</i>
 
-1566
-01:16:01,738 --> 01:16:03,507
+
+
 So that makes it her money.
 
-1567
-01:16:03,508 --> 01:16:05,845
+
+
 That's how it works,
 chump.
 
-1568
-01:16:07,616 --> 01:16:09,119
+
+
 Take this asshole
 in back.
 
-1569
-01:16:09,120 --> 01:16:10,622
+
+
 Hey, whoa, hey!
 
-1570
-01:16:10,623 --> 01:16:14,497
+
+
 What?  No no no no! B.V., no,
 he really is my uncle, I swear.
 
-1571
-01:16:14,498 --> 01:16:16,848
+
+
 - You stay here.
 You let B.V. Handle it.
 
-1572
-01:16:16,849 --> 01:16:17,536
+
+
 - No, I swear!
 
-1573
-01:16:17,537 --> 01:16:19,374
+
+
 I got this.
 I got this.
 
-1574
-01:16:19,375 --> 01:16:20,877
+
+
 Oh, shit.
 
-1575
-01:16:20,878 --> 01:16:22,414
+
+
 Whoa, hang on, hang on.
 
-1576
-01:16:22,415 --> 01:16:24,618
+
+
 This is a--
 it's a misunderstanding.
 
-1577
-01:16:24,619 --> 01:16:26,789
+
+
 Amanda!
 
-1578
-01:16:26,790 --> 01:16:28,794
+
+
 - She's--
 - Pain time.
 
-1579
-01:16:28,795 --> 01:16:30,898
+
+
 Oh, wait a minute.
 Wait, guys, guys!
 
-1580
-01:16:33,738 --> 01:16:34,939
+
+
 Ow.
 
-1581
-01:16:34,940 --> 01:16:36,878
+
+
 Shit.
 
-1582
-01:16:38,181 --> 01:16:40,184
+
+
 So you like messing
 with the ladies?
 
-1583
-01:16:40,185 --> 01:16:42,021
+
+
 You like
 pushing 'em around?
 
-1584
-01:16:42,022 --> 01:16:45,295
+
+
 That's fine.  But you don't
 mess with B.V.'s girls.
 
-1585
-01:16:45,296 --> 01:16:47,834
+
+
 Look, I really
 am her uncle.
 
-1586
-01:16:47,835 --> 01:16:49,403
+
+
 <i>Oh, yeah,
 and I'm her daddy.</i>
 
-1587
-01:16:49,404 --> 01:16:51,508
+
+
 I outrank you.
 
-1588
-01:16:51,509 --> 01:16:54,815
+
+
 So you tell B.V. that you're not
 gonna mess with his girls no more
 
-1589
-01:16:54,816 --> 01:16:56,552
+
+
 and we be cool.
 
-1590
-01:16:56,553 --> 01:16:59,024
+
+
 This-- this has really
 gotten way out of hand.
 
-1591
-01:16:59,025 --> 01:17:00,427
+
+
 Huh?
 
-1592
-01:17:02,131 --> 01:17:05,304
+
+
 Now, are you gonna mess
 with B.V.'s girls?
 
-1593
-01:17:05,305 --> 01:17:08,811
+
+
 No, I was-- I was just
 trying to help her.
 
-1594
-01:17:08,812 --> 01:17:10,715
+
+
 This fucker's got
 to be deaf.
 
-1595
-01:17:10,716 --> 01:17:13,354
+
+
 I'll give you anything
 you want, huh?
 
-1596
-01:17:13,355 --> 01:17:15,425
+
+
 <i>Get his attention
 for me.</i>
 
-1597
-01:17:17,497 --> 01:17:20,336
+
+
 Ah! Oh, fuck!
 
-1598
-01:17:23,944 --> 01:17:26,281
+
+
 Are you gonna mess
 with B.V.'s girls?
 
-1599
-01:17:26,282 --> 01:17:28,987
+
+
 You broke
 my fucking hand.
 
-1600
-01:17:28,988 --> 01:17:31,592
+
+
 Okay, get his other hand
 and get his leg too.
 
-1601
-01:17:31,593 --> 01:17:34,432
+
+
 No.  No no, wait!
 Wait wait, I have to type.
 
-1602
-01:17:34,433 --> 01:17:36,469
+
+
 <i>- Wait, I'm a writer.
 - You're a writer?</i>
 
-1603
-01:17:36,470 --> 01:17:37,739
+
+
 <i>- Yes.
 - What you write?</i>
 
-1604
-01:17:37,740 --> 01:17:39,910
+
+
 <i>- A T.V. Show.
 - Wait, hold hold hold hold.</i>
 
-1605
-01:17:39,911 --> 01:17:41,780
+
+
 <i>- Which one?
 - I'd rather not say.</i>
 
-1606
-01:17:41,781 --> 01:17:44,219
+
+
 Oh, yeah?  And I'd rather
 not kick your ass.
 
-1607
-01:17:44,220 --> 01:17:47,358
+
+
 - Which show?
 - "Those MacAllister's."
 
-1608
-01:17:47,359 --> 01:17:50,031
+
+
 "Those MacAllister's"?
 No shit?  You write that?
 
-1609
-01:17:50,032 --> 01:17:52,770
+
+
 When I had two
 fuckin' hands, I did.
 
-1610
-01:17:52,771 --> 01:17:54,741
+
+
 Wait, hold it, hold it.
 No, hold on, hold on.
 
-1611
-01:17:54,742 --> 01:17:56,779
+
+
 Come here, let me talk to
 you for a minute.  No.
 
-1612
-01:17:56,780 --> 01:17:58,483
+
+
 Let me talk to you
 for a minute.
 
-1613
-01:17:58,484 --> 01:18:00,720
+
+
 You know, do you really
 write that show?
 
-1614
-01:18:00,721 --> 01:18:02,324
+
+
 - Yeah.
 - Man, that shit is funny.
 
-1615
-01:18:02,325 --> 01:18:05,396
+
+
 Man, I been thinking about getting
 into the business, you know?
 
-1616
-01:18:05,397 --> 01:18:07,969
+
+
 The television writing business?
 Look, B.V.'s got this script.
 
-1617
-01:18:07,970 --> 01:18:10,741
+
+
 Maybe you could look at it
 with B.V., and check it out?
 
-1618
-01:18:10,742 --> 01:18:13,748
+
+
 Maybe make some suggestions?
 Better yet, hire B.V. for your show?
 
-1619
-01:18:13,749 --> 01:18:14,395
+
+
 - You're kidding.
 
-1620
-01:18:14,396 --> 01:18:16,521
+
+
 - No, I been thinking about
 gettin' out of this business.
 
-1621
-01:18:16,522 --> 01:18:18,324
+
+
 I'm tired of all these
 bitches and hoes, you know?
 
-1622
-01:18:18,325 --> 01:18:20,896
+
+
 Too high-maintenance, man.
 Stand up straight when I talk to you.
 
-1623
-01:18:20,897 --> 01:18:24,436
+
+
 Look, I'm at a crossroad in my life.
 I need a creative outlet.
 
-1624
-01:18:24,437 --> 01:18:27,510
+
+
 Now, how many pages
 should a script be?
 
-1625
-01:18:27,511 --> 01:18:30,383
+
+
 For a standard half-hour
 multi-camera?
 
-1626
-01:18:30,384 --> 01:18:31,920
+
+
 - Yeah.
 - About 44.
 
-1627
-01:18:31,921 --> 01:18:35,661
+
+
 44?  Damn,
 I only got seven.
 
-1628
-01:18:35,662 --> 01:18:38,200
+
+
 Maybe, you know, you could take
 it and add some stuff to it?
 
-1629
-01:18:38,201 --> 01:18:41,072
+
+
 Like some pronouns, some
 adverbs, some things like that?
 
-1630
-01:18:41,073 --> 01:18:42,742
+
+
 Yeah, that'd be great.
 
-1631
-01:18:42,743 --> 01:18:44,412
+
+
 Oh my God!
 What happened?
 
-1632
-01:18:44,413 --> 01:18:46,282
+
+
 Everything is good,
 baby girl.
 
-1633
-01:18:46,283 --> 01:18:46,943
+
+
 But you know what?
 
-1634
-01:18:46,944 --> 01:18:48,888
+
+
 You should have told me that
 this dude was your uncle.
 
-1635
-01:18:48,889 --> 01:18:50,692
+
+
 It would have
 changed everything.
 
-1636
-01:18:50,693 --> 01:18:52,529
+
+
 You know, you need a ride
 to the emergency room?
 
-1637
-01:18:52,530 --> 01:18:55,201
+
+
 - No, I'm good.
 - Well, you do well--
 
-1638
-01:18:55,202 --> 01:18:57,373
+
+
 You stay on top of things.
 I'll send you that script, okay?
 
-1639
-01:18:57,374 --> 01:18:59,777
+
+
 - Oh, yeah, that'd be great.
 - I'll deal with you later, all right?
 
-1640
-01:18:59,778 --> 01:19:02,149
+
+
 - AMANDA: What?
 - You guys knew that was her uncle?
 
-1641
-01:19:02,150 --> 01:19:04,788
+
+
 <i>- No.
 - Didn't hear Amanda mention that.</i>
 
-1642
-01:19:04,789 --> 01:19:06,559
+
+
 You okay?
 
-1643
-01:19:08,062 --> 01:19:09,565
+
+
 Where's my money?
 
-1644
-01:19:09,566 --> 01:19:13,506
+
+
 You gave me $2,000.
 
-1645
-01:19:13,507 --> 01:19:16,613
+
+
 Okay.  Okay.
 
-1646
-01:19:16,614 --> 01:19:19,619
+
+
 You shouldn't have
 come here.
 
-1647
-01:19:23,829 --> 01:19:25,666
+
+
 I need to get
 to a hospital.
 
-1648
-01:19:25,667 --> 01:19:28,271
+
+
 Yeah, I'll drive you.
 
-1649
-01:19:28,272 --> 01:19:31,010
+
+
 No no no. You've been
 drinking. I'll drive.
 
-1650
-01:19:31,011 --> 01:19:33,081
+
+
 You tell me
 which way to go.
 
-1651
-01:19:38,393 --> 01:19:41,465
+
+
 You missed the exit.
 
-1652
-01:19:41,466 --> 01:19:43,971
+
+
 I said you missed
 the exit.
 
-1653
-01:19:43,972 --> 01:19:46,576
+
+
 I'm not losing
 my wife
 
-1654
-01:19:46,577 --> 01:19:49,015
+
+
 and getting
 my hand broken
 
-1655
-01:19:49,016 --> 01:19:51,119
+
+
 and getting kicked out
 of a casino for nothing.
 
-1656
-01:19:52,957 --> 01:19:55,962
+
+
 Somebody's gonna pay
 for this and it's you.
 
-1657
-01:19:55,963 --> 01:19:57,967
+
+
 You're going
 to rehab.
 
-1658
-01:19:57,968 --> 01:19:59,738
+
+
 No, I am not.
 
-1659
-01:19:59,739 --> 01:20:02,142
+
+
 Look around, honey.
 I think you are.
 
-1660
-01:20:03,480 --> 01:20:05,148
+
+
 - I'm getting out.
 - Go ahead.
 
-1661
-01:20:05,149 --> 01:20:07,387
+
+
 - I'm serious.
 - Yeah, good, go ahead.
 
-1662
-01:20:07,388 --> 01:20:09,424
+
+
 You want to kill
 yourself anyway.
 
-1663
-01:20:09,425 --> 01:20:11,896
+
+
 Yeah, come on,
 hurry up.
 
-1664
-01:20:11,897 --> 01:20:13,433
+
+
 - I'm gonna do it!
 - Yeah, go ahead.
 
-1665
-01:20:13,434 --> 01:20:16,606
+
+
 I'll speed up. I want to
 make sure you get killed.
 
-1666
-01:20:16,607 --> 01:20:19,512
+
+
 Because believe me, sweetheart,
 nobody wants a whore in a wheelchair.
 
-1667
-01:20:19,513 --> 01:20:21,784
+
+
 - You fucking asshole!
 - Go ahead, do it.
 
-1668
-01:20:23,822 --> 01:20:24,790
+
+
 Ahh!
 
-1669
-01:20:33,643 --> 01:20:35,312
+
+
 Ow.
 
-1670
-01:20:43,162 --> 01:20:45,900
+
+
 <i>Hello?  Can you hear me?</i>
 
-1671
-01:20:45,901 --> 01:20:49,241
+
+
 Hi. Um, yeah.
 My uncle kidnapped me
 
-1672
-01:20:49,242 --> 01:20:52,649
+
+
 and he's taking me
 to rehab in Malibu.
 
-1673
-01:20:52,650 --> 01:20:54,886
+
+
 It's in California.
 
-1674
-01:20:54,887 --> 01:20:58,828
+
+
 Um, I think it's called
 Clark Baron or something.
 
-1675
-01:21:00,900 --> 01:21:03,838
+
+
 Can you please
 pick me up?
 
-1676
-01:21:08,984 --> 01:21:11,020
+
+
 I have to pull off.
 
-1677
-01:21:11,021 --> 01:21:14,127
+
+
 I can't drive anymore.
 My hand.
 
-1678
-01:21:14,128 --> 01:21:15,864
+
+
 I'll drive.
 
-1679
-01:21:15,865 --> 01:21:17,802
+
+
 I don't think so.
 
-1680
-01:21:31,197 --> 01:21:33,368
+
+
 Here.
 Take it.
 
-1681
-01:21:37,443 --> 01:21:38,879
+
+
 Thanks.
 
-1682
-01:21:48,501 --> 01:21:50,404
+
+
 I'm not doing rehab.
 
-1683
-01:21:50,405 --> 01:21:52,608
+
+
 As soon as you leave,
 I'm out of there.
 
-1684
-01:21:52,609 --> 01:21:55,180
+
+
 I'm just taking you there.
 That's all I said I'd do.
 
-1685
-01:21:55,181 --> 01:21:58,253
+
+
 What happens to you after
 that, I don't give a shit.
 
-1686
-01:21:58,254 --> 01:22:02,228
+
+
 If Greg ever sees you again,
 he's gonna kick your ass so bad.
 
-1687
-01:22:02,229 --> 01:22:04,399
+
+
 Oh, yeah.
 Oh, he's wonderful.
 
-1688
-01:22:06,204 --> 01:22:08,408
+
+
 You did real
 well there, Amanda.
 
-1689
-01:22:10,580 --> 01:22:13,151
+
+
 You've made a lot of bad
 choices in your short life,
 
-1690
-01:22:13,152 --> 01:22:15,890
+
+
 but Greg
 really stands out.
 
-1691
-01:22:20,033 --> 01:22:21,769
+
+
 Greg loves me.
 
-1692
-01:22:21,770 --> 01:22:24,408
+
+
 <i>Stop buying him stuff.
 See how much he loves you then.</i>
 
-1693
-01:22:31,390 --> 01:22:34,930
+
+
 Someday, you're gonna see
 what he's really like.
 
-1694
-01:22:34,931 --> 01:22:37,603
+
+
 He'll do something
 or say something
 
-1695
-01:22:37,604 --> 01:22:40,876
+
+
 and it'll suddenly
 be so clear to you
 
-1696
-01:22:40,877 --> 01:22:43,281
+
+
 that your darling Greg
 
-1697
-01:22:43,282 --> 01:22:47,524
+
+
 is a hateful, mouth-breathing,
 abusive piece of shit.
 
-1698
-01:22:47,525 --> 01:22:50,630
+
+
 Well, at least he's not
 a 43-year-old drunk gambler.
 
-1699
-01:22:50,631 --> 01:22:53,402
+
+
 No, that would
 take talent.
 
-1700
-01:22:58,848 --> 01:23:00,451
+
+
 You and me...
 
-1701
-01:23:02,189 --> 01:23:04,459
+
+
 We live to make
 bad choices.
 
-1702
-01:23:06,631 --> 01:23:10,805
+
+
 We need a person
 in our lives who--
 
-1703
-01:23:10,806 --> 01:23:13,979
+
+
 who looks at us
 when we fuck up and...
 
-1704
-01:23:16,385 --> 01:23:18,489
+
+
 remembers who we were.
 
-1705
-01:23:19,558 --> 01:23:20,994
+
+
 Who we could be.
 
-1706
-01:23:24,803 --> 01:23:27,441
+
+
 You don't have someone like
 that, all you have is you.
 
-1707
-01:23:29,079 --> 01:23:31,717
+
+
 <i>And sooner or later,
 left to your own</i>
 
-1708
-01:23:31,718 --> 01:23:34,990
+
+
 brilliant,
 damaged devices...
 
-1709
-01:23:37,897 --> 01:23:41,003
+
+
 you just go spinning right
 off the goddamn planet.
 
-1710
-01:23:45,480 --> 01:23:47,516
+
+
 You lose that person...
 
-1711
-01:23:50,490 --> 01:23:52,526
+
+
 You're done.
 
-1712
-01:24:51,719 --> 01:24:54,991
+
+
 Oh my God!
 
-1713
-01:24:54,992 --> 01:24:57,864
+
+
 Oh!  Oh ho ho ho!
 
-1714
-01:24:57,865 --> 01:25:01,071
+
+
 Oh, thank you, God!
 
-1715
-01:25:11,894 --> 01:25:13,664
+
+
 You're here.
 
-1716
-01:25:13,665 --> 01:25:15,501
+
+
 It's free.
 
-1717
-01:25:15,502 --> 01:25:17,605
+
+
 Give it a shot.
 
-1718
-01:25:19,745 --> 01:25:23,752
+
+
 Let me actually think that
 I'm doing something good.
 
-1719
-01:25:23,753 --> 01:25:28,128
+
+
 If I can do one good thing,
 maybe I can string a few together.
 
-1720
-01:25:30,634 --> 01:25:32,637
+
+
 I'm glad this
 is all about you.
 
-1721
-01:25:37,281 --> 01:25:39,652
+
+
 You're better
 than your life, Amanda.
 
-1722
-01:25:49,607 --> 01:25:52,145
+
+
 You have a room with
 a canyon view.
 
-1723
-01:26:42,552 --> 01:26:45,390
+
+
 - Hi.
 - Long fuckin' drive.
 
-1724
-01:26:45,391 --> 01:26:47,194
+
+
 Now we gotta go
 all the way back.
 
-1725
-01:26:47,195 --> 01:26:48,430
+
+
 Aw.
 
-1726
-01:26:48,431 --> 01:26:50,201
+
+
 Mmm, thanks for
 coming, baby.
 
-1727
-01:26:52,106 --> 01:26:55,010
+
+
 These glasses are crap.
 Where'd you buy these?
 
-1728
-01:26:55,011 --> 01:26:58,351
+
+
 You love me, don't you?
 
-1729
-01:26:58,352 --> 01:27:01,724
+
+
 Like I really want to answer
 stupid questions right now.
 
-1730
-01:27:07,638 --> 01:27:10,944
+
+
 Did you have a girl
 at the house last night?
 
-1731
-01:27:10,945 --> 01:27:12,614
+
+
 No.
 
-1732
-01:27:12,615 --> 01:27:14,819
+
+
 'Cause my uncle said
 that he saw this girl--
 
-1733
-01:27:14,820 --> 01:27:16,389
+
+
 Would you shut up
 about that guy?
 
-1734
-01:27:16,390 --> 01:27:18,159
+
+
 He doesn't even know
 what he's talking about.
 
-1735
-01:27:18,160 --> 01:27:19,262
+
+
 - No, Greg--
 - Shut up!
 
-1736
-01:27:24,073 --> 01:27:26,377
+
+
 You know, I don't even know
 why we're sitting here talking.
 
-1737
-01:27:26,378 --> 01:27:28,381
+
+
 I just want to
 get the fuck home.
 
-1738
-01:27:28,382 --> 01:27:31,253
+
+
 Don't ever hit me again.
 
-1739
-01:27:34,094 --> 01:27:35,763
+
+
 Don't ever make me.
 
-1740
-01:28:00,315 --> 01:28:02,987
+
+
 <i>Hi, we're not here. Leave a message.</i>
 
-1741
-01:28:02,988 --> 01:28:05,559
+
+
 Oh, uh, Lorraine...
 
-1742
-01:28:05,560 --> 01:28:08,131
+
+
 Lorraine, pick up.
 
-1743
-01:28:08,132 --> 01:28:12,139
+
+
 Hey, I just dropped Amanda
 off at rehab.
 
-1744
-01:28:12,140 --> 01:28:15,747
+
+
 <i>- I thought you'd want to know...</i>
 
-1745
-01:28:15,748 --> 01:28:18,419
+
+
 <i>Seriously, pull the fuck over right now!</i>
 
-1746
-01:28:18,420 --> 01:28:21,158
+
+
 I'm going, I'm going.
 I'm jumping.
 
-1747
-01:28:21,159 --> 01:28:22,995
+
+
 You're fucking crazy!
 
-1748
-01:28:22,996 --> 01:28:25,066
+
+
 Jesus Christ.
 
-1749
-01:28:25,067 --> 01:28:26,903
+
+
 I don't have fuckin' time
 to play games, all right?
 
-1750
-01:28:26,904 --> 01:28:29,008
+
+
 So get in the fuckin' car.
 Get in the car.
 
-1751
-01:28:29,009 --> 01:28:30,478
+
+
 Goodbye, Greg.
 
-1752
-01:28:30,479 --> 01:28:32,583
+
+
 <i>Is this because
 you made me hit you?</i>
 
-1753
-01:28:32,584 --> 01:28:34,920
+
+
 <i>- Is that the problem?
 - Goodbye, Greg.</i>
 
-1754
-01:28:34,921 --> 01:28:37,259
+
+
 Gah!  It's over.
 Fuck you.  We're done.
 
-1755
-01:28:37,260 --> 01:28:40,332
+
+
 That's right! And you know what?
 I'm taking the fucking truck,
 
-1756
-01:28:40,333 --> 01:28:42,704
+
+
 I'm taking my clothes,
 I'm taking everything!
 
-1757
-01:28:42,705 --> 01:28:44,341
+
+
 So fuck you!
 
-1758
-01:28:45,844 --> 01:28:48,449
+
+
 Gah!
 
-1759
-01:28:48,450 --> 01:28:50,486
+
+
 I need gas money.
 
-1760
-01:28:51,824 --> 01:28:53,860
+
+
 Fuck you!  Bitch!
 
-1761
-01:29:26,831 --> 01:29:28,767
+
+
 <i>Where you headed?
 - I'm not sure yet.</i>
 
-1762
-01:29:28,768 --> 01:29:30,905
+
+
 You better get in.
 
-1763
-01:29:35,282 --> 01:29:37,452
+
+
 No, Dr. Franks
 isn't here today.
 
-1764
-01:29:37,453 --> 01:29:39,557
+
+
 Would you like to speak
 with Dr. Baron?
 
-1765
-01:29:39,558 --> 01:29:42,329
+
+
 I'll connect you.
 
-1766
-01:29:42,330 --> 01:29:44,968
+
+
 Hi.
 Can I help you?
 
-1767
-01:29:44,969 --> 01:29:49,277
+
+
 Yes.  You have a room
 with a canyon view
 
-1768
-01:29:49,278 --> 01:29:50,914
+
+
 for Amanda Keene?
 
-1769
-01:29:52,952 --> 01:29:55,423
+
+
 Yes.
 Is she here?
 
-1770
-01:29:57,161 --> 01:29:58,931
+
+
 I'm her.
 
-1771
-01:30:07,049 --> 01:30:09,553
+
+
 <i># there's everywhere else #</i>
 
-1772
-01:30:09,554 --> 01:30:11,924
+
+
 <i># and then there's Vegas #</i>
 
-1773
-01:30:14,097 --> 01:30:17,904
+
+
 <i># anywhere else just don't
 fit the bill #</i>
 
-1774
-01:30:19,942 --> 01:30:22,146
+
+
 <i># you travel the world #</i>
 
-1775
-01:30:22,147 --> 01:30:24,451
+
+
 <i># and then
 there's Vegas #</i>
 
-1776
-01:30:25,855 --> 01:30:28,493
+
+
 <i># you feel like
 a king #</i>
 
-1777
-01:30:28,494 --> 01:30:30,964
+
+
 <i># king of the whole
 damn hill #</i>
 
-1778
-01:30:32,869 --> 01:30:35,908
+
+
 <i># Boston's got her beans #</i>
 
-1779
-01:30:35,909 --> 01:30:39,215
+
+
 <i># Pittsburgh,
 she's got steel #</i>
 
-1780
-01:30:39,216 --> 01:30:42,722
+
+
 <i># they won't set your heart
 to racin' #</i>
 
-1781
-01:30:42,723 --> 01:30:45,428
+
+
 <i># like a spin of the wheel #</i>
 
-1782
-01:30:45,429 --> 01:30:48,000
+
+
 <i># there's everywhere else #</i>
 
-1783
-01:30:48,001 --> 01:30:52,143
+
+
 <i># and then there's Vegas,
 baby #</i>
 
-1784
-01:30:52,144 --> 01:30:53,880
+
+
 <i># there's nowhere else #</i>
 
-1785
-01:30:53,881 --> 01:30:55,984
+
+
 <i># no place I'd rather be #</i>
 
-1786
-01:31:10,982 --> 01:31:13,487
+
+
 <i># there's everywhere else #</i>
 
-1787
-01:31:13,488 --> 01:31:17,529
+
+
 <i># and then there's
 Vegas, baby #</i>
 
-1788
-01:31:17,530 --> 01:31:19,734
+
+
 <i># ain't no place #</i>
 
-1789
-01:31:19,735 --> 01:31:22,006
+
+
 <i># no place
 I'd rather be #</i>
 
-1790
-01:31:43,584 --> 01:31:46,424
+
+
 <i># there's no place else #</i>
 
-1791
-01:31:46,425 --> 01:31:49,363
+
+
 <i># that shines so bright #</i>
 
-1792
-01:31:49,364 --> 01:31:52,269
+
+
 <i># so make it
 Las Vegas #</i>
 
-1793
-01:31:52,270 --> 01:31:54,039
+
+
 <i># tonight. #</i>
 

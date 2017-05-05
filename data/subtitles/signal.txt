@@ -1,3700 +1,3700 @@
-1
-00:00:00,000 --> 00:00:00,713
+
+
 <font color="#80ffff">T
 
-2
-00:00:00,714 --> 00:00:01,427
+
+
 <font color="#80ffff">Th
 
-3
-00:00:01,429 --> 00:00:02,141
+
+
 <font color="#80ffff">The
 
-4
-00:00:02,142 --> 00:00:02,855
+
+
 <font color="#80ffff">The_
 
-5
-00:00:02,857 --> 00:00:03,569
+
+
 <font color="#80ffff">The_S
 
-6
-00:00:03,571 --> 00:00:04,285
+
+
 <font color="#80ffff">The_Si
 
-7
-00:00:04,285 --> 00:00:04,998
+
+
 <font color="#80ffff">The_Sig
 
-8
-00:00:05,000 --> 00:00:05,713
+
+
 <font color="#80ffff">The_Sign
 
-9
-00:00:05,714 --> 00:00:06,427
+
+
 <font color="#80ffff">The_Signa
 
-10
-00:00:06,429 --> 00:00:07,142
-<font color="#80ffff">The_Signal
 
-11
-00:00:07,142 --> 00:00:07,855
+
 <font color="#80ffff">The_Signal
 
 
-12
-00:00:07,857 --> 00:00:08,570
+
 <font color="#80ffff">The_Signal
 
 
-13
-00:00:08,570 --> 00:00:09,285
+
+
+<font color="#80ffff">The_Signal
+
+
+
+
 <font color="#80ffff">The_Signal
 S
 
-14
-00:00:09,285 --> 00:00:09,999
+
+
 <font color="#80ffff">The_Signal
 Su
 
-15
-00:00:10,000 --> 00:00:10,712
+
+
 <font color="#80ffff">The_Signal
 Sub
 
-16
-00:00:10,714 --> 00:00:11,428
+
+
 <font color="#80ffff">The_Signal
 Subt
 
-17
-00:00:11,429 --> 00:00:12,141
+
+
 <font color="#80ffff">The_Signal
 Subti
 
-18
-00:00:12,143 --> 00:00:12,855
+
+
 <font color="#80ffff">The_Signal
 Subtit
 
-19
-00:00:12,856 --> 00:00:13,570
+
+
 <font color="#80ffff">The_Signal
 Subtitl
 
-20
-00:00:13,570 --> 00:00:14,285
+
+
 <font color="#80ffff">The_Signal
 Subtitle
 
-21
-00:00:14,285 --> 00:00:14,999
+
+
 <font color="#80ffff">The_Signal
 Subtitle_
 
-22
-00:00:15,000 --> 00:00:15,712
+
+
 <font color="#80ffff">The_Signal
 Subtitle_C
 
-23
-00:00:15,714 --> 00:00:16,428
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Cr
 
-24
-00:00:16,428 --> 00:00:17,141
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Cre
 
-25
-00:00:17,143 --> 00:00:17,856
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Crea
 
-26
-00:00:17,856 --> 00:00:18,570
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat
 
-27
-00:00:18,571 --> 00:00:19,285
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_
 
-28
-00:00:19,286 --> 00:00:19,998
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_B
 
-29
-00:00:20,000 --> 00:00:20,713
-<font color="#80ffff">The_Signal
-Subtitle_Creat_By
 
-30
-00:00:20,713 --> 00:00:21,428
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 
 
-31
-00:00:21,428 --> 00:00:22,141
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 
 
-32
-00:00:22,143 --> 00:00:22,856
+
+
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+
+
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 T
 
-33
-00:00:22,856 --> 00:00:23,570
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Th
 
-34
-00:00:23,571 --> 00:00:24,285
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tha
 
-35
-00:00:24,286 --> 00:00:24,998
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Thar
 
-36
-00:00:25,000 --> 00:00:25,713
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Thari
 
-37
-00:00:25,713 --> 00:00:26,428
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharin
 
-38
-00:00:26,428 --> 00:00:27,141
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharind
 
-39
-00:00:27,143 --> 00:00:27,856
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu
 
-40
-00:00:27,856 --> 00:00:28,570
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_
 
-41
-00:00:28,571 --> 00:00:29,285
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_L
 
-42
-00:00:29,286 --> 00:00:29,998
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_La
 
-43
-00:00:30,000 --> 00:00:30,713
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lak
 
-44
-00:00:30,713 --> 00:00:31,428
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakm
 
-45
-00:00:31,428 --> 00:00:32,142
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakma
 
-46
-00:00:32,143 --> 00:00:32,856
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal
 
-47
-00:00:32,856 --> 00:00:33,570
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_
 
-48
-00:00:33,570 --> 00:00:34,284
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_J
 
-49
-00:00:34,286 --> 00:00:34,999
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Je
 
-50
-00:00:35,000 --> 00:00:35,713
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jee
 
-51
-00:00:35,713 --> 00:00:36,427
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeew
 
-52
-00:00:36,429 --> 00:00:37,142
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewa
 
-53
-00:00:37,143 --> 00:00:37,856
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewan
 
-54
-00:00:37,856 --> 00:00:38,570
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewant
 
-55
-00:00:38,570 --> 00:00:39,284
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewanth
 
-56
-00:00:39,286 --> 00:01:09,000
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewantha</font>
 
-57
-00:01:09,968 --> 00:01:12,037
+
+
 Which one are you going for, bud?
 
-58
-00:01:13,305 --> 00:01:16,073
+
+
 The white one? With goggles?
 
-59
-00:01:21,213 --> 00:01:24,682
+
+
 Okay, I'm gonna show you
 how to get there. Okay?
 
-60
-00:01:28,487 --> 00:01:31,222
+
+
 Okay, you're gonna follow...
 
-61
-00:01:32,457 --> 00:01:35,325
+
+
 this line till it gets to...
 
-62
-00:01:36,228 --> 00:01:39,198
+
+
 Till it gets to this circle, okay?
 
-63
-00:01:39,200 --> 00:01:41,834
+
+
 When it hits that circle,
 you press the button.
 
-64
-00:01:41,835 --> 00:01:46,838
+
+
 Then you're gonna follow this bottom
 line until it gets to this circle.
 
-65
-00:01:46,840 --> 00:01:49,375
+
+
 Then you press the
 button, okay? Got it?
 
-66
-00:01:49,376 --> 00:01:51,878
+
+
 Okay, you got any money?
 
-67
-00:01:51,878 --> 00:01:54,378
+
+
 Okay, well, here's $1.
 
-68
-00:01:55,847 --> 00:01:57,848
+
+
 Good luck.
 
-69
-00:05:22,422 --> 00:05:24,387
+
+
 Hey.
 
-70
-00:05:27,093 --> 00:05:31,161
+
+
 Nomad's back. He's
 messing with us again.
 
-71
-00:05:39,971 --> 00:05:41,673
+
+
 What did he say?
 
-72
-00:05:42,942 --> 00:05:48,112
+
+
 "Your hack into MIT
 servers was legit."
 
-73
-00:05:50,783 --> 00:05:52,283
+
+
 That was fast.
 
-74
-00:05:52,718 --> 00:05:55,721
+
+
 "Ta, ta, ta." What is that?
 
-75
-00:05:56,721 --> 00:06:00,826
+
+
 "They put that shit on us.
 "We almost got expelled."
 
-76
-00:06:09,968 --> 00:06:12,036
+
+
 "Vibes."
 
-77
-00:06:12,805 --> 00:06:16,175
+
+
 Who's this Vibes? Okay, guy.
 
-78
-00:06:16,677 --> 00:06:19,144
+
+
 "We're going to expose
 you at DEF CON,
 
-79
-00:06:19,146 --> 00:06:21,812
+
+
 "so you better watch your back."
 
-80
-00:06:26,418 --> 00:06:28,619
+
+
 Dude, what is that?
 
-81
-00:06:32,792 --> 00:06:34,826
+
+
 What the...
 
-82
-00:06:48,040 --> 00:06:50,574
+
+
 <i>Go into the building.</i>
 
-83
-00:06:55,680 --> 00:06:57,649
+
+
 Get the Pwnie.
 
-84
-00:06:57,651 --> 00:06:59,685
+
+
 All right, let's do this.
 
-85
-00:06:59,685 --> 00:07:01,853
+
+
 Open up a Linux terminal
 and start an Nmap, dude.
 
-86
-00:07:01,855 --> 00:07:03,689
+
+
 Haley's gonna have
 to drive tomorrow.
 
-87
-00:07:03,689 --> 00:07:05,024
+
+
 Hey, focus.
 
-88
-00:07:05,024 --> 00:07:06,892
+
+
 That's what I'm saying,
 I won't be able to.
 
-89
-00:07:06,894 --> 00:07:10,629
+
+
 Technically she's the one moving, so
 technically she should be driving.
 
-90
-00:07:10,630 --> 00:07:13,764
+
+
 - Is it open yet?
 - In a sec.
 
-91
-00:07:14,165 --> 00:07:15,899
+
+
 - Okay, I'm good.
 - Okay.
 
-92
-00:07:22,908 --> 00:07:24,209
+
+
 Okay, type something.
 
-93
-00:07:24,211 --> 00:07:26,745
+
+
 I'm trying to think
 of something funny.
 
-94
-00:07:26,745 --> 00:07:28,213
+
+
 Damn.
 
-95
-00:07:28,214 --> 00:07:32,449
+
+
 "Do androids take
 an electric sheet?"
 
-96
-00:07:33,451 --> 00:07:35,519
+
+
 You're stupid.
 
-97
-00:07:36,422 --> 00:07:39,324
+
+
 Okay, read me out the
 IPs on the C&C servers.
 
-98
-00:07:39,326 --> 00:07:44,764
+
+
 "192. 236. 19. 147."
 
-99
-00:07:44,764 --> 00:07:46,766
+
+
 147. Start sniffing connections.
 
-100
-00:07:46,766 --> 00:07:49,933
+
+
 Copy that. Firing up the listeners.
 
-101
-00:07:50,369 --> 00:07:52,435
+
+
 All right, this guy's toast.
 
-102
-00:07:56,776 --> 00:07:58,677
+
+
 Nevada.
 
-103
-00:07:58,678 --> 00:08:01,478
+
+
 Dude, we're going
 right through Nevada.
 
-104
-00:08:02,213 --> 00:08:04,749
+
+
 - We got him.
 - We got him!
 
-105
-00:08:10,956 --> 00:08:13,423
+
+
 Are you guys being
 serious right now?
 
-106
-00:08:16,295 --> 00:08:19,430
+
+
 Well, you're driving
 in the morning, so...
 
-107
-00:08:19,531 --> 00:08:21,298
+
+
 good night.
 
-108
-00:08:23,235 --> 00:08:28,172
+
+
 I'd like to see you make
 me, you Caltech turncoat.
 
-109
-00:08:46,325 --> 00:08:48,427
+
+
 Haley, this fish tank's
 leaking something.
 
-110
-00:08:48,427 --> 00:08:49,961
+
+
 It's water, Jonah.
 
-111
-00:08:49,962 --> 00:08:52,263
+
+
 - It's gross.
 - Shut up.
 
-112
-00:08:52,597 --> 00:08:56,900
+
+
 - You Caltech turncoats.
 - Dude, can you stop saying that?
 
-113
-00:09:00,873 --> 00:09:04,110
+
+
 - Signal sucks out here.
 - You're right, it does suck.
 
-114
-00:09:04,211 --> 00:09:06,451
+
+
 - Hey, you want one of these?
 - No, I'm good, thanks.
 
-115
-00:09:06,451 --> 00:09:08,219
+
+
 You want?
 
-116
-00:09:15,687 --> 00:09:17,520
+
+
 Dude.
 
-117
-00:09:19,524 --> 00:09:22,525
+
+
 - What?
 - Check this out.
 
-118
-00:09:23,495 --> 00:09:26,764
+
+
 What the hell?
 Why isn't that working?
 
-119
-00:09:28,200 --> 00:09:29,301
+
+
 Is that my car?
 
-120
-00:09:29,302 --> 00:09:32,804
+
+
 - Yeah. It's a traffic camera.
 - This guy is so gnarly.
 
-121
-00:09:32,806 --> 00:09:35,508
+
+
 - How does he have a picture of my car?
 - Hold on a sec.
 
-122
-00:09:35,509 --> 00:09:38,677
+
+
 Why would this guy go to all
 the trouble to hack into MIT,
 
-123
-00:09:38,678 --> 00:09:41,013
+
+
 and then, you know,
 just taunt us like this?
 
-124
-00:09:41,014 --> 00:09:43,682
+
+
 The same reason anyone does
 anything. Acknowledgment.
 
-125
-00:09:43,683 --> 00:09:45,451
+
+
 "I'm better than you, you're
 better than me," whatever.
 
-126
-00:09:45,451 --> 00:09:48,186
+
+
 Here, dude, I can't
 unlock it. You try.
 
-127
-00:09:52,158 --> 00:09:55,525
+
+
 You guys should just
 stop provoking him.
 
-128
-00:09:56,562 --> 00:10:00,596
+
+
 He's probably just some little kid.
 
-129
-00:10:01,200 --> 00:10:05,738
+
+
 - Nic, are we doing this or not?
 - I can't, dude.
 
-130
-00:10:05,739 --> 00:10:07,705
+
+
 What do you mean, you can't?
 
-131
-00:10:10,576 --> 00:10:13,345
+
+
 I just can't right now.
 
-132
-00:10:13,346 --> 00:10:16,913
+
+
 Look, I get we have to
 take Haley to California.
 
-133
-00:10:17,383 --> 00:10:20,586
+
+
 But there's no reason we
 shouldn't do this, too.
 
-134
-00:10:20,586 --> 00:10:24,856
+
+
 Nomad hacking into MIT is one
 thing, but Haley's computer?
 
-135
-00:10:24,857 --> 00:10:27,692
+
+
 No, but it's crazy not
 to go after this guy.
 
-136
-00:10:27,693 --> 00:10:29,195
+
+
 - Jonah, what's the sales tax?
 - We're so close.
 
-137
-00:10:29,196 --> 00:10:33,365
+
+
 6.3. It's on the way.
 
-138
-00:10:33,365 --> 00:10:36,567
+
+
 $14.74. You can keep the change.
 
-139
-00:11:14,405 --> 00:11:17,107
+
+
 - You guys want something?
 - Yeah.
 
-140
-00:11:18,476 --> 00:11:20,980
+
+
 - Coffee?
 - Yeah, I'd love a coffee.
 
-141
-00:11:20,980 --> 00:11:24,682
+
+
 - Black?
 - There you go. Yeah, please.
 
-142
-00:11:38,730 --> 00:11:40,163
+
+
 What?
 
-143
-00:11:42,234 --> 00:11:45,769
+
+
 Has Nic said anything
 to you about me moving?
 
-144
-00:11:46,071 --> 00:11:48,072
+
+
 No.
 
-145
-00:11:49,174 --> 00:11:51,076
+
+
 Nothing?
 
-146
-00:11:51,076 --> 00:11:55,245
+
+
 No, obviously he's bummed you're
 gonna be gone for a year.
 
-147
-00:12:01,153 --> 00:12:04,789
+
+
 It just seems like he's trying to
 distance himself from me, you know?
 
-148
-00:12:04,791 --> 00:12:08,091
+
+
 Look, you guys are my best friends,
 
-149
-00:12:09,028 --> 00:12:11,263
+
+
 and I'm just...
 
-150
-00:12:11,264 --> 00:12:13,397
+
+
 I'm the wrongest guy to ask.
 
-151
-00:12:17,101 --> 00:12:18,769
+
+
 Yeah.
 
-152
-00:12:20,840 --> 00:12:22,840
+
+
 Oh, crap.
 
-153
-00:12:24,876 --> 00:12:26,543
+
+
 Hey.
 
-154
-00:12:27,712 --> 00:12:29,947
+
+
 You all right, bud?
 
-155
-00:12:30,216 --> 00:12:31,616
+
+
 - I'm fine.
 - Yeah?
 
-156
-00:12:31,618 --> 00:12:33,850
+
+
 I'm fine, I'm fine.
 
-157
-00:12:34,186 --> 00:12:36,253
+
+
 I'm gonna get more coffees.
 
-158
-00:12:42,695 --> 00:12:45,528
+
+
 I'm gonna... move the car.
 
-159
-00:13:02,147 --> 00:13:04,414
+
+
 Best friends!
 
-160
-00:13:07,586 --> 00:13:09,389
+
+
 Is this one mine?
 
-161
-00:13:09,414 --> 00:13:12,914
+
+
 Yeah. I already put two in.
 
-162
-00:13:14,059 --> 00:13:16,726
+
+
 - Here you go.
 - I got it.
 
-163
-00:13:20,499 --> 00:13:23,269
+
+
 Nic, I offer to help not
 because I think you need it,
 
-164
-00:13:23,269 --> 00:13:25,537
+
+
 but because I know you don't.
 
-165
-00:13:25,538 --> 00:13:29,639
+
+
 Yeah, well, you won't have to
 worry about that soon, will you?
 
-166
-00:13:32,211 --> 00:13:34,010
+
+
 Okay.
 
-167
-00:13:43,288 --> 00:13:45,522
+
+
 Thanks, bud.
 
-168
-00:13:46,959 --> 00:13:50,261
+
+
 We're not really that far
 from this guy, are we?
 
-169
-00:13:50,263 --> 00:13:53,429
+
+
 180 miles, give or take.
 
-170
-00:13:55,701 --> 00:13:58,033
+
+
 All right, dude, let's do it.
 
-171
-00:13:58,236 --> 00:14:00,405
+
+
 Let's go.
 
-172
-00:14:00,407 --> 00:14:03,274
+
+
 Now, see, this is the
 Nicholas Eastman I love.
 
-173
-00:14:03,275 --> 00:14:07,277
+
+
 You know, just determined,
 ruthless, competitive.
 
-174
-00:14:07,312 --> 00:14:09,946
+
+
 Oh, and favors caffeine.
 
-175
-00:14:13,052 --> 00:14:15,184
+
+
 Where's Haley?
 
-176
-00:14:16,054 --> 00:14:19,022
+
+
 I don't know. I think
 she walked, uh...
 
-177
-00:14:20,658 --> 00:14:22,493
+
+
 That way.
 
-178
-00:14:43,481 --> 00:14:47,519
+
+
 Haley, look, I'm sorry. It's
 just, I've been distracted.
 
-179
-00:14:47,520 --> 00:14:49,587
+
+
 I think you're getting ready
 to make a big speech.
 
-180
-00:14:49,588 --> 00:14:52,991
+
+
 I think this whole trip is about
 you getting ready to make it.
 
-181
-00:14:52,993 --> 00:14:56,659
+
+
 What are you talking about?
 I'm not gonna make a speech.
 
-182
-00:14:56,662 --> 00:14:58,761
+
+
 Stop.
 
-183
-00:15:15,480 --> 00:15:19,884
+
+
 Haley, you know how many times
 I've played this out in my head?
 
-184
-00:15:19,885 --> 00:15:22,721
+
+
 Twice-a-week doctor's appointments.
 
-185
-00:15:22,721 --> 00:15:28,659
+
+
 Who knows how many MRis and
 tests. Eventually a wheelchair.
 
-186
-00:15:28,661 --> 00:15:30,528
+
+
 All the time wondering if
 you're gonna break up with me.
 
-187
-00:15:30,529 --> 00:15:32,297
+
+
 - Stop.
 - When you're gonna get tired of this...
 
-188
-00:15:32,298 --> 00:15:33,443
+
+
 It's not fair to
 make me the bad guy
 
-189
-00:15:33,446 --> 00:15:35,533
+
+
 - without my input.
 - Haley, that's not what I'm saying.
 
-190
-00:15:35,534 --> 00:15:39,070
+
+
 I'm just saying I'm not gonna
 be the guy who holds you back.
 
-191
-00:15:43,475 --> 00:15:46,277
+
+
 Cool. So, uh...
 
-192
-00:15:46,979 --> 00:15:50,046
+
+
 I move away for one year and...
 
-193
-00:15:50,249 --> 00:15:53,552
+
+
 because you're scared
 of what's gonna happen,
 
-194
-00:15:53,552 --> 00:15:56,820
+
+
 you immediately resort
 to breaking up?
 
-195
-00:15:56,889 --> 00:15:59,700
+
+
 I'm just saying...
 I'm just saying...
 
-196
-00:15:59,701 --> 00:16:02,693
+
+
 - I need to protect myself.
 - From what?
 
-197
-00:16:04,028 --> 00:16:07,630
+
+
 - Is it your heart talking or your head?
 - It's me talking.
 
-198
-00:16:08,399 --> 00:16:12,538
+
+
 But you're the one that always told me to
 run toward something and not away from it.
 
-199
-00:16:12,538 --> 00:16:15,639
+
+
 Yeah, well, that was
 before all this shit.
 
-200
-00:16:29,721 --> 00:16:31,822
+
+
 What are you doing?
 
-201
-00:16:37,096 --> 00:16:40,431
+
+
 You can keep your promises.
 I don't want them.
 
-202
-00:16:50,808 --> 00:16:52,743
+
+
 Haley.
 
-203
-00:16:56,748 --> 00:17:01,350
+
+
 You just take a left up here.
 It's about 20 miles or so.
 
-204
-00:17:01,720 --> 00:17:04,155
+
+
 Maybe we should drop
 Haley off first.
 
-205
-00:17:04,156 --> 00:17:07,191
+
+
 Can you not talk about
 me like I'm not in the car?
 
-206
-00:17:10,662 --> 00:17:13,195
+
+
 Haley, you don't
 have to come along.
 
-207
-00:17:13,265 --> 00:17:15,865
+
+
 No, I wanna meet this asshole.
 
-208
-00:17:16,234 --> 00:17:18,134
+
+
 Me, too.
 
-209
-00:17:29,815 --> 00:17:33,450
+
+
 Just keep going. We still
 got, like, a quarter mile.
 
-210
-00:17:54,006 --> 00:17:56,775
+
+
 - Stop, stop, we passed it.
 - What?
 
-211
-00:17:56,776 --> 00:17:58,375
+
+
 Yeah, back up.
 
-212
-00:18:08,920 --> 00:18:11,453
+
+
 Say, 20 or 30 feet.
 
-213
-00:18:11,823 --> 00:18:14,023
+
+
 Stop, stop.
 
-214
-00:18:16,395 --> 00:18:19,296
+
+
 - I think it's right here.
 - You serious?
 
-215
-00:18:19,730 --> 00:18:22,134
+
+
 It's right here. It's right here.
 
-216
-00:18:24,703 --> 00:18:28,505
+
+
 - Don't get us stuck. Please, Nic.
 - We're fine.
 
-217
-00:18:28,673 --> 00:18:30,708
+
+
 It's over here.
 
-218
-00:18:35,814 --> 00:18:37,894
+
+
 You should kill the headlights.
 
-219
-00:18:39,817 --> 00:18:41,185
+
+
 Are you sure you want to do this?
 
-220
-00:18:41,186 --> 00:18:45,489
+
+
 I'm not gonna lie.
 This doesn't look right.
 
-221
-00:18:45,691 --> 00:18:48,025
+
+
 What do you think?
 
-222
-00:18:50,494 --> 00:18:53,898
+
+
 We're not gonna know
 by sitting in the car.
 
-223
-00:18:53,900 --> 00:18:57,034
+
+
 Come on, let's go. Get your camera.
 
-224
-00:18:58,036 --> 00:19:01,003
+
+
 Haley, stay in and
 lock the doors, okay?
 
-225
-00:19:02,106 --> 00:19:03,807
+
+
 Nic.
 
-226
-00:19:04,242 --> 00:19:06,943
+
+
 You know all this is stupid, right?
 
-227
-00:19:15,053 --> 00:19:18,022
+
+
 - Where do you think we went wrong?
 - What are you talking about?
 
-228
-00:19:18,023 --> 00:19:21,125
+
+
 You know, it must have been,
 like, a random IP allocation.
 
-229
-00:19:21,126 --> 00:19:23,561
+
+
 Like, they could be in
 Georgia for all we know.
 
-230
-00:19:23,563 --> 00:19:27,297
+
+
 - Like, Europe Georgia.
 - Shut up.
 
-231
-00:19:31,435 --> 00:19:34,771
+
+
 Or they could be using
 this as a relay point.
 
-232
-00:19:37,041 --> 00:19:39,910
+
+
 A big mama sat in that chair.
 
-233
-00:19:46,285 --> 00:19:49,452
+
+
 I'm gonna have to say
 there's nobody here, Nic.
 
-234
-00:19:58,797 --> 00:19:59,998
+
+
 Dude, Nomad is not here.
 
-235
-00:19:59,999 --> 00:20:02,067
+
+
 - Let's take a look.
 - He's not here.
 
-236
-00:20:02,067 --> 00:20:04,769
+
+
 We'll take a look
 and then we'll go.
 
-237
-00:20:04,770 --> 00:20:07,071
+
+
 Let's go find him.
 
-238
-00:20:07,073 --> 00:20:09,506
+
+
 A hillbilly lives here.
 
-239
-00:20:11,108 --> 00:20:14,010
+
+
 - This guy has a baby?
 - Shh!
 
-240
-00:20:18,916 --> 00:20:20,349
+
+
 Shh!
 
-241
-00:20:48,447 --> 00:20:50,213
+
+
 Jonah?
 
-242
-00:20:53,285 --> 00:20:54,984
+
+
 Jonah?
 
-243
-00:21:04,328 --> 00:21:06,096
+
+
 Jonah?
 
-244
-00:21:07,065 --> 00:21:09,534
+
+
 Dude, I can see you.
 What are you doing?
 
-245
-00:21:09,535 --> 00:21:11,201
+
+
 Hey!
 
-246
-00:21:17,576 --> 00:21:20,143
+
+
 Dude, you're such an asshole!
 
-247
-00:21:21,813 --> 00:21:24,383
+
+
 How funny is this little chair?
 
-248
-00:21:24,384 --> 00:21:26,917
+
+
 It was really facing
 the corner like this.
 
-249
-00:21:26,919 --> 00:21:29,419
+
+
 Come on. There's a basement.
 
-250
-00:21:30,923 --> 00:21:33,556
+
+
 You're such a kike.
 
-251
-00:21:36,560 --> 00:21:40,763
+
+
 - Go down.
 - Screw that, you go down.
 
-252
-00:21:42,768 --> 00:21:44,534
+
+
 Be careful.
 
-253
-00:21:57,182 --> 00:21:59,415
+
+
 What is this place?
 
-254
-00:22:02,186 --> 00:22:04,320
+
+
 Check it out, man.
 
-255
-00:22:07,459 --> 00:22:09,459
+
+
 What are those?
 
-256
-00:22:09,560 --> 00:22:13,163
+
+
 - Server racks.
 - That's weird.
 
-257
-00:22:20,238 --> 00:22:22,271
+
+
 Oh, wait. Haley!
 
-258
-00:22:23,575 --> 00:22:26,676
+
+
 Haley! Haley! Haley!
 
-259
-00:22:28,813 --> 00:22:30,779
+
+
 Haley!
 
-260
-00:22:36,121 --> 00:22:37,655
+
+
 What the hell?
 
-261
-00:22:38,990 --> 00:22:40,592
+
+
 - What was that sound?
 - I don't know.
 
-262
-00:22:40,593 --> 00:22:43,961
+
+
 - Why are the car doors open like that?
 - I don't know!
 
-263
-00:22:43,962 --> 00:22:45,729
+
+
 Haley!
 
-264
-00:22:53,572 --> 00:22:55,672
+
+
 - Haley!
 - Shh!
 
-265
-00:22:55,874 --> 00:22:57,906
+
+
 Listen.
 
-266
-00:23:06,451 --> 00:23:07,751
+
+
 Oh, my God.
 
-267
-00:23:08,988 --> 00:23:11,221
+
+
 - Haley!
 - Haley!
 
-268
-00:23:11,589 --> 00:23:13,556
+
+
 Haley!
 
-269
-00:24:55,527 --> 00:24:58,861
+
+
 Can you... speak?
 
-270
-00:25:00,131 --> 00:25:02,465
+
+
 Where am I?
 
-271
-00:25:03,734 --> 00:25:05,868
+
+
 I can't move.
 
-272
-00:25:07,404 --> 00:25:09,505
+
+
 Can you tell me your name?
 
-273
-00:25:10,875 --> 00:25:13,211
+
+
 Nicholas Eastman.
 
-274
-00:25:13,211 --> 00:25:15,579
+
+
 I'm Damon. Dr. Wallace Damon.
 
-275
-00:25:15,580 --> 00:25:20,050
+
+
 I'm heading up the transition
 team that's going to help you,
 
-276
-00:25:20,051 --> 00:25:25,989
+
+
 help all of us understand exactly
 what you've been through.
 
-277
-00:25:26,458 --> 00:25:29,192
+
+
 What are you talking about?
 
-278
-00:25:30,394 --> 00:25:34,798
+
+
 Can you recall for me the first
 time you encountered the signal?
 
-279
-00:25:35,066 --> 00:25:36,967
+
+
 The what?
 
-280
-00:25:39,336 --> 00:25:41,637
+
+
 Why can't I move?
 
-281
-00:25:42,773 --> 00:25:44,342
+
+
 What happened to us?
 
-282
-00:25:44,343 --> 00:25:47,578
+
+
 Due to the circumstances
 surrounding your condition,
 
-283
-00:25:47,579 --> 00:25:53,115
+
+
 I'm afraid that our information
 is... extremely limited.
 
-284
-00:25:53,183 --> 00:25:55,787
+
+
 Wait, what's my condition?
 
-285
-00:25:55,788 --> 00:26:00,189
+
+
 What I'm about to tell you, Nic,
 you may find a bit disturbing.
 
-286
-00:26:00,858 --> 00:26:04,760
+
+
 You have made contact
 with an E.B.E.
 
-287
-00:26:05,363 --> 00:26:07,265
+
+
 E.B.E.?
 
-288
-00:26:07,266 --> 00:26:12,201
+
+
 Extraterrestrial Biological
 Entity. E.B.E.
 
-289
-00:26:14,873 --> 00:26:17,473
+
+
 I want to talk to my parents.
 
-290
-00:26:20,010 --> 00:26:23,948
+
+
 - I'm sorry, that's just not possible.
 - What are you talking about?
 
-291
-00:26:23,949 --> 00:26:28,919
+
+
 Where's Haley and Jonah?
 What happened to us?
 
-292
-00:26:29,988 --> 00:26:33,423
+
+
 Why am I... in a wheelchair?
 
-293
-00:26:38,128 --> 00:26:40,330
+
+
 Why...
 
-294
-00:26:40,332 --> 00:26:42,632
+
+
 Why are you wearing that suit?
 
-295
-00:26:44,368 --> 00:26:48,906
+
+
 We're not 100% certain about
 what we're dealing with here.
 
-296
-00:26:48,907 --> 00:26:53,478
+
+
 The possibility for alien
 contamination is... very real.
 
-297
-00:26:53,479 --> 00:26:56,112
+
+
 When you say "alien
 contamination," do you mean...
 
-298
-00:26:56,114 --> 00:27:00,040
+
+
 microbiological
 contamination, as in foreign?
 
-299
-00:27:00,218 --> 00:27:02,085
+
+
 Hold still.
 
-300
-00:27:19,738 --> 00:27:21,238
+
+
 Oh.
 
-301
-00:27:24,843 --> 00:27:26,910
+
+
 It's just blood.
 
-302
-00:27:28,880 --> 00:27:31,113
+
+
 <i>It's just blood.</i>
 
-303
-00:27:33,417 --> 00:27:36,419
+
+
 I think we'll stop here for today.
 
-304
-00:28:48,092 --> 00:28:51,784
+
+
 <i>Contact values at 9, 8,</i>
 
-305
-00:28:51,785 --> 00:28:56,031
+
+
 <i>47, 91, 72.</i>
 
-306
-00:29:01,538 --> 00:29:04,707
+
+
 <i>Level 12. Do we know current value?</i>
 
-307
-00:29:39,076 --> 00:29:43,090
+
+
 Stop! Will you stop? Stop!
 
-308
-00:29:43,092 --> 00:29:46,648
+
+
 Go back! Can you go back?
 
-309
-00:29:56,361 --> 00:29:58,627
+
+
 What's wrong with Haley?
 
-310
-00:30:01,164 --> 00:30:04,368
+
+
 As advanced as we are,
 
-311
-00:30:04,369 --> 00:30:10,972
+
+
 it's amazing that a tool as crude
 as a pen still has its place.
 
-312
-00:30:13,111 --> 00:30:15,310
+
+
 There we go.
 
-313
-00:30:16,446 --> 00:30:20,650
+
+
 I want to talk to Haley. Please.
 
-314
-00:30:21,519 --> 00:30:24,119
+
+
 I'm afraid that's not
 possible right now.
 
-315
-00:30:24,122 --> 00:30:25,690
+
+
 Why?
 
-316
-00:30:25,691 --> 00:30:27,992
+
+
 She's in good hands,
 Nic, I promise you.
 
-317
-00:30:27,993 --> 00:30:30,961
+
+
 The best thing you can do for
 her right now is to help us.
 
-318
-00:30:30,962 --> 00:30:34,697
+
+
 Now, will you please try
 to cooperate with me?
 
-319
-00:30:38,536 --> 00:30:40,869
+
+
 - Okay.
 - Good.
 
-320
-00:30:42,807 --> 00:30:47,042
+
+
 First I'm going to ask you
 some simple control questions.
 
-321
-00:30:47,545 --> 00:30:51,012
+
+
 Do you have 10 toes?
 
-322
-00:30:55,953 --> 00:30:57,854
+
+
 Yes.
 
-323
-00:31:00,991 --> 00:31:03,692
+
+
 Are you from Earth?
 
-324
-00:31:08,432 --> 00:31:12,701
+
+
 - Yes, I am from Earth.
 - Good, thank you.
 
-325
-00:31:13,904 --> 00:31:16,507
+
+
 Now, this signal that you and
 your friends were pursuing,
 
-326
-00:31:16,508 --> 00:31:18,108
+
+
 when did you first encounter it?
 
-327
-00:31:18,109 --> 00:31:20,743
+
+
 - You mean Nomad.
 - Yes.
 
-328
-00:31:20,744 --> 00:31:23,779
+
+
 MIT. He got into our
 school's security network
 
-329
-00:31:23,786 --> 00:31:27,883
+
+
 and ruined some major servers,
 including our personal ones.
 
-330
-00:31:33,191 --> 00:31:36,192
+
+
 Nic, I want you to watch something.
 
-331
-00:31:47,873 --> 00:31:50,539
+
+
 <i>A big mama sat in that chair.</i>
 
-332
-00:32:18,536 --> 00:32:21,703
+
+
 You definitely weren't
 pursuing a hacker.
 
-333
-00:32:44,228 --> 00:32:46,061
+
+
 Hey.
 
-334
-00:32:51,035 --> 00:32:52,902
+
+
 Hey.
 
-335
-00:32:54,372 --> 00:32:57,873
+
+
 - Jonah?
 - Nic.
 
-336
-00:32:57,909 --> 00:33:01,175
+
+
 - Jonah!
 - Nic!
 
-337
-00:33:01,612 --> 00:33:03,280
+
+
 Oh, my God! Jonah, where are you?
 
-338
-00:33:03,281 --> 00:33:06,517
+
+
 I don't know. I'm locked
 up, I'm in a room.
 
-339
-00:33:06,518 --> 00:33:10,253
+
+
 Me, too. I'm in a locked room,
 dude. Where are we?
 
-340
-00:33:10,255 --> 00:33:14,392
+
+
 I heard them say we're not allowed above
 ground because we were contaminated.
 
-341
-00:33:14,393 --> 00:33:17,327
+
+
 What the hell was Nomad?
 What have they told you?
 
-342
-00:33:17,328 --> 00:33:19,230
+
+
 Not much.
 
-343
-00:33:19,230 --> 00:33:23,300
+
+
 I saw Haley. She's in
 a coma or something.
 
-344
-00:33:23,301 --> 00:33:27,502
+
+
 Nic, they're doing some
 weird shit here, man.
 
-345
-00:33:27,538 --> 00:33:30,272
+
+
 My body doesn't feel right.
 
-346
-00:33:30,942 --> 00:33:34,112
+
+
 - Nic, I gotta go.
 - What? Where?
 
-347
-00:33:34,113 --> 00:33:38,548
+
+
 This place is run like a clock.
 I can't believe you're in the vent!
 
-348
-00:33:38,549 --> 00:33:40,718
+
+
 What? Dude, I'm not in the vent.
 
-349
-00:33:40,719 --> 00:33:44,788
+
+
 I'm not in the vent! Jonah! Jonah!
 
-350
-00:33:48,792 --> 00:33:52,762
+
+
 - Why don't you have any clocks that work?
 - Clocks that work?
 
-351
-00:33:52,763 --> 00:33:54,598
+
+
 Yeah. The one in the
 hallway is stuck at 12:30.
 
-352
-00:33:54,599 --> 00:33:57,434
+
+
 - Which hallway?
 - Seven windows back. Left turn.
 
-353
-00:33:57,435 --> 00:33:59,202
+
+
 Four windows. Right turn.
 Two windows on the right.
 
-354
-00:33:59,203 --> 00:34:03,301
+
+
 Next to the bathroom with its sign
 upside down. It's stuck at 12:30.
 
-355
-00:34:03,305 --> 00:34:09,246
+
+
 Nic, it's a broken clock. Thank you
 for bringing it to my attention.
 
-356
-00:34:09,248 --> 00:34:13,581
+
+
 Can we please proceed with
 the shapes and colors?
 
-357
-00:34:13,617 --> 00:34:17,059
+
+
 - Screw this. This is stupid.
 - What's the matter, Nic?
 
-358
-00:34:17,059 --> 00:34:19,422
+
+
 - Can't you do it?
 - No, I choose not to do it.
 
-359
-00:34:19,423 --> 00:34:24,461
+
+
 Choose? You choose not to do it?
 That sounds like pride talking.
 
-360
-00:34:24,463 --> 00:34:27,563
+
+
 False and foolish pride. That's all.
 
-361
-00:34:34,639 --> 00:34:36,873
+
+
 Pyramid, yellow.
 
-362
-00:34:36,875 --> 00:34:39,976
+
+
 - And the...
 - Cube, blue. Sphere, green.
 
-363
-00:34:39,978 --> 00:34:42,681
+
+
 The blue tile here that says "Zero"
 corresponds with the green cube.
 
-364
-00:34:42,681 --> 00:34:44,782
+
+
 The yellow tile here that says
 "Six" goes with the cube.
 
-365
-00:34:44,782 --> 00:34:47,318
+
+
 The green tile here that says "Five"
 goes with the yellow pyramid.
 
-366
-00:34:47,318 --> 00:34:49,420
+
+
 The green cube goes with
 the blue shaped cube.
 
-367
-00:34:49,420 --> 00:34:51,255
+
+
 The yellow written sphere goes
 with the green-shaped sphere.
 
-368
-00:34:51,255 --> 00:34:53,391
+
+
 The blue written pyramid goes
 with the yellow-shaped pyramid.
 
-369
-00:34:53,391 --> 00:34:55,025
+
+
 "Blue," written in yellow,
 "yellow," in green,
 
-370
-00:34:55,027 --> 00:34:57,094
+
+
 correspond the visible colors and
 shapes rather than the written words
 
-371
-00:34:57,096 --> 00:34:59,963
+
+
 because the spectral quality of light
 is more objective, so to speak,
 
-372
-00:34:59,965 --> 00:35:03,032
+
+
 than the written English
 words of those colors.
 
-373
-00:35:04,668 --> 00:35:07,905
+
+
 - I see.
 - You see? What do you mean, you see?
 
-374
-00:35:07,905 --> 00:35:10,240
+
+
 You, Nic.
 
-375
-00:35:10,242 --> 00:35:14,010
+
+
 I see you and I think I'm beginning to
 understand something more about you.
 
-376
-00:35:14,012 --> 00:35:16,079
+
+
 Understand what?
 
-377
-00:35:17,047 --> 00:35:19,751
+
+
 The colors, the shapes,
 they have an effect on you.
 
-378
-00:35:19,751 --> 00:35:22,018
+
+
 I'd say it was an emotional
 effect, wouldn't you?
 
-379
-00:35:22,019 --> 00:35:24,644
+
+
 I don't care about the shapes and
 colors, they don't mean anything to me.
 
-380
-00:35:24,646 --> 00:35:28,590
+
+
 They don't mean shit to me! You're the
 one that's infuriating me, you quack!
 
-381
-00:35:29,693 --> 00:35:31,561
+
+
 "Quack."
 
-382
-00:35:32,096 --> 00:35:33,730
+
+
 "Quack."
 
-383
-00:35:34,264 --> 00:35:37,302
+
+
 I wanna see Haley
 
-384
-00:35:37,503 --> 00:35:41,103
+
+
 and I'm not gonna say another
 word until you let me see her.
 
-385
-00:35:43,373 --> 00:35:45,641
+
+
 Okay, Nic.
 
-386
-00:35:54,251 --> 00:35:55,885
+
+
 There's nothing on here.
 
-387
-00:35:55,887 --> 00:35:59,420
+
+
 She's in a coma, Nic.
 
-388
-00:35:59,523 --> 00:36:03,159
+
+
 There's nothing that can
 be done for her right now.
 
-389
-00:36:03,927 --> 00:36:08,032
+
+
 I promise, as soon as she wakes up,
 you'll be the first one to see her.
 
-390
-00:36:08,032 --> 00:36:11,601
+
+
 Right now we're doing
 everything humanly possible.
 
-391
-00:36:50,407 --> 00:36:52,809
+
+
 <i>Nic, this place is insane.</i>
 
-392
-00:36:52,811 --> 00:36:55,246
+
+
 Yeah, I know. Listen.
 You were right.
 
-393
-00:36:55,246 --> 00:36:59,083
+
+
 This place is run like a clock.
 Listen, I need your help.
 
-394
-00:36:59,083 --> 00:37:00,918
+
+
 I've been keeping some
 event sequences...
 
-395
-00:37:00,918 --> 00:37:04,021
+
+
 Nic, it was hard to put
 all this together,
 
-396
-00:37:04,021 --> 00:37:07,257
+
+
 but, you know, I think
 we're sick, or infected.
 
-397
-00:37:07,259 --> 00:37:10,193
+
+
 Hey, Jonah, stop thinking
 like that, man. Seriously.
 
-398
-00:37:10,195 --> 00:37:13,264
+
+
 No, they're trying to keep whatever's
 inside us from metastasizing.
 
-399
-00:37:13,264 --> 00:37:16,766
+
+
 Jonah, stop. Nothing's
 metastasizing, okay?
 
-400
-00:37:16,768 --> 00:37:18,635
+
+
 - We're fine. We're gonna be fine.
 - No, I'm not.
 
-401
-00:37:18,637 --> 00:37:21,503
+
+
 - Just trust me on this.
 - No, my body is not.
 
-402
-00:37:22,606 --> 00:37:24,940
+
+
 We gotta get out of here.
 
-403
-00:37:25,608 --> 00:37:28,179
+
+
 Yeah, I know. We will.
 
-404
-00:37:28,179 --> 00:37:30,481
+
+
 Okay, I've got the
 variables on my keypad.
 
-405
-00:37:30,481 --> 00:37:33,150
+
+
 Now I need you to take back
 half the sequences, okay?
 
-406
-00:37:33,150 --> 00:37:35,619
+
+
 - Yeah. I'll help.
 - Okay.
 
-407
-00:37:35,619 --> 00:37:39,990
+
+
 - But my glasses are messed up, though.
 - Hey, it's gonna be fine.
 
-408
-00:37:39,992 --> 00:37:43,626
+
+
 It's gonna be fine. Don't
 worry about your glasses.
 
-409
-00:37:43,628 --> 00:37:45,061
+
+
 Okay, I'm gonna give
 it to you spatially.
 
-410
-00:37:45,063 --> 00:37:47,797
+
+
 Three v three phone style.
 Okay, you ready?
 
-411
-00:37:47,797 --> 00:37:50,233
+
+
 - Yeah.
 - Okay.
 
-412
-00:37:50,235 --> 00:37:56,005
+
+
 Top-middle, middle-middle,
 top-left, bottom-left.
 
-413
-00:37:56,005 --> 00:37:58,976
+
+
 - 2-5-1-7.
 - You got it?
 
-414
-00:37:58,976 --> 00:38:00,844
+
+
 Bottom-left first.
 
-415
-00:38:00,846 --> 00:38:05,581
+
+
 Middle-middle second.
 Top-middle third.
 
-416
-00:38:06,050 --> 00:38:08,449
+
+
 Top-left last.
 
-417
-00:38:11,588 --> 00:38:14,592
+
+
 Nic, I'm having a hard
 time handling this.
 
-418
-00:38:14,592 --> 00:38:17,728
+
+
 They made me drink some
 weird stuff the other day
 
-419
-00:38:17,728 --> 00:38:21,096
+
+
 and I haven't really been
 able to feel my arms.
 
-420
-00:38:22,365 --> 00:38:26,534
+
+
 Your arms? What? What do you mean?
 
-421
-00:38:26,536 --> 00:38:28,505
+
+
 Oh, God!
 
-422
-00:38:31,342 --> 00:38:34,177
+
+
 - Dude, who is it?
 - I gotta go.
 
-423
-00:38:34,179 --> 00:38:36,679
+
+
 Jonah, hold on a second.
 
-424
-00:38:37,715 --> 00:38:41,016
+
+
 Jonah! Jonah!
 
-425
-00:38:41,518 --> 00:38:43,351
+
+
 Jonah!
 
-426
-00:39:13,483 --> 00:39:15,650
+
+
 Agitate.
 
-427
-00:39:46,451 --> 00:39:48,416
+
+
 <i>Everybody outside.</i>
 
-428
-00:39:49,186 --> 00:39:53,523
+
+
 <i>Recovery team to level 14.
 Subject has breached.</i>
 
-429
-00:39:53,525 --> 00:39:55,824
+
+
 <i>Subject has escaped.</i>
 
-430
-00:40:09,106 --> 00:40:12,643
+
+
 Oh, sorry, I was just looking
 for the water fountain.
 
-431
-00:40:25,523 --> 00:40:28,190
+
+
 <i>Recovery team to level 14.</i>
 
-432
-00:40:29,360 --> 00:40:32,427
+
+
 <i>Subject has breached. Escaped.</i>
 
-433
-00:40:52,983 --> 00:40:55,452
+
+
 <i>Can you raise your arm?</i>
 
-434
-00:40:55,454 --> 00:40:57,918
+
+
 <i>What happened in the hallway?</i>
 
-435
-00:41:03,860 --> 00:41:05,760
+
+
 Good.
 
-436
-00:41:05,996 --> 00:41:08,264
+
+
 Still no feeling in your legs?
 
-437
-00:41:08,266 --> 00:41:11,101
+
+
 What happened to Jonah?
 
-438
-00:41:11,603 --> 00:41:14,672
+
+
 Look, I know you guys know I
 can talk to him through the vent.
 
-439
-00:41:14,672 --> 00:41:16,340
+
+
 What the hell did you
 guys do with him?
 
-440
-00:41:16,340 --> 00:41:18,842
+
+
 Yes, Nic, we have been
 listening to you,
 
-441
-00:41:18,842 --> 00:41:21,471
+
+
 - but the truth of the matter...
 - The truth of the matter is,
 
-442
-00:41:21,472 --> 00:41:23,246
+
+
 total Mickey Mouse operation here.
 
-443
-00:41:23,248 --> 00:41:26,983
+
+
 Antiquated methodologies,
 dinosaurs with government grants.
 
-444
-00:41:26,985 --> 00:41:29,619
+
+
 A whole facility built during
 the first wave of Big Science
 
-445
-00:41:29,621 --> 00:41:33,356
+
+
 outdated but allowed to continue
 pretending that you're important.
 
-446
-00:41:33,358 --> 00:41:35,525
+
+
 - I feel sorry for you. It's pathetic.
 - Nic.
 
-447
-00:41:35,527 --> 00:41:38,159
+
+
 "The truth of the matter."
 
-448
-00:41:38,528 --> 00:41:40,630
+
+
 What is the truth
 of the matter here?
 
-449
-00:41:40,632 --> 00:41:44,034
+
+
 The only thing I know for certain is that
 you don't know what you're dealing with.
 
-450
-00:41:44,034 --> 00:41:47,605
+
+
 You will be pulled from this shitty little
 shack you call a research facility so fast
 
-451
-00:41:47,606 --> 00:41:49,773
+
+
 that the only thing relevant
 to be shown for any of this
 
-452
-00:41:49,773 --> 00:41:51,842
+
+
 is the way it's all exposed,
 wrecked, and forgotten.
 
-453
-00:41:51,842 --> 00:41:54,844
+
+
 You have no idea!
 You have no clue! Do you?
 
-454
-00:41:54,846 --> 00:41:57,440
+
+
 Have any clue how fast dumb,
 lost little kids like me,
 
-455
-00:41:57,442 --> 00:41:59,525
+
+
 Jonah or Nomad could
 ruin a place like this?
 
-456
-00:41:59,550 --> 00:42:02,219
+
+
 Have it come to a grinding halt
 like the stone wheel it is?
 
-457
-00:42:02,219 --> 00:42:04,188
+
+
 You're clueless law in
 the Wild West, Damon.
 
-458
-00:42:04,188 --> 00:42:08,257
+
+
 You're a relic protecting
 ruins. You're pathetic.
 
-459
-00:42:08,259 --> 00:42:12,262
+
+
 The truth of the matter is, I'm the
 only one with any sense around here.
 
-460
-00:42:16,800 --> 00:42:19,367
+
+
 Your friend Jonah...
 
-461
-00:42:20,637 --> 00:42:21,972
+
+
 was never here, Nic.
 
-462
-00:42:21,972 --> 00:42:25,773
+
+
 - We never recovered him.
 - Bullshit!
 
-463
-00:42:26,076 --> 00:42:28,846
+
+
 I've been talking to him through
 the vent this whole time.
 
-464
-00:42:28,847 --> 00:42:31,012
+
+
 Have you really?
 
-465
-00:42:32,583 --> 00:42:35,317
+
+
 Through your vent, Nic?
 
-466
-00:43:50,527 --> 00:43:55,063
+
+
 Three, four, five, six, seven...
 
-467
-00:44:07,844 --> 00:44:10,077
+
+
 Shit.
 
-468
-00:44:58,661 --> 00:45:00,795
+
+
 Shit!
 
-469
-00:45:15,278 --> 00:45:17,012
+
+
 God damn it!
 
-470
-00:46:56,445 --> 00:46:58,746
+
+
 Nic.
 
-471
-00:47:06,889 --> 00:47:08,990
+
+
 Hey.
 
-472
-00:47:10,960 --> 00:47:13,293
+
+
 How are you feeling?
 
-473
-00:47:13,963 --> 00:47:16,331
+
+
 Better.
 
-474
-00:47:40,958 --> 00:47:43,891
+
+
 I had a wonderful dream.
 
-475
-00:47:44,226 --> 00:47:46,728
+
+
 Oh, yeah?
 
-476
-00:47:47,230 --> 00:47:49,630
+
+
 You, um...
 
-477
-00:47:50,833 --> 00:47:53,034
+
+
 You...
 
-478
-00:47:54,771 --> 00:47:58,005
+
+
 You won your regionals.
 
-479
-00:48:03,447 --> 00:48:07,416
+
+
 Hay, wake up. Wake up.
 
-480
-00:48:07,416 --> 00:48:09,583
+
+
 Haley.
 
-481
-00:48:12,422 --> 00:48:14,791
+
+
 Stop it, get off of me!
 Get off of me!
 
-482
-00:48:14,791 --> 00:48:18,896
+
+
 What the hell are you doing? Let go
 of me! Haley! Haley, wake up!
 
-483
-00:48:18,896 --> 00:48:21,465
+
+
 Hey, let go of me! Stop it! What
 the hell do you think you're doing?
 
-484
-00:48:21,465 --> 00:48:24,833
+
+
 Haley, wake up! Haley! Wake up!
 
-485
-00:48:44,353 --> 00:48:46,855
+
+
 Holy... Holy...
 
-486
-00:49:00,302 --> 00:49:03,405
+
+
 No! What the hell?
 
-487
-00:49:05,275 --> 00:49:07,210
+
+
 Damon!
 
-488
-00:49:07,210 --> 00:49:09,646
+
+
 <i>What did they do to my legs?</i>
 
-489
-00:49:53,289 --> 00:49:58,827
+
+
 Nic, we are going to
 need you to calm down.
 
-490
-00:50:00,396 --> 00:50:05,402
+
+
 <i>Now you understand why we've
 been so interested in you.</i>
 
-491
-00:50:05,402 --> 00:50:09,704
+
+
 <i>As you can see, your
 circumstances are very peculiar.</i>
 
-492
-00:50:12,976 --> 00:50:16,610
+
+
 And believe me, we didn't
 want to shock you with this.
 
-493
-00:51:13,170 --> 00:51:18,541
+
+
 I'm sure by now you can appreciate
 where we're coming from.
 
-494
-00:51:18,543 --> 00:51:22,711
+
+
 <i>Now, for your safety and ours,</i>
 
-495
-00:51:22,713 --> 00:51:28,451
+
+
 I'm going to need you to
 hook yourself up to that IV.
 
-496
-00:51:28,452 --> 00:51:30,518
+
+
 Right over there.
 
-497
-00:52:04,688 --> 00:52:06,722
+
+
 Nic.
 
-498
-00:52:06,724 --> 00:52:09,356
+
+
 I need you...
 
-499
-00:52:09,893 --> 00:52:12,393
+
+
 to calm down.
 
-500
-00:52:24,340 --> 00:52:26,239
+
+
 <i>Nic.</i>
 
-501
-00:53:38,815 --> 00:53:40,481
+
+
 Nic.
 
-502
-00:53:45,454 --> 00:53:47,621
+
+
 Don't do this.
 
-503
-00:53:48,992 --> 00:53:50,827
+
+
 Why...
 
-504
-00:53:50,827 --> 00:53:52,795
+
+
 Why didn't you tell me
 what happened to my legs?
 
-505
-00:53:52,797 --> 00:53:56,599
+
+
 How could we? We had
 just recovered you.
 
-506
-00:53:56,599 --> 00:53:58,969
+
+
 Now listen to me.
 
-507
-00:53:58,969 --> 00:54:04,338
+
+
 It is extremely dangerous
 for you up there.
 
-508
-00:54:04,873 --> 00:54:09,612
+
+
 I can only safeguard you
 from them down here.
 
-509
-00:54:09,612 --> 00:54:11,878
+
+
 Safeguard me from who?
 
-510
-00:55:42,905 --> 00:55:46,807
+
+
 You okay? Can you feel your legs?
 
-511
-00:55:47,710 --> 00:55:49,777
+
+
 Come on, we gotta move.
 
-512
-00:55:49,813 --> 00:55:51,646
+
+
 We gotta move.
 
-513
-00:55:52,981 --> 00:55:55,284
+
+
 You okay?
 
-514
-00:55:55,286 --> 00:55:57,751
+
+
 - What's happening?
 - Come on, let's go.
 
-515
-00:56:38,393 --> 00:56:41,831
+
+
 I'm sorry to interrupt, but do you know
 how long it is until the gas station?
 
-516
-00:56:41,831 --> 00:56:45,501
+
+
 Hmm? Oh, it's just up a ways.
 
-517
-00:56:45,503 --> 00:56:50,172
+
+
 Okay. Thank you. And
 where are we exactly?
 
-518
-00:56:50,173 --> 00:56:52,509
+
+
 When our car broke down,
 we kind of got lost.
 
-519
-00:56:52,510 --> 00:56:57,447
+
+
 That's okay. That happens to a
 lot of people out in these parts.
 
-520
-00:56:57,447 --> 00:56:58,815
+
+
 Right.
 
-521
-00:56:58,815 --> 00:57:02,784
+
+
 I always tell people they should
 take comfort in the thought
 
-522
-00:57:02,786 --> 00:57:06,286
+
+
 that they are always
 watching over us.
 
-523
-00:57:07,556 --> 00:57:09,489
+
+
 Hmm.
 
-524
-00:57:14,063 --> 00:57:17,565
+
+
 - Did you hear that?
 - Hear what?
 
-525
-00:57:18,201 --> 00:57:22,903
+
+
 Listen, with your
 mouth open, like this.
 
-526
-00:57:25,068 --> 00:57:26,672
+
+
 Excuse me?
 
-527
-00:57:32,581 --> 00:57:36,083
+
+
 Their horns are watching over us.
 
-528
-00:57:40,889 --> 00:57:44,826
+
+
 - I'm sorry. Who's watching us?
 - God's little angels.
 
-529
-00:57:47,496 --> 00:57:49,496
+
+
 Who else?
 
-530
-00:58:19,228 --> 00:58:21,097
+
+
 Thanks again for the ride.
 
-531
-00:58:21,097 --> 00:58:24,233
+
+
 You have the rest
 of the day nicely.
 
-532
-00:58:24,233 --> 00:58:27,335
+
+
 Just push from the inside out.
 
-533
-00:58:30,405 --> 00:58:31,972
+
+
 Bye.
 
-534
-00:58:36,411 --> 00:58:38,846
+
+
 - Bye.
 - Bye.
 
-535
-00:58:40,449 --> 00:58:42,851
+
+
 - Inside out, don't forget.
 - Okay, thanks.
 
-536
-00:58:47,923 --> 00:58:51,768
+
+
 I'm gonna go use the phone,
 okay? I'm gonna get us help.
 
-537
-00:58:51,769 --> 00:58:54,846
+
+
 Stay here. Don't move.
 
-538
-00:58:56,498 --> 00:59:00,769
+
+
 Haley! Haley, sit down. Sit down.
 
-539
-00:59:00,771 --> 00:59:04,974
+
+
 I'm serious, okay?
 I'm serious. Don't move.
 
-540
-00:59:04,974 --> 00:59:08,809
+
+
 - I'm gonna get us out of here, okay?
 - Yeah, okay.
 
-541
-00:59:43,045 --> 00:59:46,583
+
+
 <i>The network is
 currently unavailable.</i>
 
-542
-00:59:46,583 --> 00:59:48,916
+
+
 <i>Please try again later.</i>
 
-543
-00:59:49,452 --> 00:59:52,288
+
+
 <i>The network is
 currently unavailable.</i>
 
-544
-00:59:52,289 --> 00:59:55,358
+
+
 <i>Please try again later.</i>
 
-545
-00:59:55,358 --> 00:59:57,827
+
+
 <i>The two subjects, considered
 possibly contagious,</i>
 
-546
-00:59:57,827 --> 01:00:00,530
+
+
 <i>have escaped from a
 medical research facility.</i>
 
-547
-01:00:00,530 --> 01:00:03,132
+
+
 <i>Nicholas Eastman and Haley Peterson</i>
 
-548
-01:00:03,132 --> 01:00:06,068
+
+
 <i>are believed to be traveling on
 foot and should not be approached.</i>
 
-549
-01:00:06,070 --> 01:00:09,304
+
+
 <i>Please alert your local
 authorities. Thank you.</i>
 
-550
-01:00:09,306 --> 01:00:12,472
+
+
 <i>Now we'll return to your
 regularly scheduled programming.</i>
 
-551
-01:00:17,478 --> 01:00:19,313
+
+
 Haley!
 
-552
-01:00:25,521 --> 01:00:27,088
+
+
 Hey!
 
-553
-01:00:28,657 --> 01:00:30,324
+
+
 Hey!
 
-554
-01:00:30,326 --> 01:00:32,126
+
+
 Hey!
 
-555
-01:00:33,295 --> 01:00:35,164
+
+
 Haley!
 
-556
-01:00:35,164 --> 01:00:39,333
+
+
 - Stop the truck!
 - Christ. What the hell are you doing?
 
-557
-01:00:40,202 --> 01:00:42,969
+
+
 Get back! You get back now!
 
-558
-01:00:44,172 --> 01:00:46,608
+
+
 Stop the truck! Stop it!
 
-559
-01:00:46,610 --> 01:00:48,943
+
+
 - Get off my truck!
 - Haley! Stop the truck!
 
-560
-01:00:49,277 --> 01:00:53,114
+
+
 - Haley!
 - Get off the goddamn truck!
 
-561
-01:01:29,818 --> 01:01:31,920
+
+
 - Get away!
 - Haley!
 
-562
-01:01:31,922 --> 01:01:34,021
+
+
 - Stop!
 - What is wrong with you?
 
-563
-01:01:51,740 --> 01:01:54,076
+
+
 Boy, what's going on with your leg?
 
-564
-01:01:54,077 --> 01:01:56,043
+
+
 Come on.
 
-565
-01:01:57,079 --> 01:01:59,148
+
+
 You won't get far.
 
-566
-01:02:39,755 --> 01:02:41,489
+
+
 Nic.
 
-567
-01:02:41,490 --> 01:02:44,492
+
+
 Nic, what happened to your legs?
 
-568
-01:02:44,494 --> 01:02:48,128
+
+
 Haley, I already explained to you.
 
-569
-01:02:48,931 --> 01:02:51,398
+
+
 Are you feeling okay?
 
-570
-01:02:52,233 --> 01:02:54,101
+
+
 Yeah.
 
-571
-01:02:54,237 --> 01:02:56,572
+
+
 Yeah, I'm okay.
 
-572
-01:02:57,273 --> 01:02:59,840
+
+
 We're gonna be fine. Just...
 
-573
-01:03:00,541 --> 01:03:02,878
+
+
 Just try to relax.
 
-574
-01:03:09,885 --> 01:03:11,818
+
+
 Oh, shit.
 
-575
-01:03:31,739 --> 01:03:35,576
+
+
 Is something wrong, Officer?
 Is there some kind of trouble?
 
-576
-01:03:35,577 --> 01:03:39,914
+
+
 No trouble at all, ma'am.
 No trouble at all.
 
-577
-01:03:40,615 --> 01:03:42,449
+
+
 Please.
 
-578
-01:03:44,920 --> 01:03:47,355
+
+
 Will you accompany me?
 
-579
-01:03:47,722 --> 01:03:49,456
+
+
 Certainly.
 
-580
-01:04:09,445 --> 01:04:11,778
+
+
 It doesn't make any sense.
 
-581
-01:04:14,282 --> 01:04:17,150
+
+
 Where's the rest of the road?
 
-582
-01:04:19,588 --> 01:04:25,159
+
+
 <i>Mirabelle, have you had contact
 with any strangers lately?</i>
 
-583
-01:04:28,931 --> 01:04:31,998
+
+
 Oh, yes.
 
-584
-01:04:32,568 --> 01:04:36,137
+
+
 We talked about... so
 many wonderful things.
 
-585
-01:04:36,139 --> 01:04:39,175
+
+
 But where did you
 take them, Mirabelle?
 
-586
-01:04:39,175 --> 01:04:41,376
+
+
 What was your proximity to them?
 
-587
-01:04:42,746 --> 01:04:45,681
+
+
 It is so easy to find.
 
-588
-01:04:45,681 --> 01:04:50,585
+
+
 <i>Always such a nice bit of color
 against the dark nights.</i>
 
-589
-01:04:50,586 --> 01:04:52,420
+
+
 <i>Dark nights, dark nights.</i>
 
-590
-01:04:52,422 --> 01:04:55,324
+
+
 Dark nights, dark nights.
 
-591
-01:04:55,324 --> 01:04:58,893
+
+
 Dark nights, nights...
 
-592
-01:05:02,197 --> 01:05:04,931
+
+
 We could have a picnic.
 
-593
-01:05:04,967 --> 01:05:07,034
+
+
 A picnic.
 
-594
-01:05:07,135 --> 01:05:10,206
+
+
 <i>A picnic. Have a picnic.</i>
 
-595
-01:05:11,141 --> 01:05:12,474
+
+
 <i>In a...</i>
 
-596
-01:05:12,476 --> 01:05:14,043
+
+
 In a...
 
-597
-01:05:14,043 --> 01:05:15,378
+
+
 <i>In a...</i>
 
-598
-01:05:15,378 --> 01:05:16,644
+
+
 <i>On a...</i>
 
-599
-01:05:16,646 --> 01:05:17,911
+
+
 <i>On a...</i>
 
-600
-01:05:22,251 --> 01:05:25,186
+
+
 <i>We're coming to get you.</i>
 
-601
-01:05:50,311 --> 01:05:52,748
+
+
 Is that the same canyon?
 
-602
-01:05:52,748 --> 01:05:56,083
+
+
 I don't know. I thought we
 already passed it. Before.
 
-603
-01:05:56,318 --> 01:05:58,818
+
+
 Maybe we circled back?
 
-604
-01:06:01,056 --> 01:06:03,556
+
+
 Yeah, maybe. I don't know.
 
-605
-01:06:03,826 --> 01:06:06,293
+
+
 It looks abandoned.
 
-606
-01:06:12,601 --> 01:06:14,769
+
+
 What are you looking for?
 
-607
-01:06:14,771 --> 01:06:20,007
+
+
 A gun, like, a cell phone or
 a map or something in here.
 
-608
-01:06:23,679 --> 01:06:26,146
+
+
 Do you wanna wear that?
 
-609
-01:06:41,697 --> 01:06:43,831
+
+
 Come on, let's check it out.
 
-610
-01:06:53,208 --> 01:06:56,610
+
+
 <i>The network is
 currently unavailable.</i>
 
-611
-01:07:07,222 --> 01:07:09,856
+
+
 Haley, did you find anything?
 
-612
-01:07:11,460 --> 01:07:13,594
+
+
 Haley?
 
-613
-01:07:14,161 --> 01:07:15,628
+
+
 Hey.
 
-614
-01:07:16,231 --> 01:07:21,601
+
+
 Yeah, I found a map, but there's
 not much information on it.
 
-615
-01:07:21,637 --> 01:07:23,938
+
+
 "You are here."
 
-616
-01:07:25,541 --> 01:07:29,844
+
+
 But we can't be. We
 drove down, right?
 
-617
-01:07:29,846 --> 01:07:32,481
+
+
 Isn't that the same gorge
 we just came from?
 
-618
-01:07:32,481 --> 01:07:35,516
+
+
 Then that town, Good Springs,
 should be down here, right?
 
-619
-01:07:35,518 --> 01:07:37,418
+
+
 I guess.
 
-620
-01:07:38,856 --> 01:07:40,913
+
+
 I don't get it.
 
-621
-01:08:19,895 --> 01:08:22,563
+
+
 What do you think that sound is?
 
-622
-01:08:26,335 --> 01:08:28,969
+
+
 I don't hear anything, Hay.
 
-623
-01:08:29,137 --> 01:08:31,305
+
+
 What sound?
 
-624
-01:08:33,242 --> 01:08:35,009
+
+
 There.
 
-625
-01:08:39,881 --> 01:08:43,484
+
+
 I think we should
 stay here tonight.
 
-626
-01:08:46,688 --> 01:08:48,822
+
+
 Is this my fault?
 
-627
-01:08:49,158 --> 01:08:51,692
+
+
 What? No.
 
-628
-01:08:52,027 --> 01:08:54,430
+
+
 If anything, it's my fault.
 
-629
-01:08:54,430 --> 01:08:57,265
+
+
 I was the one who
 wanted to follow Nomad.
 
-630
-01:08:57,266 --> 01:08:59,734
+
+
 I don't remember.
 
-631
-01:09:10,345 --> 01:09:12,512
+
+
 Do they hurt?
 
-632
-01:09:14,550 --> 01:09:16,484
+
+
 It's okay.
 
-633
-01:09:20,956 --> 01:09:23,323
+
+
 So wide.
 
-634
-01:09:23,591 --> 01:09:26,359
+
+
 I hope we can get across it.
 
-635
-01:09:42,543 --> 01:09:44,813
+
+
 Haley. Hey, hey.
 
-636
-01:09:46,114 --> 01:09:48,381
+
+
 We should go inside.
 
-637
-01:10:39,769 --> 01:10:41,436
+
+
 Jonah!
 
-638
-01:10:41,438 --> 01:10:44,806
+
+
 Jonah! Jonah!
 No, Jonah! Jonah! It's me!
 
-639
-01:10:44,807 --> 01:10:49,144
+
+
 Jonah, Jonah, Jonah!
 Hey, it's Nic! Hey! It's Nic!
 
-640
-01:10:49,145 --> 01:10:52,979
+
+
 Jonah, hey. Hey,
 buddy, it's me. It's me.
 
-641
-01:10:53,181 --> 01:10:54,614
+
+
 Shit.
 
-642
-01:10:55,684 --> 01:10:58,886
+
+
 Hello, James. Long time no see.
 
-643
-01:10:58,887 --> 01:11:00,588
+
+
 "Hello, James."
 
-644
-01:11:02,125 --> 01:11:06,862
+
+
 I'm trying to locate three individuals.
 Two males, one female.
 
-645
-01:11:06,863 --> 01:11:09,465
+
+
 All extremely contagious.
 
-646
-01:11:09,466 --> 01:11:12,399
+
+
 Have you had any contact
 with them, James?
 
-647
-01:11:16,270 --> 01:11:18,606
+
+
 What are you doing in my house?
 
-648
-01:11:18,608 --> 01:11:23,944
+
+
 I'm glad to see you're comfortable
 here, but is this your house?
 
-649
-01:11:23,979 --> 01:11:26,646
+
+
 Belongs to my mommy.
 
-650
-01:11:27,983 --> 01:11:30,685
+
+
 - My brother sleeps right there.
 - Yes?
 
-651
-01:11:30,686 --> 01:11:33,822
+
+
 And I sleep right there,
 and I have a little kitty.
 
-652
-01:11:33,823 --> 01:11:35,556
+
+
 Your brother, your
 mother and your kitty.
 
-653
-01:11:35,557 --> 01:11:37,559
+
+
 Yeah.
 
-654
-01:11:37,560 --> 01:11:39,793
+
+
 Can you remember
 their names, James?
 
-655
-01:11:44,666 --> 01:11:48,636
+
+
 Extraordinary, your will to survive
 
-656
-01:11:48,637 --> 01:11:53,172
+
+
 fueled by your anger, your
 fear, loneliness, frustration.
 
-657
-01:11:57,345 --> 01:12:00,747
+
+
 - I admire you.
 - I don't understand.
 
-658
-01:12:03,018 --> 01:12:05,252
+
+
 It's all right, James.
 
-659
-01:13:10,484 --> 01:13:13,119
+
+
 <i>I'm sorry I left you guys there.</i>
 
-660
-01:13:13,521 --> 01:13:16,958
+
+
 You know, I swear someone was helping me,
 though I just can't bring it together.
 
-661
-01:13:16,960 --> 01:13:19,088
+
+
 - Jonah, that place was...
 - That place!
 
-662
-01:13:19,090 --> 01:13:22,185
+
+
 This place! It's all the same, Nic.
 
-663
-01:13:22,797 --> 01:13:24,466
+
+
 It's all the same.
 
-664
-01:13:24,466 --> 01:13:29,202
+
+
 - What are you talking about?
 - Look at your legs, man.
 
-665
-01:13:29,637 --> 01:13:32,341
+
+
 Look at your legs. Look at us.
 
-666
-01:13:32,341 --> 01:13:34,507
+
+
 Look for the numbers.
 
-667
-01:13:34,775 --> 01:13:38,110
+
+
 For... the tattoo.
 
-668
-01:13:38,380 --> 01:13:40,713
+
+
 Do you have a tattoo?
 
-669
-01:13:46,688 --> 01:13:49,088
+
+
 This isn't an ID number?
 
-670
-01:13:49,490 --> 01:13:52,059
+
+
 It is an ID number,
 
-671
-01:13:53,060 --> 01:13:55,729
+
+
 but it's just not for you.
 
-672
-01:13:56,398 --> 01:13:59,733
+
+
 It's an ID for this
 whole area, Nic.
 
-673
-01:14:00,802 --> 01:14:05,671
+
+
 Two, plus three,
 plus five, plus 41.
 
-674
-01:14:07,108 --> 01:14:08,942
+
+
 51.
 
-675
-01:14:09,043 --> 01:14:11,412
+
+
 Area 51, Nic. We're in Area 51.
 
-676
-01:14:11,413 --> 01:14:13,347
+
+
 - Jonah, I'm not sure...
 - No, look at your legs!
 
-677
-01:14:13,349 --> 01:14:15,681
+
+
 I'm looking at my legs!
 
-678
-01:14:15,850 --> 01:14:20,052
+
+
 Watch. Empty.
 
-679
-01:14:22,056 --> 01:14:26,559
+
+
 Everything is empty.
 They're testing us, Nic.
 
-680
-01:14:26,561 --> 01:14:28,962
+
+
 We're like little rats.
 
-681
-01:14:29,765 --> 01:14:32,667
+
+
 Now, did you see the maps?
 
-682
-01:14:32,668 --> 01:14:34,536
+
+
 What are you talking
 about, the maps?
 
-683
-01:14:34,537 --> 01:14:38,306
+
+
 What are you telling me, it's
 not real? Of course it's real.
 
-684
-01:14:38,307 --> 01:14:42,242
+
+
 There's roads, highways,
 cities on these maps.
 
-685
-01:14:42,844 --> 01:14:45,345
+
+
 They don't exist.
 
-686
-01:14:46,047 --> 01:14:49,417
+
+
 We're trapped in a
 huge government annex.
 
-687
-01:14:49,418 --> 01:14:52,030
+
+
 Did you meet any of
 the charming locals?
 
-688
-01:14:52,032 --> 01:14:56,122
+
+
 Jonah. Jonah, listen to me.
 
-689
-01:15:01,229 --> 01:15:05,367
+
+
 Listen to me. Haley is
 really, really sick.
 
-690
-01:15:05,667 --> 01:15:08,970
+
+
 Okay, we have to tell someone.
 We have to tell someone.
 
-691
-01:15:08,971 --> 01:15:12,939
+
+
 - We have to expose this.
 - I'm sick, too.
 
-692
-01:15:15,042 --> 01:15:18,578
+
+
 It's hard to explain, but
 there's something in me.
 
-693
-01:15:20,047 --> 01:15:24,783
+
+
 There's something that is... It's like
 they took something from me, Nic.
 
-694
-01:15:25,587 --> 01:15:27,621
+
+
 Took what?
 
-695
-01:15:28,957 --> 01:15:31,123
+
+
 I feel like I'm...
 
-696
-01:15:31,827 --> 01:15:34,627
+
+
 I feel like I'm full of...
 
-697
-01:15:38,734 --> 01:15:41,234
+
+
 - Gaps?
 - Yes.
 
-698
-01:15:41,903 --> 01:15:43,971
+
+
 That's exactly what it is.
 
-699
-01:15:43,972 --> 01:15:47,109
+
+
 I mean, not exactly, but,
 you know, it's really close.
 
-700
-01:15:47,109 --> 01:15:51,677
+
+
 - So you know what I mean?
 - Jonah, whose blood is that?
 
-701
-01:15:52,480 --> 01:15:54,713
+
+
 Is that yours?
 
-702
-01:16:01,155 --> 01:16:03,990
+
+
 I was trying to get them off.
 
-703
-01:16:06,161 --> 01:16:09,029
+
+
 I was trying to get them off.
 
-704
-01:16:14,368 --> 01:16:16,270
+
+
 Hey, buddy.
 
-705
-01:16:16,271 --> 01:16:20,175
+
+
 We're gonna get somewhere where we can be
 seen by as many people as possible, okay?
 
-706
-01:16:20,176 --> 01:16:24,211
+
+
 - It's the only way to be safe.
 - They won't come off.
 
-707
-01:16:26,047 --> 01:16:29,082
+
+
 But how would we do that?
 
-708
-01:16:29,885 --> 01:16:33,720
+
+
 From what I've seen, there's
 only one road in here.
 
-709
-01:16:35,122 --> 01:16:37,957
+
+
 Well, that's the one we take.
 
-710
-01:17:17,399 --> 01:17:20,000
+
+
 Okay, we're good. We're good.
 
-711
-01:17:40,555 --> 01:17:43,055
+
+
 <i>Stop right there. Hold up.</i>
 
-712
-01:17:47,095 --> 01:17:50,630
+
+
 Hey, boss. We have
 full clearance to pass.
 
-713
-01:17:52,934 --> 01:17:54,833
+
+
 <i>Check it out. Let's go.</i>
 
-714
-01:18:13,622 --> 01:18:18,425
+
+
 <i>- Step out of your vehicle, sir.
 - No. That's okay.</i>
 
-715
-01:18:18,627 --> 01:18:21,360
+
+
 <i>- It's time to go!
 - Block him down. Block him down.</i>
 
-716
-01:18:23,632 --> 01:18:25,731
+
+
 Shit! Come on!
 
-717
-01:18:28,603 --> 01:18:30,369
+
+
 Shit!
 
-718
-01:18:33,608 --> 01:18:37,613
+
+
 For God's sake, Nic! Stay
 in the truck! Run, Nic!
 
-719
-01:18:39,614 --> 01:18:41,782
+
+
 Jonah, what are you doing?
 
-720
-01:19:25,694 --> 01:19:28,228
+
+
 It doesn't fucking type!
 
-721
-01:20:36,631 --> 01:20:39,932
+
+
 Jonah!
 
-722
-01:20:41,569 --> 01:20:43,703
+
+
 Jonah!
 
-723
-01:20:49,311 --> 01:20:51,978
+
+
 Jonah, come on,
 let's go! Get in the truck!
 
-724
-01:20:51,979 --> 01:20:53,881
+
+
 Come on! Get back in!
 
-725
-01:20:53,882 --> 01:20:57,684
+
+
 - Jonah, get in the truck!
 - I'm done. I'm done.
 
-726
-01:21:01,323 --> 01:21:03,057
+
+
 Just get in the truck.
 
-727
-01:21:03,059 --> 01:21:07,527
+
+
 Nic, keep up.
 
-728
-01:21:09,564 --> 01:21:12,030
+
+
 Get in the truck.
 
-729
-01:21:13,167 --> 01:21:17,904
+
+
 You put this shit on the
 accelerator, go when I yell, "Go."
 
-730
-01:21:18,372 --> 01:21:20,439
+
+
 You go, Nic.
 
-731
-01:21:21,342 --> 01:21:23,975
+
+
 Okay, Nic?
 
-732
-01:21:26,948 --> 01:21:29,481
+
+
 I need you to go.
 
-733
-01:21:30,752 --> 01:21:34,353
+
+
 I need you to go. Please.
 
-734
-01:24:34,101 --> 01:24:36,403
+
+
 Put your seatbelt on.
 
-735
-01:24:44,145 --> 01:24:46,845
+
+
 - Nic, I think we should just...
 - Hold on.
 
-736
-01:25:00,895 --> 01:25:03,195
+
+
 Nic, stop!
 
-737
-01:25:31,059 --> 01:25:33,292
+
+
 <i>I'm sorry.</i>
 
-738
-01:25:47,708 --> 01:25:50,076
+
+
 I love you.
 
-739
-01:26:30,585 --> 01:26:33,351
+
+
 Haley!
 
-740
-01:27:40,621 --> 01:27:43,155
+
+
 Don't even think about it, Nic.
 
-741
-01:27:43,690 --> 01:27:45,891
+
+
 You can't reach her.
 
-742
-01:27:53,967 --> 01:27:56,034
+
+
 <i>On my side.</i>
 
-743
-01:27:59,506 --> 01:28:02,375
+
+
 Take a look at yourself, Nic.
 
-744
-01:28:03,344 --> 01:28:08,311
+
+
 The perfect integration
 of human will and...
 
-745
-01:28:09,250 --> 01:28:11,818
+
+
 alien technology.
 
-746
-01:28:13,387 --> 01:28:15,988
+
+
 Our finest achievement.
 
-747
-01:28:21,929 --> 01:28:23,930
+
+
 Nomad?
 
-748
-01:28:26,434 --> 01:28:28,168
+
+
 Nomad!
 
-749
-01:28:28,170 --> 01:28:32,673
+
+
 Nomad, yes. I brought you here.
 
-750
-01:28:32,675 --> 01:28:37,244
+
+
 But remember, Nic, you were the
 one who came looking for me.
 
-751
-01:28:37,246 --> 01:28:40,014
+
+
 So you might want to ask yourself,
 
-752
-01:28:40,015 --> 01:28:44,817
+
+
 "Did I find what
 I was looking for?"
 
-753
-01:28:44,841 --> 01:28:45,912
+
+
 <font color="#80ffff">T
 
-754
-01:28:45,912 --> 01:28:46,984
+
+
 <font color="#80ffff">Th
 
-755
-01:28:46,984 --> 01:28:48,055
+
+
 <font color="#80ffff">The
 
-756
-01:28:48,055 --> 01:28:49,127
+
+
 <font color="#80ffff">The_
 
-757
-01:28:49,127 --> 01:28:50,198
+
+
 <font color="#80ffff">The_S
 
-758
-01:28:50,198 --> 01:28:51,270
+
+
 <font color="#80ffff">The_Si
 
-759
-01:28:51,270 --> 01:28:52,341
+
+
 <font color="#80ffff">The_Sig
 
-760
-01:28:52,341 --> 01:28:53,412
+
+
 <font color="#80ffff">The_Sign
 
-761
-01:28:53,412 --> 01:28:54,484
+
+
 <font color="#80ffff">The_Signa
 
-762
-01:28:54,484 --> 01:28:55,555
-<font color="#80ffff">The_Signal
 
-763
-01:28:55,555 --> 01:28:56,627
+
 <font color="#80ffff">The_Signal
 
 
-764
-01:28:56,627 --> 01:28:57,698
+
 <font color="#80ffff">The_Signal
 
 
-765
-01:28:57,698 --> 01:28:58,770
+
+
+<font color="#80ffff">The_Signal
+
+
+
+
 <font color="#80ffff">The_Signal
 S
 
-766
-01:28:58,770 --> 01:28:59,841
+
+
 <font color="#80ffff">The_Signal
 Su
 
-767
-01:28:59,841 --> 01:29:00,912
+
+
 <font color="#80ffff">The_Signal
 Sub
 
-768
-01:29:00,912 --> 01:29:01,984
+
+
 <font color="#80ffff">The_Signal
 Subt
 
-769
-01:29:01,984 --> 01:29:03,055
+
+
 <font color="#80ffff">The_Signal
 Subti
 
-770
-01:29:03,055 --> 01:29:04,127
+
+
 <font color="#80ffff">The_Signal
 Subtit
 
-771
-01:29:04,127 --> 01:29:05,198
+
+
 <font color="#80ffff">The_Signal
 Subtitl
 
-772
-01:29:05,198 --> 01:29:06,270
+
+
 <font color="#80ffff">The_Signal
 Subtitle
 
-773
-01:29:06,270 --> 01:29:07,341
+
+
 <font color="#80ffff">The_Signal
 Subtitle_
 
-774
-01:29:07,341 --> 01:29:08,412
+
+
 <font color="#80ffff">The_Signal
 Subtitle_C
 
-775
-01:29:08,412 --> 01:29:09,484
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Cr
 
-776
-01:29:09,484 --> 01:29:10,555
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Cre
 
-777
-01:29:10,555 --> 01:29:11,627
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Crea
 
-778
-01:29:11,627 --> 01:29:12,698
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat
 
-779
-01:29:12,698 --> 01:29:13,770
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_
 
-780
-01:29:13,770 --> 01:29:14,841
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_B
 
-781
-01:29:14,841 --> 01:29:15,912
-<font color="#80ffff">The_Signal
-Subtitle_Creat_By
 
-782
-01:29:15,912 --> 01:29:16,984
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 
 
-783
-01:29:16,984 --> 01:29:18,055
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 
 
-784
-01:29:18,055 --> 01:29:19,127
+
+
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+
+
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 T
 
-785
-01:29:19,127 --> 01:29:20,198
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Th
 
-786
-01:29:20,198 --> 01:29:21,270
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tha
 
-787
-01:29:21,270 --> 01:29:22,341
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Thar
 
-788
-01:29:22,341 --> 01:29:23,412
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Thari
 
-789
-01:29:23,412 --> 01:29:24,484
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharin
 
-790
-01:29:24,484 --> 01:29:25,555
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharind
 
-791
-01:29:25,555 --> 01:29:26,627
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu
 
-792
-01:29:26,627 --> 01:29:27,698
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_
 
-793
-01:29:27,698 --> 01:29:28,770
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_L
 
-794
-01:29:28,770 --> 01:29:29,841
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_La
 
-795
-01:29:29,841 --> 01:29:30,912
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lak
 
-796
-01:29:30,912 --> 01:29:31,984
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakm
 
-797
-01:29:31,984 --> 01:29:33,055
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakma
 
-798
-01:29:33,055 --> 01:29:34,127
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal
 
-799
-01:29:34,127 --> 01:29:35,198
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_
 
-800
-01:29:35,198 --> 01:29:36,270
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_J
 
-801
-01:29:36,270 --> 01:29:37,341
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Je
 
-802
-01:29:37,341 --> 01:29:38,412
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jee
 
-803
-01:29:38,412 --> 01:29:39,484
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeew
 
-804
-01:29:39,484 --> 01:29:40,555
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewa
 
-805
-01:29:40,555 --> 01:29:41,627
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewan
 
-806
-01:29:41,627 --> 01:29:42,698
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewant
 
-807
-01:29:42,698 --> 01:29:43,770
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewanth
 
-808
-01:29:43,770 --> 01:37:13,841
+
+
 <font color="#80ffff">The_Signal
 Subtitle_Creat_By
 Tharindu_Lakmal_Jeewantha</font>

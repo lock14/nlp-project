@@ -1,4370 +1,4370 @@
-1
-00:00:33,401 --> 00:00:35,966
+
+
 <i>I used to dream about flying.</i>
 
-2
-00:00:36,002 --> 00:00:38,476
+
+
 <i>It went the same way
 every night-</i>
 
-3
-00:00:38,512 --> 00:00:40,649
+
+
 <i>I'd realize
 that I could fly-</i>
 
-4
-00:00:40,685 --> 00:00:42,749
+
+
 <i>No, that's not
 quite right.</i>
 
-5
-00:00:42,785 --> 00:00:45,566
+
+
 <i>I'd realize that there
 was no reason I couldn't fly.</i>
 
-6
-00:00:45,762 --> 00:00:48,958
+
+
 <i>And after that,
 I'd float off the ground</i>
 
-7
-00:00:48,995 --> 00:00:51,382
+
+
 <i>and soar above the city.</i>
 
-8
-00:00:51,419 --> 00:00:54,297
+
+
 <i>But I haven't had
 that dream in a while now.</i>
 
-9
-00:00:54,333 --> 00:00:57,138
+
+
 <i>Lately I dream about
 more ordinary things</i>
 
-10
-00:00:57,175 --> 00:01:00,178
+
+
 <i>like doing my laundry
 or shopping for groceries</i>
 
-11
-00:01:00,214 --> 00:01:02,644
+
+
 <i>or riding on elevators.</i>
 
-12
-00:01:02,680 --> 00:01:04,932
+
+
 <i>I wonder
 why that is.</i>
 
-13
-00:02:00,905 --> 00:02:03,157
+
+
 <i>Drug use, prescription
 or otherwise?</i>
 
-14
-00:02:03,194 --> 00:02:04,789
+
+
 No.
 
-15
-00:02:04,826 --> 00:02:06,828
+
+
 <i>Do you experience
 persistent headaches?</i>
 
-16
-00:02:06,864 --> 00:02:08,251
+
+
 No.
 
-17
-00:02:08,287 --> 00:02:10,295
+
+
 <i>- Trouble sleeping?
 - No.</i>
 
-18
-00:02:10,331 --> 00:02:12,124
+
+
 <i>Any feelings
 of lethargy?</i>
 
-19
-00:02:12,161 --> 00:02:14,465
+
+
 <i>- No.
 - Lack of appetite?</i>
 
-20
-00:02:14,502 --> 00:02:17,171
+
+
 <i>Difficulty becoming
 sexually aroused,</i>
 
-21
-00:02:17,208 --> 00:02:18,636
+
+
 <i>maintaining
 an erection?</i>
 
-22
-00:02:18,673 --> 00:02:20,758
+
+
 <i>Problems with
 premature ejaculation?</i>
 
-23
-00:02:20,795 --> 00:02:22,515
+
+
 No.
 
-24
-00:02:22,552 --> 00:02:25,555
+
+
 <i>What about thoughts of a
 suicidal or homicidal nature?</i>
 
-25
-00:02:25,591 --> 00:02:27,431
+
+
 No.
 
-26
-00:02:29,433 --> 00:02:32,103
+
+
 You never fantasize about
 hurting anybody-
 
-27
-00:02:32,139 --> 00:02:34,605
+
+
 yourself or others?
 
-28
-00:02:36,482 --> 00:02:38,281
+
+
 Well...
 
-29
-00:02:38,317 --> 00:02:40,450
+
+
 You know, sometimes,
 I guess.
 
-30
-00:02:40,486 --> 00:02:43,489
+
+
 But, you know,
 I would never act on it.
 
-31
-00:02:43,526 --> 00:02:45,783
+
+
 I understand.
 
-32
-00:02:48,578 --> 00:02:51,205
+
+
 And you're in
 good health, so...
 
-33
-00:02:54,667 --> 00:02:56,210
+
+
 There you go.
 
-34
-00:02:59,505 --> 00:02:59,974
+
+
 I'm in?
 
-35
-00:02:59,975 --> 00:03:03,056
+
+
 Take one pill a day,
 preferably with food.
 
-36
-00:03:03,092 --> 00:03:07,638
+
+
 But wait, you don't- you don't have
 to wait for my blood-test results?
 
-37
-00:03:07,675 --> 00:03:09,020
+
+
 No, we're good.
 
-38
-00:03:09,056 --> 00:03:12,226
+
+
 I just need your
 John Hancock right there.
 
-39
-00:03:12,263 --> 00:03:15,360
+
+
 And these- these-
 these really work?
 
-40
-00:03:15,396 --> 00:03:18,566
+
+
 Our results have been
 remarkably promising.
 
-41
-00:03:23,779 --> 00:03:24,989
+
+
 Okay.
 
-42
-00:03:26,407 --> 00:03:28,456
+
+
 And there.
 
-43
-00:03:28,492 --> 00:03:30,328
+
+
 And also there.
 
-44
-00:03:33,831 --> 00:03:35,917
+
+
 Welcome to
 our study...
 
-45
-00:03:35,953 --> 00:03:37,632
+
+
 Les.
 
-46
-00:03:37,668 --> 00:03:39,801
+
+
 And thank you.
 
-47
-00:03:39,837 --> 00:03:42,840
+
+
 'Cause you're not just
 participating in a clinical trial,
 
-48
-00:03:42,877 --> 00:03:45,048
+
+
 you're helping develop
 a medication
 
-49
-00:03:45,084 --> 00:03:47,069
+
+
 that will benefit
 a great many people.
 
-50
-00:03:47,106 --> 00:03:49,055
+
+
 So you just pop in
 here one time a week
 
-51
-00:03:49,091 --> 00:03:50,932
+
+
 so we can monitor
 your progress.
 
-52
-00:03:53,142 --> 00:03:55,561
+
+
 And here's a free
 T- shirt for you.
 
-53
-00:03:57,313 --> 00:03:59,607
+
+
 can I take
 the first one now?
 
-54
-00:03:59,643 --> 00:04:00,691
+
+
 Mmm.
 
-55
-00:04:06,197 --> 00:04:08,950
+
+
 And how long till
 I start feeling...
 
-56
-00:04:08,986 --> 00:04:11,035
+
+
 you know, different?
 
-57
-00:04:28,177 --> 00:04:30,888
+
+
 <i>I've decided to start
 this medication journal</i>
 
-58
-00:04:30,925 --> 00:04:33,724
+
+
 <i>so I don't forget anything
 noteworthy between visits.</i>
 
-59
-00:04:33,761 --> 00:04:37,412
+
+
 <i>It's funny because I joined
 the study on a whim.</i>
 
-60
-00:04:37,449 --> 00:04:41,065
+
+
 <i>You see, I'm really
 pretty happy with my life.</i>
 
-61
-00:04:41,101 --> 00:04:43,567
+
+
 <i>Well, maybe "happy"
 isn't the right word,</i>
 
-62
-00:04:43,604 --> 00:04:45,528
+
+
 <i>but I'm not unhappy.</i>
 
-63
-00:04:45,564 --> 00:04:47,452
+
+
 <i>It's more like</i>
 
-64
-00:04:47,488 --> 00:04:50,074
+
+
 <i>I once read about a monster
 called the extricator</i>
 
-65
-00:04:50,110 --> 00:04:52,206
+
+
 <i>that lived off
 people's souls.</i>
 
-66
-00:04:52,243 --> 00:04:55,246
+
+
 <i>Only the thing was, the extricator
 ate a person's soul in their sleep</i>
 
-67
-00:04:55,282 --> 00:04:57,044
+
+
 <i>over a 16-year period.</i>
 
-68
-00:04:57,081 --> 00:04:59,208
+
+
 <i>Like it would nibble
 off a crumb every night</i>
 
-69
-00:04:59,245 --> 00:05:01,299
+
+
 <i>until there wasn't
 anything left,</i>
 
-70
-00:05:01,335 --> 00:05:04,588
+
+
 <i>so a person had no way to
 realize what was going on.</i>
 
-71
-00:05:04,625 --> 00:05:06,721
+
+
 <i>They just had this
 vague sense</i>
 
-72
-00:05:06,757 --> 00:05:09,557
+
+
 <i>that something was
 slowly disappearing.</i>
 
-73
-00:05:09,593 --> 00:05:13,347
+
+
 <i>I don't know, maybe I am
 a little depressed lately.</i>
 
-74
-00:05:21,689 --> 00:05:23,774
+
+
 Wait wait wait wait wait!
 
-75
-00:05:23,811 --> 00:05:25,731
+
+
 You have to stop.
 
-76
-00:05:25,768 --> 00:05:27,617
+
+
 I am so broke.
 
-77
-00:05:27,653 --> 00:05:30,948
+
+
 I'm sorry, ma'am, but I already
 started writing the citation.
 
-78
-00:05:30,985 --> 00:05:35,082
+
+
 Um, listen, you could
 park here all day
 
-79
-00:05:35,119 --> 00:05:38,122
+
+
 and I promise I won't-
 I won't write another ticket,
 
-80
-00:05:38,158 --> 00:05:40,374
+
+
 But once I start
 writing the ticket-
 
-81
-00:05:42,710 --> 00:05:45,296
+
+
 See, I get
 reprimanded if-
 
-82
-00:05:45,332 --> 00:05:47,506
+
+
 Please...
 
-83
-00:05:54,972 --> 00:05:57,892
+
+
 <i>Oh, thank you!
 Thank you so much!</i>
 
-84
-00:06:01,145 --> 00:06:02,777
+
+
 I'm sorry about that.
 
-85
-00:06:02,813 --> 00:06:05,066
+
+
 Some asshole was trying
 to ticket me.
 
-86
-00:06:08,069 --> 00:06:10,409
+
+
 How many times
 do I have to tell you?
 
-87
-00:06:10,446 --> 00:06:13,866
+
+
 We're not gonna take any
 comics you find in a dumpster.
 
-88
-00:06:13,902 --> 00:06:15,581
+
+
 <i>End of story.</i>
 
-89
-00:06:15,618 --> 00:06:18,079
+
+
 What do you say, chief?
 Five bucks?
 
-90
-00:06:18,115 --> 00:06:20,539
+
+
 What if someone
 pissed on them?
 
-91
-00:06:23,459 --> 00:06:25,920
+
+
 I swear to God, if you
 pay him for those, I'm-
 
-92
-00:06:27,254 --> 00:06:29,882
+
+
 You're a good little man.
 
-93
-00:06:29,918 --> 00:06:32,014
+
+
 And you-
 
-94
-00:06:32,051 --> 00:06:34,345
+
+
 You're a very bad
 little man.
 
-95
-00:06:36,222 --> 00:06:37,395
+
+
 Les?
 
-96
-00:06:37,431 --> 00:06:39,725
+
+
 Could you explain to
 my retarded sibling here
 
-97
-00:06:39,762 --> 00:06:41,983
+
+
 that I can't keep the store
 open if he insists
 
-98
-00:06:42,019 --> 00:06:45,189
+
+
 on throwing our money away
 on crackhead piss comics?
 
-99
-00:06:45,225 --> 00:06:48,067
+
+
 I should- I probably
 should go back to work.
 
-100
-00:06:48,103 --> 00:06:49,693
+
+
 Oh, Les, Les?
 Come here, man.
 
-101
-00:06:51,028 --> 00:06:53,661
+
+
 Check it out-
 I got you the new "Iron Woman,"
 
-102
-00:06:53,697 --> 00:06:56,080
+
+
 The new "Nightmare Killer"
 and the new "Time Travel. "
 
-103
-00:06:56,117 --> 00:06:56,359
+
+
 Cool.
 
-104
-00:06:56,361 --> 00:06:59,036
+
+
 <i>I'm so sick of people
 thinking "Time Travel"</i>
 
-105
-00:06:59,073 --> 00:07:01,377
+
+
 is all about some dude who
 shows up from nowhere
 
-106
-00:07:01,413 --> 00:07:04,750
+
+
 saying, "I've come from the
 future that will no longer exist,"
 
-107
-00:07:04,787 --> 00:07:07,124
+
+
 <i>and then fixes
 your problems.</i>
 
-108
-00:07:07,161 --> 00:07:09,463
+
+
 <i>Don't let him
 harsh you, Les.</i>
 
-109
-00:07:09,500 --> 00:07:11,858
+
+
 "Time Travel"
 is seriously dope
 
-110
-00:07:11,895 --> 00:07:14,218
+
+
 in an old-school
 kind of way.
 
-111
-00:07:16,637 --> 00:07:18,519
+
+
 Yo, if you want
 to come by later,
 
-112
-00:07:18,556 --> 00:07:21,058
+
+
 we rented this crazy iranian
 knockoff- "When Animals Attack. "
 
-113
-00:07:21,095 --> 00:07:22,607
+
+
 Yeah, man, come by.
 Check it out.
 
-114
-00:07:22,643 --> 00:07:25,438
+
+
 Save me from another night
 alone with Captain Piss Comic.
 
-115
-00:07:25,474 --> 00:07:27,320
+
+
 Sure.
 
-116
-00:07:27,356 --> 00:07:28,774
+
+
 Yeah, maybe.
 
-117
-00:07:43,080 --> 00:07:46,521
+
+
 <i>I know I'm too old to
 like comics as much as I do,</i>
 
-118
-00:07:46,558 --> 00:07:49,962
+
+
 <i>but in comics, a villain can
 launch a missile at a superhero</i>
 
-119
-00:07:49,998 --> 00:07:52,261
+
+
 <i>and the hero
 just keeps coming.</i>
 
-120
-00:07:52,298 --> 00:07:54,717
+
+
 <i>And then the villain
 can throw an atom bomb</i>
 
-121
-00:07:54,753 --> 00:07:57,136
+
+
 <i>or an asteroid or an entire
 planet at the hero,</i>
 
-122
-00:07:57,172 --> 00:07:59,268
+
+
 <i>but that won't
 stop them either.</i>
 
-123
-00:07:59,305 --> 00:08:02,104
+
+
 <i>Because a real superhero
 is like a force of nature.</i>
 
-124
-00:08:02,141 --> 00:08:06,312
+
+
 <i>And when I read comics, I get this
 faint glimpse of what it would be like</i>
 
-125
-00:08:06,348 --> 00:08:09,332
+
+
 <i>to be not just
 stronger, faster,</i>
 
-126
-00:08:09,369 --> 00:08:12,345
+
+
 <i>or smarter than
 ordinary people,</i>
 
-127
-00:08:12,381 --> 00:08:15,321
+
+
 <i>but what it would
 be like to be,</i>
 
-128
-00:08:15,357 --> 00:08:18,949
+
+
 <i>well, to be unstoppable.</i>
 
-129
-00:08:28,000 --> 00:08:30,878
+
+
 Les, Les, Les, Les.
 
-130
-00:08:32,379 --> 00:08:34,465
+
+
 You want to explain this
 to me, champ?
 
-131
-00:08:34,501 --> 00:08:35,680
+
+
 Yeah, I'm sorry, Steve,
 I just-
 
-132
-00:08:35,716 --> 00:08:37,306
+
+
 <i>I like you, kid.
 I really do.</i>
 
-133
-00:08:37,343 --> 00:08:40,763
+
+
 But the money that
 those parasites con from you,
 
-134
-00:08:40,799 --> 00:08:44,183
+
+
 it goes to schools,
 hospitals, soup kitchens.
 
-135
-00:08:44,219 --> 00:08:46,482
+
+
 So really what
 you're doing is,
 
-136
-00:08:46,519 --> 00:08:49,146
+
+
 you're helping them steal from
 terminally-ill homeless children.
 
-137
-00:08:49,183 --> 00:08:51,482
+
+
 <i>- No, I know-
 - I know it's tough out there.</i>
 
-138
-00:08:51,518 --> 00:08:53,901
+
+
 Believe me. Even our
 fellow police officers
 
-139
-00:08:53,937 --> 00:08:55,866
+
+
 think we're some
 kind of joke.
 
-140
-00:08:55,903 --> 00:08:58,035
+
+
 That's why you have to
 remind yourself
 
-141
-00:08:58,072 --> 00:09:00,908
+
+
 that we are the ones that
 keep this city running.
 
-142
-00:09:00,944 --> 00:09:03,040
+
+
 I know.
 
-143
-00:09:03,077 --> 00:09:04,682
+
+
 Then say it.
 
-144
-00:09:04,719 --> 00:09:06,288
+
+
 Pardon me?
 
-145
-00:09:07,498 --> 00:09:09,667
+
+
 The mantra exercise.
 
-146
-00:09:11,919 --> 00:09:15,923
+
+
 Look, I have seen this job snap
 a lot tougher men than you, champ.
 
-147
-00:09:15,959 --> 00:09:18,681
+
+
 So unless you change
 your attitude,
 
-148
-00:09:18,717 --> 00:09:21,679
+
+
 I'm afraid you're not gonna
 last much longer around here.
 
-149
-00:09:24,014 --> 00:09:28,102
+
+
 I'm important and
 I keep this city running.
 
-150
-00:09:28,138 --> 00:09:29,734
+
+
 Good.
 
-151
-00:09:29,770 --> 00:09:32,982
+
+
 Now repeat.
 
-152
-00:09:36,193 --> 00:09:43,993
+
+
 I'm important.
 
-153
-00:09:46,078 --> 00:09:48,393
+
+
 <i>6:48 P.M.</i>
 
-154
-00:09:48,429 --> 00:09:50,708
+
+
 <i>Still not feeling anything.</i>
 
-155
-00:12:21,358 --> 00:12:23,026
+
+
 Les?
 
-156
-00:12:26,780 --> 00:12:28,370
+
+
 Oh, man.
 
-157
-00:12:28,407 --> 00:12:32,077
+
+
 I think I just- I might be
 too nervous or something.
 
-158
-00:12:36,790 --> 00:12:38,876
+
+
 Les- Les, what
 are you doing?
 
-159
-00:12:40,586 --> 00:12:42,755
+
+
 Les, why don't you
 come down from there
 
-160
-00:12:42,791 --> 00:12:45,108
+
+
 and we can talk
 a little bit more?
 
-161
-00:12:45,144 --> 00:12:49,219
+
+
 Les?
 
-162
-00:12:52,806 --> 00:12:54,808
+
+
 No!
 
-163
-00:12:55,767 --> 00:12:57,483
+
+
 Amazing, isn't it?
 
-164
-00:12:57,519 --> 00:12:59,772
+
+
 It's quite unusual.
 Are you hurt?
 
-165
-00:12:59,808 --> 00:13:02,024
+
+
 No no, I never felt better.
 Why?
 
-166
-00:13:02,060 --> 00:13:03,405
+
+
 Well...
 
-167
-00:13:03,442 --> 00:13:05,658
+
+
 Hey, has this happened
 to anyone else?
 
-168
-00:13:05,694 --> 00:13:08,530
+
+
 No, I've never seen anything
 quite like it before.
 
-169
-00:13:08,567 --> 00:13:10,613
+
+
 What do you think
 caused this, Dr. Dobson?
 
-170
-00:13:10,649 --> 00:13:12,659
+
+
 Well, I think we have
 to discuss that-
 
-171
-00:13:15,579 --> 00:13:18,207
+
+
 Could- could you
 excuse me for a second?
 
-172
-00:13:18,243 --> 00:13:20,005
+
+
 Is something wrong?
 
-173
-00:13:20,042 --> 00:13:23,003
+
+
 Just don't move.
 I- I'll be back in a moment or two.
 
-174
-00:13:28,926 --> 00:13:31,053
+
+
 <i>What seems to be-</i>
 
-175
-00:13:43,941 --> 00:13:46,568
+
+
 Sorry about that, Les.
 
-176
-00:13:46,605 --> 00:13:48,880
+
+
 Who are those people?
 
-177
-00:13:48,916 --> 00:13:51,156
+
+
 Please just follow me.
 
-178
-00:14:07,798 --> 00:14:09,800
+
+
 <i>Can you hear me, Les?</i>
 
-179
-00:14:09,836 --> 00:14:11,319
+
+
 Of course.
 
-180
-00:14:11,356 --> 00:14:12,766
+
+
 Excuse me?
 
-181
-00:14:12,803 --> 00:14:14,972
+
+
 <i>This room
 could be bugged.</i>
 
-182
-00:14:15,008 --> 00:14:16,640
+
+
 How'd you do that?
 
-183
-00:14:16,676 --> 00:14:17,938
+
+
 Do what?
 
-184
-00:14:17,975 --> 00:14:20,143
+
+
 <i>I assume you've heard
 of telepathy.</i>
 
-185
-00:14:20,180 --> 00:14:21,645
+
+
 You're telepathic?
 
-186
-00:14:21,681 --> 00:14:22,943
+
+
 What?
 
-187
-00:14:22,980 --> 00:14:25,315
+
+
 <i>I'm not telepathic, Les.
 You are.</i>
 
-188
-00:14:25,352 --> 00:14:26,447
+
+
 I am?
 
-189
-00:14:26,483 --> 00:14:28,902
+
+
 - You are what?
 - Telepathic.
 
-190
-00:14:38,495 --> 00:14:41,623
+
+
 <i>The drug bestowed you
 with many powers.</i>
 
-191
-00:14:41,660 --> 00:14:44,751
+
+
 You're having an adverse
 psychological reaction, Les.
 
-192
-00:14:44,788 --> 00:14:47,254
+
+
 <i>You're reading
 my mind right now.</i>
 
-193
-00:14:47,290 --> 00:14:50,382
+
+
 Do you understand
 what I'm telling you?
 
-194
-00:14:50,418 --> 00:14:54,475
+
+
 Why is this
 happening to me?
 
-195
-00:14:54,511 --> 00:14:57,264
+
+
 The medication was designed
 to suppress the chemicals
 
-196
-00:14:57,300 --> 00:15:00,230
+
+
 in the brain responsible
 for self-doubt.
 
-197
-00:15:00,267 --> 00:15:03,937
+
+
 Unfortunately, brain chemistry
 can be as unique
 
-198
-00:15:03,974 --> 00:15:07,024
+
+
 and as unpredictable
 as a fingerprint.
 
-199
-00:15:07,060 --> 00:15:09,026
+
+
 Oh.
 
-200
-00:15:10,402 --> 00:15:12,112
+
+
 Okay.
 
-201
-00:15:15,365 --> 00:15:19,119
+
+
 So the medication unleashed
 powers that I already had?
 
-202
-00:15:19,156 --> 00:15:22,378
+
+
 What do you mean
 by powers?
 
-203
-00:15:22,414 --> 00:15:25,417
+
+
 <i>Never mention
 your powers out loud.</i>
 
-204
-00:15:25,453 --> 00:15:26,882
+
+
 Why not?
 
-205
-00:15:26,919 --> 00:15:28,592
+
+
 <i>It isn't safe.</i>
 
-206
-00:15:28,629 --> 00:15:32,179
+
+
 The important thing is that you
 cease the medication immediately.
 
-207
-00:15:32,215 --> 00:15:36,053
+
+
 <i>Luckily, it has a half-life that's
 extremely short in the bloodstream.</i>
 
-208
-00:15:36,089 --> 00:15:38,555
+
+
 So whatever you're
 experiencing should disappear
 
-209
-00:15:38,592 --> 00:15:40,849
+
+
 soon after you've ingested
 your last dose.
 
-210
-00:15:46,730 --> 00:15:48,982
+
+
 <i>Can you hear me, Dr. Dobson?</i>
 
-211
-00:15:49,019 --> 00:15:51,907
+
+
 <i>Very good, Les.</i>
 
-212
-00:15:51,944 --> 00:15:54,780
+
+
 <i>You're learning to control
 your powers faster</i>
 
-213
-00:15:54,816 --> 00:15:56,657
+
+
 <i>than I would have
 dreamed possible.</i>
 
-214
-00:15:57,991 --> 00:16:00,827
+
+
 - Les?
 - Just a second.
 
-215
-00:16:03,372 --> 00:16:06,797
+
+
 <i>Should I really stop
 taking the medication?</i>
 
-216
-00:16:06,833 --> 00:16:09,816
+
+
 <i>Heavens no. I just said that
 because they're listening.</i>
 
-217
-00:16:09,852 --> 00:16:12,798
+
+
 <i>Keep taking one pill a day.
 By the end of the cycle,</i>
 
-218
-00:16:12,834 --> 00:16:15,092
+
+
 <i>your powers
 will be permanent.</i>
 
-219
-00:16:19,346 --> 00:16:21,098
+
+
 What are you
 staring at, Les?
 
-220
-00:16:21,134 --> 00:16:22,888
+
+
 Sorry.
 
-221
-00:16:22,924 --> 00:16:24,972
+
+
 Um...
 
-222
-00:16:25,009 --> 00:16:26,984
+
+
 Okay.
 
-223
-00:16:27,020 --> 00:16:29,486
+
+
 So I'll just, um...
 
-224
-00:16:29,523 --> 00:16:34,027
+
+
 I'll just flush the rest
 of the pills as-
 
-225
-00:16:34,064 --> 00:16:35,779
+
+
 as soon as I get home.
 
-226
-00:16:35,815 --> 00:16:37,995
+
+
 Good.
 
-227
-00:16:38,031 --> 00:16:40,497
+
+
 What's best for you
 right now
 
-228
-00:16:40,534 --> 00:16:44,037
+
+
 is to go home,
 have a good night's sleep,
 
-229
-00:16:44,074 --> 00:16:46,289
+
+
 get this all behind you.
 
-230
-00:16:47,958 --> 00:16:50,127
+
+
 Okay, I will.
 
-231
-00:16:56,133 --> 00:16:58,802
+
+
 <i>I'm also obliged
 to remind you</i>
 
-232
-00:16:58,838 --> 00:17:02,769
+
+
 how seriously
 this company takes the-
 
-233
-00:17:02,806 --> 00:17:05,809
+
+
 the nondisclosure section
 of the contract you signed.
 
-234
-00:17:05,845 --> 00:17:07,608
+
+
 I understand, Dr. Dobson.
 
-235
-00:17:07,644 --> 00:17:10,188
+
+
 I won't say anything
 I'm not supposed to.
 
-236
-00:17:10,225 --> 00:17:12,696
+
+
 If you have any problems
 or concerns,
 
-237
-00:17:12,733 --> 00:17:16,987
+
+
 anything at all, this is
 my personal phone number.
 
-238
-00:17:17,023 --> 00:17:19,948
+
+
 - Uh-huh.
 - I want you to call me, anytime.
 
-239
-00:17:19,985 --> 00:17:22,301
+
+
 Thanks for everything.
 
-240
-00:17:22,338 --> 00:17:24,619
+
+
 I really appreciate it.
 
-241
-00:17:26,705 --> 00:17:28,290
+
+
 <i>Take care, Les.</i>
 
-242
-00:17:35,756 --> 00:17:37,888
+
+
 <i>He could have simply asked,</i>
 
-243
-00:17:37,924 --> 00:17:41,845
+
+
 <i>but no, everything has to be a
 passive-aggressive game with him.</i>
 
-244
-00:17:41,881 --> 00:17:45,348
+
+
 <i>They should really get
 better security in this place.</i>
 
-245
-00:17:47,684 --> 00:17:51,646
+
+
 <i>I'm fat, that's the problem.
 I'm like a dump truck.</i>
 
-246
-00:17:59,613 --> 00:18:02,115
+
+
 <i>It's like there are
 two kinds of people in this world-</i>
 
-247
-00:18:02,152 --> 00:18:05,494
+
+
 <i>Ones who feel bad when
 rock stars kill themselves,</i>
 
-248
-00:18:05,530 --> 00:18:07,788
+
+
 <i>and the ones
 who think it's funny.</i>
 
-249
-00:18:25,305 --> 00:18:27,641
+
+
 <i>Like a sweet, juicy peach.</i>
 
-250
-00:18:30,393 --> 00:18:33,647
+
+
 <i>Peach cobbler-
 I could go for some peach cobbler.</i>
 
-251
-00:18:35,774 --> 00:18:37,359
+
+
 <i>I miss Thelma.</i>
 
-252
-00:19:18,900 --> 00:19:21,241
+
+
 <i>Condoms?</i>
 
-253
-00:19:21,278 --> 00:19:22,868
+
+
 <i>I don't see her for
 two months</i>
 
-254
-00:19:22,904 --> 00:19:25,073
+
+
 <i>and when I finally do,
 she's buying condoms?</i>
 
-255
-00:19:25,110 --> 00:19:26,955
+
+
 <i>with Chuck.</i>
 
-256
-00:19:26,992 --> 00:19:30,203
+
+
 <i>Oh, I have to sneak out
 before they notice me.</i>
 
-257
-00:19:30,240 --> 00:19:32,336
+
+
 <i>Oh.</i>
 
-258
-00:19:32,372 --> 00:19:35,250
+
+
 <i>What if she spots me
 trying to run away?</i>
 
-259
-00:19:40,714 --> 00:19:42,549
+
+
 <i>Don't be a sucker.</i>
 
-260
-00:19:43,925 --> 00:19:45,844
+
+
 <i>Don't be a little punk.</i>
 
-261
-00:19:48,221 --> 00:19:50,807
+
+
 <i>Just go over there and
 shove the barrel in her face.</i>
 
-262
-00:19:50,844 --> 00:19:53,101
+
+
 <i>She'll give over
 the cash.</i>
 
-263
-00:20:54,162 --> 00:20:56,414
+
+
 Can't you read, bitch?
 
-264
-00:20:56,451 --> 00:20:57,754
+
+
 Oh, shit.
 
-265
-00:20:57,791 --> 00:21:00,043
+
+
 Sorry, Les man.
 I thought you were a customer.
 
-266
-00:21:00,079 --> 00:21:01,258
+
+
 Hey, can I come in?
 
-267
-00:21:01,294 --> 00:21:03,880
+
+
 Yeah, mi casa es
 your casa, bro.
 
-268
-00:21:07,634 --> 00:21:10,762
+
+
 Les man, you won't believe some
 of these customers today, dude.
 
-269
-00:21:14,140 --> 00:21:16,643
+
+
 They go totally ballistic
 if they can't get their manga
 
-270
-00:21:16,679 --> 00:21:18,608
+
+
 exactly when they
 want it, right?
 
-271
-00:21:18,645 --> 00:21:20,814
+
+
 Just knock knock knocking
 all day long.
 
-272
-00:21:20,850 --> 00:21:22,195
+
+
 Is Everett here?
 
-273
-00:21:22,232 --> 00:21:24,448
+
+
 'Cause I need to
 show you guys something.
 
-274
-00:21:24,484 --> 00:21:27,237
+
+
 Yeah, dude, just go on back
 and take a mental-health day.
 
-275
-00:21:35,036 --> 00:21:37,335
+
+
 <i>Les, my friend.</i>
 
-276
-00:21:37,372 --> 00:21:40,338
+
+
 Hey, explain to
 my retarded sibling here-
 
-277
-00:21:40,375 --> 00:21:42,752
+
+
 Just because something
 has a force field, right?
 
-278
-00:21:42,789 --> 00:21:44,551
+
+
 It doesn't mean it
 has to be invisible.
 
-279
-00:21:44,587 --> 00:21:47,215
+
+
 Don't even get into it
 with him, Les, all right?
 
-280
-00:21:47,252 --> 00:21:49,944
+
+
 He's been in
 extra-cranky mode all day.
 
-281
-00:21:49,980 --> 00:21:52,637
+
+
 Listen, I have to
 tell you guys something.
 
-282
-00:21:52,674 --> 00:21:54,311
+
+
 What is it, Les?
 
-283
-00:21:54,347 --> 00:21:56,558
+
+
 First you have to promise
 you won't tell anyone.
 
-284
-00:21:56,594 --> 00:21:58,315
+
+
 Tell anyone what?
 
-285
-00:21:58,351 --> 00:22:00,192
+
+
 Just promise me you're
 not gonna tell anybody.
 
-286
-00:22:00,228 --> 00:22:02,439
+
+
 What are we, the fucking
 Boy Scouts all of a sudden?
 
-287
-00:22:02,475 --> 00:22:04,125
+
+
 I'm serious.
 
-288
-00:22:04,161 --> 00:22:05,775
+
+
 I promise, Les.
 
-289
-00:22:07,902 --> 00:22:11,156
+
+
 You satisfied, or do we
 need to pinkie swear too?
 
-290
-00:22:11,192 --> 00:22:13,330
+
+
 Okay.
 
-291
-00:22:13,366 --> 00:22:15,285
+
+
 The thing is...
 
-292
-00:22:19,080 --> 00:22:21,541
+
+
 I have super-powers.
 
-293
-00:22:23,835 --> 00:22:26,254
+
+
 You guys,
 I'm serious.
 
-294
-00:22:26,291 --> 00:22:28,673
+
+
 Oh, you-
 you got me, Les.
 
-295
-00:22:28,710 --> 00:22:30,341
+
+
 That was priceless.
 
-296
-00:22:39,017 --> 00:22:41,311
+
+
 You're thinking
 about pizza.
 
-297
-00:22:44,272 --> 00:22:47,275
+
+
 And you're thinking
 I'm full of crap.
 
-298
-00:22:47,312 --> 00:22:50,278
+
+
 But now you're thinking
 about pizza too-
 
-299
-00:22:50,315 --> 00:22:53,203
+
+
 No cheese, extra olives.
 
-300
-00:22:53,239 --> 00:22:57,994
+
+
 That is some serious
 David Blaine trickery, my friend.
 
-301
-00:22:58,031 --> 00:23:00,306
+
+
 I'm telling you,
 it's no trick.
 
-302
-00:23:00,342 --> 00:23:02,546
+
+
 And not only
 do I have powers,
 
-303
-00:23:02,582 --> 00:23:04,714
+
+
 But they're developing
 like gangbusters.
 
-304
-00:23:04,751 --> 00:23:07,295
+
+
 Even on the way over here,
 I discovered a new one.
 
-305
-00:23:07,332 --> 00:23:11,091
+
+
 What was this new power,
 o puissant one?
 
-306
-00:23:11,127 --> 00:23:13,426
+
+
 You really want
 to see it?
 
-307
-00:23:13,463 --> 00:23:15,428
+
+
 Yeah.
 
-308
-00:23:27,560 --> 00:23:29,656
+
+
 God damn, Les.
 
-309
-00:23:29,692 --> 00:23:31,861
+
+
 That was punk rock,
 bro.
 
-310
-00:23:33,029 --> 00:23:35,865
+
+
 And that's just
 the tip of the iceberg.
 
-311
-00:23:35,902 --> 00:23:39,416
+
+
 The more difficult powers-
 
-312
-00:23:39,452 --> 00:23:44,207
+
+
 it seems to exact a slight
 physical toll.
 
-313
-00:23:48,169 --> 00:23:51,881
+
+
 So what do you plan on doing
 with these awesome powers?
 
-314
-00:23:51,918 --> 00:23:55,557
+
+
 Oh, that's what I wanted to
 talk to you guys about, see?
 
-315
-00:23:55,593 --> 00:23:58,935
+
+
 <i>I understand the
 need to keep our secret,</i>
 
-316
-00:23:58,972 --> 00:24:03,309
+
+
 <i>but stopping that robbery today
 was the first time in my whole life</i>
 
-317
-00:24:03,346 --> 00:24:05,275
+
+
 <i>that I've ever felt like...</i>
 
-318
-00:24:05,311 --> 00:24:07,944
+
+
 I could really make
 a difference in the world,
 
-319
-00:24:07,981 --> 00:24:10,316
+
+
 like I could do something
 that nobody else can do-
 
-320
-00:24:10,353 --> 00:24:12,420
+
+
 something important,
 
-321
-00:24:12,456 --> 00:24:14,487
+
+
 maybe even necessary.
 
-322
-00:24:16,739 --> 00:24:19,539
+
+
 So I talked about it
 with my friends
 
-323
-00:24:19,576 --> 00:24:21,875
+
+
 and they agree that if
 a person doesn't do good
 
-324
-00:24:21,911 --> 00:24:24,414
+
+
 with the gifts they're given,
 well, that's almost worse
 
-325
-00:24:24,450 --> 00:24:26,624
+
+
 than doing evil,
 isn't it?
 
-326
-00:24:28,459 --> 00:24:31,593
+
+
 I have no idea what
 you're talking about, Les.
 
-327
-00:24:31,629 --> 00:24:34,466
+
+
 But if you leave here without
 giving me a month's notice,
 
-328
-00:24:34,502 --> 00:24:37,760
+
+
 you can kiss my letter
 of recommendation goodbye.
 
-329
-00:24:37,797 --> 00:24:39,137
+
+
 I understand.
 
-330
-00:24:40,472 --> 00:24:43,641
+
+
 Did one of those lowlifes
 make you feel guilty again?
 
-331
-00:24:43,678 --> 00:24:45,941
+
+
 Is that what this is about?
 Because if it is-
 
-332
-00:24:45,977 --> 00:24:49,105
+
+
 I'm sorry, Steve, but I've
 told you as much as I can.
 
-333
-00:24:49,142 --> 00:24:51,232
+
+
 Excuse me.
 
-334
-00:25:24,015 --> 00:25:26,643
+
+
 <i>The costume is obviously integral</i>
 
-335
-00:25:26,679 --> 00:25:28,149
+
+
 <i>for any superhero.</i>
 
-336
-00:25:28,186 --> 00:25:31,231
+
+
 <i>It can protect
 the hero's true identity,</i>
 
-337
-00:25:31,267 --> 00:25:33,605
+
+
 <i>it can inspire fear,</i>
 
-338
-00:25:33,641 --> 00:25:35,944
+
+
 <i>curiosity or amazement.</i>
 
-339
-00:25:35,980 --> 00:25:38,201
+
+
 <i>But in my opinion,</i>
 
-340
-00:25:38,238 --> 00:25:41,241
+
+
 <i>the most important
 part of a costume</i>
 
-341
-00:25:41,277 --> 00:25:42,956
+
+
 <i>is what goes
 on the back of it.</i>
 
-342
-00:25:42,992 --> 00:25:44,953
+
+
 <i>Because it's not just
 the hero's name,</i>
 
-343
-00:25:44,989 --> 00:25:47,077
+
+
 <i>it's their message
 to the public.</i>
 
-344
-00:25:47,113 --> 00:25:49,129
+
+
 <i>I want my costume
 to tell people</i>
 
-345
-00:25:49,165 --> 00:25:52,669
+
+
 <i>that they shouldn't give up no
 matter how alone they sometimes feel.</i>
 
-346
-00:25:52,705 --> 00:25:55,171
+
+
 <i>Because anything
 is possible.</i>
 
-347
-00:27:05,408 --> 00:27:07,660
+
+
 <i>It turns out that
 being a superhero</i>
 
-348
-00:27:07,697 --> 00:27:09,912
+
+
 <i>was like many other
 things in life:</i>
 
-349
-00:27:09,949 --> 00:27:12,128
+
+
 <i>When you want to avoid it,</i>
 
-350
-00:27:12,165 --> 00:27:14,271
+
+
 <i>crime seems like
 it's everywhere,</i>
 
-351
-00:27:14,307 --> 00:27:16,447
+
+
 <i>but when you're
 looking for it,</i>
 
-352
-00:27:16,484 --> 00:27:18,588
+
+
 <i>crime is nowhere
 to be found.</i>
 
-353
-00:27:23,426 --> 00:27:27,221
+
+
 <i>That's why you have to learn
 to always trust your instincts.</i>
 
-354
-00:28:05,968 --> 00:28:07,845
+
+
 Whoa, Candy,
 that had to hurt.
 
-355
-00:28:07,882 --> 00:28:09,686
+
+
 You can say that again,
 Chuck.
 
-356
-00:28:09,722 --> 00:28:12,225
+
+
 Now let's take
 one more look at it.
 
-357
-00:28:25,405 --> 00:28:28,408
+
+
 If you have any information
 about this bizarre local case,
 
-358
-00:28:28,444 --> 00:28:32,078
+
+
 that number again
 is 1-800-555-8477.
 
-359
-00:28:32,114 --> 00:28:35,628
+
+
 1-800-555-tips.
 
-360
-00:28:35,665 --> 00:28:37,917
+
+
 Our mad tackler
 is caucasian,
 
-361
-00:28:37,954 --> 00:28:40,133
+
+
 approximately
 six feet tall,
 
-362
-00:28:40,169 --> 00:28:42,547
+
+
 and is wearing
 a white leather suit
 
-363
-00:28:42,583 --> 00:28:44,924
+
+
 with an unexplained symbol
 on the back.
 
-364
-00:28:50,138 --> 00:28:52,432
+
+
 I think we have
 a problem.
 
-365
-00:28:56,018 --> 00:28:58,062
+
+
 <i>Before all this happened,</i>
 
-366
-00:28:58,099 --> 00:29:00,311
+
+
 <i>I assumed a superhero
 would be free</i>
 
-367
-00:29:00,348 --> 00:29:02,488
+
+
 <i>from everyday fear
 and insecurity.</i>
 
-368
-00:29:02,525 --> 00:29:05,528
+
+
 <i>But I'm discovering that
 when the costume comes off,</i>
 
-369
-00:29:05,564 --> 00:29:07,905
+
+
 <i>some of the most simple
 things in life</i>
 
-370
-00:29:07,942 --> 00:29:09,949
+
+
 <i>still feel
 the most dangerous.</i>
 
-371
-00:29:14,865 --> 00:29:16,998
+
+
 <i>Hey.</i>
 
-372
-00:29:19,208 --> 00:29:22,795
+
+
 So that was pretty crazy
 the other day, huh?
 
-373
-00:29:24,630 --> 00:29:27,759
+
+
 With the guy and
 the gun and everything.
 
-374
-00:29:32,722 --> 00:29:36,184
+
+
 But maybe that kind of thing
 happens a lot in your line of work.
 
-375
-00:29:42,482 --> 00:29:46,277
+
+
 Well, I guess I'll-
 I'll see you around.
 
-376
-00:29:49,489 --> 00:29:51,120
+
+
 I'm sorry.
 
-377
-00:29:51,157 --> 00:29:54,869
+
+
 Do you know,
 what I wanted to say is-
 
-378
-00:29:56,788 --> 00:29:58,915
+
+
 I wanted to ask you-
 
-379
-00:30:01,042 --> 00:30:03,544
+
+
 I wanted to know if you-
 
-380
-00:30:03,581 --> 00:30:07,256
+
+
 you wanted to have-
 
-381
-00:30:09,675 --> 00:30:13,346
+
+
 you can...
 Keep the change.
 
-382
-00:30:40,540 --> 00:30:43,209
+
+
 <i>I suppose the
 main point to get across here</i>
 
-383
-00:30:43,245 --> 00:30:45,133
+
+
 <i>is that even with
 good instincts,</i>
 
-384
-00:30:45,169 --> 00:30:48,714
+
+
 <i>the life of a crime fighter
 takes a small adjustment period.</i>
 
-385
-00:30:48,751 --> 00:30:50,800
+
+
 <i>And even then it's difficult
 to understand</i>
 
-386
-00:30:50,836 --> 00:30:53,135
+
+
 <i>exactly what's
 going on sometimes.</i>
 
-387
-00:31:19,579 --> 00:31:21,539
+
+
 <i>That's why I've decided
 to pursue</i>
 
-388
-00:31:21,575 --> 00:31:23,499
+
+
 <i>a more conventional
 work environment.</i>
 
-389
-00:31:34,760 --> 00:31:37,810
+
+
 Excuse me, officer?
 
-390
-00:31:37,847 --> 00:31:40,521
+
+
 I can't tell you
 my real name,
 
-391
-00:31:40,558 --> 00:31:44,061
+
+
 - but I used to work here.
 - You're a cop?
 
-392
-00:31:44,098 --> 00:31:45,360
+
+
 Pardon me?
 
-393
-00:31:45,396 --> 00:31:48,774
+
+
 No, um, parking enforcement.
 
-394
-00:31:48,811 --> 00:31:50,865
+
+
 <i>But, uh...</i>
 
-395
-00:31:50,902 --> 00:31:52,992
+
+
 that's all in the past.
 
-396
-00:31:53,029 --> 00:31:56,449
+
+
 Anyway, there's something
 you need to see.
 
-397
-00:32:01,829 --> 00:32:03,706
+
+
 Pretty solid wall, huh?
 
-398
-00:32:03,742 --> 00:32:04,916
+
+
 Yeah.
 
-399
-00:32:04,957 --> 00:32:07,293
+
+
 Or it seems that way
 to most people,
 
-400
-00:32:07,329 --> 00:32:09,378
+
+
 but the truth is...
 
-401
-00:32:15,009 --> 00:32:16,761
+
+
 Jesus, Mary, Joseph.
 
-402
-00:32:26,187 --> 00:32:29,821
+
+
 I'm not like most people.
 
-403
-00:32:29,857 --> 00:32:33,152
+
+
 <i>- Yeah, I can see that.
 - Who can I talk to?</i>
 
-404
-00:32:33,189 --> 00:32:34,450
+
+
 Talk to?
 
-405
-00:32:34,487 --> 00:32:36,953
+
+
 About helping out,
 
-406
-00:32:36,989 --> 00:32:39,325
+
+
 putting this stuff to work.
 
-407
-00:32:39,361 --> 00:32:40,998
+
+
 You know?
 
-408
-00:32:41,035 --> 00:32:42,792
+
+
 Fighting crimes.
 
-409
-00:32:42,828 --> 00:32:45,456
+
+
 <i>I've had some luck
 recently,</i>
 
-410
-00:32:45,492 --> 00:32:48,748
+
+
 <i>mostly small stuff-</i>
 
-411
-00:32:48,784 --> 00:32:52,004
+
+
 Shoplifting,
 armed robbery.
 
-412
-00:32:52,041 --> 00:32:54,595
+
+
 You're an armed robber?
 
-413
-00:32:54,632 --> 00:32:57,322
+
+
 No, I stop crimes,
 officer.
 
-414
-00:32:57,359 --> 00:32:59,915
+
+
 Convenience-store
 stuff mostly.
 
-415
-00:32:59,952 --> 00:33:02,473
+
+
 But I think I'm ready
 to move up.
 
-416
-00:33:02,509 --> 00:33:05,434
+
+
 You know,
 I've heard of you.
 
-417
-00:33:07,186 --> 00:33:09,772
+
+
 <i>I was thinking
 we could...</i>
 
-418
-00:33:09,808 --> 00:33:12,358
+
+
 <i>develop some sort
 of signal.</i>
 
-419
-00:33:12,394 --> 00:33:14,115
+
+
 You know?
 
-420
-00:33:14,151 --> 00:33:16,487
+
+
 It doesn't have to be as
 complicated as the bat signal.
 
-421
-00:33:16,523 --> 00:33:19,320
+
+
 In the meantime,
 
-422
-00:33:19,357 --> 00:33:21,613
+
+
 here's my card.
 
-423
-00:33:21,649 --> 00:33:23,869
+
+
 Take one of those.
 
-424
-00:33:25,162 --> 00:33:27,420
+
+
 <i>Pager number on it.
 You-</i>
 
-425
-00:33:27,456 --> 00:33:29,625
+
+
 You give me a call
 anytime you need something
 
-426
-00:33:29,662 --> 00:33:32,091
+
+
 and I'll be right there.
 
-427
-00:33:32,128 --> 00:33:34,797
+
+
 Actually, I think I've got
 something for you right now.
 
-428
-00:33:34,833 --> 00:33:37,013
+
+
 Really?
 
-429
-00:33:37,049 --> 00:33:40,803
+
+
 There's this loon going around
 tackling innocent people.
 
-430
-00:33:40,839 --> 00:33:42,513
+
+
 Right?
 
-431
-00:33:57,611 --> 00:33:59,655
+
+
 <i>Get in, Les.</i>
 
-432
-00:34:14,754 --> 00:34:17,298
+
+
 Crazy metermaids.
 
-433
-00:34:17,334 --> 00:34:19,842
+
+
 That was exciting.
 
-434
-00:34:22,011 --> 00:34:25,222
+
+
 You have a genuine flair for
 making a scene, don't you, Les?
 
-435
-00:34:25,259 --> 00:34:28,434
+
+
 <i>Maybe you're trying to
 get on television again,</i>
 
-436
-00:34:28,470 --> 00:34:31,187
+
+
 maybe something national
 this time.
 
-437
-00:34:31,223 --> 00:34:32,688
+
+
 Who are you?
 
-438
-00:34:35,483 --> 00:34:38,282
+
+
 My name is Jonas Exiler.
 
-439
-00:34:38,319 --> 00:34:40,488
+
+
 And this is my brother
 Theodore.
 
-440
-00:34:40,524 --> 00:34:43,746
+
+
 Maybe you know us
 as the...
 
-441
-00:34:43,783 --> 00:34:47,203
+
+
 people whose dreams you're
 trying to flush down the toilet.
 
-442
-00:34:49,288 --> 00:34:51,749
+
+
 We've spent the last
 five years of our lives
 
-443
-00:34:51,785 --> 00:34:53,923
+
+
 and every penny
 we've ever saved
 
-444
-00:34:53,959 --> 00:34:57,505
+
+
 trying to get this company
 off the ground, Les.
 
-445
-00:34:57,541 --> 00:34:59,465
+
+
 It's been an uphill battle,
 
-446
-00:34:59,501 --> 00:35:02,009
+
+
 <i>Believe me.</i>
 
-447
-00:35:03,886 --> 00:35:05,846
+
+
 You're telepathic too?
 
-448
-00:35:10,559 --> 00:35:13,062
+
+
 You're a deeply troubled
 individual, aren't you, buddy?
 
-449
-00:35:13,098 --> 00:35:17,530
+
+
 We want to help you, Les.
 Can you understand that?
 
-450
-00:35:17,566 --> 00:35:19,735
+
+
 You have to realize that
 the reaction that you're having
 
-451
-00:35:19,772 --> 00:35:21,450
+
+
 <i>is a complete anomaly.</i>
 
-452
-00:35:21,487 --> 00:35:24,490
+
+
 <i>And really, there's no proof
 the special is responsible</i>
 
-453
-00:35:24,526 --> 00:35:26,455
+
+
 <i>for anything
 you're feeling right now.</i>
 
-454
-00:35:26,492 --> 00:35:28,953
+
+
 <i>You could just be experiencing
 some sort of unrelated...</i>
 
-455
-00:35:30,699 --> 00:35:32,498
+
+
 What?
 
-456
-00:35:36,001 --> 00:35:37,800
+
+
 Fucking hell.
 
-457
-00:35:37,837 --> 00:35:40,469
+
+
 I- I can't do that.
 
-458
-00:35:40,506 --> 00:35:44,072
+
+
 Can you understand anything
 we're trying to tell you, Les?
 
-459
-00:35:44,108 --> 00:35:47,638
+
+
 - I will never join you.
 - The medication is making you sick.
 
-460
-00:35:47,674 --> 00:35:49,145
+
+
 All you have to do
 
-461
-00:35:49,181 --> 00:35:52,231
+
+
 is stop taking
 the medication.
 
-462
-00:35:52,268 --> 00:35:54,749
+
+
 And stop running around
 in that silly suit.
 
-463
-00:35:54,786 --> 00:35:57,194
+
+
 - That's all we're asking here.
 - Never.
 
-464
-00:35:57,231 --> 00:35:59,817
+
+
 We could sue you to hell and
 back for running around on TV
 
-465
-00:35:59,853 --> 00:36:01,907
+
+
 wearing our logo.
 You understand that, right?
 
-466
-00:36:01,944 --> 00:36:04,780
+
+
 But we'd just as soon avoid any
 negative publicity right now.
 
-467
-00:36:04,817 --> 00:36:07,908
+
+
 Just stop taking the pills.
 
-468
-00:36:09,201 --> 00:36:11,287
+
+
 We can put all this
 behind us.
 
-469
-00:36:20,504 --> 00:36:22,464
+
+
 Well, then we have
 a problem...
 
-470
-00:36:24,300 --> 00:36:27,099
+
+
 Don't we?
 
-471
-00:36:27,136 --> 00:36:29,471
+
+
 - Because the way I see it-
 - Who are you?
 
-472
-00:36:29,508 --> 00:36:31,700
+
+
 I come from the future
 
-473
-00:36:31,736 --> 00:36:33,503
+
+
 that will no longer exist.
 
-474
-00:36:33,539 --> 00:36:35,232
+
+
 Who is he talking to now?
 
-475
-00:36:35,269 --> 00:36:38,418
+
+
 These are the men
 that convinced the police
 
-476
-00:36:38,454 --> 00:36:41,567
+
+
 - that you did something wrong.
 - Of course.
 
-477
-00:36:41,603 --> 00:36:43,532
+
+
 Les?
 
-478
-00:36:43,569 --> 00:36:46,911
+
+
 Earth to Les.
 
-479
-00:36:46,947 --> 00:36:50,242
+
+
 They designed the drug to build
 an army of unstoppable assassins.
 
-480
-00:36:50,279 --> 00:36:52,124
+
+
 And if you won't work
 for them,
 
-481
-00:36:52,161 --> 00:36:54,163
+
+
 they'll try to
 strip you of your powers.
 
-482
-00:36:57,583 --> 00:37:00,424
+
+
 - Or worse.
 - Worse?
 
-483
-00:37:00,461 --> 00:37:03,005
+
+
 - Much worse.
 - I told you this was a bad idea.
 
-484
-00:37:03,041 --> 00:37:04,720
+
+
 <i>But don't worry...</i>
 
-485
-00:37:04,757 --> 00:37:07,473
+
+
 Because I won't
 let that happen.
 
-486
-00:37:07,509 --> 00:37:09,345
+
+
 - Let's just take him to the E.R.
 - The E.R.?
 
-487
-00:37:09,381 --> 00:37:13,807
+
+
 - Are you crazy-
 - No!
 
-488
-00:37:15,184 --> 00:37:18,020
+
+
 Ow.
 
-489
-00:37:31,742 --> 00:37:33,744
+
+
 Don't just stare at him.
 
-490
-00:37:33,780 --> 00:37:35,204
+
+
 Get him.
 
-491
-00:38:17,288 --> 00:38:18,497
+
+
 Ahhh!
 
-492
-00:38:27,256 --> 00:38:30,509
+
+
 <i>How do you
 like my invisible force field?</i>
 
-493
-00:38:40,978 --> 00:38:43,897
+
+
 Not much oxygen inside,
 is there?
 
-494
-00:38:43,934 --> 00:38:45,821
+
+
 Ahh!
 
-495
-00:38:45,858 --> 00:38:49,028
+
+
 You should have joined us
 when you had the chance.
 
-496
-00:39:13,302 --> 00:39:15,267
+
+
 Your force field is good,
 
-497
-00:39:15,304 --> 00:39:18,932
+
+
 but my teleporting
 is better.
 
-498
-00:39:37,451 --> 00:39:39,083
+
+
 Yes!
 
-499
-00:39:39,119 --> 00:39:41,789
+
+
 You son of a bitch!
 Yeah, you love that shit.
 
-500
-00:39:41,825 --> 00:39:43,587
+
+
 Whoo!
 Ha ha!
 
-501
-00:39:43,624 --> 00:39:45,256
+
+
 - Oh, shit.
 - Fucking game.
 
-502
-00:39:45,292 --> 00:39:47,190
+
+
 This is the best game
 ever invent-
 
-503
-00:39:47,226 --> 00:39:49,051
+
+
 Les! Les,
 man, what's going on?
 
-504
-00:39:49,088 --> 00:39:52,174
+
+
 Yeah, man, Antoine said he saw
 you on the idiot box or something.
 
-505
-00:39:52,210 --> 00:39:53,926
+
+
 - Bad outfit, by the way.
 - Oh, yeah.
 
-506
-00:39:53,962 --> 00:39:55,850
+
+
 Do you-
 do you know him?
 
-507
-00:39:55,886 --> 00:39:57,685
+
+
 Yeah, he comes in here
 sometimes.
 
-508
-00:39:57,721 --> 00:39:59,723
+
+
 - Are you okay?
 - I'm good. How are you?
 
-509
-00:39:59,760 --> 00:40:01,689
+
+
 Yeah, I'm good.
 Listen, we have to talk.
 
-510
-00:40:01,725 --> 00:40:02,518
+
+
 <i>What's up?</i>
 
-511
-00:40:02,519 --> 00:40:04,895
+
+
 After I started using
 my powers to help people,
 
-512
-00:40:04,931 --> 00:40:06,861
+
+
 these two brothers
 in suits showed up.
 
-513
-00:40:06,897 --> 00:40:09,942
+
+
 And since I wouldn't join them,
 they're trying to destroy me.
 
-514
-00:40:09,978 --> 00:40:11,615
+
+
 - What?
 - Yeah.
 
-515
-00:40:11,652 --> 00:40:14,238
+
+
 And I think they might have
 some control over the news media
 
-516
-00:40:14,274 --> 00:40:16,203
+
+
 and maybe
 even the police.
 
-517
-00:40:16,240 --> 00:40:18,455
+
+
 Yeah, because when I
 came back from the future,
 
-518
-00:40:18,492 --> 00:40:22,496
+
+
 they managed to frame me for
 crimes that I didn't commit.
 
-519
-00:40:24,456 --> 00:40:26,875
+
+
 You're serious about this,
 aren't you?
 
-520
-00:40:26,912 --> 00:40:29,169
+
+
 Of course.
 
-521
-00:40:30,796 --> 00:40:33,220
+
+
 Uh- uh, I'm sorry.
 
-522
-00:40:33,257 --> 00:40:36,635
+
+
 <i>Um, I'm sorry, everybody, but
 we're closing up early today.</i>
 
-523
-00:40:36,672 --> 00:40:38,637
+
+
 <i>You gotta go.
 I'm sorry.</i>
 
-524
-00:40:39,638 --> 00:40:42,182
+
+
 But I want to buy this.
 
-525
-00:40:42,224 --> 00:40:45,185
+
+
 Flamethrower defeats the eye
 in a prolonged and bloody battle
 
-526
-00:40:45,227 --> 00:40:47,276
+
+
 wherein we learn that
 the woolian's death
 
-527
-00:40:47,312 --> 00:40:49,356
+
+
 was a complex Morovian
 subterfuge, okay, buddy?
 
-528
-00:40:49,398 --> 00:40:52,901
+
+
 - Get the fuck out.
 - Sorry, man. Come back tomorrow.
 
-529
-00:40:52,938 --> 00:40:54,325
+
+
 <i>- Listen, Les...
 - Les?</i>
 
-530
-00:40:54,361 --> 00:40:57,364
+
+
 Hey, no no no.
 You could shut those, Everett.
 
-531
-00:40:57,401 --> 00:40:59,241
+
+
 Shut that.
 
-532
-00:41:03,078 --> 00:41:05,544
+
+
 <i>- Yeah.
 - Les? Les, Les,</i>
 
-533
-00:41:05,581 --> 00:41:07,958
+
+
 - The thing is, man-
 - You don't have super-powers.
 
-534
-00:41:07,994 --> 00:41:10,466
+
+
 No no.
 What do you mean?
 
-535
-00:41:10,502 --> 00:41:13,130
+
+
 We just thought you were
 screwing around with us, you know?
 
-536
-00:41:13,166 --> 00:41:15,254
+
+
 But you saw the thing
 with the wall- you saw that.
 
-537
-00:41:15,290 --> 00:41:17,342
+
+
 - You mean you running into it?
 - You mean through it.
 
-538
-00:41:17,379 --> 00:41:19,219
+
+
 - I mean into it.
 - You mean through it!
 
-539
-00:41:19,256 --> 00:41:22,598
+
+
 Les, we were just
 really high.
 
-540
-00:41:22,634 --> 00:41:24,480
+
+
 Jesus, Les,
 
-541
-00:41:24,516 --> 00:41:26,602
+
+
 What happened
 to you, man?
 
-542
-00:41:35,736 --> 00:41:38,994
+
+
 Okay, you guys.
 Okay, you got me.
 
-543
-00:41:39,031 --> 00:41:41,455
+
+
 But this is no time
 for fooling around.
 
-544
-00:41:41,492 --> 00:41:43,952
+
+
 You know, we have to figure
 out what to do about the suits.
 
-545
-00:41:43,989 --> 00:41:45,805
+
+
 There are no suits, Les.
 There's no suits,
 
-546
-00:41:45,842 --> 00:41:47,586
+
+
 - there's no super-powers-
 - And Les,
 
-547
-00:41:47,623 --> 00:41:49,755
+
+
 Les, you know you're our bro
 no matter what, man, but-
 
-548
-00:41:49,791 --> 00:41:52,586
+
+
 You're losing your mind, man.
 You're losing your fucking mind.
 
-549
-00:41:52,622 --> 00:41:54,710
+
+
 Really?
 If I don't have powers,
 
-550
-00:41:54,746 --> 00:41:56,798
+
+
 then how do you
 explain this?
 
-551
-00:41:58,175 --> 00:41:59,760
+
+
 Explain what?
 
-552
-00:41:59,796 --> 00:42:01,762
+
+
 This.
 
-553
-00:42:03,680 --> 00:42:05,479
+
+
 You can't see this, Joey?
 
-554
-00:42:05,516 --> 00:42:07,601
+
+
 You're just reaching
 your arms out.
 
-555
-00:42:07,637 --> 00:42:09,186
+
+
 You honestly
 can't see this?
 
-556
-00:42:10,812 --> 00:42:12,481
+
+
 I don't know what
 I'm supposed to see-
 
-557
-00:42:12,517 --> 00:42:13,946
+
+
 - Joey!
 - Les,
 
-558
-00:42:13,982 --> 00:42:16,276
+
+
 I don't know what
 I'm supposed to see.
 
-559
-00:42:16,313 --> 00:42:18,575
+
+
 Everett?
 
-560
-00:42:18,612 --> 00:42:21,073
+
+
 Les, man,
 I can do it too.
 
-561
-00:42:24,743 --> 00:42:26,370
+
+
 Okay.
 
-562
-00:42:39,925 --> 00:42:41,557
+
+
 They must have-
 
-563
-00:42:41,593 --> 00:42:43,554
+
+
 They must have
 already got to you.
 
-564
-00:42:43,590 --> 00:42:45,847
+
+
 Who got to us, Les?
 
-565
-00:42:45,884 --> 00:42:47,229
+
+
 The suits!
 
-566
-00:42:47,266 --> 00:42:50,232
+
+
 The suits- they know
 that you're my friends,
 
-567
-00:42:50,269 --> 00:42:53,605
+
+
 so they must have put you
 in some sort of mind shield
 
-568
-00:42:53,642 --> 00:42:56,275
+
+
 so that you can't
 see my powers.
 
-569
-00:42:56,311 --> 00:42:59,616
+
+
 Mmm.
 It's genius.
 
-570
-00:42:59,653 --> 00:43:01,905
+
+
 No no no, Les, Les,
 it's totally-
 
-571
-00:43:01,942 --> 00:43:04,163
+
+
 Crazy! Crazy, right?
 
-572
-00:43:04,199 --> 00:43:07,619
+
+
 They want me to think
 that I'm going crazy.
 
-573
-00:43:07,656 --> 00:43:09,251
+
+
 Les-
 
-574
-00:43:09,288 --> 00:43:10,706
+
+
 That's how they
 like it.
 
-575
-00:43:10,742 --> 00:43:13,172
+
+
 Les, Les...
 
-576
-00:43:13,208 --> 00:43:16,420
+
+
 I think we might need to
 get you some medical attention.
 
-577
-00:43:16,456 --> 00:43:19,673
+
+
 Is there a doctor or someone
 we could take you to?
 
-578
-00:43:23,844 --> 00:43:25,554
+
+
 That's a good idea.
 
-579
-00:43:50,662 --> 00:43:52,664
+
+
 Do you really think
 he's taking-
 
-580
-00:43:52,701 --> 00:43:54,666
+
+
 taking us to
 a real doctor...
 
-581
-00:43:54,703 --> 00:43:56,793
+
+
 Or just an imaginary one?
 
-582
-00:44:00,631 --> 00:44:02,262
+
+
 Don't worry.
 
-583
-00:44:02,299 --> 00:44:04,718
+
+
 Dr. Dobson will
 explain everything.
 
-584
-00:44:08,680 --> 00:44:11,308
+
+
 Stop the car!
 
-585
-00:44:12,184 --> 00:44:15,562
+
+
 - What the hell?
 - Where'd he go?
 
-586
-00:44:17,105 --> 00:44:19,608
+
+
 There he is.
 
-587
-00:44:20,525 --> 00:44:22,241
+
+
 Les!
 
-588
-00:44:22,277 --> 00:44:24,780
+
+
 What are you doing, man?
 Get down from there.
 
-589
-00:44:24,816 --> 00:44:27,282
+
+
 Somebody stole my purse!
 He stole my purse.
 
-590
-00:44:27,319 --> 00:44:29,284
+
+
 - Don't worry, ma'am.
 - No!
 
-591
-00:44:35,624 --> 00:44:37,396
+
+
 I've got it.
 
-592
-00:44:37,433 --> 00:44:39,169
+
+
 Thank you.
 
-593
-00:44:40,670 --> 00:44:42,427
+
+
 Ma'am,
 in the future,
 
-594
-00:44:42,464 --> 00:44:44,758
+
+
 please be careful walking
 around this neighborhood
 
-595
-00:44:44,800 --> 00:44:46,531
+
+
 after dark.
 
-596
-00:44:46,567 --> 00:44:48,261
+
+
 I will.
 
-597
-00:44:54,768 --> 00:44:56,853
+
+
 It's like a move
 straight out of "Urban War. "
 
-598
-00:44:56,890 --> 00:44:58,456
+
+
 You just- booyah!
 
-599
-00:44:58,492 --> 00:44:59,987
+
+
 Quit encouraging him.
 
-600
-00:45:00,023 --> 00:45:02,489
+
+
 You could have seriously
 messed yourself up, dude.
 
-601
-00:45:02,526 --> 00:45:05,362
+
+
 Why is it so hard for you to
 believe that I have special powers?
 
-602
-00:45:05,398 --> 00:45:08,365
+
+
 Special powers?
 Are you listening to yourself?
 
-603
-00:45:08,401 --> 00:45:10,247
+
+
 People don't have
 special powers.
 
-604
-00:45:10,283 --> 00:45:12,332
+
+
 - I believe you, Les.
 - No, you don't.
 
-605
-00:45:12,369 --> 00:45:14,705
+
+
 Yes, I do. How else could
 he have done what he did?
 
-606
-00:45:14,741 --> 00:45:16,503
+
+
 - It was awesome.
 - It was stupid.
 
-607
-00:45:16,540 --> 00:45:18,875
+
+
 You wouldn't recognize a miracle
 if it bit you in your ass.
 
-608
-00:45:18,912 --> 00:45:21,145
+
+
 - A miracle?
 - Yes, a miracle.
 
-609
-00:45:21,182 --> 00:45:23,343
+
+
 Miracles don't exist,
 Joey.
 
-610
-00:45:23,380 --> 00:45:27,384
+
+
 You have become such a
 downer lately, you know that?
 
-611
-00:45:27,420 --> 00:45:29,308
+
+
 Look, Les,
 
-612
-00:45:29,344 --> 00:45:33,056
+
+
 You're part of a very small
 group of people on this earth
 
-613
-00:45:33,093 --> 00:45:35,159
+
+
 I actually give
 a shit about, okay?
 
-614
-00:45:35,196 --> 00:45:37,463
+
+
 Not because you got
 special powers,
 
-615
-00:45:37,499 --> 00:45:39,693
+
+
 but because- well,
 because you're you.
 
-616
-00:45:39,730 --> 00:45:42,732
+
+
 So I just can't fucking handle you
 trying to kill yourself right now, okay?
 
-617
-00:45:42,769 --> 00:45:44,648
+
+
 Can you understand that?
 
-618
-00:45:44,684 --> 00:45:46,491
+
+
 Yes, I can, Everett.
 
-619
-00:45:46,528 --> 00:45:49,322
+
+
 You can doubt my powers
 all you want,
 
-620
-00:45:49,359 --> 00:45:52,117
+
+
 but you're about
 to discover the truth.
 
-621
-00:46:02,753 --> 00:46:05,005
+
+
 Dr. Dobson?
 
-622
-00:46:05,881 --> 00:46:07,429
+
+
 Can I help you?
 
-623
-00:46:07,466 --> 00:46:10,406
+
+
 It's okay.
 We can trust them.
 
-624
-00:46:10,442 --> 00:46:13,346
+
+
 Is this man
 a friend of yours?
 
-625
-00:46:15,015 --> 00:46:17,356
+
+
 You're not his doctor?
 
-626
-00:46:17,392 --> 00:46:19,269
+
+
 <i>For some
 inexplicable reason,</i>
 
-627
-00:46:19,305 --> 00:46:21,151
+
+
 he seems to be
 under that impression.
 
-628
-00:46:21,188 --> 00:46:24,149
+
+
 <i>He came around the other day
 claiming to be part</i>
 
-629
-00:46:24,185 --> 00:46:25,864
+
+
 of a medical study
 we're conducting.
 
-630
-00:46:25,901 --> 00:46:28,090
+
+
 No no, we don't have time
 for all this secrecy.
 
-631
-00:46:28,127 --> 00:46:30,350
+
+
 Okay? The suits, they already
 know about my powers
 
-632
-00:46:30,386 --> 00:46:32,574
+
+
 and they somehow-
 they brainwashed my friends.
 
-633
-00:46:34,451 --> 00:46:37,793
+
+
 Okay? You have to
 tell them everything.
 
-634
-00:46:37,829 --> 00:46:40,832
+
+
 I'm sorry, young man, but if
 you come around here again,
 
-635
-00:46:40,869 --> 00:46:42,769
+
+
 I'll be forced
 to call security.
 
-636
-00:46:42,805 --> 00:46:44,669
+
+
 That won't be
 necessary, sir.
 
-637
-00:46:44,706 --> 00:46:46,376
+
+
 No, it's okay.
 
-638
-00:46:46,413 --> 00:46:48,011
+
+
 We have to go.
 
-639
-00:46:48,048 --> 00:46:50,842
+
+
 No! You have to warn them.
 You have to tell them-
 
-640
-00:46:50,879 --> 00:46:53,141
+
+
 you have to tell them
 about the suits.
 
-641
-00:46:53,178 --> 00:46:56,890
+
+
 Okay? They're after me. They could be
 after all of us. These are my friends.
 
-642
-00:46:56,932 --> 00:47:00,185
+
+
 I don't have any idea what
 you're talking about, young man.
 
-643
-00:47:00,221 --> 00:47:02,192
+
+
 - The suits!
 - Don't worry about the suits, Les.
 
-644
-00:47:02,229 --> 00:47:04,481
+
+
 - It's gonna be okay. Let's go.
 - You don't understand!
 
-645
-00:47:04,517 --> 00:47:07,150
+
+
 Okay, they're very-
 they're very powerful.
 
-646
-00:47:07,187 --> 00:47:09,319
+
+
 They're very-
 they're scary people.
 
-647
-00:47:09,355 --> 00:47:11,451
+
+
 That's why he's
 packing up.
 
-648
-00:47:11,488 --> 00:47:14,324
+
+
 Okay? That's why
 he's scared, because-
 
-649
-00:47:14,360 --> 00:47:16,368
+
+
 see, he's running away,
 you see?
 
-650
-00:47:16,404 --> 00:47:18,500
+
+
 <i>He's running away.</i>
 
-651
-00:47:18,537 --> 00:47:22,170
+
+
 I suspect your friend has ingested
 some relatively harmless narcotic.
 
-652
-00:47:22,207 --> 00:47:26,127
+
+
 Have him drink this. It'll help clean
 any residual chemicals in his system
 
-653
-00:47:26,164 --> 00:47:27,843
+
+
 before it's absorbed
 in his bloodstream.
 
-654
-00:47:27,879 --> 00:47:30,090
+
+
 Wait about six hours or so.
 If he doesn't seem any better,
 
-655
-00:47:30,126 --> 00:47:32,133
+
+
 take him to
 the Emergency Room. Okay?
 
-656
-00:47:32,170 --> 00:47:33,682
+
+
 Okay.
 
-657
-00:47:33,718 --> 00:47:35,720
+
+
 - Ahh!
 - No no no no no.
 
-658
-00:47:35,757 --> 00:47:37,949
+
+
 <i>Hee! Huh?</i>
 
-659
-00:47:37,985 --> 00:47:40,127
+
+
 What is this?
 
-660
-00:47:40,163 --> 00:47:42,232
+
+
 The antidote?
 
-661
-00:47:42,269 --> 00:47:45,110
+
+
 This is the antidote,
 isn't it?
 
-662
-00:47:45,146 --> 00:47:47,946
+
+
 Drinking this will
 take away my powers?
 
-663
-00:47:47,983 --> 00:47:51,116
+
+
 No no, it's gonna
 strengthen your powers, Les.
 
-664
-00:47:51,152 --> 00:47:53,822
+
+
 Les, if you drink that, man,
 it's gonna strengthen your powers.
 
-665
-00:47:53,858 --> 00:47:56,621
+
+
 Yeah yeah yeah.
 Les Les, please. Please.
 
-666
-00:47:56,658 --> 00:47:59,035
+
+
 - Just take it. It's not a big deal.
 - You think I'm stupid?
 
-667
-00:47:59,077 --> 00:48:01,162
+
+
 - No, Les-
 - You think I don't know what's going on?
 
-668
-00:48:01,199 --> 00:48:03,003
+
+
 No, I know that
 you know what's-
 
-669
-00:48:03,039 --> 00:48:05,083
+
+
 - You don't know what's going on.
 - We have to go, Les.
 
-670
-00:48:05,120 --> 00:48:06,915
+
+
 You're the one who doesn't
 know what's going on.
 
-671
-00:48:06,952 --> 00:48:08,712
+
+
 - No, I do know-
 - You don't know what's going on.
 
-672
-00:48:08,753 --> 00:48:11,965
+
+
 Okay? You're the one
 who doesn't have a clue.
 
-673
-00:48:12,007 --> 00:48:14,806
+
+
 I have a clue.
 Not you, me.
 
-674
-00:48:14,843 --> 00:48:17,262
+
+
 Come on, man, let him go.
 You're scaring the shit out of him.
 
-675
-00:48:17,298 --> 00:48:19,598
+
+
 Sorry, Les.
 
-676
-00:48:21,933 --> 00:48:23,810
+
+
 Haa!
 
-677
-00:48:56,051 --> 00:48:58,887
+
+
 "I saw a piece of shit on
 the sidewalk the other day-
 
-678
-00:48:58,923 --> 00:49:02,521
+
+
 not dog-shit,
 but from a person
 
-679
-00:49:02,557 --> 00:49:04,272
+
+
 <i>and it made me
 feel so hopeless,</i>
 
-680
-00:49:04,309 --> 00:49:07,729
+
+
 not just for whoever went there,
 but for every person on the planet,
 
-681
-00:49:07,765 --> 00:49:09,981
+
+
 if you know what I mean. "
 
-682
-00:49:12,901 --> 00:49:15,737
+
+
 I told you he was a basketcase
 before he ever came to us.
 
-683
-00:49:15,773 --> 00:49:17,702
+
+
 <i>Put that down,
 please.</i>
 
-684
-00:49:17,739 --> 00:49:19,574
+
+
 <i>Help me look
 for the pills.</i>
 
-685
-00:49:19,611 --> 00:49:21,373
+
+
 <i>Forget
 about the pills.</i>
 
-686
-00:49:21,409 --> 00:49:23,662
+
+
 <i>What do you mean,
 forget about the pills?</i>
 
-687
-00:49:23,698 --> 00:49:25,747
+
+
 I say we wait for him
 to come home,
 
-688
-00:49:25,783 --> 00:49:28,541
+
+
 we knock the fucker out...
 
-689
-00:49:30,335 --> 00:49:32,462
+
+
 tie him up for
 a few days
 
-690
-00:49:32,504 --> 00:49:34,631
+
+
 <i>and wait for
 his powers to go away.</i>
 
-691
-00:49:34,673 --> 00:49:36,487
+
+
 <i>What do you say?</i>
 
-692
-00:49:36,523 --> 00:49:38,301
+
+
 You can't be serious.
 
-693
-00:49:38,338 --> 00:49:39,766
+
+
 Why not?
 
-694
-00:49:39,803 --> 00:49:43,223
+
+
 We're not dealing with the
 kind of people we're used to.
 
-695
-00:49:43,259 --> 00:49:46,643
+
+
 This kind of guy could disappear
 off the face of the earth
 
-696
-00:49:46,679 --> 00:49:48,746
+
+
 for a few days,
 
-697
-00:49:48,782 --> 00:49:50,814
+
+
 Nobody would care.
 
-698
-00:49:53,483 --> 00:49:55,568
+
+
 <i>Nobody would
 even notice.</i>
 
-699
-00:49:59,155 --> 00:50:01,825
+
+
 No no no no no,
 I am out.
 
-700
-00:50:01,861 --> 00:50:03,957
+
+
 I don't care anymore.
 
-701
-00:50:03,994 --> 00:50:06,663
+
+
 This kid's gonna get hurt
 running around in that state.
 
-702
-00:50:06,699 --> 00:50:08,753
+
+
 So what if
 we lose everything?
 
-703
-00:50:08,790 --> 00:50:11,501
+
+
 At least I can get back to
 getting some sleep at night.
 
-704
-00:50:11,537 --> 00:50:13,717
+
+
 Well, excuse me
 for not giving a crap,
 
-705
-00:50:13,753 --> 00:50:16,423
+
+
 but I can't seem to muster up
 any sympathy for you right now.
 
-706
-00:50:22,262 --> 00:50:23,888
+
+
 Ahh!
 
-707
-00:50:25,974 --> 00:50:28,184
+
+
 Remember me now,
 Dobson?
 
-708
-00:50:34,149 --> 00:50:35,442
+
+
 Leave 'em off.
 
-709
-00:50:35,483 --> 00:50:37,444
+
+
 I said off!
 
-710
-00:50:41,489 --> 00:50:44,284
+
+
 You didn't really think you could
 get away this easily, did you?
 
-711
-00:50:44,325 --> 00:50:46,374
+
+
 Huh?
 
-712
-00:50:46,411 --> 00:50:48,705
+
+
 Okay, turn on
 the lights.
 
-713
-00:50:48,741 --> 00:50:50,999
+
+
 <i>Not the overhead one!</i>
 
-714
-00:50:52,250 --> 00:50:53,626
+
+
 This one.
 
-715
-00:50:56,880 --> 00:50:58,678
+
+
 Don't try anything funny.
 
-716
-00:50:58,715 --> 00:51:01,556
+
+
 You understand me?
 Don't do it.
 
-717
-00:51:01,593 --> 00:51:04,596
+
+
 You're not gonna find
 your file there.
 
-718
-00:51:04,632 --> 00:51:06,061
+
+
 I don't believe you
 anymore.
 
-719
-00:51:06,097 --> 00:51:08,308
+
+
 I don't believe anything you say.
 You're a liar.
 
-720
-00:51:08,344 --> 00:51:10,101
+
+
 They made me shred it.
 
-721
-00:51:10,138 --> 00:51:11,399
+
+
 Yeah, right.
 
-722
-00:51:11,436 --> 00:51:13,938
+
+
 Listen, Les, I'm very
 sorry for everything-
 
-723
-00:51:13,939 --> 00:51:14,272
+
+
 Ha!
 
-724
-00:51:14,309 --> 00:51:17,567
+
+
 Ha! Ha!
 So you admit knowing me?
 
-725
-00:51:17,603 --> 00:51:18,949
+
+
 Of course I know you.
 
-726
-00:51:18,985 --> 00:51:21,863
+
+
 You're working for
 the suits, aren't you?
 
-727
-00:51:21,899 --> 00:51:24,032
+
+
 Maybe you should
 take a seat.
 
-728
-00:51:30,830 --> 00:51:33,958
+
+
 No, I'm fine standing.
 
-729
-00:51:33,995 --> 00:51:35,770
+
+
 Can I sit down?
 
-730
-00:51:35,806 --> 00:51:39,464
+
+
 You sit down.
 
-731
-00:51:44,469 --> 00:51:47,806
+
+
 You have to understand
 how much time and energy
 
-732
-00:51:47,842 --> 00:51:50,475
+
+
 I put into developing
 this medication.
 
-733
-00:51:50,511 --> 00:51:53,224
+
+
 It became my whole life.
 
-734
-00:51:53,261 --> 00:51:55,939
+
+
 - When?
 - Pardon me?
 
-735
-00:51:57,315 --> 00:51:59,239
+
+
 When did you turn on me?
 
-736
-00:51:59,275 --> 00:52:03,410
+
+
 We tested Specioprin
 on thousands of subjects,
 
-737
-00:52:03,446 --> 00:52:06,991
+
+
 but you were the first and only one
 to have an adverse reaction like this.
 
-738
-00:52:07,028 --> 00:52:09,541
+
+
 No, but this is not
 an adverse reaction.
 
-739
-00:52:09,577 --> 00:52:11,913
+
+
 You wanted me to feel better.
 You told me that.
 
-740
-00:52:11,949 --> 00:52:14,129
+
+
 - You wanted this to happen.
 - No.
 
-741
-00:52:14,165 --> 00:52:18,378
+
+
 A few weeks ago, we got an offer-
 that's what I wanted to happen.
 
-742
-00:52:18,419 --> 00:52:20,672
+
+
 What do you mean, offer?
 
-743
-00:52:20,708 --> 00:52:22,470
+
+
 To buy us out-
 
-744
-00:52:22,507 --> 00:52:24,806
+
+
 The drug,
 all our research,
 
-745
-00:52:24,843 --> 00:52:27,178
+
+
 the whole operation was
 going to be absorbed
 
-746
-00:52:27,215 --> 00:52:30,145
+
+
 by a sizeable corporation.
 That's-
 
-747
-00:52:30,181 --> 00:52:34,498
+
+
 - that's what we worked all this time for.
 
-748
-00:52:34,535 --> 00:52:38,815
+
+
 We were afraid that your
 results would scare them off.
 
-749
-00:52:43,611 --> 00:52:45,702
+
+
 So this is-
 
-750
-00:52:45,738 --> 00:52:48,246
+
+
 This is about money?
 
-751
-00:52:48,283 --> 00:52:50,931
+
+
 We've done a terrible
 injustice to you, Les,
 
-752
-00:52:50,968 --> 00:52:53,580
+
+
 And there's nothing
 I can do about it now.
 
-753
-00:52:53,616 --> 00:52:56,421
+
+
 But I've told
 my partners I'm out.
 
-754
-00:52:56,457 --> 00:52:59,460
+
+
 And I'll confirm your story
 should you decide to
 
-755
-00:52:59,497 --> 00:53:02,260
+
+
 take legal action.
 And if you ask me,
 
-756
-00:53:02,297 --> 00:53:04,716
+
+
 you'll have a very strong
 case against all of us.
 
-757
-00:53:04,752 --> 00:53:08,183
+
+
 But, Les,
 it's very important
 
-758
-00:53:08,219 --> 00:53:10,805
+
+
 that we get the medication
 out of your system.
 
-759
-00:53:10,842 --> 00:53:12,604
+
+
 <i>- No. Never.
 - Yes.</i>
 
-760
-00:53:12,640 --> 00:53:15,059
+
+
 I'll never let you
 take my powers away.
 
-761
-00:53:15,096 --> 00:53:17,651
+
+
 Give me the pills, Les.
 Les!
 
-762
-00:53:17,687 --> 00:53:21,274
+
+
 No no! Come on, spit 'em out.
 Spit 'em out, Les.
 
-763
-00:53:21,310 --> 00:53:23,651
+
+
 Spit 'em out.
 Come on, spit 'em out.
 
-764
-00:53:23,688 --> 00:53:25,612
+
+
 Les!
 
-765
-00:53:26,738 --> 00:53:28,536
+
+
 You can never take
 my powers away-
 
-766
-00:53:28,573 --> 00:53:32,368
+
+
 You can never- you can never turn
 me back into the person I used to be.
 
-767
-00:53:32,405 --> 00:53:34,704
+
+
 Nobody can!
 Nobody can.
 
-768
-00:53:51,012 --> 00:53:54,349
+
+
 So, nice to
 see you again.
 
-769
-00:53:56,392 --> 00:53:58,316
+
+
 You don't scare me
 anymore.
 
-770
-00:53:58,353 --> 00:54:01,689
+
+
 Good. Then why don't you get
 in and we can have a nice talk?
 
-771
-00:54:01,726 --> 00:54:04,864
+
+
 You can't stop me now.
 I'm too powerful.
 
-772
-00:54:04,901 --> 00:54:07,570
+
+
 I'm not the kind of man
 who takes kindly to threats-
 
-773
-00:54:07,607 --> 00:54:10,073
+
+
 I know exactly
 what kind of man you are.
 
-774
-00:54:11,449 --> 00:54:15,828
+
+
 I've been dealing with guys
 like you my whole life.
 
-775
-00:54:19,374 --> 00:54:21,668
+
+
 You think you're
 so much more important
 
-776
-00:54:21,709 --> 00:54:23,461
+
+
 than everyone else,
 
-777
-00:54:25,088 --> 00:54:28,841
+
+
 that you can do whatever
 you want to whoever you want.
 
-778
-00:54:28,878 --> 00:54:32,011
+
+
 Who do you think would care
 if you disappeared?
 
-779
-00:54:34,347 --> 00:54:36,703
+
+
 Who would care
 about that, huh?
 
-780
-00:54:36,740 --> 00:54:39,023
+
+
 Who would care about
 that, huh?
 
-781
-00:54:39,060 --> 00:54:42,063
+
+
 Do you think that anyone
 would actually care
 
-782
-00:54:42,099 --> 00:54:44,232
+
+
 if you disappeared?
 
-783
-00:54:44,268 --> 00:54:45,858
+
+
 Pardon me?
 
-784
-00:54:56,160 --> 00:54:58,538
+
+
 What the hell
 is he doing now?
 
-785
-00:55:06,337 --> 00:55:09,679
+
+
 This is no time
 for Tai Chi, Les.
 
-786
-00:55:09,716 --> 00:55:13,261
+
+
 We're willing to negotiate
 a very fair deal with you.
 
-787
-00:55:27,692 --> 00:55:29,944
+
+
 Try to make me disappear?
 
-788
-00:55:31,612 --> 00:55:33,781
+
+
 I'll make you disappear.
 
-789
-00:55:33,818 --> 00:55:35,867
+
+
 Huh?
 
-790
-00:56:18,242 --> 00:56:19,869
+
+
 Ohh!
 
-791
-00:56:21,871 --> 00:56:25,500
+
+
 <i>You have no idea what
 kind of man I am, motherfucker.</i>
 
-792
-00:56:31,589 --> 00:56:33,633
+
+
 Dahh!
 
-793
-00:56:39,597 --> 00:56:41,641
+
+
 Ahh!
 
-794
-00:56:41,677 --> 00:56:42,850
+
+
 Ooh!
 
-795
-00:56:52,735 --> 00:56:55,863
+
+
 <i>You think Dobson
 could protect you,</i>
 
-796
-00:56:55,900 --> 00:56:58,991
+
+
 <i>him and his sudden
 burst of conscience?</i>
 
-797
-00:57:14,674 --> 00:57:16,556
+
+
 <i>Take it easy, Jonas.</i>
 
-798
-00:57:16,592 --> 00:57:18,678
+
+
 <i>You don't want to
 kill the guy.</i>
 
-799
-00:57:18,714 --> 00:57:21,097
+
+
 <i>Why not? You heard him.</i>
 
-800
-00:57:21,133 --> 00:57:22,687
+
+
 <i>He's too powerful!</i>
 
-801
-00:57:22,723 --> 00:57:24,892
+
+
 <i>He thinks he can make it
 all disappear.</i>
 
-802
-00:57:24,929 --> 00:57:26,524
+
+
 <i>He thinks he can sue us.</i>
 
-803
-00:57:26,561 --> 00:57:28,646
+
+
 <i>He thinks he can
 make it all disappear,</i>
 
-804
-00:57:28,683 --> 00:57:30,361
+
+
 <i>everything we've
 worked for!</i>
 
-805
-00:57:30,398 --> 00:57:32,796
+
+
 <i>He thinks he can
 make it all disappear!</i>
 
-806
-00:57:32,833 --> 00:57:35,194
+
+
 <i>You want to
 let that happen, Theodore?</i>
 
-807
-00:57:35,231 --> 00:57:38,578
+
+
 <i>Everything we've
 worked for-</i>
 
-808
-00:57:38,614 --> 00:57:41,701
+
+
 <i>you want to have it ruined
 by some maggot like this guy?</i>
 
-809
-00:57:41,737 --> 00:57:43,619
+
+
 <i>Some nobody!</i>
 
-810
-00:57:43,656 --> 00:57:45,288
+
+
 <i>Stop it, Jonas!</i>
 
-811
-00:57:48,666 --> 00:57:51,711
+
+
 <i>You're a worthless piece of shit!</i>
 
-812
-00:57:51,752 --> 00:57:54,046
+
+
 <i>- Say it!
 - Ooh!</i>
 
-813
-00:57:54,088 --> 00:57:56,007
+
+
 <i>You're a nobody!</i>
 
-814
-00:57:56,043 --> 00:57:57,805
+
+
 I'm a worthless-
 
-815
-00:57:57,842 --> 00:57:59,886
+
+
 <i>You're a nobody!</i>
 
-816
-00:57:59,927 --> 00:58:03,055
+
+
 Oh! Ooh!
 I'm a nobody.
 
-817
-00:58:03,097 --> 00:58:05,224
+
+
 <i>You're nothing!</i>
 
-818
-00:58:05,261 --> 00:58:06,684
+
+
 Oh!
 
-819
-00:58:12,398 --> 00:58:14,525
+
+
 <i>You're nothing!</i>
 
-820
-00:58:14,562 --> 00:58:16,652
+
+
 I'm nothing.
 I'm nothing.
 
-821
-00:58:18,487 --> 00:58:21,157
+
+
 <i>You're a worthless
 piece of shit.</i>
 
-822
-00:58:21,193 --> 00:58:23,159
+
+
 Oh!
 
-823
-00:58:23,195 --> 00:58:25,137
+
+
 I'm a worthless
 
-824
-00:58:25,173 --> 00:58:27,079
+
+
 piece of shit.
 
-825
-00:58:31,792 --> 00:58:34,274
+
+
 Oh!
 
-826
-00:58:34,311 --> 00:58:36,756
+
+
 I'm a worthless
 piece of shit.
 
-827
-00:58:39,675 --> 00:58:41,594
+
+
 Oooh!
 
-828
-00:58:42,887 --> 00:58:45,973
+
+
 Stop it. Ow.
 
-829
-00:58:52,980 --> 00:58:54,612
+
+
 <i>I swear,</i>
 
-830
-00:58:54,649 --> 00:58:56,525
+
+
 <i>if I ever see you again,</i>
 
-831
-00:58:56,567 --> 00:58:59,487
+
+
 <i>if I ever hear from
 you again, you're a dead man.</i>
 
-832
-00:59:00,905 --> 00:59:03,241
+
+
 <i>A fucking dead man.</i>
 
-833
-00:59:10,665 --> 00:59:12,755
+
+
 Fuck you.
 
-834
-00:59:12,792 --> 00:59:14,424
+
+
 <i>You see?</i>
 
-835
-00:59:14,460 --> 00:59:17,505
+
+
 <i>You can't reason
 with this maggot.</i>
 
-836
-00:59:17,541 --> 00:59:19,470
+
+
 <i>Put it down, Les.</i>
 
-837
-00:59:19,507 --> 00:59:22,260
+
+
 <i>- You're gonna get hurt.
 - Nooo!</i>
 
-838
-00:59:22,296 --> 00:59:25,852
+
+
 No no!
 
-839
-00:59:25,888 --> 00:59:28,266
+
+
 No!
 
-840
-01:00:08,598 --> 01:00:10,730
+
+
 <i>Most people never stopto think</i>
 
-841
-01:00:10,766 --> 01:00:13,352
+
+
 <i>about the problems associated
 with being a superhero.</i>
 
-842
-01:00:13,394 --> 01:00:15,651
+
+
 <i>Instead they tend to
 focus on</i>
 
-843
-01:00:15,688 --> 01:00:18,274
+
+
 <i>the more glamorous aspects
 of our lives.</i>
 
-844
-01:00:18,310 --> 01:00:20,740
+
+
 <i>They focus on
 the powers we have,</i>
 
-845
-01:00:20,776 --> 01:00:23,195
+
+
 <i>the things we can do
 that no one else can.</i>
 
-846
-01:00:25,031 --> 01:00:26,913
+
+
 <i>But the unfortunate
 truth is that,</i>
 
-847
-01:00:26,949 --> 01:00:30,369
+
+
 <i>while being different from
 everyone can be exciting at first,</i>
 
-848
-01:00:30,406 --> 01:00:33,914
+
+
 <i>Ultimately it can
 get a little lonely.</i>
 
-849
-01:00:49,639 --> 01:00:51,057
+
+
 I'm sorry.
 
-850
-01:00:52,641 --> 01:00:56,771
+
+
 I just- I don't know
 who to trust anymore.
 
-851
-01:00:56,807 --> 01:00:58,397
+
+
 <i>I don't-</i>
 
-852
-01:01:06,238 --> 01:01:08,658
+
+
 They couldn't have
 gotten to you.
 
-853
-01:01:08,694 --> 01:01:11,077
+
+
 They don't even know
 I know you.
 
-854
-01:01:11,113 --> 01:01:13,496
+
+
 I don't even know you.
 
-855
-01:01:19,085 --> 01:01:21,087
+
+
 What happ-
 
-856
-01:01:22,755 --> 01:01:25,800
+
+
 happ- happened-
 
-857
-01:01:25,836 --> 01:01:28,844
+
+
 to- to- to-
 
-858
-01:01:31,430 --> 01:01:33,729
+
+
 Shit.
 
-859
-01:01:33,766 --> 01:01:36,435
+
+
 I'm sorry.
 I sound-
 
-860
-01:01:36,472 --> 01:01:40,278
+
+
 s- s- stupid.
 
-861
-01:01:40,314 --> 01:01:42,900
+
+
 I like the way
 you sound.
 
-862
-01:01:44,652 --> 01:01:47,405
+
+
 I do.
 
-863
-01:01:48,781 --> 01:01:51,659
+
+
 Are you on drugs?
 
-864
-01:01:51,695 --> 01:01:53,762
+
+
 Yeah.
 
-865
-01:01:53,798 --> 01:01:56,128
+
+
 I am.
 
-866
-01:01:56,164 --> 01:01:58,421
+
+
 Oh.
 
-867
-01:01:58,457 --> 01:02:01,127
+
+
 What kind of drugs
 did you take?
 
-868
-01:02:01,163 --> 01:02:02,592
+
+
 Pills.
 
-869
-01:02:02,628 --> 01:02:06,590
+
+
 I took- I took
 all my pills.
 
-870
-01:02:06,627 --> 01:02:08,777
+
+
 You see?
 
-871
-01:02:08,813 --> 01:02:11,059
+
+
 Yeah.
 
-872
-01:02:11,096 --> 01:02:13,269
+
+
 Okay.
 
-873
-01:02:13,305 --> 01:02:16,392
+
+
 Uh, we really need to-
 
-874
-01:02:18,728 --> 01:02:21,814
+
+
 we really need to...
 
-875
-01:02:21,850 --> 01:02:24,900
+
+
 g- g-g-get you some help.
 
-876
-01:02:24,942 --> 01:02:28,112
+
+
 Tell me one thing,
 please.
 
-877
-01:02:28,148 --> 01:02:30,870
+
+
 What is it?
 
-878
-01:02:30,906 --> 01:02:33,242
+
+
 Does this place
 have a bathroom?
 
-879
-01:02:45,504 --> 01:02:48,632
+
+
 I thought- I thought
 I got rid of 'em all.
 
-880
-01:02:48,669 --> 01:02:50,640
+
+
 The pills?
 
-881
-01:02:50,676 --> 01:02:52,391
+
+
 Just-
 no, the suits.
 
-882
-01:02:52,428 --> 01:02:55,765
+
+
 The suits, they- they
 wouldn't leave me alone.
 
-883
-01:02:55,801 --> 01:02:57,868
+
+
 They wouldn't,
 
-884
-01:02:57,904 --> 01:02:59,935
+
+
 so I had to do it.
 
-885
-01:02:59,972 --> 01:03:02,188
+
+
 I did.
 
-886
-01:03:05,941 --> 01:03:09,361
+
+
 D- d-did you
 hurt someone?
 
-887
-01:03:09,403 --> 01:03:12,698
+
+
 <i>Because that doesn't sound
 like a very nice thing to do.</i>
 
-888
-01:03:12,735 --> 01:03:15,618
+
+
 - Ha-
 - What's wrong?
 
-889
-01:03:15,654 --> 01:03:17,250
+
+
 Nothing.
 
-890
-01:03:17,286 --> 01:03:20,289
+
+
 I think there's-
 there's a strong possibility
 
-891
-01:03:20,325 --> 01:03:22,684
+
+
 that I'm losing my mind.
 
-892
-01:03:22,721 --> 01:03:25,044
+
+
 I think
 I'm losing my mind.
 
-893
-01:03:26,128 --> 01:03:28,464
+
+
 <i>Come on, Les!</i>
 
-894
-01:03:28,500 --> 01:03:30,799
+
+
 <i>Can't you see me?</i>
 
-895
-01:03:30,841 --> 01:03:32,927
+
+
 <i>I'm standing right here.</i>
 
-896
-01:03:35,262 --> 01:03:36,972
+
+
 Aren't you gonna
 finish me off?
 
-897
-01:03:37,009 --> 01:03:40,184
+
+
 It- it's okay.
 
-898
-01:03:40,220 --> 01:03:42,692
+
+
 Shh.
 
-899
-01:03:42,728 --> 01:03:45,278
+
+
 Everything's gonna
 be okay.
 
-900
-01:03:45,314 --> 01:03:48,692
+
+
 Does this door lock
 from the outside?
 
-901
-01:03:48,729 --> 01:03:50,783
+
+
 Oh, I- I think so.
 
-902
-01:03:50,819 --> 01:03:53,995
+
+
 Can you- can you
 lock me in here?
 
-903
-01:03:54,031 --> 01:03:56,659
+
+
 That doesn't sound like
 a very good idea.
 
-904
-01:03:56,695 --> 01:03:58,845
+
+
 Please, I'm not safe
 to be around.
 
-905
-01:03:58,882 --> 01:04:00,996
+
+
 You have to let me
 take you to the-
 
-906
-01:04:02,665 --> 01:04:06,460
+
+
 ho- ho-
 
-907
-01:04:08,170 --> 01:04:10,172
+
+
 to the E.R.
 
-908
-01:04:10,209 --> 01:04:12,174
+
+
 Please.
 
-909
-01:04:13,425 --> 01:04:14,927
+
+
 Please.
 
-910
-01:04:16,220 --> 01:04:17,805
+
+
 Please.
 
-911
-01:04:19,431 --> 01:04:22,017
+
+
 You have to lock it
 from out there.
 
-912
-01:04:22,054 --> 01:04:24,436
+
+
 Uh, hold your horses.
 
-913
-01:04:39,785 --> 01:04:42,204
+
+
 That- that should get you
 through till morning.
 
-914
-01:04:47,251 --> 01:04:49,925
+
+
 Hey!
 
-915
-01:04:49,962 --> 01:04:52,965
+
+
 You really do have
 a beautiful voice.
 
-916
-01:04:58,304 --> 01:05:00,931
+
+
 G- g-good night, Les.
 
-917
-01:05:35,007 --> 01:05:36,967
+
+
 Goodbye, super-powers.
 
-918
-01:09:45,132 --> 01:09:47,676
+
+
 <i>I suppose this will be
 my last journal entry.</i>
 
-919
-01:09:47,712 --> 01:09:51,889
+
+
 <i>I'm not looking forward to
 returning to my old life.</i>
 
-920
-01:09:51,925 --> 01:09:54,576
+
+
 <i>But the truth is,
 with so many billions</i>
 
-921
-01:09:54,612 --> 01:09:57,191
+
+
 <i>and billions of people
 on the planet,</i>
 
-922
-01:09:57,227 --> 01:10:00,397
+
+
 <i>most of us can't be unique or
 important in any meaningful way.</i>
 
-923
-01:10:00,434 --> 01:10:03,734
+
+
 <i>We go to sleep,
 we wake up,</i>
 
-924
-01:10:03,770 --> 01:10:06,200
+
+
 <i>We go to work,
 we eat,</i>
 
-925
-01:10:06,236 --> 01:10:08,369
+
+
 <i>we spend time
 with friends,</i>
 
-926
-01:10:08,405 --> 01:10:11,825
+
+
 <i>We watch TV,
 maybe we even fall in love.</i>
 
-927
-01:10:13,202 --> 01:10:15,334
+
+
 <i>But we don't have
 any magical powers</i>
 
-928
-01:10:15,370 --> 01:10:17,873
+
+
 <i>and we don't have
 any great battles to fight,</i>
 
-929
-01:10:17,909 --> 01:10:21,423
+
+
 <i>no evil forces
 to defeat,</i>
 
-930
-01:10:21,460 --> 01:10:24,546
+
+
 <i>and no mysterious men
 in suits chasing after us.</i>
 
-931
-01:10:24,583 --> 01:10:27,132
+
+
 <i>We just have reality.</i>
 
-932
-01:10:29,259 --> 01:10:33,394
+
+
 <i>And believing
 anything else is just-</i>
 
-933
-01:10:33,430 --> 01:10:36,683
+
+
 <i>well, believing anything else
 is just crazy, isn't it?</i>
 
-934
-01:11:30,278 --> 01:11:32,531
+
+
 We better
 get out of here.
 
-935
-01:11:36,034 --> 01:11:38,041
+
+
 But he-
 
-936
-01:11:38,078 --> 01:11:40,622
+
+
 We did what
 we had to do.
 
-937
-01:11:45,627 --> 01:11:47,546
+
+
 Come on.
 
-938
-01:13:28,730 --> 01:13:30,482
+
+
 Ted, what are
 you doing?
 
-939
-01:13:30,518 --> 01:13:33,819
+
+
 Ted!
 
-940
-01:14:15,193 --> 01:14:17,112
+
+
 You can't make me stop.
 
-941
-01:14:29,499 --> 01:14:31,042
+
+
 You can't make me stop.
 
-942
-01:14:46,266 --> 01:14:47,851
+
+
 You can't make me stop.

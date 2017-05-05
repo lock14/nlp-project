@@ -1,7552 +1,7552 @@
-1
-00:00:01,275 --> 00:00:04,276
+
+
 [Music plays]
 
-2
-00:00:25,604 --> 00:00:28,605
+
+
 # Oh, the streets of Rome #
 
-3
-00:00:29,575 --> 00:00:32,575
+
+
 # Are filled with rubble #
 
-4
-00:00:33,446 --> 00:00:36,447
+
+
 # Ancient footprints #
 
-5
-00:00:36,717 --> 00:00:39,717
+
+
 # Are everywhere #
 
-6
-00:00:41,222 --> 00:00:43,988
+
+
 # You can almost think #
 
-7
-00:00:43,998 --> 00:00:46,993
+
+
 # That you're seein' double #
 
-8
-00:00:48,097 --> 00:00:51,752
+
+
 # On a cold, dark night on the Spanish Stairs #
 
-9
-00:00:56,840 --> 00:01:00,155
+
+
 # Gotta hurry on back to my hotel room... #
 
-10
-00:01:01,045 --> 00:01:03,176
+
+
 Wendell?
 
-11
-00:01:03,186 --> 00:01:06,241
+
+
 Please hurry. I can't be late today.
 
-12
-00:01:06,350 --> 00:01:08,520
+
+
 I'm coming, Doreen.
 I'm just looking for my boot.
 
-13
-00:01:08,620 --> 00:01:10,422
+
+
 Let's go. Come on.
 
-14
-00:01:10,522 --> 00:01:13,523
+
+
 # She promised she'd be there with me #
 
-15
-00:01:17,097 --> 00:01:20,097
+
+
 # When I paint my masterpiece #
 
-16
-00:01:21,702 --> 00:01:25,173
+
+
 Wendell: [Narrating]
 They say you don't know what you have till it's gone.
 
-17
-00:01:25,273 --> 00:01:28,104
+
+
 Well, me, I knew what I had.
 
-18
-00:01:28,114 --> 00:01:30,712
+
+
 I just didn't know
 it was about to be gone.
 
-19
-00:01:30,812 --> 00:01:31,947
+
+
 - Hey, Junior.
 - [Dog whines]
 
-20
-00:01:32,047 --> 00:01:35,048
+
+
 [Music plays]
 
-21
-00:01:38,287 --> 00:01:41,288
+
+
 # Oh, the hours we'd spend #
 
-22
-00:01:41,959 --> 00:01:44,960
+
+
 # Inside the Coliseum #
 
-23
-00:01:46,164 --> 00:01:49,129
+
+
 # Dodgin' lions #
 
-24
-00:01:49,139 --> 00:01:52,738
+
+
 # -And a-wastin' time... #
 - [Radio switched off]
 
-25
-00:01:52,838 --> 00:01:54,707
+
+
 I've been thinking a lot about you, Wendell.
 
-26
-00:01:54,807 --> 00:01:57,377
+
+
 - Yeah?
 - And... And us, together.
 
-27
-00:01:57,477 --> 00:01:59,212
+
+
 I just... I love you so much,
 
-28
-00:01:59,312 --> 00:02:04,050
+
+
 but sometimes I feel like you think
 the grass is always greener on the other side.
 
-29
-00:02:04,150 --> 00:02:06,988
+
+
 Doreen, there are some things out there
 I want to do and occasionally I...
 
-30
-00:02:07,088 --> 00:02:09,524
+
+
 But you won't get, or keep, a steady job.
 
-31
-00:02:09,624 --> 00:02:10,791
+
+
 I'm a venture capitalist.
 
-32
-00:02:10,891 --> 00:02:13,261
+
+
 Wendell. You're lucky to have me.
 
-33
-00:02:13,361 --> 00:02:15,098
+
+
 - I know it.
 - And I'm lucky to have you.
 
-34
-00:02:15,198 --> 00:02:19,363
+
+
 Yeah. I mean, I'm not exactly
 a consolation prize.
 
-35
-00:02:19,535 --> 00:02:23,274
+
+
 I mean, Doreen,
 I think it takes a certain strength of character
 
-36
-00:02:23,374 --> 00:02:25,142
+
+
 to endure the occasional failure.
 
-37
-00:02:25,242 --> 00:02:28,879
+
+
 You know Mozart
 didn't sell a single album while he was alive?
 
-38
-00:02:28,979 --> 00:02:32,517
+
+
 If there was a named job
 out there I could do, I'd do it.
 
-39
-00:02:32,617 --> 00:02:34,519
+
+
 There wasn't,
 so I had to make my own.
 
-40
-00:02:34,619 --> 00:02:36,321
+
+
 Turns out there's
 no one else doing it.
 
-41
-00:02:36,421 --> 00:02:38,858
+
+
 - So I'm pretty darn successful.
 - Yeah.
 
-42
-00:02:38,958 --> 00:02:43,829
+
+
 But unfortunately, selling fake I.D. cards
 to migrant workers isn't a real job.
 
-43
-00:02:43,929 --> 00:02:47,328
+
+
 Texas State certified driver's licenses.
 
-44
-00:02:47,338 --> 00:02:48,369
+
+
 Oh, Wendell.
 
-45
-00:02:48,469 --> 00:02:50,939
+
+
 With the holographic seal
 of the State of Texas.
 
-46
-00:02:51,039 --> 00:02:52,874
+
+
 Come on. Right?
 
-47
-00:02:52,974 --> 00:02:54,210
+
+
 Can I turn the radio back on?
 
-48
-00:02:54,310 --> 00:02:57,310
+
+
 # ...lifornia wanted man in Buffalo #
 
-49
-00:02:58,013 --> 00:03:00,511
+
+
 # Wanted man in Kansas City #
 
-50
-00:03:00,521 --> 00:03:03,315
+
+
 # Wanted man in Ohio #
 
-51
-00:03:03,325 --> 00:03:05,917
+
+
 # Wanted man in Mississippi #
 
-52
-00:03:05,927 --> 00:03:08,720
+
+
 # Wanted man in old Cheyenne #
 
-53
-00:03:08,730 --> 00:03:11,162
+
+
 # Wherever you might look tonight #
 
-54
-00:03:11,262 --> 00:03:13,764
+
+
 # - You might see this wanted man #
 - Goodbye.
 
-55
-00:03:13,864 --> 00:03:16,864
+
+
 # He might be in Colorado... #
 
-56
-00:03:19,505 --> 00:03:24,180
+
+
 - Good boy.
 - [Sing-song] Take the ribbon from your hair
 
-57
-00:03:24,377 --> 00:03:27,378
+
+
 Shake it loose and...
 
-58
-00:03:27,681 --> 00:03:29,750
+
+
 You should really be satisfied
 with what you have.
 
-59
-00:03:29,850 --> 00:03:31,185
+
+
 I'm not satisfied.
 
-60
-00:03:31,285 --> 00:03:34,770
+
+
 And that's exactly why I'm so optimistic.
 
-61
-00:03:35,390 --> 00:03:36,891
+
+
 Thanks for letting me use your car.
 
-62
-00:03:36,991 --> 00:03:38,360
+
+
 I appreciate it.
 
-63
-00:03:38,460 --> 00:03:41,291
+
+
 - Thank you.
 - Bye, Junior.
 
-64
-00:03:41,301 --> 00:03:42,264
+
+
 Bye, Wendell.
 
-65
-00:03:42,364 --> 00:03:43,532
+
+
 Bye.
 
-66
-00:03:43,632 --> 00:03:45,268
+
+
 Hey!
 
-67
-00:03:45,368 --> 00:03:46,335
+
+
 You're my gal.
 
-68
-00:03:46,435 --> 00:03:47,770
+
+
 - Uh-huh.
 - You know it?
 
-69
-00:03:47,870 --> 00:03:48,839
+
+
 - Uh-huh.
 - You are.
 
-70
-00:03:48,939 --> 00:03:49,906
+
+
 I'll pick you up at 5:00.
 
-71
-00:03:50,006 --> 00:03:53,444
+
+
 And thanks for having this talk with me,
 I really appreciate it.
 
-72
-00:03:53,544 --> 00:03:56,544
+
+
 I'm gonna change.
 I'm gonna change.
 
-73
-00:04:00,519 --> 00:04:02,288
+
+
 Woman:
 Larry's pissed you're late.
 
-74
-00:04:02,388 --> 00:04:03,422
+
+
 Was it Wendell?
 
-75
-00:04:03,522 --> 00:04:05,090
+
+
 He overslept a little.
 
-76
-00:04:05,190 --> 00:04:08,505
+
+
 Then he couldn't find one of his boots.
 
-77
-00:04:09,028 --> 00:04:11,393
+
+
 Don't you get tired of it?
 
-78
-00:04:11,403 --> 00:04:16,404
+
+
 I mean, I could maybe understand
 going on, like, a few dates with Wendell.
 
-79
-00:04:16,504 --> 00:04:19,235
+
+
 But what's the point?
 
-80
-00:04:19,245 --> 00:04:22,172
+
+
 The point is that I love him.
 
-81
-00:04:22,182 --> 00:04:26,937
+
+
 He's a dreamer,
 yeah, I know, but I'm part of his dreams.
 
-82
-00:04:28,084 --> 00:04:31,399
+
+
 Okay. I'm just
 trying to say be careful.
 
-83
-00:04:31,587 --> 00:04:35,092
+
+
 'Cause once a dude like Wendell runs
 out of dreams to chase, he'll just start to run.
 
-84
-00:04:35,192 --> 00:04:36,994
+
+
 [Music plays]
 
-85
-00:04:37,094 --> 00:04:38,495
+
+
 Wendell:
 A little early in the day
 
-86
-00:04:38,595 --> 00:04:40,765
+
+
 to have her take a chunk
 out of my ass, Junior.
 
-87
-00:04:40,865 --> 00:04:43,335
+
+
 I mean, I could use a little support
 from the ol' backup band.
 
-88
-00:04:43,435 --> 00:04:45,503
+
+
 Just came charging
 out of the gate at me.
 
-89
-00:04:45,603 --> 00:04:48,974
+
+
 No coffee for the kid.
 She just decides to light into me.
 
-90
-00:04:49,074 --> 00:04:52,946
+
+
 I mean, Doreen, let me
 get my bearings at least.
 
-91
-00:04:53,046 --> 00:04:55,410
+
+
 I've always been crazy
 
-92
-00:04:55,420 --> 00:04:59,070
+
+
 And the trouble that it's put me through...
 
-93
-00:05:01,022 --> 00:05:02,523
+
+
 Good morning, Travis, my man.
 
-94
-00:05:02,623 --> 00:05:04,359
+
+
 - Been busted for things
 - [Car horn beeps]
 
-95
-00:05:04,459 --> 00:05:07,062
+
+
 - Still can see ya.
 - That I did and I didn't do
 
-96
-00:05:07,162 --> 00:05:08,931
+
+
 [Laughing]
 
-97
-00:05:09,031 --> 00:05:11,033
+
+
 Here you go, man, my man.
 
-98
-00:05:11,133 --> 00:05:13,203
+
+
 -Yeah. Whoo!
 - I ain't sayin' I'm proud...
 
-99
-00:05:13,303 --> 00:05:14,604
+
+
 See you tomorrow, Travis.
 
-100
-00:05:14,704 --> 00:05:17,934
+
+
 ...Of all of the things that I've done
 
-101
-00:05:19,776 --> 00:05:21,145
+
+
 But I can say
 
-102
-00:05:21,245 --> 00:05:24,306
+
+
 I've never intentionally hurt anyone
 
-103
-00:05:25,484 --> 00:05:28,484
+
+
 [Music plays]
 
-104
-00:05:30,323 --> 00:05:32,558
+
+
 Top o' the mornin' to you, Irma.
 
-105
-00:05:32,658 --> 00:05:33,659
+
+
 Good morning, Wendell.
 
-106
-00:05:33,759 --> 00:05:36,763
+
+
 Say, is ol' what's his name still in there
 hugging the biscuit?
 
-107
-00:05:36,863 --> 00:05:39,733
+
+
 - No. He's in back waiting for you.
 - Oh.
 
-108
-00:05:39,833 --> 00:05:42,833
+
+
 I like your dress.
 
-109
-00:05:43,670 --> 00:05:45,105
+
+
 [Car horn plays fanfare]
 
-110
-00:05:45,205 --> 00:05:46,241
+
+
 [Gravel sprays]
 
-111
-00:05:46,341 --> 00:05:49,005
+
+
 # So far I ain't found a rhyme #
 
-112
-00:05:49,015 --> 00:05:51,674
+
+
 # Or a reason to change #
 
-113
-00:05:51,684 --> 00:05:54,579
+
+
 [Music plays]
 
-114
-00:05:54,589 --> 00:05:56,815
+
+
 # I've always been crazy #
 
-115
-00:05:56,825 --> 00:05:59,820
+
+
 # But it's kept me from going insane #
 
-116
-00:06:00,156 --> 00:06:01,959
+
+
 - Morning, Reyes.
 - Hey, Wendell.
 
-117
-00:06:02,059 --> 00:06:04,061
+
+
 [In bad Spanish]
 ¿Que paso?
 
-118
-00:06:04,161 --> 00:06:05,430
+
+
 Feeling good.
 
-119
-00:06:05,530 --> 00:06:06,864
+
+
 You ready to go to work?
 
-120
-00:06:06,964 --> 00:06:08,499
+
+
 - I'm ready.
 - Let's do it.
 
-121
-00:06:08,599 --> 00:06:10,898
+
+
 [Music plays]
 
-122
-00:06:10,908 --> 00:06:13,734
+
+
 I love you, baby. Mwah!
 
-123
-00:06:13,744 --> 00:06:16,739
+
+
 [Music plays]
 
-124
-00:06:20,446 --> 00:06:22,549
+
+
 Wendell: [Narrating]
 Me and Reyes headquartered the home office
 
-125
-00:06:22,649 --> 00:06:27,589
+
+
 of Wendell Baker International
 along a bend of the mighty Rio Grande...
 
-126
-00:06:27,689 --> 00:06:30,654
+
+
 Tigris of Texas.
 
-127
-00:06:30,664 --> 00:06:34,964
+
+
 It was perfect for border crossings,
 perfect for new beginnings.
 
-128
-00:06:35,064 --> 00:06:37,800
+
+
 Wendell:
 Crop production predicted to be at an all-time high.
 
-129
-00:06:37,900 --> 00:06:41,237
+
+
 The number of Mexicans coming
 across the border to work those very crops
 
-130
-00:06:41,337 --> 00:06:43,807
+
+
 also predicted to be at an all-time high.
 
-131
-00:06:43,907 --> 00:06:47,544
+
+
 Congress, you know, they just increased
 minimum wage to 5.60 an hour?
 
-132
-00:06:47,644 --> 00:06:48,812
+
+
 Farmers can't afford that.
 
-133
-00:06:48,912 --> 00:06:52,150
+
+
 Even if they could, they can't find
 Americans who'll work for that in the fields.
 
-134
-00:06:52,250 --> 00:06:55,988
+
+
 So they pay half that to our hardworking Mexican
 brothers and sisters, our clients.
 
-135
-00:06:56,088 --> 00:07:00,193
+
+
 Well, I hear they're increasing the number of
 border patrols to stop the flow of illegals.
 
-136
-00:07:00,293 --> 00:07:01,928
+
+
 - Well, I mean our clients.
 - Hey, good for them.
 
-137
-00:07:02,028 --> 00:07:04,331
+
+
 But there's enough to go around,
 if you know what I mean.
 
-138
-00:07:04,431 --> 00:07:06,333
+
+
 More border crossings,
 more border patrol.
 
-139
-00:07:06,433 --> 00:07:08,302
+
+
 Everybody's working.
 It's a pretty good deal.
 
-140
-00:07:08,402 --> 00:07:11,402
+
+
 Both: [Off-key]
 Can sing it
 
-141
-00:07:11,439 --> 00:07:12,874
+
+
 I've got to piss like a racehorse.
 
-142
-00:07:12,974 --> 00:07:15,975
+
+
 I'll meet you down there.
 
-143
-00:07:22,451 --> 00:07:25,452
+
+
 [Music plays]
 
-144
-00:07:29,793 --> 00:07:30,861
+
+
 Yeah.
 
-145
-00:07:30,961 --> 00:07:33,827
+
+
 # Went to a garden party #
 
-146
-00:07:33,837 --> 00:07:36,034
+
+
 # Reminisced with my old friends... #
 
-147
-00:07:36,134 --> 00:07:38,298
+
+
 Jesus.
 
-148
-00:07:38,308 --> 00:07:41,274
+
+
 Come on, partner,
 you need a little help.
 
-149
-00:07:41,374 --> 00:07:43,743
+
+
 Did you have a little orange juice
 with your Pop Tart this morning?
 
-150
-00:07:43,843 --> 00:07:47,243
+
+
 - [Toilet flushes]
 - Wendell: Here we go.
 
-151
-00:07:47,681 --> 00:07:49,049
+
+
 Come on. Come on.
 
-152
-00:07:49,149 --> 00:07:50,918
+
+
 [Howling]
 Oh-h-h-h!
 
-153
-00:07:51,018 --> 00:07:52,719
+
+
 What in the hell?
 
-154
-00:07:52,819 --> 00:07:54,488
+
+
 Sonny Junior.
 
-155
-00:07:54,588 --> 00:07:57,191
+
+
 No! It's not what
 it looks like. It's not.
 
-156
-00:07:57,291 --> 00:07:59,823
+
+
 Set him loose, goddamn it!
 
-157
-00:07:59,833 --> 00:08:01,730
+
+
 There you go, stay right there.
 
-158
-00:08:01,830 --> 00:08:03,232
+
+
 Uh, you're Sonny Senior, right?
 
-159
-00:08:03,332 --> 00:08:05,335
+
+
 Me, I was just helping the boy.
 I was just helping him.
 
-160
-00:08:05,435 --> 00:08:08,435
+
+
 You are a godless hound from Hell!
 
-161
-00:08:08,471 --> 00:08:09,673
+
+
 No, I'm Wendell Baker.
 
-162
-00:08:09,773 --> 00:08:12,003
+
+
 Oh!
 
-163
-00:08:12,013 --> 00:08:14,840
+
+
 [Grunt]
 
-164
-00:08:14,850 --> 00:08:16,842
+
+
 Come on, baby.
 [Sobbing]
 
-165
-00:08:16,852 --> 00:08:19,512
+
+
 Pay no mind to the evil man.
 
-166
-00:08:19,522 --> 00:08:22,518
+
+
 Hnnnn...
 
-167
-00:08:23,021 --> 00:08:24,189
+
+
 Let's go home, baby.
 
-168
-00:08:24,289 --> 00:08:27,289
+
+
 # There was magic in the air #
 
-169
-00:08:27,459 --> 00:08:30,461
+
+
 # Over in the corner #
 
-170
-00:08:30,931 --> 00:08:33,931
+
+
 # Much to my surprise #
 
-171
-00:08:34,468 --> 00:08:37,469
+
+
 # Mr. Hughes hid in Dylan's shoes #
 
-172
-00:08:38,606 --> 00:08:40,837
+
+
 # Wearing his disguise #
 
-173
-00:08:40,847 --> 00:08:43,842
+
+
 # But it's all right now #
 
-174
-00:08:45,114 --> 00:08:48,114
+
+
 # I learned my lesson well #
 
-175
-00:08:48,250 --> 00:08:51,250
+
+
 # You see you can't please everyone #
 
-176
-00:08:51,821 --> 00:08:53,457
+
+
 # So you got to please yourself #
 
-177
-00:08:53,557 --> 00:08:57,928
+
+
 - You okay, Wendell?
 - Oh, man, mornings can be tough.
 
-178
-00:08:58,028 --> 00:09:02,449
+
+
 Feel good, though.
 Feel like a million pesos. Thanks.
 
-179
-00:09:02,534 --> 00:09:05,499
+
+
 That... That's, like, four bucks.
 
-180
-00:09:05,509 --> 00:09:07,373
+
+
 That much, huh?
 
-181
-00:09:07,473 --> 00:09:10,171
+
+
 Let's get to work, buddy.
 
-182
-00:09:10,181 --> 00:09:13,176
+
+
 [Sighing]
 
-183
-00:09:14,714 --> 00:09:16,349
+
+
 This coffee's good, Reyes.
 
-184
-00:09:16,449 --> 00:09:17,785
+
+
 It's about to be great.
 
-185
-00:09:17,885 --> 00:09:20,282
+
+
 [Music plays]
 
-186
-00:09:20,292 --> 00:09:21,989
+
+
 Say, Reyes?
 
-187
-00:09:22,089 --> 00:09:23,958
+
+
 Can I interest you in a little mezcal?
 
-188
-00:09:24,058 --> 00:09:26,128
+
+
 A dash of tequila for your coffee?
 
-189
-00:09:26,228 --> 00:09:29,228
+
+
 Uh, maybe when the day's done?
 
-190
-00:09:29,898 --> 00:09:32,899
+
+
 Good man. Take it slow.
 
-191
-00:09:34,972 --> 00:09:36,940
+
+
 Hello. I'm Wendell Baker.
 
-192
-00:09:37,040 --> 00:09:39,404
+
+
 Mr. And Mrs...?
 
-193
-00:09:39,414 --> 00:09:40,511
+
+
 We'll get to that.
 
-194
-00:09:40,611 --> 00:09:43,848
+
+
 Are you familiar with holographic technology?
 
-195
-00:09:43,948 --> 00:09:45,383
+
+
 You're about to find
 out all about it.
 
-196
-00:09:45,483 --> 00:09:46,685
+
+
 #I fetch my brazos hardcore #
 
-197
-00:09:46,785 --> 00:09:48,186
+
+
 # Down from the click-hi #
 
-198
-00:09:48,286 --> 00:09:50,456
+
+
 # Who's that emanatin' funk through the speaker? #
 
-199
-00:09:50,556 --> 00:09:52,825
+
+
 # Bass gets to pumpin,'rucka's get to pumpin' #
 
-200
-00:09:52,925 --> 00:09:55,161
+
+
 # Who's that rap king
 got the party start jumpin'? #
 
-201
-00:09:55,261 --> 00:09:57,396
+
+
 # Blastin' too high
 no need for the boo-ya #
 
-202
-00:09:57,496 --> 00:09:58,799
+
+
 # My hammer with the one knuckle #
 
-203
-00:09:58,899 --> 00:10:00,033
+
+
 # I shot through ya #
 
-204
-00:10:00,133 --> 00:10:02,998
+
+
 # - Step into the madness
 - Madness #
 
-205
-00:10:03,008 --> 00:10:04,739
+
+
 Wendell:
 So let me talk to some of y'all
 
-206
-00:10:04,839 --> 00:10:06,208
+
+
 about some of my past clients.
 
-207
-00:10:06,308 --> 00:10:09,144
+
+
 Jimmy Smits.
 I mean, I'm straight, but the guy smoulders.
 
-208
-00:10:09,244 --> 00:10:10,746
+
+
 Never quite broke through like I hoped.
 
-209
-00:10:10,846 --> 00:10:13,682
+
+
 Fernando Valenzuela. Good guy, great arm.
 
-210
-00:10:13,782 --> 00:10:15,618
+
+
 Not the biggest advocate of
 physical conditioning.
 
-211
-00:10:15,718 --> 00:10:17,954
+
+
 Ultimately I think it hurt his longevity.
 
-212
-00:10:18,054 --> 00:10:20,590
+
+
 I get out of a relationship with...
 
-213
-00:10:20,690 --> 00:10:24,562
+
+
 Salma Hayek, the frying pan,
 and go right into the fire.
 
-214
-00:10:24,662 --> 00:10:27,231
+
+
 Jenny Lopez. Nice girl.
 Dated her briefly.
 
-215
-00:10:27,331 --> 00:10:28,899
+
+
 Said some stuff about me around town.
 
-216
-00:10:28,999 --> 00:10:30,167
+
+
 I hold no ill will.
 
-217
-00:10:30,267 --> 00:10:32,237
+
+
 Chi Chi Rodriguez calls me,
 
-218
-00:10:32,337 --> 00:10:34,406
+
+
 says, "Wendell?
 I'm having trouble with my game."
 
-219
-00:10:34,506 --> 00:10:36,542
+
+
 I watch him swing a couple of times
 and I give him one note.
 
-220
-00:10:36,642 --> 00:10:40,214
+
+
 One note: "fire the knees.
 Fire them right at the flag stick."
 
-221
-00:10:40,314 --> 00:10:42,583
+
+
 Next week he wins
 the Greater Hartford Senior Open.
 
-222
-00:10:42,683 --> 00:10:44,680
+
+
 [Crash]
 
-223
-00:10:44,690 --> 00:10:47,350
+
+
 Goddamn it.
 
-224
-00:10:47,360 --> 00:10:49,619
+
+
 And all this business...
 
-225
-00:10:49,629 --> 00:10:50,959
+
+
 Slaying the dragon,
 
-226
-00:10:51,059 --> 00:10:54,462
+
+
 he saw me do it on the 12th hole
 of the Laredo Country Club in 1978.
 
-227
-00:10:54,562 --> 00:10:56,499
+
+
 ...The backroad but I'm delinquent
 
-228
-00:10:56,599 --> 00:10:58,033
+
+
 This is how I freak it
 
-229
-00:10:58,133 --> 00:11:00,069
+
+
 - When I'm speaking to the gente
 - Gente
 
-230
-00:11:00,169 --> 00:11:03,170
+
+
 [Music plays]
 
-231
-00:11:05,041 --> 00:11:07,707
+
+
 Herve Villechaize.
 
-232
-00:11:07,717 --> 00:11:11,537
+
+
 He had more heart
 in that little chest than...
 
-233
-00:11:11,750 --> 00:11:14,753
+
+
 Sorry. Just give me
 one second, one second.
 
-234
-00:11:14,853 --> 00:11:15,821
+
+
 Phew.
 
-235
-00:11:15,921 --> 00:11:17,589
+
+
 Goddamn it, I miss you, Herve.
 
-236
-00:11:17,689 --> 00:11:19,224
+
+
 I really do.
 
-237
-00:11:19,324 --> 00:11:20,293
+
+
 [Dog grunts]
 
-238
-00:11:20,393 --> 00:11:23,563
+
+
 So, that's how we do it
 here at Wendell Baker International,
 
-239
-00:11:23,663 --> 00:11:25,965
+
+
 where we've been
 serving the Southwest since 1971.
 
-240
-00:11:26,065 --> 00:11:28,302
+
+
 So, uh, I just got one question.
 
-241
-00:11:28,402 --> 00:11:30,900
+
+
 Who wants to get American?
 
-242
-00:11:30,910 --> 00:11:33,905
+
+
 [Music plays]
 
-243
-00:11:34,174 --> 00:11:35,142
+
+
 Yeah.
 
-244
-00:11:35,242 --> 00:11:38,244
+
+
 [Music plays]
 
-245
-00:11:40,149 --> 00:11:42,718
+
+
 Thanks. What do you think, Reyes?
 
-246
-00:11:42,818 --> 00:11:45,055
+
+
 I think we're drawing too much attention
 with all these people.
 
-247
-00:11:45,155 --> 00:11:46,390
+
+
 Come on, Reyes.
 
-248
-00:11:46,490 --> 00:11:48,292
+
+
 We're changing
 the course of people's lives here.
 
-249
-00:11:48,392 --> 00:11:51,428
+
+
 You know, we want more for these people
 than to just be farm hands.
 
-250
-00:11:51,528 --> 00:11:53,298
+
+
 We want them to own the farms.
 
-251
-00:11:53,398 --> 00:11:56,134
+
+
 These are potential
 politicians, doctors, lawyers.
 
-252
-00:11:56,234 --> 00:11:57,802
+
+
 And it started right here, this Airstream.
 
-253
-00:11:57,902 --> 00:12:00,272
+
+
 It's the Ellis Island of the Southwest.
 
-254
-00:12:00,372 --> 00:12:02,641
+
+
 Goes all the way
 back to the pilgrims, Reyes.
 
-255
-00:12:02,741 --> 00:12:05,741
+
+
 - All right. I can dig it.
 - Huh.
 
-256
-00:12:06,111 --> 00:12:07,613
+
+
 Torres brothers.
 
-257
-00:12:07,713 --> 00:12:09,684
+
+
 Wendell:
 Here's the deal, fellas.
 
-258
-00:12:09,784 --> 00:12:13,521
+
+
 For a short time we're offering
 flawless reproductions
 
-259
-00:12:13,621 --> 00:12:16,023
+
+
 of Texas State
 driver's licenses with your name
 
-260
-00:12:16,123 --> 00:12:17,359
+
+
 [Muttering]
 or name of choice,
 
-261
-00:12:17,459 --> 00:12:19,027
+
+
 [In bad Spanish]
 con image holographia.
 
-262
-00:12:19,127 --> 00:12:23,632
+
+
 You get one of these,
 you go anywhere. You interested?
 
-263
-00:12:24,166 --> 00:12:26,402
+
+
 That's what I thought.
 You guys want a shot?
 
-264
-00:12:26,502 --> 00:12:28,605
+
+
 I'm going to shoot straight with you.
 
-265
-00:12:28,705 --> 00:12:33,177
+
+
 You get one of these, you're going to be able
 to go to Houston, San Antone, Dallas.
 
-266
-00:12:33,277 --> 00:12:34,278
+
+
 You ever been to Dallas?
 
-267
-00:12:34,378 --> 00:12:35,346
+
+
 ¿Vamo Dallas?
 
-268
-00:12:35,446 --> 00:12:36,580
+
+
 - No.
 - Whoo.
 
-269
-00:12:36,680 --> 00:12:39,216
+
+
 Boy, you got a lot to look forward to.
 Here, take a look at it.
 
-270
-00:12:39,316 --> 00:12:41,454
+
+
 That there's the upstairs merchandise.
 
-271
-00:12:41,554 --> 00:12:43,884
+
+
 V.I.P. only. Solamente.
 
-272
-00:12:43,894 --> 00:12:47,714
+
+
 My only question is,
 what do you want from me?
 
-273
-00:12:52,165 --> 00:12:54,930
+
+
 Hell, I want you on your feet.
 
-274
-00:12:54,940 --> 00:12:57,572
+
+
 With your hands locked
 behind your head.
 
-275
-00:12:57,672 --> 00:12:59,836
+
+
 [Mixed yelling]
 
-276
-00:12:59,846 --> 00:13:02,841
+
+
 [Music plays]
 
-277
-00:13:04,746 --> 00:13:07,349
+
+
 Sir, for starters,
 you can call me Wendell.
 
-278
-00:13:07,449 --> 00:13:10,449
+
+
 [Groan]
 
-279
-00:13:12,022 --> 00:13:14,687
+
+
 You're busted, dumb-ass.
 
-280
-00:13:14,697 --> 00:13:17,692
+
+
 Run, Junior, run for your life!
 
-281
-00:13:23,769 --> 00:13:26,769
+
+
 [Music plays]
 
-282
-00:13:42,991 --> 00:13:45,991
+
+
 [Mixed barking/whining]
 
-283
-00:13:52,234 --> 00:13:55,372
+
+
 Wendell:
 We can beat this thing. We can beat it!
 
-284
-00:13:55,472 --> 00:13:57,140
+
+
 Their evidence seems pretty strong.
 
-285
-00:13:57,240 --> 00:13:59,438
+
+
 Are you kidding me?
 
-286
-00:13:59,448 --> 00:14:02,413
+
+
 They could have done this on some back lot
 in Burbank, California, man.
 
-287
-00:14:02,513 --> 00:14:03,715
+
+
 Come on.
 
-288
-00:14:03,815 --> 00:14:05,984
+
+
 Same place they did the lunar landing.
 
-289
-00:14:06,084 --> 00:14:09,084
+
+
 Look at it, Otto.
 
-290
-00:14:12,391 --> 00:14:15,622
+
+
 I've finally done it, haven't I, Otto?
 
-291
-00:14:16,429 --> 00:14:17,797
+
+
 [Heavy sigh]
 
-292
-00:14:17,897 --> 00:14:19,734
+
+
 Look...
 
-293
-00:14:19,834 --> 00:14:22,503
+
+
 Can you just make
 sure that Reyes gets off?
 
-294
-00:14:22,603 --> 00:14:24,972
+
+
 Don't worry.
 I'll get Reyes in the clear.
 
-295
-00:14:25,072 --> 00:14:26,842
+
+
 Good.
 
-296
-00:14:26,942 --> 00:14:29,206
+
+
 [Sigh]
 
-297
-00:14:29,216 --> 00:14:32,848
+
+
 You're looking at a couple
 of years at least.
 
-298
-00:14:32,948 --> 00:14:35,813
+
+
 So y-you started drinking again?
 
-299
-00:14:35,823 --> 00:14:37,882
+
+
 I'm off the wagon.
 
-300
-00:14:37,892 --> 00:14:40,887
+
+
 Okay.
 
-301
-00:14:43,160 --> 00:14:46,126
+
+
 Can I get them to deport me?
 
-302
-00:14:46,136 --> 00:14:49,131
+
+
 Wendell, you're a U.S. citizen.
 
-303
-00:14:49,200 --> 00:14:51,499
+
+
 Goddamn it.
 
-304
-00:14:51,509 --> 00:14:55,244
+
+
 I should've gone down there a long time ago.
 
-305
-00:14:56,108 --> 00:14:59,253
+
+
 Mexico's what the U.S. could've been.
 
-306
-00:15:02,282 --> 00:15:05,282
+
+
 Oh, God.
 [Sniffling]
 
-307
-00:15:05,652 --> 00:15:09,023
+
+
 [Reading] "Children's photographer.
 Can you make children smile?
 
-308
-00:15:09,123 --> 00:15:12,123
+
+
 Will train right person."
 
-309
-00:15:12,460 --> 00:15:14,028
+
+
 So they seized your car?
 
-310
-00:15:14,128 --> 00:15:18,201
+
+
 The police are auctioning it off
 because it was used to commit a felony.
 
-311
-00:15:18,301 --> 00:15:21,786
+
+
 But it's not the car, Reyes.
 It's Wendell.
 
-312
-00:15:22,372 --> 00:15:26,343
+
+
 We've known each other since we were kids,
 and he doesn't even...
 
-313
-00:15:26,443 --> 00:15:28,446
+
+
 He doesn't even say he loves me.
 
-314
-00:15:28,546 --> 00:15:31,449
+
+
 And I tell him, "Wendell, I love you."
 
-315
-00:15:31,549 --> 00:15:35,520
+
+
 And he says,
 "Doreen, I think about you all the time."
 
-316
-00:15:35,620 --> 00:15:38,765
+
+
 I know it, Doreen, but...
 But he does.
 
-317
-00:15:39,124 --> 00:15:43,624
+
+
 And he always says
 you're the reason he works so hard.
 
-318
-00:15:43,634 --> 00:15:45,798
+
+
 I've given him a lot of chances.
 
-319
-00:15:45,898 --> 00:15:48,263
+
+
 And he's deserved them all.
 
-320
-00:15:48,273 --> 00:15:51,206
+
+
 I just always wanted to be with him.
 
-321
-00:15:51,306 --> 00:15:54,306
+
+
 [Music plays]
 
-322
-00:15:58,447 --> 00:16:01,447
+
+
 # People say that I'm high class #
 
-323
-00:16:04,955 --> 00:16:07,955
+
+
 # But I'm low-down all the while #
 
-324
-00:16:11,428 --> 00:16:14,429
+
+
 # People think that I'm crazy #
 
-325
-00:16:17,735 --> 00:16:20,736
+
+
 # When I flash that California smile #
 
-326
-00:16:22,141 --> 00:16:23,977
+
+
 Guard:
 On your feet, off the bus.
 
-327
-00:16:24,077 --> 00:16:25,411
+
+
 This is Huntsville.
 
-328
-00:16:25,511 --> 00:16:28,511
+
+
 # But I can still #
 
-329
-00:16:29,216 --> 00:16:30,518
+
+
 # Paint the town... #
 
-330
-00:16:30,618 --> 00:16:31,819
+
+
 How're you doin'? Wendell Baker.
 
-331
-00:16:31,919 --> 00:16:34,283
+
+
 How's it... Oh... Ow.
 
-332
-00:16:34,293 --> 00:16:37,289
+
+
 # ...Of your evening gown #
 
-333
-00:16:38,860 --> 00:16:41,860
+
+
 # While I'm waitin' #
 
-334
-00:16:42,130 --> 00:16:45,130
+
+
 # For your blonde hair to turn grey #
 
-335
-00:16:50,107 --> 00:16:51,675
+
+
 # People say... #
 
-336
-00:16:51,775 --> 00:16:52,876
+
+
 Whoo!
 
-337
-00:16:52,976 --> 00:16:54,112
+
+
 - Whoo.
 - Good shot, Wendell.
 
-338
-00:16:54,212 --> 00:16:56,342
+
+
 - Yeah.
 - [Applause]
 
-339
-00:16:56,352 --> 00:16:57,482
+
+
 Man:
 It says here
 
-340
-00:16:57,582 --> 00:17:01,554
+
+
 that although you were
 the unwanted child of an unwed mother,
 
-341
-00:17:01,654 --> 00:17:04,654
+
+
 you believe that, in your words...
 
-342
-00:17:05,090 --> 00:17:09,361
+
+
 You have the blood of kings
 running through your veins.
 
-343
-00:17:09,461 --> 00:17:11,860
+
+
 Mr. Baker.
 
-344
-00:17:11,870 --> 00:17:14,796
+
+
 You can call me Wendell.
 
-345
-00:17:14,806 --> 00:17:17,399
+
+
 Did you say that, Mr. Baker?
 
-346
-00:17:17,409 --> 00:17:20,405
+
+
 "Blood of kings"?
 
-347
-00:17:20,474 --> 00:17:22,939
+
+
 Yeah.
 
-348
-00:17:22,949 --> 00:17:25,208
+
+
 # - Thank God
 - Domino! 20! #
 
-349
-00:17:25,218 --> 00:17:28,214
+
+
 # Forgivin' life to you and me #
 
-350
-00:17:28,618 --> 00:17:30,715
+
+
 # Wherever you may be #
 
-351
-00:17:30,725 --> 00:17:32,488
+
+
 Whoo!
 
-352
-00:17:32,588 --> 00:17:34,792
+
+
 Crips and Aryans together.
 Come on, guys.
 
-353
-00:17:34,892 --> 00:17:36,660
+
+
 That's how it's got to be.
 
-354
-00:17:36,760 --> 00:17:38,862
+
+
 # Filled with selfishness and greed #
 
-355
-00:17:38,962 --> 00:17:41,398
+
+
 # There remains the glory fountain... #
 
-356
-00:17:41,498 --> 00:17:43,134
+
+
 We're going to get it
 all done tonight, boss.
 
-357
-00:17:43,234 --> 00:17:44,336
+
+
 I guarantee ya.
 
-358
-00:17:44,436 --> 00:17:46,738
+
+
 # You can find it in the temple #
 
-359
-00:17:46,838 --> 00:17:49,602
+
+
 # With a welcome on the door #
 
-360
-00:17:49,612 --> 00:17:52,312
+
+
 # But be sure to count your blessings #
 
-361
-00:17:52,412 --> 00:17:54,976
+
+
 # Before you ask for more #
 
-362
-00:17:54,986 --> 00:17:56,978
+
+
 - Thank God...
 - Man.
 
-363
-00:17:56,988 --> 00:17:59,716
+
+
 - Uh...
 - Huh.
 
-364
-00:17:59,726 --> 00:18:02,721
+
+
 - Hi.
 - Hi, Doreen.
 
-365
-00:18:09,865 --> 00:18:12,865
+
+
 [Chuckle]
 
-366
-00:18:14,703 --> 00:18:16,835
+
+
 Can I get you anything?
 
-367
-00:18:16,845 --> 00:18:19,840
+
+
 Anything at all.
 
-368
-00:18:19,976 --> 00:18:21,578
+
+
 I could use some cleats.
 
-369
-00:18:21,678 --> 00:18:22,947
+
+
 Cleats?
 
-370
-00:18:23,047 --> 00:18:25,545
+
+
 Yeah.
 
-371
-00:18:25,555 --> 00:18:27,881
+
+
 I worry about you.
 
-372
-00:18:27,891 --> 00:18:30,886
+
+
 Don't.
 
-373
-00:18:32,225 --> 00:18:34,689
+
+
 Boy, you look beautiful.
 
-374
-00:18:34,699 --> 00:18:37,158
+
+
 Really do.
 
-375
-00:18:37,168 --> 00:18:40,801
+
+
 I'd take a month in solitary
 for just one kiss.
 
-376
-00:18:40,901 --> 00:18:43,901
+
+
 I would. I would.
 
-377
-00:18:53,748 --> 00:18:56,750
+
+
 Huh.
 
-378
-00:18:58,555 --> 00:19:01,555
+
+
 [Clock ticking]
 
-379
-00:19:03,593 --> 00:19:06,594
+
+
 Thanks for stopping by.
 
-380
-00:19:06,798 --> 00:19:09,798
+
+
 [Music plays]
 
-381
-00:19:14,406 --> 00:19:17,406
+
+
 Leon! You're out.
 
-382
-00:19:21,080 --> 00:19:22,048
+
+
 Damn.
 
-383
-00:19:22,148 --> 00:19:24,245
+
+
 [Distant shouting]
 
-384
-00:19:24,255 --> 00:19:27,251
+
+
 [Music plays]
 
-385
-00:19:48,078 --> 00:19:49,246
+
+
 Guard:
 Dodge, you're up.
 
-386
-00:19:49,346 --> 00:19:51,448
+
+
 You've got a visitor. Let's go.
 
-387
-00:19:51,548 --> 00:19:53,385
+
+
 Let's go.
 
-388
-00:19:53,485 --> 00:19:55,453
+
+
 - Williams, visitor.
 - Henry.
 
-389
-00:19:55,553 --> 00:19:56,989
+
+
 - Hey, Donny.
 - Donny: Mm-hmm.
 
-390
-00:19:57,089 --> 00:20:00,192
+
+
 - Hey, Leon.
 - Guard: Come on, George. Get up. Visitor.
 
-391
-00:20:00,292 --> 00:20:01,995
+
+
 Keep it in a line, ladies. In a line.
 
-392
-00:20:02,095 --> 00:20:05,095
+
+
 [Music plays]
 
-393
-00:20:12,440 --> 00:20:15,243
+
+
 Baker, you've got some love letters here.
 
-394
-00:20:15,343 --> 00:20:16,744
+
+
 They're from yourself, asshole.
 
-395
-00:20:16,844 --> 00:20:19,845
+
+
 Return to sender.
 
-396
-00:20:23,585 --> 00:20:26,586
+
+
 [Music plays]
 
-397
-00:20:41,406 --> 00:20:44,407
+
+
 I had a dream last night, Leon.
 
-398
-00:20:45,411 --> 00:20:48,411
+
+
 Me and Doreen had a child.
 
-399
-00:20:48,748 --> 00:20:54,358
+
+
 Walked into our room late at night and
 climbed up in bed beside us.
 
-400
-00:20:54,988 --> 00:20:57,989
+
+
 A son, Leon. Huh.
 
-401
-00:20:58,726 --> 00:21:01,692
+
+
 Yeah, I have a little boy.
 
-402
-00:21:01,702 --> 00:21:03,994
+
+
 You do?
 
-403
-00:21:04,004 --> 00:21:07,000
+
+
 Yeah.
 
-404
-00:21:09,406 --> 00:21:10,540
+
+
 We've got to get out of here.
 
-405
-00:21:10,640 --> 00:21:13,505
+
+
 [Sigh]
 Yeah, I know.
 
-406
-00:21:13,515 --> 00:21:17,415
+
+
 You've got to get back to your family
 and I've got to start mine.
 
-407
-00:21:17,515 --> 00:21:20,515
+
+
 [Music plays]
 
-408
-00:22:07,039 --> 00:22:09,403
+
+
 Good morning, Mr. Baker.
 
-409
-00:22:09,413 --> 00:22:11,444
+
+
 Wendell:
 Good morning, Dr. Van Horn.
 
-410
-00:22:11,544 --> 00:22:16,216
+
+
 Do you remember what you used to say to me
 when I'd say, "good morning, Mr. Baker"?
 
-411
-00:22:16,316 --> 00:22:17,784
+
+
 - Yes, sir.
 - Mm-hmm.
 
-412
-00:22:17,884 --> 00:22:20,616
+
+
 What was that?
 
-413
-00:22:20,626 --> 00:22:23,621
+
+
 I'd tell you to call me Wendell.
 
-414
-00:22:23,758 --> 00:22:26,288
+
+
 Why would you do that?
 
-415
-00:22:26,298 --> 00:22:28,692
+
+
 I... I think I did it to...
 
-416
-00:22:28,702 --> 00:22:31,733
+
+
 Oh, create a false sense of
 familiarity between us.
 
-417
-00:22:31,833 --> 00:22:33,336
+
+
 Kind of make you
 think we were pals,
 
-418
-00:22:33,436 --> 00:22:36,437
+
+
 maybe possibly
 expedite my release.
 
-419
-00:22:37,975 --> 00:22:42,225
+
+
 Well, we've come a long way,
 haven't we... Wendell?
 
-420
-00:22:43,247 --> 00:22:46,248
+
+
 Huh. Yes, sir, we have.
 
-421
-00:22:47,152 --> 00:22:48,620
+
+
 I understand you've learned quite a lot
 
-422
-00:22:48,720 --> 00:22:50,922
+
+
 about the hotel business
 in recent months.
 
-423
-00:22:51,022 --> 00:22:53,893
+
+
 Yes, sir, I've tried to. I mean, uh...
 
-424
-00:22:53,993 --> 00:22:55,895
+
+
 I like being around people
 and working with them,
 
-425
-00:22:55,995 --> 00:22:59,735
+
+
 and hotels seem like
 a good place to do that.
 
-426
-00:23:02,436 --> 00:23:03,704
+
+
 Congratulations, Wendell.
 
-427
-00:23:03,804 --> 00:23:06,669
+
+
 Your parole's been approved.
 
-428
-00:23:06,679 --> 00:23:11,480
+
+
 Through our employment program,
 a job, a room, board have been secured for you
 
-429
-00:23:11,580 --> 00:23:14,049
+
+
 at a state-run residential retirement hotel.
 
-430
-00:23:14,149 --> 00:23:17,150
+
+
 Thank you, Dr. Van Horn.
 
-431
-00:23:18,354 --> 00:23:21,224
+
+
 # Well, it's been rough and rocky travellin' #
 
-432
-00:23:21,324 --> 00:23:24,595
+
+
 # But I'm finally standin' upright on the ground #
 
-433
-00:23:24,695 --> 00:23:27,626
+
+
 Thanks, Captain.'preciate it.
 
-434
-00:23:27,636 --> 00:23:30,334
+
+
 # And after takin' several readings #
 
-435
-00:23:30,434 --> 00:23:34,599
+
+
 # I'm surprised
 to find my mind's still fairly sound #
 
-436
-00:23:36,776 --> 00:23:39,278
+
+
 # I thought Nashville was the roughest #
 
-437
-00:23:39,378 --> 00:23:43,118
+
+
 # But I know I've said the same about them all #
 
-438
-00:23:46,920 --> 00:23:49,486
+
+
 # We received our education #
 
-439
-00:23:49,496 --> 00:23:52,627
+
+
 # In the cities of the nation,
 me and Paul #
 
-440
-00:23:52,727 --> 00:23:54,963
+
+
 Wendell: [Narrating]
 I was really looking forward to seeing Reyes.
 
-441
-00:23:55,063 --> 00:23:58,000
+
+
 He hadn't gotten a chance
 to visit me as much as I'd hoped.
 
-442
-00:23:58,100 --> 00:24:00,836
+
+
 It had to have been hard on him.
 I understood.
 
-443
-00:24:00,936 --> 00:24:05,642
+
+
 It was probably like seeing
 a lion or some kind of panther locked up.
 
-444
-00:24:05,742 --> 00:24:07,278
+
+
 And Irma wouldn't allow it.
 
-445
-00:24:07,378 --> 00:24:11,282
+
+
 [Music plays]
 # But if you're stayin' in a motel there and leave #
 
-446
-00:24:11,382 --> 00:24:14,782
+
+
 # Just don't leave nothin' in your clothes #
 
-447
-00:24:17,990 --> 00:24:20,990
+
+
 You seen Doreen lately?
 
-448
-00:24:21,493 --> 00:24:23,096
+
+
 Not in a long time, Wendell.
 
-449
-00:24:23,196 --> 00:24:25,632
+
+
 What'd she say?
 Did she say anything about us?
 
-450
-00:24:25,732 --> 00:24:28,568
+
+
 She made it sound
 like she was moving on.
 
-451
-00:24:28,668 --> 00:24:31,138
+
+
 That she started dating some guy.
 
-452
-00:24:31,238 --> 00:24:34,238
+
+
 Runs a grocery store.
 
-453
-00:24:34,742 --> 00:24:36,243
+
+
 Boy.
 
-454
-00:24:36,343 --> 00:24:39,182
+
+
 Goddamn, I wish I didn't have
 such a good imagination.
 
-455
-00:24:39,282 --> 00:24:41,679
+
+
 Just vivid as all hell.
 
-456
-00:24:41,689 --> 00:24:43,419
+
+
 [Indistinct]
 
-457
-00:24:43,519 --> 00:24:45,688
+
+
 # I thought Nashville was the roughest... #
 
-458
-00:24:45,788 --> 00:24:48,158
+
+
 Reyes, I'm sorry if I caused
 you and Irma any problems.
 
-459
-00:24:48,258 --> 00:24:50,294
+
+
 I am. I'll apologize to her
 when I see her, okay?
 
-460
-00:24:50,394 --> 00:24:52,925
+
+
 No, we're fine.
 
-461
-00:24:52,935 --> 00:24:56,801
+
+
 I mean, she wouldn't talk to me
 for a few months after we got arrested.
 
-462
-00:24:56,901 --> 00:24:59,165
+
+
 But we got through it.
 
-463
-00:24:59,175 --> 00:25:01,806
+
+
 But I'm thinking it's probably better
 that you just don't mention it to her...
 
-464
-00:25:01,906 --> 00:25:04,772
+
+
 - At all.
 - You bet.
 
-465
-00:25:04,782 --> 00:25:06,746
+
+
 I've just got to thank you
 for taking Reyes back.
 
-466
-00:25:06,846 --> 00:25:08,949
+
+
 I mean, I'm the one locked up,
 but this kid was down.
 
-467
-00:25:09,049 --> 00:25:10,952
+
+
 I'd talk to him on the phone, say,
 "good morning, Reyes,"
 
-468
-00:25:11,052 --> 00:25:12,720
+
+
 and he'd say, "is it?"
 
-469
-00:25:12,820 --> 00:25:16,758
+
+
 So, Irma, thanks,
 'cause this fella was flying low.
 
-470
-00:25:16,858 --> 00:25:19,556
+
+
 You were.
 
-471
-00:25:19,566 --> 00:25:20,896
+
+
 Nothing beats a home-cooked meal.
 
-472
-00:25:20,996 --> 00:25:23,996
+
+
 Man, this is good.
 
-473
-00:25:29,038 --> 00:25:30,507
+
+
 She's still tough, isn't she?
 
-474
-00:25:30,607 --> 00:25:31,608
+
+
 Oh, you have no idea, man.
 
-475
-00:25:31,708 --> 00:25:33,743
+
+
 You're a lucky dog that
 she took you back.
 
-476
-00:25:33,843 --> 00:25:36,208
+
+
 - Mm-hmm.
 - How'd you do it?
 
-477
-00:25:36,218 --> 00:25:37,615
+
+
 She put a few conditions on me.
 
-478
-00:25:37,715 --> 00:25:39,250
+
+
 - Yeah, I bet.
 - Yeah.
 
-479
-00:25:39,350 --> 00:25:41,153
+
+
 Like, uh, try to get my old job back.
 
-480
-00:25:41,253 --> 00:25:42,587
+
+
 - Oh, man.
 - [Laughing]
 
-481
-00:25:42,687 --> 00:25:43,923
+
+
 Driving that truck?
 
-482
-00:25:44,023 --> 00:25:46,420
+
+
 - Yeah.
 - Whoo.
 
-483
-00:25:46,430 --> 00:25:49,570
+
+
 And not to hang out with you anymore.
 
-484
-00:25:50,663 --> 00:25:52,099
+
+
 [Sigh]
 
-485
-00:25:52,199 --> 00:25:54,229
+
+
 Really?
 
-486
-00:25:54,239 --> 00:25:55,669
+
+
 Yeah.
 
-487
-00:25:55,769 --> 00:25:58,533
+
+
 I understand. I do.
 
-488
-00:25:58,543 --> 00:26:00,608
+
+
 'Cause of that whole driver's license deal?
 
-489
-00:26:00,708 --> 00:26:06,658
+
+
 Ah, that and she was pretty upset
 about that insurance scam in Lubbock.
 
-490
-00:26:30,709 --> 00:26:33,146
+
+
 - [Engine revs]
 - [Tires squeal]
 
-491
-00:26:33,246 --> 00:26:36,246
+
+
 [Music plays]
 
-492
-00:26:44,826 --> 00:26:46,394
+
+
 I got an idea.
 
-493
-00:26:46,494 --> 00:26:47,629
+
+
 Wendell?
 
-494
-00:26:47,729 --> 00:26:50,594
+
+
 Wendell:
 [Laughing]
 
-495
-00:26:50,604 --> 00:26:51,834
+
+
 Whoo! Yeah!
 
-496
-00:26:51,934 --> 00:26:54,934
+
+
 [Scream]
 
-497
-00:26:58,175 --> 00:27:00,405
+
+
 Wendell!
 
-498
-00:27:00,415 --> 00:27:03,410
+
+
 You okay, buddy?
 
-499
-00:27:04,849 --> 00:27:08,453
+
+
 Hey. I got that old pick-up
 up and running while you were gone.
 
-500
-00:27:08,553 --> 00:27:11,117
+
+
 Really?
 
-501
-00:27:11,127 --> 00:27:13,989
+
+
 It's yours.
 
-502
-00:27:13,999 --> 00:27:15,028
+
+
 - Yeah?
 - Yeah.
 
-503
-00:27:15,128 --> 00:27:16,730
+
+
 - Really?
 - Really.
 
-504
-00:27:16,830 --> 00:27:19,827
+
+
 - Huh. Really?
 - Really.
 
-505
-00:27:19,837 --> 00:27:21,998
+
+
 Hot dang, man.
 
-506
-00:27:22,008 --> 00:27:24,900
+
+
 Huh.
 
-507
-00:27:24,910 --> 00:27:27,603
+
+
 Wow.
 
-508
-00:27:27,613 --> 00:27:29,177
+
+
 Hey, you mind if we hang
 on to Junior?
 
-509
-00:27:29,277 --> 00:27:32,277
+
+
 Irma got kind of attached to him.
 
-510
-00:27:35,951 --> 00:27:37,982
+
+
 Sure.
 
-511
-00:27:37,992 --> 00:27:40,051
+
+
 Thanks, buddy.
 
-512
-00:27:40,061 --> 00:27:42,553
+
+
 You got it.
 
-513
-00:27:42,563 --> 00:27:44,555
+
+
 [Whining]
 
-514
-00:27:44,565 --> 00:27:47,562
+
+
 [Music plays]
 
-515
-00:27:58,911 --> 00:28:01,710
+
+
 # You've been so long #
 
-516
-00:28:01,720 --> 00:28:04,679
+
+
 # Your blind eyes are gone #
 
-517
-00:28:04,689 --> 00:28:07,684
+
+
 # Your old bones are on their own #
 
-518
-00:28:10,591 --> 00:28:13,588
+
+
 # So take off your coat #
 
-519
-00:28:13,598 --> 00:28:16,595
+
+
 # Put a song in your throat #
 
-520
-00:28:16,832 --> 00:28:19,833
+
+
 # Let the deadbeats pound all around #
 
-521
-00:28:23,073 --> 00:28:26,074
+
+
 # We will go nowhere we know #
 
-522
-00:28:28,979 --> 00:28:31,979
+
+
 # We don't have to talk at all #
 
-523
-00:28:35,887 --> 00:28:38,887
+
+
 [Birds twittering]
 
-524
-00:28:44,130 --> 00:28:45,531
+
+
 Wendell: [Narrating]
 So this was it.
 
-525
-00:28:45,631 --> 00:28:47,729
+
+
 A new beginning.
 
-526
-00:28:47,739 --> 00:28:50,170
+
+
 First day at my second chance.
 
-527
-00:28:50,270 --> 00:28:53,271
+
+
 [Music plays]
 
-528
-00:29:01,550 --> 00:29:04,550
+
+
 [Birds squawking]
 
-529
-00:29:08,492 --> 00:29:09,626
+
+
 Man:
 So what's the word, boss?
 
-530
-00:29:09,726 --> 00:29:12,157
+
+
 The news is... Good.
 
-531
-00:29:12,167 --> 00:29:15,333
+
+
 Baker's a three-time loser
 fresh out of Huntsville.
 
-532
-00:29:15,433 --> 00:29:18,369
+
+
 Just a pure idiot,
 imminently frame-able,
 
-533
-00:29:18,469 --> 00:29:19,705
+
+
 even more than you, McTeague.
 
-534
-00:29:19,805 --> 00:29:21,407
+
+
 - I mean, he's perfect.
 - [Fart]
 
-535
-00:29:21,507 --> 00:29:22,741
+
+
 Oh, hey, that reminds me.
 
-536
-00:29:22,841 --> 00:29:24,277
+
+
 Get Mr. Baird's estate documents,
 
-537
-00:29:24,377 --> 00:29:25,979
+
+
 and then give him
 the Greyhound Treatment.
 
-538
-00:29:26,079 --> 00:29:28,748
+
+
 - Th-the Greyhound Treatment?
 - That's right.
 
-539
-00:29:28,848 --> 00:29:31,993
+
+
 You heard me.
 Send him up to mother's.
 
-540
-00:29:35,356 --> 00:29:37,486
+
+
 She called.
 
-541
-00:29:37,496 --> 00:29:38,492
+
+
 She did?
 
-542
-00:29:38,592 --> 00:29:40,529
+
+
 - How'd she sound?
 - Pissed, man.
 
-543
-00:29:40,629 --> 00:29:42,664
+
+
 She drove all the way out to Western Union.
 
-544
-00:29:42,764 --> 00:29:44,599
+
+
 That money order
 you were supposed to send...
 
-545
-00:29:44,699 --> 00:29:47,700
+
+
 Wasn't there.
 
-546
-00:29:50,941 --> 00:29:53,941
+
+
 Damn it, Neil. Think.
 
-547
-00:29:54,411 --> 00:29:56,381
+
+
 Sports commentator: [On TV]
 Diaz delivers a fast ball.
 
-548
-00:29:56,481 --> 00:29:58,116
+
+
 That one catches the outside corner.
 
-549
-00:29:58,216 --> 00:29:59,417
+
+
 That'll even up the count...
 
-550
-00:29:59,517 --> 00:30:00,819
+
+
 Man: [Reading]
 "Earl Graham Walsh
 
-551
-00:30:00,919 --> 00:30:04,156
+
+
 was called home
 by the Lord on Tuesday the 14th."
 
-552
-00:30:04,256 --> 00:30:06,892
+
+
 [Chuckling]
 "Called home by the Lord," Skip.
 
-553
-00:30:06,992 --> 00:30:11,230
+
+
 Well, if the Lord our Jesus Christ himself
 called looking for me, do me a favour.
 
-554
-00:30:11,330 --> 00:30:12,933
+
+
 Tell him you haven't seen me.
 
-555
-00:30:13,033 --> 00:30:14,968
+
+
 Under any circumstances,
 I'm not here.
 
-556
-00:30:15,068 --> 00:30:16,036
+
+
 Roger.
 
-557
-00:30:16,136 --> 00:30:17,104
+
+
 [Funk music plays]
 
-558
-00:30:17,204 --> 00:30:18,171
+
+
 Oof!
 
-559
-00:30:18,271 --> 00:30:21,273
+
+
 [Music plays]
 
-560
-00:30:22,211 --> 00:30:25,211
+
+
 [TV chatter]
 
-561
-00:30:28,418 --> 00:30:30,787
+
+
 Y'all know y'all late. Let's go.
 
-562
-00:30:30,887 --> 00:30:32,422
+
+
 Everybody out on the lawn.
 
-563
-00:30:32,522 --> 00:30:33,790
+
+
 Whose birthday is it?
 
-564
-00:30:33,890 --> 00:30:36,427
+
+
 Ain't nobody's goddamn birthday.
 
-565
-00:30:36,527 --> 00:30:38,362
+
+
 It's a wake for Marietta Davis.
 
-566
-00:30:38,462 --> 00:30:40,659
+
+
 Condolences.
 
-567
-00:30:40,669 --> 00:30:43,067
+
+
 But I think we're going to take
 a rain check on this one.
 
-568
-00:30:43,167 --> 00:30:45,232
+
+
 Thanks though.
 
-569
-00:30:45,242 --> 00:30:48,237
+
+
 Get up.
 
-570
-00:30:49,641 --> 00:30:50,775
+
+
 [Grunt]
 
-571
-00:30:50,875 --> 00:30:53,877
+
+
 Get your ass out there.
 
-572
-00:30:53,947 --> 00:30:55,315
+
+
 Hi, Reverend.
 
-573
-00:30:55,415 --> 00:30:57,679
+
+
 McTeague.
 
-574
-00:30:57,689 --> 00:30:59,987
+
+
 What the hell you doing, Fullbright?
 
-575
-00:31:00,087 --> 00:31:03,391
+
+
 Just trying to figure out
 what to do with the rest of my life,
 
-576
-00:31:03,491 --> 00:31:06,089
+
+
 all 15 or 20 minutes of it.
 
-577
-00:31:06,099 --> 00:31:08,029
+
+
 Don't mess with me, old man.
 
-578
-00:31:08,129 --> 00:31:10,633
+
+
 Fullbright:
 McTeague, buddy, me and the boys are just relaxing.
 
-579
-00:31:10,733 --> 00:31:13,430
+
+
 Listening to the ball game.
 
-580
-00:31:13,440 --> 00:31:16,432
+
+
 [Turns radio off]
 
-581
-00:31:16,442 --> 00:31:18,642
+
+
 I think Marietta
 would have liked it that way.
 
-582
-00:31:18,742 --> 00:31:20,343
+
+
 I don't give a damn what Marietta
 would have liked.
 
-583
-00:31:20,443 --> 00:31:21,878
+
+
 She dead.
 
-584
-00:31:21,978 --> 00:31:25,294
+
+
 Neil:
 I didn't know Marietta that great.
 
-585
-00:31:25,751 --> 00:31:28,720
+
+
 The fact that she didn't know my name
 even after five years
 
-586
-00:31:28,820 --> 00:31:31,423
+
+
 made it kind of tough
 to get to know her.
 
-587
-00:31:31,523 --> 00:31:34,594
+
+
 But I know from the files
 she was an accomplished seamstress
 
-588
-00:31:34,694 --> 00:31:37,697
+
+
 and a singer
 and a mathematics teacher.
 
-589
-00:31:37,797 --> 00:31:42,903
+
+
 I guess it was Alzheimer's
 that finally brought the old gal down.
 
-590
-00:31:43,003 --> 00:31:44,972
+
+
 - And...
 - Stomach cancer.
 
-591
-00:31:45,072 --> 00:31:47,341
+
+
 - But didn't she have a little Alzheimer's too?
 - Huh?
 
-592
-00:31:47,441 --> 00:31:49,678
+
+
 Well, sh... I thought
 she had Alzheimer's.
 
-593
-00:31:49,778 --> 00:31:51,746
+
+
 She couldn't remember jack shit.
 
-594
-00:31:51,846 --> 00:31:54,015
+
+
 Okay, well, cancer makes sense also.
 
-595
-00:31:54,115 --> 00:31:56,485
+
+
 She wasn't exactly Larry Csonka
 there at the end.
 
-596
-00:31:56,585 --> 00:31:58,455
+
+
 She only weighed about 90 pounds.
 
-597
-00:31:58,555 --> 00:32:02,192
+
+
 Now having said that,
 she would knock you on your damn ass.
 
-598
-00:32:02,292 --> 00:32:04,728
+
+
 If you got between her and
 her morning medicine,
 
-599
-00:32:04,828 --> 00:32:06,764
+
+
 forget it. You were gone.
 
-600
-00:32:06,864 --> 00:32:08,700
+
+
 Now, I know they say
 cancer's pretty painful.
 
-601
-00:32:08,800 --> 00:32:10,668
+
+
 I don't know,
 I've never had it.
 
-602
-00:32:10,768 --> 00:32:13,605
+
+
 But you can't tell me that
 that old gal wasn't partying
 
-603
-00:32:13,705 --> 00:32:15,474
+
+
 just a little bit
 there at the end.
 
-604
-00:32:15,574 --> 00:32:17,343
+
+
 McTeague would see her
 coming down the hall
 
-605
-00:32:17,443 --> 00:32:20,346
+
+
 and she'd be all hopped up,
 just a-working her jaw back and fo...
 
-606
-00:32:20,446 --> 00:32:21,413
+
+
 Woman:
 Excuse me.
 
-607
-00:32:21,513 --> 00:32:23,850
+
+
 - What?
 - I... I'd like to say a word about Marietta.
 
-608
-00:32:23,950 --> 00:32:25,485
+
+
 - She was a very go...
 - Okay, no.
 
-609
-00:32:25,585 --> 00:32:28,256
+
+
 Unfortunately,
 the policy is only the staff speaks.
 
-610
-00:32:28,356 --> 00:32:31,393
+
+
 We've let that happen in the past
 and people that know the deceased
 
-611
-00:32:31,493 --> 00:32:33,762
+
+
 have a tendency to get
 a little too sentimental.
 
-612
-00:32:33,862 --> 00:32:36,031
+
+
 Grab someone
 after the meeting.
 
-613
-00:32:36,131 --> 00:32:38,200
+
+
 Uh, so we're going to miss her.
 
-614
-00:32:38,300 --> 00:32:40,236
+
+
 God bless her. That's it for me.
 
-615
-00:32:40,336 --> 00:32:41,971
+
+
 McTeague, you got anything?
 
-616
-00:32:42,071 --> 00:32:43,840
+
+
 About what?
 
-617
-00:32:43,940 --> 00:32:46,003
+
+
 Both:
 [Chortling]
 
-618
-00:32:46,013 --> 00:32:47,978
+
+
 Come on. Have some respect.
 
-619
-00:32:48,078 --> 00:32:49,647
+
+
 Okay, that's it for me.
 
-620
-00:32:49,747 --> 00:32:51,682
+
+
 Oh, wait. We'll let
 the, uh, new member of our staff,
 
-621
-00:32:51,782 --> 00:32:55,097
+
+
 Wendell Baker,
 add something. Thank you.
 
-622
-00:33:00,726 --> 00:33:01,727
+
+
 Wendell:
 A-afternoon.
 
-623
-00:33:01,827 --> 00:33:04,398
+
+
 Uh, I didn't know Marietta Davis,
 
-624
-00:33:04,498 --> 00:33:08,101
+
+
 but I can see here by you folks here
 that she was real loved
 
-625
-00:33:08,201 --> 00:33:12,040
+
+
 and even now I'll bet
 that means the world to her.
 
-626
-00:33:12,140 --> 00:33:15,743
+
+
 I recently lost someone
 that meant a lot to me.
 
-627
-00:33:15,843 --> 00:33:18,843
+
+
 She didn't pass away.
 
-628
-00:33:19,515 --> 00:33:22,515
+
+
 She just sort of passed by.
 
-629
-00:33:22,751 --> 00:33:26,488
+
+
 And it'll make you realize
 that there's some people that...
 
-630
-00:33:26,588 --> 00:33:29,188
+
+
 That you don't forget.
 
-631
-00:33:29,198 --> 00:33:31,929
+
+
 But if you can remember
 the things that she loved,
 
-632
-00:33:32,029 --> 00:33:34,432
+
+
 those things that made her happy,
 
-633
-00:33:34,532 --> 00:33:36,568
+
+
 if you see those things
 and can remember her smile
 
-634
-00:33:36,668 --> 00:33:39,471
+
+
 and just know that
 she's doing fine,
 
-635
-00:33:39,571 --> 00:33:41,601
+
+
 you'll be all right.
 
-636
-00:33:41,611 --> 00:33:44,607
+
+
 And so will she.
 
-637
-00:33:44,744 --> 00:33:47,141
+
+
 Thank you.
 
-638
-00:33:47,151 --> 00:33:49,849
+
+
 I have absolutely
 no idea what he just said.
 
-639
-00:33:49,949 --> 00:33:52,950
+
+
 New age double-talking jive.
 
-640
-00:33:53,287 --> 00:33:55,289
+
+
 Maybe he could get us laid
 or something.
 
-641
-00:33:55,389 --> 00:33:58,389
+
+
 [Laugh]
 
-642
-00:34:03,165 --> 00:34:04,900
+
+
 [Chuckling]
 Check this out.
 
-643
-00:34:05,000 --> 00:34:06,502
+
+
 Our son ain't yours?
 
-644
-00:34:06,602 --> 00:34:08,171
+
+
 - How can you tell?
 - I've only been with one person,
 
-645
-00:34:08,271 --> 00:34:09,406
+
+
 Travis, and that's you.
 
-646
-00:34:09,506 --> 00:34:10,607
+
+
 - Travis: Good.
 - [Snoring]
 
-647
-00:34:10,707 --> 00:34:12,476
+
+
 Woman: [On TV]
 It's only you, and I'm the one
 
-648
-00:34:12,576 --> 00:34:13,543
+
+
 - Two-double jack.
 - that forced you to marry me?
 
-649
-00:34:13,643 --> 00:34:15,445
+
+
 I didn't. You married me.
 
-650
-00:34:15,545 --> 00:34:18,015
+
+
 And you asked me to
 marry you and you weren't drunk.
 
-651
-00:34:18,115 --> 00:34:20,218
+
+
 Travis: [On TV]
 The hell if I wasn't.
 
-652
-00:34:20,318 --> 00:34:22,186
+
+
 Woman: [On TV]
 You don't understand. You don't.
 
-653
-00:34:22,286 --> 00:34:25,324
+
+
 You don't understand
 how much I love you and want to be with you.
 
-654
-00:34:25,424 --> 00:34:26,992
+
+
 I gave up everything.
 
-655
-00:34:27,092 --> 00:34:28,427
+
+
 Man:
 [Hacking cough]
 
-656
-00:34:28,527 --> 00:34:31,588
+
+
 Woman: [On TV]
 I gave up my family...
 
-657
-00:34:33,334 --> 00:34:34,335
+
+
 What's he doing?
 
-658
-00:34:34,435 --> 00:34:36,537
+
+
 He's letting the sunshine shine.
 
-659
-00:34:36,637 --> 00:34:39,173
+
+
 What the hell you talking about,
 Ms. Oglesby?
 
-660
-00:34:39,273 --> 00:34:42,274
+
+
 [Cheerful music on radio]
 
-661
-00:34:49,318 --> 00:34:52,318
+
+
 [Music plays]
 
-662
-00:34:57,861 --> 00:34:58,996
+
+
 Wendell:
 Just like golf.
 
-663
-00:34:59,096 --> 00:35:01,527
+
+
 Just keep your head down...
 
-664
-00:35:01,537 --> 00:35:03,596
+
+
 [Indistinct]
 
-665
-00:35:03,606 --> 00:35:06,238
+
+
 When you get better at it
 you can learn to fire your knees.
 
-666
-00:35:06,338 --> 00:35:09,338
+
+
 [Music plays]
 
-667
-00:35:22,256 --> 00:35:25,256
+
+
 Neil, you all right?
 You okay?
 
-668
-00:35:25,693 --> 00:35:28,095
+
+
 Hey, how's
 the graffiti business?
 
-669
-00:35:28,195 --> 00:35:29,163
+
+
 How's that?
 
-670
-00:35:29,263 --> 00:35:30,666
+
+
 Shut up.
 
-671
-00:35:30,766 --> 00:35:33,498
+
+
 I'm talking to this fossil.
 
-672
-00:35:33,508 --> 00:35:35,633
+
+
 Easy, Tonto.
 
-673
-00:35:35,643 --> 00:35:40,653
+
+
 Hey, I want to get to the bottom
 of this as badly as you do.
 
-674
-00:35:41,612 --> 00:35:44,748
+
+
 Now, you want to tell me what
 the hell this is?
 
-675
-00:35:44,848 --> 00:35:45,884
+
+
 "Neil King..."
 
-676
-00:35:45,984 --> 00:35:48,615
+
+
 Shut up!
 
-677
-00:35:48,625 --> 00:35:49,921
+
+
 Now, talk.
 
-678
-00:35:50,021 --> 00:35:53,391
+
+
 Or do you want a little of this?
 'Cause I'll give it to you.
 
-679
-00:35:53,491 --> 00:35:55,561
+
+
 Uh, if... If my memory
 serves me right,
 
-680
-00:35:55,661 --> 00:35:57,763
+
+
 I... I saw McTeague
 in this area with a...
 
-681
-00:35:57,863 --> 00:35:59,894
+
+
 A magic marker.
 
-682
-00:35:59,904 --> 00:36:01,300
+
+
 [Scoffing]
 
-683
-00:36:01,400 --> 00:36:03,270
+
+
 "If memory serves"?
 
-684
-00:36:03,370 --> 00:36:05,673
+
+
 Your memory couldn't
 serve a cold bowl of chili, Boyd.
 
-685
-00:36:05,773 --> 00:36:06,841
+
+
 Come on.
 
-686
-00:36:06,941 --> 00:36:10,646
+
+
 You know, I actually get
 a kick out of you, surprisingly.
 
-687
-00:36:10,746 --> 00:36:12,281
+
+
 But listen to me...
 
-688
-00:36:12,381 --> 00:36:14,116
+
+
 You lovable old has-been.
 
-689
-00:36:14,216 --> 00:36:19,155
+
+
 If you keep messing with me,
 I'm going to have to bury you. Literally.
 
-690
-00:36:19,255 --> 00:36:20,223
+
+
 Yeah?
 
-691
-00:36:20,323 --> 00:36:22,058
+
+
 Yeah.
 
-692
-00:36:22,158 --> 00:36:25,896
+
+
 Would you bury me upside down so
 it's easier for you to kiss my ass?
 
-693
-00:36:25,996 --> 00:36:27,265
+
+
 Ooh.
 
-694
-00:36:27,365 --> 00:36:28,499
+
+
 Oh-la-lay.
 
-695
-00:36:28,599 --> 00:36:30,768
+
+
 - You got a lot of heart, ese.
 - Yeah.
 
-696
-00:36:30,868 --> 00:36:32,503
+
+
 - Maybe too much.
 - Wendell:...Really tight
 
-697
-00:36:32,603 --> 00:36:34,038
+
+
 - [Door opens]
 - Skip: Sorry, guys.
 
-698
-00:36:34,138 --> 00:36:35,741
+
+
 I didn't know
 you were in here. My bad.
 
-699
-00:36:35,841 --> 00:36:37,839
+
+
 No. Hey there, guy.
 
-700
-00:36:37,849 --> 00:36:39,045
+
+
 No problem at all.
 
-701
-00:36:39,145 --> 00:36:41,080
+
+
 I don't think I got
 to meet you earlier.
 
-702
-00:36:41,180 --> 00:36:42,883
+
+
 Neil King, head nurse.
 How are ya?
 
-703
-00:36:42,983 --> 00:36:44,051
+
+
 Hi.
 
-704
-00:36:44,151 --> 00:36:46,186
+
+
 Sorry about putting you
 on the spot earlier.
 
-705
-00:36:46,286 --> 00:36:49,523
+
+
 Oh, I also spoke to my good friend,
 Junior Warden Taggert,
 
-706
-00:36:49,623 --> 00:36:52,260
+
+
 and we're going to be in close contact
 throughout your tenure here.
 
-707
-00:36:52,360 --> 00:36:54,896
+
+
 Well, I'm real excited to be here.
 
-708
-00:36:54,996 --> 00:36:57,132
+
+
 This is my first job
 in the hotel business.
 
-709
-00:36:57,232 --> 00:36:59,468
+
+
 Hey, guy, it's the retirement
 hotel business.
 
-710
-00:36:59,568 --> 00:37:00,770
+
+
 It's a different animal.
 
-711
-00:37:00,870 --> 00:37:02,872
+
+
 You've got to
 contend with kooks like this.
 
-712
-00:37:02,972 --> 00:37:03,940
+
+
 [Chuckling]
 
-713
-00:37:04,040 --> 00:37:07,579
+
+
 That being said, we strive to make
 the most of their time
 
-714
-00:37:07,679 --> 00:37:09,314
+
+
 before they head on to
 their rewards and...
 
-715
-00:37:09,414 --> 00:37:12,283
+
+
 I think we do a pretty darn
 good job.
 
-716
-00:37:12,383 --> 00:37:14,018
+
+
 I guess you can always do better.
 
-717
-00:37:14,118 --> 00:37:15,320
+
+
 I don't know though.
 
-718
-00:37:15,420 --> 00:37:17,156
+
+
 I like to think
 we do a good job.
 
-719
-00:37:17,256 --> 00:37:19,558
+
+
 Wouldn't you agree, Mr. Summers?
 
-720
-00:37:19,658 --> 00:37:21,360
+
+
 Mr. Summers? Speak honestly.
 
-721
-00:37:21,460 --> 00:37:23,892
+
+
 [Stammering]
 Absolutely.
 
-722
-00:37:23,902 --> 00:37:26,032
+
+
 Uh, as a matter of fact
 when I lay down
 
-723
-00:37:26,132 --> 00:37:28,568
+
+
 for that eternal dirt nap...
 [Chuckling]
 
-724
-00:37:28,668 --> 00:37:31,471
+
+
 - I'll know...
 - That's enough, Mr. Summers.
 
-725
-00:37:31,571 --> 00:37:33,708
+
+
 - That my time spent here...
 - Ah, we got it.
 
-726
-00:37:33,808 --> 00:37:35,176
+
+
 You're a satisfied customer.
 
-727
-00:37:35,276 --> 00:37:36,277
+
+
 ...Be blessed.
 
-728
-00:37:36,377 --> 00:37:38,375
+
+
 [Chuckling]
 
-729
-00:37:38,385 --> 00:37:41,951
+
+
 God, I just love to see
 their wrinkled old faces light up with smiles.
 
-730
-00:37:42,051 --> 00:37:43,586
+
+
 Give me one.
 You see, Wendell,
 
-731
-00:37:43,686 --> 00:37:46,322
+
+
 these two old cooze hounds
 still have a lot to offer
 
-732
-00:37:46,422 --> 00:37:49,326
+
+
 even if they do got sawdust
 in their balls.
 
-733
-00:37:49,426 --> 00:37:50,394
+
+
 Let me through.
 
-734
-00:37:50,494 --> 00:37:52,463
+
+
 Okay. Come by my office anytime.
 
-735
-00:37:52,563 --> 00:37:53,564
+
+
 Open door policy.
 
-736
-00:37:53,664 --> 00:37:56,396
+
+
 Okay. Thanks, Mr. King. I...
 
-737
-00:37:56,406 --> 00:37:58,403
+
+
 Thanks for taking me on the tour.
 I appreciate it.
 
-738
-00:37:58,503 --> 00:38:01,503
+
+
 So, uh, you lost someone?
 
-739
-00:38:02,707 --> 00:38:05,172
+
+
 Yes, I did.
 
-740
-00:38:05,182 --> 00:38:06,479
+
+
 I'm Skip Summers.
 
-741
-00:38:06,579 --> 00:38:08,676
+
+
 Boyd Fullbright.
 
-742
-00:38:08,686 --> 00:38:11,213
+
+
 Hello.
 
-743
-00:38:11,223 --> 00:38:12,854
+
+
 And I'm sorry for your loss.
 
-744
-00:38:12,954 --> 00:38:15,017
+
+
 I appreciate that.
 
-745
-00:38:15,027 --> 00:38:18,022
+
+
 [Music plays]
 
-746
-00:38:22,798 --> 00:38:23,999
+
+
 [Engine ignition]
 
-747
-00:38:24,099 --> 00:38:25,334
+
+
 Back to work, Baker.
 
-748
-00:38:25,434 --> 00:38:28,434
+
+
 [Music plays]
 
-749
-00:38:30,106 --> 00:38:32,103
+
+
 [Leaf blower roaring]
 
-750
-00:38:32,113 --> 00:38:35,108
+
+
 [Music plays]
 
-751
-00:38:52,165 --> 00:38:55,166
+
+
 [Crickets chirping]
 
-752
-00:38:56,203 --> 00:38:58,300
+
+
 Man:
 November, 1986.
 
-753
-00:38:58,310 --> 00:39:00,669
+
+
 We're playing against TCU.
 
-754
-00:39:00,679 --> 00:39:02,510
+
+
 I turned to Coach Royal, I say,
 "put me in the game."
 
-755
-00:39:02,610 --> 00:39:04,913
+
+
 And he took me
 by the shoulder pads
 
-756
-00:39:05,013 --> 00:39:06,781
+
+
 and said, "listen to me,
 you big, dumb idiot.
 
-757
-00:39:06,881 --> 00:39:10,886
+
+
 You blow this, I'm going to ship
 your ass out of Austin."
 
-758
-00:39:10,986 --> 00:39:13,984
+
+
 Sure enough... I got transferred.
 
-759
-00:39:13,994 --> 00:39:14,958
+
+
 Hey, how are ya?
 
-760
-00:39:15,058 --> 00:39:16,026
+
+
 - Good, thanks.
 - Good.
 
-761
-00:39:16,126 --> 00:39:17,427
+
+
 - How you doin'?
 - Boy: Hi.
 
-762
-00:39:17,527 --> 00:39:18,596
+
+
 I got eight lights here.
 
-763
-00:39:18,696 --> 00:39:19,664
+
+
 Okay.
 
-764
-00:39:19,764 --> 00:39:21,132
+
+
 #Lovin' on a roll #
 
-765
-00:39:21,232 --> 00:39:23,396
+
+
 # Lovin' on a good roll #
 
-766
-00:39:23,406 --> 00:39:24,602
+
+
 Man:
 You having a good night?
 
-767
-00:39:24,702 --> 00:39:27,034
+
+
 [Beeping of cash register]
 
-768
-00:39:27,044 --> 00:39:28,941
+
+
 # Usually I'm in control... #
 
-769
-00:39:29,041 --> 00:39:31,443
+
+
 It's going to be,
 uh, 18.27 for the lights.
 
-770
-00:39:31,543 --> 00:39:32,511
+
+
 # Told me this morning #
 
-771
-00:39:32,611 --> 00:39:34,676
+
+
 # She said this is my day #
 
-772
-00:39:34,686 --> 00:39:36,116
+
+
 # The look she gave me #
 
-773
-00:39:36,216 --> 00:39:39,216
+
+
 # Sent a shiver down into my soul #
 
-774
-00:39:39,586 --> 00:39:42,587
+
+
 Out of 20.
 
-775
-00:39:42,690 --> 00:39:44,559
+
+
 # Lovin' on a roll #
 
-776
-00:39:44,659 --> 00:39:47,659
+
+
 # Lovin' on a good roll #
 
-777
-00:39:50,065 --> 00:39:53,066
+
+
 Ah ah ah
 
-778
-00:39:53,736 --> 00:39:55,071
+
+
 # Lovin' on a roll #
 
-779
-00:39:55,171 --> 00:39:58,171
+
+
 Here's your change.
 
-780
-00:39:58,374 --> 00:40:01,375
+
+
 Keep it.
 
-781
-00:40:01,545 --> 00:40:04,545
+
+
 Okay.
 
-782
-00:40:04,982 --> 00:40:05,949
+
+
 Have a nice night.
 
-783
-00:40:06,049 --> 00:40:07,018
+
+
 Wendell:
 Whatever.
 
-784
-00:40:07,118 --> 00:40:10,118
+
+
 [Music plays]
 
-785
-00:40:17,564 --> 00:40:19,065
+
+
 Grady, get back to work.
 
-786
-00:40:19,165 --> 00:40:22,165
+
+
 [Music plays]
 
-787
-00:40:24,205 --> 00:40:26,602
+
+
 - Hi.
 - Hey.
 
-788
-00:40:26,612 --> 00:40:28,543
+
+
 There's my favourite customer.
 
-789
-00:40:28,643 --> 00:40:29,610
+
+
 Let me help you.
 
-790
-00:40:29,710 --> 00:40:32,711
+
+
 Great.
 
-791
-00:40:33,248 --> 00:40:34,883
+
+
 # Lovin' on a roll #
 
-792
-00:40:34,983 --> 00:40:36,985
+
+
 Wendell: [Narrating]
 Turns out there was something I'd forgotten
 
-793
-00:40:37,085 --> 00:40:40,623
+
+
 to put on my grocery list
 but I really needed to get.
 
-794
-00:40:40,723 --> 00:40:43,388
+
+
 Doreen, my girlfriend.
 
-795
-00:40:43,398 --> 00:40:46,394
+
+
 [Music plays]
 
-796
-00:40:47,465 --> 00:40:50,465
+
+
 # Ever I chance to meet #
 
-797
-00:40:50,936 --> 00:40:53,936
+
+
 # An old friend on the street #
 
-798
-00:40:54,472 --> 00:40:58,212
+
+
 # They wonder how
 does a man get to be this way #
 
-799
-00:41:01,681 --> 00:41:04,682
+
+
 # I've always got a smilin' face #
 
-800
-00:41:05,752 --> 00:41:08,752
+
+
 # Uh, anytime and anyplace #
 
-801
-00:41:09,289 --> 00:41:11,491
+
+
 # And every time they ask me why #
 
-802
-00:41:11,591 --> 00:41:14,592
+
+
 # I just smile and say #
 
-803
-00:41:15,563 --> 00:41:16,764
+
+
 Hmph!
 
-804
-00:41:16,864 --> 00:41:20,180
+
+
 # You've got to
 kiss an angel good morning #
 
-805
-00:41:20,403 --> 00:41:24,823
+
+
 # And let her know you think
 about her when you're gone #
 
-806
-00:41:25,642 --> 00:41:26,776
+
+
 # Kiss an angel good morning #
 
-807
-00:41:26,876 --> 00:41:28,646
+
+
 - Hi, handsome.
 - Hey.
 
-808
-00:41:28,746 --> 00:41:30,147
+
+
 # And love her like the devil #
 
-809
-00:41:30,247 --> 00:41:32,912
+
+
 # When you get back home #
 
-810
-00:41:32,922 --> 00:41:35,614
+
+
 Her name's Doreen.
 
-811
-00:41:35,624 --> 00:41:37,617
+
+
 Yeah? That so?
 
-812
-00:41:37,627 --> 00:41:39,391
+
+
 Pretty fine.
 
-813
-00:41:39,491 --> 00:41:42,127
+
+
 Oh, and you just kind of sit there
 and ogle her all day long?
 
-814
-00:41:42,227 --> 00:41:43,362
+
+
 That how you do it, kid?
 
-815
-00:41:43,462 --> 00:41:45,131
+
+
 What are you doing, dude?
 
-816
-00:41:45,231 --> 00:41:47,929
+
+
 Hey, don't call me dude, bro'.
 
-817
-00:41:47,939 --> 00:41:50,404
+
+
 And another thing,
 nobody likes a wise ass, kid.
 
-818
-00:41:50,504 --> 00:41:51,705
+
+
 Trust me.
 
-819
-00:41:51,805 --> 00:41:53,141
+
+
 Now, beat it.
 
-820
-00:41:53,241 --> 00:41:56,241
+
+
 # A woman and a man in love #
 
-821
-00:41:56,311 --> 00:41:59,311
+
+
 # And the answer is in this song #
 
-822
-00:41:59,647 --> 00:42:02,648
+
+
 # That I always sing #
 
-823
-00:42:03,119 --> 00:42:06,434
+
+
 # You've got to
 kiss an angel good morning #
 
-824
-00:42:08,391 --> 00:42:12,811
+
+
 # And let her know you think
 about her when you're gone #
 
-825
-00:42:13,196 --> 00:42:16,196
+
+
 # So kiss an angel good morning #
 
-826
-00:42:16,433 --> 00:42:17,468
+
+
 Can I help you?
 
-827
-00:42:17,568 --> 00:42:20,569
+
+
 Nah, I already found it. Thanks.
 
-828
-00:42:21,273 --> 00:42:23,303
+
+
 Oh, yeah.
 
-829
-00:42:23,313 --> 00:42:24,276
+
+
 Thanks.
 
-830
-00:42:24,376 --> 00:42:26,346
+
+
 Say, uh, where's the cottage cheese at?
 
-831
-00:42:26,446 --> 00:42:27,547
+
+
 Cottage cheese?
 
-832
-00:42:27,647 --> 00:42:30,707
+
+
 - Yeah.
 - Oh, just right down over...
 
-833
-00:42:33,888 --> 00:42:36,888
+
+
 Just tell me if
 you don't stock it.
 
-834
-00:42:37,191 --> 00:42:40,191
+
+
 You're Wendell Baker, aren't you?
 
-835
-00:42:40,761 --> 00:42:42,931
+
+
 You're a real
 character, aren't you?
 
-836
-00:42:43,031 --> 00:42:45,133
+
+
 God, you're a real character.
 
-837
-00:42:45,233 --> 00:42:47,264
+
+
 Now, look,
 
-838
-00:42:47,274 --> 00:42:51,350
+
+
 I don't want you around, Baker,
 following Doreen,
 
-839
-00:42:51,475 --> 00:42:53,777
+
+
 trying to screw her life up too.
 
-840
-00:42:53,877 --> 00:42:56,046
+
+
 I'm warning you. You get lost.
 
-841
-00:42:56,146 --> 00:42:57,548
+
+
 Do you hear me?
 
-842
-00:42:57,648 --> 00:43:00,649
+
+
 You get lost!
 
-843
-00:43:02,720 --> 00:43:05,720
+
+
 There's trash on aisle six, Grady.
 
-844
-00:43:12,832 --> 00:43:15,833
+
+
 Doreen:
 Wendell?
 
-845
-00:43:17,237 --> 00:43:18,805
+
+
 Wow.
 
-846
-00:43:18,905 --> 00:43:21,169
+
+
 You look great.
 
-847
-00:43:21,179 --> 00:43:23,707
+
+
 Healthy as a horse.
 
-848
-00:43:23,717 --> 00:43:24,980
+
+
 I mean, a little horse.
 
-849
-00:43:25,080 --> 00:43:28,080
+
+
 A Shetland pony.
 
-850
-00:43:30,219 --> 00:43:31,755
+
+
 How are you?
 
-851
-00:43:31,855 --> 00:43:33,223
+
+
 I'm good, Wendell.
 
-852
-00:43:33,323 --> 00:43:36,323
+
+
 How are you?
 
-853
-00:43:36,893 --> 00:43:41,098
+
+
 Besides your boyfriend jumping me while
 I'm grocery shopping,
 
-854
-00:43:41,198 --> 00:43:42,366
+
+
 I'm all right, I guess.
 
-855
-00:43:42,466 --> 00:43:43,868
+
+
 He said you
 were stalking me.
 
-856
-00:43:43,968 --> 00:43:45,636
+
+
 Watching, that's all.
 
-857
-00:43:45,736 --> 00:43:47,839
+
+
 I'd watch out for
 this Grady kid, though.
 
-858
-00:43:47,939 --> 00:43:49,541
+
+
 So, is this your boyfriend's place?
 
-859
-00:43:49,641 --> 00:43:50,609
+
+
 Uh-huh.
 
-860
-00:43:50,709 --> 00:43:52,010
+
+
 He runs it with his brothers.
 
-861
-00:43:52,110 --> 00:43:53,813
+
+
 So lunkhead's pretty successful?
 
-862
-00:43:53,913 --> 00:43:56,784
+
+
 'Cause once I'm back on my feet
 the money will come.
 
-863
-00:43:56,884 --> 00:43:58,886
+
+
 I've never cared
 about money, Wendell,
 
-864
-00:43:58,986 --> 00:44:00,287
+
+
 and I've always
 taken care of myself.
 
-865
-00:44:00,387 --> 00:44:02,056
+
+
 You know that.
 
-866
-00:44:02,156 --> 00:44:04,059
+
+
 I'm with Dave
 because I care about him
 
-867
-00:44:04,159 --> 00:44:05,927
+
+
 and he feels the same way
 about me.
 
-868
-00:44:06,027 --> 00:44:09,027
+
+
 [Clears throat]
 Pretty vague.
 
-869
-00:44:09,731 --> 00:44:13,169
+
+
 I'm not going to be with someone just
 for the sake of not being alone.
 
-870
-00:44:13,269 --> 00:44:14,770
+
+
 I've been alone.
 
-871
-00:44:14,870 --> 00:44:16,901
+
+
 It doesn't scare me.
 
-872
-00:44:16,911 --> 00:44:19,576
+
+
 Now, being with someone
 and still feeling alone,
 
-873
-00:44:19,676 --> 00:44:22,676
+
+
 that's a feeling I don't like.
 
-874
-00:44:24,549 --> 00:44:26,784
+
+
 I'm glad you're out of Huntsville.
 
-875
-00:44:26,884 --> 00:44:29,944
+
+
 But I can't be in your life anymore.
 
-876
-00:44:29,988 --> 00:44:31,723
+
+
 You'll find someone else.
 
-877
-00:44:31,823 --> 00:44:33,492
+
+
 You just
 have to find yourself first
 
-878
-00:44:33,592 --> 00:44:35,528
+
+
 and figure out
 what you want out of your life.
 
-879
-00:44:35,628 --> 00:44:38,628
+
+
 And you found somebody else?
 
-880
-00:44:39,399 --> 00:44:40,733
+
+
 - Yeah.
 - [Door opening/closing]
 
-881
-00:44:40,833 --> 00:44:41,801
+
+
 I have.
 
-882
-00:44:41,901 --> 00:44:42,969
+
+
 Doreen? You all right?
 
-883
-00:44:43,069 --> 00:44:45,106
+
+
 Hey, Dave. Yeah, I'm good.
 
-884
-00:44:45,206 --> 00:44:47,903
+
+
 I'm fine. Thank you.
 
-885
-00:44:47,913 --> 00:44:48,876
+
+
 Really.
 
-886
-00:44:48,976 --> 00:44:49,977
+
+
 [Mouthing]
 
-887
-00:44:50,077 --> 00:44:51,045
+
+
 Dave:
 Sure?
 
-888
-00:44:51,145 --> 00:44:52,147
+
+
 Doreen:
 Yeah.
 
-889
-00:44:52,247 --> 00:44:53,648
+
+
 [Mouthing]
 
-890
-00:44:53,748 --> 00:44:56,547
+
+
 - Yeah.
 - [Mouthing]
 
-891
-00:44:56,557 --> 00:44:57,920
+
+
 You know, Wendell.
 
-892
-00:44:58,020 --> 00:45:02,426
+
+
 I went through a hard time,
 but now I'm happy with my life.
 
-893
-00:45:02,526 --> 00:45:04,094
+
+
 Wendell:
 You could be thrilled.
 
-894
-00:45:04,194 --> 00:45:06,396
+
+
 Doreen:
 That's what you always said, Wendell.
 
-895
-00:45:06,496 --> 00:45:08,466
+
+
 Wendell:
 Yeah, but things are different now.
 
-896
-00:45:08,566 --> 00:45:11,102
+
+
 I-I mean, I can't believe you have
 as much fun
 
-897
-00:45:11,202 --> 00:45:14,239
+
+
 - with some guy as you did with me.
 - [Indistinct yelling]
 
-898
-00:45:14,339 --> 00:45:16,007
+
+
 I mean, for every tough time
 we had together,
 
-899
-00:45:16,107 --> 00:45:18,911
+
+
 I'll name you five
 great times we had.
 
-900
-00:45:19,011 --> 00:45:20,146
+
+
 Doreen:
 When you were sent away
 
-901
-00:45:20,246 --> 00:45:21,914
+
+
 it was just
 another adventure for you.
 
-902
-00:45:22,014 --> 00:45:26,349
+
+
 For me, it was
 the saddest, hardest time of my life.
 
-903
-00:45:27,355 --> 00:45:30,291
+
+
 But I got through it.
 And I got through it alone.
 
-904
-00:45:30,391 --> 00:45:33,392
+
+
 And it ended it for me.
 
-905
-00:45:33,595 --> 00:45:37,505
+
+
 I need you to accept that
 and move on, Wendell.
 
-906
-00:45:37,866 --> 00:45:40,867
+
+
 Will you do that for me?
 
-907
-00:45:41,037 --> 00:45:46,142
+
+
 I'm not going to tell you that
 I'm going to forget about you, Doreen.
 
-908
-00:45:46,242 --> 00:45:49,243
+
+
 'Cause I'm not. Ever.
 
-909
-00:45:55,085 --> 00:45:58,087
+
+
 But I'll stop coming around.
 
-910
-00:46:00,693 --> 00:46:03,693
+
+
 It's good to see your face again.
 
-911
-00:46:05,299 --> 00:46:07,601
+
+
 I'll always be hoping
 that you're doing fine.
 
-912
-00:46:07,701 --> 00:46:10,701
+
+
 [Music plays]
 
-913
-00:46:20,148 --> 00:46:23,149
+
+
 [Door opens/closes]
 
-914
-00:46:38,704 --> 00:46:40,305
+
+
 Neil: [On P.A.]
 Well, we're shutting it down
 
-915
-00:46:40,405 --> 00:46:42,307
+
+
 here at Shady Grove
 for the night.
 
-916
-00:46:42,407 --> 00:46:44,042
+
+
 Great job, everyone, today.
 
-917
-00:46:44,142 --> 00:46:45,477
+
+
 The yard looks terrific.
 
-918
-00:46:45,577 --> 00:46:49,572
+
+
 The new paint on
 the upstairs awning, wonderful.
 
-919
-00:46:50,383 --> 00:46:51,818
+
+
 It was a great day.
 
-920
-00:46:51,918 --> 00:46:55,923
+
+
 I'm proud of each
 and every one of you for staying alive.
 
-921
-00:46:56,023 --> 00:46:58,420
+
+
 I guess that's about it.
 
-922
-00:46:58,430 --> 00:47:02,421
+
+
 This is Neil King,
 your head nurse, signing off.
 
-923
-00:47:03,432 --> 00:47:04,634
+
+
 [Microphone feedback]
 
-924
-00:47:04,734 --> 00:47:07,734
+
+
 - What a nut.
 - Yeah.
 
-925
-00:47:08,604 --> 00:47:11,708
+
+
 So you think this guy Wendell Baker's
 going to be a problem?
 
-926
-00:47:11,808 --> 00:47:14,478
+
+
 Are you kidding me?
 The guy's too dumb.
 
-927
-00:47:14,578 --> 00:47:16,947
+
+
 Uh, "thank you very
 much for this job.
 
-928
-00:47:17,047 --> 00:47:19,450
+
+
 This, it's my first job
 in the hotel business."
 
-929
-00:47:19,550 --> 00:47:20,952
+
+
 [Laughing]
 
-930
-00:47:21,052 --> 00:47:24,789
+
+
 What was that at
 the wake? "I recently lost someone.
 
-931
-00:47:24,889 --> 00:47:28,360
+
+
 They didn't pass away,
 they just passed me by."
 
-932
-00:47:28,460 --> 00:47:29,495
+
+
 "Passed me by."
 
-933
-00:47:29,595 --> 00:47:32,596
+
+
 [Laughing]
 
-934
-00:47:34,033 --> 00:47:36,103
+
+
 Oh, and I'll tell you this about Baker.
 
-935
-00:47:36,203 --> 00:47:37,838
+
+
 He's the perfect guy to frame.
 
-936
-00:47:37,938 --> 00:47:41,642
+
+
 Like I said earlier, if the heat
 comes down, we frame Baker so fast
 
-937
-00:47:41,742 --> 00:47:42,743
+
+
 it makes his head spin.
 
-938
-00:47:42,843 --> 00:47:43,812
+
+
 That's harsh.
 
-939
-00:47:43,912 --> 00:47:47,142
+
+
 Neil:
 Hey. Don't go getting soft on me.
 
-940
-00:47:48,650 --> 00:47:51,754
+
+
 You're the only person I trust on this.
 
-941
-00:47:51,854 --> 00:47:54,854
+
+
 And you're my best friend.
 
-942
-00:47:55,291 --> 00:47:58,291
+
+
 [Softly]
 Don't go chasing waterfalls
 
-943
-00:47:59,830 --> 00:48:02,261
+
+
 Listen to the rivers
 
-944
-00:48:02,271 --> 00:48:05,267
+
+
 And the lakes
 that you used to know
 
-945
-00:48:05,937 --> 00:48:08,938
+
+
 [Crickets chirping]
 
-946
-00:48:31,065 --> 00:48:34,066
+
+
 [Clatter of film projector]
 
-947
-00:48:47,251 --> 00:48:48,820
+
+
 Oh. Excuse me, sir,
 
-948
-00:48:48,920 --> 00:48:52,023
+
+
 I... I noticed the light
 and I wanted to introduce myself.
 
-949
-00:48:52,123 --> 00:48:55,123
+
+
 I'm Wendell Baker.
 
-950
-00:48:58,397 --> 00:49:01,397
+
+
 I'm Nasher.
 
-951
-00:49:01,601 --> 00:49:04,602
+
+
 It's good to meet you.
 
-952
-00:49:06,975 --> 00:49:09,975
+
+
 Um, you know, uh, uh, I ju...
 
-953
-00:49:11,112 --> 00:49:13,682
+
+
 I just wanted to introduce myself
 and, uh, yeah, if you need anything,
 
-954
-00:49:13,782 --> 00:49:14,750
+
+
 just... Just let me know.
 
-955
-00:49:14,850 --> 00:49:17,214
+
+
 And, uh, yeah, so.
 
-956
-00:49:17,224 --> 00:49:19,283
+
+
 - Baker?
 - Yes, sir?
 
-957
-00:49:19,293 --> 00:49:22,626
+
+
 Could you pick up
 the September "Popular Mechanics"?
 
-958
-00:49:22,726 --> 00:49:24,094
+
+
 I'll reimburse you.
 
-959
-00:49:24,194 --> 00:49:25,195
+
+
 You bet.
 
-960
-00:49:25,295 --> 00:49:27,798
+
+
 I'll, uh, I'll pick it up tonight
 and bring it by tomorrow morning.
 
-961
-00:49:27,898 --> 00:49:28,966
+
+
 And by the way, sir,
 you can feel free to...
 
-962
-00:49:29,066 --> 00:49:32,066
+
+
 Call you Wendell.
 
-963
-00:49:32,470 --> 00:49:35,470
+
+
 Yeah. That's right.
 
-964
-00:49:37,544 --> 00:49:39,612
+
+
 And yeah, so I'll pick that...
 You know,
 
-965
-00:49:39,712 --> 00:49:41,981
+
+
 I'll have... Have it for you in
 the morning, sir.
 
-966
-00:49:42,081 --> 00:49:45,081
+
+
 Excuse me.
 
-967
-00:49:49,990 --> 00:49:52,990
+
+
 [Groaning]
 
-968
-00:49:55,730 --> 00:49:58,730
+
+
 Skip?
 
-969
-00:49:58,767 --> 00:50:00,830
+
+
 How are your spirits?
 
-970
-00:50:00,840 --> 00:50:03,734
+
+
 I'm fine.
 
-971
-00:50:03,744 --> 00:50:06,370
+
+
 You sound a little down.
 
-972
-00:50:06,380 --> 00:50:08,512
+
+
 Maybe you want to talk to me.
 
-973
-00:50:08,612 --> 00:50:10,610
+
+
 Is it Lynn?
 
-974
-00:50:10,620 --> 00:50:13,615
+
+
 Goddamn it.
 
-975
-00:50:19,592 --> 00:50:20,926
+
+
 I really miss her.
 
-976
-00:50:21,026 --> 00:50:24,026
+
+
 I know, Skip.
 
-977
-00:50:25,598 --> 00:50:28,599
+
+
 She was my girl.
 
-978
-00:50:34,208 --> 00:50:36,210
+
+
 Couldn't have loved her more
 
-979
-00:50:36,310 --> 00:50:41,183
+
+
 and I damn sure didn't need her
 to be taken away to appreciate her.
 
-980
-00:50:41,283 --> 00:50:44,284
+
+
 I know it, Skip.
 
-981
-00:50:48,191 --> 00:50:51,156
+
+
 Those trees are lit up.
 
-982
-00:50:51,166 --> 00:50:52,229
+
+
 [Knocking]
 
-983
-00:50:52,329 --> 00:50:55,329
+
+
 [Door opens]
 
-984
-00:50:55,466 --> 00:50:56,534
+
+
 Mr. Fullbright?
 
-985
-00:50:56,634 --> 00:50:58,102
+
+
 Mr. Summers?
 
-986
-00:50:58,202 --> 00:50:59,938
+
+
 Hey. It's Wendell Baker.
 
-987
-00:51:00,038 --> 00:51:01,406
+
+
 How you two doing?
 
-988
-00:51:01,506 --> 00:51:03,375
+
+
 Man down, Baker.
 
-989
-00:51:03,475 --> 00:51:06,475
+
+
 Skip's missing his wife.
 
-990
-00:51:10,550 --> 00:51:12,981
+
+
 I understand.
 
-991
-00:51:12,991 --> 00:51:15,284
+
+
 I'm missing my girlfriend.
 
-992
-00:51:15,294 --> 00:51:18,289
+
+
 Doreen.
 
-993
-00:51:19,027 --> 00:51:20,428
+
+
 Is she alive?
 
-994
-00:51:20,528 --> 00:51:22,725
+
+
 Yeah. She is.
 
-995
-00:51:22,735 --> 00:51:25,029
+
+
 Do you love her?
 
-996
-00:51:25,039 --> 00:51:28,034
+
+
 Yeah. Yeah, I do.
 
-997
-00:51:28,137 --> 00:51:31,138
+
+
 Does she know it?
 
-998
-00:51:32,676 --> 00:51:35,676
+
+
 I sure hope so, Mr. Summers.
 
-999
-00:51:35,745 --> 00:51:38,745
+
+
 That's a no.
 
-1000
-00:51:40,017 --> 00:51:43,221
+
+
 Well, if she's out there
 and you love her,
 
-1001
-00:51:43,321 --> 00:51:45,390
+
+
 - you've got to tell her.
 - Yeah.
 
-1002
-00:51:45,490 --> 00:51:47,260
+
+
 Boyd:
 But only if it's the real love
 
-1003
-00:51:47,360 --> 00:51:49,128
+
+
 and not just because
 you don't like the idea
 
-1004
-00:51:49,228 --> 00:51:52,228
+
+
 of some dude sweating on her.
 
-1005
-00:51:53,166 --> 00:51:54,767
+
+
 [Exhale]
 
-1006
-00:51:54,867 --> 00:51:57,868
+
+
 Got a light?
 
-1007
-00:52:01,075 --> 00:52:02,843
+
+
 Will you guys help me
 with something tomorrow?
 
-1008
-00:52:02,943 --> 00:52:05,944
+
+
 Will you help us get laid?
 
-1009
-00:52:07,048 --> 00:52:08,650
+
+
 We'll help you, Wendell.
 
-1010
-00:52:08,750 --> 00:52:11,750
+
+
 [Music plays]
 
-1011
-00:52:13,724 --> 00:52:14,791
+
+
 Hey, Marianna.
 
-1012
-00:52:14,891 --> 00:52:17,289
+
+
 - Hello.
 - Hello.
 
-1013
-00:52:17,299 --> 00:52:19,496
+
+
 - I'm looking f...
 - She's not here, Wendell.
 
-1014
-00:52:19,596 --> 00:52:21,899
+
+
 If you'll just let me finish, Marianna.
 
-1015
-00:52:21,999 --> 00:52:24,936
+
+
 If you could just let me finish
 what I was going to say.
 
-1016
-00:52:25,036 --> 00:52:27,100
+
+
 I'm looking for Doreen.
 
-1017
-00:52:27,110 --> 00:52:28,507
+
+
 She's not here.
 
-1018
-00:52:28,607 --> 00:52:33,679
+
+
 I'm looking for her because I love her
 and I want to tell her right now.
 
-1019
-00:52:33,779 --> 00:52:37,550
+
+
 Okay. Well, she's still not here
 because she doesn't work here anymore.
 
-1020
-00:52:37,650 --> 00:52:40,650
+
+
 And to be honest, she's over you.
 
-1021
-00:52:44,960 --> 00:52:46,990
+
+
 Look, Marianna.
 
-1022
-00:52:47,000 --> 00:52:49,598
+
+
 I know you
 and I never really hit it off
 
-1023
-00:52:49,698 --> 00:52:52,935
+
+
 and at times you might not
 have even liked me all that much.
 
-1024
-00:52:53,035 --> 00:52:54,337
+
+
 I don't.
 
-1025
-00:52:54,437 --> 00:52:55,405
+
+
 Jesus.
 
-1026
-00:52:55,505 --> 00:52:56,873
+
+
 Wow.
 
-1027
-00:52:56,973 --> 00:52:57,940
+
+
 Did she get my letter?
 
-1028
-00:52:58,040 --> 00:52:59,742
+
+
 It was a postcard.
 
-1029
-00:52:59,842 --> 00:53:02,780
+
+
 Don't be a wise ass, honey.
 Nobody likes them. Trust me.
 
-1030
-00:53:02,880 --> 00:53:05,416
+
+
 And I don't expect you to understand,
 Marianna. I don't.
 
-1031
-00:53:05,516 --> 00:53:08,485
+
+
 Because you have never, ever had
 somebody feel about you
 
-1032
-00:53:08,585 --> 00:53:09,921
+
+
 the way that I do about Doreen.
 
-1033
-00:53:10,021 --> 00:53:13,931
+
+
 - So I'd appreci...
 - Wait in the car, big guy.
 
-1034
-00:53:13,958 --> 00:53:15,728
+
+
 Boyd:
 I think we got off on the wrong foot.
 
-1035
-00:53:15,828 --> 00:53:19,599
+
+
 W-we just need to know where
 Doreen's working now.
 
-1036
-00:53:19,699 --> 00:53:20,667
+
+
 Thank you.
 
-1037
-00:53:20,767 --> 00:53:22,903
+
+
 Boyd:
 Or at least her phone number.
 
-1038
-00:53:23,003 --> 00:53:27,275
+
+
 Yeah, well, I'm not
 exactly authorized to tell you that,
 
-1039
-00:53:27,375 --> 00:53:29,210
+
+
 whoever the hell you are.
 
-1040
-00:53:29,310 --> 00:53:31,813
+
+
 Is there anything
 you're authorized to do?
 
-1041
-00:53:31,913 --> 00:53:34,717
+
+
 Besides not knowing
 a goddamn thing?
 
-1042
-00:53:34,817 --> 00:53:35,918
+
+
 Yeah.
 
-1043
-00:53:36,018 --> 00:53:38,448
+
+
 Rolodex.
 
-1044
-00:53:38,458 --> 00:53:39,421
+
+
 Jesus.
 
-1045
-00:53:39,521 --> 00:53:40,856
+
+
 What's your story?
 
-1046
-00:53:40,956 --> 00:53:41,991
+
+
 Come on, Skip. Let's go.
 
-1047
-00:53:42,091 --> 00:53:44,389
+
+
 [Ripping]
 
-1048
-00:53:44,399 --> 00:53:46,162
+
+
 I'm glad she wasn't there.
 
-1049
-00:53:46,262 --> 00:53:47,898
+
+
 She said she doesn't want to see me.
 
-1050
-00:53:47,998 --> 00:53:49,400
+
+
 Told her I'd stop coming around.
 
-1051
-00:53:49,500 --> 00:53:53,410
+
+
 The truth is, if I love her,
 I'll keep my word.
 
-1052
-00:53:55,173 --> 00:53:58,174
+
+
 Man, that chick's crazy.
 
-1053
-00:54:01,647 --> 00:54:04,647
+
+
 [Music plays]
 
-1054
-00:54:13,360 --> 00:54:15,758
+
+
 Who are you guys?
 
-1055
-00:54:15,768 --> 00:54:18,367
+
+
 This is Skip "Landslide" Summers
 
-1056
-00:54:18,467 --> 00:54:20,069
+
+
 and I'm Boyd "Flood" Fullbright.
 
-1057
-00:54:20,169 --> 00:54:21,437
+
+
 Flood?
 
-1058
-00:54:21,537 --> 00:54:25,208
+
+
 Yeah, baby. Because when the levee
 breaks, the river gonna rise.
 
-1059
-00:54:25,308 --> 00:54:27,873
+
+
 Hmm.
 
-1060
-00:54:27,883 --> 00:54:30,013
+
+
 I'll have three cans
 of this cold gold
 
-1061
-00:54:30,113 --> 00:54:32,650
+
+
 - for me and my pal, Shiloh.
 - [Mouthing]
 
-1062
-00:54:32,750 --> 00:54:35,750
+
+
 And a carton of those easy gliders.
 
-1063
-00:54:38,590 --> 00:54:40,526
+
+
 You need anything, Skip?
 
-1064
-00:54:40,626 --> 00:54:42,394
+
+
 This'll do.
 
-1065
-00:54:42,494 --> 00:54:44,725
+
+
 Okay, three beers is 3.11.
 
-1066
-00:54:44,735 --> 00:54:46,766
+
+
 May, will you get the price
 on his t-shirt?
 
-1067
-00:54:46,866 --> 00:54:48,802
+
+
 I don't care who thinks we're silly
 
-1068
-00:54:48,903 --> 00:54:51,834
+
+
 You be daffy and I'll be dilly
 
-1069
-00:54:51,844 --> 00:54:54,840
+
+
 We'll order up two bowls of chili
 
-1070
-00:54:54,976 --> 00:54:57,976
+
+
 Settin' the woods on fire
 
-1071
-00:54:58,680 --> 00:54:59,981
+
+
 Aren't you a little old?
 
-1072
-00:55:00,081 --> 00:55:01,349
+
+
 For what?
 
-1073
-00:55:01,449 --> 00:55:04,450
+
+
 You know. Too old to...
 
-1074
-00:55:04,553 --> 00:55:07,023
+
+
 Well, that would be wasting
 a lifetime of experience, wouldn't it?
 
-1075
-00:55:07,123 --> 00:55:08,324
+
+
 I'm serious.
 
-1076
-00:55:08,424 --> 00:55:12,062
+
+
 So am I. Many a fine tune
 has been played on an old guitar.
 
-1077
-00:55:12,162 --> 00:55:14,826
+
+
 [Giggling]
 
-1078
-00:55:14,836 --> 00:55:17,067
+
+
 I'll find your G-spot,
 five seconds.
 
-1079
-00:55:17,167 --> 00:55:18,135
+
+
 [Gasp of disbelief]
 
-1080
-00:55:18,235 --> 00:55:19,204
+
+
 Ten max.
 
-1081
-00:55:19,304 --> 00:55:21,073
+
+
 May?
 
-1082
-00:55:21,173 --> 00:55:23,370
+
+
 7.99.
 
-1083
-00:55:23,380 --> 00:55:26,045
+
+
 Girl:
 Thank you. 19.98's your total.
 
-1084
-00:55:26,145 --> 00:55:29,146
+
+
 [Music plays]
 
-1085
-00:55:31,017 --> 00:55:32,619
+
+
 Here, hold this.
 
-1086
-00:55:32,719 --> 00:55:35,720
+
+
 Be right there.
 
-1087
-00:55:37,191 --> 00:55:38,492
+
+
 Wendell:
 Mr. Summers, what's going on?
 
-1088
-00:55:38,592 --> 00:55:40,461
+
+
 We're coming!
 
-1089
-00:55:40,561 --> 00:55:43,561
+
+
 [Music plays]
 
-1090
-00:55:44,766 --> 00:55:46,001
+
+
 May.
 
-1091
-00:55:46,101 --> 00:55:47,703
+
+
 My friend Skip would like
 your phone number.
 
-1092
-00:55:47,803 --> 00:55:48,904
+
+
 May, don't.
 
-1093
-00:55:49,004 --> 00:55:51,173
+
+
 You'll get hotter than a poker
 
-1094
-00:55:51,274 --> 00:55:54,044
+
+
 You'll be broke but I'll be broker
 
-1095
-00:55:54,144 --> 00:55:57,114
+
+
 Tonight we're settin' the woods on fire
 
-1096
-00:55:57,214 --> 00:56:00,215
+
+
 We'll sit close to one another...
 
-1097
-00:56:00,552 --> 00:56:02,287
+
+
 Thanks, May.
 
-1098
-00:56:02,387 --> 00:56:05,387
+
+
 Hey, mister?
 
-1099
-00:56:05,490 --> 00:56:06,524
+
+
 Yeah?
 
-1100
-00:56:06,624 --> 00:56:09,862
+
+
 Did you really mean what
 you said about being able to find my, um...?
 
-1101
-00:56:09,962 --> 00:56:11,430
+
+
 Every word.
 
-1102
-00:56:11,530 --> 00:56:14,362
+
+
 To fix a flat or two
 
-1103
-00:56:14,372 --> 00:56:17,368
+
+
 My tires and tubes
 are doin' fine...
 
-1104
-00:56:17,771 --> 00:56:19,768
+
+
 Here you go.
 
-1105
-00:56:19,778 --> 00:56:20,774
+
+
 What's this?
 
-1106
-00:56:20,874 --> 00:56:22,409
+
+
 May's phone number.
 
-1107
-00:56:22,510 --> 00:56:23,678
+
+
 Wow.
 
-1108
-00:56:23,778 --> 00:56:25,147
+
+
 Gee, thanks, Boyd.
 
-1109
-00:56:25,247 --> 00:56:26,815
+
+
 We'll do all the law's allowin'
 
-1110
-00:56:26,915 --> 00:56:29,652
+
+
 - Tomorrow I'll be right back ploughin'
 - May?
 
-1111
-00:56:29,752 --> 00:56:32,753
+
+
 - Huh?
 - Setting the woods on fire
 
-1112
-00:56:33,223 --> 00:56:36,092
+
+
 I used to come on a little stronger
 in my younger days.
 
-1113
-00:56:36,192 --> 00:56:38,561
+
+
 "Hey, baby, let's jam right now."
 
-1114
-00:56:38,661 --> 00:56:39,663
+
+
 Simple. Direct.
 
-1115
-00:56:39,763 --> 00:56:43,567
+
+
 Uh, w-with all due respect, I'm not here
 to drive you two around while you play grab-ass.
 
-1116
-00:56:43,667 --> 00:56:46,237
+
+
 - I really...
 - Skip just had a connection with this girl.
 
-1117
-00:56:46,337 --> 00:56:48,005
+
+
 So take it easy, okay?
 
-1118
-00:56:48,105 --> 00:56:51,165
+
+
 The guy hasn't
 been laid in 20 years.
 
-1119
-00:56:54,213 --> 00:56:57,214
+
+
 I'm sorry. I-I apologize.
 
-1120
-00:57:08,263 --> 00:57:10,065
+
+
 Good morning, ladies. Hmm.
 
-1121
-00:57:10,165 --> 00:57:12,801
+
+
 Put the rake down, Draper.
 I'm taking you on an errand.
 
-1122
-00:57:12,901 --> 00:57:15,902
+
+
 Buzz off.
 
-1123
-00:57:16,505 --> 00:57:17,974
+
+
 Drop it.
 
-1124
-00:57:18,074 --> 00:57:19,709
+
+
 I'd think twice before tangling with me.
 
-1125
-00:57:19,809 --> 00:57:22,240
+
+
 Or we can get it on...
 
-1126
-00:57:22,250 --> 00:57:24,342
+
+
 Guadalcanal style.
 
-1127
-00:57:24,352 --> 00:57:27,348
+
+
 - Give me that thing.
 - [Grunt]
 
-1128
-00:57:29,588 --> 00:57:30,789
+
+
 Put him in the car.
 
-1129
-00:57:30,889 --> 00:57:33,087
+
+
 [Grunting]
 
-1130
-00:57:33,097 --> 00:57:34,727
+
+
 Mind your business!
 
-1131
-00:57:34,827 --> 00:57:37,828
+
+
 Back to raking.
 
-1132
-00:57:38,164 --> 00:57:39,132
+
+
 [Radio turns on]
 
-1133
-00:57:39,232 --> 00:57:41,329
+
+
 Get down
 
-1134
-00:57:41,339 --> 00:57:44,334
+
+
 Man:
 [Speaking French on radio]
 
-1135
-00:57:47,308 --> 00:57:50,305
+
+
 Hello, Mr. Nasher.
 
-1136
-00:57:50,315 --> 00:57:53,311
+
+
 Talk to anyone interesting?
 
-1137
-00:57:54,616 --> 00:57:59,717
+
+
 A young woman from
 Iceland said her country's very beautiful.
 
-1138
-00:58:00,790 --> 00:58:04,445
+
+
 She said it's Greenland
 that's cold and icy.
 
-1139
-00:58:04,928 --> 00:58:07,364
+
+
 Well, I wouldn't know.
 I haven't been to either place
 
-1140
-00:58:07,464 --> 00:58:10,268
+
+
 and probably never will,
 so I should probably,
 
-1141
-00:58:10,368 --> 00:58:13,368
+
+
 you know, get one of those radios.
 
-1142
-00:58:14,372 --> 00:58:17,237
+
+
 Where'd you come here from?
 
-1143
-00:58:17,247 --> 00:58:18,444
+
+
 Huntsville.
 
-1144
-00:58:18,544 --> 00:58:23,474
+
+
 Uh, I was, uh, I was actually, uh,
 incarcerated down there.
 
-1145
-00:58:26,085 --> 00:58:27,922
+
+
 You learn anything?
 
-1146
-00:58:28,022 --> 00:58:29,724
+
+
 Think I figured
 out what I want to do.
 
-1147
-00:58:29,824 --> 00:58:32,824
+
+
 What's that?
 
-1148
-00:58:34,997 --> 00:58:37,997
+
+
 Uh, r-run a hotel or a motel,
 
-1149
-00:58:39,034 --> 00:58:41,870
+
+
 someplace down
 around Galveston or Padre Island,
 
-1150
-00:58:41,970 --> 00:58:45,540
+
+
 just a real nice place for people to stay.
 
-1151
-00:58:46,442 --> 00:58:48,978
+
+
 Yeah, I mean, that's
 all way down the road though,
 
-1152
-00:58:49,078 --> 00:58:51,015
+
+
 or if it even happens at all.
 
-1153
-00:58:51,115 --> 00:58:54,115
+
+
 It's an interesting business.
 
-1154
-00:58:57,821 --> 00:59:00,823
+
+
 Skip:
 [Singing softly]
 
-1155
-00:59:23,418 --> 00:59:26,419
+
+
 Hey-ya, Baker.
 
-1156
-00:59:26,555 --> 00:59:29,058
+
+
 No, no, come here. I want to talk to you.
 
-1157
-00:59:29,158 --> 00:59:32,160
+
+
 Come here, have a seat.
 
-1158
-00:59:32,730 --> 00:59:35,730
+
+
 No, no, no.
 
-1159
-00:59:39,670 --> 00:59:41,702
+
+
 No, no. Come here.
 
-1160
-00:59:41,712 --> 00:59:43,075
+
+
 My voice is shot.
 
-1161
-00:59:43,175 --> 00:59:46,175
+
+
 I don't want to have to yell.
 
-1162
-00:59:52,852 --> 00:59:55,316
+
+
 How're you doin', Baker?
 
-1163
-00:59:55,326 --> 00:59:58,322
+
+
 I'm pretty good.
 
-1164
-00:59:58,492 --> 01:00:02,297
+
+
 I've been watching you.
 I like the way you carry yourself.
 
-1165
-01:00:02,397 --> 01:00:03,999
+
+
 Thank you.
 
-1166
-01:00:04,099 --> 01:00:05,902
+
+
 Pervert.
 
-1167
-01:00:06,002 --> 01:00:09,002
+
+
 [Chuckling]
 
-1168
-01:00:09,639 --> 01:00:12,640
+
+
 Ah-h, you got
 time to hear my story?
 
-1169
-01:00:16,113 --> 01:00:19,113
+
+
 Sure.
 
-1170
-01:00:30,029 --> 01:00:31,497
+
+
 Here's the deal.
 
-1171
-01:00:31,597 --> 01:00:32,933
+
+
 This is a state-run place,
 
-1172
-01:00:33,033 --> 01:00:35,202
+
+
 and like the prison system,
 it's overcrowded.
 
-1173
-01:00:35,302 --> 01:00:37,466
+
+
 You know about that.
 
-1174
-01:00:37,476 --> 01:00:39,707
+
+
 So, I take a select few
 of these folks
 
-1175
-01:00:39,807 --> 01:00:42,376
+
+
 and I give them
 the Greyhound Treatment.
 
-1176
-01:00:42,476 --> 01:00:45,280
+
+
 I send them up to
 mother's farm in Oklahoma.
 
-1177
-01:00:45,380 --> 01:00:48,383
+
+
 Now, it's a beautiful
 Georgian home that she has.
 
-1178
-01:00:48,483 --> 01:00:51,620
+
+
 It's right in the middle of
 God's country and she welcomes them.
 
-1179
-01:00:51,720 --> 01:00:57,500
+
+
 But I do take a... A reasonable percentage
 of their Medicare cheques.
 
-1180
-01:00:58,094 --> 01:01:02,089
+
+
 And I sell their medication
 on the black market.
 
-1181
-01:01:02,733 --> 01:01:05,103
+
+
 Neil, why...
 Why are you telling me this?
 
-1182
-01:01:05,203 --> 01:01:07,539
+
+
 Because I want you to know me.
 
-1183
-01:01:07,639 --> 01:01:10,776
+
+
 You think I'm a piece
 of shit, don't you?
 
-1184
-01:01:10,876 --> 01:01:12,411
+
+
 No, I don't.
 
-1185
-01:01:12,511 --> 01:01:15,511
+
+
 Anyway... I think you can help me.
 
-1186
-01:01:16,148 --> 01:01:17,751
+
+
 McTeague is... Frankly,
 
-1187
-01:01:17,851 --> 01:01:19,453
+
+
 he's not carrying
 his weight anymore.
 
-1188
-01:01:19,553 --> 01:01:21,755
+
+
 I don't like him
 and I don't trust him.
 
-1189
-01:01:21,855 --> 01:01:23,323
+
+
 I mean, you just
 look into his eyes,
 
-1190
-01:01:23,423 --> 01:01:26,424
+
+
 you see how stupid he is.
 
-1191
-01:01:28,663 --> 01:01:30,431
+
+
 [Sigh]
 
-1192
-01:01:30,531 --> 01:01:32,834
+
+
 So, you're either with me
 or you're against me.
 
-1193
-01:01:32,934 --> 01:01:35,936
+
+
 Oh, and if the cops
 come a-callin',
 
-1194
-01:01:36,339 --> 01:01:37,841
+
+
 I wonder who they're going
 to believe,
 
-1195
-01:01:37,941 --> 01:01:43,041
+
+
 young man who
 spent his life trying to help the elderly or...
 
-1196
-01:01:43,614 --> 01:01:46,614
+
+
 A lifelong crook?
 
-1197
-01:01:50,154 --> 01:01:53,155
+
+
 Did you ever not get caught?
 
-1198
-01:01:57,195 --> 01:02:00,196
+
+
 [Music plays]
 
-1199
-01:02:09,611 --> 01:02:12,611
+
+
 [Crowd cheering]
 
-1200
-01:02:39,011 --> 01:02:42,012
+
+
 [Thunder rumbling]
 
-1201
-01:02:45,552 --> 01:02:48,553
+
+
 [Panting]
 
-1202
-01:02:57,265 --> 01:03:00,265
+
+
 [Music plays]
 
-1203
-01:03:45,755 --> 01:03:48,755
+
+
 [Dog growling]
 
-1204
-01:03:49,158 --> 01:03:52,158
+
+
 Junior. You're back.
 
-1205
-01:03:55,466 --> 01:03:56,767
+
+
 So am I.
 
-1206
-01:03:56,867 --> 01:03:59,867
+
+
 [Music plays]
 
-1207
-01:04:16,991 --> 01:04:18,726
+
+
 Wendell:
 Times change, Reyes.
 
-1208
-01:04:18,826 --> 01:04:21,826
+
+
 But not me.
 
-1209
-01:04:22,263 --> 01:04:24,132
+
+
 I came to the end
 of the road late last night.
 
-1210
-01:04:24,232 --> 01:04:26,001
+
+
 You know what I found there?
 
-1211
-01:04:26,101 --> 01:04:28,365
+
+
 A mirror.
 
-1212
-01:04:28,375 --> 01:04:30,568
+
+
 Yeah.
 
-1213
-01:04:30,578 --> 01:04:33,574
+
+
 Did you get born again... Again?
 
-1214
-01:04:34,744 --> 01:04:36,546
+
+
 Well, I've rededicated my life, yeah,
 
-1215
-01:04:36,646 --> 01:04:38,915
+
+
 but it's a different
 ball game this time.
 
-1216
-01:04:39,015 --> 01:04:41,084
+
+
 'Cause you look like
 you got a lot on your mind.
 
-1217
-01:04:41,184 --> 01:04:46,158
+
+
 A lot on my mind, a lot on my plate,
 a lot to do and not a lot of time.
 
-1218
-01:04:46,258 --> 01:04:48,855
+
+
 Not a lot of time for what?
 
-1219
-01:04:48,865 --> 01:04:51,865
+
+
 Well, I'm going to turn this place
 around, Shady Grove,
 
-1220
-01:04:51,965 --> 01:04:53,366
+
+
 and then
 I'm going to get my girl back.
 
-1221
-01:04:53,466 --> 01:04:57,036
+
+
 Then she and I are going
 to start a family.
 
-1222
-01:04:57,070 --> 01:04:58,372
+
+
 Want some eggs?
 
-1223
-01:04:58,472 --> 01:04:59,707
+
+
 Thanks.
 
-1224
-01:04:59,807 --> 01:05:01,642
+
+
 Irma:
 How are you, huh?
 
-1225
-01:05:01,742 --> 01:05:02,810
+
+
 Did you sleep?
 
-1226
-01:05:02,910 --> 01:05:04,712
+
+
 Or did you stay up all night?
 
-1227
-01:05:04,812 --> 01:05:08,383
+
+
 I pretty much tossed and turned all night.
 I don't know that I slept at all.
 
-1228
-01:05:08,483 --> 01:05:12,654
+
+
 But I did have a real moment of
 clarity around dawn.
 
-1229
-01:05:12,754 --> 01:05:15,387
+
+
 Wendell Baker? Who's that?
 
-1230
-01:05:15,397 --> 01:05:16,827
+
+
 I don't know who that is.
 
-1231
-01:05:16,927 --> 01:05:18,729
+
+
 People that gave me
 that name gave me away.
 
-1232
-01:05:18,829 --> 01:05:20,230
+
+
 Look at that face.
 
-1233
-01:05:20,330 --> 01:05:23,331
+
+
 Where'd you get
 such pretty eyes?
 
-1234
-01:05:23,735 --> 01:05:25,336
+
+
 Uh, they're just green,
 but thank you.
 
-1235
-01:05:25,436 --> 01:05:27,705
+
+
 In answer to
 your question, though...
 
-1236
-01:05:27,805 --> 01:05:29,574
+
+
 I don't know.
 I never met my dad.
 
-1237
-01:05:29,674 --> 01:05:33,746
+
+
 The only picture I got
 of my mom's black and white.
 
-1238
-01:05:33,846 --> 01:05:35,976
+
+
 See, Reyes,
 
-1239
-01:05:35,986 --> 01:05:37,249
+
+
 I came over here to let you know
 
-1240
-01:05:37,349 --> 01:05:40,020
+
+
 that, uh, Wendell Baker International's
 back in business
 
-1241
-01:05:40,120 --> 01:05:43,123
+
+
 and you're going to
 be getting called back to active duty.
 
-1242
-01:05:43,223 --> 01:05:46,628
+
+
 So, uh, I'd get ready
 to get pulled off the bench.
 
-1243
-01:05:46,728 --> 01:05:49,728
+
+
 Maybe you ought to stay out of it.
 
-1244
-01:05:49,898 --> 01:05:52,663
+
+
 Just think about it.
 
-1245
-01:05:52,673 --> 01:05:56,238
+
+
 Just think about it,
 that's all I'm saying.
 
-1246
-01:05:58,441 --> 01:06:01,344
+
+
 You remember Miss Rand
 back at the state home in Carthage?
 
-1247
-01:06:01,444 --> 01:06:03,514
+
+
 Took us in.
 Taught you how to read,
 
-1248
-01:06:03,614 --> 01:06:06,045
+
+
 tried to teach me?
 
-1249
-01:06:06,055 --> 01:06:07,751
+
+
 Well, she's real old now.
 
-1250
-01:06:07,851 --> 01:06:11,723
+
+
 And wouldn't you hope she's being treated
 like she should, which is great?
 
-1251
-01:06:11,823 --> 01:06:13,291
+
+
 I mean, where will
 she be tonight?
 
-1252
-01:06:13,391 --> 01:06:17,196
+
+
 And if she wasn't doing all right,
 wouldn't you do something about it?
 
-1253
-01:06:17,296 --> 01:06:18,798
+
+
 You know I would.
 
-1254
-01:06:18,898 --> 01:06:20,896
+
+
 [Approaching footsteps]
 
-1255
-01:06:20,906 --> 01:06:23,901
+
+
 [Music plays]
 
-1256
-01:06:28,076 --> 01:06:30,740
+
+
 Thanks for the eggs.
 
-1257
-01:06:30,750 --> 01:06:32,714
+
+
 May I make a call? It's local.
 
-1258
-01:06:32,814 --> 01:06:35,815
+
+
 Sure.
 
-1259
-01:06:36,051 --> 01:06:39,221
+
+
 Hi. Wendell Baker
 for Mr. Fullbright or Mr. Summers, please.
 
-1260
-01:06:39,321 --> 01:06:41,924
+
+
 - What's going on?
 - I don't know. Here, want some eggs?
 
-1261
-01:06:42,024 --> 01:06:43,192
+
+
 Hey, Mr. Summers. It's Wendell.
 
-1262
-01:06:43,292 --> 01:06:44,661
+
+
 Wendell: [On phone]
 Wendell Baker.
 
-1263
-01:06:44,761 --> 01:06:47,293
+
+
 Hey. It's Wendell.
 
-1264
-01:06:47,303 --> 01:06:49,667
+
+
 Wendell: I'm calling 'cause I'm worried
 about your friends at Shady Grove.
 
-1265
-01:06:49,767 --> 01:06:52,904
+
+
 See, Neil King's got
 this scheme called the...
 
-1266
-01:06:53,004 --> 01:06:56,004
+
+
 Greyhound Treatment.
 
-1267
-01:06:56,541 --> 01:06:57,676
+
+
 You know about it?
 
-1268
-01:06:57,776 --> 01:07:00,780
+
+
 H-hell. We're prime candidates for it.
 
-1269
-01:07:00,880 --> 01:07:06,386
+
+
 Yeah, well, Lily McCoy, Mr. Draper
 and a couple of the others are already gone.
 
-1270
-01:07:06,486 --> 01:07:08,055
+
+
 We've got to go get them.
 
-1271
-01:07:08,155 --> 01:07:09,323
+
+
 What?
 
-1272
-01:07:09,423 --> 01:07:11,225
+
+
 Wh-wh-what do you mean, all of them?
 
-1273
-01:07:11,325 --> 01:07:13,522
+
+
 Yeah! All of them.
 
-1274
-01:07:13,532 --> 01:07:16,528
+
+
 Wow. Hold on.
 
-1275
-01:07:16,831 --> 01:07:20,936
+
+
 Boyd, Wendell thinks we ought to go
 out to Wanda King's farm
 
-1276
-01:07:21,036 --> 01:07:25,371
+
+
 and get everyone that's
 got the Greyhound Treatment.
 
-1277
-01:07:26,209 --> 01:07:27,310
+
+
 You up for it?
 
-1278
-01:07:27,410 --> 01:07:31,150
+
+
 I can't be ready any sooner
 than two minutes.
 
-1279
-01:07:32,015 --> 01:07:33,051
+
+
 We're on.
 
-1280
-01:07:33,151 --> 01:07:35,681
+
+
 All right. I'm on my way.
 
-1281
-01:07:35,691 --> 01:07:38,151
+
+
 [Knocking]
 
-1282
-01:07:38,161 --> 01:07:39,223
+
+
 Wendell:
 Hello, Mr. Nasher.
 
-1283
-01:07:39,323 --> 01:07:40,793
+
+
 I'm just going to be
 gone for a couple of days,
 
-1284
-01:07:40,893 --> 01:07:42,861
+
+
 but I'll have those magazines you
 asked for on Monday.
 
-1285
-01:07:42,961 --> 01:07:45,597
+
+
 It's "Forbes"
 and "National Geographic", right?
 
-1286
-01:07:45,697 --> 01:07:50,373
+
+
 I know the coordinates
 of Wanda King's farm in Oklahoma.
 
-1287
-01:07:51,272 --> 01:07:53,007
+
+
 You do?
 
-1288
-01:07:53,107 --> 01:07:56,167
+
+
 It's nine miles due south of Durant.
 
-1289
-01:07:59,381 --> 01:08:02,381
+
+
 Goddamn.
 
-1290
-01:08:02,717 --> 01:08:04,987
+
+
 All right, well, c-can you write
 that down for me, sir,
 
-1291
-01:08:05,087 --> 01:08:06,089
+
+
 because I...
 I've got to get going.
 
-1292
-01:08:06,189 --> 01:08:08,291
+
+
 I got a lot of driving ahead of me
 and I don't have much time.
 
-1293
-01:08:08,391 --> 01:08:09,358
+
+
 I'll come back and get it.
 
-1294
-01:08:09,458 --> 01:08:12,458
+
+
 I can get you there faster.
 
-1295
-01:08:14,164 --> 01:08:16,161
+
+
 Faster how?
 
-1296
-01:08:16,171 --> 01:08:17,868
+
+
 In a plane.
 
-1297
-01:08:17,968 --> 01:08:19,965
+
+
 Whose plane?
 
-1298
-01:08:19,975 --> 01:08:22,369
+
+
 My plane.
 
-1299
-01:08:22,379 --> 01:08:25,374
+
+
 [Mouthing]
 
-1300
-01:08:27,680 --> 01:08:28,881
+
+
 I know where everyone is.
 
-1301
-01:08:28,981 --> 01:08:31,051
+
+
 Nasher's going
 to fly us to Oklahoma.
 
-1302
-01:08:31,151 --> 01:08:32,686
+
+
 This Nasher?
 
-1303
-01:08:32,786 --> 01:08:33,787
+
+
 Yeah. That Nasher.
 
-1304
-01:08:33,887 --> 01:08:34,888
+
+
 Are you kidding?
 
-1305
-01:08:34,988 --> 01:08:36,490
+
+
 No. I'm not. Let's go.
 
-1306
-01:08:36,590 --> 01:08:37,959
+
+
 Jesus.
 
-1307
-01:08:38,059 --> 01:08:41,059
+
+
 [Music plays]
 
-1308
-01:08:43,865 --> 01:08:46,496
+
+
 Hey, Nasher.
 
-1309
-01:08:46,506 --> 01:08:48,565
+
+
 I'm ready.
 
-1310
-01:08:48,575 --> 01:08:50,038
+
+
 Okay.
 
-1311
-01:08:50,138 --> 01:08:53,139
+
+
 [Music plays]
 
-1312
-01:08:56,013 --> 01:08:59,013
+
+
 # In the time of my confession #
 
-1313
-01:09:00,451 --> 01:09:03,452
+
+
 # In the hour of my deepest need #
 
-1314
-01:09:04,890 --> 01:09:08,120
+
+
 # When the pool of tears beneath my feet #
 
-1315
-01:09:09,160 --> 01:09:12,161
+
+
 # Flood every newborn seed #
 
-1316
-01:09:13,466 --> 01:09:17,570
+
+
 # - There's a dyin' voice within me #
 - Let's go, partner.
 
-1317
-01:09:17,670 --> 01:09:18,705
+
+
 It's all right.
 
-1318
-01:09:18,805 --> 01:09:21,805
+
+
 # Reaching out somewhere #
 
-1319
-01:09:22,376 --> 01:09:24,574
+
+
 # Toiling in the danger... #
 
-1320
-01:09:24,584 --> 01:09:27,349
+
+
 Hey, Nasher, when was the last time
 you were outside, anyways?
 
-1321
-01:09:27,449 --> 01:09:30,219
+
+
 Seven years, four months, nine days.
 
-1322
-01:09:30,319 --> 01:09:33,319
+
+
 # Don't have the inclination #
 
-1323
-01:09:35,058 --> 01:09:38,058
+
+
 # To look back on any mistake #
 
-1324
-01:09:39,596 --> 01:09:42,596
+
+
 # Like Cain I now behold... #
 
-1325
-01:09:43,134 --> 01:09:46,134
+
+
 [Music plays]
 
-1326
-01:10:02,723 --> 01:10:03,691
+
+
 Whoo!
 
-1327
-01:10:03,791 --> 01:10:04,992
+
+
 Yeah!
 
-1328
-01:10:05,092 --> 01:10:08,024
+
+
 Nasher, baby, you still got it.
 
-1329
-01:10:08,034 --> 01:10:11,029
+
+
 [Music plays]
 
-1330
-01:10:18,040 --> 01:10:19,742
+
+
 [Funk music plays]
 
-1331
-01:10:19,842 --> 01:10:21,872
+
+
 # I got it #
 
-1332
-01:10:21,882 --> 01:10:23,547
+
+
 # I got it #
 
-1333
-01:10:23,647 --> 01:10:25,515
+
+
 # Got the funk #
 
-1334
-01:10:25,616 --> 01:10:27,647
+
+
 # Funky funk #
 
-1335
-01:10:27,657 --> 01:10:29,782
+
+
 Hey.
 
-1336
-01:10:29,792 --> 01:10:31,657
+
+
 Guess who died tomorrow?
 
-1337
-01:10:31,757 --> 01:10:34,757
+
+
 [Laughing]
 
-1338
-01:10:36,996 --> 01:10:39,997
+
+
 [Music plays]
 
-1339
-01:10:45,105 --> 01:10:49,243
+
+
 Fort Worth Center,
 this is Beechcraft N-6-11, whiskey Romeo.
 
-1340
-01:10:49,343 --> 01:10:52,179
+
+
 Transitioning into
 an area of five miles north. Over.
 
-1341
-01:10:52,279 --> 01:10:55,279
+
+
 [Music plays]
 
-1342
-01:10:56,685 --> 01:10:59,686
+
+
 Feel good?
 
-1343
-01:11:00,156 --> 01:11:03,156
+
+
 I always loved to fly.
 
-1344
-01:11:03,559 --> 01:11:05,796
+
+
 You know, I don't
 know you too well, Mr. Nasher,
 
-1345
-01:11:05,896 --> 01:11:08,065
+
+
 but I think you might enjoy getting
 out of Shady Grove
 
-1346
-01:11:08,165 --> 01:11:11,130
+
+
 and seeing the world a little bit.
 
-1347
-01:11:11,140 --> 01:11:14,136
+
+
 I seen it.
 
-1348
-01:11:15,840 --> 01:11:17,676
+
+
 What about family?
 
-1349
-01:11:17,776 --> 01:11:20,340
+
+
 I raised myself.
 
-1350
-01:11:20,350 --> 01:11:25,615
+
+
 So did I. I mean, with help
 from Reyes and a girl named Doreen.
 
-1351
-01:11:28,588 --> 01:11:31,589
+
+
 Where is she?
 
-1352
-01:11:32,460 --> 01:11:36,230
+
+
 She left me before
 I realized she's the one for me to marry.
 
-1353
-01:11:36,330 --> 01:11:40,736
+
+
 I thought to get married meant you'd
 found what you were looking for and I hadn't.
 
-1354
-01:11:40,836 --> 01:11:43,939
+
+
 I didn't realize
 it was about searching together.
 
-1355
-01:11:44,039 --> 01:11:47,077
+
+
 And in a life full of mistakes
 that's the biggest one I ever made.
 
-1356
-01:11:47,177 --> 01:11:50,177
+
+
 [Music plays]
 
-1357
-01:11:54,218 --> 01:11:57,218
+
+
 [Airplane roaring]
 
-1358
-01:12:10,838 --> 01:12:13,838
+
+
 [Music plays]
 
-1359
-01:12:41,105 --> 01:12:44,106
+
+
 Skip:
 Bob. How goes it?
 
-1360
-01:12:44,243 --> 01:12:47,643
+
+
 Boyd:
 He's chained to the damn billboard.
 
-1361
-01:12:48,914 --> 01:12:51,746
+
+
 What happened?
 
-1362
-01:12:51,756 --> 01:12:54,751
+
+
 Neil King sent you here.
 
-1363
-01:12:55,021 --> 01:12:58,846
+
+
 Bob:
 Somebody's always a-sendin' me someplace.
 
-1364
-01:12:59,426 --> 01:13:01,128
+
+
 I just want to go home.
 
-1365
-01:13:01,228 --> 01:13:02,931
+
+
 That's why we're here.
 
-1366
-01:13:03,031 --> 01:13:06,031
+
+
 [Horn honking]
 
-1367
-01:13:06,769 --> 01:13:08,905
+
+
 Man:
 Hey, that look Wendell Baker from Tejas.
 
-1368
-01:13:09,005 --> 01:13:11,340
+
+
 Man:
 Maybe that is Wendell Baker from Tejas.
 
-1369
-01:13:11,440 --> 01:13:13,276
+
+
 Hola, Wendell.
 
-1370
-01:13:13,376 --> 01:13:14,611
+
+
 Oh, hey!
 
-1371
-01:13:14,711 --> 01:13:18,366
+
+
 Torres brothers. How's it goin'? All right.
 
-1372
-01:13:18,382 --> 01:13:22,286
+
+
 Hey, you guys mind
 giving me a hand with something?
 
-1373
-01:13:22,386 --> 01:13:23,488
+
+
 Both:
 You got it.
 
-1374
-01:13:23,588 --> 01:13:26,588
+
+
 [Music plays]
 
-1375
-01:13:39,106 --> 01:13:40,675
+
+
 Wendell: [Narrating]
 I can't say I was looking forward
 
-1376
-01:13:40,775 --> 01:13:43,244
+
+
 to meeting the woman
 who'd spawned Neil King,
 
-1377
-01:13:43,344 --> 01:13:44,679
+
+
 but I had a job to do.
 
-1378
-01:13:44,779 --> 01:13:47,780
+
+
 [Music plays]
 
-1379
-01:13:56,326 --> 01:13:59,326
+
+
 [Knocking]
 
-1380
-01:14:05,704 --> 01:14:06,838
+
+
 Howdy.
 
-1381
-01:14:06,938 --> 01:14:08,773
+
+
 Stuart Axelrod,
 county geological survey.
 
-1382
-01:14:08,873 --> 01:14:11,009
+
+
 I'm, uh, here to check
 the mineral content of your soil.
 
-1383
-01:14:11,109 --> 01:14:14,110
+
+
 [Lock turning]
 
-1384
-01:14:15,948 --> 01:14:18,045
+
+
 Where's your vehicle?
 
-1385
-01:14:18,055 --> 01:14:21,051
+
+
 My vehicle is parked...
 
-1386
-01:14:22,756 --> 01:14:26,241
+
+
 Uh, right out there
 in the distance there.
 
-1387
-01:14:28,096 --> 01:14:31,065
+
+
 Just a sec, hon,
 I got a pie in the oven.
 
-1388
-01:14:31,165 --> 01:14:34,165
+
+
 How sweet.
 
-1389
-01:14:36,439 --> 01:14:39,439
+
+
 [Music plays]
 
-1390
-01:14:41,645 --> 01:14:43,246
+
+
 [Mixed shouting]
 
-1391
-01:14:43,346 --> 01:14:44,582
+
+
 [Inaudible]
 
-1392
-01:14:44,682 --> 01:14:46,746
+
+
 [Music plays]
 
-1393
-01:14:46,756 --> 01:14:49,787
+
+
 # I looked for trouble and I found it, son #
 
-1394
-01:14:49,887 --> 01:14:52,391
+
+
 # - Straight down the barrel of a lawman's gun #
 - Oh, Wendell.
 
-1395
-01:14:52,491 --> 01:14:54,955
+
+
 Yes, ma'am.
 
-1396
-01:14:54,965 --> 01:14:56,662
+
+
 I mean, who?
 
-1397
-01:14:56,762 --> 01:14:59,631
+
+
 You make one move
 and you're a dead man, friend
 
-1398
-01:14:59,731 --> 01:15:02,732
+
+
 You want some pie, mother...
 
-1399
-01:15:06,039 --> 01:15:09,041
+
+
 # Can't live at all like this #
 
-1400
-01:15:09,210 --> 01:15:12,108
+
+
 # Can I, baby? #
 
-1401
-01:15:12,118 --> 01:15:13,081
+
+
 All right.
 
-1402
-01:15:13,181 --> 01:15:14,583
+
+
 My name is Wendell.
 
-1403
-01:15:14,683 --> 01:15:17,153
+
+
 # He slipped the handcuffs
 on behind my back #
 
-1404
-01:15:17,253 --> 01:15:19,655
+
+
 # And left me
 reeling on a steel reel rack #
 
-1405
-01:15:19,755 --> 01:15:22,985
+
+
 # They got 'em all
 in the jailhouse, baby #
 
-1406
-01:15:23,459 --> 01:15:26,091
+
+
 [Music plays]
 
-1407
-01:15:26,101 --> 01:15:29,096
+
+
 # Ain't living long like this #
 
-1408
-01:15:29,366 --> 01:15:31,496
+
+
 [Music plays]
 
-1409
-01:15:31,506 --> 01:15:32,769
+
+
 Come on, come on.
 
-1410
-01:15:32,869 --> 01:15:36,354
+
+
 # Can't live at all like this, can I, baby? #
 
-1411
-01:15:40,412 --> 01:15:43,450
+
+
 # Grew up in Houston off of Wayside Drive #
 
-1412
-01:15:43,550 --> 01:15:46,780
+
+
 # Son of a carhop at some all-night dive #
 
-1413
-01:15:47,220 --> 01:15:50,258
+
+
 # Dad drove a stockcar
 to an early death #
 
-1414
-01:15:50,358 --> 01:15:52,727
+
+
 # All I remember
 was a drunk man's breath #
 
-1415
-01:15:52,827 --> 01:15:55,827
+
+
 # Ain't living long like this #
 
-1416
-01:15:58,767 --> 01:15:59,735
+
+
 Neil:
 W... You got g...
 
-1417
-01:15:59,835 --> 01:16:00,802
+
+
 Woman:
 What are you doing?
 
-1418
-01:16:00,902 --> 01:16:02,371
+
+
 Neil: [Laughing]
 I don't know.
 
-1419
-01:16:02,471 --> 01:16:04,339
+
+
 - Well, am I?
 - [Disco music plays]
 
-1420
-01:16:04,439 --> 01:16:06,909
+
+
 - [Turns off radio]
 - [Muttering]
 
-1421
-01:16:07,009 --> 01:16:08,177
+
+
 Neil:
 What were you saying?
 
-1422
-01:16:08,277 --> 01:16:10,314
+
+
 I don't have the faintest idea.
 
-1423
-01:16:10,414 --> 01:16:11,415
+
+
 [Laughing]
 
-1424
-01:16:11,515 --> 01:16:12,483
+
+
 What is it?
 
-1425
-01:16:12,583 --> 01:16:13,885
+
+
 - King!
 - What?
 
-1426
-01:16:13,985 --> 01:16:15,720
+
+
 I can't find
 Fullbright, Summers or Nasher.
 
-1427
-01:16:15,820 --> 01:16:17,917
+
+
 Okay, Nasher...
 
-1428
-01:16:17,927 --> 01:16:19,357
+
+
 Well, where's Baker?
 
-1429
-01:16:19,457 --> 01:16:22,061
+
+
 I don't know. He said something
 about a family commitment.
 
-1430
-01:16:22,161 --> 01:16:26,071
+
+
 That's bullshit.
 Wendell Baker's got no family.
 
-1431
-01:16:26,732 --> 01:16:28,100
+
+
 You better get down here.
 
-1432
-01:16:28,200 --> 01:16:31,201
+
+
 [Music plays]
 
-1433
-01:16:35,275 --> 01:16:38,275
+
+
 # I left my home
 in Norfolk, Virginia #
 
-1434
-01:16:38,446 --> 01:16:40,744
+
+
 # California on my mind #
 
-1435
-01:16:40,754 --> 01:16:42,284
+
+
 # I straddled that Greyhound #
 
-1436
-01:16:42,384 --> 01:16:45,048
+
+
 # Rode him into Raleigh #
 
-1437
-01:16:45,058 --> 01:16:48,054
+
+
 # And on across Caroline #
 
-1438
-01:16:49,325 --> 01:16:52,295
+
+
 # We stopped in Charlotte
 but we bypassed RockHill #
 
-1439
-01:16:52,395 --> 01:16:55,227
+
+
 # Never was a minute late #
 
-1440
-01:16:55,237 --> 01:16:58,235
+
+
 # And 90 miles out
 of Alabama by sundown... #
 
-1441
-01:16:58,335 --> 01:17:01,233
+
+
 Back off.
 
-1442
-01:17:01,243 --> 01:17:04,239
+
+
 Just a second.
 
-1443
-01:17:12,519 --> 01:17:15,317
+
+
 You're not coming back, are you?
 
-1444
-01:17:15,327 --> 01:17:18,322
+
+
 No. I'm not.
 
-1445
-01:17:23,031 --> 01:17:26,031
+
+
 That's good.
 
-1446
-01:17:29,772 --> 01:17:32,772
+
+
 When you get where I am,
 
-1447
-01:17:32,808 --> 01:17:35,105
+
+
 late in the day,
 
-1448
-01:17:35,115 --> 01:17:36,947
+
+
 late in the game,
 
-1449
-01:17:37,047 --> 01:17:40,107
+
+
 you got yesterday,
 today and tomorrow
 
-1450
-01:17:40,150 --> 01:17:43,151
+
+
 all in the same room.
 
-1451
-01:17:43,354 --> 01:17:45,858
+
+
 I never cared
 much for advice, Wendell.
 
-1452
-01:17:45,958 --> 01:17:49,273
+
+
 And you helped me without even talking.
 
-1453
-01:17:51,263 --> 01:17:54,323
+
+
 But I just don't want you to have...
 
-1454
-01:17:55,435 --> 01:17:58,435
+
+
 Regret in your life, that's all.
 
-1455
-01:18:00,641 --> 01:18:03,539
+
+
 I'm going to miss you, Mr. Nasher
 
-1456
-01:18:03,549 --> 01:18:06,859
+
+
 but I know you
 were meant to be up here.
 
-1457
-01:18:09,084 --> 01:18:14,780
+
+
 It's hard to hold on to your idealism
 after you lost your innocence.
 
-1458
-01:18:15,992 --> 01:18:18,195
+
+
 That's what I like about you, Wendell.
 
-1459
-01:18:18,295 --> 01:18:21,295
+
+
 [Music plays]
 
-1460
-01:18:46,460 --> 01:18:47,795
+
+
 My friend.
 
-1461
-01:18:47,895 --> 01:18:50,896
+
+
 [Music plays]
 
-1462
-01:18:56,738 --> 01:18:58,608
+
+
 Wendell: [Narrating]
 We were going to miss Mr. Nasher,
 
-1463
-01:18:58,708 --> 01:19:00,710
+
+
 but we didn't have time to dwell on it.
 
-1464
-01:19:00,810 --> 01:19:03,480
+
+
 Messieurs Fullbright and Summers
 had devised a plan
 
-1465
-01:19:03,580 --> 01:19:06,581
+
+
 to take down Neil King.
 
-1466
-01:19:07,618 --> 01:19:08,986
+
+
 Good news, McTeague.
 
-1467
-01:19:09,086 --> 01:19:10,488
+
+
 Baker, where you at?
 
-1468
-01:19:10,588 --> 01:19:12,356
+
+
 The old gas station
 out on Ranch Road 12.
 
-1469
-01:19:12,456 --> 01:19:14,888
+
+
 Stay put.
 
-1470
-01:19:14,898 --> 01:19:16,194
+
+
 Neil:
 Well, all I can say, Baker,
 
-1471
-01:19:16,294 --> 01:19:20,099
+
+
 is I'm glad you found these guys
 'cause I know I get down on you two, but...
 
-1472
-01:19:20,199 --> 01:19:24,037
+
+
 You're old, but you got a lot of wisdom
 and I learn a lot from ya,
 
-1473
-01:19:24,137 --> 01:19:26,540
+
+
 even though you do
 got sawdust in your balls.
 
-1474
-01:19:26,640 --> 01:19:29,641
+
+
 [Laughing]
 
-1475
-01:19:30,778 --> 01:19:33,515
+
+
 Well, I found these two wandering
 around out in the middle of nowhere.
 
-1476
-01:19:33,615 --> 01:19:35,216
+
+
 I don't even know
 where Mr. Nasher is.
 
-1477
-01:19:35,316 --> 01:19:37,786
+
+
 Mr. Summers here,
 he says he's looking for some land
 
-1478
-01:19:37,886 --> 01:19:39,255
+
+
 that he's been
 thinking about selling.
 
-1479
-01:19:39,355 --> 01:19:41,056
+
+
 I... I'm just glad I found them, Neil.
 
-1480
-01:19:41,156 --> 01:19:44,156
+
+
 Oh, I feel funny.
 
-1481
-01:19:46,329 --> 01:19:49,330
+
+
 Neil:
 Funny? Funny how?
 
-1482
-01:19:49,500 --> 01:19:52,303
+
+
 I feel like I'm sitting in a bathtub
 full of warm water.
 
-1483
-01:19:52,403 --> 01:19:55,404
+
+
 Well, you're not, man.
 
-1484
-01:19:55,874 --> 01:19:58,110
+
+
 Aw, he's urinizing all over himself!
 
-1485
-01:19:58,210 --> 01:19:59,511
+
+
 Come on. Cross your legs!
 
-1486
-01:19:59,611 --> 01:20:00,812
+
+
 Act like a man!
 
-1487
-01:20:00,912 --> 01:20:02,015
+
+
 Stop! Not on the car!
 
-1488
-01:20:02,115 --> 01:20:03,516
+
+
 Stop yelling at me.
 
-1489
-01:20:03,616 --> 01:20:05,351
+
+
 I wanted to stop ten minutes ago
 so I could go to the bathroom.
 
-1490
-01:20:05,451 --> 01:20:06,953
+
+
 I'm not yelling at you!
 
-1491
-01:20:07,053 --> 01:20:08,454
+
+
 McTeague:
 Glad it's not my car.
 
-1492
-01:20:08,554 --> 01:20:10,958
+
+
 It's going to be your job to clean it up,
 I can tell you that.
 
-1493
-01:20:11,058 --> 01:20:12,026
+
+
 McTeague:
 Come on, King.
 
-1494
-01:20:12,126 --> 01:20:15,126
+
+
 Hey, Neil. Are these seats heated?
 
-1495
-01:20:15,195 --> 01:20:16,530
+
+
 Oh, he sprung a leak too.
 
-1496
-01:20:16,630 --> 01:20:18,433
+
+
 Both of them.
 Now, come on, stop the car.
 
-1497
-01:20:18,533 --> 01:20:20,069
+
+
 Pull over. Get out.
 
-1498
-01:20:20,169 --> 01:20:21,137
+
+
 - Neil: Out.
 - Boyd: Okay.
 
-1499
-01:20:21,237 --> 01:20:23,773
+
+
 Neil:
 Come on. Have a little pride.
 
-1500
-01:20:23,873 --> 01:20:26,505
+
+
 All right. All right?
 
-1501
-01:20:26,515 --> 01:20:28,078
+
+
 My back! I fell on my back!
 
-1502
-01:20:28,178 --> 01:20:29,146
+
+
 Wendell:
 You okay, Mr. Summers?
 
-1503
-01:20:29,246 --> 01:20:32,246
+
+
 - Come on!
 - Wendell: You okay?
 
-1504
-01:20:32,416 --> 01:20:33,984
+
+
 - Ow! McTeague!
 - I got you.
 
-1505
-01:20:34,084 --> 01:20:35,920
+
+
 Ow! McTeague! McTeague!
 
-1506
-01:20:36,020 --> 01:20:38,818
+
+
 - No, no. Easy.
 - Okay, okay.
 
-1507
-01:20:38,828 --> 01:20:40,358
+
+
 Boyd:
 Hit it!
 
-1508
-01:20:40,458 --> 01:20:41,559
+
+
 McTeague:
 Hey!
 
-1509
-01:20:41,659 --> 01:20:43,963
+
+
 - Get your ancient asses back here!
 - Whoa! Whoa!
 
-1510
-01:20:44,063 --> 01:20:47,063
+
+
 [Music plays]
 
-1511
-01:20:47,132 --> 01:20:49,234
+
+
 Will you tell me what the hell
 is going on?
 
-1512
-01:20:49,334 --> 01:20:51,739
+
+
 We got jacked by some 90-year-olds.
 
-1513
-01:20:51,839 --> 01:20:54,103
+
+
 Skip:
 [Laughing]
 
-1514
-01:20:54,113 --> 01:20:57,108
+
+
 - [Car approaching]
 - What's that?
 
-1515
-01:20:57,211 --> 01:20:58,779
+
+
 Wendell: [Narrating]
 So far, so good.
 
-1516
-01:20:58,879 --> 01:21:02,789
+
+
 Now it was up to
 Lucy and May to do their part.
 
-1517
-01:21:03,785 --> 01:21:06,550
+
+
 Whoa, whoa,
 what do we got here?
 
-1518
-01:21:06,560 --> 01:21:09,556
+
+
 Hey, fellas, need a lift?
 
-1519
-01:21:09,726 --> 01:21:12,161
+
+
 I can only think of a couple things
 to do in this sort of heat,
 
-1520
-01:21:12,261 --> 01:21:14,397
+
+
 and standing by the side
 of the road ain't one of them.
 
-1521
-01:21:14,497 --> 01:21:15,499
+
+
 Oh, really?
 
-1522
-01:21:15,599 --> 01:21:17,963
+
+
 Okay. Yeah.
 
-1523
-01:21:17,973 --> 01:21:20,968
+
+
 Yeah. Make way for ducklings.
 
-1524
-01:21:21,271 --> 01:21:24,273
+
+
 Here we go.
 
-1525
-01:21:25,478 --> 01:21:27,113
+
+
 McTeague:
 This is why I go to church.
 
-1526
-01:21:27,213 --> 01:21:30,213
+
+
 - [Giggling]
 - What a blessing.
 
-1527
-01:21:31,484 --> 01:21:32,853
+
+
 Uh, hey, 911.
 
-1528
-01:21:32,953 --> 01:21:35,022
+
+
 It's Bobby Culpepper,
 concerned citizen here.
 
-1529
-01:21:35,122 --> 01:21:38,125
+
+
 Yeah, I just witnessed some
 real strange activity out on Ranch Road 12.
 
-1530
-01:21:38,225 --> 01:21:39,192
+
+
 Define strange?
 
-1531
-01:21:39,292 --> 01:21:40,762
+
+
 Uh, okay.
 
-1532
-01:21:40,862 --> 01:21:42,430
+
+
 Underage girls
 and men of questionable character.
 
-1533
-01:21:42,530 --> 01:21:43,798
+
+
 That strange enough for ya?
 
-1534
-01:21:43,898 --> 01:21:46,768
+
+
 Just going to take
 my pants off here 'cause it helps me relax.
 
-1535
-01:21:46,868 --> 01:21:48,337
+
+
 Oh, I'm
 already relaxed.
 
-1536
-01:21:48,437 --> 01:21:49,972
+
+
 - Damn-near butt naked.
 - He's already relaxed.
 
-1537
-01:21:50,072 --> 01:21:52,174
+
+
 Look at that. I have a dream.
 
-1538
-01:21:52,274 --> 01:21:54,411
+
+
 Let me see this little blouse
 you got on.
 
-1539
-01:21:54,511 --> 01:21:56,213
+
+
 - Yes indeedy, feed the needy.
 - Oh, it's like a rainbow colour.
 
-1540
-01:21:56,313 --> 01:21:59,283
+
+
 - You like it?
 - Oh, my lord, I love it.
 
-1541
-01:21:59,383 --> 01:22:02,383
+
+
 I need to see some I.D.s.
 
-1542
-01:22:06,324 --> 01:22:09,324
+
+
 Scoot over, scoot over.
 
-1543
-01:22:11,830 --> 01:22:14,831
+
+
 You two go back and
 wait by my bike.
 
-1544
-01:22:17,637 --> 01:22:18,771
+
+
 I.D.s.
 
-1545
-01:22:18,871 --> 01:22:20,474
+
+
 My I.D. is in my pants, sir.
 
-1546
-01:22:20,574 --> 01:22:22,309
+
+
 Uh, mine too, sir.
 
-1547
-01:22:22,409 --> 01:22:26,781
+
+
 You gentlemen aware these young ladies
 are 16 years of age?
 
-1548
-01:22:26,881 --> 01:22:28,049
+
+
 Is that wrong?
 
-1549
-01:22:28,149 --> 01:22:31,150
+
+
 Neil:
 McTeague!
 
-1550
-01:22:32,621 --> 01:22:35,618
+
+
 You okay, Wendell?
 
-1551
-01:22:35,628 --> 01:22:39,024
+
+
 I've got to make
 one last try for Doreen.
 
-1552
-01:22:39,830 --> 01:22:40,997
+
+
 We're coming with you.
 
-1553
-01:22:41,097 --> 01:22:44,097
+
+
 [Music plays]
 
-1554
-01:22:48,339 --> 01:22:50,174
+
+
 [Brakes squealing]
 
-1555
-01:22:50,274 --> 01:22:53,275
+
+
 [Music plays]
 
-1556
-01:22:56,449 --> 01:22:57,450
+
+
 Here.
 
-1557
-01:22:57,550 --> 01:22:58,518
+
+
 What's this?
 
-1558
-01:22:58,618 --> 01:23:02,443
+
+
 A wedding band.
 You know where it needs to be.
 
-1559
-01:23:02,690 --> 01:23:05,826
+
+
 You just have
 to see that it gets there.
 
-1560
-01:23:05,926 --> 01:23:07,561
+
+
 I'll try.
 
-1561
-01:23:07,661 --> 01:23:10,493
+
+
 "I'll try." You'll try.
 
-1562
-01:23:10,503 --> 01:23:13,263
+
+
 Say that again. Say it.
 
-1563
-01:23:13,273 --> 01:23:14,636
+
+
 I'll try.
 
-1564
-01:23:14,736 --> 01:23:16,271
+
+
 Now say "I'm doing it."
 
-1565
-01:23:16,371 --> 01:23:17,807
+
+
 I'm doing it!
 
-1566
-01:23:17,907 --> 01:23:20,967
+
+
 Now you say "this is for your stuff.
 
-1567
-01:23:21,143 --> 01:23:25,749
+
+
 pack what you need, 'cause you're
 going with me. Right now."
 
-1568
-01:23:25,849 --> 01:23:27,118
+
+
 Skip:
 Wendell, it's a rare thing
 
-1569
-01:23:27,218 --> 01:23:28,753
+
+
 for a man to reveal his heart.
 
-1570
-01:23:28,853 --> 01:23:31,790
+
+
 But any woman with
 substance will demand just that,
 
-1571
-01:23:31,890 --> 01:23:34,891
+
+
 because it shows strength.
 
-1572
-01:23:40,366 --> 01:23:43,367
+
+
 [Music plays]
 
-1573
-01:23:59,589 --> 01:24:00,957
+
+
 Listen.
 
-1574
-01:24:01,057 --> 01:24:04,494
+
+
 I grew up thinking somebody had it in for me
 'cause some of the cards I was dealt,
 
-1575
-01:24:04,594 --> 01:24:07,131
+
+
 and I ended up realizing somebody
 was looking out for me
 
-1576
-01:24:07,231 --> 01:24:08,599
+
+
 'cause I met you.
 
-1577
-01:24:08,699 --> 01:24:14,004
+
+
 And the stronger I felt about you
 the more I braced myself for the day you'd be gone.
 
-1578
-01:24:14,104 --> 01:24:17,105
+
+
 [Tires squealing]
 
-1579
-01:24:21,179 --> 01:24:23,649
+
+
 Loneliness was always the wolf
 at the door in my life
 
-1580
-01:24:23,749 --> 01:24:26,894
+
+
 and I let him right in on both of us.
 
-1581
-01:24:28,087 --> 01:24:31,089
+
+
 I'm so sorry
 you ever felt lonesome.
 
-1582
-01:24:34,162 --> 01:24:37,162
+
+
 I think this is Dave.
 
-1583
-01:24:39,835 --> 01:24:42,433
+
+
 You're going to miss her.
 
-1584
-01:24:42,443 --> 01:24:44,735
+
+
 I'm sorry?
 
-1585
-01:24:44,745 --> 01:24:46,408
+
+
 He said you're going to miss her.
 
-1586
-01:24:46,508 --> 01:24:48,912
+
+
 It'll probably
 get pretty bad sometimes.
 
-1587
-01:24:49,012 --> 01:24:50,080
+
+
 Yeah.
 
-1588
-01:24:50,180 --> 01:24:54,090
+
+
 What they call a high lonesome
 in the Old West.
 
-1589
-01:24:54,517 --> 01:24:57,149
+
+
 I love you.
 
-1590
-01:24:57,159 --> 01:25:00,155
+
+
 I love you, Doreen.
 
-1591
-01:25:01,293 --> 01:25:03,529
+
+
 You're where
 it all starts and ends for me.
 
-1592
-01:25:03,629 --> 01:25:06,629
+
+
 [Music plays]
 
-1593
-01:25:25,453 --> 01:25:27,188
+
+
 You guys are
 with Wendell Baker, aren't you?
 
-1594
-01:25:27,288 --> 01:25:29,720
+
+
 We're his compadres.
 
-1595
-01:25:29,730 --> 01:25:32,262
+
+
 Good.'Cause you can take him
 to the emergency room
 
-1596
-01:25:32,362 --> 01:25:33,497
+
+
 when I get done with him.
 
-1597
-01:25:33,597 --> 01:25:35,666
+
+
 I don't know
 about all that, dog.
 
-1598
-01:25:35,766 --> 01:25:38,767
+
+
 Did you just call me dog?
 
-1599
-01:25:39,337 --> 01:25:43,162
+
+
 That's ridiculous.
 It's absolutely ridiculous.
 
-1600
-01:25:43,541 --> 01:25:46,542
+
+
 Classic asshole.
 
-1601
-01:25:47,479 --> 01:25:48,447
+
+
 Loser.
 
-1602
-01:25:48,547 --> 01:25:51,547
+
+
 [Music plays]
 
-1603
-01:25:55,889 --> 01:25:58,889
+
+
 What's he doing here?
 
-1604
-01:26:01,062 --> 01:26:03,298
+
+
 We can try it again, Wendell.
 
-1605
-01:26:03,398 --> 01:26:05,033
+
+
 No, Mr. Summers.
 
-1606
-01:26:05,133 --> 01:26:07,269
+
+
 I said what I was feeling and
 she listened to me.
 
-1607
-01:26:07,369 --> 01:26:09,072
+
+
 She really did.
 
-1608
-01:26:09,172 --> 01:26:12,141
+
+
 I'm lucky that
 I ever even met Doreen...
 
-1609
-01:26:12,241 --> 01:26:14,677
+
+
 Much less that
 she once loved me too.
 
-1610
-01:26:14,777 --> 01:26:18,942
+
+
 I'll never get over her,
 but I'll never regret it.
 
-1611
-01:26:22,052 --> 01:26:24,355
+
+
 The crazy thing is, is we're the victims.
 
-1612
-01:26:24,455 --> 01:26:27,125
+
+
 These two sick old men,
 they stole our car,
 
-1613
-01:26:27,225 --> 01:26:29,361
+
+
 exposed themselves
 to those poor girls.
 
-1614
-01:26:29,461 --> 01:26:30,428
+
+
 Pissed on us.
 
-1615
-01:26:30,528 --> 01:26:32,464
+
+
 That's why we had to take
 our clothes off.
 
-1616
-01:26:32,564 --> 01:26:34,334
+
+
 Back to the car.
 
-1617
-01:26:34,434 --> 01:26:37,434
+
+
 [Music plays]
 
-1618
-01:26:41,442 --> 01:26:44,012
+
+
 Wendell: [Narrating]
 Sometimes things don't work out perfectly,
 
-1619
-01:26:44,112 --> 01:26:47,112
+
+
 they just workout.
 
-1620
-01:26:50,219 --> 01:26:52,054
+
+
 So it was an elaborate
 kidnapping scheme.
 
-1621
-01:26:52,154 --> 01:26:54,384
+
+
 [Music plays]
 
-1622
-01:26:54,394 --> 01:26:56,753
+
+
 Are you Wendell Baker?
 
-1623
-01:26:56,763 --> 01:26:59,090
+
+
 Nope.
 
-1624
-01:26:59,100 --> 01:27:00,930
+
+
 We'd like to talk to you,
 Mr. Baker.
 
-1625
-01:27:01,030 --> 01:27:02,665
+
+
 I'll, uh, I'll let him know if I see him.
 
-1626
-01:27:02,765 --> 01:27:04,467
+
+
 It concerns Mr. Nasher.
 
-1627
-01:27:04,567 --> 01:27:07,569
+
+
 [Music plays]
 
-1628
-01:27:09,174 --> 01:27:11,877
+
+
 Man:
 Nasher's real name was William Harris Rayburn.
 
-1629
-01:27:11,977 --> 01:27:14,847
+
+
 Among other things,
 he's an international financier,
 
-1630
-01:27:14,947 --> 01:27:19,552
+
+
 a shipping magnate, a casino owner
 and a producer of motion pictures.
 
-1631
-01:27:19,652 --> 01:27:22,556
+
+
 He made the bulk of his fortune in 1948
 
-1632
-01:27:22,656 --> 01:27:25,492
+
+
 with the discovery of what was called
 the Black Ocean.
 
-1633
-01:27:25,592 --> 01:27:29,029
+
+
 In actuality, it was an enormous
 basin of crude oil
 
-1634
-01:27:29,129 --> 01:27:32,600
+
+
 spreading from West Texas
 to Southeastern New Mexico.
 
-1635
-01:27:32,700 --> 01:27:34,135
+
+
 All right.
 
-1636
-01:27:34,235 --> 01:27:36,238
+
+
 Mr. Rayburn... Nasher to you...
 
-1637
-01:27:36,338 --> 01:27:41,311
+
+
 For lack of a better term,
 dropped out of conventional society in 1967.
 
-1638
-01:27:41,411 --> 01:27:43,046
+
+
 I met him one time.
 
-1639
-01:27:43,146 --> 01:27:45,810
+
+
 The day he hired me.
 
-1640
-01:27:45,820 --> 01:27:49,470
+
+
 From 1967 on
 he lived anonymously in hotels,
 
-1641
-01:27:49,987 --> 01:27:53,302
+
+
 communicating only
 by handwritten memos.
 
-1642
-01:27:53,758 --> 01:27:55,761
+
+
 He made a request that you take over
 
-1643
-01:27:55,861 --> 01:27:58,697
+
+
 the management
 of his line of luxury hotels,
 
-1644
-01:27:58,797 --> 01:28:03,387
+
+
 the flagship hotel being
 the Lake Travis Villa and Spa.
 
-1645
-01:28:07,641 --> 01:28:10,641
+
+
 [Music plays]
 
-1646
-01:28:26,896 --> 01:28:29,328
+
+
 # I'm gonna live forever #
 
-1647
-01:28:29,338 --> 01:28:31,797
+
+
 # I'm gonna cross that river #
 
-1648
-01:28:31,807 --> 01:28:34,802
+
+
 # I'm gonna catch tomorrow now #
 
-1649
-01:28:36,841 --> 01:28:39,139
+
+
 # You're gonna wanna hold me #
 
-1650
-01:28:39,149 --> 01:28:41,642
+
+
 # Just like I always told you #
 
-1651
-01:28:41,652 --> 01:28:44,648
+
+
 # You're gonna miss me when I'm gone #
 
-1652
-01:28:46,620 --> 01:28:49,620
+
+
 # Nobody here will ever find me #
 
-1653
-01:28:51,692 --> 01:28:54,692
+
+
 # But I will always be around #
 
-1654
-01:28:56,530 --> 01:28:59,675
+
+
 # Just like the songs I leave behind me #
 
-1655
-01:29:01,770 --> 01:29:04,635
+
+
 # I'm gonna live forever now #
 
-1656
-01:29:04,645 --> 01:29:07,640
+
+
 [Music plays]
 
-1657
-01:29:14,118 --> 01:29:15,954
+
+
 McTeague?
 
-1658
-01:29:16,054 --> 01:29:19,558
+
+
 Was it ever tough for you being such
 a hard-ass back at Shady Grove?
 
-1659
-01:29:19,658 --> 01:29:21,426
+
+
 No, not really.
 
-1660
-01:29:21,526 --> 01:29:23,028
+
+
 You just get in kind of a groove.
 
-1661
-01:29:23,128 --> 01:29:25,765
+
+
 Truth be known,
 I kind of enjoyed it.
 
-1662
-01:29:25,865 --> 01:29:27,967
+
+
 You know, it was
 kind of like playing a part.
 
-1663
-01:29:28,067 --> 01:29:32,572
+
+
 Though I now realize
 that I was a very unhappy person.
 
-1664
-01:29:32,673 --> 01:29:35,673
+
+
 [Chuckling]
 
-1665
-01:29:36,276 --> 01:29:39,276
+
+
 Well, I've got to go find Wendell.
 
-1666
-01:29:40,147 --> 01:29:42,318
+
+
 Wendell.
 I was just looking for you.
 
-1667
-01:29:42,418 --> 01:29:44,620
+
+
 - Yeah?
 - I need you to go down to the beach with me
 
-1668
-01:29:44,720 --> 01:29:46,889
+
+
 and show me how
 to set those tables up and...
 
-1669
-01:29:46,989 --> 01:29:50,160
+
+
 Yeah? Just set them up
 like I showed you last week.
 
-1670
-01:29:50,260 --> 01:29:52,629
+
+
 - Thanks.
 - And you mind, uh, buttoning that up?
 
-1671
-01:29:52,729 --> 01:29:53,863
+
+
 Oh, no problem, Wendell.
 
-1672
-01:29:53,963 --> 01:29:54,931
+
+
 Tuck, tucking it in too.
 
-1673
-01:29:55,031 --> 01:29:56,366
+
+
 Oh, yes. I got you covered.
 
-1674
-01:29:56,466 --> 01:29:58,102
+
+
 I... I want you to show me.
 
-1675
-01:29:58,202 --> 01:30:01,172
+
+
 A successful manager has
 got to be involved
 
-1676
-01:30:01,272 --> 01:30:02,707
+
+
 in all aspects of his business.
 
-1677
-01:30:02,807 --> 01:30:04,375
+
+
 I.. I understand that,
 Mr. Summers.
 
-1678
-01:30:04,475 --> 01:30:06,311
+
+
 It's just I'm kind of busy, is all.
 
-1679
-01:30:06,411 --> 01:30:08,447
+
+
 Yeah, well, too busy to see
 that it's done right?
 
-1680
-01:30:08,547 --> 01:30:12,318
+
+
 No, Mr. Summers, it's just that I thought you
 and Mr. Fullbright could handle it.
 
-1681
-01:30:12,418 --> 01:30:13,887
+
+
 I mean, where is Mr. Fullbright?
 
-1682
-01:30:13,987 --> 01:30:16,452
+
+
 I don't know.
 
-1683
-01:30:16,462 --> 01:30:17,725
+
+
 Girls.
 
-1684
-01:30:17,825 --> 01:30:18,826
+
+
 Have you seen Boyd?
 
-1685
-01:30:18,926 --> 01:30:21,927
+
+
 No, I haven't. Hi, Wendell.
 
-1686
-01:30:22,764 --> 01:30:26,334
+
+
 You know, I don't mind helping you guys
 every now and then, Mr. Summers,
 
-1687
-01:30:26,434 --> 01:30:28,403
+
+
 but I just... I can't do it every day.
 
-1688
-01:30:28,503 --> 01:30:30,072
+
+
 I got a lot of stuff to do here.
 
-1689
-01:30:30,172 --> 01:30:31,340
+
+
 And come to think of it,
 
-1690
-01:30:31,440 --> 01:30:34,410
+
+
 I didn't even see Mr. Fullbright
 all day yesterday either.
 
-1691
-01:30:34,510 --> 01:30:37,511
+
+
 [Music plays]
 
-1692
-01:30:54,701 --> 01:30:56,436
+
+
 # When we come to the place #
 
-1693
-01:30:56,536 --> 01:30:59,536
+
+
 # Where the road and the sky collide #
 
-1694
-01:31:01,408 --> 01:31:03,044
+
+
 # Throw me over the edge #
 
-1695
-01:31:03,144 --> 01:31:06,144
+
+
 # And let my spirit glide #
 
-1696
-01:31:08,149 --> 01:31:11,153
+
+
 # They told me I was gonna
 have to work for a living #
 
-1697
-01:31:11,253 --> 01:31:14,184
+
+
 # But all I wanna do is ride #
 
-1698
-01:31:14,194 --> 01:31:16,859
+
+
 # I don't care where
 we're going from here #
 
-1699
-01:31:16,959 --> 01:31:19,960
+
+
 # Honey, you decide #
 
-1700
-01:31:20,564 --> 01:31:23,067
+
+
 # Well, I spend my time at the bottom of a... #
 
-1701
-01:31:23,167 --> 01:31:26,167
+
+
 - Skip: Wendell.
 # -...Wishing well #
 
-1702
-01:31:27,439 --> 01:31:29,669
+
+
 # And I can hear my dreams #
 
-1703
-01:31:29,679 --> 01:31:32,674
+
+
 # Singing clear as a bell #
 
-1704
-01:31:34,078 --> 01:31:37,083
+
+
 # I used to know
 where they ended and the world began #
 
-1705
-01:31:37,183 --> 01:31:40,183
+
+
 # But now it's getting hard to tell #
 
-1706
-01:31:40,586 --> 01:31:42,756
+
+
 # I could be just around
 the corner from heaven #
 
-1707
-01:31:42,856 --> 01:31:45,856
+
+
 # Or a mile from hell #
 
-1708
-01:31:46,761 --> 01:31:49,761
+
+
 # I'm just rolling away
 from yesterday #
 
-1709
-01:31:50,465 --> 01:31:53,695
+
+
 # Behind the wheel of a stolen Chevrolet #
 
-1710
-01:31:53,735 --> 01:31:55,671
+
+
 # I'm gonna get a little higher #
 
-1711
-01:31:55,771 --> 01:31:58,771
+
+
 # See if I can hotwire reality #
 
-1712
-01:31:58,841 --> 01:32:01,842
+
+
 [Music plays]
 
-1713
-01:32:29,543 --> 01:32:33,878
+
+
 # But can you see
 those dark clouds gathering up ahead #
 
-1714
-01:32:36,150 --> 01:32:38,253
+
+
 # They're gonna
 wash this planet clean #
 
-1715
-01:32:38,353 --> 01:32:41,354
+
+
 # Like the Bible said #
 
-1716
-01:32:42,391 --> 01:32:44,126
+
+
 # Now you can hold on steady #
 
-1717
-01:32:44,226 --> 01:32:45,761
+
+
 # Try to be ready #
 
-1718
-01:32:45,861 --> 01:32:48,863
+
+
 # But everybody's gonna get wet #
 
-1719
-01:32:49,000 --> 01:32:50,701
+
+
 # Don't think it won't happen #
 
-1720
-01:32:50,801 --> 01:32:53,801
+
+
 # Just because it hasn't happened yet #
 
-1721
-01:32:55,139 --> 01:32:58,140
+
+
 # I'm just rolling away
 from yesterday #
 
-1722
-01:32:58,877 --> 01:33:02,022
+
+
 # Behind the wheel
 of a stolen Chevrolet #
 
-1723
-01:33:02,114 --> 01:33:03,882
+
+
 # Gonna get a little higher #
 
-1724
-01:33:03,982 --> 01:33:06,983
+
+
 # See if I can hotwire reality #
 
-1725
-01:33:07,186 --> 01:33:10,186
+
+
 [Music plays]
 

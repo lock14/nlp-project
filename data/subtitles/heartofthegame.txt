@@ -1,146 +1,146 @@
 ﻿1
-00:00:06,000 --> 00:00:12,074
+
 Advertise your product or brand here
 contact www.OpenSubtitles.org today
 
-2
-00:00:15,498 --> 00:00:16,733
+
+
 [Birds: TWITTERING]
 
-3
-00:00:26,974 --> 00:00:28,079
+
+
 [Water: RIPPLING]
 
-4
-00:00:35,766 --> 00:00:36,741
+
+
 [Wind: BLOWING]
 
-5
-00:00:49,082 --> 00:00:49,982
+
+
 [KISS]
 
-6
-00:01:18,916 --> 00:01:19,826
+
+
 [Dog: BARKING]
 
-7
-00:01:37,997 --> 00:01:39,427
+
+
 [Swing: chain RATTLES]
 
-8
-00:01:49,364 --> 00:01:50,339
+
+
 [Wind: HOWLING]
 
-9
-00:02:05,068 --> 00:02:06,043
+
+
 [Wind: HOWLING]
 
-10
-00:02:08,065 --> 00:02:09,040
+
+
 [Bird: WHISTLE]
 
-11
-00:02:13,292 --> 00:02:14,462
+
+
 [Birds: WHISTLING]
 
-12
-00:02:20,318 --> 00:02:21,293
+
+
 [Bird: WHISTLE]
 
-13
-00:02:30,000 --> 00:02:30,975
+
+
 [Wind: HOWLING]
 
-14
-00:02:32,573 --> 00:02:33,473
+
+
 [CLANG]
 
-15
-00:02:36,461 --> 00:02:37,436
+
+
 [Wind: HOWLING]
 
-16
-00:02:44,867 --> 00:02:45,777
+
+
 [Dog: BARKING]
 
-17
-00:02:47,865 --> 00:02:48,775
+
+
 [Dog: BARKING]
 
-18
-00:02:51,711 --> 00:02:53,141
+
+
 [Swing: chain RATTLES]
 
-19
-00:03:04,244 --> 00:03:05,674
+
+
 [Swing: chain RATTLES]
 
-20
-00:03:16,790 --> 00:03:17,690
+
+
 [SNIFFS]
 
-21
-00:03:21,196 --> 00:03:22,171
+
+
 [Wind: BLOWING]
 
-22
-00:03:31,037 --> 00:03:32,467
+
+
 [Swing: chain RATTLES]
 
-23
-00:03:50,991 --> 00:03:52,421
+
+
 [Swing: chain RATTLES]
 
-24
-00:03:59,202 --> 00:04:00,632
+
+
 [Swing: chain RATTLES]
 
-25
-00:04:04,631 --> 00:04:06,061
+
+
 [Swing: chain RATTLES]
 
-26
-00:04:16,552 --> 00:04:17,452
+
+
 [CHUCKLES]
 
-27
-00:04:19,752 --> 00:04:20,975
+
+
 [Mum: SHOUTING]
 Patrick!
 
-28
-00:04:20,976 --> 00:04:23,328
+
+
 Come home immediately,
 clean your room,
 
-29
-00:04:23,329 --> 00:04:24,882
+
+
 and make your homework,
 and you need to eat!
 
-30
-00:04:24,883 --> 00:04:26,378
+
+
 Come home
 immediately!
 
-31
-00:04:28,823 --> 00:04:30,253
+
+
 [Swing: chain RATTLES]
 
-32
-00:04:30,855 --> 00:04:32,090
+
+
 [Birds: TWITTERING]
 
-33
-00:04:37,705 --> 00:04:38,605
+
+
 [Music]
 
-34
-00:05:49,814 --> 00:05:50,714
+
+
 The End
 
-35
-00:05:50,914 --> 00:05:53,214
+
+
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 + |T|h|e| |D|e|a|f| |B|o|y|s| |F|o|r| |B|o|y|s| |G|r|o|u|p|  +
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
@@ -169,7 +169,7 @@ ____           __            ___   __              ___        __               _
 +        involved in making [closed capture] srt files and supporting us       +
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
-35
-00:05:54,305 --> 00:06:00,560
+
+
 Please rate this subtitle at www.osdb.link/4sz2m
 Help other users to choose the best subtitles

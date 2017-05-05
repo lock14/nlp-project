@@ -1,5070 +1,5070 @@
-1
-00:00:37,002 --> 00:00:39,454
+
+
 <i>I, George Walker Bush,
 do solemnly swear</i>
 
-2
-00:00:39,554 --> 00:00:41,788
+
+
 <i>that I will faithfully execute</i>
 
-3
-00:00:41,888 --> 00:00:44,157
+
+
 <i>the office of President
 of the United States.</i>
 
-4
-00:00:44,257 --> 00:00:45,789
+
+
 <i>that I will faithfully execute</i>
 
-5
-00:00:45,889 --> 00:00:48,094
+
+
 <i>the office of President
 of the United States</i>
 
-6
-00:00:48,194 --> 00:00:51,630
+
+
 <i>and will, to the
 best of my ability</i>
 
-7
-00:00:51,730 --> 00:00:53,832
+
+
 <i>preserve, protect and
 defend the Constitution.</i>
 
-8
-00:00:53,932 --> 00:00:55,803
+
+
 <i>Tom Cruise and Nicole Kidman</i>
 
-9
-00:00:55,903 --> 00:00:58,840
+
+
 <i>caused quite a stir when they
 announced plans to separate.</i>
 
-10
-00:00:58,940 --> 00:01:00,741
+
+
 <i>The couple explained
 the split was caused</i>
 
-11
-00:01:00,841 --> 00:01:02,806
+
+
 <i>by careers that
 frequently keep them apart.</i>
 
-12
-00:01:02,906 --> 00:01:05,780
+
+
 <i>The market
 plunge was sharp and swift,</i>
 
-13
-00:01:05,880 --> 00:01:08,783
+
+
 <i>the NASDAQ was bloody
 too, closing below 2000</i>
 
-14
-00:01:08,883 --> 00:01:11,049
+
+
 <i>for the first time in
 more than two years.</i>
 
-15
-00:01:11,149 --> 00:01:13,819
+
+
 <i>Our 40th president, Ronald Reagan,</i>
 
-16
-00:01:13,919 --> 00:01:17,657
+
+
 <i>born February 6th, 1911,
 celebrated his birthday quietly today</i>
 
-17
-00:01:17,757 --> 00:01:19,357
+
+
 <i>In his home in Los Angeles.</i>
 
-18
-00:01:19,457 --> 00:01:21,896
+
+
 <i>The tech sector took yet
 another beating this week</i>
 
-19
-00:01:21,996 --> 00:01:24,663
+
+
 <i>but there were a few winners,
 most notably Landshark,</i>
 
-20
-00:01:24,763 --> 00:01:28,001
+
+
 <i>whose stock hit a record high
 for the fourth straight day.</i>
 
-21
-00:01:28,101 --> 00:01:31,337
+
+
 <i>In just a few minutes, we'll talk
 to Landshark CEO, Tom Sterling.</i>
 
-22
-00:01:31,437 --> 00:01:34,741
+
+
 Mark, tell us just a little
 bit about this company.
 
-23
-00:01:34,841 --> 00:01:37,245
+
+
 It's an amazing story
 we're seeing here, Ron.
 
-24
-00:01:37,345 --> 00:01:40,411
+
+
 At a time when the tech sector
 has been in virtual free fall,
 
-25
-00:01:40,511 --> 00:01:42,979
+
+
 here's a company that's
 been public for four days
 
-26
-00:01:43,079 --> 00:01:45,082
+
+
 and it's already
 up an astounding 500%.
 
-27
-00:01:45,182 --> 00:01:48,488
+
+
 Indeed it has. And we want to
 talk Landshark CEO Tom Sterling.
 
-28
-00:01:48,588 --> 00:01:49,923
+
+
 Tom, are you with us?
 
-29
-00:01:50,023 --> 00:01:51,189
+
+
 <i>Yeah, I'm here.</i>
 
-30
-00:01:51,289 --> 00:01:55,826
+
+
 Congratulations.
 Thanks for joining us.
 
-31
-00:01:55,926 --> 00:01:57,230
+
+
 <i>Thank you for having me.</i>
 
-32
-00:01:57,330 --> 00:02:00,201
+
+
 This is a very difficult
 market environment.
 
-33
-00:02:00,301 --> 00:02:03,671
+
+
 Can Landshark get the traction it needs?
 
-34
-00:02:03,771 --> 00:02:05,803
+
+
 <i>I think you're missing the point, Ron.</i>
 
-35
-00:02:05,903 --> 00:02:09,311
+
+
 <i>Traction really isn't the issue
 because Landshark is not a vehicle,</i>
 
-36
-00:02:09,411 --> 00:02:11,110
+
+
 <i>Landshark is the road itself.</i>
 
-37
-00:02:11,210 --> 00:02:13,648
+
+
 <i>We've seen start-ups before,</i>
 
-38
-00:02:13,748 --> 00:02:17,315
+
+
 <i>they come out strong, get B-listed
 before they're even out of lockup.</i>
 
-39
-00:02:17,415 --> 00:02:19,118
+
+
 <i>The man has got to be very very tough.</i>
 
-40
-00:02:19,218 --> 00:02:20,621
+
+
 <i>That's just business, Ron.</i>
 
-41
-00:02:20,721 --> 00:02:22,353
+
+
 <i>That's what separates
 the men from the boys.</i>
 
-42
-00:02:22,453 --> 00:02:24,392
+
+
 I indeed it is.
 Tom, congratulations,
 
-43
-00:02:24,492 --> 00:02:26,726
+
+
 thanks for being with us today.
 
-44
-00:02:26,826 --> 00:02:28,494
+
+
 <i>Absolutely. Any time.</i>
 
-45
-00:02:28,594 --> 00:02:31,297
+
+
 Market confidence in Landshark
 has been extraordinarily high.
 
-46
-00:02:31,397 --> 00:02:34,634
+
+
 <i>The real question is where will
 these guys be six months from now?</i>
 
-47
-00:02:34,734 --> 00:02:35,833
+
+
 We'll be right here!
 
-48
-00:02:35,933 --> 00:02:37,889
+
+
 You did good.
 Congratulations, man.
 
-49
-00:02:45,797 --> 00:02:47,025
+
+
 Hey, Tom.
 
-50
-00:05:08,039 --> 00:05:11,459
+
+
 <i>This is Tom.
 Leave a message after the beep.</i>
 
-51
-00:05:11,559 --> 00:05:15,261
+
+
 Ahh. I am so sorry, guys.
 
-52
-00:05:15,361 --> 00:05:19,875
+
+
 Um, Tom is not much
 of a morning person.
 
-53
-00:05:32,497 --> 00:05:34,280
+
+
 <i>Excuse me, sir.</i>
 
-54
-00:05:34,380 --> 00:05:36,784
+
+
 <i>Excuse me. Can I help you?</i>
 
-55
-00:05:36,884 --> 00:05:39,348
+
+
 One skinny mocha latte. Thank you.
 
-56
-00:05:39,448 --> 00:05:41,371
+
+
 Here he is.
 
-57
-00:05:44,042 --> 00:05:46,359
+
+
 So,
 
-58
-00:05:46,459 --> 00:05:49,594
+
+
 I see you've met
 my brother Joshua,
 
-59
-00:05:49,694 --> 00:05:52,431
+
+
 the creative genius
 behind our little venture.
 
-60
-00:05:52,531 --> 00:05:54,435
+
+
 Brad, Jonathan,
 we've met of course,
 
-61
-00:05:54,535 --> 00:05:55,700
+
+
 and you are...
 
-62
-00:05:55,800 --> 00:05:56,935
+
+
 <i>Mason Newburger.</i>
 
-63
-00:05:57,035 --> 00:05:58,838
+
+
 Nice to meet you.
 
-64
-00:05:58,938 --> 00:06:01,404
+
+
 So, you're Unison, we're
 Landshark, let's make money.
 
-65
-00:06:01,504 --> 00:06:03,878
+
+
 We were, uh,
 
-66
-00:06:03,978 --> 00:06:06,679
+
+
 we expected a proposal.
 
-67
-00:06:06,779 --> 00:06:08,812
+
+
 Okay, there's
 been a miscommunication.
 
-68
-00:06:08,912 --> 00:06:11,116
+
+
 We apologize but
 what Tom and I...
 
-69
-00:06:11,216 --> 00:06:13,317
+
+
 We are who we are.
 
-70
-00:06:13,417 --> 00:06:16,020
+
+
 The brand speaks for itself.
 
-71
-00:06:16,120 --> 00:06:18,357
+
+
 Who else are you talking to?
 
-72
-00:06:18,457 --> 00:06:20,125
+
+
 Who are you meeting with?
 
-73
-00:06:20,225 --> 00:06:21,291
+
+
 Well, actually,
 
-74
-00:06:21,391 --> 00:06:22,960
+
+
 I don't see how that's relevant.
 
-75
-00:06:23,060 --> 00:06:26,231
+
+
 <i>Nobody, right? I mean,
 nobody of any weight.</i>
 
-76
-00:06:26,331 --> 00:06:28,736
+
+
 Because nobody does what we do.
 
-77
-00:06:28,836 --> 00:06:31,002
+
+
 You know it, I know it,
 so let's cut the shit.
 
-78
-00:06:31,102 --> 00:06:33,839
+
+
 <i>Without a proposal?
 Without something to take back?</i>
 
-79
-00:06:33,939 --> 00:06:35,472
+
+
 You can understand,
 
-80
-00:06:35,572 --> 00:06:37,709
+
+
 it's gonna be hard for
 us to sell this upstairs.
 
-81
-00:06:37,809 --> 00:06:42,183
+
+
 Well, maybe next time, we
 should be meeting with upstairs.
 
-82
-00:06:42,283 --> 00:06:44,016
+
+
 Big words for an MOP.
 
-83
-00:06:44,116 --> 00:06:46,751
+
+
 Your lockup is standard 180.
 
-84
-00:06:46,851 --> 00:06:48,453
+
+
 He's out September 14th.
 
-85
-00:06:48,553 --> 00:06:51,189
+
+
 So you got four weeks,
 which according to the FCC
 
-86
-00:06:51,289 --> 00:06:53,593
+
+
 <i>means you can't buy,
 you can't sell,</i>
 
-87
-00:06:53,693 --> 00:06:56,226
+
+
 <i>all your millions,
 it's all on paper.</i>
 
-88
-00:06:56,326 --> 00:06:59,295
+
+
 Okay guys, um...
 
-89
-00:06:59,395 --> 00:07:00,897
+
+
 before we get all heated up...
 
-90
-00:07:00,997 --> 00:07:02,836
+
+
 You want portal play?
 
-91
-00:07:02,936 --> 00:07:04,434
+
+
 Anybody can give you a portal play?
 
-92
-00:07:04,534 --> 00:07:08,504
+
+
 Any asshole, he's a fucking portal.
 
-93
-00:07:08,604 --> 00:07:11,377
+
+
 That's so third quarter 99.
 
-94
-00:07:11,477 --> 00:07:14,545
+
+
 You want bleeding-edge
 mission-critical cross platform
 
-95
-00:07:14,645 --> 00:07:18,148
+
+
 robust scalable architectures?
 
-96
-00:07:18,248 --> 00:07:21,785
+
+
 Well, duh.
 That's what everybody wants.
 
-97
-00:07:21,885 --> 00:07:24,989
+
+
 What you want is "e." Pure e.
 
-98
-00:07:25,089 --> 00:07:26,758
+
+
 Not e-commerce,
 not e-business,
 
-99
-00:07:26,858 --> 00:07:30,197
+
+
 not click-and-mortar,
 anything but that, e.
 
-100
-00:07:30,297 --> 00:07:32,863
+
+
 <i>Not old, not tired,
 not stepped on,</i>
 
-101
-00:07:32,963 --> 00:07:35,533
+
+
 <i>not one gram of e and ten
 grams of baby laxative,</i>
 
-102
-00:07:35,633 --> 00:07:39,338
+
+
 <i>pure e. Josh knows e. I know e.</i>
 
-103
-00:07:39,438 --> 00:07:41,572
+
+
 That's what Landshark does.
 
-104
-00:07:41,672 --> 00:07:43,341
+
+
 And somehow
 when e changes,
 
-105
-00:07:43,441 --> 00:07:45,846
+
+
 <i>we're there first on
 the shore. Beckoning.</i>
 
-106
-00:07:45,946 --> 00:07:48,315
+
+
 Is there anyone who can
 aggregate the way we can?
 
-107
-00:07:48,415 --> 00:07:50,981
+
+
 I don't think so. Because
 if there was, I'd be there.
 
-108
-00:07:51,081 --> 00:07:54,185
+
+
 But I'm here. And that's
 why you invited me here.
 
-109
-00:07:54,285 --> 00:07:57,173
+
+
 You invited me here
 because you want in.
 
-110
-00:08:26,004 --> 00:08:27,455
+
+
 Okay.
 
-111
-00:08:27,555 --> 00:08:29,234
+
+
 Fine.
 
-112
-00:08:30,708 --> 00:08:32,025
+
+
 So let's talk numbers.
 
-113
-00:08:32,125 --> 00:08:34,062
+
+
 Our CFO, as you know,
 is Dylan Gothschalk.
 
-114
-00:08:34,162 --> 00:08:36,193
+
+
 Give Dylan a call,
 make him an offer.
 
-115
-00:08:36,293 --> 00:08:38,442
+
+
 <i>We'll see if we
 can accommodate you.</i>
 
-116
-00:08:44,656 --> 00:08:46,886
+
+
 Motherfucker!
 
-117
-00:08:49,861 --> 00:08:52,091
+
+
 You fucker.
 
-118
-00:08:53,698 --> 00:08:58,749
+
+
 Don't you ever fucking
 apologize ever fucking again.
 
-119
-00:08:58,849 --> 00:09:00,360
+
+
 That's not what we do.
 
-120
-00:09:02,373 --> 00:09:04,273
+
+
 Well, I'm so sorry.
 
-121
-00:09:09,314 --> 00:09:11,232
+
+
 Hop in!
 
-122
-00:09:11,332 --> 00:09:14,134
+
+
 Oh no, I told Mo
 I'd stop home first
 
-123
-00:09:14,234 --> 00:09:16,002
+
+
 to make sure she's okay.
 
-124
-00:09:16,102 --> 00:09:17,437
+
+
 I'll give you a ride.
 
-125
-00:09:17,537 --> 00:09:20,441
+
+
 That's okay. I'll see
 you back at the office.
 
-126
-00:09:20,541 --> 00:09:22,152
+
+
 What?
 
-127
-00:09:41,579 --> 00:09:43,694
+
+
 Hey!
 
-128
-00:09:43,794 --> 00:09:46,262
+
+
 Did you hear?
 Pseudo dot com.
 
-129
-00:09:46,362 --> 00:09:47,898
+
+
 How many they dump?
 
-130
-00:09:47,998 --> 00:09:51,615
+
+
 60, maybe 70 out of 100.
 Everyone but the.
 
-131
-00:09:53,491 --> 00:09:54,672
+
+
 Who do I owe?
 
-132
-00:09:54,772 --> 00:09:57,043
+
+
 Baum who called twice.
 Andrew Goldman.
 
-133
-00:09:57,143 --> 00:09:58,175
+
+
 Fuck him.
 
-134
-00:09:58,275 --> 00:09:59,180
+
+
 Jonathan Grey.
 
-135
-00:09:59,280 --> 00:10:00,344
+
+
 Fuck him.
 
-136
-00:10:00,444 --> 00:10:02,479
+
+
 Laurel Wormack,
 twice, Kowalski.
 
-137
-00:10:02,579 --> 00:10:04,350
+
+
 Somebody's sitting in my chair.
 
-138
-00:10:04,450 --> 00:10:08,254
+
+
 Don't get all pompous
 on me, Tom. Just don't.
 
-139
-00:10:08,354 --> 00:10:12,226
+
+
 You blew them off.
 You had to, didn't you?
 
-140
-00:10:12,326 --> 00:10:13,525
+
+
 I just did my thing, Mel.
 
-141
-00:10:13,625 --> 00:10:15,360
+
+
 I don't tell you how to do your thing.
 
-142
-00:10:15,460 --> 00:10:17,696
+
+
 I won't have a thing if
 you keep on blowing off
 
-143
-00:10:17,796 --> 00:10:19,700
+
+
 the people who are
 trying to hire us.
 
-144
-00:10:19,800 --> 00:10:22,264
+
+
 We've got Snowmark to worry
 about. Our plate is full.
 
-145
-00:10:22,364 --> 00:10:24,867
+
+
 <i>Our plate is not full.
 Snowmark is three months late.</i>
 
-146
-00:10:24,967 --> 00:10:27,071
+
+
 We need that account, we need the money.
 
-147
-00:10:27,171 --> 00:10:29,206
+
+
 <i>Take it then. You want
 the money, take it.</i>
 
-148
-00:10:29,306 --> 00:10:32,843
+
+
 They'll call Dylan, and when
 they do, take their money.
 
-149
-00:10:32,943 --> 00:10:34,848
+
+
 They'll call. Trust me. You'll see.
 
-150
-00:10:34,948 --> 00:10:37,216
+
+
 <i>I've got a bazillion
 shares of Landshark</i>
 
-151
-00:10:37,316 --> 00:10:39,383
+
+
 I can't do anything with.
 
-152
-00:10:39,483 --> 00:10:42,552
+
+
 28 days, Mel, we come
 out of lockup, 4 weeks.
 
-153
-00:10:42,652 --> 00:10:45,458
+
+
 <i>Four weeks from now, if we
 don't get any cash coming in,</i>
 
-154
-00:10:45,558 --> 00:10:47,225
+
+
 <i>we're gonna be
 under water!</i>
 
-155
-00:10:47,325 --> 00:10:50,293
+
+
 <i>We IPOed at 12, shot up to
 60, last week we were at 7.</i>
 
-156
-00:10:50,393 --> 00:10:51,973
+
+
 Want to know
 where we are now?
 
-157
-00:10:56,354 --> 00:10:57,603
+
+
 Two and one eighth.
 
-158
-00:10:57,703 --> 00:10:59,303
+
+
 You better get
 to work then.
 
-159
-00:10:59,403 --> 00:11:01,551
+
+
 Can I have my chair back, please?
 
-160
-00:11:07,365 --> 00:11:09,981
+
+
 Hey.
 
-161
-00:11:10,081 --> 00:11:11,986
+
+
 Yeah, you can put it there.
 
-162
-00:11:12,086 --> 00:11:14,050
+
+
 Can you give me a burp pad?
 
-163
-00:11:14,150 --> 00:11:15,605
+
+
 Yeah, yeah, yeah.
 
-164
-00:11:20,111 --> 00:11:22,591
+
+
 Josh, you need to help
 me unpack this shit.
 
-165
-00:11:22,691 --> 00:11:23,895
+
+
 I can't do it by myself.
 
-166
-00:11:23,995 --> 00:11:26,096
+
+
 <i>I know.
 I'm sorry.</i>
 
-167
-00:11:26,196 --> 00:11:29,334
+
+
 I'll help you unpack
 tonight, I promise.
 
-168
-00:11:29,434 --> 00:11:31,684
+
+
 Is there anything I can?
 
-169
-00:11:35,660 --> 00:11:37,044
+
+
 I can't stay very long.
 
-170
-00:11:37,144 --> 00:11:40,576
+
+
 Is there anything that
 I can do before I leave?
 
-171
-00:11:40,676 --> 00:11:43,259
+
+
 You can give me a kiss.
 
-172
-00:11:47,872 --> 00:11:49,188
+
+
 How is he?
 
-173
-00:11:49,288 --> 00:11:52,789
+
+
 Good.
 He fell asleep.
 
-174
-00:11:52,889 --> 00:11:54,193
+
+
 Wanna hold him?
 
-175
-00:11:54,293 --> 00:11:55,325
+
+
 Yeah, yeah, yeah.
 
-176
-00:11:55,425 --> 00:11:57,881
+
+
 Do you want
 your hot chocolate?
 
-177
-00:12:00,284 --> 00:12:01,932
+
+
 <i>What do you mean I can't</i>? </i></i>
 
-178
-00:12:02,032 --> 00:12:04,635
+
+
 <i>What you're saying isn't can't,</i>
 you're saying I shouldn't.
 
-179
-00:12:04,735 --> 00:12:06,337
+
+
 There's a world of difference.
 
-180
-00:12:06,437 --> 00:12:09,377
+
+
 Do what you want. Want the
 Gulfstream? Go ahead and get it.
 
-181
-00:12:09,477 --> 00:12:11,677
+
+
 I just want the numbers,
 not the moralizing,
 
-182
-00:12:11,777 --> 00:12:13,979
+
+
 not the more than I can
 afford, just numbers.
 
-183
-00:12:14,079 --> 00:12:15,044
+
+
 <i>With maintenance?</i>
 
-184
-00:12:15,144 --> 00:12:16,848
+
+
 With everything!
 
-185
-00:12:16,948 --> 00:12:19,049
+
+
 <i>Give or take, but
 a million a month.</i>
 
-186
-00:12:19,149 --> 00:12:22,354
+
+
 What does it cost not to lease
 the G5? Ever think about that?
 
-187
-00:12:22,454 --> 00:12:24,791
+
+
 Did you ever take
 that into account?
 
-188
-00:12:24,891 --> 00:12:27,660
+
+
 You're looking at me like
 "What does this asshole think?"
 
-189
-00:12:27,760 --> 00:12:30,631
+
+
 That the bottom never fell out?
 Like July never happened?
 
-190
-00:12:30,731 --> 00:12:33,763
+
+
 Of course it happened! Abercrombie
 was like, "This is great"
 
-191
-00:12:33,863 --> 00:12:36,068
+
+
 and then she was like,
 "This is overvalued."
 
-192
-00:12:36,168 --> 00:12:38,302
+
+
 What the fuck does that
 have to do with us?
 
-193
-00:12:38,402 --> 00:12:39,868
+
+
 It's about valuation, Tom.
 
-194
-00:12:39,968 --> 00:12:41,341
+
+
 <i>Elision has a Gulfstream.</i>
 
-195
-00:12:41,441 --> 00:12:44,311
+
+
 Case has a Gulfstream.
 Ross has a Gulfstream.
 
-196
-00:12:44,411 --> 00:12:48,315
+
+
 Bezos has a Gulfstream.
 Fucking Bezos!
 
-197
-00:12:48,415 --> 00:12:52,117
+
+
 <i>The cost of not having one is the
 cost of saying to the world that Tom...</i>
 
-198
-00:12:52,217 --> 00:12:54,088
+
+
 <i>Tom is just not
 in that league.</i>
 
-199
-00:12:54,188 --> 00:12:57,423
+
+
 And what does that cost? A fuck of
 a lot more than a million a month.
 
-200
-00:12:57,523 --> 00:12:59,325
+
+
 A million a month can be leveraged.
 
-201
-00:12:59,425 --> 00:13:01,829
+
+
 Being looked at as B-list, can't.
 
-202
-00:13:01,929 --> 00:13:03,364
+
+
 Can't.
 
-203
-00:13:03,464 --> 00:13:05,332
+
+
 You're past that point, Tom.
 
-204
-00:13:05,432 --> 00:13:07,199
+
+
 <i>I was right about Unison, wasn't I?</i>
 
-205
-00:13:07,299 --> 00:13:09,366
+
+
 <i>They called, just
 like I said they would.</i>
 
-206
-00:13:09,466 --> 00:13:13,571
+
+
 You and Mel just need to
 have a little bit of faith.
 
-207
-00:13:13,671 --> 00:13:16,273
+
+
 This will take more
 than smoky mirrors.
 
-208
-00:13:16,373 --> 00:13:19,476
+
+
 If you're not part of the solution,
 you're part of the problem.
 
-209
-00:13:19,576 --> 00:13:20,656
+
+
 <i>Am I fired?</i>
 
-210
-00:13:28,072 --> 00:13:29,821
+
+
 <i>Just find a way to do it.</i>
 
-211
-00:13:29,921 --> 00:13:33,355
+
+
 <i>Arbitrage, I don't care.
 Wanna know something?</i>
 
-212
-00:13:33,455 --> 00:13:35,424
+
+
 You're gonna like it.
 
-213
-00:13:35,524 --> 00:13:37,493
+
+
 You're gonna
 like riding in it.
 
-214
-00:13:37,593 --> 00:13:38,898
+
+
 You're gonna call me and say,
 
-215
-00:13:38,998 --> 00:13:40,631
+
+
 I'm gonna take
 the family to Hawaii.
 
-216
-00:13:40,731 --> 00:13:41,697
+
+
 You got two kids?
 
-217
-00:13:41,797 --> 00:13:43,170
+
+
 Three.
 
-218
-00:13:43,270 --> 00:13:45,504
+
+
 "I'm gonna take the wife
 and three kids to Hawaii."
 
-219
-00:13:45,604 --> 00:13:48,172
+
+
 and I'm gonna say, "Cool.
 Why don't you take the G?"
 
-220
-00:13:48,272 --> 00:13:50,644
+
+
 And I'll tell you this.
 I promise you this.
 
-221
-00:13:50,744 --> 00:13:53,663
+
+
 When you do,
 once you do, Dyl...
 
-222
-00:13:57,902 --> 00:14:00,118
+
+
 Never mind, just get it.
 
-223
-00:14:00,218 --> 00:14:02,035
+
+
 Hey.
 
-224
-00:14:03,574 --> 00:14:04,274
+
+
 Sarah?
 
-225
-00:14:06,644 --> 00:14:08,596
+
+
 What are you doing here?
 
-226
-00:14:08,696 --> 00:14:11,193
+
+
 Tom.
 Hi.
 
-227
-00:14:11,293 --> 00:14:12,761
+
+
 Hey, Dylan.
 
-228
-00:14:12,861 --> 00:14:14,667
+
+
 <i>Hi, Sarah.</i>
 
-229
-00:14:14,767 --> 00:14:16,535
+
+
 When did you get back in town?
 
-230
-00:14:16,635 --> 00:14:19,270
+
+
 <i>Um, just a couple of weeks ago.</i>
 
-231
-00:14:19,370 --> 00:14:21,140
+
+
 I'm taking off, Tom.
 
-232
-00:14:21,240 --> 00:14:24,611
+
+
 Gotta get home. Nice
 seeing you again, Sarah.
 
-233
-00:14:24,711 --> 00:14:25,742
+
+
 Welcome back.
 
-234
-00:14:25,842 --> 00:14:27,991
+
+
 Thanks, nice to see you too.
 
-235
-00:14:31,235 --> 00:14:34,216
+
+
 I was just trying to
 keep a couple of shifts.
 
-236
-00:14:34,316 --> 00:14:35,318
+
+
 So you're back then.
 
-237
-00:14:35,418 --> 00:14:39,326
+
+
 Yeah. Classes start
 next month. So...
 
-238
-00:14:39,426 --> 00:14:40,591
+
+
 Where are you living?
 
-239
-00:14:40,691 --> 00:14:42,860
+
+
 <i>Same place.</i>
 
-240
-00:14:42,960 --> 00:14:44,331
+
+
 How's your brother?
 
-241
-00:14:44,431 --> 00:14:46,665
+
+
 Josh is good.
 Yeah, he's good.
 
-242
-00:14:46,765 --> 00:14:47,898
+
+
 Good.
 
-243
-00:14:47,998 --> 00:14:51,421
+
+
 Tell him I said hello, okay? Bye.
 
-244
-00:15:01,899 --> 00:15:03,491
+
+
 Who was that?
 
-245
-00:15:10,241 --> 00:15:12,789
+
+
 So what do you
 want to do tonight?
 
-246
-00:15:12,889 --> 00:15:14,071
+
+
 Taxi!
 
-247
-00:15:21,652 --> 00:15:23,334
+
+
 Well, good night.
 
-248
-00:15:23,434 --> 00:15:25,150
+
+
 Good night.
 
-249
-00:16:13,638 --> 00:16:16,754
+
+
 <i>Recent polls show
 that 55% of Americans</i>
 
-250
-00:16:16,854 --> 00:16:21,026
+
+
 <i>disapprove of President Bush
 taking a 30-day working vacation.</i>
 
-251
-00:16:21,126 --> 00:16:23,092
+
+
 <i>If the President
 returns on Labor Day,</i>
 
-252
-00:16:23,192 --> 00:16:26,946
+
+
 <i>he will tie a lot of
 records held by Richard Nixon.</i>
 
-253
-00:16:36,761 --> 00:16:41,130
+
+
 <i>Ben Affleck today, for alcoholic.</i>
 
-254
-00:16:47,071 --> 00:16:51,667
+
+
 <i>Nicole Kidman says she refuses to be
 bitter about the break up with Tom Cruise.</i>
 
-255
-00:18:43,587 --> 00:18:47,614
+
+
 <i>Josh? I'm
 just starving right now.</i>
 
-256
-00:18:49,927 --> 00:18:50,973
+
+
 <i>What are you doing?</i>
 
-257
-00:18:51,073 --> 00:18:52,378
+
+
 Nothing.
 
-258
-00:18:52,478 --> 00:18:54,415
+
+
 You were supposed
 to be unpacking.
 
-259
-00:18:54,515 --> 00:18:58,434
+
+
 I'm totally unpacking.
 Do you want to order some food?
 
-260
-00:19:14,485 --> 00:19:16,369
+
+
 Tom, you think about what size
 
-261
-00:19:16,469 --> 00:19:18,270
+
+
 you want me to send
 to your parents?
 
-262
-00:19:18,370 --> 00:19:20,971
+
+
 What the fuck are
 these still doing here?
 
-263
-00:19:21,071 --> 00:19:22,841
+
+
 Hey, what are these doing here?
 
-264
-00:19:22,941 --> 00:19:25,576
+
+
 Come on, come on, get them
 up? Big ones, little ones,
 
-265
-00:19:25,676 --> 00:19:28,048
+
+
 let's go, they don't do
 much good sitting here!
 
-266
-00:19:28,148 --> 00:19:30,084
+
+
 Hey Tom, Charlie Corwin?
 
-267
-00:19:30,184 --> 00:19:34,116
+
+
 Livemusicchannel. com?
 Fuck that guy.
 
-268
-00:19:34,216 --> 00:19:35,988
+
+
 So what?
 A little one?
 
-269
-00:19:36,088 --> 00:19:37,890
+
+
 No, he's through, he's finished.
 
-270
-00:19:37,990 --> 00:19:41,023
+
+
 Fuck him, don't give him shit.
 
-271
-00:19:41,123 --> 00:19:44,512
+
+
 You know what? Give him a
 little one, what the fuck.
 
-272
-00:19:52,890 --> 00:19:54,842
+
+
 Dylan.
 Nice Koosh.
 
-273
-00:19:54,942 --> 00:19:58,812
+
+
 We got problems, Tom.
 
-274
-00:19:58,912 --> 00:20:00,454
+
+
 Josh is on his way.
 
-275
-00:20:02,399 --> 00:20:03,817
+
+
 Oh, this is important.
 
-276
-00:20:03,917 --> 00:20:06,529
+
+
 Well, let's get
 started without him.
 
-277
-00:20:07,972 --> 00:20:11,032
+
+
 <i>Josh. So what's
 all the excitement?</i>
 
-278
-00:20:14,778 --> 00:20:18,063
+
+
 Snowmark shit the bed.
 
-279
-00:20:18,163 --> 00:20:21,467
+
+
 They haven't filed yet,
 but word is out.
 
-280
-00:20:21,567 --> 00:20:24,020
+
+
 And Unisol pulled their offer.
 
-281
-00:20:45,342 --> 00:20:46,639
+
+
 So where does that put us?
 
-282
-00:20:48,379 --> 00:20:50,764
+
+
 The NASDAQ went down
 87 points at opening,
 
-283
-00:20:50,864 --> 00:20:55,080
+
+
 and we're doing worse.
 We're below a dollar.
 
-284
-00:21:03,494 --> 00:21:04,756
+
+
 Josh!
 
-285
-00:21:06,497 --> 00:21:08,347
+
+
 So what are our options?
 
-286
-00:21:08,447 --> 00:21:11,480
+
+
 <i>Cutbacks, but then there's
 the whole perception thing.</i>
 
-287
-00:21:11,580 --> 00:21:16,489
+
+
 <i>Rumors, the sniping, the
 downward spiral could sink us.</i>
 
-288
-00:21:16,589 --> 00:21:19,906
+
+
 So we're probably looking at
 another round of financing.
 
-289
-00:21:22,012 --> 00:21:24,640
+
+
 <i>We got an offer
 from Barton Ogilvy.</i>
 
-290
-00:21:28,619 --> 00:21:30,003
+
+
 What's the catch?
 
-291
-00:21:30,103 --> 00:21:32,601
+
+
 Second-round financing is not easy.
 
-292
-00:21:32,701 --> 00:21:35,339
+
+
 They'll pay market value but
 they're gonna want a big piece.
 
-293
-00:21:35,439 --> 00:21:38,418
+
+
 How much do I have to give up?
 
-294
-00:21:44,535 --> 00:21:45,797
+
+
 Percentage, Dylan.
 
-295
-00:21:48,672 --> 00:21:50,956
+
+
 What percentage are we
 gonna have to give up?
 
-296
-00:21:51,056 --> 00:21:53,236
+
+
 Like fifty.
 
-297
-00:21:59,049 --> 00:22:00,832
+
+
 So Josh and I,
 we start this company,
 
-298
-00:22:00,932 --> 00:22:02,397
+
+
 no, we invent this company,
 
-299
-00:22:02,497 --> 00:22:04,404
+
+
 we bring you two in,
 we give you contracts
 
-300
-00:22:04,504 --> 00:22:06,035
+
+
 which we don't even have.
 
-301
-00:22:06,135 --> 00:22:08,705
+
+
 Now you want to let some
 moneybag fuck us up the ass?
 
-302
-00:22:08,805 --> 00:22:10,772
+
+
 <i>A better time to
 do this might have been</i>
 
-303
-00:22:10,872 --> 00:22:12,746
+
+
 <i>four months ago, Dyl.
 Before July!</i>
 
-304
-00:22:12,846 --> 00:22:14,512
+
+
 Things have changed.
 
-305
-00:22:14,612 --> 00:22:18,350
+
+
 <i>So we lose half our company.</i>
 
-306
-00:22:18,450 --> 00:22:22,884
+
+
 We get greeked up the ass
 by Barton-fucking-Ogilvy?
 
-307
-00:22:22,984 --> 00:22:24,891
+
+
 This is no time
 to be proud, Tom.
 
-308
-00:22:24,991 --> 00:22:27,808
+
+
 That's not the play. That's
 not the way we're gonna do it.
 
-309
-00:22:29,913 --> 00:22:31,696
+
+
 <i>I'll cash-hold
 the company myself.</i>
 
-310
-00:22:31,796 --> 00:22:34,499
+
+
 <i>You're leveraged
 to the hilt.</i>
 
-311
-00:22:34,599 --> 00:22:36,064
+
+
 I'll find the fucking money.
 
-312
-00:22:36,164 --> 00:22:37,632
+
+
 You're broke, Tom.
 
-313
-00:22:37,732 --> 00:22:39,985
+
+
 Get the fuck out
 of my office, Dyl!
 
-314
-00:23:19,630 --> 00:23:21,447
+
+
 I just want to talk,
 
-315
-00:23:21,547 --> 00:23:23,816
+
+
 you know, some place
 away from the office.
 
-316
-00:23:23,916 --> 00:23:24,890
+
+
 Yeah.
 
-317
-00:23:26,970 --> 00:23:28,185
+
+
 <i>Can I get the next ball?</i>
 
-318
-00:23:28,285 --> 00:23:30,900
+
+
 Take the left flipper, come on.
 
-319
-00:23:36,213 --> 00:23:37,996
+
+
 There's some shit's
 been going down,
 
-320
-00:23:38,096 --> 00:23:41,097
+
+
 it's complicated but I've been
 thinking about your future.
 
-321
-00:23:41,197 --> 00:23:42,968
+
+
 Oh, how nice for me.
 
-322
-00:23:43,068 --> 00:23:44,971
+
+
 You've always
 been smarter than me.
 
-323
-00:23:45,071 --> 00:23:46,703
+
+
 That's not what's at issue here.
 
-324
-00:23:46,803 --> 00:23:50,142
+
+
 "At issue?"
 Are we at a court of law?
 
-325
-00:23:50,242 --> 00:23:52,511
+
+
 Why are you telling me this?
 
-326
-00:23:52,611 --> 00:23:54,143
+
+
 I want to let you in on this.
 
-327
-00:23:54,243 --> 00:23:57,549
+
+
 It's an opportunity, it's,
 not a Landshark thing,
 
-328
-00:23:57,649 --> 00:24:00,351
+
+
 it's a brothers thing,
 a Tom and Josh thing.
 
-329
-00:24:00,451 --> 00:24:03,289
+
+
 What do you want from me?
 
-330
-00:24:03,389 --> 00:24:05,224
+
+
 You've always been smarter than me.
 
-331
-00:24:05,324 --> 00:24:07,159
+
+
 The squirrel and
 the whatever, you,
 
-332
-00:24:07,259 --> 00:24:09,061
+
+
 you always were
 prudent who saved...
 
-333
-00:24:09,161 --> 00:24:10,625
+
+
 Tom, what do you want?
 
-334
-00:24:10,725 --> 00:24:13,032
+
+
 Just some working capital.
 
-335
-00:24:13,132 --> 00:24:15,069
+
+
 How much
 "just some working capital?"
 
-336
-00:24:15,169 --> 00:24:17,132
+
+
 Enough to get us through the lockup,
 
-337
-00:24:17,232 --> 00:24:18,950
+
+
 to get us to the other side.
 
-338
-00:24:21,458 --> 00:24:25,588
+
+
 You want me to put myself
 on the hook personally?
 
-339
-00:24:41,912 --> 00:24:43,195
+
+
 Josh!
 
-340
-00:24:43,295 --> 00:24:45,395
+
+
 When you said thinking
 about your future,
 
-341
-00:24:45,495 --> 00:24:48,834
+
+
 I should've known. When Tom says
 "thinking about your future."
 
-342
-00:24:48,934 --> 00:24:52,237
+
+
 that means "What can I
 screw you out of today?"
 
-343
-00:24:52,337 --> 00:24:53,639
+
+
 Yeah.
 
-344
-00:24:53,739 --> 00:24:56,041
+
+
 You got me all wrong, man.
 
-345
-00:24:56,141 --> 00:24:59,709
+
+
 Oh, yeah, I don't think so.
 
-346
-00:24:59,809 --> 00:25:02,378
+
+
 Know what?
 You're a great designer, man.
 
-347
-00:25:02,478 --> 00:25:05,284
+
+
 But this is business,
 this is money.
 
-348
-00:25:05,384 --> 00:25:07,349
+
+
 You remember, when it
 was just me and you
 
-349
-00:25:07,449 --> 00:25:09,485
+
+
 and we were moving
 into our first place?
 
-350
-00:25:09,585 --> 00:25:11,620
+
+
 Why do you always bring this up?
 
-351
-00:25:11,720 --> 00:25:13,857
+
+
 And I said we were gonna
 need 15 phone lines?
 
-352
-00:25:13,957 --> 00:25:16,194
+
+
 And you laughed.
 And you went down to NYNEX
 
-353
-00:25:16,294 --> 00:25:18,828
+
+
 and they said it was gonna
 cost 110 dollars a line
 
-354
-00:25:18,928 --> 00:25:21,768
+
+
 plus deposit, plus it
 was gonna take five weeks?
 
-355
-00:25:21,868 --> 00:25:24,000
+
+
 Please, why do you
 always tell this story?
 
-356
-00:25:24,100 --> 00:25:25,837
+
+
 And you were gonna pay it!
 
-357
-00:25:25,937 --> 00:25:28,775
+
+
 I went down there and they installed
 them the next day and for free!
 
-358
-00:25:28,875 --> 00:25:30,209
+
+
 Wow!
 
-359
-00:25:30,309 --> 00:25:32,476
+
+
 I know money, man!
 And maybe the NASDAQ is up,
 
-360
-00:25:32,576 --> 00:25:34,278
+
+
 maybe the NASDAQ is down,
 
-361
-00:25:34,378 --> 00:25:37,148
+
+
 but if we could just make
 it from here to there,
 
-362
-00:25:37,248 --> 00:25:40,654
+
+
 if we could just make it through
 this lockup, these next few weeks,
 
-363
-00:25:40,754 --> 00:25:44,354
+
+
 there's a fucking pile of
 money, man. Just waiting for us.
 
-364
-00:25:44,454 --> 00:25:47,001
+
+
 A mountain of it
 and we're gonna eat it.
 
-365
-00:25:51,848 --> 00:25:54,464
+
+
 When we're around everybody
 else, I got a front.
 
-366
-00:25:54,564 --> 00:25:57,768
+
+
 But with you, I can tell
 you when I'm in trouble.
 
-367
-00:25:57,868 --> 00:26:00,003
+
+
 We're in trouble, and
 you gotta believe me
 
-368
-00:26:00,103 --> 00:26:01,839
+
+
 when I say that
 we're in trouble.
 
-369
-00:26:01,939 --> 00:26:06,110
+
+
 Now we can make
 it through this but...
 
-370
-00:26:06,210 --> 00:26:07,663
+
+
 I need your help.
 
-371
-00:26:11,735 --> 00:26:12,929
+
+
 You gotta trust me.
 
-372
-00:26:21,511 --> 00:26:22,808
+
+
 Uhh...
 
-373
-00:26:24,615 --> 00:26:26,879
+
+
 Oh, okay.
 I mean...
 
-374
-00:26:29,786 --> 00:26:31,704
+
+
 You know what?
 Just because I'm smart
 
-375
-00:26:31,804 --> 00:26:34,416
+
+
 doesn't mean I'm stupid, Tom.
 
-376
-00:27:13,530 --> 00:27:14,895
+
+
 <i>Hold on!</i>
 
-377
-00:27:24,741 --> 00:27:26,288
+
+
 Is there anything I can do?
 
-378
-00:27:26,388 --> 00:27:29,093
+
+
 It's all done.
 
-379
-00:27:29,193 --> 00:27:31,064
+
+
 I'll open the wine.
 
-380
-00:27:31,164 --> 00:27:33,533
+
+
 There's wine open already.
 
-381
-00:27:33,633 --> 00:27:35,799
+
+
 This is a great bottle.
 You'll like it.
 
-382
-00:27:35,899 --> 00:27:39,002
+
+
 It's a Batard-Montrachet
 Grand Cru, 1998.
 
-383
-00:27:39,102 --> 00:27:40,568
+
+
 Am I supposed to be impressed?
 
-384
-00:27:40,668 --> 00:27:43,042
+
+
 It's really good, Dad.
 
-385
-00:27:43,142 --> 00:27:46,357
+
+
 <i>Perhaps you could save
 it for a special occasion.</i>
 
-386
-00:27:50,334 --> 00:27:53,253
+
+
 And so they asked me to speak at
 e-symposium which is
 
-387
-00:27:53,353 --> 00:27:56,290
+
+
 quite an honor because it's
 considered the most important
 
-388
-00:27:56,390 --> 00:27:58,724
+
+
 <i>North American conference
 on new technology.</i>
 
-389
-00:27:58,824 --> 00:28:02,392
+
+
 <i>What do you actually do, Tom?</i>
 
-390
-00:28:02,492 --> 00:28:04,127
+
+
 Excuse me?
 
-391
-00:28:04,227 --> 00:28:07,600
+
+
 You, Landshark, what do you do?
 
-392
-00:28:07,700 --> 00:28:09,102
+
+
 David!
 
-393
-00:28:09,202 --> 00:28:10,834
+
+
 <i>I'm serious.
 I was there last Friday.</i>
 
-394
-00:28:10,934 --> 00:28:11,967
+
+
 Where was I?
 
-395
-00:28:12,067 --> 00:28:13,973
+
+
 How would I know where was I?
 
-396
-00:28:14,073 --> 00:28:16,740
+
+
 I dropped something
 off for Joshua and...
 
-397
-00:28:16,840 --> 00:28:20,275
+
+
 you know what I saw?
 You know what I saw?
 
-398
-00:28:20,375 --> 00:28:25,285
+
+
 Oreos. You know me,
 Tom, I see it, I say it.
 
-399
-00:28:25,385 --> 00:28:28,288
+
+
 What I saw was a whole bunch of kids,
 
-400
-00:28:28,388 --> 00:28:32,292
+
+
 bright young kids, they're
 all just sitting around.
 
-401
-00:28:32,392 --> 00:28:34,794
+
+
 <i>When they got tired of sitting,</i>
 
-402
-00:28:34,894 --> 00:28:36,594
+
+
 <i>which was more often than not,</i>
 
-403
-00:28:36,694 --> 00:28:40,100
+
+
 they'd get up, go to the
 kitchen and eat some Oreos.
 
-404
-00:28:40,200 --> 00:28:44,834
+
+
 <i>Then they'd go back to their
 desk, a cute little desk from Ikea.</i>
 
-405
-00:28:44,934 --> 00:28:49,539
+
+
 Am I correct? And they'd play
 solitaire on their computers.
 
-406
-00:28:49,639 --> 00:28:52,944
+
+
 Now you correct me if I'm wrong.
 
-407
-00:28:53,044 --> 00:28:55,246
+
+
 <i>It's a long day,
 I give you that.</i>
 
-408
-00:28:55,346 --> 00:28:57,312
+
+
 Ten in the morning
 till ten at night,
 
-409
-00:28:57,412 --> 00:28:59,892
+
+
 seven days a week, but...
 
-410
-00:29:02,339 --> 00:29:06,124
+
+
 why the hell would somebody
 give you a million dollars
 
-411
-00:29:06,224 --> 00:29:10,461
+
+
 just to watch you sit
 around and eat some Oreos?
 
-412
-00:29:10,561 --> 00:29:13,095
+
+
 Dad, add some zeroes.
 
-413
-00:29:13,195 --> 00:29:17,300
+
+
 Add two zeroes and that's
 what we're talking about.
 
-414
-00:29:17,400 --> 00:29:19,569
+
+
 Just because you take your
 failure and call it success
 
-415
-00:29:19,669 --> 00:29:21,973
+
+
 doesn't mean you can take my
 success and call it failure.
 
-416
-00:29:22,073 --> 00:29:23,476
+
+
 Tom!
 
-417
-00:29:23,576 --> 00:29:25,377
+
+
 I'm not finished yet.
 
-418
-00:29:25,477 --> 00:29:27,678
+
+
 <i>Tom, I do not like
 where this is going!</i>
 
-419
-00:29:27,778 --> 00:29:30,149
+
+
 I was saying something
 and I wasn't finished.
 
-420
-00:29:30,249 --> 00:29:32,084
+
+
 Do you want to hear
 what I have to say?
 
-421
-00:29:32,184 --> 00:29:34,554
+
+
 <i>Do you want to fucking
 hear what I have to say?</i>
 
-422
-00:29:34,654 --> 00:29:37,720
+
+
 He just does not get it!
 
-423
-00:29:37,820 --> 00:29:40,457
+
+
 What did you want?
 You wanted to change the world!
 
-424
-00:29:40,557 --> 00:29:44,025
+
+
 Stop the war! Poetry must
 be made by all! Right?
 
-425
-00:29:44,125 --> 00:29:46,066
+
+
 I've seen the bookshelves!
 
-426
-00:29:46,166 --> 00:29:50,266
+
+
 <i>I grew up with them! Cinderblocks
 and five copies of Soul oNice.</i>
 
-427
-00:29:50,366 --> 00:29:53,705
+
+
 You wanted to change the world,
 and what did you settle for? Tenure?
 
-428
-00:29:53,805 --> 00:29:55,742
+
+
 <i>You wanted to change the world?</i>
 
-429
-00:29:55,842 --> 00:29:59,307
+
+
 <i>Well, we're changing it. Tiananmen
 Square? That was the fax machine.</i>
 
-430
-00:29:59,407 --> 00:30:02,214
+
+
 Think what we'll have
 now that we have the Web.
 
-431
-00:30:02,314 --> 00:30:03,615
+
+
 Your guy, what's his name?
 
-432
-00:30:03,715 --> 00:30:04,949
+
+
 <i>The guy you did
 the seminar on?</i>
 
-433
-00:30:05,049 --> 00:30:06,717
+
+
 <i>McLuhan?
 Global Village, right?</i>
 
-434
-00:30:06,817 --> 00:30:08,851
+
+
 Well, we're out there
 making it every day
 
-435
-00:30:08,951 --> 00:30:13,422
+
+
 while you puff up, all smug
 and proud and self-satisfied!
 
-436
-00:30:13,522 --> 00:30:16,761
+
+
 And then it's like go tell the
 maid to go dust the Goddard posters.
 
-437
-00:30:16,861 --> 00:30:17,764
+
+
 I'm leaving now.
 
-438
-00:30:17,864 --> 00:30:19,406
+
+
 No Mom, I'm leaving.
 
-439
-00:31:14,337 --> 00:31:16,019
+
+
 Hi.
 
-440
-00:31:16,119 --> 00:31:17,490
+
+
 <i>Hi.</i>
 
-441
-00:31:17,590 --> 00:31:19,542
+
+
 You look, um,
 
-442
-00:31:21,845 --> 00:31:23,938
+
+
 vaguely familiar,
 have we met before?
 
-443
-00:31:25,549 --> 00:31:26,880
+
+
 I don't think so.
 
-444
-00:31:40,230 --> 00:31:41,993
+
+
 Don't, Tom.
 
-445
-00:31:44,134 --> 00:31:46,181
+
+
 I've gotta work.
 
-446
-00:31:46,281 --> 00:31:48,851
+
+
 When do you get out of here?
 
-447
-00:31:48,951 --> 00:31:50,891
+
+
 You mind if I wait?
 
-448
-00:31:50,991 --> 00:31:53,602
+
+
 <i>It's a free country.</i>
 
-449
-00:31:55,378 --> 00:31:58,313
+
+
 Maybe we can get a bit to
 eat when you're finished.
 
-450
-00:31:59,316 --> 00:32:01,511
+
+
 I'm broke.
 
-451
-00:32:07,691 --> 00:32:10,875
+
+
 <i>I'll take a number
 five and a number eight,</i>
 
-452
-00:32:10,975 --> 00:32:12,378
+
+
 <i>and he'll have...</i>
 
-453
-00:32:12,478 --> 00:32:14,279
+
+
 Let me take you someplace nice.
 
-454
-00:32:14,379 --> 00:32:17,047
+
+
 a number 11. Wasn't that
 the one you used to get?
 
-455
-00:32:17,147 --> 00:32:20,086
+
+
 The babaganush, right?
 
-456
-00:32:20,186 --> 00:32:21,587
+
+
 Just this once.
 
-457
-00:32:21,687 --> 00:32:24,421
+
+
 Yeah, he'll take number
 11 and two Cokes, please.
 
-458
-00:32:24,521 --> 00:32:26,304
+
+
 Thank you.
 
-459
-00:32:29,079 --> 00:32:32,296
+
+
 So, how are you?
 How have you been?
 
-460
-00:32:32,396 --> 00:32:35,166
+
+
 Good, yeah.
 Everything's good.
 
-461
-00:32:35,266 --> 00:32:38,333
+
+
 Um, work is good.
 Landshark is doing great, so...
 
-462
-00:32:38,433 --> 00:32:42,274
+
+
 Work great, how's
 everything else?
 
-463
-00:32:42,374 --> 00:32:45,806
+
+
 Is there something else?
 
-464
-00:32:45,906 --> 00:32:47,692
+
+
 How are your parents?
 
-465
-00:32:50,367 --> 00:32:52,116
+
+
 How about you?
 How was Barcelona?
 
-466
-00:32:52,216 --> 00:32:56,353
+
+
 Oh, it... it was amazing.
 Incredible. I mean,
 
-467
-00:32:56,453 --> 00:33:02,024
+
+
 the people and the culture, the
 architecture, it was just... fantastic.
 
-468
-00:33:02,124 --> 00:33:04,497
+
+
 And the program
 was really great, too.
 
-469
-00:33:04,597 --> 00:33:07,230
+
+
 And I got to stay on to the
 end of July as an apprentice.
 
-470
-00:33:07,330 --> 00:33:08,932
+
+
 Sarah, what happened with us?
 
-471
-00:33:09,032 --> 00:33:10,919
+
+
 Come on, Tom. Don't.
 
-472
-00:33:12,922 --> 00:33:15,808
+
+
 I was, um, working for
 this firm that was designing
 
-473
-00:33:15,908 --> 00:33:18,176
+
+
 like this massive
 public housing project.
 
-474
-00:33:18,276 --> 00:33:21,310
+
+
 But with these really
 beautiful structures,
 
-475
-00:33:21,410 --> 00:33:24,114
+
+
 and, um,
 
-476
-00:33:24,214 --> 00:33:29,121
+
+
 and they were incorporating all of
 these sustainable design concepts...
 
-477
-00:33:29,221 --> 00:33:30,420
+
+
 Stop it, Tom.
 
-478
-00:33:30,520 --> 00:33:31,924
+
+
 Stop what?
 
-479
-00:33:32,024 --> 00:33:33,555
+
+
 You're doing
 that thing.
 
-480
-00:33:33,655 --> 00:33:34,622
+
+
 What thing?
 
-481
-00:33:34,722 --> 00:33:36,110
+
+
 You know what you're doing.
 
-482
-00:33:56,666 --> 00:33:58,361
+
+
 So, thank you for dinner.
 
-483
-00:33:59,969 --> 00:34:03,687
+
+
 It was, um,
 
-484
-00:34:03,787 --> 00:34:05,123
+
+
 it's good to see you.
 
-485
-00:34:05,223 --> 00:34:07,267
+
+
 It's good to see you too.
 
-486
-00:34:25,428 --> 00:34:26,725
+
+
 I missed you.
 
-487
-00:34:31,267 --> 00:34:32,564
+
+
 Tom.
 
-488
-00:34:33,937 --> 00:34:35,029
+
+
 Sarah.
 
-489
-00:34:41,044 --> 00:34:42,033
+
+
 Sarah.
 
-490
-00:34:47,951 --> 00:34:49,384
+
+
 What is this?
 
-491
-00:34:51,521 --> 00:34:54,603
+
+
 It's nice to see you, thank
 you for a lovely evening?
 
-492
-00:34:54,703 --> 00:34:56,142
+
+
 Is that really what this is?
 
-493
-00:34:56,242 --> 00:34:57,215
+
+
 I can't.
 
-494
-00:35:01,030 --> 00:35:02,009
+
+
 Okay.
 
-495
-00:35:02,109 --> 00:35:03,577
+
+
 It's just that...
 
-496
-00:35:03,677 --> 00:35:05,793
+
+
 it's okay. I get it.
 
-497
-00:35:09,606 --> 00:35:11,130
+
+
 I'm okay.
 
-498
-00:35:41,304 --> 00:35:42,783
+
+
 Hey man.
 
-499
-00:35:42,883 --> 00:35:44,430
+
+
 Hey!
 
-500
-00:36:03,393 --> 00:36:05,088
+
+
 What's up?
 
-501
-00:36:07,597 --> 00:36:09,531
+
+
 What are y'all looking at?
 
-502
-00:36:11,201 --> 00:36:12,315
+
+
 What's so funny?
 
-503
-00:36:12,415 --> 00:36:14,787
+
+
 We're studying
 our screen saver.
 
-504
-00:36:14,887 --> 00:36:16,418
+
+
 It's really interesting.
 
-505
-00:36:16,518 --> 00:36:17,485
+
+
 I like the logo.
 
-506
-00:36:17,585 --> 00:36:19,804
+
+
 Oh yeah.
 Yeah, fuck y'all.
 
-507
-00:36:22,278 --> 00:36:27,199
+
+
 Fuck Company? You guys are
 wasting your time on Fuck Company?
 
-508
-00:36:27,299 --> 00:36:29,134
+
+
 You're wasting
 your company time...
 
-509
-00:36:29,234 --> 00:36:30,603
+
+
 They have this countdown.
 
-510
-00:36:30,703 --> 00:36:34,703
+
+
 Our capitalization,
 our outflows. Burn rate.
 
-511
-00:36:34,803 --> 00:36:37,271
+
+
 How many days till it all runs out.
 
-512
-00:36:37,371 --> 00:36:40,442
+
+
 Yeah? What do they say?
 
-513
-00:36:40,542 --> 00:36:41,997
+
+
 Three weeks.
 
-514
-00:36:44,167 --> 00:36:46,749
+
+
 Fuck that noise.
 Come on, get back to work.
 
-515
-00:36:46,849 --> 00:36:50,203
+
+
 Get back to work, come
 on, come on, come on!
 
-516
-00:37:20,904 --> 00:37:22,394
+
+
 Ooh.
 
-517
-00:37:25,875 --> 00:37:27,591
+
+
 <i>Car's here, Tom.</i>
 
-518
-00:37:27,691 --> 00:37:28,858
+
+
 Car?
 
-519
-00:37:28,958 --> 00:37:33,563
+
+
 Car to the Center.
 Car as in town car.
 
-520
-00:37:33,663 --> 00:37:35,798
+
+
 He forgot. I betcha he forgot.
 
-521
-00:37:35,898 --> 00:37:36,965
+
+
 Forgot what?
 
-522
-00:37:37,065 --> 00:37:39,385
+
+
 The e-Symposium?
 
-523
-00:37:40,290 --> 00:37:41,972
+
+
 That's next week.
 
-524
-00:37:42,072 --> 00:37:43,685
+
+
 This is next week.
 
-525
-00:37:44,961 --> 00:37:46,744
+
+
 And I'm gonna assume, Tom,
 
-526
-00:37:46,844 --> 00:37:48,747
+
+
 that the reason
 you look like shit
 
-527
-00:37:48,847 --> 00:37:52,684
+
+
 is because you were up all
 night working on your speech.
 
-528
-00:37:52,784 --> 00:37:53,758
+
+
 Come on.
 
-529
-00:38:25,335 --> 00:38:27,686
+
+
 <i>In 1997, Landshark</i>
 
-530
-00:38:27,786 --> 00:38:30,852
+
+
 <i>was two brothers and a dirty
 old office down in the Bowery.</i>
 
-531
-00:38:30,952 --> 00:38:34,191
+
+
 <i>Today, hundreds of
 employees in eight cities...</i>
 
-532
-00:38:34,291 --> 00:38:36,729
+
+
 Don't forget to mention me.
 
-533
-00:38:36,829 --> 00:38:40,897
+
+
 Us. You won't fuck
 'em now, will you?
 
-534
-00:38:40,997 --> 00:38:44,803
+
+
 <i>Now, they're stock's
 a little bit down,</i>
 
-535
-00:38:44,903 --> 00:38:47,868
+
+
 <i>but they're not. While other
 companies are laying people off,</i>
 
-536
-00:38:47,968 --> 00:38:51,574
+
+
 <i>they're actually hiring. You know
 the man I'm about to introduce.</i>
 
-537
-00:38:51,674 --> 00:38:53,526
+
+
 <i>Mr. Tom Sterling.</i>
 
-538
-00:39:01,404 --> 00:39:03,429
+
+
 Yeah, Tom, go get them!
 
-539
-00:39:08,244 --> 00:39:10,696
+
+
 Thank you, Jason.
 I mean it.
 
-540
-00:39:10,796 --> 00:39:12,407
+
+
 Really.
 
-541
-00:39:15,284 --> 00:39:17,067
+
+
 It's great to be here.
 
-542
-00:39:17,167 --> 00:39:21,540
+
+
 We get invited to these things
 all the time but we never go.
 
-543
-00:39:21,640 --> 00:39:24,718
+
+
 But... this one is special.
 
-544
-00:39:26,396 --> 00:39:30,715
+
+
 Because of you.
 Because of Jason.
 
-545
-00:39:30,815 --> 00:39:33,314
+
+
 Because of the free shrimp.
 
-546
-00:39:33,414 --> 00:39:36,789
+
+
 Shrimp. Pigs in a blanket.
 
-547
-00:39:36,889 --> 00:39:40,434
+
+
 Those tiny little caviar
 things on little crackers.
 
-548
-00:39:42,378 --> 00:39:44,797
+
+
 But you didn't come to
 hear me talk about snacks.
 
-549
-00:39:44,897 --> 00:39:48,734
+
+
 You came because...
 
-550
-00:39:48,834 --> 00:39:51,480
+
+
 we are at the
 forefront of a revolution.
 
-551
-00:39:53,956 --> 00:39:59,155
+
+
 <i>A revolution in technology
 but also a revolution...</i>
 
-552
-00:40:11,140 --> 00:40:13,058
+
+
 You probably know
 what I was gonna say,
 
-553
-00:40:13,158 --> 00:40:16,095
+
+
 <i>so fuck that shit.
 What I mean is,</i>
 
-554
-00:40:16,195 --> 00:40:18,727
+
+
 <i>if I say what you already
 know what I'm gonna say,</i>
 
-555
-00:40:18,827 --> 00:40:23,432
+
+
 then it's like the hamster scurries
 and scurries and the wheel spins and,
 
-556
-00:40:23,532 --> 00:40:26,737
+
+
 at the end of the day, we're
 all still in the cage, right?
 
-557
-00:40:26,837 --> 00:40:29,140
+
+
 So,
 
-558
-00:40:29,240 --> 00:40:32,409
+
+
 instead of that prepared shit,
 
-559
-00:40:32,509 --> 00:40:34,725
+
+
 I'm just gonna tell
 you what's in my heart.
 
-560
-00:40:37,467 --> 00:40:41,550
+
+
 <i>You know what the
 problem is with the...</i>
 
-561
-00:40:41,650 --> 00:40:45,991
+
+
 with, I don't even know what
 to call it, with "our thing?"
 
-562
-00:40:46,091 --> 00:40:49,360
+
+
 The problem is, w-
 what are we doing?
 
-563
-00:40:49,460 --> 00:40:52,331
+
+
 <i>Are we making the world
 a less sucky place?</i>
 
-564
-00:40:52,431 --> 00:40:56,566
+
+
 <i>Or more sucky? How are we
 everyday impacting the suckage?</i>
 
-565
-00:40:56,666 --> 00:40:58,368
+
+
 <i>My mom and dad were right.</i>
 
-566
-00:40:58,468 --> 00:41:01,103
+
+
 <i>It pains me to say it but
 they were right when they said</i>
 
-567
-00:41:01,203 --> 00:41:05,274
+
+
 that those who make half a
 revolution only dig their own grave.
 
-568
-00:41:05,374 --> 00:41:08,842
+
+
 Is that what we're
 making here? Half a revolution?
 
-569
-00:41:08,942 --> 00:41:11,012
+
+
 <i>What the Net is supposed to do,</i>
 
-570
-00:41:11,112 --> 00:41:13,215
+
+
 <i>what new broadband
 is supposed to do,</i>
 
-571
-00:41:13,315 --> 00:41:17,189
+
+
 what digital whatever is supposed
 to do is increase freedom!
 
-572
-00:41:17,289 --> 00:41:19,990
+
+
 Is increase choice!
 
-573
-00:41:20,090 --> 00:41:22,759
+
+
 But what are we offering
 in the way of choice?
 
-574
-00:41:22,859 --> 00:41:25,995
+
+
 AOL or EarthLink?
 Gates or Ellison?
 
-575
-00:41:26,095 --> 00:41:28,264
+
+
 Miller Light or Coors?
 
-576
-00:41:28,364 --> 00:41:32,738
+
+
 Gore or Bush?
 B2B or not B2B?
 
-577
-00:41:32,838 --> 00:41:35,539
+
+
 We make money.
 Tons of it.
 
-578
-00:41:35,639 --> 00:41:38,308
+
+
 We help big greedy
 advertising agencies
 
-579
-00:41:38,408 --> 00:41:43,315
+
+
 sell the useless products
 of massive morally corrupt
 
-580
-00:41:43,415 --> 00:41:46,481
+
+
 multinational corporations.
 
-581
-00:41:46,581 --> 00:41:51,924
+
+
 We advise them on how
 to aggregate eyeballs,
 
-582
-00:41:52,024 --> 00:41:54,488
+
+
 <i>Have you ever seen the
 beginning of Chien Andalou?</i>
 
-583
-00:41:54,588 --> 00:41:57,794
+
+
 You know, with the eyeball
 and the straight razor?
 
-584
-00:41:57,894 --> 00:42:00,299
+
+
 'Cause pretty much
 that's what we do.
 
-585
-00:42:00,399 --> 00:42:01,896
+
+
 <i>Fuck you, Tom.</i>
 
-586
-00:42:01,996 --> 00:42:04,999
+
+
 Okay, okay, fuck me. Fuck me.
 
-587
-00:42:05,099 --> 00:42:07,973
+
+
 But what I'm telling you is
 the truth, and you know it.
 
-588
-00:42:08,073 --> 00:42:10,307
+
+
 <i>Click-through is over.</i>
 
-589
-00:42:10,407 --> 00:42:14,043
+
+
 <i>Cross platform is over.
 "i" whatever is over.</i>
 
-590
-00:42:14,143 --> 00:42:16,144
+
+
 <i>Disintermediation is way over.</i>
 
-591
-00:42:16,244 --> 00:42:19,449
+
+
 The start-up is over,
 branding is over,
 
-592
-00:42:19,549 --> 00:42:22,516
+
+
 convergence is so over!
 
-593
-00:42:22,616 --> 00:42:26,302
+
+
 Dot-com and everything
 it stands for... over!
 
-594
-00:42:27,910 --> 00:42:29,036
+
+
 <i>So what's left?</i>
 
-595
-00:42:30,379 --> 00:42:32,438
+
+
 What's left is what we do.
 
-596
-00:42:34,717 --> 00:42:37,197
+
+
 What's left is those people
 
-597
-00:42:37,297 --> 00:42:41,707
+
+
 who are very very
 good at what we do.
 
-598
-00:42:41,807 --> 00:42:45,211
+
+
 You all know people,
 they're in your shop,
 
-599
-00:42:45,311 --> 00:42:47,578
+
+
 who are amazing designers.
 
-600
-00:42:47,678 --> 00:42:50,779
+
+
 Writers in a language that's
 being invented before our eyes.
 
-601
-00:42:50,879 --> 00:42:53,835
+
+
 I grew up with one.
 My brother Joshua.
 
-602
-00:42:57,173 --> 00:43:01,926
+
+
 Now, I can charm a VC.
 
-603
-00:43:02,026 --> 00:43:04,261
+
+
 Well, on a good day
 I can charm a VC.
 
-604
-00:43:04,361 --> 00:43:05,230
+
+
 But Joshua...
 
-605
-00:43:05,330 --> 00:43:09,167
+
+
 <i>Joshua can imagine.</i>
 
-606
-00:43:09,267 --> 00:43:13,436
+
+
 <i>Joshua can make something where
 yesterday there was nothing.</i>
 
-607
-00:43:13,536 --> 00:43:17,014
+
+
 <i>And that makes all the
 difference, doesn't it?</i>
 
-608
-00:43:19,662 --> 00:43:21,445
+
+
 Thank you.
 
-609
-00:43:21,545 --> 00:43:23,327
+
+
 Thank you and enjoy your lunch.
 
-610
-00:43:28,838 --> 00:43:30,554
+
+
 <i>Yeow!</i>
 
-611
-00:43:30,654 --> 00:43:32,938
+
+
 <i>Tom rules!</i>
 
-612
-00:43:43,419 --> 00:43:44,681
+
+
 Tom.
 
-613
-00:43:47,356 --> 00:43:48,971
+
+
 Tom, I've got to take off.
 
-614
-00:43:49,071 --> 00:43:51,977
+
+
 Have a drink
 with me first. Just one.
 
-615
-00:43:52,077 --> 00:43:54,609
+
+
 Oh yeah, I can't.
 Morela called...
 
-616
-00:43:54,709 --> 00:43:56,649
+
+
 Is everything okay?
 
-617
-00:43:56,749 --> 00:44:00,714
+
+
 Yeah, yeah, yeah.
 Jacob's having a tough time,
 
-618
-00:44:00,814 --> 00:44:02,282
+
+
 he's still colicky, he's...
 
-619
-00:44:02,382 --> 00:44:04,689
+
+
 What did you think of the speech?
 
-620
-00:44:04,789 --> 00:44:06,726
+
+
 It was good.
 
-621
-00:44:06,826 --> 00:44:09,744
+
+
 It was good.
 It was nice, thanks.
 
-622
-00:44:12,281 --> 00:44:13,509
+
+
 Tom.
 
-623
-00:44:16,585 --> 00:44:18,267
+
+
 You really pulled one out, Tom.
 
-624
-00:44:18,367 --> 00:44:21,971
+
+
 I was a little worried there for
 a moment but, you pulled it out.
 
-625
-00:44:22,071 --> 00:44:24,910
+
+
 I was thinking maybe we
 could just do something quiet,
 
-626
-00:44:25,010 --> 00:44:28,914
+
+
 um, like, maybe
 I could cook dinner,
 
-627
-00:44:29,014 --> 00:44:33,317
+
+
 just hang out
 and talk, you know.
 
-628
-00:44:33,417 --> 00:44:36,321
+
+
 'Cause I had a really good
 time seeing you the other night.
 
-629
-00:44:36,421 --> 00:44:37,770
+
+
 And, uh...
 
-630
-00:44:40,276 --> 00:44:43,541
+
+
 so just gimme a call back
 when you get this, okay?
 
-631
-00:45:45,775 --> 00:45:47,058
+
+
 Hey.
 
-632
-00:45:47,158 --> 00:45:48,735
+
+
 Hey yourself.
 
-633
-00:45:55,785 --> 00:46:01,438
+
+
 Holy shit!
 You did it!
 
-634
-00:46:01,538 --> 00:46:03,273
+
+
 <i>Of course I did it.</i>
 
-635
-00:46:03,373 --> 00:46:05,541
+
+
 I didn't think you would.
 
-636
-00:46:05,641 --> 00:46:06,944
+
+
 <i>What do you mean?</i>
 
-637
-00:46:07,044 --> 00:46:10,078
+
+
 I don't know, I just, um,
 
-638
-00:46:10,178 --> 00:46:12,118
+
+
 I just thought you
 were humoring me.
 
-639
-00:46:12,218 --> 00:46:14,350
+
+
 <i>Are you kidding me?</i>
 
-640
-00:46:14,450 --> 00:46:15,529
+
+
 I love it!
 
-641
-00:46:17,373 --> 00:46:20,090
+
+
 <i>I sure wish you were here
 when they were working at it,</i>
 
-642
-00:46:20,190 --> 00:46:22,128
+
+
 <i>because the
 contractor screwed me.</i>
 
-643
-00:46:22,228 --> 00:46:23,701
+
+
 I have pictures.
 
-644
-00:46:25,314 --> 00:46:28,795
+
+
 You were totally right
 about opening this up.
 
-645
-00:46:28,895 --> 00:46:30,579
+
+
 Lets in the light.
 
-646
-00:46:35,858 --> 00:46:37,371
+
+
 So do you like it?
 
-647
-00:46:37,471 --> 00:46:40,176
+
+
 It's the first thing
 that I designed
 
-648
-00:46:40,276 --> 00:46:43,197
+
+
 that's actually been,
 you know, realized.
 
-649
-00:46:49,939 --> 00:46:53,739
+
+
 That's the, um...
 do you want some wine?
 
-650
-00:47:00,249 --> 00:47:04,298
+
+
 <i>I made a rabbit. You aren't
 still a vegetarian, are you?</i>
 
-651
-00:47:04,398 --> 00:47:07,806
+
+
 <i>Just kidding,
 I made a sea bass.</i>
 
-652
-00:47:07,906 --> 00:47:09,904
+
+
 <i>You still eat fish, right?</i>
 
-653
-00:47:10,004 --> 00:47:11,842
+
+
 <i>Seems a little
 hypocritical though,</i>
 
-654
-00:47:11,942 --> 00:47:15,679
+
+
 <i>this one looked cute and furry
 so I'm not gonna eat this one.</i>
 
-655
-00:47:15,779 --> 00:47:18,548
+
+
 I'll make a little
 exception for that one.
 
-656
-00:47:18,648 --> 00:47:20,586
+
+
 I mean, fish have
 feelings too, right?
 
-657
-00:47:20,686 --> 00:47:23,588
+
+
 <i>So, can you explain the
 logic to me in that because</i>
 
-658
-00:47:23,688 --> 00:47:27,188
+
+
 <i>I just don't understand.</i>
 
-659
-00:47:27,288 --> 00:47:30,128
+
+
 I'm sorry, were you
 actually saying something?
 
-660
-00:47:30,228 --> 00:47:32,597
+
+
 I was saying you liked
 the rabbit, remember?
 
-661
-00:47:32,697 --> 00:47:35,066
+
+
 Fuck off.
 
-662
-00:47:35,166 --> 00:47:37,833
+
+
 You remember the time
 with Mo and my brother?
 
-663
-00:47:37,933 --> 00:47:39,838
+
+
 Yes, I do.
 You were a dick.
 
-664
-00:47:39,938 --> 00:47:41,171
+
+
 <i>Walt, how is it my fault?</i>
 
-665
-00:47:41,271 --> 00:47:43,872
+
+
 Because you could've told me.
 
-666
-00:47:43,972 --> 00:47:45,911
+
+
 You just gobbled
 that shit right up!
 
-667
-00:47:46,011 --> 00:47:48,346
+
+
 I though it was tofu!
 I had no idea it was...
 
-668
-00:47:48,446 --> 00:47:49,881
+
+
 A cute little bunny rabbit?
 
-669
-00:47:49,981 --> 00:47:52,798
+
+
 You were like, "Damn,
 this is some tasty tofu."
 
-670
-00:47:55,604 --> 00:47:56,583
+
+
 <i>Hypocrite.</i>
 
-671
-00:47:56,683 --> 00:47:57,798
+
+
 Prick.
 
-672
-00:48:09,952 --> 00:48:12,546
+
+
 What else is new?
 
-673
-00:48:15,357 --> 00:48:16,904
+
+
 Just work stuff, really.
 
-674
-00:48:17,004 --> 00:48:18,573
+
+
 Just dealing with Landshark.
 
-675
-00:48:18,673 --> 00:48:20,742
+
+
 That's going well?
 
-676
-00:48:20,842 --> 00:48:22,545
+
+
 Are you happy?
 
-677
-00:48:22,645 --> 00:48:26,518
+
+
 Yeah, of course, I mean...
 
-678
-00:48:26,618 --> 00:48:31,152
+
+
 It must be nice to get
 to work with Josh, right?
 
-679
-00:48:31,252 --> 00:48:36,337
+
+
 And everything seems like
 it's going really well.
 
-680
-00:48:41,784 --> 00:48:44,298
+
+
 Do you know, last spring, I was...
 
-681
-00:48:44,398 --> 00:48:46,501
+
+
 I was on a train to Madrid.
 
-682
-00:48:46,601 --> 00:48:49,272
+
+
 And someone left
 a magazine on the seat.
 
-683
-00:48:49,372 --> 00:48:52,440
+
+
 And I looked over, and there
 was your face on the cover.
 
-684
-00:48:52,540 --> 00:48:54,041
+
+
 <i>Wired? I hated that picture.</i>
 
-685
-00:48:54,141 --> 00:48:55,744
+
+
 I looked like a total douche bag.
 
-686
-00:48:55,844 --> 00:48:59,549
+
+
 Yeah, you did. You were
 doing your picture face,
 
-687
-00:48:59,649 --> 00:49:02,570
+
+
 with your lips all pouty.
 You looked totally gay.
 
-688
-00:49:04,673 --> 00:49:06,152
+
+
 The point is, the article,
 
-689
-00:49:06,252 --> 00:49:09,160
+
+
 I mean, holy shit.
 
-690
-00:49:09,260 --> 00:49:11,359
+
+
 You did it.
 
-691
-00:49:11,459 --> 00:49:13,264
+
+
 All those conversations that we had,
 
-692
-00:49:13,364 --> 00:49:15,829
+
+
 and I remember you saying
 that there's no second-best
 
-693
-00:49:15,929 --> 00:49:17,545
+
+
 in what you and Josh were planning.
 
-694
-00:49:18,787 --> 00:49:21,172
+
+
 No second-best?
 I never said that.
 
-695
-00:49:21,272 --> 00:49:24,040
+
+
 I would never say
 anything that cheesy.
 
-696
-00:49:24,140 --> 00:49:25,639
+
+
 That is exactly what you said,
 
-697
-00:49:25,739 --> 00:49:28,045
+
+
 and you'd totally say
 something that cheesy.
 
-698
-00:49:28,145 --> 00:49:29,879
+
+
 <i>But that's what
 I love about you.</i>
 
-699
-00:49:29,979 --> 00:49:32,749
+
+
 <i>You're always
 with the absolutes.</i>
 
-700
-00:49:32,849 --> 00:49:37,204
+
+
 <i>You did it, Tom. I'm
 really happy for you.</i>
 
-701
-00:49:40,476 --> 00:49:42,861
+
+
 So come on.
 Tell me.
 
-702
-00:49:42,961 --> 00:49:45,397
+
+
 Tell me how it feels.
 
-703
-00:49:45,497 --> 00:49:48,496
+
+
 It's not what you
 think it is, believe me.
 
-704
-00:49:48,596 --> 00:49:50,916
+
+
 Well, tell me what it is then.
 
-705
-00:49:53,589 --> 00:49:56,319
+
+
 Things have changed since
 that article was written.
 
-706
-00:50:10,105 --> 00:50:12,153
+
+
 Five months ago,
 when that was written,
 
-707
-00:50:12,253 --> 00:50:14,505
+
+
 Josh and I were, uh...
 
-708
-00:50:18,580 --> 00:50:25,903
+
+
 On March 14th, our combined net
 worth hit 387 million dollars.
 
-709
-00:50:26,003 --> 00:50:28,440
+
+
 But now, we're, uh,
 
-710
-00:50:28,540 --> 00:50:31,072
+
+
 worth about one
 one-hundredth of that.
 
-711
-00:50:31,172 --> 00:50:34,641
+
+
 And Landshark has burnt their
 95 million dollars in seed money
 
-712
-00:50:34,741 --> 00:50:39,394
+
+
 and made virtually... no
 revenue to speak of, so...
 
-713
-00:50:41,837 --> 00:50:43,361
+
+
 Basically, we're fucked.
 
-714
-00:50:47,843 --> 00:50:50,471
+
+
 But hey, it was
 fun while it lasted.
 
-715
-00:50:52,748 --> 00:50:54,531
+
+
 <i>But let's not talk
 about Landshark.</i>
 
-716
-00:50:54,631 --> 00:50:56,467
+
+
 <i>I'm sure everything’s
 gonna be fine.</i>
 
-717
-00:50:56,567 --> 00:50:58,884
+
+
 What about you? What
 have you been working on?
 
-718
-00:51:01,690 --> 00:51:07,877
+
+
 Oh, there's, like, a
 house, that I designed.
 
-719
-00:51:07,977 --> 00:51:11,180
+
+
 It's in a show and it's
 opening tomorrow night.
 
-720
-00:51:11,280 --> 00:51:12,447
+
+
 A house?
 
-721
-00:51:12,547 --> 00:51:14,649
+
+
 Yeah, just like a little house.
 
-722
-00:51:14,749 --> 00:51:16,621
+
+
 Sounds great,
 I love a little house.
 
-723
-00:51:16,721 --> 00:51:19,956
+
+
 It's from last year, it's
 like drawings and a model.
 
-724
-00:51:20,056 --> 00:51:22,590
+
+
 But I think it came out
 really well, actually.
 
-725
-00:51:22,690 --> 00:51:24,129
+
+
 <i>I wanna see it.</i>
 
-726
-00:51:24,229 --> 00:51:26,227
+
+
 Tomorrow, five to seven,
 there's a reception.
 
-727
-00:51:26,327 --> 00:51:28,510
+
+
 Five o'clock.
 I'll be there.
 
-728
-00:51:37,459 --> 00:51:38,926
+
+
 I should go.
 
-729
-00:52:21,270 --> 00:52:22,635
+
+
 Oh, fuck.
 
-730
-00:52:29,778 --> 00:52:33,361
+
+
 Barton Ogilvy.
 
-731
-00:52:33,461 --> 00:52:37,267
+
+
 Very... particular.
 
-732
-00:52:37,367 --> 00:52:40,367
+
+
 I'm not in position
 to talk price.
 
-733
-00:52:40,467 --> 00:52:43,408
+
+
 <i>My client would like to discuss
 it with Mr. Sterling directly.</i>
 
-734
-00:52:43,508 --> 00:52:47,210
+
+
 <i>But I can tell you that they're very
 interested in hearing your proposal.</i>
 
-735
-00:52:47,310 --> 00:52:49,161
+
+
 <i>They can meet you
 tomorrow at nine am.</i>
 
-736
-00:52:54,736 --> 00:52:57,385
+
+
 Maybe you want to talk this
 over and get back to me,
 
-737
-00:52:57,485 --> 00:53:00,290
+
+
 just call my office by lunchtime.
 
-738
-00:53:00,390 --> 00:53:02,327
+
+
 <i>But as I said before,</i>
 
-739
-00:53:02,427 --> 00:53:07,698
+
+
 if you're not prepared to
 offer seats on the board...
 
-740
-00:53:07,798 --> 00:53:10,736
+
+
 I just want to be clear on that
 so we're all on the same page.
 
-741
-00:53:10,836 --> 00:53:13,185
+
+
 We're not wasting
 anyone's time.
 
-742
-00:53:16,792 --> 00:53:18,282
+
+
 We'll be there.
 
-743
-00:53:21,330 --> 00:53:24,026
+
+
 Tomorrow morning,
 9 am, we'll be there.
 
-744
-00:53:26,501 --> 00:53:27,490
+
+
 Thank you.
 
-745
-00:53:49,558 --> 00:53:52,049
+
+
 How we doing on
 that Gulfstream, Dyl?
 
-746
-00:53:56,298 --> 00:53:57,424
+
+
 I'll talk to him.
 
-747
-00:54:01,470 --> 00:54:03,301
+
+
 I'll talk to Josh.
 
-748
-00:54:17,653 --> 00:54:19,605
+
+
 Hey, have you seen my brother?
 
-749
-00:54:19,705 --> 00:54:21,505
+
+
 Have you checked the roof?
 
-750
-00:54:21,605 --> 00:54:22,750
+
+
 No.
 
-751
-00:54:45,013 --> 00:54:46,628
+
+
 Hey, have you seen Josh?
 
-752
-00:54:46,728 --> 00:54:47,773
+
+
 Over there.
 
-753
-00:54:51,420 --> 00:54:52,614
+
+
 Hey, Josh.
 
-754
-00:55:10,839 --> 00:55:15,524
+
+
 Oh, hey, Tom. You just
 missed your brother.
 
-755
-00:55:15,624 --> 00:55:17,894
+
+
 Did you tell him I
 wanted to talk to him?
 
-756
-00:55:17,994 --> 00:55:19,345
+
+
 Yeah, I did.
 
-757
-00:55:26,088 --> 00:55:29,569
+
+
 <i>Check that shit out.
 It's like a big pita.</i>
 
-758
-00:55:29,669 --> 00:55:31,475
+
+
 It's totally absurd though.
 
-759
-00:55:31,575 --> 00:55:33,242
+
+
 Your house is the best one by far.
 
-760
-00:55:33,342 --> 00:55:35,091
+
+
 <i>It blows these other ones away.</i>
 
-761
-00:56:10,499 --> 00:56:12,248
+
+
 I didn't miss it, did I?
 
-762
-00:56:12,348 --> 00:56:15,497
+
+
 It's five to seven.
 I told you.
 
-763
-00:56:17,806 --> 00:56:20,434
+
+
 I'm just gonna hang
 out with my friends.
 
-764
-00:56:21,910 --> 00:56:23,890
+
+
 Come on, don't be mad.
 
-765
-00:56:23,990 --> 00:56:26,797
+
+
 I'm not. It's my fault.
 
-766
-00:56:26,897 --> 00:56:30,931
+
+
 I just thought maybe
 You might have changed.
 
-767
-00:56:31,031 --> 00:56:32,850
+
+
 I was hoping that...
 
-768
-00:56:34,489 --> 00:56:37,515
+
+
 Take care of
 yourself, Tom. Okay?
 
-769
-00:57:58,173 --> 00:58:01,199
+
+
 Use that. We need to watch
 out because usually when...
 
-770
-00:58:02,811 --> 00:58:05,006
+
+
 He pees his pants.
 That's when I peed my pants too.
 
-771
-00:58:06,748 --> 00:58:08,863
+
+
 How's your brother?
 
-772
-00:58:08,963 --> 00:58:12,870
+
+
 Tom? Um, well, he's Tom.
 
-773
-00:58:12,970 --> 00:58:14,444
+
+
 I don't know.
 
-774
-00:58:26,201 --> 00:58:28,018
+
+
 By special messenger.
 
-775
-00:58:28,118 --> 00:58:29,318
+
+
 It weighs a ton.
 
-776
-00:58:29,418 --> 00:58:31,770
+
+
 <i>Whoa.</i>
 
-777
-00:58:38,747 --> 00:58:40,510
+
+
 It's from Tom, Dad.
 
-778
-00:58:41,716 --> 00:58:43,684
+
+
 Go ahead and open it up.
 
-779
-00:58:46,254 --> 00:58:48,836
+
+
 <i>"From your friends at Landshark,</i>
 
-780
-00:58:48,936 --> 00:58:51,119
+
+
 <i>wishing you the
 gift of enlightenment."</i>
 
-781
-00:59:08,343 --> 00:59:10,627
+
+
 "The gift of enlightenment."
 
-782
-00:59:10,727 --> 00:59:15,513
+
+
 Enlightenment.
 Hard to beat.
 
-783
-00:59:53,321 --> 00:59:55,152
+
+
 Ohhh.
 
-784
-00:59:55,257 --> 00:59:57,872
+
+
 Hi Tom, how are you feeling?
 
-785
-00:59:57,972 --> 01:00:00,642
+
+
 We're just taking off, so...
 
-786
-01:00:00,742 --> 01:00:02,647
+
+
 You know what, Josh?
 Why don't you stay
 
-787
-01:00:02,747 --> 01:00:03,777
+
+
 and I'll take Jake.
 
-788
-01:00:03,877 --> 01:00:05,614
+
+
 No, I think we should go home.
 
-789
-01:00:05,714 --> 01:00:08,681
+
+
 No, really, um,
 help me to the cab.
 
-790
-01:00:08,781 --> 01:00:10,784
+
+
 Alright, everybody.
 
-791
-01:00:10,884 --> 01:00:13,257
+
+
 Okay, well, I guess I'll be back.
 
-792
-01:00:13,357 --> 01:00:15,809
+
+
 Why don't you
 come over for dinner?
 
-793
-01:00:17,746 --> 01:00:18,792
+
+
 Bye.
 
-794
-01:00:18,892 --> 01:00:20,961
+
+
 I'll get Morela a cab.
 
-795
-01:00:21,061 --> 01:00:23,415
+
+
 Bye.
 
-796
-01:01:07,929 --> 01:01:09,294
+
+
 I said some words.
 
-797
-01:01:11,199 --> 01:01:13,983
+
+
 The last time I was
 here, I said some words.
 
-798
-01:01:14,083 --> 01:01:16,162
+
+
 And I said them in anger...
 
-799
-01:01:19,007 --> 01:01:24,930
+
+
 and sometimes... anger may not be
 the best way to say some things.
 
-800
-01:01:25,030 --> 01:01:28,528
+
+
 I think, David, he's
 apologizing to you.
 
-801
-01:01:28,628 --> 01:01:31,130
+
+
 I'd need my decoder ring
 to figure that one out.
 
-802
-01:01:31,230 --> 01:01:32,232
+
+
 Cut him some slack.
 
-803
-01:01:32,332 --> 01:01:33,501
+
+
 You want the words?
 
-804
-01:01:33,601 --> 01:01:35,973
+
+
 I'm sorry, I apologize, my bad.
 
-805
-01:01:36,073 --> 01:01:37,547
+
+
 Thank you, Tom.
 
-806
-01:01:39,594 --> 01:01:41,209
+
+
 <i>I know how hard
 that was for you.</i>
 
-807
-01:01:41,309 --> 01:01:43,647
+
+
 And I just want to say that...
 
-808
-01:01:43,747 --> 01:01:46,314
+
+
 It's okay, Mom,
 it's okay. It's okay.
 
-809
-01:01:46,414 --> 01:01:50,321
+
+
 Oh! I also want to say, "Thank you."
 
-810
-01:01:50,421 --> 01:01:51,755
+
+
 Thank you for the, um...
 
-811
-01:01:51,855 --> 01:01:53,467
+
+
 Crate!
 
-812
-01:01:55,009 --> 01:01:58,024
+
+
 The crate and what was in it.
 
-813
-01:01:58,124 --> 01:02:00,565
+
+
 I'm glad y'all liked it.
 
-814
-01:02:00,665 --> 01:02:02,966
+
+
 <i>How big is it, Dad?</i>
 
-815
-01:02:03,066 --> 01:02:05,031
+
+
 There it is.
 
-816
-01:02:05,131 --> 01:02:08,283
+
+
 Is it this big?
 Yay big?
 
-817
-01:02:10,125 --> 01:02:12,808
+
+
 <i>Like... 18 inches?</i>
 
-818
-01:02:12,908 --> 01:02:15,847
+
+
 Yeah, like a foot and a half.
 
-819
-01:02:15,947 --> 01:02:19,181
+
+
 Okay, so not three feet.
 
-820
-01:02:19,281 --> 01:02:20,482
+
+
 Not three feet!
 
-821
-01:02:20,582 --> 01:02:22,149
+
+
 Where would we put
 a three-foot Buddha?
 
-822
-01:02:22,249 --> 01:02:23,250
+
+
 Exactly.
 
-823
-01:02:23,350 --> 01:02:25,655
+
+
 No, see, that's not my point.
 
-824
-01:02:25,755 --> 01:02:28,288
+
+
 That's beside the
 fucking point! You see?
 
-825
-01:02:28,388 --> 01:02:33,095
+
+
 The point is that Tom
 doesn't give presents, okay?
 
-826
-01:02:33,195 --> 01:02:36,662
+
+
 Everybody gives presents. Tom
 doesn't 'cause it's so crass,
 
-827
-01:02:36,762 --> 01:02:39,935
+
+
 it's so, uh, it's
 so third quarter 99.
 
-828
-01:02:40,035 --> 01:02:43,373
+
+
 <i>Right? So Tom,
 instead of giving presents</i>
 
-829
-01:02:43,473 --> 01:02:47,277
+
+
 to celebrate Landshark,
 to celebrate coming out of lockup,
 
-830
-01:02:47,377 --> 01:02:49,246
+
+
 he gives you...
 
-831
-01:02:49,346 --> 01:02:53,250
+
+
 <i>But of course, Tom being Tom,
 there's gotta be an order,</i>
 
-832
-01:02:53,350 --> 01:02:55,516
+
+
 <i>you know, a hierarchy
 of some sort, because</i>
 
-833
-01:02:55,616 --> 01:03:00,120
+
+
 <i>how do you know you're in
 if there's no out? Right?</i>
 
-834
-01:03:00,220 --> 01:03:06,625
+
+
 So, A-list Buddha,
 and B-list Buddha.
 
-835
-01:03:06,725 --> 01:03:08,443
+
+
 Am I right, Tom?
 
-836
-01:03:10,752 --> 01:03:12,867
+
+
 <i>Anyway, who are you guys?</i>
 
-837
-01:03:12,967 --> 01:03:15,271
+
+
 Oh, just his mom, just his dad.
 
-838
-01:03:15,371 --> 01:03:16,789
+
+
 So, B-list.
 
-839
-01:03:30,972 --> 01:03:31,996
+
+
 I should go.
 
-840
-01:03:37,245 --> 01:03:39,427
+
+
 Joshua, can I give you a lift?
 
-841
-01:03:39,527 --> 01:03:41,505
+
+
 Oh, I'll get a cab.
 
-842
-01:03:43,785 --> 01:03:45,776
+
+
 Come on, let's take a walk.
 
-843
-01:03:50,458 --> 01:03:52,085
+
+
 Come on, Josh.
 
-844
-01:04:14,182 --> 01:04:15,661
+
+
 What do you want?
 
-845
-01:04:15,761 --> 01:04:17,775
+
+
 I don't want anything.
 
-846
-01:04:20,255 --> 01:04:22,155
+
+
 Well, what are we doing?
 
-847
-01:04:23,658 --> 01:04:25,407
+
+
 Why are we here?
 What is this?
 
-848
-01:04:25,507 --> 01:04:27,552
+
+
 A conversation.
 
-849
-01:04:30,131 --> 01:04:33,483
+
+
 A conversation.
 
-850
-01:04:33,583 --> 01:04:37,550
+
+
 Down a road and at
 the end of that road...
 
-851
-01:04:37,650 --> 01:04:42,290
+
+
 Joshua, will you turn all
 your shares over to me?
 
-852
-01:04:42,390 --> 01:04:45,993
+
+
 Just for a day,
 just for a week.
 
-853
-01:04:46,093 --> 01:04:47,965
+
+
 Just sign this piece of paper...
 
-854
-01:04:48,065 --> 01:04:50,984
+
+
 and everything will
 be cool, bro, you said.
 
-855
-01:04:56,157 --> 01:04:58,751
+
+
 I just want to talk, Josh.
 I just want to hang.
 
-856
-01:05:01,496 --> 01:05:04,078
+
+
 You understand the
 position I'm in, right?
 
-857
-01:05:04,178 --> 01:05:05,482
+
+
 I'm in the same position.
 
-858
-01:05:05,582 --> 01:05:06,591
+
+
 Not really!
 
-859
-01:05:08,503 --> 01:05:12,620
+
+
 See, for you this is all...
 a game, or something.
 
-860
-01:05:12,720 --> 01:05:16,290
+
+
 But for me, it's different because
 I've got Mo and Jake to think about.
 
-861
-01:05:16,390 --> 01:05:18,728
+
+
 <i>I can't afford to be cavalier.</i>
 
-862
-01:05:18,828 --> 01:05:22,666
+
+
 <i>I've got a fucking baby!
 I just bought an apartment!</i>
 
-863
-01:05:22,766 --> 01:05:27,036
+
+
 I've got a mortgage to pay. I
 know that all seems square to you,
 
-864
-01:05:27,136 --> 01:05:29,021
+
+
 <i>but it's my fucking life!</i>
 
-865
-01:05:36,931 --> 01:05:42,286
+
+
 <i>Look, what you said at
 that e-Symposium about me,</i>
 
-866
-01:05:42,386 --> 01:05:45,385
+
+
 and about what I do, it was
 really sweet, Tom, it really was.
 
-867
-01:05:45,485 --> 01:05:46,986
+
+
 But we had a deal!
 
-868
-01:05:47,086 --> 01:05:49,359
+
+
 <i>I do my thing,
 you do yours, right?</i>
 
-869
-01:05:49,459 --> 01:05:53,161
+
+
 <i>Well, I did my thing.
 And you? I don't know.</i>
 
-870
-01:05:53,261 --> 01:05:55,429
+
+
 I mean, you talk a good game.
 
-871
-01:05:55,529 --> 01:05:58,165
+
+
 You... you understand money.
 
-872
-01:05:58,265 --> 01:06:01,503
+
+
 <i>You understand business a
 whole lot better than I do</i>
 
-873
-01:06:01,603 --> 01:06:05,408
+
+
 <i>but where's it gotten
 you? Where's it gotten us?</i>
 
-874
-01:06:05,508 --> 01:06:07,859
+
+
 I trusted you, Tom!
 
-875
-01:06:12,233 --> 01:06:14,213
+
+
 It doesn't work, Josh.
 
-876
-01:06:14,313 --> 01:06:15,815
+
+
 What do you mean?
 
-877
-01:06:15,915 --> 01:06:18,721
+
+
 Landshark.
 As a business model...
 
-878
-01:06:18,821 --> 01:06:20,671
+
+
 it doesn't work.
 
-879
-01:06:22,176 --> 01:06:23,757
+
+
 What are you talking about?
 
-880
-01:06:23,857 --> 01:06:26,129
+
+
 The numbers don't add up.
 
-881
-01:06:26,229 --> 01:06:29,099
+
+
 At least not the way
 we expected them to.
 
-882
-01:06:29,199 --> 01:06:32,346
+
+
 Oh, fuck you!
 You're so full of shit!
 
-883
-01:06:36,791 --> 01:06:39,508
+
+
 I know what you
 think of me, Joshua.
 
-884
-01:06:39,608 --> 01:06:44,211
+
+
 I know that you think that
 I'm taking advantage of you.
 
-885
-01:06:44,311 --> 01:06:45,980
+
+
 <i>I know that you
 don't respect me.</i>
 
-886
-01:06:46,080 --> 01:06:48,784
+
+
 But you tell me, you tell me
 
-887
-01:06:48,884 --> 01:06:51,587
+
+
 how what you do,
 what Landshark does
 
-888
-01:06:51,687 --> 01:06:56,122
+
+
 could possibly make money
 as a business right now.
 
-889
-01:06:56,222 --> 01:06:58,359
+
+
 <i>You could say whatever
 you want about me,</i>
 
-890
-01:06:58,459 --> 01:07:00,662
+
+
 but I believed in your idea.
 
-891
-01:07:00,762 --> 01:07:02,079
+
+
 I believed in you!
 
-892
-01:07:03,985 --> 01:07:06,437
+
+
 <i>But the financial
 projections that we made,</i>
 
-893
-01:07:06,537 --> 01:07:08,955
+
+
 they were like three years off.
 
-894
-01:07:10,358 --> 01:07:13,609
+
+
 The technology isn't there!
 
-895
-01:07:13,709 --> 01:07:18,448
+
+
 So, our market, it
 doesn't fucking exist!
 
-896
-01:07:18,548 --> 01:07:19,748
+
+
 That's not my fault.
 
-897
-01:07:19,848 --> 01:07:21,414
+
+
 I'm not saying that it is.
 
-898
-01:07:21,514 --> 01:07:25,422
+
+
 It's just the fucking
 reality of our situation.
 
-899
-01:07:25,522 --> 01:07:28,724
+
+
 We're no different from
 any of these dot-coms, Josh.
 
-900
-01:07:28,824 --> 01:07:30,492
+
+
 It's all hype.
 And where the fuck
 
-901
-01:07:30,592 --> 01:07:32,963
+
+
 do you think that
 hype comes from?
 
-902
-01:07:33,063 --> 01:07:36,596
+
+
 You're right, I spent a
 lot of money on stupid shit,
 
-903
-01:07:36,696 --> 01:07:38,698
+
+
 <i>but that's what kept us going.</i>
 
-904
-01:07:38,798 --> 01:07:41,970
+
+
 Fumes.
 
-905
-01:07:42,070 --> 01:07:44,036
+
+
 That's what Landshark runs on.
 
-906
-01:07:44,136 --> 01:07:46,977
+
+
 <i>I still believe
 in Landshark.</i>
 
-907
-01:07:47,077 --> 01:07:49,643
+
+
 <i>And in three, maybe four years,</i>
 
-908
-01:07:49,743 --> 01:07:51,514
+
+
 but we're not gonna last that long.
 
-909
-01:07:51,614 --> 01:07:53,348
+
+
 We're not gonna last three weeks
 
-910
-01:07:53,448 --> 01:07:56,218
+
+
 if we don't make this
 deal work tomorrow!
 
-911
-01:07:56,318 --> 01:07:57,896
+
+
 And I need your help!
 
-912
-01:08:01,242 --> 01:08:03,005
+
+
 I need your permission.
 
-913
-01:08:20,895 --> 01:08:22,829
+
+
 <i>Josh.
 Don't leave!</i>
 
-914
-01:08:30,538 --> 01:08:32,254
+
+
 It was just me and Josh.
 
-915
-01:08:32,354 --> 01:08:34,624
+
+
 Still living at home,
 if you can believe that.
 
-916
-01:08:34,724 --> 01:08:35,856
+
+
 I mean, Josh was.
 
-917
-01:08:35,956 --> 01:08:38,525
+
+
 So we sat down after dinner,
 
-918
-01:08:38,625 --> 01:08:42,798
+
+
 Nancy and David
 were up at Lincoln Center.
 
-919
-01:08:42,898 --> 01:08:44,734
+
+
 We were like, we can do this.
 
-920
-01:08:44,834 --> 01:08:48,003
+
+
 I mean, I was like, we can do
 this. Together we can do this.
 
-921
-01:08:48,103 --> 01:08:51,070
+
+
 And Josh just sort of woke up.
 
-922
-01:08:51,170 --> 01:08:55,310
+
+
 Right before my eyes,
 he just sort of woke up
 
-923
-01:08:55,410 --> 01:08:59,547
+
+
 and he said, "Of course we can."
 
-924
-01:08:59,647 --> 01:09:03,520
+
+
 And so... we get this
 place on the Bowery
 
-925
-01:09:03,620 --> 01:09:05,854
+
+
 not the new Bowery,
 it's the old Bowery,
 
-926
-01:09:05,954 --> 01:09:07,622
+
+
 we had rats, big fucking rats
 
-927
-01:09:07,722 --> 01:09:09,722
+
+
 the size of cats, I swear it.
 
-928
-01:09:09,822 --> 01:09:11,892
+
+
 We'd meet our clients
 out at restaurants,
 
-929
-01:09:11,992 --> 01:09:14,094
+
+
 we couldn't bring them
 back to the office,
 
-930
-01:09:14,194 --> 01:09:15,830
+
+
 it wasn't an office, not really.
 
-931
-01:09:15,930 --> 01:09:18,317
+
+
 <i>Could we just get a water?</i>
 
-932
-01:09:24,292 --> 01:09:29,112
+
+
 This first guy,
 his name was Goldblatt,
 
-933
-01:09:29,212 --> 01:09:31,115
+
+
 he was, like, what can you do?
 
-934
-01:09:31,215 --> 01:09:33,781
+
+
 And I was like,
 1.0 percent reach,
 
-935
-01:09:33,881 --> 01:09:35,483
+
+
 750,000 uniques.
 
-936
-01:09:35,583 --> 01:09:37,718
+
+
 And he's just,
 when can you get it up?
 
-937
-01:09:37,818 --> 01:09:39,385
+
+
 And I don't hesitate,
 
-938
-01:09:39,485 --> 01:09:42,426
+
+
 I say, week after next but
 that's gonna cost you another 25.
 
-939
-01:09:42,526 --> 01:09:44,794
+
+
 I'll squeeze you in
 before Hardy McNimman.
 
-940
-01:09:44,894 --> 01:09:47,507
+
+
 Of course there was
 no Hardy McNimman.
 
-941
-01:09:51,052 --> 01:09:54,472
+
+
 Know why people
 commit to something?
 
-942
-01:09:54,572 --> 01:09:57,035
+
+
 Not because they want to,
 because ultimately,
 
-943
-01:09:57,135 --> 01:09:59,774
+
+
 nobody wants anything.
 People commit for one reason
 
-944
-01:09:59,874 --> 01:10:02,043
+
+
 and one reason only.
 
-945
-01:10:02,143 --> 01:10:05,347
+
+
 So some other son of a bitch
 doesn't get there first.
 
-946
-01:10:05,447 --> 01:10:08,948
+
+
 And that... Hey,
 it's Banana Republic.
 
-947
-01:10:09,048 --> 01:10:10,954
+
+
 I don't think I like your tone.
 
-948
-01:10:11,054 --> 01:10:12,489
+
+
 I don't think I'm selling it.
 
-949
-01:10:12,589 --> 01:10:14,491
+
+
 It's a little late
 for a working stiff.
 
-950
-01:10:14,591 --> 01:10:15,790
+
+
 You get pink-slipped?
 
-951
-01:10:15,890 --> 01:10:17,761
+
+
 As a matter of fact
 I'm with Von Treska,
 
-952
-01:10:17,861 --> 01:10:19,324
+
+
 the number one aggregator...
 
-953
-01:10:19,424 --> 01:10:20,893
+
+
 <i>Way back in May you guys had</i>
 
-954
-01:10:20,993 --> 01:10:23,631
+
+
 what did your press release
 say? "First mover advantage"
 
-955
-01:10:23,731 --> 01:10:26,170
+
+
 meaning you were the first
 guys in the niche market
 
-956
-01:10:26,270 --> 01:10:27,705
+
+
 only then came July.
 It turned out
 
-957
-01:10:27,805 --> 01:10:29,239
+
+
 the niche didn't really exist.
 
-958
-01:10:29,339 --> 01:10:31,241
+
+
 <i>So you did what
 everybody like you did.</i>
 
-959
-01:10:31,341 --> 01:10:33,710
+
+
 You said, "We're not a
 niche player, we're B2B."
 
-960
-01:10:33,810 --> 01:10:35,476
+
+
 As if that was gonna save your ass.
 
-961
-01:10:35,576 --> 01:10:38,246
+
+
 How many people did that
 same exact thing that week?
 
-962
-01:10:38,346 --> 01:10:39,750
+
+
 Fuck you.
 
-963
-01:10:39,850 --> 01:10:41,915
+
+
 It's a lot more fun to
 make inventory than sell it.
 
-964
-01:10:42,015 --> 01:10:44,753
+
+
 A lot easier too. How much
 do you guys spend in a month
 
-965
-01:10:44,853 --> 01:10:46,521
+
+
 as opposed to how much comes in?
 
-966
-01:10:46,621 --> 01:10:48,457
+
+
 Or is that old- school accounting?
 
-967
-01:10:48,557 --> 01:10:49,521
+
+
 I said fuck you.
 
-968
-01:10:49,621 --> 01:10:51,860
+
+
 I heard you the first time.
 
-969
-01:10:51,960 --> 01:10:53,459
+
+
 <i>If I wanna say it, I'll say it.</i>
 
-970
-01:10:53,559 --> 01:10:54,830
+
+
 <i>All night if I want to.</i>
 
-971
-01:10:54,930 --> 01:10:57,334
+
+
 Fuck you, fuck you, and fuck you.
 
-972
-01:10:57,434 --> 01:11:01,035
+
+
 Do you know why you're even here?
 
-973
-01:11:01,135 --> 01:11:03,805
+
+
 Because we had a dream.
 
-974
-01:11:03,905 --> 01:11:06,507
+
+
 And you did what guys
 like you always do.
 
-975
-01:11:06,607 --> 01:11:09,845
+
+
 You smelled the money.
 You came down. You wanted in.
 
-976
-01:11:09,945 --> 01:11:11,781
+
+
 You wanted to drink the Cru.
 
-977
-01:11:11,881 --> 01:11:15,184
+
+
 Not because you love, not even
 because you know what you're doing
 
-978
-01:11:15,284 --> 01:11:18,318
+
+
 but because this is
 where the action is.
 
-979
-01:11:18,418 --> 01:11:21,691
+
+
 <i>No, because somebody told you
 this is where the action is.</i>
 
-980
-01:11:21,791 --> 01:11:23,525
+
+
 <i>You don't know
 anything about me.</i>
 
-981
-01:11:23,625 --> 01:11:26,328
+
+
 Guys like you
 ain't got no vision.
 
-982
-01:11:26,428 --> 01:11:30,767
+
+
 Ain't got no passion.
 Ain't got no soul.
 
-983
-01:11:30,867 --> 01:11:32,331
+
+
 Hey, let me ask you something.
 
-984
-01:11:32,431 --> 01:11:34,434
+
+
 <i>Do all the flowers
 and the fancy dinners</i>
 
-985
-01:11:34,534 --> 01:11:38,424
+
+
 make up for the fact that he's
 never been able to make you come?
 
-986
-01:11:43,431 --> 01:11:45,831
+
+
 <i>Open up, Tom!</i>
 
-987
-01:11:51,872 --> 01:11:53,134
+
+
 <i>Come on!</i>
 
-988
-01:12:11,125 --> 01:12:13,753
+
+
 Good morning, Tom.
 Nice shiner.
 
-989
-01:12:23,137 --> 01:12:24,717
+
+
 <i>What happened to you?</i>
 
-990
-01:12:24,817 --> 01:12:27,555
+
+
 <i>Somebody obviously had enough.</i>
 
-991
-01:12:27,655 --> 01:12:30,576
+
+
 <i>Hope it wasn't his brother.</i>
 
-992
-01:12:32,113 --> 01:12:33,429
+
+
 <i>Did you speak to Josh?</i>
 
-993
-01:12:33,529 --> 01:12:35,865
+
+
 You did talk to him,
 didn't you, Tom?
 
-994
-01:12:35,965 --> 01:12:39,803
+
+
 This guy's old school, he's not
 gonna fall for the sweet talk.
 
-995
-01:12:39,903 --> 01:12:42,103
+
+
 I can handle this,
 Dylan, trust me.
 
-996
-01:12:42,203 --> 01:12:44,074
+
+
 If they ask you
 about the shortfall?
 
-997
-01:12:44,174 --> 01:12:45,441
+
+
 I'll let you handle it.
 
-998
-01:12:45,541 --> 01:12:47,877
+
+
 And if they ask about the
 e-Symposium?
 
-999
-01:12:47,977 --> 01:12:50,476
+
+
 I was just shaking things
 up. I was trying to inject
 
-1000
-01:12:50,576 --> 01:12:52,482
+
+
 a little salutary
 controversy the way
 
-1001
-01:12:52,582 --> 01:12:55,986
+
+
 that an oyster needs a small
 bit of grit to make a pearl.
 
-1002
-01:12:56,086 --> 01:12:58,129
+
+
 Believe me, I got this.
 
-1003
-01:13:00,975 --> 01:13:02,955
+
+
 Mr. Barton will see you now.
 
-1004
-01:13:03,055 --> 01:13:05,462
+
+
 Mr. Ogilvy's with him.
 
-1005
-01:13:05,562 --> 01:13:07,627
+
+
 Shall I show you the way?
 
-1006
-01:13:07,727 --> 01:13:08,704
+
+
 Thank you.
 
-1007
-01:13:14,321 --> 01:13:15,801
+
+
 What a joy.
 
-1008
-01:13:15,901 --> 01:13:17,971
+
+
 What a significant day.
 
-1009
-01:13:18,071 --> 01:13:19,443
+
+
 The pleasure is all ours.
 
-1010
-01:13:19,543 --> 01:13:21,107
+
+
 I'm a busy man to be sure,
 
-1011
-01:13:21,207 --> 01:13:23,743
+
+
 but when the opportunity
 presents itself
 
-1012
-01:13:23,843 --> 01:13:25,446
+
+
 to meet my friends at Landshark,
 
-1013
-01:13:25,546 --> 01:13:28,649
+
+
 why, we clear our decks, so to speak.
 
-1014
-01:13:28,749 --> 01:13:33,320
+
+
 Allow me to introduce my
 senior partner. Cyrus Ogilvy.
 
-1015
-01:13:33,420 --> 01:13:35,725
+
+
 Cy? This is Miss Melanie Hanson.
 
-1016
-01:13:35,825 --> 01:13:37,458
+
+
 It's a pleasure.
 
-1017
-01:13:37,558 --> 01:13:39,463
+
+
 <i>Mr. Dylan Gothschalk.</i>
 
-1018
-01:13:39,563 --> 01:13:41,729
+
+
 <i>Mr. Thomas Sterling.</i>
 
-1019
-01:13:41,829 --> 01:13:45,399
+
+
 COO, CFO, CEO.
 
-1020
-01:13:45,499 --> 01:13:50,036
+
+
 <i>We're here today to
 seek a fuller partnership.</i>
 
-1021
-01:13:50,136 --> 01:13:51,806
+
+
 <i>So that our futures</i>
 
-1022
-01:13:51,906 --> 01:13:56,144
+
+
 are separate but
 successful futures.
 
-1023
-01:13:56,244 --> 01:13:59,082
+
+
 We'll be bound together
 
-1024
-01:13:59,182 --> 01:14:03,216
+
+
 so that our happiness
 can become your happiness.
 
-1025
-01:14:03,316 --> 01:14:08,889
+
+
 Happiness? Dear boy, I'm
 more interested in ROI.
 
-1026
-01:14:08,989 --> 01:14:11,490
+
+
 I'm offering
 substantial happiness.
 
-1027
-01:14:11,590 --> 01:14:12,726
+
+
 <i>How substantial?</i>
 
-1028
-01:14:12,826 --> 01:14:15,063
+
+
 Very substantial.
 
-1029
-01:14:15,163 --> 01:14:17,163
+
+
 40%.
 
-1030
-01:14:17,263 --> 01:14:19,467
+
+
 <i>At what price?</i>
 
-1031
-01:14:19,567 --> 01:14:21,438
+
+
 Market value.
 
-1032
-01:14:21,538 --> 01:14:26,039
+
+
 Circumstances have changed
 over the past few days,
 
-1033
-01:14:26,139 --> 01:14:30,947
+
+
 have they not?
 That offer no longer stands.
 
-1034
-01:14:31,047 --> 01:14:33,984
+
+
 What were you expecting to pay?
 
-1035
-01:14:34,084 --> 01:14:36,419
+
+
 <i>Market value does not matter</i>
 
-1036
-01:14:36,519 --> 01:14:38,984
+
+
 because your stock
 trades by appointment.
 
-1037
-01:14:39,084 --> 01:14:40,991
+
+
 To sell it, you need
 a willing buyer.
 
-1038
-01:14:41,091 --> 01:14:43,893
+
+
 And your stock has no float.
 
-1039
-01:14:43,993 --> 01:14:48,938
+
+
 <i>But the real question is the
 board. We'll want control.</i>
 
-1040
-01:15:05,399 --> 01:15:08,847
+
+
 You're kidding, right?
 
-1041
-01:15:08,947 --> 01:15:11,253
+
+
 What do you know about the Net?
 
-1042
-01:15:11,353 --> 01:15:15,456
+
+
 What do you know
 about new technology?
 
-1043
-01:15:15,556 --> 01:15:18,478
+
+
 Nothing. Not a fucking thing.
 
-1044
-01:15:20,114 --> 01:15:23,466
+
+
 <i>The way people communicate,
 the way people think,</i>
 
-1045
-01:15:23,566 --> 01:15:28,405
+
+
 the very nature of commerce is
 changing, and you're scared shitless.
 
-1046
-01:15:28,505 --> 01:15:31,841
+
+
 You don't understand
 it, but you want in.
 
-1047
-01:15:31,941 --> 01:15:35,278
+
+
 <i>To be quite honest, Mr. Sterling,</i>
 
-1048
-01:15:35,378 --> 01:15:38,180
+
+
 we don't like your style.
 
-1049
-01:15:38,280 --> 01:15:42,084
+
+
 We don't like the way
 you conduct yourself.
 
-1050
-01:15:42,184 --> 01:15:45,685
+
+
 And though you seem to
 have fooled a lot of people,
 
-1051
-01:15:45,785 --> 01:15:49,693
+
+
 we don't much like the way
 you conduct your business.
 
-1052
-01:15:49,793 --> 01:15:56,194
+
+
 <i>And since we don't particularly
 want to be in business with you,</i>
 
-1053
-01:15:56,294 --> 01:15:59,650
+
+
 you'd have to make it
 very much worth our while.
 
-1054
-01:16:01,455 --> 01:16:04,571
+
+
 <i>I was in Adam's
 House at Harvard,</i>
 
-1055
-01:16:04,671 --> 01:16:08,207
+
+
 <i>so I made some friends.</i>
 
-1056
-01:16:08,307 --> 01:16:11,546
+
+
 And then Wharton,
 I made a few more,
 
-1057
-01:16:11,646 --> 01:16:14,551
+
+
 and in South Hampton
 where we summer.
 
-1058
-01:16:14,651 --> 01:16:18,319
+
+
 So, on the street, you could say
 
-1059
-01:16:18,419 --> 01:16:20,987
+
+
 I have a lot of friends.
 
-1060
-01:16:21,087 --> 01:16:25,057
+
+
 And they look to me
 for my opinion.
 
-1061
-01:16:25,157 --> 01:16:28,897
+
+
 <i>When I tell them, I tell
 them that we've looked</i>
 
-1062
-01:16:28,997 --> 01:16:33,870
+
+
 at the Landshark figures
 and we didn't see a future,
 
-1063
-01:16:33,970 --> 01:16:36,637
+
+
 I don't have to say it loudly.
 
-1064
-01:16:36,737 --> 01:16:40,285
+
+
 I have only to whisper it.
 Do you understand?
 
-1065
-01:16:42,630 --> 01:16:44,644
+
+
 By the time your lockup ends,
 
-1066
-01:16:44,744 --> 01:16:48,828
+
+
 you will own 500,000 shares
 D-listed paper.
 
-1067
-01:16:52,306 --> 01:16:54,888
+
+
 You would dump your
 entire investment
 
-1068
-01:16:54,988 --> 01:16:57,102
+
+
 because you don't like my style?
 
-1069
-01:17:02,783 --> 01:17:03,943
+
+
 Why?
 
-1070
-01:17:05,119 --> 01:17:08,634
+
+
 Because I can, Mr. Sterling.
 
-1071
-01:17:08,734 --> 01:17:10,505
+
+
 Is that a threat?
 
-1072
-01:17:10,605 --> 01:17:12,273
+
+
 <i>That's just business.</i>
 
-1073
-01:17:12,373 --> 01:17:15,745
+
+
 It's what separates
 the men from the boys.
 
-1074
-01:17:15,845 --> 01:17:18,580
+
+
 So why am I here?
 
-1075
-01:17:18,680 --> 01:17:21,849
+
+
 <i>We're interested in
 the future of Landshark.</i>
 
-1076
-01:17:21,949 --> 01:17:23,550
+
+
 But we're not interested in you.
 
-1077
-01:17:23,650 --> 01:17:25,752
+
+
 There is no Landshark without me.
 
-1078
-01:17:25,852 --> 01:17:31,261
+
+
 <i>Au contraire. By our metrics,
 your company would be better off.</i>
 
-1079
-01:17:31,361 --> 01:17:33,797
+
+
 Miss Gilbo will show you out.
 
-1080
-01:17:33,897 --> 01:17:35,529
+
+
 Wait.
 
-1081
-01:17:35,629 --> 01:17:37,731
+
+
 <i>Don't waste your time. Or ours.</i>
 
-1082
-01:17:37,831 --> 01:17:39,865
+
+
 <i>But if I could
 just say one thing...</i>
 
-1083
-01:17:39,965 --> 01:17:43,401
+
+
 This is not a negotiation.
 This is our offer.
 
-1084
-01:17:43,501 --> 01:17:46,376
+
+
 <i>Miss Hanson, Mr. Gothschalk,
 your brother Joshua,</i>
 
-1085
-01:17:46,476 --> 01:17:48,440
+
+
 <i>they'll stay with the company,</i>
 
-1086
-01:17:48,540 --> 01:17:51,611
+
+
 <i>and we'll do everything within our
 power to keep the stock price high.</i>
 
-1087
-01:17:51,711 --> 01:17:53,347
+
+
 <i>You will step down.</i>
 
-1088
-01:17:53,447 --> 01:17:57,050
+
+
 <i>And you will relinquish
 all interest in the company.</i>
 
-1089
-01:17:57,150 --> 01:17:59,455
+
+
 We will take
 control of the board,
 
-1090
-01:17:59,555 --> 01:18:03,893
+
+
 and we will buy your shares
 at 15 cents on the dollar.
 
-1091
-01:18:03,993 --> 01:18:06,761
+
+
 Mr. Sterling.
 
-1092
-01:18:06,861 --> 01:18:09,164
+
+
 <i>You can take it
 or leave it.</i>
 
-1093
-01:18:09,264 --> 01:18:11,513
+
+
 <i>We need your
 answer immediately.</i>
 
-1094
-01:18:22,429 --> 01:18:25,444
+
+
 My brother Joshua gets
 an employment contract?
 
-1095
-01:18:25,544 --> 01:18:29,696
+
+
 Joshua Sterling will
 be well taken care of.
 
-1096
-01:18:42,316 --> 01:18:43,476
+
+
 Okay.
 
-1097
-01:18:46,420 --> 01:18:47,500
+
+
 Okay.
 
-1098
-01:18:47,600 --> 01:18:49,681
+
+
 You have yourself a deal.
 
-1099
-01:19:17,518 --> 01:19:19,734
+
+
 <i>Tom.</i>
 
-1100
-01:19:19,834 --> 01:19:21,287
+
+
 I'm fine.
 
-1101
-01:19:25,759 --> 01:19:27,056
+
+
 Really I am.
 
-1102
-01:20:45,172 --> 01:20:46,503
+
+
 Yeah.
 
-1103
-01:21:16,069 --> 01:21:18,286
+
+
 <i>This just in.</i>
 
-1104
-01:21:18,386 --> 01:21:22,489
+
+
 <i>Singer and actress Aaliyah has
 been killed in a plane crash</i>
 
-1105
-01:21:22,589 --> 01:21:27,059
+
+
 <i>over the Bahamas.
 According to sources...</i>
 
-1106
-01:21:27,159 --> 01:21:29,012
+
+
 Six in quarters.
 
-1107
-01:21:38,025 --> 01:21:39,356
+
+
 Thanks.
 
-1108
-01:22:07,220 --> 01:22:09,937
+
+
 <i>Jackpot!</i>
 
-1109
-01:22:10,037 --> 01:22:12,321
+
+
 Oh, nice.
 
-1110
-01:22:16,196 --> 01:22:18,114
+
+
 Hey, can I get the next one?
 
-1111
-01:22:18,214 --> 01:22:20,598
+
+
 It's gonna be a while.
 
-1112
-01:22:23,837 --> 01:22:25,930
+
+
 <i>Jackpot!</i>
 
-1113
-01:22:41,254 --> 01:22:43,017
+
+
 Maybe we can...
 
-1114
-01:22:45,192 --> 01:22:46,659
+
+
 <i>me and you, maybe we can...</i>
 
-1115
-01:22:49,029 --> 01:22:50,257
+
+
 start...
 
-1116
-01:22:54,201 --> 01:22:55,225
+
+
 build, you know.
 
-1117
-01:22:57,738 --> 01:22:59,228
+
+
 <i>Make... something.</i>
 
-1118
-01:23:03,143 --> 01:23:05,134
+
+
 Uh, like, together.
 
-1119
-01:23:12,519 --> 01:23:14,180
+
+
 It's all over, Josh.
 
-1120
-01:23:23,630 --> 01:23:25,143
+
+
 Let me shoot this one.
 
-1121
-01:23:25,243 --> 01:23:26,563
+
+
 Nope.
 
-1122
-01:23:30,737 --> 01:23:32,534
+
+
 The left flipper?
 
-1123
-01:23:37,244 --> 01:23:38,973
+
+
 <i>Jackpot!</i>
 
-1124
-01:23:40,414 --> 01:23:41,676
+
+
 See?
 
-1125
-01:23:47,187 --> 01:23:48,767
+
+
 <i>Jackpot!</i>
 
-1126
-01:23:48,867 --> 01:23:50,083
+
+
 Hmm!
 
-1127
-01:23:54,795 --> 01:23:56,592
+
+
 <i>Jackpot!</i>
 
-1128
-01:23:59,032 --> 01:24:02,182
+
+
 Are you kidding?
 
-1129
-01:24:02,282 --> 01:24:04,533
+
+
 When did you get out of what?
 
-1130
-01:24:08,375 --> 01:24:10,206
+
+
 <i>Jackpot!</i>
 

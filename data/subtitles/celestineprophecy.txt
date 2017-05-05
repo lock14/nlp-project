@@ -1,4416 +1,4416 @@
-1
-00:01:49,782 --> 00:01:51,782
+
+
 Mr. Woodson! Take a shot.
 
-2
-00:01:52,076 --> 00:01:53,636
+
+
 Oh, nice shot.
 
-3
-00:02:02,671 --> 00:02:04,751
+
+
 - Get up.
 - Hey, over here!
 
-4
-00:02:05,007 --> 00:02:06,807
+
+
 - Mr. Woodson!
 - Nice pass.
 
-5
-00:02:27,280 --> 00:02:28,800
+
+
 Hey, John.
 
-6
-00:02:29,449 --> 00:02:31,649
+
+
 Listen, the board met
 this afternoon...
 
-7
-00:02:31,910 --> 00:02:33,550
+
+
 ...and it's as bad as we thought.
 
-8
-00:02:33,995 --> 00:02:35,835
+
+
 They're cutting back
 the whole department.
 
-9
-00:02:36,081 --> 00:02:37,761
+
+
 What, are you laying me off?
 
-10
-00:02:38,000 --> 00:02:41,600
+
+
 We knew this was coming. At this
 point, it's just a leave of absence.
 
-11
-00:02:42,546 --> 00:02:44,946
+
+
 With any luck, you'll be back
 with us next fall.
 
-12
-00:02:45,966 --> 00:02:47,766
+
+
 You're laying me off.
 
-13
-00:02:50,930 --> 00:02:54,770
+
+
 - I'm sorry, John.
 - That's okay.
 
-14
-00:03:13,120 --> 00:03:16,920
+
+
 Hey, hey. Michael Jordan was only
 5'2" when he started.
 
-15
-00:03:17,249 --> 00:03:20,009
+
+
 Of course, he was in kindergarten
 and he could dunk the ball.
 
-16
-00:03:20,294 --> 00:03:22,694
+
+
 Just keep practicing. All right?
 
-17
-00:04:31,702 --> 00:04:35,222
+
+
 <i>- Hello?
 - John? It's Charlene. </i>
 
-18
-00:04:35,539 --> 00:04:40,019
+
+
 Charlene? Wow, I was just
 thinking about you the other day.
 
-19
-00:04:40,420 --> 00:04:43,380
+
+
 Listen, I'm so glad I was able
 to reach you. I'm in town.
 
-20
-00:04:43,673 --> 00:04:46,073
+
+
 I was hoping you might have
 some time to get together.
 
-21
-00:04:47,385 --> 00:04:49,385
+
+
 Oh, yeah, I got a lot of time.
 
-22
-00:04:49,638 --> 00:04:52,678
+
+
 Well, I'm staying at the Hilton,
 near the airport.
 
-23
-00:04:52,974 --> 00:04:54,814
+
+
 So, what did you wanna
 talk to me about?
 
-24
-00:04:56,562 --> 00:05:01,202
+
+
 Last month I was in Peru
 doing a piece on a relief project.
 
-25
-00:05:01,567 --> 00:05:05,847
+
+
 We went to this place called Viciente
 and I met a priest there.
 
-26
-00:05:06,238 --> 00:05:10,078
+
+
 His name is Father Jose,
 he's also an archaeologist.
 
-27
-00:05:10,451 --> 00:05:15,131
+
+
 He told me about some scrolls that
 he had discovered a few years ago.
 
-28
-00:05:16,124 --> 00:05:17,524
+
+
 What kind of scrolls?
 
-29
-00:05:17,792 --> 00:05:21,512
+
+
 Ancient writings.
 No one knows who wrote them.
 
-30
-00:05:22,756 --> 00:05:24,196
+
+
 It's a prophecy.
 
-31
-00:05:25,008 --> 00:05:27,368
+
+
 Really? What does it predict?
 
-32
-00:05:27,636 --> 00:05:30,716
+
+
 According to Father Jose,
 it says that...
 
-33
-00:05:31,014 --> 00:05:37,214
+
+
 ...all the conflict, the chaos
 in this world, it's changing us.
 
-34
-00:05:38,439 --> 00:05:39,639
+
+
 And what does that mean?
 
-35
-00:05:39,857 --> 00:05:43,537
+
+
 It means that the violence
 is waking us up, in a way.
 
-36
-00:05:43,861 --> 00:05:48,901
+
+
 The prophecy says that
 we're going to discover something.
 
-37
-00:05:50,118 --> 00:05:51,318
+
+
 Which is?
 
-38
-00:05:51,536 --> 00:05:53,136
+
+
 He was vague about it...
 
-39
-00:05:53,371 --> 00:05:56,491
+
+
 ...but he said that it'll make us
 look at everything differently.
 
-40
-00:06:02,172 --> 00:06:04,052
+
+
 I know this all sounds weird...
 
-41
-00:06:04,591 --> 00:06:08,711
+
+
 ...but if you'll just listen...
 
-42
-00:06:09,054 --> 00:06:12,254
+
+
 Okay. Okay. I'll listen.
 
-43
-00:06:12,558 --> 00:06:15,358
+
+
 So when is this revelation
 supposed to happen?
 
-44
-00:06:15,644 --> 00:06:18,724
+
+
 The prophecy says it'll begin during
 the first years of this century.
 
-45
-00:06:19,023 --> 00:06:20,863
+
+
 Well, that's now.
 
-46
-00:06:21,734 --> 00:06:23,734
+
+
 Yeah, I know.
 
-47
-00:06:28,324 --> 00:06:30,364
+
+
 Excuse me, sir. Can I
 please get my luggage?
 
-48
-00:06:30,618 --> 00:06:32,538
+
+
 Certainly. Will you be needing
 a taxi today?
 
-49
-00:06:32,829 --> 00:06:35,869
+
+
 - Yes, please.
 - The baggage will be out by the cab.
 
-50
-00:06:36,208 --> 00:06:37,808
+
+
 Great. It's just one bag.
 
-51
-00:06:44,591 --> 00:06:47,871
+
+
 Have you ever wondered why
 we don't spend more time together?
 
-52
-00:06:48,512 --> 00:06:50,592
+
+
 How long have I known you,
 five or six years?
 
-53
-00:06:50,848 --> 00:06:52,368
+
+
 About that long, yeah.
 
-54
-00:06:52,600 --> 00:06:54,720
+
+
 How many relationships
 have you had?
 
-55
-00:06:57,397 --> 00:07:00,397
+
+
 You get involved with somebody
 because it makes you feel good...
 
-56
-00:07:00,733 --> 00:07:04,133
+
+
 ...but it never works out
 because you're not really there.
 
-57
-00:07:04,446 --> 00:07:07,206
+
+
 Whatever happened to that
 big theory you were trying to find?
 
-58
-00:07:07,490 --> 00:07:09,770
+
+
 Inspire all those kids.
 What happened to that?
 
-59
-00:07:10,076 --> 00:07:12,596
+
+
 I found out it isn't that easy.
 
-60
-00:07:14,748 --> 00:07:17,108
+
+
 You should go to Viciente, John.
 
-61
-00:07:17,751 --> 00:07:21,271
+
+
 They're studying this prophecy
 down there. I can't explain it...
 
-62
-00:07:21,589 --> 00:07:25,189
+
+
 ...but the people there are different.
 This place is different.
 
-63
-00:07:25,551 --> 00:07:27,831
+
+
 Why are you calling me
 about all this now?
 
-64
-00:07:28,095 --> 00:07:32,375
+
+
 Because every time I would think of
 this prophecy, I would think of you.
 
-65
-00:07:32,725 --> 00:07:34,725
+
+
 Then I found out that
 I had a stopover here.
 
-66
-00:07:35,728 --> 00:07:38,568
+
+
 Maybe you're hearing this
 at the right time.
 
-67
-00:07:55,833 --> 00:07:57,833
+
+
 Hey, Meredith.
 
-68
-00:08:00,254 --> 00:08:03,014
+
+
 Whatcha say, darling?
 How are you?
 
-69
-00:08:08,429 --> 00:08:12,389
+
+
 Have a good day, girl?
 Better than mine, I hope.
 
-70
-00:09:13,831 --> 00:09:16,671
+
+
 <i>You should go to Viciente, John.
 The people there are different. </i>
 
-71
-00:09:17,001 --> 00:09:19,841
+
+
 <i>This place is different.</i>
 
-72
-00:09:20,755 --> 00:09:23,675
+
+
 Travel agency...
 
-73
-00:09:40,359 --> 00:09:44,519
+
+
 Cancellation? When's it leaving?
 Tomorrow?
 
-74
-00:09:44,864 --> 00:09:48,064
+
+
 Yeah, I'll take it. All right, thanks.
 
-75
-00:09:51,663 --> 00:09:53,663
+
+
 Wanna go to Peru?
 
-76
-00:09:57,252 --> 00:10:00,852
+
+
 <i>I haven't been in Lima in quite a while.
 How long have you lived there?</i>
 
-77
-00:10:01,173 --> 00:10:03,573
+
+
 Oh, I'm new to Peru.
 I've lived in Bolivia...
 
-78
-00:10:03,842 --> 00:10:06,522
+
+
 ...for the last 10 years, so I haven't
 met your Father Jose.
 
-79
-00:10:07,262 --> 00:10:09,942
+
+
 In any case, the local priests are
 so numerous, aren't they?
 
-80
-00:10:10,766 --> 00:10:12,486
+
+
 I suppose they are.
 
-81
-00:10:12,726 --> 00:10:16,246
+
+
 Excuse me. I just heard you
 mention a Father Jose?
 
-82
-00:10:17,898 --> 00:10:20,138
+
+
 A friend of mine
 just told me about him.
 
-83
-00:10:20,943 --> 00:10:23,303
+
+
 Dobson. Dr. Sidney Dobson.
 
-84
-00:10:23,863 --> 00:10:26,983
+
+
 Would you like a drink?
 Two more Scotches, please.
 
-85
-00:10:27,283 --> 00:10:29,163
+
+
 Sure, right away.
 
-86
-00:10:29,953 --> 00:10:34,313
+
+
 - So are you a scientist?
 - Oh, no. John Woodson, tourist.
 
-87
-00:10:34,666 --> 00:10:37,946
+
+
 But I'm going to Peru because I'm
 interested in this place called Viciente.
 
-88
-00:10:38,253 --> 00:10:39,693
+
+
 Yes.
 
-89
-00:10:42,466 --> 00:10:46,866
+
+
 I met Jose in Boston
 at an anthropological meeting.
 
-90
-00:10:47,221 --> 00:10:49,461
+
+
 I kept in touch over the years.
 
-91
-00:10:49,723 --> 00:10:53,923
+
+
 I had no idea what he had found until
 several weeks ago. He called me...
 
-92
-00:10:54,270 --> 00:10:57,590
+
+
 ...and asked me to help affirm
 the prophecy's authenticity.
 
-93
-00:10:57,940 --> 00:11:02,700
+
+
 He sent me copies of the first two
 scrolls along with translations.
 
-94
-00:11:03,279 --> 00:11:06,279
+
+
 Real thing.
 There's no doubt about it.
 
-95
-00:11:06,574 --> 00:11:10,734
+
+
 Written no later than 5 or 6 B.C.
 But you know the curious thing?
 
-96
-00:11:11,079 --> 00:11:12,719
+
+
 They were found in a wooden box...
 
-97
-00:11:13,874 --> 00:11:16,794
+
+
 <i>... which dates to
 only about 1600 A.D. </i>
 
-98
-00:11:17,127 --> 00:11:19,607
+
+
 <i>Someone in the early Church
 had buried them. </i>
 
-99
-00:11:19,880 --> 00:11:23,120
+
+
 Early Church? Franciscan or Jesuit?
 
-100
-00:11:24,844 --> 00:11:27,044
+
+
 Oh, I'm a history teacher.
 
-101
-00:11:27,304 --> 00:11:31,144
+
+
 Well, apparently Franciscan. Although
 they seem to be inspired by a pope.
 
-102
-00:11:32,643 --> 00:11:35,123
+
+
 Celestine V, I think.
 
-103
-00:11:36,481 --> 00:11:39,721
+
+
 You mentioned that you had copies of
 them. Can you tell me what they say?
 
-104
-00:11:40,026 --> 00:11:41,466
+
+
 No, not really.
 
-105
-00:11:41,695 --> 00:11:45,295
+
+
 They talk about a shift in human
 understanding, I don't know.
 
-106
-00:11:45,615 --> 00:11:48,375
+
+
 But, you know, the curious thing,
 the most astonishing thing...
 
-107
-00:11:48,660 --> 00:11:51,180
+
+
 ...is the description
 of the modern era.
 
-108
-00:11:51,455 --> 00:11:56,255
+
+
 Our problems, our technologies.
 I mean, it is utterly amazing.
 
-109
-00:11:56,794 --> 00:11:57,754
+
+
 Think about it.
 
-110
-00:11:58,003 --> 00:12:02,323
+
+
 A document this old, speaking
 in such detail about our time?
 
-111
-00:12:03,217 --> 00:12:05,057
+
+
 Think about it.
 
-112
-00:12:17,440 --> 00:12:19,760
+
+
 It was a pleasure
 traveling with you.
 
-113
-00:12:20,026 --> 00:12:23,346
+
+
 - You staying in town?
 - Delgado.
 
-114
-00:12:23,697 --> 00:12:25,537
+
+
 I'm just down the street
 at the Hacienda.
 
-115
-00:12:25,782 --> 00:12:28,902
+
+
 Father Jose's church is just down
 the street from there.
 
-116
-00:12:29,453 --> 00:12:31,893
+
+
 Why don't you come see him
 with me in the morning?
 
-117
-00:12:32,164 --> 00:12:33,484
+
+
 He has the original scrolls.
 
-118
-00:12:33,707 --> 00:12:37,027
+
+
 He wants to make them public
 as soon as possible.
 
-119
-00:12:37,336 --> 00:12:39,736
+
+
 - Why's that?
 - I don't know.
 
-120
-00:12:40,047 --> 00:12:42,767
+
+
 You can ask him yourself
 in the morning.
 
-121
-00:12:52,936 --> 00:12:55,336
+
+
 You see someone
 down there you know?
 
-122
-00:12:56,898 --> 00:12:59,458
+
+
 Oh, no. No, not really.
 
-123
-00:13:01,779 --> 00:13:03,459
+
+
 Pretty girl.
 
-124
-00:14:45,053 --> 00:14:46,933
+
+
 Saint Francis was a great man.
 
-125
-00:14:47,222 --> 00:14:49,622
+
+
 He could see beauty
 where others couldn't.
 
-126
-00:14:50,935 --> 00:14:53,375
+
+
 - I'm sorry, I was just taking a walk.
 - It's all right.
 
-127
-00:14:53,646 --> 00:14:57,566
+
+
 American? Now, what has
 brought you to Peru?
 
-128
-00:14:59,444 --> 00:15:01,404
+
+
 You're Father Jose, aren't you?
 
-129
-00:15:02,739 --> 00:15:04,139
+
+
 I'm John Woodson.
 
-130
-00:15:04,365 --> 00:15:07,285
+
+
 A friend of mine, Charlene Benet,
 met you a few weeks ago.
 
-131
-00:15:07,577 --> 00:15:09,857
+
+
 And she told you
 about our prophecy.
 
-132
-00:15:13,250 --> 00:15:15,770
+
+
 John, listen to me. I know you.
 
-133
-00:15:16,044 --> 00:15:18,124
+
+
 You're here to do
 something important.
 
-134
-00:15:18,380 --> 00:15:19,940
+
+
 <i>But you need to leave quickly.</i>
 
-135
-00:15:20,257 --> 00:15:22,417
+
+
 - What are you talking about?
 - Go!
 
-136
-00:15:24,386 --> 00:15:25,866
+
+
 I will try to help you.
 
-137
-00:15:39,068 --> 00:15:42,268
+
+
 You have caused us
 a lot of trouble, old man.
 
-138
-00:15:45,075 --> 00:15:48,195
+
+
 It was in a hidden compartment
 in the wall of the sacristy.
 
-139
-00:15:49,830 --> 00:15:52,590
+
+
 You should have
 hidden them better, Padre.
 
-140
-00:15:55,252 --> 00:15:57,012
+
+
 Eight scrolls.
 
-141
-00:16:01,801 --> 00:16:03,521
+
+
 Where's the ninth?
 
-142
-00:16:07,223 --> 00:16:08,863
+
+
 Okay.
 
-143
-00:16:09,100 --> 00:16:13,100
+
+
 One way or another,
 I'm going to put an end to all of this.
 
-144
-00:16:13,438 --> 00:16:16,558
+
+
 You're going to try.
 You will do everything you can.
 
-145
-00:16:16,858 --> 00:16:19,178
+
+
 But it's already too late.
 
-146
-00:16:24,783 --> 00:16:28,623
+
+
 You are very calm
 for a man about to die.
 
-147
-00:16:28,954 --> 00:16:32,994
+
+
 Everybody dies. Even you, senor.
 
-148
-00:16:43,344 --> 00:16:46,624
+
+
 John! Wait. Slow down a minute.
 
-149
-00:16:46,931 --> 00:16:48,611
+
+
 Why didn't you just call the police?
 
-150
-00:16:48,850 --> 00:16:51,010
+
+
 I'm not sure what's going on.
 It could be nothing.
 
-151
-00:16:51,269 --> 00:16:55,229
+
+
 Nothing? You got me out of bed in the
 middle of the night for nothing?
 
-152
-00:17:09,497 --> 00:17:12,217
+
+
 Don't do that.
 You'll never get rid of her.
 
-153
-00:17:15,294 --> 00:17:18,574
+
+
 What the...? John!
 
-154
-00:18:26,494 --> 00:18:28,094
+
+
 Need some help?
 
-155
-00:18:39,424 --> 00:18:41,384
+
+
 They seem to have left.
 
-156
-00:18:44,263 --> 00:18:47,743
+
+
 We were going to that church a block
 away, looking for the priest.
 
-157
-00:18:49,226 --> 00:18:50,946
+
+
 Father Jose?
 
-158
-00:18:52,313 --> 00:18:54,953
+
+
 - Yeah.
 - And who is "we"?
 
-159
-00:18:55,775 --> 00:19:00,055
+
+
 This professor, I met him on a plane.
 He's looking for some artifact.
 
-160
-00:19:00,446 --> 00:19:02,206
+
+
 The prophecy.
 
-161
-00:19:05,201 --> 00:19:06,761
+
+
 Go on.
 
-162
-00:19:07,036 --> 00:19:08,596
+
+
 Wait a minute.
 
-163
-00:19:09,289 --> 00:19:10,889
+
+
 You know about all this?
 
-164
-00:19:11,791 --> 00:19:13,191
+
+
 Who are you?
 
-165
-00:19:13,418 --> 00:19:17,258
+
+
 Part of your story, apparently.
 My name is Wil.
 
-166
-00:19:17,881 --> 00:19:20,521
+
+
 - John.
 - I'm a guide.
 
-167
-00:19:22,219 --> 00:19:26,459
+
+
 I was working with Jose
 when he found the scrolls.
 
-168
-00:19:28,100 --> 00:19:29,740
+
+
 That's him, yeah.
 
-169
-00:19:31,103 --> 00:19:34,663
+
+
 - Who's this woman?
 - Julia Sims. She's a friend, a linguist.
 
-170
-00:19:34,982 --> 00:19:37,462
+
+
 - Translated most of the prophecy.
 - And him?
 
-171
-00:19:37,735 --> 00:19:39,135
+
+
 His name is Father Sanchez.
 
-172
-00:19:39,362 --> 00:19:42,122
+
+
 He lives in the mountains
 with the local Indians.
 
-173
-00:19:42,407 --> 00:19:44,087
+
+
 Philosopher, you could say.
 
-174
-00:19:45,160 --> 00:19:47,320
+
+
 I have a feeling you'll meet him.
 
-175
-00:19:49,623 --> 00:19:54,623
+
+
 Now, what about your friend, the
 professor? Tell me what happened.
 
-176
-00:19:55,003 --> 00:19:58,643
+
+
 They took him, right in front of me.
 That's why I was running.
 
-177
-00:19:59,925 --> 00:20:01,885
+
+
 I think they got Father Jose too.
 
-178
-00:20:06,390 --> 00:20:07,870
+
+
 Put this on.
 
-179
-00:20:09,685 --> 00:20:11,445
+
+
 We have to leave.
 
-180
-00:20:16,025 --> 00:20:18,385
+
+
 You think it'd be safe
 to go back to the hotel?
 
-181
-00:20:24,117 --> 00:20:26,157
+
+
 - I don't think so.
 - Maybe you could take me...
 
-182
-00:20:26,411 --> 00:20:28,051
+
+
 ...to the American Embassy.
 
-183
-00:20:32,918 --> 00:20:34,718
+
+
 Too risky.
 
-184
-00:20:44,388 --> 00:20:47,028
+
+
 General.
 His Excellency Cardinal Sebastian.
 
-185
-00:20:50,520 --> 00:20:52,600
+
+
 Such a surprise
 to have you visit me.
 
-186
-00:20:55,442 --> 00:20:57,482
+
+
 You've arrested an American.
 
-187
-00:20:57,736 --> 00:20:59,176
+
+
 A professor.
 
-188
-00:20:59,738 --> 00:21:03,098
+
+
 On his way to meet with
 your Father Jose.
 
-189
-00:21:04,493 --> 00:21:05,453
+
+
 Cigar?
 
-190
-00:21:07,538 --> 00:21:10,458
+
+
 Don't you realize this will only bring
 more publicity?
 
-191
-00:21:11,834 --> 00:21:13,154
+
+
 You should have consulted me.
 
-192
-00:21:15,922 --> 00:21:18,202
+
+
 Permit me to remind you,
 Your Excellency.
 
-193
-00:21:19,092 --> 00:21:22,012
+
+
 It was you who informed me
 of the dangers of the prophecy.
 
-194
-00:21:22,512 --> 00:21:25,792
+
+
 And it was you who sought my help.
 
-195
-00:21:26,599 --> 00:21:28,919
+
+
 I said the document was heretical.
 
-196
-00:21:29,686 --> 00:21:31,566
+
+
 That it needed to be contained.
 
-197
-00:21:31,813 --> 00:21:34,173
+
+
 I didn't say create an incident
 with the Americans.
 
-198
-00:21:34,941 --> 00:21:36,381
+
+
 There will be an investigation.
 
-199
-00:21:37,444 --> 00:21:39,204
+
+
 This country is a democracy now.
 
-200
-00:21:41,448 --> 00:21:43,528
+
+
 This prophecy
 is creating instability...
 
-201
-00:21:43,784 --> 00:21:46,144
+
+
 ...at a time
 when we're already threatened...
 
-202
-00:21:46,579 --> 00:21:51,019
+
+
 ...by insurrection. Besides, you must
 understand that there are other...
 
-203
-00:21:51,584 --> 00:21:58,024
+
+
 ...interests involved in this matter now.
 This prophecy must be dealt with.
 
-204
-00:21:59,300 --> 00:22:01,740
+
+
 Other interests.
 
-205
-00:22:02,554 --> 00:22:05,314
+
+
 Father Jose, he was not present
 at Mass this morning.
 
-206
-00:22:06,391 --> 00:22:07,351
+
+
 No one can find him.
 
-207
-00:22:09,144 --> 00:22:12,744
+
+
 People go missing every day
 in Peru.
 
-208
-00:22:13,982 --> 00:22:17,982
+
+
 If you want,
 I'll have someone look into it.
 
-209
-00:22:19,113 --> 00:22:21,513
+
+
 The scrolls are Church property.
 
-210
-00:22:22,825 --> 00:22:24,985
+
+
 They must be returned to me.
 
-211
-00:22:41,011 --> 00:22:46,731
+
+
 It's all I can bear,
 to tolerate his arrogance.
 
-212
-00:22:47,184 --> 00:22:50,664
+
+
 In a moment, he can remove
 anyone from the Church.
 
-213
-00:22:50,980 --> 00:22:53,100
+
+
 Damn them forever.
 
-214
-00:22:54,108 --> 00:22:57,828
+
+
 We might control
 the people's minds...
 
-215
-00:22:58,154 --> 00:23:00,714
+
+
 ...but he controls their souls.
 
-216
-00:23:00,990 --> 00:23:04,550
+
+
 He can be used.
 That's all that interests me.
 
-217
-00:23:04,869 --> 00:23:06,749
+
+
 This is all a waste of my time.
 
-218
-00:23:06,996 --> 00:23:10,076
+
+
 This prophecy, it's nothing.
 
-219
-00:23:10,375 --> 00:23:12,935
+
+
 Why do you fear it so?
 
-220
-00:23:16,757 --> 00:23:19,877
+
+
 Because, general,
 in the world it predicts...
 
-221
-00:23:20,177 --> 00:23:23,217
+
+
 ...there's no need for people
 like you and me.
 
-222
-00:23:30,646 --> 00:23:33,446
+
+
 Do your part and
 you'll get what you want.
 
-223
-00:23:37,028 --> 00:23:39,428
+
+
 Do you have the pictures
 of the other American?
 
-224
-00:23:44,035 --> 00:23:46,635
+
+
 General, what about
 Professor Dobson?
 
-225
-00:23:47,038 --> 00:23:51,238
+
+
 Call the American Embassy.
 Tell them his detention was a mistake.
 
-226
-00:23:51,918 --> 00:23:56,318
+
+
 Then take him to the airport.
 I think he'll be ready to go home.
 
-227
-00:24:02,012 --> 00:24:05,012
+
+
 Now, who are you?
 
-228
-00:24:05,307 --> 00:24:08,707
+
+
 And what are you doing
 in my country?
 
-229
-00:24:15,026 --> 00:24:18,306
+
+
 I called the embassy.
 Dobson's okay.
 
-230
-00:24:19,489 --> 00:24:23,049
+
+
 They're saying it was a case of
 mistaken identity.
 
-231
-00:24:23,368 --> 00:24:25,168
+
+
 He's already headed back to
 the States.
 
-232
-00:24:25,412 --> 00:24:27,132
+
+
 What about Father Jose?
 
-233
-00:24:27,956 --> 00:24:29,996
+
+
 No one has seen him.
 
-234
-00:24:30,250 --> 00:24:33,810
+
+
 I think someone is trying to
 suppress the prophecy.
 
-235
-00:24:34,129 --> 00:24:36,649
+
+
 Who'd do that, Wil? Why?
 
-236
-00:24:36,924 --> 00:24:38,724
+
+
 Certain people in the government,
 probably.
 
-237
-00:24:39,844 --> 00:24:41,364
+
+
 They view it as a threat.
 
-238
-00:24:41,596 --> 00:24:45,316
+
+
 It's not, of course,
 but they don't see that.
 
-239
-00:24:45,641 --> 00:24:47,321
+
+
 Maybe I should try to get home too.
 
-240
-00:24:47,560 --> 00:24:49,920
+
+
 If they let Dobson go,
 maybe it's safe for me to leave.
 
-241
-00:24:51,356 --> 00:24:54,196
+
+
 Or maybe you should come with me.
 
-242
-00:24:56,486 --> 00:25:00,086
+
+
 Do you suppose it was an accident
 that you came to Peru...
 
-243
-00:25:00,407 --> 00:25:02,167
+
+
 ...that you met Dobson?
 
-244
-00:25:03,452 --> 00:25:06,932
+
+
 How did you end up taking
 that particular flight?
 
-245
-00:25:07,247 --> 00:25:08,927
+
+
 Think about it.
 
-246
-00:25:09,583 --> 00:25:12,263
+
+
 Why did I see you from my window
 when I did?
 
-247
-00:25:12,837 --> 00:25:13,837
+
+
 You're gonna love this.
 
-248
-00:25:14,046 --> 00:25:16,766
+
+
 I was all set to get out of there,
 I was packed, I was ready...
 
-249
-00:25:17,049 --> 00:25:20,609
+
+
 ...and then I had this strange feeling
 I'd forgotten something.
 
-250
-00:25:22,221 --> 00:25:23,861
+
+
 That's when you showed up.
 
-251
-00:25:29,229 --> 00:25:31,469
+
+
 Are you telling me
 this is some kind of a fate thing?
 
-252
-00:25:31,731 --> 00:25:34,411
+
+
 That I'm supposed to go with you?
 For what?
 
-253
-00:25:36,069 --> 00:25:39,549
+
+
 There's part of the prophecy
 that still has to be found.
 
-254
-00:25:42,618 --> 00:25:45,898
+
+
 One more scroll. The ninth.
 
-255
-00:25:48,624 --> 00:25:50,064
+
+
 No, no, no. Forget about it.
 
-256
-00:25:50,293 --> 00:25:52,133
+
+
 I don't even know if
 I believe this stuff.
 
-257
-00:25:52,378 --> 00:25:56,538
+
+
 All I had in mind was to come to Peru
 and find Viciente. That's it.
 
-258
-00:25:57,884 --> 00:25:59,564
+
+
 Where you headed to, anyway?
 
-259
-00:26:00,094 --> 00:26:01,534
+
+
 Viciente.
 
-260
-00:26:28,291 --> 00:26:30,771
+
+
 Viciente, what's it like?
 
-261
-00:26:31,044 --> 00:26:34,404
+
+
 It's an old ranch, about 1000 acres.
 
-262
-00:26:34,756 --> 00:26:36,796
+
+
 Been in the owner's family
 for hundreds of years.
 
-263
-00:26:37,050 --> 00:26:40,010
+
+
 It goes all the way back to
 the Spanish land grants.
 
-264
-00:26:40,303 --> 00:26:41,903
+
+
 The Moors.
 
-265
-00:26:42,973 --> 00:26:45,453
+
+
 These days, it's a kind of retreat.
 
-266
-00:26:47,436 --> 00:26:49,636
+
+
 And the people there,
 they're studying the prophecy?
 
-267
-00:26:49,897 --> 00:26:51,417
+
+
 Some of them.
 
-268
-00:26:51,649 --> 00:26:52,929
+
+
 Tell me about it.
 
-269
-00:26:54,026 --> 00:26:56,986
+
+
 So far,
 we've discovered eight scrolls.
 
-270
-00:26:58,197 --> 00:27:00,797
+
+
 Each one contains a certain truth
 about our existence.
 
-271
-00:27:01,075 --> 00:27:02,995
+
+
 We call them insights.
 
-272
-00:27:03,286 --> 00:27:07,646
+
+
 Insights, the prophecy says,
 we've all gotta understand.
 
-273
-00:27:09,459 --> 00:27:13,419
+
+
 Look, I could describe these insights
 to you right now...
 
-274
-00:27:13,797 --> 00:27:15,877
+
+
 ...and you would hear my words...
 
-275
-00:27:17,217 --> 00:27:19,337
+
+
 ...but you have to do more than that.
 
-276
-00:27:21,263 --> 00:27:23,583
+
+
 You have to experience it
 for yourself.
 
-277
-00:27:23,849 --> 00:27:26,609
+
+
 The prophecy has to happen to you.
 
-278
-00:27:31,315 --> 00:27:33,595
+
+
 I have no idea
 what you're talking about.
 
-279
-00:27:35,987 --> 00:27:39,027
+
+
 I'm talking about
 seeing the world, John.
 
-280
-00:27:39,323 --> 00:27:41,363
+
+
 The way it really is.
 
-281
-00:28:00,888 --> 00:28:04,168
+
+
 You get the first insight
 when you realize...
 
-282
-00:28:04,475 --> 00:28:06,875
+
+
 ...there's a mystery
 operating out there...
 
-283
-00:28:07,144 --> 00:28:09,984
+
+
 ...moving us somewhere,
 for a reason.
 
-284
-00:28:11,399 --> 00:28:14,439
+
+
 It's there for everyone,
 but only a few notice.
 
-285
-00:28:16,195 --> 00:28:18,435
+
+
 You're talking about
 these weird coincidences?
 
-286
-00:28:18,698 --> 00:28:22,738
+
+
 Once you begin to really look,
 you start seeing them more and more.
 
-287
-00:28:23,578 --> 00:28:26,578
+
+
 Well, if it's true they have meaning,
 that would be incredible.
 
-288
-00:28:26,873 --> 00:28:30,073
+
+
 I mean, I know history.
 That would change everything.
 
-289
-00:28:30,377 --> 00:28:34,617
+
+
 That's the second insight,
 that the world is about to change.
 
-290
-00:28:36,050 --> 00:28:38,170
+
+
 What about the others?
 
-291
-00:28:40,429 --> 00:28:44,989
+
+
 In time,
 you'll open up your perception...
 
-292
-00:28:45,351 --> 00:28:46,871
+
+
 ...find your guidance.
 
-293
-00:28:47,103 --> 00:28:50,343
+
+
 You'll discover
 why you're really here.
 
-294
-00:28:52,775 --> 00:28:54,615
+
+
 What about
 the missing ninth scroll?
 
-295
-00:28:54,861 --> 00:28:57,181
+
+
 I believe it puts the others
 into perspective.
 
-296
-00:28:58,240 --> 00:29:00,280
+
+
 Shows us where it's all leading.
 
-297
-00:29:03,829 --> 00:29:06,949
+
+
 And what makes you think
 you can ever find it?
 
-298
-00:29:10,336 --> 00:29:12,776
+
+
 Because that's why I'm here.
 
-299
-00:29:38,115 --> 00:29:40,475
+
+
 Dream anything last night?
 
-300
-00:29:43,287 --> 00:29:46,487
+
+
 Yeah. Little girl
 I dreamed about before.
 
-301
-00:29:46,790 --> 00:29:48,510
+
+
 It makes no sense.
 
-302
-00:29:48,751 --> 00:29:50,071
+
+
 It's probably important.
 
-303
-00:29:51,796 --> 00:29:53,076
+
+
 Why would you say that?
 
-304
-00:29:53,297 --> 00:29:55,657
+
+
 Because regardless of
 how confusing they are...
 
-305
-00:29:55,925 --> 00:29:58,245
+
+
 ...dreams are always trying to
 tell us something.
 
-306
-00:29:59,804 --> 00:30:01,844
+
+
 Maybe you just need
 a larger perspective.
 
-307
-00:30:11,984 --> 00:30:14,144
+
+
 My God.
 
-308
-00:30:15,154 --> 00:30:17,274
+
+
 What is this place?
 
-309
-00:30:17,531 --> 00:30:19,491
+
+
 Celestine ruins.
 
-310
-00:30:20,409 --> 00:30:22,729
+
+
 They found the
 first eight scrolls there.
 
-311
-00:30:22,995 --> 00:30:25,675
+
+
 - Maybe the ninth is there too.
 - Maybe.
 
-312
-00:30:25,957 --> 00:30:27,877
+
+
 What's that over there?
 
-313
-00:30:28,167 --> 00:30:32,487
+
+
 The mission. Cardinal Sebastian
 had it rebuilt 10 years ago.
 
-314
-00:30:32,839 --> 00:30:34,439
+
+
 He's the head of the Church here.
 
-315
-00:30:34,674 --> 00:30:36,914
+
+
 Viciente, where's that?
 
-316
-00:30:38,178 --> 00:30:40,018
+
+
 In a hurry?
 
-317
-00:30:59,700 --> 00:31:01,260
+
+
 Rebels.
 
-318
-00:31:01,494 --> 00:31:03,294
+
+
 It's been going on for a while here.
 
-319
-00:31:03,788 --> 00:31:05,748
+
+
 They're trying to
 overthrow the government?
 
-320
-00:31:06,040 --> 00:31:09,120
+
+
 These things are always about
 power struggle.
 
-321
-00:31:09,752 --> 00:31:12,912
+
+
 - They're really well supplied.
 - Yeah.
 
-322
-00:31:16,134 --> 00:31:17,934
+
+
 Let's move.
 
-323
-00:31:49,377 --> 00:31:50,817
+
+
 Miguel.
 
-324
-00:31:51,797 --> 00:31:55,597
+
+
 Wil. I had a feeling you'd show up.
 
-325
-00:31:59,471 --> 00:32:01,431
+
+
 Good to see you.
 
-326
-00:32:04,268 --> 00:32:06,388
+
+
 It's good to see you, my friend.
 
-327
-00:32:06,645 --> 00:32:09,725
+
+
 Julia's already arrived
 and Father Sanchez is on his way.
 
-328
-00:32:10,024 --> 00:32:11,504
+
+
 I knew it.
 
-329
-00:32:12,276 --> 00:32:14,156
+
+
 You think it's time, don't you?
 
-330
-00:32:14,862 --> 00:32:16,982
+
+
 Yeah. I do.
 
-331
-00:32:17,240 --> 00:32:18,800
+
+
 John.
 
-332
-00:32:21,286 --> 00:32:23,886
+
+
 Meet my friend, Miguel.
 We are his guests here.
 
-333
-00:32:25,207 --> 00:32:28,967
+
+
 Hi. It's a beautiful place.
 Heck of a time getting here.
 
-334
-00:32:29,294 --> 00:32:33,214
+
+
 Yeah. We like to consider it
 our little oasis.
 
-335
-00:32:34,800 --> 00:32:37,440
+
+
 Well, look what the wind blew in.
 
-336
-00:32:37,720 --> 00:32:40,520
+
+
 Julia. Julia.
 
-337
-00:32:40,806 --> 00:32:43,526
+
+
 I saw your truck come in.
 
-338
-00:32:44,644 --> 00:32:46,484
+
+
 I'm so glad you're here.
 
-339
-00:32:46,729 --> 00:32:48,889
+
+
 Did you drive straight through?
 
-340
-00:32:49,148 --> 00:32:50,548
+
+
 - Meet John.
 - Hi.
 
-341
-00:32:50,775 --> 00:32:52,055
+
+
 - Nice to meet you.
 - Hi.
 
-342
-00:32:52,610 --> 00:32:56,210
+
+
 We've been working on the
 translations and we found something.
 
-343
-00:32:57,657 --> 00:33:01,097
+
+
 It seems to be saying that
 the ninth isn't on a scroll at all.
 
-344
-00:33:01,411 --> 00:33:03,971
+
+
 It's going to just appear.
 
-345
-00:33:05,207 --> 00:33:06,767
+
+
 Appear?
 
-346
-00:33:07,000 --> 00:33:08,840
+
+
 Could be there's something
 we have to do.
 
-347
-00:33:09,086 --> 00:33:11,406
+
+
 Something to make it happen.
 
-348
-00:33:13,007 --> 00:33:14,567
+
+
 That was some ride.
 
-349
-00:33:15,551 --> 00:33:16,871
+
+
 He's involved somehow.
 
-350
-00:33:17,094 --> 00:33:19,254
+
+
 Maybe you should talk to him.
 
-351
-00:33:50,212 --> 00:33:51,372
+
+
 It's beautiful, isn't it?
 
-352
-00:33:56,427 --> 00:33:57,667
+
+
 Come walk with me.
 
-353
-00:34:23,414 --> 00:34:25,974
+
+
 What's going on here?
 What are they doing?
 
-354
-00:34:26,250 --> 00:34:30,290
+
+
 Let's just say they're
 giving the garden their attention.
 
-355
-00:34:35,051 --> 00:34:38,011
+
+
 How much do you know about
 the prophecy?
 
-356
-00:34:38,304 --> 00:34:40,304
+
+
 Not that much, not yet.
 
-357
-00:34:43,101 --> 00:34:45,301
+
+
 Have you been having dreams?
 
-358
-00:34:45,812 --> 00:34:49,452
+
+
 Something brought you here, right?
 Synchronicity?
 
-359
-00:34:49,775 --> 00:34:51,695
+
+
 Yeah, how'd you know that?
 
-360
-00:34:52,444 --> 00:34:54,844
+
+
 Because that's how it begins
 for everyone.
 
-361
-00:34:55,114 --> 00:34:57,834
+
+
 Wil told me I had to open up,
 whatever that means.
 
-362
-00:34:59,160 --> 00:35:01,400
+
+
 And you think that's strange?
 
-363
-00:35:01,662 --> 00:35:05,582
+
+
 Well, I have no idea what
 he's talking about with that. Seriously.
 
-364
-00:35:06,167 --> 00:35:08,847
+
+
 There's much more to the world
 than you think, John.
 
-365
-00:35:10,088 --> 00:35:11,568
+
+
 A beauty...
 
-366
-00:35:12,465 --> 00:35:14,345
+
+
 ...and energy.
 
-367
-00:35:22,142 --> 00:35:25,062
+
+
 You talk about strange,
 I know that woman.
 
-368
-00:35:25,646 --> 00:35:26,966
+
+
 I saw her at the airport.
 
-369
-00:35:27,189 --> 00:35:30,389
+
+
 Go talk to her, if you'd like. I'll wait.
 
-370
-00:35:33,863 --> 00:35:36,343
+
+
 Hi. I hope I'm not disturbing you.
 
-371
-00:35:36,657 --> 00:35:39,537
+
+
 I'm John Woodson.
 Julia's showing me around.
 
-372
-00:35:41,120 --> 00:35:42,080
+
+
 Marjorie Carter.
 
-373
-00:35:50,422 --> 00:35:54,022
+
+
 Some place here, huh? I hear it goes
 all the way back to colonial times.
 
-374
-00:35:54,342 --> 00:35:59,302
+
+
 Yeah. Yeah, no, it's one of the most
 incredible spots I have ever seen.
 
-375
-00:36:07,523 --> 00:36:09,323
+
+
 I suppose you're staying here
 at the house?
 
-376
-00:36:09,608 --> 00:36:10,968
+
+
 We should get together later.
 
-377
-00:36:11,193 --> 00:36:13,073
+
+
 Talk some more about all this stuff.
 
-378
-00:36:14,155 --> 00:36:15,955
+
+
 Not this time.
 
-379
-00:36:19,160 --> 00:36:21,800
+
+
 Come on, you should do this.
 It'll be fun.
 
-380
-00:36:24,207 --> 00:36:27,287
+
+
 You can tell me all about
 what's happening here.
 
-381
-00:36:27,586 --> 00:36:29,346
+
+
 I'm interested in everything.
 
-382
-00:36:30,047 --> 00:36:33,927
+
+
 I've got a lot of work to get through.
 I'm gonna get to it.
 
-383
-00:36:34,676 --> 00:36:36,196
+
+
 Nice to meet you.
 
-384
-00:36:38,430 --> 00:36:40,190
+
+
 What was that?
 
-385
-00:36:41,350 --> 00:36:42,670
+
+
 Didn't work out too well, huh?
 
-386
-00:36:42,893 --> 00:36:45,293
+
+
 That's the understatement
 of the year.
 
-387
-00:36:45,563 --> 00:36:47,123
+
+
 What did I say?
 
-388
-00:36:47,398 --> 00:36:49,758
+
+
 It's not what you said,
 it's what you did.
 
-389
-00:36:50,443 --> 00:36:53,243
+
+
 Your energy made her feel as though
 you wanted to control her.
 
-390
-00:36:53,529 --> 00:36:54,969
+
+
 She felt dominated.
 
-391
-00:36:55,198 --> 00:36:58,438
+
+
 Oh, come on. I wasn't doing that.
 
-392
-00:36:58,743 --> 00:37:01,623
+
+
 Really? You weren't trying to
 coax her into something?
 
-393
-00:37:01,913 --> 00:37:03,433
+
+
 - No.
 - Manipulate her?
 
-394
-00:37:03,665 --> 00:37:05,625
+
+
 She isn't used to that around here.
 
-395
-00:37:05,876 --> 00:37:08,276
+
+
 That's completely nuts.
 Where are you getting this stuff?
 
-396
-00:37:08,587 --> 00:37:10,227
+
+
 I could see it.
 
-397
-00:37:11,882 --> 00:37:14,402
+
+
 Remember the halos
 the old masters used to paint...
 
-398
-00:37:14,677 --> 00:37:16,957
+
+
 ...around their religious figures?
 
-399
-00:37:17,430 --> 00:37:20,910
+
+
 You think they made those up,
 or were they seeing something real?
 
-400
-00:37:22,059 --> 00:37:24,979
+
+
 It's the energy, John.
 It reveals what we do to each other.
 
-401
-00:37:25,271 --> 00:37:28,831
+
+
 You may not be conscious of it,
 but you were taking her energy.
 
-402
-00:37:30,276 --> 00:37:32,036
+
+
 I could see it.
 
-403
-00:37:33,196 --> 00:37:34,396
+
+
 So could she.
 
-404
-00:37:44,792 --> 00:37:47,032
+
+
 How did the afternoon go?
 
-405
-00:37:48,546 --> 00:37:50,386
+
+
 I spoke to Julia.
 
-406
-00:37:50,631 --> 00:37:52,351
+
+
 So I heard.
 
-407
-00:37:52,591 --> 00:37:54,231
+
+
 <i>I got lots of questions.</i>
 
-408
-00:37:54,468 --> 00:37:56,388
+
+
 This stuff never ends, does it?
 
-409
-00:37:57,388 --> 00:38:01,148
+
+
 It's all gonna make sense,
 eventually.
 
-410
-00:38:03,186 --> 00:38:06,266
+
+
 Everyone you meet here is
 gonna show you something.
 
-411
-00:38:12,904 --> 00:38:14,904
+
+
 John and Wil. Please, join us.
 
-412
-00:38:15,157 --> 00:38:17,637
+
+
 We've got great people, great food.
 
-413
-00:38:17,910 --> 00:38:19,990
+
+
 Everything is fresh from the garden.
 
-414
-00:38:25,918 --> 00:38:27,198
+
+
 Miguel?
 
-415
-00:38:28,629 --> 00:38:31,309
+
+
 Who's that man over there,
 on the other side of the table?
 
-416
-00:38:31,591 --> 00:38:33,791
+
+
 Jensen. He's an archaeologist.
 
-417
-00:38:34,052 --> 00:38:36,612
+
+
 He's here on sabbatical.
 A friend of a friend.
 
-418
-00:38:36,888 --> 00:38:40,408
+
+
 - Would you like me to introduce you?
 - No, no, no. Never mind.
 
-419
-00:38:57,326 --> 00:39:00,166
+
+
 - I knew I'd find you here.
 - Waiting for you.
 
-420
-00:39:02,373 --> 00:39:03,933
+
+
 You seem happy.
 
-421
-00:39:04,208 --> 00:39:06,728
+
+
 I am. Really good.
 
-422
-00:39:07,003 --> 00:39:09,723
+
+
 I'm celebrating my fourth with Tom.
 
-423
-00:39:11,674 --> 00:39:16,554
+
+
 Oh, come on, Wil.
 You never had time for us anyway.
 
-424
-00:39:16,930 --> 00:39:20,850
+
+
 True. But I'm glad for you and Tom.
 
-425
-00:39:21,184 --> 00:39:24,624
+
+
 And you and I will always
 be connected.
 
-426
-00:39:26,106 --> 00:39:27,346
+
+
 University of Miami.
 
-427
-00:39:28,317 --> 00:39:30,637
+
+
 Your Hurricanes crushed
 my Bulldogs last year.
 
-428
-00:39:30,903 --> 00:39:31,983
+
+
 I'm still not over it.
 
-429
-00:39:32,196 --> 00:39:35,316
+
+
 Yeah. You got me.
 
-430
-00:39:35,616 --> 00:39:37,656
+
+
 I teach there with Julia.
 
-431
-00:39:37,910 --> 00:39:40,910
+
+
 I've been helping her with the
 translations for about a year now.
 
-432
-00:39:41,205 --> 00:39:44,285
+
+
 In fact, I was on my way back
 when you saw me.
 
-433
-00:39:44,584 --> 00:39:46,624
+
+
 That mean something,
 that I saw you?
 
-434
-00:39:46,878 --> 00:39:50,678
+
+
 Maybe. Maybe that we have
 something to talk about, actually.
 
-435
-00:39:51,007 --> 00:39:52,447
+
+
 If you believe the prophecy.
 
-436
-00:39:56,513 --> 00:39:58,633
+
+
 You were thinking
 about a child last time.
 
-437
-00:39:58,890 --> 00:40:00,810
+
+
 You were going to adopt.
 
-438
-00:40:02,269 --> 00:40:04,429
+
+
 It's not that easy.
 
-439
-00:40:04,688 --> 00:40:07,168
+
+
 We've met a few children...
 
-440
-00:40:08,400 --> 00:40:10,880
+
+
 ...but I guess it has to be
 the right one.
 
-441
-00:40:13,239 --> 00:40:15,039
+
+
 It'll happen for you.
 
-442
-00:40:20,121 --> 00:40:23,001
+
+
 Listen, I've been thinking about
 Father Jose.
 
-443
-00:40:23,458 --> 00:40:26,658
+
+
 He was too public about it.
 I tried to tell him.
 
-444
-00:40:26,962 --> 00:40:28,522
+
+
 Others have to know, Wil.
 
-445
-00:40:28,797 --> 00:40:31,437
+
+
 They have to know about
 the prophecy.
 
-446
-00:40:31,717 --> 00:40:33,397
+
+
 Your friend John, for one.
 
-447
-00:40:34,011 --> 00:40:35,491
+
+
 Yeah.
 
-448
-00:40:38,974 --> 00:40:40,694
+
+
 What do you think of him?
 
-449
-00:40:41,143 --> 00:40:42,543
+
+
 I think he'll get there.
 
-450
-00:40:44,980 --> 00:40:47,660
+
+
 Unless, of course,
 he gets too distracted.
 
-451
-00:40:47,942 --> 00:40:50,182
+
+
 Julia told me that
 you could see things happening...
 
-452
-00:40:50,445 --> 00:40:51,925
+
+
 ...when we talked in the garden.
 
-453
-00:40:52,155 --> 00:40:54,355
+
+
 I glimpsed it, I guess.
 
-454
-00:40:54,616 --> 00:40:58,456
+
+
 But to be honest,
 I felt it more than anything.
 
-455
-00:40:59,579 --> 00:41:01,939
+
+
 There's just something
 so familiar about you, I can't...
 
-456
-00:41:02,207 --> 00:41:04,727
+
+
 John, this player thing you do
 really gets in your way.
 
-457
-00:41:05,001 --> 00:41:07,521
+
+
 I'm not playing. Didn't you say
 we were supposed to talk?
 
-458
-00:41:07,796 --> 00:41:10,916
+
+
 God, it's amazing how easy it is to
 lose yourself around some people.
 
-459
-00:41:11,216 --> 00:41:12,776
+
+
 Why, are you losing yourself?
 
-460
-00:41:14,678 --> 00:41:15,958
+
+
 I'm talking about you.
 
-461
-00:41:24,689 --> 00:41:26,489
+
+
 Good night.
 
-462
-00:41:35,992 --> 00:41:38,752
+
+
 We're going to do something
 about Viciente.
 
-463
-00:41:41,123 --> 00:41:45,003
+
+
 We intend to rid this country of
 everyone involved with the prophecy.
 
-464
-00:41:46,712 --> 00:41:48,712
+
+
 The opportunity is at hand...
 
-465
-00:41:48,964 --> 00:41:51,844
+
+
 ...to destroy all
 the remaining translations.
 
-466
-00:41:53,094 --> 00:41:54,214
+
+
 Who are you working for?
 
-467
-00:41:55,221 --> 00:41:56,821
+
+
 You don't want to know.
 
-468
-00:41:57,306 --> 00:41:59,346
+
+
 Just think of them as
 powerful people...
 
-469
-00:41:59,600 --> 00:42:01,560
+
+
 ...who, like you,
 have their own agenda.
 
-470
-00:42:02,895 --> 00:42:04,935
+
+
 They are making many
 investments here in Peru...
 
-471
-00:42:05,565 --> 00:42:07,125
+
+
 ...and they demand stability.
 
-472
-00:42:08,151 --> 00:42:10,671
+
+
 We must cooperate.
 
-473
-00:42:15,325 --> 00:42:17,405
+
+
 They wouldn't be helping you with...
 
-474
-00:42:17,911 --> 00:42:19,991
+
+
 ...your own political ambitions
 as well?
 
-475
-00:42:20,706 --> 00:42:23,826
+
+
 They see the prophecy
 as disruptive.
 
-476
-00:42:24,585 --> 00:42:28,425
+
+
 And it would seem that in this matter,
 at least, your interests...
 
-477
-00:42:28,756 --> 00:42:30,756
+
+
 ...and theirs are the same.
 
-478
-00:42:37,932 --> 00:42:40,772
+
+
 Viciente will cease to be a problem.
 
-479
-00:42:42,562 --> 00:42:44,122
+
+
 It will all be over soon.
 
-480
-00:42:44,773 --> 00:42:47,733
+
+
 I'm asking you not to interfere.
 
-481
-00:42:48,110 --> 00:42:49,590
+
+
 Your Excellency.
 
-482
-00:43:04,835 --> 00:43:07,795
+
+
 You and Marjorie have
 come together for a reason, John.
 
-483
-00:43:08,131 --> 00:43:10,851
+
+
 She's showing you the
 third and fourth insights.
 
-484
-00:43:11,467 --> 00:43:13,867
+
+
 The prophecy says
 we'll stop building ourselves up...
 
-485
-00:43:14,137 --> 00:43:16,857
+
+
 ...by taking energy from others.
 
-486
-00:43:17,140 --> 00:43:22,740
+
+
 There's another source, inside.
 But we have to really connect with it.
 
-487
-00:43:23,146 --> 00:43:25,386
+
+
 That's what Wil meant
 when he said "open up."
 
-488
-00:43:25,941 --> 00:43:31,261
+
+
 And if you open up enough, it literally
 changes the way you see the world.
 
-489
-00:43:31,655 --> 00:43:35,095
+
+
 But you have to really believe
 the experience exists.
 
-490
-00:43:35,409 --> 00:43:38,209
+
+
 Open yourself to the possibility that
 there's something more...
 
-491
-00:43:38,496 --> 00:43:41,096
+
+
 ...right here in front of your eyes.
 
-492
-00:43:50,967 --> 00:43:52,807
+
+
 Did you see that?
 
-493
-00:43:56,348 --> 00:43:58,908
+
+
 Come on. I wanna show you
 something over here.
 
-494
-00:44:08,611 --> 00:44:11,251
+
+
 Wow, Julia, this place is so alive.
 
-495
-00:44:11,864 --> 00:44:13,304
+
+
 It's amazing.
 
-496
-00:44:14,367 --> 00:44:16,767
+
+
 Have a seat. Let's try something.
 
-497
-00:44:20,790 --> 00:44:22,790
+
+
 Put your fingers together like this.
 
-498
-00:44:25,211 --> 00:44:26,971
+
+
 - Okay.
 - Go ahead.
 
-499
-00:44:27,464 --> 00:44:29,664
+
+
 You're gonna look at the space
 between your fingers.
 
-500
-00:44:32,386 --> 00:44:35,746
+
+
 Relax your focus just a bit.
 What do you see?
 
-501
-00:44:38,767 --> 00:44:40,407
+
+
 Look closely.
 
-502
-00:44:41,729 --> 00:44:43,889
+
+
 Let your eyes
 go out of focus just a bit.
 
-503
-00:44:47,568 --> 00:44:48,848
+
+
 What do you see?
 
-504
-00:44:51,656 --> 00:44:53,936
+
+
 It's like a wisp of smoke
 or something.
 
-505
-00:44:54,200 --> 00:44:57,040
+
+
 That's the energy. Now look around.
 
-506
-00:44:59,080 --> 00:45:01,000
+
+
 See that philodendron?
 
-507
-00:45:01,291 --> 00:45:04,971
+
+
 It's the opposite of trying to make
 something happen. Just let go.
 
-508
-00:45:06,588 --> 00:45:08,148
+
+
 Take in the plant.
 
-509
-00:45:09,174 --> 00:45:13,574
+
+
 The beauty, the color,
 the way it stands out with presence.
 
-510
-00:45:15,097 --> 00:45:16,537
+
+
 That's it.
 
-511
-00:45:19,852 --> 00:45:21,532
+
+
 Breathe it in.
 
-512
-00:45:22,271 --> 00:45:24,511
+
+
 Now take in more beauty.
 
-513
-00:45:26,192 --> 00:45:27,992
+
+
 That's amazing.
 
-514
-00:45:28,611 --> 00:45:31,011
+
+
 That's... Oh, hold on. I lost it.
 
-515
-00:45:31,489 --> 00:45:32,849
+
+
 Here.
 
-516
-00:45:35,035 --> 00:45:35,995
+
+
 Try again.
 
-517
-00:45:41,750 --> 00:45:44,190
+
+
 Wow, that's incredible!
 
-518
-00:45:44,962 --> 00:45:46,282
+
+
 Senor!
 
-519
-00:45:47,381 --> 00:45:49,541
+
+
 Keep your focus, John.
 You have to get this.
 
-520
-00:45:49,800 --> 00:45:52,640
+
+
 Senor John! Senor John!
 
-521
-00:45:53,471 --> 00:45:55,791
+
+
 Senor, the gentleman
 in the second cottage...
 
-522
-00:45:56,057 --> 00:45:57,697
+
+
 ...he need to speak to you
 immediately.
 
-523
-00:45:57,975 --> 00:45:59,735
+
+
 He says very important.
 
-524
-00:46:12,199 --> 00:46:14,239
+
+
 - John.
 - Hi.
 
-525
-00:46:14,493 --> 00:46:16,733
+
+
 Miguel told me all about you.
 
-526
-00:46:17,746 --> 00:46:20,666
+
+
 Listen, there's something
 I have to talk to you about.
 
-527
-00:46:22,334 --> 00:46:23,654
+
+
 How much do you know about Wil?
 
-528
-00:46:24,169 --> 00:46:27,449
+
+
 Wil. I only just recently met him.
 
-529
-00:46:27,840 --> 00:46:31,720
+
+
 I'm sorry, but I have to tell you
 Wil is wanted by the military police.
 
-530
-00:46:32,678 --> 00:46:34,078
+
+
 What are you talking about?
 
-531
-00:46:34,347 --> 00:46:36,947
+
+
 They are on the way
 to arrest him now.
 
-532
-00:46:37,600 --> 00:46:40,720
+
+
 But if you allow me, I can help you.
 
-533
-00:46:41,020 --> 00:46:42,340
+
+
 How can you help me?
 
-534
-00:46:44,858 --> 00:46:47,578
+
+
 Peru is a very dangerous place
 for someone all alone.
 
-535
-00:46:47,861 --> 00:46:49,701
+
+
 In over his head.
 
-536
-00:46:51,239 --> 00:46:53,439
+
+
 I have official clearance
 to study the prophecy.
 
-537
-00:46:53,700 --> 00:46:55,460
+
+
 I can move around freely.
 
-538
-00:46:55,702 --> 00:46:59,182
+
+
 But I need you to tell me what
 you know. Where's the missing scroll?
 
-539
-00:47:01,083 --> 00:47:02,043
+
+
 I don't know anything.
 
-540
-00:47:04,045 --> 00:47:05,805
+
+
 But you're one of them, John.
 
-541
-00:47:06,047 --> 00:47:08,287
+
+
 They all accept you.
 You must know something.
 
-542
-00:47:08,549 --> 00:47:10,589
+
+
 I can even get you back
 to the United States...
 
-543
-00:47:10,885 --> 00:47:12,845
+
+
 ...if that's what you want.
 
-544
-00:47:13,888 --> 00:47:16,888
+
+
 But you have to leave with me
 right now, before the soldiers come.
 
-545
-00:47:19,686 --> 00:47:22,006
+
+
 John. John.
 
-546
-00:47:23,064 --> 00:47:24,144
+
+
 John.
 
-547
-00:47:25,776 --> 00:47:29,736
+
+
 John. We have to go.
 
-548
-00:47:30,072 --> 00:47:31,672
+
+
 Don't listen to him.
 
-549
-00:47:31,907 --> 00:47:34,867
+
+
 Your survival depends
 on your staying with me.
 
-550
-00:47:39,248 --> 00:47:40,848
+
+
 Are you coming?
 
-551
-00:47:48,925 --> 00:47:50,485
+
+
 Yeah.
 
-552
-00:47:52,429 --> 00:47:54,469
+
+
 You're making a bad mistake,
 both of you.
 
-553
-00:47:54,764 --> 00:47:57,644
+
+
 He was undermining your confidence.
 Taking your energy.
 
-554
-00:47:57,934 --> 00:48:00,894
+
+
 Now you know what it feels like
 when someone does it to you.
 
-555
-00:48:01,188 --> 00:48:03,348
+
+
 I felt weak. I couldn't think.
 
-556
-00:48:03,607 --> 00:48:05,687
+
+
 He's just a remote controller.
 
-557
-00:48:05,943 --> 00:48:08,063
+
+
 But you're probably
 gonna have to deal with him...
 
-558
-00:48:08,320 --> 00:48:10,280
+
+
 ...so you'd better figure it out.
 
-559
-00:48:10,906 --> 00:48:14,866
+
+
 Wait. Is that in the prophecy too?
 
-560
-00:48:15,286 --> 00:48:18,766
+
+
 There's a world of energy
 that we are all going to understand.
 
-561
-00:48:19,123 --> 00:48:22,603
+
+
 It's the real human condition.
 Energy is what we all want.
 
-562
-00:48:22,919 --> 00:48:25,199
+
+
 But we're stuck
 battling for it with each other...
 
-563
-00:48:25,463 --> 00:48:27,903
+
+
 ...instead of finding it in ourselves.
 
-564
-00:48:28,216 --> 00:48:30,376
+
+
 That's what you
 still have to do, John.
 
-565
-00:48:30,844 --> 00:48:33,084
+
+
 You haven't really
 opened up, you know.
 
-566
-00:48:33,346 --> 00:48:34,986
+
+
 Wil. Wil.
 
-567
-00:48:36,308 --> 00:48:38,508
+
+
 John. The military is on its way.
 
-568
-00:48:38,769 --> 00:48:41,329
+
+
 You need to leave.
 Go while the north road is still open.
 
-569
-00:48:41,605 --> 00:48:44,045
+
+
 - What about Julia and Marjorie?
 - They've already left.
 
-570
-00:48:44,316 --> 00:48:47,036
+
+
 You'll be behind them. I'm gonna
 go to Lima, see the president.
 
-571
-00:48:47,319 --> 00:48:48,919
+
+
 Maybe something can still be done.
 
-572
-00:48:49,155 --> 00:48:51,675
+
+
 - Listen, you remember my cabin?
 - In the rain forest, yes.
 
-573
-00:48:51,991 --> 00:48:54,671
+
+
 It's probably the safest place
 for you now.
 
-574
-00:48:55,161 --> 00:48:56,561
+
+
 Wil.
 
-575
-00:48:58,373 --> 00:49:01,693
+
+
 - Finish this thing.
 - Yes.
 
-576
-00:49:03,837 --> 00:49:05,437
+
+
 Good luck, Miguel.
 
-577
-00:49:21,939 --> 00:49:24,419
+
+
 Forgive me for what
 I've allowed to happen.
 
-578
-00:50:12,242 --> 00:50:14,322
+
+
 Remember I told you
 the way to Miguel's place?
 
-579
-00:50:14,578 --> 00:50:15,978
+
+
 Yeah?
 
-580
-00:50:17,080 --> 00:50:21,040
+
+
 If anything happens, you go there.
 They'll need your help.
 
-581
-00:50:21,710 --> 00:50:24,430
+
+
 - What about you?
 - I have to keep going.
 
-582
-00:50:24,922 --> 00:50:27,242
+
+
 I thought you were here
 to find the ninth insight.
 
-583
-00:50:27,508 --> 00:50:29,468
+
+
 Nothing's changed.
 
-584
-00:50:30,761 --> 00:50:33,521
+
+
 Just keep learning, John.
 You'll find help.
 
-585
-00:50:33,806 --> 00:50:34,846
+
+
 There's always help.
 
-586
-00:50:35,099 --> 00:50:37,579
+
+
 The right person
 will come along if you stay alert.
 
-587
-00:50:38,519 --> 00:50:40,359
+
+
 Something will happen for you.
 
-588
-00:50:59,792 --> 00:51:01,232
+
+
 What was that?
 
-589
-00:51:03,671 --> 00:51:07,031
+
+
 Rebels. Sit tight.
 
-590
-00:51:08,509 --> 00:51:10,469
+
+
 It's Julia's car.
 
-591
-00:52:18,708 --> 00:52:20,148
+
+
 My leg.
 
-592
-00:52:21,419 --> 00:52:22,819
+
+
 Wait, wait!
 
-593
-00:52:23,338 --> 00:52:25,458
+
+
 - Julia!
 - I'm okay. Find the cabin.
 
-594
-00:52:25,715 --> 00:52:27,915
+
+
 I've got the translations.
 
-595
-00:52:39,730 --> 00:52:41,250
+
+
 How you feeling?
 
-596
-00:52:41,899 --> 00:52:43,379
+
+
 - I'm terrified.
 - You need to rest?
 
-597
-00:52:43,609 --> 00:52:45,969
+
+
 No, no, let's keep going.
 
-598
-00:52:47,571 --> 00:52:49,651
+
+
 - Is that Wil?
 - What?
 
-599
-00:52:49,907 --> 00:52:51,547
+
+
 - Stay here.
 - No, no, John...
 
-600
-00:52:51,784 --> 00:52:53,504
+
+
 I said, stay here!
 
-601
-00:53:02,587 --> 00:53:03,547
+
+
 John!
 
-602
-00:53:06,842 --> 00:53:09,642
+
+
 - John! Run!
 - Marjorie!
 
-603
-00:54:12,661 --> 00:54:16,581
+
+
 <i>Saint Francis could see beauty
 where others couldn't. </i>
 
-604
-00:55:57,938 --> 00:56:01,738
+
+
 I'm Father Sanchez. I can help you.
 
-605
-00:56:06,446 --> 00:56:09,046
+
+
 I remember you
 from a photograph I saw.
 
-606
-00:56:09,325 --> 00:56:10,805
+
+
 You and Father Jose.
 
-607
-00:56:11,035 --> 00:56:13,835
+
+
 Don't forget Wil. He was also there.
 
-608
-00:56:14,121 --> 00:56:17,201
+
+
 Wil told me if I needed help,
 someone would show up.
 
-609
-00:56:18,376 --> 00:56:20,256
+
+
 I guess he meant you.
 
-610
-00:56:24,340 --> 00:56:26,820
+
+
 Tell me what happened
 on the cliffs, John.
 
-611
-00:56:29,012 --> 00:56:31,172
+
+
 I knew I was gonna die...
 
-612
-00:56:33,725 --> 00:56:35,685
+
+
 ...so I just let go.
 
-613
-00:56:37,980 --> 00:56:39,780
+
+
 Waited for the bullets.
 
-614
-00:56:43,485 --> 00:56:46,805
+
+
 Then everything
 began to change and I felt this...
 
-615
-00:56:47,406 --> 00:56:49,246
+
+
 You had an amazing experience,
 my friend.
 
-616
-00:56:49,492 --> 00:56:52,452
+
+
 You opened up. You are changed.
 
-617
-00:56:53,037 --> 00:56:54,437
+
+
 Did Wil explain this to you?
 
-618
-00:56:56,332 --> 00:56:57,612
+
+
 He tried. I couldn't get it.
 
-619
-00:56:57,834 --> 00:56:59,634
+
+
 Oh, you got more than you think.
 
-620
-00:57:00,169 --> 00:57:01,929
+
+
 Tell me what you know.
 
-621
-00:57:03,673 --> 00:57:05,393
+
+
 You mean the insights?
 
-622
-00:57:09,346 --> 00:57:14,466
+
+
 Well, the first and the second
 are about noticing the coincidences.
 
-623
-00:57:14,852 --> 00:57:17,052
+
+
 Things happen for a reason.
 
-624
-00:57:18,480 --> 00:57:21,240
+
+
 They're waking us up,
 showing us the energy.
 
-625
-00:57:22,026 --> 00:57:23,786
+
+
 And that's the third
 and the fourth, right?
 
-626
-00:57:24,028 --> 00:57:26,748
+
+
 I mean, that it's real
 and people battle for it.
 
-627
-00:57:27,031 --> 00:57:28,951
+
+
 Causes all the conflict in the world.
 
-628
-00:57:29,200 --> 00:57:31,160
+
+
 Between nations,
 in the workplace, families.
 
-629
-00:57:31,411 --> 00:57:33,291
+
+
 There's only one solution.
 
-630
-00:57:34,914 --> 00:57:36,514
+
+
 Opening up.
 
-631
-00:57:37,459 --> 00:57:39,419
+
+
 Finding our own energy.
 
-632
-00:57:39,836 --> 00:57:41,276
+
+
 Fifth insight.
 
-633
-00:57:41,546 --> 00:57:43,306
+
+
 Connects you
 with the one true source:
 
-634
-00:57:43,548 --> 00:57:45,108
+
+
 The real world.
 
-635
-00:57:46,385 --> 00:57:48,225
+
+
 But I lost it. Why?
 
-636
-00:57:48,470 --> 00:57:50,150
+
+
 Well, the prophecy says...
 
-637
-00:57:50,889 --> 00:57:53,569
+
+
 ...when you find this true connection
 with the energy of God...
 
-638
-00:57:53,851 --> 00:57:56,131
+
+
 ...it's like a glimpse into the future.
 
-639
-00:57:56,729 --> 00:58:00,689
+
+
 One day, we'll all see that way,
 live in that world.
 
-640
-00:58:01,067 --> 00:58:04,427
+
+
 But now it's a difficult thing
 for anyone to maintain.
 
-641
-00:58:04,779 --> 00:58:06,699
+
+
 We are evolving in that direction.
 
-642
-00:58:07,615 --> 00:58:10,055
+
+
 I saw the world's evolution.
 
-643
-00:58:12,036 --> 00:58:14,116
+
+
 How it all came to be.
 
-644
-00:58:14,372 --> 00:58:17,612
+
+
 My life seemed to be a part
 of everything, right up to now.
 
-645
-00:58:18,001 --> 00:58:21,481
+
+
 Everything made sense.
 Growing up at the lake...
 
-646
-00:58:22,339 --> 00:58:24,779
+
+
 ...working with kids,
 trying to understand history.
 
-647
-00:58:25,092 --> 00:58:27,172
+
+
 I spent my life
 thinking there was something more.
 
-648
-00:58:27,428 --> 00:58:31,908
+
+
 That's the sixth insight. It says we are
 part of a larger flow of evolution.
 
-649
-00:58:32,266 --> 00:58:33,906
+
+
 We are here to do something.
 
-650
-00:58:34,143 --> 00:58:36,143
+
+
 And if we are true to that purpose...
 
-651
-00:58:36,395 --> 00:58:39,155
+
+
 ...we'll help move humanity
 towards the world you saw.
 
-652
-00:58:39,440 --> 00:58:41,360
+
+
 But I don't know
 what I'm supposed to do.
 
-653
-00:58:41,609 --> 00:58:43,369
+
+
 That's because
 you're not through yet.
 
-654
-00:58:44,696 --> 00:58:47,456
+
+
 How to know what to do next
 is the seventh.
 
-655
-00:58:48,950 --> 00:58:50,790
+
+
 You have to discover your guidance.
 
-656
-00:58:53,622 --> 00:58:54,902
+
+
 You're talking about hunches?
 
-657
-00:58:56,875 --> 00:58:58,515
+
+
 Intuitions? I've seen Wil have those.
 
-658
-00:58:58,794 --> 00:59:02,114
+
+
 If you stay alert,
 you'll notice certain ideas...
 
-659
-00:59:02,423 --> 00:59:03,983
+
+
 ...images coming into your mind.
 
-660
-00:59:04,216 --> 00:59:06,136
+
+
 They're there to guide you.
 
-661
-00:59:06,635 --> 00:59:09,795
+
+
 Follow them and the coincidences
 begin to increase.
 
-662
-00:59:10,097 --> 00:59:11,817
+
+
 Just step into the flow.
 
-663
-00:59:12,058 --> 00:59:14,258
+
+
 I don't think I've ever
 experienced that before.
 
-664
-00:59:14,519 --> 00:59:17,599
+
+
 You just need to open the door again.
 Get some more energy.
 
-665
-00:59:17,897 --> 00:59:19,537
+
+
 You remember
 how you felt on the cliff?
 
-666
-00:59:19,774 --> 00:59:20,934
+
+
 How the world looked?
 
-667
-00:59:22,360 --> 00:59:24,520
+
+
 Just breathe in the memory.
 
-668
-00:59:45,134 --> 00:59:46,934
+
+
 You were daydreaming.
 
-669
-00:59:48,012 --> 00:59:49,972
+
+
 Yeah, I guess I was.
 
-670
-00:59:51,224 --> 00:59:52,944
+
+
 What was coming to you?
 
-671
-00:59:55,520 --> 00:59:57,720
+
+
 I was thinking about Marjorie.
 
-672
-00:59:58,773 --> 01:00:01,333
+
+
 How it's my fault
 that she got captured.
 
-673
-01:00:02,069 --> 01:00:03,949
+
+
 What all were you seeing?
 
-674
-01:00:05,197 --> 01:00:07,757
+
+
 - I don't know.
 - No, come on, think.
 
-675
-01:00:08,033 --> 01:00:09,953
+
+
 Most people
 overlook these experiences.
 
-676
-01:00:11,912 --> 01:00:15,032
+
+
 Well, it's the same thing
 I saw yesterday on the mountain.
 
-677
-01:00:15,541 --> 01:00:17,541
+
+
 And it felt like the future.
 
-678
-01:00:21,172 --> 01:00:26,652
+
+
 She was in this place,
 surrounded by dense jungle.
 
-679
-01:00:27,971 --> 01:00:29,411
+
+
 Go on.
 
-680
-01:00:30,181 --> 01:00:32,261
+
+
 Well, she was looking at something.
 
-681
-01:00:33,727 --> 01:00:36,447
+
+
 A small flower.
 A small yellow flower.
 
-682
-01:00:37,189 --> 01:00:38,829
+
+
 Well, that's clear enough.
 
-683
-01:00:40,400 --> 01:00:42,000
+
+
 Yeah, clear as mud.
 
-684
-01:00:42,236 --> 01:00:43,796
+
+
 You know you have to do something.
 
-685
-01:00:44,071 --> 01:00:45,511
+
+
 Except you don't know what.
 
-686
-01:00:45,739 --> 01:00:47,299
+
+
 Then you have
 this image of Marjorie.
 
-687
-01:00:47,575 --> 01:00:50,895
+
+
 Well, that little daydream of yours
 was a guidance.
 
-688
-01:00:52,246 --> 01:00:54,446
+
+
 Okay. I'll buy that.
 
-689
-01:00:56,459 --> 01:00:58,219
+
+
 What's it saying?
 
-690
-01:00:59,170 --> 01:01:01,370
+
+
 You saw her in the rain forest?
 
-691
-01:01:02,924 --> 01:01:06,924
+
+
 Well, the rain forest is that way.
 
-692
-01:01:07,971 --> 01:01:10,611
+
+
 I don't know if I should do this.
 Maybe I should go with you.
 
-693
-01:01:10,932 --> 01:01:12,892
+
+
 There's no need. I can find Julia.
 
-694
-01:01:13,143 --> 01:01:17,983
+
+
 You have to go your own way.
 Follow your own intuition alone.
 
-695
-01:01:18,357 --> 01:01:21,157
+
+
 We can't do anything without Marjorie,
 so get moving. Find her.
 
-696
-01:01:21,443 --> 01:01:22,723
+
+
 I'll see you at Miguel's cabin.
 
-697
-01:01:22,945 --> 01:01:24,705
+
+
 Find her?
 I don't know where I'm going!
 
-698
-01:01:24,947 --> 01:01:28,467
+
+
 None of us know where we're going.
 Not really. Just listen inside.
 
-699
-01:01:28,784 --> 01:01:33,024
+
+
 Pay attention to the way things look.
 Something will happen.
 
-700
-01:02:51,663 --> 01:02:54,903
+
+
 Father Jose?
 We thought you were dead.
 
-701
-01:02:55,208 --> 01:02:59,568
+
+
 Well, things are not always
 as they seem, John.
 
-702
-01:03:01,131 --> 01:03:04,891
+
+
 I thought I was on the right path.
 I guess I made a mistake.
 
-703
-01:03:05,219 --> 01:03:08,099
+
+
 <i>It's a mistake
 to think the worst too quickly.</i>
 
-704
-01:03:08,389 --> 01:03:12,789
+
+
 Always find the deeper meaning,
 the silver lining.
 
-705
-01:03:14,061 --> 01:03:16,701
+
+
 That's what keeps you in the flow.
 
-706
-01:04:15,334 --> 01:04:17,814
+
+
 - Marjorie.
 - John.
 
-707
-01:04:21,048 --> 01:04:24,648
+
+
 I don't know how this is happening.
 It's just...
 
-708
-01:04:27,805 --> 01:04:28,885
+
+
 Don't worry.
 
-709
-01:04:29,307 --> 01:04:31,747
+
+
 - We're gonna get out of here.
 - Okay.
 
-710
-01:05:42,509 --> 01:05:46,189
+
+
 Okay. What now?
 
-711
-01:06:55,710 --> 01:06:57,550
+
+
 This is it.
 
-712
-01:07:00,048 --> 01:07:01,208
+
+
 Thank you.
 
-713
-01:07:04,762 --> 01:07:06,082
+
+
 Okay.
 
-714
-01:07:13,312 --> 01:07:15,032
+
+
 Okay.
 
-715
-01:07:17,942 --> 01:07:20,742
+
+
 All right, I've been to Miguel's cabin
 once before and I...
 
-716
-01:07:24,491 --> 01:07:26,451
+
+
 Wanna know what I think?
 
-717
-01:07:26,826 --> 01:07:29,986
+
+
 I think we should make for the border
 and get out of Peru while we can.
 
-718
-01:07:30,288 --> 01:07:31,768
+
+
 Have you forgotten why we're here?
 
-719
-01:07:31,999 --> 01:07:35,199
+
+
 We could try to contact the others
 when we get there. No more shooting.
 
-720
-01:07:35,502 --> 01:07:38,702
+
+
 John, you're past this.
 Listen to yourself.
 
-721
-01:07:39,006 --> 01:07:41,126
+
+
 Now, I promise you,
 I can find this place.
 
-722
-01:07:41,383 --> 01:07:43,383
+
+
 You just give me a minute, all right?
 
-723
-01:07:46,514 --> 01:07:48,074
+
+
 - No.
 - Hold on.
 
-724
-01:07:48,307 --> 01:07:49,947
+
+
 - It's too dangerous. Marjorie.
 - Hold on.
 
-725
-01:07:50,184 --> 01:07:52,704
+
+
 - Will you talk to me, please?
 - You don't wanna talk.
 
-726
-01:07:53,021 --> 01:07:56,101
+
+
 To talk, you'd have to actually listen
 to what another person is feeling.
 
-727
-01:07:56,399 --> 01:07:58,159
+
+
 - You're dense as a post.
 - I'm trying to...
 
-728
-01:07:58,401 --> 01:08:00,601
+
+
 You're controlling, John,
 because you're scared...
 
-729
-01:08:00,862 --> 01:08:03,142
+
+
 ...and it's wearing me down.
 It can't happen anymore.
 
-730
-01:08:03,406 --> 01:08:07,406
+
+
 Not if I can help it. L...
 John. Leave me alone.
 
-731
-01:08:50,873 --> 01:08:53,633
+
+
 Hey, what took you so long?
 Julia! They're here.
 
-732
-01:08:53,918 --> 01:08:55,278
+
+
 You did it.
 
-733
-01:08:59,382 --> 01:09:02,902
+
+
 - What's going on?
 - Oh, it's okay. Don't ask.
 
-734
-01:09:06,765 --> 01:09:09,765
+
+
 Come on, John, you did great.
 Come on in.
 
-735
-01:09:29,622 --> 01:09:32,422
+
+
 Come on, give me another chance.
 
-736
-01:09:34,585 --> 01:09:37,145
+
+
 You're the one that's supposed to be
 good at all this stuff.
 
-737
-01:09:37,463 --> 01:09:41,343
+
+
 You are not making this easy on me.
 I am doing the best I can...
 
-738
-01:09:41,676 --> 01:09:43,356
+
+
 ...but I don't have it figured out yet.
 
-739
-01:09:43,595 --> 01:09:46,355
+
+
 You can start by calming down.
 
-740
-01:09:51,812 --> 01:09:54,692
+
+
 I can be a little
 hard-edged sometimes.
 
-741
-01:09:58,402 --> 01:10:00,522
+
+
 I've always gotten lost
 in other people.
 
-742
-01:10:00,780 --> 01:10:03,740
+
+
 Guys. Mostly the charming ones.
 
-743
-01:10:04,033 --> 01:10:07,113
+
+
 Not stood my ground
 when it was really important...
 
-744
-01:10:07,411 --> 01:10:09,051
+
+
 ...and I vowed to myself,
 not anymore...
 
-745
-01:10:09,330 --> 01:10:13,010
+
+
 ...and then you come along,
 like it's some kind of test for me, and...
 
-746
-01:10:13,543 --> 01:10:18,943
+
+
 ...I just get angry because I don't
 wanna slide backwards, John.
 
-747
-01:10:19,341 --> 01:10:20,781
+
+
 Neither do I.
 
-748
-01:10:21,343 --> 01:10:24,543
+
+
 That's why I wanna find out exactly
 what happened and get through this.
 
-749
-01:10:25,889 --> 01:10:28,449
+
+
 The couple thing is the hardest thing
 to work out.
 
-750
-01:10:28,725 --> 01:10:30,645
+
+
 Especially if the relationship
 is familiar...
 
-751
-01:10:30,894 --> 01:10:33,254
+
+
 ...if it feels
 like I've known you before.
 
-752
-01:10:37,651 --> 01:10:39,771
+
+
 Did you think I didn't feel it?
 
-753
-01:10:48,121 --> 01:10:52,001
+
+
 When couples first meet, usually
 there is this wonderful feeling...
 
-754
-01:10:52,334 --> 01:10:54,294
+
+
 ...but it almost never lasts.
 
-755
-01:10:54,920 --> 01:10:57,080
+
+
 One person gets insecure
 and starts controlling...
 
-756
-01:10:57,339 --> 01:10:59,819
+
+
 ...wanting more
 from the other person, and...
 
-757
-01:11:00,092 --> 01:11:05,172
+
+
 ...the other one gets threatened
 and backs away...
 
-758
-01:11:05,556 --> 01:11:09,036
+
+
 ...and it leads to a power struggle.
 - It doesn't have to be that way.
 
-759
-01:11:12,104 --> 01:11:13,824
+
+
 No, it doesn't.
 
-760
-01:11:14,899 --> 01:11:16,539
+
+
 I mean...
 
-761
-01:11:17,860 --> 01:11:19,900
+
+
 ...if both people stay connected...
 
-762
-01:11:20,154 --> 01:11:23,154
+
+
 ...then whoever has
 the strongest intuition leads...
 
-763
-01:11:23,450 --> 01:11:26,930
+
+
 ...and there's no competition.
 
-764
-01:11:27,621 --> 01:11:30,301
+
+
 Control is shared,
 and that's the relationship I want.
 
-765
-01:11:30,582 --> 01:11:33,502
+
+
 That's just it,
 I can't stay connected.
 
-766
-01:11:36,213 --> 01:11:39,533
+
+
 I want to, but I'm not there yet.
 
-767
-01:11:40,259 --> 01:11:41,899
+
+
 But there is a way, John.
 
-768
-01:11:42,136 --> 01:11:45,296
+
+
 And we all have to work on
 doing this one critical thing.
 
-769
-01:11:45,598 --> 01:11:49,078
+
+
 It's what I need to remember
 instead of getting angry all the time.
 
-770
-01:11:51,395 --> 01:11:54,115
+
+
 I mean, that's the eighth insight.
 
-771
-01:11:55,858 --> 01:11:57,018
+
+
 Come here.
 
-772
-01:11:59,612 --> 01:12:05,372
+
+
 It says that instead of taking energy
 from each other, you give it.
 
-773
-01:12:05,786 --> 01:12:08,786
+
+
 All the time, no matter what.
 
-774
-01:12:12,626 --> 01:12:15,066
+
+
 Like Father Sanchez is doing.
 
-775
-01:12:16,630 --> 01:12:18,150
+
+
 Look at him, John.
 
-776
-01:12:19,133 --> 01:12:20,933
+
+
 Really look.
 
-777
-01:12:31,563 --> 01:12:33,883
+
+
 Giving energy is a process.
 
-778
-01:12:34,149 --> 01:12:37,229
+
+
 When someone's energy increases,
 you can see it in their expression.
 
-779
-01:12:37,819 --> 01:12:40,139
+
+
 So you look
 for that higher expression.
 
-780
-01:12:40,405 --> 01:12:42,525
+
+
 And in every situation...
 
-781
-01:12:42,783 --> 01:12:46,943
+
+
 ...you know your energy is moving
 into them when you get a feeling.
 
-782
-01:12:47,955 --> 01:12:49,115
+
+
 A feeling?
 
-783
-01:12:49,331 --> 01:12:53,451
+
+
 On the cliff, when you opened up,
 remember? What did you feel?
 
-784
-01:12:55,504 --> 01:12:58,784
+
+
 I felt a kind of completeness.
 
-785
-01:12:59,467 --> 01:13:01,387
+
+
 A wholeness. This...
 
-786
-01:13:03,096 --> 01:13:05,416
+
+
 This unmatched euphoria.
 
-787
-01:13:07,600 --> 01:13:09,680
+
+
 - You're talking about love, aren't you?
 - Yes.
 
-788
-01:13:10,437 --> 01:13:12,717
+
+
 Giving is the secret
 to keeping yourself connected...
 
-789
-01:13:12,981 --> 01:13:15,261
+
+
 ...because your energy, your love...
 
-790
-01:13:15,609 --> 01:13:18,769
+
+
 ...builds up in you first
 as it flows out to others.
 
-791
-01:13:19,071 --> 01:13:21,791
+
+
 It's what the saints
 have always known how to do.
 
-792
-01:13:22,366 --> 01:13:24,966
+
+
 It's what you and I have to do now
 to help them.
 
-793
-01:13:44,472 --> 01:13:46,192
+
+
 Wait a minute.
 
-794
-01:13:47,601 --> 01:13:49,521
+
+
 Maybe we're misreading this.
 
-795
-01:13:49,770 --> 01:13:51,370
+
+
 Father Sanchez, John, come here.
 
-796
-01:13:51,605 --> 01:13:54,085
+
+
 I found something
 in the translations.
 
-797
-01:13:54,399 --> 01:13:57,719
+
+
 Look at this. This phrase:
 
-798
-01:14:00,990 --> 01:14:04,830
+
+
 - What does it mean?
 - It means, roughly, to amplify.
 
-799
-01:14:05,202 --> 01:14:09,202
+
+
 I thought it just referred to one person
 giving energy to another.
 
-800
-01:14:09,999 --> 01:14:12,199
+
+
 But now I think it's something more.
 
-801
-01:14:14,963 --> 01:14:18,083
+
+
 <i>It's one thing to just give energy... </i>
 
-802
-01:14:18,383 --> 01:14:22,263
+
+
 <i>... but if we give it to someone
 who is also giving it back... </i>
 
-803
-01:14:22,596 --> 01:14:26,396
+
+
 <i>... then we build energy
 among ourselves. </i>
 
-804
-01:14:27,768 --> 01:14:31,448
+
+
 <i>It amplifies, back and forth. </i>
 
-805
-01:14:34,942 --> 01:14:37,062
+
+
 <i>It says if we were all doing this... </i>
 
-806
-01:14:37,319 --> 01:14:40,359
+
+
 <i>... humanity would take another step
 in evolution. </i>
 
-807
-01:14:46,955 --> 01:14:49,155
+
+
 Does it say where we'll go?
 
-808
-01:14:50,041 --> 01:14:52,961
+
+
 <i>Maybe that's what the ninth
 is going to tell us. </i>
 
-809
-01:14:58,759 --> 01:15:02,119
+
+
 That's it. Isn't it?
 
-810
-01:15:04,473 --> 01:15:06,633
+
+
 That's where it's gonna happen.
 
-811
-01:15:24,369 --> 01:15:26,049
+
+
 Hey, John, we have to get going.
 
-812
-01:15:31,751 --> 01:15:34,191
+
+
 It'll take about two hours
 to get to the ruins from here.
 
-813
-01:15:34,463 --> 01:15:36,823
+
+
 Does anyone know
 exactly where to start looking?
 
-814
-01:15:41,220 --> 01:15:43,580
+
+
 There's someone who knows
 exactly where to look.
 
-815
-01:16:51,293 --> 01:16:54,573
+
+
 You got it all, John.
 All the prophecy that we know.
 
-816
-01:16:54,880 --> 01:16:56,440
+
+
 You've caught up.
 
-817
-01:17:04,432 --> 01:17:06,712
+
+
 Now you live in our world.
 
-818
-01:17:24,328 --> 01:17:28,728
+
+
 You could just let it go.
 You don't owe anything to anyone.
 
-819
-01:17:30,626 --> 01:17:33,986
+
+
 No, you go ahead.
 I'll catch up with you.
 
-820
-01:17:37,133 --> 01:17:39,293
+
+
 I think I have to go with him.
 
-821
-01:17:47,644 --> 01:17:51,284
+
+
 - So why have you come here?
 - To seek reconciliation.
 
-822
-01:17:51,606 --> 01:17:53,446
+
+
 I want you to understand
 the course I chose.
 
-823
-01:17:53,692 --> 01:17:57,292
+
+
 There's nothing to understand.
 All this talk about prophecy must end.
 
-824
-01:17:57,613 --> 01:17:59,653
+
+
 The people have the right
 to know what it says.
 
-825
-01:18:00,157 --> 01:18:03,277
+
+
 It makes our religion,
 it makes every religion, come alive.
 
-826
-01:18:03,911 --> 01:18:05,071
+
+
 - Really?
 - Of course.
 
-827
-01:18:05,329 --> 01:18:08,489
+
+
 - Look what it's done to us.
 - Hear me, please.
 
-828
-01:18:13,046 --> 01:18:17,646
+
+
 From the time of Peter, the Church
 has been about faith, about belief.
 
-829
-01:18:18,009 --> 01:18:20,609
+
+
 We have kept that belief alive.
 
-830
-01:18:21,096 --> 01:18:23,336
+
+
 But we can go past that now.
 
-831
-01:18:23,765 --> 01:18:27,125
+
+
 We can begin to live the promises.
 The kingdom can come now.
 
-832
-01:18:27,436 --> 01:18:28,996
+
+
 It can all lead to chaos.
 
-833
-01:18:29,229 --> 01:18:32,309
+
+
 No. The guidance inside
 will prevent that.
 
-834
-01:18:32,608 --> 01:18:35,648
+
+
 The perception can expand
 and evolve.
 
-835
-01:18:36,237 --> 01:18:37,917
+
+
 Evolve?
 
-836
-01:18:38,864 --> 01:18:41,144
+
+
 Listen carefully
 to what you are saying.
 
-837
-01:18:41,409 --> 01:18:44,369
+
+
 We have always fought
 against the idea of evolution.
 
-838
-01:18:44,704 --> 01:18:47,824
+
+
 Against the idea
 of evolution without God.
 
-839
-01:18:48,124 --> 01:18:51,884
+
+
 But evolution is a creation
 that's still happening.
 
-840
-01:18:52,212 --> 01:18:53,772
+
+
 We can all participate.
 
-841
-01:18:54,047 --> 01:18:56,727
+
+
 Don't lecture me about theology!
 
-842
-01:18:58,844 --> 01:19:01,204
+
+
 Only God creates, not us.
 
-843
-01:19:01,471 --> 01:19:04,071
+
+
 But it happens through us,
 don't you see?
 
-844
-01:19:07,394 --> 01:19:09,954
+
+
 You protected
 the Franciscan documents.
 
-845
-01:19:10,231 --> 01:19:11,831
+
+
 You showed us
 where the scrolls were.
 
-846
-01:19:12,483 --> 01:19:15,123
+
+
 They were placed in the ruins
 for some reason.
 
-847
-01:19:15,403 --> 01:19:17,283
+
+
 It's time to find out why.
 
-848
-01:19:17,697 --> 01:19:20,017
+
+
 Please, join us.
 
-849
-01:19:22,368 --> 01:19:26,088
+
+
 No. It must end.
 
-850
-01:19:26,748 --> 01:19:28,748
+
+
 It doesn't matter now.
 
-851
-01:19:31,169 --> 01:19:36,209
+
+
 There will be no ruins,
 be no ninth insight. Nothing.
 
-852
-01:19:37,301 --> 01:19:38,861
+
+
 What have you done?
 
-853
-01:19:39,720 --> 01:19:40,840
+
+
 It's over.
 
-854
-01:19:41,722 --> 01:19:43,762
+
+
 It's out of our hands now.
 
-855
-01:20:02,744 --> 01:20:04,304
+
+
 Come on.
 We need to find the others.
 
-856
-01:20:04,537 --> 01:20:07,657
+
+
 Wait a minute. Wait a minute.
 It's Jensen.
 
-857
-01:20:09,543 --> 01:20:11,343
+
+
 We gotta get moving.
 
-858
-01:20:12,212 --> 01:20:15,132
+
+
 Remember you told me
 I need to follow my own intuition?
 
-859
-01:20:19,220 --> 01:20:21,060
+
+
 This is mine to do.
 
-860
-01:20:52,421 --> 01:20:54,021
+
+
 So where's the ninth scroll?
 
-861
-01:20:58,636 --> 01:21:02,636
+
+
 You should have come with me before,
 when I gave you the chance.
 
-862
-01:21:03,516 --> 01:21:06,476
+
+
 You're gonna destroy the ruins.
 Aren't you?
 
-863
-01:21:07,228 --> 01:21:09,228
+
+
 Let's just say
 there are people out there...
 
-864
-01:21:09,481 --> 01:21:11,561
+
+
 ...who want certain things
 to happen.
 
-865
-01:21:11,816 --> 01:21:14,136
+
+
 Your prophecy isn't one of them.
 
-866
-01:21:14,486 --> 01:21:16,126
+
+
 How did you think
 this would end, huh?
 
-867
-01:21:16,363 --> 01:21:18,803
+
+
 If you only knew
 what the prophecy says...
 
-868
-01:21:19,074 --> 01:21:20,314
+
+
 ...how the world really is...
 
-869
-01:21:20,534 --> 01:21:22,974
+
+
 The world is the way it is
 because we make it that way.
 
-870
-01:21:23,245 --> 01:21:26,085
+
+
 When there's prosperity, we create it.
 When there's war...
 
-871
-01:21:26,373 --> 01:21:28,293
+
+
 ...well, sometimes war
 can be useful too.
 
-872
-01:21:29,418 --> 01:21:32,858
+
+
 - You wanna destroy this democracy?
 - Not destroy.
 
-873
-01:21:33,172 --> 01:21:34,732
+
+
 Limit.
 
-874
-01:21:34,966 --> 01:21:37,846
+
+
 Progress depends
 on people's willingness to be led.
 
-875
-01:21:38,720 --> 01:21:40,120
+
+
 The world has changed.
 
-876
-01:21:40,388 --> 01:21:42,428
+
+
 Religious fanatics
 are threatening everything.
 
-877
-01:21:42,724 --> 01:21:45,924
+
+
 Now this prophecy pops up again
 after hundreds of years.
 
-878
-01:21:47,771 --> 01:21:51,091
+
+
 Oh, yes. I know all about it.
 
-879
-01:21:51,399 --> 01:21:52,959
+
+
 We have our writings too.
 
-880
-01:21:53,235 --> 01:21:55,435
+
+
 We've always known the dangers
 of what it promises.
 
-881
-01:21:55,696 --> 01:21:59,216
+
+
 This dreamy liberation.
 The illusion of security.
 
-882
-01:21:59,533 --> 01:22:00,773
+
+
 It undermines everything.
 
-883
-01:22:00,993 --> 01:22:04,713
+
+
 It's not an illusion. It's real.
 It's the only thing that's real.
 
-884
-01:22:05,664 --> 01:22:07,984
+
+
 Trying to control isn't the answer.
 
-885
-01:22:08,250 --> 01:22:10,650
+
+
 When we find
 the true God experience...
 
-886
-01:22:10,920 --> 01:22:14,160
+
+
 ...the fight over whose religion
 is best, it fades.
 
-887
-01:22:15,216 --> 01:22:19,536
+
+
 - There's just one truth.
 - You people, so naive.
 
-888
-01:22:19,888 --> 01:22:23,408
+
+
 Thinking there's something spiritual
 guiding this world.
 
-889
-01:22:23,934 --> 01:22:26,814
+
+
 Well, there's nothing out there.
 
-890
-01:22:27,104 --> 01:22:28,544
+
+
 Just us humans.
 
-891
-01:22:28,772 --> 01:22:31,972
+
+
 And those of us who know that
 will always be in control.
 
-892
-01:22:35,404 --> 01:22:37,804
+
+
 The way of this world...
 
-893
-01:22:39,158 --> 01:22:40,838
+
+
 ...is power.
 
-894
-01:22:47,792 --> 01:22:51,512
+
+
 - Can't let you do this.
 - You could never stop me.
 
-895
-01:22:57,969 --> 01:23:00,969
+
+
 You idiot! You have killed us all!
 
-896
-01:23:38,595 --> 01:23:42,315
+
+
 John, I found the others.
 Let's get to the circle.
 
-897
-01:23:44,518 --> 01:23:46,558
+
+
 I'll be right back.
 
-898
-01:23:52,026 --> 01:23:53,946
+
+
 You feel that?
 
-899
-01:23:55,530 --> 01:23:57,250
+
+
 It's happening.
 
-900
-01:24:03,538 --> 01:24:05,498
+
+
 Someone's helping us.
 
-901
-01:24:07,709 --> 01:24:12,389
+
+
 Send the energy back. It will build.
 Remember?
 
-902
-01:24:30,274 --> 01:24:31,674
+
+
 Oh, my...
 
-903
-01:24:33,152 --> 01:24:35,472
+
+
 How incredible is this?
 
-904
-01:24:39,200 --> 01:24:41,000
+
+
 I can read it.
 
-905
-01:24:42,829 --> 01:24:45,029
+
+
 I can read this. It says:
 
-906
-01:24:45,499 --> 01:24:50,299
+
+
 "The guidance within
 evolves the world towards a...
 
-907
-01:24:50,671 --> 01:24:52,991
+
+
 Towards a heaven
 that is already here.
 
-908
-01:24:53,257 --> 01:24:56,297
+
+
 To know this
 is to know our destiny."
 
-909
-01:25:30,921 --> 01:25:34,161
+
+
 - Wil?
 - You made it here first.
 
-910
-01:25:34,634 --> 01:25:36,514
+
+
 Wherever this is.
 
-911
-01:25:37,637 --> 01:25:39,357
+
+
 You were helping us, weren't you?
 
-912
-01:25:39,806 --> 01:25:42,846
+
+
 - Father Jose.
 - He's been helping us too.
 
-913
-01:25:50,317 --> 01:25:52,357
+
+
 They're all helping us.
 
-914
-01:25:52,861 --> 01:25:54,421
+
+
 We are being shown heaven.
 
-915
-01:26:06,167 --> 01:26:08,287
+
+
 It's where evolution is taking us.
 
-916
-01:26:08,544 --> 01:26:11,064
+
+
 Where it's always been taking us.
 
-917
-01:26:15,343 --> 01:26:17,623
+
+
 That's the ninth insight.
 
-918
-01:26:19,055 --> 01:26:21,655
+
+
 No! Don't hurt her,
 she's just a child.
 
-919
-01:26:22,600 --> 01:26:25,640
+
+
 No, keep your energy.
 Hold on, they'll see you.
 
-920
-01:26:26,688 --> 01:26:27,888
+
+
 Julia.
 
-921
-01:26:32,820 --> 01:26:34,500
+
+
 Stay focused. Keep your energy.
 
-922
-01:26:36,740 --> 01:26:38,220
+
+
 John.
 
-923
-01:26:59,764 --> 01:27:02,244
+
+
 Take them to the ridge!
 
-924
-01:27:39,264 --> 01:27:42,024
+
+
 Marjorie? I wanna
 tell you something.
 
-925
-01:27:42,309 --> 01:27:44,629
+
+
 I don't think we have much time left.
 
-926
-01:27:45,521 --> 01:27:49,681
+
+
 But I wanna thank you for all of it,
 for everything you've shown me.
 
-927
-01:27:50,234 --> 01:27:53,114
+
+
 I was a reluctant student at first,
 I know, but I'm glad you...
 
-928
-01:27:53,404 --> 01:27:54,644
+
+
 ...didn't give up on me.
 
-929
-01:27:56,157 --> 01:27:58,597
+
+
 I think I was the stubborn one.
 
-930
-01:28:00,954 --> 01:28:03,674
+
+
 And, John, we weren't
 supposed to be together.
 
-931
-01:28:03,957 --> 01:28:07,117
+
+
 Not this time. We were just
 supposed to find a balance.
 
-932
-01:28:10,380 --> 01:28:12,300
+
+
 I think we did.
 
-933
-01:28:12,549 --> 01:28:13,949
+
+
 Yeah.
 
-934
-01:28:30,777 --> 01:28:32,537
+
+
 In the name of God. Wait!
 
-935
-01:28:33,112 --> 01:28:34,152
+
+
 Lower your weapons!
 
-936
-01:28:35,782 --> 01:28:38,182
+
+
 These people
 can do you no harm now.
 
-937
-01:28:38,576 --> 01:28:40,896
+
+
 They'll have no credibility.
 I'm making sure of it.
 
-938
-01:28:41,162 --> 01:28:44,562
+
+
 This is not your affair,
 Your Excellency.
 
-939
-01:28:45,125 --> 01:28:46,525
+
+
 No.
 
-940
-01:28:51,465 --> 01:28:55,585
+
+
 Let them live. We're not murderers.
 The prophecy has been destroyed.
 
-941
-01:28:56,804 --> 01:28:59,124
+
+
 The jungle will take the ruins.
 
-942
-01:28:59,932 --> 01:29:02,372
+
+
 Nothing is left of this prophecy.
 
-943
-01:29:02,685 --> 01:29:04,965
+
+
 The prophecy is finished.
 
-944
-01:29:11,569 --> 01:29:12,849
+
+
 Take them to Lima.
 
-945
-01:29:46,898 --> 01:29:48,498
+
+
 I knew it was you.
 
-946
-01:29:51,069 --> 01:29:52,669
+
+
 It's pretty intense in there.
 
-947
-01:29:52,904 --> 01:29:56,064
+
+
 I have 45 minutes to leave the country.
 They got me on the next plane out.
 
-948
-01:30:00,287 --> 01:30:01,487
+
+
 What about the others?
 
-949
-01:30:01,914 --> 01:30:03,154
+
+
 Marjorie?
 
-950
-01:30:03,374 --> 01:30:04,814
+
+
 She's already back home.
 
-951
-01:30:05,084 --> 01:30:07,324
+
+
 She was there to set you free.
 
-952
-01:30:08,379 --> 01:30:10,539
+
+
 Julia and the girl,
 they're all right too.
 
-953
-01:30:13,259 --> 01:30:14,499
+
+
 Wil?
 
-954
-01:30:17,138 --> 01:30:19,178
+
+
 The scrolls? The translations?
 Anything left?
 
-955
-01:30:19,432 --> 01:30:20,952
+
+
 They don't matter, John.
 
-956
-01:30:21,184 --> 01:30:23,184
+
+
 We were able
 to understand the ninth.
 
-957
-01:30:24,270 --> 01:30:26,990
+
+
 Now we know
 what life is really about.
 
-958
-01:30:27,607 --> 01:30:29,647
+
+
 That changes everything.
 
-959
-01:30:31,820 --> 01:30:33,180
+
+
 Here.
 
-960
-01:30:33,655 --> 01:30:35,655
+
+
 I thought you'd find this interesting.
 
-961
-01:30:38,619 --> 01:30:40,819
+
+
 How about that?
 We made the news.
 
-962
-01:30:43,207 --> 01:30:45,447
+
+
 She sent me here.
 
-963
-01:30:46,294 --> 01:30:48,814
+
+
 Maybe now you can
 have something real.
 
-964
-01:30:52,467 --> 01:30:53,907
+
+
 Yeah.
 
-965
-01:30:55,595 --> 01:30:57,355
+
+
 Maybe I can.
 
-966
-01:31:01,142 --> 01:31:03,662
+
+
 So, what are you going to do now?
 
-967
-01:31:04,563 --> 01:31:06,523
+
+
 I don't know. I don't know.
 
-968
-01:31:06,815 --> 01:31:09,175
+
+
 You have to take all this
 with you, John.
 
-969
-01:31:09,443 --> 01:31:11,643
+
+
 You'll meet others
 who have to know.
 
-970
-01:31:12,988 --> 01:31:14,948
+
+
 Just keep your eyes open.
 
-971
-01:31:16,075 --> 01:31:18,315
+
+
 Something will always happen.
 
-972
-01:31:29,005 --> 01:31:30,405
+
+
 One last thing.
 
-973
-01:31:31,132 --> 01:31:33,892
+
+
 Something tells me
 you'll be getting a message.
 
-974
-01:31:35,011 --> 01:31:36,571
+
+
 From Wil.
 
-975
-01:32:16,680 --> 01:32:18,280
+
+
 Magazine?
 
-976
-01:32:19,016 --> 01:32:20,376
+
+
 Thank you.
 
-977
-01:33:02,436 --> 01:33:03,876
+
+
 There's a tenth insight.
 
-978
-01:33:09,152 --> 01:33:10,712
+
+
 There's a tenth insight.
 
-979
-01:33:19,000 --> 01:33:22,000
+
+
 -= resynch by aziraphale =-
 
-980
-01:33:22,000 --> 01:33:32,000
+
+
 visit opensubtitles.org

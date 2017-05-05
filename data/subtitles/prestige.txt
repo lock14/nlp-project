@@ -1,6463 +1,6463 @@
-1
-00:00:56,070 --> 00:00:57,899
+
+
 Are you watching closely?
 
-2
-00:01:04,709 --> 00:01:09,200
+
+
 Every magic trick consists of three parts, or acts.
 
-3
-00:01:09,280 --> 00:01:12,680
+
+
 The first part is called "the pledge".
 
-4
-00:01:12,750 --> 00:01:16,120
+
+
 The magician shows you something ordinary.
 
-5
-00:01:16,189 --> 00:01:19,650
+
+
 A deck of cards, a bird or a man.
 
-6
-00:01:26,760 --> 00:01:28,700
+
+
 He shows you this object.
 
-7
-00:01:28,769 --> 00:01:31,359
+
+
 Perhaps he asks you to inspect it,
 
-8
-00:01:31,439 --> 00:01:34,460
+
+
 to see that it is indeed real,
 
-9
-00:01:34,539 --> 00:01:37,599
+
+
 unaltered, normal.
 
-10
-00:01:41,250 --> 00:01:44,150
+
+
 But, of course, it probably isn't.
 
-11
-00:01:44,219 --> 00:01:46,009
+
+
 Where do you think you're going?
 
-12
-00:01:46,079 --> 00:01:48,450
+
+
 I'm part of the bloody act, you fool.
 
-13
-00:02:01,370 --> 00:02:03,829
+
+
 The second act is called "the turn".
 
-14
-00:02:18,319 --> 00:02:21,340
+
+
 The magician takes the ordinary something
 
-15
-00:02:22,949 --> 00:02:26,009
+
+
 and makes it do something extraordinary.
 
-16
-00:02:30,530 --> 00:02:34,620
+
+
 Now you're looking for the secret, but you won't find it,
 
-17
-00:02:34,699 --> 00:02:38,530
+
+
 because, of course, you're not really looking.
 
-18
-00:02:38,599 --> 00:02:40,229
+
+
 You don't really want to know.
 
-19
-00:02:43,370 --> 00:02:45,870
+
+
 You want to be... fooled.
 
-20
-00:02:47,550 --> 00:02:49,979
+
+
 But you wouldn't clap yet,
 
-21
-00:02:50,050 --> 00:02:54,210
+
+
 because making something disappear isn't enough.
 
-22
-00:02:54,289 --> 00:02:57,879
+
+
 You have to bring it back.
 
-23
-00:02:59,389 --> 00:03:03,159
+
+
 That's why every magic trick has a third act.
 
-24
-00:03:03,229 --> 00:03:04,889
+
+
 The hardest part.
 
-25
-00:03:04,960 --> 00:03:07,490
+
+
 The part we call...
 
-26
-00:03:07,569 --> 00:03:08,900
+
+
 ...".the prestige".
 
-27
-00:03:19,680 --> 00:03:23,879
+
+
 The prestige? And did Robert Angier, the Great Danton, your employer,
 
-28
-00:03:23,949 --> 00:03:26,379
+
+
 get to that final part of his trick that night?
 
-29
-00:03:26,449 --> 00:03:28,539
+
+
 - No, sir. Something went wrong.
 - What went wrong?
 
-30
-00:03:29,719 --> 00:03:33,210
+
+
 I saw someone making their way below stage.
 
-31
-00:03:33,289 --> 00:03:35,189
+
+
 I followed him.
 
-32
-00:03:35,259 --> 00:03:38,520
+
+
 It was Borden, watching Mr. Angier drown.
 
-33
-00:03:38,599 --> 00:03:42,030
+
+
 Would you please describe your occupation to the jury, Mr. Cutter.
 
-34
-00:03:42,099 --> 00:03:44,469
+
+
 I'm an ing茅nieur, I design illusions
 
-35
-00:03:44,539 --> 00:03:47,699
+
+
 and construct the apparatus necessary for performing them.
 
-36
-00:03:47,770 --> 00:03:52,210
+
+
 So, Mr. Cutter, was this water-filled tank beneath the stage
 
-37
-00:03:52,280 --> 00:03:53,870
+
+
 part of Mr. Angier's illusion?
 
-38
-00:03:53,939 --> 00:03:57,810
+
+
 No. The tank was brought on for the first trick
 
-39
-00:03:57,879 --> 00:03:59,849
+
+
 and then taken offstage.
 
-40
-00:03:59,920 --> 00:04:03,219
+
+
 Borden must have placed it under the trap door after the end of it.
 
-41
-00:04:03,289 --> 00:04:04,849
+
+
 How large was this tank?
 
-42
-00:04:04,919 --> 00:04:07,520
+
+
 It's a normal tank for escape under water,
 
-43
-00:04:07,590 --> 00:04:09,719
+
+
 about 400 or 500 gallons.
 
-44
-00:04:09,789 --> 00:04:12,280
+
+
 How do you think he was able to move the tank
 
-45
-00:04:12,360 --> 00:04:14,729
+
+
 under the trap door without anyone noticing?
 
-46
-00:04:14,800 --> 00:04:17,160
+
+
 He's a magician, ask him.
 
-47
-00:04:17,230 --> 00:04:18,329
+
+
 I ask again,
 
-48
-00:04:18,399 --> 00:04:21,629
+
+
 would this man explain the mechanics of Mr. Angier's illusion.
 
-49
-00:04:21,709 --> 00:04:25,040
+
+
 The Real Transported Man is one of the most sought after illusions
 
-50
-00:04:25,110 --> 00:04:26,300
+
+
 in this business.
 
-51
-00:04:26,379 --> 00:04:27,939
+
+
 I have the right to sell it on.
 
-52
-00:04:28,009 --> 00:04:30,639
+
+
 If I reveal the method here, the trick is worthless.
 
-53
-00:04:30,709 --> 00:04:32,980
+
+
 How can we know that the tank wasn't simply
 
-54
-00:04:33,050 --> 00:04:35,519
+
+
 some part of the trick that went wrong?
 
-55
-00:04:35,590 --> 00:04:37,649
+
+
 Mr. Cutter, I see your predicament.
 
-56
-00:04:37,720 --> 00:04:40,120
+
+
 But Alfred Borden's life hangs in the balance.
 
-57
-00:04:40,189 --> 00:04:43,350
+
+
 If you were prepared to disclose the details to me in private,
 
-58
-00:04:43,430 --> 00:04:46,259
+
+
 I might be able to judge their relevance to the case.
 
-59
-00:04:46,329 --> 00:04:48,959
+
+
 Might this be an acceptable compromise?
 
-60
-00:05:07,250 --> 00:05:10,620
+
+
 I'm going to have to ask you to turn out your pockets.
 
-61
-00:05:14,759 --> 00:05:18,319
+
+
 Not my idea, sir. The warden saw his show in Manchester last year
 
-62
-00:05:18,399 --> 00:05:20,259
+
+
 where he vanished into thin air.
 
-63
-00:05:20,329 --> 00:05:22,819
+
+
 He's convinced he'll try and escape.
 
-64
-00:05:26,240 --> 00:05:29,029
+
+
 I told him the only way Borden's going to disappear
 
-65
-00:05:29,110 --> 00:05:31,540
+
+
 is if I leave him out there with the other inmates.
 
-66
-00:05:37,409 --> 00:05:38,750
+
+
 Check the locks...
 
-67
-00:05:40,449 --> 00:05:42,009
+
+
 ...twice.
 
-68
-00:05:49,090 --> 00:05:51,620
+
+
 My name is Owens.
 
-69
-00:05:51,699 --> 00:05:53,959
+
+
 I'm a solicitor.
 
-70
-00:05:54,029 --> 00:05:57,689
+
+
 I represent Lord Caldlow, an accomplished amateur magician and...
 
-71
-00:05:57,769 --> 00:06:00,360
+
+
 How much?
 
-72
-00:06:00,439 --> 00:06:02,769
+
+
 - He is interested...
 - How much for my tricks?
 
-73
-00:06:02,839 --> 00:06:04,430
+
+
 Five thousand pounds.
 
-74
-00:06:04,509 --> 00:06:07,000
+
+
 Talk to Fallon, my ing茅nieur. Money's for him.
 
-75
-00:06:07,079 --> 00:06:10,769
+
+
 Yes, I did. He offered to sell me your tricks.
 
-76
-00:06:10,850 --> 00:06:13,720
+
+
 All except the most valuable one, The Transported Man.
 
-77
-00:06:13,779 --> 00:06:17,079
+
+
 Well, I won't forgive myself for selling my greatest trick.
 
-78
-00:06:17,149 --> 00:06:18,589
+
+
 Even for your daughter?
 
-79
-00:06:20,259 --> 00:06:24,589
+
+
 If you are for the drop, your daughter is going to need looking after.
 
-80
-00:06:24,660 --> 00:06:26,389
+
+
 Fallon will take care of her.
 
-81
-00:06:26,459 --> 00:06:28,189
+
+
 Perfect, Fallon.
 
-82
-00:06:28,269 --> 00:06:30,290
+
+
 A man with a past as obscure as your own.
 
-83
-00:06:30,370 --> 00:06:35,399
+
+
 The courts have motioned she be removed from his care. She will be an orphan.
 
-84
-00:06:35,470 --> 00:06:37,740
+
+
 I know you're no stranger to the workhouse.
 
-85
-00:06:38,509 --> 00:06:40,340
+
+
 It's better than here?
 
-86
-00:06:40,409 --> 00:06:43,639
+
+
 I'm offering you a way to wrap up your affairs with dignity.
 
-87
-00:06:43,709 --> 00:06:45,680
+
+
 I'm offering your daughter a future.
 
-88
-00:06:45,750 --> 00:06:48,779
+
+
 As Lord Caldlow's ward, she will want for nothing...
 
-89
-00:06:48,850 --> 00:06:50,680
+
+
 ...ever.
 
-90
-00:06:50,750 --> 00:06:53,750
+
+
 Well, think it over.
 
-91
-00:06:53,819 --> 00:06:57,590
+
+
 And Lord Caldlow would like you to have this,
 
-92
-00:06:57,659 --> 00:07:00,189
+
+
 as a show of good faith. It might be of interest.
 
-93
-00:07:00,259 --> 00:07:03,790
+
+
 Robert Angier's diary, including the time he spent in Colorado
 
-94
-00:07:03,870 --> 00:07:05,129
+
+
 Iearning your trick.
 
-95
-00:07:05,199 --> 00:07:06,899
+
+
 - He never learned it.
 - Really?
 
-96
-00:07:06,970 --> 00:07:10,500
+
+
 On his return, he mounted a version of The Transported Man
 
-97
-00:07:10,569 --> 00:07:14,529
+
+
 that the papers said was better even than your original.
 
-98
-00:07:14,610 --> 00:07:15,910
+
+
 If you want Angier's secrets,
 
-99
-00:07:16,879 --> 00:07:21,439
+
+
 you go dig him up and ask him yourself.
 
-100
-00:07:21,519 --> 00:07:23,379
+
+
 I want your secret, Mr. Borden.
 
-101
-00:07:26,319 --> 00:07:27,759
+
+
 Consider your daughter.
 
-102
-00:07:35,199 --> 00:07:37,170
+
+
 A cipher,
 
-103
-00:07:37,230 --> 00:07:39,259
+
+
 an enigma...
 
-104
-00:07:41,170 --> 00:07:43,000
+
+
 ...a search,
 
-105
-00:07:43,069 --> 00:07:44,060
+
+
 a search for answers.
 
-106
-00:07:51,750 --> 00:07:55,550
+
+
 Even if Colorado is the end of my journey,
 
-107
-00:07:55,620 --> 00:07:58,819
+
+
 it'll take much longer to unravel
 
-108
-00:07:58,889 --> 00:08:00,790
+
+
 the rest of Borden's secrets.
 
-109
-00:08:02,930 --> 00:08:04,829
+
+
 See, the cipher in his notebook is
 
-110
-00:08:04,899 --> 00:08:07,389
+
+
 unlocked by a single word,
 
-111
-00:08:07,459 --> 00:08:10,430
+
+
 but it will still take months to translate his writing.
 
-112
-00:08:10,500 --> 00:08:13,269
+
+
 And to know his mind.
 
-113
-00:08:16,209 --> 00:08:18,540
+
+
 Well, my passion is equal to the task.
 
-114
-00:08:31,620 --> 00:08:35,149
+
+
 Mr. Angier, welcome to Colorado Springs.
 
-115
-00:08:50,539 --> 00:08:53,600
+
+
 - The whole town has electricity.
 - Yes, sir.
 
-116
-00:09:10,789 --> 00:09:12,279
+
+
 Well...
 
-117
-00:09:12,360 --> 00:09:13,850
+
+
 ...quite a reception.
 
-118
-00:09:13,929 --> 00:09:16,419
+
+
 You're our first guest of the season, Mr. Angier.
 
-119
-00:09:16,500 --> 00:09:19,990
+
+
 Your telegram didn't indicate how long you'd be staying with us.
 
-120
-00:09:20,070 --> 00:09:21,700
+
+
 As long as it takes.
 
-121
-00:09:21,769 --> 00:09:25,039
+
+
 I will need a coach tomorrow to take me up the mountain.
 
-122
-00:09:25,110 --> 00:09:26,840
+
+
 Well, the peak's closed, sir.
 
-123
-00:09:26,909 --> 00:09:28,740
+
+
 For scientific experimentation.
 
-124
-00:09:28,809 --> 00:09:30,779
+
+
 Yes, I know.
 
-125
-00:09:30,850 --> 00:09:32,139
+
+
 That's why I'm here.
 
-126
-00:09:39,389 --> 00:09:41,620
+
+
 Whoa. Whoa.
 
-127
-00:09:43,330 --> 00:09:46,259
+
+
 You'll have to walk the rest, I'm afraid, sir.
 
-128
-00:10:21,870 --> 00:10:25,029
+
+
 I'm amazed how many of you newspaper writers
 
-129
-00:10:25,100 --> 00:10:27,159
+
+
 can't read my sign.
 
-130
-00:10:31,909 --> 00:10:34,500
+
+
 Not the welcome I was expecting.
 
-131
-00:10:37,480 --> 00:10:39,539
+
+
 I know you.
 
-132
-00:10:43,519 --> 00:10:45,039
+
+
 You're the Great Danton.
 
-133
-00:10:45,120 --> 00:10:47,419
+
+
 I saw your show in London.
 
-134
-00:10:47,490 --> 00:10:50,259
+
+
 Seven times you guessed every object
 
-135
-00:10:50,330 --> 00:10:52,559
+
+
 the audience had in their pockets.
 
-136
-00:10:52,629 --> 00:10:56,690
+
+
 I'm Alley. Sorry about the fence. People keep interfering with our work.
 
-137
-00:10:56,769 --> 00:10:59,429
+
+
 - I've come to see Tesla.
 - Why?
 
-138
-00:10:59,500 --> 00:11:03,559
+
+
 He made a machine for a colleague of mine some time ago.
 
-139
-00:11:03,639 --> 00:11:07,129
+
+
 - Can you get me a meeting with him?
 - Impossible, I'm afraid.
 
-140
-00:11:07,210 --> 00:11:09,440
+
+
 I've brought a lot of money.
 
-141
-00:11:09,509 --> 00:11:11,169
+
+
 I'm sorry, Mr. Angier.
 
-142
-00:11:12,250 --> 00:11:13,909
+
+
 I simply can't help.
 
-143
-00:11:15,990 --> 00:11:19,110
+
+
 I'll be staying at the hotel, indefinitely.
 
-144
-00:11:22,460 --> 00:11:24,549
+
+
 Hey, what am I holding?
 
-145
-00:11:24,629 --> 00:11:25,929
+
+
 Your watch.
 
-146
-00:11:30,730 --> 00:11:34,230
+
+
 Borden's journal entry for April 3,1897,
 
-147
-00:11:34,299 --> 00:11:36,399
+
+
 describes a show at the Orpheum Theatre.
 
-148
-00:11:36,470 --> 00:11:39,370
+
+
 That was just days after he first met me.
 
-149
-00:11:42,110 --> 00:11:45,480
+
+
 We were two young men at the start of a great career,
 
-150
-00:11:45,549 --> 00:11:47,879
+
+
 two young men devoted to an illusion,
 
-151
-00:11:47,950 --> 00:11:50,509
+
+
 two young men who never intended to hurt anyone.
 
-152
-00:11:50,590 --> 00:11:52,350
+
+
 Which of you brave souls
 
-153
-00:11:52,419 --> 00:11:55,149
+
+
 is willing to bind this lovely young woman?
 
-154
-00:11:56,929 --> 00:11:58,860
+
+
 Me!
 
-155
-00:12:07,340 --> 00:12:08,860
+
+
 If you would tie her wrists,
 
-156
-00:12:09,470 --> 00:12:11,840
+
+
 bind her feet...
 
-157
-00:12:11,909 --> 00:12:14,429
+
+
 ...around the ankle.
 
-158
-00:12:14,509 --> 00:12:16,600
+
+
 Are either of you two gentlemen sailors?
 
-159
-00:12:16,679 --> 00:12:18,509
+
+
 - No.
 - No.
 
-160
-00:12:19,320 --> 00:12:22,409
+
+
 I'm sure you can both tie a strong knot.
 
-161
-00:13:25,519 --> 00:13:29,110
+
+
 He's complacent, he's predictable, he's boring.
 
-162
-00:13:29,190 --> 00:13:31,750
+
+
 Milton has gotten success, whatever that means,
 
-163
-00:13:31,820 --> 00:13:35,049
+
+
 so now he's scared. He won't take any risks at all.
 
-164
-00:13:35,129 --> 00:13:38,190
+
+
 He's squandering the goodwill of his audience with tired,
 
-165
-00:13:38,259 --> 00:13:40,860
+
+
 - second-rate tricks...
 - They're all favorites.
 
-166
-00:13:40,929 --> 00:13:44,419
+
+
 Give me something fresh. He won't even try a bloody bullet catch.
 
-167
-00:13:44,500 --> 00:13:46,330
+
+
 A bullet catch is suicide.
 
-168
-00:13:46,399 --> 00:13:50,399
+
+
 All it takes is some smartass volunteer to put a button in the barrel.
 
-169
-00:13:50,470 --> 00:13:52,740
+
+
 - Use a plant.
 - You can't for every trick.
 
-170
-00:13:52,909 --> 00:13:54,779
+
+
 No seats left for the punters.
 
-171
-00:13:54,850 --> 00:13:58,649
+
+
 All right, no bullet catch, whatever, but the point is a real magician
 
-172
-00:13:58,720 --> 00:14:00,340
+
+
 tries to invent something new
 
-173
-00:14:00,419 --> 00:14:03,279
+
+
 that other magicians will scratch their heads over.
 
-174
-00:14:03,350 --> 00:14:05,549
+
+
 Then you sell it to him for a small fortune.
 
-175
-00:14:05,620 --> 00:14:08,720
+
+
 - What?
 - I suppose you have such a trick?
 
-176
-00:14:08,789 --> 00:14:11,350
+
+
 - I sure do.
 - Would you care to sell it to me?
 
-177
-00:14:11,429 --> 00:14:13,019
+
+
 No. No one else can do my trick.
 
-178
-00:14:13,100 --> 00:14:15,220
+
+
 - Any trick can be duplicated.
 - Wrong.
 
-179
-00:14:15,299 --> 00:14:19,029
+
+
 If Mr. Borden has invented his masterpiece,
 
-180
-00:14:19,100 --> 00:14:21,000
+
+
 he's prepared to do it.
 
-181
-00:14:21,070 --> 00:14:23,200
+
+
 Milton is a showman, but Borden is right,
 
-182
-00:14:23,269 --> 00:14:24,899
+
+
 he won't get his hands dirty.
 
-183
-00:14:24,980 --> 00:14:28,539
+
+
 If you want to see what it takes to make real magic,
 
-184
-00:14:28,610 --> 00:14:32,450
+
+
 go to the Tenley. There's a Chinaman there and he really has what it takes.
 
-185
-00:14:32,519 --> 00:14:34,750
+
+
 - Chung Ling Soo.
 - I can't afford that.
 
-186
-00:14:34,820 --> 00:14:36,549
+
+
 I know the bloke run the door.
 
-187
-00:14:36,620 --> 00:14:40,950
+
+
 You two go and see that show, and whichever one of you can tell me
 
-188
-00:14:41,019 --> 00:14:44,120
+
+
 how he does the goldfish bowl trick gets the prize.
 
-189
-00:14:44,190 --> 00:14:46,460
+
+
 - Which is?
 - Ten minutes onstage
 
-190
-00:14:46,529 --> 00:14:48,360
+
+
 with my old friend, Mr. Ackerman.
 
-191
-00:14:48,429 --> 00:14:49,860
+
+
 - Really?
 - Who's Ackerman?
 
-192
-00:14:49,929 --> 00:14:52,990
+
+
 The top theatrical agent in London.
 
-193
-00:14:53,070 --> 00:14:56,059
+
+
 - I saw you drop the knot again.
 - I turned my wrists.
 
-194
-00:14:56,139 --> 00:14:58,769
+
+
 Some nights you just don't get it, do you?
 
-195
-00:14:58,840 --> 00:15:01,710
+
+
 I mean, if that knot slips and Julia's on the hoist,
 
-196
-00:15:01,779 --> 00:15:02,870
+
+
 she'll break her leg.
 
-197
-00:15:02,950 --> 00:15:04,570
+
+
 It's the wrong knot.
 
-198
-00:15:04,649 --> 00:15:07,519
+
+
 Like I said, the Langford double will hold tighter.
 
-199
-00:15:07,580 --> 00:15:11,110
+
+
 The Langford double isn't a wet knot. It's too dangerous.
 
-200
-00:15:11,190 --> 00:15:13,419
+
+
 If the rope swells, she can't slip it.
 
-201
-00:15:13,490 --> 00:15:16,720
+
+
 - I can slip a Langford underwater.
 - We can practice.
 
-202
-00:15:16,789 --> 00:15:20,730
+
+
 - Borden, he said no.
 - Oh, you know knots better than me?
 
-203
-00:15:20,799 --> 00:15:22,789
+
+
 Listen, no more mistakes.
 
-204
-00:15:22,870 --> 00:15:25,559
+
+
 All right. Yeah? Do you? You want to take over?
 
-205
-00:15:25,639 --> 00:15:28,570
+
+
 - Just leave.
 - I didn't think so.
 
-206
-00:15:33,009 --> 00:15:34,840
+
+
 Hey, Cutter, where's he from?
 
-207
-00:15:34,909 --> 00:15:38,210
+
+
 Where are you from? He shifts props for Virgil at the hall.
 
-208
-00:15:38,279 --> 00:15:41,440
+
+
 - Worried he'll steal your tricks?
 - Doesn't deal in methods.
 
-209
-00:15:41,519 --> 00:15:44,580
+
+
 - How do you know?
 - Because I hired him
 
-210
-00:15:44,649 --> 00:15:47,889
+
+
 to find out how Virgil does the orange trick.
 
-211
-00:15:47,960 --> 00:15:50,289
+
+
 - I don't trust him.
 - He's a natural magician.
 
-212
-00:15:50,360 --> 00:15:52,450
+
+
 'Course you can't trust him.
 
-213
-00:15:52,529 --> 00:15:53,889
+
+
 I think he's all right.
 
-214
-00:15:53,960 --> 00:15:56,299
+
+
 - You think everyone's all right.
 - Even you.
 
-215
-00:15:56,370 --> 00:16:00,200
+
+
 Watch your sightlines. If I can see you kiss your wife's leg every night,
 
-216
-00:16:00,269 --> 00:16:02,929
+
+
 so can the blokes at the ends of rows three and four!
 
-217
-00:16:35,009 --> 00:16:37,440
+
+
 You're wrong. It can't be.
 
-218
-00:16:37,509 --> 00:16:41,240
+
+
 - Look at the man.
 - This is the trick.
 
-219
-00:16:41,309 --> 00:16:43,340
+
+
 This is the performance. Right here.
 
-220
-00:16:43,409 --> 00:16:45,779
+
+
 This is why no one can detect his method.
 
-221
-00:16:47,549 --> 00:16:49,139
+
+
 Total devotion to his art.
 
-222
-00:16:50,149 --> 00:16:51,879
+
+
 A lot of self-sacrifice.
 
-223
-00:16:51,960 --> 00:16:54,320
+
+
 You know.
 
-224
-00:16:54,389 --> 00:16:57,090
+
+
 It's the only way to escape...
 
-225
-00:16:57,159 --> 00:16:59,590
+
+
 ...all this, you know?
 
-226
-00:17:03,370 --> 00:17:07,059
+
+
 I can barely lift this thing and it's not even filled with water.
 
-227
-00:17:08,710 --> 00:17:11,039
+
+
 Or fish, look.
 
-228
-00:17:11,109 --> 00:17:13,369
+
+
 I don't know. Hang on a second.
 
-229
-00:17:15,309 --> 00:17:18,009
+
+
 He must be strong as an ox.
 
-230
-00:17:20,650 --> 00:17:23,480
+
+
 He's been pretending to be a cripple for years.
 
-231
-00:17:23,549 --> 00:17:27,150
+
+
 Any time he's in public, any time he goes out. It's unthinkable.
 
-232
-00:17:27,220 --> 00:17:30,160
+
+
 Borden saw it at once. But I couldn't fathom it.
 
-233
-00:17:30,230 --> 00:17:33,089
+
+
 Living my whole life pretending to be someone else.
 
-234
-00:17:33,160 --> 00:17:34,890
+
+
 You are pretending.
 
-235
-00:17:34,960 --> 00:17:36,990
+
+
 I don't think changing a name compares.
 
-236
-00:17:37,069 --> 00:17:39,539
+
+
 Not your name. Who you are and where you're from.
 
-237
-00:17:39,599 --> 00:17:43,559
+
+
 I promised I wouldn't embarrass my family with my theatrical endeavors.
 
-238
-00:17:45,079 --> 00:17:47,339
+
+
 I thought of a name for you.
 
-239
-00:17:48,710 --> 00:17:52,200
+
+
 The Great Danton.
 
-240
-00:17:52,279 --> 00:17:55,250
+
+
 Do you like it? But it's sophisticated.
 
-241
-00:17:55,319 --> 00:17:56,750
+
+
 It's French.
 
-242
-00:18:02,730 --> 00:18:06,890
+
+
 Borden writes as if no one but he understood the true nature of magic.
 
-243
-00:18:12,539 --> 00:18:15,269
+
+
 But what does he know of self-sacrifice?
 
-244
-00:18:20,380 --> 00:18:22,500
+
+
 You bloody fool.
 
-245
-00:18:50,069 --> 00:18:53,670
+
+
 - He killed it.
 - It's OK.
 
-246
-00:18:53,740 --> 00:18:57,579
+
+
 - He killed it.
 - He didn't.
 
-247
-00:19:01,650 --> 00:19:03,349
+
+
 Look, now he'll bring it back.
 
-248
-00:19:05,589 --> 00:19:08,519
+
+
 - No, he killed it.
 - No, he didn't.
 
-249
-00:19:16,829 --> 00:19:19,799
+
+
 Look, see, he's all right. He's fine.
 
-250
-00:19:19,869 --> 00:19:23,970
+
+
 - Look at him.
 - But where's his brother?
 
-251
-00:19:26,680 --> 00:19:29,940
+
+
 He's a sharp lad, your son.
 
-252
-00:19:30,009 --> 00:19:32,609
+
+
 Oh, he's my nephew.
 
-253
-00:19:32,680 --> 00:19:34,170
+
+
 Ah.
 
-254
-00:19:38,420 --> 00:19:39,910
+
+
 You're the lucky one today.
 
-255
-00:20:00,509 --> 00:20:03,670
+
+
 Are you watching closely?
 
-256
-00:20:06,450 --> 00:20:07,940
+
+
 Look closer.
 
-257
-00:20:11,019 --> 00:20:12,819
+
+
 Never show anyone.
 
-258
-00:20:12,890 --> 00:20:15,619
+
+
 They'll beg you and flatter you for the secret,
 
-259
-00:20:15,690 --> 00:20:19,180
+
+
 but as soon as you give it up, you'll be nothing to them.
 
-260
-00:20:19,259 --> 00:20:21,529
+
+
 You understand? Nothing.
 
-261
-00:20:21,599 --> 00:20:24,660
+
+
 The secret impresses no one.
 
-262
-00:20:24,730 --> 00:20:28,329
+
+
 The trick you use it for is everything.
 
-263
-00:20:32,579 --> 00:20:35,509
+
+
 Well, thank you for lunch, Mr. Borden.
 
-264
-00:20:35,579 --> 00:20:37,069
+
+
 You're welcome.
 
-265
-00:20:38,509 --> 00:20:40,180
+
+
 Alfred, it's Alfred.
 
-266
-00:20:40,250 --> 00:20:41,839
+
+
 Alfred.
 
-267
-00:20:41,920 --> 00:20:44,890
+
+
 So I could use a cup of tea.
 
-268
-00:20:44,950 --> 00:20:48,480
+
+
 I can't allow... It's the landlord. It's not...
 
-269
-00:20:49,930 --> 00:20:53,160
+
+
 You think that's... Is that enough to keep me out?
 
-270
-00:20:53,230 --> 00:20:56,460
+
+
 I think so.
 
-271
-00:20:57,470 --> 00:20:59,059
+
+
 So I'll see you again?
 
-272
-00:21:08,279 --> 00:21:10,769
+
+
 Milk and sugar?
 
-273
-00:21:31,869 --> 00:21:33,839
+
+
 What's in there?
 
-274
-00:21:33,900 --> 00:21:35,839
+
+
 Angier's machine.
 
-275
-00:21:44,410 --> 00:21:46,039
+
+
 You built this, Mr. Cutter?
 
-276
-00:21:46,119 --> 00:21:48,980
+
+
 Oh, no, sir. This wasn't built by a magician.
 
-277
-00:21:49,049 --> 00:21:51,079
+
+
 This was built by a wizard.
 
-278
-00:21:51,150 --> 00:21:56,150
+
+
 A man who can actually do what magicians pretend to do.
 
-279
-00:21:56,230 --> 00:22:00,420
+
+
 Tell me, Your Honor, what happens with these things after the trial?
 
-280
-00:22:00,500 --> 00:22:02,460
+
+
 They've been sold to a Lord Caldlow.
 
-281
-00:22:02,529 --> 00:22:05,299
+
+
 An avid collector, very interested in the case.
 
-282
-00:22:05,369 --> 00:22:07,859
+
+
 Yeah. Well, don't let him take this.
 
-283
-00:22:07,940 --> 00:22:10,740
+
+
 - Why ever not?
 - It's too dangerous.
 
-284
-00:22:10,910 --> 00:22:12,970
+
+
 I'm sure beneath its bells and whistles
 
-285
-00:22:13,039 --> 00:22:15,339
+
+
 it's got a simple and disappointing trick.
 
-286
-00:22:15,410 --> 00:22:17,849
+
+
 The most disappointing of all, sir.
 
-287
-00:22:20,019 --> 00:22:21,710
+
+
 It has no trick.
 
-288
-00:22:24,150 --> 00:22:25,750
+
+
 It's real.
 
-289
-00:22:28,859 --> 00:22:31,160
+
+
 This is the tank Angier drowned in?
 
-290
-00:22:31,230 --> 00:22:33,289
+
+
 Yes.
 
-291
-00:22:33,359 --> 00:22:35,519
+
+
 This is the...
 
-292
-00:22:35,599 --> 00:22:38,660
+
+
 ...place where the performer's hand reaches through
 
-293
-00:22:38,740 --> 00:22:40,000
+
+
 to the trick padlock.
 
-294
-00:22:40,069 --> 00:22:42,329
+
+
 A standard magical apparatus for escapes?
 
-295
-00:22:42,410 --> 00:22:44,900
+
+
 Yeah, with one important difference.
 
-296
-00:22:44,970 --> 00:22:47,000
+
+
 This isn't a trick lock.
 
-297
-00:22:47,079 --> 00:22:49,039
+
+
 It's been switched for a real one.
 
-298
-00:22:49,109 --> 00:22:51,079
+
+
 What a way to kill someone.
 
-299
-00:22:51,150 --> 00:22:53,839
+
+
 They're magicians, Your Honor.
 
-300
-00:22:53,920 --> 00:22:59,319
+
+
 Showmen, men who live by dressing up plain and sometimes brutal truths,
 
-301
-00:22:59,720 --> 00:23:02,490
+
+
 to amaze, to shock.
 
-302
-00:23:02,559 --> 00:23:04,720
+
+
 Even without an audience?
 
-303
-00:23:05,900 --> 00:23:07,859
+
+
 There was an audience.
 
-304
-00:23:08,700 --> 00:23:10,759
+
+
 You see, this water tank
 
-305
-00:23:10,829 --> 00:23:14,269
+
+
 was of particular significance to these two men.
 
-306
-00:23:15,569 --> 00:23:18,099
+
+
 Particularly awful significance.
 
-307
-00:23:21,009 --> 00:23:26,000
+
+
 Which of you brave souls is willing to bind this lovely young woman?
 
-308
-00:23:28,579 --> 00:23:30,069
+
+
 If you would tie her wrists,
 
-309
-00:23:30,150 --> 00:23:32,309
+
+
 bind her feet around the ankle.
 
-310
-00:23:45,539 --> 00:23:48,130
+
+
 - Are either of you gentlemen sailors?
 - No.
 
-311
-00:23:50,109 --> 00:23:52,299
+
+
 I'm sure you can both tie a strong knot.
 
-312
-00:24:47,500 --> 00:24:48,690
+
+
 Robert!
 
-313
-00:25:10,849 --> 00:25:12,250
+
+
 No, no.
 
-314
-00:25:16,230 --> 00:25:18,750
+
+
 Julia. Julia!
 
-315
-00:26:03,440 --> 00:26:06,309
+
+
 I knew an old sailor once.
 
-316
-00:26:06,380 --> 00:26:09,279
+
+
 They told me he went overboard,
 
-317
-00:26:09,349 --> 00:26:11,440
+
+
 tangled in the sails.
 
-318
-00:26:11,509 --> 00:26:13,309
+
+
 They pulled him out,
 
-319
-00:26:13,380 --> 00:26:17,279
+
+
 but it took him five minutes to cough.
 
-320
-00:26:17,349 --> 00:26:19,380
+
+
 He said it was like...
 
-321
-00:26:19,460 --> 00:26:21,289
+
+
 ...going home.
 
-322
-00:26:26,630 --> 00:26:28,960
+
+
 What do you want, Borden?
 
-323
-00:26:35,769 --> 00:26:37,799
+
+
 I'm sorry for your loss, Angier.
 
-324
-00:26:41,609 --> 00:26:43,670
+
+
 Which knot did you tie?
 
-325
-00:26:46,819 --> 00:26:49,750
+
+
 I keep asking myself that.
 
-326
-00:26:49,819 --> 00:26:51,809
+
+
 - And?
 - And...
 
-327
-00:26:53,559 --> 00:26:56,420
+
+
 I'm sorry, I just don't know.
 
-328
-00:26:58,490 --> 00:26:59,980
+
+
 You don't know?
 
-329
-00:27:01,829 --> 00:27:03,769
+
+
 I'm sorry.
 
-330
-00:27:04,730 --> 00:27:07,329
+
+
 You don't know?
 
-331
-00:27:10,940 --> 00:27:13,140
+
+
 You don't know?!
 
-332
-00:27:19,420 --> 00:27:22,750
+
+
 - Alfred?
 - Good news. We got our first booking.
 
-333
-00:27:23,220 --> 00:27:25,150
+
+
 I don't think we've had the pleasure.
 
-334
-00:27:25,220 --> 00:27:28,250
+
+
 - Mr. Fallon is my ing茅nieur.
 - Where did you get all...?
 
-335
-00:27:28,319 --> 00:27:32,319
+
+
 - I had to borrow and... don't ask.
 - He's a very enterprising soul
 
-336
-00:27:32,400 --> 00:27:34,190
+
+
 is... is Mr. Fallon. So...
 
-337
-00:27:34,259 --> 00:27:37,700
+
+
 - We can't afford to pay him.
 - The money will come with the audience.
 
-338
-00:27:37,769 --> 00:27:41,460
+
+
 But what about until then? What I earn, it's barely enough for us.
 
-339
-00:27:41,539 --> 00:27:45,500
+
+
 Don't worry about it. I'll share half my food with him or something.
 
-340
-00:27:45,569 --> 00:27:48,539
+
+
 You're going to be doing that with someone else.
 
-341
-00:27:48,609 --> 00:27:50,509
+
+
 No. You're...
 
-342
-00:27:50,579 --> 00:27:52,839
+
+
 Having a baby.
 
-343
-00:27:52,920 --> 00:27:55,819
+
+
 Oh, my God.
 
-344
-00:27:55,890 --> 00:27:58,720
+
+
 We should have told Fallon. That is great.
 
-345
-00:27:58,789 --> 00:28:01,259
+
+
 Oh, come here.
 
-346
-00:28:01,319 --> 00:28:04,289
+
+
 Oh.
 
-347
-00:28:04,359 --> 00:28:05,880
+
+
 Alfred, what is this?
 
-348
-00:28:05,960 --> 00:28:10,130
+
+
 Oh, this is just the trick to work Ackerman up at the end of my act.
 
-349
-00:28:10,200 --> 00:28:12,900
+
+
 Is it the masterpiece, the great trick?
 
-350
-00:28:12,970 --> 00:28:15,730
+
+
 No, no, no, the world is not ready for that one yet.
 
-351
-00:28:15,910 --> 00:28:20,140
+
+
 This is just your run-of-the-mill, daring, spectacular bullet catch.
 
-352
-00:28:20,210 --> 00:28:22,730
+
+
 - A bullet catch.
 - Yeah, but it's safe.
 
-353
-00:28:22,809 --> 00:28:25,109
+
+
 I promise. Look.
 
-354
-00:28:27,480 --> 00:28:29,750
+
+
 - Shoot me.
 - Shoot you?
 
-355
-00:28:29,819 --> 00:28:31,049
+
+
 Go on, shoot me.
 
-356
-00:28:33,559 --> 00:28:35,579
+
+
 - Right there.
 - No, I can't.
 
-357
-00:28:35,660 --> 00:28:38,220
+
+
 No, no, not there. Shoot me here. Don't...
 
-358
-00:28:42,470 --> 00:28:45,329
+
+
 How's that?
 
-359
-00:28:45,400 --> 00:28:48,730
+
+
 That's very good. Tell me how you do it.
 
-360
-00:28:48,799 --> 00:28:49,930
+
+
 No, I can't do that.
 
-361
-00:28:52,009 --> 00:28:54,869
+
+
 - Well, then you can't do it.
 - I can't do it?
 
-362
-00:28:54,940 --> 00:28:58,279
+
+
 I'm sorry, but I can't raise a child on my own.
 
-363
-00:28:58,349 --> 00:29:00,680
+
+
 You don't tell anybody that I told you.
 
-364
-00:29:00,750 --> 00:29:03,079
+
+
 - OK.
 - Gunpowder.
 
-365
-00:29:05,650 --> 00:29:06,779
+
+
 Wadding.
 
-366
-00:29:08,420 --> 00:29:10,519
+
+
 Then the bullet.
 
-367
-00:29:11,130 --> 00:29:12,859
+
+
 Ramrod.
 
-368
-00:29:17,569 --> 00:29:19,559
+
+
 Hold out your hand.
 
-369
-00:29:21,640 --> 00:29:25,569
+
+
 The bullet is not even in the gun when the charge is fired.
 
-370
-00:29:25,640 --> 00:29:29,410
+
+
 Once you know, it's actually very obvious.
 
-371
-00:29:30,480 --> 00:29:32,470
+
+
 Well, I mean, you still get...
 
-372
-00:29:32,549 --> 00:29:34,140
+
+
 It's dangerous.
 
-373
-00:29:34,220 --> 00:29:36,410
+
+
 - People still get killed doing that.
 - How?
 
-374
-00:29:36,490 --> 00:29:39,220
+
+
 You get some smartass who could put a penny or a button
 
-375
-00:29:39,289 --> 00:29:42,619
+
+
 or, God forbid, Sarah, somebody could put a bullet down there.
 
-376
-00:29:42,690 --> 00:29:45,890
+
+
 Don't worry. Don't worry,
 
-377
-00:29:45,960 --> 00:29:49,230
+
+
 because I'm not gonna let anything happen.
 
-378
-00:29:49,299 --> 00:29:52,170
+
+
 Everything's gonna be all right because...
 
-379
-00:29:53,539 --> 00:29:56,799
+
+
 ...I love you very much.
 
-380
-00:29:59,440 --> 00:30:02,740
+
+
 - Say it again.
 - I love you.
 
-381
-00:30:03,809 --> 00:30:06,279
+
+
 - Not today.
 - What?
 
-382
-00:30:06,349 --> 00:30:09,509
+
+
 Well, some days it's not true, and today you don't mean it.
 
-383
-00:30:09,589 --> 00:30:12,819
+
+
 Maybe today you're more in love with magic than me.
 
-384
-00:30:12,890 --> 00:30:15,519
+
+
 I like being able to tell the difference.
 
-385
-00:30:15,589 --> 00:30:18,390
+
+
 It makes the days it is true
 
-386
-00:30:18,460 --> 00:30:20,789
+
+
 mean something.
 
-387
-00:30:22,430 --> 00:30:23,859
+
+
 All right.
 
-388
-00:30:42,849 --> 00:30:46,150
+
+
 Metal rings, ladies and gentlemen.
 
-389
-00:30:46,220 --> 00:30:48,880
+
+
 If there are any ladies and gentlemen here.
 
-390
-00:30:48,960 --> 00:30:52,329
+
+
 - Solid metal.
 - Seen that already.
 
-391
-00:31:02,970 --> 00:31:04,059
+
+
 Who threw that?
 
-392
-00:31:20,660 --> 00:31:22,450
+
+
 This is what you came for, is it?
 
-393
-00:31:26,299 --> 00:31:27,789
+
+
 So...
 
-394
-00:31:28,900 --> 00:31:30,799
+
+
 ...who wants to volunteer?
 
-395
-00:31:30,869 --> 00:31:32,630
+
+
 - I do!
 - Me!
 
-396
-00:31:40,380 --> 00:31:41,430
+
+
 Me.
 
-397
-00:31:43,210 --> 00:31:45,269
+
+
 Me.
 
-398
-00:31:58,690 --> 00:32:01,190
+
+
 Are you man enough, sir?
 
-399
-00:32:06,170 --> 00:32:08,000
+
+
 Yes.
 
-400
-00:32:18,779 --> 00:32:20,839
+
+
 Which knot did you tie, Borden?
 
-401
-00:32:27,059 --> 00:32:29,319
+
+
 Which knot did you tie, Borden?
 
-402
-00:32:30,490 --> 00:32:32,190
+
+
 I don't know.
 
-403
-00:32:47,740 --> 00:32:51,410
+
+
 He came in to demand an answer, and I told him the truth.
 
-404
-00:32:51,480 --> 00:32:54,640
+
+
 That I have fought with myself over that night,
 
-405
-00:32:54,720 --> 00:32:58,049
+
+
 one half of me swearing blind that I tied a simple slipknot,
 
-406
-00:32:58,119 --> 00:33:01,490
+
+
 the other half convinced that I tied the Langford double.
 
-407
-00:33:01,559 --> 00:33:03,579
+
+
 I can never know for sure.
 
-408
-00:33:06,529 --> 00:33:08,789
+
+
 How can he not know!
 
-409
-00:33:08,859 --> 00:33:10,630
+
+
 How can he not know?
 
-410
-00:33:12,269 --> 00:33:14,759
+
+
 He must know what he did.
 
-411
-00:33:14,839 --> 00:33:16,240
+
+
 He must.
 
-412
-00:33:18,869 --> 00:33:20,869
+
+
 Sarah, that bloody hurts.
 
-413
-00:33:21,579 --> 00:33:24,210
+
+
 I don't understand how it can be bleeding again.
 
-414
-00:33:24,279 --> 00:33:26,710
+
+
 It's as bad as the day it happened.
 
-415
-00:33:28,450 --> 00:33:32,390
+
+
 - We have to get a doctor back.
 - We can't afford the doctor back.
 
-416
-00:33:33,960 --> 00:33:37,549
+
+
 - You've woken her.
 - Great.
 
-417
-00:33:37,630 --> 00:33:40,529
+
+
 I'm sorry, I need this to heal so I can get back to work.
 
-418
-00:33:40,599 --> 00:33:44,359
+
+
 You've got to face things. What tricks can you perform with this injury?
 
-419
-00:33:44,430 --> 00:33:47,890
+
+
 I can do car pulls. I can do some prop tricks.
 
-420
-00:33:47,970 --> 00:33:52,339
+
+
 I can still do that. I can do the trick I've been telling you about.
 
-421
-00:33:52,410 --> 00:33:54,539
+
+
 The one that they're gonna remember me for.
 
-422
-00:33:56,910 --> 00:33:58,500
+
+
 Come on.
 
-423
-00:34:24,070 --> 00:34:27,269
+
+
 I never thought I'd find an answer at the bottom of a pint glass.
 
-424
-00:34:27,340 --> 00:34:28,929
+
+
 Hasn't stopped your looking.
 
-425
-00:34:34,150 --> 00:34:37,019
+
+
 Heard about a booking. Nice little theater.
 
-426
-00:34:37,090 --> 00:34:39,920
+
+
 - Young, up-and-coming magician.
 - Who?
 
-427
-00:34:39,989 --> 00:34:42,719
+
+
 - You.
 - Me? Booking? Why?
 
-428
-00:34:42,789 --> 00:34:44,880
+
+
 I want to keep on working.
 
-429
-00:34:44,960 --> 00:34:48,190
+
+
 Who's going to hire the ing茅nieur that killed Julia McCullough
 
-430
-00:34:48,260 --> 00:34:50,389
+
+
 in front of a sellout crowd at the Orpheum?
 
-431
-00:34:51,170 --> 00:34:53,360
+
+
 Someone who knows it wasn't your fault.
 
-432
-00:34:53,440 --> 00:34:56,929
+
+
 Someone who knows Alfred Borden and his repertoire of exotic knots.
 
-433
-00:34:57,010 --> 00:35:00,530
+
+
 I hear he had a spot of bad luck catching a bullet south of the river.
 
-434
-00:35:00,610 --> 00:35:03,409
+
+
 That's a dangerous trick, that one.
 
-435
-00:35:08,619 --> 00:35:10,590
+
+
 We'll have to whitewash the windows,
 
-436
-00:35:10,650 --> 00:35:14,349
+
+
 confound the more curious members of the public, but it will do.
 
-437
-00:35:16,190 --> 00:35:19,820
+
+
 - We should see about an assistant.
 - I've made some arrangements.
 
-438
-00:35:20,730 --> 00:35:22,489
+
+
 You settled on a name?
 
-439
-00:35:23,400 --> 00:35:25,059
+
+
 Yes, I have.
 
-440
-00:35:25,130 --> 00:35:27,000
+
+
 The Great Danton.
 
-441
-00:35:27,070 --> 00:35:29,590
+
+
 It's a bit old-fashioned, isn't it?
 
-442
-00:35:31,010 --> 00:35:33,239
+
+
 No, it's sophisticated.
 
-443
-00:35:33,309 --> 00:35:36,070
+
+
 The birdcage can't be our climax. Everybody knows it.
 
-444
-00:35:36,150 --> 00:35:38,550
+
+
 - Not like this.
 - I don't want to kill doves.
 
-445
-00:35:38,610 --> 00:35:40,480
+
+
 Then stay off the stage.
 
-446
-00:35:40,550 --> 00:35:42,239
+
+
 You're a magician, not a wizard.
 
-447
-00:35:42,320 --> 00:35:46,190
+
+
 You got to get your hands dirty, if you're going to achieve the impossible.
 
-448
-00:35:47,659 --> 00:35:50,019
+
+
 In here, Miss Wenscombe.
 
-449
-00:35:50,090 --> 00:35:54,550
+
+
 No point in meeting Mr. Angier if you don't fit. On the right.
 
-450
-00:35:57,730 --> 00:35:59,760
+
+
 - What's so hard about this?
 - Nothing.
 
-451
-00:35:59,840 --> 00:36:02,360
+
+
 You're going... down here.
 
-452
-00:36:08,179 --> 00:36:11,039
+
+
 - And this will conceal, right?
 - Oh, sure.
 
-453
-00:36:11,710 --> 00:36:13,309
+
+
 - Tighten up on there.
 - Yep.
 
-454
-00:36:13,380 --> 00:36:14,409
+
+
 OK.
 
-455
-00:36:16,519 --> 00:36:17,579
+
+
 This ties up here?
 
-456
-00:36:17,650 --> 00:36:19,050
+
+
 - Ties in the back.
 - Good.
 
-457
-00:36:25,130 --> 00:36:27,320
+
+
 Breathe as little as possible.
 
-458
-00:36:33,840 --> 00:36:36,460
+
+
 Now, you see?
 
-459
-00:36:36,539 --> 00:36:37,940
+
+
 - That's it.
 - OK.
 
-460
-00:36:41,380 --> 00:36:43,210
+
+
 She's not experienced,
 
-461
-00:36:43,280 --> 00:36:45,300
+
+
 but she knows how to present herself.
 
-462
-00:36:45,380 --> 00:36:49,980
+
+
 A pretty assistant is the most effective form of misdirection.
 
-463
-00:36:50,050 --> 00:36:53,420
+
+
 Thank you. Ladies and gentlemen, for my final trick,
 
-464
-00:36:53,489 --> 00:36:56,250
+
+
 I will require the assistance of two volunteers.
 
-465
-00:36:56,329 --> 00:36:58,590
+
+
 Mr. Merrit, if you would oblige me?
 
-466
-00:37:00,500 --> 00:37:02,019
+
+
 Yep.
 
-467
-00:37:03,829 --> 00:37:05,530
+
+
 - Under?
 - Under, yeah.
 
-468
-00:37:07,099 --> 00:37:08,400
+
+
 Come around his foot.
 
-469
-00:37:08,469 --> 00:37:09,900
+
+
 - Careful.
 - It's all right.
 
-470
-00:37:30,760 --> 00:37:33,019
+
+
 - Your volunteer, put their hand there.
 - Yeah?
 
-471
-00:37:33,099 --> 00:37:34,929
+
+
 And another one here.
 
-472
-00:37:35,000 --> 00:37:38,519
+
+
 If you'll place your hands on either side of the cage, please.
 
-473
-00:37:38,599 --> 00:37:39,929
+
+
 Thank you, Olivia.
 
-474
-00:37:40,000 --> 00:37:43,769
+
+
 You best not be intending to hurt this animal, Mr. Angier.
 
-475
-00:37:43,840 --> 00:37:46,210
+
+
 - Of course not.
 - Ready? Right.
 
-476
-00:37:46,980 --> 00:37:49,769
+
+
 - One...
 - Two...
 
-477
-00:37:50,510 --> 00:37:51,769
+
+
 Three.
 
-478
-00:37:55,780 --> 00:37:57,579
+
+
 That's bloody marvelous, Cutter.
 
-479
-00:37:58,590 --> 00:37:59,780
+
+
 Very nice.
 
-480
-00:37:59,860 --> 00:38:01,650
+
+
 And the best part is...
 
-481
-00:38:07,030 --> 00:38:09,460
+
+
 I thought you said I had to get my hands dirty.
 
-482
-00:38:09,530 --> 00:38:11,429
+
+
 Someday, perhaps you will.
 
-483
-00:38:11,500 --> 00:38:13,059
+
+
 I just had to know that you can.
 
-484
-00:38:13,139 --> 00:38:15,070
+
+
 Very nice. Very nice, indeed.
 
-485
-00:38:15,139 --> 00:38:18,800
+
+
 I haven't had the chance to compliment you on your beautiful theater.
 
-486
-00:38:18,869 --> 00:38:21,239
+
+
 It'll be a lot more beautiful when it's full.
 
-487
-00:38:21,309 --> 00:38:22,300
+
+
 Don't worry.
 
-488
-00:38:22,380 --> 00:38:24,610
+
+
 You all say that. Why should I worry?
 
-489
-00:38:24,679 --> 00:38:27,550
+
+
 If your tricks don't get them in, somebody else's will.
 
-490
-00:38:27,619 --> 00:38:31,710
+
+
 Maybe somebody willing to do a bullet catch or a water escape?
 
-491
-00:38:31,789 --> 00:38:33,349
+
+
 Cheap thrills, Mr. Merrit.
 
-492
-00:38:33,420 --> 00:38:37,090
+
+
 People hoping for an accident, likely to see one too.
 
-493
-00:38:37,159 --> 00:38:39,150
+
+
 What would that do for your business?
 
-494
-00:38:39,230 --> 00:38:42,090
+
+
 You got a week, John.
 
-495
-00:38:42,159 --> 00:38:45,530
+
+
 Thank you, Mr. Merrit.
 
-496
-00:38:53,510 --> 00:38:54,869
+
+
 Thank you.
 
-497
-00:38:56,679 --> 00:39:00,309
+
+
 Uh... Sir, in the third row there.
 
-498
-00:39:00,380 --> 00:39:03,079
+
+
 Please stand up and show us your handkerchief.
 
-499
-00:39:05,090 --> 00:39:06,880
+
+
 This isn't mine.
 
-500
-00:39:06,960 --> 00:39:10,409
+
+
 Perhaps you'd return it to the lady in the aisle of the second row.
 
-501
-00:39:10,489 --> 00:39:12,789
+
+
 I believe she has yours.
 
-502
-00:39:19,130 --> 00:39:23,800
+
+
 I'm sorry. I'm so sorry. I'm making so many mistakes. I'm so nervous.
 
-503
-00:39:23,869 --> 00:39:26,139
+
+
 The audience doesn't seem to be responding.
 
-504
-00:39:26,210 --> 00:39:28,440
+
+
 They've seen a lot of tricks before,
 
-505
-00:39:28,510 --> 00:39:31,000
+
+
 but not this next one.
 
-506
-00:39:40,059 --> 00:39:41,820
+
+
 Cloth over.
 
-507
-00:39:41,889 --> 00:39:43,650
+
+
 Keep your fingers crossed.
 
-508
-00:39:43,730 --> 00:39:45,989
+
+
 I'll have the champagne ready.
 
-509
-00:40:00,480 --> 00:40:03,769
+
+
 - You've seen this one before?
 - We've seen them all before.
 
-510
-00:40:03,849 --> 00:40:05,969
+
+
 I'll make it a little harder then, shall I?
 
-511
-00:40:06,050 --> 00:40:09,019
+
+
 Two volunteers, please. A lady and a gentlemen.
 
-512
-00:40:09,079 --> 00:40:12,280
+
+
 To hold this cage with me.
 
-513
-00:40:12,349 --> 00:40:14,320
+
+
 I'll perform this feat in a manner
 
-514
-00:40:14,389 --> 00:40:18,920
+
+
 never before seen by yourselves or any other audience anywhere in the world.
 
-515
-00:40:21,400 --> 00:40:24,019
+
+
 Madame, place one hand on the back of the cage,
 
-516
-00:40:24,099 --> 00:40:25,619
+
+
 one hand on the front.
 
-517
-00:40:25,699 --> 00:40:28,070
+
+
 Sir, one hand on the bottom of the cage
 
-518
-00:40:28,139 --> 00:40:29,659
+
+
 one hand on the top.
 
-519
-00:40:43,010 --> 00:40:45,909
+
+
 - I should've spotted him.
 - You had a lot of plates going.
 
-520
-00:40:45,980 --> 00:40:48,139
+
+
 - Don't suppose we can do this again.
 - No.
 
-521
-00:40:48,219 --> 00:40:50,650
+
+
 - So, what's the climax of our show?
 - Show?
 
-522
-00:40:50,719 --> 00:40:53,849
+
+
 - You don't have a show.
 - We have a week's engagement.
 
-523
-00:40:53,920 --> 00:40:57,519
+
+
 To perform magic, not butcher birds and break my customers' fingers.
 
-524
-00:40:57,590 --> 00:41:00,289
+
+
 Clear out, anything here in the morning gets burned.
 
-525
-00:41:00,360 --> 00:41:02,800
+
+
 - Mr. Merrit...
 - It's done, John.
 
-526
-00:41:02,869 --> 00:41:05,659
+
+
 I've hired a comedian. You know I hate comedians.
 
-527
-00:41:07,800 --> 00:41:10,289
+
+
 Well, there's plenty of good theaters.
 
-528
-00:41:10,369 --> 00:41:13,210
+
+
 If we can come up with a new trick,
 
-529
-00:41:13,280 --> 00:41:16,510
+
+
 - change the name of the act.
 - The name stays.
 
-530
-00:41:18,349 --> 00:41:23,480
+
+
 Right, well, then the new trick's gonna have to be irresistible then.
 
-531
-00:41:23,550 --> 00:41:25,579
+
+
 I have a couple of methods to try out.
 
-532
-00:41:25,659 --> 00:41:28,889
+
+
 And then we need a new angle on the presentation.
 
-533
-00:41:28,960 --> 00:41:30,789
+
+
 And if you need some inspiration,
 
-534
-00:41:30,860 --> 00:41:34,019
+
+
 there's a technical exposition at the Albert Hall this week.
 
-535
-00:41:34,099 --> 00:41:36,829
+
+
 Engineers, scientists, you know?
 
-536
-00:41:36,900 --> 00:41:40,199
+
+
 That sort of thing captures the public's imagination.
 
-537
-00:41:57,250 --> 00:42:00,650
+
+
 Mind if I join you? Tesla sends me down here during the storms.
 
-538
-00:42:00,719 --> 00:42:03,949
+
+
 Perfect excuse to come join the Great Danton for a drink.
 
-539
-00:42:04,929 --> 00:42:07,329
+
+
 Two of them.
 
-540
-00:42:07,400 --> 00:42:10,019
+
+
 Beautiful, isn't it? God, I miss New York, though.
 
-541
-00:42:10,099 --> 00:42:12,530
+
+
 - Why are you here?
 - The lightning lives here.
 
-542
-00:42:12,599 --> 00:42:14,230
+
+
 And not much else.
 
-543
-00:42:14,300 --> 00:42:15,829
+
+
 Our work is secret.
 
-544
-00:42:16,469 --> 00:42:18,369
+
+
 That a cipher?
 
-545
-00:42:20,480 --> 00:42:23,599
+
+
 A rotating transposition that shifts every day of the diary.
 
-546
-00:42:23,679 --> 00:42:27,670
+
+
 Simple but time-consuming to translate, even with the five-letter keyword.
 
-547
-00:42:27,750 --> 00:42:29,480
+
+
 Which is?
 
-548
-00:42:29,550 --> 00:42:31,539
+
+
 We magicians have a circle of trust.
 
-549
-00:42:31,619 --> 00:42:35,719
+
+
 You have a circle of trust with someone whose diary you stole?
 
-550
-00:42:35,789 --> 00:42:37,550
+
+
 Maybe I bought it.
 
-551
-00:42:37,630 --> 00:42:40,360
+
+
 And you're hoping to find a great secret in there?
 
-552
-00:42:40,429 --> 00:42:42,730
+
+
 I've already found it.
 
-553
-00:42:42,800 --> 00:42:44,199
+
+
 That's why I'm here.
 
-554
-00:42:50,409 --> 00:42:53,030
+
+
 Tesla built one for another magician.
 
-555
-00:42:53,110 --> 00:42:54,869
+
+
 Why would you want the same thing?
 
-556
-00:42:54,940 --> 00:42:56,940
+
+
 Call it a professional rivalry.
 
-557
-00:42:57,010 --> 00:43:01,139
+
+
 Mr. Tesla has built unusual machines for unusual people.
 
-558
-00:43:02,150 --> 00:43:05,250
+
+
 - But he would never talk about it.
 - I understand discretion.
 
-559
-00:43:05,320 --> 00:43:06,619
+
+
 I just want the machine.
 
-560
-00:43:09,960 --> 00:43:11,619
+
+
 Finish your drink.
 
-561
-00:43:12,599 --> 00:43:15,289
+
+
 I want to show you something. I think you'll have
 
-562
-00:43:15,360 --> 00:43:17,590
+
+
 a special appreciation for our work.
 
-563
-00:43:17,670 --> 00:43:21,130
+
+
 - I thought it was a secret.
 - You're a magician.
 
-564
-00:43:21,199 --> 00:43:22,929
+
+
 Who's gonna believe you?
 
-565
-00:43:24,110 --> 00:43:26,300
+
+
 Not long now.
 
-566
-00:43:26,380 --> 00:43:28,840
+
+
 Our equipment requires a great deal of current.
 
-567
-00:43:28,909 --> 00:43:30,639
+
+
 Tesla electrified the whole town
 
-568
-00:43:30,710 --> 00:43:33,769
+
+
 in exchange for using the generators when we need them.
 
-569
-00:43:34,980 --> 00:43:38,179
+
+
 We do our tests when the townspeople are asleep.
 
-570
-00:43:38,250 --> 00:43:40,949
+
+
 Mr. Tesla doesn't want to scare anyone.
 
-571
-00:43:58,769 --> 00:44:00,800
+
+
 Where are the wires?
 
-572
-00:44:02,179 --> 00:44:03,440
+
+
 Exactly.
 
-573
-00:44:12,659 --> 00:44:15,349
+
+
 Where's the generator?
 
-574
-00:44:15,420 --> 00:44:16,860
+
+
 You saw it last week.
 
-575
-00:44:16,929 --> 00:44:20,019
+
+
 - That must be ten miles from here.
 - Fifteen.
 
-576
-00:44:20,099 --> 00:44:24,190
+
+
 And I have to ride all of them before I get to bed.
 
-577
-00:44:24,269 --> 00:44:26,960
+
+
 I'll send word for you in a few days, Mr. Angier.
 
-578
-00:44:27,039 --> 00:44:31,130
+
+
 Magic. Real magic.
 
-579
-00:44:31,210 --> 00:44:33,329
+
+
 Now appearing, only here at London's Royal Albert Hall,
 
-580
-00:44:35,380 --> 00:44:37,679
+
+
 one of the miracles of our age.
 
-581
-00:44:37,750 --> 00:44:42,340
+
+
 A technological marvel. You've never seen anything like it in your lives.
 
-582
-00:44:42,420 --> 00:44:45,150
+
+
 Your eyes will not believe what they're witnessing.
 
-583
-00:44:45,219 --> 00:44:48,090
+
+
 The miracle of Nikola Tesla, ladies and gentlemen.
 
-584
-00:44:48,159 --> 00:44:50,650
+
+
 Free, clean power. Like to know the future?
 
-585
-00:44:50,730 --> 00:44:53,789
+
+
 The man who's speaking right now is going to change the world.
 
-586
-00:44:53,860 --> 00:44:58,230
+
+
 Come one, come all. Immediate seating, no waiting.
 
-587
-00:45:13,349 --> 00:45:14,579
+
+
 Ladies and gentlemen,
 
-588
-00:45:16,690 --> 00:45:18,519
+
+
 objections have been raised...
 
-589
-00:45:18,590 --> 00:45:22,019
+
+
 They should be raised. Does that look safe to you?
 
-590
-00:45:22,090 --> 00:45:24,650
+
+
 Part of Thomas Edison's smear campaign
 
-591
-00:45:24,730 --> 00:45:30,429
+
+
 against Mr. Tesla's superior alternating current.
 
-592
-00:45:30,500 --> 00:45:33,329
+
+
 We have asked Mr. Tesla to reconsider.
 
-593
-00:45:33,400 --> 00:45:35,889
+
+
 Which he will not!
 
-594
-00:45:35,969 --> 00:45:41,139
+
+
 But I've been told he refuses to appear under any such restrictions.
 
-595
-00:45:41,210 --> 00:45:43,769
+
+
 This thing's gonna blow.
 
-596
-00:45:45,110 --> 00:45:47,550
+
+
 Ladies and gentlemen, please.
 
-597
-00:46:26,260 --> 00:46:27,380
+
+
 Hey.
 
-598
-00:46:29,630 --> 00:46:32,059
+
+
 Hello, Jess.
 
-599
-00:46:34,530 --> 00:46:38,329
+
+
 Have you had a nice day with mommy? Huh?
 
-600
-00:46:39,269 --> 00:46:41,289
+
+
 Sarah.
 
-601
-00:46:41,369 --> 00:46:44,269
+
+
 - I love you.
 - See, today it's true.
 
-602
-00:46:44,340 --> 00:46:46,900
+
+
 - Yeah.
 - Hello.
 
-603
-00:46:48,809 --> 00:46:51,179
+
+
 I saw happiness.
 
-604
-00:46:51,250 --> 00:46:53,880
+
+
 Happiness that should have been mine.
 
-605
-00:46:53,949 --> 00:46:55,969
+
+
 But I was wrong.
 
-606
-00:46:56,050 --> 00:47:00,679
+
+
 His notebook reveals that he never had the life that I envied.
 
-607
-00:47:00,760 --> 00:47:03,380
+
+
 The family life that he craves one minute,
 
-608
-00:47:03,460 --> 00:47:07,760
+
+
 he rails against the next, demanding freedom.
 
-609
-00:47:07,829 --> 00:47:10,820
+
+
 His mind... his mind is a divided one.
 
-610
-00:47:10,900 --> 00:47:12,329
+
+
 His soul is restless.
 
-611
-00:47:12,400 --> 00:47:14,530
+
+
 His wife and child, tormented
 
-612
-00:47:14,599 --> 00:47:18,559
+
+
 by his fickle and contradictory nature.
 
-613
-00:47:22,780 --> 00:47:25,269
+
+
 So, what do you think you'll call her?
 
-614
-00:47:25,349 --> 00:47:26,710
+
+
 I don't know.
 
-615
-00:47:26,780 --> 00:47:29,079
+
+
 Everybody needs a name, so, what's hers?
 
-616
-00:47:29,989 --> 00:47:31,780
+
+
 Maybe Sarah.
 
-617
-00:47:34,159 --> 00:47:36,559
+
+
 That's a lovely name. That's a lovely name.
 
-618
-00:47:36,630 --> 00:47:39,860
+
+
 Well, you talk about what you want to do for the rest of the day.
 
-619
-00:47:39,929 --> 00:47:41,789
+
+
 All right, go on, you talk with her.
 
-620
-00:47:44,230 --> 00:47:48,500
+
+
 Are they taking her away?
 
-621
-00:47:48,570 --> 00:47:50,469
+
+
 To the workhouse?
 
-622
-00:47:53,309 --> 00:47:54,800
+
+
 You keep talking.
 
-623
-00:47:57,510 --> 00:47:59,909
+
+
 Tell Owens I've reconsidered. Take it.
 
-624
-00:47:59,980 --> 00:48:01,780
+
+
 Go on, take it.
 
-625
-00:48:05,349 --> 00:48:07,480
+
+
 It's for the best.
 
-626
-00:48:12,289 --> 00:48:14,889
+
+
 Let me see.
 
-627
-00:48:14,960 --> 00:48:17,590
+
+
 I'm gonna learn all the professor's secrets.
 
-628
-00:48:17,670 --> 00:48:21,099
+
+
 Only if I teach you how to read.
 
-629
-00:48:21,170 --> 00:48:23,539
+
+
 They're just stupid tricks, right?
 
-630
-00:48:23,610 --> 00:48:26,840
+
+
 Haven't helped you get out of here, have they?
 
-631
-00:48:26,909 --> 00:48:30,239
+
+
 Or can't you undo real locks, professor?
 
-632
-00:48:31,610 --> 00:48:34,280
+
+
 Maybe I'm just biding my time.
 
-633
-00:48:34,349 --> 00:48:36,840
+
+
 Maybe one day I'll...
 
-634
-00:48:36,920 --> 00:48:39,550
+
+
 ...open my hand, get your attention,
 
-635
-00:48:39,619 --> 00:48:42,519
+
+
 ask, "Are you watching closely?"
 
-636
-00:48:42,590 --> 00:48:44,679
+
+
 Maybe a magic whirl or two.
 
-637
-00:48:47,300 --> 00:48:49,130
+
+
 And then I'll be gone.
 
-638
-00:48:52,739 --> 00:48:55,800
+
+
 How'd you get so famous then?
 
-639
-00:48:56,710 --> 00:48:58,429
+
+
 Magic.
 
-640
-00:49:00,909 --> 00:49:03,780
+
+
 Oi! Borden, get back here!
 
-641
-00:49:03,849 --> 00:49:05,400
+
+
 Thank you.
 
-642
-00:49:05,480 --> 00:49:07,449
+
+
 Shut up!
 
-643
-00:49:10,750 --> 00:49:12,849
+
+
 Where's the bloody key?!
 
-644
-00:49:19,460 --> 00:49:21,929
+
+
 February 8,1899.
 
-645
-00:49:22,000 --> 00:49:24,119
+
+
 Today, finally, a breakthrough.
 
-646
-00:49:24,199 --> 00:49:26,929
+
+
 Tesla's agreed to see me.
 
-647
-00:49:34,679 --> 00:49:35,840
+
+
 Perfectly safe.
 
-648
-00:49:57,369 --> 00:50:01,130
+
+
 So this is the Great Danton.
 
-649
-00:50:01,199 --> 00:50:05,800
+
+
 Mr. Alley has effused about your act to me on any number of occasions.
 
-650
-00:50:07,639 --> 00:50:09,199
+
+
 Hold out other hand.
 
-651
-00:50:17,789 --> 00:50:21,590
+
+
 - What's conducting the electricity?
 - Our bodies, Mr. Angier.
 
-652
-00:50:21,659 --> 00:50:25,860
+
+
 Quite capable of conducting and, indeed, producing energy.
 
-653
-00:50:27,400 --> 00:50:29,460
+
+
 Have you eaten, Mr. Angier?
 
-654
-00:50:31,369 --> 00:50:34,530
+
+
 I need something impossible.
 
-655
-00:50:36,309 --> 00:50:41,070
+
+
 You're familiar with the phrase, "Man's reach exceeds his grasp"?
 
-656
-00:50:41,139 --> 00:50:42,840
+
+
 Is a lie.
 
-657
-00:50:42,909 --> 00:50:44,940
+
+
 Man's grasp exceeds his nerve.
 
-658
-00:50:46,150 --> 00:50:49,019
+
+
 Society only tolerates one change at a time.
 
-659
-00:50:50,489 --> 00:50:53,750
+
+
 First time I tried to change the world,
 
-660
-00:50:53,820 --> 00:50:55,590
+
+
 I was hailed as a visionary.
 
-661
-00:50:56,090 --> 00:50:58,219
+
+
 Second time...
 
-662
-00:50:58,289 --> 00:51:01,320
+
+
 ...I was asked politely to retire.
 
-663
-00:51:02,460 --> 00:51:05,989
+
+
 So here I am, enjoying my retirement.
 
-664
-00:51:06,070 --> 00:51:09,940
+
+
 Nothing is impossible, Mr. Angier. What you want is simply expensive.
 
-665
-00:51:10,010 --> 00:51:12,239
+
+
 If I were to build for you this machine,
 
-666
-00:51:12,309 --> 00:51:15,369
+
+
 you would be presenting it merely as illusion?
 
-667
-00:51:15,440 --> 00:51:18,780
+
+
 Well, if people actually believed the things I did on stage,
 
-668
-00:51:18,849 --> 00:51:21,250
+
+
 they wouldn't clap, they'd scream.
 
-669
-00:51:21,320 --> 00:51:23,309
+
+
 Think of sawing a woman in half.
 
-670
-00:51:23,389 --> 00:51:25,719
+
+
 Have you considered the cost of this?
 
-671
-00:51:25,789 --> 00:51:27,719
+
+
 Price is not an object.
 
-672
-00:51:27,789 --> 00:51:31,750
+
+
 Perhaps not, but have you considered the cost?
 
-673
-00:51:32,730 --> 00:51:34,059
+
+
 I'm not sure I follow.
 
-674
-00:51:35,130 --> 00:51:36,960
+
+
 Go home, forget this thing.
 
-675
-00:51:37,030 --> 00:51:39,230
+
+
 I can recognize an obsession.
 
-676
-00:51:39,300 --> 00:51:43,329
+
+
 - No good will come of it.
 - Hasn't good come of your obsessions?
 
-677
-00:51:43,409 --> 00:51:46,639
+
+
 At first, but I have followed them too long.
 
-678
-00:51:46,710 --> 00:51:48,639
+
+
 I am their slave.
 
-679
-00:51:48,710 --> 00:51:51,800
+
+
 And one day, they will choose to destroy me.
 
-680
-00:51:53,619 --> 00:51:58,050
+
+
 If you understand an obsession, then you know you won't change my mind.
 
-681
-00:51:58,989 --> 00:51:59,980
+
+
 So be it.
 
-682
-00:52:01,489 --> 00:52:02,820
+
+
 Will you build it?
 
-683
-00:52:03,789 --> 00:52:07,349
+
+
 I've already begun to build it, Mr. Angier.
 
-684
-00:52:07,429 --> 00:52:11,420
+
+
 I hope you enjoy the mountain air. This will take some time.
 
-685
-00:52:35,360 --> 00:52:38,050
+
+
 Uh... I thought you'd gone.
 
-686
-00:52:39,190 --> 00:52:41,659
+
+
 I don't really have anywhere to go.
 
-687
-00:52:43,630 --> 00:52:45,530
+
+
 You've been sleeping here?
 
-688
-00:52:45,599 --> 00:52:50,329
+
+
 Cutter said it'd be all right till we get another booking. What are you doing?
 
-689
-00:52:50,409 --> 00:52:52,639
+
+
 Uh... research.
 
-690
-00:52:52,710 --> 00:52:54,139
+
+
 Part of a magician's job
 
-691
-00:52:54,210 --> 00:52:57,079
+
+
 is to... watch his competition, see what illusions...
 
-692
-00:52:57,150 --> 00:53:00,079
+
+
 You're going to do something to that man, aren't you?
 
-693
-00:53:00,150 --> 00:53:02,010
+
+
 Cutter's hoping you let things lie.
 
-694
-00:53:02,079 --> 00:53:04,949
+
+
 He says if Borden thinks things are even between you...
 
-695
-00:53:05,019 --> 00:53:06,849
+
+
 Even?
 
-696
-00:53:06,920 --> 00:53:09,480
+
+
 My wife for a couple of his fingers?
 
-697
-00:53:09,559 --> 00:53:12,650
+
+
 He has a family now and he's performing again.
 
-698
-00:53:12,730 --> 00:53:15,559
+
+
 Borden is out there living his life just as he intended,
 
-699
-00:53:15,630 --> 00:53:18,329
+
+
 as if nothing had happened and look at me.
 
-700
-00:53:18,400 --> 00:53:20,889
+
+
 I'm alone and no theater will touch me.
 
-701
-00:53:20,969 --> 00:53:22,559
+
+
 Us.
 
-702
-00:53:22,639 --> 00:53:25,000
+
+
 You're going to need a better disguise.
 
-703
-00:53:42,519 --> 00:53:44,719
+
+
 I need a volunteer.
 
-704
-00:53:44,789 --> 00:53:46,260
+
+
 What happened?
 
-705
-00:53:47,260 --> 00:53:49,090
+
+
 Did you hurt him?
 
-706
-00:53:51,000 --> 00:53:52,300
+
+
 What happened, Robert?
 
-707
-00:53:54,699 --> 00:53:58,659
+
+
 You, sir. Just a rubber ball, yes?
 
-708
-00:53:58,739 --> 00:53:59,829
+
+
 Thank you.
 
-709
-00:53:59,909 --> 00:54:02,500
+
+
 Just a rubber ball? No.
 
-710
-00:54:02,579 --> 00:54:05,769
+
+
 Not normal. Not a normal rubber ball.
 
-711
-00:54:05,849 --> 00:54:06,969
+
+
 It's magic.
 
-712
-00:54:07,780 --> 00:54:09,840
+
+
 He had a new trick.
 
-713
-00:54:23,869 --> 00:54:25,420
+
+
 Was it good?
 
-714
-00:54:28,909 --> 00:54:33,760
+
+
 It was the greatest magic trick I've ever seen.
 
-715
-00:54:37,679 --> 00:54:38,909
+
+
 Did they applaud when you saw it?
 
-716
-00:54:39,880 --> 00:54:43,750
+
+
 It was too good. It was too simple. The audience hardly had time to see it.
 
-717
-00:54:43,820 --> 00:54:46,690
+
+
 - He's a dreadful magician.
 - A wonderful magician.
 
-718
-00:54:46,760 --> 00:54:49,280
+
+
 He's a dreadful showman. He doesn't dress it up,
 
-719
-00:54:49,360 --> 00:54:51,190
+
+
 - how to sell it.
 - How does he do it?
 
-720
-00:54:51,260 --> 00:54:53,280
+
+
 - He uses a double.
 - No, it's too simple.
 
-721
-00:54:53,360 --> 00:54:54,849
+
+
 This is a complex illusion.
 
-722
-00:54:54,929 --> 00:54:57,329
+
+
 You say that because you don't know the method.
 
-723
-00:54:57,400 --> 00:54:59,800
+
+
 It's a double that comes out. It's the only way.
 
-724
-00:54:59,869 --> 00:55:03,769
+
+
 I've seen him perform it three times. The prestige is the same man.
 
-725
-00:55:03,840 --> 00:55:07,369
+
+
 - No, it's not.
 - The same man comes out of the cabinet.
 
-726
-00:55:07,440 --> 00:55:09,710
+
+
 It's the same man.
 
-727
-00:55:09,780 --> 00:55:12,469
+
+
 He wears padded gloves to hide his damaged fingers,
 
-728
-00:55:12,550 --> 00:55:15,139
+
+
 but, if you look closely, you can tell.
 
-729
-00:55:16,849 --> 00:55:19,719
+
+
 He doesn't know how to sell it to an audience, but I do.
 
-730
-00:55:19,789 --> 00:55:22,219
+
+
 Yeah, we could use it as a climax to the show.
 
-731
-00:55:22,289 --> 00:55:24,690
+
+
 Yes.
 
-732
-00:55:24,760 --> 00:55:27,960
+
+
 The man stole my life, I'm gonna steal his trick.
 
-733
-00:55:28,030 --> 00:55:30,190
+
+
 We got to find someone who looks like you.
 
-734
-00:55:30,269 --> 00:55:33,789
+
+
 - He doesn't use a double.
 - I don't know how Borden does it.
 
-735
-00:55:33,869 --> 00:55:38,360
+
+
 Either... You either wait for him to retire and buy the secret,
 
-736
-00:55:38,440 --> 00:55:40,239
+
+
 or you listen to how I would do it.
 
-737
-00:55:40,309 --> 00:55:42,829
+
+
 And the only way that I know how to do it
 
-738
-00:55:42,909 --> 00:55:45,380
+
+
 is to find you a bloody good double.
 
-739
-00:55:46,380 --> 00:55:47,780
+
+
 All right.
 
-740
-00:55:49,219 --> 00:55:51,710
+
+
 Take a good look. Let's get out there and find me.
 
-741
-00:55:51,789 --> 00:55:53,909
+
+
 Whoo!
 
-742
-00:55:53,989 --> 00:55:55,480
+
+
 Look, look.
 
-743
-00:56:00,030 --> 00:56:01,550
+
+
 What's that?
 
-744
-00:56:04,900 --> 00:56:07,199
+
+
 - It's for you.
 - What's this for?
 
-745
-00:56:07,840 --> 00:56:09,670
+
+
 Come.
 
-746
-00:56:11,909 --> 00:56:14,570
+
+
 You...
 
-747
-00:56:14,639 --> 00:56:18,670
+
+
 - I asked you last week...
 - You caught me in a wrong mood.
 
-748
-00:56:18,750 --> 00:56:20,940
+
+
 - But you won't ever...
 - Sarah,
 
-749
-00:56:21,019 --> 00:56:24,179
+
+
 I'm gonna have to change my mind, aren't I?
 
-750
-00:56:24,250 --> 00:56:28,920
+
+
 The act is taking off. Soon we'll be in a bigger theater, things will work out.
 
-751
-00:56:31,489 --> 00:56:35,289
+
+
 I can't believe it. Thank you. Thank you. It's beautiful.
 
-752
-00:56:41,940 --> 00:56:45,030
+
+
 - Gerry?
 - Darling, look at you.
 
-753
-00:56:45,110 --> 00:56:48,079
+
+
 Mr. Cutter, Mr. Angier, I'd like you to meet Gerald Root.
 
-754
-00:56:48,139 --> 00:56:50,300
+
+
 Mm-hm.
 
-755
-00:56:53,150 --> 00:56:57,079
+
+
 A pleasure. Pleasure to meet you fine gentlemen.
 
-756
-00:56:57,150 --> 00:57:00,880
+
+
 Would you like for me to tell you a little joke? Come here.
 
-757
-00:57:03,929 --> 00:57:07,019
+
+
 Yes. Are you laughing now?
 
-758
-00:57:10,469 --> 00:57:12,090
+
+
 I have to take a piss.
 
-759
-00:57:13,500 --> 00:57:16,599
+
+
 - He's out of his mind.
 - Of course, he's an out-of-work actor.
 
-760
-00:57:16,670 --> 00:57:18,570
+
+
 He's perfect. He needs a little help.
 
-761
-00:57:18,639 --> 00:57:21,610
+
+
 But when I get done with him, he could be your brother.
 
-762
-00:57:21,679 --> 00:57:24,269
+
+
 I don't need him to be my brother, I need him to be me.
 
-763
-00:57:24,349 --> 00:57:26,039
+
+
 Give me a month.
 
-764
-00:57:32,820 --> 00:57:35,449
+
+
 So you open the door...
 
-765
-00:57:35,519 --> 00:57:36,989
+
+
 ...and...
 
-766
-00:57:44,369 --> 00:57:46,130
+
+
 Come on.
 
-767
-00:57:49,840 --> 00:57:51,769
+
+
 Couldn't you have found a softer one?
 
-768
-00:57:51,840 --> 00:57:54,170
+
+
 Well, it's not for sleeping on.
 
-769
-00:57:54,239 --> 00:57:56,300
+
+
 So, if you come down through there...
 
-770
-00:57:58,980 --> 00:58:02,010
+
+
 - ...does Root go up through there?
 - Yep.
 
-771
-00:58:02,079 --> 00:58:04,139
+
+
 It's going to be amazing.
 
-772
-00:58:04,219 --> 00:58:07,679
+
+
 Well, it has to be. Borden's trick is getting noticed.
 
-773
-00:58:10,530 --> 00:58:12,889
+
+
 The place was packed today.
 
-774
-00:58:14,500 --> 00:58:16,289
+
+
 You went and saw his show again.
 
-775
-00:58:16,360 --> 00:58:18,800
+
+
 Ready to meet yourself, Mr. Angier?
 
-776
-00:58:27,179 --> 00:58:29,510
+
+
 All I have to do is keep myself stinking drunk,
 
-777
-00:58:29,579 --> 00:58:31,909
+
+
 and no one will be able to tell the difference.
 
-778
-00:58:31,980 --> 00:58:34,070
+
+
 Have a little faith, sir.
 
-779
-00:58:34,150 --> 00:58:38,050
+
+
 Now, would you favor us with a performance, Mr. Root?
 
-780
-00:58:57,909 --> 00:59:02,969
+
+
 You'd drink, too, if you knew the world half as well as I do.
 
-781
-00:59:06,679 --> 00:59:08,380
+
+
 Did you think you were unique?
 
-782
-00:59:08,449 --> 00:59:11,150
+
+
 I've been Caesar, I've played Faust.
 
-783
-00:59:11,219 --> 00:59:14,309
+
+
 How difficult could it possibly be to play the Great Danton?
 
-784
-00:59:14,389 --> 00:59:17,519
+
+
 You can go back to being yourself now, Root, for nothing.
 
-785
-00:59:17,590 --> 00:59:19,860
+
+
 I'd rather be him for now.
 
-786
-00:59:19,929 --> 00:59:22,690
+
+
 I find it, uh... amusing.
 
-787
-00:59:26,130 --> 00:59:27,860
+
+
 "My liege,
 
-788
-00:59:27,940 --> 00:59:31,269
+
+
 I did deny no prisoners."
 
-789
-00:59:31,340 --> 00:59:33,500
+
+
 - You look wonderful.
 - Oh, thank you.
 
-790
-00:59:33,579 --> 00:59:36,840
+
+
 Root has to keep a low profile. Anyone sees him, the game's up.
 
-791
-00:59:36,909 --> 00:59:39,710
+
+
 I don't know how you do things. I'm not sure I wanna know.
 
-792
-00:59:39,780 --> 00:59:42,110
+
+
 Have you thought what we should call it?
 
-793
-00:59:42,179 --> 00:59:46,349
+
+
 There's no point being coy. Borden calls his trick The Transported Man.
 
-794
-00:59:50,260 --> 00:59:53,420
+
+
 Ladies and gentlemen, much of what you've seen may be termed
 
-795
-00:59:53,500 --> 00:59:57,260
+
+
 as illusions or entertaining trifles.
 
-796
-01:00:01,940 --> 01:00:02,989
+
+
 Alas...
 
-797
-01:00:05,170 --> 01:00:07,699
+
+
 ...I cannot claim this next feat as illusion.
 
-798
-01:00:08,610 --> 01:00:09,800
+
+
 Watch carefully.
 
-799
-01:00:11,250 --> 01:00:13,679
+
+
 You will see no trickery,
 
-800
-01:00:13,750 --> 01:00:16,840
+
+
 for no trickery is employed.
 
-801
-01:00:16,920 --> 01:00:20,289
+
+
 Merely a technique familiar to certain citizens of the Orient
 
-802
-01:00:20,360 --> 01:00:22,519
+
+
 and various holy men of the Himalayas.
 
-803
-01:00:25,789 --> 01:00:28,820
+
+
 Indeed, many of you may be familiar with this technique,
 
-804
-01:00:28,900 --> 01:00:32,059
+
+
 but for those of you who are not, do not be alarmed.
 
-805
-01:00:32,130 --> 01:00:35,190
+
+
 What you're about to see is considered safe.
 
-806
-01:01:06,769 --> 01:01:09,829
+
+
 To our achievement.
 
-807
-01:01:09,900 --> 01:01:12,670
+
+
 The manager says he's never seen a reaction like it.
 
-808
-01:01:12,739 --> 01:01:16,039
+
+
 At least he saw it. I spent the ovation hiding under the stage.
 
-809
-01:01:16,110 --> 01:01:18,440
+
+
 No one cares about the man who disappears.
 
-810
-01:01:18,510 --> 01:01:20,500
+
+
 They care about the one who comes out.
 
-811
-01:01:20,579 --> 01:01:22,639
+
+
 I care about the man in the box.
 
-812
-01:01:22,719 --> 01:01:27,019
+
+
 Thank you. I don't know, maybe we could switch before the trick.
 
-813
-01:01:27,090 --> 01:01:29,250
+
+
 I'm the prestige, and Root's below stage.
 
-814
-01:01:29,320 --> 01:01:32,260
+
+
 No, the anticipation of the trick is everything.
 
-815
-01:01:32,329 --> 01:01:35,389
+
+
 We need your showmanship to build up the suspense.
 
-816
-01:01:35,460 --> 01:01:39,019
+
+
 Once Root opens his mouth, it's over. He can't introduce this trick.
 
-817
-01:01:39,099 --> 01:01:41,829
+
+
 Of course I can. I'm the Great Danton.
 
-818
-01:01:41,900 --> 01:01:45,500
+
+
 Root, you bloody fool, get out of that wardrobe and makeup.
 
-819
-01:01:45,570 --> 01:01:48,239
+
+
 Anyone could walk in here at any minute.
 
-820
-01:01:48,309 --> 01:01:50,369
+
+
 Congratulations, all.
 
-821
-01:01:50,449 --> 01:01:54,139
+
+
 Life is not full of these moments. We worked hard.
 
-822
-01:01:54,219 --> 01:01:55,880
+
+
 We need to celebrate properly.
 
-823
-01:01:59,619 --> 01:02:02,090
+
+
 What's wrong? Is it your wife?
 
-824
-01:02:02,159 --> 01:02:04,460
+
+
 No, it's the trick. It isn't good enough.
 
-825
-01:02:04,530 --> 01:02:07,860
+
+
 Borden's trick is nothing compared to ours. He has no style.
 
-826
-01:02:07,929 --> 01:02:11,800
+
+
 He doesn't spend the finale hiding under the stage.
 
-827
-01:02:11,869 --> 01:02:14,769
+
+
 - I need to know how he does it.
 - Why?
 
-828
-01:02:14,840 --> 01:02:17,329
+
+
 So I can do it better.
 
-829
-01:02:19,409 --> 01:02:21,880
+
+
 I need you to go and work for him.
 
-830
-01:02:24,909 --> 01:02:26,639
+
+
 Work for him? Are you joking?
 
-831
-01:02:27,920 --> 01:02:29,110
+
+
 You'll be my spy.
 
-832
-01:02:29,179 --> 01:02:31,380
+
+
 We just got our start. You want me to leave?
 
-833
-01:02:31,449 --> 01:02:33,550
+
+
 That's how we advance. Think of it.
 
-834
-01:02:33,619 --> 01:02:36,820
+
+
 People are excited by Cutter's version. Imagine what we'd do
 
-835
-01:02:36,889 --> 01:02:41,329
+
+
 with the real illusion. We'd have the greatest magic act anyone's ever seen.
 
-836
-01:02:41,400 --> 01:02:45,159
+
+
 - He knows I work for you.
 - Exactly why he'll want to hire you.
 
-837
-01:02:45,230 --> 01:02:47,789
+
+
 - He'll want my secret.
 - Why would he trust me?
 
-838
-01:02:47,869 --> 01:02:50,570
+
+
 Because you're gonna tell him the truth.
 
-839
-01:02:53,480 --> 01:02:55,309
+
+
 Hmm?
 
-840
-01:03:02,849 --> 01:03:03,980
+
+
 Good girl.
 
-841
-01:03:07,159 --> 01:03:10,679
+
+
 You must be curious to see what so much money has bought you.
 
-842
-01:03:11,360 --> 01:03:14,260
+
+
 Fitting you should be here for her maiden voyage.
 
-843
-01:03:14,329 --> 01:03:16,159
+
+
 Your hat.
 
-844
-01:03:24,110 --> 01:03:26,699
+
+
 You might want to stand back.
 
-845
-01:03:47,159 --> 01:03:48,289
+
+
 I don't understand.
 
-846
-01:03:48,360 --> 01:03:50,699
+
+
 Perhaps it would be best if you left us to it.
 
-847
-01:03:50,769 --> 01:03:52,389
+
+
 Is there a problem, Mr. Tesla?
 
-848
-01:03:52,469 --> 01:03:54,489
+
+
 - No. Come back next week.
 - Next week?
 
-849
-01:03:54,570 --> 01:03:57,130
+
+
 - Next week, it will be fine.
 - Tesla!
 
-850
-01:03:57,210 --> 01:03:58,929
+
+
 Just a little temperamental.
 
-851
-01:04:04,780 --> 01:04:07,679
+
+
 - Interesting workshop.
 - Yeah, we make do.
 
-852
-01:04:07,750 --> 01:04:09,909
+
+
 - My name is Olivia...
 - I know who you are.
 
-853
-01:04:09,980 --> 01:04:11,650
+
+
 Here to steal the rest of my show?
 
-854
-01:04:11,719 --> 01:04:13,619
+
+
 To give your show what it's missing.
 
-855
-01:04:13,690 --> 01:04:16,920
+
+
 - Yeah, what might that be?
 - Me.
 
-856
-01:04:16,989 --> 01:04:21,449
+
+
 I was just saying that, wasn't I?
 
-857
-01:04:21,530 --> 01:04:23,829
+
+
 - A woman's touch.
 - I've left Angier.
 
-858
-01:04:23,900 --> 01:04:25,960
+
+
 - All right.
 - I want a job.
 
-859
-01:04:26,030 --> 01:04:27,369
+
+
 Yeah.
 
-860
-01:04:27,440 --> 01:04:29,269
+
+
 I know you've no reason to trust me.
 
-861
-01:04:29,340 --> 01:04:30,900
+
+
 Why wouldn't I trust you?
 
-862
-01:04:30,969 --> 01:04:34,409
+
+
 You're only the mistress of my enemy. Why wouldn't I trust you?
 
-863
-01:04:36,079 --> 01:04:38,010
+
+
 - Mr. Borden.
 - Alfred.
 
-864
-01:04:40,449 --> 01:04:42,110
+
+
 I'm going to tell you the truth.
 
-865
-01:04:42,179 --> 01:04:44,409
+
+
 Now that is a slippery notion
 
-866
-01:04:44,489 --> 01:04:46,820
+
+
 in our line of work, isn't it, Miss Wenscombe?
 
-867
-01:04:48,920 --> 01:04:51,590
+
+
 I am here because he sent me here.
 
-868
-01:04:51,659 --> 01:04:54,130
+
+
 He wants me to work for you and steal your secret.
 
-869
-01:04:54,199 --> 01:04:57,559
+
+
 What does he need my secret for? His trick is topnotch.
 
-870
-01:04:57,630 --> 01:05:00,230
+
+
 He vanishes, and then he reappears instantly
 
-871
-01:05:00,300 --> 01:05:02,789
+
+
 on the other side of the stage, mute, overweight
 
-872
-01:05:02,869 --> 01:05:05,429
+
+
 and, unless I'm mistaken, very drunk.
 
-873
-01:05:05,510 --> 01:05:09,000
+
+
 It's astonishing. How does he do it? And tell me, Olivia,
 
-874
-01:05:09,079 --> 01:05:12,539
+
+
 does he enjoy taking his bows under the stage?
 
-875
-01:05:12,610 --> 01:05:15,909
+
+
 It's killing him. He's obsessed with discovering your methods.
 
-876
-01:05:15,980 --> 01:05:19,039
+
+
 He thinks of nothing else, takes no pleasure in our success.
 
-877
-01:05:19,119 --> 01:05:20,610
+
+
 And I've had enough.
 
-878
-01:05:20,690 --> 01:05:23,090
+
+
 There is no future with him.
 
-879
-01:05:24,230 --> 01:05:27,960
+
+
 He sent me here to steal your secrets, but I've come to offer you his.
 
-880
-01:05:28,030 --> 01:05:31,929
+
+
 This is the truth... is it?
 
-881
-01:05:36,469 --> 01:05:38,769
+
+
 Think you'd better get dressed, sir.
 
-882
-01:05:38,840 --> 01:05:42,869
+
+
 Root, you're late and more drunk than usual. Get down below stairs right away.
 
-883
-01:05:42,940 --> 01:05:44,670
+
+
 No.
 
-884
-01:05:44,750 --> 01:05:48,110
+
+
 No, we need to have a little chat, Mr. Cutter.
 
-885
-01:05:48,179 --> 01:05:52,519
+
+
 We have a problem. Cutter, Borden is performing right across the street.
 
-886
-01:05:52,590 --> 01:05:55,849
+
+
 Yeah, we have a bigger problem.
 
-887
-01:05:55,920 --> 01:05:58,920
+
+
 Root. He's realized that he can make demands.
 
-888
-01:05:58,989 --> 01:06:01,090
+
+
 Wha...? He's blackmailing us?
 
-889
-01:06:01,159 --> 01:06:03,130
+
+
 I was surprised, to tell you the truth.
 
-890
-01:06:03,199 --> 01:06:05,789
+
+
 It usually takes them a lot longer to figure it out.
 
-891
-01:06:05,869 --> 01:06:08,429
+
+
 - How much does he want?
 - It makes no difference.
 
-892
-01:06:08,500 --> 01:06:11,960
+
+
 - We've got to stop doing the trick.
 - Stop the trick? Look at this.
 
-893
-01:06:12,039 --> 01:06:17,880
+
+
 Last week they said you were the premier stage performer in London.
 
-894
-01:06:17,949 --> 01:06:21,309
+
+
 Not magician, mind you. Performer of any kind.
 
-895
-01:06:21,380 --> 01:06:24,610
+
+
 - What's your point?
 - My point is, you've climbed too high
 
-896
-01:06:24,690 --> 01:06:27,119
+
+
 to get away with professional embarrassment.
 
-897
-01:06:27,190 --> 01:06:30,559
+
+
 We don't do any tricks we can't control.
 
-898
-01:06:32,730 --> 01:06:36,030
+
+
 Just pay him for now. We keep doing the trick until Borden opens,
 
-899
-01:06:36,099 --> 01:06:38,070
+
+
 and then we'll phase it out.
 
-900
-01:06:38,969 --> 01:06:40,460
+
+
 All right.
 
-901
-01:06:43,239 --> 01:06:45,360
+
+
 Cutter was always surprised
 
-902
-01:06:45,440 --> 01:06:47,340
+
+
 how fast Root turned bad.
 
-903
-01:06:47,409 --> 01:06:51,969
+
+
 To what do I owe the pleasure of this rather welcome pint of ale?
 
-904
-01:06:52,050 --> 01:06:55,170
+
+
 - You're the Great Danton, aren't you?
 - Sh, sh, sh, sh, sh.
 
-905
-01:06:55,250 --> 01:06:58,909
+
+
 Of course I am, but don't advertise it, because I'll be mobbed with fans.
 
-906
-01:06:58,989 --> 01:07:01,420
+
+
 We paid him enough to keep him in beers.
 
-907
-01:07:01,489 --> 01:07:03,579
+
+
 You wouldn't expect him to rock the boat.
 
-908
-01:07:03,659 --> 01:07:06,250
+
+
 Many of you may be familiar with this technique,
 
-909
-01:07:06,329 --> 01:07:09,820
+
+
 but for those of you who aren't, do not be alarmed.
 
-910
-01:07:09,900 --> 01:07:13,059
+
+
 What you're about to see is considered safe.
 
-911
-01:07:13,130 --> 01:07:16,760
+
+
 - And who are you?
 - I am a humble admirer
 
-912
-01:07:16,840 --> 01:07:19,429
+
+
 and a fellow practitioner.
 
-913
-01:07:19,510 --> 01:07:21,869
+
+
 Mmm. Very good.
 
-914
-01:07:31,250 --> 01:07:34,090
+
+
 - Another one?
 - Oh, if you insist.
 
-915
-01:07:34,159 --> 01:07:36,889
+
+
 - Another.
 - I'm not performing tonight.
 
-916
-01:07:36,960 --> 01:07:38,980
+
+
 I'm only doing one show, but to be frank,
 
-917
-01:07:39,059 --> 01:07:41,389
+
+
 my people pretty much run things these days.
 
-918
-01:07:41,460 --> 01:07:42,659
+
+
 Get up there.
 
-919
-01:07:44,030 --> 01:07:45,090
+
+
 Get up!
 
-920
-01:07:45,170 --> 01:07:47,929
+
+
 Your illusion, The Transported Man,
 
-921
-01:07:48,000 --> 01:07:50,599
+
+
 I'm not claiming to know your methods,
 
-922
-01:07:50,670 --> 01:07:54,869
+
+
 but I had a similar trick in my act,
 
-923
-01:07:54,940 --> 01:07:57,780
+
+
 and, uh...I used a double.
 
-924
-01:07:57,849 --> 01:08:03,039
+
+
 - Mm, I see, very good.
 - Well, it was, and then it went bad.
 
-925
-01:08:03,119 --> 01:08:06,519
+
+
 What I didn't count on was that when I incorporated this bloke
 
-926
-01:08:06,590 --> 01:08:08,679
+
+
 into my act,
 
-927
-01:08:08,760 --> 01:08:10,750
+
+
 he had complete power over me.
 
-928
-01:08:11,889 --> 01:08:13,519
+
+
 Complete power, you say?
 
-929
-01:08:29,510 --> 01:08:30,939
+
+
 Ohh!
 
-930
-01:08:31,010 --> 01:08:36,279
+
+
 Be very careful giving someone that power over you.
 
-931
-01:08:36,350 --> 01:08:40,680
+
+
 Huh. Thank you. Um...
 
-932
-01:08:40,760 --> 01:08:43,619
+
+
 Yes, thank you for the warning.
 
-933
-01:08:43,689 --> 01:08:46,390
+
+
 Hmm. Cheers.
 
-934
-01:08:47,829 --> 01:08:49,960
+
+
 I cannot claim this next feat as illusion.
 
-935
-01:08:50,029 --> 01:08:53,399
+
+
 What you're about to see is considered safe.
 
-936
-01:08:57,710 --> 01:08:59,399
+
+
 Ahh!
 
-937
-01:09:31,640 --> 01:09:36,600
+
+
 Oh! The Great Danton.
 
-938
-01:09:42,819 --> 01:09:44,680
+
+
 I apologize.
 
-939
-01:09:44,750 --> 01:09:48,520
+
+
 There simply is too much magic...
 
-940
-01:09:48,590 --> 01:09:51,350
+
+
 ...for my stage at The Pantages
 
-941
-01:09:51,430 --> 01:09:53,590
+
+
 across the street.
 
-942
-01:09:57,630 --> 01:10:00,569
+
+
 Pardon my intrusion.
 
-943
-01:10:02,640 --> 01:10:07,039
+
+
 And go easy on the poor chap. He does try so very hard.
 
-944
-01:10:09,909 --> 01:10:12,350
+
+
 I don't know how Borden found him.
 
-945
-01:10:12,409 --> 01:10:14,310
+
+
 Kept him under wraps. I was careful.
 
-946
-01:10:14,380 --> 01:10:16,039
+
+
 Yeah, well, he did.
 
-947
-01:10:17,220 --> 01:10:19,210
+
+
 Do you think it was her?
 
-948
-01:10:25,460 --> 01:10:28,430
+
+
 You weren't expecting me?
 
-949
-01:10:28,500 --> 01:10:31,229
+
+
 I expected you sooner. Your message said afternoon.
 
-950
-01:10:31,300 --> 01:10:33,560
+
+
 It takes a bit for me to get around these days.
 
-951
-01:10:33,630 --> 01:10:37,699
+
+
 He's taken everything from me. My wife, my career,
 
-952
-01:10:37,770 --> 01:10:39,640
+
+
 - now you.
 - You sent me.
 
-953
-01:10:39,710 --> 01:10:42,770
+
+
 I sent you to steal his secret, not to improve his act.
 
-954
-01:10:42,840 --> 01:10:44,399
+
+
 - It's my job.
 - Or fall in love!
 
-955
-01:10:44,479 --> 01:10:47,239
+
+
 - I did everything you asked!
 - Yes? Yes?
 
-956
-01:10:47,319 --> 01:10:48,909
+
+
 - How does he do it?
 - Cutter was right, a double.
 
-957
-01:10:49,880 --> 01:10:52,109
+
+
 -'Course he said that.
 - He didn't say it.
 
-958
-01:10:52,189 --> 01:10:55,619
+
+
 I've seen things, makeup, glasses, wigs. We don't use for the show.
 
-959
-01:10:55,689 --> 01:10:58,420
+
+
 - I've seen it hidden backstage.
 - Misdirection.
 
-960
-01:10:58,489 --> 01:11:01,189
+
+
 He leaves them lying around to make you think that.
 
-961
-01:11:01,260 --> 01:11:03,130
+
+
 He doesn't know when I'm looking.
 
-962
-01:11:03,199 --> 01:11:06,430
+
+
 All the time, Olivia! That's who he is!
 
-963
-01:11:06,500 --> 01:11:07,760
+
+
 That's what it takes!
 
-964
-01:11:07,840 --> 01:11:10,270
+
+
 He lives his act, don't you see?
 
-965
-01:11:12,310 --> 01:11:15,670
+
+
 Just because you're sleeping with him doesn't mean he trusts you.
 
-966
-01:11:15,739 --> 01:11:18,140
+
+
 You think you can see everything, don't you?
 
-967
-01:11:18,210 --> 01:11:21,050
+
+
 The Great Danton is a blind fool.
 
-968
-01:11:21,119 --> 01:11:22,510
+
+
 His notebook.
 
-969
-01:11:23,880 --> 01:11:26,149
+
+
 You stole it?
 
-970
-01:11:26,220 --> 01:11:28,020
+
+
 I borrowed it for tonight.
 
-971
-01:11:28,090 --> 01:11:30,279
+
+
 I thought you could translate some of it...
 
-972
-01:11:30,359 --> 01:11:34,420
+
+
 I can't. No one can. It's a cipher.
 
-973
-01:11:34,500 --> 01:11:37,930
+
+
 Even with the keyword, it will take months to decode.
 
-974
-01:11:38,000 --> 01:11:40,899
+
+
 - And without the keyword?
 - Perhaps never.
 
-975
-01:11:40,970 --> 01:11:42,600
+
+
 - We'll see.
 - We will not see.
 
-976
-01:11:42,670 --> 01:11:45,609
+
+
 If I don't get that back by tomorrow he'll know I took it.
 
-977
-01:11:45,670 --> 01:11:47,970
+
+
 - Leave him.
 - I can't. He knows where I live.
 
-978
-01:11:49,310 --> 01:11:54,109
+
+
 This is his diary, Olivia. All of his secrets are right here in my hands.
 
-979
-01:11:54,779 --> 01:11:56,369
+
+
 It won't bring your wife back.
 
-980
-01:11:56,449 --> 01:11:59,149
+
+
 I don't care about my wife. I care about his secret.
 
-981
-01:12:12,399 --> 01:12:15,130
+
+
 Look, I'll, um...
 
-982
-01:12:15,199 --> 01:12:17,529
+
+
 I'll go to his workshop and stage a break-in.
 
-983
-01:12:17,609 --> 01:12:20,800
+
+
 - He'll know you took it.
 - Yes, me. Not you.
 
-984
-01:12:21,909 --> 01:12:23,899
+
+
 Understand?
 
-985
-01:12:32,350 --> 01:12:33,340
+
+
 Robert.
 
-986
-01:12:35,760 --> 01:12:38,550
+
+
 I have fallen in love with him.
 
-987
-01:12:39,460 --> 01:12:41,930
+
+
 Then I know how hard this has been for you.
 
-988
-01:12:50,470 --> 01:12:51,960
+
+
 Notebook?
 
-989
-01:12:54,609 --> 01:12:56,600
+
+
 Then he's just getting started.
 
-990
-01:13:25,840 --> 01:13:27,310
+
+
 Professor!
 
-991
-01:13:27,369 --> 01:13:28,859
+
+
 Good evening.
 
-992
-01:13:33,750 --> 01:13:35,369
+
+
 I'm walking tonight.
 
-993
-01:13:35,449 --> 01:13:38,010
+
+
 Let him come. I don't care.
 
-994
-01:13:38,090 --> 01:13:40,779
+
+
 Professor! Professor!
 
-995
-01:15:03,170 --> 01:15:04,600
+
+
 Ahh!
 
-996
-01:15:04,670 --> 01:15:07,229
+
+
 - You all right?
 - I'm alive.
 
-997
-01:15:07,310 --> 01:15:09,399
+
+
 Saves me cutting you an air hole.
 
-998
-01:15:23,489 --> 01:15:26,050
+
+
 - I'm impressed.
 - Why is that?
 
-999
-01:15:26,130 --> 01:15:29,100
+
+
 You're finally getting your hands dirty.
 
-1000
-01:15:29,159 --> 01:15:32,060
+
+
 It's what a good trick costs, Angier.
 
-1001
-01:15:32,130 --> 01:15:34,930
+
+
 Risk, sacrifice.
 
-1002
-01:15:35,000 --> 01:15:37,489
+
+
 The sacrifice, I'm afraid, is all gonna be yours,
 
-1003
-01:15:37,569 --> 01:15:39,199
+
+
 unless you give me what I want.
 
-1004
-01:15:40,569 --> 01:15:42,699
+
+
 - Which is?
 - Your secret.
 
-1005
-01:15:42,779 --> 01:15:44,180
+
+
 My secret?
 
-1006
-01:15:44,250 --> 01:15:47,369
+
+
 Your method for The Transported Man.
 
-1007
-01:15:47,449 --> 01:15:50,279
+
+
 Fallon wouldn't tell me. He doesn't talk at all.
 
-1008
-01:15:50,350 --> 01:15:53,840
+
+
 - You have my notebook.
 - Useless without the keyword.
 
-1009
-01:15:55,319 --> 01:15:58,880
+
+
 Write down your method, Mr. Borden, describe it in full.
 
-1010
-01:16:12,010 --> 01:16:14,369
+
+
 I want the whole method, not the keyword.
 
-1011
-01:16:14,439 --> 01:16:16,840
+
+
 I don't know if your secret's in your notebook.
 
-1012
-01:16:16,909 --> 01:16:19,380
+
+
 The keyword is the method.
 
-1013
-01:16:23,380 --> 01:16:24,680
+
+
 Where's my ing茅nieur?
 
-1014
-01:16:31,829 --> 01:16:34,449
+
+
 - Alive?
 - How fast can you dig?
 
-1015
-01:16:36,930 --> 01:16:39,960
+
+
 Fallon, you hear me? Fallon!
 
-1016
-01:16:41,270 --> 01:16:43,930
+
+
 - How's the arm?
 - Still attached.
 
-1017
-01:16:45,369 --> 01:16:46,930
+
+
 Did you find your answer?
 
-1018
-01:16:47,010 --> 01:16:50,770
+
+
 Our answer, Cutter. I haven't looked yet. I wanted you to share this.
 
-1019
-01:16:50,840 --> 01:16:53,279
+
+
 I already know how he does it, Robert.
 
-1020
-01:16:53,350 --> 01:16:56,439
+
+
 Same way he always has, the same way as we do.
 
-1021
-01:16:56,520 --> 01:16:58,989
+
+
 It's just that you want something more.
 
-1022
-01:16:59,050 --> 01:17:01,819
+
+
 Well, let's find out then, shall we?
 
-1023
-01:17:06,130 --> 01:17:07,560
+
+
 What does it mean?
 
-1024
-01:17:15,399 --> 01:17:17,869
+
+
 It means, Cutter, we have a journey ahead of us.
 
-1025
-01:17:17,939 --> 01:17:19,909
+
+
 - To America.
 - Robert?
 
-1026
-01:17:20,869 --> 01:17:23,840
+
+
 Listen to me.
 
-1027
-01:17:23,909 --> 01:17:27,369
+
+
 Obsession is a young man's game.
 
-1028
-01:17:27,449 --> 01:17:28,970
+
+
 Come on.
 
-1029
-01:17:29,050 --> 01:17:31,520
+
+
 I can't follow you any further in it.
 
-1030
-01:17:32,590 --> 01:17:34,520
+
+
 I can't, I'm sorry.
 
-1031
-01:17:38,630 --> 01:17:40,319
+
+
 Then the rest is up to me.
 
-1032
-01:17:42,399 --> 01:17:43,920
+
+
 I'm sorry.
 
-1033
-01:17:49,239 --> 01:17:52,829
+
+
 Good evening. Hello, darling.
 
-1034
-01:17:52,909 --> 01:17:54,399
+
+
 Champagne, your finest.
 
-1035
-01:17:54,479 --> 01:17:57,170
+
+
 I didn't know we were going to be joined for dinner.
 
-1036
-01:17:57,239 --> 01:17:59,539
+
+
 Absolutely, we are celebrating.
 
-1037
-01:17:59,609 --> 01:18:01,310
+
+
 Miss Wenscombe, Mr. Fallon.
 
-1038
-01:18:02,319 --> 01:18:05,180
+
+
 - What are we celebrating?
 - We've hit upon a new trick.
 
-1039
-01:18:05,250 --> 01:18:07,310
+
+
 - Haven't we?
 - What trick, Freddie?
 
-1040
-01:18:07,390 --> 01:18:09,409
+
+
 Yes, Freddie, what trick?
 
-1041
-01:18:09,489 --> 01:18:13,890
+
+
 I am going to bury myself alive every night,
 
-1042
-01:18:13,960 --> 01:18:17,829
+
+
 and then someone will come along and dig me up. Wonderful.
 
-1043
-01:18:17,899 --> 01:18:20,989
+
+
 - I think he's had quite enough...
 - No, pour the champagne.
 
-1044
-01:18:21,069 --> 01:18:24,770
+
+
 Pour the... Sarah, don't talk to me like that. I'm not a bloody child.
 
-1045
-01:18:24,840 --> 01:18:28,039
+
+
 - Perhaps it would be better...
 - Mr. Fallon, escort her home.
 
-1046
-01:18:28,109 --> 01:18:30,939
+
+
 - My husband's being a bore.
 - Oh, please.
 
-1047
-01:18:31,010 --> 01:18:34,810
+
+
 - I see no reason you should suffer.
 - Don't ruin this evening.
 
-1048
-01:18:37,220 --> 01:18:40,119
+
+
 Good night, Mrs. Borden. Good night, Freddie.
 
-1049
-01:18:44,560 --> 01:18:46,859
+
+
 - Freddie?
 - That's my name.
 
-1050
-01:18:46,930 --> 01:18:50,289
+
+
 - Not at home.
 - I'm not always at home, am I?
 
-1051
-01:18:52,100 --> 01:18:54,760
+
+
 Couldn't you have at least taken off the beard?
 
-1052
-01:18:54,840 --> 01:18:59,000
+
+
 Sarah, I just came from the bloody theater just now.
 
-1053
-01:18:59,069 --> 01:19:02,130
+
+
 All right? I'm out in public. Everybody else loves it.
 
-1054
-01:19:02,210 --> 01:19:04,140
+
+
 Why are you being like this?
 
-1055
-01:19:04,210 --> 01:19:07,109
+
+
 I had a terrible ordeal today.
 
-1056
-01:19:07,180 --> 01:19:10,949
+
+
 I thought that something very precious...
 
-1057
-01:19:12,119 --> 01:19:14,050
+
+
 ...had been lost to me.
 
-1058
-01:19:14,119 --> 01:19:17,250
+
+
 So I just wanted to celebrate just a little.
 
-1059
-01:19:17,319 --> 01:19:20,779
+
+
 All right, what? What did you lose?
 
-1060
-01:19:25,930 --> 01:19:27,489
+
+
 I see, more secrets.
 
-1061
-01:19:28,439 --> 01:19:31,600
+
+
 Sarah, secrets are my life.
 
-1062
-01:19:33,539 --> 01:19:35,909
+
+
 - Our life.
 - No, Alfred, stop, this isn't you.
 
-1063
-01:19:36,880 --> 01:19:39,350
+
+
 Stop performing.
 
-1064
-01:20:03,500 --> 01:20:06,000
+
+
 I thought I had the place to myself.
 
-1065
-01:20:06,069 --> 01:20:09,369
+
+
 Unexpected guests, not very polite.
 
-1066
-01:20:09,439 --> 01:20:11,270
+
+
 A lot of questions.
 
-1067
-01:20:11,350 --> 01:20:14,140
+
+
 At first, I thought they worked for the government.
 
-1068
-01:20:14,210 --> 01:20:17,880
+
+
 - No?
 - Worse, they work for Thomas Edison.
 
-1069
-01:20:19,850 --> 01:20:22,340
+
+
 Today, a most curious development.
 
-1070
-01:20:22,420 --> 01:20:25,479
+
+
 His assistant came to us with a proposition.
 
-1071
-01:20:27,130 --> 01:20:30,529
+
+
 Obviously, Angier has sent her and told her to admit as much.
 
-1072
-01:20:30,600 --> 01:20:33,399
+
+
 Does he enjoy taking his bows under the stage?
 
-1073
-01:20:33,470 --> 01:20:37,229
+
+
 He sent me here to steal your secrets, but I've come to offer you his.
 
-1074
-01:20:37,300 --> 01:20:40,270
+
+
 This is the truth...
 
-1075
-01:20:40,340 --> 01:20:41,329
+
+
 ...is it?
 
-1076
-01:20:49,380 --> 01:20:52,840
+
+
 No, that's what he told me to tell you. The truth...
 
-1077
-01:20:52,920 --> 01:20:56,750
+
+
 ...is that I loved him and I stood by him and he sent me to you,
 
-1078
-01:20:56,819 --> 01:21:00,350
+
+
 like he would send a stagehand to pick up his shirts.
 
-1079
-01:21:00,430 --> 01:21:03,229
+
+
 I hate him for that.
 
-1080
-01:21:03,300 --> 01:21:06,529
+
+
 I could spot Angier's methods from the back of the theater.
 
-1081
-01:21:08,239 --> 01:21:10,500
+
+
 So, what could you possibly have to offer me?
 
-1082
-01:21:10,569 --> 01:21:12,199
+
+
 You may know his tricks,
 
-1083
-01:21:12,270 --> 01:21:15,329
+
+
 but you can't understand why no one sees yours are better.
 
-1084
-01:21:15,409 --> 01:21:17,970
+
+
 You hide this. I had to look very closely
 
-1085
-01:21:18,050 --> 01:21:20,380
+
+
 to spot it during The Transported Man,
 
-1086
-01:21:20,449 --> 01:21:23,279
+
+
 but this makes you unique.
 
-1087
-01:21:23,350 --> 01:21:25,380
+
+
 It shows you aren't using a double.
 
-1088
-01:21:25,449 --> 01:21:27,939
+
+
 You mustn't hide it. You must display it proudly.
 
-1089
-01:21:28,020 --> 01:21:32,789
+
+
 I'm sure it takes great skill to perform illusions with one good hand.
 
-1090
-01:21:32,859 --> 01:21:34,619
+
+
 Yeah, it does.
 
-1091
-01:21:36,399 --> 01:21:39,560
+
+
 So let people know.
 
-1092
-01:21:39,630 --> 01:21:43,130
+
+
 You can be so much more than he is and I can show you how.
 
-1093
-01:21:44,840 --> 01:21:47,430
+
+
 I think she's telling the truth.
 
-1094
-01:21:47,510 --> 01:21:49,630
+
+
 I think we cannot trust her.
 
-1095
-01:21:53,180 --> 01:21:55,649
+
+
 But I love her. I need her.
 
-1096
-01:21:56,850 --> 01:22:00,180
+
+
 To open myself to such a relationship,
 
-1097
-01:22:00,250 --> 01:22:04,090
+
+
 to the dangers of such an affair,
 
-1098
-01:22:04,159 --> 01:22:08,960
+
+
 I need assurances of fidelity, of love.
 
-1099
-01:22:10,000 --> 01:22:11,590
+
+
 But how to be sure?
 
-1100
-01:22:13,800 --> 01:22:18,130
+
+
 I know a way. It's the only way to know her mind.
 
-1101
-01:22:18,210 --> 01:22:20,039
+
+
 How could he send you away?
 
-1102
-01:22:21,909 --> 01:22:25,000
+
+
 She must help me rid ourselves of Angier.
 
-1103
-01:22:31,619 --> 01:22:34,609
+
+
 Today, my mistress proves her truthfulness.
 
-1104
-01:22:34,689 --> 01:22:36,420
+
+
 Not to me, you understand.
 
-1105
-01:22:36,489 --> 01:22:39,119
+
+
 I've been convinced since she led me to Root.
 
-1106
-01:22:39,189 --> 01:22:42,720
+
+
 Today, Olivia proves her love for me
 
-1107
-01:22:42,800 --> 01:22:45,260
+
+
 to you, Angier.
 
-1108
-01:22:45,329 --> 01:22:49,739
+
+
 Yes, Angier, she gave you this notebook at my request.
 
-1109
-01:22:49,800 --> 01:22:53,239
+
+
 And yes, "Tesla" is merely the key to my dairy,
 
-1110
-01:22:53,310 --> 01:22:56,100
+
+
 not to my trick. You really think I'd part
 
-1111
-01:22:56,180 --> 01:22:59,300
+
+
 with my secret so easily after so much?
 
-1112
-01:22:59,380 --> 01:23:01,039
+
+
 Goodbye, Angier.
 
-1113
-01:23:01,109 --> 01:23:03,479
+
+
 May you find solace for your forward ambition
 
-1114
-01:23:03,550 --> 01:23:05,350
+
+
 back in your American home.
 
-1115
-01:23:14,859 --> 01:23:16,489
+
+
 Tesla!
 
-1116
-01:23:18,430 --> 01:23:20,829
+
+
 Tesla! Alley!
 
-1117
-01:23:22,039 --> 01:23:23,020
+
+
 Alley!
 
-1118
-01:23:23,100 --> 01:23:25,699
+
+
 Tesla never made a machine like the one I asked for.
 
-1119
-01:23:25,770 --> 01:23:28,569
+
+
 - I never said he had.
 - You let me believe that he had.
 
-1120
-01:23:28,640 --> 01:23:31,340
+
+
 You stole my money because your funding was cut off.
 
-1121
-01:23:31,409 --> 01:23:34,310
+
+
 You've been shooting sparks in my top hat,
 
-1122
-01:23:34,380 --> 01:23:37,869
+
+
 Iaughing at me all along, while using my money to stave off ruin.
 
-1123
-01:23:38,720 --> 01:23:40,850
+
+
 - I have seen Edison's men.
 - Where?
 
-1124
-01:23:40,920 --> 01:23:43,409
+
+
 In the hotel, I have a mind to bring them up here.
 
-1125
-01:23:43,489 --> 01:23:46,189
+
+
 That would be unwise, Mr. Angier.
 
-1126
-01:23:46,260 --> 01:23:49,390
+
+
 It is true that you are our last remaining financier,
 
-1127
-01:23:49,460 --> 01:23:51,329
+
+
 but we have not stolen your money.
 
-1128
-01:23:51,399 --> 01:23:52,869
+
+
 This is my cat.
 
-1129
-01:23:52,930 --> 01:23:55,989
+
+
 When I told you I could make you a machine, I spoke a truth.
 
-1130
-01:23:56,069 --> 01:23:57,159
+
+
 Why isn't it working?
 
-1131
-01:23:57,239 --> 01:23:59,569
+
+
 Because exact science, Mr. Angier,
 
-1132
-01:23:59,640 --> 01:24:01,039
+
+
 is not an exact science.
 
-1133
-01:24:01,109 --> 01:24:04,270
+
+
 The machine simply does not operate as expected.
 
-1134
-01:24:04,340 --> 01:24:08,369
+
+
 - It requires further examination.
 - So where did my top hat go?
 
-1135
-01:24:08,449 --> 01:24:09,510
+
+
 Nowhere.
 
-1136
-01:24:09,579 --> 01:24:12,380
+
+
 We tried the damn thing a dozen times.
 
-1137
-01:24:12,449 --> 01:24:14,079
+
+
 The hat went nowhere.
 
-1138
-01:24:14,149 --> 01:24:16,050
+
+
 We need to try different material.
 
-1139
-01:24:16,119 --> 01:24:18,279
+
+
 It may provoke a different result.
 
-1140
-01:24:20,930 --> 01:24:22,489
+
+
 Great.
 
-1141
-01:24:29,640 --> 01:24:33,600
+
+
 You are responsible for whatever happens to this animal, doctor.
 
-1142
-01:24:55,130 --> 01:24:57,760
+
+
 I hope whatever you were really doing with my money
 
-1143
-01:24:57,829 --> 01:25:00,270
+
+
 was more worthwhile, Mr. Tesla.
 
-1144
-01:25:56,189 --> 01:25:57,180
+
+
 Alley!
 
-1145
-01:26:00,260 --> 01:26:01,989
+
+
 So the machine was working?
 
-1146
-01:26:02,060 --> 01:26:05,689
+
+
 I never checked the calibration, 'cause the hat never moved.
 
-1147
-01:26:05,770 --> 01:26:08,630
+
+
 These things never quite work as you expect them to.
 
-1148
-01:26:08,699 --> 01:26:11,189
+
+
 That's one of the principal beauties of science.
 
-1149
-01:26:11,270 --> 01:26:14,729
+
+
 I'll need a couple of weeks to iron out the problems with the machine.
 
-1150
-01:26:14,909 --> 01:26:16,869
+
+
 We'll send word when it's ready.
 
-1151
-01:26:19,079 --> 01:26:22,050
+
+
 Don't forget your hat.
 
-1152
-01:26:22,119 --> 01:26:25,850
+
+
 - Well, which one is mine?
 - They are all your hats.
 
-1153
-01:26:31,789 --> 01:26:34,779
+
+
 You look so pretty in this new dress of yours.
 
-1154
-01:26:34,859 --> 01:26:38,699
+
+
 - Are we going to the zoo?
 - No, Daddy has some errands to run.
 
-1155
-01:26:38,770 --> 01:26:41,000
+
+
 - But you promised.
 - I promised, did I?
 
-1156
-01:26:41,069 --> 01:26:43,369
+
+
 Then go to the zoo, we shall.
 
-1157
-01:26:43,439 --> 01:26:46,890
+
+
 Daddy will go run his errands, and I'll be back before you know it.
 
-1158
-01:26:46,970 --> 01:26:50,699
+
+
 So you go get ready. We'll go see those chimpanzees.
 
-1159
-01:26:53,710 --> 01:26:57,109
+
+
 Sarah... what are you doing?
 
-1160
-01:27:00,789 --> 01:27:03,779
+
+
 Each of us have our vices.
 
-1161
-01:27:06,890 --> 01:27:09,359
+
+
 Sarah, whatever you may think...
 
-1162
-01:27:10,930 --> 01:27:14,560
+
+
 ...your only competition for my affections is our little girl.
 
-1163
-01:27:14,630 --> 01:27:17,600
+
+
 I love you. I will always love you
 
-1164
-01:27:17,670 --> 01:27:19,100
+
+
 and you alone.
 
-1165
-01:27:20,970 --> 01:27:24,770
+
+
 - You mean it today.
 - Absolutely.
 
-1166
-01:27:24,840 --> 01:27:28,680
+
+
 Which makes it so much harder when you don't.
 
-1167
-01:27:38,020 --> 01:27:40,819
+
+
 More shopping. She does love the smell of money.
 
-1168
-01:27:40,890 --> 01:27:45,189
+
+
 The little lady wants to go to the zoo, so I thought you could take her, yeah?
 
-1169
-01:27:45,270 --> 01:27:47,630
+
+
 I mean, I can do it tomorrow, if not.
 
-1170
-01:27:47,699 --> 01:27:51,000
+
+
 And, uh... Sarah,
 
-1171
-01:27:51,069 --> 01:27:53,199
+
+
 she knows.
 
-1172
-01:27:53,270 --> 01:27:57,439
+
+
 Uh, at least she knows that something is not right,
 
-1173
-01:27:57,510 --> 01:28:00,409
+
+
 so if you can just do whatever you can to help me.
 
-1174
-01:28:00,479 --> 01:28:05,039
+
+
 Talk to her, just convince her that I do love her.
 
-1175
-01:28:15,699 --> 01:28:17,659
+
+
 What is it, Freddie?
 
-1176
-01:28:17,729 --> 01:28:20,029
+
+
 Listen, don't call me that, please.
 
-1177
-01:28:20,100 --> 01:28:23,970
+
+
 It's nothing. It's just that sometimes it seems wrong.
 
-1178
-01:28:24,039 --> 01:28:26,529
+
+
 I told you, when you're with me, you're with me.
 
-1179
-01:28:26,609 --> 01:28:29,630
+
+
 Leave your family at home where they belong.
 
-1180
-01:28:29,710 --> 01:28:32,970
+
+
 I'm trying. I'm trying, Olivia.
 
-1181
-01:28:33,050 --> 01:28:35,409
+
+
 - I'll get dressed.
 - Yeah.
 
-1182
-01:28:36,920 --> 01:28:39,939
+
+
 I saw Fallon hanging around again.
 
-1183
-01:28:40,020 --> 01:28:42,489
+
+
 There's something about that man I don't trust.
 
-1184
-01:28:42,560 --> 01:28:45,619
+
+
 You trust me? Then trust Fallon.
 
-1185
-01:28:45,689 --> 01:28:48,350
+
+
 He protects the things that I care about.
 
-1186
-01:29:26,600 --> 01:29:29,090
+
+
 We're sorry to see you go, Mr. Angier.
 
-1187
-01:29:29,170 --> 01:29:31,729
+
+
 We were sorry to see Mr. Tesla leave, as well.
 
-1188
-01:29:31,909 --> 01:29:33,899
+
+
 He's very good to Colorado Springs.
 
-1189
-01:29:33,970 --> 01:29:36,640
+
+
 Mr. Angier,
 
-1190
-01:29:36,710 --> 01:29:40,340
+
+
 I didn't think it was necessary to tell Edison's men about the box.
 
-1191
-01:29:40,409 --> 01:29:42,069
+
+
 What box?
 
-1192
-01:30:07,409 --> 01:30:09,909
+
+
 I apologize for leaving without saying goodbye.
 
-1193
-01:30:10,880 --> 01:30:16,109
+
+
 But I seem to have outstayed my welcome in Colorado.
 
-1194
-01:30:16,180 --> 01:30:20,680
+
+
 The truly extraordinary is not permitted in science and industry.
 
-1195
-01:30:20,750 --> 01:30:23,550
+
+
 Perhaps you'll find more luck in your field,
 
-1196
-01:30:23,619 --> 01:30:26,289
+
+
 where people are happy to be mystified.
 
-1197
-01:30:26,359 --> 01:30:30,319
+
+
 You will find what you are looking for in this box.
 
-1198
-01:30:30,399 --> 01:30:34,829
+
+
 Alley has written you a thorough set of instructions.
 
-1199
-01:30:34,899 --> 01:30:39,630
+
+
 I add only one suggestion on using the machine.
 
-1200
-01:30:39,710 --> 01:30:41,670
+
+
 Destroy it.
 
-1201
-01:30:41,739 --> 01:30:45,039
+
+
 Drop it to the bottom of the deepest ocean.
 
-1202
-01:30:45,109 --> 01:30:48,510
+
+
 Such a thing will bring you only misery.
 
-1203
-01:30:52,390 --> 01:30:56,010
+
+
 Tesla's warning is as unheeded as he knew it would be.
 
-1204
-01:30:56,090 --> 01:30:59,649
+
+
 Today I tested the machine. Taking precautions in case
 
-1205
-01:30:59,729 --> 01:31:02,699
+
+
 Tesla hadn't ironed out the kinks in its operation.
 
-1206
-01:31:02,760 --> 01:31:04,560
+
+
 But if it went wrong,
 
-1207
-01:31:04,630 --> 01:31:06,789
+
+
 I would not want to live like that for long.
 
-1208
-01:31:26,250 --> 01:31:30,380
+
+
 But here at the turn, I must leave you, Borden.
 
-1209
-01:31:30,460 --> 01:31:32,689
+
+
 Yes, you, Borden,
 
-1210
-01:31:32,760 --> 01:31:35,130
+
+
 sitting there in your cell,
 
-1211
-01:31:35,199 --> 01:31:39,220
+
+
 reading my diary, awaiting your death,
 
-1212
-01:31:39,300 --> 01:31:41,289
+
+
 for my murder.
 
-1213
-01:31:46,640 --> 01:31:49,939
+
+
 Angier's journal, that gesture of good faith, that's a fake.
 
-1214
-01:31:50,010 --> 01:31:51,310
+
+
 I assure you, it's not.
 
-1215
-01:31:51,380 --> 01:31:54,310
+
+
 The provenance of the journal is clear and under no doubt.
 
-1216
-01:31:54,380 --> 01:31:58,869
+
+
 And it's written in Angier's own hand, for which we have numerous examples.
 
-1217
-01:32:00,750 --> 01:32:02,649
+
+
 It don't matter.
 
-1218
-01:32:04,590 --> 01:32:06,619
+
+
 So my tricks.
 
-1219
-01:32:09,859 --> 01:32:13,319
+
+
 - All of them.
 - Including The Transported Man?
 
-1220
-01:32:14,770 --> 01:32:17,960
+
+
 - Lord Caldlow will be very pleased.
 - No, he won't.
 
-1221
-01:32:18,039 --> 01:32:20,399
+
+
 They're not complete.
 
-1222
-01:32:20,470 --> 01:32:23,199
+
+
 It's just the pledge and the turn for each.
 
-1223
-01:32:23,279 --> 01:32:27,340
+
+
 Without the prestige for these tricks, these are worthless.
 
-1224
-01:32:27,409 --> 01:32:29,439
+
+
 Yeah.
 
-1225
-01:32:29,520 --> 01:32:33,039
+
+
 You get the rest of it... when you bring my daughter here.
 
-1226
-01:32:35,789 --> 01:32:38,020
+
+
 I want to say goodbye.
 
-1227
-01:32:39,760 --> 01:32:42,920
+
+
 We have to go through it now. We have to go through it now.
 
-1228
-01:32:43,000 --> 01:32:45,359
+
+
 Now, listen to me, deny it all you want.
 
-1229
-01:32:45,430 --> 01:32:47,800
+
+
 Olivia means nothing.
 
-1230
-01:32:47,869 --> 01:32:49,659
+
+
 - Olivia?
 - I need an assistant.
 
-1231
-01:32:49,739 --> 01:32:52,569
+
+
 - I'll go to her, I'll tell her.
 - You'll tell her what?
 
-1232
-01:32:52,640 --> 01:32:54,699
+
+
 I know what you really are, Alfred.
 
-1233
-01:32:55,909 --> 01:32:58,569
+
+
 - I know.
 - Sarah, Sarah, Sarah.
 
-1234
-01:32:58,649 --> 01:33:01,270
+
+
 - I can't keep it in.
 - You can't talk like this.
 
-1235
-01:33:01,350 --> 01:33:03,869
+
+
 - No. No.
 - Sarah, shut up! Sarah, shut up!
 
-1236
-01:33:03,949 --> 01:33:08,079
+
+
 I don't want to hear it anymore. You can't talk like this.
 
-1237
-01:33:10,689 --> 01:33:14,090
+
+
 You can't hide it anymore, because I know, Alfred, I know.
 
-1238
-01:33:14,159 --> 01:33:17,600
+
+
 I know what you really are, Alfred.
 
-1239
-01:33:17,659 --> 01:33:20,460
+
+
 I can't live like this.
 
-1240
-01:33:20,529 --> 01:33:22,659
+
+
 Oh, well, you think I can live like this?
 
-1241
-01:33:22,739 --> 01:33:25,899
+
+
 You think I bloody enjoy living like this?
 
-1242
-01:33:25,970 --> 01:33:30,380
+
+
 We have this beautiful house, lovely little girl, we're married.
 
-1243
-01:33:30,439 --> 01:33:32,100
+
+
 What is so wrong with your life?
 
-1244
-01:33:32,180 --> 01:33:34,770
+
+
 Alfred, I can't live like this!
 
-1245
-01:33:34,850 --> 01:33:37,210
+
+
 Well, what do you want from me?
 
-1246
-01:33:40,550 --> 01:33:44,250
+
+
 I... I want...
 
-1247
-01:33:44,319 --> 01:33:47,380
+
+
 I want you to be... honest with me.
 
-1248
-01:33:50,130 --> 01:33:52,600
+
+
 No tricks.
 
-1249
-01:33:52,670 --> 01:33:54,760
+
+
 No lies.
 
-1250
-01:33:54,829 --> 01:33:58,630
+
+
 And no secrets.
 
-1251
-01:34:04,909 --> 01:34:08,239
+
+
 Do you... do you love me?
 
-1252
-01:34:11,319 --> 01:34:12,939
+
+
 Not today.
 
-1253
-01:34:15,090 --> 01:34:16,149
+
+
 No.
 
-1254
-01:35:53,819 --> 01:35:54,840
+
+
 Who's there?
 
-1255
-01:35:57,989 --> 01:36:00,079
+
+
 I'm looking for an old friend.
 
-1256
-01:36:00,159 --> 01:36:03,090
+
+
 I heard about a booking, nice little theater,
 
-1257
-01:36:03,159 --> 01:36:05,600
+
+
 - good up-and-coming magician.
 - You're back.
 
-1258
-01:36:05,670 --> 01:36:07,260
+
+
 It's good to see you, John.
 
-1259
-01:36:08,029 --> 01:36:10,760
+
+
 Good rehearsal space.
 
-1260
-01:36:10,840 --> 01:36:13,600
+
+
 Blind stagehands, I like it.
 
-1261
-01:36:13,670 --> 01:36:16,340
+
+
 You always had a good eye for publicity.
 
-1262
-01:36:16,409 --> 01:36:17,739
+
+
 I need your help, John.
 
-1263
-01:36:17,810 --> 01:36:20,609
+
+
 It's my last show. A limited engagement.
 
-1264
-01:36:20,680 --> 01:36:22,310
+
+
 Your last show?
 
-1265
-01:36:22,380 --> 01:36:26,510
+
+
 A wise man once told me obsession was a young man's game.
 
-1266
-01:36:26,590 --> 01:36:30,149
+
+
 I'm almost done. There's one thing left.
 
-1267
-01:36:31,159 --> 01:36:33,680
+
+
 The Real Transported Man.
 
-1268
-01:36:35,500 --> 01:36:37,489
+
+
 You want to design a show around it?
 
-1269
-01:36:37,560 --> 01:36:40,430
+
+
 I don't want you backstage I need you in front managing.
 
-1270
-01:36:40,500 --> 01:36:43,159
+
+
 Call in any favors or connections you have left
 
-1271
-01:36:43,239 --> 01:36:44,699
+
+
 to get us the right booking.
 
-1272
-01:36:44,770 --> 01:36:46,859
+
+
 What sort of booking you after?
 
-1273
-01:36:46,939 --> 01:36:49,340
+
+
 The sort that Borden can't ignore.
 
-1274
-01:36:55,720 --> 01:36:58,949
+
+
 Oh, what an honor it is to see you again, sir.
 
-1275
-01:36:59,020 --> 01:37:02,979
+
+
 You told me you only wanted to show me one trick that'd pique my interest.
 
-1276
-01:37:03,060 --> 01:37:06,220
+
+
 - It's a very clever trick.
 - Pleased to meet you, Mr. Ackerman.
 
-1277
-01:37:06,289 --> 01:37:09,159
+
+
 Likewise, I'm sure. Let's get on, shall we?
 
-1278
-01:37:12,800 --> 01:37:14,560
+
+
 Turn it on, gentlemen.
 
-1279
-01:37:18,909 --> 01:37:20,930
+
+
 Very pretty.
 
-1280
-01:37:31,979 --> 01:37:35,649
+
+
 That's it, Cutter? He simply disappears?
 
-1281
-01:37:35,720 --> 01:37:38,090
+
+
 That's not a trick. He has to come back.
 
-1282
-01:37:38,159 --> 01:37:40,319
+
+
 - There has to be a...
 - A prestige?
 
-1283
-01:37:40,390 --> 01:37:41,380
+
+
 Exactly.
 
-1284
-01:37:44,399 --> 01:37:47,060
+
+
 Pardon me.
 
-1285
-01:37:47,130 --> 01:37:50,399
+
+
 It's very rare to see...
 
-1286
-01:37:50,470 --> 01:37:51,939
+
+
 ...real magic.
 
-1287
-01:37:53,439 --> 01:37:55,130
+
+
 It's been many years since...
 
-1288
-01:37:55,210 --> 01:37:56,939
+
+
 Are you interested in helping us?
 
-1289
-01:37:59,010 --> 01:38:02,739
+
+
 Yes... but you'll have to dress it up a little.
 
-1290
-01:38:05,020 --> 01:38:06,680
+
+
 Disguise it.
 
-1291
-01:38:08,350 --> 01:38:10,850
+
+
 Give them enough reason to doubt it.
 
-1292
-01:38:11,659 --> 01:38:14,890
+
+
 You haven't spoken about her, Freddie, not once.
 
-1293
-01:38:14,960 --> 01:38:18,659
+
+
 Why would I talk about her to you, hm?
 
-1294
-01:38:18,729 --> 01:38:22,600
+
+
 Because she was a part of your life and now she's gone.
 
-1295
-01:38:25,569 --> 01:38:30,069
+
+
 You know, the day before she killed herself she said she wanted to meet me.
 
-1296
-01:38:30,140 --> 01:38:33,079
+
+
 That she had something to tell me about you.
 
-1297
-01:38:33,149 --> 01:38:36,739
+
+
 I was such a coward, I couldn't bring myself to face her.
 
-1298
-01:38:36,819 --> 01:38:38,310
+
+
 But...
 
-1299
-01:38:39,520 --> 01:38:41,779
+
+
 ...what would she have said?
 
-1300
-01:38:41,850 --> 01:38:44,949
+
+
 You want to know the truth about me?
 
-1301
-01:38:46,229 --> 01:38:48,720
+
+
 The truth is that...
 
-1302
-01:38:50,899 --> 01:38:52,890
+
+
 ...I never loved Sarah.
 
-1303
-01:38:54,100 --> 01:38:55,590
+
+
 I never loved her.
 
-1304
-01:38:55,670 --> 01:38:57,899
+
+
 You married her, you had a child with her.
 
-1305
-01:38:57,970 --> 01:39:01,060
+
+
 Yes. Part of me. Part of me did, but...
 
-1306
-01:39:01,140 --> 01:39:03,069
+
+
 ...the other part didn't.
 
-1307
-01:39:03,140 --> 01:39:07,369
+
+
 The part that found you, the part that's sitting here right now.
 
-1308
-01:39:07,449 --> 01:39:10,510
+
+
 I love you. No, Olivia, I love you.
 
-1309
-01:39:10,579 --> 01:39:12,550
+
+
 That's the truth.
 
-1310
-01:39:12,619 --> 01:39:15,020
+
+
 That is the truth that matters.
 
-1311
-01:39:15,090 --> 01:39:19,489
+
+
 You could be in some other restaurant with some other woman right now,
 
-1312
-01:39:19,560 --> 01:39:21,149
+
+
 talking about me that way.
 
-1313
-01:39:21,229 --> 01:39:23,350
+
+
 - No.
 - Yes.
 
-1314
-01:39:26,800 --> 01:39:30,529
+
+
 It's inhuman to be so cold.
 
-1315
-01:39:36,210 --> 01:39:37,470
+
+
 He's back.
 
-1316
-01:39:38,380 --> 01:39:41,640
+
+
 After two years, he's got a new trick.
 
-1317
-01:39:41,710 --> 01:39:44,380
+
+
 They're saying it's the best London's ever seen.
 
-1318
-01:39:46,590 --> 01:39:49,050
+
+
 You should see the look on your face, Professor.
 
-1319
-01:39:50,920 --> 01:39:52,859
+
+
 You should go to him.
 
-1320
-01:39:52,930 --> 01:39:55,449
+
+
 You two deserve each other.
 
-1321
-01:40:00,430 --> 01:40:04,369
+
+
 But I'm afraid I'm booked. The Moscow Ballet plays through next year.
 
-1322
-01:40:04,439 --> 01:40:09,000
+
+
 Then get rid of them. There will be 100 performances, no more, no less.
 
-1323
-01:40:09,079 --> 01:40:11,569
+
+
 Five performances a week, no matinees.
 
-1324
-01:40:13,380 --> 01:40:16,409
+
+
 That's what you'll charge for each ticket. Good day.
 
-1325
-01:40:39,140 --> 01:40:43,770
+
+
 Ladies and gentlemen, my first trick of the evening involves considerable risk.
 
-1326
-01:40:45,010 --> 01:40:46,380
+
+
 Anyone in the audience
 
-1327
-01:40:46,449 --> 01:40:49,279
+
+
 who would be irrevocably damaged by seeing a man drown
 
-1328
-01:40:49,350 --> 01:40:50,939
+
+
 should leave now.
 
-1329
-01:40:51,020 --> 01:40:53,810
+
+
 When I tell you the lady who taught me this illusion
 
-1330
-01:40:53,890 --> 01:40:55,880
+
+
 actually died performing it,
 
-1331
-01:40:55,960 --> 01:40:59,250
+
+
 you'll understand the seriousness of the dangers involved.
 
-1332
-01:41:01,430 --> 01:41:03,829
+
+
 Let's begin.
 
-1333
-01:41:13,539 --> 01:41:16,170
+
+
 In my travels, I have seen the future.
 
-1334
-01:41:17,979 --> 01:41:21,569
+
+
 And it is a strange future, indeed.
 
-1335
-01:41:21,649 --> 01:41:22,909
+
+
 The world, ladies and gentlemen,
 
-1336
-01:41:23,880 --> 01:41:26,180
+
+
 is on the brink of new
 
-1337
-01:41:26,250 --> 01:41:27,979
+
+
 and terrifying possibilities.
 
-1338
-01:41:48,470 --> 01:41:51,930
+
+
 What you're about to witness is not magic.
 
-1339
-01:41:53,109 --> 01:41:54,510
+
+
 It's purely science.
 
-1340
-01:41:54,579 --> 01:41:57,010
+
+
 I'd like to invite you to come up on stage now
 
-1341
-01:41:57,079 --> 01:42:00,069
+
+
 so that you can examine the machine for yourselves.
 
-1342
-01:42:55,369 --> 01:42:57,210
+
+
 Man's reach
 
-1343
-01:42:57,279 --> 01:43:00,399
+
+
 exceeds his imagination.
 
-1344
-01:43:11,689 --> 01:43:13,060
+
+
 Bravo!
 
-1345
-01:43:21,100 --> 01:43:23,829
+
+
 One hundred performances. Why?
 
-1346
-01:43:23,899 --> 01:43:25,460
+
+
 Does his method dictate that?
 
-1347
-01:43:25,539 --> 01:43:27,439
+
+
 Is it a publicity move? What is it?
 
-1348
-01:43:27,510 --> 01:43:29,869
+
+
 He's a no-talent magician, and they call him
 
-1349
-01:43:29,939 --> 01:43:32,340
+
+
 the bloody best in England. Why?
 
-1350
-01:43:32,409 --> 01:43:35,180
+
+
 Fifty yards in a second! In a second!
 
-1351
-01:43:35,250 --> 01:43:38,340
+
+
 And all that we know is he uses a trap door.
 
-1352
-01:43:38,420 --> 01:43:42,680
+
+
 Brilliant! What is going on under that stage? Huh?!
 
-1353
-01:43:42,760 --> 01:43:45,189
+
+
 Why can't you out-think him?
 
-1354
-01:44:00,310 --> 01:44:05,510
+
+
 They do this every night, after each performance. Yeah?
 
-1355
-01:44:31,800 --> 01:44:33,140
+
+
 Huh.
 
-1356
-01:44:34,010 --> 01:44:36,979
+
+
 We're done.
 
-1357
-01:44:38,279 --> 01:44:39,840
+
+
 All right?
 
-1358
-01:44:41,149 --> 01:44:42,909
+
+
 Let him have his trick.
 
-1359
-01:44:42,979 --> 01:44:45,470
+
+
 I don't need his secret.
 
-1360
-01:44:45,550 --> 01:44:47,039
+
+
 So...
 
-1361
-01:44:48,550 --> 01:44:51,520
+
+
 ...don't go back there, you leave him alone.
 
-1362
-01:44:51,590 --> 01:44:54,859
+
+
 Both of us... just leave him alone.
 
-1363
-01:44:54,930 --> 01:44:56,550
+
+
 We're done.
 
-1364
-01:45:05,300 --> 01:45:07,359
+
+
 I told you, John.
 
-1365
-01:45:07,439 --> 01:45:09,529
+
+
 I don't want you backstage on this one.
 
-1366
-01:45:11,180 --> 01:45:13,579
+
+
 I would like to invite you onstage now
 
-1367
-01:45:13,649 --> 01:45:16,340
+
+
 so that you can examine the machine for yourselves.
 
-1368
-01:45:45,539 --> 01:45:49,279
+
+
 - Hey, where do you think...?
 - I'm part of the bloody act, you fool.
 
-1369
-01:45:58,289 --> 01:45:59,279
+
+
 Who was that?
 
-1370
-01:46:55,850 --> 01:46:59,979
+
+
 Hey! Where's the bloody key?!
 
-1371
-01:47:00,050 --> 01:47:01,609
+
+
 Where's the bloody key?!
 
-1372
-01:47:04,060 --> 01:47:07,789
+
+
 Where's the bloody key?! He's bloody drowning!
 
-1373
-01:47:17,039 --> 01:47:18,020
+
+
 Hold on!
 
-1374
-01:47:23,340 --> 01:47:23,909
+
+
 What have you done?
 
-1375
-01:47:46,630 --> 01:47:52,069
+
+
 Alfred Borden, you have been found guilty of the murder of Robert Angier.
 
-1376
-01:47:52,140 --> 01:47:56,369
+
+
 You will be hanged by the neck until dead.
 
-1377
-01:47:56,439 --> 01:47:59,409
+
+
 May the Lord have mercy on your soul.
 
-1378
-01:48:01,180 --> 01:48:03,340
+
+
 Mr. Cutter?
 
-1379
-01:48:03,420 --> 01:48:05,039
+
+
 Owens.
 
-1380
-01:48:05,119 --> 01:48:07,949
+
+
 Oh, thank you for coming, Mr. Owens.
 
-1381
-01:48:08,020 --> 01:48:12,390
+
+
 It has fallen to me to dispose of Mr. Angier's equipment.
 
-1382
-01:48:12,460 --> 01:48:14,050
+
+
 But I notice from this manifest
 
-1383
-01:48:14,130 --> 01:48:17,819
+
+
 that Lord Caldlow has purchased the bulk of the items.
 
-1384
-01:48:17,899 --> 01:48:21,199
+
+
 Mr. Cutter, if you need to know where to deliver these items...
 
-1385
-01:48:21,270 --> 01:48:24,859
+
+
 No, it's just there is one particular item,
 
-1386
-01:48:25,800 --> 01:48:28,399
+
+
 this item, in fact,
 
-1387
-01:48:28,470 --> 01:48:30,739
+
+
 - I would like to...
 - You would like to...
 
-1388
-01:48:30,909 --> 01:48:31,899
+
+
 ...buy.
 
-1389
-01:48:31,979 --> 01:48:33,880
+
+
 - Buy yourself?
 - Yeah, I suppose so.
 
-1390
-01:48:35,109 --> 01:48:37,050
+
+
 - This is the machine?
 - Yes.
 
-1391
-01:48:37,119 --> 01:48:39,350
+
+
 Well, I'm afraid Lord Caldlow was adamant
 
-1392
-01:48:39,420 --> 01:48:41,649
+
+
 about purchasing this particular item.
 
-1393
-01:48:41,720 --> 01:48:44,810
+
+
 Do you think I could talk to Lord Caldlow in person?
 
-1394
-01:48:44,890 --> 01:48:47,649
+
+
 Out of the question, I'm afraid.
 
-1395
-01:48:50,100 --> 01:48:52,000
+
+
 Of course,
 
-1396
-01:48:52,060 --> 01:48:55,300
+
+
 I suppose if, in the course of your delivery arrangements,
 
-1397
-01:48:55,369 --> 01:48:59,829
+
+
 your paths were to cross, I can't stop you speaking your mind.
 
-1398
-01:48:59,909 --> 01:49:01,930
+
+
 Thank you.
 
-1399
-01:49:03,510 --> 01:49:05,670
+
+
 - Still here, Borden?
 - For now.
 
-1400
-01:49:06,279 --> 01:49:09,250
+
+
 You got a visitor. Lord Caldlow.
 
-1401
-01:49:09,310 --> 01:49:11,409
+
+
 With a little girl.
 
-1402
-01:49:19,689 --> 01:49:21,590
+
+
 Jess?
 
-1403
-01:49:21,659 --> 01:49:23,289
+
+
 Hello, my love.
 
-1404
-01:49:23,359 --> 01:49:26,819
+
+
 How are you? I've missed you so much.
 
-1405
-01:49:26,899 --> 01:49:29,029
+
+
 Fallon's missed you too. We both have.
 
-1406
-01:49:29,100 --> 01:49:31,430
+
+
 Daddy, can I come in there?
 
-1407
-01:49:32,069 --> 01:49:34,699
+
+
 Not right now. Not right now, darling.
 
-1408
-01:49:34,770 --> 01:49:37,039
+
+
 No, but everything is gonna be all right.
 
-1409
-01:49:38,609 --> 01:49:40,340
+
+
 You must be Lord Caldlow?
 
-1410
-01:49:40,409 --> 01:49:44,140
+
+
 Caldlow. Yes, I am. I always have been.
 
-1411
-01:49:49,189 --> 01:49:51,380
+
+
 They flatter you with all those chains.
 
-1412
-01:49:51,460 --> 01:49:54,479
+
+
 Don't they know you can't escape without your rubber ball?
 
-1413
-01:49:54,560 --> 01:49:57,550
+
+
 I pulled you out... out of that tank.
 
-1414
-01:49:57,630 --> 01:50:01,460
+
+
 All I wanted to do was prove that I was a better magician.
 
-1415
-01:50:01,529 --> 01:50:03,430
+
+
 But you couldn't leave me alone.
 
-1416
-01:50:04,939 --> 01:50:07,029
+
+
 I don't know what you've done.
 
-1417
-01:50:08,939 --> 01:50:12,640
+
+
 But you're not afraid to get your hands dirty anymore, are you?
 
-1418
-01:50:12,710 --> 01:50:15,979
+
+
 No, not anymore. And I win.
 
-1419
-01:50:16,050 --> 01:50:19,380
+
+
 No one cares about the man in the box, the man who disappears.
 
-1420
-01:50:19,449 --> 01:50:20,579
+
+
 You win?
 
-1421
-01:50:22,020 --> 01:50:26,680
+
+
 This ain't a bloody competition anymore. This is my little girl's life.
 
-1422
-01:50:26,760 --> 01:50:29,750
+
+
 And don't you dare put her in the middle of this.
 
-1423
-01:50:29,829 --> 01:50:32,819
+
+
 Oh, I know how hard it is to have someone so special
 
-1424
-01:50:32,899 --> 01:50:35,260
+
+
 taken away from you, don't I, Borden?
 
-1425
-01:50:36,270 --> 01:50:39,000
+
+
 And you can't take it with you, now, can you?
 
-1426
-01:50:39,069 --> 01:50:40,970
+
+
 Oh, she'll be looked after.
 
-1427
-01:50:41,039 --> 01:50:43,060
+
+
 Goodbye, Professor. Come on, darling.
 
-1428
-01:50:43,140 --> 01:50:44,899
+
+
 No, no, no, no, stop, my darling.
 
-1429
-01:50:44,979 --> 01:50:47,100
+
+
 Look, here.
 
-1430
-01:50:48,649 --> 01:50:51,909
+
+
 That's what you're after. That's what this is about.
 
-1431
-01:50:52,720 --> 01:50:54,079
+
+
 Take it.
 
-1432
-01:50:54,149 --> 01:50:55,850
+
+
 - Your secret?
 - Yeah.
 
-1433
-01:50:59,060 --> 01:51:02,619
+
+
 You always were the better magician. We both know that.
 
-1434
-01:51:03,260 --> 01:51:05,859
+
+
 Whatever your secret was, you have to agree,
 
-1435
-01:51:07,000 --> 01:51:08,329
+
+
 mine is better.
 
-1436
-01:51:10,039 --> 01:51:13,399
+
+
 Don't do this. Don't do this, Angier. Jess, Jess!
 
-1437
-01:51:13,470 --> 01:51:17,000
+
+
 Jess, I'm gonna take you home soon. I promise.
 
-1438
-01:51:17,079 --> 01:51:19,640
+
+
 - For God's sake.
 - I promise. Look!
 
-1439
-01:51:23,479 --> 01:51:27,079
+
+
 I promise. I love you, Jess.
 
-1440
-01:51:27,149 --> 01:51:28,810
+
+
 I love you.
 
-1441
-01:51:28,890 --> 01:51:30,510
+
+
 - Come on.
 - I love you.
 
-1442
-01:51:30,590 --> 01:51:32,279
+
+
 I love you, Jess.
 
-1443
-01:51:32,359 --> 01:51:34,689
+
+
 Angier! Angier!
 
-1444
-01:51:34,760 --> 01:51:36,850
+
+
 What, do you think this place can hold me?
 
-1445
-01:51:36,930 --> 01:51:39,949
+
+
 Angier! They're gonna bloody hang me!
 
-1446
-01:51:40,029 --> 01:51:42,560
+
+
 And you can put a stop to this now!
 
-1447
-01:51:43,199 --> 01:51:45,399
+
+
 Listen! Listen! That man...
 
-1448
-01:51:45,470 --> 01:51:47,840
+
+
 Listen, that man is the one I'm in for killing!
 
-1449
-01:51:47,909 --> 01:51:52,239
+
+
 Listen! If he's alive, I'm not guilty!
 
-1450
-01:51:52,310 --> 01:51:54,569
+
+
 - I'm not guilty!
 - I don't care!
 
-1451
-01:51:54,649 --> 01:51:56,739
+
+
 - Get hold of him.
 - Angier!
 
-1452
-01:52:01,420 --> 01:52:03,979
+
+
 Run along now.
 
-1453
-01:52:04,060 --> 01:52:06,579
+
+
 Sir, there's a gentleman waiting.
 
-1454
-01:52:23,409 --> 01:52:26,140
+
+
 - Dear God.
 - Hello, Cutter.
 
-1455
-01:52:27,109 --> 01:52:29,550
+
+
 You're still alive.
 
-1456
-01:52:29,609 --> 01:52:31,479
+
+
 How is it you're still alive?
 
-1457
-01:52:31,550 --> 01:52:33,949
+
+
 I saw you on a slab, for God's sake.
 
-1458
-01:52:36,960 --> 01:52:38,979
+
+
 - Child.
 - Good night, sir.
 
-1459
-01:52:39,060 --> 01:52:41,029
+
+
 Good night, Jess.
 
-1460
-01:52:42,260 --> 01:52:43,920
+
+
 I've seen her before.
 
-1461
-01:52:44,000 --> 01:52:46,520
+
+
 I saw her in court with...
 
-1462
-01:52:47,470 --> 01:52:49,090
+
+
 ...Fallon.
 
-1463
-01:52:51,199 --> 01:52:53,800
+
+
 - What have you done?
 - She needs looking after.
 
-1464
-01:52:53,869 --> 01:52:56,359
+
+
 She needs her father.
 
-1465
-01:52:56,439 --> 01:52:59,409
+
+
 You're letting him hang, and I helped you.
 
-1466
-01:52:59,479 --> 01:53:04,420
+
+
 I came here to beg Lord Caldlow to let me destroy that machine.
 
-1467
-01:53:05,880 --> 01:53:09,319
+
+
 I am not going to beg you for anything.
 
-1468
-01:53:09,390 --> 01:53:12,649
+
+
 You don't have to. I'm gonna make sure it is never used again.
 
-1469
-01:53:13,789 --> 01:53:16,890
+
+
 Then, Lord Caldlow...
 
-1470
-01:53:19,430 --> 01:53:21,489
+
+
 ...where do you want me to deliver it?
 
-1471
-01:53:21,569 --> 01:53:25,329
+
+
 My theater. It belongs with the prestige materials.
 
-1472
-01:53:25,800 --> 01:53:28,399
+
+
 John, I tried not to involve you.
 
-1473
-01:53:41,350 --> 01:53:43,619
+
+
 So...
 
-1474
-01:53:45,659 --> 01:53:48,250
+
+
 We go alone now.
 
-1475
-01:53:48,329 --> 01:53:50,760
+
+
 Both of us.
 
-1476
-01:53:53,569 --> 01:53:56,970
+
+
 I mean, I don't have as far to go as you.
 
-1477
-01:54:02,270 --> 01:54:03,609
+
+
 No.
 
-1478
-01:54:05,140 --> 01:54:08,199
+
+
 You were right. I should have left him to his damn trick.
 
-1479
-01:54:09,979 --> 01:54:12,069
+
+
 I'm sorry.
 
-1480
-01:54:13,619 --> 01:54:15,949
+
+
 I'm sorry for a lot of things.
 
-1481
-01:54:17,090 --> 01:54:19,819
+
+
 I'm sorry about Sarah.
 
-1482
-01:54:20,930 --> 01:54:24,380
+
+
 Didn't mean to hurt her, I didn't.
 
-1483
-01:54:26,260 --> 01:54:30,600
+
+
 You go live your life in full now, all right? You live for both of us.
 
-1484
-01:54:39,439 --> 01:54:40,930
+
+
 Goodbye.
 
-1485
-01:55:26,729 --> 01:55:29,159
+
+
 Are you watching closely?
 
-1486
-01:56:00,529 --> 01:56:02,460
+
+
 Put it down on the end.
 
-1487
-01:56:35,859 --> 01:56:39,630
+
+
 Take a minute to consider your achievement.
 
-1488
-01:56:40,699 --> 01:56:43,500
+
+
 I once told you about a sailor
 
-1489
-01:56:43,569 --> 01:56:45,869
+
+
 who described drowning to me.
 
-1490
-01:56:45,939 --> 01:56:48,130
+
+
 Yes, he said it was like going home.
 
-1491
-01:56:49,239 --> 01:56:53,010
+
+
 I was lying. He said it was agony.
 
-1492
-01:57:32,750 --> 01:57:36,920
+
+
 Alfred Borden, this day, in the name of the king
 
-1493
-01:57:36,989 --> 01:57:38,979
+
+
 and the High Court of England,
 
-1494
-01:57:39,060 --> 01:57:40,890
+
+
 you will meet your end.
 
-1495
-01:57:42,989 --> 01:57:45,020
+
+
 No one cares about the man in the box.
 
-1496
-01:57:49,869 --> 01:57:51,600
+
+
 Cutter?
 
-1497
-01:57:56,270 --> 01:57:57,800
+
+
 Cutter!
 
-1498
-01:57:59,680 --> 01:58:01,939
+
+
 Do you have anything to say?
 
-1499
-01:58:06,680 --> 01:58:08,079
+
+
 Abracadabra.
 
-1500
-01:58:44,720 --> 01:58:47,449
+
+
 A brother? A twin?
 
-1501
-01:58:49,289 --> 01:58:51,659
+
+
 You were Fallon.
 
-1502
-01:58:53,159 --> 01:58:55,829
+
+
 - The whole time?
 - No.
 
-1503
-01:58:56,869 --> 01:58:59,199
+
+
 We were both Fallon.
 
-1504
-01:58:59,270 --> 01:59:01,170
+
+
 We were both Borden.
 
-1505
-01:59:06,539 --> 01:59:09,510
+
+
 Were you the one who went into the box?
 
-1506
-01:59:09,579 --> 01:59:11,279
+
+
 Or the one who came back out?
 
-1507
-01:59:12,579 --> 01:59:14,880
+
+
 We took turns.
 
-1508
-01:59:19,689 --> 01:59:21,750
+
+
 The trick is where we would swap.
 
-1509
-01:59:27,970 --> 01:59:29,869
+
+
 Cutter knew. Cutter knew.
 
-1510
-01:59:29,930 --> 01:59:32,199
+
+
 But I told him it was too simple, too easy.
 
-1511
-01:59:33,399 --> 01:59:34,390
+
+
 No.
 
-1512
-01:59:35,939 --> 01:59:37,909
+
+
 Simple, maybe, but not easy.
 
-1513
-01:59:37,979 --> 01:59:41,739
+
+
 There's nothing easy about two men sharing one life.
 
-1514
-01:59:47,420 --> 01:59:50,619
+
+
 I don't understand, how it can be bleeding again?
 
-1515
-01:59:54,090 --> 01:59:56,890
+
+
 Wha... What about Olivia and your wife?
 
-1516
-01:59:57,899 --> 01:59:59,800
+
+
 We each loved one of them.
 
-1517
-02:00:03,430 --> 02:00:06,159
+
+
 I loved Sarah.
 
-1518
-02:00:06,239 --> 02:00:08,760
+
+
 He loved Olivia.
 
-1519
-02:00:08,840 --> 02:00:11,270
+
+
 We each had half of a full life,
 
-1520
-02:00:11,340 --> 02:00:14,329
+
+
 really, which was enough for us...
 
-1521
-02:00:14,409 --> 02:00:15,399
+
+
 ...just.
 
-1522
-02:00:18,050 --> 02:00:19,779
+
+
 But not for them.
 
-1523
-02:00:22,350 --> 02:00:24,579
+
+
 See, sacrifice, Robert,
 
-1524
-02:00:24,659 --> 02:00:27,390
+
+
 that's the price of a good trick.
 
-1525
-02:00:29,430 --> 02:00:31,989
+
+
 You wouldn't know anything about that, would you?
 
-1526
-02:00:35,270 --> 02:00:37,199
+
+
 I've... I've made sacrifices.
 
-1527
-02:00:37,270 --> 02:00:39,239
+
+
 - No.
 - Yes.
 
-1528
-02:00:39,699 --> 02:00:42,800
+
+
 It takes nothing to steal another man's work.
 
-1529
-02:00:42,869 --> 02:00:45,640
+
+
 Yeah, it takes everything.
 
-1530
-02:01:05,699 --> 02:01:07,819
+
+
 No, no, wait, I'm not...
 
-1531
-02:01:14,510 --> 02:01:17,130
+
+
 It took courage.
 
-1532
-02:01:19,140 --> 02:01:22,340
+
+
 It took courage to climb into that machine every night,
 
-1533
-02:01:23,149 --> 02:01:25,579
+
+
 not knowing...
 
-1534
-02:01:25,649 --> 02:01:27,779
+
+
 ...if I'd be the man in the box...
 
-1535
-02:01:30,819 --> 02:01:32,079
+
+
 ...or in the prestige.
 
-1536
-02:01:33,420 --> 02:01:36,449
+
+
 Do you want to see...
 
-1537
-02:01:36,529 --> 02:01:38,829
+
+
 ...what it cost me?
 
-1538
-02:01:38,899 --> 02:01:41,659
+
+
 You didn't see where you are, did you?
 
-1539
-02:01:42,569 --> 02:01:44,970
+
+
 Look. Look.
 
-1540
-02:01:46,069 --> 02:01:47,560
+
+
 I don't care.
 
-1541
-02:01:52,279 --> 02:01:55,840
+
+
 You went halfway around the world.
 
-1542
-02:01:55,909 --> 02:01:58,680
+
+
 You spent a fortune.
 
-1543
-02:02:00,750 --> 02:02:03,279
+
+
 You did terrible things.
 
-1544
-02:02:04,289 --> 02:02:06,760
+
+
 Really terrible things, Robert.
 
-1545
-02:02:08,789 --> 02:02:10,279
+
+
 And all for nothing.
 
-1546
-02:02:11,260 --> 02:02:12,460
+
+
 For nothing?
 
-1547
-02:02:12,529 --> 02:02:13,859
+
+
 Yeah.
 
-1548
-02:02:17,539 --> 02:02:20,159
+
+
 You never understood...
 
-1549
-02:02:20,239 --> 02:02:22,229
+
+
 ...why we did this.
 
-1550
-02:02:25,340 --> 02:02:27,899
+
+
 The audience knows the truth.
 
-1551
-02:02:29,050 --> 02:02:31,479
+
+
 The world is simple.
 
-1552
-02:02:31,550 --> 02:02:33,279
+
+
 It's miserable.
 
-1553
-02:02:33,350 --> 02:02:37,050
+
+
 Solid... Solid all the way through.
 
-1554
-02:02:39,390 --> 02:02:41,720
+
+
 But if you could fool them,
 
-1555
-02:02:41,789 --> 02:02:43,949
+
+
 even for a second...
 
-1556
-02:02:45,500 --> 02:02:47,899
+
+
 ...then you could make them wonder.
 
-1557
-02:02:49,029 --> 02:02:51,229
+
+
 And then you...
 
-1558
-02:02:51,300 --> 02:02:53,529
+
+
 Then you got to see something
 
-1559
-02:02:53,600 --> 02:02:55,270
+
+
 very special.
 
-1560
-02:02:59,579 --> 02:03:02,100
+
+
 You really don't know.
 
-1561
-02:03:05,180 --> 02:03:06,840
+
+
 It was...
 
-1562
-02:03:07,920 --> 02:03:10,890
+
+
 ...it was the look on their faces.
 
-1563
-02:03:26,069 --> 02:03:30,909
+
+
 Every magic trick consists of three parts, or acts.
 
-1564
-02:03:34,350 --> 02:03:37,800
+
+
 The first part is called "the pledge".
 
-1565
-02:03:37,880 --> 02:03:40,649
+
+
 The magician shows you something ordinary.
 
-1566
-02:03:41,789 --> 02:03:44,720
+
+
 The second act is called "the turn".
 
-1567
-02:03:46,189 --> 02:03:49,060
+
+
 The magician takes the ordinary something
 
-1568
-02:03:49,130 --> 02:03:51,989
+
+
 and makes it into something extraordinary.
 
-1569
-02:03:53,329 --> 02:03:57,229
+
+
 But you wouldn't clap yet, because making something disappear
 
-1570
-02:03:57,300 --> 02:04:01,399
+
+
 isn't enough. You have to bring it back.
 
-1571
-02:04:35,840 --> 02:04:38,270
+
+
 Now you're looking for the secret.
 
-1572
-02:04:41,210 --> 02:04:44,939
+
+
 But you won't find it, because, of course, you're not really looking.
 
-1573
-02:04:48,050 --> 02:04:51,489
+
+
 You don't really want to work it out.
 
-1574
-02:04:54,289 --> 02:04:56,590
+
+
 You want to be fooled.

@@ -1,6415 +1,6415 @@
-1
-00:00:19,036 --> 00:00:20,707
+
+
 Mission control come in.
 
-2
-00:00:22,429 --> 00:00:23,780
+
+
 Mission control, do you read?
 
-3
-00:00:26,593 --> 00:00:27,713
+
+
 Mayday...
 
-4
-00:00:28,263 --> 00:00:29,154
+
+
 Mayday!
 
-5
-00:00:29,935 --> 00:00:33,028
+
+
 I'm re-entering Earth's orbit,
 I seem to have fallen into...
 
-6
-00:00:33,268 --> 00:00:36,371
+
+
 I don't know, some kind
 of tear in time and space.
 
-7
-00:00:36,681 --> 00:00:37,961
+
+
 My coordinates are unknown.
 
-8
-00:00:39,183 --> 00:00:39,973
+
+
 And is either...
 
-9
-00:00:41,405 --> 00:00:45,639
+
+
 Seems entrance indicate it
 should be White Sands, New Mexico.
 
-10
-00:00:45,639 --> 00:00:47,110
+
+
 Obvious error.
 
-11
-00:00:47,330 --> 00:00:48,781
+
+
 Is anyone receiving this?
 
-12
-00:00:54,356 --> 00:00:55,517
+
+
 Recovery team!
 
-13
-00:00:56,127 --> 00:00:58,189
+
+
 Recovery team, fix coordinates now!
 
-14
-00:00:59,480 --> 00:01:01,181
+
+
 Where the hell am I?
 
-15
-00:01:01,602 --> 00:01:02,863
+
+
 Somebody respond!
 
-16
-00:01:03,053 --> 00:01:05,005
+
+
 Recovery team come back, god damn it.
 
-17
-00:01:07,457 --> 00:01:09,339
+
+
 Oh god, oh god.
 
-18
-00:01:09,968 --> 00:01:11,069
+
+
 Anyone re
 -!
 
-19
-00:01:11,069 --> 00:01:22,539
+
+
 Subtitles by ELEMENT
 
-20
-00:01:24,641 --> 00:01:27,574
+
+
 This is TODAY with Matt Lauer.
 
-21
-00:01:28,415 --> 00:01:32,648
+
+
 We're back now with Dr. Rick Marshall
 whose new book arrives in stores tomorrow.
 
-22
-00:01:32,858 --> 00:01:38,283
+
+
 It was back in Oslo, Doctor, last month
 that you just startled your colleagues,
 
-23
-00:01:38,283 --> 00:01:41,765
+
+
 with this theory of yours that takes
 science in a completely new direction.
 
-24
-00:01:41,765 --> 00:01:42,706
+
+
 Quantum Paleontology.
 
-25
-00:01:42,706 --> 00:01:44,117
+
+
 Quantum Paleontology, that's correct.
 
-26
-00:01:44,117 --> 00:01:45,288
+
+
 What exactly is that?
 
-27
-00:01:45,609 --> 00:01:49,602
+
+
 Well it's a...not to say very
 modestly...it's our very future Matt.
 
-28
-00:01:49,903 --> 00:01:54,326
+
+
 It's the only real solution to solving
 this fossil fuel crisis we're experiencing
 
-29
-00:01:54,326 --> 00:01:56,648
+
+
 and it boils down to two simple words.
 
-30
-00:01:56,848 --> 00:01:58,360
+
+
 Renewable bio-fuels?
 
-31
-00:01:58,360 --> 00:01:58,960
+
+
 Close.
 
-32
-00:01:59,250 --> 00:02:00,341
+
+
 Time Warps.
 
-33
-00:02:01,713 --> 00:02:03,754
+
+
 Time Warps? You're serious about this?
 
-34
-00:02:03,754 --> 00:02:04,654
+
+
 I'm deadly serious.
 
-35
-00:02:05,465 --> 00:02:08,548
+
+
 Five years, over fifty million
 dollars on my research...
 
-36
-00:02:08,898 --> 00:02:12,422
+
+
 You spent fifty million dollars of
 your own money, studying Time Warps?
 
-37
-00:02:12,422 --> 00:02:13,463
+
+
 No, that's adorable.
 
-38
-00:02:13,463 --> 00:02:15,714
+
+
 No, tax payers' money. I don't
 have fifty million dollars.
 
-39
-00:02:15,914 --> 00:02:17,215
+
+
 And now you're asking for more?
 
-40
-00:02:17,335 --> 00:02:18,927
+
+
 It's all explained, in my book.
 
-41
-00:02:18,927 --> 00:02:19,948
+
+
 I know we plugged the book.
 
-42
-00:02:19,948 --> 00:02:21,419
+
+
 My Other Car is a Time Machine.
 
-43
-00:02:21,419 --> 00:02:23,161
+
+
 Bantum books, Amazon...
 
-44
-00:02:23,401 --> 00:02:27,053
+
+
 We're living in a time right
 now, with huge cuts in spend-
 
-45
-00:02:27,053 --> 00:02:29,346
+
+
 I saw, huge cuts in spending. -Right
 
-46
-00:02:29,346 --> 00:02:31,017
+
+
 We're in dire economic straights,
 
-47
-00:02:31,017 --> 00:02:34,600
+
+
 and you're spending fifty million
 dollars on studying Time Warps?
 
-48
-00:02:34,681 --> 00:02:36,671
+
+
 How do you not think
 that's irresponsible?
 
-49
-00:02:36,902 --> 00:02:37,702
+
+
 Are you smoking?
 
-50
-00:02:37,702 --> 00:02:39,394
+
+
 No I'm making a balloon animal here.
 
-51
-00:02:39,394 --> 00:02:40,745
+
+
 You can't smoke in the studio.
 
-52
-00:02:40,875 --> 00:02:41,826
+
+
 No one told me that.
 
-53
-00:02:42,387 --> 00:02:43,478
+
+
 Listen, you can't.
 
-54
-00:02:43,478 --> 00:02:44,349
+
+
 Fine.
 
-55
-00:02:44,999 --> 00:02:49,482
+
+
 There are huge huge amounts of trans
 - dimensional energy out there
 
-56
-00:02:49,482 --> 00:02:52,685
+
+
 just waiting for us to throw the
 switch, energy crisis averted.
 
-57
-00:02:52,685 --> 00:02:57,189
+
+
 You are asking people to stake the entire
 future of industrialized civilization,
 
-58
-00:02:57,189 --> 00:02:59,721
+
+
 on what you call Parallel Dimensions?
 
-59
-00:03:00,051 --> 00:03:03,354
+
+
 What about the critics who have
 a fair question doctor, they say...
 
-60
-00:03:03,354 --> 00:03:06,767
+
+
 This theory of yours is not
 science, it is non-science,
 
-61
-00:03:06,767 --> 00:03:09,349
+
+
 and some even more
 bluntly say it's nonsense.
 
-62
-00:03:09,349 --> 00:03:10,530
+
+
 How do you respond to that?
 
-63
-00:03:10,530 --> 00:03:11,181
+
+
 My critics?
 
-64
-00:03:11,181 --> 00:03:12,622
+
+
 Your critics, there are a lot of them.
 
-65
-00:03:12,622 --> 00:03:13,483
+
+
 Could you be more specific?
 
-66
-00:03:13,483 --> 00:03:14,524
+
+
 Steven Hawking.
 
-67
-00:03:14,984 --> 00:03:18,426
+
+
 Steven Hawking says this is
 nonsense, that's his word.
 
-68
-00:03:19,047 --> 00:03:20,638
+
+
 You know what this interview's over.
 
-69
-00:03:20,638 --> 00:03:21,269
+
+
 Why?
 
-70
-00:03:21,980 --> 00:03:24,152
+
+
 Your producer said you
 wouldn't bring that up.
 
-71
-00:03:24,152 --> 00:03:25,133
+
+
 It's a fair question.
 
-72
-00:03:25,133 --> 00:03:26,524
+
+
 No it's not, it's a hatchet job!
 
-73
-00:03:27,395 --> 00:03:31,287
+
+
 That was my guest Dr. Rick Marshall
 his book arrives in stores tomorrow,
 
-74
-00:03:31,297 --> 00:03:35,151
+
+
 you might want to look for it in the
 I'm out of my freakin' mind department.
 
-75
-00:03:35,631 --> 00:03:39,115
+
+
 When we come back, trampolines.
 Summer fun or silent killer?
 
-76
-00:03:49,664 --> 00:03:50,533
+
+
 Ladies and gentlemen.
 
-77
-00:03:50,533 --> 00:03:51,955
+
+
 Esteemed colleagues.
 
-78
-00:03:52,115 --> 00:03:53,566
+
+
 I'll conclude with this.
 
-79
-00:03:53,957 --> 00:03:56,689
+
+
 Our very future depends on one thing.
 
-80
-00:03:57,230 --> 00:03:58,140
+
+
 Tachyons.
 
-81
-00:03:58,681 --> 00:04:03,054
+
+
 Sub-atomic particles that move so incredibly
 fast they actually travel backwards in time.
 
-82
-00:04:03,494 --> 00:04:07,778
+
+
 Ask yourself, what if there was a
 device that could harness these tachyons.
 
-83
-00:04:08,169 --> 00:04:12,222
+
+
 We could open and travel
 through warps in time and space.
 
-84
-00:04:12,672 --> 00:04:13,393
+
+
 What's that?
 
-85
-00:04:14,474 --> 00:04:15,435
+
+
 Not in our lifetime?
 
-86
-00:04:16,195 --> 00:04:18,858
+
+
 My friends, I've designed such a device.
 
-87
-00:04:19,418 --> 00:04:21,891
+
+
 I give to you the Tachyon Amplifier.
 
-88
-00:04:22,530 --> 00:04:24,242
+
+
 Genius in a box.
 
-89
-00:04:24,712 --> 00:04:28,426
+
+
 Only with this device, you don't
 travel forwards or backwards.
 
-90
-00:04:28,756 --> 00:04:30,478
+
+
 You travel sideways in time.
 
-91
-00:04:30,728 --> 00:04:35,051
+
+
 To another dimension where past,
 present, and future all meet.
 
-92
-00:04:36,212 --> 00:04:37,443
+
+
 And, lights.
 
-93
-00:04:38,975 --> 00:04:39,625
+
+
 Alright...
 
-94
-00:04:40,346 --> 00:04:41,297
+
+
 Any questions?
 
-95
-00:04:41,957 --> 00:04:44,389
+
+
 Oh, great. Yes, you
 right there young man.
 
-96
-00:04:45,149 --> 00:04:48,913
+
+
 Yeah, if you shot a ton of pot at the sun,
 would it burn up and get everybody high?
 
-97
-00:04:49,493 --> 00:04:50,034
+
+
 No, no...
 
-98
-00:04:50,755 --> 00:04:53,277
+
+
 Are there any real questions
 that pertain to science?
 
-99
-00:04:53,557 --> 00:04:54,577
+
+
 Do you take Cialis?
 
-100
-00:04:54,998 --> 00:04:57,580
+
+
 Why were you crying in the
 bathroom before this presentation?
 
-101
-00:04:57,700 --> 00:04:59,432
+
+
 How come it looks like
 you're about to cry now?
 
-102
-00:04:59,672 --> 00:05:01,143
+
+
 Do Dinosaurs have boobs?
 
-103
-00:05:01,233 --> 00:05:02,865
+
+
 That's it. That's it,
 everybody out of here.
 
-104
-00:05:02,865 --> 00:05:03,626
+
+
 Get out of here.
 
-105
-00:05:04,106 --> 00:05:07,138
+
+
 Go play in the parking lot. Go run
 around on the Freeway, I don't care.
 
-106
-00:05:07,949 --> 00:05:08,960
+
+
 I have a question.
 
-107
-00:05:09,750 --> 00:05:11,822
+
+
 Did you ever try to make
 the Tachyon Amplifier?
 
-108
-00:05:12,243 --> 00:05:12,853
+
+
 Who're you?
 
-109
-00:05:13,073 --> 00:05:13,954
+
+
 Oh, I'm sorry.
 
-110
-00:05:13,954 --> 00:05:16,956
+
+
 I'm Holly Cantrell, I studied
 all your work at Cambridge.
 
-111
-00:05:18,287 --> 00:05:19,498
+
+
 I think you're brilliant.
 
-112
-00:05:20,990 --> 00:05:23,122
+
+
 Well, Holly from Cambridge
 who thinks I'm brilliant.
 
-113
-00:05:23,742 --> 00:05:26,015
+
+
 I started, but I didn't finish so no.
 
-114
-00:05:26,015 --> 00:05:28,286
+
+
 No but you have to build
 it, it's the most incredible-
 
-115
-00:05:28,736 --> 00:05:29,667
+
+
 What are you eating?
 
-116
-00:05:30,658 --> 00:05:32,760
+
+
 It's a dough nut stuffed with M&M's.
 
-117
-00:05:33,561 --> 00:05:36,203
+
+
 That way when you finish the dough
 nut, you don't have to eat any M&M's.
 
-118
-00:05:36,854 --> 00:05:39,595
+
+
 But don't you see you are
 absolutely right, everything-
 
-119
-00:05:39,595 --> 00:05:40,136
+
+
 Stop.
 
-120
-00:05:40,886 --> 00:05:44,710
+
+
 Chasing that theory got me laughed out
 of main stream science and landed me here.
 
-121
-00:05:45,531 --> 00:05:47,732
+
+
 But you know what, I don't
 got anyone to blame but myself.
 
-122
-00:05:48,302 --> 00:05:49,283
+
+
 Because as they say...
 
-123
-00:05:50,104 --> 00:05:52,777
+
+
 If you don't make it,
 it's your own damn "vault."
 
-124
-00:05:53,918 --> 00:05:55,809
+
+
 That's a bitch slap
 of truth right there.
 
-125
-00:05:56,100 --> 00:05:58,112
+
+
 If your theories are such rubbish.
 
-126
-00:05:59,222 --> 00:06:00,243
+
+
 Then explain this.
 
-127
-00:06:03,105 --> 00:06:09,380
+
+
 That fossil is over 265 million years
 old with an imprint of a $10 lighter.
 
-128
-00:06:09,470 --> 00:06:10,551
+
+
 Go on and explain that.
 
-129
-00:06:11,522 --> 00:06:16,237
+
+
 I found that out in the desert along with crystals
 like this that radiate pure tachyon energy.
 
-130
-00:06:17,938 --> 00:06:18,579
+
+
 Go on.
 
-131
-00:06:20,419 --> 00:06:21,480
+
+
 Explain that.
 
-132
-00:06:54,758 --> 00:06:56,130
+
+
 Captain Kirk's nipples...!
 
-133
-00:06:59,022 --> 00:07:03,376
+
+
 The tar pits will be opened in 5 minutes,
 Dr. Marshall please return the page.
 
-134
-00:07:05,397 --> 00:07:06,308
+
+
 Dr. Marshall?
 
-135
-00:07:10,202 --> 00:07:10,983
+
+
 Oh god.
 
-136
-00:07:12,524 --> 00:07:13,444
+
+
 Are you alright?
 
-137
-00:07:13,804 --> 00:07:14,325
+
+
 Hey!
 
-138
-00:07:14,705 --> 00:07:15,666
+
+
 Up you go.
 
-139
-00:07:20,501 --> 00:07:21,151
+
+
 Dear...
 
-140
-00:07:21,501 --> 00:07:22,222
+
+
 I'm fine.
 
-141
-00:07:22,613 --> 00:07:23,293
+
+
 I'm okay.
 
-142
-00:07:23,293 --> 00:07:25,054
+
+
 I just worked late.
 
-143
-00:07:25,664 --> 00:07:27,016
+
+
 Then I got hungry.
 
-144
-00:07:27,556 --> 00:07:30,109
+
+
 Ate several meals and
 lapsed into a food coma.
 
-145
-00:07:31,099 --> 00:07:32,911
+
+
 I've had issues with food in the past.
 
-146
-00:07:33,832 --> 00:07:36,774
+
+
 I don't know, you know just with the
 stress of everything I just overdid it.
 
-147
-00:07:38,045 --> 00:07:39,006
+
+
 But I'm in control.
 
-148
-00:07:39,716 --> 00:07:41,388
+
+
 Now I don't have to go back to Phoenix.
 
-149
-00:07:42,789 --> 00:07:46,552
+
+
 I just wanted to come by,
 and apologize for yesterday,
 
-150
-00:07:46,552 --> 00:07:48,113
+
+
 my behavior was just...
 
-151
-00:07:48,113 --> 00:07:49,084
+
+
 No, no, no...
 
-152
-00:07:50,506 --> 00:07:52,537
+
+
 You finished the Tachyon Amplifier!
 
-153
-00:07:53,358 --> 00:07:54,960
+
+
 No, no...I mean yes.
 
-154
-00:07:55,881 --> 00:07:56,740
+
+
 I-I don't know...
 
-155
-00:07:56,740 --> 00:07:58,752
+
+
 I finished building it yes, but...
 
-156
-00:07:59,573 --> 00:08:01,255
+
+
 I didn't have the nerve to test it out.
 
-157
-00:08:02,606 --> 00:08:05,659
+
+
 So I thought a trip to Arby's
 might give me some courage, no dice.
 
-158
-00:08:06,859 --> 00:08:08,400
+
+
 But I hit Popeyes, Del Taco...
 
-159
-00:08:09,561 --> 00:08:10,973
+
+
 Fourteen thousand calories later.
 
-160
-00:08:11,433 --> 00:08:12,774
+
+
 I found myself down at Subway.
 
-161
-00:08:13,465 --> 00:08:16,087
+
+
 Powering through a 12
 inch veggie on whole wheat.
 
-162
-00:08:16,938 --> 00:08:18,829
+
+
 Battling to come out a "Jared."
 
-163
-00:08:19,720 --> 00:08:21,662
+
+
 Still didn't give me the
 strength to turn that thing on.
 
-164
-00:08:22,933 --> 00:08:23,724
+
+
 I'm a coward.
 
-165
-00:08:23,834 --> 00:08:25,675
+
+
 You are not a coward,
 you're a visionary.
 
-166
-00:08:26,396 --> 00:08:29,918
+
+
 This is probably the greatest work
 of genius in the last hundred years.
 
-167
-00:08:39,026 --> 00:08:40,657
+
+
 Is that a chorus line?
 
-168
-00:08:40,928 --> 00:08:42,689
+
+
 It's left over data from the drive.
 
-169
-00:08:43,580 --> 00:08:44,951
+
+
 What a piece of crap!
 
-170
-00:08:46,082 --> 00:08:47,654
+
+
 The machine I mean
 
-171
-00:08:48,465 --> 00:08:49,455
+
+
 Not a chorus line.
 
-172
-00:08:49,455 --> 00:08:51,967
+
+
 I love show tunes, they really tell
 the story of the human condition.
 
-173
-00:08:53,268 --> 00:08:54,309
+
+
 It's a bit gay.
 
-174
-00:08:55,450 --> 00:08:56,431
+
+
 It is great.
 
-175
-00:08:57,332 --> 00:08:57,993
+
+
 Right.
 
-176
-00:08:58,363 --> 00:09:00,734
+
+
 Dr. Marshall you're going to
 stop selling yourself short,
 
-177
-00:09:00,734 --> 00:09:03,056
+
+
 you're on the verge of a
 major discovery, now get up!
 
-178
-00:09:03,206 --> 00:09:04,107
+
+
 Whoa, where are we going?
 
-179
-00:09:04,107 --> 00:09:06,470
+
+
 We're going to test this
 little device, in the field.
 
-180
-00:09:06,790 --> 00:09:08,692
+
+
 Are you crazy? I'm not
 prepared for a field test!
 
-181
-00:09:08,962 --> 00:09:12,094
+
+
 No, I'm not going to make a big deal
 out of it just a routine expedition.
 
-182
-00:09:12,314 --> 00:09:13,855
+
+
 A routine expedition?
 
-183
-00:09:13,946 --> 00:09:15,087
+
+
 Purely routine.
 
-184
-00:09:30,060 --> 00:09:31,831
+
+
 Here, here it is. This is
 where I found the fossil.
 
-185
-00:09:32,211 --> 00:09:33,762
+
+
 The Devil's Canyon mystery cave.
 
-186
-00:09:33,882 --> 00:09:35,213
+
+
 This dump is a portal?
 
-187
-00:09:35,414 --> 00:09:36,985
+
+
 Would you look at these readings?
 
-188
-00:09:37,215 --> 00:09:39,017
+
+
 We just gotta get back in that cave.
 
-189
-00:09:39,117 --> 00:09:41,059
+
+
 No problem, the place
 is obviously abandoned.
 
-190
-00:09:41,369 --> 00:09:42,740
+
+
 Not exactly.
 
-191
-00:09:43,660 --> 00:09:44,591
+
+
 What's your pleasure?
 
-192
-00:09:44,591 --> 00:09:47,824
+
+
 I got Roman Candles, Bottle Rockets,
 Twitter Glitters, Dancing Butterflies?
 
-193
-00:09:48,255 --> 00:09:50,677
+
+
 This little bitch right here
 I call the Mexican Vasectomy.
 
-194
-00:09:51,067 --> 00:09:51,518
+
+
 Yeah?
 
-195
-00:09:53,049 --> 00:09:54,179
+
+
 Okay, that's some bad taste.
 
-196
-00:09:55,360 --> 00:09:56,171
+
+
 How 'bout this?
 
-197
-00:09:57,092 --> 00:09:59,534
+
+
 This is a little travel mug I
 like to call, the perfect woman.
 
-198
-00:09:59,694 --> 00:10:02,567
+
+
 Big ol' set of boobies,
 no head and a handle.
 
-199
-00:10:03,768 --> 00:10:05,339
+
+
 Look we want to go in the cave, alright?
 
-200
-00:10:05,689 --> 00:10:06,670
+
+
 Okay, how about this.
 
-201
-00:10:06,780 --> 00:10:09,673
+
+
 Ya'll spend $30 on crap,
 I'll give you a deluxe tour.
 
-202
-00:10:09,903 --> 00:10:11,104
+
+
 It all goes to a great cause.
 
-203
-00:10:11,224 --> 00:10:15,057
+
+
 The Devil's Canyon Resort & Casino!
 
-204
-00:10:18,900 --> 00:10:20,892
+
+
 Wow, that's nice craft.
 
-205
-00:10:21,393 --> 00:10:24,035
+
+
 Seven thousand
 luxuriously appointed rooms
 
-206
-00:10:24,285 --> 00:10:25,236
+
+
 Three casinos.
 
-207
-00:10:25,356 --> 00:10:26,666
+
+
 One convention center.
 
-208
-00:10:26,777 --> 00:10:28,028
+
+
 Ass-tons of parking.
 
-209
-00:10:28,168 --> 00:10:29,529
+
+
 And when everything is complete,
 
-210
-00:10:29,529 --> 00:10:33,012
+
+
 I will turn the tip of this golden
 tee-pee into my personal lair.
 
-211
-00:10:33,793 --> 00:10:36,535
+
+
 And I will take a mate, and live
 the rest of my life with her up here.
 
-212
-00:10:36,975 --> 00:10:40,108
+
+
 When we fight, and she pisses me
 off, I will banish her to this tip,
 
-213
-00:10:40,108 --> 00:10:42,530
+
+
 where she will be kept
 as a prisoner and a slave.
 
-214
-00:10:43,641 --> 00:10:44,792
+
+
 So you gonna buy anything?
 
-215
-00:10:45,423 --> 00:10:46,054
+
+
 Yeah, fine.
 
-216
-00:10:47,854 --> 00:10:51,578
+
+
 Hey Earn, taking these guys
 to the cave. Watch the store.
 
-217
-00:10:54,641 --> 00:10:57,023
+
+
 Close your mouth while you're
 breathing like we talked about.
 
-218
-00:10:57,113 --> 00:10:58,523
+
+
 Making everybody over here feel wierd.
 
-219
-00:11:03,708 --> 00:11:10,063
+
+
 Prepare to meet your darkest fears inside
 the depths of the Devil's Canyon mystery cave!
 
-220
-00:11:10,894 --> 00:11:13,927
+
+
 Rule number one, keep your
 arms and legs inside the boat.
 
-221
-00:11:14,207 --> 00:11:17,730
+
+
 Rule number two, have
 a kick ass awesome time!
 
-222
-00:11:18,321 --> 00:11:19,601
+
+
 But be warned...
 
-223
-00:11:20,322 --> 00:11:21,683
+
+
 You may get wet.
 
-224
-00:11:22,494 --> 00:11:23,545
+
+
 I'm sorry, may?
 
-225
-00:11:23,715 --> 00:11:25,867
+
+
 Actually, I need to know
 this equipment cannot get wet.
 
-226
-00:11:26,037 --> 00:11:27,829
+
+
 Not you, Mary Poppins
 
-227
-00:11:28,629 --> 00:11:30,480
+
+
 Bam-chica-wow-wow...
 
-228
-00:11:31,541 --> 00:11:32,982
+
+
 Say that again, and I'll drown you.
 
-229
-00:11:33,833 --> 00:11:34,514
+
+
 Good to go!
 
-230
-00:11:35,495 --> 00:11:38,227
+
+
 Woo, cave ride begins!
 
-231
-00:11:39,809 --> 00:11:40,619
+
+
 Woo!
 
-232
-00:11:47,835 --> 00:11:52,939
+
+
 They all just say this old cave is a hundred
 years old and holds a thousand mysteries.
 
-233
-00:11:53,490 --> 00:11:57,543
+
+
 Or is it thousand years
 old, and a hundred mysteries.
 
-234
-00:11:57,984 --> 00:12:01,377
+
+
 Well that my friends, is
 just one of the mysteries.
 
-235
-00:12:02,087 --> 00:12:04,319
+
+
 Say what you will my man, as a showman.
 
-236
-00:12:05,290 --> 00:12:06,411
+
+
 Without a doubt.
 
-237
-00:12:06,821 --> 00:12:12,286
+
+
 This cave is most infamous for the
 legend of the Devil's Canyon lizard man.
 
-238
-00:12:12,966 --> 00:12:15,798
+
+
 He's been seen around these
 parts since the pilgrim times.
 
-239
-00:12:16,549 --> 00:12:20,673
+
+
 Snapping his claws, hissin,
 tryin' to eat people up.
 
-240
-00:12:21,384 --> 00:12:25,356
+
+
 Lurking about in the dark
 dark shadows of this very cave.
 
-241
-00:12:29,260 --> 00:12:32,493
+
+
 But those are just legends, aren't they?
 
-242
-00:12:35,615 --> 00:12:36,676
+
+
 Aren't they?!
 
-243
-00:12:38,668 --> 00:12:39,599
+
+
 Are you asking us?
 
-244
-00:12:39,859 --> 00:12:40,510
+
+
 No, no.
 
-245
-00:12:40,660 --> 00:12:41,961
+
+
 Earnie! Aren't they?
 
-246
-00:12:41,961 --> 00:12:42,922
+
+
 Here it comes, Will!
 
-247
-00:12:45,303 --> 00:12:45,964
+
+
 Oh god!
 
-248
-00:12:46,564 --> 00:12:47,615
+
+
 The lizard man!
 
-249
-00:12:49,957 --> 00:12:50,808
+
+
 You're paying for that.
 
-250
-00:12:51,058 --> 00:12:52,290
+
+
 I most definitely am not.
 
-251
-00:12:53,240 --> 00:12:56,112
+
+
 You know I'm sitting here trying to
 give you guys a really awesome adventure,
 
-252
-00:12:56,112 --> 00:12:58,064
+
+
 and you guys are giving
 me nothing in return!
 
-253
-00:12:58,154 --> 00:13:00,636
+
+
 I got the gloves on,
 the hat, the pageantry!
 
-254
-00:13:02,048 --> 00:13:03,969
+
+
 Holly, I'm getting a
 strong Tachyon reading!
 
-255
-00:13:04,620 --> 00:13:07,031
+
+
 I think I can boost the hell out
 of this signal with a resonant wave!
 
-256
-00:13:07,111 --> 00:13:07,942
+
+
 Go for it!
 
-257
-00:13:08,172 --> 00:13:09,394
+
+
 You guys don't even care.
 
-258
-00:13:12,777 --> 00:13:15,349
+
+
 No no, there are no
 showtunes on this ride!
 
-259
-00:13:21,774 --> 00:13:22,785
+
+
 Something's happening!
 
-260
-00:13:23,556 --> 00:13:24,607
+
+
 Is this part of the ride?!
 
-261
-00:13:26,218 --> 00:13:27,558
+
+
 Nah, this ain't me!
 
-262
-00:13:27,929 --> 00:13:28,920
+
+
 It's an earthquake!
 
-263
-00:13:29,390 --> 00:13:31,012
+
+
 Greatest earthquake ever known!
 
-264
-00:13:31,212 --> 00:13:33,744
+
+
 Marshall, I think you should turn it up!
 
-265
-00:13:36,807 --> 00:13:37,638
+
+
 The meter!
 
-266
-00:13:39,779 --> 00:13:40,600
+
+
 We're moving!
 
-267
-00:13:41,531 --> 00:13:43,272
+
+
 This isn't me, this isn't me!
 
-268
-00:13:43,272 --> 00:13:44,643
+
+
 Why are we moving so fast?!
 
-269
-00:13:44,924 --> 00:13:46,906
+
+
 Do I look like I know what's going on?!
 
-270
-00:13:52,600 --> 00:13:53,871
+
+
 What's that sound?!
 
-271
-00:13:54,402 --> 00:13:56,133
+
+
 Is there a waterfall in here?!
 
-272
-00:13:56,453 --> 00:13:59,036
+
+
 Hell no dude, this
 isn't even a real stream!
 
-273
-00:13:59,036 --> 00:14:02,068
+
+
 It's industrial run off of the
 soap factory down the street!
 
-274
-00:14:06,372 --> 00:14:07,323
+
+
 What is that?!
 
-275
-00:14:08,083 --> 00:14:08,954
+
+
 Oh shit!
 
-276
-00:14:09,034 --> 00:14:11,596
+
+
 This is not a routine expedition!
 
-277
-00:14:11,956 --> 00:14:13,678
+
+
 Reverse!
 
-278
-00:14:15,639 --> 00:14:16,770
+
+
 It's beautiful!
 
-279
-00:14:55,883 --> 00:14:57,915
+
+
 I gotta say I did not see that coming.
 
-280
-00:14:59,026 --> 00:15:01,248
+
+
 Earnie! You bastard!
 
-281
-00:15:01,638 --> 00:15:02,880
+
+
 That was way too fast.
 
-282
-00:15:03,670 --> 00:15:04,410
+
+
 Earnie!
 
-283
-00:15:05,001 --> 00:15:06,142
+
+
 Too fast!
 
-284
-00:15:20,284 --> 00:15:21,425
+
+
 Marshall!
 
-285
-00:15:24,217 --> 00:15:26,158
+
+
 I think you should
 come and look at this!
 
-286
-00:15:30,622 --> 00:15:32,794
+
+
 Do you realize what this means?!
 
-287
-00:15:33,575 --> 00:15:34,436
+
+
 Yes!
 
-288
-00:15:34,726 --> 00:15:35,816
+
+
 It means...
 
-289
-00:15:36,117 --> 00:15:38,028
+
+
 Matt Lauer can suck it!
 
-290
-00:15:43,353 --> 00:15:44,805
+
+
 Holly, are you rolling? -Yes!
 
-291
-00:15:44,805 --> 00:15:46,346
+
+
 That was a viking ship and a-
 
-292
-00:15:46,346 --> 00:15:47,336
+
+
 Shut up just shut up!
 
-293
-00:15:47,616 --> 00:15:48,918
+
+
 Okay, currently in our party...
 
-294
-00:15:49,188 --> 00:15:50,739
+
+
 Me, Dr. Rick Marshall.
 
-295
-00:15:50,999 --> 00:15:56,214
+
+
 Doctoral candidate Holly Cantrell and some trashy
 tailer park reject who smells of malt liquor and feet.
 
-296
-00:15:56,214 --> 00:15:57,095
+
+
 I'm standin' right here!
 
-297
-00:15:57,095 --> 00:15:58,005
+
+
 I was right!
 
-298
-00:15:58,215 --> 00:15:59,006
+
+
 Holly, right here!
 
-299
-00:15:59,126 --> 00:16:00,547
+
+
 Just as I predicted we have been...
 
-300
-00:16:00,547 --> 00:16:06,183
+
+
 We've fallen through a time portal from our Earth,
 to another dimension where past, present and future,
 
-301
-00:16:06,183 --> 00:16:07,724
+
+
 are all mashed up together!
 
-302
-00:16:07,874 --> 00:16:08,874
+
+
 How the hell did this happen?
 
-303
-00:16:08,874 --> 00:16:10,926
+
+
 My Tachyon Amplifier,
 that's how it happened!
 
-304
-00:16:10,926 --> 00:16:13,569
+
+
 You mean that shitty boombox
 pumpin' showtunes? -Yes, it worked!
 
-305
-00:16:13,669 --> 00:16:14,630
+
+
 Where the hell is it?
 
-306
-00:16:15,861 --> 00:16:16,872
+
+
 Okay, minor set back.
 
-307
-00:16:17,372 --> 00:16:22,346
+
+
 My tachyon amplifier, which undoubtedly will be
 the only possible way for us to open a doorway home.
 
-308
-00:16:22,666 --> 00:16:23,837
+
+
 Is nowhere to be seen.
 
-309
-00:16:26,570 --> 00:16:27,561
+
+
 What the hell was that?
 
-310
-00:16:28,902 --> 00:16:30,282
+
+
 I have no idea but let's go find out!
 
-311
-00:16:40,521 --> 00:16:41,472
+
+
 Primates!
 
-312
-00:16:41,842 --> 00:16:44,975
+
+
 I heard they had the posture of an
 Australopithecy but it's actually quite-
 
-313
-00:16:44,975 --> 00:16:45,866
+
+
 No, no, no...shut up!
 
-314
-00:16:45,866 --> 00:16:49,689
+
+
 I will not let you ruin this moment, I waited
 my entire life to see the mighty big foot!
 
-315
-00:16:50,689 --> 00:16:52,061
+
+
 Man, are you touching yourself?
 
-316
-00:16:52,061 --> 00:16:53,031
+
+
 Marshall, look!
 
-317
-00:16:54,513 --> 00:16:55,914
+
+
 Oh my god!
 
-318
-00:16:56,515 --> 00:16:58,096
+
+
 Tool construction!
 
-319
-00:16:58,647 --> 00:16:59,798
+
+
 Tool construction!
 
-320
-00:16:59,798 --> 00:17:00,989
+
+
 Yea! They're gonna kill him!
 
-321
-00:17:03,160 --> 00:17:04,471
+
+
 No!
 
-322
-00:17:09,736 --> 00:17:11,978
+
+
 Okay you egg heads you follow my lead.
 
-323
-00:17:12,708 --> 00:17:14,149
+
+
 I know just how to
 party with these guys.
 
-324
-00:17:15,120 --> 00:17:16,621
+
+
 You little monkey bastards!
 
-325
-00:17:17,292 --> 00:17:19,144
+
+
 Prepare to bow down and worship me!
 
-326
-00:17:20,015 --> 00:17:21,806
+
+
 For behold, ye' Troglodytes...
 
-327
-00:17:22,147 --> 00:17:25,439
+
+
 I command the power of...fire!
 
-328
-00:17:25,899 --> 00:17:27,591
+
+
 Will, that's not a good idea.
 
-329
-00:17:28,041 --> 00:17:29,202
+
+
 How do you like me now huh?
 
-330
-00:17:29,743 --> 00:17:31,144
+
+
 You want to disco dance you-
 
-331
-00:17:31,144 --> 00:17:32,605
+
+
 Ouch! Son of a bitch...!
 
-332
-00:17:37,309 --> 00:17:38,220
+
+
 Well done.
 
-333
-00:17:38,550 --> 00:17:41,363
+
+
 You've just now given murderous
 primitives the power of fire.
 
-334
-00:17:55,053 --> 00:17:56,024
+
+
 It's alright.
 
-335
-00:17:57,386 --> 00:17:58,767
+
+
 It's alright don't be frightened.
 
-336
-00:18:02,110 --> 00:18:03,481
+
+
 We're friends.
 
-337
-00:18:07,634 --> 00:18:08,545
+
+
 Friends.
 
-338
-00:18:09,286 --> 00:18:10,417
+
+
 Careful Holly.
 
-339
-00:18:10,757 --> 00:18:11,678
+
+
 Come on.
 
-340
-00:18:11,978 --> 00:18:12,919
+
+
 Come on!
 
-341
-00:18:14,270 --> 00:18:15,161
+
+
 Come on.
 
-342
-00:18:15,822 --> 00:18:16,922
+
+
 There we go.
 
-343
-00:18:16,922 --> 00:18:19,204
+
+
 I spent 3 years at the
 Manchester Primate House.
 
-344
-00:18:20,575 --> 00:18:22,767
+
+
 I'm recognizing their
 very primitive language.
 
-345
-00:18:24,299 --> 00:18:25,170
+
+
 Now..
 
-346
-00:18:25,610 --> 00:18:29,533
+
+
 Me? Holly.
 
-347
-00:18:33,026 --> 00:18:34,547
+
+
 Yes, Holly!
 
-348
-00:18:36,049 --> 00:18:36,709
+
+
 Holly.
 
-349
-00:18:36,709 --> 00:18:38,050
+
+
 Me? Holly...
 
-350
-00:18:38,460 --> 00:18:39,311
+
+
 You?
 
-351
-00:18:46,427 --> 00:18:47,148
+
+
 Cha-ka?
 
-352
-00:18:47,478 --> 00:18:48,199
+
+
 Cha-ka!
 
-353
-00:18:48,598 --> 00:18:51,982
+
+
 No, Holly...Cha-ka!
 
-354
-00:18:53,323 --> 00:18:54,564
+
+
 Wi-ill...
 
-355
-00:18:54,894 --> 00:18:55,805
+
+
 Will...
 
-356
-00:18:58,508 --> 00:18:59,778
+
+
 Good work Holly.
 
-357
-00:18:59,778 --> 00:19:00,989
+
+
 Let me take over from here.
 
-358
-00:19:01,820 --> 00:19:03,501
+
+
 Greeting Cha-ka!
 
-359
-00:19:03,972 --> 00:19:04,833
+
+
 Cha-ka?
 
-360
-00:19:05,733 --> 00:19:08,166
+
+
 I'm Dr. Rick Marshall.
 
-361
-00:19:08,676 --> 00:19:11,518
+
+
 Doctor Rick...Marshall?
 
-362
-00:19:12,148 --> 00:19:12,829
+
+
 Okay?
 
-363
-00:19:13,330 --> 00:19:14,951
+
+
 Let's take a look at that ankle.
 
-364
-00:19:15,592 --> 00:19:16,573
+
+
 Does that sound good?
 
-365
-00:19:17,493 --> 00:19:22,117
+
+
 Keep in mind Cha-ka, although I'm a
 doctor, I'm not a licensed physician.
 
-366
-00:19:22,958 --> 00:19:25,240
+
+
 Okay? Just going to take a little look-
 
-367
-00:19:25,900 --> 00:19:27,692
+
+
 How dare you! How dare you!
 
-368
-00:19:27,692 --> 00:19:29,564
+
+
 I mean you no harm!
 
-369
-00:19:29,564 --> 00:19:30,204
+
+
 Marshall, Marshall!
 
-370
-00:19:30,204 --> 00:19:31,344
+
+
 Don't you run from me you little shit!
 
-371
-00:19:34,207 --> 00:19:34,948
+
+
 Now you're dead!
 
-372
-00:19:43,685 --> 00:19:44,816
+
+
 Damn it Chaka!
 
-373
-00:19:45,487 --> 00:19:46,718
+
+
 Now was that necessary?
 
-374
-00:19:49,841 --> 00:19:51,832
+
+
 Marshall! Marshall,
 wait stay where you are.
 
-375
-00:19:51,893 --> 00:19:52,652
+
+
 What was that?
 
-376
-00:19:52,652 --> 00:19:54,374
+
+
 Look he was never in any danger, okay?
 
-377
-00:19:54,484 --> 00:19:55,655
+
+
 Cha-ka! Friend!
 
-378
-00:19:55,785 --> 00:19:57,297
+
+
 Safety! Safety!
 
-379
-00:19:57,787 --> 00:19:58,668
+
+
 Safety!
 
-380
-00:19:59,178 --> 00:20:00,159
+
+
 Holly, tell him.
 
-381
-00:20:01,881 --> 00:20:02,882
+
+
 Marshall?
 
-382
-00:20:02,882 --> 00:20:04,062
+
+
 Marshall...
 
-383
-00:20:05,143 --> 00:20:07,145
+
+
 Haboo! Haboo!
 
-384
-00:20:09,307 --> 00:20:10,078
+
+
 Haboo?
 
-385
-00:20:10,078 --> 00:20:10,928
+
+
 Haboo.
 
-386
-00:20:16,953 --> 00:20:18,154
+
+
 Well that's more like it.
 
-387
-00:20:18,474 --> 00:20:19,525
+
+
 Holly what did you tell him?
 
-388
-00:20:19,525 --> 00:20:23,289
+
+
 I think I told him that you're a
 great chief, and you're very powerful.
 
-389
-00:20:23,889 --> 00:20:26,000
+
+
 And I think he's pledging
 his life long loyalty to you.
 
-390
-00:20:26,971 --> 00:20:29,093
+
+
 That's hardly necessary
 my little friend.
 
-391
-00:20:29,754 --> 00:20:31,245
+
+
 But I will honor your customs.
 
-392
-00:20:31,796 --> 00:20:33,227
+
+
 And you may serve me.
 
-393
-00:20:34,959 --> 00:20:38,901
+
+
 In return I will be a fair
 but very strict master.
 
-394
-00:20:42,104 --> 00:20:42,955
+
+
 What?!
 
-395
-00:20:43,606 --> 00:20:45,067
+
+
 What is wrong with you people?!
 
-396
-00:20:45,257 --> 00:20:46,628
+
+
 That sand dune swallowed us!
 
-397
-00:20:47,288 --> 00:20:49,881
+
+
 I mean could you all please stop act
 like this doesn't happen everyday?
 
-398
-00:20:50,201 --> 00:20:51,722
+
+
 You're starting to make
 me feel really stupid!
 
-399
-00:20:52,013 --> 00:20:54,165
+
+
 Okay, hold on. Let's gather ourselves.
 
-400
-00:20:54,735 --> 00:20:55,876
+
+
 Take a deep breath in.
 
-401
-00:21:08,066 --> 00:21:08,816
+
+
 Fortunately...
 
-402
-00:21:09,177 --> 00:21:13,030
+
+
 I've been in this exact
 situation...three times before.
 
-403
-00:21:13,311 --> 00:21:14,031
+
+
 When?!
 
-404
-00:21:14,161 --> 00:21:15,353
+
+
 When have you ever
 been in this situation?!
 
-405
-00:21:15,353 --> 00:21:17,134
+
+
 I've never been in
 this situation before!
 
-406
-00:21:17,685 --> 00:21:18,905
+
+
 Just tryin' to keep up morale!
 
-407
-00:21:21,587 --> 00:21:22,828
+
+
 Oh god...
 
-408
-00:21:23,159 --> 00:21:24,600
+
+
 I sure hope that was a Coyote.
 
-409
-00:21:29,093 --> 00:21:31,916
+
+
 Good god, it's a feeding station!
 
-410
-00:21:32,827 --> 00:21:34,929
+
+
 If anyone knows about
 meal presentation, it's me.
 
-411
-00:21:35,109 --> 00:21:36,540
+
+
 Oh god, oh god!
 
-412
-00:21:36,720 --> 00:21:37,731
+
+
 Grab hands!
 
-413
-00:21:37,872 --> 00:21:39,882
+
+
 Create some momentum and
 swing over to that tree.
 
-414
-00:21:42,725 --> 00:21:43,876
+
+
 Extension!
 
-415
-00:21:45,468 --> 00:21:46,459
+
+
 Reach!
 
-416
-00:21:48,601 --> 00:21:49,962
+
+
 Good form everyone!
 
-417
-00:21:51,492 --> 00:21:52,864
+
+
 Working in concert!
 
-418
-00:21:53,784 --> 00:21:55,486
+
+
 Don't be afraid to point the toe!
 
-419
-00:21:57,218 --> 00:21:57,908
+
+
 One more!
 
-420
-00:21:58,539 --> 00:21:59,730
+
+
 One more should do it!
 
-421
-00:22:12,550 --> 00:22:13,711
+
+
 Everybody move out!
 
-422
-00:22:14,051 --> 00:22:15,433
+
+
 Cha-ka, your master
 commands you to-
 
-423
-00:22:17,064 --> 00:22:18,035
+
+
 Bad Cha-ka!
 
-424
-00:22:18,125 --> 00:22:19,987
+
+
 Your loyalty is now in question!
 
-425
-00:22:23,429 --> 00:22:24,580
+
+
 That was a Dinosaur?
 
-426
-00:22:24,700 --> 00:22:25,551
+
+
 T-Rex!
 
-427
-00:22:25,551 --> 00:22:26,782
+
+
 Definitely in predator mode!
 
-428
-00:22:26,872 --> 00:22:29,024
+
+
 Would you hurry up,
 you're slowing us down!
 
-429
-00:22:29,395 --> 00:22:30,986
+
+
 Why are you wearing high heels!
 
-430
-00:22:30,986 --> 00:22:32,888
+
+
 They're not high heels, they're
 my Floor Shine Zipper Boots!
 
-431
-00:22:32,888 --> 00:22:35,399
+
+
 Why are you wearing Floor
 Shines on a field expedition!
 
-432
-00:22:35,399 --> 00:22:37,331
+
+
 I told you I was no prepped
 to go into the field.
 
-433
-00:22:40,714 --> 00:22:42,306
+
+
 Wait, wait! We need a photo!
 
-434
-00:22:42,306 --> 00:22:43,567
+
+
 Nice field skills, Holly!
 
-435
-00:22:43,567 --> 00:22:44,487
+
+
 Stand over there!
 
-436
-00:22:44,487 --> 00:22:44,917
+
+
 What?!
 
-437
-00:22:44,917 --> 00:22:46,909
+
+
 This is proof that I'm
 right and I want photos.
 
-438
-00:22:46,909 --> 00:22:48,260
+
+
 Stand there we need you for scale!
 
-439
-00:22:48,260 --> 00:22:48,911
+
+
 Scale?!
 
-440
-00:22:49,271 --> 00:22:50,963
+
+
 Marshall, do we to
 turn on Red-Eye feature?
 
-441
-00:22:51,974 --> 00:22:53,205
+
+
 Yes! His eyes do look red.
 
-442
-00:22:53,205 --> 00:22:54,555
+
+
 Jesus Christ, just take the picture!
 
-443
-00:22:54,555 --> 00:22:56,227
+
+
 Okay just stand still!
 -Stand still please.
 
-444
-00:22:56,957 --> 00:22:58,399
+
+
 One, two, three...
 
-445
-00:22:58,879 --> 00:23:00,010
+
+
 Fantastic, run!
 
-446
-00:23:00,010 --> 00:23:00,811
+
+
 Run like hell!
 
-447
-00:23:03,734 --> 00:23:05,114
+
+
 Where the hell's the monkey?
 
-448
-00:23:09,188 --> 00:23:09,728
+
+
 Look!
 
-449
-00:23:09,728 --> 00:23:11,980
+
+
 Cha-ka's waiting for us at
 the other end of the bridge!
 
-450
-00:23:12,701 --> 00:23:14,533
+
+
 Good Cha-ka, your master is pleased!
 
-451
-00:23:16,253 --> 00:23:17,294
+
+
 Marshall!
 
-452
-00:23:17,294 --> 00:23:19,807
+
+
 It really looks like he's just
 trying to destroy the bridge.
 
-453
-00:23:19,987 --> 00:23:21,278
+
+
 Chaka, wait!
 
-454
-00:23:21,278 --> 00:23:22,469
+
+
 Master not pleased!
 
-455
-00:23:31,927 --> 00:23:35,220
+
+
 It's okay, he can't cross he
 has terrible depth perception.
 
-456
-00:23:35,891 --> 00:23:37,812
+
+
 Thinks this chasm is
 a million miles long.
 
-457
-00:23:38,933 --> 00:23:40,844
+
+
 He's not what you'd call an athlete.
 
-458
-00:23:40,844 --> 00:23:42,306
+
+
 Mister T-Rexes.
 
-459
-00:23:42,766 --> 00:23:43,437
+
+
 See?
 
-460
-00:23:43,657 --> 00:23:46,510
+
+
 Walking away in utter,
 and helpless defeat.
 
-461
-00:23:47,721 --> 00:23:49,932
+
+
 After all their brain
 is the size of a walnut.
 
-462
-00:23:50,543 --> 00:23:54,346
+
+
 Their sense of smell may be acute, but eye
 sight, hearing, all of his higher functions,
 
-463
-00:23:54,716 --> 00:23:57,639
+
+
 completely compromised by
 that walnut sized brain pan.
 
-464
-00:23:58,040 --> 00:23:59,560
+
+
 I mean forget about the Polish.
 
-465
-00:24:00,341 --> 00:24:02,613
+
+
 It's the T-Rexes who were
 the real dummies of the world.
 
-466
-00:24:02,613 --> 00:24:04,234
+
+
 In fact Chaka, funny story...
 
-467
-00:24:09,228 --> 00:24:10,169
+
+
 Run!
 
-468
-00:24:12,741 --> 00:24:13,782
+
+
 Follow the monkey!
 
-469
-00:24:32,468 --> 00:24:33,789
+
+
 He's looking at you, Marshall.
 
-470
-00:24:34,500 --> 00:24:35,761
+
+
 He's watching you.
 
-471
-00:24:35,811 --> 00:24:36,832
+
+
 He's looking at everyone.
 
-472
-00:24:37,913 --> 00:24:39,704
+
+
 No I'm certain he's looking at you.
 
-473
-00:24:52,885 --> 00:24:54,126
+
+
 He is grumpy.
 
-474
-00:24:56,008 --> 00:24:58,170
+
+
 I think that's what we
 should call him, Grumpy.
 
-475
-00:24:58,970 --> 00:24:59,851
+
+
 It's a cute name.
 
-476
-00:25:03,864 --> 00:25:04,935
+
+
 Is it gone?
 
-477
-00:25:05,476 --> 00:25:06,206
+
+
 Yeah.
 
-478
-00:25:07,227 --> 00:25:08,088
+
+
 Pussy!
 
-479
-00:25:10,881 --> 00:25:11,962
+
+
 What a puss...
 
-480
-00:25:19,458 --> 00:25:20,609
+
+
 This'll work just fine.
 
-481
-00:25:21,830 --> 00:25:23,772
+
+
 We'll call this base camp.
 
-482
-00:25:24,742 --> 00:25:26,803
+
+
 No, no...we cannot stay here!
 
-483
-00:25:26,934 --> 00:25:29,586
+
+
 Bad things happen in caves
 folks, watch your movies!
 
-484
-00:25:29,676 --> 00:25:32,148
+
+
 Guys, can we just please take a
 minute to absorb this, I mean...
 
-485
-00:25:33,490 --> 00:25:37,412
+
+
 We must be, the first ones to ever step
 foot in this world, it's incredible!
 
-486
-00:26:05,126 --> 00:26:07,017
+
+
 Oh god, we're screwed.
 
-487
-00:26:21,740 --> 00:26:22,711
+
+
 No, no!
 
-488
-00:26:26,574 --> 00:26:28,855
+
+
 Chaka, no...No!
 
-489
-00:26:35,151 --> 00:26:36,322
+
+
 Okay you know what?
 
-490
-00:26:36,593 --> 00:26:38,474
+
+
 I don't want Chaka sleeping
 in the cave tonight.
 
-491
-00:26:38,544 --> 00:26:40,145
+
+
 Whoa! Not cool dude.
 
-492
-00:26:40,255 --> 00:26:42,387
+
+
 No, it's a reasonable
 precaution alright?
 
-493
-00:26:42,577 --> 00:26:46,241
+
+
 He was just about to be executed, and I think
 he might've done something to deserve it.
 
-494
-00:26:46,411 --> 00:26:47,742
+
+
 Hey my man is right here.
 
-495
-00:26:47,742 --> 00:26:49,464
+
+
 Obviously he has feeling, okay?
 
-496
-00:26:49,464 --> 00:26:50,484
+
+
 Doesn't have feelings!
 
-497
-00:26:50,484 --> 00:26:52,796
+
+
 Man, come on look at him he's adorable.
 
-498
-00:26:52,796 --> 00:26:54,007
+
+
 He's a little cuddle machine.
 
-499
-00:26:54,007 --> 00:26:54,407
+
+
 What?
 
-500
-00:26:54,407 --> 00:26:56,559
+
+
 Yeah, least you can do
 is let him defend himself.
 
-501
-00:26:56,559 --> 00:26:57,790
+
+
 I don't speak monkey.
 
-502
-00:26:58,491 --> 00:26:59,732
+
+
 Anyhow...do you?
 
-503
-00:27:00,183 --> 00:27:01,223
+
+
 No I didn't think so.
 
-504
-00:27:01,223 --> 00:27:02,444
+
+
 Here let me try.
 
-505
-00:27:03,215 --> 00:27:04,426
+
+
 Chaka?
 
-506
-00:27:13,323 --> 00:27:15,495
+
+
 He says he's a prince
 amongst his people.
 
-507
-00:27:21,421 --> 00:27:24,272
+
+
 And the victim of a treacherous
 plot to steal his throne.
 
-508
-00:27:26,334 --> 00:27:28,947
+
+
 And the only thing he's
 ever guilty of was...
 
-509
-00:27:30,478 --> 00:27:31,359
+
+
 Is love.
 
-510
-00:27:31,989 --> 00:27:33,570
+
+
 Brother, give me a break.
 
-511
-00:27:34,981 --> 00:27:38,725
+
+
 And he's been treated far too harshly
 for the very simple crime of...
 
-512
-00:27:40,276 --> 00:27:41,738
+
+
 Pooping in the village well.
 
-513
-00:27:41,918 --> 00:27:43,638
+
+
 That's why you're not
 sleeping in the cave.
 
-514
-00:27:47,162 --> 00:27:48,303
+
+
 I can't tell anymore.
 
-515
-00:27:53,807 --> 00:27:55,208
+
+
 Okay mister...
 
-516
-00:27:55,709 --> 00:27:56,709
+
+
 Silently
 - Fuck you!
 
-517
-00:28:00,203 --> 00:28:02,075
+
+
 Whoa, hold on! Where
 you going with that?
 
-518
-00:28:02,145 --> 00:28:04,946
+
+
 I'm just gonna block the first point-of-egress
 here so that we're not vulnerable.
 
-519
-00:28:04,946 --> 00:28:06,327
+
+
 No...no...
 
-520
-00:28:06,868 --> 00:28:07,809
+
+
 Bless your heart.
 
-521
-00:28:08,479 --> 00:28:10,151
+
+
 Classic, tender foot mistake.
 
-522
-00:28:10,662 --> 00:28:12,303
+
+
 Don't beat yourself up over it.
 
-523
-00:28:12,763 --> 00:28:13,764
+
+
 Here's the thing.
 
-524
-00:28:13,865 --> 00:28:16,536
+
+
 Never put anything near the mouth
 of the cave to draw attention to us.
 
-525
-00:28:16,606 --> 00:28:20,209
+
+
 Did you not just see that we drew the attention
 of a highly intelligent psycho Dinosaur?
 
-526
-00:28:20,420 --> 00:28:24,433
+
+
 Look I think the "Ph.D" after my name means
 I know a little something about Dinosaurs?
 
-527
-00:28:24,784 --> 00:28:26,915
+
+
 Dinosaurs are creatures
 of brute instinct.
 
-528
-00:28:27,475 --> 00:28:30,218
+
+
 Like I said before it's got
 a brain the size of a walnut!
 
-529
-00:28:30,458 --> 00:28:31,609
+
+
 Okay? You got me?
 
-530
-00:28:31,859 --> 00:28:32,920
+
+
 A walnut.
 
-531
-00:28:34,602 --> 00:28:35,453
+
+
 What's that?
 
-532
-00:28:36,043 --> 00:28:36,973
+
+
 What's that?!
 
-533
-00:28:59,672 --> 00:29:01,794
+
+
 Sweet Gregor Mendel...
 
-534
-00:29:02,155 --> 00:29:03,086
+
+
 What? What is it?
 
-535
-00:29:05,618 --> 00:29:06,779
+
+
 It's a walnut.
 
-536
-00:29:14,055 --> 00:29:16,027
+
+
 Well, obviously this
 is between you and him.
 
-537
-00:29:19,869 --> 00:29:23,172
+
+
 Day 2, 0600...Zulu time.
 
-538
-00:29:24,143 --> 00:29:25,765
+
+
 Did not sleep last night at all.
 
-539
-00:29:26,295 --> 00:29:27,316
+
+
 Not one bit.
 
-540
-00:29:27,817 --> 00:29:31,899
+
+
 Still no sign of the tachyon
 amplifier our...our only way home.
 
-541
-00:29:33,201 --> 00:29:36,394
+
+
 Field rations are...are
 running dangerously low.
 
-542
-00:29:38,115 --> 00:29:42,699
+
+
 Thusly, I've made the determination that
 if need be, if faced with starvation...
 
-543
-00:29:42,699 --> 00:29:46,002
+
+
 we will cook and eat...Chaka.
 
-544
-00:29:47,633 --> 00:29:49,265
+
+
 I've been thinking about
 this a lot actually.
 
-545
-00:29:49,855 --> 00:29:54,749
+
+
 If Chaka meat were the secret ingredient
 on Iron Chef, I'm sure Bobbly Flay would,
 
-546
-00:29:55,089 --> 00:29:58,823
+
+
 probably serve it with a roasted
 red peppers, and a dash of cumin.
 
-547
-00:29:59,393 --> 00:30:00,694
+
+
 And a braze of polenta.
 
-548
-00:30:01,945 --> 00:30:03,596
+
+
 Wouldn't be an easy thing to do but...
 
-549
-00:30:04,227 --> 00:30:07,990
+
+
 but if you slow roast the little guy I'm sure
 that Chaka meat would just fall right off the bone.
 
-550
-00:30:10,312 --> 00:30:11,924
+
+
 Fruit train coming through!
 
-551
-00:30:12,184 --> 00:30:14,265
+
+
 Fantastic! I'm absolutely starving.
 
-552
-00:30:14,505 --> 00:30:16,127
+
+
 Which fruit shall I-
 
-553
-00:30:16,247 --> 00:30:17,898
+
+
 Whoa, hold on a second there Holly.
 
-554
-00:30:17,898 --> 00:30:19,960
+
+
 I don't recognize that
 genus of succulent.
 
-555
-00:30:20,631 --> 00:30:23,193
+
+
 Perhaps the native
 inhabitant can help us.
 
-556
-00:30:24,363 --> 00:30:25,234
+
+
 Chaka?
 
-557
-00:30:25,655 --> 00:30:26,545
+
+
 Rick Marshall!
 
-558
-00:30:26,776 --> 00:30:27,416
+
+
 Chaka!
 
-559
-00:30:28,587 --> 00:30:29,508
+
+
 Are they safe?
 
-560
-00:30:29,849 --> 00:30:30,619
+
+
 To eat?
 
-561
-00:30:31,030 --> 00:30:32,801
+
+
 Eat? Eat..eat?
 
-562
-00:30:35,513 --> 00:30:36,764
+
+
 Eat!
 
-563
-00:30:36,834 --> 00:30:38,155
+
+
 Eat, eat?
 
-564
-00:30:38,566 --> 00:30:39,537
+
+
 Thank you Chaka!
 
-565
-00:30:40,297 --> 00:30:42,359
+
+
 Thank you so much, for listening to me.
 
-566
-00:30:43,380 --> 00:30:45,161
+
+
 Sorry for doubting you my little friend.
 
-567
-00:30:45,872 --> 00:30:47,623
+
+
 Has a pungent flavor, smells good!
 
-568
-00:30:48,054 --> 00:30:48,854
+
+
 Very meaty-
 
-569
-00:30:50,926 --> 00:30:51,977
+
+
 Jesus Chaka!
 
-570
-00:30:52,698 --> 00:30:53,569
+
+
 What the hell?!
 
-571
-00:30:59,223 --> 00:31:00,054
+
+
 Friends?
 
-572
-00:31:00,835 --> 00:31:01,595
+
+
 Friends?
 
-573
-00:31:03,577 --> 00:31:06,859
+
+
 Well? Yes, technically I guess.
 
-574
-00:31:07,410 --> 00:31:09,251
+
+
 However I am your master.
 
-575
-00:31:09,592 --> 00:31:12,264
+
+
 We have entered into a verbal contract.
 
-576
-00:31:12,915 --> 00:31:14,346
+
+
 You need to understand that.
 
-577
-00:31:18,789 --> 00:31:20,721
+
+
 Holly, quick to the cave mouth.
 
-578
-00:31:20,881 --> 00:31:21,632
+
+
 Sentry positions!
 
-579
-00:31:30,069 --> 00:31:31,600
+
+
 Looks like a plasma discharge.
 
-580
-00:31:31,750 --> 00:31:32,891
+
+
 Or maybe beta-rays!
 
-581
-00:31:34,323 --> 00:31:35,294
+
+
 Marshall?
 
-582
-00:31:35,794 --> 00:31:36,555
+
+
 Marshall!
 
-583
-00:31:37,105 --> 00:31:37,966
+
+
 Marshall?
 
-584
-00:31:39,316 --> 00:31:40,237
+
+
 Help...
 
-585
-00:31:40,538 --> 00:31:41,418
+
+
 Me...
 
-586
-00:31:42,049 --> 00:31:43,000
+
+
 Please...
 
-587
-00:31:43,881 --> 00:31:44,641
+
+
 I will.
 
-588
-00:31:45,522 --> 00:31:46,243
+
+
 Marshall?
 
-589
-00:31:47,414 --> 00:31:48,635
+
+
 Marshall, where are you going?
 
-590
-00:31:48,885 --> 00:31:50,676
+
+
 Someone or something knows we're here.
 
-591
-00:31:50,936 --> 00:31:52,548
+
+
 It's in my head calling to me.
 
-592
-00:31:52,548 --> 00:31:53,359
+
+
 Get back Holly!
 
-593
-00:31:53,979 --> 00:31:55,000
+
+
 What are you doing?!
 
-594
-00:31:55,280 --> 00:31:57,763
+
+
 I've seen this before!
 He's got the jungle madness!
 
-595
-00:31:57,763 --> 00:31:59,844
+
+
 We gotta put him down while
 he's still has some dignity left!
 
-596
-00:32:00,014 --> 00:32:01,055
+
+
 Chaka, let's roll!
 
-597
-00:32:01,055 --> 00:32:01,815
+
+
 What?!
 
-598
-00:32:10,083 --> 00:32:10,853
+
+
 You see?
 
-599
-00:32:11,343 --> 00:32:12,294
+
+
 This is the place!
 
-600
-00:32:13,716 --> 00:32:14,336
+
+
 A beacon!
 
-601
-00:32:15,017 --> 00:32:16,058
+
+
 A transmitter!
 
-602
-00:32:16,258 --> 00:32:18,200
+
+
 Tapping directly into my prefontal lobe!
 
-603
-00:32:21,622 --> 00:32:22,433
+
+
 What the hell?!
 
-604
-00:32:22,533 --> 00:32:23,374
+
+
 Stop it!
 
-605
-00:32:23,704 --> 00:32:24,655
+
+
 Well I'll be...
 
-606
-00:32:25,215 --> 00:32:26,316
+
+
 I guess you weren't crazy.
 
-607
-00:32:26,737 --> 00:32:27,377
+
+
 Okay...
 
-608
-00:32:27,618 --> 00:32:29,469
+
+
 I'm man enough to say that's my bad.
 
-609
-00:32:30,000 --> 00:32:35,594
+
+
 Wow, has incredible architecture...almost
 like the almanac culture of Western America.
 
-610
-00:32:35,974 --> 00:32:37,656
+
+
 Reminds me of the prudential building.
 
-611
-00:32:45,743 --> 00:32:47,474
+
+
 I'll bet somebody's
 growing weed in here.
 
-612
-00:32:53,919 --> 00:32:54,810
+
+
 Feel that?
 
-613
-00:32:55,220 --> 00:32:56,311
+
+
 That ambient energy?
 
-614
-00:32:56,892 --> 00:32:58,103
+
+
 Just like at Devil's Canyon.
 
-615
-00:32:58,463 --> 00:33:00,405
+
+
 Yeah, tachyon radiation.
 
-616
-00:33:01,056 --> 00:33:02,357
+
+
 Marshall, the meter can't be far.
 
-617
-00:33:11,164 --> 00:33:12,786
+
+
 Finally something cool huh?
 
-618
-00:33:13,316 --> 00:33:14,587
+
+
 What, no reaction?
 
-619
-00:33:14,897 --> 00:33:17,880
+
+
 You guys have seen that before
 too I take it huh? In your lab...
 
-620
-00:33:19,121 --> 00:33:20,112
+
+
 What's this thing?
 
-621
-00:33:20,772 --> 00:33:23,615
+
+
 Maybe this is where ancient
 ancestors hosted the latin Grammy's.
 
-622
-00:33:24,155 --> 00:33:26,737
+
+
 Just picture Santana
 hauling this sucker around.
 
-623
-00:33:29,169 --> 00:33:30,350
+
+
 It vibrates.
 
-624
-00:33:30,490 --> 00:33:31,832
+
+
 I wouldn't touch that alright.
 
-625
-00:33:33,033 --> 00:33:35,885
+
+
 Do you believe in life after love!
 
-626
-00:33:36,295 --> 00:33:37,896
+
+
 That is so dumb and childish.
 
-627
-00:33:39,268 --> 00:33:42,521
+
+
 Do you believe in life after love!
 
-628
-00:33:43,181 --> 00:33:46,124
+
+
 Will could you please be quiet,
 Dr. Marshall needs silence.
 
-629
-00:33:46,664 --> 00:33:49,746
+
+
 I can feel something inside me say
 
-630
-00:33:49,987 --> 00:33:53,800
+
+
 I really don't think
 you're strong enough, no!
 
-631
-00:33:56,433 --> 00:33:57,703
+
+
 Really feel it in my forearms.
 
-632
-00:33:57,703 --> 00:33:59,404
+
+
 Yeah, you usually have to
 pay for something like this.
 
-633
-00:34:00,826 --> 00:34:02,257
+
+
 Holly you should sit on this.
 
-634
-00:34:06,831 --> 00:34:07,472
+
+
 What?
 
-635
-00:34:09,583 --> 00:34:10,534
+
+
 What is it Chaka?
 
-636
-00:34:10,724 --> 00:34:11,585
+
+
 What'd you say?
 
-637
-00:34:14,037 --> 00:34:14,848
+
+
 What's he saying?
 
-638
-00:34:14,848 --> 00:34:16,820
+
+
 I don't know if this is anything
 I've ever learned...Sarisa?
 
-639
-00:34:17,510 --> 00:34:18,071
+
+
 Sarisa Taka?
 
-640
-00:34:18,071 --> 00:34:19,641
+
+
 Chorizo Tacos?
 
-641
-00:34:19,741 --> 00:34:21,413
+
+
 Are you saying Chorizo Tacos?
 
-642
-00:34:21,483 --> 00:34:23,415
+
+
 Don't play around
 because I am super hungry.
 
-643
-00:34:25,287 --> 00:34:26,237
+
+
 Sarisa
 -?
 
-644
-00:34:26,768 --> 00:34:27,939
+
+
 What the hell does that mean?
 
-645
-00:34:30,350 --> 00:34:30,971
+
+
 Well...
 
-646
-00:34:31,361 --> 00:34:32,662
+
+
 I'm afraid we'll never know.
 
-647
-00:34:41,710 --> 00:34:42,601
+
+
 Okay...
 
-648
-00:34:45,483 --> 00:34:47,465
+
+
 Oh shit it's not Chorizo Tacos.
 
-649
-00:34:48,376 --> 00:34:51,798
+
+
 No immediate danger,
 cold blooded and slow.
 
-650
-00:34:53,120 --> 00:34:55,412
+
+
 I repeat, no immediate danger.
 
-651
-00:34:55,412 --> 00:34:57,774
+
+
 Would you stop that?! Please!
 You are freaking me out!
 
-652
-00:35:03,688 --> 00:35:04,469
+
+
 They're everywhere!
 
-653
-00:35:04,699 --> 00:35:05,700
+
+
 Just like zombies!
 
-654
-00:35:05,830 --> 00:35:07,962
+
+
 That's how zombies get you! Volume!
 
-655
-00:35:08,863 --> 00:35:10,144
+
+
 We're all gonna die!
 
-656
-00:35:10,385 --> 00:35:11,296
+
+
 Like hell...
 
-657
-00:35:11,906 --> 00:35:14,317
+
+
 I'm gonna take at least one
 of these bastards with me,
 
-658
-00:35:14,317 --> 00:35:16,289
+
+
 even if you have to choke
 to death on my skull!
 
-659
-00:35:18,241 --> 00:35:19,502
+
+
 What you want some too do you?
 
-660
-00:35:20,974 --> 00:35:22,195
+
+
 What are you guys doing?!
 
-661
-00:35:22,295 --> 00:35:22,945
+
+
 One second...
 
-662
-00:35:33,464 --> 00:35:34,885
+
+
 What in the hell?
 
-663
-00:35:38,218 --> 00:35:39,159
+
+
 Get in!
 
-664
-00:35:42,091 --> 00:35:43,102
+
+
 Wait stand down Holly.
 
-665
-00:35:45,483 --> 00:35:46,194
+
+
 Hang on...
 
-666
-00:35:47,265 --> 00:35:48,426
+
+
 Hang on I think we're safe.
 
-667
-00:35:48,556 --> 00:35:50,358
+
+
 They don't seem to be able to
 make it through the entrance.
 
-668
-00:35:50,458 --> 00:35:51,559
+
+
 Thank god for that.
 
-669
-00:35:51,659 --> 00:35:53,471
+
+
 That one keeps peering into my soul.
 
-670
-00:35:53,471 --> 00:35:54,662
+
+
 This is just fantastic.
 
-671
-00:35:54,882 --> 00:35:58,004
+
+
 Now we're just going to stand in here
 and suffocate in this tiny little...
 
-672
-00:35:59,526 --> 00:36:00,376
+
+
 Huge...
 
-673
-00:36:00,777 --> 00:36:01,748
+
+
 Thingy...
 
-674
-00:36:02,488 --> 00:36:04,240
+
+
 Wow that is an efficient use of space.
 
-675
-00:36:04,240 --> 00:36:05,850
+
+
 Like Snoopy's dog house.
 
-676
-00:36:07,772 --> 00:36:09,604
+
+
 Look, there's a gold one.
 
-677
-00:36:10,235 --> 00:36:11,366
+
+
 Let's stomp his head in.
 
-678
-00:36:12,016 --> 00:36:13,378
+
+
 Do not fear me.
 
-679
-00:36:14,108 --> 00:36:15,319
+
+
 I am Enik
 
-680
-00:36:15,640 --> 00:36:17,120
+
+
 The Altrusian.
 
-681
-00:36:17,961 --> 00:36:20,813
+
+
 Thank Vindok you've come
 to my aid Rick Marshall.
 
-682
-00:36:21,234 --> 00:36:22,065
+
+
 You know me?
 
-683
-00:36:22,375 --> 00:36:23,066
+
+
 Of course.
 
-684
-00:36:23,636 --> 00:36:27,399
+
+
 Even in the farthest reachest of the
 universe we've seen your Matt Lauer video.
 
-685
-00:36:28,229 --> 00:36:30,692
+
+
 I am a prisoner in
 this Land of the Lost.
 
-686
-00:36:31,482 --> 00:36:33,574
+
+
 Only you can help me escape.
 
-687
-00:36:33,835 --> 00:36:36,587
+
+
 The fate of the universe depends on you.
 
-688
-00:36:37,478 --> 00:36:38,198
+
+
 Well...
 
-689
-00:36:39,139 --> 00:36:40,770
+
+
 Thats very flattering...Enik.
 
-690
-00:36:42,001 --> 00:36:43,763
+
+
 But I think you've found the wrong guy.
 
-691
-00:36:43,763 --> 00:36:48,566
+
+
 No Rick Marshall, I have summoned you here
 specifically to help me stop an evil mad man who
 
-692
-00:36:48,566 --> 00:36:50,748
+
+
 has already conquered my world.
 
-693
-00:36:50,959 --> 00:36:53,541
+
+
 And now plans to conquer yours.
 
-694
-00:36:53,761 --> 00:36:54,762
+
+
 His name is...
 
-695
-00:36:56,204 --> 00:36:57,305
+
+
 The Zarn.
 
-696
-00:36:57,895 --> 00:37:01,618
+
+
 I am the Zarn, heed my
 warning or be destroyed.
 
-697
-00:37:01,618 --> 00:37:06,502
+
+
 The Zarn became obsessed with using the power
 of these crystals to conquer the universe.
 
-698
-00:37:07,283 --> 00:37:10,435
+
+
 If he is not stopped he will
 open a doorway to your world,
 
-699
-00:37:10,885 --> 00:37:15,780
+
+
 and lead his army of Sleestak on
 a rampage across time and space.
 
-700
-00:37:16,601 --> 00:37:18,322
+
+
 He must be stopped.
 
-701
-00:37:18,973 --> 00:37:19,663
+
+
 Enik...
 
-702
-00:37:19,894 --> 00:37:20,753
+
+
 Buddy...
 
-703
-00:37:21,544 --> 00:37:23,756
+
+
 I'm a scientist, you're a scientist.
 
-704
-00:37:24,127 --> 00:37:26,799
+
+
 I think together you and
 I could figure this out.
 
-705
-00:37:27,500 --> 00:37:29,341
+
+
 You mustn't touch the crystals!
 
-706
-00:37:29,962 --> 00:37:34,595
+
+
 Wrong manipulation of the crystals
 could turn time and space inside out.
 
-707
-00:37:35,306 --> 00:37:36,487
+
+
 What do you need from us?
 
-708
-00:37:36,617 --> 00:37:39,860
+
+
 The Zarn lacks only one
 thing to enact his evil plan.
 
-709
-00:37:40,421 --> 00:37:45,194
+
+
 A device to amplify tachyons and
 unleash the full power of the crystals.
 
-710
-00:37:45,344 --> 00:37:48,597
+
+
 Well Marshall has created a device
 that isolates tachyon interference.
 
-711
-00:37:48,678 --> 00:37:49,618
+
+
 Yeah I did that.
 
-712
-00:37:50,079 --> 00:37:55,743
+
+
 Of course, with tachyon particles focused
 along the proper temporal vector...
 
-713
-00:37:55,743 --> 00:38:00,498
+
+
 ...a stable passage way could be opened
 to any point in the space time continuum.
 
-714
-00:38:01,739 --> 00:38:03,020
+
+
 You and I are so smart.
 
-715
-00:38:03,870 --> 00:38:07,133
+
+
 Rick Marshall, I knew
 instantly you could help me.
 
-716
-00:38:07,133 --> 00:38:07,914
+
+
 Thank you.
 
-717
-00:38:08,224 --> 00:38:10,586
+
+
 You are a truly advanced intellect.
 
-718
-00:38:11,086 --> 00:38:13,709
+
+
 I don't know how you
 manage amongst these others.
 
-719
-00:38:13,709 --> 00:38:15,900
+
+
 I don't know how I do it
 either, I really don't!
 
-720
-00:38:16,010 --> 00:38:16,981
+
+
 Excuse me?!
 
-721
-00:38:17,241 --> 00:38:19,333
+
+
 You have this tachyon amplifier?
 
-722
-00:38:20,244 --> 00:38:23,237
+
+
 I lost it on the way in, I don't
 know where...it could be lost in time.
 
-723
-00:38:23,237 --> 00:38:24,987
+
+
 On the contrary I detect it nearby.
 
-724
-00:38:25,348 --> 00:38:26,139
+
+
 It...
 
-725
-00:38:26,139 --> 00:38:27,250
+
+
 Strange...
 
-726
-00:38:27,660 --> 00:38:30,443
+
+
 I cannot precisely pin
 point its location it...
 
-727
-00:38:30,533 --> 00:38:31,664
+
+
 ...moves.
 
-728
-00:38:32,304 --> 00:38:33,275
+
+
 Leave it to us.
 
-729
-00:38:33,435 --> 00:38:34,416
+
+
 If it's out there.
 
-730
-00:38:34,416 --> 00:38:35,237
+
+
 We'll find it.
 
-731
-00:38:35,516 --> 00:38:36,577
+
+
 Not so fast amigo.
 
-732
-00:38:37,118 --> 00:38:38,329
+
+
 Little rule I live by.
 
-733
-00:38:38,629 --> 00:38:40,391
+
+
 Never trust a dude in a tunic.
 
-734
-00:38:40,891 --> 00:38:42,193
+
+
 You live by that rule?
 
-735
-00:38:42,373 --> 00:38:42,923
+
+
 Yes.
 
-736
-00:38:43,173 --> 00:38:44,535
+
+
 It's never led me astray.
 
-737
-00:38:44,605 --> 00:38:46,415
+
+
 Come on Enik, are you
 well enough to travel?
 
-738
-00:38:46,415 --> 00:38:48,958
+
+
 No, my place is here in the pylon.
 
-739
-00:38:49,088 --> 00:38:50,659
+
+
 I must protect the crystals.
 
-740
-00:38:51,100 --> 00:38:55,864
+
+
 If you wish to return home these crystals
 are the doorway. Your device is the key.
 
-741
-00:38:56,335 --> 00:38:58,446
+
+
 Find it before the Zarn does.
 
-742
-00:38:58,756 --> 00:39:01,218
+
+
 Bring it to me, and rescue us all.
 
-743
-00:39:01,549 --> 00:39:03,721
+
+
 Rescue the uni-verse.
 
-744
-00:39:06,984 --> 00:39:08,514
+
+
 Alright everyone gather around.
 
-745
-00:39:09,405 --> 00:39:10,496
+
+
 Let's go, chop chop.
 
-746
-00:39:10,926 --> 00:39:11,527
+
+
 Hustle up.
 
-747
-00:39:12,298 --> 00:39:13,619
+
+
 Marshall did you just make that?
 
-748
-00:39:13,869 --> 00:39:16,802
+
+
 Yeah, I'm a bit of a
 miniatures enthusiast.
 
-749
-00:39:17,913 --> 00:39:18,833
+
+
 It's very impressive.
 
-750
-00:39:19,583 --> 00:39:20,334
+
+
 Thank you.
 
-751
-00:39:20,334 --> 00:39:23,037
+
+
 Yeah well I see some
 obvious scaling issues...
 
-752
-00:39:23,177 --> 00:39:24,198
+
+
 I think its pretty damn good.
 
-753
-00:39:25,789 --> 00:39:26,410
+
+
 Alright.
 
-754
-00:39:26,860 --> 00:39:27,711
+
+
 We are here.
 
-755
-00:39:27,971 --> 00:39:30,092
+
+
 As you can see desert, forest...
 
-756
-00:39:31,323 --> 00:39:32,074
+
+
 What's this look like?
 
-757
-00:39:32,625 --> 00:39:33,235
+
+
 The cave.
 
-758
-00:39:33,235 --> 00:39:34,576
+
+
 That's the cave, that's
 where we're living.
 
-759
-00:39:34,987 --> 00:39:35,998
+
+
 Standard volcano.
 
-760
-00:39:36,428 --> 00:39:36,949
+
+
 Okay?
 
-761
-00:39:37,649 --> 00:39:41,512
+
+
 Now, I will tether Will to
 this hot air balloon right here.
 
-762
-00:39:41,512 --> 00:39:44,845
+
+
 Okay, it will be fitted with
 a crude tachyon reflector array
 
-763
-00:39:44,845 --> 00:39:47,037
+
+
 that I fashioned out of a thermal
 blanket and cell phone charger.
 
-764
-00:39:47,137 --> 00:39:48,679
+
+
 I don't remember ever
 volunteering for that.
 
-765
-00:39:48,799 --> 00:39:49,590
+
+
 Holly!
 
-766
-00:39:49,590 --> 00:39:54,343
+
+
 You and I will follow Will's directions as he
 searches for the tell-tale ping of the missing,
 
-767
-00:39:54,343 --> 00:39:56,905
+
+
 and still presumably
 operational tachyon meter.
 
-768
-00:39:59,438 --> 00:40:00,579
+
+
 Oh god, he's close.
 
-769
-00:40:00,919 --> 00:40:01,909
+
+
 I've taken care of that.
 
-770
-00:40:02,610 --> 00:40:06,093
+
+
 During the course of my professional
 career I've done extensive research with,
 
-771
-00:40:06,093 --> 00:40:08,866
+
+
 reptiles and various birds of
 prey of which Dinosaurs are.
 
-772
-00:40:08,946 --> 00:40:10,147
+
+
 Well that's disputable.
 
-773
-00:40:10,247 --> 00:40:10,937
+
+
 Please be quiet.
 
-774
-00:40:11,688 --> 00:40:13,419
+
+
 They have a very acute sense of smell.
 
-775
-00:40:13,739 --> 00:40:18,293
+
+
 Now, while I gathered this strictly for
 genetic research to be used upon our return,
 
-776
-00:40:18,293 --> 00:40:21,146
+
+
 I think it would prove
 wise to use this now.
 
-777
-00:40:21,797 --> 00:40:22,847
+
+
 Hadrosaur urine.
 
-778
-00:40:23,117 --> 00:40:23,978
+
+
 We're going to cover our-
 
-779
-00:40:23,978 --> 00:40:24,808
+
+
 Whoa, wait.
 
-780
-00:40:24,808 --> 00:40:25,759
+
+
 What is that?
 
-781
-00:40:26,100 --> 00:40:27,211
+
+
 Hadrosaur urine.
 
-782
-00:40:28,632 --> 00:40:29,513
+
+
 How'd you get that?
 
-783
-00:40:30,023 --> 00:40:32,476
+
+
 Well while you are sleeping,
 I'm out gathering research.
 
-784
-00:40:32,706 --> 00:40:33,265
+
+
 Okay?
 
-785
-00:40:33,435 --> 00:40:35,758
+
+
 This was to be used
 for genetic engineering.
 
-786
-00:40:35,858 --> 00:40:38,330
+
+
 And I was going to write a
 report on kidney function.
 
-787
-00:40:38,881 --> 00:40:41,593
+
+
 But now it'll just be
 camouflage, we'll all blend in.
 
-788
-00:40:41,823 --> 00:40:42,974
+
+
 Okay? So...
 
-789
-00:40:43,245 --> 00:40:44,064
+
+
 We will cover ourselves-
 
-790
-00:40:44,064 --> 00:40:45,826
+
+
 I'm sorry, so sorry.
 
-791
-00:40:45,826 --> 00:40:47,077
+
+
 I'm just trying to figure this out.
 
-792
-00:40:47,918 --> 00:40:50,550
+
+
 So you've been gathering urine?
 
-793
-00:40:51,471 --> 00:40:52,652
+
+
 Yes, what's the problem?
 
-794
-00:40:53,203 --> 00:40:56,565
+
+
 That means you stood under
 a dino dung, with a bucket.
 
-795
-00:40:59,888 --> 00:41:04,472
+
+
 If you want to be technical and reduce
 it to it's basis element...yes I was.
 
-796
-00:41:05,823 --> 00:41:07,194
+
+
 How'd that work out for you?
 
-797
-00:41:08,065 --> 00:41:09,376
+
+
 Are you honestly asking me?
 
-798
-00:41:09,736 --> 00:41:10,617
+
+
 Yeah.
 
-799
-00:41:12,339 --> 00:41:13,180
+
+
 It's very peaceful.
 
-800
-00:41:14,321 --> 00:41:15,362
+
+
 Just a little bit like fly fishing.
 
-801
-00:41:16,281 --> 00:41:22,357
+
+
 Just out there in the night air still
 calm, and then zing you get a big catch.
 
-802
-00:41:23,378 --> 00:41:28,842
+
+
 Okay so, we'll cover our bodies in urine, and
 we'll be virtually undetectable to all Dinosaurs.
 
-803
-00:41:31,975 --> 00:41:34,017
+
+
 Here they come, should've
 thought of this a long time ago.
 
-804
-00:41:39,341 --> 00:41:40,542
+
+
 That's refreshing.
 
-805
-00:41:40,983 --> 00:41:43,045
+
+
 Make sure to ingest some
 get that in the blood stream.
 
-806
-00:41:50,090 --> 00:41:51,131
+
+
 Don't do that.
 
-807
-00:41:53,393 --> 00:41:54,364
+
+
 Okay, whose next?
 
-808
-00:41:57,077 --> 00:41:58,088
+
+
 Really?
 
-809
-00:41:58,668 --> 00:41:59,688
+
+
 It's not that bad.
 
-810
-00:42:03,502 --> 00:42:05,614
+
+
 Just starting to burn my eyes a
 little bit did not plan for it.
 
-811
-00:42:06,985 --> 00:42:09,017
+
+
 It get's up in the nostrils
 too, you do not want that.
 
-812
-00:42:12,999 --> 00:42:14,091
+
+
 That's early morning stuff.
 
-813
-00:42:15,682 --> 00:42:16,623
+
+
 That is strong.
 
-814
-00:42:18,124 --> 00:42:20,636
+
+
 Maybe a second splash will
 reduce some of the effects.
 
-815
-00:42:22,267 --> 00:42:23,448
+
+
 Immediately made it worse.
 
-816
-00:42:25,720 --> 00:42:27,162
+
+
 Where's my laser pointer? Nevermind.
 
-817
-00:42:27,782 --> 00:42:30,305
+
+
 We will probably have to be doing...
 
-818
-00:42:36,419 --> 00:42:37,090
+
+
 Whose that?
 
-819
-00:42:41,783 --> 00:42:43,105
+
+
 Maybe we should just follow him.
 
-820
-00:42:44,035 --> 00:42:44,996
+
+
 Nice model though.
 
-821
-00:42:46,438 --> 00:42:48,910
+
+
 Yeah fine, let's forget my model
 and let's follow the monkey.
 
-822
-00:42:55,715 --> 00:42:56,516
+
+
 Shut up Chaka!
 
-823
-00:42:58,808 --> 00:42:59,929
+
+
 Are we there yet?
 
-824
-00:43:00,660 --> 00:43:01,811
+
+
 You find this funny Chaka?
 
-825
-00:43:02,772 --> 00:43:05,013
+
+
 This is the damn Bhutan
 death march out here.
 
-826
-00:43:12,680 --> 00:43:13,600
+
+
 My god...
 
-827
-00:43:14,421 --> 00:43:16,022
+
+
 Absolutely incredible.
 
-828
-00:43:16,573 --> 00:43:18,825
+
+
 This must be the main
 entry point into this world.
 
-829
-00:43:21,938 --> 00:43:23,549
+
+
 It's like...a cosmic lost and found.
 
-830
-00:43:24,319 --> 00:43:26,331
+
+
 Wow look at all this
 kick ass shit to steal.
 
-831
-00:43:26,331 --> 00:43:27,922
+
+
 This is like the world's greatest mall.
 
-832
-00:43:27,922 --> 00:43:29,634
+
+
 Yeah, Will, it's just like a mall.
 
-833
-00:43:29,634 --> 00:43:31,466
+
+
 The only thing it's
 missing is a food court.
 
-834
-00:43:31,686 --> 00:43:34,218
+
+
 Compsognathus! Look how they move!
 
-835
-00:43:35,048 --> 00:43:36,830
+
+
 Where all these little
 chupacabres going to?
 
-836
-00:43:37,210 --> 00:43:38,401
+
+
 I'll tell you where they're going to.
 
-837
-00:43:39,092 --> 00:43:41,404
+
+
 Our raft, tachyon meter can't be far.
 
-838
-00:43:41,905 --> 00:43:43,316
+
+
 Our raft? That's my raft.
 
-839
-00:43:43,946 --> 00:43:46,178
+
+
 Get away from there!
 Stop pecking at my raft!
 
-840
-00:43:48,179 --> 00:43:49,270
+
+
 There's your food court.
 
-841
-00:43:52,053 --> 00:43:52,874
+
+
 Ice cream...
 
-842
-00:43:52,874 --> 00:43:54,205
+
+
 Hey! What're you doing?
 
-843
-00:43:54,205 --> 00:43:56,686
+
+
 What? I'm gonna poney up and
 get Chaka a cone, it's his first.
 
-844
-00:43:56,776 --> 00:43:59,799
+
+
 No there's a reason those
 Dinosaurs hang out there, they know.
 
-845
-00:44:00,590 --> 00:44:01,331
+
+
 They know what?
 
-846
-00:44:01,331 --> 00:44:02,672
+
+
 It's feeding time.
 
-847
-00:44:40,934 --> 00:44:42,695
+
+
 Tyrannosaurus female!
 
-848
-00:44:45,268 --> 00:44:46,349
+
+
 We're in luck.
 
-849
-00:44:46,729 --> 00:44:51,392
+
+
 These large predators are extremely territorial,
 virtually nothing will distract them from each other.
 
-850
-00:44:56,507 --> 00:44:57,738
+
+
 Oh crap balls.
 
-851
-00:44:58,089 --> 00:44:58,930
+
+
 Whaddya know?
 
-852
-00:44:59,030 --> 00:45:01,971
+
+
 This is one of those situations where
 dumping piss on your head's a bad idea.
 
-853
-00:45:02,262 --> 00:45:03,022
+
+
 Run!
 
-854
-00:45:06,325 --> 00:45:07,346
+
+
 Wait Chaka!
 
-855
-00:45:08,037 --> 00:45:09,568
+
+
 Lead your master to safety!
 
-856
-00:45:14,402 --> 00:45:15,193
+
+
 Chaka no!
 
-857
-00:45:15,813 --> 00:45:16,454
+
+
 Why?!
 
-858
-00:45:16,714 --> 00:45:18,085
+
+
 You're a little asshole Chaka!
 
-859
-00:45:20,998 --> 00:45:23,229
+
+
 Spread out! It'll confuse them!
 
-860
-00:45:23,540 --> 00:45:25,211
+
+
 Try running in serpentine patterns!
 
-861
-00:45:25,521 --> 00:45:27,884
+
+
 He's incapable of
 rapid forward direction!
 
-862
-00:45:28,925 --> 00:45:30,006
+
+
 Serpentine everyone!
 
-863
-00:45:30,586 --> 00:45:31,427
+
+
 Serpentine!
 
-864
-00:45:32,037 --> 00:45:32,817
+
+
 Serpentine!
 
-865
-00:45:33,167 --> 00:45:34,429
+
+
 Serpentine!!
 
-866
-00:45:34,509 --> 00:45:36,320
+
+
 No! Serpentine!
 
-867
-00:45:36,621 --> 00:45:37,892
+
+
 Serpentine!!
 
-868
-00:45:40,965 --> 00:45:42,076
+
+
 Son of a kid!
 
-869
-00:45:42,266 --> 00:45:45,278
+
+
 Hey Marshall, you ever
 get tired of being wrong?
 
-870
-00:45:46,139 --> 00:45:49,101
+
+
 I do, I really do! I'm so tired!
 
-871
-00:45:50,823 --> 00:45:52,404
+
+
 Get on your horse Rick Marshall!
 
-872
-00:45:59,220 --> 00:46:00,731
+
+
 Fascinating but terrifying!
 
-873
-00:46:23,651 --> 00:46:24,501
+
+
 No!
 
-874
-00:46:24,832 --> 00:46:25,923
+
+
 Marshall!
 
-875
-00:46:26,422 --> 00:46:27,253
+
+
 Still here!
 
-876
-00:46:27,844 --> 00:46:29,215
+
+
 I hope you're taping this!
 
-877
-00:46:29,515 --> 00:46:30,136
+
+
 I got it!
 
-878
-00:46:55,828 --> 00:46:57,219
+
+
 I don't want to die in a hummer!
 
-879
-00:47:08,709 --> 00:47:09,699
+
+
 A massacre...
 
-880
-00:47:23,931 --> 00:47:24,792
+
+
 Gross!
 
-881
-00:47:32,868 --> 00:47:34,460
+
+
 Set the catapult!
 
-882
-00:47:35,461 --> 00:47:36,272
+
+
 What?!
 
-883
-00:47:36,742 --> 00:47:38,333
+
+
 Set the catapult!
 
-884
-00:47:39,124 --> 00:47:39,845
+
+
 What?!
 
-885
-00:47:40,235 --> 00:47:42,236
+
+
 Set the fuckin' catapult!
 
-886
-00:47:42,737 --> 00:47:43,547
+
+
 This thing?!
 
-887
-00:47:43,547 --> 00:47:45,249
+
+
 Catapult! Now!
 
-888
-00:47:45,379 --> 00:47:48,322
+
+
 No no, take her that way! Go that way!
 
-889
-00:47:48,622 --> 00:47:49,663
+
+
 Just do it!
 
-890
-00:47:50,143 --> 00:47:50,914
+
+
 Come on!
 
-891
-00:47:51,144 --> 00:47:52,695
+
+
 How the hell do you set a catapult!
 
-892
-00:47:52,695 --> 00:47:53,886
+
+
 I don't know, just turn it!
 
-893
-00:47:55,027 --> 00:47:55,818
+
+
 One!
 
-894
-00:47:56,889 --> 00:47:57,750
+
+
 Two!
 
-895
-00:47:58,670 --> 00:47:59,391
+
+
 Three!
 
-896
-00:48:03,954 --> 00:48:05,015
+
+
 Crank that thing!
 
-897
-00:48:08,489 --> 00:48:09,219
+
+
 Oh no!
 
-898
-00:48:09,640 --> 00:48:10,841
+
+
 Crank that mother!
 
-899
-00:48:11,541 --> 00:48:12,743
+
+
 I'm coming in hot!
 
-900
-00:48:16,665 --> 00:48:17,746
+
+
 Keep going!
 
-901
-00:48:18,227 --> 00:48:19,538
+
+
 Put your back into it!
 
-902
-00:48:21,460 --> 00:48:22,601
+
+
 The package has arrived.
 
-903
-00:48:22,601 --> 00:48:23,542
+
+
 What's the package?
 
-904
-00:48:23,961 --> 00:48:25,382
+
+
 It's a canister of refridgerant.
 
-905
-00:48:26,794 --> 00:48:27,524
+
+
 Now!
 
-906
-00:48:41,486 --> 00:48:42,517
+
+
 I did not expect that.
 
-907
-00:48:58,140 --> 00:48:59,231
+
+
 Gay showtunes!
 
-908
-00:48:59,982 --> 00:49:01,553
+
+
 Cassie...Beebe.
 
-909
-00:49:02,194 --> 00:49:02,924
+
+
 Tachyon meter!
 
-910
-00:49:19,638 --> 00:49:20,959
+
+
 Oh that blows.
 
-911
-00:49:21,710 --> 00:49:22,401
+
+
 That...
 
-912
-00:49:23,131 --> 00:49:24,423
+
+
 BLOWS...
 
-913
-00:49:40,145 --> 00:49:41,186
+
+
 Marshall?
 
-914
-00:49:43,949 --> 00:49:44,699
+
+
 What're you doing?
 
-915
-00:49:46,341 --> 00:49:47,372
+
+
 I'm giving up.
 
-916
-00:49:48,713 --> 00:49:49,823
+
+
 It feels good.
 
-917
-00:49:50,104 --> 00:49:52,165
+
+
 But what about finding our way home?
 
-918
-00:49:53,637 --> 00:49:56,790
+
+
 Validation for your life's work, you just
 going give that all up just to lie here.
 
-919
-00:49:57,280 --> 00:49:58,271
+
+
 No no of course not.
 
-920
-00:49:59,052 --> 00:50:01,143
+
+
 Lying here is just
 phase one of the plan.
 
-921
-00:50:01,513 --> 00:50:03,425
+
+
 It's phase two that
 gets me really excited.
 
-922
-00:50:04,216 --> 00:50:10,041
+
+
 It involves adjusting the angle of my recline,
 and putting this hand halfway down my pants.
 
-923
-00:50:10,251 --> 00:50:12,322
+
+
 Deceptively simple yet elegant.
 
-924
-00:50:12,432 --> 00:50:14,214
+
+
 Yeah, I tried.
 
-925
-00:50:14,554 --> 00:50:15,385
+
+
 I failed.
 
-926
-00:50:15,766 --> 00:50:18,548
+
+
 And you know what, once
 again it's my own vault.
 
-927
-00:50:18,548 --> 00:50:19,719
+
+
 You mean fault.
 
-928
-00:50:19,719 --> 00:50:21,430
+
+
 No, I actually mean vault.
 
-929
-00:50:22,000 --> 00:50:23,902
+
+
 It's from a poster with
 a pole vaulter on it.
 
-930
-00:50:23,902 --> 00:50:25,624
+
+
 That's really freaking stupid man.
 
-931
-00:50:25,624 --> 00:50:27,085
+
+
 I can't believe I'm hearing this.
 
-932
-00:50:27,085 --> 00:50:29,047
+
+
 Any scientist in his
 right mind wouldn't give-
 
-933
-00:50:29,047 --> 00:50:31,159
+
+
 Initiating phase two.
 
-934
-00:50:34,701 --> 00:50:36,183
+
+
 Do you know how I first heard about you?
 
-935
-00:50:36,873 --> 00:50:37,714
+
+
 As a joke.
 
-936
-00:50:38,275 --> 00:50:42,038
+
+
 First year at Cambridge we used to email your
 little appearance with Matt Lauer around for a laugh.
 
-937
-00:50:42,629 --> 00:50:46,021
+
+
 I mean as you tube hall of fame moments
 goes, it was Matt Lauer versus Marshall,
 
-938
-00:50:46,391 --> 00:50:48,513
+
+
 and then that monkey
 pissin' in his own face.
 
-939
-00:50:48,653 --> 00:50:49,874
+
+
 In that order.
 
-940
-00:50:50,145 --> 00:50:51,486
+
+
 But I wasn't laughing.
 
-941
-00:50:51,896 --> 00:50:56,450
+
+
 Because I fascinated. I saw a man
 who was willing to swim dangerous waters
 for the sake of his need to know.
 
-942
-00:50:57,090 --> 00:51:01,444
+
+
 I took that to heart Dr. Marshall,
 I've committed myself to your theories
 and I got tossed out of Cambridge for it.
 
-943
-00:51:02,305 --> 00:51:04,616
+
+
 For my theories, you
 threw your future away?
 
-944
-00:51:04,726 --> 00:51:06,128
+
+
 Yeah that's what everyone told me.
 
-945
-00:51:07,569 --> 00:51:09,070
+
+
 But I didn't believe it, not 'til now.
 
-946
-00:51:16,576 --> 00:51:18,458
+
+
 Have you seen this monkey video?
 
-947
-00:51:20,470 --> 00:51:22,182
+
+
 Yeah, I've seen it about a dozen times.
 
-948
-00:51:23,483 --> 00:51:24,574
+
+
 God bless the internet.
 
-949
-00:51:25,134 --> 00:51:26,024
+
+
 Come on Chaka.
 
-950
-00:51:26,274 --> 00:51:27,556
+
+
 Let's work on our mission statement.
 
-951
-00:51:42,789 --> 00:51:43,890
+
+
 How's it going?
 
-952
-00:51:44,841 --> 00:51:46,912
+
+
 What's wrong little guy, you okay?
 
-953
-00:51:48,803 --> 00:51:49,764
+
+
 Lady troubles?
 
-954
-00:51:52,066 --> 00:51:52,987
+
+
 Tell me about it.
 
-955
-00:51:53,818 --> 00:51:56,200
+
+
 This obviously stays
 between me and you but...
 
-956
-00:51:56,270 --> 00:51:58,411
+
+
 I'm coming up on a 6 year dry spell.
 
-957
-00:52:09,030 --> 00:52:12,083
+
+
 He says that he misses his
 tribe, it's a beautiful existence
 
-958
-00:52:12,534 --> 00:52:15,977
+
+
 They're carefree and nomadic,
 and live where the food lives.
 
-959
-00:52:16,217 --> 00:52:17,368
+
+
 Just like me.
 
-960
-00:52:17,368 --> 00:52:20,230
+
+
 I moved "tres" times just to
 be closer to a Ruby Tuesdays.
 
-961
-00:52:20,790 --> 00:52:21,661
+
+
 Continue.
 
-962
-00:52:24,063 --> 00:52:27,767
+
+
 Their women wait on the men,
 serve in all their needs.
 
-963
-00:52:28,077 --> 00:52:29,649
+
+
 I'm liking this, continue.
 
-964
-00:52:32,660 --> 00:52:36,604
+
+
 They're ugly, but they make up
 for it in nice personalities.
 
-965
-00:52:41,388 --> 00:52:46,642
+
+
 He says as prince of his tribe he personally
 is served by a heron of 7,000 women.
 
-966
-00:52:47,864 --> 00:52:48,985
+
+
 Wow, not bad little dude.
 
-967
-00:52:50,866 --> 00:52:53,568
+
+
 And they bring him all
 accruements of food, and-
 
-968
-00:52:54,949 --> 00:52:57,241
+
+
 Yeah, you get the idea
 I'm not translating that.
 
-969
-00:53:14,245 --> 00:53:16,277
+
+
 Any room around that
 fire for a jerk like me?
 
-970
-00:53:17,658 --> 00:53:18,759
+
+
 Thought you gave up?
 
-971
-00:53:19,780 --> 00:53:20,401
+
+
 I did.
 
-972
-00:53:21,232 --> 00:53:22,873
+
+
 I gave up on giving up.
 
-973
-00:53:25,235 --> 00:53:26,866
+
+
 Sat out there for a long time.
 
-974
-00:53:27,847 --> 00:53:32,071
+
+
 Just me, my shame and
 this little 4 string.
 
-975
-00:53:33,952 --> 00:53:35,423
+
+
 I've had a change of heart.
 
-976
-00:53:36,614 --> 00:53:39,407
+
+
 Tried too long and hard to think
 something to say to you guys.
 
-977
-00:53:40,127 --> 00:53:42,720
+
+
 Well, I realized there
 wasn't anything to say.
 
-978
-00:53:43,411 --> 00:53:44,621
+
+
 But maybe...
 
-979
-00:53:44,931 --> 00:53:46,042
+
+
 Just maybe...
 
-980
-00:53:47,013 --> 00:53:48,014
+
+
 There's something I could sing.
 
-981
-00:53:48,014 --> 00:53:49,025
+
+
 No really it's alright-
 
-982
-00:53:49,025 --> 00:53:51,517
+
+
 Marshall...Will and Holly...
 
-983
-00:53:52,138 --> 00:53:55,070
+
+
 On a routine expedition.
 
-984
-00:53:55,660 --> 00:54:00,424
+
+
 Met the greatest earthquake ever known.
 
-985
-00:54:02,016 --> 00:54:02,887
+
+
 That's all I got.
 
-986
-00:54:02,887 --> 00:54:03,848
+
+
 That's fine.
 
-987
-00:54:03,848 --> 00:54:05,099
+
+
 Apology accepted.
 
-988
-00:54:05,099 --> 00:54:07,250
+
+
 Thanks, you guys are being so generous.
 
-989
-00:54:07,810 --> 00:54:09,632
+
+
 Really appreciate it, I
 think the healing has begun.
 
-990
-00:54:09,822 --> 00:54:16,508
+
+
 Met the greatest
 earthquake ever known...
 
-991
-00:54:17,298 --> 00:54:20,131
+
+
 High on the rapids.
 
-992
-00:54:20,411 --> 00:54:23,444
+
+
 It struck their tiny raft.
 
-993
-00:54:24,365 --> 00:54:25,396
+
+
 That's good.
 
-994
-00:54:25,546 --> 00:54:27,577
+
+
 And plunged them down-
 
-995
-00:54:29,769 --> 00:54:30,830
+
+
 I'm so tired.
 
-996
-00:54:31,420 --> 00:54:34,874
+
+
 A thousand feet below.
 
-997
-00:54:35,504 --> 00:54:36,535
+
+
 I'm feeling weak.
 
-998
-00:54:37,256 --> 00:54:38,236
+
+
 Really bushwacked.
 
-999
-00:54:39,207 --> 00:54:42,149
+
+
 Anyway here's how I end it, a
 little arpeggio nothing fancy.
 
-1000
-00:54:45,232 --> 00:54:46,614
+
+
 Guys, I'm sleepy.
 
-1001
-00:54:46,994 --> 00:54:48,815
+
+
 The Land...
 
-1002
-00:54:50,126 --> 00:54:53,009
+
+
 Land...of the Lost-
 
-1003
-00:54:57,473 --> 00:54:58,464
+
+
 I'm so tired!
 
-1004
-00:55:08,752 --> 00:55:09,713
+
+
 What happened?
 
-1005
-00:55:11,073 --> 00:55:12,405
+
+
 You had a bug on you.
 
-1006
-00:55:12,645 --> 00:55:14,056
+
+
 But it's gone now.
 
-1007
-00:55:14,987 --> 00:55:16,068
+
+
 Oh okay.
 
-1008
-00:55:39,178 --> 00:55:40,299
+
+
 Alright everyone!
 
-1009
-00:55:41,420 --> 00:55:42,540
+
+
 Rise and shine.
 
-1010
-00:55:43,471 --> 00:55:45,783
+
+
 Listen up, it's a new day.
 
-1011
-00:55:46,654 --> 00:55:47,815
+
+
 Yes we've had a set back.
 
-1012
-00:55:48,726 --> 00:55:51,999
+
+
 Yes it is tempting to
 stay on this world and die.
 
-1013
-00:55:52,898 --> 00:55:54,590
+
+
 But thats not how a new Marshall rolls.
 
-1014
-00:55:54,920 --> 00:55:55,901
+
+
 You hear me?
 
-1015
-00:55:56,172 --> 00:55:57,563
+
+
 Not by a damn sight.
 
-1016
-00:55:58,574 --> 00:56:00,836
+
+
 This isn't hands down
 the pants Marshall.
 
-1017
-00:56:01,026 --> 00:56:02,087
+
+
 Alright?
 
-1018
-00:56:02,217 --> 00:56:07,171
+
+
 This is a Gordon on 2 pints of Ben & Jerry's and
 a whole spiral cut ham while watching not one,
 
-1019
-00:56:07,171 --> 00:56:09,063
+
+
 but two Mama's Family reunion Marshall.
 
-1020
-00:56:09,353 --> 00:56:10,254
+
+
 Uh-Uh!
 
-1021
-00:56:10,404 --> 00:56:11,315
+
+
 He's gone.
 
-1022
-00:56:12,105 --> 00:56:12,966
+
+
 Here's the deal.
 
-1023
-00:56:13,547 --> 00:56:14,737
+
+
 Enik's counting on us.
 
-1024
-00:56:15,257 --> 00:56:16,509
+
+
 The whole world is counting on us.
 
-1025
-00:56:17,189 --> 00:56:20,853
+
+
 If we have any hope of returning home we need to
 take back that tachyon meter, and take it back hard.
 
-1026
-00:56:21,413 --> 00:56:22,424
+
+
 That means climbing.
 
-1027
-00:56:23,115 --> 00:56:25,516
+
+
 Hours of arduous
 climbing up sheer cliffs.
 
-1028
-00:56:26,097 --> 00:56:26,847
+
+
 Not tomorrow.
 
-1029
-00:56:27,127 --> 00:56:28,098
+
+
 Not in a few hours.
 
-1030
-00:56:28,409 --> 00:56:29,239
+
+
 But right now!
 
-1031
-00:56:29,420 --> 00:56:30,401
+
+
 Understood?
 
-1032
-00:56:30,541 --> 00:56:31,171
+
+
 Yeah.
 
-1033
-00:56:31,171 --> 00:56:32,172
+
+
 Understood Will?
 
-1034
-00:56:32,402 --> 00:56:33,013
+
+
 Hmm?
 
-1035
-00:56:33,423 --> 00:56:34,925
+
+
 Let's move out you panzies.
 
-1036
-00:56:35,535 --> 00:56:38,607
+
+
 Hey! This is not a race.
 
-1037
-00:56:38,948 --> 00:56:39,888
+
+
 Okay?
 
-1038
-00:57:08,642 --> 00:57:09,813
+
+
 What the hell?
 
-1039
-00:57:10,734 --> 00:57:13,667
+
+
 Teradachtyl eggs incubating
 all over her lair.
 
-1040
-00:57:14,458 --> 00:57:16,129
+
+
 There's your shitty boombox.
 
-1041
-00:57:17,020 --> 00:57:20,142
+
+
 Across a sea of thin volcanic glass.
 
-1042
-00:57:21,293 --> 00:57:25,607
+
+
 Okay Will, what you're gonna want to
 do is evenly distribute your weight,
 
-1043
-00:57:25,687 --> 00:57:28,390
+
+
 at the same time keep
 an eye out for the eggs.
 
-1044
-00:57:29,159 --> 00:57:30,821
+
+
 Hey, Will?
 
-1045
-00:57:31,502 --> 00:57:32,382
+
+
 I know you're faking.
 
-1046
-00:57:33,133 --> 00:57:34,524
+
+
 Okay, Chaka!
 
-1047
-00:57:35,886 --> 00:57:36,757
+
+
 Chaka!
 
-1048
-00:57:37,848 --> 00:57:38,608
+
+
 Come on.
 
-1049
-00:57:39,619 --> 00:57:40,429
+
+
 Fine.
 
-1050
-00:57:40,429 --> 00:57:44,573
+
+
 Maybe I'll need to listen to the words of a group
 of young kids words trying to make it on stage.
 
-1051
-00:57:44,713 --> 00:57:45,934
+
+
 God I hope I get it.
 
-1052
-00:57:47,095 --> 00:57:48,056
+
+
 I hope I get it.
 
-1053
-00:57:48,567 --> 00:57:49,277
+
+
 Marshall?
 
-1054
-00:57:51,698 --> 00:57:52,399
+
+
 Be careful.
 
-1055
-00:57:54,621 --> 00:57:55,232
+
+
 I'm up!
 
-1056
-00:57:55,232 --> 00:57:56,313
+
+
 I'm up I got this.
 
-1057
-00:57:56,893 --> 00:57:58,124
+
+
 Oh Marshall, you got it.
 
-1058
-00:58:00,937 --> 00:58:01,857
+
+
 Do me a favor?
 
-1059
-00:58:02,758 --> 00:58:04,179
+
+
 Just keep an eye on the mother okay?
 
-1060
-00:58:04,179 --> 00:58:06,321
+
+
 You mustn't change the surface
 temperature of the eggs,
 
-1061
-00:58:06,321 --> 00:58:08,353
+
+
 any drop of sweat could
 activate hatching process.
 
-1062
-00:58:36,687 --> 00:58:37,758
+
+
 I got it.
 
-1063
-00:58:38,428 --> 00:58:39,189
+
+
 I got it!
 
-1064
-00:59:09,004 --> 00:59:10,255
+
+
 They're hatching!
 
-1065
-00:59:10,435 --> 00:59:11,346
+
+
 Why are they hatching?!
 
-1066
-00:59:11,466 --> 00:59:12,367
+
+
 The music!
 
-1067
-00:59:12,597 --> 00:59:13,908
+
+
 It must be like a lullaby.
 
-1068
-00:59:20,654 --> 00:59:21,835
+
+
 God I hope I get it!
 
-1069
-00:59:22,345 --> 00:59:23,346
+
+
 I hope I get it!
 
-1070
-00:59:23,887 --> 00:59:26,349
+
+
 How many people does he need?
 
-1071
-00:59:28,080 --> 00:59:29,401
+
+
 God I hope I get it!
 
-1072
-00:59:29,961 --> 00:59:30,962
+
+
 I hope I get it!
 
-1073
-00:59:31,473 --> 00:59:33,955
+
+
 How many boys, how many girls?
 
-1074
-00:59:35,156 --> 00:59:36,437
+
+
 Look at all the people!
 
-1075
-00:59:36,948 --> 00:59:38,098
+
+
 At all the people!
 
-1076
-00:59:38,608 --> 00:59:40,170
+
+
 How many people does he need?
 
-1077
-00:59:40,170 --> 00:59:41,921
+
+
 How many boys, how many girls?
 
-1078
-00:59:41,921 --> 00:59:43,153
+
+
 How many people does he-
 
-1079
-00:59:43,153 --> 00:59:45,905
+
+
 I really need this job.
 
-1080
-00:59:46,035 --> 00:59:48,647
+
+
 Please God I need this job.
 
-1081
-00:59:48,887 --> 00:59:53,321
+
+
 I've got to get this job!
 
-1082
-01:00:29,492 --> 01:00:31,473
+
+
 I'm gonna miss this place
 that proves I was right.
 
-1083
-01:00:44,354 --> 01:00:45,385
+
+
 Oh drink?
 
-1084
-01:00:45,385 --> 01:00:46,446
+
+
 Drink, yes!
 
-1085
-01:00:49,398 --> 01:00:51,440
+
+
 That is delicious and refreshing.
 
-1086
-01:00:52,231 --> 01:00:54,332
+
+
 Sweet and sour like Chinese food.
 
-1087
-01:00:56,764 --> 01:00:59,157
+
+
 He's saying it's a celebratory
 drink in his village.
 
-1088
-01:00:59,517 --> 01:01:00,298
+
+
 Cheers!
 
-1089
-01:01:03,179 --> 01:01:06,222
+
+
 It brings a joyful lightness
 to the heart and soul.
 
-1090
-01:01:08,865 --> 01:01:10,416
+
+
 No, I'm sorry its not joyful lightness.
 
-1091
-01:01:10,416 --> 01:01:13,848
+
+
 A better translation would
 be, howling loneliness.
 
-1092
-01:01:15,690 --> 01:01:19,644
+
+
 And then your bravery will
 be tested and your mind folds.
 
-1093
-01:01:21,626 --> 01:01:26,880
+
+
 And the shadow hats will rise from their
 graves and hold you in an icy embrace.
 
-1094
-01:01:29,562 --> 01:01:32,335
+
+
 And it'll feel like...your
 bowels being pierced.
 
-1095
-01:01:33,686 --> 01:01:34,927
+
+
 By a ghost serpent.
 
-1096
-01:01:36,708 --> 01:01:37,909
+
+
 Well that can't be right.
 
-1097
-01:01:38,159 --> 01:01:39,580
+
+
 No, that can't be right.
 
-1098
-01:01:39,751 --> 01:01:43,774
+
+
 Chaka, maki rishu...dong doh?
 
-1099
-01:01:46,095 --> 01:01:47,647
+
+
 Oh okay, so it's not ghost serpent.
 
-1100
-01:01:47,887 --> 01:01:49,449
+
+
 It's much much closer to zombie dick.
 
-1101
-01:01:53,392 --> 01:01:54,844
+
+
 I think it might be a narcotic.
 
-1102
-01:01:56,035 --> 01:01:57,015
+
+
 Is that so?
 
-1103
-01:02:00,058 --> 01:02:01,419
+
+
 Need you to be honest with me okay?
 
-1104
-01:02:02,610 --> 01:02:03,601
+
+
 Are you a cop?
 
-1105
-01:02:07,493 --> 01:02:08,835
+
+
 That's not an answer Chaka.
 
-1106
-01:02:09,035 --> 01:02:10,356
+
+
 That's your name.
 
-1107
-01:02:12,048 --> 01:02:14,960
+
+
 Seriously, by law you have to
 tell me if you're an officer.
 
-1108
-01:02:15,351 --> 01:02:16,582
+
+
 Marco -Polo
 
-1109
-01:02:16,902 --> 01:02:17,903
+
+
 You wearing a wire?
 
-1110
-01:02:26,040 --> 01:02:27,271
+
+
 Marco -Polo
 
-1111
-01:02:32,525 --> 01:02:33,356
+
+
 Hello!
 
-1112
-01:02:41,212 --> 01:02:42,553
+
+
 Hot coffee.
 
-1113
-01:03:24,639 --> 01:03:25,960
+
+
 I need food.
 
-1114
-01:03:26,360 --> 01:03:27,251
+
+
 Marshall!
 
-1115
-01:03:27,251 --> 01:03:27,882
+
+
 Yeah?
 
-1116
-01:03:27,882 --> 01:03:29,183
+
+
 Fruit me buddy!
 
-1117
-01:04:08,686 --> 01:04:09,707
+
+
 Chaka?
 
-1118
-01:04:11,268 --> 01:04:13,530
+
+
 I owe you an apology.
 
-1119
-01:04:14,431 --> 01:04:15,202
+
+
 Okay, I...
 
-1120
-01:04:16,282 --> 01:04:18,134
+
+
 I'm a guest in your land.
 
-1121
-01:04:18,564 --> 01:04:21,617
+
+
 A guest who came unannounced, uninvited.
 
-1122
-01:04:23,288 --> 01:04:24,970
+
+
 I've treated you like a toilet.
 
-1123
-01:04:25,891 --> 01:04:26,781
+
+
 A toilet!
 
-1124
-01:04:28,282 --> 01:04:29,383
+
+
 I want to make it up to you.
 
-1125
-01:04:30,744 --> 01:04:35,028
+
+
 Because the love I feel for
 you, I'm not exaggerating...
 
-1126
-01:04:36,229 --> 01:04:44,076
+
+
 Is a billion times greater than the love
 for mankind that Jesus felt on the cross.
 
-1127
-01:04:46,208 --> 01:04:47,589
+
+
 You can take that to the bank.
 
-1128
-01:04:50,651 --> 01:04:52,443
+
+
 I'm so glad you guys squashed that.
 
-1129
-01:04:53,393 --> 01:04:54,565
+
+
 I love you guys so much.
 
-1130
-01:04:55,505 --> 01:04:56,586
+
+
 You guys are amazing.
 
-1131
-01:04:58,208 --> 01:04:59,328
+
+
 I don't ever want to go home.
 
-1132
-01:04:59,328 --> 01:04:59,698
+
+
 No.
 
-1133
-01:05:00,189 --> 01:05:01,790
+
+
 This is just like Sandal's resort.
 
-1134
-01:05:02,471 --> 01:05:04,543
+
+
 Just good people, a lot of good food.
 
-1135
-01:05:05,173 --> 01:05:05,974
+
+
 Good times.
 
-1136
-01:05:07,015 --> 01:05:08,236
+
+
 I want to make this my life.
 
-1137
-01:05:08,917 --> 01:05:11,018
+
+
 I'm just gonna make
 - ...be here all the time.
 
-1138
-01:05:17,044 --> 01:05:18,405
+
+
 Hey hey!
 
-1139
-01:05:18,575 --> 01:05:19,566
+
+
 You're funny Chaka!
 
-1140
-01:05:19,716 --> 01:05:20,436
+
+
 He's hilarious!
 
-1141
-01:05:20,436 --> 01:05:21,236
+
+
 You're funny.
 
-1142
-01:05:21,236 --> 01:05:22,638
+
+
 His jokes are disgusting.
 
-1143
-01:05:25,721 --> 01:05:26,471
+
+
 You're funny.
 
-1144
-01:05:26,471 --> 01:05:27,552
+
+
 Hey for real though?
 
-1145
-01:05:28,173 --> 01:05:32,266
+
+
 How much money would I have to pay
 ya'll to french kiss each other?
 
-1146
-01:05:33,537 --> 01:05:34,378
+
+
 For real?
 
-1147
-01:05:35,018 --> 01:05:35,759
+
+
 Totally real!
 
-1148
-01:05:35,759 --> 01:05:37,140
+
+
 For real, for real?
 
-1149
-01:05:37,140 --> 01:05:39,232
+
+
 Totally, in his mucky mouth.
 
-1150
-01:05:40,183 --> 01:05:43,936
+
+
 Hey if it doesn't leave the three
 of us, I'll do for free right now.
 
-1151
-01:05:44,036 --> 01:05:45,277
+
+
 It's not gonna leave here.
 
-1152
-01:05:45,998 --> 01:05:47,009
+
+
 I'd do it right now.
 
-1153
-01:05:47,329 --> 01:05:48,130
+
+
 Let me see it.
 
-1154
-01:05:49,561 --> 01:05:50,151
+
+
 Kiss him.
 
-1155
-01:05:50,422 --> 01:05:51,892
+
+
 It doesn't leave the three of us?
 
-1156
-01:05:51,892 --> 01:05:53,554
+
+
 No dude, I won't tell anybody.
 
-1157
-01:05:53,554 --> 01:05:54,595
+
+
 Who am I gonna tell?
 
-1158
-01:05:55,766 --> 01:05:56,657
+
+
 Why don't you kiss him?
 
-1159
-01:05:56,657 --> 01:05:57,367
+
+
 I'm gonna do it!
 
-1160
-01:05:57,497 --> 01:05:58,288
+
+
 Come here!
 
-1161
-01:06:03,672 --> 01:06:05,043
+
+
 You guys are gross!
 
-1162
-01:06:07,396 --> 01:06:10,058
+
+
 I don't wanna do it!
 
-1163
-01:06:11,079 --> 01:06:12,060
+
+
 I don't want to do it!
 
-1164
-01:06:12,931 --> 01:06:14,381
+
+
 I've changed my mind!
 
-1165
-01:06:24,409 --> 01:06:25,541
+
+
 Dinosaur eggs!
 
-1166
-01:06:27,102 --> 01:06:28,683
+
+
 Dinosaur poo...
 
-1167
-01:06:41,094 --> 01:06:42,605
+
+
 This is the Zarn!
 
-1168
-01:06:42,846 --> 01:06:45,228
+
+
 Heed my warning or be destroyed!
 
-1169
-01:06:45,547 --> 01:06:47,129
+
+
 We're just trying to get home!
 
-1170
-01:06:47,199 --> 01:06:49,651
+
+
 Enik the Altrusian has
 escaped our custody!
 
-1171
-01:06:49,991 --> 01:06:52,774
+
+
 He's over taken the central
 pylon and the crystals.
 
-1172
-01:06:52,914 --> 01:06:57,758
+
+
 And now plans to lead his army of Sleestak
 on a rampage, across time and space!
 
-1173
-01:06:58,268 --> 01:07:02,442
+
+
 If you're hearing this, heed
 my warning. Do not believe-
 
-1174
-01:07:03,653 --> 01:07:05,795
+
+
 No! Enik! No!
 
-1175
-01:07:27,734 --> 01:07:28,824
+
+
 The Zarn?
 
-1176
-01:07:30,625 --> 01:07:31,917
+
+
 I've gotta go and warn the-
 
-1177
-01:07:51,763 --> 01:07:52,654
+
+
 Holly?
 
-1178
-01:07:57,198 --> 01:07:58,169
+
+
 Holly...?
 
-1179
-01:08:06,266 --> 01:08:07,227
+
+
 They've taken Holly.
 
-1180
-01:08:08,628 --> 01:08:09,329
+
+
 Chaka!
 
-1181
-01:08:09,489 --> 01:08:10,630
+
+
 I've got a mission for you.
 
-1182
-01:08:11,159 --> 01:08:12,030
+
+
 Now listen closely.
 
-1183
-01:08:25,201 --> 01:08:26,162
+
+
 I don't know what that means.
 
-1184
-01:08:26,332 --> 01:08:27,413
+
+
 Just come on!
 
-1185
-01:08:35,120 --> 01:08:36,010
+
+
 Oh man.
 
-1186
-01:08:36,511 --> 01:08:39,404
+
+
 Sentries, classic hive behavior.
 
-1187
-01:08:40,274 --> 01:08:41,405
+
+
 Obviously on patrol.
 
-1188
-01:08:42,086 --> 01:08:44,728
+
+
 Just like drones tirelessly hunting.
 
-1189
-01:08:44,888 --> 01:08:46,930
+
+
 Dude, it looks like they're
 gettin' ready to make out?
 
-1190
-01:08:47,390 --> 01:08:48,681
+
+
 No. No.
 
-1191
-01:08:58,189 --> 01:08:59,390
+
+
 He's about to tap that ass!
 
-1192
-01:08:59,691 --> 01:09:00,862
+
+
 Would you shut up?
 
-1193
-01:09:00,862 --> 01:09:02,253
+
+
 He's not about to tap that ass.
 
-1194
-01:09:04,544 --> 01:09:05,635
+
+
 Oh you're right.
 
-1195
-01:09:06,146 --> 01:09:07,457
+
+
 He's totally tapping that ass.
 
-1196
-01:09:08,137 --> 01:09:11,130
+
+
 Yeah wow...Our own little private show.
 
-1197
-01:09:18,967 --> 01:09:20,488
+
+
 Oh god, they shed.
 
-1198
-01:09:40,074 --> 01:09:40,855
+
+
 Hi.
 
-1199
-01:09:40,935 --> 01:09:42,046
+
+
 Hey don't do that.
 
-1200
-01:09:42,186 --> 01:09:43,678
+
+
 Just focus.
 
-1201
-01:09:48,191 --> 01:09:52,745
+
+
 We find you guilty, for providing
 assistance to Enik the Altrusian.
 
-1202
-01:09:53,306 --> 01:09:54,307
+
+
 There she is!
 
-1203
-01:09:54,527 --> 01:09:57,490
+
+
 Prepare the meet the Sleestak god!
 
-1204
-01:09:57,640 --> 01:09:58,119
+
+
 Stop!
 
-1205
-01:09:58,339 --> 01:09:59,080
+
+
 Marshall!
 
-1206
-01:09:59,080 --> 01:10:00,491
+
+
 Do not interfere!
 
-1207
-01:10:00,491 --> 01:10:01,863
+
+
 Dude, what the hell are you doing?
 
-1208
-01:10:01,863 --> 01:10:05,656
+
+
 This one was caught trying to
 deliver a tachyon device to Enik!
 
-1209
-01:10:05,906 --> 01:10:07,828
+
+
 You want Holly? You've
 gotta deal with us!
 
-1210
-01:10:09,349 --> 01:10:10,870
+
+
 No, Marshall don't.
 
-1211
-01:10:10,870 --> 01:10:12,602
+
+
 Because we're all friends of Enik!
 
-1212
-01:10:12,742 --> 01:10:17,957
+
+
 Enik the Altrusian is guilty of the
 destruction of an entire civilization.
 
-1213
-01:10:18,227 --> 01:10:18,938
+
+
 Entire what now?
 
-1214
-01:10:19,028 --> 01:10:24,021
+
+
 Convicted of his crimes, he was
 sentenced to 10,000 years imprisonment.
 
-1215
-01:10:24,232 --> 01:10:24,712
+
+
 What?
 
-1216
-01:10:24,982 --> 01:10:29,246
+
+
 And made to wear a tunic
 as a symbol of his deceit.
 
-1217
-01:10:29,557 --> 01:10:31,017
+
+
 Told you dude, tunic.
 
-1218
-01:10:31,177 --> 01:10:34,590
+
+
 As his allies, you shall die as well.
 
-1219
-01:10:34,740 --> 01:10:35,691
+
+
 Sieze them!
 
-1220
-01:10:38,634 --> 01:10:39,425
+
+
 Marshall!
 
-1221
-01:10:42,917 --> 01:10:43,798
+
+
 Hold on!
 
-1222
-01:11:20,689 --> 01:11:21,540
+
+
 Wait!
 
-1223
-01:11:21,630 --> 01:11:24,392
+
+
 Wait a minute, our working relationship.
 
-1224
-01:11:28,926 --> 01:11:30,698
+
+
 I wanted to do that
 since I first met you.
 
-1225
-01:11:31,098 --> 01:11:32,770
+
+
 You mean we could've been
 doing this the whole time?
 
-1226
-01:11:32,770 --> 01:11:35,441
+
+
 Yeah, but I was worried it wouldn't be
 professional and distract you from your work.
 
-1227
-01:11:35,661 --> 01:11:37,003
+
+
 No, no...not distracting.
 
-1228
-01:11:37,543 --> 01:11:38,484
+
+
 Never distracting.
 
-1229
-01:11:40,256 --> 01:11:42,428
+
+
 Are you guys kidding
 me? Come on! Really!
 
-1230
-01:11:42,558 --> 01:11:44,269
+
+
 Now is the time for this?
 
-1231
-01:11:44,849 --> 01:11:45,590
+
+
 You know he's-
 
-1232
-01:11:45,930 --> 01:11:47,621
+
+
 He's right, we've got to stop Enik!
 
-1233
-01:11:48,062 --> 01:11:49,293
+
+
 Right now  he has the upper hand.
 
-1234
-01:11:50,224 --> 01:11:51,025
+
+
 I know we...
 
-1235
-01:11:51,025 --> 01:11:52,806
+
+
 have the element of surprise but...
 
-1236
-01:11:56,599 --> 01:11:57,630
+
+
 Yeah about that...
 
-1237
-01:11:59,522 --> 01:12:00,172
+
+
 What?
 
-1238
-01:12:00,773 --> 01:12:03,335
+
+
 We sent Chaka to go get him.
 
-1239
-01:12:08,759 --> 01:12:09,790
+
+
 Well then.
 
-1240
-01:12:09,980 --> 01:12:11,812
+
+
 Rick Marshall.
 
-1241
-01:12:12,232 --> 01:12:15,275
+
+
 Coming here represents a slight
 adjustment to my plans but no matter.
 
-1242
-01:12:15,946 --> 01:12:17,506
+
+
 I have what I need.
 
-1243
-01:12:17,947 --> 01:12:21,130
+
+
 And it's all thanks
 to you, Dr. Marshall.
 
-1244
-01:12:21,690 --> 01:12:22,641
+
+
 And this!
 
-1245
-01:12:24,002 --> 01:12:25,674
+
+
 Don't! We're out gunned.
 
-1246
-01:12:25,814 --> 01:12:27,945
+
+
 My Sleestack stand prepared.
 
-1247
-01:12:29,236 --> 01:12:31,979
+
+
 With the power of the
 crystals they are my slaves.
 
-1248
-01:12:32,239 --> 01:12:33,570
+
+
 My conquering army.
 
-1249
-01:12:34,301 --> 01:12:35,522
+
+
 Thanks to your device.
 
-1250
-01:12:36,113 --> 01:12:41,036
+
+
 I can lead an invasion force anywhere
 I choose, in all of time and space.
 
-1251
-01:12:41,677 --> 01:12:44,269
+
+
 But I believe I'll
 begin with your Earth.
 
-1252
-01:12:44,820 --> 01:12:47,362
+
+
 My Sleestak's reproduce rather quickly.
 
-1253
-01:12:47,472 --> 01:12:49,353
+
+
 Yeah we already caught
 some of that action.
 
-1254
-01:12:49,613 --> 01:12:54,268
+
+
 In merely weeks, your world will
 be overrun by their scaly offspring.
 
-1255
-01:12:55,179 --> 01:12:59,072
+
+
 And left standing in the
 cinders of your civilization.
 
-1256
-01:12:59,382 --> 01:13:02,715
+
+
 I'll be sure to give you
 full scientific credit.
 
-1257
-01:13:04,006 --> 01:13:06,338
+
+
 I know how important that is to you.
 
-1258
-01:13:07,339 --> 01:13:08,760
+
+
 Now save your strength.
 
-1259
-01:13:09,551 --> 01:13:10,551
+
+
 You'll need it.
 
-1260
-01:13:13,674 --> 01:13:14,805
+
+
 You'll need it?
 
-1261
-01:13:15,506 --> 01:13:16,186
+
+
 What is it?
 
-1262
-01:13:21,420 --> 01:13:22,321
+
+
 Marshall?
 
-1263
-01:13:25,434 --> 01:13:26,965
+
+
 Oh great.
 
-1264
-01:13:35,042 --> 01:13:37,564
+
+
 Right, you run and I'll
 distract him he's not after me.
 
-1265
-01:13:37,935 --> 01:13:39,986
+
+
 No, I'm not running.
 
-1266
-01:13:41,097 --> 01:13:41,998
+
+
 This ends here.
 
-1267
-01:13:43,088 --> 01:13:44,329
+
+
 Marshall, what are you doing?
 
-1268
-01:13:45,400 --> 01:13:46,852
+
+
 Maybe what I was always meant to do.
 
-1269
-01:13:47,552 --> 01:13:51,736
+
+
 Now just go, I'll meet
 you at the pylon, I hope.
 
-1270
-01:13:51,806 --> 01:13:53,227
+
+
 No we're not leaving without you.
 
-1271
-01:13:53,697 --> 01:13:54,358
+
+
 Go!
 
-1272
-01:13:55,199 --> 01:13:57,201
+
+
 Get out of here, I don't love you!
 
-1273
-01:14:00,444 --> 01:14:01,024
+
+
 Go!
 
-1274
-01:14:01,094 --> 01:14:02,315
+
+
 Marshall!
 
-1275
-01:14:02,836 --> 01:14:03,737
+
+
 Get!
 
-1276
-01:14:03,737 --> 01:14:04,827
+
+
 You're ugly!
 
-1277
-01:14:13,655 --> 01:14:16,366
+
+
 Look, if you're gonna do
 this for real take this.
 
-1278
-01:14:16,557 --> 01:14:18,969
+
+
 Got some high powered fireworks
 in here that might come in handy.
 
-1279
-01:14:18,969 --> 01:14:19,950
+
+
 Are you kidding me?
 
-1280
-01:14:20,420 --> 01:14:23,964
+
+
 You mean you've been carrying a bag of
 fireworks around with you this whole time?
 
-1281
-01:14:24,624 --> 01:14:27,256
+
+
 There's literally a dozen situations
 where we could've used these.
 
-1282
-01:14:29,598 --> 01:14:31,850
+
+
 He's right, none of that
 is important now okay?
 
-1283
-01:14:32,571 --> 01:14:33,091
+
+
 Listen...
 
-1284
-01:14:33,862 --> 01:14:35,883
+
+
 I gotta be straight with
 you bro, I misjudged you.
 
-1285
-01:14:35,883 --> 01:14:37,384
+
+
 I thought you were just a...
 
-1286
-01:14:37,744 --> 01:14:39,996
+
+
 ...dumbass dude who dressed
 stupid, but I'm wrong.
 
-1287
-01:14:40,297 --> 01:14:41,178
+
+
 You're solid.
 
-1288
-01:14:42,159 --> 01:14:46,962
+
+
 Thick or thin, I will follow you
 into battle at anytime, you hear me?
 
-1289
-01:14:47,563 --> 01:14:49,614
+
+
 Absolutely anytime.
 
-1290
-01:14:49,935 --> 01:14:52,057
+
+
 Okay! How about now?
 
-1291
-01:14:52,397 --> 01:14:53,438
+
+
 Like, right now?
 
-1292
-01:14:53,438 --> 01:14:53,748
+
+
 Yeah.
 
-1293
-01:14:56,050 --> 01:14:56,901
+
+
 Honestly?
 
-1294
-01:14:57,142 --> 01:14:59,493
+
+
 I didn't really expect you to
 call the favor in this soon.
 
-1295
-01:14:59,493 --> 01:15:02,886
+
+
 So, on this one unfortunately
 I'm gonna have to say no.
 
-1296
-01:15:03,416 --> 01:15:07,620
+
+
 But I think it's gonna be awesome for you
 for personal growth just to hit this one solo.
 
-1297
-01:15:08,250 --> 01:15:09,321
+
+
 I'm gonna be rootin' for ya.
 
-1298
-01:15:09,691 --> 01:15:10,532
+
+
 Okay?
 
-1299
-01:15:10,782 --> 01:15:11,783
+
+
 Trenches bro.
 
-1300
-01:15:12,544 --> 01:15:13,645
+
+
 It's all about love.
 
-1301
-01:15:14,766 --> 01:15:15,337
+
+
 Okay?
 
-1302
-01:15:16,237 --> 01:15:17,098
+
+
 After this time.
 
-1303
-01:15:18,039 --> 01:15:19,189
+
+
 I'm there for you, okay?
 
-1304
-01:15:19,750 --> 01:15:20,811
+
+
 Anytime after now.
 
-1305
-01:15:22,612 --> 01:15:24,004
+
+
 He's your man, not me.
 
-1306
-01:15:56,761 --> 01:15:58,052
+
+
 Alright, it's a fact.
 
-1307
-01:15:58,683 --> 01:16:00,154
+
+
 You and I don't like each other.
 
-1308
-01:16:02,936 --> 01:16:04,718
+
+
 Only one will remain.
 
-1309
-01:16:05,779 --> 01:16:08,091
+
+
 Just gonna have to fight
 you at your own game.
 
-1310
-01:16:22,243 --> 01:16:24,214
+
+
 Damn you're quick, it's
 because you're a dinosaur!
 
-1311
-01:16:24,554 --> 01:16:27,377
+
+
 But, you don't carry
 around these, do you?
 
-1312
-01:16:29,949 --> 01:16:32,321
+
+
 Welcome to the big
 bang theory my friend!
 
-1313
-01:16:50,637 --> 01:16:51,537
+
+
 Stupid...
 
-1314
-01:16:56,951 --> 01:16:59,093
+
+
 You're cornered man, there's no way out!
 
-1315
-01:16:59,434 --> 01:17:00,585
+
+
 There's always a way out!
 
-1316
-01:17:03,127 --> 01:17:04,519
+
+
 Because if you don't make it...
 
-1317
-01:17:06,269 --> 01:17:08,782
+
+
 It's your own damn vault.
 
-1318
-01:17:35,955 --> 01:17:37,496
+
+
 My god! He's going to do it!
 
-1319
-01:17:37,496 --> 01:17:38,927
+
+
 Do it! Do it!
 
-1320
-01:17:46,924 --> 01:17:47,695
+
+
 God!
 
-1321
-01:17:49,415 --> 01:17:50,677
+
+
 Can't believe it.
 
-1322
-01:17:56,372 --> 01:17:57,043
+
+
 Hey!
 
-1323
-01:17:57,613 --> 01:17:58,944
+
+
 Yeah, you!
 
-1324
-01:17:59,094 --> 01:18:00,245
+
+
 You bastard!
 
-1325
-01:18:02,026 --> 01:18:03,948
+
+
 Do you realize who you just ate, do you?
 
-1326
-01:18:04,499 --> 01:18:06,550
+
+
 Probably the most brilliant man ever.
 
-1327
-01:18:06,550 --> 01:18:08,592
+
+
 Probably the only man
 who ever really knew you.
 
-1328
-01:18:09,243 --> 01:18:12,895
+
+
 Alright, so he was wrong about the size of your
 brain but you don't go and eat a man for that,
 
-1329
-01:18:12,895 --> 01:18:14,847
+
+
 you reason with him you stupid idiot!
 
-1330
-01:18:15,958 --> 01:18:17,290
+
+
 He was your future!
 
-1331
-01:18:18,110 --> 01:18:19,391
+
+
 He was my future!
 
-1332
-01:18:21,042 --> 01:18:23,644
+
+
 And I'm never going to get a chance
 to tell him that because of you!
 
-1333
-01:18:32,912 --> 01:18:34,624
+
+
 It's cool, it's cool!
 
-1334
-01:18:39,959 --> 01:18:40,850
+
+
 Right!
 
-1335
-01:18:41,100 --> 01:18:43,181
+
+
 Now we must get home,
 we're gonna get back,
 
-1336
-01:18:43,181 --> 01:18:45,943
+
+
 and we're gonna tell the world
 what Rick Marshall did here today.
 
-1337
-01:19:06,651 --> 01:19:08,652
+
+
 Come on you big green bastards!
 
-1338
-01:19:10,684 --> 01:19:17,600
+
+
 I am sick and tired of you
 slow moving little wankers!
 
-1339
-01:19:24,726 --> 01:19:25,666
+
+
 Will!
 
-1340
-01:19:26,377 --> 01:19:29,810
+
+
 Alright little dude, let's do this.
 
-1341
-01:19:30,341 --> 01:19:31,692
+
+
 Lock and load!
 
-1342
-01:19:39,258 --> 01:19:40,149
+
+
 Want some of this?
 
-1343
-01:19:40,529 --> 01:19:42,011
+
+
 Eat Chaka! Eat!
 
-1344
-01:19:44,223 --> 01:19:44,883
+
+
 Will!
 
-1345
-01:19:47,435 --> 01:19:50,698
+
+
 Step, step and lift!
 
-1346
-01:19:55,562 --> 01:19:58,044
+
+
 Alright my murderous
 friend take us home.
 
-1347
-01:20:03,309 --> 01:20:04,910
+
+
 Bite that guy right there!
 
-1348
-01:20:07,812 --> 01:20:08,633
+
+
 That's him...
 
-1349
-01:20:08,873 --> 01:20:09,894
+
+
 That's him!
 
-1350
-01:20:14,058 --> 01:20:15,639
+
+
 Oh god that's the coolest
 thing I've ever seen.
 
-1351
-01:20:19,352 --> 01:20:22,555
+
+
 Would it be cool if he slides down Grumpy's
 tail just like Fred Flinstone would do-
 
-1352
-01:20:26,478 --> 01:20:28,070
+
+
 Oh god, I've lived.
 
-1353
-01:20:28,410 --> 01:20:29,550
+
+
 I have lived.
 
-1354
-01:20:32,072 --> 01:20:33,504
+
+
 Come on it tickles.
 
-1355
-01:20:33,684 --> 01:20:34,605
+
+
 Marshall!
 
-1356
-01:20:39,289 --> 01:20:39,959
+
+
 What happened?
 
-1357
-01:20:39,959 --> 01:20:41,080
+
+
 We thought you had died.
 
-1358
-01:20:41,750 --> 01:20:42,521
+
+
 Died?
 
-1359
-01:20:43,742 --> 01:20:45,284
+
+
 That was just a minor set back.
 
-1360
-01:20:47,136 --> 01:20:48,076
+
+
 Okay let's go home.
 
-1361
-01:20:49,408 --> 01:20:52,820
+
+
 No, this is insane we saw you
 go down Grumpy's cake hole.
 
-1362
-01:20:52,820 --> 01:20:54,121
+
+
 What did he puke you out or something?
 
-1363
-01:20:54,551 --> 01:20:56,874
+
+
 No, its not possible
 the...the T-Rex's lacking-
 
-1364
-01:20:56,874 --> 01:20:58,025
+
+
 Not important right now.
 
-1365
-01:21:00,936 --> 01:21:02,348
+
+
 I'm okay, and that's it.
 
-1366
-01:21:02,728 --> 01:21:03,939
+
+
 This is messed up.
 
-1367
-01:21:03,939 --> 01:21:05,691
+
+
 Look I'd really rather
 not talk about it.
 
-1368
-01:21:08,323 --> 01:21:09,034
+
+
 Now...
 
-1369
-01:21:09,504 --> 01:21:10,595
+
+
 Let's light this candle.
 
-1370
-01:21:10,866 --> 01:21:12,746
+
+
 No, Marshall...how did you get out?
 
-1371
-01:21:13,057 --> 01:21:14,708
+
+
 I will talk to you about it later!
 
-1372
-01:21:15,369 --> 01:21:17,871
+
+
 Individually to each one
 of you, I'll explain it.
 
-1373
-01:21:20,474 --> 01:21:21,765
+
+
 Oh geez...
 
-1374
-01:21:22,025 --> 01:21:23,185
+
+
 Would you grow up?
 
-1375
-01:21:23,315 --> 01:21:25,237
+
+
 Oh my God!
 
-1376
-01:21:25,237 --> 01:21:26,328
+
+
 Yes, he pooped me out!
 
-1377
-01:21:27,820 --> 01:21:28,971
+
+
 Now you guys are friends?
 
-1378
-01:21:29,661 --> 01:21:35,225
+
+
 Well, I was making my way through his bowels
 I must've dislodged some intestinal blockage,
 
-1379
-01:21:35,496 --> 01:21:37,167
+
+
 and yes he's in a much better mood now.
 
-1380
-01:21:37,868 --> 01:21:39,950
+
+
 So, can we move on?
 
-1381
-01:21:40,140 --> 01:21:41,331
+
+
 I really would like to go home.
 
-1382
-01:21:42,282 --> 01:21:46,345
+
+
 You were dueced out by a
 Dinosaur, that is incredibly cool.
 
-1383
-01:21:48,867 --> 01:21:51,219
+
+
 Grumpy listen...
 
-1384
-01:21:52,140 --> 01:21:54,322
+
+
 When you talk about
 this, and you will...
 
-1385
-01:21:56,764 --> 01:22:00,267
+
+
 Please be gentle...okay?
 
-1386
-01:22:01,668 --> 01:22:03,710
+
+
 That makes us best buds now.
 
-1387
-01:22:08,714 --> 01:22:10,555
+
+
 Don't worry about it, it's
 hard with your visidual arm.
 
-1388
-01:22:12,637 --> 01:22:13,558
+
+
 Let's go guys.
 
-1389
-01:22:14,219 --> 01:22:14,879
+
+
 To freedom!
 
-1390
-01:22:25,829 --> 01:22:27,389
+
+
 Thank you Dr. Marshall.
 
-1391
-01:22:27,770 --> 01:22:31,653
+
+
 And now the doorway opens.
 
-1392
-01:22:34,135 --> 01:22:34,996
+
+
 Enik!
 
-1393
-01:22:35,837 --> 01:22:36,588
+
+
 It's over.
 
-1394
-01:22:37,227 --> 01:22:38,348
+
+
 You're not going anywhere.
 
-1395
-01:22:38,939 --> 01:22:42,162
+
+
 You think you can challenge me?!
 
-1396
-01:22:48,947 --> 01:22:50,158
+
+
 I wrestled at Purdue!
 
-1397
-01:22:51,420 --> 01:22:52,491
+
+
 JV!
 
-1398
-01:22:54,502 --> 01:22:55,804
+
+
 Fight! Fight! Fight!
 
-1399
-01:22:58,106 --> 01:22:58,725
+
+
 Chaka!
 
-1400
-01:22:59,106 --> 01:23:00,667
+
+
 Get ready for the ball breaker!
 
-1401
-01:23:03,420 --> 01:23:05,442
+
+
 Marshall, I'm coming in!
 
-1402
-01:23:07,414 --> 01:23:09,294
+
+
 Oh! Misfire!
 
-1403
-01:23:26,810 --> 01:23:27,831
+
+
 What have you done?!
 
-1404
-01:23:28,411 --> 01:23:29,472
+
+
 The door!
 
-1405
-01:23:30,173 --> 01:23:31,433
+
+
 It's closing forever!
 
-1406
-01:23:45,095 --> 01:23:46,416
+
+
 It's barely holding!
 
-1407
-01:23:46,496 --> 01:23:47,177
+
+
 Let's go!
 
-1408
-01:23:50,740 --> 01:23:51,561
+
+
 Ha!
 
-1409
-01:23:52,001 --> 01:23:55,744
+
+
 It's your home, or your
 comrade Dr. Marshall!
 
-1410
-01:23:56,574 --> 01:23:57,746
+
+
 No it isn't!
 
-1411
-01:23:58,036 --> 01:23:58,827
+
+
 Reverse!
 
-1412
-01:23:59,918 --> 01:24:00,818
+
+
 You go!
 
-1413
-01:24:00,999 --> 01:24:04,281
+
+
 I've got this yellow bastard
 on lockdown, I'm gonna stay!
 
-1414
-01:24:04,591 --> 01:24:05,212
+
+
 What?!
 
-1415
-01:24:05,602 --> 01:24:06,182
+
+
 Yeah!
 
-1416
-01:24:06,483 --> 01:24:07,964
+
+
 I've been talking to my man Chaka!
 
-1417
-01:24:07,964 --> 01:24:09,395
+
+
 He pitches a pretty good world!
 
-1418
-01:24:10,176 --> 01:24:11,207
+
+
 I mean think about it.
 
-1419
-01:24:11,567 --> 01:24:13,179
+
+
 My home was never in the real world?
 
-1420
-01:24:13,179 --> 01:24:14,249
+
+
 Never belonged.
 
-1421
-01:24:14,499 --> 01:24:15,861
+
+
 This could be a fresh start for me.
 
-1422
-01:24:16,221 --> 01:24:18,373
+
+
 Make some new friends?
 I could be somebody!
 
-1423
-01:24:18,733 --> 01:24:19,434
+
+
 A winner...
 
-1424
-01:24:21,486 --> 01:24:23,137
+
+
 Wow, I really admire you right now.
 
-1425
-01:24:23,327 --> 01:24:27,180
+
+
 I just feel like so many people go through this
 life looking for what I've found here, you know?
 
-1426
-01:24:27,270 --> 01:24:29,052
+
+
 And they themselves, can never find it.
 
-1427
-01:24:30,033 --> 01:24:30,743
+
+
 Or worse.
 
-1428
-01:24:31,224 --> 01:24:33,626
+
+
 They find it, and let it slip away.
 
-1429
-01:24:35,177 --> 01:24:36,938
+
+
 I am so afraid of that happening.
 
-1430
-01:24:36,938 --> 01:24:38,840
+
+
 You wouldn't be human if
 you didn't feel scared.
 
-1431
-01:24:39,400 --> 01:24:40,171
+
+
 Marshall!
 
-1432
-01:24:40,622 --> 01:24:43,384
+
+
 Please, you can't leave
 me here like this with him.
 
-1433
-01:24:44,115 --> 01:24:46,967
+
+
 As one scientist to
 another, I beg you for mercy!
 
-1434
-01:24:49,179 --> 01:24:50,570
+
+
 Science shows no mercy.
 
-1435
-01:24:51,110 --> 01:24:52,191
+
+
 And neither do I.
 
-1436
-01:24:52,922 --> 01:24:53,713
+
+
 That's good.
 
-1437
-01:24:55,244 --> 01:24:56,105
+
+
 Let's go Holly.
 
-1438
-01:25:00,078 --> 01:25:00,819
+
+
 Ready?
 
-1439
-01:25:01,549 --> 01:25:02,130
+
+
 Ready...
 
-1440
-01:25:03,341 --> 01:25:05,683
+
+
 Chaka! Technically
 I'm still your master!
 
-1441
-01:25:17,993 --> 01:25:19,154
+
+
 Marshall?
 
-1442
-01:25:19,414 --> 01:25:20,275
+
+
 Holly?
 
-1443
-01:25:25,209 --> 01:25:26,561
+
+
 We made it!
 
-1444
-01:25:35,908 --> 01:25:37,089
+
+
 I just want to say...
 
-1445
-01:25:37,890 --> 01:25:41,062
+
+
 You have grown into a beautiful woman.
 
-1446
-01:25:55,014 --> 01:25:55,925
+
+
 Hey!
 
-1447
-01:25:57,957 --> 01:25:59,068
+
+
 Where's Will?
 
-1448
-01:26:00,789 --> 01:26:03,031
+
+
 He went to a better place.
 
-1449
-01:26:04,832 --> 01:26:05,683
+
+
 You killed him?
 
-1450
-01:26:06,624 --> 01:26:07,415
+
+
 No...
 
-1451
-01:26:08,856 --> 01:26:11,758
+
+
 No he went to a strange world.
 
-1452
-01:26:13,089 --> 01:26:17,493
+
+
 A world of Dinosaurs,
 monkey people, lizard people.
 
-1453
-01:26:18,654 --> 01:26:21,097
+
+
 A whole in space and time, a virtual...
 
-1454
-01:26:21,737 --> 01:26:22,897
+
+
 Land of the lost.
 
-1455
-01:26:24,619 --> 01:26:28,182
+
+
 As hard as it is to
 believe, Will chose to stay.
 
-1456
-01:26:29,623 --> 01:26:31,185
+
+
 Alright, cool.
 
-1457
-01:26:33,456 --> 01:26:36,199
+
+
 Did you see the Sleestaks
 beat the crap out of Enik?
 
-1458
-01:26:36,889 --> 01:26:38,481
+
+
 I've never seen them move so fast.
 
-1459
-01:26:40,142 --> 01:26:41,824
+
+
 Couldn't agree more little buddy.
 
-1460
-01:26:42,154 --> 01:26:43,204
+
+
 Tunic...
 
-1461
-01:26:45,586 --> 01:26:46,667
+
+
 I got you come on.
 
-1462
-01:26:50,481 --> 01:26:51,972
+
+
 You are deceptively heavy.
 
-1463
-01:27:10,307 --> 01:27:12,219
+
+
 I'm a pina kusa!
 
-1464
-01:27:17,463 --> 01:27:18,364
+
+
 Chaka!
 
-1465
-01:27:18,844 --> 01:27:21,026
+
+
 God, we're kings!
 
-1466
-01:27:26,921 --> 01:27:28,192
+
+
 That's what your women look like?
 
-1467
-01:27:28,422 --> 01:27:29,724
+
+
 Hop off, be cool.
 
-1468
-01:27:32,566 --> 01:27:34,969
+
+
 Whoa easy, stand down!
 
-1469
-01:27:35,609 --> 01:27:36,729
+
+
 I got this.
 
-1470
-01:27:37,630 --> 01:27:41,233
+
+
 How's it going? I'm Will,
 pretty much Chaka's best friend.
 
-1471
-01:27:41,734 --> 01:27:45,207
+
+
 I'm here to offer you all
 protection and shelter.
 
-1472
-01:27:45,507 --> 01:27:49,820
+
+
 And really pretty much anything
 that you guys would ever need.
 
-1473
-01:27:51,052 --> 01:27:52,002
+
+
 Hey, how's it going?
 
-1474
-01:27:53,013 --> 01:27:54,285
+
+
 Yeah that's denim.
 
-1475
-01:27:54,715 --> 01:27:55,336
+
+
 Denim.
 
-1476
-01:27:56,196 --> 01:27:57,718
+
+
 Yeah...yeah.
 
-1477
-01:28:00,229 --> 01:28:01,731
+
+
 This was definitely a good choice.
 
-1478
-01:28:04,733 --> 01:28:07,576
+
+
 This is TODAY with Matt Lauer.
 
-1479
-01:28:08,247 --> 01:28:12,810
+
+
 It's been sometime since my final
 guest was here but after the,
 
-1480
-01:28:13,030 --> 01:28:17,014
+
+
 remarkable events of the passed
 year, he needs no introduction.
 
-1481
-01:28:17,314 --> 01:28:22,748
+
+
 He's back with a new book, and more startling
 evidence of you guessed it, Time Warps.
 
-1482
-01:28:22,748 --> 01:28:23,629
+
+
 The pipe's allowed.
 
-1483
-01:28:23,629 --> 01:28:24,410
+
+
 I asked.
 
-1484
-01:28:24,590 --> 01:28:26,061
+
+
 That's great news.
 
-1485
-01:28:26,742 --> 01:28:28,944
+
+
 You've had, quite a year.
 
-1486
-01:28:28,944 --> 01:28:30,725
+
+
 Actually stellar year, Matt.
 
-1487
-01:28:31,045 --> 01:28:32,726
+
+
 In fact I brought you
 back a Dinosaur egg.
 
-1488
-01:28:32,977 --> 01:28:38,612
+
+
 Which my beautiful partner, and lover Holly
 Cantrell was gracious enough to transport.
 
-1489
-01:28:38,612 --> 01:28:40,933
+
+
 And I'm obviously very
 excited about my new tome...
 
-1490
-01:28:40,933 --> 01:28:41,714
+
+
 It's a book.
 
-1491
-01:28:41,714 --> 01:28:43,826
+
+
 Sixteen weeks on the NY
 Time's best seller list.
 
-1492
-01:28:43,826 --> 01:28:45,648
+
+
 Let me get to your discovery
 doctor because this is-
 
-1493
-01:28:45,648 --> 01:28:46,108
+
+
 This is for you.
 
-1494
-01:28:46,108 --> 01:28:47,069
+
+
 I signed it.
 
-1495
-01:28:51,073 --> 01:28:52,683
+
+
 You're supposed to say the
 title and the publisher.
 
-1496
-01:28:52,683 --> 01:28:53,744
+
+
 That's not gonna happen.
 
-1497
-01:28:54,245 --> 01:28:54,885
+
+
 Just say it.
 
-1498
-01:28:54,885 --> 01:28:55,456
+
+
 No!
 
-1499
-01:28:55,456 --> 01:28:56,647
+
+
 Just say the damn title.
 
-1500
-01:28:57,137 --> 01:28:57,878
+
+
 Fine.
 
-1501
-01:28:58,619 --> 01:29:01,722
+
+
 Matt Lauer can suck it,
 by Dr. Rick Marshall.
 
-1502
-01:29:01,952 --> 01:29:04,523
+
+
 I was so surprised that your
 attorney signed off on that,
 
-1503
-01:29:04,523 --> 01:29:06,265
+
+
 I was like, are you sure?
 Is this gonna be okay?
 
-1504
-01:29:06,265 --> 01:29:07,206
+
+
 He said yeah, go for it.
 
-1505
-01:29:07,516 --> 01:29:08,517
+
+
 Son of a bitch!
 
-1506
-01:29:11,811 --> 01:29:21,820
+
+
 THE END
 Subtitles by:
 

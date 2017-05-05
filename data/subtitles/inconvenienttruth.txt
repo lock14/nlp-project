@@ -1,6300 +1,6300 @@
-1
-00:00:40,000 --> 00:00:41,040
+
+
 <i>You look at that river</i>
 
-2
-00:00:42,160 --> 00:00:43,840
+
+
 <i>gently flowing by.</i>
 
-3
-00:00:45,280 --> 00:00:47,240
+
+
 <i>You notice the leaves</i>
 
-4
-00:00:48,400 --> 00:00:50,280
+
+
 <i>rustling with the wind.</i>
 
-5
-00:00:50,800 --> 00:00:52,520
+
+
 <i>You hear the birds.</i>
 
-6
-00:00:52,960 --> 00:00:54,880
+
+
 <i>You hear the tree frogs.</i>
 
-7
-00:00:54,960 --> 00:00:57,200
+
+
 <i>In the distance, you hear a cow.</i>
 
-8
-00:00:57,880 --> 00:00:59,520
+
+
 <i>You feel the grass.</i>
 
-9
-00:01:00,400 --> 00:01:03,560
+
+
 <i>The mud gives a little bit
 on the river bank.</i>
 
-10
-00:01:04,480 --> 00:01:07,120
+
+
 <i>It's quiet. It's peaceful.</i>
 
-11
-00:01:07,760 --> 00:01:09,480
+
+
 <i>And all of a sudden,</i>
 
-12
-00:01:10,160 --> 00:01:12,360
+
+
 <i>it's a gear shift inside you.</i>
 
-13
-00:01:13,200 --> 00:01:16,000
+
+
 <i>And it's like taking a deep breath
 and going,</i>
 
-14
-00:01:17,360 --> 00:01:19,600
+
+
 <i>"Oh, yeah, I forgot about this."</i>
 
-15
-00:01:27,360 --> 00:01:30,880
+
+
 This is the first picture of the Earth
 from space
 
-16
-00:01:31,160 --> 00:01:33,200
+
+
 that any of us ever saw.
 
-17
-00:01:33,400 --> 00:01:37,080
+
+
 It was taken on Christmas Eve, 1968
 
-18
-00:01:37,360 --> 00:01:39,800
+
+
 during the Apollo 8 Mission.
 
-19
-00:01:39,920 --> 00:01:42,400
+
+
 ...within relatively comfortable
 boundaries.
 
-20
-00:01:42,760 --> 00:01:47,440
+
+
 But we are filling up that thin shell
 of atmosphere with pollution.
 
-21
-00:02:06,840 --> 00:02:09,480
+
+
 <i>Ladies and gentlemen,
 Mr. Al Gore.</i>
 
-22
-00:02:11,280 --> 00:02:12,400
+
+
 I am Al Gore.
 
-23
-00:02:12,520 --> 00:02:15,760
+
+
 I used to be the next president
 of the United States Of America.
 
-24
-00:02:18,400 --> 00:02:20,880
+
+
 I don't find that particularly funny.
 
-25
-00:02:45,280 --> 00:02:47,360
+
+
 <i>I've been trying to tell this story
 for a long time,</i>
 
-26
-00:02:47,440 --> 00:02:50,880
+
+
 <i>and I feel as if I've failed to get
 the message across.</i>
 
-27
-00:03:12,280 --> 00:03:16,080
+
+
 <i>I was in politics for a long time
 and I'm proud of my service.</i>
 
-28
-00:03:22,280 --> 00:03:25,160
+
+
 <i>You gotta be kidding me.
 This is a national disaster.</i>
 
-29
-00:03:25,280 --> 00:03:28,400
+
+
 <i>Get every doggone Greyhound bus line
 in the country,</i>
 
-30
-00:03:28,520 --> 00:03:30,320
+
+
 <i>and get their... moving to
 New Orleans.</i>
 
-31
-00:03:31,480 --> 00:03:33,080
+
+
 <i>That's them thinking small, man,</i>
 
-32
-00:03:33,200 --> 00:03:36,240
+
+
 <i>and this is a major, major, major deal.</i>
 
-33
-00:03:36,440 --> 00:03:38,760
+
+
 <i>What do you need right now?</i>
 
-34
-00:03:38,840 --> 00:03:40,120
+
+
 <i>There are good people,</i>
 
-35
-00:03:41,880 --> 00:03:44,600
+
+
 <i>who are in politics in both parties</i>
 
-36
-00:03:44,960 --> 00:03:47,080
+
+
 <i>who hold this at arm's length</i>
 
-37
-00:03:47,440 --> 00:03:50,360
+
+
 <i>because if they acknowledge it
 and recognize it,</i>
 
-38
-00:03:50,480 --> 00:03:53,720
+
+
 <i>then the moral imperative to make
 big changes</i>
 
-39
-00:03:53,840 --> 00:03:55,240
+
+
 <i>is inescapable.</i>
 
-40
-00:03:55,360 --> 00:03:59,720
+
+
 <i>...unless you fix the biggest damn crisis
 in the history of this country.</i>
 
-41
-00:04:12,840 --> 00:04:16,760
+
+
 ...scouted out landing spots
 and they lost radio contact
 
-42
-00:04:16,880 --> 00:04:19,720
+
+
 when they went around
 the dark side of the moon.
 
-43
-00:04:19,880 --> 00:04:22,240
+
+
 And there was inevitably
 some suspense.
 
-44
-00:04:22,320 --> 00:04:25,040
+
+
 Then when they came back
 in radio contact,
 
-45
-00:04:25,480 --> 00:04:26,760
+
+
 they looked up
 
-46
-00:04:26,880 --> 00:04:30,280
+
+
 and they snapped this picture,
 and it became known as Earth Rise.
 
-47
-00:04:30,680 --> 00:04:33,400
+
+
 And that one picture exploded
 
-48
-00:04:33,520 --> 00:04:36,120
+
+
 in the consciousness of humankind.
 
-49
-00:04:36,240 --> 00:04:38,240
+
+
 It lead to dramatic changes.
 
-50
-00:04:38,320 --> 00:04:40,000
+
+
 Within 18 months of this picture,
 
-51
-00:04:40,080 --> 00:04:42,600
+
+
 the modern environmental movement
 had begun.
 
-52
-00:04:43,120 --> 00:04:46,640
+
+
 The next picture was taken on the last
 of the Apollo missions,
 
-53
-00:04:46,760 --> 00:04:48,200
+
+
 Apollo 17.
 
-54
-00:04:48,320 --> 00:04:52,040
+
+
 This one was taken
 on December 11, 1972,
 
-55
-00:04:52,200 --> 00:04:56,160
+
+
 and it is the most commonly published
 photograph in all of history.
 
-56
-00:04:56,640 --> 00:05:00,520
+
+
 And it's the only picture of the Earth
 from space that we have
 
-57
-00:05:00,840 --> 00:05:03,960
+
+
 where the sun was directly
 behind the spacecraft
 
-58
-00:05:04,240 --> 00:05:08,800
+
+
 so that the Earth is fully lit up
 and not partly in darkness.
 
-59
-00:05:09,840 --> 00:05:13,320
+
+
 The next image I'm gonna show you
 has almost never been seen.
 
-60
-00:05:13,400 --> 00:05:17,800
+
+
 <i>It was taken by a spacecraft
 called The Galileo</i>
 
-61
-00:05:17,880 --> 00:05:20,240
+
+
 that went out to explore
 the solar system.
 
-62
-00:05:20,360 --> 00:05:25,040
+
+
 And as it was leaving Earth's gravity,
 it turned its cameras around
 
-63
-00:05:25,360 --> 00:05:29,280
+
+
 and took a time lapse picture
 of one day's worth of rotation,
 
-64
-00:05:29,560 --> 00:05:31,840
+
+
 here compressed into 24 seconds.
 
-65
-00:05:33,840 --> 00:05:35,520
+
+
 Isn't that beautiful?
 
-66
-00:05:35,920 --> 00:05:38,520
+
+
 This image is a magical image in a way.
 
-67
-00:05:38,640 --> 00:05:41,080
+
+
 It was made by a friend of mine,
 Tom Van Sant.
 
-68
-00:05:41,520 --> 00:05:44,920
+
+
 He took 3,000 separate
 satellite pictures
 
-69
-00:05:45,040 --> 00:05:49,320
+
+
 taken over a three-year period,
 digitally stitched together.
 
-70
-00:05:49,400 --> 00:05:52,920
+
+
 And he chose images
 that would give a cloud-free view
 
-71
-00:05:53,040 --> 00:05:55,520
+
+
 of every square inch
 of the Earth's surface.
 
-72
-00:05:55,600 --> 00:05:58,560
+
+
 All of the land masses
 accurately portrayed.
 
-73
-00:05:59,640 --> 00:06:03,520
+
+
 When that's all spread out,
 it becomes an iconic image.
 
-74
-00:06:03,760 --> 00:06:08,440
+
+
 I show this because I wanna tell you
 a story about two teachers I had.
 
-75
-00:06:09,360 --> 00:06:13,360
+
+
 One that I didn't like that much,
 the other who is a real hero to me.
 
-76
-00:06:13,720 --> 00:06:17,160
+
+
 I had a grade school teacher
 who taught geography
 
-77
-00:06:17,240 --> 00:06:20,320
+
+
 by pulling a map of the world down
 in front of the blackboard.
 
-78
-00:06:20,720 --> 00:06:24,160
+
+
 I had a classmate in the sixth grade
 who raised his hand
 
-79
-00:06:24,240 --> 00:06:28,880
+
+
 and he pointed to the outline
 of the east coast of South America
 
-80
-00:06:29,360 --> 00:06:32,880
+
+
 and he pointed
 to the west coast of Africa
 
-81
-00:06:33,000 --> 00:06:34,080
+
+
 and he asked,
 "Did they ever fit together?"
 
-82
-00:06:34,120 --> 00:06:35,920
+
+
 and he asked,
 "Did they ever fit together?"
 
-83
-00:06:36,680 --> 00:06:37,640
+
+
 And the teacher said,
 
-84
-00:06:37,720 --> 00:06:40,560
+
+
 "Of course not. That's the most
 ridiculous thing I've ever heard."
 
-85
-00:06:41,200 --> 00:06:44,280
+
+
 That student went on to become
 a drug addict and a ne'er-do-well.
 
-86
-00:06:45,040 --> 00:06:47,560
+
+
 The teacher went on to become
 science advisor
 
-87
-00:06:47,640 --> 00:06:49,160
+
+
 in the current administration.
 
-88
-00:06:58,800 --> 00:07:03,160
+
+
 But, you know,
 the teacher was actually reflecting
 
-89
-00:07:03,280 --> 00:07:07,000
+
+
 the conclusion of the scientific
 establishment of that time.
 
-90
-00:07:07,120 --> 00:07:11,760
+
+
 Continents are so big,
 obviously they don't move.
 
-91
-00:07:12,320 --> 00:07:15,800
+
+
 But, actually, as we now know,
 they did move.
 
-92
-00:07:16,040 --> 00:07:17,840
+
+
 They moved apart from one another.
 
-93
-00:07:17,960 --> 00:07:20,920
+
+
 But at one time they did,
 in fact, fit together.
 
-94
-00:07:21,120 --> 00:07:23,400
+
+
 But that assumption was a problem.
 
-95
-00:07:23,480 --> 00:07:26,200
+
+
 It reflected the well-known wisdom
 
-96
-00:07:26,320 --> 00:07:28,880
+
+
 that what gets us into trouble
 is not what we don't know,
 
-97
-00:07:29,000 --> 00:07:31,720
+
+
 it's what we know for sure
 that just ain't so.
 
-98
-00:07:33,400 --> 00:07:36,080
+
+
 This is actually an important point,
 believe it or not,
 
-99
-00:07:36,200 --> 00:07:39,000
+
+
 because there is another
 such assumption
 
-100
-00:07:39,120 --> 00:07:43,000
+
+
 that a lot of people have in their minds
 right now about global warming
 
-101
-00:07:43,320 --> 00:07:44,880
+
+
 that just ain't so.
 
-102
-00:07:45,000 --> 00:07:48,520
+
+
 The assumption is something like this.
 The Earth is so big
 
-103
-00:07:48,600 --> 00:07:51,960
+
+
 we can't possibly have
 any lasting harmful impact
 
-104
-00:07:52,080 --> 00:07:53,800
+
+
 on the Earth's environment.
 
-105
-00:07:53,920 --> 00:07:56,800
+
+
 And maybe that was true at one time,
 but it's not anymore.
 
-106
-00:07:56,880 --> 00:07:59,280
+
+
 And one of the reasons
 it's not true anymore
 
-107
-00:07:59,360 --> 00:08:03,240
+
+
 is that the most vulnerable part
 of the Earth's ecological system
 
-108
-00:08:04,400 --> 00:08:06,000
+
+
 is the atmosphere.
 
-109
-00:08:06,440 --> 00:08:09,080
+
+
 Vulnerable because it's so thin.
 
-110
-00:08:10,320 --> 00:08:12,360
+
+
 My friend, the late Carl Sagan,
 used to say,
 
-111
-00:08:12,480 --> 00:08:15,760
+
+
 "If you had a big globe
 with a coat of varnish on it,
 
-112
-00:08:15,880 --> 00:08:18,760
+
+
 "the thickness of that varnish
 relative to that globe
 
-113
-00:08:18,840 --> 00:08:19,960
+
+
 "is pretty much the same
 
-114
-00:08:20,080 --> 00:08:22,320
+
+
 "as the thickness
 of the Earth's atmosphere
 
-115
-00:08:22,680 --> 00:08:25,000
+
+
 "compared to the Earth itself."
 
-116
-00:08:25,600 --> 00:08:27,400
+
+
 And it's thin enough
 
-117
-00:08:27,480 --> 00:08:31,000
+
+
 that we are capable
 of changing its composition.
 
-118
-00:08:31,360 --> 00:08:33,800
+
+
 That brings up the basic science
 of global warming.
 
-119
-00:08:33,920 --> 00:08:37,480
+
+
 And I'm not gonna spend a lot of time
 on this because you know it well.
 
-120
-00:08:37,560 --> 00:08:41,040
+
+
 The sun's radiation comes in
 in the form of light waves
 
-121
-00:08:41,160 --> 00:08:42,480
+
+
 and that heats up the Earth.
 
-122
-00:08:42,600 --> 00:08:47,080
+
+
 And then some of the radiation
 that is absorbed and warms the Earth
 
-123
-00:08:47,160 --> 00:08:49,640
+
+
 is reradiated back into space
 
-124
-00:08:49,720 --> 00:08:52,440
+
+
 in the form of infrared radiation.
 
-125
-00:08:52,560 --> 00:08:56,360
+
+
 And some of the outgoing
 infrared radiation is trapped
 
-126
-00:08:56,560 --> 00:09:00,440
+
+
 by this layer of atmosphere
 and held inside the atmosphere.
 
-127
-00:09:00,560 --> 00:09:04,120
+
+
 And that's a good thing because
 it keeps the temperature of the Earth
 
-128
-00:09:04,240 --> 00:09:06,040
+
+
 within certain boundaries,
 
-129
-00:09:06,160 --> 00:09:08,960
+
+
 keeps it relatively constant and livable.
 
-130
-00:09:09,080 --> 00:09:13,000
+
+
 But the problem is this thin layer
 of atmosphere is being thickened
 
-131
-00:09:13,080 --> 00:09:17,640
+
+
 by all of the global warming pollution
 that's being put up there.
 
-132
-00:09:17,960 --> 00:09:22,400
+
+
 And what that does is
 it thickens this layer of atmosphere,
 
-133
-00:09:22,520 --> 00:09:25,640
+
+
 more of the outgoing infrared is trapped.
 
-134
-00:09:26,040 --> 00:09:29,080
+
+
 And so the atmosphere heats up
 worldwide. That's global warming.
 
-135
-00:09:29,560 --> 00:09:31,760
+
+
 Now, that's the traditional explanation.
 
-136
-00:09:31,840 --> 00:09:34,200
+
+
 Here's what I think is
 a better explanation.
 
-137
-00:09:50,440 --> 00:09:53,560
+
+
 You're probably wondering
 why your ice cream went away.
 
-138
-00:09:53,680 --> 00:09:56,360
+
+
 Well, Susie, the culprit isn't foreigners.
 
-139
-00:09:56,440 --> 00:09:58,400
+
+
 It's global warming.
 
-140
-00:09:58,520 --> 00:10:01,600
+
+
 - Global...
 - Yeah.
 
-141
-00:10:02,920 --> 00:10:04,560
+
+
 <i>Meet Mr. Sunbeam.</i>
 
-142
-00:10:04,640 --> 00:10:07,720
+
+
 <i>He comes all the way from the sun
 to visit Earth.</i>
 
-143
-00:10:07,800 --> 00:10:11,400
+
+
 Hello, Earth.
 Just popping in to brighten your day.
 
-144
-00:10:13,920 --> 00:10:16,200
+
+
 And now I'll be on my way.
 
-145
-00:10:16,280 --> 00:10:18,400
+
+
 Not so fast, Sunbeam.
 
-146
-00:10:18,520 --> 00:10:22,120
+
+
 We're greenhouse gases.
 You ain't going nowhere.
 
-147
-00:10:26,760 --> 00:10:28,400
+
+
 Oh, God, it hurts.
 
-148
-00:10:28,520 --> 00:10:31,360
+
+
 <i>Pretty soon, Earth is chock-full
 of Sunbeams.</i>
 
-149
-00:10:31,480 --> 00:10:34,280
+
+
 <i>Their rotting corpses heating
 our atmosphere.</i>
 
-150
-00:10:36,440 --> 00:10:39,600
+
+
 How do we get rid
 of the greenhouse grasses?
 
-151
-00:10:39,720 --> 00:10:42,240
+
+
 Fortunately, our handsomest politicians
 
-152
-00:10:42,360 --> 00:10:46,000
+
+
 came up with a cheap, last-minute way
 to combat global warming.
 
-153
-00:10:46,200 --> 00:10:48,080
+
+
 <i>Ever since 2063,</i>
 
-154
-00:10:48,160 --> 00:10:52,360
+
+
 <i>we simply drop a giant ice cube
 into the ocean every now and then.</i>
 
-155
-00:10:54,440 --> 00:10:57,560
+
+
 Just like Daddy puts in his drink
 every morning.
 
-156
-00:10:57,680 --> 00:10:59,360
+
+
 And then he gets mad.
 
-157
-00:10:59,640 --> 00:11:03,080
+
+
 <i>Of course, since the greenhouse gases
 are still building up,</i>
 
-158
-00:11:03,160 --> 00:11:06,000
+
+
 <i>it takes more and more ice each time.</i>
 
-159
-00:11:07,160 --> 00:11:09,880
+
+
 Thus, solving the problem
 once and for all.
 
-160
-00:11:10,000 --> 00:11:11,320
+
+
 - But...
 - Once and for all!
 
-161
-00:11:19,200 --> 00:11:22,080
+
+
 This is the image that started me
 
-162
-00:11:22,200 --> 00:11:24,640
+
+
 in my interest in this issue.
 
-163
-00:11:24,760 --> 00:11:26,960
+
+
 And I saw it
 when I was a college student
 
-164
-00:11:27,040 --> 00:11:29,720
+
+
 because I had a professor
 named Roger Revelle
 
-165
-00:11:29,840 --> 00:11:33,280
+
+
 who was the first person to propose
 measuring carbon dioxide
 
-166
-00:11:33,400 --> 00:11:34,960
+
+
 in the Earth's atmosphere.
 
-167
-00:11:38,040 --> 00:11:40,560
+
+
 <i>He saw where the story was going</i>
 
-168
-00:11:41,120 --> 00:11:43,800
+
+
 <i>after the first few chapters.</i>
 
-169
-00:11:43,920 --> 00:11:46,480
+
+
 <i>After the first few years of data,</i>
 
-170
-00:11:47,160 --> 00:11:50,480
+
+
 <i>he intuited what it meant</i>
 
-171
-00:11:51,040 --> 00:11:53,600
+
+
 <i>for what was yet to come.</i>
 
-172
-00:11:55,920 --> 00:11:58,440
+
+
 <i>They designed the experiment in 1957.</i>
 
-173
-00:11:59,040 --> 00:12:01,320
+
+
 <i>He hired Charles David Keeling</i>
 
-174
-00:12:01,400 --> 00:12:04,120
+
+
 <i>who was very faithful and precise</i>
 
-175
-00:12:04,240 --> 00:12:07,120
+
+
 <i>in making these measurements
 for decades.</i>
 
-176
-00:12:08,000 --> 00:12:11,080
+
+
 <i>They started sending
 these weather balloons up every day</i>
 
-177
-00:12:11,160 --> 00:12:13,800
+
+
 <i>and they chose the middle of the Pacific</i>
 
-178
-00:12:13,960 --> 00:12:18,200
+
+
 <i>because it was the area
 that was most remote.</i>
 
-179
-00:12:18,640 --> 00:12:20,880
+
+
 <i>And he was a very hard-nosed scientist.</i>
 
-180
-00:12:20,960 --> 00:12:23,600
+
+
 <i>He really emphasized the hard data.</i>
 
-181
-00:12:26,200 --> 00:12:28,240
+
+
 <i>It was a wonderful time for me</i>
 
-182
-00:12:28,320 --> 00:12:30,440
+
+
 <i>because, like a lot of young people,</i>
 
-183
-00:12:30,520 --> 00:12:34,200
+
+
 <i>I came into contact
 with intellectual ferment,</i>
 
-184
-00:12:34,320 --> 00:12:37,400
+
+
 <i>ideas that I'd never considered</i>
 
-185
-00:12:37,520 --> 00:12:39,880
+
+
 <i>in my wildest dreams before.</i>
 
-186
-00:12:41,080 --> 00:12:43,400
+
+
 <i>And he showed our class</i>
 
-187
-00:12:43,960 --> 00:12:48,200
+
+
 <i>the results of his measurements
 after only a few years.</i>
 
-188
-00:12:48,280 --> 00:12:50,120
+
+
 <i>It was startling to me.</i>
 
-189
-00:12:50,800 --> 00:12:53,000
+
+
 <i>Now he was startled</i>
 
-190
-00:12:53,800 --> 00:12:55,760
+
+
 <i>and made it clear to our class</i>
 
-191
-00:12:55,880 --> 00:12:58,640
+
+
 <i>what he felt the significance of it was.</i>
 
-192
-00:12:58,800 --> 00:13:01,920
+
+
 <i>And I just soaked it up like a sponge.</i>
 
-193
-00:13:02,720 --> 00:13:04,360
+
+
 <i>He drew the connections</i>
 
-194
-00:13:04,440 --> 00:13:08,240
+
+
 <i>between the larger changes
 in our civilization</i>
 
-195
-00:13:08,760 --> 00:13:11,280
+
+
 <i>and this pattern that was now visible</i>
 
-196
-00:13:11,840 --> 00:13:13,880
+
+
 <i>in the atmosphere of the entire planet.</i>
 
-197
-00:13:14,000 --> 00:13:17,400
+
+
 <i>And then he projected into the future
 where this was headed</i>
 
-198
-00:13:17,520 --> 00:13:19,600
+
+
 <i>unless we made some adjustments.</i>
 
-199
-00:13:19,680 --> 00:13:22,640
+
+
 <i>And it was just as clear as day.</i>
 
-200
-00:13:25,240 --> 00:13:27,640
+
+
 After the first seven, eight, nine years,
 
-201
-00:13:27,760 --> 00:13:29,880
+
+
 you could see the pattern
 that was developing.
 
-202
-00:13:30,640 --> 00:13:31,840
+
+
 But I asked a question.
 
-203
-00:13:31,960 --> 00:13:35,880
+
+
 Why is it that it goes up and down
 once each year?
 
-204
-00:13:35,960 --> 00:13:39,280
+
+
 And he explained that if you look
 at the land mass of the Earth,
 
-205
-00:13:39,400 --> 00:13:41,840
+
+
 very little of it is south of the equator.
 
-206
-00:13:42,360 --> 00:13:45,040
+
+
 The vast majority of it is
 north of the equator,
 
-207
-00:13:45,120 --> 00:13:48,480
+
+
 and most of the vegetation is
 north of the equator.
 
-208
-00:13:48,720 --> 00:13:52,480
+
+
 And so, when the Northern Hemisphere
 is tilted toward the sun,
 
-209
-00:13:52,600 --> 00:13:55,080
+
+
 as it is in our spring and summer,
 
-210
-00:13:55,160 --> 00:13:58,680
+
+
 the leaves come out
 and they breathe in carbon dioxide,
 
-211
-00:13:58,800 --> 00:14:01,080
+
+
 and the amount in the atmosphere
 goes down.
 
-212
-00:14:01,200 --> 00:14:04,400
+
+
 But when the Northern Hemisphere is
 tilted away from the sun,
 
-213
-00:14:04,520 --> 00:14:06,680
+
+
 as it is in our fall and winter,
 
-214
-00:14:06,800 --> 00:14:09,880
+
+
 the leaves fall
 and exhale carbon dioxide,
 
-215
-00:14:10,000 --> 00:14:13,200
+
+
 and the amount in the atmosphere
 goes back up again.
 
-216
-00:14:13,600 --> 00:14:16,080
+
+
 And so, it's as if the entire Earth
 
-217
-00:14:16,160 --> 00:14:18,480
+
+
 once each year breathes in and out.
 
-218
-00:14:21,240 --> 00:14:25,680
+
+
 So we started measuring
 carbon dioxide in 1958.
 
-219
-00:14:26,200 --> 00:14:27,720
+
+
 And you can see
 
-220
-00:14:28,440 --> 00:14:31,840
+
+
 that by the middle '60s,
 when he showed my class this image,
 
-221
-00:14:31,960 --> 00:14:34,200
+
+
 it was already clear that it was going up.
 
-222
-00:14:34,320 --> 00:14:37,960
+
+
 I respected him and learned from him
 so much, I followed this.
 
-223
-00:14:38,480 --> 00:14:41,320
+
+
 And when I went to the Congress
 in the middle 1970s,
 
-224
-00:14:41,760 --> 00:14:44,400
+
+
 I helped to organize the first hearings
 on global warming
 
-225
-00:14:44,480 --> 00:14:47,880
+
+
 and asked my professor to come
 and be the leadoff witness.
 
-226
-00:14:47,960 --> 00:14:49,920
+
+
 And I thought that would have
 such a big impact,
 
-227
-00:14:50,040 --> 00:14:53,200
+
+
 we'd be on the way to solving
 this problem, but it didn't work that way.
 
-228
-00:14:53,640 --> 00:14:56,960
+
+
 But I kept having hearings.
 And in 1984 I went to the Senate
 
-229
-00:14:57,080 --> 00:15:00,080
+
+
 and really dug deeply into this issue
 
-230
-00:15:00,160 --> 00:15:02,160
+
+
 with science roundtables and the like.
 
-231
-00:15:02,240 --> 00:15:06,240
+
+
 I wrote a book about it,
 ran for President in 1988,
 
-232
-00:15:06,360 --> 00:15:08,840
+
+
 partly to try to gain some visibility
 for that issue.
 
-233
-00:15:08,920 --> 00:15:13,080
+
+
 And in 1992 went to the White House.
 We passed a version of a carbon tax
 
-234
-00:15:13,200 --> 00:15:15,400
+
+
 and some other measures
 to try to address this.
 
-235
-00:15:15,480 --> 00:15:19,240
+
+
 Went to Kyoto in 1997
 to help get a treaty
 
-236
-00:15:19,320 --> 00:15:22,280
+
+
 that's so controversial,
 in the US at least.
 
-237
-00:15:22,400 --> 00:15:24,280
+
+
 In 2000,
 
-238
-00:15:24,360 --> 00:15:28,240
+
+
 my opponent pledged to regulate CO2
 and then...
 
-239
-00:15:28,600 --> 00:15:30,760
+
+
 That was not a pledge that was kept.
 
-240
-00:15:30,840 --> 00:15:33,240
+
+
 But the point of this is
 
-241
-00:15:33,600 --> 00:15:35,880
+
+
 all this time you can see
 
-242
-00:15:36,200 --> 00:15:38,640
+
+
 what I have seen all these years.
 
-243
-00:15:38,760 --> 00:15:41,760
+
+
 It just keeps going up. It is relentless.
 
-244
-00:15:42,120 --> 00:15:45,520
+
+
 And now we're beginning to see
 the impact in the real world.
 
-245
-00:15:45,680 --> 00:15:49,240
+
+
 This is Mount Kilimanjaro
 more than 30 years ago
 
-246
-00:15:49,360 --> 00:15:50,640
+
+
 and more recently.
 
-247
-00:15:50,760 --> 00:15:53,680
+
+
 And a friend of mine just came back
 from Kilimanjaro
 
-248
-00:15:53,800 --> 00:15:56,480
+
+
 with a picture he took
 a couple of months ago.
 
-249
-00:15:56,600 --> 00:15:59,520
+
+
 Another friend, Lonnie Thompson,
 studies glaciers.
 
-250
-00:15:59,640 --> 00:16:04,080
+
+
 Here's Lonnie with a last sliver
 of one of the once mighty glaciers.
 
-251
-00:16:04,600 --> 00:16:08,720
+
+
 Within the decade there will be
 no more snows of Kilimanjaro.
 
-252
-00:16:09,720 --> 00:16:12,440
+
+
 This is happening
 in Glacier National Park.
 
-253
-00:16:12,640 --> 00:16:16,200
+
+
 I climbed to the top of this in 1998
 with one of my daughters.
 
-254
-00:16:16,280 --> 00:16:19,120
+
+
 Within 15 years, this will be the park
 formerly known as Glacier.
 
-255
-00:16:20,280 --> 00:16:24,320
+
+
 Here is what's been happening
 year by year to the Columbia Glacier.
 
-256
-00:16:24,440 --> 00:16:27,280
+
+
 It just retreats every single year.
 
-257
-00:16:27,640 --> 00:16:30,600
+
+
 And it's a shame
 'cause these glaciers are so beautiful.
 
-258
-00:16:30,680 --> 00:16:32,920
+
+
 But those who go up to see them,
 
-259
-00:16:33,600 --> 00:16:36,280
+
+
 here's what they're seeing every day,
 now.
 
-260
-00:16:47,680 --> 00:16:50,320
+
+
 In the Himalayas
 there's a particular problem
 
-261
-00:16:50,440 --> 00:16:53,240
+
+
 because 40% of all the people
 in the world
 
-262
-00:16:53,680 --> 00:16:56,760
+
+
 get their drinking water
 from rivers and spring systems
 
-263
-00:16:56,880 --> 00:17:00,440
+
+
 that are fed more than half
 by the melt water
 
-264
-00:17:00,560 --> 00:17:02,080
+
+
 coming off the glaciers.
 
-265
-00:17:02,200 --> 00:17:06,640
+
+
 And within this next half century
 those 40% of the people on Earth
 
-266
-00:17:06,760 --> 00:17:09,480
+
+
 are gonna face a very serious shortage
 
-267
-00:17:09,560 --> 00:17:11,800
+
+
 because of this melting.
 
-268
-00:17:12,560 --> 00:17:14,560
+
+
 Italy, the Italian Alps.
 
-269
-00:17:14,920 --> 00:17:16,400
+
+
 Same sight today.
 
-270
-00:17:16,720 --> 00:17:18,600
+
+
 An old postcard from Switzerland.
 
-271
-00:17:19,760 --> 00:17:22,640
+
+
 Throughout the Alps,
 we're seeing the same story.
 
-272
-00:17:22,760 --> 00:17:24,800
+
+
 It's also true in South America.
 
-273
-00:17:24,920 --> 00:17:27,480
+
+
 This is Peru 15 years ago.
 
-274
-00:17:27,600 --> 00:17:29,840
+
+
 And the same glacier today.
 
-275
-00:17:29,920 --> 00:17:33,880
+
+
 This is Argentina 20 years ago.
 Same glacier today.
 
-276
-00:17:35,040 --> 00:17:39,760
+
+
 Seventy-five years ago in Patagonia
 on the tip of South America.
 
-277
-00:17:39,840 --> 00:17:43,880
+
+
 This vast expanse of ice is now gone.
 
-278
-00:17:45,000 --> 00:17:46,560
+
+
 There's a message in this.
 
-279
-00:17:46,600 --> 00:17:46,960
+
+
 There's a message in this.
 
-280
-00:17:47,040 --> 00:17:48,440
+
+
 It is worldwide.
 
-281
-00:17:49,080 --> 00:17:51,520
+
+
 And the ice has stories to tell us.
 
-282
-00:17:51,640 --> 00:17:54,960
+
+
 My friend, Lonnie Thompson,
 digs core drills in the ice.
 
-283
-00:17:55,040 --> 00:17:56,440
+
+
 They dig down
 
-284
-00:17:56,520 --> 00:17:59,640
+
+
 and they bring the core drills back up
 and they look at the ice
 
-285
-00:17:59,760 --> 00:18:01,320
+
+
 and they study it.
 
-286
-00:18:01,680 --> 00:18:05,320
+
+
 When the snow falls,
 it traps little bubbles of atmosphere
 
-287
-00:18:05,760 --> 00:18:07,840
+
+
 and they can go in and measure
 
-288
-00:18:07,960 --> 00:18:12,080
+
+
 how much CO2 was in the atmosphere
 the year that that snow fell.
 
-289
-00:18:12,160 --> 00:18:14,600
+
+
 What's even more interesting, I think, is
 
-290
-00:18:14,680 --> 00:18:18,360
+
+
 they can measure
 the different isotopes of oxygen
 
-291
-00:18:18,440 --> 00:18:21,600
+
+
 and figure out
 a very precise thermometer
 
-292
-00:18:21,720 --> 00:18:24,000
+
+
 and tell you what the temperature was
 
-293
-00:18:24,120 --> 00:18:28,480
+
+
 the year that that bubble was trapped
 in the snow as it fell.
 
-294
-00:18:29,120 --> 00:18:32,160
+
+
 When I was in Antarctica,
 I saw cores like this.
 
-295
-00:18:32,280 --> 00:18:34,520
+
+
 And a guy looked at it. He said,
 
-296
-00:18:34,640 --> 00:18:38,000
+
+
 "Right here is where the US Congress
 passed the Clean Air Act."
 
-297
-00:18:38,120 --> 00:18:39,360
+
+
 And I couldn't believe it.
 
-298
-00:18:39,480 --> 00:18:41,400
+
+
 But you can see the difference
 with the naked eye.
 
-299
-00:18:41,520 --> 00:18:44,280
+
+
 Just a couple of years
 after that law was passed,
 
-300
-00:18:44,360 --> 00:18:46,520
+
+
 it's very clearly distinguishable.
 
-301
-00:18:46,640 --> 00:18:49,560
+
+
 They can count back year by year
 
-302
-00:18:49,680 --> 00:18:52,320
+
+
 the same way a forester reads
 tree rings.
 
-303
-00:18:52,440 --> 00:18:56,400
+
+
 And you can see each annual layer
 from the melting and re-freezing,
 
-304
-00:18:56,640 --> 00:19:00,720
+
+
 so they can go back in a lot of these
 mountain glaciers 1,000 years.
 
-305
-00:19:00,920 --> 00:19:04,200
+
+
 And they constructed a thermometer
 of the temperature.
 
-306
-00:19:04,520 --> 00:19:08,160
+
+
 The blue is cold and the red is warm.
 
-307
-00:19:08,560 --> 00:19:11,320
+
+
 Now, I show this
 for a couple of reasons.
 
-308
-00:19:11,720 --> 00:19:16,120
+
+
 Number one, the so-called skeptics
 will sometimes say,
 
-309
-00:19:16,280 --> 00:19:19,600
+
+
 "Oh, this whole thing,
 this is a cyclical phenomenon.
 
-310
-00:19:19,680 --> 00:19:22,560
+
+
 "There was a medieval warming period,
 after all."
 
-311
-00:19:22,680 --> 00:19:25,880
+
+
 Well, yeah, there was.
 There it is, right there.
 
-312
-00:19:27,680 --> 00:19:29,080
+
+
 There are two others.
 
-313
-00:19:29,160 --> 00:19:31,560
+
+
 But compared to what's going on now,
 
-314
-00:19:32,120 --> 00:19:33,560
+
+
 there's just no comparison.
 
-315
-00:19:33,920 --> 00:19:37,040
+
+
 So if you look at 1,000 years'
 worth of temperature
 
-316
-00:19:37,720 --> 00:19:40,480
+
+
 and compare it to 1,000 years of CO2,
 
-317
-00:19:41,040 --> 00:19:44,440
+
+
 you can see how closely
 they fit together.
 
-318
-00:19:45,080 --> 00:19:48,800
+
+
 Now, 1,000 years of CO2
 in the mountain glaciers,
 
-319
-00:19:48,920 --> 00:19:49,840
+
+
 that's one thing.
 
-320
-00:19:49,960 --> 00:19:54,520
+
+
 But in Antarctica,
 they can go back 650,000 years.
 
-321
-00:19:56,920 --> 00:19:59,440
+
+
 This incidentally is the first time
 
-322
-00:19:59,560 --> 00:20:03,960
+
+
 anybody outside of a small group
 of scientists has seen this image.
 
-323
-00:20:05,160 --> 00:20:07,840
+
+
 This is the present day era,
 
-324
-00:20:08,120 --> 00:20:10,160
+
+
 and that's the last ice age.
 
-325
-00:20:10,840 --> 00:20:14,480
+
+
 Then it goes up. We're going back
 in time now 650,000 years.
 
-326
-00:20:14,560 --> 00:20:17,680
+
+
 That's the period of warming
 between the last two ice ages.
 
-327
-00:20:17,760 --> 00:20:20,800
+
+
 That's the second
 and third ice age back.
 
-328
-00:20:21,120 --> 00:20:23,640
+
+
 Fourth, fifth, sixth
 
-329
-00:20:24,080 --> 00:20:26,120
+
+
 and seventh ice age back.
 
-330
-00:20:26,600 --> 00:20:28,480
+
+
 Now, an important point.
 
-331
-00:20:28,960 --> 00:20:33,360
+
+
 In all of this time, 650,000 years,
 
-332
-00:20:33,960 --> 00:20:36,720
+
+
 the CO2 level has never gone above
 
-333
-00:20:36,800 --> 00:20:39,520
+
+
 300 parts per million.
 
-334
-00:20:39,800 --> 00:20:41,880
+
+
 Now, as I said,
 they can also measure temperature.
 
-335
-00:20:42,000 --> 00:20:45,680
+
+
 Here's what the temperature
 has been on our Earth.
 
-336
-00:20:47,320 --> 00:20:50,040
+
+
 Now, one thing that kind of jumps out
 at you is...
 
-337
-00:20:50,360 --> 00:20:54,040
+
+
 Well, let me put it this way.
 If my classmate from the sixth grade
 
-338
-00:20:54,160 --> 00:20:56,680
+
+
 that talked about Africa
 and South America were here,
 
-339
-00:20:56,760 --> 00:20:59,640
+
+
 he would say,
 "Did they ever fit together?"
 
-340
-00:21:00,800 --> 00:21:02,680
+
+
 "Most ridiculous thing I've ever heard."
 
-341
-00:21:03,520 --> 00:21:05,240
+
+
 But they did, of course.
 
-342
-00:21:05,360 --> 00:21:08,560
+
+
 And the relationship is
 actually very complicated.
 
-343
-00:21:08,920 --> 00:21:12,200
+
+
 But there is one relationship
 that is far more powerful
 
-344
-00:21:12,280 --> 00:21:14,120
+
+
 than all the others and it is this.
 
-345
-00:21:14,200 --> 00:21:18,480
+
+
 When there is more carbon dioxide,
 the temperature gets warmer
 
-346
-00:21:18,840 --> 00:21:21,880
+
+
 because it traps more heat
 from the sun inside.
 
-347
-00:21:22,320 --> 00:21:26,000
+
+
 In the parts of the United States
 that contain the modern cities
 
-348
-00:21:26,200 --> 00:21:30,000
+
+
 of Cleveland, Detroit, New York,
 in the northern tier,
 
-349
-00:21:30,520 --> 00:21:33,920
+
+
 this is the difference between a nice day
 
-350
-00:21:34,480 --> 00:21:37,800
+
+
 and having a mile of ice over your head.
 
-351
-00:21:38,560 --> 00:21:41,720
+
+
 Keep that in mind
 when you look at this fact.
 
-352
-00:21:42,640 --> 00:21:44,240
+
+
 Carbon dioxide,
 
-353
-00:21:44,600 --> 00:21:48,200
+
+
 having never gone above
 300 parts per million,
 
-354
-00:21:48,280 --> 00:21:50,760
+
+
 here is where CO2 is now.
 
-355
-00:21:54,960 --> 00:21:57,680
+
+
 Way above where it's ever been
 
-356
-00:21:57,760 --> 00:22:00,200
+
+
 as far back as this record will measure.
 
-357
-00:22:00,280 --> 00:22:03,360
+
+
 Now, if you'll bear with me,
 I wanna really emphasize this point.
 
-358
-00:22:03,480 --> 00:22:05,400
+
+
 The crew here
 
-359
-00:22:06,200 --> 00:22:09,080
+
+
 has tried to teach me
 how to use this contraption here.
 
-360
-00:22:09,200 --> 00:22:11,440
+
+
 So, if I don't kill myself, I'll...
 
-361
-00:22:19,080 --> 00:22:21,640
+
+
 It's already right here.
 
-362
-00:22:23,120 --> 00:22:26,640
+
+
 Look how far above
 the natural cycle this is,
 
-363
-00:22:26,760 --> 00:22:28,440
+
+
 and we've done that.
 
-364
-00:22:29,400 --> 00:22:32,120
+
+
 But, ladies and gentlemen,
 in the next 50 years,
 
-365
-00:22:32,240 --> 00:22:34,240
+
+
 really, in less than 50 years,
 
-366
-00:22:34,840 --> 00:22:36,880
+
+
 it's gonna continue to go up.
 
-367
-00:22:36,960 --> 00:22:40,480
+
+
 When some of these children
 who are here are my age,
 
-368
-00:22:40,960 --> 00:22:44,360
+
+
 here is what it's going to be
 in less than 50 years.
 
-369
-00:22:51,120 --> 00:22:53,400
+
+
 You've heard of off the charts.
 
-370
-00:22:55,920 --> 00:22:58,640
+
+
 Within less than 50 years, it'll be here.
 
-371
-00:23:00,120 --> 00:23:03,120
+
+
 There's not a single fact
 or date or number
 
-372
-00:23:03,240 --> 00:23:06,480
+
+
 that's been used to make this up
 that's in any controversy.
 
-373
-00:23:06,680 --> 00:23:09,760
+
+
 The so-called skeptics look at this
 and they say,
 
-374
-00:23:10,360 --> 00:23:11,240
+
+
 "So? That seems perfectly okay."
 
-375
-00:23:11,280 --> 00:23:13,880
+
+
 "So? That seems perfectly okay."
 
-376
-00:23:20,080 --> 00:23:21,240
+
+
 Well,
 
-377
-00:23:22,440 --> 00:23:25,920
+
+
 again, if on the temperature side,
 
-378
-00:23:26,240 --> 00:23:31,000
+
+
 if this much on the cold side is
 a mile of ice over our heads,
 
-379
-00:23:32,280 --> 00:23:36,280
+
+
 what would that much
 on the warm side be?
 
-380
-00:23:37,880 --> 00:23:42,400
+
+
 Ultimately this is really not
 a political issue
 
-381
-00:23:42,520 --> 00:23:44,920
+
+
 so much as a moral issue.
 
-382
-00:23:45,320 --> 00:23:47,560
+
+
 If we allow that to happen,
 
-383
-00:23:47,880 --> 00:23:50,680
+
+
 it is deeply unethical.
 
-384
-00:23:53,120 --> 00:23:56,200
+
+
 <i>I had such faith
 in our democratic system,</i>
 
-385
-00:23:56,280 --> 00:23:58,040
+
+
 <i>our self-government.</i>
 
-386
-00:23:58,480 --> 00:24:01,800
+
+
 <i>I actually thought and believed</i>
 
-387
-00:24:02,400 --> 00:24:06,720
+
+
 <i>that the story would be compelling
 enough to cause a real sea change</i>
 
-388
-00:24:06,880 --> 00:24:10,080
+
+
 <i>in the way the Congress reacted
 to that issue.</i>
 
-389
-00:24:10,200 --> 00:24:12,720
+
+
 <i>I thought they would be startled, too.</i>
 
-390
-00:24:13,480 --> 00:24:15,160
+
+
 <i>And they weren't.</i>
 
-391
-00:24:18,840 --> 00:24:20,280
+
+
 <i>The struggles,</i>
 
-392
-00:24:20,840 --> 00:24:25,200
+
+
 <i>the victories that aren't really victories,
 the defeats that aren't really defeats.</i>
 
-393
-00:24:26,080 --> 00:24:30,040
+
+
 <i>They can serve to magnify
 the significance</i>
 
-394
-00:24:30,160 --> 00:24:32,720
+
+
 <i>of some trivial step forward,</i>
 
-395
-00:24:33,560 --> 00:24:37,720
+
+
 <i>exaggerate the seeming importance</i>
 
-396
-00:24:37,800 --> 00:24:39,960
+
+
 <i>of some massive setback.</i>
 
-397
-00:24:44,080 --> 00:24:46,400
+
+
 <i>April 3, 1989.</i>
 
-398
-00:24:47,920 --> 00:24:50,520
+
+
 <i>My son pulled loose from my hand</i>
 
-399
-00:24:50,600 --> 00:24:52,760
+
+
 <i>and chased his friend across the street.</i>
 
-400
-00:24:55,320 --> 00:24:57,080
+
+
 <i>He was six years old.</i>
 
-401
-00:24:59,960 --> 00:25:02,440
+
+
 <i>The machine was breathing for him.</i>
 
-402
-00:25:06,000 --> 00:25:08,880
+
+
 <i>We were possibly going to lose him.</i>
 
-403
-00:25:13,240 --> 00:25:16,200
+
+
 <i>He finally took a breath.</i>
 
-404
-00:25:19,160 --> 00:25:22,080
+
+
 <i>We stayed in the hospital for a month.</i>
 
-405
-00:25:24,200 --> 00:25:26,360
+
+
 <i>It was almost as if</i>
 
-406
-00:25:27,560 --> 00:25:30,520
+
+
 <i>you could look at that calendar
 and just go...</i>
 
-407
-00:25:31,280 --> 00:25:33,560
+
+
 <i>And everything just flew off.</i>
 
-408
-00:25:33,840 --> 00:25:36,040
+
+
 <i>Seemed trivial, insignificant.</i>
 
-409
-00:25:37,680 --> 00:25:39,600
+
+
 <i>He was so brave. He was such...</i>
 
-410
-00:25:40,000 --> 00:25:43,040
+
+
 <i>He was such a brave guy.</i>
 
-411
-00:25:45,600 --> 00:25:48,400
+
+
 <i>It just turned my whole world
 upside down</i>
 
-412
-00:25:48,480 --> 00:25:51,560
+
+
 <i>and then shook it
 until everything fell out.</i>
 
-413
-00:25:53,200 --> 00:25:57,800
+
+
 <i>My way of being in the world,
 it just changed everything for me.</i>
 
-414
-00:25:58,240 --> 00:26:00,960
+
+
 <i>How should I spend my time
 on this Earth?</i>
 
-415
-00:26:06,560 --> 00:26:08,080
+
+
 <i>I really dug in,</i>
 
-416
-00:26:08,960 --> 00:26:12,480
+
+
 <i>trying to learn about it
 much more deeply.</i>
 
-417
-00:26:12,600 --> 00:26:14,560
+
+
 <i>I went to Antarctica.</i>
 
-418
-00:26:14,680 --> 00:26:17,240
+
+
 <i>Went to the South Pole, the North Pole,
 the Amazon.</i>
 
-419
-00:26:17,360 --> 00:26:21,600
+
+
 <i>Went to places where scientists
 could help me understand</i>
 
-420
-00:26:22,160 --> 00:26:24,120
+
+
 <i>parts of the issue that</i>
 
-421
-00:26:24,680 --> 00:26:27,320
+
+
 <i>I didn't really understand in depth.</i>
 
-422
-00:26:31,360 --> 00:26:34,680
+
+
 <i>The possibility of losing
 what was most precious to me.</i>
 
-423
-00:26:35,840 --> 00:26:38,800
+
+
 <i>I gained an ability</i>
 
-424
-00:26:40,560 --> 00:26:43,640
+
+
 <i>that maybe I didn't have before.</i>
 
-425
-00:26:44,800 --> 00:26:46,520
+
+
 <i>But when I felt it,</i>
 
-426
-00:26:46,680 --> 00:26:50,560
+
+
 <i>I felt that we could really lose it,</i>
 
-427
-00:26:52,800 --> 00:26:56,960
+
+
 <i>that what we take for granted
 might not be here for our children.</i>
 
-428
-00:26:59,680 --> 00:27:02,240
+
+
 These are actual measurements
 of atmospheric temperatures
 
-429
-00:27:02,360 --> 00:27:04,000
+
+
 since our Civil War.
 
-430
-00:27:04,640 --> 00:27:07,640
+
+
 In any given year,
 it might look like it's going down,
 
-431
-00:27:07,720 --> 00:27:10,360
+
+
 but the overall trend is extremely clear.
 
-432
-00:27:10,440 --> 00:27:12,160
+
+
 And in recent years,
 
-433
-00:27:12,280 --> 00:27:15,680
+
+
 it's uninterrupted and it is intensifying.
 
-434
-00:27:16,720 --> 00:27:20,560
+
+
 In fact, if you look at the 10 hottest
 years ever measured
 
-435
-00:27:20,640 --> 00:27:22,560
+
+
 in this atmospheric record,
 
-436
-00:27:22,640 --> 00:27:25,320
+
+
 they've all occurred in the last 14 years.
 
-437
-00:27:25,680 --> 00:27:29,160
+
+
 And the hottest of all was 2005.
 
-438
-00:27:30,080 --> 00:27:33,200
+
+
 We have already seen
 some of the heat waves
 
-439
-00:27:33,280 --> 00:27:35,400
+
+
 that are similar
 to what scientists are saying
 
-440
-00:27:35,520 --> 00:27:37,040
+
+
 are gonna be a lot more common.
 
-441
-00:27:37,120 --> 00:27:40,560
+
+
 Couple of years ago in Europe
 they had that massive heat wave
 
-442
-00:27:40,640 --> 00:27:43,080
+
+
 that killed 35,000 people.
 
-443
-00:27:44,160 --> 00:27:46,880
+
+
 India didn't get as much attention,
 
-444
-00:27:47,000 --> 00:27:49,480
+
+
 but the same year
 the temperature there went
 
-445
-00:27:49,600 --> 00:27:52,600
+
+
 to 122 degrees Fahrenheit.
 
-446
-00:27:53,120 --> 00:27:55,000
+
+
 This past summer
 in the American West,
 
-447
-00:27:55,120 --> 00:27:58,800
+
+
 <i>there were a lot of cities that broke
 all-time records for high temperatures</i>
 
-448
-00:27:58,880 --> 00:28:03,520
+
+
 <i>and number of consecutive days
 with a 100-degree temperature or more.</i>
 
-449
-00:28:04,160 --> 00:28:08,320
+
+
 <i>Two hundred cities and towns
 in the west set all-time records.</i>
 
-450
-00:28:08,680 --> 00:28:12,640
+
+
 <i>And in the east there were a lot of cities
 that did the same thing.</i>
 
-451
-00:28:12,760 --> 00:28:15,600
+
+
 Including, incidentally, New Orleans.
 
-452
-00:28:16,320 --> 00:28:19,800
+
+
 So the temperature increases are
 taking place all over the world,
 
-453
-00:28:19,920 --> 00:28:21,840
+
+
 including in the oceans.
 
-454
-00:28:22,080 --> 00:28:26,160
+
+
 This is the natural range of variability
 for temperature in the oceans.
 
-455
-00:28:26,280 --> 00:28:27,880
+
+
 You know, people say,
 "Oh, it's just natural.
 
-456
-00:28:28,000 --> 00:28:30,240
+
+
 "It goes up and down,
 so don't worry about it."
 
-457
-00:28:30,360 --> 00:28:34,360
+
+
 This is the range that would be
 expected over the last 60 years,
 
-458
-00:28:34,560 --> 00:28:38,160
+
+
 but the scientists who specialize in
 global warming have computer models
 
-459
-00:28:38,240 --> 00:28:42,760
+
+
 that long ago predicted
 this range of temperature increase.
 
-460
-00:28:43,720 --> 00:28:45,960
+
+
 Now I'm gonna show you,
 recently released,
 
-461
-00:28:46,080 --> 00:28:49,120
+
+
 the actual ocean temperatures.
 
-462
-00:28:50,040 --> 00:28:54,200
+
+
 And, of course, when the oceans get
 warmer, that causes stronger storms.
 
-463
-00:28:54,640 --> 00:28:57,160
+
+
 We have seen
 in the last couple of years
 
-464
-00:28:57,280 --> 00:28:59,000
+
+
 a lot of big hurricanes.
 
-465
-00:28:59,080 --> 00:29:03,240
+
+
 Hurricane Jeanne and Frances
 and Ivan were among them.
 
-466
-00:29:03,800 --> 00:29:07,400
+
+
 And the same year that we had
 that string of big hurricanes,
 
-467
-00:29:07,520 --> 00:29:11,000
+
+
 we also set an all-time record
 for tornadoes in the United States.
 
-468
-00:29:11,280 --> 00:29:15,120
+
+
 Japan again didn't get
 as much attention in our news media,
 
-469
-00:29:15,200 --> 00:29:17,960
+
+
 but they set an all-time record
 for typhoons.
 
-470
-00:29:18,080 --> 00:29:19,280
+
+
 Previous record was seven.
 
-471
-00:29:19,360 --> 00:29:23,000
+
+
 Here are all 10 of the ones
 they had in 2004.
 
-472
-00:29:23,400 --> 00:29:25,640
+
+
 The science textbooks have had
 to be rewritten
 
-473
-00:29:25,760 --> 00:29:29,080
+
+
 because they say that it's impossible to
 have a hurricane in the South Atlantic.
 
-474
-00:29:29,200 --> 00:29:31,920
+
+
 But the same year the first one ever
 hit Brazil.
 
-475
-00:29:32,000 --> 00:29:35,000
+
+
 Summer of 2005 has been
 one for the books.
 
-476
-00:29:35,320 --> 00:29:38,480
+
+
 The first one was Emily
 that socked into Yucatán.
 
-477
-00:29:38,960 --> 00:29:42,400
+
+
 Then Hurricane Dennis came along
 and it did a lot of damage,
 
-478
-00:29:42,520 --> 00:29:44,280
+
+
 including to the oil industry.
 
-479
-00:29:44,360 --> 00:29:48,640
+
+
 This is the largest oil platform
 in the world after Dennis went through.
 
-480
-00:29:48,720 --> 00:29:51,360
+
+
 This one was driven into the bridge
 at Mobile.
 
-481
-00:29:51,840 --> 00:29:54,520
+
+
 And then, of course, came Katrina.
 
-482
-00:29:55,360 --> 00:29:59,520
+
+
 It's worth remembering that when
 it hit Florida, it was a Category One.
 
-483
-00:30:00,000 --> 00:30:03,480
+
+
 But it killed a lot of people and caused
 billions of dollars' worth of damage.
 
-484
-00:30:03,600 --> 00:30:05,440
+
+
 And then what happened?
 
-485
-00:30:05,880 --> 00:30:07,720
+
+
 Before it hit New Orleans,
 
-486
-00:30:07,840 --> 00:30:10,800
+
+
 it went over warmer waters.
 
-487
-00:30:10,880 --> 00:30:13,600
+
+
 As the water temperature increases,
 
-488
-00:30:14,040 --> 00:30:16,320
+
+
 the wind velocity increases
 
-489
-00:30:16,440 --> 00:30:19,280
+
+
 and the moisture content increases.
 
-490
-00:30:19,680 --> 00:30:22,680
+
+
 And you'll see Hurricane Katrina
 form over Florida.
 
-491
-00:30:22,760 --> 00:30:26,040
+
+
 And then as it comes into the gulf
 over that warm water,
 
-492
-00:30:26,120 --> 00:30:29,800
+
+
 it picks up that energy and gets
 stronger and stronger and stronger.
 
-493
-00:30:29,920 --> 00:30:31,720
+
+
 Look at that hurricane's eye.
 
-494
-00:30:31,840 --> 00:30:36,080
+
+
 And, of course,
 the consequences were so horrendous,
 
-495
-00:30:36,960 --> 00:30:39,800
+
+
 there are no words to describe it.
 
-496
-00:31:03,200 --> 00:31:06,240
+
+
 <i>Yeah, we're getting reports and calls
 that are just breaking my heart.</i>
 
-497
-00:31:06,360 --> 00:31:10,520
+
+
 <i>From people saying, "I've been
 in my attic. I can't take it anymore.</i>
 
-498
-00:31:10,600 --> 00:31:14,600
+
+
 <i>"The water is up to my neck.
 I don't think I can hold out."</i>
 
-499
-00:31:15,040 --> 00:31:17,200
+
+
 <i>And that's happening as we speak.</i>
 
-500
-00:31:17,280 --> 00:31:21,200
+
+
 <i>We told everybody the importance
 of the 17th Street Canal issue.</i>
 
-501
-00:31:21,400 --> 00:31:23,960
+
+
 <i>We said,
 "Please, please, take care of this.</i>
 
-502
-00:31:24,080 --> 00:31:26,280
+
+
 <i>"We don't care what you do.
 Figure it out."</i>
 
-503
-00:31:33,680 --> 00:31:35,880
+
+
 <i>Something new for America.</i>
 
-504
-00:31:38,640 --> 00:31:42,800
+
+
 <i>But how in God's name
 could that happen here?</i>
 
-505
-00:31:45,440 --> 00:31:49,000
+
+
 There had been warnings
 that hurricanes would get stronger.
 
-506
-00:31:49,920 --> 00:31:52,680
+
+
 There were warnings
 that this hurricane,
 
-507
-00:31:52,800 --> 00:31:55,720
+
+
 days before it hit,
 would breach the levees,
 
-508
-00:31:55,840 --> 00:31:59,560
+
+
 would cause the kind of damage
 that it ultimately did cause.
 
-509
-00:32:00,000 --> 00:32:03,840
+
+
 And one question
 we as a people need to decide
 
-510
-00:32:04,160 --> 00:32:07,760
+
+
 is how we react when we hear warnings
 
-511
-00:32:07,840 --> 00:32:10,520
+
+
 from the leading scientists in the world.
 
-512
-00:32:11,400 --> 00:32:15,120
+
+
 There was another storm in the 1930s
 of a different kind.
 
-513
-00:32:15,800 --> 00:32:19,600
+
+
 A horrible, unprecedented storm
 in continental Europe,
 
-514
-00:32:19,680 --> 00:32:23,800
+
+
 and Winston Churchill warned
 the people of England
 
-515
-00:32:25,400 --> 00:32:28,840
+
+
 that it was different from anything
 that had ever happened before
 
-516
-00:32:28,960 --> 00:32:31,200
+
+
 and they had to get ready for it.
 
-517
-00:32:31,440 --> 00:32:34,960
+
+
 And a lot of people did not want
 to believe it.
 
-518
-00:32:35,040 --> 00:32:37,840
+
+
 And he got real impatient
 with all the dithering.
 
-519
-00:32:38,000 --> 00:32:39,000
+
+
 And he said this,
 
-520
-00:32:55,320 --> 00:32:59,040
+
+
 <i>Making mistakes in generations
 and centuries past</i>
 
-521
-00:32:59,280 --> 00:33:02,320
+
+
 <i>would have consequences
 that we could overcome.</i>
 
-522
-00:33:03,400 --> 00:33:05,760
+
+
 <i>We don't have that luxury anymore.</i>
 
-523
-00:33:05,920 --> 00:33:07,760
+
+
 <i>We didn't ask for it,</i>
 
-524
-00:33:08,880 --> 00:33:10,360
+
+
 <i>but here it is.</i>
 
-525
-00:33:10,880 --> 00:33:13,600
+
+
 <i>Al Gore is the winner
 of the national popular vote.</i>
 
-526
-00:33:13,720 --> 00:33:17,880
+
+
 <i>But the state of Florida, whomever
 wins there wins the White House.</i>
 
-527
-00:33:17,960 --> 00:33:19,720
+
+
 <i>We call Florida, in the Al Gore column...</i>
 
-528
-00:33:19,840 --> 00:33:23,440
+
+
 <i>Bulletin: Florida pulled back
 into the undecided column.</i>
 
-529
-00:33:23,520 --> 00:33:26,400
+
+
 <i>George Bush is the president elect
 of the United States. He is...</i>
 
-530
-00:33:26,480 --> 00:33:29,680
+
+
 <i>Florida goes Bush.
 The presidency is Bush. That's it.</i>
 
-531
-00:33:29,760 --> 00:33:32,400
+
+
 <i>And at 2:18 this morning, we project...</i>
 
-532
-00:33:32,760 --> 00:33:36,480
+
+
 <i>All right, we're officially saying
 that Florida is too close to call.</i>
 
-533
-00:34:00,360 --> 00:34:03,120
+
+
 <i>While I strongly disagree
 with the court's decision,</i>
 
-534
-00:34:04,280 --> 00:34:05,440
+
+
 <i>I accept it.</i>
 
-535
-00:34:05,760 --> 00:34:08,280
+
+
 <i>I accept the finality of this outcome.</i>
 
-536
-00:34:16,920 --> 00:34:18,000
+
+
 <i>...do solemnly swear...</i>
 
-537
-00:34:18,080 --> 00:34:20,240
+
+
 <i>I, George Walker Bush,
 do solemnly swear...</i>
 
-538
-00:34:20,320 --> 00:34:22,880
+
+
 <i>...that I will faithfully execute
 the Office of President...</i>
 
-539
-00:34:34,200 --> 00:34:37,240
+
+
 <i>Well, that was a hard blow, but...</i>
 
-540
-00:34:39,800 --> 00:34:41,840
+
+
 <i>What do you do? You...</i>
 
-541
-00:34:44,280 --> 00:34:46,120
+
+
 <i>You make the best of it.</i>
 
-542
-00:34:56,800 --> 00:35:00,360
+
+
 <i>It brought into clear focus</i>
 
-543
-00:35:00,480 --> 00:35:04,640
+
+
 <i>the mission that I had been pursuing</i>
 
-544
-00:35:04,720 --> 00:35:06,720
+
+
 <i>for all these years, and</i>
 
-545
-00:35:08,760 --> 00:35:12,600
+
+
 <i>I started giving the slide show again.</i>
 
-546
-00:35:19,480 --> 00:35:22,280
+
+
 <i>One often unnoticed effect
 of global warming</i>
 
-547
-00:35:22,400 --> 00:35:24,400
+
+
 is it causes more precipitation,
 
-548
-00:35:24,480 --> 00:35:27,680
+
+
 but more of it coming
 in one-time big storm events.
 
-549
-00:35:28,000 --> 00:35:31,560
+
+
 Because the evaporation off the oceans
 puts all the moisture up there,
 
-550
-00:35:31,680 --> 00:35:34,920
+
+
 when storm conditions trigger
 the downpour, more of it falls down.
 
-551
-00:35:34,960 --> 00:35:35,000
+
+
 when storm conditions trigger
 the downpour, more of it falls down.
 
-552
-00:35:35,360 --> 00:35:38,360
+
+
 The insurance industry has
 actually noticed this.
 
-553
-00:35:38,440 --> 00:35:41,040
+
+
 Their recovered losses are going up.
 
-554
-00:35:41,120 --> 00:35:43,320
+
+
 You see the damage
 from these severe weather events?
 
-555
-00:35:43,400 --> 00:35:46,400
+
+
 And 2005 is not even on this yet.
 
-556
-00:35:46,960 --> 00:35:50,000
+
+
 When it does, it'll be off that chart.
 
-557
-00:35:50,400 --> 00:35:54,560
+
+
 Europe has just had a year very similar
 to the one we've had
 
-558
-00:35:54,640 --> 00:35:57,600
+
+
 where they say
 nature's been going crazy.
 
-559
-00:35:57,720 --> 00:36:00,360
+
+
 All kinds of unusual catastrophes,
 
-560
-00:36:00,480 --> 00:36:02,840
+
+
 like a nature hike
 through the Book of Revelations.
 
-561
-00:36:04,280 --> 00:36:05,880
+
+
 Flooding in Asia.
 
-562
-00:36:05,960 --> 00:36:08,800
+
+
 Mumbai, India this past July.
 
-563
-00:36:08,920 --> 00:36:11,960
+
+
 Thirty-seven inches of rain in 24 hours.
 
-564
-00:36:12,400 --> 00:36:15,320
+
+
 By far, the largest downpour
 
-565
-00:36:15,440 --> 00:36:18,080
+
+
 that any city in India has ever received.
 
-566
-00:36:19,000 --> 00:36:21,200
+
+
 Lot of flooding in China, also.
 
-567
-00:36:21,560 --> 00:36:25,760
+
+
 Global warming, paradoxically,
 causes not only more flooding,
 
-568
-00:36:26,240 --> 00:36:28,120
+
+
 but also more drought.
 
-569
-00:36:28,240 --> 00:36:31,560
+
+
 This neighboring province
 right next door
 
-570
-00:36:31,760 --> 00:36:35,840
+
+
 had a severe drought at the same time
 these areas were flooding.
 
-571
-00:36:36,720 --> 00:36:39,480
+
+
 One of the reasons for this
 has to do with the fact
 
-572
-00:36:39,560 --> 00:36:44,240
+
+
 that global warming not only increases
 precipitation worldwide,
 
-573
-00:36:44,320 --> 00:36:47,400
+
+
 but it also relocates the precipitation.
 
-574
-00:36:47,560 --> 00:36:51,280
+
+
 And focus most of all
 on this part of Africa
 
-575
-00:36:51,360 --> 00:36:53,680
+
+
 just on the edge of the Sahara.
 
-576
-00:36:54,200 --> 00:36:57,040
+
+
 Unbelievable tragedies have been
 unfolding there,
 
-577
-00:36:57,120 --> 00:36:59,640
+
+
 and there are a lot of reasons for it.
 
-578
-00:37:00,080 --> 00:37:04,760
+
+
 But Darfur and Niger are
 among those tragedies.
 
-579
-00:37:05,280 --> 00:37:08,640
+
+
 And one of the factors
 that has been compounding them
 
-580
-00:37:08,760 --> 00:37:11,800
+
+
 is the lack of rainfall
 and the increasing drought.
 
-581
-00:37:12,160 --> 00:37:16,520
+
+
 This is Lake Chad, once one
 of the largest lakes in the world.
 
-582
-00:37:17,360 --> 00:37:21,800
+
+
 It has dried up over the last
 few decades to almost nothing,
 
-583
-00:37:22,080 --> 00:37:25,640
+
+
 vastly complicating the other problems
 that they also have.
 
-584
-00:37:26,160 --> 00:37:27,840
+
+
 The second reason
 
-585
-00:37:28,000 --> 00:37:31,000
+
+
 why this is a paradox.
 
-586
-00:37:31,360 --> 00:37:34,760
+
+
 Global warming creates
 more evaporation off the oceans
 
-587
-00:37:34,880 --> 00:37:36,320
+
+
 to seed the clouds,
 
-588
-00:37:36,440 --> 00:37:39,480
+
+
 but it sucks moisture out of the soil.
 
-589
-00:37:40,160 --> 00:37:43,840
+
+
 Soil evaporation increases dramatically
 
-590
-00:37:43,920 --> 00:37:45,760
+
+
 with higher temperatures.
 
-591
-00:37:45,960 --> 00:37:50,080
+
+
 And that has consequences
 for us in the United States, as well.
 
-592
-00:37:51,200 --> 00:37:53,520
+
+
 So this is the Carthage exit.
 
-593
-00:37:54,600 --> 00:37:57,920
+
+
 When I was 14 years old,
 I totaled the family car
 
-594
-00:37:59,520 --> 00:38:00,840
+
+
 right there.
 
-595
-00:38:01,720 --> 00:38:04,600
+
+
 Went off that shoulder, turned it over.
 
-596
-00:38:05,560 --> 00:38:08,520
+
+
 And see this Black Angus bull?
 
-597
-00:38:09,000 --> 00:38:11,200
+
+
 We raised Black Angus.
 
-598
-00:38:14,760 --> 00:38:17,440
+
+
 <i>My father was named
 Breeder of the Month.</i>
 
-599
-00:38:19,440 --> 00:38:21,400
+
+
 <i>He grew up on a farm.</i>
 
-600
-00:38:23,200 --> 00:38:25,920
+
+
 <i>All through his career in the Senate</i>
 
-601
-00:38:26,040 --> 00:38:28,880
+
+
 <i>he continued to come back here
 and raise cattle.</i>
 
-602
-00:38:29,760 --> 00:38:33,400
+
+
 <i>Learning it from your dad on the land,</i>
 
-603
-00:38:35,880 --> 00:38:38,120
+
+
 <i>that's really something special.</i>
 
-604
-00:38:39,720 --> 00:38:44,200
+
+
 <i>My childhood upbringing was
 a little unusual in the sense that</i>
 
-605
-00:38:45,440 --> 00:38:49,080
+
+
 <i>I spent eight months of each year
 in Washington DC</i>
 
-606
-00:38:49,160 --> 00:38:52,120
+
+
 <i>in a small little hotel apartment.</i>
 
-607
-00:38:53,120 --> 00:38:57,320
+
+
 <i>And then the other four months were
 spent here on this big, beautiful farm.</i>
 
-608
-00:38:59,280 --> 00:39:00,800
+
+
 <i>I had a dog here.</i>
 
-609
-00:39:01,880 --> 00:39:03,480
+
+
 <i>I had a pony here.</i>
 
-610
-00:39:04,280 --> 00:39:06,240
+
+
 <i>I could shoot my rifle here.</i>
 
-611
-00:39:06,360 --> 00:39:09,720
+
+
 <i>I could go swimming in the river here.</i>
 
-612
-00:39:10,280 --> 00:39:13,520
+
+
 <i>Go out and lay down in the grass.</i>
 
-613
-00:39:20,120 --> 00:39:23,200
+
+
 <i>As a kid, it took me a while</i>
 
-614
-00:39:23,280 --> 00:39:26,080
+
+
 <i>to learn the difference
 between fun and work.</i>
 
-615
-00:39:32,280 --> 00:39:34,920
+
+
 <i>The places where people live
 were chosen</i>
 
-616
-00:39:35,440 --> 00:39:37,800
+
+
 <i>because of the climate pattern</i>
 
-617
-00:39:37,920 --> 00:39:41,800
+
+
 <i>that has been pretty much the same
 on Earth</i>
 
-618
-00:39:41,920 --> 00:39:45,400
+
+
 <i>since the end of the last ice age
 11,000 years ago.</i>
 
-619
-00:39:47,200 --> 00:39:50,560
+
+
 <i>Here, on this farm,
 the patterns are changing.</i>
 
-620
-00:39:51,320 --> 00:39:54,440
+
+
 <i>And it seems gradual
 in the course of a human lifetime</i>
 
-621
-00:39:54,560 --> 00:39:58,600
+
+
 <i>but in the course of time,
 as defined by this river,</i>
 
-622
-00:39:59,360 --> 00:40:03,000
+
+
 <i>it's happening very, very quickly.</i>
 
-623
-00:40:05,400 --> 00:40:07,040
+
+
 <i>Two canaries in the coal mine.</i>
 
-624
-00:40:07,800 --> 00:40:09,720
+
+
 First one is in the Arctic.
 
-625
-00:40:09,840 --> 00:40:12,960
+
+
 This, of course, is the Arctic Ocean,
 the floating ice cap.
 
-626
-00:40:13,200 --> 00:40:15,520
+
+
 Greenland, on its side there.
 
-627
-00:40:16,040 --> 00:40:17,400
+
+
 I say canary in the coal mine
 
-628
-00:40:17,480 --> 00:40:20,440
+
+
 because the Arctic is
 one of the two regions of the world
 
-629
-00:40:20,520 --> 00:40:24,160
+
+
 that is experiencing faster impacts
 
-630
-00:40:24,240 --> 00:40:25,600
+
+
 from global warming.
 
-631
-00:40:25,640 --> 00:40:25,640
+
+
 from global warming.
 
-632
-00:40:25,760 --> 00:40:28,800
+
+
 This is the largest ice shelf
 in the Arctic,
 
-633
-00:40:28,880 --> 00:40:30,720
+
+
 the Ward Hunt Ice Shelf.
 
-634
-00:40:30,840 --> 00:40:32,640
+
+
 It just cracked in half three years ago.
 
-635
-00:40:32,720 --> 00:40:34,680
+
+
 The scientists were astonished.
 
-636
-00:40:35,360 --> 00:40:38,680
+
+
 These are called drunken trees
 just going every which way.
 
-637
-00:40:38,800 --> 00:40:42,080
+
+
 This is not caused by wind damage
 or alcohol consumption.
 
-638
-00:40:42,160 --> 00:40:46,480
+
+
 These trees put their roots down
 in the permafrost,
 
-639
-00:40:47,120 --> 00:40:48,920
+
+
 and the permafrost is thawing.
 
-640
-00:40:49,000 --> 00:40:51,840
+
+
 And so they just go
 every which way now.
 
-641
-00:40:52,200 --> 00:40:55,000
+
+
 This building was built
 on the permafrost
 
-642
-00:40:55,080 --> 00:40:57,760
+
+
 and has collapsed
 as the permafrost thaws.
 
-643
-00:40:57,880 --> 00:41:00,960
+
+
 This woman's house has had
 to be abandoned.
 
-644
-00:41:01,480 --> 00:41:05,360
+
+
 The pipeline is suffering
 a great deal of structural damage.
 
-645
-00:41:05,760 --> 00:41:10,160
+
+
 And incidentally, the oil that they want
 to produce in that protected area
 
-646
-00:41:10,360 --> 00:41:12,760
+
+
 in Northern Alaska,
 which I hope they don't,
 
-647
-00:41:12,840 --> 00:41:16,280
+
+
 they have to depend on trucks
 to go in and out of there.
 
-648
-00:41:16,400 --> 00:41:19,320
+
+
 And the trucks go over
 the frozen ground.
 
-649
-00:41:19,840 --> 00:41:24,000
+
+
 This shows the number of days
 that the tundra in Alaska is
 
-650
-00:41:24,080 --> 00:41:25,880
+
+
 frozen enough to drive on it.
 
-651
-00:41:25,960 --> 00:41:30,360
+
+
 Thirty-five years ago, 225 days a year.
 
-652
-00:41:30,880 --> 00:41:33,880
+
+
 Now it's below 75 days a year
 
-653
-00:41:34,360 --> 00:41:38,240
+
+
 because the spring comes earlier
 and the fall comes later
 
-654
-00:41:38,360 --> 00:41:41,000
+
+
 and the temperatures
 just keep on going up.
 
-655
-00:41:41,640 --> 00:41:43,240
+
+
 I went up to the North Pole.
 
-656
-00:41:43,480 --> 00:41:46,480
+
+
 I went under that ice cap
 in a nuclear submarine
 
-657
-00:41:46,800 --> 00:41:49,600
+
+
 that surfaced through the ice like this.
 
-658
-00:41:49,920 --> 00:41:53,120
+
+
 Since they started patrolling in 1957,
 
-659
-00:41:53,200 --> 00:41:55,520
+
+
 they have gone under the ice
 
-660
-00:41:55,600 --> 00:41:58,400
+
+
 and measured
 with their radar looking upwards
 
-661
-00:41:58,720 --> 00:42:00,000
+
+
 to measure how thick it is
 
-662
-00:42:00,120 --> 00:42:02,120
+
+
 because they can only surface in areas
 
-663
-00:42:02,240 --> 00:42:04,920
+
+
 where it's three and a half feet thick
 or less.
 
-664
-00:42:05,240 --> 00:42:07,840
+
+
 So they have kept a meticulous record
 
-665
-00:42:07,960 --> 00:42:10,560
+
+
 and they wouldn't release it
 because it was national security.
 
-666
-00:42:10,680 --> 00:42:13,880
+
+
 I went up there in order to persuade
 them to release it, and they did.
 
-667
-00:42:13,960 --> 00:42:16,280
+
+
 And here's what that record shows.
 
-668
-00:42:16,560 --> 00:42:20,800
+
+
 Starting in 1970,
 there was a precipitous drop-off
 
-669
-00:42:20,880 --> 00:42:24,760
+
+
 in the amount and extent and thickness
 of the Arctic ice cap.
 
-670
-00:42:25,120 --> 00:42:28,720
+
+
 It has diminished by 40% in 40 years.
 
-671
-00:42:29,280 --> 00:42:31,600
+
+
 And there are now
 two major studies showing
 
-672
-00:42:31,720 --> 00:42:34,120
+
+
 that within the next 50 to 70 years,
 
-673
-00:42:34,240 --> 00:42:36,760
+
+
 in summertime
 it will be completely gone.
 
-674
-00:42:37,360 --> 00:42:39,840
+
+
 Now, you might say,
 "Why is that a problem?"
 
-675
-00:42:40,040 --> 00:42:44,600
+
+
 And "How could the Arctic ice cap
 actually melt so quickly?"
 
-676
-00:42:45,280 --> 00:42:47,600
+
+
 When the sun's rays hit the ice,
 
-677
-00:42:47,800 --> 00:42:51,920
+
+
 more than 90% of it bounces off
 right back into space like a mirror.
 
-678
-00:42:52,000 --> 00:42:55,840
+
+
 But when it hits the open ocean,
 more than 90% of it is absorbed.
 
-679
-00:42:56,040 --> 00:42:58,880
+
+
 And so, as the surrounding water
 gets warmer,
 
-680
-00:42:58,960 --> 00:43:01,760
+
+
 it speeds up the melting of the ice.
 
-681
-00:43:02,480 --> 00:43:06,000
+
+
 Right now, the Arctic ice cap acts
 like a giant mirror.
 
-682
-00:43:06,120 --> 00:43:09,080
+
+
 All the sun's rays bounce off,
 more than 90%.
 
-683
-00:43:09,160 --> 00:43:11,040
+
+
 It keeps the Earth cooler.
 
-684
-00:43:11,240 --> 00:43:12,800
+
+
 But as it melts
 
-685
-00:43:13,000 --> 00:43:16,320
+
+
 and the open ocean receives
 that sun's energy instead,
 
-686
-00:43:16,400 --> 00:43:18,440
+
+
 more than 90% is absorbed.
 
-687
-00:43:18,600 --> 00:43:22,040
+
+
 So there is
 a faster buildup of heat here,
 
-688
-00:43:22,360 --> 00:43:24,920
+
+
 at the North Pole, in the Arctic Ocean,
 
-689
-00:43:25,000 --> 00:43:28,440
+
+
 and the Arctic generally
 than anywhere else on the planet.
 
-690
-00:43:30,000 --> 00:43:34,200
+
+
 <i>That's not good for creatures like
 polar bears who depend on the ice.</i>
 
-691
-00:43:35,640 --> 00:43:37,440
+
+
 <i>A new scientific study shows that</i>
 
-692
-00:43:37,520 --> 00:43:42,040
+
+
 <i>for the first time they're finding
 polar bears that have actually drowned,</i>
 
-693
-00:43:43,680 --> 00:43:47,440
+
+
 <i>swimming long distances,
 up to 60 miles, to find the ice.</i>
 
-694
-00:43:48,120 --> 00:43:50,400
+
+
 <i>And they didn't find that before.</i>
 
-695
-00:43:50,760 --> 00:43:52,720
+
+
 <i>But what does it mean to us?</i>
 
-696
-00:43:52,840 --> 00:43:56,000
+
+
 <i>To look at a vast expanse of open water</i>
 
-697
-00:43:56,120 --> 00:43:59,520
+
+
 <i>at the top of our world
 that used to be covered by ice.</i>
 
-698
-00:44:00,280 --> 00:44:01,960
+
+
 We ought to care a lot
 
-699
-00:44:02,120 --> 00:44:04,480
+
+
 because it has planetary effects.
 
-700
-00:44:05,160 --> 00:44:09,440
+
+
 The Earth's climate is like a big engine
 for redistributing heat
 
-701
-00:44:09,560 --> 00:44:11,480
+
+
 from the equator to the poles.
 
-702
-00:44:11,600 --> 00:44:15,200
+
+
 And it does that by means
 of ocean currents and wind currents.
 
-703
-00:44:15,600 --> 00:44:19,800
+
+
 They tell us, the scientists do, that the
 Earth's climate is a nonlinear system.
 
-704
-00:44:19,880 --> 00:44:22,840
+
+
 Just a fancy way they have of saying
 
-705
-00:44:23,040 --> 00:44:26,280
+
+
 that the changes are not
 all just gradual.
 
-706
-00:44:26,440 --> 00:44:29,120
+
+
 Some of them come suddenly,
 in big jumps.
 
-707
-00:44:29,400 --> 00:44:32,840
+
+
 On a worldwide basis,
 the annual average temperature is
 
-708
-00:44:32,960 --> 00:44:35,680
+
+
 about 58 degrees Fahrenheit.
 
-709
-00:44:35,800 --> 00:44:39,160
+
+
 If we have an increase of five degrees,
 
-710
-00:44:39,440 --> 00:44:42,120
+
+
 which is on the low end
 of the projections,
 
-711
-00:44:42,440 --> 00:44:44,360
+
+
 look at how that translates globally.
 
-712
-00:44:44,480 --> 00:44:47,840
+
+
 That means an increase of only
 one degree at the equator,
 
-713
-00:44:47,960 --> 00:44:50,800
+
+
 but more than 12 degrees at the pole.
 
-714
-00:44:51,000 --> 00:44:54,000
+
+
 And so all those wind
 and ocean current patterns
 
-715
-00:44:54,120 --> 00:44:58,560
+
+
 that have formed since the last ice age
 and have been relatively stable,
 
-716
-00:44:58,720 --> 00:45:01,400
+
+
 they're all up in the air and they change.
 
-717
-00:45:02,200 --> 00:45:04,040
+
+
 And one of the ones
 they're most worried about,
 
-718
-00:45:04,160 --> 00:45:07,840
+
+
 where they've spent a lot of time
 studying the problem,
 
-719
-00:45:07,920 --> 00:45:09,800
+
+
 is in the North Atlantic
 
-720
-00:45:09,960 --> 00:45:12,880
+
+
 where the Gulf Stream comes up
 and meets the cold winds
 
-721
-00:45:13,000 --> 00:45:15,120
+
+
 coming off the Arctic over Greenland.
 
-722
-00:45:15,240 --> 00:45:18,680
+
+
 And that evaporates so that the heat
 out of the Gulf Stream
 
-723
-00:45:18,760 --> 00:45:20,760
+
+
 and the steam is carried over
 to Western Europe
 
-724
-00:45:20,840 --> 00:45:23,440
+
+
 by the prevailing winds
 and the Earth's rotation.
 
-725
-00:45:23,560 --> 00:45:26,240
+
+
 But isn't it interesting that
 the whole ocean current system
 
-726
-00:45:26,320 --> 00:45:28,720
+
+
 is all linked together in this loop?
 
-727
-00:45:28,840 --> 00:45:31,040
+
+
 They call it the ocean conveyor.
 
-728
-00:45:31,400 --> 00:45:34,560
+
+
 And the red are
 the warm surface currents.
 
-729
-00:45:34,680 --> 00:45:36,760
+
+
 The Gulf Stream is
 the best known of them.
 
-730
-00:45:36,840 --> 00:45:40,800
+
+
 But the blue represent the cold currents
 
-731
-00:45:40,920 --> 00:45:42,320
+
+
 running in the opposite direction,
 
-732
-00:45:42,440 --> 00:45:46,520
+
+
 and we don't see them at all because
 they run along the bottom of the ocean.
 
-733
-00:45:46,600 --> 00:45:51,040
+
+
 Up in the North Atlantic,
 after that heat is pulled out,
 
-734
-00:45:51,360 --> 00:45:54,760
+
+
 what's left behind is
 colder water and saltier water
 
-735
-00:45:54,880 --> 00:45:56,840
+
+
 because the salt doesn't go anywhere.
 
-736
-00:45:56,960 --> 00:45:59,600
+
+
 And so that makes it
 denser and heavier.
 
-737
-00:45:59,760 --> 00:46:02,840
+
+
 And so that cold, dense,
 heavy water sinks
 
-738
-00:46:02,920 --> 00:46:06,760
+
+
 at the rate of five billion
 gallons per second.
 
-739
-00:46:07,520 --> 00:46:10,840
+
+
 And then that pulls that current
 back south.
 
-740
-00:46:11,400 --> 00:46:13,600
+
+
 At the end of the last ice age,
 
-741
-00:46:13,720 --> 00:46:14,120
+
+
 as the last glacier was receding
 from North America,
 
-742
-00:46:14,160 --> 00:46:16,880
+
+
 as the last glacier was receding
 from North America,
 
-743
-00:46:17,680 --> 00:46:21,400
+
+
 the ice melted
 and a giant pool of fresh water
 
-744
-00:46:21,480 --> 00:46:23,120
+
+
 formed in North America.
 
-745
-00:46:23,240 --> 00:46:27,040
+
+
 And the Great Lakes are the remnants
 of that huge lake.
 
-746
-00:46:27,360 --> 00:46:31,760
+
+
 An ice dam on the eastern border
 formed and one day it broke.
 
-747
-00:46:32,520 --> 00:46:35,520
+
+
 And all that fresh water
 came rushing out,
 
-748
-00:46:35,600 --> 00:46:37,800
+
+
 ripping open the St. Lawrence there,
 
-749
-00:46:38,280 --> 00:46:41,560
+
+
 and it diluted the salty, dense,
 cold water,
 
-750
-00:46:41,720 --> 00:46:45,200
+
+
 made it fresher and lighter,
 so it stopped sinking.
 
-751
-00:46:45,800 --> 00:46:48,240
+
+
 And that pump shut off.
 
-752
-00:46:49,000 --> 00:46:51,080
+
+
 And the heat transfer stopped.
 
-753
-00:46:51,400 --> 00:46:55,360
+
+
 And Europe went back into an ice age
 for another 900 to 1,000 years.
 
-754
-00:46:55,520 --> 00:46:59,520
+
+
 And the change from conditions
 like we have here today
 
-755
-00:47:00,040 --> 00:47:01,600
+
+
 to an ice age
 
-756
-00:47:01,720 --> 00:47:05,320
+
+
 took place in perhaps
 as little as 10 years' time.
 
-757
-00:47:05,960 --> 00:47:08,080
+
+
 So that's a sudden jump.
 
-758
-00:47:08,240 --> 00:47:11,080
+
+
 Now, of course that's
 not gonna happen again
 
-759
-00:47:11,160 --> 00:47:14,240
+
+
 because the glaciers of North America
 are not there, and...
 
-760
-00:47:14,320 --> 00:47:17,960
+
+
 Is there any other big chunk of ice
 anywhere near there?
 
-761
-00:47:18,720 --> 00:47:19,920
+
+
 Oh, yeah.
 
-762
-00:47:20,880 --> 00:47:22,880
+
+
 We'll come back to that one.
 
-763
-00:47:42,440 --> 00:47:46,200
+
+
 <i>It's extremely frustrating to me</i>
 
-764
-00:47:47,800 --> 00:47:52,160
+
+
 <i>to communicate over and over again,
 as clearly as I can.</i>
 
-765
-00:47:56,680 --> 00:47:59,400
+
+
 <i>And we are still, by far,</i>
 
-766
-00:47:59,520 --> 00:48:02,040
+
+
 <i>the worst contributor to the problem.</i>
 
-767
-00:48:06,560 --> 00:48:08,120
+
+
 <i>And I look around</i>
 
-768
-00:48:08,200 --> 00:48:11,760
+
+
 <i>and look for really meaningful signs</i>
 
-769
-00:48:11,880 --> 00:48:14,720
+
+
 <i>that we're about to really change.</i>
 
-770
-00:48:16,880 --> 00:48:18,800
+
+
 <i>I don't see it right now.</i>
 
-771
-00:48:19,400 --> 00:48:23,640
+
+
 <i>A number of very reputable scientists
 have said that one factor of air pollution</i>
 
-772
-00:48:23,760 --> 00:48:27,160
+
+
 <i>is oxides of nitrogen
 from decaying vegetation.</i>
 
-773
-00:48:27,280 --> 00:48:31,560
+
+
 <i>This is what causes the haze that gave
 the big Smoky Mountains their name.</i>
 
-774
-00:48:31,840 --> 00:48:33,680
+
+
 Thank you very much, okay.
 
-775
-00:48:34,200 --> 00:48:37,720
+
+
 <i>This guy is so far off
 in the environmental extreme,</i>
 
-776
-00:48:37,800 --> 00:48:41,680
+
+
 <i>we'll be up to our neck in owls
 and out of work for every American.</i>
 
-777
-00:48:42,080 --> 00:48:43,520
+
+
 <i>This guy is crazy.</i>
 
-778
-00:48:43,920 --> 00:48:48,480
+
+
 <i>Even if humans were causing
 global warming, and we are not,</i>
 
-779
-00:48:48,560 --> 00:48:51,880
+
+
 <i>this could be maybe the greatest hoax
 ever perpetrated</i>
 
-780
-00:48:51,960 --> 00:48:53,440
+
+
 <i>on the American people.</i>
 
-781
-00:48:53,560 --> 00:48:56,440
+
+
 <i>We're dealing with something
 that's highly emotional.</i>
 
-782
-00:48:57,480 --> 00:49:00,360
+
+
 <i>If an issue is not</i>
 
-783
-00:49:01,200 --> 00:49:05,080
+
+
 <i>on the tips
 of their constituents' tongues,</i>
 
-784
-00:49:05,920 --> 00:49:08,400
+
+
 <i>it's easy for them to ignore it.</i>
 
-785
-00:49:14,120 --> 00:49:18,080
+
+
 <i>To say, "Well, we'll deal
 with that tomorrow."</i>
 
-786
-00:49:23,080 --> 00:49:26,280
+
+
 So the same phenomena of changing
 all these patterns
 
-787
-00:49:26,400 --> 00:49:28,880
+
+
 is also affecting the seasons.
 
-788
-00:49:29,120 --> 00:49:31,400
+
+
 Here is a study from the Netherlands.
 
-789
-00:49:31,520 --> 00:49:34,880
+
+
 The peak arrival date for migratory birds
 
-790
-00:49:34,960 --> 00:49:37,680
+
+
 25 years ago was April 25th,
 
-791
-00:49:37,800 --> 00:49:40,520
+
+
 and their chicks hatched
 on June the 3rd.
 
-792
-00:49:40,600 --> 00:49:44,040
+
+
 Just at the time when the caterpillars
 were coming out.
 
-793
-00:49:44,240 --> 00:49:46,600
+
+
 Nature's plan.
 
-794
-00:49:46,920 --> 00:49:49,600
+
+
 But 20 years of warming later,
 
-795
-00:49:49,960 --> 00:49:52,320
+
+
 the caterpillars peaked
 two weeks earlier,
 
-796
-00:49:52,440 --> 00:49:56,240
+
+
 and the chicks tried to catch up with it,
 but they couldn't.
 
-797
-00:49:57,000 --> 00:49:58,560
+
+
 And so, they're in trouble.
 
-798
-00:49:58,720 --> 00:50:01,600
+
+
 And there are millions
 of ecological niches
 
-799
-00:50:01,960 --> 00:50:05,040
+
+
 that are affected by global warming
 in just this way.
 
-800
-00:50:05,440 --> 00:50:09,400
+
+
 This is the number of days with frost
 in Southern Switzerland
 
-801
-00:50:09,480 --> 00:50:11,000
+
+
 over the last 100 years.
 
-802
-00:50:11,080 --> 00:50:13,360
+
+
 It has gone down rapidly.
 But now watch this.
 
-803
-00:50:13,480 --> 00:50:17,440
+
+
 This is the number
 of invasive exotic species
 
-804
-00:50:17,640 --> 00:50:22,400
+
+
 that have rushed in to fill the new
 ecological niches that are opening up.
 
-805
-00:50:22,560 --> 00:50:24,920
+
+
 That's happening here
 in the United States, too.
 
-806
-00:50:25,000 --> 00:50:27,520
+
+
 You've heard
 of the pine beetle problem?
 
-807
-00:50:27,680 --> 00:50:31,040
+
+
 Those pine beetles used to be killed
 by the cold winters,
 
-808
-00:50:31,320 --> 00:50:33,440
+
+
 but there are fewer days of frost,
 
-809
-00:50:33,520 --> 00:50:36,280
+
+
 and so the pine trees are
 being devastated.
 
-810
-00:50:36,360 --> 00:50:41,120
+
+
 This is part of 14 million acres
 of spruce trees in Alaska
 
-811
-00:50:41,600 --> 00:50:45,200
+
+
 that have been killed by bark beetles.
 The exact same phenomenon.
 
-812
-00:50:45,360 --> 00:50:47,720
+
+
 There are cities that were founded
 
-813
-00:50:47,880 --> 00:50:50,480
+
+
 because they were just above
 the mosquito line.
 
-814
-00:50:50,600 --> 00:50:54,080
+
+
 Nairobi is one, Harare is another.
 There are plenty of others.
 
-815
-00:50:54,320 --> 00:50:58,280
+
+
 Now the mosquitoes, with warming,
 are climbing to higher altitudes.
 
-816
-00:50:58,520 --> 00:51:02,720
+
+
 There are a lot of vectors for infectious
 diseases that are worrisome to us
 
-817
-00:51:02,800 --> 00:51:04,800
+
+
 that are also expanding their range.
 
-818
-00:51:04,880 --> 00:51:07,720
+
+
 Not only mosquitoes,
 but all of these others as well.
 
-819
-00:51:07,840 --> 00:51:10,600
+
+
 And we've had 30 so-called
 new diseases
 
-820
-00:51:10,680 --> 00:51:13,880
+
+
 that have emerged
 just in the last quarter century.
 
-821
-00:51:14,160 --> 00:51:17,800
+
+
 And a lot of them, like SARS, have
 caused tremendous problems.
 
-822
-00:51:18,040 --> 00:51:20,680
+
+
 The resistant forms of tuberculosis.
 There are others.
 
-823
-00:51:20,800 --> 00:51:23,080
+
+
 And there's been a re-emergence
 of some diseases
 
-824
-00:51:23,200 --> 00:51:25,280
+
+
 that were once under control.
 
-825
-00:51:25,360 --> 00:51:30,120
+
+
 The avian flu, of course,
 quite a serious matter, as you know.
 
-826
-00:51:30,480 --> 00:51:31,880
+
+
 West Nile Virus.
 
-827
-00:51:31,960 --> 00:51:35,080
+
+
 It came to the eastern shore
 of Maryland in 1999.
 
-828
-00:51:35,200 --> 00:51:37,400
+
+
 Two years later,
 it was across the Mississippi.
 
-829
-00:51:37,480 --> 00:51:41,120
+
+
 And two years after that,
 it had spread across the continent.
 
-830
-00:51:41,360 --> 00:51:43,640
+
+
 But these are very troubling signs.
 
-831
-00:51:43,720 --> 00:51:46,000
+
+
 Coral reefs all over the world,
 
-832
-00:51:46,120 --> 00:51:48,360
+
+
 because of global warming
 and other factors,
 
-833
-00:51:48,480 --> 00:51:51,400
+
+
 are bleaching and they end up like this.
 
-834
-00:51:51,600 --> 00:51:54,440
+
+
 And all the fish species
 that depend on the coral reefs
 
-835
-00:51:54,520 --> 00:51:56,960
+
+
 are also in jeopardy as a result.
 
-836
-00:51:57,080 --> 00:52:00,160
+
+
 Overall, species loss is now occurring
 
-837
-00:52:00,240 --> 00:52:02,880
+
+
 at a rate 1,000 times greater
 than the natural background rate.
 
-838
-00:52:04,880 --> 00:52:07,360
+
+
 This brings me to the second canary
 in the coal mine.
 
-839
-00:52:07,480 --> 00:52:08,680
+
+
 Antarctica.
 
-840
-00:52:08,800 --> 00:52:11,680
+
+
 The largest mass of ice on the planet
 by far.
 
-841
-00:52:12,000 --> 00:52:14,720
+
+
 A friend of mine said in 1978,
 
-842
-00:52:14,920 --> 00:52:18,320
+
+
 "If you see the breakup of ice shelves
 along the Antarctic peninsula,
 
-843
-00:52:18,440 --> 00:52:19,800
+
+
 "watch out
 
-844
-00:52:19,880 --> 00:52:24,040
+
+
 "because that should be seen
 as an alarm bell for global warming."
 
-845
-00:52:24,120 --> 00:52:27,240
+
+
 And actually, if you look
 at the peninsula up close,
 
-846
-00:52:27,360 --> 00:52:31,560
+
+
 every place where you see
 one of these green blotches here
 
-847
-00:52:31,840 --> 00:52:35,160
+
+
 is an ice shelf larger
 than the state of Rhode Island
 
-848
-00:52:35,240 --> 00:52:38,800
+
+
 that has broken up
 just in the last 15 to 20 years.
 
-849
-00:52:38,920 --> 00:52:40,840
+
+
 I want to focus on just one of them.
 
-850
-00:52:40,960 --> 00:52:42,400
+
+
 It's called Larsen B.
 
-851
-00:52:42,520 --> 00:52:45,840
+
+
 I want you to look
 at these black pools here.
 
-852
-00:52:46,480 --> 00:52:49,760
+
+
 It makes it seem almost
 as if we're looking through the ice
 
-853
-00:52:49,840 --> 00:52:52,600
+
+
 to the ocean beneath.
 But that's an illusion.
 
-854
-00:52:52,840 --> 00:52:56,160
+
+
 This is melting water
 that forms in pools,
 
-855
-00:52:56,440 --> 00:52:58,840
+
+
 and if you were flying over it
 in a helicopter,
 
-856
-00:52:58,920 --> 00:53:01,360
+
+
 you'd see it's 700 feet tall.
 
-857
-00:53:01,480 --> 00:53:05,000
+
+
 They are so majestic, so massive.
 
-858
-00:53:05,680 --> 00:53:08,720
+
+
 In the distance are the mountains
 and just before the mountains
 
-859
-00:53:08,840 --> 00:53:11,760
+
+
 is the shelf of the continent, there.
 
-860
-00:53:12,960 --> 00:53:14,760
+
+
 This is floating ice,
 
-861
-00:53:14,880 --> 00:53:18,880
+
+
 and there's land-based ice
 on the down slope of those mountains.
 
-862
-00:53:19,360 --> 00:53:23,880
+
+
 From here to the mountains
 is about 20 to 25 miles.
 
-863
-00:53:24,360 --> 00:53:27,360
+
+
 Now they thought this would be
 stable for at least 100 years,
 
-864
-00:53:27,480 --> 00:53:29,000
+
+
 even with global warming.
 
-865
-00:53:29,400 --> 00:53:32,200
+
+
 The scientists who study
 these ice shelves
 
-866
-00:53:33,320 --> 00:53:35,240
+
+
 were absolutely astonished
 
-867
-00:53:35,360 --> 00:53:37,120
+
+
 when they were looking
 at these images.
 
-868
-00:53:37,480 --> 00:53:40,000
+
+
 Starting on January 31, 2002
 
-869
-00:53:40,080 --> 00:53:42,720
+
+
 in a period of 35 days
 
-870
-00:53:42,840 --> 00:53:44,840
+
+
 this ice shelf completely disappeared.
 
-871
-00:53:46,320 --> 00:53:50,880
+
+
 They could not figure out how
 in the world this happened so rapidly.
 
-872
-00:53:51,680 --> 00:53:55,920
+
+
 And they went back to try to figure out
 where they'd gone wrong.
 
-873
-00:53:56,360 --> 00:54:00,160
+
+
 And that's when they focused
 on those pools of melting water.
 
-874
-00:54:01,000 --> 00:54:03,840
+
+
 But even before they could figure out
 what had happened there,
 
-875
-00:54:03,960 --> 00:54:06,280
+
+
 something else started going wrong.
 
-876
-00:54:06,440 --> 00:54:08,800
+
+
 When the floating sea-based ice
 cracked up,
 
-877
-00:54:08,880 --> 00:54:11,600
+
+
 it no longer held back
 the ice on the land,
 
-878
-00:54:11,720 --> 00:54:15,080
+
+
 and the land-based ice
 then started falling into the ocean.
 
-879
-00:54:15,200 --> 00:54:17,280
+
+
 It was like letting the cork
 out of a bottle.
 
-880
-00:54:17,400 --> 00:54:20,960
+
+
 And there's a difference between
 floating ice and land-based ice.
 
-881
-00:54:21,040 --> 00:54:24,680
+
+
 That's like the difference between
 an ice cube floating in a glass of water,
 
-882
-00:54:24,760 --> 00:54:28,240
+
+
 which when it melts doesn't raise
 the level of water in the glass,
 
-883
-00:54:28,360 --> 00:54:31,080
+
+
 and a cube that's sitting atop
 a stack of ice cubes
 
-884
-00:54:31,200 --> 00:54:33,600
+
+
 which melts and flows over the edge.
 
-885
-00:54:34,080 --> 00:54:37,360
+
+
 That's why the citizens
 of these Pacific nations
 
-886
-00:54:37,480 --> 00:54:39,840
+
+
 have all had to evacuate
 to New Zealand.
 
-887
-00:54:41,080 --> 00:54:43,440
+
+
 But I want to focus on West Antarctica
 
-888
-00:54:43,560 --> 00:54:48,200
+
+
 because it illustrates two factors about
 land-based ice and sea-based ice.
 
-889
-00:54:48,280 --> 00:54:51,600
+
+
 It's a little of both.
 It's propped up on tops of islands,
 
-890
-00:54:51,840 --> 00:54:54,560
+
+
 but the ocean comes up underneath it.
 
-891
-00:54:54,960 --> 00:54:57,600
+
+
 So as the ocean gets warmer,
 it has an impact on it.
 
-892
-00:54:58,400 --> 00:55:00,480
+
+
 If this were to go,
 
-893
-00:55:00,680 --> 00:55:03,240
+
+
 sea level worldwide
 would go up 20 feet.
 
-894
-00:55:04,040 --> 00:55:08,200
+
+
 They've measured disturbing changes
 on the underside of this ice sheet.
 
-895
-00:55:08,320 --> 00:55:12,000
+
+
 It's considered relatively
 more stable, however,
 
-896
-00:55:12,160 --> 00:55:15,640
+
+
 than another big body of ice
 that's roughly the same size.
 
-897
-00:55:16,240 --> 00:55:20,480
+
+
 Greenland would also raise sea level
 almost 20 feet
 
-898
-00:55:20,560 --> 00:55:21,880
+
+
 if it went.
 
-899
-00:55:22,000 --> 00:55:24,480
+
+
 A friend of mine just brought back
 some pictures
 
-900
-00:55:24,600 --> 00:55:27,280
+
+
 of what's going on on Greenland
 right now.
 
-901
-00:55:27,520 --> 00:55:31,280
+
+
 Dramatic changes.
 These are the same kinds of pools
 
-902
-00:55:31,680 --> 00:55:34,760
+
+
 that formed here,
 on this ice shelf in Antarctica.
 
-903
-00:55:35,440 --> 00:55:37,440
+
+
 And the scientists thought
 
-904
-00:55:37,520 --> 00:55:41,640
+
+
 that when that water seeped back
 into the ice, it would just refreeze.
 
-905
-00:55:42,080 --> 00:55:45,000
+
+
 But they found out
 that actually what happens
 
-906
-00:55:45,120 --> 00:55:48,440
+
+
 is that it just keeps on going.
 It tunnels to the bottom
 
-907
-00:55:48,640 --> 00:55:51,040
+
+
 and makes the ice like Swiss cheese,
 
-908
-00:55:51,120 --> 00:55:52,600
+
+
 sort of like termites.
 
-909
-00:55:53,040 --> 00:55:55,520
+
+
 This shows what happens
 to the crevasses,
 
-910
-00:55:55,640 --> 00:56:00,000
+
+
 and when lakes form,
 they create what are called moulins.
 
-911
-00:56:00,320 --> 00:56:01,960
+
+
 The water goes down to the bottom
 
-912
-00:56:02,080 --> 00:56:05,480
+
+
 and it lubricates
 where the ice meets the bedrock.
 
-913
-00:56:05,760 --> 00:56:07,880
+
+
 See these people here for scale.
 
-914
-00:56:08,160 --> 00:56:12,160
+
+
 This is not on the edge of Greenland,
 this is in the middle of the ice mass.
 
-915
-00:56:12,240 --> 00:56:15,360
+
+
 This is a massive rushing torrent
 
-916
-00:56:15,560 --> 00:56:17,560
+
+
 of fresh melt water
 
-917
-00:56:17,640 --> 00:56:20,960
+
+
 tunneling straight down
 through the Greenland ice
 
-918
-00:56:21,040 --> 00:56:22,760
+
+
 to the bedrock below.
 
-919
-00:56:23,000 --> 00:56:27,560
+
+
 Now, to some extent,
 there has always been seasonal melting
 
-920
-00:56:27,960 --> 00:56:31,720
+
+
 and moulins have formed in the past,
 but not like now.
 
-921
-00:56:32,280 --> 00:56:36,160
+
+
 In 1992, they measured
 this amount of melting in Greenland.
 
-922
-00:56:36,600 --> 00:56:39,000
+
+
 Ten years later, this is what happened.
 
-923
-00:56:39,280 --> 00:56:41,760
+
+
 And here is the melting from 2005.
 
-924
-00:56:43,120 --> 00:56:46,080
+
+
 Tony Blair's scientific advisor
 has said that
 
-925
-00:56:46,160 --> 00:56:48,920
+
+
 because of what's happening
 in Greenland right now,
 
-926
-00:56:49,040 --> 00:56:51,720
+
+
 the maps of the world will have
 to be redrawn.
 
-927
-00:56:52,160 --> 00:56:54,600
+
+
 If Greenland broke up and melted,
 
-928
-00:56:55,320 --> 00:56:59,080
+
+
 or if half of Greenland
 and half of West Antarctica
 
-929
-00:56:59,240 --> 00:57:00,720
+
+
 broke up and melted,
 
-930
-00:57:00,840 --> 00:57:04,040
+
+
 this is what would happen
 to the sea level in Florida.
 
-931
-00:57:09,160 --> 00:57:11,720
+
+
 This is what would happen
 to San Francisco Bay.
 
-932
-00:57:13,680 --> 00:57:16,120
+
+
 A lot of people live in these areas.
 
-933
-00:57:16,800 --> 00:57:19,760
+
+
 The Netherlands,
 one of the low countries.
 
-934
-00:57:21,560 --> 00:57:23,600
+
+
 Absolutely devastating.
 
-935
-00:57:23,720 --> 00:57:27,520
+
+
 The area around Beijing that's home
 to tens of millions of people.
 
-936
-00:57:29,480 --> 00:57:32,680
+
+
 Even worse, in the area
 around Shanghai,
 
-937
-00:57:32,760 --> 00:57:34,880
+
+
 there are 40 million people.
 
-938
-00:57:36,840 --> 00:57:41,080
+
+
 Worse still, Calcutta,
 and to the east, Bangladesh,
 
-939
-00:57:41,160 --> 00:57:43,880
+
+
 the area covered includes
 60 million people.
 
-940
-00:57:45,000 --> 00:57:49,680
+
+
 Think of the impact of a couple
 hundred thousand refugees
 
-941
-00:57:50,000 --> 00:57:52,680
+
+
 when they're displaced
 by an environmental event.
 
-942
-00:57:53,000 --> 00:57:57,160
+
+
 And then imagine the impact
 of a hundred million or more.
 
-943
-00:57:58,440 --> 00:57:59,960
+
+
 Here's Manhattan.
 
-944
-00:58:00,840 --> 00:58:03,440
+
+
 This is the World Trade Center
 memorial site.
 
-945
-00:58:04,680 --> 00:58:07,880
+
+
 And after the horrible events of 9/11,
 
-946
-00:58:09,600 --> 00:58:11,400
+
+
 we said, "Never again."
 
-947
-00:58:11,400 --> 00:58:11,440
+
+
 we said, "Never again."
 
-948
-00:58:12,360 --> 00:58:14,880
+
+
 But this is what would happen
 to Manhattan.
 
-949
-00:58:20,080 --> 00:58:22,120
+
+
 They can measure this precisely,
 
-950
-00:58:22,240 --> 00:58:25,080
+
+
 just as the scientists could
 predict precisely
 
-951
-00:58:25,160 --> 00:58:28,040
+
+
 how much water would breach
 the levees in New Orleans.
 
-952
-00:58:29,200 --> 00:58:33,640
+
+
 The area where the World Trade Center
 Memorial is to be located
 
-953
-00:58:33,960 --> 00:58:35,760
+
+
 would be underwater.
 
-954
-00:58:36,920 --> 00:58:41,640
+
+
 Is it possible that we should prepare
 against other threats besides terrorists?
 
-955
-00:58:42,240 --> 00:58:45,760
+
+
 Maybe we should be concerned
 about other problems as well.
 
-956
-00:58:52,840 --> 00:58:55,040
+
+
 <i>1.3 billion people.</i>
 
-957
-00:58:57,080 --> 00:58:59,080
+
+
 <i>An economy that's surging.</i>
 
-958
-00:59:01,320 --> 00:59:03,200
+
+
 <i>More and more energy needs.</i>
 
-959
-00:59:03,840 --> 00:59:06,120
+
+
 <i>Massive coal reserves.</i>
 
-960
-00:59:07,160 --> 00:59:10,360
+
+
 The coal belt in Northern China,
 
-961
-00:59:11,640 --> 00:59:13,360
+
+
 - Inner Mongolia.
 - Right.
 
-962
-00:59:13,480 --> 00:59:16,280
+
+
 Then there's Shaanxi province.
 
-963
-00:59:16,360 --> 00:59:20,080
+
+
 - And also biggest coal mine here.
 - Up here.
 
-964
-00:59:20,200 --> 00:59:22,240
+
+
 - Yeah.
 - Now, is that an open pit mine?
 
-965
-00:59:22,320 --> 00:59:23,920
+
+
 - Yes.
 - Yes.
 
-966
-00:59:24,040 --> 00:59:26,600
+
+
 <i>Every time I've visited China,</i>
 
-967
-00:59:26,760 --> 00:59:30,440
+
+
 <i>I've learned from their scientists.
 They're right on the cutting edge.</i>
 
-968
-00:59:30,560 --> 00:59:33,160
+
+
 Give me some sense of the numbers of
 
-969
-00:59:33,240 --> 00:59:36,080
+
+
 new coal fire generating plants.
 
-970
-00:59:36,200 --> 00:59:38,920
+
+
 Well, I have to say
 that the number is enormous
 
-971
-00:59:39,040 --> 00:59:40,760
+
+
 because it's so profitable.
 
-972
-00:59:41,080 --> 00:59:45,560
+
+
 <i>This issue is really the same for China
 as it is for the US.</i>
 
-973
-00:59:46,840 --> 00:59:51,080
+
+
 <i>We are both using old technologies
 that are dirty and polluting.</i>
 
-974
-00:59:51,200 --> 00:59:52,640
+
+
 <i>...more flooding and more drought</i>
 
-975
-00:59:52,720 --> 00:59:55,120
+
+
 <i>and stronger storms is going up,</i>
 
-976
-00:59:55,240 --> 00:59:57,680
+
+
 <i>and global warming is implicated
 in the pattern.</i>
 
-977
-00:59:57,800 --> 01:00:01,560
+
+
 <i>And if you were to give some
 suggestions to everybody here</i>
 
-978
-01:00:01,680 --> 01:00:05,600
+
+
 <i>about, like, what we can do
 for the situation now.</i>
 
-979
-01:00:05,680 --> 01:00:09,000
+
+
 <i>Separating the truth from the fiction</i>
 
-980
-01:00:09,600 --> 01:00:13,800
+
+
 <i>and the accurate connections
 from the misunderstandings</i>
 
-981
-01:00:14,120 --> 01:00:16,440
+
+
 <i>is part of what you learn here.</i>
 
-982
-01:00:17,240 --> 01:00:21,960
+
+
 <i>But when the warnings are accurate
 and based on sound science,</i>
 
-983
-01:00:22,640 --> 01:00:26,000
+
+
 <i>then we as human beings,
 whatever country we live in,</i>
 
-984
-01:00:26,120 --> 01:00:28,240
+
+
 <i>have to find a way to make sure</i>
 
-985
-01:00:28,360 --> 01:00:32,000
+
+
 <i>that the warnings are heard
 and responded to.</i>
 
-986
-01:00:39,200 --> 01:00:43,600
+
+
 <i>We both have a hard time
 shaking loose the familiar patterns</i>
 
-987
-01:00:43,720 --> 01:00:45,600
+
+
 <i>that we've relied on in the past.</i>
 
-988
-01:00:45,960 --> 01:00:50,640
+
+
 <i>We both face completely
 unacceptable consequences.</i>
 
-989
-01:01:01,360 --> 01:01:04,280
+
+
 And there are three factors
 that are causing this collision,
 
-990
-01:01:04,400 --> 01:01:06,160
+
+
 and the first is population.
 
-991
-01:01:06,440 --> 01:01:10,720
+
+
 When my generation, the baby boom
 generation, was born after World War II,
 
-992
-01:01:10,840 --> 01:01:13,520
+
+
 the population had just crossed
 the two billion mark.
 
-993
-01:01:15,200 --> 01:01:17,480
+
+
 Now, I'm in my 50s,
 
-994
-01:01:17,560 --> 01:01:20,920
+
+
 and it's already gone
 to almost six and a half billion.
 
-995
-01:01:21,840 --> 01:01:26,400
+
+
 And if I reach the demographic
 expectation for the baby boomers,
 
-996
-01:01:26,760 --> 01:01:28,440
+
+
 it'll go over nine billion.
 
-997
-01:01:29,080 --> 01:01:33,600
+
+
 So if it takes 10,000 generations
 to reach two billion
 
-998
-01:01:33,720 --> 01:01:36,680
+
+
 and then in one human lifetime, ours,
 
-999
-01:01:36,800 --> 01:01:39,400
+
+
 it goes from two billion to nine billion,
 
-1000
-01:01:40,000 --> 01:01:43,040
+
+
 something profoundly different's
 going on right now.
 
-1001
-01:01:43,200 --> 01:01:45,680
+
+
 We're putting more pressure
 on the Earth.
 
-1002
-01:01:45,800 --> 01:01:48,680
+
+
 Most of it's in the poorer nations
 of the world.
 
-1003
-01:01:48,800 --> 01:01:51,400
+
+
 This puts pressure on food demand.
 
-1004
-01:01:51,480 --> 01:01:53,640
+
+
 It puts pressure on water demand.
 
-1005
-01:01:53,760 --> 01:01:57,000
+
+
 It puts pressure on vulnerable
 natural resources,
 
-1006
-01:01:57,120 --> 01:01:58,520
+
+
 and this pressure's one of the reasons
 
-1007
-01:01:58,640 --> 01:02:01,520
+
+
 why we have seen all the devastation
 of the forest,
 
-1008
-01:02:01,640 --> 01:02:03,600
+
+
 not only tropical, but elsewhere.
 
-1009
-01:02:03,760 --> 01:02:05,640
+
+
 It is a political issue.
 
-1010
-01:02:05,760 --> 01:02:10,040
+
+
 This is the border between Haiti
 and the Dominican Republic.
 
-1011
-01:02:10,160 --> 01:02:14,120
+
+
 One set of policies here,
 another set of policies here.
 
-1012
-01:02:14,480 --> 01:02:18,440
+
+
 Much of it comes not only
 because of cutting, but also burning.
 
-1013
-01:02:18,640 --> 01:02:22,040
+
+
 Almost 30% of all the CO2 that goes up
 each year into the atmosphere
 
-1014
-01:02:22,160 --> 01:02:24,520
+
+
 comes from forest burning.
 
-1015
-01:02:24,720 --> 01:02:28,680
+
+
 This is a time-lapse picture of the Earth
 at night over a six-month period
 
-1016
-01:02:28,760 --> 01:02:30,960
+
+
 showing the lights of the cities in white
 
-1017
-01:02:31,080 --> 01:02:33,440
+
+
 and the burning forests
 and brush fires in red.
 
-1018
-01:02:33,560 --> 01:02:36,640
+
+
 The yellow areas are the gas flares,
 like these in Siberia.
 
-1019
-01:02:37,200 --> 01:02:38,840
+
+
 And that brings me to the second factor
 
-1020
-01:02:38,960 --> 01:02:41,600
+
+
 that has transformed our relationship
 to the Earth.
 
-1021
-01:02:41,680 --> 01:02:45,800
+
+
 The scientific and technological
 revolution is a great blessing
 
-1022
-01:02:46,040 --> 01:02:48,600
+
+
 in that it has given us
 tremendous benefits
 
-1023
-01:02:48,720 --> 01:02:51,720
+
+
 in areas like medicine
 and communications.
 
-1024
-01:02:51,880 --> 01:02:55,680
+
+
 But this new power that we have
 also brings a responsibility
 
-1025
-01:02:55,760 --> 01:02:57,240
+
+
 to think about its consequences.
 
-1026
-01:02:57,520 --> 01:02:58,680
+
+
 Here's a formula to think about.
 
-1027
-01:02:58,800 --> 01:03:02,440
+
+
 Old habits plus old technology
 have predictable consequences.
 
-1028
-01:03:03,120 --> 01:03:07,080
+
+
 Old habits that are hard to change
 plus new technology
 
-1029
-01:03:07,360 --> 01:03:10,160
+
+
 can have dramatically
 altered consequences.
 
-1030
-01:03:10,280 --> 01:03:13,320
+
+
 Warfare with spears
 and bows and arrows
 
-1031
-01:03:13,440 --> 01:03:17,440
+
+
 and rifles and machine guns,
 that's one thing.
 
-1032
-01:03:17,600 --> 01:03:19,720
+
+
 But then a new technology came.
 
-1033
-01:03:27,200 --> 01:03:29,760
+
+
 We have to think differently about war
 
-1034
-01:03:30,600 --> 01:03:34,400
+
+
 because the new technologies
 so completely transformed
 
-1035
-01:03:34,480 --> 01:03:37,080
+
+
 the consequences of that old habit
 
-1036
-01:03:37,200 --> 01:03:41,400
+
+
 that we can't just mindlessly continue
 the patterns of the past.
 
-1037
-01:03:42,440 --> 01:03:46,840
+
+
 In the same way, we have always
 exploited the Earth for sustenance.
 
-1038
-01:03:47,240 --> 01:03:51,040
+
+
 For most of our existence,
 we used relatively simple tools.
 
-1039
-01:03:51,160 --> 01:03:53,560
+
+
 The plow, the tractor.
 
-1040
-01:03:54,120 --> 01:03:56,840
+
+
 But even tools like shovels
 are different now.
 
-1041
-01:03:57,360 --> 01:03:58,880
+
+
 Shovel used to be this.
 
-1042
-01:03:59,400 --> 01:04:01,080
+
+
 Shovels have gotten bigger.
 
-1043
-01:04:01,360 --> 01:04:04,000
+
+
 And every year, they get more powerful.
 
-1044
-01:04:04,240 --> 01:04:08,640
+
+
 So our ability to have an effect,
 in this case on the surface of the Earth,
 
-1045
-01:04:08,720 --> 01:04:10,440
+
+
 is utterly transformed.
 
-1046
-01:04:10,640 --> 01:04:14,920
+
+
 You can say the same thing
 about irrigation, which is a great thing.
 
-1047
-01:04:15,120 --> 01:04:19,240
+
+
 But when we divert rivers
 without considering the consequences,
 
-1048
-01:04:19,360 --> 01:04:23,160
+
+
 then sometimes rivers no longer
 reach the sea.
 
-1049
-01:04:23,720 --> 01:04:25,240
+
+
 There were two rivers in Central Asia
 
-1050
-01:04:25,360 --> 01:04:27,840
+
+
 that were used
 by the former Soviet Union
 
-1051
-01:04:27,960 --> 01:04:29,440
+
+
 for irrigating cotton fields unwisely.
 
-1052
-01:04:29,520 --> 01:04:32,520
+
+
 The Aral Sea was fed by them.
 
-1053
-01:04:32,640 --> 01:04:35,280
+
+
 It used to be the fourth largest
 inland sea in the world.
 
-1054
-01:04:35,400 --> 01:04:38,400
+
+
 When I went there,
 I saw this strange sight
 
-1055
-01:04:38,520 --> 01:04:42,480
+
+
 of an enormous fishing fleet
 resting in the sand.
 
-1056
-01:04:43,040 --> 01:04:47,640
+
+
 This is the canal that the fishing
 industry desperately tried to build
 
-1057
-01:04:47,760 --> 01:04:49,720
+
+
 to get to the receding shoreline.
 
-1058
-01:04:50,000 --> 01:04:52,680
+
+
 Making mistakes in our dealings
 with nature can have
 
-1059
-01:04:52,800 --> 01:04:54,440
+
+
 bigger consequences now
 
-1060
-01:04:54,520 --> 01:04:58,320
+
+
 because our technologies are often
 bigger than the human scale.
 
-1061
-01:04:58,600 --> 01:05:02,200
+
+
 When you put them all together,
 they've made us a force of nature.
 
-1062
-01:05:02,480 --> 01:05:04,880
+
+
 And this is also a political issue.
 
-1063
-01:05:05,120 --> 01:05:07,440
+
+
 This is a computer map of the world
 
-1064
-01:05:07,560 --> 01:05:11,880
+
+
 that distorts to show the relative
 contributions to global warming.
 
-1065
-01:05:12,360 --> 01:05:15,920
+
+
 In our country, we are responsible
 for more than all of South America,
 
-1066
-01:05:16,040 --> 01:05:18,400
+
+
 all of Africa, all of the Middle East,
 
-1067
-01:05:18,520 --> 01:05:21,400
+
+
 all of Asia, all combined.
 
-1068
-01:05:21,840 --> 01:05:26,440
+
+
 The per capita average in Africa, India,
 China, Japan, EU, Russia.
 
-1069
-01:05:26,520 --> 01:05:29,640
+
+
 There's where we are.
 Way, way above everyone else.
 
-1070
-01:05:29,720 --> 01:05:33,440
+
+
 If you take population into account,
 it's a little bit different.
 
-1071
-01:05:33,560 --> 01:05:36,480
+
+
 China's playing a bigger role,
 so is Europe.
 
-1072
-01:05:36,560 --> 01:05:40,200
+
+
 But we are still by all odds
 the largest contributor.
 
-1073
-01:05:40,440 --> 01:05:43,840
+
+
 And so it is up to us to look
 at how we think about it,
 
-1074
-01:05:43,920 --> 01:05:46,480
+
+
 because our way of thinking
 is the third and final factor
 
-1075
-01:05:46,600 --> 01:05:49,080
+
+
 that transforms our relationship
 to the Earth.
 
-1076
-01:05:49,240 --> 01:05:53,440
+
+
 If a frog jumps into
 a pot of boiling water,
 
-1077
-01:05:53,520 --> 01:05:56,800
+
+
 it jumps right out again
 because it senses the danger.
 
-1078
-01:05:56,880 --> 01:05:59,040
+
+
 But the very same frog,
 
-1079
-01:05:59,120 --> 01:06:02,360
+
+
 if it jumps into a pot of lukewarm water
 
-1080
-01:06:02,480 --> 01:06:04,720
+
+
 that is slowly brought to a boil,
 
-1081
-01:06:04,840 --> 01:06:07,840
+
+
 will just sit there and it won't move.
 
-1082
-01:06:07,920 --> 01:06:12,160
+
+
 It'll just sit there, even as the
 temperature continues to go up and up.
 
-1083
-01:06:12,240 --> 01:06:16,720
+
+
 It'll stay there, until...
 Until it's rescued.
 
-1084
-01:06:17,680 --> 01:06:19,920
+
+
 It's important to rescue the frog.
 
-1085
-01:06:23,560 --> 01:06:25,080
+
+
 But the point is this.
 
-1086
-01:06:25,720 --> 01:06:29,160
+
+
 Our collective nervous system is like
 that frog's nervous system.
 
-1087
-01:06:29,240 --> 01:06:33,480
+
+
 It takes a sudden jolt sometimes
 before we become aware of a danger.
 
-1088
-01:06:33,560 --> 01:06:36,640
+
+
 If it seems gradual,
 even if it really is happening quickly,
 
-1089
-01:06:36,720 --> 01:06:41,120
+
+
 we're capable of just sitting there
 and not responding.
 
-1090
-01:06:41,200 --> 01:06:41,840
+
+
 And not reacting.
 
-1091
-01:06:47,720 --> 01:06:50,440
+
+
 <i>I don't remember a time
 when I was a kid</i>
 
-1092
-01:06:51,480 --> 01:06:55,440
+
+
 <i>when summertime didn't mean
 working with tobacco.</i>
 
-1093
-01:06:55,560 --> 01:06:58,880
+
+
 <i>It was just... I used to love it.
 It was during that period</i>
 
-1094
-01:06:58,960 --> 01:07:02,600
+
+
 <i>when working with the guys on the farm</i>
 
-1095
-01:07:02,720 --> 01:07:04,480
+
+
 <i>seemed like fun to me.</i>
 
-1096
-01:07:05,800 --> 01:07:10,280
+
+
 Starting in 1964,
 with the Surgeon General's report,
 
-1097
-01:07:11,880 --> 01:07:14,160
+
+
 the evidence was laid out
 on the connection
 
-1098
-01:07:14,280 --> 01:07:18,240
+
+
 between smoking cigarettes
 and lung cancer.
 
-1099
-01:07:21,480 --> 01:07:23,360
+
+
 <i>We kept growing tobacco.</i>
 
-1100
-01:07:27,200 --> 01:07:31,360
+
+
 <i>Nancy was almost 10 years
 older than me,</i>
 
-1101
-01:07:31,440 --> 01:07:34,000
+
+
 <i>and there were only the two of us.</i>
 
-1102
-01:07:35,920 --> 01:07:38,160
+
+
 <i>She was my protector</i>
 
-1103
-01:07:38,280 --> 01:07:41,680
+
+
 <i>and my friend at the same time.</i>
 
-1104
-01:07:44,000 --> 01:07:47,000
+
+
 <i>She started smoking
 when she was a teenager</i>
 
-1105
-01:07:47,720 --> 01:07:50,920
+
+
 <i>and never stopped.</i>
 
-1106
-01:07:52,720 --> 01:07:54,600
+
+
 <i>She died of lung cancer.</i>
 
-1107
-01:07:58,600 --> 01:08:01,080
+
+
 <i>That's one of the ways
 you don't want to die.</i>
 
-1108
-01:08:04,200 --> 01:08:07,320
+
+
 <i>The idea that we had been</i>
 
-1109
-01:08:08,960 --> 01:08:11,280
+
+
 <i>part of that economic pattern</i>
 
-1110
-01:08:11,400 --> 01:08:14,120
+
+
 <i>that produced the cigarettes,</i>
 
-1111
-01:08:14,240 --> 01:08:17,080
+
+
 <i>that produced the cancer,</i>
 
-1112
-01:08:17,360 --> 01:08:18,760
+
+
 <i>it was so...</i>
 
-1113
-01:08:20,120 --> 01:08:22,920
+
+
 <i>It was so painful on so many levels.</i>
 
-1114
-01:08:24,760 --> 01:08:29,360
+
+
 <i>My father, he had grown tobacco
 all his life. He stopped.</i>
 
-1115
-01:08:31,880 --> 01:08:35,080
+
+
 <i>Whatever explanation</i>
 
-1116
-01:08:35,720 --> 01:08:39,200
+
+
 <i>had seemed to make sense in the past,
 just didn't cut it anymore.</i>
 
-1117
-01:08:40,840 --> 01:08:42,320
+
+
 <i>He stopped it.</i>
 
-1118
-01:08:49,600 --> 01:08:54,000
+
+
 <i>It's just human nature to take time
 to connect the dots. I know that.</i>
 
-1119
-01:08:55,160 --> 01:08:59,880
+
+
 <i>But I also know that there can be
 a day of reckoning</i>
 
-1120
-01:09:00,560 --> 01:09:04,840
+
+
 <i>when you wish you had connected
 the dots more quickly.</i>
 
-1121
-01:09:12,840 --> 01:09:16,120
+
+
 There are three misconceptions in
 particular that bedevil our thinking.
 
-1122
-01:09:16,200 --> 01:09:17,960
+
+
 First, isn't there a disagreement
 among scientists
 
-1123
-01:09:18,080 --> 01:09:20,400
+
+
 about whether the problem
 is real or not?
 
-1124
-01:09:20,520 --> 01:09:22,640
+
+
 Actually, not really.
 
-1125
-01:09:23,080 --> 01:09:26,560
+
+
 There was a massive study
 of every scientific article
 
-1126
-01:09:26,680 --> 01:09:31,120
+
+
 in a peer-reviewed journal written
 on global warming for the last 10 years.
 
-1127
-01:09:31,480 --> 01:09:35,560
+
+
 And they took a big sample of 10%,
 928 articles.
 
-1128
-01:09:36,200 --> 01:09:40,120
+
+
 And you know the number of those that
 disagreed with the scientific consensus
 
-1129
-01:09:40,200 --> 01:09:43,600
+
+
 that we're causing global warming
 and that it's a serious problem?
 
-1130
-01:09:43,720 --> 01:09:45,560
+
+
 Out of the 928, zero.
 
-1131
-01:09:47,080 --> 01:09:50,320
+
+
 The misconception that there's
 disagreement about the science
 
-1132
-01:09:50,600 --> 01:09:54,680
+
+
 has been deliberately created
 by a relatively small group of people.
 
-1133
-01:09:54,920 --> 01:09:57,440
+
+
 One of their internal memos leaked.
 
-1134
-01:09:57,560 --> 01:10:00,400
+
+
 And here's what it said,
 according to the press.
 
-1135
-01:10:00,520 --> 01:10:04,080
+
+
 Their objective is to reposition
 global warming
 
-1136
-01:10:04,200 --> 01:10:06,080
+
+
 as theory rather than fact.
 
-1137
-01:10:07,200 --> 01:10:08,440
+
+
 This has happened before.
 
-1138
-01:10:11,240 --> 01:10:13,760
+
+
 After the Surgeon General's report.
 
-1139
-01:10:15,080 --> 01:10:17,760
+
+
 One of their memos leaked
 40 years ago. Here's what they said.
 
-1140
-01:10:17,840 --> 01:10:19,360
+
+
 "Doubt is our product,
 
-1141
-01:10:19,920 --> 01:10:24,520
+
+
 "since it is the best means of creating
 a controversy in the public's mind."
 
-1142
-01:10:25,320 --> 01:10:26,880
+
+
 But have they succeeded?
 
-1143
-01:10:27,080 --> 01:10:30,840
+
+
 You'll remember that there were
 928 peer-reviewed articles.
 
-1144
-01:10:30,960 --> 01:10:33,800
+
+
 Zero percent
 disagreed with the consensus.
 
-1145
-01:10:33,920 --> 01:10:37,280
+
+
 There was another study of all
 the articles in the popular press.
 
-1146
-01:10:37,440 --> 01:10:41,000
+
+
 Over the last 14 years,
 they looked at a sample of 636.
 
-1147
-01:10:41,120 --> 01:10:42,720
+
+
 More than half of them said,
 
-1148
-01:10:43,320 --> 01:10:47,120
+
+
 "Well, we're not sure. It could be
 a problem, may not be a problem."
 
-1149
-01:10:47,560 --> 01:10:49,920
+
+
 So no wonder people are confused.
 
-1150
-01:10:59,080 --> 01:11:00,120
+
+
 Hey.
 
-1151
-01:11:01,040 --> 01:11:02,400
+
+
 What did you find out?
 
-1152
-01:11:04,800 --> 01:11:06,320
+
+
 Working for who?
 
-1153
-01:11:09,280 --> 01:11:10,600
+
+
 Chief of Staff?
 
-1154
-01:11:10,760 --> 01:11:11,680
+
+
 I'm gonna...
 
-1155
-01:11:11,760 --> 01:11:13,960
+
+
 That's the White House
 environment office.
 
-1156
-01:11:14,280 --> 01:11:18,920
+
+
 American Petroleum Institute. It's fair
 to say that's the oil and gas lobby.
 
-1157
-01:11:20,160 --> 01:11:21,560
+
+
 Is that fair?
 
-1158
-01:11:21,920 --> 01:11:23,320
+
+
 Totally fair.
 
-1159
-01:11:24,560 --> 01:11:28,480
+
+
 Do a little bit more and see
 who his clients were.
 
-1160
-01:11:29,320 --> 01:11:31,840
+
+
 <i>So he was defending
 the Exxon Valdez thing.</i>
 
-1161
-01:11:33,440 --> 01:11:35,160
+
+
 Uh, very. Thank you.
 
-1162
-01:11:37,680 --> 01:11:41,520
+
+
 <i>Scientists have
 an independent obligation</i>
 
-1163
-01:11:42,280 --> 01:11:45,480
+
+
 <i>to respect and present the truth
 as they see it.</i>
 
-1164
-01:11:47,880 --> 01:11:52,360
+
+
 <i>Why do you directly contradict yourself</i>
 
-1165
-01:11:53,160 --> 01:11:57,040
+
+
 <i>in the testimony you're giving
 about this scientific question?</i>
 
-1166
-01:11:57,160 --> 01:12:00,640
+
+
 <i>The last paragraph in that section
 was not a paragraph which I wrote.</i>
 
-1167
-01:12:00,760 --> 01:12:02,560
+
+
 <i>That was added to my testimony.</i>
 
-1168
-01:12:02,640 --> 01:12:06,080
+
+
 <i>If they force you to change
 a scientific conclusion,</i>
 
-1169
-01:12:06,160 --> 01:12:09,120
+
+
 <i>it's a form of science fraud by them.</i>
 
-1170
-01:12:09,240 --> 01:12:12,360
+
+
 <i>You know, in the Soviet Union,
 ordering scientists</i>
 
-1171
-01:12:12,440 --> 01:12:16,120
+
+
 <i>to change their studies to conform
 with the ideology...</i>
 
-1172
-01:12:20,480 --> 01:12:22,200
+
+
 <i>I've seen scientists</i>
 
-1173
-01:12:22,920 --> 01:12:25,720
+
+
 <i>who were persecuted,</i>
 
-1174
-01:12:26,760 --> 01:12:28,240
+
+
 <i>ridiculed,</i>
 
-1175
-01:12:29,000 --> 01:12:33,720
+
+
 <i>deprived of jobs, income,</i>
 
-1176
-01:12:35,360 --> 01:12:38,920
+
+
 <i>simply because the facts
 they discovered</i>
 
-1177
-01:12:39,040 --> 01:12:42,080
+
+
 <i>led them to an inconvenient truth</i>
 
-1178
-01:12:45,520 --> 01:12:47,840
+
+
 <i>that they insisted on telling.</i>
 
-1179
-01:12:51,520 --> 01:12:54,280
+
+
 <i>He worked for
 the American Petroleum Institute.</i>
 
-1180
-01:12:54,920 --> 01:12:56,640
+
+
 And in January of 2001,
 
-1181
-01:12:56,720 --> 01:13:00,320
+
+
 he was put by the president in charge
 of environmental policy.
 
-1182
-01:13:01,960 --> 01:13:04,560
+
+
 He received a memo from the EPA
 
-1183
-01:13:05,120 --> 01:13:08,200
+
+
 that warned about global warming
 
-1184
-01:13:08,520 --> 01:13:11,640
+
+
 and he edited. He has no
 scientific training whatsoever.
 
-1185
-01:13:12,520 --> 01:13:15,240
+
+
 But he took it upon himself
 to overrule the scientist.
 
-1186
-01:13:15,360 --> 01:13:18,400
+
+
 I said, "I want to see
 what this guy's handwriting looks like."
 
-1187
-01:13:18,480 --> 01:13:22,120
+
+
 This is the memo from the EPA.
 These are his actual pen strokes.
 
-1188
-01:13:22,600 --> 01:13:25,920
+
+
 He says, "No, you can't say this.
 This is just speculation."
 
-1189
-01:13:26,280 --> 01:13:28,760
+
+
 This was embarrassing
 to the White House,
 
-1190
-01:13:28,840 --> 01:13:32,360
+
+
 so this fellow resigned a few days later.
 
-1191
-01:13:32,440 --> 01:13:36,240
+
+
 And the day after he resigned,
 he went to work for Exxon Mobil.
 
-1192
-01:13:37,640 --> 01:13:40,600
+
+
 You know, more than 100 years ago,
 Upton Sinclair wrote this.
 
-1193
-01:13:40,720 --> 01:13:43,480
+
+
 That it's difficult to get a man
 to understand something
 
-1194
-01:13:44,040 --> 01:13:48,040
+
+
 if his salary depends upon
 his not understanding it.
 
-1195
-01:13:54,960 --> 01:13:56,440
+
+
 The second misconception.
 
-1196
-01:13:56,520 --> 01:13:58,880
+
+
 Do we have to choose between
 the economy and the environment?
 
-1197
-01:13:58,960 --> 01:14:00,440
+
+
 This is a big one.
 
-1198
-01:14:00,520 --> 01:14:02,560
+
+
 Lot of people say we do.
 
-1199
-01:14:02,680 --> 01:14:05,760
+
+
 I was trying to convince
 the previous administration,
 
-1200
-01:14:05,840 --> 01:14:08,720
+
+
 the first Bush administration,
 to go to the Earth Summit.
 
-1201
-01:14:08,840 --> 01:14:10,800
+
+
 And they organized
 a big White House conference
 
-1202
-01:14:10,920 --> 01:14:12,680
+
+
 to say, "Oh, we're on top of this."
 
-1203
-01:14:12,760 --> 01:14:14,520
+
+
 And one of these view graphs
 caught my attention.
 
-1204
-01:14:14,600 --> 01:14:16,400
+
+
 And I want to talk to you about it
 for a minute.
 
-1205
-01:14:16,520 --> 01:14:19,920
+
+
 Now here is the choice
 that we have to make
 
-1206
-01:14:20,040 --> 01:14:21,640
+
+
 according to this group.
 
-1207
-01:14:21,920 --> 01:14:26,160
+
+
 We have here a scales that balances
 two different things.
 
-1208
-01:14:26,680 --> 01:14:29,800
+
+
 On one side, we have gold bars.
 
-1209
-01:14:33,680 --> 01:14:35,360
+
+
 Don't they look good?
 
-1210
-01:14:35,880 --> 01:14:38,640
+
+
 I'd just like to have
 some of those gold bars.
 
-1211
-01:14:41,480 --> 01:14:46,040
+
+
 On the other side of the scales,
 the entire planet.
 
-1212
-01:14:59,800 --> 01:15:03,040
+
+
 I think this is a false choice
 for two reasons.
 
-1213
-01:15:03,280 --> 01:15:06,840
+
+
 Number one, if we don't have a planet...
 
-1214
-01:15:10,200 --> 01:15:13,920
+
+
 The other reason is that
 if we do the right thing,
 
-1215
-01:15:14,040 --> 01:15:16,080
+
+
 then we're gonna create a lot of wealth
 
-1216
-01:15:16,200 --> 01:15:18,480
+
+
 - and we're gonna create a lot of jobs.
 - Yes.
 
-1217
-01:15:18,600 --> 01:15:21,640
+
+
 Because doing the right thing
 moves us forward.
 
-1218
-01:15:26,280 --> 01:15:30,440
+
+
 <i>I've probably given this slide show
 1,000 times.</i>
 
-1219
-01:15:36,040 --> 01:15:38,400
+
+
 <i>I would say, at least 1,000 times.</i>
 
-1220
-01:15:39,600 --> 01:15:42,800
+
+
 <i>Nashville to Knoxville
 to Aspen and Sundance.</i>
 
-1221
-01:15:42,920 --> 01:15:47,000
+
+
 <i>Los Angeles and San Francisco.
 Portland, Minneapolis.</i>
 
-1222
-01:15:47,520 --> 01:15:52,200
+
+
 <i>Boston, New Haven, London, Brussels,
 Stockholm, Helsinki,</i>
 
-1223
-01:15:52,320 --> 01:15:55,400
+
+
 <i>Vienna, Munich, Italy and Spain</i>
 
-1224
-01:15:55,480 --> 01:15:58,280
+
+
 <i>and China, South Korea, Japan.</i>
 
-1225
-01:16:01,280 --> 01:16:02,520
+
+
 Thank you.
 
-1226
-01:16:02,800 --> 01:16:06,520
+
+
 <i>I guess the thing I've spent more time
 on than anything else in this slide show</i>
 
-1227
-01:16:06,640 --> 01:16:09,000
+
+
 <i>is trying to identify</i>
 
-1228
-01:16:09,400 --> 01:16:12,480
+
+
 <i>all those things in people's minds</i>
 
-1229
-01:16:12,560 --> 01:16:17,240
+
+
 <i>that serve as obstacles
 to them understanding this.</i>
 
-1230
-01:16:19,280 --> 01:16:23,400
+
+
 <i>And whenever I feel like
 I've identified an obstacle,</i>
 
-1231
-01:16:23,480 --> 01:16:26,840
+
+
 <i>I try to take it apart, roll it away.
 Move it.</i>
 
-1232
-01:16:28,080 --> 01:16:30,080
+
+
 <i>Demolish it, blow it up.</i>
 
-1233
-01:16:38,120 --> 01:16:40,160
+
+
 <i>I set myself a goal.</i>
 
-1234
-01:16:42,600 --> 01:16:45,800
+
+
 <i>Communicate this real clearly.</i>
 
-1235
-01:16:46,960 --> 01:16:49,560
+
+
 <i>The only way I know to do it</i>
 
-1236
-01:16:50,480 --> 01:16:52,240
+
+
 <i>is city by city,</i>
 
-1237
-01:16:57,680 --> 01:16:59,360
+
+
 <i>person by person,</i>
 
-1238
-01:17:04,080 --> 01:17:06,000
+
+
 <i>family by family.</i>
 
-1239
-01:17:09,840 --> 01:17:11,120
+
+
 - Bye-bye. Thank you again.
 - Bye.
 
-1240
-01:17:11,760 --> 01:17:14,160
+
+
 <i>And I have faith that pretty soon</i>
 
-1241
-01:17:14,560 --> 01:17:16,720
+
+
 <i>enough minds are changed</i>
 
-1242
-01:17:17,920 --> 01:17:20,640
+
+
 <i>that we cross a threshold.</i>
 
-1243
-01:17:22,640 --> 01:17:23,880
+
+
 <i>Let me give you an example</i>
 
-1244
-01:17:23,960 --> 01:17:27,040
+
+
 of the wrong way to balance
 the economy and the environment.
 
-1245
-01:17:27,280 --> 01:17:29,520
+
+
 One part of this issue
 involves automobiles.
 
-1246
-01:17:29,640 --> 01:17:32,080
+
+
 Japan has mileage standards up here.
 
-1247
-01:17:32,200 --> 01:17:34,440
+
+
 Europe plans to pass Japan.
 
-1248
-01:17:34,640 --> 01:17:39,080
+
+
 Our allies in Australia and Canada
 are leaving us behind.
 
-1249
-01:17:39,360 --> 01:17:41,080
+
+
 Here is where we are.
 
-1250
-01:17:43,320 --> 01:17:44,640
+
+
 Now there's a reason for it.
 
-1251
-01:17:44,720 --> 01:17:48,400
+
+
 They say that we can't protect
 the environment too much
 
-1252
-01:17:48,520 --> 01:17:51,560
+
+
 without threatening the economy
 and threatening the automakers.
 
-1253
-01:17:51,680 --> 01:17:55,920
+
+
 Because automakers in China might
 come in and just steal all our markets.
 
-1254
-01:17:56,000 --> 01:18:00,560
+
+
 Well, here is where China's
 auto mileage standards are now.
 
-1255
-01:18:01,880 --> 01:18:02,920
+
+
 Way above ours.
 
-1256
-01:18:03,000 --> 01:18:05,520
+
+
 We can't sell our cars in China today
 
-1257
-01:18:06,040 --> 01:18:09,560
+
+
 because we don't meet
 the Chinese environmental standards.
 
-1258
-01:18:10,800 --> 01:18:13,640
+
+
 California has taken an initiative
 
-1259
-01:18:13,720 --> 01:18:17,800
+
+
 to have higher-mileage cars
 sold in California.
 
-1260
-01:18:17,960 --> 01:18:21,000
+
+
 Now the auto companies
 have sued California
 
-1261
-01:18:21,120 --> 01:18:23,480
+
+
 to prevent this law from taking effect
 
-1262
-01:18:23,600 --> 01:18:27,480
+
+
 because, as they point out,
 11 years from now
 
-1263
-01:18:27,600 --> 01:18:31,560
+
+
 this would mean that California
 would have to have cars for sale
 
-1264
-01:18:31,680 --> 01:18:34,400
+
+
 that are as efficient 11 years from now
 
-1265
-01:18:34,480 --> 01:18:36,200
+
+
 as China's are today.
 
-1266
-01:18:36,280 --> 01:18:39,600
+
+
 Clearly too onerous a provision
 to comply with.
 
-1267
-01:18:40,160 --> 01:18:42,560
+
+
 And is this helping
 our companies succeed?
 
-1268
-01:18:42,640 --> 01:18:45,800
+
+
 Well, actually, if you look at
 who's doing well in the world,
 
-1269
-01:18:45,920 --> 01:18:49,200
+
+
 it's the companies that are building
 more-efficient cars.
 
-1270
-01:18:49,520 --> 01:18:51,360
+
+
 And our companies are in deep trouble.
 
-1271
-01:18:52,200 --> 01:18:53,360
+
+
 Final misconception.
 
-1272
-01:18:53,480 --> 01:18:56,200
+
+
 If we accept that this problem is real,
 
-1273
-01:18:56,280 --> 01:18:58,760
+
+
 maybe it's just too big
 to do anything about.
 
-1274
-01:18:59,120 --> 01:19:02,960
+
+
 And, you know, there are a lot of people
 who go straight from denial
 
-1275
-01:19:03,080 --> 01:19:04,600
+
+
 to despair
 
-1276
-01:19:04,720 --> 01:19:07,560
+
+
 without pausing
 on the intermediate step
 
-1277
-01:19:07,680 --> 01:19:10,640
+
+
 of actually doing something
 about the problem.
 
-1278
-01:19:10,920 --> 01:19:14,480
+
+
 And that's what I'd like to finish with.
 The fact that we already know
 
-1279
-01:19:15,120 --> 01:19:19,120
+
+
 everything we need to know
 to effectively address this problem.
 
-1280
-01:19:19,440 --> 01:19:21,920
+
+
 We've got to do a lot of things,
 not just one.
 
-1281
-01:19:22,160 --> 01:19:25,000
+
+
 If we use more efficient
 
-1282
-01:19:25,080 --> 01:19:27,080
+
+
 electricity appliances,
 
-1283
-01:19:27,160 --> 01:19:30,760
+
+
 we can save this much off
 of the global warming pollution
 
-1284
-01:19:30,880 --> 01:19:33,760
+
+
 that would otherwise be
 put into the atmosphere.
 
-1285
-01:19:33,840 --> 01:19:36,840
+
+
 If we use other end-use efficiency,
 this much.
 
-1286
-01:19:36,960 --> 01:19:39,320
+
+
 If we have higher mileage cars,
 this much.
 
-1287
-01:19:39,440 --> 01:19:42,440
+
+
 And all these begin to add up.
 Other transport efficiency,
 
-1288
-01:19:42,520 --> 01:19:44,400
+
+
 renewable technology,
 
-1289
-01:19:44,480 --> 01:19:46,520
+
+
 carbon capture and sequestration.
 
-1290
-01:19:46,640 --> 01:19:49,800
+
+
 A big solution that you're gonna
 be hearing a lot more about.
 
-1291
-01:19:50,040 --> 01:19:51,560
+
+
 They all add up,
 
-1292
-01:19:51,640 --> 01:19:55,920
+
+
 and pretty soon we are below
 our 1970 emissions.
 
-1293
-01:19:56,920 --> 01:19:59,120
+
+
 We have everything we need,
 
-1294
-01:19:59,360 --> 01:20:02,160
+
+
 save perhaps political will.
 
-1295
-01:20:02,680 --> 01:20:06,600
+
+
 But you know what? In America,
 political will is a renewable resource.
 
-1296
-01:20:11,440 --> 01:20:13,160
+
+
 We have the ability to do this.
 
-1297
-01:20:13,720 --> 01:20:16,160
+
+
 <i>Each one of us is
 a cause of global warming,</i>
 
-1298
-01:20:16,240 --> 01:20:18,880
+
+
 <i>but each of us can make choices
 to change that.</i>
 
-1299
-01:20:18,960 --> 01:20:23,120
+
+
 <i>With the things we buy, the electricity
 we use, the cars we drive,</i>
 
-1300
-01:20:23,240 --> 01:20:27,120
+
+
 <i>we can make choices to bring
 our individual carbon emissions to zero.</i>
 
-1301
-01:20:27,400 --> 01:20:30,200
+
+
 The solutions are in our hands.
 
-1302
-01:20:30,320 --> 01:20:33,480
+
+
 We just have to have the determination
 to make them happen.
 
-1303
-01:20:33,600 --> 01:20:37,160
+
+
 Are we gonna be left behind
 as the rest of the world moves forward?
 
-1304
-01:20:37,240 --> 01:20:40,680
+
+
 All of these nations have ratified Kyoto.
 
-1305
-01:20:40,760 --> 01:20:45,520
+
+
 There are only two advanced nations
 in the world that have not ratified Kyoto,
 
-1306
-01:20:45,600 --> 01:20:49,400
+
+
 and we are one of them.
 The other is Australia.
 
-1307
-01:20:49,840 --> 01:20:52,840
+
+
 Luckily, several states
 are taking the initiative.
 
-1308
-01:20:52,960 --> 01:20:55,840
+
+
 The nine northeastern states
 have banded together
 
-1309
-01:20:55,920 --> 01:20:57,840
+
+
 on reducing CO2.
 
-1310
-01:20:58,560 --> 01:21:01,240
+
+
 California and Oregon are taking
 the initiative.
 
-1311
-01:21:01,360 --> 01:21:05,960
+
+
 Pennsylvania's exercising leadership
 on solar power and wind power.
 
-1312
-01:21:06,040 --> 01:21:09,640
+
+
 And US cities are
 stepping up to the plate.
 
-1313
-01:21:09,880 --> 01:21:12,680
+
+
 One after the other, we have seen
 
-1314
-01:21:14,000 --> 01:21:18,240
+
+
 all of these cities pledge
 to take on global warming.
 
-1315
-01:21:20,600 --> 01:21:23,120
+
+
 So what about the rest of us?
 
-1316
-01:21:24,040 --> 01:21:28,600
+
+
 Ultimately this question
 comes down to this.
 
-1317
-01:21:28,679 --> 01:21:30,960
+
+
 Are we capable
 
-1318
-01:21:31,080 --> 01:21:34,520
+
+
 of rising above ourselves
 and above histoy?
 
-1319
-01:21:34,600 --> 01:21:38,840
+
+
 Well, the record indicates
 that we do have that capacity.
 
-1320
-01:21:39,080 --> 01:21:41,440
+
+
 <i>We established freedom
 and self-determination</i>
 
-1321
-01:21:41,519 --> 01:21:44,600
+
+
 <i>in the United States and in France
 and then all over the world.</i>
 
-1322
-01:21:44,840 --> 01:21:48,280
+
+
 <i>The same year Lincoln freed America's
 slaves, Russia freed its serfs.</i>
 
-1323
-01:21:48,639 --> 01:21:52,760
+
+
 <i>Women earned the right to vote, first
 in New Zealand, then in Scandinavia</i>
 
-1324
-01:21:52,840 --> 01:21:54,400
+
+
 <i>and it spread from there.</i>
 
-1325
-01:21:54,480 --> 01:21:56,760
+
+
 <i>The entire world defeated fascism</i>
 
-1326
-01:21:56,840 --> 01:21:59,920
+
+
 <i>in both Europe and the Pacific,
 simultaneously.</i>
 
-1327
-01:22:00,000 --> 01:22:02,400
+
+
 <i>The moral force for non-violence</i>
 
-1328
-01:22:02,480 --> 01:22:05,320
+
+
 <i>triggered a revolution
 that spread to other countries.</i>
 
-1329
-01:22:05,640 --> 01:22:08,240
+
+
 <i>The world supported
 Nelson Mandela's victoy</i>
 
-1330
-01:22:08,319 --> 01:22:10,800
+
+
 <i>in tearing down the apartheid system.</i>
 
-1331
-01:22:10,960 --> 01:22:14,520
+
+
 <i>Scientists and doctors
 from many nations worked together</i>
 
-1332
-01:22:14,640 --> 01:22:18,040
+
+
 <i>to conquer fearsome diseases
 like smallpox and polio.</i>
 
-1333
-01:22:18,279 --> 01:22:22,600
+
+
 <i>And the two superpowers finally ended
 their deadly nuclear arms race.</i>
 
-1334
-01:22:23,000 --> 01:22:24,440
+
+
 <i>We landed on the Moon.</i>
 
-1335
-01:22:24,519 --> 01:22:27,960
+
+
 <i>The vey example of what's possible
 when we are at our best.</i>
 
-1336
-01:22:28,039 --> 01:22:30,920
+
+
 <i>We worked together
 to bring down communism.</i>
 
-1337
-01:22:31,039 --> 01:22:34,719
+
+
 <i>We have even solved
 a global environmental crisis before,</i>
 
-1338
-01:22:34,799 --> 01:22:37,479
+
+
 <i>the hole in the stratospheric
 ozone layer.</i>
 
-1339
-01:22:37,599 --> 01:22:40,039
+
+
 <i>This was said to be
 an impossible problem to solve</i>
 
-1340
-01:22:40,119 --> 01:22:42,639
+
+
 <i>because it's
 a global environmental challenge</i>
 
-1341
-01:22:42,759 --> 01:22:46,439
+
+
 requiring cooperation
 from every nation in the world.
 
-1342
-01:22:46,719 --> 01:22:48,559
+
+
 But we took it on.
 
-1343
-01:22:48,679 --> 01:22:51,879
+
+
 And the United States took the lead
 in phasing out the chemicals
 
-1344
-01:22:51,959 --> 01:22:53,759
+
+
 that caused that problem.
 
-1345
-01:22:53,839 --> 01:22:58,439
+
+
 So now we have to use our political
 processes in our democracy,
 
-1346
-01:22:58,519 --> 01:23:01,679
+
+
 and then decide to act together
 to solve those problems.
 
-1347
-01:23:01,839 --> 01:23:04,839
+
+
 But we have to have
 a different perspective on this one.
 
-1348
-01:23:05,279 --> 01:23:08,159
+
+
 It's different from any problem
 we have ever faced before.
 
-1349
-01:23:10,639 --> 01:23:15,159
+
+
 <i>You remember that home movie
 of the Earth spinning in space?</i>
 
-1350
-01:23:16,359 --> 01:23:20,399
+
+
 <i>One of those spacecraft continuing
 on out into the universe,</i>
 
-1351
-01:23:21,039 --> 01:23:24,479
+
+
 <i>when it got four billion miles
 out in space,</i>
 
-1352
-01:23:24,559 --> 01:23:28,119
+
+
 Carl Sagan said,
 "Let's take another picture of the Earth."
 
-1353
-01:23:29,399 --> 01:23:31,359
+
+
 You see that pale blue dot?
 
-1354
-01:23:32,439 --> 01:23:33,359
+
+
 That's us.
 
-1355
-01:23:33,959 --> 01:23:37,279
+
+
 Everything that has ever happened
 in all of human history
 
-1356
-01:23:37,839 --> 01:23:39,999
+
+
 has happened on that pixel.
 
-1357
-01:23:40,719 --> 01:23:43,039
+
+
 All the triumphs and all the tragedies.
 
-1358
-01:23:43,679 --> 01:23:45,879
+
+
 All the wars, all the famines.
 
-1359
-01:23:46,479 --> 01:23:48,319
+
+
 All the major advances.
 
-1360
-01:23:49,839 --> 01:23:51,439
+
+
 It's our only home.
 
-1361
-01:23:52,759 --> 01:23:56,559
+
+
 And that is what is at stake.
 
-1362
-01:23:57,199 --> 01:24:01,079
+
+
 Our ability to live
 
-1363
-01:24:01,519 --> 01:24:03,039
+
+
 on planet Earth,
 
-1364
-01:24:04,079 --> 01:24:06,319
+
+
 to have a future as a civilization.
 
-1365
-01:24:10,359 --> 01:24:13,279
+
+
 <i>I believe this is a moral issue.</i>
 
-1366
-01:24:13,999 --> 01:24:16,879
+
+
 <i>It is your time to seize this issue.</i>
 
-1367
-01:24:16,999 --> 01:24:20,999
+
+
 <i>It is our time to rise again,
 to secure our future.</i>
 
-1368
-01:24:31,799 --> 01:24:35,919
+
+
 <i>There's nothing that unusual
 about what I'm doing with this.</i>
 
-1369
-01:24:37,519 --> 01:24:41,119
+
+
 <i>What is unusual is that
 I had the privilege to be shown it</i>
 
-1370
-01:24:41,199 --> 01:24:42,759
+
+
 <i>as a young man.</i>
 
-1371
-01:24:44,399 --> 01:24:46,799
+
+
 <i>Ladies and gentlemen, Mr. Al Gore.</i>
 
-1372
-01:24:47,519 --> 01:24:51,559
+
+
 <i>It's almost as if a window was opened
 through which</i>
 
-1373
-01:24:51,799 --> 01:24:55,479
+
+
 <i>the future was very clearly visible.</i>
 
-1374
-01:24:56,879 --> 01:24:58,759
+
+
 <i>"See that?" he said, "See that?</i>
 
-1375
-01:25:00,919 --> 01:25:04,359
+
+
 <i>"That's the future in which you are
 going to live your life."</i>
 
-1376
-01:25:26,719 --> 01:25:28,599
+
+
 <i>Future generations</i>
 
-1377
-01:25:29,279 --> 01:25:32,319
+
+
 <i>may well have occasion
 to ask themselves,</i>
 
-1378
-01:25:32,719 --> 01:25:35,239
+
+
 <i>"What were our parents thinking?</i>
 
-1379
-01:25:35,319 --> 01:25:39,559
+
+
 <i>"Why didn't they wake up
 when they had a chance?"</i>
 
-1380
-01:25:43,719 --> 01:25:47,919
+
+
 <i>We have to hear that question
 from them, now.</i>
 

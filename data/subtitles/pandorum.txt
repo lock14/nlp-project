@@ -1,4543 +1,4543 @@
-1
-00:02:23,530 --> 00:02:26,057
+
+
 You're all that's left of us.
 
-2
-00:02:26,098 --> 00:02:29,924
+
+
 Good luck.
 God bless.
 
-3
-00:02:29,963 --> 00:02:32,562
+
+
 And Godspeed.
 
-4
-00:05:23,668 --> 00:05:25,995
+
+
 Bower.
 
-5
-00:05:50,362 --> 00:05:52,060
+
+
 Bower.
 
-6
-00:06:13,769 --> 00:06:17,324
+
+
 "In the event
 of mild memory loss
 
-7
-00:06:17,365 --> 00:06:22,060
+
+
 resulting from
 extended hypersleep..."
 
-8
-00:06:54,098 --> 00:06:56,115
+
+
 Lieutenant!
 
-9
-00:06:57,134 --> 00:06:58,893
+
+
 Lieutenant Payton!
 
-10
-00:08:16,723 --> 00:08:19,322
+
+
 Hey. Hey.
 
-11
-00:08:27,134 --> 00:08:29,651
+
+
 -Who are you?
 -I'm Bower.
 
-12
-00:08:29,692 --> 00:08:32,129
+
+
 Corporal Bower, sir.
 
-13
-00:08:32,159 --> 00:08:34,717
+
+
 Bower?
 Bower?
 
-14
-00:08:34,768 --> 00:08:37,253
+
+
 You're waking
 from extended hypersleep.
 
-15
-00:08:37,293 --> 00:08:40,091
+
+
 -Bower?
 -This is disorientation.
 
-16
-00:08:40,130 --> 00:08:42,188
+
+
 Could you get that
 fucking light out of my eyes?
 
-17
-00:08:42,229 --> 00:08:43,528
+
+
 Sorry, sir.
 
-18
-00:08:45,395 --> 00:08:46,984
+
+
 Where are we?
 
-19
-00:08:47,033 --> 00:08:49,022
+
+
 Aboard the Elysium.
 
-20
-00:08:50,561 --> 00:08:53,028
+
+
 The Elysium?
 
-21
-00:08:53,058 --> 00:08:55,966
+
+
 Where are we?
 
-22
-00:08:55,995 --> 00:08:58,253
+
+
 I don't know.
 
-23
-00:08:58,293 --> 00:09:00,630
+
+
 Where's the rest of the crew?
 
-24
-00:09:02,328 --> 00:09:03,918
+
+
 Is it our shift?
 
-25
-00:09:03,967 --> 00:09:06,724
+
+
 -Our rotation?
 -I believe so.
 
-26
-00:09:06,764 --> 00:09:08,892
+
+
 Aren't they supposed
 to be here to wake us up?
 
-27
-00:09:08,932 --> 00:09:10,759
+
+
 I don't know.
 
-28
-00:09:15,066 --> 00:09:17,322
+
+
 Hit the lights, will you?
 
-29
-00:09:19,131 --> 00:09:21,719
+
+
 There's a problem
 with the power, sir.
 
-30
-00:09:24,767 --> 00:09:26,355
+
+
 Who woke you up?
 
-31
-00:09:26,394 --> 00:09:28,692
+
+
 It had to have been
 the flight computer.
 
-32
-00:09:28,732 --> 00:09:31,321
+
+
 There's no one here
 except us.
 
-33
-00:09:31,360 --> 00:09:33,846
+
+
 It's cold.
 
-34
-00:09:33,897 --> 00:09:36,913
+
+
 I've been awake for over an hour
 and I still can't remember anything.
 
-35
-00:09:39,061 --> 00:09:41,528
+
+
 The last time I crawled out
 of a hyperbunk
 
-36
-00:09:41,558 --> 00:09:44,226
+
+
 it took me quite a while
 to get it all back.
 
-37
-00:09:44,267 --> 00:09:46,724
+
+
 What was your...
 
-38
-00:09:46,764 --> 00:09:48,692
+
+
 what was your last flight, sir?
 
-39
-00:09:48,732 --> 00:09:50,691
+
+
 I don't know.
 
-40
-00:09:50,730 --> 00:09:52,698
+
+
 Sir, do you even know
 where we're going?
 
-41
-00:09:52,729 --> 00:09:55,596
+
+
 I remember the training,
 
-42
-00:09:55,625 --> 00:09:58,961
+
+
 but not the destination,
 the mission.
 
-43
-00:09:58,991 --> 00:10:01,188
+
+
 I figured you'd tell me.
 
-44
-00:10:01,229 --> 00:10:02,717
+
+
 If this really is our ship,
 
-45
-00:10:02,758 --> 00:10:04,855
+
+
 then this room should
 be locked into position
 
-46
-00:10:04,895 --> 00:10:07,982
+
+
 and behind that door
 should be the bridge.
 
-47
-00:10:08,033 --> 00:10:10,191
+
+
 Jesus.
 
-48
-00:10:10,230 --> 00:10:12,288
+
+
 Somebody was trying to get out.
 
-49
-00:10:18,092 --> 00:10:20,529
+
+
 Lieutenant.
 
-50
-00:10:20,559 --> 00:10:22,998
+
+
 None of the activators are working.
 
-51
-00:10:23,028 --> 00:10:24,326
+
+
 Yeah, it figures.
 
-52
-00:10:25,764 --> 00:10:27,883
+
+
 Without unified threading
 we can't connect.
 
-53
-00:10:27,932 --> 00:10:29,691
+
+
 Hold on here.
 
-54
-00:10:29,730 --> 00:10:32,129
+
+
 We can at least
 get this station to work.
 
-55
-00:10:41,928 --> 00:10:44,395
+
+
 I didn't even think of that.
 
-56
-00:10:46,724 --> 00:10:49,162
+
+
 All right. Jesus.
 
-57
-00:10:51,700 --> 00:10:55,216
+
+
 Lieutenant Payton on the com.
 Anybody copy?
 
-58
-00:10:57,232 --> 00:11:00,519
+
+
 This is Lieutenant Payton
 of flight team...
 
-59
-00:11:02,197 --> 00:11:04,355
+
+
 Shit.
 
-60
-00:11:04,395 --> 00:11:06,413
+
+
 -5
 -5.
 -How do you know that?
 
-61
-00:11:11,259 --> 00:11:13,886
+
+
 This is Lieutenant Payton
 of flight team 5.
 
-62
-00:11:13,927 --> 00:11:16,154
+
+
 Anybody copy?
 
-63
-00:11:16,195 --> 00:11:19,130
+
+
 Anyone respond.
 
-64
-00:11:20,730 --> 00:11:22,658
+
+
 This is Lieutenant Payton
 of flight team 5.
 
-65
-00:11:22,697 --> 00:11:24,784
+
+
 Anybody awake up there?
 
-66
-00:11:24,825 --> 00:11:27,423
+
+
 Team 4 is supposed
 to be here for flight rotation.
 
-67
-00:11:27,462 --> 00:11:29,150
+
+
 Where could they be?
 
-68
-00:11:30,830 --> 00:11:32,687
+
+
 Maybe they couldn't get to us.
 
-69
-00:11:36,125 --> 00:11:38,062
+
+
 Where did he go?
 
-70
-00:11:46,364 --> 00:11:50,520
+
+
 Power systems must be free floating
 between uncoupled circuits,
 
-71
-00:11:50,559 --> 00:11:53,216
+
+
 or something the override grid
 won't even lock in.
 
-72
-00:11:53,256 --> 00:11:54,745
+
+
 What do you think?
 
-73
-00:11:58,561 --> 00:12:00,220
+
+
 Somebody's up there.
 
-74
-00:12:02,797 --> 00:12:05,554
+
+
 Uh, it's ventilation.
 
-75
-00:12:05,595 --> 00:12:08,081
+
+
 The system keeps rebooting
 after each surge.
 
-76
-00:12:08,131 --> 00:12:09,421
+
+
 That could be anything.
 
-77
-00:12:09,461 --> 00:12:13,397
+
+
 Listen, I think we should
 get out of here.
 
-78
-00:12:13,427 --> 00:12:16,585
+
+
 I'd rather be up and out
 than stuck in the trunk, wouldn't you?
 
-79
-00:12:17,692 --> 00:12:18,889
+
+
 Test test.
 Test test.
 
-80
-00:12:18,929 --> 00:12:21,327
+
+
 Copy.
 
-81
-00:12:24,865 --> 00:12:26,053
+
+
 Lift me up.
 
-82
-00:12:33,126 --> 00:12:34,926
+
+
 Our 2nd lieutenant must
 have come through here.
 
-83
-00:12:34,966 --> 00:12:37,153
+
+
 It's the only way.
 
-84
-00:12:40,500 --> 00:12:41,888
+
+
 It's fucking dark in here.
 
-85
-00:12:41,927 --> 00:12:43,895
+
+
 Don't worry.
 Just take the first way out.
 
-86
-00:12:43,926 --> 00:12:47,121
+
+
 I'll guide you back here to open
 the doors from the outside.
 
-87
-00:12:51,198 --> 00:12:53,057
+
+
 How are we doing?
 
-88
-00:12:53,096 --> 00:12:54,884
+
+
 See anything?
 
-89
-00:12:54,924 --> 00:12:56,553
+
+
 Nothing yet.
 
-90
-00:12:56,594 --> 00:12:59,529
+
+
 Not a single vent opening
 or anything.
 
-91
-00:12:59,559 --> 00:13:02,288
+
+
 What about on your end?
 
-92
-00:13:03,796 --> 00:13:07,163
+
+
 Power surges keep happening
 in longer increments just like you said.
 
-93
-00:13:07,192 --> 00:13:09,591
+
+
 Reactor timing is offset in the core.
 
-94
-00:13:09,630 --> 00:13:13,456
+
+
 It's trying to reconnect.
 
-95
-00:13:13,496 --> 00:13:15,394
+
+
 But it won't until it's reset.
 
-96
-00:13:15,423 --> 00:13:17,523
+
+
 How do you know that?
 
-97
-00:13:19,429 --> 00:13:22,517
+
+
 I don't know.
 I can't even remember my... Jesus Christ!
 
-98
-00:13:25,463 --> 00:13:28,760
+
+
 But I know everything there is
 to know about that damn reactor.
 
-99
-00:13:28,791 --> 00:13:31,588
+
+
 That's the training talking.
 
-100
-00:13:31,629 --> 00:13:33,216
+
+
 You must be our technical engineer.
 
-101
-00:13:40,928 --> 00:13:42,517
+
+
 Found an intersection.
 
-102
-00:13:42,556 --> 00:13:44,994
+
+
 Copy that.
 Anything look promising?
 
-103
-00:13:45,024 --> 00:13:47,721
+
+
 A whole lot of the same...
 nothing.
 
-104
-00:14:01,057 --> 00:14:03,586
+
+
 -Taking a left. Make a note.
 -Left it is.
 
-105
-00:14:19,889 --> 00:14:21,327
+
+
 Payton.
 
-106
-00:14:28,461 --> 00:14:30,889
+
+
 Payton!
 Payton, do you copy?
 
-107
-00:14:30,928 --> 00:14:33,655
+
+
 I don't know if I'm going in circles.
 
-108
-00:14:34,825 --> 00:14:38,161
+
+
 And, um, I can't breathe.
 
-109
-00:14:38,191 --> 00:14:41,417
+
+
 Payton, do you copy?
 
-110
-00:14:41,456 --> 00:14:43,355
+
+
 I'm here. I'm here.
 
-111
-00:14:44,923 --> 00:14:47,921
+
+
 Easy now, easy. Breathe.
 Just listen to me.
 
-112
-00:14:47,961 --> 00:14:50,479
+
+
 -I just want to stand up.
 -Calm down.
 
-113
-00:14:50,528 --> 00:14:53,216
+
+
 -I can't breathe.
 -Stop it and listen to me.
 
-114
-00:14:53,255 --> 00:14:55,384
+
+
 -Now let's just get you back here.
 -Back?
 
-115
-00:14:55,423 --> 00:14:58,860
+
+
 Are you fucking kidding me?
 I can't even turn around.
 
-116
-00:14:58,889 --> 00:15:01,378
+
+
 Do you know
 how far I've gone, Payton?
 
-117
-00:15:01,427 --> 00:15:04,184
+
+
 -Listen to me.
 -I just want out of this fucking thing!
 
-118
-00:15:04,225 --> 00:15:07,421
+
+
 Put your mind somewhere else.
 
-119
-00:15:07,461 --> 00:15:10,149
+
+
 Like where?
 
-120
-00:15:10,198 --> 00:15:12,287
+
+
 This may not be
 the best time to tell you,
 
-121
-00:15:12,326 --> 00:15:13,985
+
+
 but I got the door open.
 
-122
-00:15:16,293 --> 00:15:18,620
+
+
 You fucking kidding me?
 
-123
-00:15:18,659 --> 00:15:21,596
+
+
 Yeah, I'm kidding you.
 
-124
-00:15:24,963 --> 00:15:27,552
+
+
 You see?
 Now that's not so bad.
 
-125
-00:15:27,591 --> 00:15:30,578
+
+
 We're gonna get you through this.
 We're gonna figure this out together.
 
-126
-00:15:30,629 --> 00:15:32,645
+
+
 -You hear me?
 -Uh-huh.
 
-127
-00:15:32,696 --> 00:15:34,455
+
+
 You spent eight years
 in the hyperbunk.
 
-128
-00:15:34,495 --> 00:15:36,751
+
+
 A couple of more minutes
 in a shaft won't kill you.
 
-129
-00:15:36,792 --> 00:15:37,990
+
+
 Eight years?
 
-130
-00:15:38,030 --> 00:15:41,147
+
+
 I do remember two years
 being our duty rotation.
 
-131
-00:15:41,197 --> 00:15:44,783
+
+
 If we're team 5, that means
 we've been out for eight years.
 
-132
-00:15:44,823 --> 00:15:47,351
+
+
 I don't think
 you're here by default.
 
-133
-00:15:47,392 --> 00:15:50,418
+
+
 You were a select pick.
 We all were.
 
-134
-00:15:50,459 --> 00:15:52,927
+
+
 This was something special.
 
-135
-00:15:54,894 --> 00:15:56,193
+
+
 Someone's been through here.
 
-136
-00:15:58,331 --> 00:16:00,587
+
+
 -Wait a second.
 -What's wrong?
 
-137
-00:16:02,596 --> 00:16:05,523
+
+
 I'm at an angle.
 Oh shit, I'm at an angle.
 
-138
-00:16:05,562 --> 00:16:06,851
+
+
 I'm at an angle!
 
-139
-00:16:10,427 --> 00:16:13,395
+
+
 Bower, what happened?
 
-140
-00:16:18,030 --> 00:16:20,217
+
+
 What is it?
 
-141
-00:16:20,258 --> 00:16:23,196
+
+
 Bower, are you hurt?
 
-142
-00:16:31,657 --> 00:16:33,754
+
+
 Bower, what happened?
 
-143
-00:16:36,222 --> 00:16:38,321
+
+
 I can hear you breathing.
 Are you all right?
 
-144
-00:17:12,395 --> 00:17:14,913
+
+
 Can you hear me?
 
-145
-00:17:22,195 --> 00:17:25,751
+
+
 Bower, are you all right?
 
-146
-00:17:27,890 --> 00:17:30,117
+
+
 I've... I've found Cooper.
 
-147
-00:17:30,157 --> 00:17:33,125
+
+
 He's dead.
 I'm in a boot locker.
 
-148
-00:17:36,991 --> 00:17:39,220
+
+
 Bower?
 
-149
-00:17:41,096 --> 00:17:42,256
+
+
 You all right?
 
-150
-00:17:47,031 --> 00:17:50,219
+
+
 Make that an overhead compartment.
 
-151
-00:17:50,259 --> 00:17:52,785
+
+
 Payton, I got out.
 
-152
-00:17:54,792 --> 00:17:58,349
+
+
 Payton?
 
-153
-00:17:58,390 --> 00:18:00,326
+
+
 Bower, do you hear me?
 
-154
-00:18:00,356 --> 00:18:02,296
+
+
 Do you read?
 
-155
-00:18:15,492 --> 00:18:17,521
+
+
 Payton, are you there?
 
-156
-00:18:17,561 --> 00:18:19,856
+
+
 Payton, can you hear me?
 
-157
-00:18:39,329 --> 00:18:41,416
+
+
 Payton, do you copy?
 
-158
-00:18:44,564 --> 00:18:46,891
+
+
 Payton?
 
-159
-00:18:46,931 --> 00:18:49,357
+
+
 Corporal, can you hear me?
 
-160
-00:18:51,726 --> 00:18:53,624
+
+
 Corporal, can you hear me?
 
-161
-00:19:17,290 --> 00:19:19,058
+
+
 Hey.
 
-162
-00:19:19,088 --> 00:19:21,615
+
+
 Hey, I need to talk to you!
 
-163
-00:19:21,655 --> 00:19:23,753
+
+
 Wait! Stop!
 
-164
-00:19:30,127 --> 00:19:32,256
+
+
 Don't run again, okay?
 
-165
-00:19:32,296 --> 00:19:35,282
+
+
 I don't care if you were
 stealing or anything.
 
-166
-00:19:37,891 --> 00:19:40,218
+
+
 I just want to ask you
 a couple questions.
 
-167
-00:19:43,153 --> 00:19:45,491
+
+
 How are you awake?
 
-168
-00:19:50,856 --> 00:19:52,345
+
+
 Hello?
 
-169
-00:19:53,794 --> 00:19:55,852
+
+
 Hello!
 
-170
-00:19:55,892 --> 00:19:58,450
+
+
 What, are you fucking deaf?
 
-171
-00:20:02,724 --> 00:20:03,983
+
+
 Hello?
 
-172
-00:20:05,422 --> 00:20:07,391
+
+
 Jesus!
 
-173
-00:20:37,630 --> 00:20:40,317
+
+
 What?
 
-174
-00:20:44,222 --> 00:20:45,810
+
+
 Don't move.
 
-175
-00:20:47,029 --> 00:20:50,856
+
+
 Wait. Wait a second.
 I'm with the flight crew.
 
-176
-00:20:53,493 --> 00:20:55,123
+
+
 Don't you move.
 
-177
-00:20:55,163 --> 00:20:57,450
+
+
 Really, I'm part of the flight crew.
 
-178
-00:21:00,087 --> 00:21:02,115
+
+
 -Take them off.
 -What?
 
-179
-00:21:02,154 --> 00:21:04,422
+
+
 Shoes.
 
-180
-00:21:04,461 --> 00:21:06,859
+
+
 I'll gut your ass.
 
-181
-00:22:34,063 --> 00:22:35,391
+
+
 What the?
 
-182
-00:23:22,452 --> 00:23:24,051
+
+
 Bower, do you read?
 
-183
-00:23:53,292 --> 00:23:55,121
+
+
 God damn it, answer me.
 
-184
-00:24:07,659 --> 00:24:09,457
+
+
 Bower, do you hear me?
 
-185
-00:24:10,756 --> 00:24:12,854
+
+
 Do you read?
 
-186
-00:24:14,362 --> 00:24:15,951
+
+
 You are not hearing me.
 
-187
-00:24:15,990 --> 00:24:19,047
+
+
 There's no procedure for this.
 They can't write a book for this.
 
-188
-00:24:19,086 --> 00:24:21,555
+
+
 After what I just saw, procedure
 just went out the fucking window.
 
-189
-00:24:21,595 --> 00:24:23,551
+
+
 Listen, I need you to calm down.
 
-190
-00:24:23,592 --> 00:24:26,150
+
+
 You're all we've got out there
 if we're gonna figure this out.
 
-191
-00:24:26,190 --> 00:24:28,416
+
+
 Let's get back to these...
 these other guys.
 
-192
-00:24:28,457 --> 00:24:31,683
+
+
 Guys?
 Those weren't guys.
 
-193
-00:24:31,723 --> 00:24:34,192
+
+
 They were hunting.
 
-194
-00:24:34,221 --> 00:24:37,588
+
+
 They... they took Cooper's body.
 
-195
-00:24:37,628 --> 00:24:40,355
+
+
 Just like a fucking pack of...
 
-196
-00:24:41,954 --> 00:24:44,622
+
+
 They didn't seem human.
 
-197
-00:24:44,662 --> 00:24:48,106
+
+
 We have to try
 and contact the bridge.
 
-198
-00:24:48,156 --> 00:24:51,614
+
+
 You're assuming that there
 is someone on the bridge.
 
-199
-00:24:51,653 --> 00:24:53,951
+
+
 There has to be.
 
-200
-00:24:53,991 --> 00:24:55,579
+
+
 We can't be alone in this.
 
-201
-00:24:55,619 --> 00:24:57,679
+
+
 Well, alone or not,
 
-202
-00:24:57,729 --> 00:25:00,215
+
+
 we can't assume help will be coming.
 
-203
-00:25:01,894 --> 00:25:05,849
+
+
 Out here there is no rescue
 and there is no turning around.
 
-204
-00:25:05,890 --> 00:25:09,086
+
+
 I don't think this thing
 was even built to return.
 
-205
-00:25:09,126 --> 00:25:10,556
+
+
 What are you talking about?
 
-206
-00:25:10,596 --> 00:25:13,551
+
+
 I'm saying that this
 is no ordinary transport.
 
-207
-00:25:13,592 --> 00:25:15,990
+
+
 We're not out on the belt
 collecting data.
 
-208
-00:25:16,019 --> 00:25:18,616
+
+
 We're not hauling cargo.
 
-209
-00:25:18,656 --> 00:25:21,713
+
+
 We are the cargo.
 
-210
-00:25:22,791 --> 00:25:26,378
+
+
 60,000 people
 on a single launch trajectory.
 
-211
-00:25:26,419 --> 00:25:28,856
+
+
 Tanis.
 
-212
-00:25:28,886 --> 00:25:31,513
+
+
 25 billion people watched in awe.
 
-213
-00:25:31,554 --> 00:25:34,422
+
+
 These breathtaking images
 of Tanis arrived
 
-214
-00:25:34,461 --> 00:25:37,189
+
+
 from the Popolous probe and were
 broadcast yesterday.
 
-215
-00:25:37,229 --> 00:25:39,626
+
+
 These were taken as the probe
 was entering the orbit
 
-216
-00:25:39,656 --> 00:25:42,284
+
+
 of the only Earth like planet
 known to exist.
 
-217
-00:25:42,323 --> 00:25:45,808
+
+
 People of the whole world are watching
 as the probe sent into space
 
-218
-00:25:45,858 --> 00:25:50,384
+
+
 is transferring data exceeding
 even the most optimistic expectations.
 
-219
-00:25:50,424 --> 00:25:52,853
+
+
 We knew to expect water on Tanis.
 
-220
-00:25:52,893 --> 00:25:55,151
+
+
 We knew to expect
 reasonable temperatures.
 
-221
-00:25:55,191 --> 00:25:56,919
+
+
 But the questioned remained...
 
-222
-00:25:56,959 --> 00:26:00,615
+
+
 will this planet meet the extremely
 complex and unlikely combination
 
-223
-00:26:00,655 --> 00:26:04,021
+
+
 of parameters to support life
 as we know it?
 
-224
-00:26:04,060 --> 00:26:06,818
+
+
 The probe has touched down
 on the planet six days ago.
 
-225
-00:26:06,858 --> 00:26:08,915
+
+
 It's sending off its first transmission
 
-226
-00:26:08,955 --> 00:26:11,923
+
+
 that is expected
 to arrive any second now.
 
-227
-00:26:23,721 --> 00:26:25,949
+
+
 Ladies and gentlemen,
 
-228
-00:26:25,989 --> 00:26:29,445
+
+
 this is an unprecedented
 moment for all mankind.
 
-229
-00:26:29,486 --> 00:26:31,953
+
+
 Are we seeing this?
 
-230
-00:26:31,993 --> 00:26:34,182
+
+
 First detection as we had hoped.
 
-231
-00:26:34,221 --> 00:26:36,449
+
+
 This needs to be verified,
 but it appears
 
-232
-00:26:36,489 --> 00:26:39,256
+
+
 some form of plant life is present.
 
-233
-00:26:39,286 --> 00:26:42,951
+
+
 My God, life on Tanis.
 There is life detection.
 
-234
-00:26:42,991 --> 00:26:45,079
+
+
 We have habitat detection.
 
-235
-00:26:45,119 --> 00:26:48,176
+
+
 Verified, this is a monumental
 day for all of us.
 
-236
-00:26:48,227 --> 00:26:51,314
+
+
 Only a matter of time before
 we send people out there.
 
-237
-00:26:51,354 --> 00:26:53,511
+
+
 Processing and population.
 
-238
-00:26:53,561 --> 00:26:55,349
+
+
 We're a settlers vessel.
 
-239
-00:26:55,390 --> 00:26:57,478
+
+
 Elysium was a one-way ticket.
 
-240
-00:26:59,457 --> 00:27:01,424
+
+
 How could I have...
 
-241
-00:27:01,454 --> 00:27:02,853
+
+
 left her?
 
-242
-00:27:04,559 --> 00:27:06,347
+
+
 How could I have done that?
 
-243
-00:27:09,155 --> 00:27:10,673
+
+
 I loved her.
 
-244
-00:27:14,520 --> 00:27:16,489
+
+
 We've got to get to the bridge.
 
-245
-00:27:16,519 --> 00:27:20,115
+
+
 We've got to get control of the ship
 before these guys rip it apart.
 
-246
-00:27:20,155 --> 00:27:21,683
+
+
 This is too fucking important.
 
-247
-00:27:21,723 --> 00:27:24,421
+
+
 -Payton, where is your wife?
 -What?
 
-248
-00:27:24,461 --> 00:27:26,978
+
+
 Do you remember the recruitment?
 The breeding tests,
 
-249
-00:27:27,028 --> 00:27:28,686
+
+
 the husbands, the wives?
 
-250
-00:27:28,727 --> 00:27:32,481
+
+
 We didn't leave them behind.
 They're here somewhere onboard.
 
-251
-00:27:55,589 --> 00:27:58,457
+
+
 I've got to find her before
 these fucking animals do.
 
-252
-00:27:58,487 --> 00:28:00,713
+
+
 Try to think.
 Where would they be?
 
-253
-00:28:00,753 --> 00:28:02,882
+
+
 A sleeping compartment
 for non-service personnel?
 
-254
-00:28:02,922 --> 00:28:04,720
+
+
 Wait, hold on.
 Think for a second.
 
-255
-00:28:04,759 --> 00:28:06,718
+
+
 I remember there were thousands
 of passengers that weren't part
 
-256
-00:28:06,758 --> 00:28:09,275
+
+
 -of the development team. Families.
 -You listen to me.
 
-257
-00:28:09,325 --> 00:28:12,682
+
+
 You know how big this ship is?
 And you have no idea where your wife...
 
-258
-00:28:12,721 --> 00:28:15,749
+
+
 where our wives might be.
 
-259
-00:28:15,788 --> 00:28:18,277
+
+
 If you go off on some
 wild goose chase
 
-260
-00:28:18,326 --> 00:28:22,413
+
+
 we're gonna be no closer to getting
 ourselves out of this situation
 
-261
-00:28:22,452 --> 00:28:25,390
+
+
 and with even less time
 to regain control of the ship.
 
-262
-00:28:25,419 --> 00:28:29,585
+
+
 Once we've taken control of the systems,
 finding them will be easy.
 
-263
-00:28:29,625 --> 00:28:31,522
+
+
 Are you hearing me?
 
-264
-00:28:32,791 --> 00:28:35,878
+
+
 We save the ship,
 we save them.
 
-265
-00:28:43,920 --> 00:28:46,617
+
+
 -Security locker.
 -What?
 
-266
-00:28:50,993 --> 00:28:53,451
+
+
 Non-lethal antiriot guns.
 
-267
-00:28:53,491 --> 00:28:56,147
+
+
 Close up they'll do some damage.
 
-268
-00:29:25,887 --> 00:29:28,145
+
+
 All right, I'm gonna lay out
 a path for you
 
-269
-00:29:28,185 --> 00:29:30,913
+
+
 and try to bypass
 the main security grids.
 
-270
-00:29:30,952 --> 00:29:34,480
+
+
 Without main power
 we'll never get these doors open.
 
-271
-00:29:34,519 --> 00:29:37,547
+
+
 Listen, if you can get me
 to the reactor bay
 
-272
-00:29:37,586 --> 00:29:40,184
+
+
 I can reset the cycle manually.
 
-273
-00:29:40,224 --> 00:29:42,212
+
+
 You know how to do that?
 
-274
-00:29:42,252 --> 00:29:45,088
+
+
 -Yeah.
 -It's a long way.
 
-275
-00:29:45,118 --> 00:29:48,017
+
+
 Gonna have to get you past
 a few security bulkheads.
 
-276
-00:29:48,056 --> 00:29:50,383
+
+
 With a little sidestepping,
 we're gonna get you there.
 
-277
-00:29:54,818 --> 00:29:57,915
+
+
 Oh, for Christ's sake.
 Delta 81643 Lima.
 
-278
-00:29:57,955 --> 00:29:59,384
+
+
 Okay okay, hold on.
 
-279
-00:29:59,424 --> 00:30:01,613
+
+
 I don't want you going too far.
 Just catch your breath.
 
-280
-00:30:01,653 --> 00:30:03,621
+
+
 I don't need a rest.
 Just tell me which way.
 
-281
-00:30:03,661 --> 00:30:05,847
+
+
 I don't know yet.
 Hold on.
 
-282
-00:30:15,259 --> 00:30:17,117
+
+
 Payton.
 
-283
-00:30:21,593 --> 00:30:25,488
+
+
 Pandorum, you ever
 felt the symptoms?
 
-284
-00:30:26,926 --> 00:30:29,285
+
+
 Of all the things to remember,
 why would you pick that?
 
-285
-00:30:32,790 --> 00:30:34,949
+
+
 Were you thinking
 of the Eden mission?
 
-286
-00:30:34,989 --> 00:30:36,917
+
+
 What about the Eden?
 
-287
-00:30:38,855 --> 00:30:43,122
+
+
 You just had to remind me of the biggest
 fucking catastrophe in space travel.
 
-288
-00:30:44,559 --> 00:30:47,046
+
+
 The flight cautionary tale from hell.
 
-289
-00:30:47,086 --> 00:30:49,554
+
+
 I remember.
 Didn't they have some kind of
 
-290
-00:30:49,584 --> 00:30:53,020
+
+
 hypersleep malfunction?
 
-291
-00:30:53,050 --> 00:30:56,107
+
+
 Two years into their shift
 one of their officers
 
-292
-00:30:56,157 --> 00:30:58,516
+
+
 had a psychological breakdown.
 
-293
-00:30:58,556 --> 00:31:01,853
+
+
 The doctors refer
 to it as ODS syndrome.
 
-294
-00:31:01,893 --> 00:31:05,748
+
+
 But the pilots,
 we call it pandorum.
 
-295
-00:31:06,957 --> 00:31:10,653
+
+
 It drove him insane. He became
 convinced the flight was cursed.
 
-296
-00:31:12,021 --> 00:31:14,078
+
+
 -Evil.
 -What did he do?
 
-297
-00:31:15,788 --> 00:31:17,945
+
+
 He evacuated the ship.
 
-298
-00:31:20,952 --> 00:31:24,349
+
+
 He launched them all
 into oblivion.
 
-299
-00:31:24,390 --> 00:31:27,516
+
+
 5,000 people sent to their death
 
-300
-00:31:27,556 --> 00:31:29,413
+
+
 with one push of a button.
 
-301
-00:31:32,621 --> 00:31:35,419
+
+
 At least we didn't wake up
 floating away in a coffin.
 
-302
-00:31:37,855 --> 00:31:40,015
+
+
 Who says we didn't?
 
-303
-00:31:50,153 --> 00:31:52,621
+
+
 -Which way?
 -Left at the third marker.
 
-304
-00:31:52,651 --> 00:31:55,647
+
+
 Just two more levels up
 and we're on the main walkway.
 
-305
-00:31:55,688 --> 00:31:57,156
+
+
 Should be easy from there.
 
-306
-00:32:07,226 --> 00:32:09,344
+
+
 This can't be right.
 
-307
-00:32:09,384 --> 00:32:11,651
+
+
 What's not right?
 
-308
-00:32:11,691 --> 00:32:14,749
+
+
 I don't know if I'm hallucinating.
 
-309
-00:32:16,386 --> 00:32:18,474
+
+
 What?
 What's going on?
 
-310
-00:32:18,525 --> 00:32:21,282
+
+
 I've seen this before.
 This is a...
 
-311
-00:32:28,825 --> 00:32:30,583
+
+
 this...
 
-312
-00:32:30,623 --> 00:32:33,111
+
+
 this is a different one.
 
-313
-00:32:40,123 --> 00:32:41,951
+
+
 It's booby-trapped.
 
-314
-00:32:41,991 --> 00:32:44,079
+
+
 Rigged the ceiling.
 
-315
-00:32:44,119 --> 00:32:45,557
+
+
 Be careful.
 
-316
-00:32:48,624 --> 00:32:50,981
+
+
 No! No!
 
-317
-00:32:51,021 --> 00:32:53,039
+
+
 No!
 
-318
-00:32:53,089 --> 00:32:54,449
+
+
 Quiet!
 
-319
-00:32:56,717 --> 00:32:59,345
+
+
 Quiet! Shh.
 
-320
-00:32:59,384 --> 00:33:01,721
+
+
 We have to shut the hell up.
 Do you understand?
 
-321
-00:33:01,751 --> 00:33:04,239
+
+
 I'm gonna get you out of this,
 but you have to be quiet.
 
-322
-00:33:04,288 --> 00:33:06,346
+
+
 You understand?
 
-323
-00:33:09,222 --> 00:33:11,342
+
+
 Bower, you sure this is a good idea?
 
-324
-00:33:14,588 --> 00:33:17,056
+
+
 Watch yourself.
 
-325
-00:33:21,321 --> 00:33:22,911
+
+
 He's team 6.
 
-326
-00:33:22,951 --> 00:33:26,576
+
+
 That's the shift unit
 that's supposed to follow us.
 
-327
-00:33:26,615 --> 00:33:28,884
+
+
 He could be...
 
-328
-00:33:28,923 --> 00:33:30,542
+
+
 Quiet. Quiet!
 
-329
-00:33:30,593 --> 00:33:33,709
+
+
 Easy. I'm not gonna hurt you
 but you have to be quiet.
 
-330
-00:33:33,759 --> 00:33:36,156
+
+
 Do you hear me?
 
-331
-00:33:38,884 --> 00:33:41,980
+
+
 Shepard, team 6, sir.
 
-332
-00:33:43,289 --> 00:33:45,548
+
+
 I believe I'm the only one.
 
-333
-00:33:45,587 --> 00:33:48,244
+
+
 I knew it.
 I knew you'd come back.
 
-334
-00:33:48,285 --> 00:33:50,482
+
+
 -What?
 -Where's your squad?
 
-335
-00:33:50,521 --> 00:33:53,279
+
+
 Squad?
 This is my lieutenant.
 
-336
-00:33:53,319 --> 00:33:55,917
+
+
 -Where's your shuttle?
 -Shuttle? What are you talking about?
 
-337
-00:33:55,957 --> 00:33:57,746
+
+
 You're the retraction crew, right?
 
-338
-00:33:57,786 --> 00:34:00,912
+
+
 No. No.
 I'm team 5.
 
-339
-00:34:00,951 --> 00:34:03,979
+
+
 -You just woke up?
 -Six or eight hours ago.
 
-340
-00:34:04,019 --> 00:34:05,278
+
+
 So you don't know
 what the fuck is going on?
 
-341
-00:34:05,317 --> 00:34:06,715
+
+
 That's what I'm saying.
 
-342
-00:34:06,756 --> 00:34:09,722
+
+
 -You know as much as me, man.
 -I don't know anything.
 
-343
-00:34:09,753 --> 00:34:12,809
+
+
 You, you're gonna fit right in.
 
-344
-00:34:15,257 --> 00:34:16,655
+
+
 What are you doing?
 
-345
-00:34:16,686 --> 00:34:18,014
+
+
 -Get the scent off.
 -Scent?
 
-346
-00:34:18,054 --> 00:34:19,952
+
+
 They're fast and they're fucking
 stronger than you know.
 
-347
-00:34:19,983 --> 00:34:23,250
+
+
 They come after you, you run.
 You run and you don't fucking look back.
 
-348
-00:34:23,289 --> 00:34:24,918
+
+
 I can't wait for you.
 
-349
-00:34:24,958 --> 00:34:27,974
+
+
 Who... who are they?
 
-350
-00:34:28,023 --> 00:34:29,643
+
+
 -I can't help you.
 -Help me.
 
-351
-00:34:29,681 --> 00:34:32,650
+
+
 Bower, you tell that asshole
 the chain of command
 
-352
-00:34:32,690 --> 00:34:35,086
+
+
 -and a direct order is being made.
 -You're still an officer on this ship,
 
-353
-00:34:35,117 --> 00:34:37,275
+
+
 and at the current time
 your CO is ordering you...
 
-354
-00:34:37,324 --> 00:34:39,483
+
+
 -Ordering me? That's funny.
 ...now is ordering you...
 
-355
-00:34:39,523 --> 00:34:41,422
+
+
 You're late.
 There's no fucking CO on this ship.
 
-356
-00:34:41,452 --> 00:34:42,750
+
+
 Fuck you.
 
-357
-00:34:58,483 --> 00:34:59,583
+
+
 That's not gonna save you.
 
-358
-00:35:06,186 --> 00:35:07,773
+
+
 Get the hell out of there.
 
-359
-00:35:09,523 --> 00:35:11,380
+
+
 Get out of there!
 
-360
-00:36:16,585 --> 00:36:17,954
+
+
 Just run.
 Go!
 
-361
-00:37:32,389 --> 00:37:33,847
+
+
 I don't understand.
 
-362
-00:37:54,987 --> 00:37:56,974
+
+
 Thanks.
 
-363
-00:38:07,155 --> 00:38:09,451
+
+
 l... I don't understand.
 
-364
-00:38:12,248 --> 00:38:14,646
+
+
 I don't know what you're saying.
 
-365
-00:38:14,686 --> 00:38:17,204
+
+
 l... I don't understand.
 
-366
-00:38:21,320 --> 00:38:23,577
+
+
 Agriculture.
 
-367
-00:38:23,617 --> 00:38:25,206
+
+
 You're with agriculture.
 
-368
-00:38:27,454 --> 00:38:29,851
+
+
 Yeah.
 Yeah, I'm with the flight crew.
 
-369
-00:38:29,882 --> 00:38:33,248
+
+
 But I don't know...
 I don't know what happened.
 
-370
-00:38:34,757 --> 00:38:37,722
+
+
 Yeah, I know that,
 but I'm not in charge here.
 
-371
-00:38:37,753 --> 00:38:40,240
+
+
 I'm trying to find out
 what happened to the ship.
 
-372
-00:38:40,291 --> 00:38:42,579
+
+
 S-ship.
 
-373
-00:38:42,619 --> 00:38:44,376
+
+
 Ship.
 
-374
-00:38:44,416 --> 00:38:47,014
+
+
 I'm on my way to the reactor.
 
-375
-00:38:47,054 --> 00:38:48,742
+
+
 Reactor.
 
-376
-00:38:48,782 --> 00:38:50,809
+
+
 Reactor, that's right.
 Exactly right.
 
-377
-00:38:50,849 --> 00:38:53,648
+
+
 But that doesn't concern you.
 You stay here.
 
-378
-00:38:53,688 --> 00:38:58,123
+
+
 You stay put and wait for the...
 
-379
-00:38:59,782 --> 00:39:02,748
+
+
 security to reengage.
 
-380
-00:39:02,789 --> 00:39:06,545
+
+
 And I'm gonna handle this problem.
 
-381
-00:39:06,585 --> 00:39:08,112
+
+
 Okay?
 
-382
-00:39:29,920 --> 00:39:32,887
+
+
 God damn it.
 
-383
-00:39:45,856 --> 00:39:48,681
+
+
 Who's there?
 
-384
-00:39:55,416 --> 00:39:58,282
+
+
 Identify yourself.
 
-385
-00:39:58,322 --> 00:40:00,440
+
+
 Bower?
 
-386
-00:40:00,489 --> 00:40:03,077
+
+
 Is that you, Bower?
 
-387
-00:40:05,585 --> 00:40:07,574
+
+
 That can't be you.
 
-388
-00:41:30,949 --> 00:41:32,646
+
+
 You again.
 
-389
-00:42:00,849 --> 00:42:04,646
+
+
 I understand that it's felt
 
-390
-00:42:04,686 --> 00:42:07,083
+
+
 like every man for himself.
 
-391
-00:42:07,123 --> 00:42:10,978
+
+
 If we're going to get out of this...
 
-392
-00:42:11,018 --> 00:42:15,175
+
+
 a little fucking solidarity
 
-393
-00:42:15,215 --> 00:42:17,681
+
+
 goes a long way.
 
-394
-00:42:21,648 --> 00:42:23,617
+
+
 We all want to survive,
 
-395
-00:42:23,657 --> 00:42:26,014
+
+
 right?
 
-396
-00:42:26,054 --> 00:42:28,481
+
+
 I lost contact with my CO.
 
-397
-00:42:28,521 --> 00:42:31,347
+
+
 So I need someone to tell me
 how to get to the reactor.
 
-398
-00:42:34,755 --> 00:42:37,112
+
+
 You know?
 That's great.
 
-399
-00:42:37,152 --> 00:42:40,019
+
+
 All right, we can work together
 
-400
-00:42:40,050 --> 00:42:42,318
+
+
 as a team.
 
-401
-00:42:51,748 --> 00:42:53,516
+
+
 Go.
 
-402
-00:43:02,588 --> 00:43:04,016
+
+
 Yeah.
 
-403
-00:43:11,148 --> 00:43:13,306
+
+
 Yeah well, no sympathy here, pal.
 
-404
-00:43:13,346 --> 00:43:15,574
+
+
 She left me with
 a few sore spots too.
 
-405
-00:43:17,922 --> 00:43:19,940
+
+
 Why the hell should I trust you?
 
-406
-00:43:19,980 --> 00:43:23,746
+
+
 -Listen, lady, we don't want any...
 -Are you really part of the flight crew?
 
-407
-00:43:23,786 --> 00:43:26,543
+
+
 Corporal Bower,
 ship's mechanical engineer.
 
-408
-00:43:33,315 --> 00:43:36,043
+
+
 I didn't think
 there was any flight crew left.
 
-409
-00:43:37,483 --> 00:43:39,471
+
+
 What's happened to us?
 
-410
-00:43:39,521 --> 00:43:41,847
+
+
 A malfunction of some sort.
 
-411
-00:43:41,887 --> 00:43:45,284
+
+
 You think?
 What's your plan?
 
-412
-00:43:45,313 --> 00:43:47,871
+
+
 Fire up the reactor.
 Go from there.
 
-413
-00:43:47,922 --> 00:43:50,039
+
+
 -You just wake up?
 -Yeah.
 
-414
-00:43:50,079 --> 00:43:52,916
+
+
 -Just joined the party.
 -You'll never make it.
 
-415
-00:43:52,945 --> 00:43:55,543
+
+
 -Why is that?
 -You're going the wrong direction.
 
-416
-00:43:57,382 --> 00:43:59,181
+
+
 -Wait a second.
 -Keep it down.
 
-417
-00:43:59,221 --> 00:44:01,148
+
+
 -Who are you?
 -Nobody.
 
-418
-00:44:01,188 --> 00:44:03,646
+
+
 -I need you to show me the way.
 -To the reactor?
 
-419
-00:44:03,686 --> 00:44:05,844
+
+
 I don't like going that far down.
 
-420
-00:44:08,181 --> 00:44:10,338
+
+
 No one ever comes back.
 
-421
-00:44:10,387 --> 00:44:13,614
+
+
 We don't have much time.
 
-422
-00:44:13,655 --> 00:44:16,483
+
+
 We could lose everything onboard.
 Do you know what I'm saying to you?
 
-423
-00:44:16,512 --> 00:44:18,641
+
+
 Can you fly it?
 
-424
-00:44:18,681 --> 00:44:21,547
+
+
 Can you fly the ship?
 
-425
-00:44:21,588 --> 00:44:23,077
+
+
 Land it if you have to?
 
-426
-00:44:25,614 --> 00:44:27,413
+
+
 Yeah.
 
-427
-00:44:32,217 --> 00:44:34,045
+
+
 How long have you been awake?
 
-428
-00:44:34,085 --> 00:44:37,101
+
+
 Don't know.
 There's no way to tell time in here.
 
-429
-00:44:37,152 --> 00:44:39,119
+
+
 -Five, maybe six months.
 -Months?
 
-430
-00:44:39,150 --> 00:44:41,777
+
+
 Quiet.
 You want to get us killed?
 
-431
-00:44:45,784 --> 00:44:47,652
+
+
 What are we doing?
 
-432
-00:44:47,681 --> 00:44:50,737
+
+
 -We are waiting.
 -Waiting for what?
 
-433
-00:44:53,445 --> 00:44:56,882
+
+
 You want to get to the reactor?
 Then trust me.
 
-434
-00:45:02,885 --> 00:45:06,512
+
+
 Oh shit.
 Hey, we have to go.
 
-435
-00:45:06,552 --> 00:45:08,110
+
+
 Trust me.
 
-436
-00:45:08,150 --> 00:45:10,277
+
+
 We've got to go now.
 
-437
-00:45:10,318 --> 00:45:13,146
+
+
 -We've got to go now.
 -Wait.
 
-438
-00:45:13,186 --> 00:45:14,983
+
+
 We've got to go now.
 
-439
-00:45:40,119 --> 00:45:41,976
+
+
 What the hell are they?
 
-440
-00:45:42,016 --> 00:45:44,414
+
+
 Never quite felt like sticking
 around to find out.
 
-441
-00:45:44,454 --> 00:45:47,041
+
+
 Running is always the best option.
 
-442
-00:45:47,081 --> 00:45:48,981
+
+
 They can't be from this ship.
 
-443
-00:45:56,652 --> 00:45:58,210
+
+
 What is all this?
 
-444
-00:45:58,250 --> 00:46:00,307
+
+
 Ecological development.
 
-445
-00:46:00,347 --> 00:46:03,715
+
+
 Embryonic charter, livestock
 and wildlife repopulation.
 
-446
-00:46:03,755 --> 00:46:07,181
+
+
 You live here?
 You protect all this?
 
-447
-00:46:08,880 --> 00:46:10,748
+
+
 To us it seemed worth protecting.
 
-448
-00:46:10,788 --> 00:46:12,445
+
+
 Us?
 
-449
-00:46:13,885 --> 00:46:16,242
+
+
 When I woke up,
 there were five if us.
 
-450
-00:46:17,550 --> 00:46:20,579
+
+
 I was part of the Brandenburg Institute's
 genetic sampling team.
 
-451
-00:46:20,619 --> 00:46:23,775
+
+
 Seven years collecting
 and readying earth's biosphere...
 
-452
-00:46:23,815 --> 00:46:26,842
+
+
 just didn't feel right handing it off.
 
-453
-00:46:28,719 --> 00:46:31,905
+
+
 I volunteered to go along with it.
 
-454
-00:46:36,012 --> 00:46:38,809
+
+
 This...
 
-455
-00:46:38,849 --> 00:46:41,007
+
+
 truly is Noah's Ark.
 
-456
-00:46:41,047 --> 00:46:45,244
+
+
 This archive holds the world
 we are going to live in.
 
-457
-00:46:45,284 --> 00:46:49,050
+
+
 We've already lost about
 30% of the specimens.
 
-458
-00:46:50,148 --> 00:46:53,443
+
+
 The lab has its own generator,
 but without the reactor working,
 
-459
-00:46:53,483 --> 00:46:56,141
+
+
 I don't know if they
 will ever make it to Tanis.
 
-460
-00:46:56,181 --> 00:46:58,079
+
+
 Tanis.
 
-461
-00:46:58,119 --> 00:47:00,608
+
+
 You couldn't remember?
 
-462
-00:47:00,648 --> 00:47:02,706
+
+
 I couldn't remember how...
 
-463
-00:47:02,746 --> 00:47:05,184
+
+
 how far away it was.
 
-464
-00:47:05,213 --> 00:47:07,940
+
+
 This was a 123-year flight.
 
-465
-00:47:07,981 --> 00:47:10,108
+
+
 Consider yourself lucky.
 
-466
-00:47:10,148 --> 00:47:12,746
+
+
 It took me months to recall.
 
-467
-00:47:12,786 --> 00:47:15,373
+
+
 It took even longer to get
 that goddamn door open.
 
-468
-00:47:15,413 --> 00:47:18,311
+
+
 It comes on in pieces.
 
-469
-00:47:19,548 --> 00:47:22,416
+
+
 I know everything about this vault
 and its systems.
 
-470
-00:47:23,715 --> 00:47:26,152
+
+
 But I still can't remember
 where I grew up...
 
-471
-00:47:28,021 --> 00:47:30,108
+
+
 or my brother's name.
 
-472
-00:47:30,148 --> 00:47:33,244
+
+
 Are you hungry?
 
-473
-00:47:33,284 --> 00:47:35,273
+
+
 Yeah, I'm starving.
 
-474
-00:47:39,349 --> 00:47:41,376
+
+
 Here.
 
-475
-00:47:41,416 --> 00:47:43,815
+
+
 Good for protein.
 
-476
-00:47:57,221 --> 00:48:00,307
+
+
 How could we become like this
 in only eight years?
 
-477
-00:48:00,347 --> 00:48:04,005
+
+
 This ship was built to outlast
 our children's children.
 
-478
-00:48:05,152 --> 00:48:08,980
+
+
 I think we've been asleep
 longer than you think.
 
-479
-00:48:37,320 --> 00:48:39,309
+
+
 You want in?
 
-480
-00:48:39,349 --> 00:48:40,648
+
+
 Come and get it, you fuck!
 
-481
-00:48:52,943 --> 00:48:56,001
+
+
 Help!
 Help me!
 
-482
-00:48:58,079 --> 00:48:59,777
+
+
 Help!
 
-483
-00:49:11,815 --> 00:49:14,373
+
+
 Who the hell are you?
 
-484
-00:49:14,413 --> 00:49:16,380
+
+
 I'm part of the flight crew.
 
-485
-00:49:16,411 --> 00:49:18,778
+
+
 Please help me.
 
-486
-00:49:18,818 --> 00:49:20,746
+
+
 You're all right.
 You're all right. Easy.
 
-487
-00:49:20,786 --> 00:49:23,713
+
+
 Hey, hang on.
 
-488
-00:49:23,753 --> 00:49:25,771
+
+
 Hang on.
 Who are you?
 
-489
-00:49:25,811 --> 00:49:29,309
+
+
 What's your name?
 Can you hear me?
 
-490
-00:49:31,317 --> 00:49:33,543
+
+
 Gallo.
 
-491
-00:49:33,583 --> 00:49:36,710
+
+
 Gallo? Is that it?
 
-492
-00:49:36,751 --> 00:49:39,717
+
+
 Corporal Gallo?
 
-493
-00:49:39,746 --> 00:49:42,974
+
+
 Yes.
 
-494
-00:49:43,014 --> 00:49:44,643
+
+
 Where'd you come from, Gallo?
 
-495
-00:49:44,682 --> 00:49:46,581
+
+
 From the...
 
-496
-00:49:46,610 --> 00:49:48,639
+
+
 from the bridge.
 
-497
-00:49:48,679 --> 00:49:52,045
+
+
 Bridge?
 What happened?
 
-498
-00:49:52,085 --> 00:49:54,702
+
+
 Where are we?
 Can you tell me?
 
-499
-00:49:54,753 --> 00:49:57,650
+
+
 Corporal.
 
-500
-00:49:58,679 --> 00:50:02,206
+
+
 Tell me.
 What happened?
 
-501
-00:50:15,282 --> 00:50:16,869
+
+
 Where are we?
 
-502
-00:50:16,920 --> 00:50:19,538
+
+
 Hypersleep chamber,
 personnel.
 
-503
-00:50:23,954 --> 00:50:26,072
+
+
 Careful.
 
-504
-00:50:27,320 --> 00:50:29,409
+
+
 And don't slow me down.
 
-505
-00:50:40,146 --> 00:50:42,085
+
+
 Most of these are empty.
 
-506
-00:50:42,114 --> 00:50:43,603
+
+
 Where the hell is everyone?
 
-507
-00:50:43,653 --> 00:50:45,612
+
+
 This is their main
 hunting ground.
 
-508
-00:50:47,849 --> 00:50:49,478
+
+
 Keep moving.
 
-509
-00:50:55,211 --> 00:50:58,809
+
+
 Hey, my wife could be in here.
 
-510
-00:50:58,849 --> 00:51:01,976
+
+
 She's a development settler?
 Engineer?
 
-511
-00:51:03,483 --> 00:51:06,880
+
+
 No, she's not part of the crew.
 But spouses were brought with.
 
-512
-00:51:06,920 --> 00:51:08,309
+
+
 She's not here then.
 
-513
-00:51:08,349 --> 00:51:10,867
+
+
 Do you know where
 the family members are?
 
-514
-00:51:10,916 --> 00:51:12,603
+
+
 Quiet.
 
-515
-00:51:23,653 --> 00:51:25,481
+
+
 We have to keep moving.
 
-516
-00:51:25,512 --> 00:51:28,739
+
+
 We don't want to stay
 in the open for too long.
 
-517
-00:51:28,778 --> 00:51:31,246
+
+
 Especially in here.
 
-518
-00:51:38,018 --> 00:51:39,068
+
+
 We have to get going.
 
-519
-00:51:45,211 --> 00:51:46,650
+
+
 We can't just leave him.
 
-520
-00:51:46,681 --> 00:51:48,739
+
+
 Fuck that.
 He's hunting.
 
-521
-00:51:48,778 --> 00:51:51,047
+
+
 You wait for him?
 Good luck.
 
-522
-00:51:53,682 --> 00:51:55,442
+
+
 Wait.
 
-523
-00:52:17,518 --> 00:52:19,746
+
+
 You all right?
 
-524
-00:52:21,445 --> 00:52:23,434
+
+
 I'm all right.
 
-525
-00:52:26,010 --> 00:52:28,108
+
+
 Oh God.
 
-526
-00:52:33,911 --> 00:52:36,010
+
+
 There must be hundreds
 of them in here.
 
-527
-00:53:14,851 --> 00:53:17,010
+
+
 Where did they go?
 
-528
-00:53:19,817 --> 00:53:21,304
+
+
 We have to get out of here.
 
-529
-00:56:06,380 --> 00:56:08,367
+
+
 We should run.
 
-530
-00:56:11,643 --> 00:56:13,981
+
+
 Go!
 
-531
-00:57:01,543 --> 00:57:02,981
+
+
 -What are you doing?
 -We can't leave him.
 
-532
-00:57:20,445 --> 00:57:21,773
+
+
 Bower, do you copy?
 Bower, do you copy?
 
-533
-00:57:25,610 --> 00:57:27,048
+
+
 You out there?
 
-534
-00:57:59,974 --> 00:58:02,641
+
+
 Flight team 4.
 
-535
-00:58:02,681 --> 00:58:04,510
+
+
 What are you doing?
 
-536
-00:58:04,550 --> 00:58:06,009
+
+
 Just checking you.
 
-537
-00:58:06,048 --> 00:58:07,777
+
+
 For what?
 
-538
-00:58:07,817 --> 00:58:10,375
+
+
 Make sure you're okay.
 You passed out.
 
-539
-00:58:10,414 --> 00:58:12,242
+
+
 You were hysterical.
 
-540
-00:58:12,282 --> 00:58:15,579
+
+
 -Who the hell are you?
 -I'm Payton.
 
-541
-00:58:15,608 --> 00:58:18,666
+
+
 -Lieutenant Payton.
 -You're a lieutenant?
 
-542
-00:58:18,715 --> 00:58:20,873
+
+
 You're team 4.
 
-543
-00:58:20,914 --> 00:58:22,742
+
+
 You're supposed
 to be my predecessor.
 
-544
-00:58:25,079 --> 00:58:28,275
+
+
 You said you came from the bridge.
 
-545
-00:58:28,315 --> 00:58:30,713
+
+
 -Yeah, so?
 -So where the hell are we?
 
-546
-00:58:30,744 --> 00:58:33,402
+
+
 -I can't get any navigation in here.
 -I don't know.
 
-547
-00:58:33,442 --> 00:58:36,038
+
+
 Well, what did you see?
 How did this whole thing get screwed up?
 
-548
-00:58:36,077 --> 00:58:39,605
+
+
 Listen, I am not a navigator.
 
-549
-00:58:39,644 --> 00:58:42,442
+
+
 -The stars all look alike.
 -Take it easy, all right?
 
-550
-00:58:42,481 --> 00:58:45,210
+
+
 Just want to make sure you're okay.
 
-551
-00:58:45,250 --> 00:58:47,608
+
+
 -I'm fine.
 -Is that your blood, Corporal?
 
-552
-00:58:50,244 --> 00:58:53,840
+
+
 Some of it is, sir.
 
-553
-00:58:53,880 --> 00:58:56,606
+
+
 Who else's blood is it?
 
-554
-00:58:56,646 --> 00:58:58,875
+
+
 There was something
 wrong with them.
 
-555
-00:58:58,914 --> 00:59:01,503
+
+
 Something wrong with who?
 
-556
-00:59:01,543 --> 00:59:04,070
+
+
 Your crew?
 
-557
-00:59:04,110 --> 00:59:06,708
+
+
 It was pandorum.
 
-558
-00:59:06,748 --> 00:59:09,574
+
+
 I had to defend myself.
 
-559
-00:59:09,614 --> 00:59:11,583
+
+
 I did.
 
-560
-00:59:11,612 --> 00:59:14,869
+
+
 Pandorum?
 Both of 'em?
 
-561
-00:59:14,909 --> 00:59:17,606
+
+
 You don't believe me, do you?
 
-562
-00:59:19,574 --> 00:59:22,630
+
+
 If you would have seen them...
 
-563
-00:59:24,748 --> 00:59:28,615
+
+
 you would have done
 the same thing, sir.
 
-564
-00:59:38,246 --> 00:59:40,143
+
+
 I thought you knew
 where we were going.
 
-565
-00:59:40,184 --> 00:59:43,170
+
+
 I was trying to save our asses.
 
-566
-01:00:27,246 --> 01:00:29,835
+
+
 Whoa whoa, easy, okay?
 
-567
-01:00:29,875 --> 01:00:31,842
+
+
 No weapons.
 No weapons.
 
-568
-01:00:33,751 --> 01:00:37,106
+
+
 Excuse me.
 Just please, come.
 
-569
-01:00:37,146 --> 01:00:40,014
+
+
 Come in.
 Okay.
 
-570
-01:00:40,043 --> 01:00:43,570
+
+
 Please, make yourselves at home.
 
-571
-01:00:44,978 --> 01:00:46,777
+
+
 You live here?
 
-572
-01:00:46,806 --> 01:00:49,105
+
+
 -Who said that? What?
 -You live here?
 
-573
-01:00:49,144 --> 01:00:52,512
+
+
 I know it's not much to look at.
 
-574
-01:00:52,541 --> 01:00:54,978
+
+
 But...
 
-575
-01:00:55,009 --> 01:00:56,836
+
+
 they can't get in here
 
-576
-01:00:56,876 --> 01:00:58,534
+
+
 unless I want them to.
 
-577
-01:00:58,574 --> 01:00:59,943
+
+
 Why would you want them to?
 
-578
-01:00:59,974 --> 01:01:02,371
+
+
 I had no idea
 there was any crew left.
 
-579
-01:01:02,411 --> 01:01:05,438
+
+
 Have you met any other flyers?
 
-580
-01:01:05,478 --> 01:01:07,206
+
+
 No.
 
-581
-01:01:08,746 --> 01:01:12,012
+
+
 Not in a long long time.
 
-582
-01:01:12,041 --> 01:01:15,438
+
+
 Why don't you come on
 down so we can meet properly?
 
-583
-01:01:15,478 --> 01:01:18,445
+
+
 You think I survived this long
 trusting strangers?
 
-584
-01:01:18,474 --> 01:01:19,913
+
+
 Wait.
 
-585
-01:01:22,440 --> 01:01:24,599
+
+
 I have a question for you.
 Where you got to be?
 
-586
-01:01:24,648 --> 01:01:27,876
+
+
 Reactor bay.
 Know how to get there?
 
-587
-01:01:27,916 --> 01:01:29,974
+
+
 Yeah, I do.
 
-588
-01:01:31,443 --> 01:01:34,309
+
+
 Why would you want
 to go to the reactor?
 
-589
-01:01:34,349 --> 01:01:37,137
+
+
 Oh, I get it.
 I get it.
 
-590
-01:01:37,177 --> 01:01:40,632
+
+
 You just woke up, huh?
 You hungry?
 
-591
-01:01:40,681 --> 01:01:42,969
+
+
 'Cause I can cook.
 
-592
-01:01:43,010 --> 01:01:45,777
+
+
 I really got a treat for you guys.
 
-593
-01:01:45,807 --> 01:01:49,144
+
+
 but I must admit it's really
 difficult to season
 
-594
-01:01:49,175 --> 01:01:51,172
+
+
 when you're only using
 a motor oil base.
 
-595
-01:01:51,213 --> 01:01:54,269
+
+
 But if we use our imagination,
 
-596
-01:01:54,309 --> 01:01:56,706
+
+
 we got something here.
 
-597
-01:01:56,746 --> 01:01:58,715
+
+
 It kinda tastes like...
 
-598
-01:02:00,682 --> 01:02:02,731
+
+
 herb and butter dogshit.
 
-599
-01:02:02,780 --> 01:02:04,969
+
+
 How long have you been awake?
 
-600
-01:02:05,009 --> 01:02:07,306
+
+
 Let me see... what's today?
 
-601
-01:02:07,346 --> 01:02:09,574
+
+
 Tuesday, so I have no idea.
 
-602
-01:02:14,250 --> 01:02:17,764
+
+
 Ah, well, let's eat, shall we?
 
-603
-01:02:17,815 --> 01:02:20,472
+
+
 It's kosher.
 
-604
-01:02:20,512 --> 01:02:23,739
+
+
 I'm a cook, you know.
 Says so right here on my tattoo.
 
-605
-01:02:25,947 --> 01:02:27,606
+
+
 Is that safe?
 
-606
-01:02:27,646 --> 01:02:29,614
+
+
 Compared to what?
 
-607
-01:02:29,643 --> 01:02:32,012
+
+
 Those things out there,
 
-608
-01:02:32,041 --> 01:02:34,668
+
+
 could it have been something
 
-609
-01:02:34,708 --> 01:02:38,264
+
+
 that crawled out of your tank or lab
 or something?
 
-610
-01:02:38,313 --> 01:02:40,302
+
+
 No, that's not possible.
 
-611
-01:02:42,440 --> 01:02:44,927
+
+
 Then it's some kind of life form
 that got onboard.
 
-612
-01:02:44,978 --> 01:02:46,637
+
+
 Or something.
 
-613
-01:02:46,677 --> 01:02:48,735
+
+
 Or something
 that was already onboard
 
-614
-01:02:48,775 --> 01:02:50,972
+
+
 with us in the hyperbunks.
 
-615
-01:02:51,012 --> 01:02:52,911
+
+
 What do you mean?
 
-616
-01:02:52,940 --> 01:02:55,938
+
+
 I believe it's the accelerator.
 
-617
-01:02:55,978 --> 01:02:59,034
+
+
 The synthetic enzyme
 in our feeding tubes
 
-618
-01:02:59,074 --> 01:03:01,172
+
+
 that would help our bodies
 adjust and adapt
 
-619
-01:03:01,211 --> 01:03:03,110
+
+
 to the environmental
 conditions on Tanis.
 
-620
-01:03:03,139 --> 01:03:05,936
+
+
 From what I've seen,
 
-621
-01:03:05,976 --> 01:03:09,414
+
+
 these things have adapted
 to the ship instead.
 
-622
-01:03:11,112 --> 01:03:14,568
+
+
 So you're saying that they're passengers
 who have mutated?
 
-623
-01:03:14,608 --> 01:03:17,405
+
+
 That stuff in our blood is supposed
 to jump-start evolution.
 
-624
-01:03:17,445 --> 01:03:20,572
+
+
 Well, why would they
 be affected and we're not?
 
-625
-01:03:20,612 --> 01:03:23,630
+
+
 Maybe they've been awake
 much longer than we think.
 
-626
-01:03:23,679 --> 01:03:26,646
+
+
 -Longer than him.
 -Huh.
 
-627
-01:03:26,677 --> 01:03:28,644
+
+
 -You don't know what happened to us?
 -You do?
 
-628
-01:03:28,675 --> 01:03:32,130
+
+
 Oh, I've been around
 for a while.
 
-629
-01:03:32,181 --> 01:03:35,277
+
+
 I know what I've seen.
 
-630
-01:03:43,909 --> 01:03:45,896
+
+
 What do you think you're doing?
 
-631
-01:03:45,947 --> 01:03:47,606
+
+
 What is that?
 
-632
-01:03:47,646 --> 01:03:50,402
+
+
 It's just a sedative
 to help you relax.
 
-633
-01:03:50,443 --> 01:03:53,070
+
+
 Then you take it
 and relax.
 
-634
-01:03:53,110 --> 01:03:56,766
+
+
 Take it down a notch.
 We're on the same team here.
 
-635
-01:03:58,313 --> 01:04:00,472
+
+
 Do you know
 the symptoms of pandorum?
 
-636
-01:04:00,512 --> 01:04:02,699
+
+
 -What?
 -Orbital dysfunctional syndrome.
 
-637
-01:04:02,739 --> 01:04:04,438
+
+
 -Pandorum.
 -I've seen it before.
 
-638
-01:04:04,478 --> 01:04:07,065
+
+
 Ever witness
 the symptoms firsthand?
 
-639
-01:04:07,115 --> 01:04:09,164
+
+
 It's not something
 you can easily detect.
 
-640
-01:04:09,213 --> 01:04:11,681
+
+
 It starts with a shiver, an itch,
 
-641
-01:04:11,710 --> 01:04:13,539
+
+
 a slow boil...
 
-642
-01:04:13,579 --> 01:04:16,637
+
+
 the biological side effects
 of flying deep space
 
-643
-01:04:16,677 --> 01:04:18,233
+
+
 feeding into paranoia.
 
-644
-01:04:18,273 --> 01:04:20,802
+
+
 And the paranoid
 brain feeding the side effects.
 
-645
-01:04:20,842 --> 01:04:23,500
+
+
 A downward spiral.
 A descent into madness.
 
-646
-01:04:23,550 --> 01:04:26,876
+
+
 There is no shutting off the heat
 no matter what you do.
 
-647
-01:04:26,916 --> 01:04:29,503
+
+
 It'll boil over.
 
-648
-01:04:29,543 --> 01:04:31,670
+
+
 You don't believe me.
 
-649
-01:04:31,710 --> 01:04:34,079
+
+
 I didn't say that.
 
-650
-01:04:34,108 --> 01:04:36,835
+
+
 How could they both have had it?
 The odds are insurmountable.
 
-651
-01:04:36,876 --> 01:04:38,744
+
+
 I wasn't about
 to question your actions.
 
-652
-01:04:38,773 --> 01:04:41,240
+
+
 We all know pandorum
 is greatly affected
 
-653
-01:04:41,280 --> 01:04:43,509
+
+
 by any substantial
 psychological trauma.
 
-654
-01:04:43,548 --> 01:04:46,376
+
+
 -It has an emotional trigger effect.
 -That's what they say.
 
-655
-01:04:46,407 --> 01:04:50,143
+
+
 How do you think you would react
 if you knew the truth?
 
-656
-01:04:53,509 --> 01:04:56,565
+
+
 The truth about what?
 
-657
-01:04:56,606 --> 01:04:59,472
+
+
 Boom.
 Oh, how the whole world cheered
 
-658
-01:04:59,512 --> 01:05:02,530
+
+
 to the thunder of earth's
 mightiest creation...
 
-659
-01:05:02,579 --> 01:05:04,137
+
+
 Elysium.
 Elysium.
 
-660
-01:05:04,177 --> 01:05:06,436
+
+
 One small spark
 
-661
-01:05:06,476 --> 01:05:09,373
+
+
 to ignite the heavens
 for the heroes
 
-662
-01:05:09,413 --> 01:05:11,670
+
+
 to venture farther and farther
 
-663
-01:05:11,710 --> 01:05:14,409
+
+
 than any of mankind's machines.
 
-664
-01:05:14,449 --> 01:05:17,405
+
+
 And we slept.
 We slept a slumber so deep
 
-665
-01:05:17,445 --> 01:05:19,202
+
+
 that no one had dared before
 
-666
-01:05:19,242 --> 01:05:23,179
+
+
 as three little Indians
 were left to mind the store.
 
-667
-01:05:23,208 --> 01:05:24,737
+
+
 We were only into our second term.
 
-668
-01:05:24,777 --> 01:05:26,005
+
+
 All flight systems nominal.
 
-669
-01:05:26,045 --> 01:05:28,773
+
+
 I picked up symptoms
 with my CO and 2nd lieutenant.
 
-670
-01:05:28,813 --> 01:05:32,639
+
+
 Mild symptoms. Nothing I thought
 would become a problem.
 
-671
-01:05:32,679 --> 01:05:36,036
+
+
 -Until we got the transmission.
 -What transmission?
 
-672
-01:05:36,077 --> 01:05:38,563
+
+
 Mother Earth's final call.
 
-673
-01:05:38,614 --> 01:05:42,769
+
+
 All God's creation ending
 with mere words of encouragement.
 
-674
-01:05:50,181 --> 01:05:52,699
+
+
 What does it say?
 
-675
-01:06:04,478 --> 01:06:07,034
+
+
 You're all that's left of us.
 
-676
-01:06:08,974 --> 01:06:12,429
+
+
 Good luck.
 God bless.
 
-677
-01:06:12,480 --> 01:06:15,068
+
+
 And Godspeed.
 
-678
-01:06:16,106 --> 01:06:17,474
+
+
 Earth...
 
-679
-01:06:20,411 --> 01:06:22,070
+
+
 is gone?
 
-680
-01:06:22,110 --> 01:06:24,237
+
+
 Poof.
 Wiped away.
 
-681
-01:06:24,277 --> 01:06:27,144
+
+
 We ran a full sweep of the grid
 and they were gone.
 
-682
-01:06:27,175 --> 01:06:29,972
+
+
 One day there,
 the next nothing.
 
-683
-01:06:30,012 --> 01:06:32,170
+
+
 In one day?
 
-684
-01:06:32,210 --> 01:06:34,838
+
+
 It had to be nuclear
 or an asteroid.
 
-685
-01:06:34,878 --> 01:06:36,365
+
+
 Does it matter?
 
-686
-01:06:36,405 --> 01:06:38,842
+
+
 My fellow crew members
 didn't take the news too well.
 
-687
-01:06:38,873 --> 01:06:41,900
+
+
 I wanted to wake the primary crew,
 
-688
-01:06:41,940 --> 01:06:44,467
+
+
 but my 2nd lieutenant
 was already over the edge.
 
-689
-01:06:44,507 --> 01:06:47,903
+
+
 Three little Indians
 with the burden to bear.
 
-690
-01:06:47,943 --> 01:06:50,311
+
+
 No more law.
 Nothing left to care.
 
-691
-01:06:50,342 --> 01:06:53,938
+
+
 Just three little souls whose
 destiny had become undone
 
-692
-01:06:53,978 --> 01:06:58,005
+
+
 because there was
 chop chop chop chop...
 
-693
-01:06:59,141 --> 01:07:01,369
+
+
 then there was only one.
 
-694
-01:07:01,409 --> 01:07:03,927
+
+
 One little Indian left.
 
-695
-01:07:03,978 --> 01:07:05,905
+
+
 They were my commanding officers,
 
-696
-01:07:05,945 --> 01:07:08,244
+
+
 men who had guided me
 through FT.
 
-697
-01:07:08,273 --> 01:07:11,400
+
+
 But it wasn't them anymore.
 They were gone.
 
-698
-01:07:11,440 --> 01:07:14,307
+
+
 -I had no choice!
 -Corporal Gallo!
 
-699
-01:07:14,347 --> 01:07:18,074
+
+
 One little Indian left,
 alone with all his doom.
 
-700
-01:07:18,114 --> 01:07:20,900
+
+
 He refuses to go to bed,
 so what does he do?
 
-701
-01:07:20,940 --> 01:07:24,876
+
+
 He decides to stay up
 and play in his room.
 
-702
-01:07:24,907 --> 01:07:27,503
+
+
 What nasty little games
 he would play
 
-703
-01:07:27,543 --> 01:07:29,472
+
+
 with his slumbering prey.
 
-704
-01:07:29,512 --> 01:07:31,869
+
+
 He was slayer, he was master.
 
-705
-01:07:31,909 --> 01:07:34,777
+
+
 He was both God and the devil.
 
-706
-01:07:34,807 --> 01:07:37,744
+
+
 See, that's what some would say.
 He would grow to manhood,
 
-707
-01:07:37,775 --> 01:07:39,800
+
+
 a self-proclaimed king.
 
-708
-01:07:39,840 --> 01:07:43,498
+
+
 Master of his own vessel.
 Home to his own sin.
 
-709
-01:07:43,547 --> 01:07:46,445
+
+
 He just cast out
 all who had behaved.
 
-710
-01:07:46,474 --> 01:07:49,911
+
+
 Just exiled to the cargo hold
 
-711
-01:07:49,942 --> 01:07:51,739
+
+
 to fend amongst themselves...
 
-712
-01:07:51,780 --> 01:07:56,106
+
+
 ...and scavenge,
 feeding off their own.
 
-713
-01:07:56,146 --> 01:07:58,403
+
+
 Evil grew.
 
-714
-01:07:58,443 --> 01:08:01,900
+
+
 The king no longer wanted to play.
 
-715
-01:08:01,940 --> 01:08:05,436
+
+
 So he returned
 to his bed of slumber.
 
-716
-01:08:05,476 --> 01:08:08,032
+
+
 And while the king slept,
 
-717
-01:08:08,072 --> 01:08:11,059
+
+
 a whole new world of evil grew
 
-718
-01:08:11,110 --> 01:08:12,838
+
+
 as we wept.
 
-719
-01:08:13,947 --> 01:08:16,564
+
+
 It starts with a shiver, an itch.
 
-720
-01:08:16,604 --> 01:08:18,733
+
+
 We all know pandorum
 is greatly affected
 
-721
-01:08:18,773 --> 01:08:21,039
+
+
 by any substantial
 psychological trauma.
 
-722
-01:08:21,079 --> 01:08:23,238
+
+
 It has an emotional trigger effect.
 
-723
-01:09:05,105 --> 01:09:06,204
+
+
 What are you doing?
 
-724
-01:09:10,280 --> 01:09:12,208
+
+
 He's gonna fucking eat us.
 
-725
-01:09:12,238 --> 01:09:14,506
+
+
 It's not personal, guys.
 
-726
-01:09:14,546 --> 01:09:18,274
+
+
 It's just survival of the fittest.
 
-727
-01:09:18,313 --> 01:09:22,109
+
+
 Or maybe it's the brightest.
 
-728
-01:09:22,139 --> 01:09:24,296
+
+
 You understand what I'm saying?
 
-729
-01:09:25,345 --> 01:09:27,404
+
+
 -You gassed us.
 -Oh, yes.
 
-730
-01:09:27,444 --> 01:09:29,201
+
+
 And I'm sorry,
 but I'm a little too old
 
-731
-01:09:29,240 --> 01:09:31,769
+
+
 and too tired for the honorable way
 of hunting game.
 
-732
-01:09:31,809 --> 01:09:35,395
+
+
 You better make sure I'm dead...
 
-733
-01:09:38,613 --> 01:09:41,798
+
+
 You don't have to do this.
 We have to save the ship.
 
-734
-01:09:41,838 --> 01:09:45,564
+
+
 Don't sweat it
 and save me the speeches.
 
-735
-01:09:45,604 --> 01:09:48,403
+
+
 I wouldn't have survived this long
 if I had a heart.
 
-736
-01:09:49,841 --> 01:09:53,537
+
+
 You know, a strange thing,
 the survival instinct.
 
-737
-01:09:53,578 --> 01:09:57,373
+
+
 I mean, there's nothing really left
 to live for.
 
-738
-01:09:57,413 --> 01:10:00,969
+
+
 Don't be fucking stupid.
 I can save the fucking ship.
 
-739
-01:10:04,746 --> 01:10:08,601
+
+
 Question is,
 what would be more stupid?
 
-740
-01:10:08,641 --> 01:10:11,130
+
+
 Trusting the ship will hold
 to see another day
 
-741
-01:10:11,180 --> 01:10:14,476
+
+
 when it's kept me alive
 for all these years?
 
-742
-01:10:14,506 --> 01:10:16,635
+
+
 Or trusting somebody
 
-743
-01:10:16,675 --> 01:10:18,802
+
+
 who's desperate enough
 to say anything
 
-744
-01:10:18,842 --> 01:10:22,069
+
+
 just when I'm about to carve
 a steak out of his girlfriend?
 
-745
-01:10:23,707 --> 01:10:25,694
+
+
 Listen to the ship.
 
-746
-01:10:25,743 --> 01:10:27,533
+
+
 What about the ship?
 
-747
-01:10:29,570 --> 01:10:31,408
+
+
 The power surges...
 
-748
-01:10:31,439 --> 01:10:34,536
+
+
 the reactor is in its final stage.
 
-749
-01:10:34,576 --> 01:10:37,703
+
+
 We have less time than I thought.
 
-750
-01:10:37,743 --> 01:10:41,679
+
+
 The final phase before shutdown,
 
-751
-01:10:41,708 --> 01:10:44,077
+
+
 before we lose everything
 
-752
-01:10:44,106 --> 01:10:46,543
+
+
 and everyone onboard.
 
-753
-01:10:46,573 --> 01:10:50,470
+
+
 If we don't reset it now,
 
-754
-01:10:50,511 --> 01:10:53,737
+
+
 everything is lost.
 
-755
-01:10:53,777 --> 01:10:58,033
+
+
 She has been all moody lately.
 
-756
-01:10:58,073 --> 01:11:00,599
+
+
 Very moody.
 
-757
-01:11:00,639 --> 01:11:03,337
+
+
 Hey, listen.
 
-758
-01:11:03,377 --> 01:11:05,864
+
+
 Hey, I get it.
 
-759
-01:11:05,904 --> 01:11:09,470
+
+
 What? You get what?
 
-760
-01:11:09,511 --> 01:11:12,698
+
+
 You did what you had to do.
 
-761
-01:11:12,738 --> 01:11:16,404
+
+
 You made it.
 No one's gonna judge you.
 
-762
-01:11:16,444 --> 01:11:18,962
+
+
 No one's gonna judge you.
 
-763
-01:11:19,011 --> 01:11:21,478
+
+
 You are a survivor.
 
-764
-01:11:22,936 --> 01:11:26,304
+
+
 And right now we...
 
-765
-01:11:26,344 --> 01:11:29,201
+
+
 have to reset the reactor.
 
-766
-01:11:34,176 --> 01:11:38,113
+
+
 How long before the ship dies?
 
-767
-01:11:38,143 --> 01:11:39,831
+
+
 The truth.
 
-768
-01:11:39,871 --> 01:11:42,537
+
+
 I don't know.
 
-769
-01:11:42,578 --> 01:11:45,335
+
+
 Take a fucking guess.
 
-770
-01:11:46,944 --> 01:11:49,770
+
+
 An hour. Less.
 
-771
-01:12:01,677 --> 01:12:04,136
+
+
 -Well?
 -We're in this together.
 
-772
-01:12:04,176 --> 01:12:06,474
+
+
 I need your radio.
 We don't have much time.
 
-773
-01:12:12,677 --> 01:12:14,735
+
+
 Payton, do you copy?
 
-774
-01:12:14,775 --> 01:12:16,363
+
+
 Do you copy?
 Can you hear me?
 
-775
-01:12:16,404 --> 01:12:19,530
+
+
 Payton, do you copy?
 Can you hear me?
 
-776
-01:12:19,570 --> 01:12:21,768
+
+
 I'm here.
 Where are you?
 
-777
-01:12:21,807 --> 01:12:24,564
+
+
 Storage tank
 somewhere below B level.
 
-778
-01:12:24,604 --> 01:12:27,132
+
+
 Midship sector 12, I think.
 
-779
-01:12:27,172 --> 01:12:29,770
+
+
 How the hell did you get all the way
 to the other side of the ship?
 
-780
-01:12:29,810 --> 01:12:31,798
+
+
 The reactor is shutting down fast.
 
-781
-01:12:31,838 --> 01:12:34,836
+
+
 I need you to access the memory banks
 from the last power surge
 
-782
-01:12:34,876 --> 01:12:38,103
+
+
 -and run a Kolzer complex test.
 -Accessing memory banks now.
 
-783
-01:12:38,143 --> 01:12:40,201
+
+
 Running Kolzer complex.
 
-784
-01:12:46,542 --> 01:12:48,400
+
+
 You're not gonna like this.
 
-785
-01:12:48,440 --> 01:12:50,698
+
+
 Test says you have
 less than 47 minutes
 
-786
-01:12:50,738 --> 01:12:52,867
+
+
 before complete system failure.
 
-787
-01:12:52,907 --> 01:12:55,534
+
+
 -That's not much time.
 -How do we get you in there?
 
-788
-01:12:55,574 --> 01:12:57,971
+
+
 -I need you to give us a path.
 -Copy.
 
-789
-01:13:01,078 --> 01:13:03,197
+
+
 Move it.
 
-790
-01:13:29,171 --> 01:13:31,109
+
+
 No. It's a child.
 
-791
-01:13:31,139 --> 01:13:33,627
+
+
 Child?
 That's no fucking child.
 
-792
-01:13:41,137 --> 01:13:42,765
+
+
 They are breeding.
 
-793
-01:13:42,805 --> 01:13:45,064
+
+
 Little bastard.
 He went and got daddy.
 
-794
-01:13:57,742 --> 01:14:00,039
+
+
 This is not gonna work.
 There's too many of them.
 
-795
-01:14:00,069 --> 01:14:02,596
+
+
 We must be close
 to where they live.
 
-796
-01:14:02,636 --> 01:14:05,363
+
+
 Great.
 Now we're fucking stuck here.
 
-797
-01:14:08,171 --> 01:14:10,298
+
+
 What's so important
 on the other side of that door?
 
-798
-01:14:10,338 --> 01:14:12,827
+
+
 The bridge.
 We can take control of guidance
 
-799
-01:14:12,877 --> 01:14:14,274
+
+
 as soon as we get on the bridge.
 
-800
-01:14:14,305 --> 01:14:16,863
+
+
 How's that going to help?
 This ship is dying.
 
-801
-01:14:16,912 --> 01:14:19,430
+
+
 We should be focusing
 on how to save ourselves.
 
-802
-01:14:19,470 --> 01:14:22,567
+
+
 Oh, that's right.
 The Boy Scout is going to save us.
 
-803
-01:14:22,606 --> 01:14:24,505
+
+
 He can do it.
 
-804
-01:14:26,172 --> 01:14:29,369
+
+
 24 hours ago
 he didn't know his own name.
 
-805
-01:14:29,409 --> 01:14:32,268
+
+
 Now you think he's ready
 to reconfigure
 
-806
-01:14:32,307 --> 01:14:34,635
+
+
 a nuclear reactor?
 
-807
-01:14:34,675 --> 01:14:36,832
+
+
 If they don't leave soon,
 
-808
-01:14:36,872 --> 01:14:38,930
+
+
 there's no point in even going.
 
-809
-01:14:40,179 --> 01:14:42,006
+
+
 What are you doing?
 
-810
-01:14:42,037 --> 01:14:44,634
+
+
 These are our families
 
-811
-01:14:44,673 --> 01:14:47,141
+
+
 from flight personnel.
 
-812
-01:14:47,171 --> 01:14:50,368
+
+
 They're all dead.
 
-813
-01:14:51,507 --> 01:14:53,636
+
+
 You think she's here?
 
-814
-01:14:53,676 --> 01:14:56,144
+
+
 No, she's...
 
-815
-01:14:56,173 --> 01:14:57,971
+
+
 she's not here.
 
-816
-01:14:59,570 --> 01:15:01,568
+
+
 How do you know for sure?
 
-817
-01:15:01,606 --> 01:15:03,864
+
+
 'Cause she wouldn't come with me.
 
-818
-01:15:13,105 --> 01:15:16,132
+
+
 She's not on this flight.
 
-819
-01:15:16,172 --> 01:15:18,201
+
+
 She left me.
 
-820
-01:15:34,673 --> 01:15:36,761
+
+
 There was nothing left for me,
 
-821
-01:15:36,801 --> 01:15:38,740
+
+
 so I enlisted.
 
-822
-01:15:38,770 --> 01:15:41,707
+
+
 She's the reason why I left.
 
-823
-01:15:43,204 --> 01:15:46,641
+
+
 Well, then she saved your life.
 
-824
-01:15:46,671 --> 01:15:49,159
+
+
 That's very tragic.
 
-825
-01:15:49,210 --> 01:15:52,136
+
+
 But we've got to move on.
 I'm sick of this shit.
 
-826
-01:15:52,176 --> 01:15:53,466
+
+
 -For what?
 -What?
 
-827
-01:15:53,506 --> 01:15:55,304
+
+
 -For what?
 -Shh.
 
-828
-01:15:55,344 --> 01:15:57,360
+
+
 -They're all gone.
 -Shh.
 
-829
-01:15:57,411 --> 01:16:00,837
+
+
 -There's nothing left.
 -Shh! Shut your fucking mouth.
 
-830
-01:16:00,877 --> 01:16:03,135
+
+
 There's nothing left to go back to.
 
-831
-01:16:03,175 --> 01:16:05,573
+
+
 You're wrong.
 
-832
-01:16:05,603 --> 01:16:08,539
+
+
 Hey, we were meant to go on.
 
-833
-01:16:10,109 --> 01:16:13,305
+
+
 And we were meant to survive.
 
-834
-01:16:13,336 --> 01:16:15,363
+
+
 And now it's more
 important than ever.
 
-835
-01:16:15,404 --> 01:16:17,391
+
+
 We're wasting time.
 
-836
-01:16:17,442 --> 01:16:19,960
+
+
 -I remember.
 -What?
 
-837
-01:16:21,978 --> 01:16:24,234
+
+
 Clock's ticking.
 
-838
-01:16:28,310 --> 01:16:31,277
+
+
 Payton's wife Marianne.
 
-839
-01:16:38,240 --> 01:16:39,929
+
+
 I remember.
 
-840
-01:16:42,305 --> 01:16:45,203
+
+
 Bower was right about one thing:
 
-841
-01:16:45,243 --> 01:16:47,570
+
+
 Once this thing shuts down
 we are as good as dead.
 
-842
-01:16:47,610 --> 01:16:49,769
+
+
 What are you muttering about?
 
-843
-01:16:49,809 --> 01:16:53,234
+
+
 I'm saying once it's done
 we're done.
 
-844
-01:16:53,274 --> 01:16:55,603
+
+
 But we still have a way out of this.
 
-845
-01:16:55,643 --> 01:16:58,800
+
+
 You're suggesting what, Corporal?
 
-846
-01:16:58,840 --> 01:17:00,997
+
+
 We can launch ourselves in the pods
 
-847
-01:17:01,037 --> 01:17:04,434
+
+
 before the ignition systems
 are completely dead, sir.
 
-848
-01:17:04,474 --> 01:17:06,561
+
+
 That's suicide.
 
-849
-01:17:06,601 --> 01:17:08,001
+
+
 We can buy a few days,
 
-850
-01:17:08,039 --> 01:17:10,029
+
+
 which is better
 than what we have left here.
 
-851
-01:17:14,005 --> 01:17:16,302
+
+
 The reactor is close.
 
-852
-01:17:16,342 --> 01:17:17,801
+
+
 You can hear it breathe.
 
-853
-01:17:32,435 --> 01:17:34,095
+
+
 Yeah, this is it...
 
-854
-01:17:35,342 --> 01:17:38,430
+
+
 a descent into hell itself.
 
-855
-01:17:51,536 --> 01:17:54,304
+
+
 How long do you think that reactor
 has been sitting there, huh?
 
-856
-01:17:54,344 --> 01:17:56,862
+
+
 That thing could melt down
 
-857
-01:17:56,912 --> 01:17:58,569
+
+
 when he tries to fire the core.
 
-858
-01:18:00,408 --> 01:18:02,636
+
+
 This ship could be ripped in half.
 
-859
-01:18:02,676 --> 01:18:06,032
+
+
 Stand down, Corporal.
 We are not abandoning anything
 
-860
-01:18:06,072 --> 01:18:08,270
+
+
 and we are not leaving them behind.
 
-861
-01:18:08,310 --> 01:18:11,167
+
+
 We can't stay on this ship!
 You know that!
 
-862
-01:18:11,207 --> 01:18:14,074
+
+
 I said stand down, Corporal!
 
-863
-01:18:15,542 --> 01:18:17,201
+
+
 That's an order.
 
-864
-01:18:46,770 --> 01:18:48,000
+
+
 Christ Almighty.
 
-865
-01:19:19,309 --> 01:19:20,827
+
+
 Don't let go.
 
-866
-01:19:58,439 --> 01:19:59,927
+
+
 He's in.
 
-867
-01:20:00,936 --> 01:20:02,805
+
+
 We're gonna get ourselves
 out of this.
 
-868
-01:20:02,836 --> 01:20:04,462
+
+
 -Trust me.
 -Trust you?
 
-869
-01:20:04,502 --> 01:20:07,529
+
+
 How can I trust someone who
 isn't even honest with himself?
 
-870
-01:20:07,569 --> 01:20:10,127
+
+
 We still have time.
 
-871
-01:20:10,176 --> 01:20:13,073
+
+
 -You have to listen to me.
 -Don't do that.
 
-872
-01:20:13,104 --> 01:20:14,802
+
+
 Don't do what?
 
-873
-01:20:14,842 --> 01:20:18,170
+
+
 Don't talk to me like I'm some child
 that needs reassurance.
 
-874
-01:20:18,210 --> 01:20:19,797
+
+
 Then calm the fuck down.
 
-875
-01:20:19,837 --> 01:20:22,864
+
+
 I know this ship and I know what
 she's capable of better than anyone.
 
-876
-01:20:22,904 --> 01:20:26,461
+
+
 I know what she can and can't do.
 Why are we even arguing?
 
-877
-01:20:26,501 --> 01:20:28,729
+
+
 If you want to stay here
 to die that is your choice.
 
-878
-01:20:28,769 --> 01:20:32,065
+
+
 -I gave you an order.
 -Not mine. Not mine!
 
-879
-01:20:32,105 --> 01:20:33,573
+
+
 Corporal.
 
-880
-01:20:33,603 --> 01:20:35,572
+
+
 Who's the one being
 irrational here, Lieutenant?
 
-881
-01:20:35,601 --> 01:20:37,699
+
+
 Who's the one being delusional?
 
-882
-01:20:37,739 --> 01:20:40,537
+
+
 I'm getting off this ship.
 The flight is over.
 
-883
-01:20:40,577 --> 01:20:41,905
+
+
 Over!
 
-884
-01:21:42,604 --> 01:21:45,261
+
+
 -Don't shoot yourself into space.
 -Shut up.
 
-885
-01:21:45,301 --> 01:21:48,029
+
+
 -I'm getting off this ship.
 -Bower's going to reboot the reactor.
 
-886
-01:21:48,069 --> 01:21:49,766
+
+
 Shut up.
 
-887
-01:21:51,136 --> 01:21:53,663
+
+
 It wasn't the crew
 that was sick, was it?
 
-888
-01:21:53,703 --> 01:21:55,731
+
+
 -Finish the code.
 -Look at yourself.
 
-889
-01:21:55,771 --> 01:21:58,637
+
+
 -You're the one with the symptoms.
 -Finish it!
 
-890
-01:22:13,333 --> 01:22:15,332
+
+
 What are you doing?
 
-891
-01:22:15,372 --> 01:22:17,300
+
+
 It's for your own good.
 
-892
-01:22:17,340 --> 01:22:19,597
+
+
 What the fuck are you doing?
 
-893
-01:22:19,637 --> 01:22:21,576
+
+
 You're not well.
 
-894
-01:22:21,605 --> 01:22:24,122
+
+
 You just need the proper treatment.
 
-895
-01:22:26,539 --> 01:22:29,367
+
+
 Let me out, God damn it!
 
-896
-01:22:29,407 --> 01:22:32,894
+
+
 Open it!
 That is an order, motherfucker!
 
-897
-01:22:32,934 --> 01:22:35,930
+
+
 It's not your fault.
 
-898
-01:22:35,970 --> 01:22:39,457
+
+
 I will cut you to fucking bits.
 Open it!
 
-899
-01:22:39,507 --> 01:22:41,336
+
+
 Open it!
 I will carve you up!
 
-900
-01:22:41,376 --> 01:22:43,774
+
+
 Your mind has turned
 against itself.
 
-901
-01:22:43,804 --> 01:22:46,239
+
+
 You're killing us!
 
-902
-01:22:46,270 --> 01:22:48,568
+
+
 We are all going to die, Corporal.
 
-903
-01:22:59,506 --> 01:23:01,564
+
+
 Holy fuck.
 
-904
-01:23:46,069 --> 01:23:49,006
+
+
 Oh, shit.
 
-905
-01:24:47,137 --> 01:24:48,296
+
+
 They're coming.
 
-906
-01:24:56,738 --> 01:24:58,368
+
+
 Hurry up!
 
-907
-01:24:58,408 --> 01:24:59,627
+
+
 Shit.
 
-908
-01:25:04,203 --> 01:25:06,359
+
+
 Come on, come on, come on.
 
-909
-01:25:34,502 --> 01:25:38,197
+
+
 He did it.
 Boy Scout did it.
 
-910
-01:25:38,237 --> 01:25:41,164
+
+
 You were right.
 Now let me out.
 
-911
-01:25:41,204 --> 01:25:43,572
+
+
 I can help.
 
-912
-01:25:43,601 --> 01:25:45,590
+
+
 I'll help you.
 
-913
-01:25:48,905 --> 01:25:51,024
+
+
 What are you doing?
 
-914
-01:25:51,073 --> 01:25:53,192
+
+
 Are you still trying
 to get on the bridge?
 
-915
-01:25:54,400 --> 01:25:56,529
+
+
 You do not want
 to go in there, Corporal.
 
-916
-01:25:59,237 --> 01:26:01,135
+
+
 What are you gonna tell them, huh?
 
-917
-01:26:01,175 --> 01:26:04,141
+
+
 -Bower will be coming back here.
 -Shut up.
 
-918
-01:26:04,171 --> 01:26:06,029
+
+
 They'll know what you did.
 
-919
-01:27:06,768 --> 01:27:08,167
+
+
 Where do you think you're going?
 
-920
-01:27:08,206 --> 01:27:09,824
+
+
 Quiet.
 
-921
-01:27:09,864 --> 01:27:12,203
+
+
 Think about what you're doing, sir.
 
-922
-01:27:13,372 --> 01:27:16,198
+
+
 Shut the fuck up.
 
-923
-01:27:17,938 --> 01:27:19,956
+
+
 They will never let you
 get away with this.
 
-924
-01:27:20,006 --> 01:27:21,264
+
+
 Shut up!
 
-925
-01:27:37,737 --> 01:27:40,064
+
+
 They're everywhere.
 
-926
-01:28:03,502 --> 01:28:04,760
+
+
 Asshole!
 
-927
-01:29:05,838 --> 01:29:08,265
+
+
 We both know who needs this shot.
 
-928
-01:29:08,305 --> 01:29:11,563
+
+
 -Stay back.
 -Who's the one suffering here, sir?
 
-929
-01:29:11,603 --> 01:29:13,032
+
+
 I mean it!
 
-930
-01:29:14,939 --> 01:29:17,427
+
+
 What do you want from me?
 
-931
-01:29:19,265 --> 01:29:22,061
+
+
 Your mind has turned against itself.
 
-932
-01:29:25,298 --> 01:29:27,695
+
+
 I'm gonna fucking carve you up.
 
-933
-01:29:41,274 --> 01:29:43,261
+
+
 Who are you?
 
-934
-01:29:54,369 --> 01:29:57,067
+
+
 Ahem. Made it.
 
-935
-01:30:00,404 --> 01:30:02,231
+
+
 I was with your boy.
 
-936
-01:30:02,271 --> 01:30:05,759
+
+
 I helped him get all this started.
 
-937
-01:30:05,798 --> 01:30:07,497
+
+
 I see you're a flyer too.
 
-938
-01:30:53,800 --> 01:30:56,127
+
+
 Where's your lieutenant?
 
-939
-01:30:56,167 --> 01:30:58,225
+
+
 He's not my lieutenant.
 
-940
-01:31:11,271 --> 01:31:14,099
+
+
 Where are we?
 
-941
-01:31:14,139 --> 01:31:15,728
+
+
 What's happened to us?
 
-942
-01:31:15,768 --> 01:31:18,324
+
+
 The flight log
 
-943
-01:31:18,364 --> 01:31:21,462
+
+
 will tell us how long we've been out
 and how far we've gone.
 
-944
-01:31:36,438 --> 01:31:38,625
+
+
 It seems
 
-945
-01:31:38,664 --> 01:31:41,792
+
+
 my mild memory lapse
 
-946
-01:31:41,832 --> 01:31:43,930
+
+
 has finally worn off, Lieutenant.
 
-947
-01:31:43,970 --> 01:31:45,988
+
+
 Who the hell are you?
 
-948
-01:31:46,037 --> 01:31:49,333
+
+
 Gallo, Corporal.
 
-949
-01:31:49,363 --> 01:31:51,862
+
+
 I was younger than you
 when I first came onboard.
 
-950
-01:31:51,902 --> 01:31:55,837
+
+
 Funny, I can't even remember what life
 was like before this flight began.
 
-951
-01:31:55,868 --> 01:31:57,735
+
+
 It's all I have.
 
-952
-01:31:59,234 --> 01:32:01,432
+
+
 You're the one who received
 the final transmission.
 
-953
-01:32:01,472 --> 01:32:03,161
+
+
 You stayed awake.
 You broke the rotation.
 
-954
-01:32:03,201 --> 01:32:05,358
+
+
 You killed your crew.
 
-955
-01:32:05,398 --> 01:32:08,524
+
+
 How the hell would you know that?
 
-956
-01:32:08,564 --> 01:32:10,532
+
+
 Where are we?
 
-957
-01:32:13,539 --> 01:32:15,627
+
+
 Go ahead, take a peek.
 
-958
-01:32:23,770 --> 01:32:25,569
+
+
 You tell me.
 
-959
-01:32:30,972 --> 01:32:33,090
+
+
 What have you done with us?
 
-960
-01:32:33,130 --> 01:32:34,927
+
+
 You don't get it, kid.
 
-961
-01:32:34,967 --> 01:32:37,195
+
+
 There's no one left to judge.
 
-962
-01:32:37,235 --> 01:32:40,792
+
+
 Where are the stars?
 Oh my God.
 
-963
-01:32:40,832 --> 01:32:43,229
+
+
 God?
 You think God survived?
 
-964
-01:32:43,270 --> 01:32:45,757
+
+
 He's dead along with
 the rest of humanity.
 
-965
-01:32:45,797 --> 01:32:47,666
+
+
 There's no law or order,
 
-966
-01:32:47,706 --> 01:32:49,394
+
+
 no good or evil.
 Just us.
 
-967
-01:32:49,434 --> 01:32:52,920
+
+
 And you think you're going
 to be the one to judge me?
 
-968
-01:32:52,970 --> 01:32:54,229
+
+
 You want to take a shot at me?
 
-969
-01:32:54,269 --> 01:32:55,927
+
+
 You know what?
 I just might.
 
-970
-01:32:55,967 --> 01:32:57,395
+
+
 You are suffering, son.
 
-971
-01:32:57,435 --> 01:33:00,992
+
+
 I can see it in your face.
 I've been there.
 
-972
-01:33:01,032 --> 01:33:03,590
+
+
 Just imagine just for a minute,
 
-973
-01:33:03,640 --> 01:33:06,697
+
+
 imagine yourself without the chains
 of your morality.
 
-974
-01:33:06,737 --> 01:33:08,663
+
+
 You'd even surprise yourself.
 
-975
-01:33:08,703 --> 01:33:10,532
+
+
 It's the ultimate freedom.
 
-976
-01:33:10,572 --> 01:33:12,500
+
+
 No.
 
-977
-01:33:12,529 --> 01:33:14,658
+
+
 This isn't freedom.
 
-978
-01:33:14,698 --> 01:33:16,686
+
+
 This is pandorum.
 
-979
-01:33:16,737 --> 01:33:20,533
+
+
 Oh, pandorum. Pandorum isn't
 what they warned us about.
 
-980
-01:33:20,573 --> 01:33:22,591
+
+
 I know it's frightening at first,
 terrifying in fact.
 
-981
-01:33:22,631 --> 01:33:25,429
+
+
 Isn't that what you're feeling right now,
 terrible fear?
 
-982
-01:33:25,469 --> 01:33:29,063
+
+
 Let go and on the other side
 of it is divine clarity.
 
-983
-01:33:29,103 --> 01:33:30,761
+
+
 Purity.
 Enlightenment.
 
-984
-01:33:30,801 --> 01:33:32,770
+
+
 Shut up!
 What's out there?
 
-985
-01:33:32,800 --> 01:33:35,426
+
+
 You are resisting what is.
 
-986
-01:33:35,466 --> 01:33:38,364
+
+
 You have to let go of
 your petty concept of reality.
 
-987
-01:33:38,404 --> 01:33:40,563
+
+
 That's just baggage
 from the old world.
 
-988
-01:33:40,603 --> 01:33:43,289
+
+
 And we both know that didn't work
 out very well now, did it?
 
-989
-01:33:43,329 --> 01:33:47,235
+
+
 They fucked up our planet.
 Life eats life.
 
-990
-01:33:47,265 --> 01:33:50,492
+
+
 And all that's left is what is.
 
-991
-01:33:50,532 --> 01:33:52,591
+
+
 This ship is a seed
 
-992
-01:33:52,631 --> 01:33:55,188
+
+
 from which we can create a new world.
 
-993
-01:33:55,238 --> 01:33:56,395
+
+
 Shut up!
 What's out there?!
 
-994
-01:33:56,435 --> 01:33:58,194
+
+
 A new world.
 A natural state.
 
-995
-01:33:58,234 --> 01:34:00,421
+
+
 -Raw, beautiful...
 -What do you see?
 
-996
-01:34:00,471 --> 01:34:03,658
+
+
 ...perfect.
 I am offering you the kingdom.
 
-997
-01:34:03,698 --> 01:34:06,327
+
+
 And all that's holding you back
 
-998
-01:34:06,367 --> 01:34:08,024
+
+
 is your own fear.
 
-999
-01:34:10,271 --> 01:34:12,201
+
+
 Still the Boy Scout,
 hey, kid?
 
-1000
-01:34:12,229 --> 01:34:14,787
+
+
 There will always be law
 
-1001
-01:34:14,837 --> 01:34:17,426
+
+
 and you will pay
 for what you've done.
 
-1002
-01:34:17,466 --> 01:34:21,192
+
+
 Even if that means I have
 to pull the sick out of you.
 
-1003
-01:34:24,099 --> 01:34:25,926
+
+
 -Bower!
 -What is it?
 
-1004
-01:34:48,036 --> 01:34:50,052
+
+
 We've already crashed.
 
-1005
-01:34:50,103 --> 01:34:53,757
+
+
 We've been on Tanis
 all this time.
 
-1006
-01:34:55,237 --> 01:34:57,255
+
+
 All this time.
 
-1007
-01:35:01,230 --> 01:35:03,958
+
+
 I guess this thing
 does land itself.
 
-1008
-01:35:03,998 --> 01:35:05,966
+
+
 Doesn't float too well though,
 does it?
 
-1009
-01:35:10,902 --> 01:35:12,590
+
+
 Let go of your fear.
 
-1010
-01:35:13,798 --> 01:35:16,426
+
+
 This is where I'll push through.
 
-1011
-01:35:19,931 --> 01:35:22,420
+
+
 Shh shh.
 
-1012
-01:35:22,470 --> 01:35:24,368
+
+
 They're coming in.
 
-1013
-01:35:29,532 --> 01:35:30,730
+
+
 Attaboy.
 
-1014
-01:36:12,300 --> 01:36:14,556
+
+
 They're coming in.
 
-1015
-01:36:14,596 --> 01:36:17,323
+
+
 What are you doing?
 
-1016
-01:36:26,136 --> 01:36:27,725
+
+
 Why don't you shoot?
 
-1017
-01:37:25,067 --> 01:37:26,725
+
+
 Are you crazy?
 
-1018
-01:37:32,929 --> 01:37:36,095
+
+
 -Do you see that?
 -Fuck him.
 
-1019
-01:37:36,136 --> 01:37:38,153
+
+
 -We need to get out of here.
 -Hold on.
 
-1020
-01:37:38,203 --> 01:37:41,260
+
+
 Not like this.
 We can't die like this.
 
-1021
-01:37:41,300 --> 01:37:42,729
+
+
 Hold on.
 
-1022
-01:38:18,462 --> 01:38:21,229
+
+
 What?
 No, I can't...
 
-1023
-01:38:21,270 --> 01:38:22,998
+
+
 Just breathe.
 
-1024
-01:39:27,962 --> 01:39:30,291
+
+
 Hey. Hey.
 
-1025
-01:39:36,863 --> 01:39:38,353
+
+
 Just breathe.
 
-1026
-01:39:41,130 --> 01:39:43,287
+
+
 It's safe to wake up now.

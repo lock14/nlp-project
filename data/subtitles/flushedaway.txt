@@ -1,4722 +1,4722 @@
-1
-00:00:48,567 --> 00:00:52,480
+
+
 - Car's here!
 - It's 9.00! We'll miss our flight!
 
-2
-00:00:52,567 --> 00:00:55,240
+
+
 - Traveller's cheques...
 - You have the tickets?
 
-3
-00:00:55,327 --> 00:00:57,238
+
+
 - Tabitha, did you feed Roddy?
 - Oops.
 
-4
-00:00:57,327 --> 00:00:59,716
+
+
 I just know we've forgotten something.
 
-5
-00:00:59,807 --> 00:01:01,923
+
+
 Roddy, where are you?
 
-6
-00:01:02,247 --> 00:01:06,286
+
+
 We'll be back in a few days, so here's
 enough food for you. Here's more.
 
-7
-00:01:06,367 --> 00:01:08,039
+
+
 - Tabitha!
 - Here's a little more.
 
-8
-00:01:08,127 --> 00:01:11,244
+
+
 - I hope you're not overfeeding him.
 - Of course not, Mum.
 
-9
-00:01:11,327 --> 00:01:12,999
+
+
 - Come on, Tabitha!
 - Bye, Roddy.
 
-10
-00:01:13,087 --> 00:01:16,966
+
+
 - We don't want to miss our holiday.
 - I'm coming, I'm coming!
 
-11
-00:01:26,287 --> 00:01:28,596
+
+
 When the cat's away...
 
-12
-00:01:28,687 --> 00:01:31,247
+
+
 ...the mice will play!
 
-13
-00:01:31,327 --> 00:01:33,636
+
+
 The holiday starts now, everyone!
 
-14
-00:01:33,887 --> 00:01:35,479
+
+
 Music, maestro!
 
-15
-00:01:42,287 --> 00:01:46,246
+
+
 Hey, what are you all standing
 around for? I got a big day planned!
 
-16
-00:01:46,327 --> 00:01:48,204
+
+
 Let's go, people! Chop-chop!
 
-17
-00:01:50,567 --> 00:01:53,127
+
+
 Nope. Nope. Nope. Nope.
 
-18
-00:01:53,207 --> 00:01:55,277
+
+
 Nope. Nope. Nope.
 
-19
-00:02:06,207 --> 00:02:08,243
+
+
 Buckle up, everyone.
 
-20
-00:02:18,167 --> 00:02:19,680
+
+
 Fore!
 
-21
-00:02:22,927 --> 00:02:24,645
+
+
 Oops. Sorry.
 
-22
-00:02:28,727 --> 00:02:30,126
+
+
 Game point. Service!
 
-23
-00:02:30,527 --> 00:02:32,677
+
+
 We win! We win, team! We win!
 
-24
-00:02:46,007 --> 00:02:47,042
+
+
 Perfect.
 
-25
-00:03:03,807 --> 00:03:05,798
+
+
 Having a good time, darling?
 
-26
-00:03:12,327 --> 00:03:13,760
+
+
 Thank you.
 
-27
-00:03:16,647 --> 00:03:18,080
+
+
 See you tomorrow.
 
-28
-00:03:30,287 --> 00:03:31,436
+
+
 Good night!
 
-29
-00:03:31,527 --> 00:03:34,087
+
+
 Good night! Good night!
 
-30
-00:03:37,927 --> 00:03:41,124
+
+
 Yeah, well. Good night then, Roddy.
 
-31
-00:03:49,207 --> 00:03:50,799
+
+
 What was that?
 
-32
-00:03:52,647 --> 00:03:53,921
+
+
 Who's there?
 
-33
-00:03:54,847 --> 00:03:58,044
+
+
 Wake up.
 I think there's someone in the house.
 
-34
-00:03:58,127 --> 00:03:59,958
+
+
 Sarge, wake up!
 
-35
-00:04:01,407 --> 00:04:03,796
+
+
 Approaching enemy lines.
 
-36
-00:04:09,887 --> 00:04:13,197
+
+
 - I'm armed and ready.
 - At ease, soldier.
 
-37
-00:04:13,287 --> 00:04:15,926
+
+
 Give up your weapons
 of mass destruction.
 
-38
-00:04:16,007 --> 00:04:19,443
+
+
 Come get me, enemy of freedom!
 I'm armed and ready.
 
-39
-00:04:19,527 --> 00:04:23,156
+
+
 Tell Mom I... love... her.
 
-40
-00:05:10,727 --> 00:05:13,719
+
+
 They do not, repeat, not,
 have food like this in the sewer.
 
-41
-00:05:13,807 --> 00:05:14,796
+
+
 A sewer rat!
 
-42
-00:05:15,647 --> 00:05:18,161
+
+
 Who... What... How did you get here?
 
-43
-00:05:18,247 --> 00:05:23,002
+
+
 I don't know. One minute I'm in the pub.
 Next thing you know, whoosh!
 
-44
-00:05:23,087 --> 00:05:27,160
+
+
 It's a burst water main!
 Off I go, shooting up the pipes.
 
-45
-00:05:27,247 --> 00:05:29,681
+
+
 And, well, here I am.
 
-46
-00:05:29,767 --> 00:05:32,361
+
+
 I have a plunger.
 We can shoot you right back.
 
-47
-00:05:35,007 --> 00:05:36,235
+
+
 Do you like seafood?
 
-48
-00:05:36,327 --> 00:05:37,646
+
+
 Can I call you a cab?
 
-49
-00:05:38,727 --> 00:05:40,479
+
+
 See food! Get it?
 
-50
-00:05:41,967 --> 00:05:43,116
+
+
 Have you got a TV?
 
-51
-00:05:43,207 --> 00:05:45,198
+
+
 - Yes, but...
 - Say no more!
 
-52
-00:05:45,287 --> 00:05:47,039
+
+
 No. Leave that.
 
-53
-00:05:47,127 --> 00:05:48,480
+
+
 Geronimo!
 
-54
-00:05:48,567 --> 00:05:50,717
+
+
 No, don't... touch anything.
 
-55
-00:05:50,807 --> 00:05:54,083
+
+
 Would you look at the size
 of that monster?!
 
-56
-00:05:57,887 --> 00:06:00,845
+
+
 Careful, mate.
 Those aren't chocolate buttons.
 
-57
-00:06:02,487 --> 00:06:06,082
+
+
 It's the match of the century!
 The FIFA World Cup Final!
 
-58
-00:06:06,167 --> 00:06:08,397
+
+
 - England. Germany.
 - Yes! Boo!
 
-59
-00:06:08,487 --> 00:06:10,364
+
+
 Live this Sunday. Be there.
 
-60
-00:06:10,447 --> 00:06:13,803
+
+
 This place is great!
 I'm staying here forever!
 
-61
-00:06:13,887 --> 00:06:15,286
+
+
 What?
 
-62
-00:06:17,367 --> 00:06:18,720
+
+
 Game point. Service!
 
-63
-00:06:19,207 --> 00:06:22,882
+
+
 We win, we win!
 You lose! In your face!
 
-64
-00:06:30,127 --> 00:06:35,360
+
+
 Right, my friend. You don't belong here.
 I'm afraid it's time for you to leave.
 
-65
-00:06:35,687 --> 00:06:39,396
+
+
 I would not do that if I was you, pal.
 
-66
-00:06:39,487 --> 00:06:43,162
+
+
 Let me lay this out for you.
 This place is mine now.
 
-67
-00:06:43,247 --> 00:06:47,081
+
+
 Sid says, "Jump," you say,
 "How high?" Comprende?
 
-68
-00:06:47,167 --> 00:06:50,921
+
+
 Fetch us some Pop-Tarts from the
 kitchen, Jeeves. Be snappy about it.
 
-69
-00:06:53,087 --> 00:06:55,078
+
+
 Yes, sir. Right away, sir.
 
-70
-00:06:55,167 --> 00:06:56,566
+
+
 That's more like it.
 
-71
-00:06:56,647 --> 00:06:59,764
+
+
 But before breakfast is served...
 
-72
-00:06:59,847 --> 00:07:03,396
+
+
 ...perhaps sir would care
 to take a whirl in the Jacuzzi.
 
-73
-00:07:03,487 --> 00:07:06,126
+
+
 A Jacuzzi?
 
-74
-00:07:09,287 --> 00:07:10,766
+
+
 You're a real gent.
 
-75
-00:07:10,847 --> 00:07:13,077
+
+
 After a hard day
 navigating sewer pipes,
 
-76
-00:07:13,167 --> 00:07:17,604
+
+
 there's nothing better than relaxing
 in a Jacuzzi whirlpool bath.
 
-77
-00:07:17,687 --> 00:07:20,121
+
+
 That looks so inviting.
 
-78
-00:07:20,207 --> 00:07:22,402
+
+
 Yes. The water looks perfect!
 
-79
-00:07:22,487 --> 00:07:26,685
+
+
 Now you hop in, and I'll press
 this lever to get the bubbles going.
 
-80
-00:07:26,767 --> 00:07:28,917
+
+
 Right. In we go!
 
-81
-00:07:30,207 --> 00:07:31,925
+
+
 Wait, wait, wait, wait, wait.
 
-82
-00:07:32,007 --> 00:07:34,043
+
+
 I know we got off
 on the wrong foot before,
 
-83
-00:07:34,127 --> 00:07:36,641
+
+
 but I think we're
 gonna get along, don't you?
 
-84
-00:07:36,727 --> 00:07:38,126
+
+
 Swimmingly.
 
-85
-00:07:40,407 --> 00:07:41,442
+
+
 Be seeing you.
 
-86
-00:07:44,527 --> 00:07:45,879
+
+
 You plonker!
 
-87
-00:07:45,967 --> 00:07:48,481
+
+
 You think I don't know a toilet
 when I see one?
 
-88
-00:07:48,567 --> 00:07:50,717
+
+
 You were going to flush me down the loo.
 
-89
-00:07:50,807 --> 00:07:52,957
+
+
 No! It's a big Jacuzzi! Deluxe model!
 
-90
-00:07:53,047 --> 00:07:55,686
+
+
 Then you won't mind
 if I get the bubbles going.
 
-91
-00:07:55,767 --> 00:07:58,964
+
+
 No! Not the lever!
 Have mercy! No, I can't swim!
 
-92
-00:07:59,047 --> 00:08:01,356
+
+
 Bon voyage, me old cream cracker!
 
-93
-00:08:01,447 --> 00:08:03,438
+
+
 - Hold your nose!
 - You can't do this!
 
-94
-00:08:03,527 --> 00:08:07,315
+
+
 You were going to try to flush me.
 Let's see how you like it.
 
-95
-00:08:29,807 --> 00:08:31,399
+
+
 Have you seen my dad?
 
-96
-00:09:07,007 --> 00:09:09,965
+
+
 Oh, no, I can't swim!
 I can't swim! I can't...
 
-97
-00:09:11,087 --> 00:09:12,440
+
+
 ...swim.
 
-98
-00:09:15,247 --> 00:09:17,442
+
+
 I'm... in... the sewer!
 
-99
-00:09:36,407 --> 00:09:37,681
+
+
 Hello?
 
-100
-00:09:39,927 --> 00:09:41,042
+
+
 Help?
 
-101
-00:09:43,767 --> 00:09:46,804
+
+
 I'm gonna open my eyes and be home.
 This is all a bad dream.
 
-102
-00:09:47,487 --> 00:09:49,079
+
+
 I'm not home! I wanna go home!
 
-103
-00:09:49,167 --> 00:09:50,919
+
+
 Shush! Stop it. Roddy!
 
-104
-00:09:51,007 --> 00:09:53,362
+
+
 I want to go home!
 Pull yourself together!
 
-105
-00:09:53,447 --> 00:09:55,244
+
+
 I can't. I'm frightened.
 
-106
-00:09:55,327 --> 00:09:57,283
+
+
 Stop it, stop it, stop it!
 
-107
-00:09:57,367 --> 00:10:02,316
+
+
 All right, Roddy, old man, you can
 get yourself out of here, and you will.
 
-108
-00:10:03,127 --> 00:10:04,276
+
+
 Never forget,
 
-109
-00:10:04,367 --> 00:10:07,916
+
+
 the blood of the courageous
 James clan flows through your veins.
 
-110
-00:10:22,967 --> 00:10:24,878
+
+
 Extra! Extra!
 
-111
-00:10:26,207 --> 00:10:27,356
+
+
 Read all about it!
 
-112
-00:10:28,927 --> 00:10:30,360
+
+
 A way out! Yes!
 
-113
-00:10:40,527 --> 00:10:43,121
+
+
 Hey! That took me 3 years to draw!
 
-114
-00:10:43,207 --> 00:10:45,482
+
+
 I'm terribly sorry. Three years?
 
-115
-00:10:45,567 --> 00:10:47,523
+
+
 I just finished it this morning!
 
-116
-00:10:47,607 --> 00:10:50,121
+
+
 Three years?
 
-117
-00:10:50,527 --> 00:10:53,724
+
+
 Good grief!
 
-118
-00:11:00,727 --> 00:11:02,843
+
+
 - What is this place?
 - Hold the bus!
 
-119
-00:11:02,927 --> 00:11:06,283
+
+
 Feed the flies! Tuppence a bag!
 
-120
-00:11:13,127 --> 00:11:14,526
+
+
 It's a real city!
 
-121
-00:11:20,207 --> 00:11:21,435
+
+
 My smalls!
 
-122
-00:11:21,527 --> 00:11:23,199
+
+
 - Is it a bird?
 - Is it a plane?
 
-123
-00:11:23,287 --> 00:11:25,562
+
+
 Is that guy wearing my underpants?
 
-124
-00:11:25,647 --> 00:11:26,966
+
+
 Make him move, honey.
 
-125
-00:11:27,047 --> 00:11:29,481
+
+
 Boy, you got a face like a frying pan!
 
-126
-00:11:29,567 --> 00:11:32,286
+
+
 - Come on!
 - I don't think he speaks English.
 
-127
-00:11:32,367 --> 00:11:34,517
+
+
 He moved! Did you get it?
 
-128
-00:11:35,167 --> 00:11:37,044
+
+
 - Got it!
 - Good.
 
-129
-00:11:37,127 --> 00:11:39,004
+
+
 Sorry, sorry.
 
-130
-00:11:39,087 --> 00:11:41,555
+
+
 - It's coming!
 - What? Where? Who?
 
-131
-00:11:41,647 --> 00:11:43,160
+
+
 The Great Flood!
 
-132
-00:11:43,247 --> 00:11:47,798
+
+
 Those floodgates won't hold forever,
 you know! We're doomed!
 
-133
-00:11:47,887 --> 00:11:50,242
+
+
 You think you can back away
 from the truth!
 
-134
-00:11:50,327 --> 00:11:52,921
+
+
 'Ello, hello, hello.
 What's all this then?
 
-135
-00:11:53,007 --> 00:11:56,443
+
+
 Thank heavens! A policeman!
 This wacko has been chasing after me!
 
-136
-00:11:56,527 --> 00:11:57,721
+
+
 'Morning, Harold.
 
-137
-00:11:57,807 --> 00:12:00,401
+
+
 - 'Morning, Collin. How are you?
 - Can't complain.
 
-138
-00:12:00,487 --> 00:12:03,365
+
+
 Keep an eye on this one.
 He's a bit of a loony.
 
-139
-00:12:03,447 --> 00:12:04,800
+
+
 We're doomed!
 
-140
-00:12:04,887 --> 00:12:06,479
+
+
 - Are you kidding me?
 - Right.
 
-141
-00:12:06,567 --> 00:12:09,479
+
+
 - Let's give you a police escort home.
 - Great!
 
-142
-00:12:09,567 --> 00:12:13,640
+
+
 I live in Kensington.
 Up there. The surface.
 
-143
-00:12:13,727 --> 00:12:16,844
+
+
 Up Top? Oh, no. No, no, no.
 
-144
-00:12:16,927 --> 00:12:19,316
+
+
 The humans don't like our sort.
 
-145
-00:12:19,407 --> 00:12:23,241
+
+
 Speak for yourself.
 They like me very much up there.
 
-146
-00:12:23,327 --> 00:12:28,481
+
+
 I don't like your attitude.
 I've got my eye on you, sunshine.
 
-147
-00:12:31,487 --> 00:12:33,955
+
+
 You're trying to get Up Top, me hearty?
 
-148
-00:12:35,167 --> 00:12:36,441
+
+
 Yes.
 
-149
-00:12:38,127 --> 00:12:42,678
+
+
 There's one person 'round here
 might be able to help you. Might.
 
-150
-00:12:42,767 --> 00:12:43,836
+
+
 Really?
 
-151
-00:12:43,927 --> 00:12:47,806
+
+
 Shady customer.
 The captain of the Jammy Dodger.
 
-152
-00:12:47,887 --> 00:12:51,846
+
+
 - If you can find it.
 - I know where it is!
 
-153
-00:12:58,287 --> 00:13:03,156
+
+
 And remember,
 the name of the boat's the Jammy Dodger.
 
-154
-00:13:03,247 --> 00:13:05,807
+
+
 Thanks for bringing me this far.
 
-155
-00:13:05,887 --> 00:13:08,196
+
+
 You're welcome.
 
-156
-00:13:09,327 --> 00:13:10,601
+
+
 See ya!
 
-157
-00:13:24,567 --> 00:13:26,285
+
+
 Beware.
 
-158
-00:13:26,367 --> 00:13:28,085
+
+
 Beware.
 
-159
-00:13:32,007 --> 00:13:33,326
+
+
 Hello?
 
-160
-00:13:34,127 --> 00:13:36,163
+
+
 Permission to come aboard?
 
-161
-00:13:38,007 --> 00:13:39,725
+
+
 Ahoy there?
 
-162
-00:14:04,007 --> 00:14:07,443
+
+
 Sorry. I didn't mean to intrude,
 Mr Captain, Skipper, Thingy.
 
-163
-00:14:07,527 --> 00:14:11,202
+
+
 Hey! That's Miss Captain
 Skipper Thingy to you.
 
-164
-00:14:12,327 --> 00:14:14,283
+
+
 What are you doing on my boat?
 
-165
-00:14:14,367 --> 00:14:16,244
+
+
 I've had a bad day and need your help.
 
-166
-00:14:16,327 --> 00:14:19,160
+
+
 I was thrown out of my own home,
 flushed down my own toilet.
 
-167
-00:14:19,247 --> 00:14:22,159
+
+
 Thank you, too much information.
 I have my own problems.
 
-168
-00:14:22,247 --> 00:14:24,715
+
+
 She's around here somewhere!
 
-169
-00:14:24,807 --> 00:14:27,037
+
+
 Stay down. And keep quiet.
 
-170
-00:14:30,487 --> 00:14:32,125
+
+
 Why? Who are we hiding from?
 
-171
-00:14:32,207 --> 00:14:35,597
+
+
 I said quiet! There's rats after me
 who'd like to kill me.
 
-172
-00:14:35,687 --> 00:14:38,121
+
+
 Well, I'll contain my amazement.
 
-173
-00:14:39,007 --> 00:14:42,283
+
+
 All right, all right. Quiet as a mouse.
 
-174
-00:14:50,127 --> 00:14:51,879
+
+
 Over there!
 
-175
-00:14:51,967 --> 00:14:53,480
+
+
 You idiot!
 
-176
-00:14:53,567 --> 00:14:54,920
+
+
 Sorry about that.
 
-177
-00:14:55,007 --> 00:14:56,838
+
+
 I'll be off then.
 
-178
-00:14:57,167 --> 00:14:58,441
+
+
 Sorry.
 
-179
-00:14:59,407 --> 00:15:01,318
+
+
 Sorry. Sorry.
 
-180
-00:15:01,647 --> 00:15:02,796
+
+
 Sorry!
 
-181
-00:15:02,887 --> 00:15:04,320
+
+
 We can't let her get away!
 
-182
-00:15:07,247 --> 00:15:10,284
+
+
 Come on, Jammy,
 me old mate, don't do this to me!
 
-183
-00:15:20,727 --> 00:15:23,560
+
+
 Let me go, you pink-eyed freak!
 
-184
-00:15:23,647 --> 00:15:25,365
+
+
 I'm upset now.
 
-185
-00:15:27,087 --> 00:15:29,317
+
+
 Whatever's going on, I'm not involved.
 
-186
-00:15:29,807 --> 00:15:31,877
+
+
 I'm an innocent bystander!
 
-187
-00:15:32,207 --> 00:15:34,767
+
+
 Rita, Rita, Rita!
 
-188
-00:15:37,727 --> 00:15:40,287
+
+
 You thought you could give us the slip.
 
-189
-00:15:42,447 --> 00:15:45,962
+
+
 What are you looking at?
 Keep still! Come on, then! Right!
 
-190
-00:15:47,327 --> 00:15:49,602
+
+
 Who have we got here?
 
-191
-00:15:49,687 --> 00:15:53,077
+
+
 I believe he said
 his name was Millicent Bystander.
 
-192
-00:15:53,647 --> 00:15:55,797
+
+
 - Millicent!
 - Actually, no...
 
-193
-00:15:55,887 --> 00:15:59,004
+
+
 Now, then, where's the ruby, Rita?
 
-194
-00:15:59,087 --> 00:16:00,679
+
+
 The boss wants it back.
 
-195
-00:16:00,767 --> 00:16:02,678
+
+
 I don't have your stupid ruby.
 
-196
-00:16:03,087 --> 00:16:06,238
+
+
 OK, are we going to do it
 the easy way...
 
-197
-00:16:06,327 --> 00:16:07,999
+
+
 ...or the hard way?
 
-198
-00:16:08,087 --> 00:16:10,760
+
+
 I think we should do it
 the easy way, don't you, Spike?
 
-199
-00:16:13,647 --> 00:16:16,115
+
+
 All right. Check the tin.
 
-200
-00:16:16,207 --> 00:16:17,845
+
+
 Good girl.
 
-201
-00:16:17,927 --> 00:16:19,565
+
+
 See, Whitey, this is how I do it.
 
-202
-00:16:19,647 --> 00:16:21,763
+
+
 Watch and learn, my son. Watch and...
 
-203
-00:16:28,047 --> 00:16:29,116
+
+
 Was it in there?
 
-204
-00:16:29,207 --> 00:16:31,675
+
+
 Right! Rip it up, lads!
 
-205
-00:16:33,287 --> 00:16:36,962
+
+
 Hey, you get
 your filthy paws off my stuff!
 
-206
-00:16:38,327 --> 00:16:41,603
+
+
 It's in here somewhere.
 I can feel it in me guts!
 
-207
-00:16:41,687 --> 00:16:43,518
+
+
 That'll be last night's curry.
 
-208
-00:16:43,607 --> 00:16:46,440
+
+
 I'm the same.
 I got a bum like the Japanese flag.
 
-209
-00:16:46,527 --> 00:16:49,280
+
+
 Will you please tell them
 I'm not involved in this?
 
-210
-00:16:49,367 --> 00:16:51,483
+
+
 Fine. All right, all right, listen up.
 
-211
-00:16:51,567 --> 00:16:53,683
+
+
 This gentleman,
 he's not from around here.
 
-212
-00:16:53,767 --> 00:16:54,756
+
+
 Thank you.
 
-213
-00:16:54,847 --> 00:16:57,361
+
+
 - Just look how nicely he's dressed.
 - Thank you.
 
-214
-00:16:57,447 --> 00:17:00,405
+
+
 And why? Because he's
 an international jewel thief!
 
-215
-00:17:00,487 --> 00:17:02,717
+
+
 Precisely. What? No, no!
 
-216
-00:17:02,807 --> 00:17:05,719
+
+
 - He stole the ruby from me!
 - No, she's lying!
 
-217
-00:17:05,807 --> 00:17:09,243
+
+
 All right, all right!
 It's time to bring out...
 
-218
-00:17:09,327 --> 00:17:11,397
+
+
 ...the Persuader.
 
-219
-00:17:13,647 --> 00:17:15,797
+
+
 Your choice, mate. You can talk now
 
-220
-00:17:15,887 --> 00:17:18,799
+
+
 or you can talk later.
 Ain't that right, Persuader?
 
-221
-00:17:18,887 --> 00:17:22,038
+
+
 Yeah, in a much higher voice!
 
-222
-00:17:22,127 --> 00:17:24,277
+
+
 The Persuader's alive, Spike!
 
-223
-00:17:24,367 --> 00:17:26,244
+
+
 You'll be singing like a tea kettle.
 
-224
-00:17:26,327 --> 00:17:28,238
+
+
 Good one, Persuader.
 
-225
-00:17:28,327 --> 00:17:31,080
+
+
 I don't even know her!
 I don't know anything!
 
-226
-00:17:31,167 --> 00:17:34,125
+
+
 Careful, miss. You'll injure yourself.
 
-227
-00:17:35,087 --> 00:17:36,361
+
+
 I know where it is!
 
-228
-00:17:36,447 --> 00:17:37,960
+
+
 Come on, then. Spit it out!
 
-229
-00:17:38,047 --> 00:17:39,605
+
+
 Don't you dare!
 
-230
-00:17:39,687 --> 00:17:42,963
+
+
 Look at her bottom.
 Is it me, or is it oddly shaped?
 
-231
-00:17:43,047 --> 00:17:45,481
+
+
 You little snitch.
 
-232
-00:17:45,567 --> 00:17:48,206
+
+
 The booty's in the booty.
 
-233
-00:17:56,927 --> 00:18:01,045
+
+
 Thanks, mate! The boss is
 gonna be so happy with us.
 
-234
-00:18:02,007 --> 00:18:04,077
+
+
 You're toast.
 
-235
-00:18:08,047 --> 00:18:09,639
+
+
 So you're from Up Top?
 
-236
-00:18:09,727 --> 00:18:12,764
+
+
 I used to work in a laboratory Up Top.
 
-237
-00:18:12,847 --> 00:18:15,156
+
+
 Yeah. Big shampoo job.
 
-238
-00:18:15,247 --> 00:18:18,284
+
+
 I was dark grey when we started.
 
-239
-00:18:19,087 --> 00:18:21,317
+
+
 Still, it cleared up me dandruff.
 
-240
-00:18:23,367 --> 00:18:27,155
+
+
 The World Cup has become the most
 popular sporting event in the world.
 
-241
-00:18:27,247 --> 00:18:29,966
+
+
 Are you there, boss? We're back.
 
-242
-00:18:30,047 --> 00:18:32,515
+
+
 I've got it, boss.
 
-243
-00:18:32,607 --> 00:18:35,360
+
+
 The ruby. I found it.
 
-244
-00:18:35,447 --> 00:18:38,723
+
+
 Technically, Spike,
 it was Millicent that found it.
 
-245
-00:18:38,807 --> 00:18:41,002
+
+
 Actually, the name's Roddy.
 
-246
-00:18:41,087 --> 00:18:44,716
+
+
 In exchange for my assistance,
 I was hoping you might...
 
-247
-00:18:46,727 --> 00:18:50,561
+
+
 You might help me
 out of the pickle I'm in.
 
-248
-00:18:53,567 --> 00:18:56,081
+
+
 Hello, Rita.
 
-249
-00:18:56,167 --> 00:18:57,520
+
+
 Hello, handsome.
 
-250
-00:18:57,607 --> 00:19:01,282
+
+
 And who is this?
 Is your new boyfriend a waiter?
 
-251
-00:19:01,367 --> 00:19:03,244
+
+
 - Boyfriend?!
 - Waiter?!
 
-252
-00:19:05,487 --> 00:19:08,206
+
+
 The prize returns to me.
 
-253
-00:19:10,127 --> 00:19:12,960
+
+
 Did you imagine
 that I'd let you steal it from me?
 
-254
-00:19:13,047 --> 00:19:17,040
+
+
 What?! That jewel belongs
 to my father, and you know it!
 
-255
-00:19:17,367 --> 00:19:21,883
+
+
 Your father? A good-for-nothing
 scavenger, just like his daughter!
 
-256
-00:19:21,967 --> 00:19:24,242
+
+
 Excuse me. Actually,
 
-257
-00:19:24,327 --> 00:19:26,238
+
+
 I'm the one that found your ruby.
 
-258
-00:19:26,327 --> 00:19:29,364
+
+
 So... you...
 
-259
-00:19:29,447 --> 00:19:33,076
+
+
 Perhaps you'd repay the favour
 and help me get home.
 
-260
-00:19:33,847 --> 00:19:35,246
+
+
 Help me!
 
-261
-00:19:36,367 --> 00:19:37,800
+
+
 Dispose of them.
 
-262
-00:19:37,887 --> 00:19:41,323
+
+
 No, no, no, please!
 I just want to get home to Kensington!
 
-263
-00:19:43,047 --> 00:19:45,845
+
+
 Kensington? The Royal Borough?
 
-264
-00:19:45,927 --> 00:19:47,280
+
+
 Up Top?
 
-265
-00:19:47,367 --> 00:19:49,927
+
+
 Yes. Up Top.
 
-266
-00:19:50,727 --> 00:19:53,366
+
+
 Huzzah! A man of quality!
 
-267
-00:19:53,447 --> 00:19:55,244
+
+
 Finally, somebody gets it.
 
-268
-00:19:55,567 --> 00:19:58,081
+
+
 Come, let me show you
 my private collection.
 
-269
-00:19:58,167 --> 00:20:00,920
+
+
 I know you'll find it diverting.
 
-270
-00:20:04,887 --> 00:20:07,117
+
+
 My shrine to beauty.
 
-271
-00:20:07,207 --> 00:20:11,678
+
+
 Works of high art crafted
 in tribute to our beloved Royal Family.
 
-272
-00:20:11,767 --> 00:20:14,440
+
+
 Victoria's bust, wrought in porcelain.
 
-273
-00:20:14,527 --> 00:20:15,960
+
+
 Classy!
 
-274
-00:20:16,047 --> 00:20:17,924
+
+
 Quite lifelike, wouldn't you say?
 
-275
-00:20:18,447 --> 00:20:20,199
+
+
 It's as if she were here.
 
-276
-00:20:20,847 --> 00:20:22,678
+
+
 Smooth to the touch.
 
-277
-00:20:22,767 --> 00:20:23,756
+
+
 Easy, tiger.
 
-278
-00:20:25,327 --> 00:20:28,285
+
+
 But come! Let us restore the heart
 
-279
-00:20:28,367 --> 00:20:30,835
+
+
 and highlight of my collection...
 
-280
-00:20:30,927 --> 00:20:35,682
+
+
 ...this ruby. Fallen from
 the very brow of ancient kings.
 
-281
-00:20:35,767 --> 00:20:38,645
+
+
 A true crown jewel!
 
-282
-00:20:42,487 --> 00:20:44,478
+
+
 Well, what do you think?
 
-283
-00:20:44,567 --> 00:20:46,762
+
+
 He's a madman! Run away!
 
-284
-00:20:46,847 --> 00:20:49,486
+
+
 Pardon me. My fly's undone.
 
-285
-00:20:50,687 --> 00:20:53,804
+
+
 Well, your ruby certainly is a biggie.
 
-286
-00:20:53,887 --> 00:20:55,764
+
+
 Indeed.
 
-287
-00:20:55,847 --> 00:21:00,204
+
+
 How did it ever find me,
 here in the underbelly of the world?
 
-288
-00:21:00,287 --> 00:21:03,085
+
+
 In this dark, low place.
 
-289
-00:21:04,367 --> 00:21:08,807
+
+
 Yes. I'd love to see more of your
 collection. It's very amusing, but I...
 
-290
-00:21:08,927 --> 00:21:10,076
+
+
 "Amusing"?
 
-291
-00:21:10,927 --> 00:21:12,679
+
+
 Didn't you say I'd find it amusing?
 
-292
-00:21:12,767 --> 00:21:16,442
+
+
 I said you'd find it diverting,
 not amusing!
 
-293
-00:21:16,527 --> 00:21:20,156
+
+
 When I said "amusing"
 I really meant it in the sense
 
-294
-00:21:20,247 --> 00:21:23,717
+
+
 of the ancient Greek muse,
 the goddess of inspiration.
 
-295
-00:21:25,007 --> 00:21:26,281
+
+
 Muse.
 
-296
-00:21:35,847 --> 00:21:37,644
+
+
 Smashing.
 
-297
-00:21:39,967 --> 00:21:41,764
+
+
 Heaven help me!
 
-298
-00:21:42,287 --> 00:21:44,357
+
+
 Ice him! Ice them both!
 
-299
-00:21:45,167 --> 00:21:48,159
+
+
 Let's see if there's
 anything good in the fridge.
 
-300
-00:21:50,087 --> 00:21:52,601
+
+
 Former enemies, one and all.
 
-301
-00:21:52,687 --> 00:21:57,715
+
+
 A catalogue of thieves,
 double-crossers and do-gooders.
 
-302
-00:21:59,207 --> 00:22:03,439
+
+
 Prepare to meet your maker,
 your ice maker.
 
-303
-00:22:04,847 --> 00:22:06,678
+
+
 Makes me laugh every time, that one.
 
-304
-00:22:06,767 --> 00:22:07,995
+
+
 Shut that door.
 
-305
-00:22:11,367 --> 00:22:13,961
+
+
 Liquid nitrogen!
 That will freeze us instantly!
 
-306
-00:22:14,047 --> 00:22:17,005
+
+
 There's a paper clip in my back pocket.
 See if you can get it.
 
-307
-00:22:17,287 --> 00:22:18,766
+
+
 In the pocket, in the pocket!
 
-308
-00:22:23,807 --> 00:22:25,638
+
+
 Blimey, it's cold.
 
-309
-00:22:25,727 --> 00:22:27,718
+
+
 That's why I wore me mittens.
 
-310
-00:22:27,807 --> 00:22:31,402
+
+
 Hit men don't wear mittens!
 Take them off! You're embarrassing me.
 
-311
-00:22:31,487 --> 00:22:34,160
+
+
 It's all right for you.
 You've got little hands.
 
-312
-00:22:34,247 --> 00:22:36,283
+
+
 - Got it!
 - They don't get as cold.
 
-313
-00:22:36,367 --> 00:22:38,722
+
+
 - I ain't got little hands!
 - Yeah, you have.
 
-314
-00:22:38,807 --> 00:22:40,081
+
+
 You got lady's hands.
 
-315
-00:22:40,647 --> 00:22:43,400
+
+
 They might be small,
 but they're lethal weapons.
 
-316
-00:22:43,487 --> 00:22:45,000
+
+
 You got your mother's hands.
 
-317
-00:22:45,847 --> 00:22:48,361
+
+
 Right. Put your hands together.
 
-318
-00:22:50,927 --> 00:22:52,838
+
+
 You could have wiped your feet.
 
-319
-00:22:53,167 --> 00:22:54,839
+
+
 Stop squirming!
 
-320
-00:22:59,967 --> 00:23:01,366
+
+
 Goodbye, vermin.
 
-321
-00:23:07,247 --> 00:23:11,399
+
+
 Now, let me see the latest addition
 to my cubist collection.
 
-322
-00:23:14,327 --> 00:23:18,479
+
+
 - What?! Impossible!
 - Oi! Kermit!
 
-323
-00:23:18,807 --> 00:23:22,800
+
+
 The prize returns to me!
 
-324
-00:23:22,887 --> 00:23:25,355
+
+
 You big, fat, slimy airbag!
 
-325
-00:23:26,727 --> 00:23:28,240
+
+
 After them!
 
-326
-00:23:29,807 --> 00:23:32,037
+
+
 Why are you stopping?
 Don't we have a plan?
 
-327
-00:23:32,127 --> 00:23:33,719
+
+
 "We"? Who's "we"?
 
-328
-00:23:33,807 --> 00:23:35,399
+
+
 You can't just leave me here!
 
-329
-00:23:35,487 --> 00:23:38,604
+
+
 Faster, you idiots! They're escaping!
 
-330
-00:23:53,007 --> 00:23:55,521
+
+
 No! Not the master cable!
 
-331
-00:23:55,607 --> 00:23:56,722
+
+
 We have a plan?
 
-332
-00:23:56,807 --> 00:23:57,956
+
+
 Put that back!
 
-333
-00:23:59,007 --> 00:24:01,202
+
+
 Wait, wait!
 That will never hold both of us.
 
-334
-00:24:01,287 --> 00:24:02,959
+
+
 You're right. Toodle-oo.
 
-335
-00:24:03,047 --> 00:24:04,241
+
+
 Wait!
 
-336
-00:24:04,487 --> 00:24:05,840
+
+
 F-f-f-freeze!
 
-337
-00:24:11,087 --> 00:24:14,443
+
+
 Don't break! There are things
 I want to do, sights I want to see!
 
-338
-00:24:15,887 --> 00:24:17,798
+
+
 That wasn't on the list.
 
-339
-00:24:22,127 --> 00:24:23,560
+
+
 Do something!
 
-340
-00:24:31,287 --> 00:24:34,359
+
+
 Keep your legs straight
 when you hit the water!
 
-341
-00:24:38,727 --> 00:24:41,195
+
+
 I kept me legs straight, Spike.
 
-342
-00:24:43,927 --> 00:24:47,602
+
+
 Good grief, that's high. Quite high.
 Rather high. So very, very high.
 
-343
-00:24:52,847 --> 00:24:54,803
+
+
 Cool.
 
-344
-00:24:55,447 --> 00:24:56,721
+
+
 See you!
 
-345
-00:25:15,527 --> 00:25:16,801
+
+
 If she can do it...
 
-346
-00:25:16,887 --> 00:25:18,605
+
+
 Here goes.
 
-347
-00:25:34,607 --> 00:25:36,837
+
+
 And gently down.
 
-348
-00:25:39,807 --> 00:25:42,640
+
+
 - My ball.
 - It's my ball, it's mine.
 
-349
-00:25:42,727 --> 00:25:45,116
+
+
 Rita! Rita!
 
-350
-00:25:48,967 --> 00:25:51,401
+
+
 Where is she? Rita!
 
-351
-00:25:52,207 --> 00:25:54,084
+
+
 Target at twelve o'clock!
 
-352
-00:25:54,167 --> 00:25:55,600
+
+
 Oh, come on!
 
-353
-00:25:59,407 --> 00:26:02,205
+
+
 Careful, Whitey.
 That's a banana skin.
 
-354
-00:26:06,727 --> 00:26:07,842
+
+
 Rita!
 
-355
-00:26:08,367 --> 00:26:09,720
+
+
 Over there!
 
-356
-00:26:27,567 --> 00:26:30,286
+
+
 You look pretty ridiculous now,
 Millicent.
 
-357
-00:26:34,807 --> 00:26:36,399
+
+
 Keep your legs straight!
 
-358
-00:26:47,567 --> 00:26:51,242
+
+
 What are you, some kind of rat
 boomerang? Give me back my ruby!
 
-359
-00:26:51,327 --> 00:26:53,318
+
+
 I haven't got your ruby!
 
-360
-00:26:56,847 --> 00:26:59,998
+
+
 OK. Well, now I've got your ruby.
 
-361
-00:27:05,567 --> 00:27:06,841
+
+
 Please be careful.
 
-362
-00:27:06,927 --> 00:27:09,885
+
+
 That ruby means a lot to me.
 It's priceless!
 
-363
-00:27:10,607 --> 00:27:11,926
+
+
 Hold on.
 
-364
-00:27:12,407 --> 00:27:13,635
+
+
 It's a fake.
 
-365
-00:27:13,727 --> 00:27:15,797
+
+
 No, it's blooming not. It's real!
 
-366
-00:27:15,887 --> 00:27:17,684
+
+
 No, no, no, look, it's just glass.
 
-367
-00:27:17,767 --> 00:27:19,120
+
+
 - It's real!
 - Fake.
 
-368
-00:27:19,207 --> 00:27:20,196
+
+
 - Real!
 - Fake.
 
-369
-00:27:20,287 --> 00:27:21,356
+
+
 - Real!
 - Fake.
 
-370
-00:27:21,447 --> 00:27:22,721
+
+
 - Real!
 - Fake.
 
-371
-00:27:22,807 --> 00:27:23,842
+
+
 - Real!
 - Fake.
 
-372
-00:27:23,927 --> 00:27:26,487
+
+
 Look, look, look.
 You can tell. Watch this.
 
-373
-00:27:30,607 --> 00:27:32,916
+
+
 There, you see?
 You can't break a real ruby.
 
-374
-00:27:34,927 --> 00:27:37,646
+
+
 Right. I probably shouldn't
 have done that.
 
-375
-00:27:37,727 --> 00:27:39,922
+
+
 Look on the bright side.
 I saved your neck.
 
-376
-00:27:40,007 --> 00:27:43,158
+
+
 Once The Toad knows it's worthless,
 he'll stop chasing you.
 
-377
-00:27:43,247 --> 00:27:45,317
+
+
 Roddy St. James saves the day.
 
-378
-00:27:49,967 --> 00:27:51,400
+
+
 Good grief!
 
-379
-00:27:51,487 --> 00:27:53,603
+
+
 You try to do somebody
 a favour, and they...
 
-380
-00:27:53,687 --> 00:27:58,556
+
+
 A favour?! That ruby
 was from Queen Elizabeth's crown!
 
-381
-00:27:58,647 --> 00:28:01,002
+
+
 It fell down the drain
 of Buckingham Palace!
 
-382
-00:28:01,087 --> 00:28:03,647
+
+
 Maybe the Queen wears fake jewellery.
 
-383
-00:28:03,727 --> 00:28:05,558
+
+
 Keep still!
 
-384
-00:28:05,647 --> 00:28:07,160
+
+
 Can we just talk about this?
 
-385
-00:28:07,247 --> 00:28:11,798
+
+
 Real or not, that ruby was
 going to change my life!
 
-386
-00:28:12,047 --> 00:28:13,400
+
+
 Han Chin Chinese takeout.
 
-387
-00:28:13,487 --> 00:28:15,762
+
+
 A madwoman's attacking me with crayons!
 
-388
-00:28:15,847 --> 00:28:18,759
+
+
 - One chicken chow mein. With wonton?
 - No, crayons!
 
-389
-00:28:18,847 --> 00:28:21,156
+
+
 No wonton! You want rice?
 Fried or white?
 
-390
-00:28:21,247 --> 00:28:23,044
+
+
 Fried. No, wait!
 
-391
-00:28:23,127 --> 00:28:24,640
+
+
 You want wonton or what?
 
-392
-00:28:24,727 --> 00:28:26,285
+
+
 Cancel that order.
 
-393
-00:28:27,087 --> 00:28:28,202
+
+
 Rita?
 
-394
-00:28:28,287 --> 00:28:30,243
+
+
 Just go away, please.
 
-395
-00:28:33,647 --> 00:28:34,921
+
+
 I'm sorry.
 
-396
-00:28:36,127 --> 00:28:38,118
+
+
 Sorry?
 
-397
-00:28:38,207 --> 00:28:41,244
+
+
 Me and my dad
 worked these drains for years.
 
-398
-00:28:41,327 --> 00:28:44,603
+
+
 He broke every bone in his body
 trying to get that ruby.
 
-399
-00:28:45,887 --> 00:28:48,560
+
+
 It was going to be
 the answer to all our prayers.
 
-400
-00:28:48,647 --> 00:28:51,525
+
+
 Now it turns out it was a stupid fake.
 
-401
-00:28:55,167 --> 00:28:57,237
+
+
 Maybe I can make it up to you.
 
-402
-00:28:57,327 --> 00:28:58,680
+
+
 - Get stuffed.
 - No, no, no.
 
-403
-00:28:58,767 --> 00:29:00,917
+
+
 I mean it. Back at my place, we've got
 
-404
-00:29:01,007 --> 00:29:04,602
+
+
 a jewellery box crammed
 with rubies and diamonds. Real ones.
 
-405
-00:29:04,687 --> 00:29:08,123
+
+
 All you have to do
 is get me home to Kensington...
 
-406
-00:29:08,607 --> 00:29:12,043
+
+
 ...and I'll make you rich
 beyond your wildest dreams.
 
-407
-00:29:14,527 --> 00:29:17,837
+
+
 How do I know this ain't
 just a load of old rubbish?
 
-408
-00:29:17,927 --> 00:29:21,237
+
+
 Well, I suppose you'll
 just have to trust me.
 
-409
-00:29:23,007 --> 00:29:25,157
+
+
 I must be out of my mind.
 
-410
-00:29:25,247 --> 00:29:27,715
+
+
 All right. You've got yourself a deal.
 
-411
-00:29:31,687 --> 00:29:32,881
+
+
 Go on.
 
-412
-00:29:32,967 --> 00:29:34,241
+
+
 You too.
 
-413
-00:29:35,887 --> 00:29:37,525
+
+
 Your own hand.
 
-414
-00:29:47,807 --> 00:29:50,116
+
+
 Where are those idiots?
 
-415
-00:29:50,207 --> 00:29:53,165
+
+
 It's so hard to get
 good help these days, my boys.
 
-416
-00:29:53,247 --> 00:29:56,478
+
+
 That's right. Come on out, my lovelies.
 
-417
-00:29:56,567 --> 00:29:59,127
+
+
 Cheer your old dad up.
 
-418
-00:29:59,207 --> 00:30:02,165
+
+
 Poor Daddy, surrounded by filthy rats
 
-419
-00:30:02,247 --> 00:30:05,922
+
+
 in this joyless, sunless void!
 
-420
-00:30:06,007 --> 00:30:08,202
+
+
 But don't worry, little men.
 
-421
-00:30:08,287 --> 00:30:11,438
+
+
 Daddy will get rid of them all! He will.
 
-422
-00:30:11,527 --> 00:30:14,360
+
+
 They'll all be deady-weady.
 
-423
-00:30:18,847 --> 00:30:20,280
+
+
 Did you find it?
 
-424
-00:30:21,447 --> 00:30:22,926
+
+
 Did you find it?
 
-425
-00:30:23,967 --> 00:30:26,845
+
+
 Well, we got most of it, boss.
 
-426
-00:30:27,607 --> 00:30:31,361
+
+
 Forget the ruby!
 It's the master cable that I want.
 
-427
-00:30:31,447 --> 00:30:34,757
+
+
 The one that grubby creature Rita took.
 
-428
-00:30:34,847 --> 00:30:37,042
+
+
 Without it, my plan is ruined!
 
-429
-00:30:38,087 --> 00:30:42,000
+
+
 OK, chief.
 Forget the ruby. Ruby's gone.
 
-430
-00:30:42,087 --> 00:30:46,205
+
+
 See? See? Moving on.
 We are now your cable guys.
 
-431
-00:30:46,287 --> 00:30:48,278
+
+
 Focused. Cable-centric, boss.
 
-432
-00:30:49,087 --> 00:30:52,284
+
+
 You need to be back in time
 for the World Cup Final.
 
-433
-00:30:52,367 --> 00:30:54,597
+
+
 Great! Are we watching
 the game together?
 
-434
-00:30:55,927 --> 00:30:58,122
+
+
 Just get the cable!
 
-435
-00:30:58,207 --> 00:31:00,118
+
+
 Keep your legs straight!
 
-436
-00:31:00,607 --> 00:31:03,326
+
+
 Are you sure we should be
 stopping with goons after us?
 
-437
-00:31:03,407 --> 00:31:05,875
+
+
 We aren't gonna get far
 without a map, are we?
 
-438
-00:31:07,807 --> 00:31:09,240
+
+
 Is that a house?
 
-439
-00:31:09,327 --> 00:31:12,842
+
+
 Yes, and it's very dangerous. So...
 
-440
-00:31:12,927 --> 00:31:14,565
+
+
 ...why don't you wait here.
 
-441
-00:31:14,647 --> 00:31:16,683
+
+
 Waiting here. Excellent idea.
 
-442
-00:31:16,767 --> 00:31:18,678
+
+
 Watch out for the piranha.
 
-443
-00:31:20,087 --> 00:31:21,361
+
+
 Rita!
 
-444
-00:31:28,007 --> 00:31:29,963
+
+
 Here you go, Annie. You, Shamus.
 
-445
-00:31:30,047 --> 00:31:32,561
+
+
 Mimi, get your finger out of your nose.
 Fergus.
 
-446
-00:31:32,647 --> 00:31:35,525
+
+
 - Jojo, no biting.
 - That is wild good!
 
-447
-00:31:35,767 --> 00:31:37,564
+
+
 Rita!
 
-448
-00:31:41,287 --> 00:31:42,481
+
+
 Rita's back!
 
-449
-00:31:42,567 --> 00:31:44,922
+
+
 - Rita!
 - Mum! Oh, Mum.
 
-450
-00:31:45,007 --> 00:31:46,520
+
+
 Thank goodness you're safe.
 
-451
-00:31:50,407 --> 00:31:52,204
+
+
 Rita!
 
-452
-00:31:52,367 --> 00:31:53,356
+
+
 Hello, Dad.
 
-453
-00:31:53,447 --> 00:31:55,403
+
+
 Give us a hug, girl!
 
-454
-00:32:01,647 --> 00:32:04,115
+
+
 Mom, there's a peeping Tom outside!
 
-455
-00:32:04,207 --> 00:32:07,677
+
+
 Tom?! Ohh, it's Tom Jones!
 
-456
-00:32:07,767 --> 00:32:09,883
+
+
 Mother, it's not Tom Jones.
 
-457
-00:32:09,967 --> 00:32:12,561
+
+
 That's just my passenger.
 
-458
-00:32:12,647 --> 00:32:16,322
+
+
 - He's very good-looking.
 - He is not coming in.
 
-459
-00:32:17,287 --> 00:32:19,039
+
+
 Soup's on!
 
-460
-00:32:20,407 --> 00:32:22,238
+
+
 It's lovely. Thanks, Mum.
 
-461
-00:32:29,207 --> 00:32:31,482
+
+
 So how long have you been
 Rita's boyfriend?
 
-462
-00:32:31,567 --> 00:32:33,398
+
+
 He's not my boyfriend.
 
-463
-00:32:34,527 --> 00:32:36,757
+
+
 Will you make an honest woman
 of my daughter?
 
-464
-00:32:36,847 --> 00:32:38,075
+
+
 Dad!
 
-465
-00:32:38,167 --> 00:32:41,045
+
+
 We were thinking of a spring wedding,
 right, cream puff?
 
-466
-00:32:41,127 --> 00:32:43,766
+
+
 Look, I want all of you to know he's...
 
-467
-00:32:43,847 --> 00:32:45,565
+
+
 Tom Jones!
 
-468
-00:32:46,207 --> 00:32:49,005
+
+
 So your name is "Roddy,"
 is that right?
 
-469
-00:32:49,087 --> 00:32:50,884
+
+
 Yes, that's right. Roddy St. James.
 
-470
-00:32:50,967 --> 00:32:52,446
+
+
 What a beautiful name.
 
-471
-00:32:52,527 --> 00:32:54,643
+
+
 - Hi, Roddy.
 - Who might you be, little chap?
 
-472
-00:32:54,727 --> 00:32:57,082
+
+
 - They call me Shocky.
 - Why do they call you that?
 
-473
-00:32:57,167 --> 00:32:59,635
+
+
 - Shocky!
 - Yes! Got it.
 
-474
-00:32:59,727 --> 00:33:03,197
+
+
 Rita, where are you taking
 this handsome young man?
 
-475
-00:33:04,087 --> 00:33:06,203
+
+
 That's why I need your maps, Dad.
 
-476
-00:33:06,287 --> 00:33:09,279
+
+
 Because he's from... Up Top.
 
-477
-00:33:12,607 --> 00:33:15,758
+
+
 Kitchen. Now.
 
-478
-00:33:15,847 --> 00:33:18,566
+
+
 Sing us a song, Tom!
 
-479
-00:33:19,607 --> 00:33:22,997
+
+
 - I'm not saying it isn't risky.
 - But it's impossible, Rita.
 
-480
-00:33:23,087 --> 00:33:25,885
+
+
 No one's ever got past
 the rapids at Hyde Park.
 
-481
-00:33:25,967 --> 00:33:28,686
+
+
 Dad, Dad! He's gonna pay us.
 
-482
-00:33:28,767 --> 00:33:32,442
+
+
 For the last time,
 we don't need the money!
 
-483
-00:33:35,447 --> 00:33:37,324
+
+
 A new stove might be nice.
 
-484
-00:33:37,927 --> 00:33:42,796
+
+
 - Talkin' about the little lady
 - Go, Tom! Go!
 
-485
-00:33:42,887 --> 00:33:44,605
+
+
 - Sing to my heart!
 - She's a lady
 
-486
-00:33:45,247 --> 00:33:48,125
+
+
 Talkin' about that old lady
 
-487
-00:33:49,247 --> 00:33:51,522
+
+
 And the lady wears big undies
 
-488
-00:33:51,607 --> 00:33:53,086
+
+
 Huge undies.
 
-489
-00:33:53,927 --> 00:33:55,246
+
+
 Psst! Rita!
 
-490
-00:33:55,327 --> 00:33:57,363
+
+
 It's OK. It's me, Liam.
 
-491
-00:33:57,447 --> 00:33:58,766
+
+
 Quick, in the kitchen.
 
-492
-00:33:58,847 --> 00:34:00,326
+
+
 Look at those moves!
 
-493
-00:34:00,407 --> 00:34:02,398
+
+
 I love you, Tom!
 
-494
-00:34:02,487 --> 00:34:04,318
+
+
 This bloke isn't who he says he is.
 
-495
-00:34:04,407 --> 00:34:08,082
+
+
 His real name is Millicent Bystander,
 an international jewel thief.
 
-496
-00:34:08,167 --> 00:34:09,998
+
+
 A mastermind, a super-criminal.
 
-497
-00:34:10,087 --> 00:34:12,760
+
+
 Looks like he crossed The Toad
 and got away with it.
 
-498
-00:34:12,847 --> 00:34:15,236
+
+
 But I'm a thinker. I've got a plan.
 
-499
-00:34:16,967 --> 00:34:19,276
+
+
 More! More!
 
-500
-00:34:20,327 --> 00:34:22,841
+
+
 - That was brilliant!
 - Oh, it was nothing.
 
-501
-00:34:22,927 --> 00:34:25,361
+
+
 - So you're from Up Top?
 - Yes.
 
-502
-00:34:25,447 --> 00:34:27,563
+
+
 - I've met one of your lot before.
 - Really?
 
-503
-00:34:27,647 --> 00:34:29,365
+
+
 Used to be some old lady's pet.
 
-504
-00:34:29,447 --> 00:34:30,800
+
+
 That's nice.
 
-505
-00:34:30,887 --> 00:34:34,516
+
+
 Terribly lonely for him, though.
 He had no one to talk to.
 
-506
-00:34:34,607 --> 00:34:36,438
+
+
 No one to cuddle with!
 
-507
-00:34:36,527 --> 00:34:37,960
+
+
 No one to shocky.
 
-508
-00:34:38,047 --> 00:34:40,436
+
+
 That's no life, is it?
 
-509
-00:34:42,327 --> 00:34:44,557
+
+
 I'd better get these dishes started.
 
-510
-00:34:45,367 --> 00:34:47,562
+
+
 Please, permit me.
 
-511
-00:34:47,647 --> 00:34:50,036
+
+
 Oh, you're such a gentleman!
 
-512
-00:34:50,447 --> 00:34:54,235
+
+
 Great! So I hand Roddy
 over to The Toad
 
-513
-00:34:54,327 --> 00:34:56,204
+
+
 and claim the reward.
 
-514
-00:34:56,287 --> 00:34:59,597
+
+
 Then we're all sitting pretty
 for the rest of our lives. Is that it?
 
-515
-00:34:59,687 --> 00:35:01,439
+
+
 The Toad will pay a fortune for him.
 
-516
-00:35:01,527 --> 00:35:04,121
+
+
 He's a bad one anyway,
 so that's all right, isn't it?
 
-517
-00:35:04,447 --> 00:35:08,486
+
+
 You cheeky little monkey. I won't have
 no son of mine acting the rat.
 
-518
-00:35:08,567 --> 00:35:10,876
+
+
 We Malones never go back on our word.
 
-519
-00:35:10,967 --> 00:35:13,276
+
+
 - He's gonna steal your boat.
 - He won't.
 
-520
-00:35:13,367 --> 00:35:15,801
+
+
 - He's stealing your boat.
 - He isn't stealing...
 
-521
-00:35:15,887 --> 00:35:18,082
+
+
 - He stole your boat.
 - What?
 
-522
-00:35:18,167 --> 00:35:20,761
+
+
 He's like Robin Hood in reverse.
 
-523
-00:35:22,487 --> 00:35:24,478
+
+
 Oi! I thought we had a deal!
 
-524
-00:35:24,567 --> 00:35:26,080
+
+
 So did I!
 
-525
-00:35:30,047 --> 00:35:33,517
+
+
 This is an emergency!
 Get out of the way! Emergency!
 
-526
-00:35:33,607 --> 00:35:37,680
+
+
 Keep clear! I'm coming, Mr Jones,
 I'm coming! Marry me, Mr Jones!
 
-527
-00:35:37,767 --> 00:35:39,325
+
+
 Roddy!
 
-528
-00:35:44,047 --> 00:35:46,957
+
+
 That double-crossing little schemer.
 I don't need her.
 
-529
-00:35:47,047 --> 00:35:49,561
+
+
 I mean, anyone can get out
 and sail. Look at me!
 
-530
-00:35:51,287 --> 00:35:53,755
+
+
 All right, Sid,
 you're in for a big surprise.
 
-531
-00:35:53,847 --> 00:35:55,326
+
+
 Look out!
 
-532
-00:35:55,847 --> 00:35:57,405
+
+
 Sorry!
 
-533
-00:35:59,767 --> 00:36:01,644
+
+
 Sid's Tattoo and Hot Dog Parlour.
 
-534
-00:36:01,727 --> 00:36:04,321
+
+
 It's Roddy. Remember me?
 
-535
-00:36:04,407 --> 00:36:06,682
+
+
 - The butler?
 - Roddy!
 
-536
-00:36:06,767 --> 00:36:10,077
+
+
 Listen, you! If you're still there
 when I get back...
 
-537
-00:36:10,167 --> 00:36:13,603
+
+
 Back? Back?
 How will you do that then, Roddy?
 
-538
-00:36:14,367 --> 00:36:16,437
+
+
 - What was that?
 - Gotta go, Rodders.
 
-539
-00:36:16,527 --> 00:36:18,518
+
+
 If I find one thing out of place...
 
-540
-00:36:39,167 --> 00:36:41,601
+
+
 Here's a little song I wrote
 
-541
-00:36:41,687 --> 00:36:44,679
+
+
 You might want to sing it note for note
 
-542
-00:36:44,767 --> 00:36:47,804
+
+
 Don't worry
 
-543
-00:36:47,887 --> 00:36:49,366
+
+
 Be happy
 
-544
-00:36:49,567 --> 00:36:52,286
+
+
 Don't worry, be happy now
 
-545
-00:36:56,967 --> 00:36:59,003
+
+
 Where are they hiding?
 
-546
-00:36:59,367 --> 00:37:02,006
+
+
 Think. Think.
 
-547
-00:37:02,087 --> 00:37:06,046
+
+
 To find a rat,
 you got to think like a rat.
 
-548
-00:37:07,887 --> 00:37:09,115
+
+
 Hey, guys.
 
-549
-00:37:09,207 --> 00:37:13,723
+
+
 I've had a tip-off.
 They're heading west to Kensington.
 
-550
-00:37:14,847 --> 00:37:16,326
+
+
 Bingo!
 
-551
-00:37:16,407 --> 00:37:17,840
+
+
 Scrabble!
 
-552
-00:37:17,927 --> 00:37:20,441
+
+
 Enough games. To the ratmobiles!
 
-553
-00:37:22,087 --> 00:37:24,601
+
+
 OK, OK. We can fix it.
 
-554
-00:37:24,687 --> 00:37:26,837
+
+
 Yes, we can. Obviously...
 
-555
-00:37:28,127 --> 00:37:31,597
+
+
 Fairly major burn to the hand.
 Smell of burning flesh.
 
-556
-00:37:31,687 --> 00:37:33,245
+
+
 Maybe I should just...
 
-557
-00:37:41,247 --> 00:37:42,441
+
+
 That really hurt.
 
-558
-00:37:42,527 --> 00:37:47,396
+
+
 Just start, you worthless old pile
 of rubbish! You useless, unreliable...
 
-559
-00:37:47,487 --> 00:37:52,242
+
+
 Untrustworthy, double-crossing,
 two-faced, conniving little toe-rag!
 
-560
-00:37:57,207 --> 00:38:01,120
+
+
 So I'm the double-crosser?
 Oh, yes, that's rich!
 
-561
-00:38:01,207 --> 00:38:02,640
+
+
 I overheard everything.
 
-562
-00:38:02,727 --> 00:38:06,037
+
+
 Yes, you and your family
 were gonna sell me to The Toad!
 
-563
-00:38:06,127 --> 00:38:07,879
+
+
 What?
 
-564
-00:38:07,967 --> 00:38:11,676
+
+
 You dipstick! That was
 my stupid little brother's plan.
 
-565
-00:38:11,767 --> 00:38:13,359
+
+
 And no one listens to him.
 
-566
-00:38:14,647 --> 00:38:16,524
+
+
 Must have missed that part.
 
-567
-00:38:16,607 --> 00:38:21,442
+
+
 How could you think I'd sell you out?
 When I make a deal, I make a deal.
 
-568
-00:38:22,167 --> 00:38:23,441
+
+
 Your hair's on fire.
 
-569
-00:38:23,527 --> 00:38:24,642
+
+
 What?
 
-570
-00:38:28,127 --> 00:38:29,480
+
+
 Rita, look...
 
-571
-00:38:29,567 --> 00:38:34,436
+
+
 ...I'm sorry. I was wrong.
 I think we should just put it behind us.
 
-572
-00:38:35,847 --> 00:38:38,839
+
+
 OK. I suppose I can put it behind me.
 
-573
-00:38:39,487 --> 00:38:42,638
+
+
 This is such an overreaction!
 
-574
-00:38:42,727 --> 00:38:46,481
+
+
 Rita, you can't just
 leave me here on a...
 
-575
-00:38:46,567 --> 00:38:49,639
+
+
 On a duck! Up the creek without a...
 
-576
-00:38:51,167 --> 00:38:54,318
+
+
 You're getting everything you deserve.
 Sneaking around,
 
-577
-00:38:54,407 --> 00:38:56,716
+
+
 eavesdropping
 on people's conversations.
 
-578
-00:38:56,807 --> 00:38:58,923
+
+
 I was not sneaking around.
 
-579
-00:38:59,007 --> 00:39:00,918
+
+
 Right.
 
-580
-00:39:01,007 --> 00:39:05,319
+
+
 I say, you can't really intend
 to just strand me like this.
 
-581
-00:39:05,407 --> 00:39:07,318
+
+
 You're not that heartless.
 
-582
-00:39:07,967 --> 00:39:10,117
+
+
 OK, maybe you are.
 
-583
-00:39:10,207 --> 00:39:13,244
+
+
 If you're trying to teach me a lesson,
 consider it taught!
 
-584
-00:39:13,327 --> 00:39:15,283
+
+
 I'm on a duck, begging!
 
-585
-00:39:27,647 --> 00:39:29,239
+
+
 Ice cold Rita
 
-586
-00:39:29,327 --> 00:39:31,966
+
+
 Never did I meet a
 
-587
-00:39:32,047 --> 00:39:35,756
+
+
 Girl who's half so cruel
 I offered her a jewel
 
-588
-00:39:35,847 --> 00:39:38,122
+
+
 But she left me stuck
 Stranded on a duck
 
-589
-00:39:38,207 --> 00:39:41,802
+
+
 What a shoddy thing to do to Roddy
 Me
 
-590
-00:39:41,887 --> 00:39:44,447
+
+
 That's Roddy St. James of Kensington
 
-591
-00:39:44,527 --> 00:39:46,882
+
+
 Poor, poor Roddy
 
-592
-00:39:46,967 --> 00:39:49,401
+
+
 Flushed down his own potty
 
-593
-00:39:49,487 --> 00:39:52,923
+
+
 Rita, can't you find it in your heart
 
-594
-00:39:53,007 --> 00:39:55,885
+
+
 To help him?
 
-595
-00:39:55,967 --> 00:39:58,037
+
+
 How mean can one rat be?
 
-596
-00:39:58,127 --> 00:40:00,197
+
+
 Ice cold Rita
 
-597
-00:40:00,287 --> 00:40:05,077
+
+
 Won't you be sweeter to me?
 
-598
-00:40:09,647 --> 00:40:11,285
+
+
 Am I forgiven?
 
-599
-00:40:11,367 --> 00:40:13,722
+
+
 No. I was just afraid
 you'd sing another verse.
 
-600
-00:40:13,807 --> 00:40:16,526
+
+
 Rita, I wasn't eavesdropping,
 I swear to you.
 
-601
-00:40:16,607 --> 00:40:18,404
+
+
 Oh, really?
 
-602
-00:40:20,327 --> 00:40:22,522
+
+
 What were you doing, then, Roddy?
 
-603
-00:40:22,607 --> 00:40:27,476
+
+
 I was actually just watching you
 with your family...
 
-604
-00:40:27,567 --> 00:40:29,364
+
+
 ...and...
 
-605
-00:40:29,447 --> 00:40:31,438
+
+
 ...thinking how lucky you were.
 
-606
-00:40:39,967 --> 00:40:42,356
+
+
 Lucky? Stuck with you?
 
-607
-00:40:43,607 --> 00:40:44,756
+
+
 So our deal's still on?
 
-608
-00:40:44,847 --> 00:40:46,644
+
+
 Sure it is.
 
-609
-00:40:51,967 --> 00:40:54,527
+
+
 Look, I really want to
 help out around here.
 
-610
-00:40:54,607 --> 00:40:57,758
+
+
 Just give me a job.
 Anything... engineer, navigator.
 
-611
-00:40:57,847 --> 00:40:59,758
+
+
 I could drive for a bit if you like.
 
-612
-00:41:02,447 --> 00:41:04,119
+
+
 Pick on someone your own size!
 
-613
-00:41:04,207 --> 00:41:06,198
+
+
 - You heard the captain.
 - Get lost!
 
-614
-00:41:06,287 --> 00:41:08,847
+
+
 There's no room
 for passengers on this boat.
 
-615
-00:41:10,007 --> 00:41:12,760
+
+
 Let go, you sticky little...
 
-616
-00:41:15,927 --> 00:41:17,679
+
+
 I'm the captain, and I say go left.
 
-617
-00:41:17,767 --> 00:41:20,281
+
+
 Would that be port
 or starboard, Spike?
 
-618
-00:41:20,367 --> 00:41:21,595
+
+
 There they are!
 
-619
-00:41:21,687 --> 00:41:23,766
+
+
 Go get them, lads!
 
-620
-00:41:31,487 --> 00:41:32,602
+
+
 Rita!
 
-621
-00:41:35,687 --> 00:41:38,520
+
+
 Wait for it, wait for it... Now!
 
-622
-00:41:41,087 --> 00:41:43,555
+
+
 Have another go if you think
 you're fast enough!
 
-623
-00:41:46,847 --> 00:41:48,439
+
+
 Hold on, Roddy!
 
-624
-00:41:48,527 --> 00:41:50,836
+
+
 Get that cable, lads!
 
-625
-00:41:58,967 --> 00:42:01,276
+
+
 You may now kiss the bride.
 
-626
-00:42:05,087 --> 00:42:06,645
+
+
 Congratulations, by the way!
 
-627
-00:42:10,687 --> 00:42:11,802
+
+
 Rita!
 
-628
-00:42:16,767 --> 00:42:18,962
+
+
 Rita! Can we go a little faster, please?
 
-629
-00:42:19,047 --> 00:42:20,958
+
+
 We don't have to!
 
-630
-00:42:22,447 --> 00:42:24,961
+
+
 Go, go, purple custard!
 
-631
-00:42:38,487 --> 00:42:40,318
+
+
 End of the line, Millicent.
 
-632
-00:42:46,007 --> 00:42:48,282
+
+
 - Rita, try and go right!
 - What?
 
-633
-00:42:48,367 --> 00:42:49,482
+
+
 Just trust me!
 
-634
-00:42:49,567 --> 00:42:51,683
+
+
 I hope you know what you're doing!
 
-635
-00:42:53,567 --> 00:42:55,000
+
+
 Now head for the rope!
 
-636
-00:42:55,087 --> 00:42:56,315
+
+
 OK.
 
-637
-00:43:06,527 --> 00:43:07,516
+
+
 Oh, no.
 
-638
-00:43:09,727 --> 00:43:11,365
+
+
 Well done, Roddy!
 
-639
-00:43:11,447 --> 00:43:13,722
+
+
 We did it! We did it!
 
-640
-00:43:14,607 --> 00:43:15,801
+
+
 We didn't do it.
 
-641
-00:43:17,967 --> 00:43:19,685
+
+
 Can you get me back on the boat?
 
-642
-00:43:24,247 --> 00:43:26,363
+
+
 - Thank you.
 - You're welcome.
 
-643
-00:43:27,167 --> 00:43:31,399
+
+
 Are you sure about this, Spike? These
 things are supposed to be dangerous.
 
-644
-00:43:31,487 --> 00:43:33,557
+
+
 Danger is my middle name.
 
-645
-00:43:33,647 --> 00:43:35,683
+
+
 I thought it was Leslie.
 
-646
-00:43:43,767 --> 00:43:45,997
+
+
 Just thought I'd drop in.
 
-647
-00:43:46,087 --> 00:43:48,476
+
+
 Rita, do something quick! Anything!
 
-648
-00:43:48,567 --> 00:43:50,444
+
+
 Hang on tight!
 
-649
-00:44:00,487 --> 00:44:01,602
+
+
 Uh-oh.
 
-650
-00:44:02,767 --> 00:44:04,997
+
+
 Any last requests?
 
-651
-00:44:05,087 --> 00:44:08,966
+
+
 Yes. Could you fly quite suddenly
 off the boat, screaming like a girl?
 
-652
-00:44:23,007 --> 00:44:24,918
+
+
 Oh, dear.
 
-653
-00:44:29,687 --> 00:44:31,325
+
+
 Yes!
 
-654
-00:44:39,847 --> 00:44:43,283
+
+
 Look out!
 
-655
-00:44:47,887 --> 00:44:49,479
+
+
 You darn foreigners!
 
-656
-00:44:55,967 --> 00:44:58,481
+
+
 Do you think the boss
 will be annoyed with us?
 
-657
-00:44:58,567 --> 00:45:01,445
+
+
 You incompetent cheese-eaters!
 
-658
-00:45:01,527 --> 00:45:03,483
+
+
 You let them escape?
 
-659
-00:45:06,127 --> 00:45:09,722
+
+
 It's obvious I should never have sent
 rodents to do an amphibian's job.
 
-660
-00:45:09,807 --> 00:45:10,922
+
+
 Where is he?
 
-661
-00:45:11,007 --> 00:45:12,918
+
+
 Why is he always late?
 
-662
-00:45:16,247 --> 00:45:19,478
+
+
 En garde! Droit! Parry! Thrust!
 
-663
-00:45:20,607 --> 00:45:22,040
+
+
 Le Frog?
 
-664
-00:45:28,287 --> 00:45:29,766
+
+
 Bonjour.
 
-665
-00:45:29,847 --> 00:45:31,246
+
+
 You're late, Le Frog.
 
-666
-00:45:31,327 --> 00:45:35,798
+
+
 Fashionably late, my annoying
 English cousin. I know no other way.
 
-667
-00:45:35,887 --> 00:45:40,881
+
+
 Now, listen. Rita and her new accomplice
 have stolen something irreplaceable.
 
-668
-00:45:40,967 --> 00:45:43,481
+
+
 It's all right, boss!
 We've got another one!
 
-669
-00:45:45,327 --> 00:45:49,081
+
+
 A master cable
 of unique design and purpose.
 
-670
-00:45:49,167 --> 00:45:50,680
+
+
 I want it back.
 
-671
-00:45:51,327 --> 00:45:53,318
+
+
 Don't worry. I'll get it back for you.
 
-672
-00:45:53,407 --> 00:45:56,604
+
+
 Once it is returned,
 my plan will be complete.
 
-673
-00:45:56,687 --> 00:46:01,363
+
+
 To wash away, once and for all,
 the curse, the scourge of...
 
-674
-00:46:03,607 --> 00:46:04,881
+
+
 ...rats.
 
-675
-00:46:06,687 --> 00:46:08,917
+
+
 Forgive me, my warty English cousin,
 
-676
-00:46:09,007 --> 00:46:13,319
+
+
 but this bizarre obsession
 with the rats, it is not good for you.
 
-677
-00:46:13,407 --> 00:46:17,719
+
+
 You are becoming
 what we French call le fruitcake.
 
-678
-00:46:18,807 --> 00:46:23,278
+
+
 Perhaps you forget that it was a rat
 who cast me from paradise!
 
-679
-00:46:23,367 --> 00:46:26,803
+
+
 Oh, please. Not the scrapbook again!
 
-680
-00:46:26,887 --> 00:46:28,559
+
+
 My memoirs.
 
-681
-00:46:29,847 --> 00:46:33,681
+
+
 Volume one details the dire
 and tragic story of my youth.
 
-682
-00:46:33,767 --> 00:46:35,519
+
+
 Oh, mon Dieu!
 
-683
-00:46:37,167 --> 00:46:40,682
+
+
 Of all the pets in Buckingham Palace,
 
-684
-00:46:40,767 --> 00:46:43,759
+
+
 young Prince Charles
 fancied me the best.
 
-685
-00:46:43,847 --> 00:46:48,398
+
+
 We would frolic
 day after sunny day in royal abandon,
 
-686
-00:46:48,487 --> 00:46:52,878
+
+
 sharing that sweet and magical bond
 between boy and toad.
 
-687
-00:46:52,967 --> 00:46:55,037
+
+
 You're gonna make me throw up.
 
-688
-00:46:55,127 --> 00:46:57,846
+
+
 We were inseparable until...
 
-689
-00:46:57,927 --> 00:46:59,758
+
+
 ...it arrived.
 
-690
-00:46:59,847 --> 00:47:02,361
+
+
 That rat!
 
-691
-00:47:02,447 --> 00:47:05,120
+
+
 While the poor boy's head was turned,
 
-692
-00:47:05,207 --> 00:47:10,042
+
+
 I was cruelly plunged
 into a whirlpool of despair.
 
-693
-00:47:11,327 --> 00:47:15,479
+
+
 I know, I know. You were flushed
 away down the loo, right?
 
-694
-00:47:18,647 --> 00:47:21,844
+
+
 Boo-hoo-hoo. It is so dark,
 
-695
-00:47:21,927 --> 00:47:25,363
+
+
 so cold, so terrible!
 
-696
-00:47:25,447 --> 00:47:27,438
+
+
 You find my pain funny?
 
-697
-00:47:27,527 --> 00:47:30,246
+
+
 I find everyone's pain funny but my own.
 
-698
-00:47:30,327 --> 00:47:31,965
+
+
 I'm French.
 
-699
-00:47:32,447 --> 00:47:34,324
+
+
 Just get the cable!
 
-700
-00:47:35,007 --> 00:47:36,281
+
+
 Henchfrogs!
 
-701
-00:47:37,407 --> 00:47:40,877
+
+
 We have a mission.
 Let nothing stand in our way.
 
-702
-00:47:40,967 --> 00:47:43,481
+
+
 We leave immediately.
 
-703
-00:47:44,607 --> 00:47:46,199
+
+
 What about dinner?
 
-704
-00:47:49,567 --> 00:47:51,876
+
+
 We leave... in five hours.
 
-705
-00:47:55,607 --> 00:48:00,397
+
+
 Love, love, love, love
 
-706
-00:48:04,567 --> 00:48:06,159
+
+
 This is quite tasty.
 
-707
-00:48:06,247 --> 00:48:07,362
+
+
 Thanks.
 
-708
-00:48:07,447 --> 00:48:11,520
+
+
 Not too bad, considering I only had
 an apple, six raisins and a box of rice.
 
-709
-00:48:11,607 --> 00:48:13,165
+
+
 Rice?
 
-710
-00:48:14,567 --> 00:48:17,206
+
+
 What's that urge from deep inside?
 
-711
-00:48:17,287 --> 00:48:20,165
+
+
 The need to hurl won't be denied
 
-712
-00:48:20,247 --> 00:48:24,399
+
+
 That isn't rice
 That's maggots you're eating
 
-713
-00:48:24,487 --> 00:48:27,763
+
+
 Larva, larva, larva...
 
-714
-00:48:28,887 --> 00:48:32,721
+
+
 That explains why it all ran to one side
 when I put the salt in.
 
-715
-00:48:33,447 --> 00:48:34,641
+
+
 You know...
 
-716
-00:48:35,527 --> 00:48:37,757
+
+
 ...I think we did pretty well today.
 
-717
-00:48:38,487 --> 00:48:43,003
+
+
 I suppose maybe I misjudged you a bit.
 I mean, you're not...
 
-718
-00:48:43,087 --> 00:48:45,362
+
+
 Do I hear an actual compliment coming?
 
-719
-00:48:46,207 --> 00:48:48,926
+
+
 - Never mind.
 - No, no, no, say it.
 
-720
-00:48:50,047 --> 00:48:54,484
+
+
 You're not the useless, whiny, stuck-up,
 pompous, big girl's blouse I thought.
 
-721
-00:48:54,567 --> 00:48:56,444
+
+
 There. Was that so hard?
 
-722
-00:48:57,567 --> 00:49:00,843
+
+
 We better get some rest
 if we're gonna get you home tomorrow.
 
-723
-00:49:00,927 --> 00:49:02,360
+
+
 Catch.
 
-724
-00:49:06,687 --> 00:49:08,678
+
+
 Tell me about yourself, Roddy.
 
-725
-00:49:09,407 --> 00:49:11,967
+
+
 Well, there's not much to tell.
 
-726
-00:49:12,287 --> 00:49:16,485
+
+
 You know all about me, warts and all.
 I don't even know what you do.
 
-727
-00:49:16,567 --> 00:49:18,125
+
+
 I'm...
 
-728
-00:49:18,207 --> 00:49:19,640
+
+
 I'm in a boy band.
 
-729
-00:49:20,367 --> 00:49:22,517
+
+
 Yeah. Yeah, I'm the posh one.
 
-730
-00:49:23,247 --> 00:49:24,999
+
+
 I'm serious.
 
-731
-00:49:25,087 --> 00:49:28,841
+
+
 Tell me about your life Up Top.
 Friends, family.
 
-732
-00:49:30,367 --> 00:49:32,597
+
+
 You do have a family, don't you?
 
-733
-00:49:32,687 --> 00:49:37,363
+
+
 Of course I do. Brothers, sisters,
 cousins. We're quite a clan.
 
-734
-00:49:37,447 --> 00:49:39,324
+
+
 You wouldn't believe the fun we have.
 
-735
-00:49:39,407 --> 00:49:43,161
+
+
 Hanging out at the movies,
 playing golf, going skiing.
 
-736
-00:49:43,247 --> 00:49:45,636
+
+
 It's just so great!
 
-737
-00:49:46,407 --> 00:49:48,762
+
+
 No wonder you want to get home.
 
-738
-00:49:49,767 --> 00:49:50,995
+
+
 Yeah.
 
-739
-00:49:51,087 --> 00:49:55,126
+
+
 Well, I guess tomorrow
 we'll both get what we want.
 
-740
-00:49:57,127 --> 00:49:58,446
+
+
 Good night.
 
-741
-00:49:58,527 --> 00:49:59,926
+
+
 Good night, Roddy.
 
-742
-00:50:02,647 --> 00:50:03,921
+
+
 Good night.
 
-743
-00:50:04,887 --> 00:50:06,366
+
+
 Good night.
 
-744
-00:50:07,167 --> 00:50:08,202
+
+
 Good night.
 
-745
-00:50:08,287 --> 00:50:09,561
+
+
 Good night.
 
-746
-00:50:09,647 --> 00:50:11,046
+
+
 Good night.
 
-747
-00:50:11,127 --> 00:50:13,482
+
+
 Good night, Roddy.
 
-748
-00:50:13,567 --> 00:50:15,637
+
+
 Don't let the bedbugs bite.
 
-749
-00:50:36,807 --> 00:50:38,638
+
+
 Wakey-wakey!
 
-750
-00:50:38,727 --> 00:50:40,365
+
+
 Getting close to Kensington.
 
-751
-00:50:40,447 --> 00:50:43,644
+
+
 Tie down anything loose.
 It'll be a bumpy ride.
 
-752
-00:50:43,727 --> 00:50:45,558
+
+
 Aye, aye, captain.
 
-753
-00:50:56,967 --> 00:50:59,242
+
+
 - Thank you.
 - You're welcome.
 
-754
-00:50:59,927 --> 00:51:01,246
+
+
 - Bonjour!
 - Bonjour!
 
-755
-00:51:01,327 --> 00:51:02,680
+
+
 - Bonjour!
 - Bonjour!
 
-756
-00:51:02,767 --> 00:51:03,961
+
+
 Bonjour!
 
-757
-00:51:04,047 --> 00:51:06,003
+
+
 Who invited you onboard?
 
-758
-00:51:06,087 --> 00:51:08,362
+
+
 Hop it. Hop it!
 
-759
-00:51:09,247 --> 00:51:12,717
+
+
 The English little girly,
 she's so aggressive.
 
-760
-00:51:13,647 --> 00:51:14,921
+
+
 Le Frog.
 
-761
-00:51:15,767 --> 00:51:18,520
+
+
 I like a woman with a little fire.
 
-762
-00:51:21,087 --> 00:51:25,000
+
+
 You're going to pay for that,
 my little chocolate croissant!
 
-763
-00:51:25,087 --> 00:51:29,126
+
+
 But first,
 a word from our sponsor. Marcel?
 
-764
-00:51:44,367 --> 00:51:45,641
+
+
 I should have known.
 
-765
-00:51:45,727 --> 00:51:49,083
+
+
 Well done, Le Frog! I salute you, sir.
 
-766
-00:51:49,847 --> 00:51:52,566
+
+
 Now then, Rita, hand it over.
 
-767
-00:51:52,647 --> 00:51:53,841
+
+
 Hand what over?
 
-768
-00:51:55,327 --> 00:51:58,364
+
+
 This dance of deception must end.
 
-769
-00:51:58,447 --> 00:52:01,245
+
+
 Return what you have stolen from me.
 
-770
-00:52:01,327 --> 00:52:03,079
+
+
 Enough dancing!
 
-771
-00:52:03,167 --> 00:52:06,125
+
+
 I don't have it anymore.
 It was a fake anyway.
 
-772
-00:52:06,207 --> 00:52:07,356
+
+
 What?
 
-773
-00:52:08,007 --> 00:52:09,918
+
+
 Oh, the ruby.
 
-774
-00:52:14,607 --> 00:52:17,997
+
+
 He's cuckoo, but family.
 
-775
-00:52:18,087 --> 00:52:19,759
+
+
 Oh, this is rich.
 
-776
-00:52:19,847 --> 00:52:22,520
+
+
 The ruby was a pretty thing.
 
-777
-00:52:24,687 --> 00:52:26,120
+
+
 Stop that.
 
-778
-00:52:26,207 --> 00:52:29,882
+
+
 But nothing when compared
 to the master cable.
 
-779
-00:52:29,967 --> 00:52:32,037
+
+
 The master what?
 
-780
-00:52:32,127 --> 00:52:33,276
+
+
 The cab...
 
-781
-00:52:33,367 --> 00:52:34,846
+
+
 Turn.
 
-782
-00:52:36,607 --> 00:52:41,283
+
+
 The cable!
 The one you're now wearing as a belt.
 
-783
-00:52:41,367 --> 00:52:43,358
+
+
 - If that's all he wants...
 - Hang on.
 
-784
-00:52:43,447 --> 00:52:45,438
+
+
 What do you want it for anyway?
 
-785
-00:52:45,527 --> 00:52:49,725
+
+
 Oh, you'll see, come
 the World Cup Final this afternoon.
 
-786
-00:52:51,647 --> 00:52:52,921
+
+
 The World Cup Final?
 
-787
-00:52:53,287 --> 00:52:55,755
+
+
 OK, OK, cousin, take a breath.
 Leave it to me.
 
-788
-00:52:55,847 --> 00:52:58,998
+
+
 We'll get your cable, kill the rodents,
 then me and my team
 
-789
-00:52:59,087 --> 00:53:01,078
+
+
 can settle down to a decent breakfast.
 
-790
-00:53:02,207 --> 00:53:04,118
+
+
 OK, men, to action!
 
-791
-00:53:04,207 --> 00:53:06,243
+
+
 We surrender!
 
-792
-00:53:06,327 --> 00:53:10,161
+
+
 No, not that one, you idiots!
 The kung fu thing!
 
-793
-00:53:14,487 --> 00:53:15,920
+
+
 I've got a plan.
 
-794
-00:53:19,327 --> 00:53:20,316
+
+
 Go for it.
 
-795
-00:53:21,407 --> 00:53:22,681
+
+
 Fly at twelve o'clock!
 
-796
-00:53:23,367 --> 00:53:24,356
+
+
 Oh, bother.
 
-797
-00:53:28,567 --> 00:53:30,478
+
+
 Fools! Grab them!
 
-798
-00:53:34,407 --> 00:53:37,444
+
+
 Le Frog! No! Get that cable!
 
-799
-00:53:37,527 --> 00:53:38,721
+
+
 Mon Dieu!
 
-800
-00:53:38,807 --> 00:53:41,196
+
+
 You rats, this is not over yet!
 
-801
-00:53:43,287 --> 00:53:45,357
+
+
 Roddy! The rapids!
 
-802
-00:53:47,047 --> 00:53:48,765
+
+
 Oh, no!
 
-803
-00:53:57,767 --> 00:53:58,882
+
+
 En garde!
 
-804
-00:54:01,287 --> 00:54:03,562
+
+
 Rita? We're going over!
 
-805
-00:54:03,647 --> 00:54:05,239
+
+
 Do something!
 
-806
-00:54:26,367 --> 00:54:27,516
+
+
 Gotcha!
 
-807
-00:54:33,327 --> 00:54:35,443
+
+
 Au revoir, mon chéri!
 
-808
-00:54:35,527 --> 00:54:37,677
+
+
 Take your flippers off me!
 
-809
-00:54:40,927 --> 00:54:42,724
+
+
 I have triumphed!
 
-810
-00:54:42,807 --> 00:54:47,244
+
+
 You stupid English, with your
 Yorkshire puddings and chips and fish,
 
-811
-00:54:47,327 --> 00:54:51,161
+
+
 you thought you could
 defeat Le Frog? Un...
 
-812
-00:54:54,607 --> 00:54:55,676
+
+
 ...deux...
 
-813
-00:54:57,847 --> 00:54:58,996
+
+
 ...trois!
 
-814
-00:55:03,447 --> 00:55:05,358
+
+
 Nibble for your life!
 
-815
-00:55:13,367 --> 00:55:15,005
+
+
 My belt, I think.
 
-816
-00:55:15,087 --> 00:55:17,362
+
+
 You rodents!
 
-817
-00:55:20,087 --> 00:55:22,157
+
+
 Goodbye, Jammy, me old mate.
 
-818
-00:55:35,687 --> 00:55:37,598
+
+
 We're OK, we're OK, we're OK, we're OK.
 
-819
-00:55:37,687 --> 00:55:39,757
+
+
 Try opening your eyes!
 
-820
-00:55:43,447 --> 00:55:44,926
+
+
 We're over Kensington!
 
-821
-00:55:45,007 --> 00:55:49,717
+
+
 Yeah, only a terrifying 900-foot drop
 between you and a nice comfortable bed.
 
-822
-00:55:49,807 --> 00:55:51,365
+
+
 Where's your house then?
 
-823
-00:55:51,447 --> 00:55:53,199
+
+
 Right, now. Let me see...
 
-824
-00:55:53,687 --> 00:55:56,884
+
+
 Inverness Gardens, Vicarage Gate,
 Kensington High Street.
 
-825
-00:55:56,967 --> 00:55:58,366
+
+
 Try and go left.
 
-826
-00:55:58,447 --> 00:56:00,438
+
+
 That's it. Now go right.
 
-827
-00:56:01,247 --> 00:56:02,839
+
+
 This is gonna be tricky.
 
-828
-00:56:02,927 --> 00:56:05,521
+
+
 Yeah, and everything else
 has been a piece of cake.
 
-829
-00:56:05,607 --> 00:56:07,325
+
+
 All right, here we go.
 
-830
-00:56:08,447 --> 00:56:11,962
+
+
 Forty-five, 47, 49...
 
-831
-00:56:12,247 --> 00:56:13,566
+
+
 ...now!
 
-832
-00:56:22,847 --> 00:56:25,725
+
+
 Well, I've had softer landings.
 
-833
-00:56:31,007 --> 00:56:32,122
+
+
 We did it.
 
-834
-00:56:32,727 --> 00:56:34,365
+
+
 I'm home.
 
-835
-00:56:34,447 --> 00:56:37,962
+
+
 The crew of the Jammy Dodger survives!
 
-836
-00:56:38,047 --> 00:56:39,605
+
+
 Yep.
 
-837
-00:56:40,407 --> 00:56:41,522
+
+
 Rita?
 
-838
-00:56:43,927 --> 00:56:47,761
+
+
 Oh, of course.
 I'm such an idiot. The Dodger.
 
-839
-00:56:47,847 --> 00:56:49,565
+
+
 Wasn't your fault, Rod.
 
-840
-00:56:50,327 --> 00:56:52,363
+
+
 Quite an adventure, though, wasn't it?
 
-841
-00:56:52,447 --> 00:56:54,961
+
+
 Rita, I am so sorry.
 
-842
-00:56:56,487 --> 00:56:59,604
+
+
 But I think I might be able
 to cheer you up.
 
-843
-00:57:01,127 --> 00:57:05,518
+
+
 Ta-da! As promised,
 the Kensington jewels.
 
-844
-00:57:06,327 --> 00:57:08,522
+
+
 A genuine star-cut ruby.
 
-845
-00:57:08,607 --> 00:57:11,360
+
+
 It's just beautiful!
 
-846
-00:57:11,447 --> 00:57:12,960
+
+
 And the best part?
 
-847
-00:57:13,527 --> 00:57:14,846
+
+
 Unbreakable.
 
-848
-00:57:19,127 --> 00:57:20,924
+
+
 I don't know what to say.
 
-849
-00:57:21,007 --> 00:57:24,317
+
+
 You think it will be enough?
 I mean, to take care of your family?
 
-850
-00:57:27,127 --> 00:57:30,358
+
+
 And maybe this could be
 the Jammy Dodger Mark Two.
 
-851
-00:57:37,247 --> 00:57:39,203
+
+
 Well...
 
-852
-00:57:40,407 --> 00:57:42,318
+
+
 ...I suppose this is it.
 
-853
-00:57:42,807 --> 00:57:45,719
+
+
 Thank you... for the lift.
 
-854
-00:57:45,807 --> 00:57:47,604
+
+
 You're welcome.
 
-855
-00:57:49,767 --> 00:57:51,519
+
+
 - Roddy?
 - Yes.
 
-856
-00:57:51,607 --> 00:57:55,361
+
+
 I don't suppose you'd have time
 to give me a quick tour?
 
-857
-00:57:55,447 --> 00:57:56,436
+
+
 Of course.
 
-858
-00:57:56,527 --> 00:57:58,677
+
+
 I'd love to meet your family.
 
-859
-00:58:02,087 --> 00:58:03,440
+
+
 Hello?
 
-860
-00:58:04,087 --> 00:58:06,920
+
+
 Hello, hello, hello? Anybody home?
 
-861
-00:58:07,007 --> 00:58:09,441
+
+
 Wouldn't you know it?
 All out, every one of them.
 
-862
-00:58:09,527 --> 00:58:10,801
+
+
 Wait. Wait, wait, wait.
 
-863
-00:58:17,047 --> 00:58:19,686
+
+
 - What is that?
 - Oh, that.
 
-864
-00:58:21,047 --> 00:58:23,197
+
+
 That's my master bedroom.
 
-865
-00:58:23,287 --> 00:58:26,040
+
+
 - It's a cage.
 - No! It's not, actually.
 
-866
-00:58:26,127 --> 00:58:27,719
+
+
 Then why the lock and bars?
 
-867
-00:58:27,807 --> 00:58:31,436
+
+
 That's my... home security system.
 
-868
-00:58:33,647 --> 00:58:36,764
+
+
 So much to see,
 so little time to see it in. Shall we?
 
-869
-00:58:36,847 --> 00:58:38,246
+
+
 Roddy.
 
-870
-00:58:38,327 --> 00:58:42,161
+
+
 You're all alone up here, aren't you?
 
-871
-00:58:45,527 --> 00:58:47,483
+
+
 Goal!
 
-872
-00:58:47,567 --> 00:58:48,716
+
+
 Who's that?
 
-873
-00:58:49,847 --> 00:58:52,725
+
+
 That would be... my brother!
 
-874
-00:58:52,807 --> 00:58:55,605
+
+
 What a game! I can't believe it!
 
-875
-00:58:55,687 --> 00:58:58,804
+
+
 He shoots! He scores!
 Back of the net! Group hug.
 
-876
-00:59:00,887 --> 00:59:03,003
+
+
 - Oh, hello.
 - Rita, this is...
 
-877
-00:59:03,087 --> 00:59:04,315
+
+
 ...Rupert!
 - What?
 
-878
-00:59:04,407 --> 00:59:06,602
+
+
 Rupert, this is Rita. She's been
 
-879
-00:59:06,687 --> 00:59:10,282
+
+
 so looking forward
 to meeting my brother.
 
-880
-00:59:10,727 --> 00:59:13,400
+
+
 Obviously, there's not
 a huge family resemblance.
 
-881
-00:59:13,487 --> 00:59:17,526
+
+
 I rather got the brains and...
 Well, actually, I got the looks too,
 
-882
-00:59:17,607 --> 00:59:19,802
+
+
 but we're very close,
 aren't we, Rupert?
 
-883
-00:59:20,167 --> 00:59:22,965
+
+
 Well, how time flies
 when you're having fun! Still...
 
-884
-00:59:23,047 --> 00:59:24,446
+
+
 On with the tour, shall we?
 
-885
-00:59:24,527 --> 00:59:25,676
+
+
 Hello, Sid.
 
-886
-00:59:25,767 --> 00:59:27,439
+
+
 Hello, Rita.
 
-887
-00:59:27,527 --> 00:59:30,599
+
+
 - How's your dad?
 - Better, yeah. Thanks for asking.
 
-888
-00:59:30,687 --> 00:59:32,245
+
+
 Rupert?
 
-889
-00:59:33,847 --> 00:59:36,884
+
+
 What was that all about?
 Come here, you poor little thing.
 
-890
-00:59:36,967 --> 00:59:40,755
+
+
 Look at his little face.
 You ever seen anything so pathetic?
 
-891
-00:59:40,847 --> 00:59:42,485
+
+
 Brothers?
 
-892
-00:59:44,047 --> 00:59:47,039
+
+
 All Mr Lonely has got
 is a couple of dolls
 
-893
-00:59:47,127 --> 00:59:49,925
+
+
 and a little wheel
 to run around in his cage.
 
-894
-00:59:50,007 --> 00:59:51,963
+
+
 This is too sweet!
 
-895
-00:59:52,047 --> 00:59:55,119
+
+
 What a loser!
 
-896
-01:00:00,367 --> 01:00:02,278
+
+
 It's OK, Roddy.
 
-897
-01:00:04,207 --> 01:00:05,481
+
+
 OK?
 
-898
-01:00:05,567 --> 01:00:09,845
+
+
 Look at this place, Rita.
 Look at my home. It's a palace!
 
-899
-01:00:09,927 --> 01:00:13,442
+
+
 I can do whatever I want
 whenever I want to.
 
-900
-01:00:13,527 --> 01:00:16,439
+
+
 I'd say that's a little more
 than OK, wouldn't you?
 
-901
-01:00:16,527 --> 01:00:19,678
+
+
 What do I need a family for?
 What do I need friends for?
 
-902
-01:00:20,887 --> 01:00:23,959
+
+
 I'm sorry, but if you have
 everything you need, then...
 
-903
-01:00:24,047 --> 01:00:28,484
+
+
 ...I really have to get going. I have
 a serious infestation to deal with.
 
-904
-01:00:30,007 --> 01:00:32,726
+
+
 I'll say goodbye, then...
 
-905
-01:00:34,367 --> 01:00:36,244
+
+
 ...Roddy St. James...
 
-906
-01:00:36,327 --> 01:00:38,204
+
+
 ...of Kensington.
 
-907
-01:01:10,367 --> 01:01:12,517
+
+
 Lonely
 
-908
-01:01:12,607 --> 01:01:15,121
+
+
 I'm Mr Lonely
 
-909
-01:01:15,207 --> 01:01:17,846
+
+
 I have nobody
 
-910
-01:01:17,927 --> 01:01:20,919
+
+
 For my own
 
-911
-01:01:24,767 --> 01:01:28,476
+
+
 Only ten minutes left until halftime.
 
-912
-01:01:28,567 --> 01:01:31,206
+
+
 Come on, England! This is fantastic!
 
-913
-01:01:31,287 --> 01:01:34,199
+
+
 A rare attack here by Germany,
 but it comes to very little.
 
-914
-01:01:35,287 --> 01:01:39,883
+
+
 Come here, bro!
 Rupert's missing his Rodsy-Wodsy.
 
-915
-01:01:41,807 --> 01:01:43,559
+
+
 Here, have a cheese puff.
 
-916
-01:01:44,967 --> 01:01:46,559
+
+
 Have another.
 
-917
-01:01:46,647 --> 01:01:48,205
+
+
 Here you go.
 
-918
-01:01:48,287 --> 01:01:50,847
+
+
 No! Duh.
 You're supposed to eat them.
 
-919
-01:01:50,927 --> 01:01:53,077
+
+
 Move... over.
 
-920
-01:01:53,167 --> 01:01:55,556
+
+
 - What?
 - Move over!
 
-921
-01:01:56,527 --> 01:01:59,121
+
+
 I'll take some of that.
 
-922
-01:02:00,407 --> 01:02:04,036
+
+
 Word of advice, mate.
 Take it easy with the drink, seriously,
 
-923
-01:02:04,127 --> 01:02:06,800
+
+
 or you'll never make it to halftime.
 
-924
-01:02:09,007 --> 01:02:10,235
+
+
 What did you say?
 
-925
-01:02:10,527 --> 01:02:13,644
+
+
 The bathroom.
 I'm waiting till halftime.
 
-926
-01:02:13,727 --> 01:02:15,843
+
+
 I don't want to miss any of the game.
 
-927
-01:02:15,927 --> 01:02:19,283
+
+
 Halftime. He's waiting till halftime!
 
-928
-01:02:19,367 --> 01:02:22,245
+
+
 Those floodgates won't hold forever!
 
-929
-01:02:22,887 --> 01:02:25,355
+
+
 No! Not the master cable!
 
-930
-01:02:25,647 --> 01:02:27,524
+
+
 What do you want it for anyway?
 
-931
-01:02:27,607 --> 01:02:31,759
+
+
 Oh, you'll see, come
 the World Cup Final this afternoon.
 
-932
-01:02:33,167 --> 01:02:35,727
+
+
 Half... time.
 
-933
-01:02:36,687 --> 01:02:40,475
+
+
 Half... time.
 
-934
-01:02:40,567 --> 01:02:44,037
+
+
 Of course. That's The Toad's plan!
 That's why he needs the cable!
 
-935
-01:02:44,127 --> 01:02:47,358
+
+
 When everyone goes to the toilet,
 the city will be flushed away!
 
-936
-01:02:47,447 --> 01:02:49,039
+
+
 Come with me.
 
-937
-01:02:49,567 --> 01:02:51,444
+
+
 What about the game?
 
-938
-01:02:51,527 --> 01:02:53,279
+
+
 And what a game it is!
 
-939
-01:02:53,367 --> 01:02:56,245
+
+
 Oh, a nasty fall there for Ray Bowers.
 
-940
-01:02:56,327 --> 01:02:58,318
+
+
 Can you see all right, Fergus?
 
-941
-01:02:58,407 --> 01:02:59,760
+
+
 Yes, thanks, Mum.
 
-942
-01:02:59,847 --> 01:03:04,079
+
+
 Where's your helmets? Which one's
 the quarterback? Pick up the ball!
 
-943
-01:03:04,167 --> 01:03:07,398
+
+
 These Brits don't know
 the first thing about football.
 
-944
-01:03:09,007 --> 01:03:12,636
+
+
 Enjoy your last moments,
 you egregious vermin.
 
-945
-01:03:12,727 --> 01:03:15,036
+
+
 I've got Rita, boss! I've got Rita!
 
-946
-01:03:15,127 --> 01:03:18,119
+
+
 Get off me, you lab reject!
 
-947
-01:03:18,207 --> 01:03:19,720
+
+
 Ha! You missed.
 
-948
-01:03:23,647 --> 01:03:25,205
+
+
 Ah, Rita.
 
-949
-01:03:25,287 --> 01:03:28,165
+
+
 It's so good of you to return the cable.
 
-950
-01:03:28,647 --> 01:03:29,875
+
+
 Bonjour.
 
-951
-01:03:33,287 --> 01:03:36,165
+
+
 At last! It's mine!
 
-952
-01:03:42,447 --> 01:03:44,358
+
+
 Just take it.
 
-953
-01:03:47,127 --> 01:03:49,960
+
+
 Let there be light!
 
-954
-01:03:57,047 --> 01:04:00,676
+
+
 Please don't flush me, Roddy!
 I can't survive down there!
 
-955
-01:04:00,767 --> 01:04:03,201
+
+
 I've gone soft!
 
-956
-01:04:03,287 --> 01:04:05,755
+
+
 Sid, I want you to flush me.
 I'm going back.
 
-957
-01:04:05,847 --> 01:04:06,882
+
+
 Back?
 
-958
-01:04:06,967 --> 01:04:10,084
+
+
 Rita's in terrible danger.
 Everyone's in terrible danger!
 
-959
-01:04:10,167 --> 01:04:11,839
+
+
 Now, you like it here, don't you?
 
-960
-01:04:11,927 --> 01:04:15,397
+
+
 Oh, yes, Roddy.
 I like it here very much.
 
-961
-01:04:15,487 --> 01:04:18,843
+
+
 And if I leave you, will you be good
 to Tabitha, the little girl?
 
-962
-01:04:18,927 --> 01:04:23,205
+
+
 I'll be as good as gold to her, Roddy.
 And I will be the best pet ever!
 
-963
-01:04:23,287 --> 01:04:24,686
+
+
 Then the place is all yours.
 
-964
-01:04:24,767 --> 01:04:26,200
+
+
 - Sweet!
 - Great.
 
-965
-01:04:26,287 --> 01:04:29,484
+
+
 Let's get the bubbles going.
 I've got a big job to do down there.
 
-966
-01:04:29,567 --> 01:04:31,398
+
+
 Right away, sir!
 
-967
-01:04:32,167 --> 01:04:33,156
+
+
 So long, Sid.
 
-968
-01:04:33,247 --> 01:04:37,559
+
+
 So long, Rodnick Saint Something
 of Someplace or other.
 
-969
-01:04:37,647 --> 01:04:39,399
+
+
 Geronimo!
 
-970
-01:04:41,967 --> 01:04:45,721
+
+
 And, lo, a chosen one
 shall come down from above,
 
-971
-01:04:45,807 --> 01:04:49,686
+
+
 and he shall be our savior
 from the Great Flood!
 
-972
-01:04:51,407 --> 01:04:52,635
+
+
 I'm terribly sorry.
 
-973
-01:04:52,727 --> 01:04:56,003
+
+
 Just two minutes left till halftime!
 Incredible!
 
-974
-01:04:56,087 --> 01:04:58,157
+
+
 - It's a fantasy start for England.
 - Rita!
 
-975
-01:04:58,247 --> 01:05:00,636
+
+
 England leads Germany
 by three goals to one.
 
-976
-01:05:00,727 --> 01:05:03,719
+
+
 What an amazing game
 this is turning out to be!
 
-977
-01:05:03,807 --> 01:05:05,957
+
+
 The grand opening.
 
-978
-01:05:14,927 --> 01:05:17,885
+
+
 And the referee again
 has to bring play to a halt.
 
-979
-01:05:18,447 --> 01:05:19,436
+
+
 Rita!
 
-980
-01:05:19,527 --> 01:05:21,916
+
+
 Fans for the fans!
 
-981
-01:05:22,007 --> 01:05:25,363
+
+
 Extra! Pied Piper
 lures thousands to their death!
 
-982
-01:05:25,447 --> 01:05:27,517
+
+
 Balloons!
 
-983
-01:05:34,047 --> 01:05:35,526
+
+
 Rita!
 
-984
-01:05:39,167 --> 01:05:40,282
+
+
 Rita!
 
-985
-01:05:40,367 --> 01:05:41,356
+
+
 Roddy!
 
-986
-01:05:41,447 --> 01:05:45,076
+
+
 I'm sorry. I've been such a fool.
 You were right about me and everything.
 
-987
-01:05:45,167 --> 01:05:48,921
+
+
 I should have admitted it, but I was
 afraid you wouldn't like me anymore.
 
-988
-01:05:49,007 --> 01:05:51,680
+
+
 Do you think we can talk
 about this after you rescue me?
 
-989
-01:05:51,767 --> 01:05:54,281
+
+
 Of course. There's no time.
 When that whistle blows
 
-990
-01:05:54,367 --> 01:05:57,564
+
+
 and everyone Up Top goes to the toilet,
 it'll flush away the city.
 
-991
-01:05:57,647 --> 01:05:59,683
+
+
 I know. And my family
 are all down there.
 
-992
-01:05:59,767 --> 01:06:01,200
+
+
 We've got to warn everyone.
 
-993
-01:06:01,287 --> 01:06:02,720
+
+
 Stop them!
 
-994
-01:06:11,047 --> 01:06:12,162
+
+
 Oh, dear.
 
-995
-01:06:18,607 --> 01:06:20,006
+
+
 Whoa! Whitey!
 
-996
-01:06:20,327 --> 01:06:23,080
+
+
 I saw an opportunity and I seized it.
 
-997
-01:06:24,367 --> 01:06:28,360
+
+
 So you thought you could
 make a fool of The Toad, eh?
 
-998
-01:06:30,567 --> 01:06:32,478
+
+
 You don't need us for that.
 
-999
-01:06:32,567 --> 01:06:35,035
+
+
 You think you're so clever,
 don't you?
 
-1000
-01:06:35,127 --> 01:06:37,641
+
+
 Well, I'll be the one laughing
 
-1001
-01:06:37,727 --> 01:06:41,800
+
+
 when every last revolting rat
 is flushed away!
 
-1002
-01:06:41,887 --> 01:06:45,402
+
+
 For I shall repopulate the city...
 
-1003
-01:06:45,487 --> 01:06:47,398
+
+
 ...with these!
 
-1004
-01:06:51,887 --> 01:06:53,002
+
+
 Nasty.
 
-1005
-01:06:53,087 --> 01:06:56,602
+
+
 - Is this the Glorious Amphibian Dawn?
 - Anything for you.
 
-1006
-01:06:56,687 --> 01:06:57,915
+
+
 - Can I have a pony?
 - No.
 
-1007
-01:06:58,007 --> 01:06:59,565
+
+
 - A puppy?
 - We'll talk about it.
 
-1008
-01:06:59,647 --> 01:07:01,160
+
+
 - Can we talk about it now?
 - No.
 
-1009
-01:07:01,247 --> 01:07:03,477
+
+
 - Can I have a puppy?
 - Me too.
 
-1010
-01:07:03,567 --> 01:07:06,684
+
+
 You can't all have puppies!
 Please! Daddy's working!
 
-1011
-01:07:06,767 --> 01:07:08,962
+
+
 We need to get down
 and pull out that cable.
 
-1012
-01:07:09,047 --> 01:07:10,196
+
+
 How?
 
-1013
-01:07:10,287 --> 01:07:12,005
+
+
 It's impossible.
 
-1014
-01:07:13,287 --> 01:07:16,120
+
+
 England is winning. Anything's possible.
 
-1015
-01:07:19,127 --> 01:07:20,401
+
+
 Turn it off, Whitey!
 
-1016
-01:07:21,967 --> 01:07:23,764
+
+
 - Come on!
 - They're getting away!
 
-1017
-01:07:26,447 --> 01:07:28,039
+
+
 Oh. Hi, boss.
 
-1018
-01:07:28,847 --> 01:07:31,645
+
+
 Whitey! They're biting my bottom! Help!
 
-1019
-01:07:31,727 --> 01:07:33,445
+
+
 I'm coming, Spike!
 
-1020
-01:07:34,967 --> 01:07:37,083
+
+
 You fools! Grab them!
 
-1021
-01:07:37,167 --> 01:07:39,158
+
+
 Top floor, lingerie, housewares
 
-1022
-01:07:39,247 --> 01:07:40,999
+
+
 and certain doom!
 
-1023
-01:07:54,167 --> 01:07:57,204
+
+
 Do I have to do everything myself?!
 
-1024
-01:08:04,447 --> 01:08:08,759
+
+
 There goes the whistle for halftime!
 We'll be back in a few minutes.
 
-1025
-01:08:08,847 --> 01:08:13,284
+
+
 You're too late to do anything!
 You and your kind are finished!
 
-1026
-01:08:13,367 --> 01:08:17,440
+
+
 Oh, yeah? Well, come and get us
 then, you warty windbag.
 
-1027
-01:08:23,887 --> 01:08:25,161
+
+
 Oh, no!
 
-1028
-01:08:38,807 --> 01:08:40,877
+
+
 The gate. Back this way! Come on!
 
-1029
-01:08:42,687 --> 01:08:43,676
+
+
 Rita!
 
-1030
-01:08:43,767 --> 01:08:45,962
+
+
 If I'm going,
 you're both coming with me!
 
-1031
-01:08:46,047 --> 01:08:47,480
+
+
 Just go, Roddy!
 
-1032
-01:08:53,967 --> 01:08:55,036
+
+
 That's it.
 
-1033
-01:08:56,407 --> 01:08:57,556
+
+
 Roddy!
 
-1034
-01:08:57,647 --> 01:08:59,046
+
+
 Stop moving!
 
-1035
-01:08:59,127 --> 01:09:01,960
+
+
 Come and get me,
 you big, slimy airbag!
 
-1036
-01:09:02,887 --> 01:09:03,876
+
+
 Roddy, look out!
 
-1037
-01:09:05,927 --> 01:09:06,916
+
+
 Yes!
 
-1038
-01:09:17,687 --> 01:09:18,722
+
+
 Le Frog!
 
-1039
-01:09:24,087 --> 01:09:25,315
+
+
 Let's finish this.
 
-1040
-01:09:25,407 --> 01:09:26,920
+
+
 Let me go!
 
-1041
-01:09:27,007 --> 01:09:29,316
+
+
 Goodbye, rat!
 
-1042
-01:09:29,527 --> 01:09:31,199
+
+
 Rita!
 
-1043
-01:09:38,567 --> 01:09:40,125
+
+
 Feeling a little tongue-tied?
 
-1044
-01:09:40,207 --> 01:09:41,276
+
+
 Impossible!
 
-1045
-01:09:41,367 --> 01:09:42,720
+
+
 Toodle-oo.
 
-1046
-01:09:51,967 --> 01:09:54,686
+
+
 - Wave! Wave!
 - England!
 
-1047
-01:09:54,767 --> 01:09:57,076
+
+
 No, giant wave!
 
-1048
-01:10:00,687 --> 01:10:02,757
+
+
 Please work. Please work. Please work!
 
-1049
-01:10:25,127 --> 01:10:26,606
+
+
 High five!
 
-1050
-01:10:27,407 --> 01:10:28,726
+
+
 Oh, yeah.
 
-1051
-01:10:32,327 --> 01:10:34,238
+
+
 Look! It's Roddy and Rita!
 
-1052
-01:10:34,327 --> 01:10:35,760
+
+
 Good on you, girl!
 
-1053
-01:10:35,847 --> 01:10:38,236
+
+
 Hooray for Millicent Bystander!
 
-1054
-01:10:38,327 --> 01:10:39,840
+
+
 Millicent!
 
-1055
-01:10:39,927 --> 01:10:43,317
+
+
 Millicent! Millicent! Millicent!
 
-1056
-01:10:43,407 --> 01:10:45,921
+
+
 You're a hero, Roddy.
 
-1057
-01:10:47,487 --> 01:10:48,636
+
+
 Big deal.
 
-1058
-01:10:51,407 --> 01:10:53,125
+
+
 You wretched vermin!
 
-1059
-01:10:53,207 --> 01:10:55,675
+
+
 I'll make you pay for this!
 
-1060
-01:10:55,767 --> 01:10:59,646
+
+
 Give it a rest, cousin.
 And get your kids a puppy.
 
-1061
-01:11:02,567 --> 01:11:03,716
+
+
 Rita...
 
-1062
-01:11:05,047 --> 01:11:09,199
+
+
 ...I was wondering, if you do build
 a Jammy Dodger Mark Two...
 
-1063
-01:11:10,727 --> 01:11:13,719
+
+
 ...you wouldn't happen to need
 a first mate, would you?
 
-1064
-01:11:18,647 --> 01:11:22,276
+
+
 Left a good job in the city
 
-1065
-01:11:23,727 --> 01:11:28,198
+
+
 Workin' for the man every night and day
 
-1066
-01:11:28,607 --> 01:11:29,881
+
+
 Rollin'
 
-1067
-01:11:29,967 --> 01:11:32,686
+
+
 Rollin' on the river
 
-1068
-01:11:32,767 --> 01:11:36,316
+
+
 Rollin' on the river
 
-1069
-01:11:38,287 --> 01:11:39,276
+
+
 OK.
 
-1070
-01:11:44,407 --> 01:11:48,036
+
+
 Hello, Tom! Give us a squeeze!
 
-1071
-01:11:52,047 --> 01:11:53,116
+
+
 All right, chaps.
 
-1072
-01:11:54,567 --> 01:11:56,159
+
+
 Big wheel keep on turnin'
 
-1073
-01:11:56,807 --> 01:11:59,560
+
+
 Proud Mary keep on burnin'
 
-1074
-01:11:59,647 --> 01:12:02,241
+
+
 Rollin', rollin'
 
-1075
-01:12:02,327 --> 01:12:04,238
+
+
 Rollin' on the river
 
-1076
-01:12:11,287 --> 01:12:12,640
+
+
 All right
 
-1077
-01:12:17,807 --> 01:12:19,923
+
+
 I love a happy ending.
 
-1078
-01:12:20,007 --> 01:12:24,159
+
+
 You've gone soft! I like unhappy
 endings, with lots of violence.
 
-1079
-01:12:27,527 --> 01:12:30,485
+
+
 Are you happy now, Spike?
 
-1080
-01:12:36,367 --> 01:12:38,278
+
+
 - Shall we?
 - Go for it.
 
-1081
-01:12:39,287 --> 01:12:40,640
+
+
 Big wheel keep on turnin'
 
-1082
-01:12:41,287 --> 01:12:44,040
+
+
 Proud Mary keep on burnin'
 
-1083
-01:12:58,847 --> 01:13:01,964
+
+
 - Where are we going?
 - I have no idea.
 
-1084
-01:13:02,047 --> 01:13:04,800
+
+
 But we're gonna get there really fast!
 
-1085
-01:13:04,887 --> 01:13:07,196
+
+
 I'm coming, Mr Jones! I'm coming!
 
-1086
-01:13:19,887 --> 01:13:22,720
+
+
 Ah, this is the life.
 
-1087
-01:13:22,847 --> 01:13:24,678
+
+
 Roddy, I'm home!
 
-1088
-01:13:24,767 --> 01:13:27,076
+
+
 And I've brought you a new friend!
 

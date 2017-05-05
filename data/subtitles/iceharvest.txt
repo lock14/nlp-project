@@ -1,5346 +1,5346 @@
-1
-00:00:26,225 --> 00:00:27,545
+
+
 <i>People always say...</i>
 
-2
-00:00:27,625 --> 00:00:29,905
+
+
 <i>there's no such thing</i>
 <i>as the perfect crime.</i>
 
-3
-00:00:31,305 --> 00:00:33,425
+
+
 <i>But I don't agree with that.</i>
 
-4
-00:00:34,945 --> 00:00:37,225
+
+
 <i>If you plan things</i>
 <i>carefully enough...</i>
 
-5
-00:00:37,345 --> 00:00:39,705
+
+
 <i>if you think through</i>
 <i>every last detail...</i>
 
-6
-00:00:40,305 --> 00:00:41,985
+
+
 <i>if you have nerves of steel...</i>
 
-7
-00:00:43,065 --> 00:00:45,105
+
+
 <i>if you can remain calm</i>
 <i>no matter what happens...</i>
 
-8
-00:00:45,185 --> 00:00:47,465
+
+
 <i>there should be no problem</i>
 <i>you can't handle.</i>
 
-9
-00:00:47,585 --> 00:00:49,985
+
+
 <i>It's really all</i>
 <i>a matter of character.</i>
 
-10
-00:00:50,065 --> 00:00:52,265
+
+
 <i>Of course,</i>
 <i>if I had any character...</i>
 
-11
-00:00:52,385 --> 00:00:55,425
+
+
 <i>I wouldn't have stolen</i>
 <i>$2 million from my boss.</i>
 
-12
-00:00:58,465 --> 00:00:59,825
+
+
 <i>Christmas Eve.</i>
 
-13
-00:00:59,945 --> 00:01:01,665
+
+
 <i>Ho, ho, fucking ho.</i>
 
-14
-00:02:51,265 --> 00:02:53,625
+
+
 Well? How did it go?
 
-15
-00:02:55,065 --> 00:02:57,305
+
+
 Good. Went good.
 
-16
-00:02:58,505 --> 00:02:59,545
+
+
 How much?
 
-17
-00:03:00,585 --> 00:03:01,705
+
+
 A lot.
 
-18
-00:03:04,665 --> 00:03:07,545
+
+
 Am I gonna have to slap
 the shit out of you? How much?
 
-19
-00:03:07,625 --> 00:03:11,145
+
+
 Vic, it's a great big
 fucking pile of money.
 
-20
-00:03:11,585 --> 00:03:14,665
+
+
 $2,147,000 and change.
 
-21
-00:03:21,745 --> 00:03:22,945
+
+
 Hmm.
 
-22
-00:03:29,545 --> 00:03:31,945
+
+
 My God,
 we're actually doing this.
 
-23
-00:03:32,985 --> 00:03:34,905
+
+
 No, we're not doing it.
 
-24
-00:03:36,465 --> 00:03:37,425
+
+
 It's already done.
 
-25
-00:03:47,625 --> 00:03:50,025
+
+
 Look, don't be so worried.
 The hard part's done already.
 
-26
-00:03:50,105 --> 00:03:51,865
+
+
 Everything worked
 just like you said it would.
 
-27
-00:03:51,945 --> 00:03:53,825
+
+
 Yeah. I guess.
 
-28
-00:03:54,025 --> 00:03:57,305
+
+
 Just act normal
 for a few hours
 and we're home free.
 
-29
-00:03:57,545 --> 00:03:59,185
+
+
 Okay?
 Okay.
 
-30
-00:03:59,265 --> 00:04:00,385
+
+
 Okay.
 
-31
-00:04:07,305 --> 00:04:09,025
+
+
 You wanna take the money
 and not me?
 
-32
-00:04:09,225 --> 00:04:10,465
+
+
 You wanna take the money?
 
-33
-00:04:10,905 --> 00:04:13,305
+
+
 No. I don't know.
 I was just...
 
-34
-00:04:14,105 --> 00:04:15,305
+
+
 Well, if you wanna
 take the money...
 
-35
-00:04:15,385 --> 00:04:16,785
+
+
 I mean, if you think
 you can do a better job...
 
-36
-00:04:16,865 --> 00:04:18,145
+
+
 of guarding $2 million...
 
-37
-00:04:18,665 --> 00:04:21,345
+
+
 No, no, no.
 It should be you.
 It should be you.
 
-38
-00:04:21,465 --> 00:04:23,785
+
+
 It's just we didn't
 discuss that.
 
-39
-00:04:23,865 --> 00:04:25,985
+
+
 Are we through discussing it?
 
-40
-00:04:26,025 --> 00:04:27,905
+
+
 Or is there more to say
 on the subject?
 
-41
-00:04:29,225 --> 00:04:30,625
+
+
 No, we're done.
 
-42
-00:04:30,665 --> 00:04:32,905
+
+
 Cool. Okay, shut the door.
 
-43
-00:04:33,025 --> 00:04:34,465
+
+
 Okay.
 Okay. And, Charlie.
 
-44
-00:04:34,505 --> 00:04:36,065
+
+
 Yeah?
 Act normal.
 
-45
-00:04:36,705 --> 00:04:37,825
+
+
 Yeah.
 
-46
-00:05:10,185 --> 00:05:12,105
+
+
 Oh, good! Good.
 No, no, no.
 
-47
-00:05:12,265 --> 00:05:13,985
+
+
 No, no.
 That's none of your business.
 
-48
-00:05:14,105 --> 00:05:17,225
+
+
 That's none of your
 fucking business, all right?
 
-49
-00:05:17,345 --> 00:05:19,145
+
+
 I don't give a shit,
 you toothless old whore.
 
-50
-00:05:34,465 --> 00:05:35,785
+
+
 Mom. Mom, I gotta go.
 
-51
-00:05:35,825 --> 00:05:38,625
+
+
 Don't you ever
 touch her again!
 
-52
-00:05:39,625 --> 00:05:42,345
+
+
 Sidney! Sidney! No! No!
 
-53
-00:05:43,105 --> 00:05:44,545
+
+
 Don't hurt him.
 
-54
-00:05:44,585 --> 00:05:46,625
+
+
 Jeez, it's Christmas.
 
-55
-00:05:46,905 --> 00:05:48,265
+
+
 I love you.
 
-56
-00:05:49,145 --> 00:05:50,825
+
+
 Don't be an asshole.
 
-57
-00:05:50,945 --> 00:05:53,225
+
+
 Giselle, come on,
 hop up there.
 
-58
-00:05:56,705 --> 00:05:58,305
+
+
 Merry Christmas, Sidney.
 
-59
-00:05:59,065 --> 00:06:01,225
+
+
 Hi, Charlie.
 Didn't see you come in.
 
-60
-00:06:01,345 --> 00:06:03,025
+
+
 Who gave Rusti the shiner?
 
-61
-00:06:04,065 --> 00:06:06,505
+
+
 Her asshole boyfriend.
 Some dipshit guitar player.
 
-62
-00:06:06,585 --> 00:06:08,265
+
+
 I swear to God,
 if he comes in here again...
 
-63
-00:06:08,345 --> 00:06:09,905
+
+
 I'm gonna break his
 fucking fingers.
 
-64
-00:06:16,345 --> 00:06:17,945
+
+
 Jesus, look at this place.
 
-65
-00:06:18,225 --> 00:06:19,345
+
+
 Just 'cause it's Christmas...
 
-66
-00:06:19,425 --> 00:06:21,425
+
+
 people all of a sudden
 can't look at tits and ass?
 
-67
-00:06:21,505 --> 00:06:23,705
+
+
 Hi, Renata.
 Hello, Counselor.
 
-68
-00:06:23,785 --> 00:06:25,145
+
+
 Not drinking tonight?
 
-69
-00:06:25,865 --> 00:06:27,265
+
+
 Just watching the floorshow.
 
-70
-00:06:27,385 --> 00:06:30,505
+
+
 Sidney, get my favorite
 crooked lawyer a beer.
 
-71
-00:06:30,745 --> 00:06:32,225
+
+
 Actually, I'll take a rum.
 
-72
-00:06:32,305 --> 00:06:33,385
+
+
 Rum?
 Mmm-hmm.
 
-73
-00:06:33,705 --> 00:06:36,385
+
+
 Rum and what?
 Got any pineapple juice?
 
-74
-00:06:37,785 --> 00:06:39,785
+
+
 If you got one of those
 little plastic umbrellas...
 
-75
-00:06:39,865 --> 00:06:41,825
+
+
 you can put that thing
 in there.
 
-76
-00:06:45,185 --> 00:06:46,305
+
+
 What?
 
-77
-00:06:46,705 --> 00:06:49,305
+
+
 You look like the cat
 that swallowed the canary,
 is what.
 
-78
-00:06:49,665 --> 00:06:52,185
+
+
 Like you're about
 to belch a feather.
 
-79
-00:06:54,625 --> 00:06:58,305
+
+
 Been working on
 this acquisition deal
 for a while...
 
-80
-00:06:58,345 --> 00:07:00,745
+
+
 and it finally came through,
 so<i>...</i>
 
-81
-00:07:00,865 --> 00:07:02,265
+
+
 Is this
 a Bill Guerrard thing?
 
-82
-00:07:02,345 --> 00:07:04,665
+
+
 No, this is a... No.
 
-83
-00:07:06,905 --> 00:07:08,665
+
+
 Charlie Arglist.
 
-84
-00:07:09,385 --> 00:07:10,945
+
+
 Man of mystery.
 
-85
-00:07:12,905 --> 00:07:14,785
+
+
 This mean
 you're rich, Charlie?
 
-86
-00:07:14,905 --> 00:07:16,585
+
+
 'Cause if you are,
 we could run away together.
 
-87
-00:07:17,225 --> 00:07:18,625
+
+
 It's a thought.
 
-88
-00:07:19,785 --> 00:07:21,385
+
+
 Leaving Wichita.
 
-89
-00:07:22,025 --> 00:07:23,865
+
+
 Damn right, it's a thought.
 
-90
-00:07:23,945 --> 00:07:27,145
+
+
 Come the first of the year,
 there'll be no more
 nude dancing in the city.
 
-91
-00:07:27,265 --> 00:07:28,905
+
+
 Which means
 I'm fucked.
 
-92
-00:07:29,025 --> 00:07:31,585
+
+
 And don't tell me,
 "Move out to the county,"
 either.
 
-93
-00:07:31,705 --> 00:07:34,265
+
+
 Because Bill Guerrard's
 got the county all to himself.
 
-94
-00:07:34,345 --> 00:07:37,025
+
+
 And I don't think
 he's looking for competition.
 
-95
-00:07:37,065 --> 00:07:39,105
+
+
 Isn't that right,
 Charlie?
 
-96
-00:07:39,585 --> 00:07:40,905
+
+
 You should let me
 help you out.
 
-97
-00:07:41,025 --> 00:07:44,385
+
+
 If I was real smart,
 I'd see this
 as an opportunity.
 
-98
-00:07:45,105 --> 00:07:47,585
+
+
 I could, you know.
 Could what?
 
-99
-00:07:48,345 --> 00:07:50,625
+
+
 Help you.
 You, Charlie?
 
-100
-00:07:50,745 --> 00:07:52,585
+
+
 If you had that photo...
 
-101
-00:07:56,265 --> 00:07:58,625
+
+
 Of Councilman Williams
 and Cupcake?
 Mmm-hmm.
 
-102
-00:08:01,785 --> 00:08:03,585
+
+
 Vic's got that photo.
 
-103
-00:08:04,065 --> 00:08:05,385
+
+
 And I know
 he won't give it to me...
 
-104
-00:08:05,505 --> 00:08:08,065
+
+
 because I've asked him nice
 and he just won't.
 
-105
-00:08:08,105 --> 00:08:09,785
+
+
 Well, he wouldn't
 have to know.
 
-106
-00:08:11,225 --> 00:08:12,265
+
+
 Well, that would be
 just about...
 
-107
-00:08:12,345 --> 00:08:15,385
+
+
 the nicest Christmas present
 you could give me, Charlie.
 
-108
-00:08:16,025 --> 00:08:19,625
+
+
 I'd have to think
 of something extra nice
 to give you in return.
 
-109
-00:08:25,505 --> 00:08:27,945
+
+
 No. Forget it.
 
-110
-00:08:28,345 --> 00:08:31,505
+
+
 I appreciate the thought,
 but you'd be getting in
 way over your head.
 
-111
-00:08:31,585 --> 00:08:34,785
+
+
 Vic Cavanaugh
 and Bill Guerrard eat guys
 like you for lunch.
 
-112
-00:08:34,905 --> 00:08:36,545
+
+
 Sidney.
 Yo.
 
-113
-00:08:36,705 --> 00:08:38,905
+
+
 I'll be back later
 to close up.
 
-114
-00:08:40,865 --> 00:08:44,265
+
+
 It's against my religion
 to give out personal advice...
 
-115
-00:08:44,665 --> 00:08:46,945
+
+
 but you should either sober up
 or get real drunk.
 
-116
-00:09:02,985 --> 00:09:06,305
+
+
 That's fucking horrible.
 Toss it and give me a beer.
 
-117
-00:09:16,025 --> 00:09:19,625
+
+
 "As Wichita falls,
 so falls Wichita Falls."
 
-118
-00:09:33,105 --> 00:09:35,025
+
+
 Have you seen
 Charlie tonight?
 
-119
-00:09:37,825 --> 00:09:39,745
+
+
 No. You just missed him.
 
-120
-00:09:40,065 --> 00:09:41,945
+
+
 How about Vic?
 Seen Vic?
 
-121
-00:09:42,185 --> 00:09:43,865
+
+
 No. Not yet.
 
-122
-00:09:44,185 --> 00:09:46,025
+
+
 Of course,
 it is Christmas.
 
-123
-00:09:48,385 --> 00:09:50,505
+
+
 Yeah, right.
 Christmas.
 
-124
-00:10:03,385 --> 00:10:07,425
+
+
 "As Wichita falls,
 so falls Wichita Falls."
 
-125
-00:10:07,625 --> 00:10:10,945
+
+
 What sort of fucking moron
 would write such a thing?
 
-126
-00:10:17,225 --> 00:10:18,825
+
+
 <i>Roy Gelles is in town.</i>
 
-127
-00:10:20,585 --> 00:10:22,265
+
+
 Vic, did you hear me?
 
-128
-00:10:22,345 --> 00:10:23,745
+
+
 <i>Roy Gelles is in town.</i>
 
-129
-00:10:23,785 --> 00:10:25,865
+
+
 So what?
 So he's looking for us.
 
-130
-00:10:25,945 --> 00:10:27,945
+
+
 So maybe he knows.
 That's what.
 
-131
-00:10:28,025 --> 00:10:29,545
+
+
 Roy Gelles doesn't know shit.
 
-132
-00:10:29,625 --> 00:10:31,265
+
+
 Roy Gelles knows
 what Bill Guerrard tells him.
 
-133
-00:10:31,305 --> 00:10:33,025
+
+
 And Bill doesn't know
 shit either, so chill out.
 
-134
-00:10:33,145 --> 00:10:34,865
+
+
 Then what is he doing in town
 on Christmas Eve?
 
-135
-00:10:34,945 --> 00:10:36,745
+
+
 Thank you, sweetie.
 I appreciate it.
 
-136
-00:10:36,865 --> 00:10:39,545
+
+
 He's got a daughter in town.
 Maybe he's visiting her.
 
-137
-00:10:39,625 --> 00:10:40,905
+
+
 <i>Like you said,</i>
 <i>it's Christmas.</i>
 
-138
-00:10:40,985 --> 00:10:43,065
+
+
 That still doesn't explain
 why he's at the Sweet Cage.
 
-139
-00:10:43,145 --> 00:10:45,185
+
+
 Listen, Charlie, don't go
 squirrelly on me now, okay?
 
-140
-00:10:45,225 --> 00:10:46,905
+
+
 <i>Just stick to the plan.</i>
 
-141
-00:10:48,425 --> 00:10:50,105
+
+
 Maybe we should leave now.
 
-142
-00:10:50,185 --> 00:10:51,265
+
+
 <i>Well, we're not going to.</i>
 
-143
-00:10:51,305 --> 00:10:53,865
+
+
 In case you haven't noticed,
 it's a fucking hockey rink
 out there.
 
-144
-00:10:53,945 --> 00:10:55,425
+
+
 Oh, my God,
 what have I done?
 
-145
-00:10:55,465 --> 00:10:56,705
+
+
 <i>What?</i>
 Nothing.
 
-146
-00:10:56,745 --> 00:10:58,665
+
+
 <i>They say the rain</i>
 <i>is supposed to stop</i>
 <i>by midnight.</i>
 
-147
-00:10:58,905 --> 00:11:00,905
+
+
 By 5:00 in the morning,
 we're in Kansas City...
 
-148
-00:11:00,985 --> 00:11:03,025
+
+
 where we enjoy a leisurely
 breakfast at the airport...
 
-149
-00:11:03,105 --> 00:11:04,985
+
+
 and by 8:00, we're on a plane
 to someplace warm...
 
-150
-00:11:05,065 --> 00:11:07,705
+
+
 where it's against
 the fucking law to rain, okay?
 
-151
-00:11:07,785 --> 00:11:08,825
+
+
 Click.
 
-152
-00:11:09,065 --> 00:11:10,945
+
+
 Vic? Vic?
 
-153
-00:11:14,625 --> 00:11:15,825
+
+
 Fuck me.
 
-154
-00:11:15,985 --> 00:11:18,905
+
+
 Whoa, whoa, whoa. Whoa!
 
-155
-00:11:24,665 --> 00:11:25,785
+
+
 Fuck.
 
-156
-00:11:26,265 --> 00:11:28,665
+
+
 Fuck, fuck, fuck.
 
-157
-00:11:31,585 --> 00:11:33,945
+
+
 Hi, Mr. Arglist.
 I didn't recognize you.
 
-158
-00:11:34,025 --> 00:11:34,945
+
+
 Hi.
 
-159
-00:11:35,425 --> 00:11:37,665
+
+
 Yeah. Boy, I didn't realize
 how slippery that was.
 
-160
-00:11:37,705 --> 00:11:40,865
+
+
 Yeah. Didn't you notice
 all the cars off the side
 of the road?
 
-161
-00:11:40,905 --> 00:11:43,185
+
+
 I wasn't paying
 close enough attention,
 I guess.
 
-162
-00:11:44,265 --> 00:11:46,945
+
+
 You going somewhere,
 Mr. Arglist?
 No.
 
-163
-00:11:47,905 --> 00:11:50,145
+
+
 Hey, none of my business,
 right?
 
-164
-00:11:50,345 --> 00:11:51,425
+
+
 I'd be careful, though.
 
-165
-00:11:51,465 --> 00:11:53,905
+
+
 We're gonna have this
 freezing rain on
 and off all night...
 
-166
-00:11:53,985 --> 00:11:55,465
+
+
 so I'd stay off the road...
 
-167
-00:11:56,705 --> 00:11:59,385
+
+
 and probably take it easy
 with that, too.
 
-168
-00:11:59,945 --> 00:12:01,345
+
+
 The next guy
 who pulls you over...
 
-169
-00:12:01,385 --> 00:12:03,585
+
+
 might be somebody
 who don't know any better.
 
-170
-00:12:03,705 --> 00:12:04,865
+
+
 I definitely owe you one.
 
-171
-00:12:04,945 --> 00:12:07,905
+
+
 All right. It's Tyler.
 It's R.P. Tyler.
 
-172
-00:12:07,985 --> 00:12:09,665
+
+
 Remember my name
 to Mr. Guerrard.
 
-173
-00:12:09,785 --> 00:12:10,945
+
+
 I will.
 
-174
-00:12:10,985 --> 00:12:12,425
+
+
 What is it?
 
-175
-00:12:14,345 --> 00:12:15,905
+
+
 Just kidding. Just kidding.
 
-176
-00:12:15,945 --> 00:12:18,425
+
+
 Have a merry Christmas.
 Merry Christmas.
 
-177
-00:12:18,985 --> 00:12:20,225
+
+
 Dickhead.
 
-178
-00:12:25,465 --> 00:12:28,385
+
+
 I'm not working Christmas
 for no fucking money,
 Dennis.
 
-179
-00:12:28,425 --> 00:12:29,625
+
+
 I'm not.
 
-180
-00:12:29,705 --> 00:12:31,545
+
+
 I could be at home
 spending Christmas
 with my kids.
 
-181
-00:12:31,625 --> 00:12:34,625
+
+
 Your kids with
 your husband, Francie.
 They in Denver.
 
-182
-00:12:34,665 --> 00:12:36,545
+
+
 Fuck you very much
 for throwing that in my face.
 
-183
-00:12:36,585 --> 00:12:38,905
+
+
 Look, you can cry
 all you want,
 but you're still going on.
 
-184
-00:12:38,985 --> 00:12:41,025
+
+
 You've been here long enough
 to know the goddamn drill.
 
-185
-00:12:41,065 --> 00:12:43,345
+
+
 You wanna work
 on the hot nights,
 you gotta work on the cold.
 
-186
-00:12:43,425 --> 00:12:44,705
+
+
 Fuck it, Dennis.
 
-187
-00:12:44,825 --> 00:12:47,705
+
+
 I'm not paying Bill Guerrard
 a $100 stage rental fee...
 
-188
-00:12:47,785 --> 00:12:51,385
+
+
 so some old pervert can look
 at my twat on Christmas
 fucking Eve!
 
-189
-00:12:51,465 --> 00:12:52,545
+
+
 Go dance.
 
-190
-00:12:52,625 --> 00:12:54,465
+
+
 Tell you what.
 Since it's Christmas Eve...
 
-191
-00:12:54,505 --> 00:12:55,945
+
+
 stage rental's on the house.
 
-192
-00:12:56,625 --> 00:12:58,345
+
+
 Hi, Charlie.
 I didn't see you come in.
 
-193
-00:12:58,425 --> 00:12:59,385
+
+
 Hi.
 
-194
-00:12:59,465 --> 00:13:00,385
+
+
 You mean it?
 
-195
-00:13:00,865 --> 00:13:01,785
+
+
 Uh-huh.
 
-196
-00:13:02,025 --> 00:13:03,265
+
+
 Gee, thanks.
 
-197
-00:13:08,105 --> 00:13:10,465
+
+
 Since when are you a friend
 of the working girl?
 
-198
-00:13:11,105 --> 00:13:13,985
+
+
 It's Christmas, Dennis.
 It's God's birthday.
 
-199
-00:13:25,865 --> 00:13:27,945
+
+
 Well, hello there, Councilman.
 
-200
-00:13:29,065 --> 00:13:31,625
+
+
 So, Dennis, you're saying
 you haven't seen Charlie,
 huh?
 
-201
-00:13:31,745 --> 00:13:33,945
+
+
 Charlie? No.
 Why do you ask?
 
-202
-00:13:34,905 --> 00:13:36,465
+
+
 How about Vic Cavanaugh?
 You seen him?
 
-203
-00:13:36,545 --> 00:13:39,145
+
+
 Dude, I don't do henchmen,
 man. I do strippers.
 
-204
-00:13:54,465 --> 00:13:56,265
+
+
 Hey, Frankie.
 Is Vic around?
 
-205
-00:13:56,585 --> 00:13:57,945
+
+
 He's sitting over there.
 
-206
-00:13:58,025 --> 00:14:00,225
+
+
 Let me get you a drink.
 Thanks.
 
-207
-00:14:01,305 --> 00:14:02,465
+
+
 Victor.
 
-208
-00:14:07,105 --> 00:14:09,665
+
+
 You know,
 us being seen together,
 tonight of all nights...
 
-209
-00:14:09,705 --> 00:14:11,265
+
+
 is probably not so smart.
 
-210
-00:14:11,305 --> 00:14:12,825
+
+
 I would have called...
 
-211
-00:14:13,705 --> 00:14:15,905
+
+
 but I had
 a bit of a situation.
 
-212
-00:14:18,665 --> 00:14:20,905
+
+
 So, guess who's
 over at the Tease.
 
-213
-00:14:21,505 --> 00:14:23,065
+
+
 Roy Gelles.
 I just spoke to him.
 
-214
-00:14:23,145 --> 00:14:25,305
+
+
 You just spoke to him?
 Yeah, I spoke to him.
 
-215
-00:14:25,385 --> 00:14:27,425
+
+
 Come on, man.
 What the fuck...
 What did he say?
 
-216
-00:14:28,025 --> 00:14:30,785
+
+
 What's wrong with you?
 He just called to wish me
 a merry Christmas.
 
-217
-00:14:30,905 --> 00:14:32,225
+
+
 Well, what
 did you say?
 
-218
-00:14:32,265 --> 00:14:33,865
+
+
 Well, I wished him
 a merry Christmas.
 
-219
-00:14:33,985 --> 00:14:35,105
+
+
 What did he say?
 
-220
-00:14:35,145 --> 00:14:36,705
+
+
 What the hell
 are you so worried about?
 
-221
-00:14:36,745 --> 00:14:39,225
+
+
 Vic, I sue people
 for a living.
 
-222
-00:14:39,465 --> 00:14:41,385
+
+
 You sell them pornography.
 
-223
-00:14:41,505 --> 00:14:43,105
+
+
 Roy hurts people.
 
-224
-00:14:43,705 --> 00:14:46,985
+
+
 He makes it
 so their knees and elbows
 bend in both directions.
 
-225
-00:14:47,065 --> 00:14:48,225
+
+
 That worries me.
 
-226
-00:14:48,345 --> 00:14:50,305
+
+
 Let me ask you something.
 
-227
-00:14:51,145 --> 00:14:53,625
+
+
 Did I make a mistake
 when I made you
 my partner in this deal?
 
-228
-00:14:53,705 --> 00:14:56,665
+
+
 Hey! You didn't
 make me your partner.
 I am the one who showed you...
 
-229
-00:14:56,745 --> 00:14:59,425
+
+
 how to steal $2 million worth
 of Bill Guerrard's money.
 
-230
-00:14:59,545 --> 00:15:02,465
+
+
 Then I showed you
 how to do it so he wouldn't
 know what you'd done...
 
-231
-00:15:02,505 --> 00:15:03,865
+
+
 till it was too late.
 
-232
-00:15:03,945 --> 00:15:06,145
+
+
 What we've done, okay?
 
-233
-00:15:06,665 --> 00:15:08,505
+
+
 Remember that.
 What we've done.
 
-234
-00:15:08,585 --> 00:15:10,585
+
+
 And here's the thing
 about what we've done.
 
-235
-00:15:10,665 --> 00:15:12,065
+
+
 Mr. Arglist?
 
-236
-00:15:12,385 --> 00:15:14,825
+
+
 Oh, thank you.
 Thank you.
 
-237
-00:15:16,745 --> 00:15:19,465
+
+
 Left to yourself,
 you'd still be on
 a barstool...
 
-238
-00:15:19,585 --> 00:15:22,185
+
+
 thinking about
 how it could be done...
 
-239
-00:15:22,305 --> 00:15:25,145
+
+
 if somebody had
 the balls to do it.
 Which is me.
 
-240
-00:15:25,225 --> 00:15:27,865
+
+
 Don't poke, Vic, okay?
 I get it.
 
-241
-00:15:35,785 --> 00:15:36,785
+
+
 Hello.
 
-242
-00:15:37,545 --> 00:15:38,585
+
+
 Yeah.
 
-243
-00:15:39,745 --> 00:15:41,865
+
+
 I know that.
 I know that.
 
-244
-00:15:44,425 --> 00:15:46,145
+
+
 I know that, too.
 
-245
-00:15:53,625 --> 00:15:55,705
+
+
 All right,
 I gotta get out of here.
 
-246
-00:15:56,265 --> 00:15:58,025
+
+
 So, I'll meet you
 at the Velvet Touch at 1:00.
 
-247
-00:15:58,105 --> 00:16:00,265
+
+
 Just like we planned,
 all right?
 Who was that?
 
-248
-00:16:01,185 --> 00:16:04,065
+
+
 Not that it's any
 of your fucking business.
 
-249
-00:16:04,585 --> 00:16:06,025
+
+
 That was my wife.
 
-250
-00:16:06,105 --> 00:16:08,065
+
+
 Thank you.
 Thank you, sweetie.
 
-251
-00:16:10,025 --> 00:16:12,865
+
+
 The lovely Gladys,
 of whom you've heard me
 speak over the years...
 
-252
-00:16:12,905 --> 00:16:14,825
+
+
 with tenderness
 and affection.
 
-253
-00:16:14,905 --> 00:16:16,745
+
+
 She was wondering
 if I'm gonna be home...
 
-254
-00:16:16,825 --> 00:16:18,505
+
+
 in time for midnight worship.
 
-255
-00:16:19,625 --> 00:16:22,425
+
+
 I thought that's
 who you were...
 Oh, having dinner with?
 No, no.
 
-256
-00:16:22,505 --> 00:16:24,225
+
+
 See, Gladys is
 on the Subway Diet.
 
-257
-00:16:24,345 --> 00:16:26,745
+
+
 She has a couple
 of foot-longs at lunch,
 couple at dinner.
 
-258
-00:16:26,825 --> 00:16:29,305
+
+
 Buys her clothes
 from Omar the Tentmaker.
 
-259
-00:16:29,385 --> 00:16:31,545
+
+
 But perhaps I'm being unkind.
 
-260
-00:16:31,705 --> 00:16:33,465
+
+
 Anyway, let me out of here.
 
-261
-00:16:38,185 --> 00:16:39,865
+
+
 Hey, Vic.
 Yeah?
 
-262
-00:16:41,065 --> 00:16:44,105
+
+
 If you wouldn't mind,
 you know,
 in case we get separated...
 
-263
-00:16:45,065 --> 00:16:46,465
+
+
 tell me where the money is.
 
-264
-00:16:46,505 --> 00:16:47,745
+
+
 Excuse me, Mr. Arglist.
 
-265
-00:16:48,265 --> 00:16:50,385
+
+
 That's hilarious.
 
-266
-00:16:50,745 --> 00:16:52,425
+
+
 He's something else.
 Yeah.
 
-267
-00:16:52,545 --> 00:16:54,305
+
+
 Mr. Arglist, I wonder
 if I might have a word?
 
-268
-00:16:54,345 --> 00:16:55,785
+
+
 Sure. Vic!
 
-269
-00:16:55,945 --> 00:16:58,225
+
+
 Mr. Arglist,
 I'm sorry
 to bother you.
 
-270
-00:16:58,305 --> 00:17:00,185
+
+
 I believe
 you can help us.
 
-271
-00:17:00,905 --> 00:17:03,545
+
+
 Peter Van Heuten
 is a friend of yours,
 right?
 
-272
-00:17:03,905 --> 00:17:04,945
+
+
 Yes.
 
-273
-00:17:05,225 --> 00:17:06,825
+
+
 He's in no shape to drive...
 
-274
-00:17:06,945 --> 00:17:09,225
+
+
 Charlie fucking Arglist!
 
-275
-00:17:09,945 --> 00:17:12,825
+
+
 Yo ho ho, mo-fo!
 What are you doing here, man?
 
-276
-00:17:12,905 --> 00:17:14,705
+
+
 Hiya, Pete.
 Merry Christmas!
 
-277
-00:17:14,785 --> 00:17:17,625
+
+
 It's good to see you!
 Good to see you!
 
-278
-00:17:17,705 --> 00:17:20,185
+
+
 What are you doing here, man?
 The real people are in there.
 
-279
-00:17:20,265 --> 00:17:21,625
+
+
 Let's go in here.
 
-280
-00:17:22,265 --> 00:17:25,465
+
+
 Everybody, I want
 you to meet... Listen up,
 a friend of mine...
 
-281
-00:17:25,545 --> 00:17:28,305
+
+
 This is Charlie Arglist,
 the most talented
 and handsome...
 
-282
-00:17:28,385 --> 00:17:30,745
+
+
 mob lawyer in all of Kansas.
 
-283
-00:17:31,505 --> 00:17:33,745
+
+
 I really wish
 you wouldn't do that.
 Come on.
 
-284
-00:17:33,825 --> 00:17:36,825
+
+
 Come on. That was
 Vic Cavanaugh you were
 hanging out with back there.
 
-285
-00:17:36,905 --> 00:17:38,945
+
+
 So what?
 Hey, let me ask you
 a question.
 
-286
-00:17:39,025 --> 00:17:40,905
+
+
 Is it true that one time...
 
-287
-00:17:40,985 --> 00:17:43,905
+
+
 he cut the hand off
 of somebody
 who stuck their fingers...
 
-288
-00:17:43,945 --> 00:17:47,145
+
+
 up the twazzallah
 of a dancer
 over at Tease-O-Rama?
 
-289
-00:17:47,225 --> 00:17:48,225
+
+
 Look around at the bar.
 
-290
-00:17:48,305 --> 00:17:50,865
+
+
 Do you see a lot
 of one-armed men in here?
 
-291
-00:17:50,945 --> 00:17:52,465
+
+
 Because if they chopped off
 the hand...
 
-292
-00:17:52,545 --> 00:17:54,265
+
+
 of every guy who tried
 that with a stripper...
 
-293
-00:17:54,345 --> 00:17:56,145
+
+
 half the men in Wichita
 would be wearing hooks.
 
-294
-00:17:56,225 --> 00:17:59,265
+
+
 Are you trying to tell me
 that these are just
 normal guys you work for?
 
-295
-00:17:59,345 --> 00:18:00,385
+
+
 What are you doing here?
 
-296
-00:18:00,505 --> 00:18:02,545
+
+
 Trying to get my ashes hauled,
 like everybody else!
 
-297
-00:18:02,625 --> 00:18:04,465
+
+
 <i>NoëI, Joyeux NoëI!</i>
 
-298
-00:18:04,585 --> 00:18:06,465
+
+
 It's all right.
 He's drunk.
 
-299
-00:18:07,225 --> 00:18:09,345
+
+
 Sarabeth isn't performing
 that function anymore?
 
-300
-00:18:09,465 --> 00:18:12,945
+
+
 Did she do that
 for you oftentimes...
 
-301
-00:18:13,025 --> 00:18:14,305
+
+
 throughout your saga?
 
-302
-00:18:14,425 --> 00:18:16,505
+
+
 Occasionally.
 Not very often.
 Mmm-hmm.
 
-303
-00:18:17,185 --> 00:18:18,945
+
+
 Is she still wearing
 flannel to bed?
 
-304
-00:18:18,985 --> 00:18:20,145
+
+
 Silly me.
 
-305
-00:18:20,225 --> 00:18:22,465
+
+
 I thought, until I met
 and married Sarabeth...
 
-306
-00:18:22,545 --> 00:18:24,185
+
+
 that it was
 only little children...
 
-307
-00:18:24,265 --> 00:18:27,585
+
+
 who wore those things
 with the feet sewn
 on the bottom.
 
-308
-00:18:27,705 --> 00:18:29,065
+
+
 You could have warned me
 about that.
 
-309
-00:18:29,145 --> 00:18:30,945
+
+
 And I'm actually
 being kind of serious here.
 
-310
-00:18:31,025 --> 00:18:32,625
+
+
 I tried to, Pete.
 I really did.
 
-311
-00:18:32,705 --> 00:18:34,785
+
+
 Yeah, bullshit. I was the end
 of your alimony problem.
 
-312
-00:18:34,865 --> 00:18:37,305
+
+
 That's what I was.
 Like hell. You were in love.
 
-313
-00:18:37,385 --> 00:18:38,465
+
+
 With my wife.
 
-314
-00:18:39,665 --> 00:18:40,785
+
+
 Love.
 
-315
-00:18:41,585 --> 00:18:43,785
+
+
 Someday somebody is going
 to tally up the cost...
 
-316
-00:18:43,865 --> 00:18:45,865
+
+
 of that particular illusion.
 
-317
-00:18:48,465 --> 00:18:50,065
+
+
 Hey.
 Yeah?
 
-318
-00:18:50,545 --> 00:18:51,865
+
+
 Did you ever go and...
 
-319
-00:18:52,985 --> 00:18:54,465
+
+
 The strippers?
 Yeah, occasionally.
 
-320
-00:18:54,545 --> 00:18:55,745
+
+
 Yeah?
 Yeah, sure.
 
-321
-00:18:55,825 --> 00:18:57,225
+
+
 When I'm really desperate...
 
-322
-00:18:57,305 --> 00:18:59,545
+
+
 or completely shit-faced,
 or generally have
 my head up my ass.
 
-323
-00:18:59,625 --> 00:19:02,105
+
+
 I'm all those three things
 right now, baby. Let's go!
 
-324
-00:19:02,185 --> 00:19:03,585
+
+
 So how you doing
 otherwise, buddy?
 
-325
-00:19:03,705 --> 00:19:06,105
+
+
 Great. Great. Really great.
 
-326
-00:19:06,665 --> 00:19:09,945
+
+
 Drawing a lot of buildings.
 Making a fucking fortune.
 
-327
-00:19:12,665 --> 00:19:14,105
+
+
 Well, listen.
 I gotta make a phone call.
 
-328
-00:19:14,225 --> 00:19:17,345
+
+
 If you just hold down
 the fort here and remain calm.
 
-329
-00:19:17,425 --> 00:19:18,785
+
+
 Remain calm.
 
-330
-00:19:21,065 --> 00:19:22,945
+
+
 Big mob lawyer.
 
-331
-00:19:33,225 --> 00:19:35,425
+
+
 Sweet Cage.
 <i>Sidney, is Renata back yet?</i>
 
-332
-00:19:35,465 --> 00:19:38,345
+
+
 No. She just called.
 Said she's on her way.
 
-333
-00:19:38,905 --> 00:19:39,945
+
+
 All right, listen...
 
-334
-00:19:40,025 --> 00:19:42,065
+
+
 when she gets back,
 you tell her
 I have that present...
 
-335
-00:19:42,145 --> 00:19:44,305
+
+
 that I mentioned for her
 earlier and not to leave.
 
-336
-00:19:44,385 --> 00:19:45,505
+
+
 Okay? Bye.
 
-337
-00:19:46,025 --> 00:19:47,705
+
+
 Mr. Arglist.
 Councilman.
 
-338
-00:19:47,785 --> 00:19:49,225
+
+
 I wonder if we might
 have a quiet word.
 
-339
-00:19:49,305 --> 00:19:50,785
+
+
 Actually, I'm kind of...
 
-340
-00:19:50,865 --> 00:19:54,785
+
+
 Would you be good enough
 to deliver a message
 from me to Mr. Guerrard?
 
-341
-00:19:57,785 --> 00:20:01,345
+
+
 Wichita is a community
 of good people, Mr. Arglist.
 
-342
-00:20:01,425 --> 00:20:02,465
+
+
 Christian people.
 
-343
-00:20:02,545 --> 00:20:05,185
+
+
 Yeah, half of them
 are in this very bar
 trying to get laid.
 
-344
-00:20:05,265 --> 00:20:08,865
+
+
 That may well be.
 But my point is,
 some time ago...
 
-345
-00:20:09,385 --> 00:20:12,865
+
+
 in a moment of weakness,
 I did a very foolish thing.
 
-346
-00:20:13,265 --> 00:20:15,265
+
+
 And that foolish thing
 was photographed.
 
-347
-00:20:15,345 --> 00:20:18,945
+
+
 I believe that photo
 is in the possession
 of a Mr. Vic Cavanaugh...
 
-348
-00:20:19,025 --> 00:20:22,345
+
+
 an associate of yours,
 who refuses to surrender it...
 
-349
-00:20:22,425 --> 00:20:25,505
+
+
 despite several generous
 offers for its purchase...
 
-350
-00:20:25,585 --> 00:20:27,625
+
+
 the last of which,
 delivered not 10 minutes ago.
 
-351
-00:20:27,705 --> 00:20:29,345
+
+
 People can be stubborn.
 
-352
-00:20:29,425 --> 00:20:33,025
+
+
 Do you think
 Mr. Guerrard would be able
 to persuade Mr. Cavanaugh...
 
-353
-00:20:33,105 --> 00:20:34,065
+
+
 Oh.
 
-354
-00:20:34,145 --> 00:20:38,625
+
+
 ...to reconsider if
 he understood his own
 interests in the matter?
 
-355
-00:20:38,905 --> 00:20:42,625
+
+
 Well, Mr. Guerrard
 is one of the most
 persuasive men I know.
 
-356
-00:20:43,185 --> 00:20:45,265
+
+
 What kind of figures
 are we talking about here?
 
-357
-00:20:45,345 --> 00:20:46,865
+
+
 Are we talking about four?
 Five? Six?
 
-358
-00:20:46,945 --> 00:20:49,745
+
+
 Five, Mr. Arglist.
 Low five.
 
-359
-00:20:51,545 --> 00:20:53,505
+
+
 Councilman, I think
 the photo in question...
 
-360
-00:20:53,585 --> 00:20:55,585
+
+
 might be closer
 than you can possibly
 imagine.
 
-361
-00:20:57,345 --> 00:20:59,905
+
+
 You've given me hope,
 Mr. Arglist.
 Merry Christmas.
 
-362
-00:20:59,985 --> 00:21:03,025
+
+
 Wonderful season, isn't it?
 So full of
 mutual understanding.
 
-363
-00:21:03,105 --> 00:21:04,305
+
+
 Yeah.
 
-364
-00:21:10,425 --> 00:21:13,225
+
+
 You gotta know
 the whole culture
 is in the toilet...
 
-365
-00:21:13,305 --> 00:21:16,665
+
+
 if a guy dressed
 like that can get laid
 in a place like this.
 
-366
-00:21:16,745 --> 00:21:19,665
+
+
 Hey, you're flipping off
 the mob here,
 just so you know.
 
-367
-00:21:19,745 --> 00:21:22,145
+
+
 Did I mention to you that
 I really wish you wouldn't
 do that?
 
-368
-00:21:22,225 --> 00:21:23,345
+
+
 Yeah.
 
-369
-00:21:24,305 --> 00:21:27,265
+
+
 M- O-B, mob. Okay?
 All right, let's go.
 
-370
-00:21:27,345 --> 00:21:29,185
+
+
 Right back at you, huh?
 
-371
-00:21:29,265 --> 00:21:31,625
+
+
 And there, that one, too.
 There, see?
 
-372
-00:21:55,105 --> 00:21:57,105
+
+
 That's my chair in there.
 
-373
-00:21:58,305 --> 00:22:00,185
+
+
 You wanna know the truth?
 
-374
-00:22:01,825 --> 00:22:03,425
+
+
 I can't fill it.
 
-375
-00:22:07,465 --> 00:22:09,625
+
+
 Neither could I,
 if it makes you
 feel any better.
 
-376
-00:22:10,745 --> 00:22:11,905
+
+
 Listen, Charlie.
 
-377
-00:22:11,985 --> 00:22:14,945
+
+
 Before we go in,
 there's something
 I have to tell you.
 
-378
-00:22:15,825 --> 00:22:18,945
+
+
 It's been on my conscience,
 and you can punch me
 if you want to.
 
-379
-00:22:19,025 --> 00:22:20,905
+
+
 I don't think
 I'm gonna want to.
 
-380
-00:22:21,905 --> 00:22:25,705
+
+
 Back when you and Sarabeth
 were still married
 that last year...
 
-381
-00:22:25,745 --> 00:22:26,705
+
+
 Uh-huh.
 
-382
-00:22:27,305 --> 00:22:28,705
+
+
 ...she and I
 were fucking.
 
-383
-00:22:30,825 --> 00:22:31,945
+
+
 No kidding?
 
-384
-00:22:33,145 --> 00:22:37,825
+
+
 Like minks. Everywhere.
 Kitchen table, your bed,
 garage.
 
-385
-00:22:38,345 --> 00:22:39,265
+
+
 Wow.
 
-386
-00:22:40,665 --> 00:22:42,945
+
+
 Jesus, Charlie,
 we were friends.
 
-387
-00:22:43,265 --> 00:22:44,385
+
+
 It doesn't make you angry?
 
-388
-00:22:45,505 --> 00:22:47,105
+
+
 Actually, it makes me curious.
 
-389
-00:22:48,825 --> 00:22:51,425
+
+
 Makes me wonder
 who she's fucking now.
 
-390
-00:22:54,905 --> 00:22:58,745
+
+
 Yo ho ho!
 Merry fucking Christmas!
 
-391
-00:22:59,825 --> 00:23:03,145
+
+
 Guess who I brought with me?
 Ghost of Christmas Past.
 
-392
-00:23:03,425 --> 00:23:04,825
+
+
 Ooh.
 
-393
-00:23:05,185 --> 00:23:07,745
+
+
 Marley!
 Get the fuck in here.
 
-394
-00:23:08,665 --> 00:23:09,985
+
+
 Hey, everybody.
 
-395
-00:23:10,465 --> 00:23:12,305
+
+
 Merry Christmas.
 Merry Christmas.
 
-396
-00:23:15,865 --> 00:23:17,345
+
+
 Hello, Charlie.
 
-397
-00:23:17,825 --> 00:23:19,545
+
+
 Come in
 and have a piece of pie.
 
-398
-00:23:19,625 --> 00:23:21,465
+
+
 Hi, Dottie.
 No, thank you. I'm fine.
 
-399
-00:23:21,545 --> 00:23:24,025
+
+
 I just wanted to stop in
 and wish you all
 a very merry...
 
-400
-00:23:24,105 --> 00:23:26,825
+
+
 Screw the pie, you old harpy.
 We're here for dinner.
 
-401
-00:23:27,425 --> 00:23:30,145
+
+
 Turkey, cranberry,
 stuffing, the works!
 
-402
-00:23:30,585 --> 00:23:32,185
+
+
 Thanks. Yeah.
 
-403
-00:23:35,745 --> 00:23:38,305
+
+
 Yeah. Motherfucker.
 Yeah.
 
-404
-00:23:40,105 --> 00:23:41,345
+
+
 Turkey-alurkey.
 
-405
-00:23:42,025 --> 00:23:43,065
+
+
 Pathetic.
 
-406
-00:23:43,945 --> 00:23:45,305
+
+
 What did you say, Stan?
 
-407
-00:23:45,385 --> 00:23:48,225
+
+
 You two are pathetic.
 Makes me ashamed to be a man.
 
-408
-00:23:48,305 --> 00:23:51,625
+
+
 I'm pathetic?
 I'm pathetic?
 
-409
-00:23:52,465 --> 00:23:53,825
+
+
 Who paid for that
 hip replacement...
 
-410
-00:23:53,905 --> 00:23:56,065
+
+
 your insurance company
 wouldn't cover, huh?
 
-411
-00:23:56,145 --> 00:23:58,305
+
+
 Dad, tell me that!
 
-412
-00:23:58,905 --> 00:24:02,585
+
+
 And who took care of
 your mortgage payments
 when you were recuperating?
 
-413
-00:24:02,665 --> 00:24:04,385
+
+
 And when you're
 done with that...
 
-414
-00:24:04,505 --> 00:24:06,905
+
+
 maybe you could
 explain to me who it was...
 
-415
-00:24:07,025 --> 00:24:08,825
+
+
 raised his only daughter...
 
-416
-00:24:08,905 --> 00:24:12,665
+
+
 to be a cold, gossiping,
 hypocritical bitch!
 
-417
-00:24:20,265 --> 00:24:22,705
+
+
 So, Spence, how you doing?
 Go to hell.
 
-418
-00:24:24,505 --> 00:24:26,305
+
+
 Don't you talk
 to your father that way.
 
-419
-00:24:26,385 --> 00:24:29,145
+
+
 He's not my father.
 He didn't even send us
 presents this year.
 
-420
-00:24:29,225 --> 00:24:30,545
+
+
 I hate his guts.
 
-421
-00:24:31,625 --> 00:24:32,985
+
+
 Is that right, Charlie?
 
-422
-00:24:33,065 --> 00:24:35,345
+
+
 You didn't even send them
 any Christmas presents?
 
-423
-00:24:35,425 --> 00:24:37,425
+
+
 No.
 Christmas is tomorrow.
 
-424
-00:24:37,505 --> 00:24:40,025
+
+
 Guess what, Daddy?
 I was in the Christmas play.
 
-425
-00:24:40,105 --> 00:24:41,025
+
+
 So what?
 
-426
-00:24:41,105 --> 00:24:43,945
+
+
 All you were was
 Tiny Tim's sister, and you
 didn't even have any lines!
 
-427
-00:24:43,985 --> 00:24:45,345
+
+
 And he didn't even
 come to watch!
 
-428
-00:24:45,425 --> 00:24:47,945
+
+
 He would have,
 but Mommy didn't
 send an invitation!
 
-429
-00:24:49,025 --> 00:24:52,065
+
+
 I'm sorry, Charlie,
 but maybe you should go now.
 
-430
-00:24:52,625 --> 00:24:55,025
+
+
 And perhaps you would give
 Pete a ride home?
 
-431
-00:24:55,745 --> 00:24:58,785
+
+
 Sarabeth and the children
 will be staying here tonight.
 
-432
-00:24:58,945 --> 00:25:00,385
+
+
 Okay.
 Yeah.
 
-433
-00:25:00,465 --> 00:25:01,505
+
+
 Listen, sweetie,
 I'm gonna go...
 
-434
-00:25:01,545 --> 00:25:03,625
+
+
 and I'm gonna come back
 and visit you tomorrow,
 all right?
 
-435
-00:25:03,705 --> 00:25:06,945
+
+
 Don't believe him, Melissa.
 He's lying.
 All he ever does is lie.
 
-436
-00:25:07,025 --> 00:25:08,105
+
+
 Shut up!
 
-437
-00:25:09,305 --> 00:25:10,985
+
+
 Merry Christmas, Charlie.
 
-438
-00:25:23,305 --> 00:25:25,665
+
+
 On the whole,
 I thought that went well.
 
-439
-00:25:25,745 --> 00:25:27,585
+
+
 Yeah, it's good
 to see the family.
 
-440
-00:25:27,665 --> 00:25:30,585
+
+
 What do you say,
 one more drink?
 The night is young.
 
-441
-00:25:30,665 --> 00:25:33,985
+
+
 All right, one more,
 that's it.
 Okay. One more.
 
-442
-00:25:46,105 --> 00:25:48,025
+
+
 Melissa really misses you.
 
-443
-00:25:48,585 --> 00:25:50,745
+
+
 Not Spencer. He hates me.
 
-444
-00:25:53,185 --> 00:25:56,025
+
+
 You just gotta give him time.
 He'll come around.
 
-445
-00:25:56,465 --> 00:25:59,065
+
+
 Your leaving came
 at an awkward age for him.
 
-446
-00:25:59,145 --> 00:26:00,985
+
+
 A clean break is best.
 
-447
-00:26:01,465 --> 00:26:04,705
+
+
 No, a clean break is easiest.
 On you.
 
-448
-00:26:06,425 --> 00:26:07,385
+
+
 Oh.
 
-449
-00:26:08,505 --> 00:26:10,785
+
+
 Are you saying
 you have no regrets?
 
-450
-00:26:11,105 --> 00:26:12,865
+
+
 Don't believe in them.
 
-451
-00:26:12,985 --> 00:26:16,225
+
+
 Bullshit.
 Everybody has regrets.
 
-452
-00:26:16,585 --> 00:26:20,025
+
+
 Guys our age,
 what else is there?
 
-453
-00:26:26,225 --> 00:26:27,825
+
+
 I ever tell you
 my father was a twin?
 
-454
-00:26:28,665 --> 00:26:30,465
+
+
 Identical?
 Fraternal.
 
-455
-00:26:30,985 --> 00:26:33,025
+
+
 Looked a lot alike, though,
 him and my uncle.
 
-456
-00:26:33,105 --> 00:26:35,545
+
+
 Different temperaments
 completely.
 
-457
-00:26:35,825 --> 00:26:38,065
+
+
 My father, he's a cop.
 
-458
-00:26:39,225 --> 00:26:40,825
+
+
 By-the-book guy.
 
-459
-00:26:41,145 --> 00:26:44,625
+
+
 Believed in the law.
 Wanted his only son
 to be a lawyer.
 
-460
-00:26:44,705 --> 00:26:47,105
+
+
 Drank in moderation,
 didn't smoke.
 
-461
-00:26:47,225 --> 00:26:49,745
+
+
 Kept up his
 life insurance premiums.
 
-462
-00:26:50,025 --> 00:26:52,705
+
+
 Voted in every election,
 not just for president.
 
-463
-00:26:52,785 --> 00:26:55,745
+
+
 Let me guess.
 Uncle didn't vote.
 
-464
-00:26:55,825 --> 00:26:58,945
+
+
 He said he didn't want
 to encourage the bastards.
 
-465
-00:27:00,185 --> 00:27:01,985
+
+
 In and out of jail
 from the time he was 16...
 
-466
-00:27:02,025 --> 00:27:04,665
+
+
 drunk all the time,
 fucked everything that walked.
 
-467
-00:27:04,745 --> 00:27:08,025
+
+
 Won a fortune playing poker,
 lost it all the same way.
 
-468
-00:27:08,105 --> 00:27:10,145
+
+
 Lost an eye in a fight.
 Half his life...
 
-469
-00:27:10,225 --> 00:27:13,305
+
+
 So what
 you're trying to say is,
 you take after your uncle.
 
-470
-00:27:14,425 --> 00:27:16,065
+
+
 I wasn't finished.
 
-471
-00:27:17,865 --> 00:27:19,105
+
+
 My father was 54...
 
-472
-00:27:19,145 --> 00:27:22,345
+
+
 when he died of
 a massive embolism,
 right here in Wichita.
 
-473
-00:27:23,545 --> 00:27:26,785
+
+
 My uncle
 died the very next day...
 
-474
-00:27:28,145 --> 00:27:30,265
+
+
 in a car wreck in California.
 
-475
-00:27:32,705 --> 00:27:34,385
+
+
 So the point is...
 
-476
-00:27:35,105 --> 00:27:37,305
+
+
 it is futile to regret.
 
-477
-00:27:39,385 --> 00:27:41,985
+
+
 You do one thing,
 you do another...
 
-478
-00:27:42,945 --> 00:27:44,345
+
+
 I mean, so what?
 
-479
-00:27:45,345 --> 00:27:47,505
+
+
 What's the difference?
 Same result.
 
-480
-00:27:54,385 --> 00:27:56,865
+
+
 How many of these lights
 you gonna sit through?
 
-481
-00:27:56,945 --> 00:27:59,305
+
+
 See if I tell you
 another fucking story.
 
-482
-00:28:02,625 --> 00:28:04,385
+
+
 Sorry, guys, we're closed.
 
-483
-00:28:04,505 --> 00:28:06,785
+
+
 We just want one drink.
 Each.
 
-484
-00:28:08,465 --> 00:28:11,545
+
+
 My friend's a mobster.
 You might know that,
 you might not.
 
-485
-00:28:11,625 --> 00:28:15,265
+
+
 I'll tell you what.
 I'll give you one,
 on the house...
 
-486
-00:28:15,425 --> 00:28:16,705
+
+
 if you drink it up and leave.
 
-487
-00:28:16,785 --> 00:28:18,345
+
+
 But I'm not opening
 my register back up.
 
-488
-00:28:18,425 --> 00:28:20,185
+
+
 Thank you, gorgeous.
 
-489
-00:28:20,585 --> 00:28:24,385
+
+
 Do you know
 where this last drink
 is going to take me?
 
-490
-00:28:24,545 --> 00:28:27,025
+
+
 To that perfect stage
 of drunkenness.
 
-491
-00:28:27,585 --> 00:28:29,465
+
+
 And then, do you know
 what I'm going to do?
 
-492
-00:28:29,545 --> 00:28:33,665
+
+
 I'm going to go straight home,
 go to bed, and dream of you.
 
-493
-00:28:36,625 --> 00:28:39,705
+
+
 I don't think
 I'd pursue that
 particular line.
 
-494
-00:28:39,945 --> 00:28:41,345
+
+
 You with him?
 Yeah.
 
-495
-00:28:41,465 --> 00:28:43,745
+
+
 Makes no difference.
 It's okay.
 
-496
-00:28:44,065 --> 00:28:45,785
+
+
 It's a free country.
 
-497
-00:28:45,865 --> 00:28:48,785
+
+
 And any man can dream
 anything he wants to dream.
 
-498
-00:28:48,865 --> 00:28:50,145
+
+
 And tonight
 I'm gonna dream of you.
 
-499
-00:28:50,265 --> 00:28:52,065
+
+
 All right,
 I gotta make a phone call.
 I'll be right back.
 
-500
-00:28:52,145 --> 00:28:53,465
+
+
 Okay, behave yourself.
 
-501
-00:28:54,785 --> 00:28:56,545
+
+
 <i>Sweet Cage.</i>
 Sidney, is Renata back yet?
 
-502
-00:28:56,665 --> 00:28:58,105
+
+
 No. Not yet.
 
-503
-00:29:00,305 --> 00:29:02,625
+
+
 But you won't believe
 who just walked in.
 
-504
-00:29:02,705 --> 00:29:05,145
+
+
 Roy Gelles?
 <i>No. Forget Roy Gelles,</i>
 <i>will you?</i>
 
-505
-00:29:05,425 --> 00:29:07,105
+
+
 That fucking guitar player.
 
-506
-00:29:07,145 --> 00:29:09,065
+
+
 The one who gave Rusti
 the black eye.
 
-507
-00:29:09,105 --> 00:29:10,425
+
+
 What's going on?
 
-508
-00:29:10,505 --> 00:29:11,745
+
+
 <i>I swear to God...</i>
 
-509
-00:29:11,825 --> 00:29:15,385
+
+
 if he gives Rusti
 any trouble, I'm gonna
 break his fucking fingers.
 
-510
-00:29:15,465 --> 00:29:16,665
+
+
 What's your name,
 jock strap?
 
-511
-00:29:16,745 --> 00:29:17,985
+
+
 Which hand should I break?
 
-512
-00:29:18,065 --> 00:29:20,145
+
+
 I don't have the answer
 to that question, Sidney.
 
-513
-00:29:20,225 --> 00:29:22,305
+
+
 <i>Listen, when Renata gets</i>
 <i>back in, just tell her...</i>
 
-514
-00:29:22,425 --> 00:29:23,985
+
+
 I know.
 You got a present for her.
 
-515
-00:29:24,065 --> 00:29:26,105
+
+
 I hope you don't think
 she's gonna fuck you,
 Charlie.
 
-516
-00:29:26,185 --> 00:29:28,665
+
+
 Think it's
 out of the question?
 <i>Absolutely.</i>
 
-517
-00:29:29,665 --> 00:29:30,785
+
+
 Merry Christmas, Sidney.
 
-518
-00:29:30,905 --> 00:29:33,385
+
+
 Yeah.
 Merry Christmas, Charlie.
 
-519
-00:29:36,225 --> 00:29:38,425
+
+
 Would you like to know
 what you're going
 to be wearing...
 
-520
-00:29:38,505 --> 00:29:41,105
+
+
 in my little dream?
 Disregard him.
 
-521
-00:29:41,225 --> 00:29:42,185
+
+
 Hmm.
 
-522
-00:29:42,825 --> 00:29:46,385
+
+
 That fish necklace,
 and that's it.
 
-523
-00:29:46,465 --> 00:29:49,025
+
+
 Completely disregard him
 tonight. He's drunk.
 
-524
-00:29:49,105 --> 00:29:52,465
+
+
 Except for that necklace,
 you're gonna be
 one naked little Christian.
 
-525
-00:29:55,585 --> 00:29:57,465
+
+
 Pete, not that you're asking
 for my advice...
 
-526
-00:29:57,545 --> 00:30:00,665
+
+
 but, listen, I would shut
 the fuck up right now.
 
-527
-00:30:01,985 --> 00:30:03,105
+
+
 Yeah.
 
-528
-00:30:04,345 --> 00:30:06,945
+
+
 Hey. Sporty Nuts.
 Pete.
 
-529
-00:30:08,105 --> 00:30:11,305
+
+
 If you don't get laid tonight,
 fish necklace or no...
 
-530
-00:30:11,385 --> 00:30:13,545
+
+
 it's 'cause
 you're not trying, my son.
 
-531
-00:30:13,625 --> 00:30:15,265
+
+
 Pete, I hope you're
 listening to me.
 
-532
-00:30:15,345 --> 00:30:17,785
+
+
 And if you play
 your cards right...
 
-533
-00:30:19,105 --> 00:30:20,945
+
+
 this hot-assed
 little Jesus freak...
 
-534
-00:30:21,025 --> 00:30:25,305
+
+
 just might initiate you
 into the Campus Crusade
 for Cunnilingus.
 
-535
-00:30:26,385 --> 00:30:29,825
+
+
 Do you notice
 that I am practicing
 non-violent resistance...
 
-536
-00:30:29,905 --> 00:30:33,185
+
+
 in honor
 of the Christmas holiday?
 
-537
-00:30:33,425 --> 00:30:35,665
+
+
 Because that's the way...
 
-538
-00:30:35,745 --> 00:30:39,585
+
+
 baby Jesus
 would have wanted me to do it.
 
-539
-00:30:42,785 --> 00:30:46,785
+
+
 That was unpleasant.
 I think I scraped my tummy.
 
-540
-00:30:55,105 --> 00:30:56,065
+
+
 Hmm.
 
-541
-00:30:56,585 --> 00:30:57,545
+
+
 Oh, my nuts.
 
-542
-00:31:02,585 --> 00:31:04,545
+
+
 I got it. I got it.
 
-543
-00:31:04,625 --> 00:31:06,425
+
+
 You sure?
 I got it.
 
-544
-00:31:10,945 --> 00:31:12,305
+
+
 Oh, fuck.
 
-545
-00:31:25,385 --> 00:31:27,905
+
+
 Jesus Christ, Pete,
 you had the whole
 goddamn parking lot.
 
-546
-00:31:28,025 --> 00:31:30,145
+
+
 Why did you have
 to throw up in the car?
 
-547
-00:31:30,225 --> 00:31:34,905
+
+
 I think that boy drove
 one of my testicles up
 into my body cavity.
 
-548
-00:31:34,985 --> 00:31:36,385
+
+
 Are you sure?
 
-549
-00:31:36,665 --> 00:31:38,945
+
+
 I don't know
 where else it could be.
 
-550
-00:31:39,065 --> 00:31:40,625
+
+
 Okay, bounce me.
 
-551
-00:31:43,425 --> 00:31:44,825
+
+
 Again, again.
 
-552
-00:31:47,545 --> 00:31:50,105
+
+
 Now, three times fast.
 Three times fast!
 
-553
-00:31:56,425 --> 00:31:58,785
+
+
 If you're trying
 to shake the money
 out of his pockets...
 
-554
-00:31:58,905 --> 00:32:01,425
+
+
 you gotta turn him
 upside down first.
 
-555
-00:32:02,745 --> 00:32:03,905
+
+
 Right.
 
-556
-00:32:04,905 --> 00:32:06,465
+
+
 Think that did it.
 
-557
-00:32:06,585 --> 00:32:09,745
+
+
 One, two. Yup.
 
-558
-00:32:10,585 --> 00:32:11,905
+
+
 We did it.
 
-559
-00:32:12,185 --> 00:32:13,985
+
+
 You have a good night,
 Mr. Arglist.
 
-560
-00:32:14,065 --> 00:32:15,585
+
+
 Good night, now.
 
-561
-00:32:31,625 --> 00:32:34,345
+
+
 Take me home, buddy.
 I know my limit.
 
-562
-00:32:34,625 --> 00:32:36,585
+
+
 You are home,
 for Christ's sake, Pete.
 
-563
-00:32:42,785 --> 00:32:44,105
+
+
 Pants, pants, pants.
 
-564
-00:32:46,145 --> 00:32:48,185
+
+
 I got it, I got it,
 I got it.
 
-565
-00:32:48,265 --> 00:32:50,665
+
+
 Do you remember
 when you used to live here?
 
-566
-00:32:50,705 --> 00:32:52,185
+
+
 Do you remember?
 Yeah. I remember.
 
-567
-00:32:52,265 --> 00:32:54,145
+
+
 This used to be your house.
 Come on.
 
-568
-00:32:54,225 --> 00:32:56,945
+
+
 I got it, I got it, I got it.
 
-569
-00:32:57,025 --> 00:32:58,065
+
+
 I know the way.
 
-570
-00:32:58,145 --> 00:33:00,105
+
+
 Are you sure?
 Buddy, I got it.
 
-571
-00:33:00,225 --> 00:33:02,905
+
+
 All right.
 I got it, okay?
 
-572
-00:33:06,585 --> 00:33:08,185
+
+
 Man down.
 
-573
-00:33:09,865 --> 00:33:11,665
+
+
 Man down.
 
-574
-00:33:14,145 --> 00:33:16,265
+
+
 I thought I had it.
 
-575
-00:33:16,465 --> 00:33:17,985
+
+
 But I didn't.
 
-576
-00:33:18,785 --> 00:33:20,425
+
+
 I didn't have it.
 
-577
-00:33:25,265 --> 00:33:27,065
+
+
 Man still down.
 
-578
-00:33:27,945 --> 00:33:30,225
+
+
 Man remains down.
 
-579
-00:33:31,425 --> 00:33:33,185
+
+
 Get some rest, pal.
 
-580
-00:34:23,025 --> 00:34:25,745
+
+
 Stop! Stop it!
 
-581
-00:34:27,985 --> 00:34:29,265
+
+
 Oh, fuck!
 
-582
-00:34:31,225 --> 00:34:33,265
+
+
 Oh my God!
 
-583
-00:34:33,465 --> 00:34:35,185
+
+
 Hi, Rusti.
 Is Renata inside?
 
-584
-00:34:35,625 --> 00:34:36,865
+
+
 Oh, fuck!
 
-585
-00:34:36,945 --> 00:34:39,545
+
+
 Charlie, did you meet Donny?
 Ronny.
 
-586
-00:34:39,665 --> 00:34:42,905
+
+
 Yeah. Donny had this
 giant crush on me
 back in high school.
 
-587
-00:34:42,985 --> 00:34:44,265
+
+
 Only I had no idea.
 
-588
-00:34:44,345 --> 00:34:47,105
+
+
 We had two classes together,
 chemistry and something else.
 
-589
-00:34:47,185 --> 00:34:48,305
+
+
 We can't remember.
 
-590
-00:34:48,385 --> 00:34:50,265
+
+
 Anyway, so we're talking...
 
-591
-00:34:50,345 --> 00:34:52,785
+
+
 and remembering old times,
 and guess what?
 
-592
-00:34:53,585 --> 00:34:54,705
+
+
 We're getting married.
 
-593
-00:34:54,785 --> 00:34:56,065
+
+
 Oh, fuck!
 
-594
-00:34:56,145 --> 00:34:57,745
+
+
 Great.
 Oh, God!
 
-595
-00:34:58,825 --> 00:35:02,625
+
+
 Listen. Let this night
 be a reminder to you...
 
-596
-00:35:03,545 --> 00:35:04,985
+
+
 when you think
 about using her...
 
-597
-00:35:05,065 --> 00:35:07,265
+
+
 As a punching bag.
 All right?
 
-598
-00:35:07,305 --> 00:35:09,305
+
+
 All right?
 Don't... All right?
 Sidney.
 
-599
-00:35:09,505 --> 00:35:11,865
+
+
 Sidney.
 All right.
 
-600
-00:35:12,745 --> 00:35:15,345
+
+
 You do hear that siren, right?
 Yeah, yeah.
 
-601
-00:35:16,305 --> 00:35:19,105
+
+
 Look, Charlie,
 my blood was up, you know?
 
-602
-00:35:19,385 --> 00:35:21,585
+
+
 My mother's always telling me
 I need to work on my anger.
 
-603
-00:35:21,665 --> 00:35:23,665
+
+
 Channel my energies
 into something more positive.
 
-604
-00:35:23,745 --> 00:35:25,105
+
+
 Makes me
 want to slap her silly.
 
-605
-00:35:25,185 --> 00:35:27,305
+
+
 Jesus Christ, Sidney,
 you don't hit your mother,
 do you?
 
-606
-00:35:27,385 --> 00:35:28,585
+
+
 Christ, no.
 
-607
-00:35:28,665 --> 00:35:31,305
+
+
 Charlie, I'm talking
 about desires here,
 that's all.
 
-608
-00:35:31,385 --> 00:35:32,705
+
+
 Urges and shit.
 
-609
-00:35:33,905 --> 00:35:35,785
+
+
 Anyway, I gotta go.
 Gotta pick up the kids.
 
-610
-00:35:35,865 --> 00:35:37,225
+
+
 We're going to Six Flags
 tomorrow.
 
-611
-00:35:37,305 --> 00:35:38,545
+
+
 Good.
 Yeah.
 
-612
-00:35:38,625 --> 00:35:40,105
+
+
 Is she back?
 Oh, yeah.
 
-613
-00:35:40,185 --> 00:35:42,465
+
+
 She's gonna be pissed at me
 'cause I'm leaving early.
 
-614
-00:35:42,545 --> 00:35:45,385
+
+
 That's okay.
 I got something for her,
 to cheer her up.
 
-615
-00:35:45,465 --> 00:35:48,705
+
+
 Damn. You can read
 the fine print
 on the lubricant.
 
-616
-00:35:50,985 --> 00:35:53,385
+
+
 I didn't know you smoked.
 I don't.
 
-617
-00:35:57,745 --> 00:36:00,625
+
+
 I guess I thought
 you'd be happier.
 Happy?
 
-618
-00:36:01,785 --> 00:36:04,865
+
+
 I'm fucking ecstatic.
 Can't you tell?
 
-619
-00:36:07,585 --> 00:36:10,585
+
+
 And in return for this,
 you want exactly what?
 
-620
-00:36:12,185 --> 00:36:13,465
+
+
 Nothing.
 
-621
-00:36:15,025 --> 00:36:16,265
+
+
 Nothing.
 
-622
-00:36:18,705 --> 00:36:22,785
+
+
 Charlie, I've been hearing
 weird things about you
 all night.
 
-623
-00:36:22,825 --> 00:36:23,865
+
+
 Like what?
 
-624
-00:36:23,945 --> 00:36:26,505
+
+
 Like waiving stage rentals
 over at the Tease-O-Rama.
 
-625
-00:36:26,585 --> 00:36:29,945
+
+
 Comping dancers' drinks?
 Not like you at all.
 
-626
-00:36:32,625 --> 00:36:34,105
+
+
 And now this.
 
-627
-00:36:38,785 --> 00:36:40,145
+
+
 Oh, my God.
 
-628
-00:36:42,145 --> 00:36:43,945
+
+
 You are leaving town.
 
-629
-00:36:53,185 --> 00:36:55,905
+
+
 Have you and Vic
 been dipping into the till?
 
-630
-00:36:55,985 --> 00:36:58,505
+
+
 Steal from Bill?
 That would be crazy.
 
-631
-00:37:02,425 --> 00:37:06,505
+
+
 Well, then there's only one
 other possible explanation.
 
-632
-00:37:13,385 --> 00:37:15,305
+
+
 You're in love with me.
 
-633
-00:37:18,105 --> 00:37:19,665
+
+
 I've always liked you.
 
-634
-00:37:20,105 --> 00:37:21,545
+
+
 I've noticed.
 
-635
-00:37:31,465 --> 00:37:33,225
+
+
 Tell you what.
 What?
 
-636
-00:37:33,305 --> 00:37:37,545
+
+
 Give me 45 minutes
 to close up, then meet me
 at my apartment.
 
-637
-00:37:38,665 --> 00:37:39,745
+
+
 All right.
 
-638
-00:37:40,465 --> 00:37:41,545
+
+
 Okay.
 
-639
-00:37:47,185 --> 00:37:49,745
+
+
 I forgot. Vic called.
 
-640
-00:37:50,305 --> 00:37:53,785
+
+
 Said to tell you
 that you were right
 and he was wrong.
 
-641
-00:37:55,185 --> 00:37:58,465
+
+
 Something about a guy
 you thought might be
 looking for you.
 
-642
-00:37:58,545 --> 00:37:59,985
+
+
 Yeah?
 He is.
 
-643
-00:38:00,745 --> 00:38:02,225
+
+
 This was when?
 
-644
-00:38:02,505 --> 00:38:04,225
+
+
 About half an hour ago.
 
-645
-00:38:04,305 --> 00:38:08,465
+
+
 Vic said for you to meet him
 at the Velvet Touch
 as soon as you can.
 
-646
-00:38:09,225 --> 00:38:11,585
+
+
 You sure nothing's going on?
 Not a thing.
 
-647
-00:38:12,185 --> 00:38:13,985
+
+
 Don't forget to come back,
 okay?
 
-648
-00:38:15,305 --> 00:38:16,545
+
+
 I won't.
 
-649
-00:38:36,985 --> 00:38:38,065
+
+
 Vic.
 
-650
-00:38:56,505 --> 00:38:59,185
+
+
 <i>Harder. Oh, yeah.</i>
 
-651
-00:39:04,945 --> 00:39:06,865
+
+
 Vic, hate to interrupt!
 
-652
-00:39:08,785 --> 00:39:09,905
+
+
 <i>Yeah, baby.</i>
 
-653
-00:39:09,985 --> 00:39:11,225
+
+
 Come on, Vic.
 
-654
-00:39:11,305 --> 00:39:12,665
+
+
 <i>Don't stop.</i>
 
-655
-00:39:13,545 --> 00:39:15,025
+
+
 <i>Almost there.</i>
 
-656
-00:39:18,825 --> 00:39:20,945
+
+
 <i>Keep going. Keep going.</i>
 
-657
-00:39:29,585 --> 00:39:30,665
+
+
 Vic?
 
-658
-00:39:53,025 --> 00:39:55,865
+
+
 Fuck! Oh, fuck.
 
-659
-00:40:28,665 --> 00:40:30,065
+
+
 Mr. Arglist?
 
-660
-00:40:31,705 --> 00:40:33,025
+
+
 Oh, fuck!
 
-661
-00:40:36,705 --> 00:40:39,345
+
+
 Ouch, that had to hurt.
 Yeah, it sure did.
 
-662
-00:40:39,825 --> 00:40:41,385
+
+
 What were you doing?
 
-663
-00:40:41,465 --> 00:40:44,265
+
+
 I was gonna be sick,
 but now I'm okay.
 
-664
-00:40:45,465 --> 00:40:46,905
+
+
 Different car.
 
-665
-00:40:47,745 --> 00:40:49,425
+
+
 Yeah, it's my ex-wife's.
 It's a long story.
 
-666
-00:40:50,065 --> 00:40:51,345
+
+
 You don't look too good.
 
-667
-00:40:51,425 --> 00:40:53,505
+
+
 You want me to call somebody
 to come get you?
 
-668
-00:40:53,585 --> 00:40:56,385
+
+
 No, no, I'm fine.
 I'm headed home anyway.
 
-669
-00:40:56,745 --> 00:40:59,505
+
+
 Okay, Mr. Arglist.
 You go home
 and get some sleep.
 
-670
-00:40:59,585 --> 00:41:02,145
+
+
 And don't forget to put in
 a good word for me
 with Mr. Guerrard.
 
-671
-00:41:02,225 --> 00:41:04,305
+
+
 I will, Officer.
 Officer what?
 
-672
-00:41:05,985 --> 00:41:08,625
+
+
 Taylor.
 Tyler.
 
-673
-00:41:09,225 --> 00:41:11,825
+
+
 But it's pretty close,
 though.
 Yeah.
 
-674
-00:41:12,265 --> 00:41:14,945
+
+
 All right, tell you what.
 When you go home...
 
-675
-00:41:15,025 --> 00:41:17,905
+
+
 I don't think I'd come back
 out again tonight,
 if I were you.
 
-676
-00:41:17,985 --> 00:41:20,265
+
+
 No, I probably won't.
 Good night to you.
 
-677
-00:41:20,345 --> 00:41:23,145
+
+
 Happy holidays.
 Okay. All the best.
 
-678
-00:42:27,705 --> 00:42:29,065
+
+
 Oh, fuck.
 
-679
-00:42:46,305 --> 00:42:47,825
+
+
 Hello?
 <i>Renata.</i>
 
-680
-00:42:48,025 --> 00:42:50,105
+
+
 <i>Charlie.</i>
 Listen.
 
-681
-00:42:50,665 --> 00:42:53,265
+
+
 You were right.
 Vic and I have been skimming.
 
-682
-00:42:53,345 --> 00:42:54,345
+
+
 Well, duh.
 
-683
-00:42:54,425 --> 00:42:56,425
+
+
 <i>I think Roy Gelles</i>
 <i>must have found out...</i>
 
-684
-00:42:56,505 --> 00:42:58,985
+
+
 <i>and I think</i>
 <i>he might have killed Vic.</i>
 
-685
-00:42:59,945 --> 00:43:01,345
+
+
 <i>That's terrible.</i>
 
-686
-00:43:01,425 --> 00:43:03,745
+
+
 So, I was thinking
 it might be best
 if I left town.
 
-687
-00:43:03,825 --> 00:43:05,985
+
+
 I was wondering
 if you wanted to come with me.
 
-688
-00:43:08,185 --> 00:43:09,985
+
+
 You have the money?
 What?
 
-689
-00:43:10,385 --> 00:43:12,305
+
+
 Which...
 The money we're talking about.
 
-690
-00:43:12,385 --> 00:43:14,065
+
+
 That you and Vic
 have been skimming.
 
-691
-00:43:14,145 --> 00:43:15,665
+
+
 <i>Try to keep up, okay?</i>
 
-692
-00:43:15,745 --> 00:43:17,185
+
+
 No. Vic had it.
 
-693
-00:43:17,465 --> 00:43:20,225
+
+
 So, your idea is
 that we should run away
 together and be poor?
 
-694
-00:43:20,745 --> 00:43:22,545
+
+
 I thought I'd give it a shot.
 
-695
-00:43:22,625 --> 00:43:24,105
+
+
 <i>Here's the thing, though.</i>
 
-696
-00:43:24,185 --> 00:43:27,465
+
+
 Roy wouldn't have killed Vic
 unless Vic told him
 where the money was...
 
-697
-00:43:27,545 --> 00:43:29,225
+
+
 which means Roy has it now.
 
-698
-00:43:29,305 --> 00:43:31,705
+
+
 Well, why don't you sneak up
 behind him...
 
-699
-00:43:31,825 --> 00:43:35,305
+
+
 and hit him over the head
 with something and take it?
 
-700
-00:43:35,385 --> 00:43:37,865
+
+
 Me? You want me
 to sneak up on Roy Gelles?
 
-701
-00:43:37,945 --> 00:43:40,465
+
+
 Charlie, think of this
 as your defining moment.
 
-702
-00:43:40,545 --> 00:43:42,705
+
+
 <i>This is your chance</i>
 <i>to be something more.</i>
 
-703
-00:43:42,785 --> 00:43:44,305
+
+
 Like a murderer?
 
-704
-00:43:44,385 --> 00:43:46,625
+
+
 <i>This is your chance</i>
 <i>to start over, Charlie.</i>
 
-705
-00:43:46,705 --> 00:43:49,785
+
+
 Our chance,
 if that's what you want.
 
-706
-00:43:50,145 --> 00:43:51,305
+
+
 <i>If that's what I want.</i>
 
-707
-00:43:52,545 --> 00:43:54,545
+
+
 Listen, I just gotta
 ask you one thing.
 
-708
-00:43:54,985 --> 00:43:56,065
+
+
 What?
 
-709
-00:43:58,905 --> 00:44:01,705
+
+
 I didn't have
 a specific question planned.
 
-710
-00:44:02,345 --> 00:44:03,505
+
+
 Nothing, sorry.
 
-711
-00:44:03,585 --> 00:44:04,785
+
+
 Well, then...
 
-712
-00:44:54,465 --> 00:44:55,425
+
+
 Gladys.
 
-713
-00:45:04,785 --> 00:45:06,985
+
+
 Gladys, it's me,
 Charlie Arglist.
 
-714
-00:45:11,785 --> 00:45:13,665
+
+
 Gladys, where is Vic?
 
-715
-00:45:17,225 --> 00:45:20,585
+
+
 It's a sweet thought, Charlie.
 But she's already dead.
 
-716
-00:45:21,145 --> 00:45:23,985
+
+
 Jesus Christ,
 you scared the fuck out of me!
 
-717
-00:45:24,785 --> 00:45:27,665
+
+
 I thought you were dead!
 I thought Roy killed you.
 
-718
-00:45:27,745 --> 00:45:29,305
+
+
 Well, he was going to.
 
-719
-00:45:29,705 --> 00:45:32,105
+
+
 But he got sidetracked.
 You should have been there.
 
-720
-00:45:32,185 --> 00:45:33,825
+
+
 He actually threatened
 to shoot Gladys...
 
-721
-00:45:33,905 --> 00:45:35,945
+
+
 if I didn't tell him
 where the money was.
 
-722
-00:45:36,025 --> 00:45:36,985
+
+
 But I think he was counting...
 
-723
-00:45:37,065 --> 00:45:39,385
+
+
 on a level of commitment
 and affection between
 her and me...
 
-724
-00:45:39,465 --> 00:45:40,745
+
+
 that just simply wasn't there.
 
-725
-00:45:43,585 --> 00:45:44,985
+
+
 Where is he now?
 
-726
-00:45:45,065 --> 00:45:47,065
+
+
 Follow me.
 You're gonna love this.
 
-727
-00:46:01,465 --> 00:46:02,425
+
+
 Hey, Roy!
 
-728
-00:46:03,545 --> 00:46:05,505
+
+
 You still alive in there?
 
-729
-00:46:06,985 --> 00:46:09,465
+
+
 You didn't asphyxiate yet,
 did you?
 
-730
-00:46:10,025 --> 00:46:11,345
+
+
 Hey, Vic.
 
-731
-00:46:12,345 --> 00:46:14,945
+
+
 Come a little closer,
 so I can talk to you.
 
-732
-00:46:15,025 --> 00:46:16,145
+
+
 What's that, Roy?
 
-733
-00:46:17,225 --> 00:46:19,345
+
+
 Jesus fucking Christ!
 
-734
-00:46:23,145 --> 00:46:24,985
+
+
 Damn it, I took his gun.
 
-735
-00:46:27,145 --> 00:46:28,945
+
+
 Guess he must have
 another one.
 
-736
-00:46:29,065 --> 00:46:30,345
+
+
 Must have.
 
-737
-00:46:30,505 --> 00:46:32,305
+
+
 Is that you, Arglist?
 
-738
-00:46:34,865 --> 00:46:35,905
+
+
 Hi, Roy.
 
-739
-00:46:35,985 --> 00:46:37,985
+
+
 When I get out of here,
 I'm gonna kill you.
 
-740
-00:46:38,065 --> 00:46:39,145
+
+
 You do know that, right?
 
-741
-00:46:39,225 --> 00:46:42,305
+
+
 Roy, you must be
 one fucking optimist...
 
-742
-00:46:42,385 --> 00:46:44,505
+
+
 if you think you're ever
 getting out of that trunk.
 
-743
-00:46:44,585 --> 00:46:47,105
+
+
 Let me out, Arglist.
 I'm your only hope.
 
-744
-00:46:47,185 --> 00:46:49,985
+
+
 Actually, you just told me
 you'd kill me if you got out,
 Roy.
 
-745
-00:46:51,785 --> 00:46:54,705
+
+
 I didn't mean it.
 Sounded like you did.
 
-746
-00:46:54,825 --> 00:46:56,065
+
+
 I was just pissed off.
 
-747
-00:46:56,145 --> 00:46:58,025
+
+
 It's cramped in here
 and I'm claustrophobic.
 
-748
-00:46:58,105 --> 00:46:59,585
+
+
 Come on.
 Give me a hand.
 
-749
-00:46:59,705 --> 00:47:01,065
+
+
 Wanna go to the trunk?
 
-750
-00:47:01,145 --> 00:47:03,825
+
+
 Already tried it.
 Let's go to the back seat.
 
-751
-00:47:03,905 --> 00:47:05,185
+
+
 Ready?
 Yeah.
 
-752
-00:47:08,185 --> 00:47:10,185
+
+
 That's one
 big motherfucker.
 
-753
-00:47:12,145 --> 00:47:14,585
+
+
 One, two, three!
 
-754
-00:47:25,545 --> 00:47:26,785
+
+
 Oh, God damn.
 
-755
-00:47:26,865 --> 00:47:29,465
+
+
 We're gonna have to
 take the door off.
 
-756
-00:47:29,545 --> 00:47:32,585
+
+
 It's not gonna fit.
 You want me to get
 the Mercedes?
 
-757
-00:47:32,665 --> 00:47:34,625
+
+
 Mercedes? What Mercedes?
 
-758
-00:47:34,745 --> 00:47:37,625
+
+
 My ex-wife's.
 It's a long story.
 Don't ask.
 
-759
-00:47:38,185 --> 00:47:40,625
+
+
 There is no way
 that this thing
 is gonna fit...
 
-760
-00:47:40,745 --> 00:47:43,385
+
+
 in a piece-of-shit Mercedes
 if it don't go in a Lincoln.
 
-761
-00:47:43,465 --> 00:47:45,785
+
+
 No, they're surprisingly
 spacious, Vic.
 
-762
-00:47:45,865 --> 00:47:47,585
+
+
 I'm offering you a deal,
 Arglist.
 
-763
-00:47:47,625 --> 00:47:49,185
+
+
 Jesus fucking shit.
 Give me something.
 
-764
-00:47:49,265 --> 00:47:51,585
+
+
 Don't be an idiot.
 God damn it.
 
-765
-00:47:53,665 --> 00:47:55,065
+
+
 Fucking shut up!
 
-766
-00:47:58,025 --> 00:47:59,705
+
+
 Shut the fuck up in there!
 
-767
-00:47:59,785 --> 00:48:02,425
+
+
 You just keep
 your fucking mouth shut, okay?
 
-768
-00:48:02,705 --> 00:48:06,065
+
+
 Piece of fucking shit!
 God damn it!
 
-769
-00:48:11,145 --> 00:48:14,305
+
+
 You keep that up,
 you're gonna
 spring the lock.
 
-770
-00:48:16,905 --> 00:48:19,745
+
+
 What the fuck
 were you thinking?
 Why didn't you just shoot him?
 
-771
-00:48:19,825 --> 00:48:21,505
+
+
 And then you could have
 put him in the trunk...
 
-772
-00:48:21,585 --> 00:48:22,985
+
+
 and you wouldn't need
 that footlocker.
 
-773
-00:48:23,065 --> 00:48:26,025
+
+
 Because I want the pleasure
 of seeing his big ass...
 
-774
-00:48:26,105 --> 00:48:29,105
+
+
 sink to the bottom
 of Lake Bascombe!
 That's why!
 
-775
-00:48:29,705 --> 00:48:32,145
+
+
 Hey, Roy. Roy?
 
-776
-00:48:33,305 --> 00:48:36,545
+
+
 I can't wait for you
 to feel the icy water...
 
-777
-00:48:36,625 --> 00:48:38,545
+
+
 seeping into this trunk...
 
-778
-00:48:38,665 --> 00:48:42,225
+
+
 shriveling your balls
 before you drown!
 
-779
-00:48:42,665 --> 00:48:44,465
+
+
 What if he's reloaded?
 
-780
-00:48:48,465 --> 00:48:50,865
+
+
 Well, he's folded up in there
 like a card table.
 
-781
-00:48:50,945 --> 00:48:52,745
+
+
 How the hell
 is he gonna reload?
 
-782
-00:48:52,905 --> 00:48:54,585
+
+
 I don't know, Vic.
 
-783
-00:49:25,385 --> 00:49:26,825
+
+
 She could never
 do anything right.
 
-784
-00:49:28,425 --> 00:49:29,425
+
+
 Jesus.
 
-785
-00:49:33,385 --> 00:49:34,465
+
+
 What?
 
-786
-00:49:35,505 --> 00:49:38,785
+
+
 Nothing. I just thought
 you were gonna put
 Roy in the trunk.
 
-787
-00:49:38,865 --> 00:49:41,385
+
+
 The footlocker might not fit
 in the back seat, is all.
 
-788
-00:49:41,465 --> 00:49:43,145
+
+
 You're the one
 been going on...
 
-789
-00:49:43,225 --> 00:49:44,625
+
+
 about how spacious
 these fuckers are.
 
-790
-00:49:44,745 --> 00:49:46,025
+
+
 And now you're saying
 it won't fit?
 
-791
-00:49:46,105 --> 00:49:48,545
+
+
 It might.
 I'm not sure,
 is what I'm saying.
 
-792
-00:49:49,065 --> 00:49:51,545
+
+
 One night driving a Mercedes,
 and already you're an asshole.
 
-793
-00:49:51,625 --> 00:49:53,225
+
+
 Come on,
 help me get this thing.
 
-794
-00:49:59,145 --> 00:50:00,385
+
+
 Ow! God damn it!
 
-795
-00:50:00,465 --> 00:50:01,865
+
+
 If I could open
 the fucking door...
 
-796
-00:50:08,265 --> 00:50:09,425
+
+
 Okay.
 
-797
-00:50:16,505 --> 00:50:19,145
+
+
 Jesus, Charlie, you're right.
 This thing is spacious.
 
-798
-00:50:20,105 --> 00:50:22,265
+
+
 There's no way it would
 have gone in a Lincoln.
 
-799
-00:50:22,345 --> 00:50:24,265
+
+
 Give me the key.
 Oh, yeah.
 
-800
-00:50:25,265 --> 00:50:27,425
+
+
 All right.
 I gotta get my shit.
 
-801
-00:50:30,745 --> 00:50:32,265
+
+
 Oh, Vic?
 
-802
-00:50:33,545 --> 00:50:34,665
+
+
 What?
 
-803
-00:50:36,305 --> 00:50:37,425
+
+
 Whose thumb is this?
 
-804
-00:50:37,865 --> 00:50:41,225
+
+
 Oh, yeah. Good news, Roy.
 Charlie brought your thumb.
 
-805
-00:50:46,345 --> 00:50:48,945
+
+
 So, you think you're
 going to go back to Florida?
 
-806
-00:50:49,065 --> 00:50:50,665
+
+
 You know,
 I've been thinking about that.
 
-807
-00:50:50,745 --> 00:50:52,585
+
+
 Maybe you shouldn't tell me
 where you're going...
 
-808
-00:50:52,665 --> 00:50:54,145
+
+
 and I shouldn't tell you
 where I'm going.
 
-809
-00:50:54,225 --> 00:50:56,585
+
+
 I just think
 it's safer that way.
 
-810
-00:50:56,665 --> 00:50:58,625
+
+
 He's going to kill you,
 Arglist.
 
-811
-00:50:58,705 --> 00:51:00,505
+
+
 That's where you're going.
 
-812
-00:51:00,585 --> 00:51:02,505
+
+
 It's the truth, Arglist!
 
-813
-00:51:03,145 --> 00:51:04,225
+
+
 Think about it.
 
-814
-00:51:04,305 --> 00:51:06,705
+
+
 Pay no attention
 to the man in the trunk.
 
-815
-00:51:13,465 --> 00:51:16,265
+
+
 He's got a gun, Roy. He could
 shoot me now if he wanted to.
 
-816
-00:51:16,425 --> 00:51:19,585
+
+
 Uh-uh. He needs your help
 to unload the car.
 
-817
-00:51:20,905 --> 00:51:24,545
+
+
 Once he's deposited me
 and his missus in the lake...
 
-818
-00:51:24,985 --> 00:51:26,105
+
+
 you're next.
 
-819
-00:51:26,505 --> 00:51:28,105
+
+
 You know what, Roy?
 
-820
-00:51:28,625 --> 00:51:30,745
+
+
 One more word
 out of that trunk...
 
-821
-00:51:31,065 --> 00:51:32,705
+
+
 and I'm gonna shoot it
 at both ends.
 
-822
-00:51:32,745 --> 00:51:36,545
+
+
 Because the truth is,
 I can't remember which end
 your head's at.
 
-823
-00:51:43,825 --> 00:51:46,585
+
+
 You know, the fact
 of the matter is,
 I should shoot you.
 
-824
-00:51:47,065 --> 00:51:49,545
+
+
 What were you doing
 in there tonight?
 
-825
-00:51:49,625 --> 00:51:52,025
+
+
 What are you talking about?
 Well, you're
 waiving stage fees...
 
-826
-00:51:52,105 --> 00:51:54,105
+
+
 you're comping drinks,
 being nice to people.
 
-827
-00:51:54,185 --> 00:51:56,065
+
+
 You may as well
 wear a fucking sign
 that says:
 
-828
-00:51:56,145 --> 00:51:59,225
+
+
 "Hey, I just stole
 a shitload of money
 and now I'm blowing town."
 
-829
-00:51:59,305 --> 00:52:01,225
+
+
 For Christ's sake...
 Calm down! It's Christmas.
 
-830
-00:52:01,305 --> 00:52:02,825
+
+
 Everybody's nice
 on Christmas.
 
-831
-00:52:02,905 --> 00:52:06,145
+
+
 No, Charlie. No.
 Only morons are nice
 at Christmas.
 
-832
-00:52:07,065 --> 00:52:09,145
+
+
 And that's a lot of people,
 too, Charlie.
 
-833
-00:52:09,225 --> 00:52:11,785
+
+
 Especially in Kansas.
 But not everybody.
 
-834
-00:52:12,745 --> 00:52:14,945
+
+
 What kind of man
 shoots his own wife...
 
-835
-00:52:15,025 --> 00:52:17,345
+
+
 in the back of the head
 on Christmas Eve?
 
-836
-00:52:17,425 --> 00:52:19,785
+
+
 Roy, he already knows
 that you shot her, okay?
 
-837
-00:52:20,985 --> 00:52:23,185
+
+
 That's what he told you,
 Arglist?
 
-838
-00:52:23,305 --> 00:52:26,265
+
+
 What the hell
 do I want to shoot
 his wife for?
 
-839
-00:52:26,545 --> 00:52:29,585
+
+
 Bill Guerrard knows
 about this whole deal,
 Arglist.
 
-840
-00:52:29,705 --> 00:52:31,705
+
+
 That's not what
 you said earlier, Roy...
 
-841
-00:52:31,785 --> 00:52:33,905
+
+
 when your thumb
 was in the vise.
 
-842
-00:52:34,025 --> 00:52:35,945
+
+
 You'll never make it
 out of Wichita.
 
-843
-00:52:36,025 --> 00:52:38,345
+
+
 Correct me if I'm wrong,
 but did I not warn
 that asshole...
 
-844
-00:52:38,425 --> 00:52:39,385
+
+
 to shut the fuck up?
 
-845
-00:52:39,505 --> 00:52:41,025
+
+
 You told him.
 You got one chance, Arglist...
 
-846
-00:52:41,105 --> 00:52:42,345
+
+
 That's right. I told him.
 Take the wheel.
 
-847
-00:52:42,425 --> 00:52:44,385
+
+
 ...and that's me.
 Take the fucking wheel!
 
-848
-00:52:46,865 --> 00:52:48,425
+
+
 Think about it!
 
-849
-00:52:52,105 --> 00:52:53,145
+
+
 Fucking asshole.
 
-850
-00:52:55,265 --> 00:52:57,185
+
+
 Well, I guess
 that was the head end, huh?
 
-851
-00:52:59,305 --> 00:53:00,745
+
+
 Where's the thumb?
 
-852
-00:53:01,505 --> 00:53:03,265
+
+
 The thumb,
 where's the thumb?
 
-853
-00:53:06,505 --> 00:53:07,745
+
+
 Thank you, sir.
 
-854
-00:53:32,945 --> 00:53:34,425
+
+
 There she is.
 
-855
-00:53:38,665 --> 00:53:40,585
+
+
 It's kind of beautiful
 out here, huh?
 
-856
-00:53:48,305 --> 00:53:50,465
+
+
 All right, give her a shove.
 
-857
-00:53:52,865 --> 00:53:55,785
+
+
 Well, come on.
 Open the fucking door and help
 me with this goddamn thing.
 
-858
-00:53:55,865 --> 00:53:58,305
+
+
 What do you think
 we're here for?
 Come on.
 
-859
-00:54:06,025 --> 00:54:07,345
+
+
 Jesus.
 
-860
-00:54:07,465 --> 00:54:09,465
+
+
 Hang on! It's caught.
 
-861
-00:54:11,945 --> 00:54:12,985
+
+
 Okay.
 
-862
-00:54:20,185 --> 00:54:21,145
+
+
 Okay.
 
-863
-00:54:37,185 --> 00:54:38,985
+
+
 Now toss it over.
 Come on.
 
-864
-00:54:50,825 --> 00:54:53,185
+
+
 For fuck's sake, Charlie,
 come on.
 
-865
-00:54:58,545 --> 00:54:59,825
+
+
 Fuck, this is heavy.
 
-866
-00:54:59,905 --> 00:55:01,305
+
+
 It says, "Keep off."
 
-867
-00:55:14,825 --> 00:55:16,705
+
+
 All right, ready?
 Let's go.
 
-868
-00:55:17,145 --> 00:55:18,745
+
+
 Think I'd rather push.
 
-869
-00:55:18,825 --> 00:55:21,465
+
+
 Okay, fucking push.
 I don't give a shit.
 
-870
-00:55:25,705 --> 00:55:26,865
+
+
 You're in the way, Charlie.
 
-871
-00:55:35,945 --> 00:55:38,585
+
+
 Okay, let's go. Ready?
 Yeah.
 
-872
-00:55:54,905 --> 00:55:56,465
+
+
 It's falling apart.
 
-873
-00:56:13,225 --> 00:56:15,425
+
+
 You know what?
 Put it up on its end.
 
-874
-00:56:15,505 --> 00:56:16,865
+
+
 Just shove it up.
 
-875
-00:56:16,945 --> 00:56:18,945
+
+
 I mean, it's as deep here
 as it is any place else.
 
-876
-00:56:19,025 --> 00:56:21,105
+
+
 Just throw
 the fucking thing over.
 
-877
-00:56:29,385 --> 00:56:30,545
+
+
 Vic.
 
-878
-00:56:39,025 --> 00:56:43,025
+
+
 God damn it, Roy.
 That was just blind
 fucking luck, you asshole.
 
-879
-00:56:43,465 --> 00:56:46,825
+
+
 Give me a hand, Arglist.
 I'm all stiff.
 
-880
-00:56:55,065 --> 00:56:57,705
+
+
 Now, as promised.
 
-881
-00:56:58,705 --> 00:57:01,745
+
+
 Well, Roy, the good news is,
 you're out of the trunk.
 
-882
-00:57:01,865 --> 00:57:05,145
+
+
 The bad news is,
 you're down four quarts
 of blood...
 
-883
-00:57:05,745 --> 00:57:07,465
+
+
 and your gun's empty.
 
-884
-00:57:11,025 --> 00:57:13,225
+
+
 I'm going to kill you anyway.
 
-885
-00:57:13,705 --> 00:57:15,545
+
+
 Here, hold this.
 
-886
-00:57:16,065 --> 00:57:18,345
+
+
 That's an unrealistic goal,
 Roy.
 
-887
-00:57:23,025 --> 00:57:24,665
+
+
 You're dead, Roy.
 
-888
-00:57:25,625 --> 00:57:27,465
+
+
 Don't just stand there
 pretending you're not.
 
-889
-00:57:39,145 --> 00:57:40,985
+
+
 Jesus Christ, Charlie!
 
-890
-00:57:41,065 --> 00:57:43,905
+
+
 Throw me a rope or something.
 I can't swim!
 
-891
-00:57:44,065 --> 00:57:45,745
+
+
 I'm thinking, no.
 
-892
-00:57:46,505 --> 00:57:49,145
+
+
 You were gonna kill me,
 right, Vic?
 You asshole!
 
-893
-00:57:51,585 --> 00:57:53,345
+
+
 Jesus, you're stupid!
 
-894
-00:57:57,065 --> 00:57:59,145
+
+
 All right, that's it!
 Fuck you!
 
-895
-00:58:00,625 --> 00:58:02,625
+
+
 Look, okay, I'm sorry!
 
-896
-00:58:02,705 --> 00:58:04,705
+
+
 Charlie, I'm sorry!
 
-897
-00:58:04,785 --> 00:58:07,345
+
+
 I'm going to throw
 the gun away! Look!
 
-898
-00:58:10,065 --> 00:58:13,025
+
+
 Oh, God, you have no idea
 how cold this water is.
 
-899
-00:58:14,625 --> 00:58:16,105
+
+
 Charlie.
 
-900
-00:58:19,505 --> 00:58:20,545
+
+
 So long, Vic.
 
-901
-00:58:21,425 --> 00:58:24,225
+
+
 Don't you want to know
 where the money is?
 
-902
-00:58:24,745 --> 00:58:27,825
+
+
 I know where the money is.
 It's in the back seat
 of the Benz.
 
-903
-00:58:27,905 --> 00:58:30,905
+
+
 Not a chance! Not a chance.
 
-904
-00:58:31,145 --> 00:58:33,905
+
+
 I'm done talking to you, Vic.
 I'm through listening to you.
 
-905
-00:58:33,985 --> 00:58:36,545
+
+
 If you don't believe me,
 look for yourself!
 
-906
-00:58:36,625 --> 00:58:39,665
+
+
 Only hurry! Hurry!
 I can't feel my legs!
 
-907
-00:58:39,745 --> 00:58:41,825
+
+
 I'm dying here! I'm dying!
 
-908
-00:58:43,585 --> 00:58:46,505
+
+
 Charlie! God damn it!
 
-909
-00:58:48,145 --> 00:58:51,225
+
+
 I know what I did was wrong!
 But, Jesus! Fuck!
 
-910
-00:58:54,385 --> 00:58:57,865
+
+
 I'm shot, Charlie.
 I can't pull myself up!
 
-911
-00:58:58,785 --> 00:59:01,105
+
+
 Please. Please.
 
-912
-00:59:02,665 --> 00:59:07,185
+
+
 Our Father, who art in heaven,
 hallowed be his name,
 because...
 
-913
-00:59:07,585 --> 00:59:09,825
+
+
 We are kingdom come,
 and will be done...
 
-914
-00:59:09,865 --> 00:59:12,545
+
+
 and give us every day...
 
-915
-00:59:12,585 --> 00:59:14,945
+
+
 our bread,
 because we gotta eat...
 
-916
-00:59:19,505 --> 00:59:22,305
+
+
 Charlie, is that you? Charlie!
 
-917
-00:59:24,065 --> 00:59:27,025
+
+
 I knew it. I knew it.
 You're a good man, Charlie.
 
-918
-00:59:27,145 --> 00:59:28,545
+
+
 You're a good man.
 
-919
-00:59:28,625 --> 00:59:31,785
+
+
 Vic, I wouldn't want you
 to die alone.
 
-920
-00:59:38,145 --> 00:59:39,905
+
+
 No! No.
 
-921
-00:59:41,105 --> 00:59:42,105
+
+
 No!
 
-922
-00:59:57,865 --> 00:59:59,985
+
+
 Vic! Vic, hold on!
 
-923
-01:00:01,105 --> 01:00:02,585
+
+
 Hold on, Vic.
 
-924
-01:01:04,265 --> 01:01:05,665
+
+
 Is that all?
 
-925
-01:01:07,425 --> 01:01:08,585
+
+
 Yeah.
 
-926
-01:01:16,785 --> 01:01:18,465
+
+
 Stocking stuffers.
 
-927
-01:01:19,625 --> 01:01:20,865
+
+
 Big spender.
 
-928
-01:01:21,585 --> 01:01:24,385
+
+
 Do you have any kids?
 No.
 
-929
-01:01:24,425 --> 01:01:27,385
+
+
 Then shut the fuck up.
 Bag it.
 
-930
-01:01:32,425 --> 01:01:35,265
+
+
 <i>Hello. Charlie?</i>
 Renata.
 
-931
-01:01:35,945 --> 01:01:37,465
+
+
 I'd just about given up.
 
-932
-01:01:37,545 --> 01:01:38,985
+
+
 I fucked up.
 
-933
-01:01:40,465 --> 01:01:41,665
+
+
 Vic's dead.
 
-934
-01:01:42,825 --> 01:01:44,065
+
+
 What about Roy Gelles?
 
-935
-01:01:45,105 --> 01:01:46,425
+
+
 He's dead, too.
 
-936
-01:01:49,105 --> 01:01:50,465
+
+
 Why don't you come over?
 
-937
-01:01:50,785 --> 01:01:53,705
+
+
 <i>I'll wait here for you.</i>
 <i>The front door's open.</i>
 
-938
-01:01:53,825 --> 01:01:56,385
+
+
 No. I don't see the point.
 I mean...
 
-939
-01:01:57,105 --> 01:01:59,065
+
+
 I don't have the money.
 
-940
-01:01:59,745 --> 01:02:01,625
+
+
 Vic died before he told me
 where it was.
 
-941
-01:02:01,865 --> 01:02:05,545
+
+
 You know what?
 Money isn't everything.
 
-942
-01:02:06,225 --> 01:02:07,585
+
+
 Excuse me?
 
-943
-01:02:08,585 --> 01:02:11,745
+
+
 You know what I said before?
 It's true, isn't it?
 
-944
-01:02:13,505 --> 01:02:17,225
+
+
 <i>You're in love with me.</i>
 Yeah.
 
-945
-01:02:18,145 --> 01:02:19,665
+
+
 <i>Sure. I guess.</i>
 
-946
-01:02:20,705 --> 01:02:22,945
+
+
 I've still got to ask you
 something.
 
-947
-01:02:24,145 --> 01:02:25,105
+
+
 What?
 
-948
-01:02:28,865 --> 01:02:31,985
+
+
 I don't have it yet.
 I'm sorry.
 
-949
-01:02:32,145 --> 01:02:34,945
+
+
 <i>But you're coming over?</i>
 Yeah. Sure.
 
-950
-01:02:35,465 --> 01:02:36,745
+
+
 See you.
 
-951
-01:03:16,385 --> 01:03:18,825
+
+
 Take me with you, man.
 Oh, fuck.
 
-952
-01:03:21,185 --> 01:03:23,385
+
+
 Jesus, Pete.
 No, I mean it.
 
-953
-01:03:23,745 --> 01:03:24,825
+
+
 Take me with you, buddy.
 
-954
-01:03:27,465 --> 01:03:31,105
+
+
 I can't do my life, man.
 I can't do it.
 
-955
-01:03:31,505 --> 01:03:33,145
+
+
 Just get some rest.
 
-956
-01:03:33,265 --> 01:03:35,465
+
+
 I hate myself.
 I want a new life.
 
-957
-01:03:38,545 --> 01:03:41,025
+
+
 You don't want mine.
 I really do.
 
-958
-01:03:43,265 --> 01:03:44,785
+
+
 I'm in trouble.
 
-959
-01:03:46,465 --> 01:03:49,305
+
+
 I'm in big fucking trouble.
 
-960
-01:03:49,385 --> 01:03:51,945
+
+
 But that'd be great.
 Don't you see?
 
-961
-01:03:52,105 --> 01:03:53,705
+
+
 We go out in a blaze of glory.
 
-962
-01:03:56,225 --> 01:03:59,065
+
+
 Like men.
 Like men, Charlie.
 
-963
-01:04:01,585 --> 01:04:04,225
+
+
 No goddamn life left
 for men anymore.
 
-964
-01:04:05,985 --> 01:04:07,265
+
+
 Not here.
 
-965
-01:04:08,185 --> 01:04:10,625
+
+
 This country,
 all that's left for men
 is money and pussy.
 
-966
-01:04:12,265 --> 01:04:15,785
+
+
 But together,
 you and me together...
 
-967
-01:04:25,585 --> 01:04:27,185
+
+
 Don't you think?
 
-968
-01:06:09,185 --> 01:06:11,505
+
+
 Come on. Hurry up.
 
-969
-01:06:11,585 --> 01:06:14,185
+
+
 Bill Guerrard
 is around here somewhere.
 
-970
-01:06:19,225 --> 01:06:21,305
+
+
 Oh.
 Yeah, "Oh."
 
-971
-01:06:23,745 --> 01:06:25,145
+
+
 Where is he?
 
-972
-01:06:25,185 --> 01:06:26,945
+
+
 Oh.
 
-973
-01:06:26,985 --> 01:06:29,505
+
+
 Hide behind the door
 and shoot him
 when he comes in.
 
-974
-01:06:29,585 --> 01:06:32,585
+
+
 You don't happen to have
 any bullets for this, do you?
 
-975
-01:06:32,985 --> 01:06:35,425
+
+
 </i>
 
-976
-01:06:40,065 --> 01:06:41,665
+
+
 Shotgun behind the bar.
 
-977
-01:06:41,705 --> 01:06:44,105
+
+
 "As Wichita falls...
 
-978
-01:06:44,385 --> 01:06:47,225
+
+
 "so falls Wichita Falls."
 
-979
-01:06:50,025 --> 01:06:50,985
+
+
 I like that.
 
-980
-01:06:51,625 --> 01:06:53,705
+
+
 And I'm gonna give
 your pussy-whipped pal
 Arglist...
 
-981
-01:06:53,825 --> 01:06:56,385
+
+
 another 15 minutes
 to rescue your sweet ass.
 
-982
-01:06:57,585 --> 01:07:01,425
+
+
 After which time
 I'm going to assume his brain
 overruled his pecker.
 
-983
-01:07:01,865 --> 01:07:05,345
+
+
 Well, Bill,
 that's just not enough time.
 
-984
-01:07:05,785 --> 01:07:07,705
+
+
 He lives way across town.
 
-985
-01:07:07,825 --> 01:07:11,185
+
+
 Yeah? Well, that's your
 bad luck. I should be home
 in Kansas City...
 
-986
-01:07:11,265 --> 01:07:13,825
+
+
 watching my kids
 open their Christmas presents!
 
-987
-01:07:13,865 --> 01:07:15,425
+
+
 Now I gotta waste
 the whole fucking day...
 
-988
-01:07:15,505 --> 01:07:17,145
+
+
 Iooking for that nitwit!
 
-989
-01:07:18,185 --> 01:07:20,465
+
+
 I'll never understand lawyers.
 
-990
-01:07:21,705 --> 01:07:25,505
+
+
 I mean, here they've got
 a license to steal
 from the general public...
 
-991
-01:07:25,585 --> 01:07:28,305
+
+
 all legal and aboveboard,
 but is that enough?
 
-992
-01:07:28,385 --> 01:07:31,065
+
+
 Fuck, no!
 They gotta steal
 from their friends!
 
-993
-01:07:32,385 --> 01:07:34,985
+
+
 Anybody
 but a fucking lawyer...
 
-994
-01:07:36,305 --> 01:07:38,985
+
+
 would consider
 the consequences, right?
 
-995
-01:07:39,105 --> 01:07:42,625
+
+
 That I would,
 for an absolute certainty...
 
-996
-01:07:42,665 --> 01:07:46,185
+
+
 castrate that son of a bitch
 with a butter knife.
 
-997
-01:07:46,465 --> 01:07:49,505
+
+
 And that would give
 a normal person pause.
 
-998
-01:07:49,825 --> 01:07:51,465
+
+
 But not a lawyer.
 
-999
-01:07:52,865 --> 01:07:55,425
+
+
 It defies the imagination,
 you know.
 
-1000
-01:07:56,545 --> 01:08:00,825
+
+
 How a woman like you
 could throw in with
 a couple of farthammers...
 
-1001
-01:08:00,905 --> 01:08:02,905
+
+
 like Cavanaugh and Arglist.
 
-1002
-01:08:04,705 --> 01:08:06,625
+
+
 Cavanaugh, he doesn't
 have the brains...
 
-1003
-01:08:06,705 --> 01:08:08,145
+
+
 to pull off
 something like this.
 
-1004
-01:08:08,225 --> 01:08:10,785
+
+
 And Arglist,
 he doesn't have the guts.
 
-1005
-01:08:12,505 --> 01:08:14,665
+
+
 Maybe that's where you
 came in, huh?
 
-1006
-01:08:20,105 --> 01:08:21,705
+
+
 What did you do?
 
-1007
-01:08:22,985 --> 01:08:25,185
+
+
 Did you encourage them both?
 
-1008
-01:08:38,625 --> 01:08:40,025
+
+
 Suppose you do luck out...
 
-1009
-01:08:40,105 --> 01:08:43,425
+
+
 and you get clear of Wichita
 with all that money.
 
-1010
-01:08:43,665 --> 01:08:44,665
+
+
 At some point...
 
-1011
-01:08:44,745 --> 01:08:48,225
+
+
 you're gonna have
 to get rid of at least
 one of the peckerwoods.
 
-1012
-01:08:48,305 --> 01:08:49,945
+
+
 And then what do you got?
 
-1013
-01:08:51,985 --> 01:08:53,505
+
+
 A dick with no brain?
 
-1014
-01:08:54,145 --> 01:08:56,105
+
+
 Or a brain with no dick?
 
-1015
-01:09:02,785 --> 01:09:04,585
+
+
 You know what, Bill?
 
-1016
-01:09:05,105 --> 01:09:07,025
+
+
 You seem awfully tense.
 
-1017
-01:09:08,225 --> 01:09:12,065
+
+
 And I have this idea
 of what might help you relax.
 
-1018
-01:09:14,785 --> 01:09:15,785
+
+
 You do, huh?
 
-1019
-01:09:15,865 --> 01:09:16,825
+
+
 Mmm-hmm.
 
-1020
-01:09:29,825 --> 01:09:31,265
+
+
 That you, Arglist?
 
-1021
-01:09:32,545 --> 01:09:33,945
+
+
 Drop the gun.
 
-1022
-01:09:35,105 --> 01:09:37,905
+
+
 Step away from the desk
 and put your hands up.
 
-1023
-01:09:37,985 --> 01:09:40,785
+
+
 Charlie,
 don't be a fucking idiot.
 
-1024
-01:09:41,345 --> 01:09:44,145
+
+
 You've been watching
 too many stupid old movies.
 
-1025
-01:09:44,705 --> 01:09:46,025
+
+
 Why would I drop my gun?
 
-1026
-01:09:46,145 --> 01:09:47,825
+
+
 I don't know, Bill.
 
-1027
-01:09:48,065 --> 01:09:49,425
+
+
 Because I got
 a big fucking shotgun...
 
-1028
-01:09:49,505 --> 01:09:50,625
+
+
 and I'll blow your head off?
 
-1029
-01:09:50,705 --> 01:09:52,905
+
+
 Well, if you could do that,
 you'd be me...
 
-1030
-01:09:53,025 --> 01:09:55,385
+
+
 and I'd be a pissant lawyer
 with a case of the shakes.
 
-1031
-01:09:55,465 --> 01:09:57,665
+
+
 Jesus, Charlie,
 just shoot him!
 
-1032
-01:10:01,545 --> 01:10:02,825
+
+
 If he was gonna
 pull the trigger...
 
-1033
-01:10:02,945 --> 01:10:05,305
+
+
 he'd have done it when he came
 through the door, girlie.
 
-1034
-01:10:05,385 --> 01:10:07,585
+
+
 It's something they don't
 teach you in law school.
 
-1035
-01:10:07,665 --> 01:10:09,425
+
+
 Which is a shame,
 because...
 
-1036
-01:10:19,705 --> 01:10:21,185
+
+
 Get his gun, Charlie.
 
-1037
-01:10:23,145 --> 01:10:24,585
+
+
 Get his gun.
 
-1038
-01:10:25,505 --> 01:10:26,625
+
+
 He's dead, Renata.
 
-1039
-01:10:26,665 --> 01:10:29,465
+
+
 The fuck he is!
 Sidney loads
 that with birdshot!
 
-1040
-01:10:29,505 --> 01:10:30,865
+
+
 Why would he? I mean...
 Charlie.
 
-1041
-01:10:30,945 --> 01:10:33,585
+
+
 ...from a liability
 standpoint, that doesn't
 make any sense at all.
 
-1042
-01:10:33,665 --> 01:10:34,785
+
+
 Charlie!
 
-1043
-01:10:38,785 --> 01:10:40,425
+
+
 Well, Arglist...
 
-1044
-01:10:40,545 --> 01:10:43,425
+
+
 now you've truly gone
 and shit in your nest!
 
-1045
-01:10:47,545 --> 01:10:50,345
+
+
 All right, girlie.
 You first.
 
-1046
-01:10:50,425 --> 01:10:51,585
+
+
 Mr. Guerrard?
 
-1047
-01:10:53,505 --> 01:10:54,705
+
+
 What's going on?
 
-1048
-01:11:09,665 --> 01:11:10,905
+
+
 Come here!
 
-1049
-01:11:18,625 --> 01:11:19,865
+
+
 Bitch!
 
-1050
-01:11:24,345 --> 01:11:25,425
+
+
 Charlie.
 
-1051
-01:11:27,945 --> 01:11:30,825
+
+
 I don't know why
 I even bother with Kansas.
 
-1052
-01:11:30,945 --> 01:11:32,705
+
+
 Do I hear an "amen"?
 
-1053
-01:11:34,665 --> 01:11:36,705
+
+
 My old man tried
 to tell me...
 
-1054
-01:11:37,225 --> 01:11:39,465
+
+
 that I'd be better off
 starting a church...
 
-1055
-01:11:39,545 --> 01:11:42,185
+
+
 and letting Jesus pay
 for the mortgage...
 
-1056
-01:11:42,265 --> 01:11:45,945
+
+
 in this sorry-ass
 backwards state.
 
-1057
-01:11:46,905 --> 01:11:48,225
+
+
 I wouldn't listen.
 
-1058
-01:11:48,865 --> 01:11:49,945
+
+
 Instead...
 
-1059
-01:11:49,985 --> 01:11:54,265
+
+
 I put my faith
 in naked women and hand jobs.
 
-1060
-01:11:54,465 --> 01:11:57,985
+
+
 Which have a proven track
 record everywhere but here.
 
-1061
-01:12:03,105 --> 01:12:06,905
+
+
 And now I've been disfigured
 by a whisky-dick lawyer...
 
-1062
-01:12:07,905 --> 01:12:11,545
+
+
 who imagines he can kill me
 with a shotgun loaded
 for snake.
 
-1063
-01:12:13,985 --> 01:12:15,585
+
+
 Serves me right.
 
-1064
-01:12:16,425 --> 01:12:17,825
+
+
 That's all I can say.
 
-1065
-01:12:21,065 --> 01:12:22,745
+
+
 All right, girlie...
 
-1066
-01:12:22,785 --> 01:12:25,385
+
+
 this is the one
 that's gonna kill you.
 
-1067
-01:12:26,785 --> 01:12:27,865
+
+
 Bill.
 
-1068
-01:12:39,465 --> 01:12:40,425
+
+
 Yuck!
 
-1069
-01:12:57,665 --> 01:12:59,385
+
+
 I will say, after this...
 
-1070
-01:12:59,425 --> 01:13:02,625
+
+
 the holidays are never
 gonna feel quite the same
 to me.
 
-1071
-01:13:05,505 --> 01:13:08,505
+
+
 How's the foot?
 Shorter.
 
-1072
-01:13:09,545 --> 01:13:11,825
+
+
 You don't happen to have
 any morphine...
 
-1073
-01:13:11,905 --> 01:13:13,665
+
+
 or Demerol or anything,
 do you?
 
-1074
-01:13:14,625 --> 01:13:15,905
+
+
 Try this.
 
-1075
-01:13:20,385 --> 01:13:22,345
+
+
 I have to give you credit,
 Charlie.
 
-1076
-01:13:23,905 --> 01:13:27,305
+
+
 You took your own sweet time
 rising to the occasion...
 
-1077
-01:13:27,425 --> 01:13:30,665
+
+
 but in the end,
 you did the deed.
 
-1078
-01:13:32,225 --> 01:13:33,985
+
+
 'Deed you did.
 
-1079
-01:13:42,505 --> 01:13:44,425
+
+
 You really came through,
 Charlie.
 
-1080
-01:13:45,625 --> 01:13:48,585
+
+
 The odds were definitely
 against it, but somehow...
 
-1081
-01:13:48,705 --> 01:13:51,425
+
+
 you managed to be
 the last man standing.
 
-1082
-01:14:34,265 --> 01:14:35,865
+
+
 I know what I wanted
 to ask you.
 
-1083
-01:14:38,145 --> 01:14:40,665
+
+
 What?
 Where are you actually from?
 
-1084
-01:14:41,305 --> 01:14:42,625
+
+
 Originally.
 
-1085
-01:14:45,345 --> 01:14:48,105
+
+
 Why do you keep
 asking questions, Charlie?
 
-1086
-01:14:48,745 --> 01:14:50,385
+
+
 What's it got to do
 with anything?
 
-1087
-01:14:52,745 --> 01:14:54,465
+
+
 I was just curious.
 
-1088
-01:14:55,865 --> 01:14:58,265
+
+
 Wanted to know
 where you came from.
 
-1089
-01:15:12,985 --> 01:15:14,985
+
+
 It's a long story,
 Charlie.
 
-1090
-01:15:15,105 --> 01:15:18,905
+
+
 I think we've got plenty
 of time to get to know
 each other better.
 
-1091
-01:15:19,425 --> 01:15:21,785
+
+
 Don't you?
 Yeah.
 
-1092
-01:15:22,945 --> 01:15:24,025
+
+
 I guess we do.
 
-1093
-01:15:24,745 --> 01:15:26,465
+
+
 It's just you and me now,
 Charlie.
 
-1094
-01:15:31,225 --> 01:15:33,385
+
+
 To the victor go the spoils.
 
-1095
-01:15:44,385 --> 01:15:46,505
+
+
 You saved my life,
 Charlie.
 
-1096
-01:15:47,425 --> 01:15:49,945
+
+
 You're a different man,
 just like I promised.
 
-1097
-01:15:52,665 --> 01:15:54,265
+
+
 Can you feel it?
 
-1098
-01:15:55,905 --> 01:15:58,505
+
+
 Yes. I can.
 
-1099
-01:16:02,465 --> 01:16:04,185
+
+
 Charlie.
 
-1100
-01:16:07,585 --> 01:16:09,145
+
+
 What'd you do?
 
-1101
-01:17:17,865 --> 01:17:21,025
+
+
 Oh! Damn stupid fuck!
 
-1102
-01:17:21,625 --> 01:17:24,065
+
+
 You stupid fucking whore!
 
-1103
-01:17:24,665 --> 01:17:27,425
+
+
 You dumb, dumb fuck!
 
-1104
-01:17:27,465 --> 01:17:29,465
+
+
 Your mother again?
 Shit!
 
-1105
-01:17:30,945 --> 01:17:33,385
+
+
 Hi, Charlie. Yeah.
 Who else?
 
-1106
-01:17:34,145 --> 01:17:38,505
+
+
 Loans me her camper
 and fails to mention
 that it's out of gas.
 
-1107
-01:17:38,785 --> 01:17:41,985
+
+
 If you've got a gas can,
 you can siphon some from me.
 
-1108
-01:18:13,025 --> 01:18:14,305
+
+
 Charlie.
 
-1109
-01:18:15,745 --> 01:18:18,065
+
+
 I don't want you
 to take this the wrong way...
 
-1110
-01:18:20,385 --> 01:18:24,225
+
+
 but you're about
 the nicest guy I know.
 
-1111
-01:18:26,145 --> 01:18:29,625
+
+
 I'm awfully sorry
 to hear that, Sidney,
 but thank you.
 
-1112
-01:18:30,305 --> 01:18:33,305
+
+
 Have a good time
 with your kids at Six Flags.
 
-1113
-01:18:34,825 --> 01:18:36,425
+
+
 Merry Christmas.
 
-1114
-01:19:22,505 --> 01:19:24,025
+
+
 Nuts! Fuck!
 
-1115
-01:19:30,265 --> 01:19:31,705
+
+
 What was that?
 
-1116
-01:19:33,185 --> 01:19:34,185
+
+
 Nothing.
 
-1117
-01:20:10,665 --> 01:20:13,825
+
+
 Morning, Pete.
 Merry Christmas.
 Merry Christmas, buddy.
 
-1118
-01:20:16,385 --> 01:20:17,865
+
+
 Where are we?
 
-1119
-01:20:18,465 --> 01:20:20,025
+
+
 We're in heaven.
 
-1120
-01:20:21,185 --> 01:20:22,425
+
+
 Mmm.
 
-1121
-01:20:25,785 --> 01:20:28,545
+
+
 They got pancakes?
 They got everything.
 
-1122
-01:20:29,185 --> 01:20:30,265
+
+
 Good.
 

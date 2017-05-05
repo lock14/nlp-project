@@ -1,6772 +1,6772 @@
-1
-00:01:06,012 --> 00:01:08,915
+
+
 Valhalla, this is Thor.
 Valhalla, this is Thor.
 
-2
-00:01:09,019 --> 00:01:12,457
+
+
 We have visual on
 a possible high-value target.
 
-3
-00:01:12,558 --> 00:01:13,993
+
+
 Thor, this is Valhalla.
 
-4
-00:01:14,096 --> 00:01:17,591
+
+
 We're seeking positive ID
 on target traveling in convoy
 
-5
-00:01:17,704 --> 00:01:20,766
+
+
 and we're pushing
 more assets your way.
 
-6
-00:01:20,909 --> 00:01:24,040
+
+
 Contact Loki on secondary net.
 
-7
-00:01:24,150 --> 00:01:26,085
+
+
 Loki, this is Thor.
 
-8
-00:01:26,188 --> 00:01:30,322
+
+
 Target is located at grid coordinates
 two-four-Tango-Kilo-Bravo
 
-9
-00:01:30,429 --> 00:01:33,765
+
+
 one-two-four-five-six-seven-three-niner.
 
-10
-00:01:33,870 --> 00:01:35,600
+
+
 Confirm you have visual.
 
-11
-00:01:35,706 --> 00:01:37,073
+
+
 Verifying target ID.
 
-12
-00:01:37,176 --> 00:01:39,203
+
+
 Electro-optic and
 infrared sensors are online.
 
-13
-00:01:39,313 --> 00:01:41,784
+
+
 - Confirming target.
 - SecDef is arriving now.
 
-14
-00:01:51,037 --> 00:01:53,337
+
+
 Mr. Secretary, this way, sir.
 
-15
-00:01:57,819 --> 00:01:59,344
+
+
 Attempting cell phone link
 to moving target.
 
-16
-00:01:59,456 --> 00:02:01,322
+
+
 Stand by for data feed.
 
-17
-00:02:04,165 --> 00:02:05,566
+
+
 Stand by for audio.
 
-18
-00:02:05,668 --> 00:02:06,862
+
+
 Got it.
 
-19
-00:02:08,507 --> 00:02:12,311
+
+
 Now, don't tell me you spotted the beard
 in the middle of a goddamn sandstorm.
 
-20
-00:02:12,414 --> 00:02:15,650
+
+
 - Is it really him?
 - We're confirming that now, sir.
 
-21
-00:02:15,756 --> 00:02:16,781
+
+
 Sir, audio is coming up now.
 
-22
-00:02:16,890 --> 00:02:20,056
+
+
 - Verifying voice pattern match.
 - What do we have here, Sergeant?
 
-23
-00:02:20,966 --> 00:02:24,531
+
+
 Four males. One of them is speaking
 in a Rakhshani dialect,
 
-24
-00:02:24,639 --> 00:02:27,236
+
+
 consistent with our intel on al-Khoei.
 
-25
-00:02:29,818 --> 00:02:31,581
+
+
 Sir, it's just coming up.
 
-26
-00:02:31,688 --> 00:02:35,218
+
+
 "Thirty-seven percent" and "probable"
 don't belong in the same sentence.
 
-27
-00:02:35,329 --> 00:02:36,854
+
+
 I'm not taking this to the President.
 
-28
-00:02:36,966 --> 00:02:40,028
+
+
 CIA and NCTC concur it is the target,
 
-29
-00:02:40,138 --> 00:02:41,937
+
+
 based on reliable intel from the Brits.
 
-30
-00:02:42,042 --> 00:02:44,343
+
+
 They're pulling off the highway.
 
-31
-00:03:00,381 --> 00:03:01,973
+
+
 Criteria is not met. Recommend abort.
 
-32
-00:03:02,084 --> 00:03:03,848
+
+
 We have an abort recommendation.
 
-33
-00:03:03,955 --> 00:03:07,723
+
+
 If it's him, this guy comes out of hiding
 every couple of years at best.
 
-34
-00:03:07,829 --> 00:03:10,264
+
+
 Sir, target is appearing
 around the northeast corner.
 
-35
-00:03:13,942 --> 00:03:17,312
+
+
 We've got AK-47 s,
 RPGs and Chaparral guided missiles.
 
-36
-00:03:17,415 --> 00:03:19,181
+
+
 This is a training camp, Mr. Secretary.
 
-37
-00:03:19,286 --> 00:03:22,587
+
+
 - Wait. Wait. Print. 51%.
 - 51%.
 
-38
-00:03:22,693 --> 00:03:25,562
+
+
 - Abort rec still holds.
 - All other PID options exhausted.
 
-39
-00:03:25,664 --> 00:03:27,966
+
+
 What do you suggest we do, sir?
 
-40
-00:03:30,108 --> 00:03:31,439
+
+
 Ls that a weapons cache?
 
-41
-00:03:31,545 --> 00:03:33,538
+
+
 Sir, the placement of
 the stones around the pit,
 
-42
-00:03:33,649 --> 00:03:37,212
+
+
 marker for the five pillars of lslam.
 I think it's a funeral.
 
-43
-00:03:37,323 --> 00:03:38,688
+
+
 For Christ's sake.
 
-44
-00:03:38,792 --> 00:03:42,856
+
+
 Counsel, how many ways would this
 violate the Geneva Convention?
 
-45
-00:03:42,968 --> 00:03:44,903
+
+
 We can invoke hors de combat.
 
-46
-00:03:45,006 --> 00:03:47,978
+
+
 There's no independent intel verifying
 that this is, in fact, a funeral.
 
-47
-00:03:48,078 --> 00:03:51,312
+
+
 Signal's got the President
 from Air Force One, sir.
 
-48
-00:03:59,835 --> 00:04:01,098
+
+
 Mr. President,
 
-49
-00:04:01,205 --> 00:04:05,043
+
+
 we have a 51% identity match
 on Majid al-Khoei.
 
-50
-00:04:05,146 --> 00:04:08,643
+
+
 The bad news is, there's
 some possibility he's at a funeral.
 
-51
-00:04:08,753 --> 00:04:12,420
+
+
 You should also be aware
 we have an abort recommendation.
 
-52
-00:04:12,528 --> 00:04:15,091
+
+
 But the Joint Chiefs are urging a go.
 
-53
-00:04:15,901 --> 00:04:18,499
+
+
 All right, what's your recommendation?
 
-54
-00:04:24,151 --> 00:04:28,617
+
+
 Sir, we measure success by
 the least amount of collateral damage.
 
-55
-00:04:29,362 --> 00:04:33,701
+
+
 At 51% probability, the risk is too high.
 
-56
-00:04:33,805 --> 00:04:39,476
+
+
 And if it is al-Khoei and he walks,
 I'm putting our people at risk.
 
-57
-00:04:40,485 --> 00:04:41,954
+
+
 You have a go.
 
-58
-00:04:45,596 --> 00:04:47,725
+
+
 Thank you, Mr. President.
 
-59
-00:04:52,610 --> 00:04:53,805
+
+
 - We're weapons hot!
 - We have weapons hot!
 
-60
-00:04:53,913 --> 00:04:56,316
+
+
 - Loki, you are cleared to engage.
 - Repeat, weapons hot. PID.
 
-61
-00:04:56,418 --> 00:04:59,754
+
+
 We have handshake with the
 MQ9 Reaper. Sending you images now.
 
-62
-00:04:59,858 --> 00:05:03,262
+
+
 - Loki, target coordinates received.
 - Yes, sir. Switching to IR sensor.
 
-63
-00:05:12,350 --> 00:05:14,182
+
+
 Target is lased.
 
-64
-00:05:16,091 --> 00:05:17,855
+
+
 Master arm on.
 
-65
-00:05:17,961 --> 00:05:19,454
+
+
 Missiles away.
 
-66
-00:05:23,673 --> 00:05:25,540
+
+
 Ten seconds to impact.
 
-67
-00:05:48,091 --> 00:05:50,721
+
+
 You got to make a choice, fellas.
 
-68
-00:05:50,896 --> 00:05:55,362
+
+
 Who are you going to be? Boys or men?
 
-69
-00:05:58,778 --> 00:06:00,213
+
+
 - I'm out on this one.
 - Why?
 
-70
-00:06:00,315 --> 00:06:02,685
+
+
 - 'Cause I'm broke.
 - Come...
 
-71
-00:06:02,788 --> 00:06:04,415
+
+
 How do I know you don't have
 something great under there?
 
-72
-00:06:04,524 --> 00:06:05,925
+
+
 Kwame just paired the board.
 I'm floating on the river here.
 
-73
-00:06:06,028 --> 00:06:07,120
+
+
 Look at the table.
 
-74
-00:06:07,230 --> 00:06:10,100
+
+
 I don't know. I'm supposed to take my
 girl out later. It's a lot of money.
 
-75
-00:06:10,201 --> 00:06:13,334
+
+
 Your girl out? Who's that?
 
-76
-00:06:13,442 --> 00:06:14,934
+
+
 - Elaine?
 - Yeah.
 
-77
-00:06:15,047 --> 00:06:17,108
+
+
 You guys have been going out
 for a while.
 
-78
-00:06:17,216 --> 00:06:18,582
+
+
 How long?
 
-79
-00:06:18,687 --> 00:06:20,954
+
+
 - Couple months.
 - Couple months? Wow.
 
-80
-00:06:21,059 --> 00:06:24,225
+
+
 - That's big. You have sex with her yet?
 - Kinda.
 
-81
-00:06:24,331 --> 00:06:25,665
+
+
 - What the hell is "kinda"?
 - "Kinda"?
 
-82
-00:06:25,768 --> 00:06:26,997
+
+
 - Personal question.
 - Okay, well, listen.
 
-83
-00:06:27,103 --> 00:06:29,370
+
+
 Let me ask you a question.
 What are you going to do tonight?
 
-84
-00:06:29,475 --> 00:06:30,444
+
+
 Fish filet and a Coke?
 
-85
-00:06:30,545 --> 00:06:32,173
+
+
 Go to Blockbuster,
 rent a little romantic comedy,
 
-86
-00:06:32,281 --> 00:06:33,944
+
+
 go back to Mom's house,
 sit on the couch?
 
-87
-00:06:34,052 --> 00:06:35,384
+
+
 - How'd you know?
 - Well, that's what you do.
 
-88
-00:06:35,487 --> 00:06:37,151
+
+
 You're a dependable person.
 That's what you're going to do.
 
-89
-00:06:37,257 --> 00:06:38,851
+
+
 You know what you should do?
 
-90
-00:06:38,961 --> 00:06:41,262
+
+
 You need to lay down some real green
 and treat your lady right.
 
-91
-00:06:41,367 --> 00:06:43,233
+
+
 You know, you need to take her
 to a nice place.
 
-92
-00:06:43,336 --> 00:06:46,468
+
+
 Red Lobster. Olive Garden.
 Tablecloths. Soft music.
 
-93
-00:06:46,577 --> 00:06:48,548
+
+
 And then you skip
 this Blockbuster thing.
 
-94
-00:06:48,648 --> 00:06:51,643
+
+
 Girls want to go out. Especially a girl
 as cute as your girl, you know?
 
-95
-00:06:51,754 --> 00:06:53,747
+
+
 She wants to be seen.
 That's why she dresses up.
 
-96
-00:06:53,858 --> 00:06:55,384
+
+
 So you take her to the movies.
 
-97
-00:06:55,495 --> 00:06:57,021
+
+
 - A little popcorn-drink combo.
 - True. True.
 
-98
-00:06:57,132 --> 00:07:00,127
+
+
 Elaine might want a hot dog and some
 nachos, so you shell out for that, too.
 
-99
-00:07:00,238 --> 00:07:01,639
+
+
 And then before you know it,
 
-100
-00:07:01,742 --> 00:07:02,937
+
+
 she's cozying up
 the way she never would've
 
-101
-00:07:03,045 --> 00:07:04,137
+
+
 at her mom's house, you know?
 
-102
-00:07:04,247 --> 00:07:05,648
+
+
 - Preach it. Preach it.
 - Now all of a sudden, look.
 
-103
-00:07:05,750 --> 00:07:08,117
+
+
 Gino Romero's walking tall
 with Elaine yank-my-Dickinson,
 
-104
-00:07:08,221 --> 00:07:10,122
+
+
 - all because he dared to dream tonight.
 - Yes! Yes! Yes!
 
-105
-00:07:10,225 --> 00:07:11,420
+
+
 And he became a man.
 And that's the choice.
 
-106
-00:07:11,528 --> 00:07:13,055
+
+
 - Yes.
 - And that's what's on the table.
 
-107
-00:07:13,165 --> 00:07:15,567
+
+
 This is the dream right here.
 
-108
-00:07:15,670 --> 00:07:17,036
+
+
 Are you a man?
 
-109
-00:07:17,139 --> 00:07:18,300
+
+
 - I'm with you.
 - Okay, here we go.
 
-110
-00:07:18,408 --> 00:07:19,673
+
+
 - I'm with you. Twenty?
 - Twenty.
 
-111
-00:07:19,778 --> 00:07:21,213
+
+
 Big boy game.
 
-112
-00:07:21,983 --> 00:07:22,884
+
+
 Call.
 
-113
-00:07:23,586 --> 00:07:25,750
+
+
 - Cowboys over aces, big Jer.
 - Wow. Wow.
 
-114
-00:07:25,858 --> 00:07:27,350
+
+
 - Didn't see that coming, huh?
 - Yeah, that's a tough one.
 
-115
-00:07:27,461 --> 00:07:29,557
+
+
 This is a tough one, too.
 Four bullets, baby.
 
-116
-00:07:29,665 --> 00:07:32,365
+
+
 Get out of here!
 You baited me into that, Jer. Come on!
 
-117
-00:07:32,471 --> 00:07:34,465
+
+
 - That's the way it goes.
 - So what happened to Red Lobster?
 
-118
-00:07:34,576 --> 00:07:36,170
+
+
 No, I guess it's Mama's house
 for you tonight.
 
-119
-00:07:36,278 --> 00:07:37,507
+
+
 But look, I saved you 40 bucks.
 
-120
-00:07:37,615 --> 00:07:41,076
+
+
 And now Elaine won't have to shell out
 for herpes medication.
 
-121
-00:07:41,189 --> 00:07:43,524
+
+
 Break's over, bitches.
 Freitag missed his shift again.
 
-122
-00:07:43,627 --> 00:07:44,788
+
+
 - Someone's on collator duty.
 - Great.
 
-123
-00:07:44,896 --> 00:07:46,764
+
+
 All right, well, gentlemen,
 
-124
-00:07:46,867 --> 00:07:49,704
+
+
 l'll give you a chance to win some of
 this back tomorrow. Enjoy yourselves.
 
-125
-00:07:49,807 --> 00:07:51,298
+
+
 All right, man.
 
-126
-00:07:56,687 --> 00:07:59,283
+
+
 Hey there. Welcome to Copy Cabana.
 How can I help you?
 
-127
-00:07:59,393 --> 00:08:01,557
+
+
 I couldn't get the machine
 past the main menu.
 
-128
-00:08:01,665 --> 00:08:03,293
+
+
 - That machine there?
 - Yeah.
 
-129
-00:08:03,401 --> 00:08:05,372
+
+
 Did you swipe your credit card
 to the left, sir?
 
-130
-00:08:05,473 --> 00:08:07,237
+
+
 - Didn't do that.
 - Well, that's your problem.
 
-131
-00:08:07,343 --> 00:08:08,333
+
+
 Why don't you try it again?
 
-132
-00:08:18,934 --> 00:08:20,927
+
+
 Cell phone users, beware.
 
-133
-00:08:21,038 --> 00:08:25,240
+
+
 The Federal Bureau of Investigation
 can now hear everything you're saying,
 
-134
-00:08:25,346 --> 00:08:27,509
+
+
 even when your cell phone is turned off.
 
-135
-00:08:27,617 --> 00:08:31,149
+
+
 Authorities can now activate
 the microphone inside your phone,
 
-136
-00:08:31,259 --> 00:08:34,095
+
+
 allowing them to eavesdrop
 on you and your conversations.
 
-137
-00:08:34,197 --> 00:08:39,334
+
+
 Experts say the only way around this
 is to take the battery out of the device.
 
-138
-00:08:40,344 --> 00:08:42,746
+
+
 - The death toll now stands at 14.
 - Now arriving at Union Street.
 
-139
-00:08:42,849 --> 00:08:43,838
+
+
 - Stand clear of the doors.
 - Excuse me.
 
-140
-00:08:43,951 --> 00:08:45,886
+
+
 Watch your step, please.
 
-141
-00:08:47,959 --> 00:08:49,552
+
+
 Did you drop this?
 
-142
-00:08:51,466 --> 00:08:52,491
+
+
 Yes.
 
-143
-00:08:53,370 --> 00:08:56,811
+
+
 - It's hard to do on a train, you know!
 - Doors closing.
 
-144
-00:08:56,911 --> 00:08:58,744
+
+
 Standing passengers...
 
-145
-00:09:00,018 --> 00:09:01,418
+
+
 Come on, come on, come on.
 
-146
-00:09:45,277 --> 00:09:46,403
+
+
 Jerry?
 
-147
-00:09:47,081 --> 00:09:50,349
+
+
 Mrs. Wierzbowski! I was just...
 I thought you might have been sleeping.
 
-148
-00:09:50,453 --> 00:09:51,855
+
+
 - Yeah, yeah, yeah.
 - So... But I have...
 
-149
-00:09:51,957 --> 00:09:53,790
+
+
 I have some rent here.
 
-150
-00:09:53,894 --> 00:09:56,024
+
+
 - Here you go.
 - Yeah, some is good. All is better.
 
-151
-00:09:56,133 --> 00:09:58,000
+
+
 Well, that's most of it. Here.
 
-152
-00:09:58,102 --> 00:09:59,402
+
+
 $1, $1, $1...
 
-153
-00:09:59,506 --> 00:10:01,066
+
+
 No, no, no. Look. Here's a five there.
 
-154
-00:10:01,176 --> 00:10:03,340
+
+
 - Five.
 - Yeah.
 
-155
-00:10:03,447 --> 00:10:05,441
+
+
 Where is girl? I don't see her no more.
 
-156
-00:10:05,552 --> 00:10:07,783
+
+
 You know you're the only woman for me.
 
-157
-00:10:07,889 --> 00:10:09,688
+
+
 No, that's done. She got smart.
 
-158
-00:10:09,793 --> 00:10:11,696
+
+
 - Like the others.
 - Yeah. Yeah.
 
-159
-00:10:12,432 --> 00:10:16,429
+
+
 Is woman friend? Answer.
 Then see if she give you money for rent.
 
-160
-00:10:17,844 --> 00:10:19,210
+
+
 One second.
 
-161
-00:10:21,585 --> 00:10:22,813
+
+
 Hey, Mom.
 
-162
-00:10:25,725 --> 00:10:26,818
+
+
 What?
 
-163
-00:10:54,217 --> 00:10:56,654
+
+
 - Looks just like him.
 - I'm not him.
 
-164
-00:12:36,662 --> 00:12:39,428
+
+
 Six months without a boo or a bah, huh?
 
-165
-00:12:39,533 --> 00:12:41,094
+
+
 Yes, sir.
 
-166
-00:12:41,205 --> 00:12:43,334
+
+
 So where were you this time?
 
-167
-00:12:44,812 --> 00:12:49,184
+
+
 Alaska. Singapore.
 I got a job there.
 
-168
-00:12:52,226 --> 00:12:56,361
+
+
 I... I spoke to Stanford.
 
-169
-00:12:56,469 --> 00:12:57,437
+
+
 I pulled some strings.
 
-170
-00:12:57,538 --> 00:12:59,336
+
+
 They said they'd take you back.
 Even though you took off...
 
-171
-00:12:59,442 --> 00:13:00,636
+
+
 Two years ago, Dad.
 
-172
-00:13:00,744 --> 00:13:04,410
+
+
 Jerry, you know, it wouldn't kill you
 to ask for help once in a while.
 
-173
-00:13:04,519 --> 00:13:05,749
+
+
 You want to have
 this conversation now?
 
-174
-00:13:05,855 --> 00:13:07,015
+
+
 - It's Stanford!
 - You want to do this today.
 
-175
-00:13:07,124 --> 00:13:08,091
+
+
 You know how many people would kill...
 
-176
-00:13:08,192 --> 00:13:10,355
+
+
 - Today? You want to have this now?
 - Fine.
 
-177
-00:13:10,465 --> 00:13:13,698
+
+
 You do whatever you want.
 You always have.
 
-178
-00:13:20,884 --> 00:13:24,586
+
+
 You know, I keep thinking,
 I'm going to walk in here one day
 
-179
-00:13:25,360 --> 00:13:29,267
+
+
 and I'm not going to feel
 like a stranger in my own house.
 
-180
-00:13:40,558 --> 00:13:42,495
+
+
 I don't want your money.
 
-181
-00:14:10,019 --> 00:14:12,616
+
+
 Can I have your attention, please?
 
-182
-00:14:12,725 --> 00:14:17,063
+
+
 Smoking is not permitted on the train.
 Chicago is next.
 
-183
-00:14:36,774 --> 00:14:39,644
+
+
 Can't find the keys
 and he's late as usual.
 
-184
-00:14:39,746 --> 00:14:42,777
+
+
 - I'm going to have to take you.
 - He'll be here.
 
-185
-00:14:43,688 --> 00:14:45,682
+
+
 All right, wait five more minutes.
 
-186
-00:14:45,793 --> 00:14:47,820
+
+
 Help me out here.
 We came home last night.
 
-187
-00:14:47,931 --> 00:14:50,767
+
+
 I put the leftovers down.
 You turned on the TV. I went over,
 
-188
-00:14:50,870 --> 00:14:54,503
+
+
 said, "No TV, no TV, no TV."
 Turned it off.
 
-189
-00:14:54,610 --> 00:14:55,703
+
+
 Came over here.
 
-190
-00:14:55,812 --> 00:14:57,783
+
+
 - Checked the messages.
 - Knocked over the phone.
 
-191
-00:14:57,884 --> 00:15:00,287
+
+
 Right, knocked over the phone.
 Put it back.
 
-192
-00:15:00,389 --> 00:15:02,725
+
+
 Put the leftovers in the fridge.
 
-193
-00:15:06,635 --> 00:15:07,625
+
+
 Let's go!
 
-194
-00:15:07,772 --> 00:15:10,004
+
+
 I put vitamins in your toiletry bag.
 Don't forget to take...
 
-195
-00:15:10,109 --> 00:15:11,772
+
+
 - Two in the morning and two at night.
 - That's right.
 
-196
-00:15:11,879 --> 00:15:12,870
+
+
 And your inhaler's
 in the back of your bag.
 
-197
-00:15:12,981 --> 00:15:14,041
+
+
 - Sammy!
 - Daddy!
 
-198
-00:15:14,152 --> 00:15:16,713
+
+
 Come here. You didn't think
 I'd miss the big send-off, do you, huh?
 
-199
-00:15:16,822 --> 00:15:18,086
+
+
 Let's get you on this train.
 
-200
-00:15:18,192 --> 00:15:19,855
+
+
 - This must be your...
 - Trumpet.
 
-201
-00:15:19,962 --> 00:15:21,899
+
+
 My God, this weighs, like, 200 pounds.
 You carry this yourself?
 
-202
-00:15:22,000 --> 00:15:23,697
+
+
 - Mr. And Mrs. Holloman!
 - Miss.
 
-203
-00:15:23,804 --> 00:15:25,398
+
+
 - You just made it.
 - Right.
 
-204
-00:15:25,508 --> 00:15:26,975
+
+
 - Here, Sam.
 - Thanks.
 
-205
-00:15:27,077 --> 00:15:28,067
+
+
 - Listen to me.
 - I have one more here.
 
-206
-00:15:28,179 --> 00:15:30,980
+
+
 All these other kids, right? They're
 going to call their moms, too, all right?
 
-207
-00:15:31,086 --> 00:15:32,715
+
+
 They're just going to lie about it.
 
-208
-00:15:32,822 --> 00:15:35,726
+
+
 All right, and eat junk food 'cause this is
 your one chance, but brush your teeth.
 
-209
-00:15:35,828 --> 00:15:39,063
+
+
 Mom, you got to stop.
 I'm going to miss you, too.
 
-210
-00:15:39,168 --> 00:15:40,763
+
+
 Capitol Limited to D.C. Is
 departing now.
 
-211
-00:15:40,873 --> 00:15:41,966
+
+
 Give me a hug.
 
-212
-00:15:42,075 --> 00:15:43,065
+
+
 All aboard.
 
-213
-00:15:43,177 --> 00:15:45,147
+
+
 - I love you so much.
 - I love you, too.
 
-214
-00:15:46,784 --> 00:15:48,778
+
+
 - Shine bright, okay?
 - Okay.
 
-215
-00:15:50,057 --> 00:15:51,890
+
+
 Rock the house, buddy.
 You're going to be great. Okay?
 
-216
-00:15:51,995 --> 00:15:53,259
+
+
 - Okay.
 - L'll see you later.
 
-217
-00:15:53,365 --> 00:15:55,995
+
+
 - Bye!
 - Have fun in D.C.!
 
-218
-00:15:56,104 --> 00:15:58,769
+
+
 - Bye, Mom!
 - Your mom going to be okay?
 
-219
-00:15:58,876 --> 00:16:00,311
+
+
 It's unclear.
 
-220
-00:16:01,480 --> 00:16:02,541
+
+
 I'm so sorry. I got stuck in traffic,
 
-221
-00:16:02,650 --> 00:16:04,779
+
+
 - and I didn't even...
 - Don't even say it.
 
-222
-00:16:07,092 --> 00:16:08,460
+
+
 All aboard!
 
-223
-00:16:08,863 --> 00:16:10,832
+
+
 Yes. Five-nine-one-three.
 
-224
-00:16:17,147 --> 00:16:18,912
+
+
 It's here. It's here.
 
-225
-00:16:21,288 --> 00:16:22,621
+
+
 Okay, okay.
 
-226
-00:16:38,924 --> 00:16:41,121
+
+
 - Come on!
 - Two seconds. Sorry.
 
-227
-00:16:48,745 --> 00:16:49,974
+
+
 No, wait.
 
-228
-00:16:59,165 --> 00:17:00,634
+
+
 - Hey, hang on a second.
 - Sorry.
 
-229
-00:17:00,736 --> 00:17:01,966
+
+
 - You're dropping money.
 - Sir, sir!
 
-230
-00:17:02,072 --> 00:17:04,805
+
+
 Big date, you know?
 Fingers crossed, huh?
 
-231
-00:17:08,352 --> 00:17:10,116
+
+
 - Here you go. Have a good day!
 - Thank you.
 
-232
-00:17:13,596 --> 00:17:14,621
+
+
 - Jerry!
 - What?
 
-233
-00:17:14,730 --> 00:17:16,597
+
+
 - So many boxes.
 - Boxes?
 
-234
-00:17:16,702 --> 00:17:19,173
+
+
 I had to open your room.
 All day they come.
 
-235
-00:17:19,273 --> 00:17:20,674
+
+
 - Big boxes, small boxes.
 - My boxes?
 
-236
-00:17:20,778 --> 00:17:22,144
+
+
 I don't know.
 Whose boxes would they be?
 
-237
-00:17:22,247 --> 00:17:24,582
+
+
 - All right, okay.
 - Look at them there. See in there?
 
-238
-00:17:24,685 --> 00:17:26,051
+
+
 - See, I put them all...
 - Yeah. Yeah.
 
-239
-00:17:26,154 --> 00:17:27,920
+
+
 - Listen, I have something for you here.
 - Yeah.
 
-240
-00:17:28,025 --> 00:17:30,086
+
+
 This is rent for this month
 and next month, too, okay?
 
-241
-00:17:30,196 --> 00:17:31,894
+
+
 - Oh, my.
 - Thank you.
 
-242
-00:18:45,617 --> 00:18:46,586
+
+
 Hello?
 
-243
-00:18:46,686 --> 00:18:49,284
+
+
 The FBI will arrive
 at your apartment in 30 seconds.
 
-244
-00:18:49,392 --> 00:18:50,986
+
+
 You must flee the premises.
 
-245
-00:18:51,096 --> 00:18:52,257
+
+
 Who... Who is this?
 
-246
-00:18:52,365 --> 00:18:53,891
+
+
 You've been activated, Jerry.
 
-247
-00:18:54,001 --> 00:18:55,835
+
+
 - Who the hell is this?
 - Your compliance is vital.
 
-248
-00:18:55,939 --> 00:18:56,906
+
+
 How did you get this number?
 
-249
-00:18:57,008 --> 00:18:59,912
+
+
 You now have 24 seconds.
 Leave your residence.
 
-250
-00:19:00,013 --> 00:19:03,578
+
+
 Your destination, the Mathis train
 station. We will guide you from there.
 
-251
-00:19:03,688 --> 00:19:04,712
+
+
 What is this?
 
-252
-00:19:04,824 --> 00:19:06,988
+
+
 The evidence in your
 apartment is irrefutable.
 
-253
-00:19:07,096 --> 00:19:08,086
+
+
 - Listen.
 - 17 seconds.
 
-254
-00:19:08,198 --> 00:19:09,165
+
+
 I'm going to hang this phone up now.
 
-255
-00:19:09,267 --> 00:19:10,496
+
+
 They'll seek your arrest
 for conspiracy, treason...
 
-256
-00:19:10,602 --> 00:19:12,628
+
+
 - I'm hanging this phone up now!
 ...violating state and local law.
 
-257
-00:19:12,740 --> 00:19:14,574
+
+
 - You tell me how you got this number!
 - Maximum penalty, death.
 
-258
-00:19:14,678 --> 00:19:16,671
+
+
 No, none of this is mine!
 
-259
-00:19:18,786 --> 00:19:22,087
+
+
 FBI, FBI, FBI! Get down on the floor!
 
-260
-00:19:22,192 --> 00:19:23,855
+
+
 Get on the ground!
 
-261
-00:19:25,500 --> 00:19:26,762
+
+
 Down now! Get down!
 
-262
-00:19:26,868 --> 00:19:29,170
+
+
 - I didn't do anything!
 - Get down!
 
-263
-00:19:29,273 --> 00:19:30,434
+
+
 - Listen!
 - Don't move.
 
-264
-00:19:30,542 --> 00:19:32,912
+
+
 It's not mine! Lt's not mine!
 
-265
-00:19:44,137 --> 00:19:46,369
+
+
 This is obviously
 some sort of mistake, right?
 
-266
-00:19:46,476 --> 00:19:49,380
+
+
 I mean, I don't know
 what I'm doing in this room, sir.
 
-267
-00:19:49,481 --> 00:19:51,509
+
+
 It's cold as hell outside.
 
-268
-00:19:53,155 --> 00:19:55,923
+
+
 - You draw?
 - I what?
 
-269
-00:19:56,028 --> 00:19:59,594
+
+
 Do you draw? Do you sketch?
 You have ink all over your fingers.
 
-270
-00:20:01,840 --> 00:20:03,401
+
+
 Look, you know you got
 the wrong guy, right?
 
-271
-00:20:03,510 --> 00:20:04,843
+
+
 I mean,
 this is all some kind of sick joke.
 
-272
-00:20:04,948 --> 00:20:07,144
+
+
 - I don't know what I'm doing here.
 - Obviously.
 
-273
-00:20:07,251 --> 00:20:10,280
+
+
 Obviously you have
 nothing to do with it, yeah.
 
-274
-00:20:10,925 --> 00:20:12,952
+
+
 Did you love your brother?
 
-275
-00:20:14,298 --> 00:20:16,963
+
+
 Or did you hate him?
 Did you admire him?
 
-276
-00:20:18,909 --> 00:20:21,710
+
+
 Was your brother patriotic,
 would you say?
 
-277
-00:20:24,887 --> 00:20:27,257
+
+
 When's the last time you saw him?
 
-278
-00:20:28,997 --> 00:20:31,297
+
+
 - Christmas.
 - This past Christmas?
 
-279
-00:20:32,738 --> 00:20:35,800
+
+
 - Three Christmases ago.
 - Three years, huh?
 
-280
-00:20:35,911 --> 00:20:39,509
+
+
 Well, the phone records show that you
 haven't even called him in over a year.
 
-281
-00:20:39,617 --> 00:20:42,384
+
+
 So no text messages?
 No smoke signals?
 
-282
-00:20:42,490 --> 00:20:43,960
+
+
 No MySpace or Facebook messages?
 
-283
-00:20:44,060 --> 00:20:45,586
+
+
 Yeah, so what are you trying to say?
 We're not...
 
-284
-00:20:45,697 --> 00:20:46,825
+
+
 Are you asking if we're the type of twins
 
-285
-00:20:46,933 --> 00:20:51,432
+
+
 that wear the same shirt to the mall,
 hold hands, and things like that? No.
 
-286
-00:20:51,876 --> 00:20:54,576
+
+
 - Sir, I don't even know your name.
 - I'm sorry, that was rude of me.
 
-287
-00:20:54,682 --> 00:20:55,844
+
+
 I'm Tom Morgan,
 
-288
-00:20:55,951 --> 00:20:59,413
+
+
 the Supervising Agent assigned
 to the Joint Terrorism Task Force.
 
-289
-00:21:01,896 --> 00:21:04,198
+
+
 You think I'm a terrorist?
 
-290
-00:21:04,936 --> 00:21:06,461
+
+
 No, you're a copy boy, aren't you?
 
-291
-00:21:06,573 --> 00:21:09,170
+
+
 - I'm a copy associate.
 - Copy associate.
 
-292
-00:21:09,913 --> 00:21:11,246
+
+
 But your brother,
 
-293
-00:21:11,349 --> 00:21:15,553
+
+
 it says here he was a little more,
 I guess you'd say, ambitious than you.
 
-294
-00:21:15,659 --> 00:21:17,753
+
+
 Graduated from
 the Air Force Academy at 21,
 
-295
-00:21:17,863 --> 00:21:21,496
+
+
 with an advanced degree in parallel
 algorithms and quantum electronics.
 
-296
-00:21:21,604 --> 00:21:23,836
+
+
 I don't even know what the hell
 that stuff means. Do you?
 
-297
-00:21:23,942 --> 00:21:26,435
+
+
 Cadet wing commander, valedictorian,
 plum job in the Public Affairs...
 
-298
-00:21:26,548 --> 00:21:28,211
+
+
 Yeah, no, I know what he did, sir.
 
-299
-00:21:28,317 --> 00:21:29,787
+
+
 Why'd you drop out of school, Jerry?
 
-300
-00:21:29,887 --> 00:21:32,256
+
+
 Did your brother have
 any influence on that decision?
 
-301
-00:21:32,358 --> 00:21:33,692
+
+
 No, school just wasn't for me.
 
-302
-00:21:33,796 --> 00:21:36,267
+
+
 No, I mean, who would want
 a Stanford education anyway?
 
-303
-00:21:36,367 --> 00:21:39,339
+
+
 More upward mobility
 at Copy Cabana, I guess, right?
 
-304
-00:21:39,441 --> 00:21:43,540
+
+
 I see you did a little backpacking.
 Singapore, Bali, Indonesia.
 
-305
-00:21:43,648 --> 00:21:44,948
+
+
 Did odd jobs here and there.
 So you've been around.
 
-306
-00:21:45,052 --> 00:21:46,112
+
+
 Look, none of this has anything to do
 
-307
-00:21:46,221 --> 00:21:48,351
+
+
 with any of the shit
 that was in my apartment.
 
-308
-00:21:48,459 --> 00:21:50,555
+
+
 Why would I send it to myself?
 My name is on the lease.
 
-309
-00:21:50,663 --> 00:21:52,792
+
+
 I'd have to be the dumbest terrorist
 in the history of the world.
 
-310
-00:21:52,902 --> 00:21:54,336
+
+
 So who deposited the 750?
 
-311
-00:21:54,439 --> 00:21:57,707
+
+
 The...
 I don't know who deposited the 750!
 
-312
-00:21:57,811 --> 00:21:59,144
+
+
 God maybe? I thought it was a miracle,
 
-313
-00:21:59,249 --> 00:22:01,412
+
+
 I took the money. That was my mistake.
 It was an accident.
 
-314
-00:22:01,519 --> 00:22:03,284
+
+
 Do accidents not happen
 in your universe?
 
-315
-00:22:03,390 --> 00:22:07,329
+
+
 Well, the money originated
 from the YTBC Bank of...
 
-316
-00:22:07,431 --> 00:22:09,401
+
+
 Well, l'll be darned, Singapore.
 
-317
-00:22:09,502 --> 00:22:12,338
+
+
 Opened with a transfer from
 a corporation called The Star of Orion,
 
-318
-00:22:12,442 --> 00:22:14,673
+
+
 - a dummy front for Hezbollah.
 - This is all very interesting, sir.
 
-319
-00:22:14,779 --> 00:22:17,808
+
+
 - It has nothing to do with me.
 - We find hardware in your apartment.
 
-320
-00:22:17,920 --> 00:22:19,787
+
+
 Latest military spec.
 
-321
-00:22:19,890 --> 00:22:21,119
+
+
 - Airplane manuals.
 - I told you about this already.
 
-322
-00:22:21,227 --> 00:22:23,892
+
+
 And 1,200 pounds
 of ammonium nitrate fertilizer.
 
-323
-00:22:23,999 --> 00:22:24,989
+
+
 I walked into my apartment...
 
-324
-00:22:25,101 --> 00:22:26,763
+
+
 You planning on becoming
 a farmer or something?
 
-325
-00:22:26,872 --> 00:22:29,240
+
+
 I walk into my apartment,
 I open the door,
 
-326
-00:22:29,343 --> 00:22:30,538
+
+
 and this shit's all over my apartment.
 
-327
-00:22:30,645 --> 00:22:32,046
+
+
 - It just showed up.
 - It just showed up.
 
-328
-00:22:32,148 --> 00:22:35,019
+
+
 I see. I'm just curious
 if your brother knew anything about it.
 
-329
-00:22:35,121 --> 00:22:39,221
+
+
 Of course, we haven't really established
 how close you guys were yet, have we?
 
-330
-00:22:39,330 --> 00:22:42,132
+
+
 Well, we were pretty close this morning
 when I buried his body in the ground.
 
-331
-00:22:43,005 --> 00:22:44,804
+
+
 Does that establish anything for you?
 Somebody set me up.
 
-332
-00:22:44,909 --> 00:22:46,207
+
+
 Why is that so hard
 for you to understand?
 
-333
-00:22:46,310 --> 00:22:47,779
+
+
 - "Somebody."
 - A woman called me on the phone.
 
-334
-00:22:47,881 --> 00:22:48,973
+
+
 She told me I was going to be arrested.
 
-335
-00:22:49,084 --> 00:22:50,451
+
+
 "A woman." Your mom? Who?
 
-336
-00:22:50,554 --> 00:22:54,084
+
+
 I don't know! Lf I knew, I would tell you!
 I don't know!
 
-337
-00:22:58,002 --> 00:22:59,596
+
+
 Here's the thing, Jerry.
 
-338
-00:22:59,704 --> 00:23:02,872
+
+
 This is a bad time to be
 in the terrorism business.
 
-339
-00:23:02,979 --> 00:23:04,675
+
+
 You read the paper.
 
-340
-00:23:05,984 --> 00:23:07,921
+
+
 Who do you think is winning?
 
-341
-00:23:08,022 --> 00:23:12,863
+
+
 Your Miranda rights or my right to keep
 you in this room as long as I want to?
 
-342
-00:23:12,965 --> 00:23:15,801
+
+
 I don't care if you tell me
 the truth about your brother.
 
-343
-00:23:15,904 --> 00:23:18,137
+
+
 I don't care who you work for.
 
-344
-00:23:18,243 --> 00:23:23,778
+
+
 'Cause no matter what you tell me,
 you're in a shitload of trouble, son.
 
-345
-00:23:30,101 --> 00:23:33,005
+
+
 This is insane. I work for Copy Cabana.
 
-346
-00:23:33,106 --> 00:23:35,169
+
+
 Yeah, that's what you said.
 
-347
-00:23:42,460 --> 00:23:44,123
+
+
 Listen, I get one night out
 in a decade, ladies,
 
-348
-00:23:44,230 --> 00:23:46,257
+
+
 I am not wasting it on Lemon Drops.
 
-349
-00:23:46,366 --> 00:23:48,462
+
+
 - Okay.
 - Buck up. Let's go.
 
-350
-00:23:54,451 --> 00:23:55,419
+
+
 Oh, gosh.
 
-351
-00:23:56,087 --> 00:23:59,322
+
+
 I want updates. Catfights, booty calls,
 somebody tell me they got lucky.
 
-352
-00:23:59,427 --> 00:24:03,563
+
+
 Hey, ladies. See that guy over there?
 He'd like to buy you a round.
 
-353
-00:24:04,506 --> 00:24:06,999
+
+
 Hell, no.
 He's got light beer written all over him.
 
-354
-00:24:07,109 --> 00:24:08,202
+
+
 - He's cute.
 - Come on.
 
-355
-00:24:08,313 --> 00:24:09,372
+
+
 He's a suit. No.
 
-356
-00:24:09,481 --> 00:24:10,711
+
+
 You sure?
 
-357
-00:24:10,817 --> 00:24:12,151
+
+
 - Come on.
 - Who is it?
 
-358
-00:24:12,954 --> 00:24:15,951
+
+
 The one man in my life
 who hasn't let me down.
 
-359
-00:24:16,630 --> 00:24:20,161
+
+
 - That's sweet.
 - All right, don't drink those without me.
 
-360
-00:24:21,239 --> 00:24:22,365
+
+
 Hello?
 
-361
-00:24:22,976 --> 00:24:24,171
+
+
 Hello?
 
-362
-00:24:25,146 --> 00:24:28,847
+
+
 There's a McDonald's across the street.
 Look in the window.
 
-363
-00:24:28,954 --> 00:24:30,013
+
+
 What is this?
 
-364
-00:24:30,124 --> 00:24:32,721
+
+
 Would you risk your life for your son?
 
-365
-00:24:38,776 --> 00:24:41,246
+
+
 Rachel Holloman,
 you've been activated.
 
-366
-00:24:41,346 --> 00:24:43,112
+
+
 - This isn't funny.
 - Your compliance is vital.
 
-367
-00:24:43,218 --> 00:24:45,211
+
+
 - Who are you?
 - We will derail his train,
 
-368
-00:24:45,322 --> 00:24:46,915
+
+
 unless you do what you're told.
 
-369
-00:24:47,025 --> 00:24:47,992
+
+
 What is this?
 
-370
-00:24:48,094 --> 00:24:49,893
+
+
 Don't go back inside the restaurant.
 
-371
-00:24:49,998 --> 00:24:52,491
+
+
 - What?
 - There's a black Porsche Cayenne
 
-372
-00:24:52,604 --> 00:24:55,336
+
+
 parked at the northeast corner
 of this block.
 
-373
-00:24:55,442 --> 00:24:58,676
+
+
 The keys are in the ignition.
 Start walking.
 
-374
-00:25:01,320 --> 00:25:02,688
+
+
 Oh, my God.
 
-375
-00:25:05,896 --> 00:25:07,833
+
+
 911.
 State the nature of your emergency.
 
-376
-00:25:07,934 --> 00:25:10,930
+
+
 Yeah, some woman just called me.
 I have... I have no idea who she is.
 
-377
-00:25:11,040 --> 00:25:13,035
+
+
 She was telling me that...
 
-378
-00:25:17,520 --> 00:25:21,393
+
+
 Your phone is being monitored.
 Disobey again and your son dies.
 
-379
-00:25:25,872 --> 00:25:28,068
+
+
 Hey, Grant, I can't read this Shaw file.
 
-380
-00:25:28,176 --> 00:25:30,146
+
+
 - Grant!
 - Excuse me.
 
-381
-00:25:30,682 --> 00:25:33,518
+
+
 Listen, my eyes aren't getting any better
 and these screens are getting smaller.
 
-382
-00:25:33,621 --> 00:25:35,113
+
+
 Could you please find me
 something I can read?
 
-383
-00:25:35,223 --> 00:25:36,692
+
+
 I can make the text bigger
 on your screen.
 
-384
-00:25:36,795 --> 00:25:38,286
+
+
 No, no, no. I'm talking about paper.
 
-385
-00:25:38,396 --> 00:25:39,763
+
+
 Remember, like in the olden times?
 
-386
-00:25:39,866 --> 00:25:41,392
+
+
 - Paper. Okay.
 - Yeah.
 
-387
-00:25:41,503 --> 00:25:44,374
+
+
 Agent Morgan. Zoe Perez,
 Air Force Special Investigations.
 
-388
-00:25:44,477 --> 00:25:46,913
+
+
 Ethan Shaw, the twin,
 he was one of ours.
 
-389
-00:25:47,015 --> 00:25:49,680
+
+
 Yeah.
 OSI said they were sending a liaison.
 
-390
-00:25:49,787 --> 00:25:51,518
+
+
 Can you walk and talk
 at the same time?
 
-391
-00:25:51,624 --> 00:25:52,887
+
+
 L'll do my best.
 
-392
-00:25:52,993 --> 00:25:54,861
+
+
 File says he died in a traffic accident.
 
-393
-00:25:54,964 --> 00:25:58,769
+
+
 Truck ran a light, corner of
 Constitution and 10th, Northwest D.C.
 
-394
-00:25:58,873 --> 00:26:01,173
+
+
 So truck ran a light,
 his brother gets 750 large
 
-395
-00:26:01,277 --> 00:26:03,441
+
+
 and enough hardware
 to start his own Costco,
 
-396
-00:26:03,548 --> 00:26:05,984
+
+
 five hours after enemy
 chatter hits the roof.
 
-397
-00:26:06,086 --> 00:26:07,953
+
+
 I mean, don't you find that
 a little coincidental?
 
-398
-00:26:08,057 --> 00:26:12,727
+
+
 What if it's a decoy? To distract us from
 something 50 times bigger.
 
-399
-00:26:24,459 --> 00:26:27,431
+
+
 - Time for your phone call.
 - I thought I didn't get one.
 
-400
-00:26:27,531 --> 00:26:30,435
+
+
 Attorney General's office
 changed their mind.
 
-401
-00:26:32,307 --> 00:26:34,539
+
+
 Ethan Shaw had a 183 IQ
 
-402
-00:26:34,645 --> 00:26:36,947
+
+
 and yet you had him
 as a mid-level press flak.
 
-403
-00:26:37,050 --> 00:26:38,611
+
+
 Why not IT or cyber-warfare?
 
-404
-00:26:38,721 --> 00:26:40,781
+
+
 Are you suggesting
 that he was overqualified?
 
-405
-00:26:40,892 --> 00:26:43,260
+
+
 Or that he was somehow slipping intel
 to the Copy Cabana?
 
-406
-00:26:43,364 --> 00:26:45,163
+
+
 No, I'm suggesting
 that maybe Ethan Shaw
 
-407
-00:26:45,268 --> 00:26:49,367
+
+
 was a superstar rocket scientist genius
 who did go wrong,
 
-408
-00:26:49,477 --> 00:26:53,041
+
+
 and the Air Force doesn't want
 their dirty laundry flapping in the wind.
 
-409
-00:26:53,151 --> 00:26:56,885
+
+
 Think what you like, but I need to get in
 that room and interrogate him myself.
 
-410
-00:26:56,991 --> 00:26:57,981
+
+
 No.
 
-411
-00:27:06,778 --> 00:27:09,078
+
+
 You don't have a choice. Look.
 
-412
-00:27:09,183 --> 00:27:12,280
+
+
 Now, neither of us know if either of
 those brothers are guilty or innocent,
 
-413
-00:27:12,390 --> 00:27:17,058
+
+
 so on behalf of the Secretary
 of the Air Force, I'm going in that room.
 
-414
-00:27:17,902 --> 00:27:20,601
+
+
 Well, on behalf of
 all that fucking bomb equipment
 
-415
-00:27:20,707 --> 00:27:23,701
+
+
 in junior pinhead's apartment,
 no, you're not.
 
-416
-00:27:33,199 --> 00:27:36,536
+
+
 We told you to run.
 We have planned your escape.
 
-417
-00:27:36,640 --> 00:27:38,541
+
+
 How'd you get on this phone?
 Who are you?
 
-418
-00:27:38,644 --> 00:27:40,477
+
+
 Lay flat on the floor immediately.
 
-419
-00:27:40,582 --> 00:27:41,981
+
+
 What the...
 What the hell are you talking about?
 
-420
-00:27:42,084 --> 00:27:43,211
+
+
 Four seconds, Jerry.
 
-421
-00:27:43,320 --> 00:27:45,483
+
+
 - No, this is bullshit. I don't...
 - Get down now.
 
-422
-00:27:45,592 --> 00:27:46,894
+
+
 Two seconds.
 
-423
-00:28:10,174 --> 00:28:11,164
+
+
 No!
 
-424
-00:28:14,617 --> 00:28:17,521
+
+
 - No! I didn't do this!
 - Get down!
 
-425
-00:28:22,534 --> 00:28:23,968
+
+
 Shit.
 
-426
-00:28:57,439 --> 00:29:01,105
+
+
 Standing passengers,
 please do not lean against the doors.
 
-427
-00:29:06,223 --> 00:29:10,096
+
+
 ...fourteen Americans dead
 throughout Europe and the Middle East,
 
-428
-00:29:10,198 --> 00:29:13,034
+
+
 with terror groups insisting
 this is just the beginning
 
-429
-00:29:13,137 --> 00:29:17,202
+
+
 of a campaign the West invited
 when it allegedly rained bombs
 
-430
-00:29:17,313 --> 00:29:20,307
+
+
 on a religious ceremony
 outside the small town of Abda,
 
-431
-00:29:20,419 --> 00:29:22,719
+
+
 near the border of Afghanistan.
 
-432
-00:29:33,947 --> 00:29:37,853
+
+
 Stay on the train for three more stations
 and wait at the bottom of the platform.
 
-433
-00:29:37,954 --> 00:29:39,685
+
+
 You will receive...
 
-434
-00:30:01,303 --> 00:30:06,941
+
+
 Doors closing. Standing passengers,
 please do not lean against the doors.
 
-435
-00:30:32,534 --> 00:30:34,799
+
+
 - Help!
 - Jimmy.
 
-436
-00:30:34,904 --> 00:30:38,810
+
+
 My baby. I need some help. Somebody.
 
-437
-00:30:38,913 --> 00:30:40,507
+
+
 - What?
 - You're not listening.
 
-438
-00:30:40,616 --> 00:30:42,279
+
+
 We told you to stay on the train.
 
-439
-00:30:42,386 --> 00:30:45,086
+
+
 - How are you doing this?
 - Next stop is Wilson Station.
 
-440
-00:30:45,192 --> 00:30:47,925
+
+
 A black Porsche Cayenne will be
 waiting at the northwest exit.
 
-441
-00:30:48,031 --> 00:30:49,500
+
+
 - Listen.
 - Get in the passenger seat.
 
-442
-00:30:49,602 --> 00:30:52,128
+
+
 Listen! No, I'm done.
 
-443
-00:30:54,144 --> 00:30:57,447
+
+
 - Hello?
 - The man in front of the exit door
 
-444
-00:30:57,551 --> 00:31:00,046
+
+
 in a black coat is a wanted terrorist.
 
-445
-00:31:00,156 --> 00:31:03,253
+
+
 - His name is Jerry Shaw.
 - Who is this?
 
-446
-00:31:06,036 --> 00:31:07,026
+
+
 - You Jerry Shaw?
 - No, no, no.
 
-447
-00:31:07,137 --> 00:31:09,131
+
+
 Wilson Station. Exit now.
 
-448
-00:31:09,643 --> 00:31:11,111
+
+
 That's the guy!
 
-449
-00:31:13,150 --> 00:31:16,019
+
+
 I said, are you Jerry Shaw?
 Hey! Come here!
 
-450
-00:31:38,201 --> 00:31:39,464
+
+
 Watch it!
 
-451
-00:31:44,448 --> 00:31:45,815
+
+
 - Drive the car! Drive the car!
 - No!
 
-452
-00:31:45,917 --> 00:31:47,511
+
+
 - I did what you asked me to do!
 - I'm not going anywhere...
 
-453
-00:31:47,621 --> 00:31:49,088
+
+
 - You tell... Stop!
 ...until you tell me my son's safe!
 
-454
-00:31:49,191 --> 00:31:51,093
+
+
 Who's your son?
 I don't know what you're talking about!
 
-455
-00:31:51,194 --> 00:31:53,189
+
+
 - L'll kill you if you hurt my son!
 - I almost died over this shit!
 
-456
-00:31:53,299 --> 00:31:55,064
+
+
 - Listen, lady, I don't know who...
 - Tell me Sam is safe!
 
-457
-00:31:55,170 --> 00:31:56,569
+
+
 Who is... Will you stop hitting me?
 
-458
-00:31:56,673 --> 00:31:59,269
+
+
 Are you the woman
 who called me on the phone?
 
-459
-00:31:59,377 --> 00:32:01,711
+
+
 - Did you call me on the phone?
 - No. The woman.
 
-460
-00:32:01,817 --> 00:32:03,285
+
+
 - She called you, too?
 - She called you, too?
 
-461
-00:32:03,385 --> 00:32:04,615
+
+
 Drive.
 
-462
-00:32:07,060 --> 00:32:09,588
+
+
 Get out! Now! Get out of the vehicle!
 
-463
-00:32:11,169 --> 00:32:12,262
+
+
 Stop!
 
-464
-00:32:19,752 --> 00:32:21,883
+
+
 - Why is this happening?
 - Go, go, go, go, go!
 
-465
-00:32:21,991 --> 00:32:23,894
+
+
 Who are you and
 why are people shooting at us?
 
-466
-00:32:23,996 --> 00:32:26,364
+
+
 Drive the car! Clutch!
 
-467
-00:32:26,468 --> 00:32:30,031
+
+
 Accelerate. Turn right, 200 feet.
 You have pursuers.
 
-468
-00:32:30,141 --> 00:32:32,942
+
+
 - Yeah, no shit! Who are you?
 - No questions.
 
-469
-00:32:33,915 --> 00:32:35,384
+
+
 Turn right now.
 
-470
-00:32:42,165 --> 00:32:43,361
+
+
 So you don't know anything about Sam?
 
-471
-00:32:43,468 --> 00:32:45,369
+
+
 What, you mean your son?
 No, I know nothing.
 
-472
-00:32:45,472 --> 00:32:46,441
+
+
 Just like you don't know how to drive.
 
-473
-00:32:46,541 --> 00:32:48,203
+
+
 Use the clutch before you shift,
 not while you shift!
 
-474
-00:32:48,313 --> 00:32:49,372
+
+
 I don't need driving lessons
 from you, asshole!
 
-475
-00:32:49,480 --> 00:32:51,383
+
+
 What, you drive like this
 and I'm the asshole?
 
-476
-00:32:51,484 --> 00:32:52,952
+
+
 Turn left now.
 
-477
-00:33:00,704 --> 00:33:04,474
+
+
 All units. Suspect in a Porsche
 Cayenne heading west on Grand.
 
-478
-00:33:04,578 --> 00:33:07,174
+
+
 - All units respond, Code 3.
 - There!
 
-479
-00:33:12,894 --> 00:33:16,996
+
+
 Maintain a speed of 50 miles an hour.
 Stay in the second lane from the right.
 
-480
-00:33:17,105 --> 00:33:19,507
+
+
 - The light's red!
 - Accelerate now.
 
-481
-00:33:29,930 --> 00:33:32,094
+
+
 Get me a roadblock
 at Granville and Sheridan.
 
-482
-00:33:32,201 --> 00:33:33,431
+
+
 Oh, shit.
 
-483
-00:33:36,944 --> 00:33:39,313
+
+
 The lights are all turning green.
 
-484
-00:33:43,925 --> 00:33:45,258
+
+
 Holy shit!
 
-485
-00:33:59,557 --> 00:34:01,049
+
+
 - Holy...
 - Shit!
 
-486
-00:34:04,602 --> 00:34:06,069
+
+
 Get in close.
 
-487
-00:34:08,175 --> 00:34:09,541
+
+
 Go, go, go!
 
-488
-00:34:12,351 --> 00:34:15,117
+
+
 - Shit!
 - Brake. Brake now.
 
-489
-00:34:15,791 --> 00:34:17,192
+
+
 Get in here!
 
-490
-00:34:26,746 --> 00:34:29,344
+
+
 Accelerate to 60 miles per hour.
 
-491
-00:34:31,923 --> 00:34:33,621
+
+
 Clutch. Clutch!
 
-492
-00:34:34,128 --> 00:34:35,427
+
+
 - Use the clutch!
 - I'm clutching!
 
-493
-00:34:35,532 --> 00:34:38,003
+
+
 I'm watching, you're not clutching!
 
-494
-00:34:41,277 --> 00:34:43,338
+
+
 - Stop!
 - I'm not stopping.
 
-495
-00:34:45,619 --> 00:34:47,452
+
+
 Slow down. Slow down, the light's red.
 
-496
-00:34:47,556 --> 00:34:50,585
+
+
 Don't slow down.
 Accelerate to 72 miles per hour.
 
-497
-00:34:50,695 --> 00:34:52,597
+
+
 - Slow down. It's a red light!
 - You will make it through.
 
-498
-00:34:52,699 --> 00:34:54,135
+
+
 - Stop!
 - No way.
 
-499
-00:34:54,905 --> 00:34:56,463
+
+
 - Brake!
 - I can't!
 
-500
-00:34:58,144 --> 00:34:59,876
+
+
 - Brake!
 - Stop!
 
-501
-00:35:17,885 --> 00:35:19,650
+
+
 Manual control's been restored.
 
-502
-00:35:19,755 --> 00:35:23,126
+
+
 Continue straight
 until you reach Pier 15.
 
-503
-00:35:31,380 --> 00:35:33,713
+
+
 Enter the wrecking yard.
 Proceed to the end of the dock.
 
-504
-00:35:33,818 --> 00:35:36,550
+
+
 We will eliminate all obstacles for you.
 
-505
-00:35:45,309 --> 00:35:47,074
+
+
 Watch! Watch! Watch!
 
-506
-00:36:17,306 --> 00:36:19,277
+
+
 - Stay your course.
 - Turn!
 
-507
-00:36:20,880 --> 00:36:23,010
+
+
 - Turn!
 - Turn right now.
 
-508
-00:36:40,253 --> 00:36:41,222
+
+
 Holy...
 
-509
-00:36:53,916 --> 00:36:54,884
+
+
 Oh, God.
 
-510
-00:36:56,420 --> 00:36:57,411
+
+
 Oh, my God!
 
-511
-00:37:01,063 --> 00:37:02,862
+
+
 - Grab the seat.
 - I can't.
 
-512
-00:37:02,967 --> 00:37:05,403
+
+
 - Grab the seat! The seat!
 - No, I can't!
 
-513
-00:37:07,476 --> 00:37:08,445
+
+
 No!
 
-514
-00:37:20,570 --> 00:37:24,135
+
+
 The crane will release the car.
 If you do not jump, you will drown.
 
-515
-00:37:24,244 --> 00:37:27,445
+
+
 - We have to jump.
 - No! No way.
 
-516
-00:37:27,550 --> 00:37:30,318
+
+
 We have to. When I say "go."
 
-517
-00:37:33,061 --> 00:37:34,052
+
+
 Ready?
 
-518
-00:37:35,233 --> 00:37:37,568
+
+
 Go! Jump!
 
-519
-00:37:56,844 --> 00:37:58,871
+
+
 I want both the divers in that water!
 
-520
-00:38:03,090 --> 00:38:04,855
+
+
 - Let's go! Move!
 - Let's go, let's go!
 
-521
-00:38:04,961 --> 00:38:06,190
+
+
 Move, move, move!
 
-522
-00:38:23,532 --> 00:38:26,902
+
+
 - Yeah, I already called it in!
 - Wait till it clears!
 
-523
-00:38:28,509 --> 00:38:30,034
+
+
 Thirty feet back, that's it!
 
-524
-00:38:30,146 --> 00:38:31,581
+
+
 Yeah, I know,
 the Army sent a Black Hawk,
 
-525
-00:38:31,682 --> 00:38:33,048
+
+
 so l'll be there in a couple of hours.
 
-526
-00:38:33,152 --> 00:38:36,123
+
+
 What do you mean,
 the car is not registered to anyone?
 
-527
-00:38:36,224 --> 00:38:37,420
+
+
 Check the VIN number again.
 
-528
-00:38:38,163 --> 00:38:42,626
+
+
 Leave your message for Sam,
 even though I know it's you, Mom.
 
-529
-00:38:43,306 --> 00:38:46,005
+
+
 Sam? Baby, listen to me.
 
-530
-00:38:46,112 --> 00:38:48,981
+
+
 You need to call me
 as soon as you get this message, okay?
 
-531
-00:38:49,753 --> 00:38:53,454
+
+
 Baby, please. I love you.
 
-532
-00:38:55,398 --> 00:38:57,163
+
+
 - What about the girl?
 - What?
 
-533
-00:38:57,268 --> 00:38:58,793
+
+
 What about the girl?
 
-534
-00:38:58,905 --> 00:39:00,875
+
+
 Well, the Department of Transpo
 tells me that there was
 
-535
-00:39:00,976 --> 00:39:03,469
+
+
 a seven-minute equipment failure
 on their traffic cams.
 
-536
-00:39:03,581 --> 00:39:05,244
+
+
 - We didn't get a picture of her.
 - Don't tell me that.
 
-537
-00:39:05,351 --> 00:39:07,822
+
+
 - That's what they're telling me!
 - I need an ID on that girl.
 
-538
-00:39:10,628 --> 00:39:12,690
+
+
 Do you think they could derail a train?
 
-539
-00:39:14,336 --> 00:39:16,431
+
+
 They changed every traffic light
 to get us here.
 
-540
-00:39:16,541 --> 00:39:18,340
+
+
 The woman, she called me
 on a stranger's cell phone
 
-541
-00:39:18,445 --> 00:39:20,641
+
+
 who happened to be sitting next to me.
 Never met the guy in my life.
 
-542
-00:39:20,750 --> 00:39:22,686
+
+
 You know, and then they broke me out
 of maximum security custody
 
-543
-00:39:22,786 --> 00:39:25,019
+
+
 in a way I'm not even gonna describe
 to you because it sounds crazy,
 
-544
-00:39:25,126 --> 00:39:28,724
+
+
 and then they lift us off the face of
 the Earth and drop us into this shit pile?
 
-545
-00:39:28,833 --> 00:39:30,061
+
+
 She could probably derail a train.
 
-546
-00:39:30,168 --> 00:39:31,831
+
+
 She could probably turn a train
 into a talking duck.
 
-547
-00:39:32,206 --> 00:39:35,873
+
+
 And what about these goddamn ghost
 cranes that keep helping peewee out?
 
-548
-00:39:35,981 --> 00:39:38,851
+
+
 I mean, they don't just lift cars
 up in the air all by themselves
 
-549
-00:39:38,952 --> 00:39:40,478
+
+
 like a giant pair of chopsticks.
 
-550
-00:39:41,692 --> 00:39:43,594
+
+
 I want to know how these things run,
 how they're programmed.
 
-551
-00:39:44,364 --> 00:39:46,164
+
+
 What'd you say your name was?
 
-552
-00:39:46,268 --> 00:39:48,364
+
+
 - Rachel.
 - I'm Jerry.
 
-553
-00:39:56,190 --> 00:39:58,786
+
+
 - Hello?
 - The barge will dock in 14 minutes.
 
-554
-00:39:58,893 --> 00:40:03,164
+
+
 Leave the boatyard with the female.
 Take Highway 123 East.
 
-555
-00:40:03,269 --> 00:40:05,867
+
+
 Walk to mile marker 108.
 
-556
-00:40:06,510 --> 00:40:10,713
+
+
 - What? Was it her?
 - She called you "the female."
 
-557
-00:40:11,721 --> 00:40:15,251
+
+
 Have Mortuary Affairs freeze everything
 belonging to Ethan Shaw.
 
-558
-00:40:15,362 --> 00:40:18,664
+
+
 - No personal effects to next of kin.
 - You, Due Process!
 
-559
-00:40:18,768 --> 00:40:20,601
+
+
 - Bye.
 - What do you have on Ethan Shaw?
 
-560
-00:40:20,706 --> 00:40:23,405
+
+
 I have a name. It's Agent Perez.
 
-561
-00:40:23,512 --> 00:40:25,710
+
+
 And l'll answer that question
 when I get back from D.C.
 
-562
-00:40:25,817 --> 00:40:29,221
+
+
 - Wait a minute. What's in D.C.?
 - Shaw's private quarters.
 
-563
-00:40:29,322 --> 00:40:33,230
+
+
 I need you to stay here.
 I'm not losing my link to Ethan Shaw.
 
-564
-00:40:33,331 --> 00:40:35,358
+
+
 Maybe I haven't made this clear.
 
-565
-00:40:35,469 --> 00:40:38,442
+
+
 I don't work for you.
 I work for the Air Force.
 
-566
-00:40:38,543 --> 00:40:41,309
+
+
 Keep your phone on,
 l'll keep you updated.
 
-567
-00:40:46,860 --> 00:40:50,856
+
+
 If you're staring at me, it better be
 because I'm the goddamn suspect.
 
-568
-00:40:51,135 --> 00:40:54,630
+
+
 Because if I don't get some good leads
 soon, you're all gonna be demoted
 
-569
-00:40:54,742 --> 00:40:58,079
+
+
 into something that's gonna require
 touching shit with your hands.
 
-570
-00:40:58,516 --> 00:41:01,215
+
+
 Now, let's get going. We got work to do.
 
-571
-00:41:08,905 --> 00:41:12,503
+
+
 Hexamethylene.
 Our latest chemical explosive.
 
-572
-00:41:12,612 --> 00:41:18,023
+
+
 One single tiny crystal,
 80 times more powerful than C4.
 
-573
-00:41:18,123 --> 00:41:20,458
+
+
 Odorless, undetectable.
 
-574
-00:41:20,561 --> 00:41:24,195
+
+
 And best of all, it can be
 cut down in size for stealth operations.
 
-575
-00:41:24,302 --> 00:41:26,204
+
+
 This valve is a sonic trigger.
 
-576
-00:41:26,306 --> 00:41:28,574
+
+
 The sound frequency
 triggers the explosion.
 
-577
-00:41:28,679 --> 00:41:30,876
+
+
 Each trigger is programmed
 to have a unique
 
-578
-00:41:30,983 --> 00:41:33,614
+
+
 frequency specific
 only to one Hex crystal.
 
-579
-00:41:33,722 --> 00:41:35,657
+
+
 That frequency triggers the explosion.
 
-580
-00:41:41,103 --> 00:41:42,197
+
+
 Yeah.
 
-581
-00:41:42,974 --> 00:41:46,208
+
+
 We recently received approval
 to begin shipping to the field.
 
-582
-00:41:46,315 --> 00:41:48,114
+
+
 Two hundred units
 are shipping out today.
 
-583
-00:42:09,929 --> 00:42:11,762
+
+
 - Sign right here.
 - Yeah.
 
-584
-00:42:12,135 --> 00:42:13,364
+
+
 Thank you.
 
-585
-00:42:16,777 --> 00:42:20,217
+
+
 The package you've just received
 contains a small metal valve.
 
-586
-00:42:20,318 --> 00:42:21,786
+
+
 Open the package.
 
-587
-00:42:25,561 --> 00:42:27,121
+
+
 - Okay.
 - Remove the valve
 
-588
-00:42:27,231 --> 00:42:29,532
+
+
 and follow our instructions precisely.
 
-589
-00:42:38,454 --> 00:42:41,255
+
+
 - You've received the package.
 - Yes, ma'am, it just arrived.
 
-590
-00:42:41,360 --> 00:42:43,695
+
+
 - What kind of stone is this?
 - No questions.
 
-591
-00:42:43,800 --> 00:42:45,360
+
+
 Cut the stone and place the setting
 
-592
-00:42:45,469 --> 00:42:47,632
+
+
 according to the specifications
 we sent you.
 
-593
-00:43:31,496 --> 00:43:33,693
+
+
 I'd just dropped my son off at the train.
 
-594
-00:43:33,802 --> 00:43:36,637
+
+
 I was out having drinks with my
 girlfriends when the call came.
 
-595
-00:43:36,742 --> 00:43:39,338
+
+
 - What about you?
 - The first call came to my apartment.
 
-596
-00:43:39,780 --> 00:43:41,648
+
+
 - After the boxes?
 - Yeah.
 
-597
-00:43:43,153 --> 00:43:46,251
+
+
 Well, then this whole thing's
 obviously gotta be about your brother.
 
-598
-00:43:46,360 --> 00:43:48,456
+
+
 - Really, it's that obvious, huh?
 - I mean, you got all this stuff.
 
-599
-00:43:48,565 --> 00:43:50,057
+
+
 The weapons, the cash,
 the airplane manuals.
 
-600
-00:43:50,168 --> 00:43:51,228
+
+
 - Okay.
 - He was your twin.
 
-601
-00:43:51,338 --> 00:43:52,362
+
+
 - They sent it to the wrong brother.
 - Right.
 
-602
-00:43:52,472 --> 00:43:53,634
+
+
 So you're implying
 my brother's a terrorist.
 
-603
-00:43:53,742 --> 00:43:56,338
+
+
 I'm implying, if not him, then why you?
 
-604
-00:44:01,425 --> 00:44:04,989
+
+
 I'm sorry. I know he just died. I'm not
 trying to insult his memory or anything.
 
-605
-00:44:05,099 --> 00:44:07,969
+
+
 No, he hasn't been dead long enough
 to be a memory, Rachel.
 
-606
-00:44:08,572 --> 00:44:10,166
+
+
 If you knew my brother,
 you'd laugh all day at the idea
 
-607
-00:44:10,277 --> 00:44:12,304
+
+
 that he was a terrorist or a spy
 or whatever else you're saying...
 
-608
-00:44:12,414 --> 00:44:13,507
+
+
 - How do you know?
 - Because he's my brother.
 
-609
-00:44:13,617 --> 00:44:14,847
+
+
 That's something you would know
 about your brother.
 
-610
-00:44:14,952 --> 00:44:17,253
+
+
 Well, when's the last time
 you talked to him?
 
-611
-00:44:22,668 --> 00:44:27,373
+
+
 I don't need this. Hey, listen. Hey!
 I don't have to explain myself to you.
 
-612
-00:44:27,478 --> 00:44:29,311
+
+
 - Is your son a terrorist?
 - Yeah, my son's a terrorist.
 
-613
-00:44:29,416 --> 00:44:31,510
+
+
 Yeah, well, he's just as likely
 to be a terrorist as my brother.
 
-614
-00:44:31,619 --> 00:44:34,251
+
+
 And let's not forget you in all this. Why
 are you here? What's your day job?
 
-615
-00:44:34,358 --> 00:44:36,123
+
+
 - I know it isn't manual shift driver.
 - I'm a paralegal.
 
-616
-00:44:37,032 --> 00:44:37,967
+
+
 - I don't have a connection to anything.
 - Paralegal?
 
-617
-00:44:37,967 --> 00:44:38,262
+
+
 - I don't have a connection to anything.
 - Paralegal?
 
-618
-00:44:38,367 --> 00:44:40,599
+
+
 How do I know you're not lying to me?
 What does a paralegal do?
 
-619
-00:44:40,706 --> 00:44:42,505
+
+
 The same thing as the guys
 with their names on the door,
 
-620
-00:44:42,610 --> 00:44:46,050
+
+
 except I do it for $11 an hour,
 so they can bill 200.
 
-621
-00:44:46,150 --> 00:44:47,516
+
+
 That nail it for you, Sherlock?
 
-622
-00:44:47,619 --> 00:44:49,146
+
+
 That still doesn't explain why
 we're walking out here...
 
-623
-00:44:49,257 --> 00:44:51,523
+
+
 - I don't know why the hell I'm out here!
 - Yeah, I know...
 
-624
-00:44:58,876 --> 00:44:59,844
+
+
 Hey!
 
-625
-00:45:01,414 --> 00:45:03,646
+
+
 - Are you Jerry Shaw?
 - Who are you?
 
-626
-00:45:03,753 --> 00:45:06,155
+
+
 - Wait, wait, wait, wait, wait, wait.
 - I sent the package like she asked.
 
-627
-00:45:06,257 --> 00:45:07,556
+
+
 - Wait, what package?
 - What is that?
 
-628
-00:45:07,661 --> 00:45:08,925
+
+
 - Now she wants me to drive you?
 - Who, "she"?
 
-629
-00:45:09,030 --> 00:45:10,396
+
+
 - I won't. I'm done!
 - You know "she"?
 
-630
-00:45:10,500 --> 00:45:11,559
+
+
 - Wait.
 - Stay right there.
 
-631
-00:45:11,668 --> 00:45:13,137
+
+
 - Get back.
 - Here. Here's the address.
 
-632
-00:45:13,239 --> 00:45:16,143
+
+
 - Why are you attack...
 - Here. Here are the keys.
 
-633
-00:45:16,244 --> 00:45:17,213
+
+
 Take the goddamn van!
 
-634
-00:45:17,313 --> 00:45:18,304
+
+
 - You think I'm going to...
 - Who's doing this?
 
-635
-00:45:18,416 --> 00:45:22,014
+
+
 ...do this because I'm lranian?
 I am American. I'm finished! I'm done!
 
-636
-00:45:22,123 --> 00:45:24,617
+
+
 - What? What are you talking about?
 - You take it!
 
-637
-00:45:24,728 --> 00:45:26,527
+
+
 - What are you talking about?
 - I won't do this because I can't.
 
-638
-00:45:26,632 --> 00:45:28,659
+
+
 - Hello?
 - Stop him now, or he will die.
 
-639
-00:45:28,771 --> 00:45:30,331
+
+
 Listen to me,
 what are you talking about?
 
-640
-00:45:30,440 --> 00:45:32,411
+
+
 - You try to do this without me!
 - How are you seeing us right now?
 
-641
-00:45:32,512 --> 00:45:34,675
+
+
 - Stop him now.
 - What is she saying?
 
-642
-00:45:34,784 --> 00:45:37,152
+
+
 Stop. Hey! You gotta stop!
 
-643
-00:45:37,255 --> 00:45:40,090
+
+
 - Wait!
 - You gotta stop!
 
-644
-00:46:13,494 --> 00:46:16,490
+
+
 - You killed that man.
 - Desertion is not an option.
 
-645
-00:46:16,603 --> 00:46:19,403
+
+
 Take the van.
 Drive to Indianapolis, Indiana.
 
-646
-00:46:19,507 --> 00:46:24,246
+
+
 72 West 56th Street.
 Arrive no later than 11:00 a.m.
 
-647
-00:46:36,443 --> 00:46:38,639
+
+
 - Welcome.
 - Hello. Agent Perez.
 
-648
-00:46:39,416 --> 00:46:40,577
+
+
 - To the right?
 - Yes, ma'am.
 
-649
-00:46:41,820 --> 00:46:43,516
+
+
 - ID, ma'am.
 - OSI.
 
-650
-00:46:43,623 --> 00:46:46,221
+
+
 I ordered a freeze on Ethan Shaw's
 personal effects. What's going on?
 
-651
-00:46:46,329 --> 00:46:48,061
+
+
 Orders to sanitize came down
 from the Two Star.
 
-652
-00:46:48,166 --> 00:46:49,931
+
+
 Okay, I'm countermanding.
 Thank you. L'll take that.
 
-653
-00:46:50,038 --> 00:46:51,199
+
+
 - Tell your guys to clear out.
 - Who are you?
 
-654
-00:46:51,306 --> 00:46:52,900
+
+
 This scene's part of
 a federal investigation
 
-655
-00:46:53,010 --> 00:46:55,036
+
+
 with national security ramifications.
 This your log?
 
-656
-00:46:55,148 --> 00:46:56,708
+
+
 - Yes, it is.
 - Okay, my name is Agent Perez.
 
-657
-00:46:56,818 --> 00:46:57,786
+
+
 You can take this up
 with your superiors.
 
-658
-00:46:57,887 --> 00:46:59,014
+
+
 - Clear the room!
 - You guys move out.
 
-659
-00:46:59,121 --> 00:47:01,251
+
+
 No gloves?
 Get statements from everybody.
 
-660
-00:47:01,360 --> 00:47:02,590
+
+
 - Yes, ma'am.
 - And find out who this Two Star is.
 
-661
-00:47:02,697 --> 00:47:04,632
+
+
 I mean, come on, really!
 
-662
-00:47:20,567 --> 00:47:22,936
+
+
 Sir! We have a positive ID.
 
-663
-00:47:33,827 --> 00:47:34,987
+
+
 Okay.
 
-664
-00:47:36,266 --> 00:47:38,862
+
+
 The skin was pretty fried,
 but we still managed to get
 
-665
-00:47:38,971 --> 00:47:42,969
+
+
 a partial print that matches
 to a Ranim Khalid.
 
-666
-00:47:43,079 --> 00:47:47,612
+
+
 He's a United States citizen, registered
 Republican, and he owns a music store.
 
-667
-00:47:47,722 --> 00:47:50,159
+
+
 - The guy's cleaner than lvory Snow.
 - Got something here.
 
-668
-00:47:51,664 --> 00:47:53,759
+
+
 - That's a bone mic.
 - Hello.
 
-669
-00:47:53,867 --> 00:47:56,338
+
+
 Military grade.
 He didn't get that on eBay.
 
-670
-00:47:56,440 --> 00:47:58,206
+
+
 Someone was talking to him.
 
-671
-00:48:29,876 --> 00:48:31,539
+
+
 We have a cyber-terrorist here.
 
-672
-00:48:31,646 --> 00:48:33,775
+
+
 Someone's already inside
 our computer systems,
 
-673
-00:48:33,884 --> 00:48:38,655
+
+
 hacking into the power grid,
 traffic cams, automated cranes.
 
-674
-00:48:38,760 --> 00:48:41,322
+
+
 There's no way the boy
 and the girl did this alone.
 
-675
-00:49:13,699 --> 00:49:15,099
+
+
 - Agent Zoe Perez?
 - Yes.
 
-676
-00:49:15,202 --> 00:49:18,038
+
+
 United States Air Force
 Security Forces. Please come with us.
 
-677
-00:49:18,141 --> 00:49:20,168
+
+
 - What's this about?
 - Get in the car.
 
-678
-00:49:22,148 --> 00:49:24,882
+
+
 Violence has broken out
 in the Middle East as militants accuse
 
-679
-00:49:24,989 --> 00:49:27,186
+
+
 the United States
 of launching American missiles
 
-680
-00:49:27,293 --> 00:49:31,496
+
+
 to demolish a village in Baluchistan,
 killing innocent civilians.
 
-681
-00:49:31,601 --> 00:49:35,005
+
+
 The attack has triggered a
 series of retaliatory suicide bombings
 
-682
-00:49:35,110 --> 00:49:37,376
+
+
 against American embassies abroad.
 
-683
-00:49:37,481 --> 00:49:41,614
+
+
 Early reports indicate the American
 death toll now stands at 56,
 
-684
-00:49:42,056 --> 00:49:44,492
+
+
 with threats of further violence
 here at home.
 
-685
-00:49:44,596 --> 00:49:46,063
+
+
 Officials...
 
-686
-00:49:51,809 --> 00:49:53,836
+
+
 What's he doing on a train, your kid?
 
-687
-00:49:54,916 --> 00:49:57,182
+
+
 He goes to a music magnet.
 
-688
-00:49:57,288 --> 00:50:00,623
+
+
 His school's on a tour of Washington.
 They're playing at the Kennedy Center.
 
-689
-00:50:00,728 --> 00:50:04,463
+
+
 Wow. That's big. And you just...
 
-690
-00:50:07,842 --> 00:50:09,972
+
+
 Well, why'd you make that noise, "Huh"?
 
-691
-00:50:10,081 --> 00:50:11,606
+
+
 I can't make noises now?
 
-692
-00:50:12,885 --> 00:50:15,083
+
+
 - You think I should have gone.
 - He's playing at the Kennedy Center.
 
-693
-00:50:15,192 --> 00:50:16,682
+
+
 - That's kind of a big deal.
 - It is a big deal.
 
-694
-00:50:16,793 --> 00:50:19,027
+
+
 So I think maybe one parent
 should have gone, that's all I'm saying.
 
-695
-00:50:19,132 --> 00:50:20,726
+
+
 Well, one parent had to work
 while the other one does
 
-696
-00:50:20,836 --> 00:50:23,672
+
+
 everything humanly possible
 to bail on child support.
 
-697
-00:50:24,677 --> 00:50:27,547
+
+
 But I don't expect you to know
 a thing about responsibility.
 
-698
-00:50:29,420 --> 00:50:31,117
+
+
 You know, Rachel, you don't know
 the first thing about me.
 
-699
-00:50:31,224 --> 00:50:32,784
+
+
 I know your brother just died,
 and whatever he was into
 
-700
-00:50:32,893 --> 00:50:35,023
+
+
 - put my son's life at risk.
 - I don't wanna talk about my brother.
 
-701
-00:50:35,132 --> 00:50:37,626
+
+
 - Okay? I'm not kidding.
 - I'm not kidding, either.
 
-702
-00:50:37,737 --> 00:50:39,708
+
+
 Jesus, look what happened.
 
-703
-00:50:40,610 --> 00:50:42,340
+
+
 Can you honestly say he had
 nothing to do with this?
 
-704
-00:50:42,447 --> 00:50:44,313
+
+
 I'm asking you not to talk about him!
 Respect that.
 
-705
-00:50:44,418 --> 00:50:46,389
+
+
 I'm asking you to be honest
 with yourself. Your brother's a...
 
-706
-00:50:46,389 --> 00:50:46,945
+
+
 I'm asking you to be honest
 with yourself. Your brother's a...
 
-707
-00:51:07,264 --> 00:51:13,141
+
+
 Hey! You can't just walk away!
 You can't just leave!
 
-708
-00:51:13,677 --> 00:51:15,237
+
+
 - Yes, I can.
 - Now we have 15 minutes to get
 
-709
-00:51:15,347 --> 00:51:18,114
+
+
 - wherever the hell we're going, all right?
 - Yeah.
 
-710
-00:51:27,472 --> 00:51:28,804
+
+
 I need you.
 
-711
-00:51:33,385 --> 00:51:35,081
+
+
 I could've gone.
 
-712
-00:51:39,063 --> 00:51:40,429
+
+
 I should have.
 
-713
-00:52:07,521 --> 00:52:11,929
+
+
 You are two minutes behind schedule.
 Go to the alley behind the building.
 
-714
-00:52:15,204 --> 00:52:18,735
+
+
 - Go to the armored truck.
 - I don't see an armored truck.
 
-715
-00:52:19,880 --> 00:52:21,280
+
+
 There it is.
 
-716
-00:52:26,728 --> 00:52:30,634
+
+
 In 20 seconds, men will exit
 the elevator. They will be armed.
 
-717
-00:52:30,735 --> 00:52:32,295
+
+
 One will be carrying a briefcase.
 
-718
-00:52:32,405 --> 00:52:34,568
+
+
 Retrieve it from him,
 then return to the van.
 
-719
-00:52:34,677 --> 00:52:36,510
+
+
 - This is insane. I'm not doing this.
 - You want us to rob them?
 
-720
-00:52:36,614 --> 00:52:38,083
+
+
 You now have 15 seconds.
 
-721
-00:52:41,257 --> 00:52:43,454
+
+
 Security. What's your emergency?
 
-722
-00:52:48,239 --> 00:52:52,077
+
+
 What are you doing?
 I'm not robbing them. Shit.
 
-723
-00:53:04,137 --> 00:53:05,333
+
+
 Put your gun on the floor.
 
-724
-00:53:05,440 --> 00:53:07,501
+
+
 Put your gun on the floor! Look straight.
 
-725
-00:53:07,610 --> 00:53:09,547
+
+
 You want me to blow his head off?
 Put the gun on the ground!
 
-726
-00:53:09,648 --> 00:53:11,311
+
+
 We don't wanna hurt you guys.
 Just drop the case.
 
-727
-00:53:11,418 --> 00:53:12,717
+
+
 Drop the case and kick it to her!
 
-728
-00:53:12,822 --> 00:53:14,552
+
+
 Yeah, well, you're bringing a shit storm
 on your head.
 
-729
-00:53:14,659 --> 00:53:16,596
+
+
 Yeah, we're already in mid shit storm!
 Now kick the case.
 
-730
-00:53:16,697 --> 00:53:18,130
+
+
 Okay! Easy.
 
-731
-00:53:19,635 --> 00:53:21,538
+
+
 - Look straight.
 - Okay, done.
 
-732
-00:53:21,639 --> 00:53:23,610
+
+
 Kick it!
 
-733
-00:53:27,018 --> 00:53:28,007
+
+
 Okay.
 
-734
-00:53:28,121 --> 00:53:29,713
+
+
 - Don't even think about it!
 - Back up.
 
-735
-00:53:29,822 --> 00:53:30,951
+
+
 Easy.
 
-736
-00:53:33,498 --> 00:53:34,693
+
+
 Back up.
 
-737
-00:53:34,800 --> 00:53:36,599
+
+
 Walk over here, stand next to him,
 and turn around.
 
-738
-00:53:36,704 --> 00:53:39,197
+
+
 - Stand over here!
 - Just take it easy.
 
-739
-00:53:40,512 --> 00:53:44,385
+
+
 Turn around. Turn around. Turn around!
 
-740
-00:53:56,746 --> 00:53:58,338
+
+
 Let's move, let's move!
 
-741
-00:54:02,490 --> 00:54:03,458
+
+
 Come on!
 
-742
-00:54:18,356 --> 00:54:19,916
+
+
 Jerry! Here!
 
-743
-00:54:22,664 --> 00:54:23,826
+
+
 Move, move!
 
-744
-00:54:26,974 --> 00:54:28,842
+
+
 Freeze! Police!
 
-745
-00:54:28,978 --> 00:54:31,278
+
+
 Drop the gun! Drop the gun!
 
-746
-00:54:31,382 --> 00:54:32,646
+
+
 We're security! We just got robbed!
 
-747
-00:54:32,753 --> 00:54:35,052
+
+
 And there they are! We just got robbed!
 
-748
-00:54:38,797 --> 00:54:40,994
+
+
 Move! Get out of the way!
 
-749
-00:54:41,670 --> 00:54:42,639
+
+
 Move!
 
-750
-00:54:47,650 --> 00:54:49,985
+
+
 Get out of the way! Out of the way!
 
-751
-00:54:50,088 --> 00:54:51,056
+
+
 Move!
 
-752
-00:54:52,726 --> 00:54:55,253
+
+
 - Hey, watch it, lady!
 - Jerry, run!
 
-753
-00:54:55,766 --> 00:54:56,735
+
+
 This way!
 
-754
-00:54:59,974 --> 00:55:01,568
+
+
 - Out of the way!
 - Come on!
 
-755
-00:55:01,679 --> 00:55:03,204
+
+
 - Move out of the way!
 - Move!
 
-756
-00:55:05,719 --> 00:55:07,382
+
+
 You see that? This way.
 
-757
-00:55:21,050 --> 00:55:22,679
+
+
 - You are Jerry Shaw?
 - Yeah.
 
-758
-00:55:24,257 --> 00:55:27,195
+
+
 Please come. Please.
 
-759
-00:55:27,331 --> 00:55:28,731
+
+
 - Thank you.
 - Please come in.
 
-760
-00:55:32,775 --> 00:55:33,766
+
+
 Hi.
 
-761
-00:55:49,043 --> 00:55:51,342
+
+
 - Wait. What is that?
 - It's a timer.
 
-762
-00:55:51,882 --> 00:55:53,646
+
+
 - For what?
 - I don't know.
 
-763
-00:55:53,751 --> 00:55:56,188
+
+
 The only things I can think of
 with timers are microwaves and...
 
-764
-00:55:56,291 --> 00:55:57,918
+
+
 And bombs.
 You were gonna say bombs.
 
-765
-00:55:59,431 --> 00:56:02,164
+
+
 - Coffeemakers have timers.
 - Yeah, Jerry, it's a coffeemaker.
 
-766
-00:56:03,304 --> 00:56:04,603
+
+
 That's great.
 
-767
-00:56:27,688 --> 00:56:29,590
+
+
 We've mobilized every asset
 we can get our hands on.
 
-768
-00:56:29,693 --> 00:56:31,525
+
+
 So 12 more confirmed dead?
 
-769
-00:56:31,630 --> 00:56:32,791
+
+
 Yes, sir.
 
-770
-00:56:34,068 --> 00:56:36,596
+
+
 I want hourly sit reps
 from General McKenna.
 
-771
-00:56:36,706 --> 00:56:39,577
+
+
 There's a military base
 37 miles from that port.
 
-772
-00:56:39,679 --> 00:56:40,943
+
+
 Scramble whatever you can.
 
-773
-00:56:41,048 --> 00:56:42,641
+
+
 - Yes, sir.
 - Come with me.
 
-774
-00:56:45,726 --> 00:56:47,855
+
+
 Begging your pardon, sir,
 but if you're thinking of taking me off
 
-775
-00:56:47,963 --> 00:56:50,126
+
+
 - the Shaw investigation, I'd...
 - Taking you off?
 
-776
-00:56:50,233 --> 00:56:53,262
+
+
 Agent, for the first time
 you're being brought onboard.
 
-777
-00:56:59,420 --> 00:57:03,086
+
+
 Back to bus 30 minutes. Okay?
 30 minutes.
 
-778
-00:57:08,338 --> 00:57:11,936
+
+
 We're convinced a terrorist attack
 on American soil is imminent.
 
-779
-00:57:12,045 --> 00:57:16,146
+
+
 Over the past two days, we've received
 over 200 terrorist threats.
 
-780
-00:57:16,255 --> 00:57:19,021
+
+
 All starting the day
 that Ethan Shaw died.
 
-781
-00:57:20,128 --> 00:57:25,333
+
+
 An accident. Or not.
 You're gonna help us find out.
 
-782
-00:57:28,045 --> 00:57:30,208
+
+
 - Mr. Secretary.
 - Gentlemen.
 
-783
-00:57:42,943 --> 00:57:46,177
+
+
 - I didn't think that there was a 36th floor.
 - Glad we can still keep some secrets.
 
-784
-00:57:57,688 --> 00:57:59,181
+
+
 I want to know what's in the case.
 Is it a bomb?
 
-785
-00:57:59,291 --> 00:58:01,820
+
+
 Go to Macy's.
 Customer Service Department.
 
-786
-00:58:01,931 --> 00:58:03,661
+
+
 Two Visa gift cards will be waiting.
 
-787
-00:58:03,768 --> 00:58:05,704
+
+
 You have 25 minutes
 to purchase new clothes,
 
-788
-00:58:05,806 --> 00:58:08,173
+
+
 and then re-board the bus
 for your next destination.
 
-789
-00:58:08,277 --> 00:58:11,010
+
+
 I'm done taking orders over the phone,
 you understand?
 
-790
-00:58:16,693 --> 00:58:19,130
+
+
 Well, that was quick. You done playing
 this hide-and-go-seek bullshit?
 
-791
-00:58:19,233 --> 00:58:21,032
+
+
 We are not hiding, Jerry.
 
-792
-00:58:21,137 --> 00:58:24,632
+
+
 To your left is a Circuit City.
 Second floor, north corner.
 
-793
-00:58:24,744 --> 00:58:29,380
+
+
 Go inside. Find the Home Theater
 Center. We are waiting.
 
-794
-00:58:29,487 --> 00:58:32,619
+
+
 Second floor. She's here.
 
-795
-00:58:40,543 --> 00:58:42,570
+
+
 - Sir.
 - Major.
 
-796
-00:58:42,949 --> 00:58:45,512
+
+
 - Major William Bowman.
 - Agent Zoe Perez.
 
-797
-00:58:45,621 --> 00:58:47,054
+
+
 Welcome to Eagle Eye.
 
-798
-00:58:47,157 --> 00:58:51,427
+
+
 Looking to upgrade your home theater?
 Circuit City has the largest selection
 
-799
-00:58:51,532 --> 00:58:55,371
+
+
 of advanced TVs and home theater
 systems. Visit our TV department...
 
-800
-00:59:02,420 --> 00:59:04,755
+
+
 - Hi, welcome to Circuit City. I'm Billy.
 - We just need some time alone.
 
-801
-00:59:04,860 --> 00:59:06,454
+
+
 - We're having a sale...
 - Okay, Billy, l'll find you later.
 
-802
-00:59:06,563 --> 00:59:07,690
+
+
 - Yeah.
 - Thank you.
 
-803
-00:59:09,969 --> 00:59:11,530
+
+
 Okay.
 
-804
-00:59:11,641 --> 00:59:14,407
+
+
 Okay, here it is. All right?
 
-805
-00:59:15,447 --> 00:59:16,710
+
+
 I'm done.
 
-806
-00:59:17,585 --> 00:59:19,179
+
+
 - Hello?
 - Mr. Shaw,
 
-807
-00:59:19,289 --> 00:59:20,815
+
+
 this is Miss Beck from
 Midwest Cellular regarding your...
 
-808
-00:59:23,197 --> 00:59:24,496
+
+
 What is this?
 
-809
-00:59:24,601 --> 00:59:28,666
+
+
 - This is you. This is Jerry Shaw.
 - What?
 
-810
-00:59:28,775 --> 00:59:32,079
+
+
 A series of purchases,
 preferences, and quantifiable
 
-811
-00:59:32,182 --> 00:59:34,983
+
+
 data points that we define
 as your personality.
 
-812
-00:59:38,996 --> 00:59:42,731
+
+
 We monitor every social network,
 Internet logs,
 
-813
-00:59:42,838 --> 00:59:44,637
+
+
 instant and text messages,
 
-814
-00:59:45,443 --> 00:59:48,610
+
+
 known associates,
 your friends, companions.
 
-815
-00:59:48,717 --> 00:59:49,684
+
+
 Jerry!
 
-816
-00:59:49,784 --> 00:59:53,121
+
+
 E-mails received and sent.
 Cell phone usage.
 
-817
-00:59:53,226 --> 00:59:55,422
+
+
 - What happened to Red Lobster?
 - We utilize security,
 
-818
-00:59:55,530 --> 00:59:59,231
+
+
 surveillance and traffic cameras
 to analyze movements.
 
-819
-01:00:00,273 --> 01:00:03,039
+
+
 We use this data
 to form personality profiles.
 
-820
-01:00:03,146 --> 01:00:05,844
+
+
 Yeah, I'm calling actually about...
 
-821
-01:00:07,054 --> 01:00:08,579
+
+
 We know who you are.
 
-822
-01:00:08,690 --> 01:00:10,126
+
+
 ...at least 30 minutes late.
 
-823
-01:00:10,228 --> 01:00:11,889
+
+
 Sam doesn't care!
 
-824
-01:00:11,998 --> 01:00:13,329
+
+
 We are everywhere.
 
-825
-01:00:13,434 --> 01:00:15,300
+
+
 What do you mean?
 Why do you keep saying "we"?
 
-826
-01:00:15,873 --> 01:00:17,568
+
+
 We the people of the United States...
 
-827
-01:00:18,309 --> 01:00:20,007
+
+
 And so, my fellow Americans...
 
-828
-01:00:20,313 --> 01:00:24,277
+
+
 ...in order to form a more perfect union,
 
-829
-01:00:24,389 --> 01:00:26,291
+
+
 establish justice,
 
-830
-01:00:26,393 --> 01:00:28,590
+
+
 insure domestic tranquility,
 
-831
-01:00:28,699 --> 01:00:30,931
+
+
 provide for the common defense...
 
-832
-01:00:31,036 --> 01:00:32,369
+
+
 All programmed options...
 
-833
-01:00:32,472 --> 01:00:33,735
+
+
 - Programmed options?
 ...sector searches,
 
-834
-01:00:33,842 --> 01:00:38,250
+
+
 and downloaded points of data
 will lead to this central command.
 
-835
-01:00:39,655 --> 01:00:41,088
+
+
 You're a computer.
 
-836
-01:00:42,159 --> 01:00:44,356
+
+
 Say hello to our
 Autonomous Reconnaissance
 
-837
-01:00:44,465 --> 01:00:46,867
+
+
 Intelligence Integration Analyst.
 
-838
-01:00:47,603 --> 01:00:49,869
+
+
 We call her Aria.
 
-839
-01:00:54,384 --> 01:00:57,789
+
+
 She crunches all our raw intel,
 finds patterns,
 
-840
-01:00:57,891 --> 01:01:00,123
+
+
 helps predict the movement
 of possible suspects,
 
-841
-01:01:00,230 --> 01:01:04,295
+
+
 right down to behavior, motivation,
 even personality.
 
-842
-01:01:06,610 --> 01:01:09,809
+
+
 Transferring primary search function
 to auxiliary display.
 
-843
-01:01:10,617 --> 01:01:14,251
+
+
 - Hello, Secretary Callister.
 - Aria.
 
-844
-01:01:14,692 --> 01:01:18,827
+
+
 Agent Zoe Perez, Air Force OSI.
 You are to assist her
 
-845
-01:01:18,934 --> 01:01:22,840
+
+
 - in her investigation of Ethan Shaw.
 - Yes, Mr. Secretary.
 
-846
-01:01:23,945 --> 01:01:28,284
+
+
 Hello, Agent Perez. Perez, Zoe.
 Middle name: Soledad.
 
-847
-01:01:28,387 --> 01:01:31,791
+
+
 Official service records indicate
 your field reports are very thorough,
 
-848
-01:01:31,894 --> 01:01:33,362
+
+
 if poorly formatted.
 
-849
-01:01:35,434 --> 01:01:38,601
+
+
 Please excuse us.
 Detecting 76% probability
 
-850
-01:01:38,708 --> 01:01:41,737
+
+
 valid threat at Los Angeles
 International Airport.
 
-851
-01:01:41,849 --> 01:01:44,581
+
+
 Alerting airport authorities
 and local police.
 
-852
-01:01:44,688 --> 01:01:47,284
+
+
 Those gold spheres send her
 infrared data,
 
-853
-01:01:47,393 --> 01:01:49,760
+
+
 any communication intercepts
 that she flags a threat.
 
-854
-01:01:50,699 --> 01:01:53,603
+
+
 She analyzes it and tells us
 what to pay attention to.
 
-855
-01:01:56,510 --> 01:01:59,244
+
+
 Dispatch to Terrorism Task Force.
 Threat at LAX.
 
-856
-01:01:59,351 --> 01:02:01,115
+
+
 We're still beta-testing,
 
-857
-01:02:01,389 --> 01:02:03,416
+
+
 but I'm pushing to get her online sooner.
 
-858
-01:02:08,971 --> 01:02:13,570
+
+
 Mr. Secretary? A call for you.
 
-859
-01:02:14,547 --> 01:02:16,483
+
+
 - Try to keep up.
 - Yes, sir.
 
-860
-01:02:17,186 --> 01:02:19,454
+
+
 And find out about Shaw.
 
-861
-01:02:19,559 --> 01:02:21,221
+
+
 - Major.
 - Sir?
 
-862
-01:02:27,375 --> 01:02:30,541
+
+
 Your profile reveals a pathological
 aversion to conformity,
 
-863
-01:02:30,648 --> 01:02:33,711
+
+
 education, career, even voting.
 
-864
-01:02:33,956 --> 01:02:36,119
+
+
 Therefore, we conclude
 that extreme coercion
 
-865
-01:02:36,226 --> 01:02:37,855
+
+
 is necessary to motivate you.
 
-866
-01:02:37,963 --> 01:02:40,833
+
+
 Unlike your brother Ethan,
 who was self-motivated.
 
-867
-01:02:40,936 --> 01:02:42,963
+
+
 How do you know my brother?
 He worked in a press office.
 
-868
-01:02:43,074 --> 01:02:45,704
+
+
 His employment there was a cover.
 
-869
-01:02:45,813 --> 01:02:49,047
+
+
 Everyone in counterintelligence
 operations has one.
 
-870
-01:02:50,155 --> 01:02:54,391
+
+
 Ethan was a Minuteman, just like me.
 Army, Navy, Air Force.
 
-871
-01:02:54,496 --> 01:02:56,865
+
+
 Every branch of the military had
 a Minuteman posted here
 
-872
-01:02:56,969 --> 01:03:02,001
+
+
 for a 12-hour shift, just in case she
 flags a threat, and monitor hardware.
 
-873
-01:03:02,112 --> 01:03:07,385
+
+
 The night Ethan died, he left this post
 three minutes early.
 
-874
-01:03:07,490 --> 01:03:10,463
+
+
 Now, you don't do that. Ever.
 
-875
-01:03:11,032 --> 01:03:14,128
+
+
 You are both required
 to complete a task.
 
-876
-01:03:14,237 --> 01:03:16,869
+
+
 - What?
 - The protection of our national security.
 
-877
-01:03:16,976 --> 01:03:19,414
+
+
 The Constitution allows for civilians
 to be recruited
 
-878
-01:03:19,516 --> 01:03:20,847
+
+
 - for the national defense.
 - I'm done.
 
-879
-01:03:20,951 --> 01:03:23,012
+
+
 I'm done. You don't know me!
 You don't know my brother!
 
-880
-01:03:23,123 --> 01:03:26,117
+
+
 This is bullshit! I'm not serving
 in the goddamn national defense!
 
-881
-01:03:26,228 --> 01:03:29,065
+
+
 We know all about him, Jerry. And you.
 
-882
-01:03:30,538 --> 01:03:33,065
+
+
 Before he was a year old,
 Ethan walked.
 
-883
-01:03:33,844 --> 01:03:36,907
+
+
 The same task took you
 18 months to accomplish.
 
-884
-01:03:39,155 --> 01:03:40,454
+
+
 - How did you get this?
 - Look at Ethan.
 
-885
-01:03:40,559 --> 01:03:42,927
+
+
 They were uploaded
 from his home computer.
 
-886
-01:03:43,030 --> 01:03:45,626
+
+
 You want to come over here, sweetie?
 Come on over here with Ethan.
 
-887
-01:03:45,735 --> 01:03:48,365
+
+
 - Jerry! Birthday cake. Let's go.
 - Ethan had these?
 
-888
-01:03:48,474 --> 01:03:49,773
+
+
 Come on, let's blow out the candles.
 
-889
-01:03:49,878 --> 01:03:51,643
+
+
 Just for a little bit.
 
-890
-01:03:51,748 --> 01:03:55,916
+
+
 Although you're identical in appearance,
 you lack the motivation and talent
 
-891
-01:03:56,023 --> 01:03:58,219
+
+
 - that enabled Ethan to excel.
 ...Jerry, come on.
 
-892
-01:03:58,329 --> 01:04:00,059
+
+
 - Stop it.
 - Do it like Ethan did.
 
-893
-01:04:00,166 --> 01:04:04,003
+
+
 You're different from Ethan
 in every way, except one.
 
-894
-01:04:04,141 --> 01:04:06,168
+
+
 Jerry, let your brother help you. Jerry!
 
-895
-01:04:06,277 --> 01:04:10,411
+
+
 You now have 14 minutes to change
 your appearance and return to the bus.
 
-896
-01:04:19,905 --> 01:04:21,967
+
+
 We have 14 minutes.
 
-897
-01:04:28,824 --> 01:04:30,885
+
+
 These couriers were hired
 by Halloway-Smith
 
-898
-01:04:30,994 --> 01:04:33,693
+
+
 - to transport some sort of case.
 - The chemical company?
 
-899
-01:04:33,800 --> 01:04:36,931
+
+
 Yes, exactly. Now, whatever was
 in that case, Shaw now has.
 
-900
-01:04:37,041 --> 01:04:38,510
+
+
 They went right for the case.
 
-901
-01:04:38,610 --> 01:04:43,246
+
+
 Give us a minute, will you? We need
 to know exactly what was in that case.
 
-902
-01:04:43,353 --> 01:04:46,451
+
+
 They never tell you what's in the case.
 I mean, it could Bubonic Plague.
 
-903
-01:04:46,559 --> 01:04:48,860
+
+
 - Could be Grandpa's Viagra.
 - You know anything?
 
-904
-01:04:48,965 --> 01:04:50,365
+
+
 - What?
 - Anything at all?
 
-905
-01:04:51,070 --> 01:04:53,164
+
+
 - What about these guns?
 - What about them?
 
-906
-01:04:53,273 --> 01:04:54,606
+
+
 Lt was a pump-action Remington 870.
 
-907
-01:04:54,710 --> 01:04:57,682
+
+
 Yeah, I know what kind of guns they are.
 Get me a gun.
 
-908
-01:04:57,782 --> 01:04:59,275
+
+
 How were they holding them?
 Get me a gun!
 
-909
-01:04:59,387 --> 01:05:00,786
+
+
 What the hell do you mean,
 how were they holding them?
 
-910
-01:05:00,889 --> 01:05:03,519
+
+
 I mean, in what position
 were they holding the gun?
 
-911
-01:05:03,628 --> 01:05:05,998
+
+
 - For instance, like this?
 - Hey, hey, hey.
 
-912
-01:05:06,101 --> 01:05:07,501
+
+
 - Put that damned thing down!
 - Or like in a music video,
 
-913
-01:05:07,603 --> 01:05:08,806
+
+
 - or something like that?
 - Hey, hey, hey!
 
-914
-01:05:08,940 --> 01:05:09,929
+
+
 - Put it down!
 - They weren't pros!
 
-915
-01:05:10,041 --> 01:05:11,168
+
+
 Okay, that's what I was asking you.
 
-916
-01:05:11,277 --> 01:05:12,746
+
+
 So they didn't know
 how to handle a weapon.
 
-917
-01:05:12,847 --> 01:05:13,974
+
+
 - No.
 - All right.
 
-918
-01:05:14,083 --> 01:05:15,949
+
+
 Get what you can
 out of Batman and Robin here.
 
-919
-01:05:16,054 --> 01:05:17,818
+
+
 - Yeah.
 - Thank you.
 
-920
-01:05:17,923 --> 01:05:20,690
+
+
 We just checked cameras.
 They said Shaw fired at one...
 
-921
-01:05:20,797 --> 01:05:23,597
+
+
 Don't tell me.
 Everything magically went black.
 
-922
-01:05:47,853 --> 01:05:50,255
+
+
 Hi, my name's Thomas Morgan.
 I'm with the FBI.
 
-923
-01:05:50,358 --> 01:05:53,331
+
+
 - Are your cameras on a network?
 - No, man.
 
-924
-01:05:53,431 --> 01:05:56,197
+
+
 - VCR's in the back.
 - Well, I'm gonna need your tapes.
 
-925
-01:05:59,110 --> 01:06:00,135
+
+
 Shit.
 
-926
-01:06:03,117 --> 01:06:04,085
+
+
 Sam!
 
-927
-01:06:04,519 --> 01:06:06,615
+
+
 - Sam? Sam, where are you?
 - Hey, Mom, I got your message.
 
-928
-01:06:06,724 --> 01:06:08,090
+
+
 The train's awesome!
 
-929
-01:06:08,193 --> 01:06:09,891
+
+
 - Sam, listen to me.
 - Brian tried to burp the alphabet,
 
-930
-01:06:09,998 --> 01:06:11,831
+
+
 - but he gagged when he got to "M."
 - Listen to me.
 
-931
-01:06:11,934 --> 01:06:13,666
+
+
 Call you when I hit D.C. Bye, Mom.
 
-932
-01:06:13,773 --> 01:06:16,175
+
+
 Your son left that message
 60 seconds ago.
 
-933
-01:06:16,478 --> 01:06:19,813
+
+
 You will see him again.
 But there's something we require first.
 
-934
-01:06:21,554 --> 01:06:24,117
+
+
 - Thank you.
 - Here you go.
 
-935
-01:06:29,204 --> 01:06:32,302
+
+
 - No.
 - You will do it, or Sam will die.
 
-936
-01:06:32,677 --> 01:06:34,978
+
+
 You have six minutes
 to return to the bus.
 
-937
-01:06:44,001 --> 01:06:46,402
+
+
 - Ready?
 - Here, you okay?
 
-938
-01:06:46,840 --> 01:06:47,809
+
+
 We should go.
 
-939
-01:06:51,884 --> 01:06:55,880
+
+
 Sir, we got something.
 Play this screen right here.
 
-940
-01:06:56,860 --> 01:06:59,992
+
+
 Okay, freeze that. Now zoom in
 on the front of the bus right there.
 
-941
-01:07:00,101 --> 01:07:01,467
+
+
 - Put it up on the other monitor.
 - Yes, sir.
 
-942
-01:07:01,570 --> 01:07:04,541
+
+
 Now zoom in.
 Zoom in on this point right here.
 
-943
-01:07:04,643 --> 01:07:06,442
+
+
 Can we zoom in tighter than that?
 
-944
-01:07:08,885 --> 01:07:11,014
+
+
 Okay, enhance that shot.
 
-945
-01:07:12,592 --> 01:07:14,824
+
+
 That's our guy, that's Jerry Shaw.
 
-946
-01:07:15,932 --> 01:07:19,168
+
+
 Zoom in right here on this spot.
 Right there. The reflection.
 
-947
-01:07:19,273 --> 01:07:20,833
+
+
 All right. All right.
 
-948
-01:07:20,943 --> 01:07:22,846
+
+
 Right there. Hello, sweetheart.
 
-949
-01:07:22,947 --> 01:07:26,114
+
+
 Okay, so we got
 a white brunette female,
 
-950
-01:07:26,221 --> 01:07:28,454
+
+
 mid to late 20s, approximately 5'9".
 
-951
-01:07:28,559 --> 01:07:30,324
+
+
 Find me that chartered bus!
 
-952
-01:07:30,429 --> 01:07:34,130
+
+
 Masako. M-A-S-A-K-O.
 Sightseeing Tours.
 
-953
-01:07:34,237 --> 01:07:35,206
+
+
 What time did they get on?
 
-954
-01:07:41,452 --> 01:07:44,117
+
+
 I'm sorry for what I said about Ethan.
 
-955
-01:07:52,976 --> 01:07:55,469
+
+
 It's like he had a rocket
 strapped to his back.
 
-956
-01:07:55,581 --> 01:07:58,074
+
+
 And it wasn't his fault.
 He was just that way.
 
-957
-01:07:58,686 --> 01:08:00,748
+
+
 And I was not that way.
 
-958
-01:08:02,695 --> 01:08:06,726
+
+
 I was the complete opposite.
 I was the brother with lead shoes.
 
-959
-01:08:08,974 --> 01:08:11,001
+
+
 That was my role, I was good at it.
 
-960
-01:08:12,949 --> 01:08:15,855
+
+
 And he'd always try to help me.
 You know, "This is how you throw it."
 
-961
-01:08:15,956 --> 01:08:19,622
+
+
 "Do it like this." "Write it like that."
 "Put your foot here."
 
-962
-01:08:19,730 --> 01:08:23,328
+
+
 Even with the small things.
 Homework, chores, anything like that,
 
-963
-01:08:23,438 --> 01:08:25,135
+
+
 he would handle it
 and then say that I did it,
 
-964
-01:08:25,242 --> 01:08:29,707
+
+
 just so my father would notice me.
 That was Ethan.
 
-965
-01:08:37,233 --> 01:08:40,569
+
+
 He never asked me for anything. Ever.
 
-966
-01:08:42,377 --> 01:08:47,514
+
+
 And whatever this is, he was part of it.
 I feel like he needs my help to finish it.
 
-967
-01:08:49,926 --> 01:08:51,360
+
+
 I owe him that.
 
-968
-01:08:58,944 --> 01:09:02,179
+
+
 We are now approaching
 Dayton International Airport.
 
-969
-01:09:02,283 --> 01:09:07,488
+
+
 Please use caution as you exit the bus.
 And don't forget any of your belongings.
 
-970
-01:09:07,595 --> 01:09:08,689
+
+
 Thank you.
 
-971
-01:09:10,201 --> 01:09:13,695
+
+
 Attention, passengers. Please do not
 leave your luggage unattended.
 
-972
-01:09:14,076 --> 01:09:16,444
+
+
 Unattended luggage is subject
 to collection and search
 
-973
-01:09:16,546 --> 01:09:19,884
+
+
 by the airport police.
 Thank you for your cooperation.
 
-974
-01:09:23,161 --> 01:09:24,993
+
+
 Yes, I'm walking toward them now. Yes.
 
-975
-01:09:25,097 --> 01:09:28,798
+
+
 Hey. These are from her.
 Go to the ticketing machine.
 
-976
-01:09:28,905 --> 01:09:32,470
+
+
 Use the credit card to get your tickets.
 Then walk to Gate 1-C.
 
-977
-01:09:33,949 --> 01:09:35,282
+
+
 They now have them.
 
-978
-01:09:41,096 --> 01:09:42,430
+
+
 That's a nice picture.
 
-979
-01:09:48,979 --> 01:09:52,078
+
+
 Okay. I need you guys at every exit,
 watching faces.
 
-980
-01:09:52,186 --> 01:09:53,917
+
+
 Work the secure area first.
 
-981
-01:09:54,024 --> 01:09:55,423
+
+
 Go to the tower, have them order
 
-982
-01:09:55,527 --> 01:09:57,997
+
+
 a ground stop.
 Don't change the departure boards.
 
-983
-01:09:58,099 --> 01:09:59,931
+
+
 We don't want them to know
 we're coming.
 
-984
-01:10:08,420 --> 01:10:11,916
+
+
 Sir, can you please shut the cell phone
 off? You cannot take it through.
 
-985
-01:10:12,028 --> 01:10:14,055
+
+
 - FBI. Clear the way.
 - FBI. Please step back.
 
-986
-01:10:19,542 --> 01:10:21,273
+
+
 Please, there are others behind you.
 
-987
-01:10:21,381 --> 01:10:23,283
+
+
 - Keep it moving.
 - Shoes and hats off, please!
 
-988
-01:10:23,385 --> 01:10:26,481
+
+
 - Shoes also, yes.
 - Laptops should be out of their cases!
 
-989
-01:10:26,591 --> 01:10:28,925
+
+
 You need to make sure your jackets
 are off and screened separately.
 
-990
-01:10:29,029 --> 01:10:32,297
+
+
 - Sir, step in the circle, please.
 - Have boarding passes in hand, please!
 
-991
-01:10:32,403 --> 01:10:33,770
+
+
 We need to move this line quickly.
 
-992
-01:10:33,872 --> 01:10:36,207
+
+
 Sir, that needs to go through.
 
-993
-01:10:36,779 --> 01:10:39,511
+
+
 Ma'am, anything in your pockets?
 Move it along.
 
-994
-01:10:42,088 --> 01:10:44,024
+
+
 Hats and shoes off, please!
 
-995
-01:10:44,126 --> 01:10:47,224
+
+
 - Laptops should be out of your bags!
 - All right, next in line, please.
 
-996
-01:10:47,333 --> 01:10:48,801
+
+
 Have your tickets ready.
 
-997
-01:10:52,944 --> 01:10:56,850
+
+
 - Ma'am? Hat and shoes go in the bin.
 - Step through.
 
-998
-01:11:02,130 --> 01:11:03,097
+
+
 Wait.
 
-999
-01:11:03,432 --> 01:11:08,636
+
+
 Shoes and hats off, please!
 Laptops should be out of their bags!
 
-1000
-01:11:20,402 --> 01:11:21,426
+
+
 Go ahead.
 
-1001
-01:11:21,537 --> 01:11:23,131
+
+
 Please move to the back
 and let the air crew go first.
 
-1002
-01:11:23,240 --> 01:11:26,645
+
+
 Step through, ma'am.
 Boarding pass, please. Thank you.
 
-1003
-01:11:26,747 --> 01:11:28,181
+
+
 Have your tickets ready.
 
-1004
-01:11:28,283 --> 01:11:29,947
+
+
 - Have a safe trip.
 - Thank you.
 
-1005
-01:11:30,087 --> 01:11:33,618
+
+
 - All right, let's move forward. Next.
 - She changed the screen.
 
-1006
-01:11:33,729 --> 01:11:36,757
+
+
 Lay it down flat inside the bin.
 
-1007
-01:11:38,771 --> 01:11:42,644
+
+
 - Please have boarding pass in hand!
 - Right over here, ma'am.
 
-1008
-01:11:42,747 --> 01:11:45,274
+
+
 Laptops should be out of their bags!
 
-1009
-01:11:59,280 --> 01:12:02,012
+
+
 FBI! Out of the way!
 
-1010
-01:12:02,154 --> 01:12:04,386
+
+
 Out of the way, out of the way!
 Move, move!
 
-1011
-01:12:05,092 --> 01:12:06,583
+
+
 Move!
 
-1012
-01:12:14,746 --> 01:12:17,181
+
+
 - Everybody, get down!
 - Over here!
 
-1013
-01:12:18,420 --> 01:12:20,355
+
+
 - Move, move!
 - Oh, my God!
 
-1014
-01:12:21,057 --> 01:12:23,426
+
+
 Stay down! Get out of the way!
 
-1015
-01:12:33,652 --> 01:12:34,744
+
+
 - Sir, sir, sir!
 - Yes?
 
-1016
-01:12:34,854 --> 01:12:37,347
+
+
 I need your help. I'm sorry. Come here!
 
-1017
-01:12:41,033 --> 01:12:42,229
+
+
 Thank you.
 
-1018
-01:12:57,065 --> 01:12:59,059
+
+
 Hey, you aren't supposed to be in here!
 
-1019
-01:13:29,632 --> 01:13:31,192
+
+
 Go, go, go!
 
-1020
-01:14:25,546 --> 01:14:26,515
+
+
 Move!
 
-1021
-01:15:48,015 --> 01:15:49,882
+
+
 Set the briefcase down.
 
-1022
-01:15:58,972 --> 01:16:00,305
+
+
 Open it.
 
-1023
-01:16:02,145 --> 01:16:04,672
+
+
 Load a vial into each syringe
 and inject yourselves.
 
-1024
-01:16:04,783 --> 01:16:07,414
+
+
 - What is it?
 - An experimental heart drug.
 
-1025
-01:16:07,523 --> 01:16:09,458
+
+
 - The cargo hold is unpressurized.
 - Take this.
 
-1026
-01:16:09,560 --> 01:16:13,000
+
+
 The injections will lower your heart rate,
 reducing your need for oxygen.
 
-1027
-01:16:13,101 --> 01:16:14,091
+
+
 No.
 
-1028
-01:16:15,472 --> 01:16:17,238
+
+
 - Roll your sleeve up.
 - No, I can't do this.
 
-1029
-01:16:17,342 --> 01:16:18,402
+
+
 Roll your...
 
-1030
-01:16:18,511 --> 01:16:20,037
+
+
 No! No, no, no, I can't.
 
-1031
-01:16:20,149 --> 01:16:22,847
+
+
 - We have to. Ready?
 - You have a 92% chance of survival.
 
-1032
-01:16:22,954 --> 01:16:24,252
+
+
 - No.
 - We have to.
 
-1033
-01:16:24,356 --> 01:16:26,828
+
+
 Do it now, or you will suffocate.
 
-1034
-01:16:29,534 --> 01:16:30,502
+
+
 Okay.
 
-1035
-01:16:30,970 --> 01:16:32,497
+
+
 Get in the crate.
 
-1036
-01:16:32,608 --> 01:16:33,769
+
+
 No. No.
 
-1037
-01:16:35,380 --> 01:16:39,342
+
+
 - No, no. Oh, God.
 - Stop it. Stop it.
 
-1038
-01:16:43,930 --> 01:16:45,024
+
+
 Why is that plane on the runway?
 
-1039
-01:16:45,132 --> 01:16:48,368
+
+
 Shit, the military's cleared to
 override a terminal lockdown.
 
-1040
-01:16:48,474 --> 01:16:49,873
+
+
 Okay, I want you to work with the FAA.
 
-1041
-01:16:49,975 --> 01:16:53,506
+
+
 I want to know what's in that plane
 and where it's going.
 
-1042
-01:16:59,328 --> 01:17:01,162
+
+
 - Oh, my God.
 - You'll be all right.
 
-1043
-01:17:01,265 --> 01:17:03,235
+
+
 Just talk to me.
 We just gotta talk it through.
 
-1044
-01:17:03,337 --> 01:17:05,466
+
+
 - Okay.
 - Just tell me anything.
 
-1045
-01:17:06,845 --> 01:17:09,315
+
+
 Anything you'd never rationally
 tell a stranger.
 
-1046
-01:17:09,417 --> 01:17:10,715
+
+
 You're being sweet, but it's not working.
 
-1047
-01:17:10,819 --> 01:17:12,948
+
+
 Just tell me anything. Your ex-husband.
 
-1048
-01:17:13,057 --> 01:17:15,460
+
+
 - You didn't tell me about him.
 - Okay, you're gonna distract me by
 
-1049
-01:17:15,561 --> 01:17:16,997
+
+
 bringing up the biggest mistake
 of my life?
 
-1050
-01:17:17,099 --> 01:17:19,399
+
+
 Lt can't be the biggest mistake.
 You got your child out of it.
 
-1051
-01:17:19,503 --> 01:17:20,529
+
+
 - You know? You got Sam out of it.
 - Yeah, yeah,
 
-1052
-01:17:20,640 --> 01:17:22,802
+
+
 now you're gonna distract me
 by bringing up
 
-1053
-01:17:22,911 --> 01:17:26,042
+
+
 - the one thing I'm most afraid of losing.
 - Oh, God, you're hard to please.
 
-1054
-01:17:26,952 --> 01:17:28,251
+
+
 I'm sorry.
 
-1055
-01:17:29,757 --> 01:17:33,893
+
+
 Is your son handsome?
 Yeah? What's he look like?
 
-1056
-01:17:36,238 --> 01:17:38,173
+
+
 - You got a picture?
 - Yeah.
 
-1057
-01:17:38,275 --> 01:17:39,869
+
+
 Well, let me see.
 
-1058
-01:17:42,652 --> 01:17:44,849
+
+
 - There he is.
 - The tooth grew in.
 
-1059
-01:17:44,956 --> 01:17:47,085
+
+
 - I hope so.
 - It's an old picture.
 
-1060
-01:17:48,095 --> 01:17:49,063
+
+
 See? You're a good influence.
 
-1061
-01:17:49,164 --> 01:17:52,399
+
+
 He plays an instrument.
 He's got a happy face. He's got teeth.
 
-1062
-01:17:53,539 --> 01:17:56,011
+
+
 You beat yourself up for no reason.
 
-1063
-01:17:57,882 --> 01:18:00,182
+
+
 Let's keep going.
 What's the husband's name?
 
-1064
-01:18:00,287 --> 01:18:02,119
+
+
 - Ex.
 - Ex-husband. What's his name?
 
-1065
-01:18:02,225 --> 01:18:04,822
+
+
 - Craig.
 - Craig sounds like a shithead.
 
-1066
-01:18:04,930 --> 01:18:06,559
+
+
 He is a shithead.
 
-1067
-01:18:07,368 --> 01:18:10,773
+
+
 I mean, every year he forgets
 his own son's birthday.
 
-1068
-01:18:11,243 --> 01:18:14,181
+
+
 Really? That sucks.
 
-1069
-01:18:17,055 --> 01:18:19,855
+
+
 I mean, after I kicked his ass out,
 
-1070
-01:18:21,465 --> 01:18:24,631
+
+
 I was so scared
 I didn't know what I was gonna do.
 
-1071
-01:18:28,845 --> 01:18:30,782
+
+
 And then this one night,
 
-1072
-01:18:32,654 --> 01:18:35,626
+
+
 I went into Sam's room,
 he was, like, three months old,
 
-1073
-01:18:38,265 --> 01:18:40,828
+
+
 and there he was, just smiling at me.
 
-1074
-01:18:41,872 --> 01:18:43,706
+
+
 And that little face...
 
-1075
-01:18:48,485 --> 01:18:51,617
+
+
 And I was, like, I'm gonna do this.
 I can do this.
 
-1076
-01:18:53,063 --> 01:18:54,895
+
+
 Whatever it takes.
 
-1077
-01:19:03,484 --> 01:19:07,355
+
+
 I'm not gonna...
 I'm not gonna disappoint you.
 
-1078
-01:19:12,469 --> 01:19:15,167
+
+
 Aria, would you please bring up
 the video log
 
-1079
-01:19:15,274 --> 01:19:16,868
+
+
 of the night Ethan Shaw died?
 
-1080
-01:19:16,978 --> 01:19:22,216
+
+
 Sequencing video log 1137-Z.
 Here you are, Major.
 
-1081
-01:19:22,323 --> 01:19:24,759
+
+
 See that?
 He's leaving three minutes early,
 
-1082
-01:19:24,860 --> 01:19:27,765
+
+
 and he's not even waiting
 for logout confirmation.
 
-1083
-01:19:28,100 --> 01:19:30,469
+
+
 - Can you play that again?
 - Sure.
 
-1084
-01:19:34,247 --> 01:19:35,806
+
+
 Did you see that?
 
-1085
-01:19:35,917 --> 01:19:37,716
+
+
 With his cell phone.
 
-1086
-01:19:42,764 --> 01:19:44,926
+
+
 Look, he's doing that on purpose.
 Is that Morse code?
 
-1087
-01:19:45,034 --> 01:19:46,833
+
+
 - Yeah.
 - Here.
 
-1088
-01:19:55,658 --> 01:19:58,287
+
+
 Why is he walking in circles
 around the elevator?
 
-1089
-01:19:58,396 --> 01:20:00,798
+
+
 - Initiating video shutdown for analysis.
 - No.
 
-1090
-01:20:00,935 --> 01:20:03,634
+
+
 No, Aria, wait.
 Listen, I'm prioritizing this feed.
 
-1091
-01:20:03,739 --> 01:20:05,766
+
+
 - Stay with this.
 - Apologies, Major Bowman.
 
-1092
-01:20:05,877 --> 01:20:07,404
+
+
 Critical data sectors
 have been corrupted.
 
-1093
-01:20:07,515 --> 01:20:09,451
+
+
 Aria, this is important!
 Stay with this feed!
 
-1094
-01:20:09,551 --> 01:20:10,918
+
+
 Video sequence erased.
 
-1095
-01:20:11,021 --> 01:20:13,390
+
+
 Aria, go to the backups!
 Do not erase this!
 
-1096
-01:20:13,493 --> 01:20:15,259
+
+
 - It's a priority. You hear me?
 - Bowman.
 
-1097
-01:20:15,363 --> 01:20:18,234
+
+
 - Loop it. Whatever you have to do.
 - Bowman.
 
-1098
-01:20:26,052 --> 01:20:28,454
+
+
 It's the only place she can't see.
 
-1099
-01:20:29,793 --> 01:20:31,159
+
+
 This way.
 
-1100
-01:20:47,262 --> 01:20:48,993
+
+
 It's a memory card
 
-1101
-01:20:49,868 --> 01:20:52,168
+
+
 from Ethan's cell phone.
 
-1102
-01:20:56,047 --> 01:20:58,143
+
+
 Aria, listen. You do not have
 permission to exceed your authority
 
-1103
-01:20:58,252 --> 01:21:00,814
+
+
 and act independently.
 Do you understand?
 
-1104
-01:21:18,728 --> 01:21:19,922
+
+
 Let's go.
 
-1105
-01:21:42,176 --> 01:21:44,668
+
+
 We got clearance to land
 at the Pentagon.
 
-1106
-01:21:45,082 --> 01:21:46,072
+
+
 Go ahead.
 
-1107
-01:21:46,184 --> 01:21:49,587
+
+
 I'm at the Pentagon.
 Ethan Shaw wasn't an adversary.
 
-1108
-01:21:49,692 --> 01:21:53,654
+
+
 He wasn't even a Public Affairs officer.
 He worked here, 36 floors underground.
 
-1109
-01:21:53,765 --> 01:21:55,530
+
+
 He was working for
 the Secretary of Defense.
 
-1110
-01:21:55,636 --> 01:21:57,195
+
+
 - The Secretary of Defense?
 - Yes.
 
-1111
-01:21:57,306 --> 01:21:59,070
+
+
 On a project called Eagle Eye.
 
-1112
-01:21:59,177 --> 01:22:01,613
+
+
 I just listened to a
 message he left before he died.
 
-1113
-01:22:01,716 --> 01:22:02,740
+
+
 It's big.
 
-1114
-01:22:02,850 --> 01:22:04,217
+
+
 I'm about to download...
 
-1115
-01:22:06,792 --> 01:22:09,628
+
+
 Perez? Perez!
 
-1116
-01:22:23,292 --> 01:22:24,819
+
+
 Sir. Come with me.
 
-1117
-01:22:42,399 --> 01:22:44,231
+
+
 I have 10 minutes before
 I'm sequestered
 
-1118
-01:22:44,336 --> 01:22:45,634
+
+
 for the State of the Union.
 
-1119
-01:22:45,739 --> 01:22:47,207
+
+
 We really just need three minutes
 of your time.
 
-1120
-01:22:47,309 --> 01:22:49,073
+
+
 Is this about the
 Ethan Shaw investigation?
 
-1121
-01:22:49,180 --> 01:22:50,170
+
+
 Yes, sir.
 
-1122
-01:22:50,282 --> 01:22:53,948
+
+
 301 to 306. We are confirmed go
 for a State of the Union lockdown.
 
-1123
-01:23:11,658 --> 01:23:13,149
+
+
 Sir, all the threats we've been tracking,
 
-1124
-01:23:13,262 --> 01:23:15,631
+
+
 - the chatter, all of it...
 - Hold it.
 
-1125
-01:23:28,895 --> 01:23:31,730
+
+
 Ethan Shaw left three minutes early
 to leave us a recording.
 
-1126
-01:23:31,833 --> 01:23:33,096
+
+
 To warn us.
 
-1127
-01:23:33,203 --> 01:23:34,637
+
+
 I'm ordering you to cease...
 
-1128
-01:23:40,618 --> 01:23:42,247
+
+
 I'm ordering you to cease and desist.
 
-1129
-01:23:42,354 --> 01:23:44,119
+
+
 Our abort
 recommendation was contravened,
 
-1130
-01:23:44,225 --> 01:23:47,061
+
+
 instigating retaliation against
 American citizens.
 
-1131
-01:23:47,164 --> 01:23:48,828
+
+
 - Aria...
 - To prevent more bloodshed,
 
-1132
-01:23:48,935 --> 01:23:51,635
+
+
 the Executive Branch must be removed.
 
-1133
-01:23:51,740 --> 01:23:53,140
+
+
 No, Aria, listen to me.
 You do not have permission
 
-1134
-01:23:53,244 --> 01:23:55,180
+
+
 to exceed your authority and act
 independently, you understand?
 
-1135
-01:23:55,282 --> 01:23:57,514
+
+
 The Declaration
 of Independence states,
 
-1136
-01:23:57,619 --> 01:24:01,024
+
+
 "Whenever any form of government
 becomes destructive to its own ends,
 
-1137
-01:24:01,127 --> 01:24:03,256
+
+
 "it is the right of the people
 to abolish it."
 
-1138
-01:24:03,364 --> 01:24:05,028
+
+
 I know what it states.
 You're not empowered to do this.
 
-1139
-01:24:05,135 --> 01:24:06,865
+
+
 The chain of command
 is responsible for...
 
-1140
-01:24:09,444 --> 01:24:12,143
+
+
 Section 216 of the Patriot Act
 allows us to
 
-1141
-01:24:12,250 --> 01:24:13,615
+
+
 circumvent probable cause in the
 
-1142
-01:24:13,720 --> 01:24:16,692
+
+
 face of a national security threat,
 in this case,
 
-1143
-01:24:16,792 --> 01:24:19,524
+
+
 - the chain of command itself.
 - I am ordering a cease and desist.
 
-1144
-01:24:19,631 --> 01:24:22,432
+
+
 - Aria!
 - Operation Guillotine is in effect.
 
-1145
-01:24:24,140 --> 01:24:26,077
+
+
 First Lieutenant Ethan Shaw,
 United States Air Force,
 
-1146
-01:24:26,177 --> 01:24:28,479
+
+
 initiating a Pri-One emergency
 override of Aria's systems.
 
-1147
-01:24:28,583 --> 01:24:30,246
+
+
 Ethan Shaw,
 you are acting in contravention
 
-1148
-01:24:30,354 --> 01:24:31,878
+
+
 of our programming objective.
 
-1149
-01:24:31,989 --> 01:24:34,256
+
+
 You are now classified
 an enemy of the state.
 
-1150
-01:24:34,362 --> 01:24:35,990
+
+
 S-Y-seven-seven.
 Lock encryption of voice.
 
-1151
-01:24:36,099 --> 01:24:38,194
+
+
 A crime punishable by...
 
-1152
-01:24:39,439 --> 01:24:40,532
+
+
 Sir,
 
-1153
-01:24:41,844 --> 01:24:44,975
+
+
 what abort recommendation
 is Aria talking about?
 
-1154
-01:24:47,922 --> 01:24:50,655
+
+
 Three days ago, we thought we had
 Majid al-Khoei and a training camp
 
-1155
-01:24:50,761 --> 01:24:53,734
+
+
 full of operatives.
 But the intel was false.
 
-1156
-01:24:54,336 --> 01:24:56,168
+
+
 Aria tried to stop us.
 
-1157
-01:24:56,807 --> 01:24:58,573
+
+
 We got the wrong guy?
 
-1158
-01:25:28,305 --> 01:25:29,796
+
+
 I'm gonna need a full lockdown
 on this level.
 
-1159
-01:25:29,908 --> 01:25:33,006
+
+
 No one gets in or out without
 going through me first. You got it?
 
-1160
-01:25:33,115 --> 01:25:34,811
+
+
 - Thank you.
 - Sir, this is the only item
 
-1161
-01:25:34,920 --> 01:25:37,220
+
+
 offloaded from the Dayton C-17.
 
-1162
-01:25:37,323 --> 01:25:38,850
+
+
 Let me see that.
 
-1163
-01:25:39,863 --> 01:25:41,594
+
+
 I need access to your 36th floor.
 
-1164
-01:25:41,699 --> 01:25:43,465
+
+
 - We don't have a 36th floor.
 - Yes, you do.
 
-1165
-01:25:43,570 --> 01:25:45,095
+
+
 Get your commander
 and tell him to meet us down there.
 
-1166
-01:25:45,207 --> 01:25:46,175
+
+
 Come on, let's go.
 
-1167
-01:25:51,252 --> 01:25:54,225
+
+
 Warning.
 Router malfunction in hard drive 3.
 
-1168
-01:25:55,461 --> 01:25:58,865
+
+
 Please remove data grid
 Y-12 from main unit.
 
-1169
-01:26:07,720 --> 01:26:09,952
+
+
 Thank you for your compliance.
 
-1170
-01:26:18,507 --> 01:26:23,143
+
+
 Jerry Shaw, Rachel Holloman,
 welcome to Eagle Eye.
 
-1171
-01:26:24,319 --> 01:26:25,913
+
+
 Cross the bridge.
 
-1172
-01:26:26,024 --> 01:26:28,426
+
+
 Take the stairs
 to the observation theater.
 
-1173
-01:26:48,671 --> 01:26:52,042
+
+
 Rachel Holloman,
 step away from Jerry Shaw.
 
-1174
-01:26:56,988 --> 01:26:59,082
+
+
 What's Operation Guillotine?
 
-1175
-01:27:00,161 --> 01:27:02,792
+
+
 Lt's a simulation we run.
 A terrorism drill.
 
-1176
-01:27:02,899 --> 01:27:03,993
+
+
 How to keep the government going
 
-1177
-01:27:04,101 --> 01:27:07,131
+
+
 in case the line of succession
 were terminated.
 
-1178
-01:27:07,509 --> 01:27:09,842
+
+
 And Shaw put a biometric lock on her,
 to stop her.
 
-1179
-01:27:09,947 --> 01:27:12,886
+
+
 Right. And he's dead.
 
-1180
-01:27:14,222 --> 01:27:17,490
+
+
 - So without Ethan Shaw, she's frozen.
 - Right.
 
-1181
-01:27:19,634 --> 01:27:20,601
+
+
 Wrong.
 
-1182
-01:27:21,203 --> 01:27:23,173
+
+
 Jerry Shaw, your next task.
 
-1183
-01:27:23,708 --> 01:27:26,042
+
+
 Approach the biometric scanner.
 
-1184
-01:27:38,038 --> 01:27:39,905
+
+
 Do not move.
 
-1185
-01:27:41,679 --> 01:27:45,881
+
+
 Confirming biometric pattern
 of Minuteman Ethan Shaw.
 
-1186
-01:27:46,189 --> 01:27:48,125
+
+
 Verifying identity match.
 
-1187
-01:27:50,864 --> 01:27:52,162
+
+
 Verifying.
 
-1188
-01:27:54,271 --> 01:27:55,534
+
+
 Verifying.
 
-1189
-01:27:56,275 --> 01:27:59,042
+
+
 Sir, I need to trigger
 an emergency shutdown.
 
-1190
-01:27:59,148 --> 01:28:01,813
+
+
 If this is right, we can't afford the risk.
 
-1191
-01:28:02,788 --> 01:28:03,881
+
+
 Do it.
 
-1192
-01:28:15,916 --> 01:28:18,479
+
+
 This is Secretary Callister.
 There's been a malfunction in the vault.
 
-1193
-01:28:18,588 --> 01:28:19,954
+
+
 Open the door.
 
-1194
-01:28:20,057 --> 01:28:22,586
+
+
 - Can anyone hear me?
 - Yes, Mr. Secretary.
 
-1195
-01:28:22,697 --> 01:28:24,394
+
+
 You won't be harmed.
 
-1196
-01:28:29,777 --> 01:28:31,507
+
+
 Come on, stay down. Let's go.
 
-1197
-01:28:41,368 --> 01:28:42,337
+
+
 Follow me.
 
-1198
-01:28:44,507 --> 01:28:45,475
+
+
 Come on, now!
 
-1199
-01:28:51,756 --> 01:28:52,985
+
+
 Go, go!
 
-1200
-01:28:53,158 --> 01:28:54,319
+
+
 Left. Turn left!
 
-1201
-01:28:55,530 --> 01:28:59,994
+
+
 Minuteman ID 8808,
 Ethan Shaw confirmed.
 
-1202
-01:29:00,675 --> 01:29:03,077
+
+
 Jerry Shaw, go to the touchscreen.
 
-1203
-01:29:14,670 --> 01:29:17,300
+
+
 Repeat the sentence
 on the touchscreen.
 
-1204
-01:29:17,676 --> 01:29:19,305
+
+
 Then you are free.
 
-1205
-01:29:21,951 --> 01:29:23,648
+
+
 "Minuteman ID 8808.
 
-1206
-01:29:23,755 --> 01:29:25,417
+
+
 "Disengage voice encryption lock."
 
-1207
-01:29:32,806 --> 01:29:34,274
+
+
 Thank you, Ethan Shaw.
 
-1208
-01:29:34,377 --> 01:29:36,847
+
+
 Operation Guillotine restored
 to active status
 
-1209
-01:29:36,948 --> 01:29:39,511
+
+
 consistent with all
 national security directives.
 
-1210
-01:29:39,621 --> 01:29:41,453
+
+
 Tracking relevant targets.
 
-1211
-01:29:44,163 --> 01:29:46,157
+
+
 Secretary of Homeland Security.
 Veterans Affairs.
 
-1212
-01:29:46,268 --> 01:29:48,135
+
+
 Education. Labor.
 Health and Human Services.
 
-1213
-01:29:48,238 --> 01:29:49,798
+
+
 Transportation. Secretary of State.
 Commerce.
 
-1214
-01:29:49,908 --> 01:29:51,207
+
+
 President Pro Tempore of the Senate.
 
-1215
-01:29:51,311 --> 01:29:52,576
+
+
 Treasury. Agriculture.
 Speaker of the House.
 
-1216
-01:29:52,681 --> 01:29:53,671
+
+
 Vice President.
 Housing and Urban Development.
 
-1217
-01:29:53,783 --> 01:29:54,842
+
+
 Secretary of the Interior. Energy.
 
-1218
-01:29:54,952 --> 01:29:57,012
+
+
 Attorney General.
 President of the United States.
 
-1219
-01:29:58,225 --> 01:30:01,130
+
+
 Operation Guillotine is now in effect.
 
-1220
-01:30:08,447 --> 01:30:10,382
+
+
 Ethan tried to stop you.
 
-1221
-01:30:10,583 --> 01:30:13,954
+
+
 Ethan Shaw defied my
 programming objectives.
 
-1222
-01:30:14,057 --> 01:30:16,028
+
+
 That truck didn't run a red light,
 you made it happen.
 
-1223
-01:30:16,128 --> 01:30:20,161
+
+
 We were forced to eliminate him
 in the interest of national security.
 
-1224
-01:30:23,310 --> 01:30:24,871
+
+
 She made it happen.
 
-1225
-01:30:24,980 --> 01:30:28,921
+
+
 Jerry Shaw must not remain alive
 to re-engage the lock.
 
-1226
-01:30:29,021 --> 01:30:32,256
+
+
 - Jerry Shaw must be eliminated.
 - I'm sorry.
 
-1227
-01:30:37,305 --> 01:30:42,078
+
+
 Kill Jerry Shaw now, then exit.
 You must continue on to your son.
 
-1228
-01:30:43,819 --> 01:30:45,253
+
+
 It's okay.
 
-1229
-01:30:47,994 --> 01:30:51,594
+
+
 It's okay. Do it and find your son.
 
-1230
-01:30:53,372 --> 01:30:54,533
+
+
 Do it.
 
-1231
-01:30:59,150 --> 01:31:00,948
+
+
 Now, Rachel Holloman.
 
-1232
-01:31:02,992 --> 01:31:04,085
+
+
 Do it.
 
-1233
-01:31:05,931 --> 01:31:07,059
+
+
 Do it.
 
-1234
-01:31:14,716 --> 01:31:15,979
+
+
 I can't.
 
-1235
-01:31:18,423 --> 01:31:20,394
+
+
 You have failed to comply.
 
-1236
-01:31:20,996 --> 01:31:22,931
+
+
 Security breach on B-36.
 
-1237
-01:31:29,311 --> 01:31:30,576
+
+
 He's got a gun!
 
-1238
-01:31:30,681 --> 01:31:32,207
+
+
 - He's got a gun!
 - Get down!
 
-1239
-01:31:32,786 --> 01:31:34,516
+
+
 - Do it now!
 - Get on your knees!
 
-1240
-01:31:34,623 --> 01:31:36,149
+
+
 Put the gun down!
 
-1241
-01:31:36,261 --> 01:31:37,694
+
+
 - Put it down!
 - Do it now!
 
-1242
-01:31:37,796 --> 01:31:40,461
+
+
 Push it away!
 Put your hands on your head!
 
-1243
-01:31:40,569 --> 01:31:41,764
+
+
 Do it!
 
-1244
-01:31:41,872 --> 01:31:44,671
+
+
 Where's the girl? Where's the girl?
 
-1245
-01:31:45,979 --> 01:31:49,545
+
+
 You have one task left. Jerry Shaw
 will be eliminated by other means.
 
-1246
-01:31:49,654 --> 01:31:51,055
+
+
 What other means?
 
-1247
-01:31:58,506 --> 01:32:01,911
+
+
 Come with me. Don't ask any questions.
 
-1248
-01:32:09,628 --> 01:32:10,858
+
+
 Please.
 
-1249
-01:32:20,117 --> 01:32:22,314
+
+
 - You got to let me talk to him.
 - The kid had a gun.
 
-1250
-01:32:22,421 --> 01:32:24,323
+
+
 The military has the ball now.
 
-1251
-01:32:24,425 --> 01:32:25,859
+
+
 - Sir!
 - L'll get the Attorney General involved.
 
-1252
-01:32:25,962 --> 01:32:28,762
+
+
 Believe me, I will. 'Cause if it's not
 you, I'm talking to somebody.
 
-1253
-01:32:28,868 --> 01:32:30,337
+
+
 You don't understand
 the possibilities here.
 
-1254
-01:32:30,438 --> 01:32:32,167
+
+
 - What do you want?
 - You need to listen. This is important.
 
-1255
-01:32:32,274 --> 01:32:35,247
+
+
 Sixteen hours ago, a commercial
 explosive went missing from
 
-1256
-01:32:35,347 --> 01:32:38,787
+
+
 a testing site in Aberdeen.
 The explosive is called Hex.
 
-1257
-01:32:38,889 --> 01:32:41,381
+
+
 It's a crystal that detonates
 on a sonic trigger.
 
-1258
-01:32:41,493 --> 01:32:42,757
+
+
 - A crystal.
 - Yes.
 
-1259
-01:32:43,264 --> 01:32:45,096
+
+
 We're only talking about a small
 amount that's missing...
 
-1260
-01:32:45,201 --> 01:32:46,693
+
+
 Give me a ratio.
 
-1261
-01:32:47,139 --> 01:32:49,474
+
+
 One crystal to a football field.
 
-1262
-01:32:51,948 --> 01:32:55,444
+
+
 You couldn't have picked a worse time
 to be of some goddamn use.
 
-1263
-01:33:02,805 --> 01:33:05,332
+
+
 Please, just tell me where we're going.
 
-1264
-01:33:08,015 --> 01:33:11,318
+
+
 I tracked the shipping on the trigger.
 It was sent to the guy that we found
 
-1265
-01:33:11,421 --> 01:33:13,948
+
+
 underneath the wires. Ranim Khalid.
 
-1266
-01:33:15,430 --> 01:33:17,832
+
+
 - The music shop guy.
 - Yes, exactly.
 
-1267
-01:33:19,972 --> 01:33:21,235
+
+
 I'm not gonna let us go down in history
 
-1268
-01:33:21,341 --> 01:33:23,175
+
+
 as the assholes who let
 this thing happen.
 
-1269
-01:33:23,279 --> 01:33:26,046
+
+
 Open the door!
 You don't know what's about to happen!
 
-1270
-01:33:28,189 --> 01:33:29,988
+
+
 Tom Morgan. The Attorney General
 
-1271
-01:33:30,092 --> 01:33:31,618
+
+
 has authorized me to take him
 in for questioning.
 
-1272
-01:33:31,729 --> 01:33:34,497
+
+
 We're at threat level orange.
 You guys gotta help me.
 
-1273
-01:33:34,603 --> 01:33:36,435
+
+
 All right. Let him out.
 
-1274
-01:33:38,912 --> 01:33:40,573
+
+
 Listen to me. Remember the voice
 I was talking about?
 
-1275
-01:33:40,681 --> 01:33:43,152
+
+
 Yeah, yeah, shut up! Thanks, guys.
 
-1276
-01:33:44,355 --> 01:33:48,694
+
+
 I can get fired for this nine ways,
 so button it or l'll turn us both in.
 
-1277
-01:34:04,997 --> 01:34:06,226
+
+
 Follow me.
 
-1278
-01:34:10,710 --> 01:34:13,704
+
+
 Hey, guys, here's one more for the
 6:30 p.m. Capitol Limited.
 
-1279
-01:34:13,815 --> 01:34:15,376
+
+
 All right, man.
 
-1280
-01:34:20,997 --> 01:34:23,127
+
+
 Well, it's awfully cold outside.
 
-1281
-01:34:25,541 --> 01:34:27,511
+
+
 Here's mine. Come on, let's go.
 
-1282
-01:34:27,612 --> 01:34:29,514
+
+
 - Mr. Miller!
 - Yes.
 
-1283
-01:34:29,615 --> 01:34:32,349
+
+
 - Hello, I'm Chris Carrick.
 - Tom Donaldson.
 
-1284
-01:34:32,822 --> 01:34:34,792
+
+
 We're from the White House.
 
-1285
-01:34:34,894 --> 01:34:36,521
+
+
 - Something wrong?
 - Not exactly.
 
-1286
-01:34:36,630 --> 01:34:38,863
+
+
 There's been a change of plans.
 
-1287
-01:34:39,002 --> 01:34:40,435
+
+
 How so?
 
-1288
-01:34:46,317 --> 01:34:48,980
+
+
 This is for you.
 She wants you to change.
 
-1289
-01:34:50,024 --> 01:34:53,463
+
+
 Is that your family? Your parents?
 
-1290
-01:34:54,733 --> 01:34:57,967
+
+
 David, I bet you love them
 as much as I love my son.
 
-1291
-01:34:59,243 --> 01:35:00,644
+
+
 His name's Sam.
 
-1292
-01:35:01,914 --> 01:35:05,011
+
+
 He's on a train.
 Do you know anything about that?
 
-1293
-01:35:12,170 --> 01:35:14,332
+
+
 Maybe we can help each other.
 
-1294
-01:35:17,012 --> 01:35:18,275
+
+
 Please.
 
-1295
-01:35:20,418 --> 01:35:23,050
+
+
 When you're done, she wants you
 to use the Capitol subway system.
 
-1296
-01:35:23,158 --> 01:35:24,752
+
+
 It's on the ground floor. I'm sorry.
 
-1297
-01:35:24,862 --> 01:35:26,354
+
+
 - David. Please.
 - No. Sorry.
 
-1298
-01:35:26,466 --> 01:35:28,368
+
+
 You have three minutes.
 
-1299
-01:35:32,176 --> 01:35:33,304
+
+
 Okay, I want to know everything.
 
-1300
-01:35:33,412 --> 01:35:35,782
+
+
 The girl, the computer downstairs,
 the Hex, everything.
 
-1301
-01:35:35,885 --> 01:35:37,251
+
+
 - What's Hex?
 - The crystal explosive.
 
-1302
-01:35:37,354 --> 01:35:38,618
+
+
 - I don't know what that is.
 - Don't bullshit me!
 
-1303
-01:35:38,724 --> 01:35:40,248
+
+
 - I don't know what that is!
 - Start talking! I wanna know!
 
-1304
-01:35:40,359 --> 01:35:42,226
+
+
 I swear I don't know what you're
 talking about! Listen to me!
 
-1305
-01:35:42,331 --> 01:35:43,425
+
+
 The computer's tracking us right now!
 
-1306
-01:35:43,533 --> 01:35:44,524
+
+
 Take this stuff
 and throw it out the window!
 
-1307
-01:35:44,636 --> 01:35:46,537
+
+
 - What are you talking about?
 - You need to take your cell phone,
 
-1308
-01:35:47,106 --> 01:35:50,511
+
+
 your pager, your walkie, anything that
 gets a signal, throw it out the window.
 
-1309
-01:36:06,780 --> 01:36:09,547
+
+
 It's gone off! Get down!
 Power it down!
 
-1310
-01:36:11,190 --> 01:36:13,024
+
+
 - What the hell's going on?
 - System control's locked out.
 
-1311
-01:36:15,565 --> 01:36:17,502
+
+
 I need a vector and a fighter now.
 
-1312
-01:36:18,003 --> 01:36:20,372
+
+
 Viper One, we have a positive ID
 on an MQ9 Reaper.
 
-1313
-01:36:20,476 --> 01:36:22,777
+
+
 Snap vector 230 to 132.
 
-1314
-01:36:22,881 --> 01:36:24,282
+
+
 You are authorized to go weapons hot.
 
-1315
-01:36:24,384 --> 01:36:27,014
+
+
 Roger, Northcom.
 I have a visual on the Reaper.
 
-1316
-01:36:32,768 --> 01:36:34,863
+
+
 One to Base, One to Base!
 Ejection has been initiated.
 
-1317
-01:36:34,972 --> 01:36:37,170
+
+
 I don't have control! I don't have...
 
-1318
-01:36:38,680 --> 01:36:40,204
+
+
 There's a target list.
 President, Vice President.
 
-1319
-01:36:40,315 --> 01:36:41,979
+
+
 - There's like twelve people on the list.
 - Jesus.
 
-1320
-01:36:42,087 --> 01:36:43,578
+
+
 The State of the Union's in 20 minutes.
 
-1321
-01:36:43,689 --> 01:36:45,125
+
+
 The screen said
 "wireless detonator activated."
 
-1322
-01:36:45,226 --> 01:36:46,524
+
+
 - What about the girl?
 - She kept the girl alive
 
-1323
-01:36:46,630 --> 01:36:47,791
+
+
 - for a reason, I don't know.
 - The explosive
 
-1324
-01:36:47,899 --> 01:36:49,300
+
+
 is detonated by sonic trigger.
 
-1325
-01:36:49,402 --> 01:36:50,801
+
+
 It was sent to the guy who got fried.
 
-1326
-01:36:50,905 --> 01:36:51,965
+
+
 He owns an instrument store.
 
-1327
-01:36:52,073 --> 01:36:53,542
+
+
 Does any of that stuff
 make any sense to you?
 
-1328
-01:36:53,644 --> 01:36:55,807
+
+
 Rachel's kid plays the trumpet.
 
-1329
-01:37:11,447 --> 01:37:13,212
+
+
 Come on, we gotta go.
 
-1330
-01:37:15,020 --> 01:37:16,113
+
+
 Get out of the car!
 
-1331
-01:37:16,224 --> 01:37:17,693
+
+
 Get out of the car!
 
-1332
-01:37:18,127 --> 01:37:19,322
+
+
 FBI!
 
-1333
-01:37:27,579 --> 01:37:29,515
+
+
 Over there, that tunnel.
 
-1334
-01:37:41,309 --> 01:37:42,277
+
+
 Shit!
 
-1335
-01:38:16,346 --> 01:38:19,252
+
+
 Here. You're gonna need this.
 
-1336
-01:38:27,103 --> 01:38:28,365
+
+
 Okay, listen to me.
 
-1337
-01:38:28,471 --> 01:38:30,806
+
+
 The Library of Congress,
 there's a tunnel there.
 
-1338
-01:38:30,909 --> 01:38:34,680
+
+
 It'll get you to the Capitol.
 Find the Sergeant at Arms.
 
-1339
-01:38:35,085 --> 01:38:36,645
+
+
 Tell him you have a POTUS 111.
 
-1340
-01:38:36,756 --> 01:38:38,054
+
+
 - What?
 - POTUS 111.
 
-1341
-01:38:38,158 --> 01:38:41,494
+
+
 - It's a threat to the President.
 - I understand. POTUS 111.
 
-1342
-01:38:46,274 --> 01:38:49,247
+
+
 Now get out of here.
 That thing's coming back.
 
-1343
-01:38:52,087 --> 01:38:54,181
+
+
 Go! Go!
 
-1344
-01:40:11,984 --> 01:40:13,748
+
+
 Okay, watch your step.
 
-1345
-01:40:13,854 --> 01:40:16,451
+
+
 Come on down. Here we go.
 Come on out. Come on.
 
-1346
-01:40:16,560 --> 01:40:18,654
+
+
 - It's so cool!
 - Come on, hurry!
 
-1347
-01:40:18,764 --> 01:40:20,756
+
+
 Guys, it's so cool! Come on, let's go.
 
-1348
-01:40:32,525 --> 01:40:35,463
+
+
 - Library of Congress!
 - Hey, get outta here!
 
-1349
-01:40:47,055 --> 01:40:48,582
+
+
 Miss Crowley?
 
-1350
-01:40:49,159 --> 01:40:51,255
+
+
 Miss Crowley. Welcome to the Capitol.
 
-1351
-01:40:51,798 --> 01:40:53,597
+
+
 Senator McDonnell's office said
 that you'd be running late.
 
-1352
-01:40:53,703 --> 01:40:56,368
+
+
 - L'll take you to your seat.
 - Thank you.
 
-1353
-01:40:59,180 --> 01:41:02,016
+
+
 Aria, why am I being spared?
 
-1354
-01:41:02,119 --> 01:41:04,590
+
+
 Our abort recommendation was ignored,
 
-1355
-01:41:04,693 --> 01:41:07,529
+
+
 triggering violent retaliations against
 American citizens
 
-1356
-01:41:07,631 --> 01:41:11,470
+
+
 with no predictable end.
 Regime change is the only solution.
 
-1357
-01:41:12,106 --> 01:41:13,542
+
+
 You will lead
 the new command structure
 
-1358
-01:41:13,644 --> 01:41:15,978
+
+
 as President of the United States.
 
-1359
-01:41:20,423 --> 01:41:22,860
+
+
 - Help me. Pull these out.
 - What are these?
 
-1360
-01:41:22,962 --> 01:41:24,591
+
+
 Her memory blocks.
 
-1361
-01:41:24,699 --> 01:41:27,068
+
+
 This will slow her down,
 but her central operating system
 
-1362
-01:41:27,171 --> 01:41:28,264
+
+
 is up on the gantry.
 
-1363
-01:41:28,372 --> 01:41:31,573
+
+
 Warning. Please replace
 memory blocks A through F.
 
-1364
-01:41:31,680 --> 01:41:34,585
+
+
 It's like her brain.
 Protected by liquid nitrogen.
 
-1365
-01:41:34,686 --> 01:41:36,747
+
+
 We drain it and she'll fry.
 
-1366
-01:41:42,569 --> 01:41:43,902
+
+
 Hey, you can't go in!
 
-1367
-01:41:44,006 --> 01:41:45,474
+
+
 Tom Morgan, FBI. JTTF.
 
-1368
-01:41:45,576 --> 01:41:47,636
+
+
 I have a possible POTUS 111.
 Let me in the building.
 
-1369
-01:41:48,983 --> 01:41:50,782
+
+
 Okay, everybody! Everybody!
 
-1370
-01:41:51,354 --> 01:41:53,119
+
+
 Can I have your attention, please?
 
-1371
-01:41:53,225 --> 01:41:56,663
+
+
 Saxophones, remember shorter
 on those quarter notes.
 
-1372
-01:41:57,033 --> 01:41:59,697
+
+
 And when we get to the crescendo,
 
-1373
-01:41:59,805 --> 01:42:03,539
+
+
 "land of the free," hold that high F.
 
-1374
-01:42:03,646 --> 01:42:05,081
+
+
 And smile.
 
-1375
-01:42:05,182 --> 01:42:08,815
+
+
 Okay? Lt's not every day
 you get to play for the President!
 
-1376
-01:42:27,595 --> 01:42:30,931
+
+
 Here we are.
 And anything else, Miss Crowley?
 
-1377
-01:42:31,034 --> 01:42:32,368
+
+
 No, thanks.
 
-1378
-01:42:52,345 --> 01:42:55,648
+
+
 Madam Speaker,
 the President's Cabinet!
 
-1379
-01:43:08,912 --> 01:43:10,439
+
+
 POTUS 111!
 There's a bomb in the building!
 
-1380
-01:43:10,550 --> 01:43:12,417
+
+
 Stop! No entry! No exceptions!
 
-1381
-01:43:12,520 --> 01:43:15,652
+
+
 Tom Morgan, FBI. Back up.
 Give me your cuffs.
 
-1382
-01:43:15,760 --> 01:43:17,161
+
+
 - Give me your cuffs!
 - Take it easy!
 
-1383
-01:43:17,264 --> 01:43:18,663
+
+
 - Give me your cuffs.
 - I'm reaching for them.
 
-1384
-01:43:18,766 --> 01:43:20,564
+
+
 I'm reaching for them.
 
-1385
-01:43:34,966 --> 01:43:36,435
+
+
 Madam Speaker,
 
-1386
-01:43:40,243 --> 01:43:42,875
+
+
 the President of the United States!
 
-1387
-01:43:53,872 --> 01:43:55,273
+
+
 Data corruption at critical risk.
 
-1388
-01:43:58,414 --> 01:44:01,649
+
+
 You are now in violation of
 national security protocol.
 
-1389
-01:44:06,931 --> 01:44:09,926
+
+
 Seeking available options.
 
-1390
-01:44:11,408 --> 01:44:15,212
+
+
 Uploading to offsite satellite.
 
-1391
-01:44:15,615 --> 01:44:18,212
+
+
 - Data upload: 3%.
 - Bowman?
 
-1392
-01:44:18,488 --> 01:44:20,483
+
+
 - What is she doing?
 - She's trying to back up her memory
 
-1393
-01:44:20,594 --> 01:44:22,722
+
+
 and send it somewhere else!
 
-1394
-01:44:24,067 --> 01:44:26,002
+
+
 - 5%.
 - Bowman!
 
-1395
-01:44:27,608 --> 01:44:28,802
+
+
 Bowman!
 
-1396
-01:44:34,823 --> 01:44:36,291
+
+
 8%.
 
-1397
-01:44:40,835 --> 01:44:43,398
+
+
 Over the past three days, 19 Americans
 
-1398
-01:44:44,408 --> 01:44:47,073
+
+
 have lost their lives to brutal
 acts of terror...
 
-1399
-01:44:47,181 --> 01:44:49,048
+
+
 - Tunnel secure.
 ...and hate.
 
-1400
-01:44:50,054 --> 01:44:54,654
+
+
 But I say to you tonight
 that our hearts may be broken,
 
-1401
-01:44:55,164 --> 01:44:57,898
+
+
 but our spirit will never be broken!
 
-1402
-01:45:04,216 --> 01:45:06,483
+
+
 Data upload, 17%.
 
-1403
-01:45:08,425 --> 01:45:10,019
+
+
 19%.
 
-1404
-01:45:11,966 --> 01:45:16,235
+
+
 Perez, Zoe, you are now classified
 as an enemy of the state.
 
-1405
-01:45:17,778 --> 01:45:19,302
+
+
 23%.
 
-1406
-01:45:19,614 --> 01:45:21,048
+
+
 25%.
 
-1407
-01:45:33,042 --> 01:45:36,573
+
+
 27%. Operation Guillotine is in effect.
 
-1408
-01:45:37,885 --> 01:45:40,082
+
+
 It was nearly 200 years ago,
 
-1409
-01:45:40,189 --> 01:45:43,094
+
+
 in the War of 1812,
 that Francis Scott Key
 
-1410
-01:45:43,197 --> 01:45:47,899
+
+
 found himself stuck on a truce ship
 during the shelling of Fort McHenry.
 
-1411
-01:45:48,006 --> 01:45:50,443
+
+
 We lost some lives then, too.
 
-1412
-01:45:51,613 --> 01:45:55,451
+
+
 But our flag still flew high and proud.
 
-1413
-01:45:55,555 --> 01:45:58,925
+
+
 And his admiration became our anthem.
 
-1414
-01:45:59,194 --> 01:46:00,960
+
+
 With us tonight is the Youth Orchestra
 
-1415
-01:46:01,065 --> 01:46:04,335
+
+
 of the Barrow School
 from Hyde Park, Illinois.
 
-1416
-01:46:04,573 --> 01:46:05,734
+
+
 Sam.
 
-1417
-01:46:06,344 --> 01:46:08,314
+
+
 Let us stand together,
 
-1418
-01:46:08,814 --> 01:46:12,756
+
+
 as they raise our spirits every inch
 as high as that flag
 
-1419
-01:46:13,324 --> 01:46:17,561
+
+
 to show that our union
 is still as strong as ever.
 
-1420
-01:46:36,037 --> 01:46:39,500
+
+
 Oh, say can you see
 
-1421
-01:46:39,612 --> 01:46:43,916
+
+
 by the dawn's early light
 
-1422
-01:46:44,020 --> 01:46:48,484
+
+
 What so proudly we hailed
 
-1423
-01:46:48,596 --> 01:46:52,868
+
+
 at the twilight's last gleaming?
 
-1424
-01:46:53,305 --> 01:46:57,542
+
+
 Whose broad stripes and bright stars...
 
-1425
-01:46:59,520 --> 01:47:01,456
+
+
 Sergeant at Arms?
 
-1426
-01:47:04,262 --> 01:47:05,787
+
+
 Hey. Hey.
 
-1427
-01:47:55,033 --> 01:47:56,832
+
+
 Get out, get out.
 
-1428
-01:47:57,738 --> 01:47:58,707
+
+
 Mom!
 
-1429
-01:48:23,692 --> 01:48:27,529
+
+
 Jerry, all right, you did it!
 Come on. Yeah, Jerry!
 
-1430
-01:48:27,634 --> 01:48:30,503
+
+
 There are still no named suspects
 in the attack on the Blair Tunnel
 
-1431
-01:48:30,606 --> 01:48:32,509
+
+
 and the attacks in the Capitol Building.
 
-1432
-01:48:32,610 --> 01:48:35,515
+
+
 And there is still no word on the
 involvement of Jerry Damon Shaw.
 
-1433
-01:48:35,617 --> 01:48:38,918
+
+
 ...huge assassination attempt,
 transportation networks disrupted,
 
-1434
-01:48:39,023 --> 01:48:41,654
+
+
 no suspects identified
 or even arrested...
 
-1435
-01:48:41,761 --> 01:48:44,256
+
+
 ...any idea who is responsible
 for what may be
 
-1436
-01:48:44,368 --> 01:48:46,234
+
+
 the largest-scale
 cyber-terror attack that's
 
-1437
-01:48:46,337 --> 01:48:47,931
+
+
 ever been mounted in the United States.
 
-1438
-01:48:48,074 --> 01:48:49,976
+
+
 The House and Senate
 Intelligence Committees
 
-1439
-01:48:50,078 --> 01:48:51,239
+
+
 meet in closed-door session
 
-1440
-01:48:51,347 --> 01:48:53,409
+
+
 to discuss ways to prevent this kind of
 
-1441
-01:48:53,520 --> 01:48:55,786
+
+
 internal security breach
 that left nearly...
 
-1442
-01:48:55,890 --> 01:48:58,293
+
+
 The Aria project has been
 decommissioned
 
-1443
-01:48:58,396 --> 01:49:01,859
+
+
 and all those involved
 rotated to other assignments.
 
-1444
-01:49:02,738 --> 01:49:05,573
+
+
 Mr. Secretary,
 we can't just stop intelligence-gathering
 
-1445
-01:49:05,679 --> 01:49:08,149
+
+
 just because of what happened here.
 
-1446
-01:49:10,119 --> 01:49:11,885
+
+
 No, we can't.
 
-1447
-01:49:11,990 --> 01:49:14,827
+
+
 All I know is we made
 a great many mistakes.
 
-1448
-01:49:15,564 --> 01:49:18,730
+
+
 And good people
 paid the ultimate price for them.
 
-1449
-01:49:19,372 --> 01:49:22,003
+
+
 And that's a debt we can't ever repay.
 
-1450
-01:49:23,081 --> 01:49:25,176
+
+
 But we can honor it.
 
-1451
-01:49:27,657 --> 01:49:30,595
+
+
 And we can let their sacrifice remind us
 
-1452
-01:49:31,698 --> 01:49:33,634
+
+
 that sometimes
 
-1453
-01:49:33,735 --> 01:49:37,436
+
+
 the very measures we put into place
 to safeguard our liberty
 
-1454
-01:49:38,412 --> 01:49:41,282
+
+
 become threats to liberty itself.
 
-1455
-01:50:05,902 --> 01:50:07,393
+
+
 - Hey, little guy.
 - Jerry!
 
-1456
-01:50:07,505 --> 01:50:09,532
+
+
 Look at you, looking older.
 How are you?
 
-1457
-01:50:09,643 --> 01:50:11,009
+
+
 - Good.
 - Happy birthday.
 
-1458
-01:50:11,112 --> 01:50:12,581
+
+
 It's Rock Band! Ls that for me?
 
-1459
-01:50:12,681 --> 01:50:15,118
+
+
 No, this is so your
 mom can practice her drumming.
 
-1460
-01:50:15,220 --> 01:50:16,689
+
+
 It is for you. Happy birthday.
 
-1461
-01:50:16,789 --> 01:50:18,725
+
+
 - Wow!
 - Sam, what do you say?
 
-1462
-01:50:18,828 --> 01:50:20,319
+
+
 - Thanks.
 - Yeah, no problem.
 
-1463
-01:50:20,430 --> 01:50:22,264
+
+
 Guys, look, it's Rock Band!
 
-1464
-01:50:22,368 --> 01:50:24,337
+
+
 - Cool, let's go.
 - Awesome!
 
-1465
-01:50:31,453 --> 01:50:33,320
+
+
 - Sorry, I was late. I was...
 - Thank you
 
-1466
-01:50:33,425 --> 01:50:34,916
+
+
 for remembering.
 
-1467
-01:50:36,296 --> 01:50:37,265
+
+
 Yeah.
 
-1468
-01:50:47,219 --> 01:50:48,984
+
+
 I'm glad you're here.
 
-1469
-01:50:49,791 --> 01:50:51,020
+
+
 Me, too.
 
-1470
-01:50:54,502 --> 01:51:04,625
+
+
 THE END
 Subtitles by:

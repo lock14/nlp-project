@@ -1,4110 +1,4110 @@
-1
-00:00:33,800 --> 00:00:36,473
+
+
 OK, how do you like this shipped?
 
-2
-00:00:36,600 --> 00:00:38,886
+
+
 Standard ground takes 7 to 10 business days...
 
-3
-00:00:38,895 --> 00:00:41,156
+
+
 or if you need it tomorrow, we can
 overnight it for an extra 20 bucks.
 
-4
-00:00:41,391 --> 00:00:43,550
+
+
 Well, I don't need it tomorrow.
 
-5
-00:00:43,680 --> 00:00:47,036
+
+
 Well I'm a Supervisor here
 I can knock it down to 15 for you.
 
-6
-00:00:47,160 --> 00:00:50,357
+
+
 Well thanks. I'm tempted.
 I'm so impatient.
 
-7
-00:00:50,480 --> 00:00:55,110
+
+
 Hey for me, it's instant gratification.
 
-8
-00:00:55,240 --> 00:00:57,879
+
+
 - Alright... what the hell, ship it overnight.
 - No problem.
 
-9
-00:00:58,000 --> 00:01:01,356
+
+
 If you have any other questions call anytime.
 My name is Todd Anderson.
 
-10
-00:01:01,480 --> 00:01:03,471
+
+
 - Thanks Todd.
 - Your very welcome
 
-11
-00:01:14,440 --> 00:01:16,112
+
+
 I need you in my office.
 
-12
-00:01:21,800 --> 00:01:25,156
+
+
 Is this gonna take a while?
 I just ordered from Thai Garden and I'm pretty fast.
 
-13
-00:01:25,280 --> 00:01:30,877
+
+
 So you like spicy food? That’s interesting.
 Close the door please.
 
-14
-00:01:31,000 --> 00:01:34,072
+
+
 Why is that interesting?
 
-15
-00:01:34,200 --> 00:01:37,954
+
+
 Todd, we decided to
 restructure order performance.
 
-16
-00:01:38,080 --> 00:01:41,356
+
+
 - Restructure how?
 - Offshore the whole department
 
-17
-00:01:43,400 --> 00:01:44,879
+
+
 - Good one.
 - I'm not kidding.
 
-18
-00:01:45,000 --> 00:01:49,994
+
+
 Check out this spreadsheet, any American job that’s
 done on the phone or online is going overseas.
 
-19
-00:01:50,120 --> 00:01:54,875
+
+
 - The savings are incredible.
 - Is this some kind of weird physiological test, you're pulling on me?
 
-20
-00:01:55,000 --> 00:01:57,639
+
+
 Like a ritual hazing for the
 annual review.
 
-21
-00:01:57,760 --> 00:02:02,276
+
+
 It’s not quite time for your review Todd.
 You been working coming up on 4.5 years, not 5.
 
-22
-00:02:02,400 --> 00:02:07,599
+
+
 You can't outsource Order Fulfillment.
 Our catalog is patriotic knick-knacks...
 
-23
-00:02:07,720 --> 00:02:11,076
+
+
 If a factory worker from Wisconsin
 calls the 800 number to buy this...
 
-24
-00:02:11,200 --> 00:02:14,749
+
+
 and get's a person from another country,
 he's gonna flip out.
 
-25
-00:02:14,880 --> 00:02:18,316
+
+
 That’s where the accent training comes in.
 
-26
-00:02:18,440 --> 00:02:23,468
+
+
 You expect me to walk in there and tell everyone
 I'm sorry your job has been outsourced?
 
-27
-00:02:23,600 --> 00:02:25,477
+
+
 I'll do it.
 
-28
-00:02:29,040 --> 00:02:31,952
+
+
 - So I'm fired too?
 - No, no, not at all.
 
-29
-00:02:32,080 --> 00:02:36,596
+
+
 - But I manage fulfillment, now you don't need me here.
 - You're right, we don't need you here.
 
-30
-00:02:39,200 --> 00:02:43,113
+
+
 We need you in India...
 someone's gotta train the new guy.
 
-31
-00:02:43,240 --> 00:02:45,993
+
+
 - And after that?
 - We'll find something for you, company's growing.
 
-32
-00:02:46,120 --> 00:02:50,159
+
+
 - 'We'll find something for you'?
 - 'Course you're free to quit.
 
-33
-00:02:50,280 --> 00:02:54,511
+
+
 But you haven't vested your stock options yet.
 Quit now and you'll give it up, plus your pension...
 
-34
-00:02:54,512 --> 00:02:59,033
+
+
 and medical and you'll be out there, in a bad job
 market with no unemployment benefits.
 
-35
-00:02:59,060 --> 00:03:02,748
+
+
 As these guys, in about 20 minutes.
 
-36
-00:03:02,750 --> 00:03:06,356
+
+
 No, no way, I'm not going to India to
 train my own replacements.
 
-37
-00:03:06,480 --> 00:03:10,359
+
+
 All you need to do, is visit the call center,
 improve the minutes per incidents...
 
-38
-00:03:10,480 --> 00:03:14,189
+
+
 and make sure the new guy's up to speed.
 
-39
-00:03:14,320 --> 00:03:18,359
+
+
 - What's this new guy get paid?
 - Half a mill...
 
-40
-00:03:18,480 --> 00:03:20,057
+
+
 Rupees.
 
-41
-00:03:20,880 --> 00:03:24,075
+
+
 That's 11.000 dollars a year, to do your job.
 
-42
-00:03:24,200 --> 00:03:29,558
+
+
 Same as 8... as for the price of one.
 What're you gonna do?
 
-43
-00:03:29,680 --> 00:03:33,434
+
+
 - Come on, let’s get MPI go down to 6.
 - No, I'm not going.
 
-44
-00:03:33,560 --> 00:03:39,795
+
+
 - It's just a short trip, you like spicy food?.
 - Dave, I'm not going to India.
 
-45
-00:04:37,920 --> 00:04:40,354
+
+
 I gotta get to a train station?
 
-46
-00:04:59,440 --> 00:05:02,910
+
+
 Hi, can you get me to the
 train station?
 
-47
-00:05:07,920 --> 00:05:12,596
+
+
 - Oh crap... no, Sir, Sir! I wanted a taxi, a taxi.
 - No problem.
 
-48
-00:05:12,620 --> 00:05:16,998
+
+
 Alright, sorry, thanks’...
 let me grab my bag, thanks.
 
-49
-00:05:17,120 --> 00:05:22,577
+
+
 Woo, wo, wo... no, no, no, stop, stop, stop.
 
-50
-00:05:22,578 --> 00:05:25,036
+
+
 No, no, no, go, go, go...
 
-51
-00:07:13,520 --> 00:07:14,919
+
+
 Hi...
 
-52
-00:07:14,920 --> 00:07:18,595
+
+
 - You like it in India?
 - Well, it's interesting.
 
-53
-00:07:18,720 --> 00:07:23,396
+
+
 It is the best country,
 ... no problem.
 
-54
-00:07:23,520 --> 00:07:26,515
+
+
 - Hey... no problem, you've got to jump... jump.
 - What?
 
-55
-00:07:26,516 --> 00:07:30,994
+
+
 - You jump... you must jump the train...
 - There's no room.
 
-56
-00:07:33,360 --> 00:07:35,990
+
+
 You must jump... jump.
 
-57
-00:07:36,760 --> 00:07:39,990
+
+
 Jump... good.
 
-58
-00:08:38,000 --> 00:08:40,992
+
+
 I'll... I'll take one of those.
 
-59
-00:08:46,040 --> 00:08:49,430
+
+
 No change, no change... impossible, no change.
 
-60
-00:08:49,560 --> 00:08:53,235
+
+
 Oh, that’s okay, I'm dying of thirst.
 Keep the change.
 
-61
-00:08:53,360 --> 00:08:55,039
+
+
 - You're sure?
 - Yea, it’s fine.
 
-62
-00:09:19,240 --> 00:09:20,935
+
+
 - You like?
 - Mm...
 
-63
-00:09:21,240 --> 00:09:23,135
+
+
 Are you Mr. Doad?
 
-64
-00:09:23,136 --> 00:09:27,075
+
+
 Mm, yes... no, I'm Todd, Todd Anderson.
 Western Novelty.
 
-65
-00:09:27,100 --> 00:09:32,294
+
+
 - I sent a car, but you were not there. - I didn't
 see it, I had to take one of those taxi go-kart thingy.
 
-66
-00:09:32,320 --> 00:09:35,835
+
+
 So sorry for the inconvenience.
 I'm sorry, please to meet you, Mr. Doad.
 
-67
-00:09:35,960 --> 00:09:40,670
+
+
 I'm Purohit Narsimacharaya Virajnarianan,
 but you can call me Puro.
 
-68
-00:09:40,800 --> 00:09:44,759
+
+
 - Puro?
 - Puro, I'll take you to your hotel, please come.
 
-69
-00:09:44,880 --> 00:09:49,112
+
+
 Sir... Sir, please come back, I'm here.
 
-70
-00:09:49,240 --> 00:09:53,313
+
+
 I'm waiting for you, good day, good night,
 good morning... please come.
 
-71
-00:10:08,200 --> 00:10:10,111
+
+
 You like India?
 
-72
-00:10:10,240 --> 00:10:15,394
+
+
 Bombay is a little crazy, but Gharapuri
 looks different... a little cleaner.
 
-73
-00:10:15,520 --> 00:10:19,991
+
+
 Bombay is terrible... terrible,
 Gharapuri is very clean.
 
-74
-00:10:21,880 --> 00:10:26,715
+
+
 - You have a business card, Mr. Doad?
 - It's Todd, please call me Todd.
 
-75
-00:10:30,800 --> 00:10:35,874
+
+
 Executive Vice-president of Marketing and
 Order fulfillment. Very impressive.
 
-76
-00:10:36,000 --> 00:10:41,393
+
+
 Not as impressive as it sound.
 What I really do, is sell kitsch to rednecks.
 
-77
-00:10:41,520 --> 00:10:44,796
+
+
 Now I train some other schmuck to do it.
 
-78
-00:10:47,120 --> 00:10:50,396
+
+
 - May I ask a question?
 - Yea, go ahead.
 
-79
-00:10:50,520 --> 00:10:57,471
+
+
 Would you kindly be telling me,
 what is kitsch, and what is redneck, and what is schmuck?
 
-80
-00:10:57,600 --> 00:11:03,835
+
+
 Kitsch is garbage that people buy.
 
-81
-00:11:03,960 --> 00:11:08,511
+
+
 - And Redneck basically means farmer.
 - Farmer?
 
-82
-00:11:08,640 --> 00:11:11,074
+
+
 and a schmuck?
 
-83
-00:11:13,200 --> 00:11:18,638
+
+
 That means like a nice guy... you're the person
 I'm gonna train? I'm sorry, I didn't realize that.
 
-84
-00:11:18,760 --> 00:11:23,231
+
+
 I'm so fortunate to be learning the way of
 American business from you, Mr. Doad.
 
-85
-00:11:23,360 --> 00:11:27,194
+
+
 Todd please... call me Todd.
 
-86
-00:11:27,320 --> 00:11:30,357
+
+
 - Your first trip to India?
 - Yes
 
-87
-00:11:30,480 --> 00:11:33,597
+
+
 Some foreigners who come here,
 do not experience it well.
 
-88
-00:11:33,720 --> 00:11:37,952
+
+
 But I can tell, you are of a different breed.
 A very good traveler.
 
-89
-00:11:38,080 --> 00:11:41,197
+
+
 Strong, and ready for anything, and everything.
 
-90
-00:11:41,320 --> 00:11:44,198
+
+
 That’s very kind of you, why do you say that?
 
-91
-00:11:44,320 --> 00:11:47,949
+
+
 Most foreigners cannot eat cola
 without becoming very ill.
 
-92
-00:11:51,960 --> 00:11:53,518
+
+
 How far is the hotel?
 
-93
-00:11:53,640 --> 00:11:57,997
+
+
 Your reservation is for the Gharapuri Palace
 Hotel, but that place is very lonely.
 
-94
-00:11:58,120 --> 00:12:03,513
+
+
 I'll take you to Aunt Ji's guesthouse, she will take
 care of you better, then your own real mother.
 
-95
-00:12:03,640 --> 00:12:07,076
+
+
 No, actually, I just like to go to my hotel,
 I'm tired, and I...
 
-96
-00:12:07,200 --> 00:12:09,634
+
+
 Please, I insist, we go to Aunt Ji.
 
-97
-00:12:09,760 --> 00:12:14,072
+
+
 She has a very good garden, most
 excellent Indian cook... very hygienic.
 
-98
-00:12:14,200 --> 00:12:16,509
+
+
 You won't be lonely there, I'm telling you.
 
-99
-00:12:16,640 --> 00:12:20,758
+
+
 OK, fine... I'll check it out, just make it quick.
 
-100
-00:12:20,880 --> 00:12:23,713
+
+
 Yes, schmuck.
 
-101
-00:12:53,920 --> 00:12:57,993
+
+
 There, please come, please come.
 
-102
-00:13:05,440 --> 00:13:08,318
+
+
 Welcome, welcome, welcome.
 
-103
-00:13:08,440 --> 00:13:13,992
+
+
 - You must be tired from your trip from Bombay.
 - No, no, no, we're just here to look.
 
-104
-00:13:14,120 --> 00:13:19,035
+
+
 Look, look... I have some tea freshly made,
 especially for you only.
 
-105
-00:13:19,160 --> 00:13:22,994
+
+
 - And what is your good name?
 - My good name?
 
-106
-00:13:23,120 --> 00:13:27,910
+
+
 - This is Mr. Doad to you, fresh from America.
 - Oh... Mr. Doad, how sweet.
 
-107
-00:13:28,040 --> 00:13:31,350
+
+
 Please come in, please... come in...
 come in.
 
-108
-00:13:35,380 --> 00:13:36,998
+
+
 Thank you.
 
-109
-00:13:39,880 --> 00:13:43,998
+
+
 So... Mr. Doad.
 What does your father do?
 
-110
-00:13:44,120 --> 00:13:47,669
+
+
 What is it you're selling?
 Are you married?
 
-111
-00:13:47,800 --> 00:13:50,019
+
+
 No, I'm not married.
 
-112
-00:13:50,040 --> 00:13:53,712
+
+
 Ah... you have a girlfriend, hmm?
 
-113
-00:13:53,840 --> 00:13:56,877
+
+
 No, I did, but we broke up a
 couple of month ago.
 
-114
-00:13:57,000 --> 00:14:00,754
+
+
 Why break up?
 You should be married.
 
-115
-00:14:02,360 --> 00:14:06,148
+
+
 Well a... she wanted to start a family
 and I wasn’t quite ready yet.
 
-116
-00:14:06,280 --> 00:14:08,316
+
+
 Not yet? My god.
 
-117
-00:14:08,440 --> 00:14:14,037
+
+
 You're old enough to be a grandfather.
 What're you waiting for, ha?
 
-118
-00:14:14,160 --> 00:14:18,233
+
+
 Just eat. Very nice.
 Fresh.
 
-119
-00:14:22,280 --> 00:14:23,872
+
+
 That's good.
 
-120
-00:14:35,160 --> 00:14:36,933
+
+
 What?
 
-121
-00:14:37,160 --> 00:14:43,633
+
+
 Sir, you should not place the hand that
 has been in your mouth, back in the food.
 
-122
-00:14:43,760 --> 00:14:47,036
+
+
 And a... you should not eat with your left hand.
 
-123
-00:14:47,160 --> 00:14:49,833
+
+
 In India, we eat with the right hand.
 
-124
-00:14:49,960 --> 00:14:54,636
+
+
 - Left hand is considered to be...
 - Dirt...
 
-125
-00:14:54,760 --> 00:14:57,957
+
+
 - Unclean.
 - Unclean, unclean yes.
 
-126
-00:14:58,080 --> 00:14:59,163
+
+
 Why?
 
-127
-00:15:00,289 --> 00:15:01,561
+
+
 Why...
 
-128
-00:15:15,116 --> 00:15:16,014
+
+
 OK...
 
-129
-00:16:16,520 --> 00:16:19,637
+
+
 That's great. OK.
 
-130
-00:16:19,760 --> 00:16:24,356
+
+
 That's good, thank you... thank you.
 
-131
-00:17:31,680 --> 00:17:36,276
+
+
 We work from 6 in the evening to
 6 in the morning. Daytime in America.
 
-132
-00:17:36,400 --> 00:17:41,679
+
+
 - That’s unscrupulous, aren't you tired?
 - No, no, no, we are accustom to the problem by now.
 
-133
-00:17:41,800 --> 00:17:44,758
+
+
 Is it true that... when I'm manager...
 
-134
-00:17:44,880 --> 00:17:50,159
+
+
 - I'm going to earn 500.000 rupee a year?
 - That’s what they told you.
 
-135
-00:17:51,560 --> 00:17:56,554
+
+
 Because of my future salary, I'm now
 engaged to Bageshy Sasubude.
 
-136
-00:17:56,680 --> 00:17:59,274
+
+
 Bagy who?
 
-137
-00:17:59,400 --> 00:18:01,516
+
+
 Watch the...
 
-138
-00:18:01,640 --> 00:18:04,837
+
+
 She's cute.
 
-139
-00:18:04,960 --> 00:18:09,590
+
+
 She's more beautiful than Ashwe Naray.
 I've loved her all my life.
 
-140
-00:18:09,720 --> 00:18:15,955
+
+
 I could never think of marrying her until,
 Western Novelty hired me for 500.000 rupees.
 
-141
-00:18:25,320 --> 00:18:28,357
+
+
 Are you kidding me, this is it?
 
-142
-00:18:28,480 --> 00:18:31,870
+
+
 There's no office, to rent in Gharapuri,
 so we had to build one.
 
-143
-00:18:32,000 --> 00:18:36,516
+
+
 This is outsourcing all the real estate,
 in Bombay, Madras, Bangalore...
 
-144
-00:18:36,640 --> 00:18:40,872
+
+
 even Gharapuri, so we had to build one.
 Please come.
 
-145
-00:18:50,200 --> 00:18:53,112
+
+
 This here is the supervisor.
 
-146
-00:18:53,240 --> 00:18:58,633
+
+
 And here we have the agent division.
 They work very hard.
 
-147
-00:19:00,240 --> 00:19:01,798
+
+
 It’s OK.
 
-148
-00:19:01,920 --> 00:19:06,277
+
+
 And because of America,
 we have different time zones.
 
-149
-00:19:06,400 --> 00:19:11,110
+
+
 Seattle, New York, Chicago
 and India.
 
-150
-00:19:11,240 --> 00:19:13,993
+
+
 Puro, what is that?
 
-151
-00:19:14,120 --> 00:19:18,352
+
+
 Oh, this?
 
-152
-00:19:18,480 --> 00:19:21,756
+
+
 This is our MPI monitor,
 Minute Per Incident.
 
-153
-00:19:21,880 --> 00:19:23,757
+
+
 This is going to go up on the wall.
 
-154
-00:19:23,880 --> 00:19:29,000
+
+
 This is the average time our
 agents solve the calls in.
 
-155
-00:19:29,120 --> 00:19:33,910
+
+
 What? Oh, that just a cow,
 must have wandered in. One minute.
 
-156
-00:19:37,800 --> 00:19:41,315
+
+
 Don't worry Mr. Doad, we are fully operational.
 We have state of the art computers...
 
-157
-00:19:41,440 --> 00:19:44,074
+
+
 digital phone lines, optical modems, everything.
 
-158
-00:19:51,720 --> 00:19:55,429
+
+
 - Mr. Doad, are you OK?
 - I have a cramp.
 
-159
-00:19:55,560 --> 00:19:57,915
+
+
 The cola.
 
-160
-00:19:58,817 --> 00:19:59,832
+
+
 Oh god.
 
-161
-00:20:06,960 --> 00:20:09,410
+
+
 - One rupee.
 - Not a good time.
 
-162
-00:20:09,445 --> 00:20:10,790
+
+
 - One rupee.
 - Tomorrow.
 
-163
-00:20:10,993 --> 00:20:12,538
+
+
 - Only one rupee.
 - I don't have a rupee
 
-164
-00:20:12,640 --> 00:20:14,756
+
+
 - Please.
 - Is that all you can say?
 
-165
-00:20:14,880 --> 00:20:17,637
+
+
 Hungry, only 1 rupee.
 
-166
-00:20:18,667 --> 00:20:19,948
+
+
 All right.
 
-167
-00:20:19,983 --> 00:20:22,354
+
+
 Now leave me alone, alright.
 
-168
-00:20:22,480 --> 00:20:25,790
+
+
 No, no, no, don't touch.
 
-169
-00:20:26,779 --> 00:20:27,878
+
+
 - Hey...
 - Yea...
 
-170
-00:20:35,979 --> 00:20:39,878
+
+
 - What're you doing?
 - Downstairs... bathroom... no problem.
 
-171
-00:21:02,040 --> 00:21:04,235
+
+
 Oh... no toilet paper.
 
-172
-00:21:18,760 --> 00:21:23,231
+
+
 Hello everyone... I'm Todd Anderson
 from Western Novelty...
 
-173
-00:21:23,360 --> 00:21:26,750
+
+
 and I'm here to help integrate
 you into our business.
 
-174
-00:21:26,880 --> 00:21:30,998
+
+
 Now, I gotta tell you, this centre numbers
 are nowhere near what they should be.
 
-175
-00:21:31,120 --> 00:21:35,511
+
+
 and based on the stompers complaints,
 we've been having, it's a cultural thing.
 
-176
-00:21:35,640 --> 00:21:41,510
+
+
 Basically, you people need to learn about
 Americans, it’s all about bringing down the MPI.
 
-177
-00:21:41,640 --> 00:21:45,269
+
+
 Things go faster if the customer feel they're
 talking to a native English speaker.
 
-178
-00:21:45,400 --> 00:21:49,678
+
+
 But we are native English speakers.
 English is the official language of our government.
 
-179
-00:21:49,800 --> 00:21:55,557
+
+
 You got it from the British, and so did we.
 We just speak it differently.
 
-180
-00:21:55,680 --> 00:21:59,434
+
+
 We say 'internet',
 and you say 'innernet'.
 
-181
-00:21:59,560 --> 00:22:04,156
+
+
 Fair enough, that’s exactly my point,
 I'm asking you to say 'innernet'.
 
-182
-00:22:04,280 --> 00:22:08,159
+
+
 Next time you're on a call, try to listen
 carefully to the customer's pronunciation...
 
-183
-00:22:08,280 --> 00:22:11,211
+
+
 the slang, small talk, try to learn from them.
 
-184
-00:22:11,584 --> 00:22:13,046
+
+
 Learn about America.
 
-185
-00:22:13,200 --> 00:22:15,395
+
+
 - Sir?
 - Yes? You are?
 
-186
-00:22:15,520 --> 00:22:18,353
+
+
 - Marmite.
 - Manmeet.
 
-187
-00:22:18,480 --> 00:22:22,951
+
+
 No, Manite, what I want to know is,
 what is 'small talk'.
 
-188
-00:22:23,080 --> 00:22:26,834
+
+
 Oh, you know, that’s like,
 'How you doing today'.
 
-189
-00:22:26,960 --> 00:22:29,110
+
+
 How's the weather in Arizona?
 
-190
-00:22:29,240 --> 00:22:31,515
+
+
 - You can talk about sports.
 - Like cricket?
 
-191
-00:22:31,640 --> 00:22:34,473
+
+
 Never mind, forget sports, you wanna sound American.
 
-192
-00:22:34,600 --> 00:22:38,593
+
+
 If anyone ask where you're located,
 just say 'Chicago', hm.
 
-193
-00:22:38,720 --> 00:22:41,757
+
+
 - Try that.
 - Chicago.
 
-194
-00:22:41,880 --> 00:22:44,678
+
+
 OK, when you make the 'a' sound,
 
-195
-00:22:44,800 --> 00:22:49,654
+
+
 Hold your nose, to flatten
 the vowel like 'Chicago'.
 
-196
-00:22:50,300 --> 00:22:51,954
+
+
 'Chicago'.
 
-197
-00:22:53,680 --> 00:22:58,117
+
+
 That’s great, and if anyone ask
 how the weather is, say 'windy'.
 
-198
-00:22:58,240 --> 00:23:01,516
+
+
 - Yes, you are?
 - Asha, sir.
 
-199
-00:23:01,640 --> 00:23:05,269
+
+
 Isn't that a little dishonest?
 I mean I'm not gonna lie.
 
-200
-00:23:05,400 --> 00:23:08,949
+
+
 I'm not in Chicago, I'm in Gharapuri.
 
-201
-00:23:09,080 --> 00:23:12,634
+
+
 If I have to do this job, I was told that
 I would be selling products to a customer...
 
-202
-00:23:12,635 --> 00:23:15,997
+
+
 on the telephone, I did not know we
 had to be deceptive.
 
-203
-00:23:16,120 --> 00:23:21,752
+
+
 - A lot of Americans are upset about outsourcing.
 - But sir, most of the products they're buying are made in China.
 
-204
-00:23:23,920 --> 00:23:29,199
+
+
 OK, we're almost back, we'll continue
 this tomorrow, thank you.
 
-205
-00:23:32,280 --> 00:23:36,512
+
+
 It says 'made in China'.
 
-206
-00:23:40,120 --> 00:23:45,558
+
+
 Ouch... don't touch me, don't touch me!
 
-207
-00:23:47,360 --> 00:23:49,590
+
+
 Go away... I'm serious.
 
-208
-00:24:00,440 --> 00:24:03,238
+
+
 Good morning, Mr. Doad.
 
-209
-00:24:03,360 --> 00:24:06,272
+
+
 You had a long night, huh?
 
-210
-00:24:06,400 --> 00:24:10,951
+
+
 What?
 You look like you have no energy.
 
-211
-00:24:11,080 --> 00:24:14,436
+
+
 - You must go to sleep.
 - No, I will.
 
-212
-00:24:14,560 --> 00:24:18,872
+
+
 First you eat.
 You're looking sick.
 
-213
-00:24:20,520 --> 00:24:23,034
+
+
 No, thank you, I can't.
 
-214
-00:24:23,160 --> 00:24:29,508
+
+
 Mr. Doad, you want to meet a nice Indian girl?
 
-215
-00:24:29,640 --> 00:24:34,077
+
+
 No, no, thank you, I'm just...
 I'm really not interested.
 
-216
-00:24:34,200 --> 00:24:37,988
+
+
 Are you... homosexual?
 
-217
-00:24:38,120 --> 00:24:40,350
+
+
 Excuse me?
 
-218
-00:24:40,480 --> 00:24:44,678
+
+
 - You like Indian boy, not Indian girl?
 - No.
 
-219
-00:24:46,446 --> 00:24:47,608
+
+
 No!
 
-220
-00:24:50,000 --> 00:24:52,833
+
+
 Oh, god no, thank you, I can't eat a thing.
 
-221
-00:24:52,960 --> 00:24:57,511
+
+
 You must eat, you showing up much to skinny,
 enjoy it will be hot.
 
-222
-00:24:57,640 --> 00:25:01,553
+
+
 Maybe tomorrow, I just need to get some air.
 
-223
-00:25:01,680 --> 00:25:03,477
+
+
 Tomorrow?
 
-224
-00:25:48,120 --> 00:25:52,159
+
+
 - When is this glass coming?
 - It is coming presently, sir.
 
-225
-00:25:52,280 --> 00:25:55,238
+
+
 Is the volume always this low?
 
-226
-00:25:55,360 --> 00:25:58,352
+
+
 - This is low?
 - Well yes, you're obviously not riding on all the callers yet.
 
-227
-00:25:58,480 --> 00:26:03,838
+
+
 Why is the MPI so bad? At 12 minutes per
 incidents, we're losing money on every call.
 
-228
-00:26:03,960 --> 00:26:09,088
+
+
 Bad?... When I started it was 15,
 I brought it down to 12.
 
-229
-00:26:09,120 --> 00:26:14,717
+
+
 This place is a disaster, if we don't get it down
 to 6, I'll be stuck in India for the rest of my life.
 
-230
-00:26:14,840 --> 00:26:19,252
+
+
 - We'll get the MPI down, no problem.
 - Don't say no problem, when it is a problem.
 
-231
-00:26:19,280 --> 00:26:24,329
+
+
 If we don't get it down to 6, you'll never get a
 promotion and you'll never get to marry what’s her face.
 
-232
-00:26:24,360 --> 00:26:28,797
+
+
 - Who's face sir?
 - Your girlfriend, Bagy Swami, whatever her name is.
 
-233
-00:26:30,960 --> 00:26:35,875
+
+
 Everyone, please work harder, faster. OK?
 
-234
-00:26:40,640 --> 00:26:44,189
+
+
 Ok, what else?
 Yes, Manmeet.
 
-235
-00:26:44,320 --> 00:26:48,359
+
+
 I do not understand item H403.
 
-236
-00:26:48,480 --> 00:26:54,669
+
+
 H403, ah... yea, a lot of Americans
 wear this to sporting events.
 
-237
-00:26:54,800 --> 00:26:56,472
+
+
 But why, sir?
 
-238
-00:26:56,600 --> 00:27:00,718
+
+
 It's hard to explain, they just do...
 
-239
-00:27:00,840 --> 00:27:05,834
+
+
 - I do not understand the purpose of A221.
 - A221.
 
-240
-00:27:05,960 --> 00:27:09,925
+
+
 That’s a burger brand.
 Americans eat a lot of beef...
 
-241
-00:27:09,960 --> 00:27:14,959
+
+
 and some people like to burn their initials into
 their food, with a red hot iron before they eat it.
 
-242
-00:27:15,080 --> 00:27:17,913
+
+
 - Why?
 - That's a cow brand.
 
-243
-00:27:18,040 --> 00:27:21,555
+
+
 You know, the thing you use, to burn
 a symbol into a cow.
 
-244
-00:27:21,680 --> 00:27:25,355
+
+
 In America, that's how you keep track
 of your cows, is branding.
 
-245
-00:27:25,480 --> 00:27:28,677
+
+
 - With a red hot iron?
 - Yeah.
 
-246
-00:27:28,800 --> 00:27:31,553
+
+
 But, a... wouldn't the cow run away?
 
-247
-00:27:31,680 --> 00:27:38,199
+
+
 Oh, no, we only do it to baby cows, when
 they're small enough, to... hold them down.
 
-248
-00:27:41,440 --> 00:27:45,672
+
+
 - Yes, Asha?
 - A suggestion, Mr. Todd?
 
-249
-00:27:45,800 --> 00:27:49,509
+
+
 - Go ahead.
 - You need to learn about India.
 
-250
-00:27:59,680 --> 00:28:04,470
+
+
 Hey, its Todd... I'll be out of the country
 for a few days, so leave a message...
 
-251
-00:28:04,600 --> 00:28:06,750
+
+
 <I>You have no messages. </I>
 
-252
-00:28:11,000 --> 00:28:13,753
+
+
 <I>Are you still there?
 You have no messages. </I>
 
-253
-00:29:10,240 --> 00:29:13,277
+
+
 I told you, it’s my grandson's
 first day at school...
 
-254
-00:29:13,400 --> 00:29:17,598
+
+
 I want to get him some supplies, but I'm not
 sure what kids need these days.
 
-255
-00:29:17,720 --> 00:29:20,871
+
+
 - Perhaps some rubbers, ma'am.
 - What did you say?
 
-256
-00:29:21,000 --> 00:29:25,755
+
+
 I mean... if you have a pencil,
 you need some rubbers.
 
-257
-00:29:25,880 --> 00:29:29,839
+
+
 OK... who can tell me,
 what was wrong with this call?
 
-258
-00:29:32,760 --> 00:29:35,354
+
+
 It's not a 'rubber'... it's an 'eraser'.
 
-259
-00:29:35,480 --> 00:29:39,268
+
+
 - No, sir, this is a rubber.
 - No, it’s an eraser.
 
-260
-00:29:39,400 --> 00:29:41,789
+
+
 'Rubber' means condom.
 
-261
-00:29:41,920 --> 00:29:44,957
+
+
 - You mean like a 'flat'?
 - They call it an 'apartment'.
 
-262
-00:29:45,080 --> 00:29:49,790
+
+
 No, a condom... birth control.
 
-263
-00:29:49,920 --> 00:29:52,150
+
+
 Does it work?
 
-264
-00:30:34,120 --> 00:30:36,349
+
+
 - This is Dave.
 - Hi Dave
 
-265
-00:30:36,915 --> 00:30:39,410
+
+
 I just saw your numbers, you do realize
 you're not on vacation over there?
 
-266
-00:30:39,745 --> 00:30:40,958
+
+
 Yeah, I gotta come here for vacation.
 
-267
-00:30:41,080 --> 00:30:44,139
+
+
 Unless you're planning on taking up residence,
 you better get the ball rolling.
 
-268
-00:30:44,312 --> 00:30:46,516
+
+
 Yeah, that’s why I'm calling
 actually...
 
-269
-00:30:46,551 --> 00:30:51,474
+
+
 - An MPI in the 6's is not realistic.
 - I didn't say in the 6's Todd, I said get it down to 6.
 
-270
-00:30:51,600 --> 00:30:56,230
+
+
 6,59 is not 6, its 7, you need to get it down to 6.0
 
-271
-00:30:56,360 --> 00:30:58,112
+
+
 You're kidding me? We had a deal.
 
-272
-00:30:58,240 --> 00:31:01,516
+
+
 Seattle agents calls, getting offline on Sunday.
 Expect a bump in calls on.
 
-273
-00:31:01,640 --> 00:31:04,996
+
+
 You know what a 6 is in the industry.
 Anything below 7. That’s the definition
 
-274
-00:31:05,120 --> 00:31:09,875
+
+
 Don't you read you contract?
 We said get it down to 6, I'm holding it at 6.
 
-275
-00:31:10,000 --> 00:31:12,389
+
+
 Dave, you're a corporate slime ball.
 
-276
-00:31:12,520 --> 00:31:17,071
+
+
 Watch it Todd, you lose your stock options,
 and you'll be living in a cardboard box.
 
-277
-00:31:17,200 --> 00:31:19,509
+
+
 - Dave...
 - I gotta go
 
-278
-00:32:00,440 --> 00:32:04,672
+
+
 Julie?... Hey, it’s me.
 
-279
-00:32:04,800 --> 00:32:09,078
+
+
 Yeah... how you doing?
 
-280
-00:32:09,200 --> 00:32:11,509
+
+
 Just wanted to check in and say hi.
 
-281
-00:32:13,960 --> 00:32:18,158
+
+
 Oh nothing... just wanted to hear your voice.
 
-282
-00:32:18,280 --> 00:32:20,271
+
+
 I miss you.
 
-283
-00:32:22,080 --> 00:32:24,640
+
+
 Oh, I know, I'm sorry, did I wake you?
 
-284
-00:32:29,000 --> 00:32:32,959
+
+
 Yeah, I know... I know.
 
-285
-00:32:36,880 --> 00:32:39,155
+
+
 Is somebody there?
 
-286
-00:32:52,180 --> 00:32:53,955
+
+
 Money...
 
-287
-00:33:07,920 --> 00:33:10,150
+
+
 Cheeseburger.
 
-288
-00:33:15,680 --> 00:33:20,179
+
+
 How much to take me to Bombay?
 To Bhagat Singh Road, right now?
 
-289
-00:33:20,180 --> 00:33:26,349
+
+
 Oh no sir, Bombay is too far, it will use too much
 petrol, it will damage my car, it’s impossible.
 
-290
-00:33:26,480 --> 00:33:29,711
+
+
 - OK, 6000 rupees.
 - Don't sweat it, I'm gonna expense it.
 
-291
-00:33:29,840 --> 00:33:33,389
+
+
 - OK sir, 5000 rupees and not a rupee less.
 - Whatever.
 
-292
-00:33:33,520 --> 00:33:38,514
+
+
 OK, my deal is that, sir! I'll take you
 to Bombay for 4000 rupees.
 
-293
-00:33:54,360 --> 00:33:56,316
+
+
 Hello sir... how may I help you?
 
-294
-00:33:56,440 --> 00:34:01,833
+
+
 - I like two cheeseburgers, a large fries...
 - Sorry, but we don't have cheeseburgers here, sir.
 
-295
-00:34:01,960 --> 00:34:04,428
+
+
 What?... I thought this is McDonald's?
 
-296
-00:34:04,560 --> 00:34:08,439
+
+
 Sorry, sir... this is MacDonnell’s.
 
-297
-00:34:08,560 --> 00:34:13,588
+
+
 Get the Maharaja veggie burger.
 It’s as close as you gonna get.
 
-298
-00:34:13,720 --> 00:34:16,871
+
+
 I came all the way from Gharapuri
 for a cheeseburger.
 
-299
-00:34:17,000 --> 00:34:22,074
+
+
 You know they have a real McDonald's in
 Gharapuri, you still can't get a cheeseburger.
 
-300
-00:34:24,480 --> 00:34:27,552
+
+
 You know what INDIA stands for, don't you?
 
-301
-00:34:27,680 --> 00:34:31,434
+
+
 'I'll Never Do It Again'
 
-302
-00:34:33,960 --> 00:34:37,077
+
+
 Did you hear about the guy who
 outsource his old job?
 
-303
-00:34:37,200 --> 00:34:39,873
+
+
 He writes code in San Francisco...
 makes 70 grand a year...
 
-304
-00:34:40,000 --> 00:34:43,037
+
+
 so he hires a guy in Bangalore
 to do his job for 12 grand.
 
-305
-00:34:43,160 --> 00:34:45,211
+
+
 His boss thinks he's telecommunicating.
 
-306
-00:34:45,313 --> 00:34:48,733
+
+
 He's got so much free time, he's thinking
 about getting another job just like it.
 
-307
-00:34:50,280 --> 00:34:54,068
+
+
 We've got Indian doctors, reading American X-rays.
 
-308
-00:34:54,200 --> 00:34:58,113
+
+
 Lawyers, writing briefs, I'm in customer service.
 
-309
-00:34:58,240 --> 00:35:00,754
+
+
 - Me too.
 - So, how long you're here for?
 
-310
-00:35:00,880 --> 00:35:05,158
+
+
 - I have to get my MPI under a flat 6.
 - Not in India.
 
-311
-00:35:05,280 --> 00:35:11,150
+
+
 Not unless you hire the accent neutral, that
 work for me, all you can hope for here is an 8.
 
-312
-00:35:11,280 --> 00:35:15,478
+
+
 - I can't go home till I get a 6.
 - Well, you better find yourself a wife then.
 
-313
-00:35:15,794 --> 00:35:16,821
+
+
 She'll call me 'Doad'.
 
-314
-00:35:17,094 --> 00:35:20,682
+
+
 - What?
 - My name is Todd, everyone says' Doad
 
-315
-00:35:22,760 --> 00:35:25,877
+
+
 Listen here, Todd.
 Just a word of advice.
 
-316
-00:35:26,000 --> 00:35:29,709
+
+
 I remember feeling, like you do.
 I was resisting India.
 
-317
-00:35:29,840 --> 00:35:33,071
+
+
 Once I gave in,
 I did much better.
 
-318
-00:35:51,880 --> 00:35:57,113
+
+
 I don't understand?
 What's so difficult about this order?
 
-319
-00:35:57,240 --> 00:36:00,357
+
+
 Pink over the blue, and I wanna stay
 away from the horizontal stripes.
 
-320
-00:36:00,480 --> 00:36:03,790
+
+
 - And may I ask you, are you married, ma'am?
 - Married? No.
 
-321
-00:36:03,920 --> 00:36:05,512
+
+
 Oh really?
 
-322
-00:36:05,640 --> 00:36:11,317
+
+
 - Look buddy, I assure you, I'm in Chicago.
 - Yeah, right.
 
-323
-00:36:12,720 --> 00:36:14,438
+
+
 Oh god.
 
-324
-00:36:14,560 --> 00:36:18,030
+
+
 Puro, where have you been?
 Things are going crazy here.
 
-325
-00:36:18,160 --> 00:36:21,232
+
+
 How can you be even... wandering off,
 You're suppose to be coaching these people.
 
-326
-00:36:21,360 --> 00:36:25,672
+
+
 Maduri is having a nervous breakdown, and
 Manmeet hits, on every women who calls.
 
-327
-00:36:25,800 --> 00:36:29,076
+
+
 And... where is the glass to this god damn office?
 
-328
-00:36:29,200 --> 00:36:31,589
+
+
 I'm sorry sir... very sorry.
 
-329
-00:36:31,720 --> 00:36:34,109
+
+
 The glass is coming presently.
 
-330
-00:36:34,240 --> 00:36:37,038
+
+
 What's all this?
 
-331
-00:36:37,160 --> 00:36:40,152
+
+
 For you sir, you don't look well.
 
-332
-00:36:40,280 --> 00:36:45,434
+
+
 This food helps with your stomach, Aunt Ji made
 it for you, okay for you to eat, no problem.
 
-333
-00:36:46,060 --> 00:36:50,396
+
+
 - Well...
 - What sir?
 
-334
-00:36:51,120 --> 00:36:54,556
+
+
 I'm sorry.
 Thank you.
 
-335
-00:38:20,360 --> 00:38:24,638
+
+
 - Mr. Doad... stop!.
 - Puro?
 
-336
-00:38:24,760 --> 00:38:30,153
+
+
 I'm very sorry, I should have told you this earlier,
 you should not wear good clothes on this day.
 
-337
-00:38:30,280 --> 00:38:32,316
+
+
 Watch out!
 
-338
-00:38:36,080 --> 00:38:42,269
+
+
 I'm very sorry, Mr. Doad, you should not have
 worn good clothes on this day of holy.
 
-339
-00:38:42,760 --> 00:38:43,913
+
+
 Come on now.
 
-340
-00:38:46,160 --> 00:38:48,913
+
+
 - Holy what?
 - Just Holy.
 
-341
-00:38:49,040 --> 00:38:53,352
+
+
 Celebration of color, changing of season.
 I didn't think you dressed already.
 
-342
-00:38:53,480 --> 00:38:58,600
+
+
 Don't worry, I have this, I'll protect you.
 Come with me, come... come.
 
-343
-00:39:07,200 --> 00:39:09,475
+
+
 Come, Mr. Doad, come.
 
-344
-00:39:27,880 --> 00:39:31,395
+
+
 Oh... no...
 Mr. Doad... are you OK?
 
-345
-00:39:33,120 --> 00:39:36,657
+
+
 - Give me one of those.
 - Ok... here.
 
-346
-00:39:39,920 --> 00:39:45,119
+
+
 - Oh... that’s a good shot.
 - I used to play baseball in college.
 
-347
-00:39:45,240 --> 00:39:49,199
+
+
 - You like cricket, huh... a very boring game, huh?
 - Give me another.
 
-348
-00:39:55,640 --> 00:39:59,428
+
+
 Happy Holy... come, Mr. Doad.
 
-349
-00:40:22,540 --> 00:40:23,951
+
+
 Happy Holy...
 
-350
-00:41:38,440 --> 00:41:40,351
+
+
 Any calls?
 
-351
-00:41:53,960 --> 00:41:56,076
+
+
 Need a pen?
 
-352
-00:42:00,120 --> 00:42:03,874
+
+
 Pick any one you want.
 No, no, not all...
 
-353
-00:42:08,720 --> 00:42:11,917
+
+
 It's pretty good.
 
-354
-00:42:12,040 --> 00:42:15,953
+
+
 - Oh, my god, we must go, we're late.
 - We can't go like this.
 
-355
-00:42:16,080 --> 00:42:19,868
+
+
 No problem, I'll take care of it on the way.
 Come, come, quickly.
 
-356
-00:42:33,320 --> 00:42:36,153
+
+
 - Sorry, somebody had to...
 - No, thank you.
 
-357
-00:42:36,280 --> 00:42:39,477
+
+
 Sorry we're late... Holy.
 
-358
-00:42:41,360 --> 00:42:45,558
+
+
 - Sorry... thank you, Asha.
 - Thank you sir.
 
-359
-00:42:57,400 --> 00:43:02,030
+
+
 Thank you very much.
 Thank you for shopping with Western Novelty.
 
-360
-00:43:13,760 --> 00:43:18,595
+
+
 Before everyone takes off, I just...
 I like to call a little meeting.
 
-361
-00:43:18,720 --> 00:43:24,033
+
+
 I wanna apology to all of you, especially Asha.
 She was right.
 
-362
-00:43:24,160 --> 00:43:26,116
+
+
 I'd need to learn about India.
 
-363
-00:43:26,240 --> 00:43:29,676
+
+
 - Sir, there's no need to...
 - No, wait. Let me finish please.
 
-364
-00:43:29,800 --> 00:43:33,952
+
+
 Our first mistake, is trying to run this, like an
 American office. So I wanna ask you...
 
-365
-00:43:34,080 --> 00:43:37,868
+
+
 How can do we do things differently, what would
 make your work day a more positive experience.
 
-366
-00:43:38,000 --> 00:43:39,399
+
+
 Yes, Sanjay?
 
-367
-00:43:39,520 --> 00:43:43,832
+
+
 Sir... may I bring in my family
 pictures, for my desk?
 
-368
-00:43:43,960 --> 00:43:47,111
+
+
 Yes, bring pictures of them all,
 I wanna see the whole family.
 
-369
-00:43:47,240 --> 00:43:50,710
+
+
 What else?
 Krishna?
 
-370
-00:43:50,840 --> 00:43:56,153
+
+
 - Sir, may I bring murti's for my desk?
 - Murti's? Absolutely, whatever those are, I want...
 
-371
-00:43:56,154 --> 00:44:00,717
+
+
 anyone can bring whatever they want to make this space their own, as long as it doesn’t get in the way of work.
 
-372
-00:44:00,840 --> 00:44:03,438
+
+
 - Maduri?
 - Sir...
 
-373
-00:44:03,660 --> 00:44:07,753
+
+
 Puro said that, we must wear only
 western clothes to do western business.
 
-374
-00:44:07,880 --> 00:44:09,677
+
+
 Wear, whatever you want.
 
-375
-00:44:11,280 --> 00:44:15,068
+
+
 - What is your good name?
 - I'm Rani, sir.
 
-376
-00:44:15,200 --> 00:44:19,239
+
+
 Sir, would it be possible, to get a
 discount on Western Novelty products?
 
-377
-00:44:19,360 --> 00:44:21,828
+
+
 Is there something unparticular,
 you were interested in?
 
-378
-00:44:21,960 --> 00:44:28,035
+
+
 - Sir, number D100... astrology placemats.
 - You want those cheesy things?
 
-379
-00:44:28,160 --> 00:44:31,152
+
+
 I'm sure... I could get you a set for free.
 
-380
-00:44:34,020 --> 00:44:37,949
+
+
 - Ah... yes?
 - What about the ceramic basket?
 
-381
-00:44:38,080 --> 00:44:42,154
+
+
 You guys want this stuff?
 You like the Western you're selling?
 
-382
-00:44:42,155 --> 00:44:46,431
+
+
 - Yea... yea.
 - Alright... alright, here is what we'll do.
 
-383
-00:44:46,560 --> 00:44:50,473
+
+
 I'll call the Company, and I'll ask them to ship us a
 collection of the most popular items in the catalogue.
 
-384
-00:44:50,600 --> 00:44:55,958
+
+
 Whoever improves their MPI the most, on a
 given day, can get their pick in merchandise.
 
-385
-00:44:56,080 --> 00:45:00,471
+
+
 Alright, great job everyone.
 Thank you.
 
-386
-00:45:12,520 --> 00:45:13,919
+
+
 What is that?
 
-387
-00:45:14,040 --> 00:45:18,318
+
+
 Massala, rock salt, cumin, chili pepper,
 makes it better.
 
-388
-00:45:24,080 --> 00:45:27,038
+
+
 - Nice?
 - Oh wow!
 
-389
-00:45:30,548 --> 00:45:31,599
+
+
 OK.
 
-390
-00:45:32,200 --> 00:45:35,715
+
+
 You know when I was young, Holy was the
 favorite day of the year.
 
-391
-00:45:35,840 --> 00:45:37,409
+
+
 I used to await it eagerly.
 
-392
-00:45:37,868 --> 00:45:39,697
+
+
 For me, it was Halloween.
 You know Halloween?
 
-393
-00:45:39,732 --> 00:45:44,873
+
+
 The costumes? My mom used to make
 these great homemade costumes...
 
-394
-00:45:45,080 --> 00:45:48,470
+
+
 It’s funny, I should think about my parents.
 
-395
-00:45:50,320 --> 00:45:54,074
+
+
 - You miss them?. Of course.
 - When I'm home, I don't miss them at all.
 
-396
-00:45:54,200 --> 00:45:57,670
+
+
 - Do you see them?
 - Not much, hardly ever.
 
-397
-00:45:57,800 --> 00:46:00,633
+
+
 - You don't live with your parents?
 - No...
 
-398
-00:46:00,660 --> 00:46:04,992
+
+
 No, they live in Yakima...
 Which is about 2 hours away.
 
-399
-00:46:05,120 --> 00:46:07,111
+
+
 But you see them every week?
 
-400
-00:46:07,240 --> 00:46:09,435
+
+
 No, a few times a year.
 
-401
-00:46:09,560 --> 00:46:13,269
+
+
 But why? They're so close.
 
-402
-00:46:13,400 --> 00:46:15,072
+
+
 I don't know.
 
-403
-00:46:15,200 --> 00:46:18,476
+
+
 Some things I don't understand
 about American life.
 
-404
-00:46:18,600 --> 00:46:21,353
+
+
 You don't live with your parents...
 Strange.
 
-405
-00:46:21,480 --> 00:46:26,429
+
+
 Another thing... you hate your boss,
 and you don't like this country, hmm?
 
-406
-00:46:26,560 --> 00:46:30,269
+
+
 Why not choose something else... hmm?
 
-407
-00:46:30,400 --> 00:46:32,960
+
+
 I don't know how to explain it.
 
-408
-00:46:33,080 --> 00:46:37,232
+
+
 I my world, it just make sense
 to work your ass off...
 
-409
-00:46:37,360 --> 00:46:42,673
+
+
 and go into credit card debt,
 so you can have that 50 inch plasma...
 
-410
-00:46:42,840 --> 00:46:46,435
+
+
 You like the HDSI or the Digiblack?
 Which one?
 
-411
-00:46:49,040 --> 00:46:52,715
+
+
 They're both good.
 
-412
-00:47:57,880 --> 00:48:01,793
+
+
 Todd sir, that’s my family.
 
-413
-00:48:01,920 --> 00:48:03,911
+
+
 That's impressive.
 
-414
-00:48:09,720 --> 00:48:12,598
+
+
 Asha... could you come here please?
 
-415
-00:48:22,160 --> 00:48:27,359
+
+
 Ok, here's the deal... you’re the best we have,
 and I've seen you giving advice to the others.
 
-416
-00:48:27,480 --> 00:48:31,234
+
+
 After I leave, Puro going
 to need an assistant-manager.
 
-417
-00:48:31,360 --> 00:48:37,071
+
+
 Now. We have to get the MPI to 6,0.
 Can you help us?
 
-418
-00:48:37,200 --> 00:48:39,953
+
+
 Of course.
 
-419
-00:48:43,320 --> 00:48:46,915
+
+
 You think... she can do it?
 
-420
-00:48:47,040 --> 00:48:49,634
+
+
 I think Asha can do anything.
 
-421
-00:48:49,760 --> 00:48:53,958
+
+
 Congratulation on your promotion, you only have to
 step in on calls, when someone is really in trouble.
 
-422
-00:48:54,080 --> 00:48:56,514
+
+
 Puro, you wanna, get her started?
 
-423
-00:48:58,320 --> 00:49:00,675
+
+
 - You know about this?
 - Yes, sir.
 
-424
-00:49:16,240 --> 00:49:21,314
+
+
 - Western Novelty, Gharapuri.
 - What the hell is wrong with you, Todd? You trying to bankrupt us?
 
-425
-00:49:21,440 --> 00:49:26,309
+
+
 - What are you talking about? You've seen the MPI?
 - I'm talking about this request to ship hundred of our products to India.
 
-426
-00:49:26,440 --> 00:49:29,238
+
+
 The agents can see the products online,
 They don't need to fondle them.
 
-427
-00:49:29,360 --> 00:49:32,477
+
+
 Actually they do, it’s an incentive.
 They need to understand what they're selling.
 
-428
-00:49:32,600 --> 00:49:35,050
+
+
 So promise them this time.
 Alright.
 
-429
-00:49:35,255 --> 00:49:37,160
+
+
 The freight got held up by
 a shipping delay at customs.
 
-430
-00:49:37,195 --> 00:49:39,355
+
+
 - You've got to think bottom line.
 - I am...
 
-431
-00:49:39,480 --> 00:49:45,157
+
+
 that’s why I wanna introduce our products to
 a potentially new market of over a billion people.
 
-432
-00:49:45,280 --> 00:49:48,909
+
+
 - Are you there?
 - I'll overnight it to you.
 
-433
-00:49:57,080 --> 00:49:58,798
+
+
 It’s working.
 
-434
-00:50:00,360 --> 00:50:04,797
+
+
 Your intended program is a very good idea, sir.
 I'm learning so much from you.
 
-435
-00:50:04,920 --> 00:50:07,593
+
+
 I can't believe you're so excited
 about these tacky stuff.
 
-436
-00:50:07,720 --> 00:50:11,030
+
+
 Tacky? What is tacky?
 
-437
-00:50:11,160 --> 00:50:14,436
+
+
 Oh... uh... tacky is like...
 
-438
-00:50:17,560 --> 00:50:19,596
+
+
 Oh... never mind.
 
-439
-00:50:27,240 --> 00:50:29,739
+
+
 Hey...
 
-440
-00:50:29,740 --> 00:50:33,115
+
+
 I've noticed that everyone signed up for
 the incentive program except you.
 
-441
-00:50:33,116 --> 00:50:34,792
+
+
 Don't you want anything?
 
-442
-00:50:34,920 --> 00:50:37,912
+
+
 What would I do with this?
 I'm a vegetarian.
 
-443
-00:50:40,440 --> 00:50:43,989
+
+
 I'm voting for carrots.
 
-444
-00:50:44,120 --> 00:50:49,399
+
+
 You American have more choices than anyone
 in the world, why would you choose this?
 
-445
-00:50:49,520 --> 00:50:52,592
+
+
 Actually... I got mine in red.
 
-446
-00:51:00,800 --> 00:51:02,233
+
+
 Uphold the town..
 
-447
-00:51:02,836 --> 00:51:03,887
+
+
 Hello.
 
-448
-00:51:06,440 --> 00:51:07,839
+
+
 You...
 Sorry.
 
-449
-00:51:07,960 --> 00:51:13,239
+
+
 With all the gin joints, in all the towns, in all
 the world, she had to walk into mine.
 
-450
-00:51:14,840 --> 00:51:19,436
+
+
 You know how to whistle don't you?
 Just put your lips together, and blow.
 
-451
-00:51:19,560 --> 00:51:22,233
+
+
 Shut up, just shut up.
 You had me in the (?).
 
-452
-00:51:22,360 --> 00:51:26,592
+
+
 My mama always said.
 Life is like a box of chocolates.
 
-453
-00:51:26,720 --> 00:51:30,395
+
+
 I have one word for you.
 Plastics.
 
-454
-00:51:33,600 --> 00:51:35,318
+
+
 Are you talking to me?
 
-455
-00:51:35,440 --> 00:51:40,116
+
+
 No, see now, it’s not 'are you talking to me?'
 Its 'you talkin' to me?'.
 
-456
-00:51:40,240 --> 00:51:43,118
+
+
 This are called reductions.
 American use them all the time.
 
-457
-00:51:43,240 --> 00:51:48,575
+
+
 'Got to go' becomes 'gotta go', 'would you'
 becomes 'woud'y', they jam those words together.
 
-458
-00:51:48,576 --> 00:51:51,558
+
+
 OK, try it again.
 Maybe with more voracity, this time.
 
-459
-00:51:53,500 --> 00:51:55,915
+
+
 Your talking to me?
 
-460
-00:51:56,715 --> 00:51:58,915
+
+
 You talkin' to me?
 
-461
-00:51:59,200 --> 00:52:02,715
+
+
 Wow... that’s very nice.
 I believe it.
 
-462
-00:52:04,240 --> 00:52:07,277
+
+
 OK, who else is ready to go?
 
-463
-00:52:07,400 --> 00:52:09,579
+
+
 - Now we have something for you.
 - What?
 
-464
-00:52:09,580 --> 00:52:13,678
+
+
 You will do a dance from an India movie
 You will be Salman Khan.
 
-465
-00:52:13,800 --> 00:52:17,429
+
+
 - No. Wait
 - Come on, dance... dance.
 
-466
-00:52:19,080 --> 00:52:21,796
+
+
 - Oh... no, no, no...
 - Its very simple...
 
-467
-00:52:23,280 --> 00:52:25,271
+
+
 I can't do that.
 
-468
-00:52:31,280 --> 00:52:34,511
+
+
 Come on, Toad... dance.
 Don't let me down.
 
-469
-00:53:15,480 --> 00:53:17,596
+
+
 You ironed my underwear?
 
-470
-00:53:17,720 --> 00:53:21,474
+
+
 Of course... doesn't your mother?
 
-471
-00:53:25,720 --> 00:53:29,998
+
+
 Yeah. I'm not sure, what she's referring to,
 but that part doesn't actually require batteries.
 
-472
-00:53:30,120 --> 00:53:34,671
+
+
 Mr. Todd, Mr. Puro, we have a problem.
 
-473
-00:53:34,800 --> 00:53:38,349
+
+
 The shipment from Western Novelty
 has gone to the wrong city.
 
-474
-00:53:38,480 --> 00:53:39,879
+
+
 What?... Where did it go?
 
-475
-00:53:40,000 --> 00:53:41,999
+
+
 They didn't write down the pin number, so...
 
-476
-00:53:42,034 --> 00:53:44,241
+
+
 now they send the entire shipment
 to the other Gharapuri.
 
-477
-00:53:44,400 --> 00:53:47,358
+
+
 Oh great.
 There's another Gharapuri?
 
-478
-00:53:47,480 --> 00:53:50,438
+
+
 3 hours drive... maybe 6?
 Depending on traffic.
 
-479
-00:53:50,560 --> 00:53:53,393
+
+
 And they will have to take a
 ferry from there.
 
-480
-00:53:53,520 --> 00:53:55,636
+
+
 It’s an island?
 
-481
-00:53:55,760 --> 00:53:59,614
+
+
 And there happens to be a 114 MG
 Road in the other Gharapuri?
 
-482
-00:53:59,940 --> 00:54:01,965
+
+
 Every town in India has an MG Road.
 
-483
-00:54:02,406 --> 00:54:04,762
+
+
 Its stands for Mahatma Gandhi.
 He was the father of our nation.
 
-484
-00:54:04,897 --> 00:54:07,319
+
+
 - Right... okay, can you take care of this?
 - No problem.
 
-485
-00:54:07,440 --> 00:54:12,195
+
+
 But first I must sleep for 2 hours, so I can come
 back for the interviews of the new agents.
 
-486
-00:54:12,320 --> 00:54:15,884
+
+
 - Then I must make sure, my mother gets to the hospital.
 - Never mind... I'll go.
 
-487
-00:54:16,401 --> 00:54:17,905
+
+
 If we lose the incentive, everything falls apart.
 
-488
-00:54:18,297 --> 00:54:20,180
+
+
 But someone should go with you.
 
-489
-00:54:20,416 --> 00:54:22,447
+
+
 If we leave now,
 we can get back before night.
 
-490
-00:54:22,520 --> 00:54:26,479
+
+
 - You want to go with him?
 - Well, I'm the future assistant-manager.
 
-491
-00:54:26,600 --> 00:54:28,591
+
+
 Right?
 
-492
-00:54:36,400 --> 00:54:42,316
+
+
 I'm pretty sure there is a painting of her in my room.
 I feels like she following me around.
 
-493
-00:54:42,440 --> 00:54:46,115
+
+
 That's Kali, the goddess of destruction.
 
-494
-00:54:48,600 --> 00:54:51,990
+
+
 Why would you want the goddess
 of destruction in your car?
 
-495
-00:54:52,120 --> 00:54:54,400
+
+
 Well, sometime destruction is a good thing.
 
-496
-00:54:54,942 --> 00:54:57,221
+
+
 She ends one cycle, so a new one can begin.
 
-497
-00:54:58,200 --> 00:55:02,034
+
+
 - Why don't you ask her for something?
 - Alright.
 
-498
-00:55:03,880 --> 00:55:06,917
+
+
 Destroy something for me, so I'll understand.
 
-499
-00:55:36,640 --> 00:55:41,111
+
+
 We have to a... get a ferry, and he'll wait here for us.
 
-500
-00:55:54,280 --> 00:55:57,795
+
+
 Oh my god, look... her hat.
 
-501
-00:55:57,920 --> 00:56:01,959
+
+
 That’s our product... Western item D334.
 
-502
-00:56:02,080 --> 00:56:06,119
+
+
 Wow, I never actually seen one on of
 our customer in the flesh before.
 
-503
-00:56:06,240 --> 00:56:09,869
+
+
 - What’s with all the tourist?
 - Oh, some famous cave.
 
-504
-00:56:10,000 --> 00:56:12,798
+
+
 It doesn't feel like India any more.
 
-505
-00:56:16,520 --> 00:56:19,034
+
+
 I could do it, you know.
 
-506
-00:56:19,160 --> 00:56:23,392
+
+
 - Do what?
 - Your accent... if I had to, I could do it.
 
-507
-00:56:25,320 --> 00:56:28,312
+
+
 'I'll take one of them cheese head hats. '
 
-508
-00:56:29,920 --> 00:56:33,033
+
+
 Yeah Madam, no problem...
 we do have them cheese heads.
 
-509
-00:56:33,361 --> 00:56:34,737
+
+
 What size do you want to purchase?
 
-510
-00:56:34,760 --> 00:56:38,514
+
+
 You’re not one of them outsourcer, are you?
 What’s your name?
 
-511
-00:56:38,640 --> 00:56:42,235
+
+
 My name is Larry.
 May I kindly have your credit number?
 
-512
-00:56:42,360 --> 00:56:45,272
+
+
 If you're American?
 What's our national bird.
 
-513
-00:56:45,400 --> 00:56:48,437
+
+
 Oh yeah. It’s a big vulture with a big white head.
 
-514
-00:56:48,560 --> 00:56:50,676
+
+
 Let me speak to your supervisor?
 
-515
-00:56:50,800 --> 00:56:54,110
+
+
 Certainly sir... hello, I'm the supervisor,
 how may I be helping you?
 
-516
-00:56:54,240 --> 00:56:56,465
+
+
 You sound just like the other guy.
 
-517
-00:56:56,742 --> 00:57:00,268
+
+
 No sir. Some of us do sounds alike.
 There are over 1 billion of us, you know.
 
-518
-00:57:03,400 --> 00:57:06,358
+
+
 That’s... terrible.
 
-519
-00:57:51,960 --> 00:57:55,859
+
+
 Nice... I guess we can let him keep his table.
 
-520
-00:57:56,172 --> 00:57:57,954
+
+
 How we gonna get it back to the ferry?
 
-521
-00:58:16,600 --> 00:58:19,239
+
+
 - What’s that?
 - It's a temple.
 
-522
-00:58:22,120 --> 00:58:26,113
+
+
 - A temple for what?
 - Shiva Lingam.
 
-523
-00:58:30,320 --> 00:58:32,880
+
+
 What’s a Lingam?
 
-524
-00:58:33,000 --> 00:58:35,719
+
+
 Well... you know...
 
-525
-00:58:37,760 --> 00:58:40,513
+
+
 the male... part.
 
-526
-00:58:43,840 --> 00:58:47,230
+
+
 Hey, Todd, Todd, if you're going in,
 take off your shoes.
 
-527
-00:58:57,360 --> 00:59:00,397
+
+
 Is this... the male part?
 
-528
-00:59:00,520 --> 00:59:03,512
+
+
 It's a symbol of creation.
 
-529
-00:59:03,640 --> 00:59:07,838
+
+
 - And the... female part?
 - Yea, they go together.
 
-530
-00:59:09,840 --> 00:59:15,437
+
+
 You see, Shiva was a very powerful god, and he grew
 tired of the cycle of life, death and reincarnation.
 
-531
-00:59:15,560 --> 00:59:20,846
+
+
 So, he decided to give up the pleasures of life,
 and he smeared his body in ash.
 
-532
-00:59:21,418 --> 00:59:22,837
+
+
 - Ash?
 - Yes
 
-533
-00:59:22,872 --> 00:59:26,630
+
+
 And he didn't eat, or drink, or indulge,
 in any physical pleasure.
 
-534
-00:59:26,760 --> 00:59:30,639
+
+
 And this created a terrible fire within him.
 
-535
-00:59:30,760 --> 00:59:32,671
+
+
 Well... sure.
 
-536
-00:59:32,800 --> 00:59:38,636
+
+
 And that transformed him, in to a blazing lingam,
 which threaten to destroy all creation.
 
-537
-00:59:40,760 --> 00:59:45,197
+
+
 The other gods didn't know what to do,
 so a Yoni appeared, as a goddess.
 
-538
-00:59:45,320 --> 00:59:48,517
+
+
 And she absorbed the terrible heat.
 
-539
-00:59:48,640 --> 00:59:53,436
+
+
 Restoring balance to the world, and
 saving the universe from destruction.
 
-540
-00:59:56,511 --> 00:59:57,338
+
+
 Wow.
 
-541
-00:59:58,243 --> 00:59:59,188
+
+
 Close call.
 
-542
-01:00:02,640 --> 01:00:05,759
+
+
 - Do you want a mango?
 - Sure.
 
-543
-01:00:14,680 --> 01:00:17,353
+
+
 Have you ever eaten a mango before?
 
-544
-01:00:17,480 --> 01:00:19,550
+
+
 First time, it's great.
 
-545
-01:00:21,960 --> 01:00:23,791
+
+
 Eat it like this.
 
-546
-01:00:28,680 --> 01:00:30,511
+
+
 Hello, sir.
 
-547
-01:00:32,520 --> 01:00:35,353
+
+
 You needing nice room?
 
-548
-01:00:35,480 --> 01:00:37,914
+
+
 Need a room, no... we're taking the ferry.
 
-549
-01:00:38,040 --> 01:00:43,273
+
+
 The ferry's not happening, I'll get
 you last room, very good price.
 
-550
-01:00:43,400 --> 01:00:47,029
+
+
 - The ferry is not happening?
 - Yeah... ferry is blowing up.
 
-551
-01:00:47,160 --> 01:00:51,438
+
+
 You staying here, I get you really nice room, sir.
 
-552
-01:00:51,560 --> 01:00:55,030
+
+
 That’s right.
 'Ferry's blowing up. '
 
-553
-01:01:03,760 --> 01:01:09,630
+
+
 Sir, I gave you last hotel room on island.
 For very special price.
 
-554
-01:01:15,600 --> 01:01:17,397
+
+
 Go on, sir.
 
-555
-01:01:25,440 --> 01:01:28,179
+
+
 Welcome, sir... welcome.
 
-556
-01:01:28,200 --> 01:01:34,548
+
+
 Good afternoon.
 I guess we'll take... two standard rooms.
 
-557
-01:01:34,680 --> 01:01:38,070
+
+
 No sir, no standard rooms.
 I'm very sorry sir.
 
-558
-01:01:38,200 --> 01:01:41,988
+
+
 - Two deluxe rooms.
 - Unfortunately sir, deluxe rooms are already taken.
 
-559
-01:01:42,120 --> 01:01:44,680
+
+
 We have only one room available, sir.
 
-560
-01:01:46,480 --> 01:01:50,996
+
+
 - The luxury suite?
 - No sir, the luxury suite is not available.
 
-561
-01:01:51,120 --> 01:01:55,193
+
+
 But we only have one room available,
 and the foreigners are very happy, sir.
 
-562
-01:02:19,520 --> 01:02:22,671
+
+
 OK, that’s good.
 
-563
-01:02:22,800 --> 01:02:24,518
+
+
 Yea, that’s great.
 
-564
-01:02:24,640 --> 01:02:27,632
+
+
 - Yea... thank you sir, that’s fine.
 - Give him money.
 
-565
-01:02:28,880 --> 01:02:33,476
+
+
 Ah... sir, that’s enough.
 That’s good.
 
-566
-01:02:36,400 --> 01:02:38,994
+
+
 OK, thank you, thanks’ for everything.
 
-567
-01:02:46,560 --> 01:02:50,348
+
+
 Well, this is... incredibly awkward.
 
-568
-01:02:50,480 --> 01:02:52,948
+
+
 Why you're surprised?
 
-569
-01:02:53,080 --> 01:02:54,458
+
+
 Oh, this is my fault?
 
-570
-01:02:55,379 --> 01:02:57,555
+
+
 Of course, it's your fault,
 You asked Kali to destroy something.
 
-571
-01:02:57,590 --> 01:03:00,404
+
+
 It’s not a joke. She blew up the
 ferry and now we're stuck here.
 
-572
-01:03:00,653 --> 01:03:02,808
+
+
 You told me too, you said
 sometimes destruction can be good.
 
-573
-01:03:02,849 --> 01:03:04,091
+
+
 How can this be a good thing?
 
-574
-01:03:04,418 --> 01:03:07,568
+
+
 How can I tell my parents, that I spent
 the night with you at the Kama sutra Hotel.
 
-575
-01:03:07,603 --> 01:03:09,470
+
+
 Well, I'm not gonna tell them.
 
-576
-01:03:09,600 --> 01:03:15,011
+
+
 Your standing downstairs at reception desk, and
 that sleazy guy's saying this room's not available...
 
-577
-01:03:15,040 --> 01:03:17,158
+
+
 and that room's not available, and you just say... Oh.
 
-578
-01:03:17,280 --> 01:03:18,838
+
+
 Why didn't you say anything?
 
-579
-01:03:19,134 --> 01:03:20,972
+
+
 Why didn't you say anything?
 I don't know how this country works.
 
-580
-01:03:21,000 --> 01:03:23,761
+
+
 You know, I can't even talk to you with
 that stupid mango all over your face.
 
-581
-01:03:24,116 --> 01:03:26,089
+
+
 I don't have mango all over my face.
 
-582
-01:03:26,124 --> 01:03:29,012
+
+
 - It’s all over your face.
 - Is it?
 
-583
-01:03:29,013 --> 01:03:30,512
+
+
 Yeah.
 
-584
-01:03:34,560 --> 01:03:36,437
+
+
 I can't see anything.
 
-585
-01:03:38,320 --> 01:03:40,231
+
+
 Help me out, I can't...
 
-586
-01:04:12,320 --> 01:04:15,232
+
+
 'The deer and the hare. '
 
-587
-01:04:16,880 --> 01:04:19,952
+
+
 'It's the coupling of the swans. '
 
-588
-01:04:26,440 --> 01:04:30,797
+
+
 Oh my god...
 'The monkey pulls the turnip. '
 
-589
-01:04:30,920 --> 01:04:35,153
+
+
 - No, that's... that is impossible.
 - Come on, let's try it.
 
-590
-01:04:35,213 --> 01:04:36,764
+
+
 - No!.
 - Yeah, let's try it!
 
-591
-01:04:36,765 --> 01:04:38,903
+
+
 - You said I should learn about India.
 - No!
 
-592
-01:04:45,240 --> 01:04:48,277
+
+
 Todd, no one must know about this.
 
-593
-01:04:48,400 --> 01:04:50,212
+
+
 It must be our secret.
 
-594
-01:04:50,346 --> 01:04:53,101
+
+
 We stayed in different rooms, in different
 hotels, and nothing happened.
 
-595
-01:04:53,336 --> 01:04:55,956
+
+
 Of course, I understand.
 
-596
-01:05:13,760 --> 01:05:15,955
+
+
 Here, listen to this.
 
-597
-01:05:16,080 --> 01:05:17,957
+
+
 Press that.
 
-598
-01:05:20,880 --> 01:05:25,112
+
+
 So now when I call you, you'll have
 your own official Bollywood ringtone.
 
-599
-01:05:25,240 --> 01:05:27,998
+
+
 It’s part of your continuing
 education in India.
 
-600
-01:05:28,178 --> 01:05:29,010
+
+
 Thanks’
 
-601
-01:05:34,680 --> 01:05:38,229
+
+
 Well, have a good afternoon, Miss Asha.
 
-602
-01:05:38,360 --> 01:05:40,954
+
+
 I'll see you at work, Mr. Doad.
 
-603
-01:05:51,440 --> 01:05:54,034
+
+
 Hey... Kid!
 
-604
-01:06:00,520 --> 01:06:04,195
+
+
 That's for you to draw... paint.
 
-605
-01:06:10,820 --> 01:06:13,995
+
+
 - Hello...
 - Hey!
 
-606
-01:06:15,800 --> 01:06:19,031
+
+
 You see that?
 Unbelievable.
 
-607
-01:06:22,760 --> 01:06:26,435
+
+
 Mr. Todd, please go to line 15,
 we have a problem.
 
-608
-01:06:30,060 --> 01:06:33,935
+
+
 - Hi.
 - Hi.
 
-609
-01:06:34,200 --> 01:06:37,656
+
+
 - Is this an empty line?
 - Yes.
 
-610
-01:06:37,680 --> 01:06:41,116
+
+
 - Hello.
 - Very nice to chat with you.
 
-611
-01:06:41,240 --> 01:06:43,595
+
+
 You said there was a problem?.
 
-612
-01:06:43,720 --> 01:06:46,774
+
+
 Yes sir... the problem is I have
 to sit 3 feet away from you...
 
-613
-01:06:46,948 --> 01:06:48,427
+
+
 and I can't come any closer.
 
-614
-01:06:50,123 --> 01:06:51,888
+
+
 Yes, that is a problem...
 
-615
-01:06:52,190 --> 01:06:53,998
+
+
 perhaps we can solve that after work?
 
-616
-01:06:54,720 --> 01:06:56,711
+
+
 I'm afraid, that might not be possible.
 
-617
-01:06:56,840 --> 01:07:00,628
+
+
 But, perhaps if we leave separately and
 go to the market, we could meet there.
 
-618
-01:07:00,961 --> 01:07:02,207
+
+
 Well ma'am...
 
-619
-01:07:02,371 --> 01:07:06,422
+
+
 I have to say, your perfume is driving me crazy,
 is there any way we can expedite this order?
 
-620
-01:07:06,920 --> 01:07:09,832
+
+
 May I correct you, sir...
 It is not perfume, it is cardamom...
 
-621
-01:07:09,960 --> 01:07:13,551
+
+
 We live next to a spice merchant,
 and he grinds cardamom all day...
 
-622
-01:07:13,566 --> 01:07:15,048
+
+
 it gets in to all our clothes.
 
-623
-01:07:15,840 --> 01:07:18,912
+
+
 I... like it.
 
-624
-01:07:19,040 --> 01:07:22,915
+
+
 I... 'm glad you like it, sir.
 
-625
-01:07:24,240 --> 01:07:27,994
+
+
 You're lucky he doesn't sell garlic.
 
-626
-01:07:31,600 --> 01:07:34,068
+
+
 Yes I am, sir.
 
-627
-01:07:58,280 --> 01:08:03,593
+
+
 My neighbor is buying cabbages over there.
 Come with me.
 
-628
-01:08:11,640 --> 01:08:14,791
+
+
 I think we're Ok now.
 
-629
-01:08:14,920 --> 01:08:17,593
+
+
 Don't touch me, not in public.
 
-630
-01:08:17,720 --> 01:08:22,003
+
+
 - But... I can help you down the stairs.
 - Thanks’.
 
-631
-01:08:26,040 --> 01:08:30,397
+
+
 The MPI is almost down to 6...
 I have to leave soon.
 
-632
-01:08:30,520 --> 01:08:32,988
+
+
 I know... Puro told me.
 
-633
-01:08:34,720 --> 01:08:36,870
+
+
 What'd you think about...
 
-634
-01:08:37,000 --> 01:08:39,798
+
+
 living in the US?
 
-635
-01:08:39,920 --> 01:08:43,125
+
+
 I would miss my parents, it would be too hard.
 
-636
-01:08:43,308 --> 01:08:44,631
+
+
 Have you ever thought, about living here?
 
-637
-01:08:44,840 --> 01:08:47,408
+
+
 Here?... a, yea...
 
-638
-01:08:47,440 --> 01:08:51,558
+
+
 I would, but I think, I'd miss my
 hot dog toaster too much.
 
-639
-01:08:53,400 --> 01:08:57,496
+
+
 - We're close.
 - You think so?... How close?
 
-640
-01:08:57,820 --> 01:09:01,078
+
+
 - Oh... I can't really get into it.
 - That’s not a good thing.
 
-641
-01:09:01,200 --> 01:09:05,273
+
+
 - Lets go, get some tea.
 - No, I can't, not here, please.
 
-642
-01:09:05,400 --> 01:09:09,188
+
+
 - People might talk.
 - So what if they talk?
 
-643
-01:09:09,320 --> 01:09:13,438
+
+
 I should be more careful, like I shouldn't
 be seen with you, speaking like this.
 
-644
-01:09:13,560 --> 01:09:16,677
+
+
 - Like how?
 - Intensely.
 
-645
-01:09:16,800 --> 01:09:17,850
+
+
 Ah... why not...?
 
-646
-01:09:18,112 --> 01:09:21,308
+
+
 You’re a free woman, why shouldn't
 you speak intensely if you want...
 
-647
-01:09:21,309 --> 01:09:23,679
+
+
 Why do you always worry,
 about what people think?
 
-648
-01:09:28,600 --> 01:09:30,989
+
+
 Because...
 
-649
-01:09:31,120 --> 01:09:33,429
+
+
 I'm engaged to be married.
 
-650
-01:09:35,960 --> 01:09:38,520
+
+
 - Engaged?
 - Yes.
 
-651
-01:09:43,000 --> 01:09:45,150
+
+
 How long have you been engaged?
 
-652
-01:09:45,280 --> 01:09:50,115
+
+
 Since I was four years old, our families
 have known each other for generations.
 
-653
-01:09:50,240 --> 01:09:54,836
+
+
 His name Ashok, he has a
 very good job, and very polite.
 
-654
-01:09:54,960 --> 01:09:57,997
+
+
 We will be married in July.
 
-655
-01:10:01,360 --> 01:10:03,590
+
+
 Do you love him?
 
-656
-01:10:03,720 --> 01:10:05,995
+
+
 Not yet.
 
-657
-01:10:07,840 --> 01:10:10,035
+
+
 I can't believe this.
 
-658
-01:10:12,120 --> 01:10:16,955
+
+
 I just can't believe that... someone as strong,
 and smart and as opinionated...
 
-659
-01:10:17,080 --> 01:10:20,072
+
+
 as you, would settle for an arranged marriage.
 
-660
-01:10:20,200 --> 01:10:24,955
+
+
 - I will learn to love him.
 - What about your right to choose for yourself?
 
-661
-01:10:25,080 --> 01:10:28,709
+
+
 My parents met each other on their wedding day,
 and they loved each other.
 
-662
-01:10:28,840 --> 01:10:30,637
+
+
 To me that’s crazy.
 
-663
-01:10:30,760 --> 01:10:35,675
+
+
 Some people would say,
 Americans 50 percent divorce rate is crazy.
 
-664
-01:10:35,800 --> 01:10:38,598
+
+
 Will you tell... Ashok about us?
 
-665
-01:10:38,720 --> 01:10:42,235
+
+
 No... of course not, no one must know.
 
-666
-01:10:44,400 --> 01:10:46,755
+
+
 What'd you call this, what you and I are doing?
 
-667
-01:10:48,920 --> 01:10:52,799
+
+
 - Holiday in Goa.
 - What?
 
-668
-01:10:52,920 --> 01:10:55,559
+
+
 It's something my friends and I say.
 
-669
-01:10:55,680 --> 01:11:00,356
+
+
 A friend of mine, she fell in love with a boy,
 one month before she had to get married.
 
-670
-01:11:00,480 --> 01:11:02,630
+
+
 He was a boy from her school.
 
-671
-01:11:02,760 --> 01:11:05,877
+
+
 So, she told her parents,
 she was under a lot of stress...
 
-672
-01:11:06,000 --> 01:11:09,117
+
+
 and she had to go on a holiday in Goa alone.
 
-673
-01:11:09,240 --> 01:11:15,475
+
+
 So, she and the boy went to the beach,
 they had 3 weeks together...
 
-674
-01:11:15,600 --> 01:11:17,909
+
+
 and then she came back, and got married.
 
-675
-01:11:20,760 --> 01:11:23,911
+
+
 So, I'm just your holiday in... Goa?
 
-676
-01:11:25,760 --> 01:11:27,637
+
+
 No, not 'Just'...
 
-677
-01:11:29,000 --> 01:11:31,833
+
+
 My only holiday in Goa.
 
-678
-01:11:45,920 --> 01:11:49,595
+
+
 So, where can we go to be in Goa?
 
-679
-01:11:53,480 --> 01:11:57,439
+
+
 Shake my hand like a business
 person, and go inside.
 
-680
-01:11:57,560 --> 01:12:01,235
+
+
 - It's a pleasure talking with you, Miss a...
 - Badwadikar.
 
-681
-01:12:23,060 --> 01:12:24,928
+
+
 Hey...
 
-682
-01:12:25,460 --> 01:12:29,928
+
+
 - Sir?
 - Hi.
 
-683
-01:12:32,360 --> 01:12:35,428
+
+
 I thought, sorry, I... I don't, I don't have any...
 
-684
-01:12:40,440 --> 01:12:44,992
+
+
 - You want me to come over?
 - Aha... ha.
 
-685
-01:16:07,040 --> 01:16:09,039
+
+
 - Hello.
 - It's Dave.
 
-686
-01:16:09,160 --> 01:16:11,799
+
+
 - Did you see our numbers?
 - No, I was traveling.
 
-687
-01:16:11,920 --> 01:16:14,556
+
+
 - You mean you didn't see any of them?
 - No, I need a ride.
 
-688
-01:16:14,818 --> 01:16:16,080
+
+
 A ride?
 
-689
-01:16:16,115 --> 01:16:21,078
+
+
 I'm at the train station, I just got here from Bombay,
 on the damn night train, get over here and pick me up.
 
-690
-01:16:24,240 --> 01:16:26,435
+
+
 Wait one minute.
 
-691
-01:16:39,680 --> 01:16:43,017
+
+
 Dave... what you're doing here?
 
-692
-01:16:44,231 --> 01:16:46,453
+
+
 It's a surprise.
 
-693
-01:16:46,896 --> 01:16:49,159
+
+
 Hello sir... hello... hi.
 
-694
-01:16:49,160 --> 01:16:52,311
+
+
 You want cola? Wait, wait... I will make.
 
-695
-01:17:04,840 --> 01:17:09,356
+
+
 - Looks like a storage unit.
 - You get what you pay for.
 
-696
-01:17:09,480 --> 01:17:12,790
+
+
 - What’s with the music?
 - It’s probably a wedding, Dave...
 
-697
-01:17:12,920 --> 01:17:13,907
+
+
 Why you're here?
 
-698
-01:17:14,908 --> 01:17:17,737
+
+
 What kind of manager would I be, if I didn't drop
 in on our field operations, every now and then.
 
-699
-01:17:17,738 --> 01:17:19,686
+
+
 - You don't trust me?
 - Of course I trust you.
 
-700
-01:17:19,785 --> 01:17:21,598
+
+
 I just wanted to see it with my own eyes.
 
-701
-01:17:22,313 --> 01:17:24,334
+
+
 Collin's gave us a bunch of numbers,
 which look good.
 
-702
-01:17:24,929 --> 01:17:27,071
+
+
 But, somebody said it's too good
 for 3 weeks work.
 
-703
-01:17:27,200 --> 01:17:29,475
+
+
 - You think I'm rigging the MPI?
 - Relax.
 
-704
-01:17:29,600 --> 01:17:34,754
+
+
 When I walk in and see 2 dozen people
 generating the MPI in the 6's, I'll be a happy man.
 
-705
-01:17:34,880 --> 01:17:37,235
+
+
 After you.
 
-706
-01:17:43,720 --> 01:17:46,359
+
+
 Puro, what the hell is this?
 
-707
-01:17:46,480 --> 01:17:50,937
+
+
 - It's the water coming from the farmer next door, because of the irrigation.
 - Irrigation?
 
-708
-01:17:50,960 --> 01:17:54,748
+
+
 - That is, when the water is flooded on the crops.
 - I know what that means.
 
-709
-01:17:54,880 --> 01:18:00,398
+
+
 The water is coming from everywhere, and nowhere
 to go, a big problem, please tell me what to do.
 
-710
-01:18:00,520 --> 01:18:03,910
+
+
 Clear down to ten working stations.
 
-711
-01:18:06,160 --> 01:18:08,151
+
+
 Now it did... oh my god.
 
-712
-01:18:08,280 --> 01:18:13,559
+
+
 - I want you to shred your passport.
 - Relax, Dave... it's no problem.
 
-713
-01:18:13,680 --> 01:18:16,638
+
+
 No problem...? How can you say no problem?
 
-714
-01:18:16,760 --> 01:18:19,957
+
+
 - Does no problem look like that?
 - It's no problem.
 
-715
-01:18:20,080 --> 01:18:22,992
+
+
 - We're going up on the roof.
 - The roof?
 
-716
-01:18:23,120 --> 01:18:25,601
+
+
 People... we're going up to the roof.
 
-717
-01:18:25,714 --> 01:18:27,990
+
+
 We're gonna rewire this whole place
 in the next 20 minutes.
 
-718
-01:18:28,120 --> 01:18:30,350
+
+
 It’s a nice night, its dry up there.
 
-719
-01:18:30,480 --> 01:18:33,240
+
+
 We'll bring up the workstations,
 run a new main power cable...
 
-720
-01:18:33,357 --> 01:18:35,123
+
+
 We're going back online, upstairs.
 
-721
-01:18:35,680 --> 01:18:38,752
+
+
 - That’s impossible.
 - Maybe back in the States it is.
 
-722
-01:18:38,880 --> 01:18:41,678
+
+
 Anil, get the car.
 
-723
-01:18:41,800 --> 01:18:43,420
+
+
 I'll be right back with the consultant.
 
-724
-01:18:43,914 --> 01:18:45,488
+
+
 Consultant?
 
-725
-01:19:03,760 --> 01:19:09,790
+
+
 Puro, this is my neighbor,
 he'll help with the rewiring.
 
-726
-01:19:09,920 --> 01:19:11,797
+
+
 He'll show you.
 
-727
-01:19:14,840 --> 01:19:16,038
+
+
 Consultant?
 
-728
-01:19:17,498 --> 01:19:18,417
+
+
 Yeah.
 
-729
-01:19:48,080 --> 01:19:50,753
+
+
 See... no problem.
 
-730
-01:19:52,680 --> 01:19:56,434
+
+
 Yes, I am sincere, I do not care what you look like.
 
-731
-01:19:56,560 --> 01:19:58,676
+
+
 You have such a lovely voice and personality.
 
-732
-01:19:58,800 --> 01:20:02,998
+
+
 Manmeet, marriage proposal
 is not small talk.
 
-733
-01:20:03,120 --> 01:20:05,509
+
+
 - I think she's the one.
 - Not tonight.
 
-734
-01:20:05,640 --> 01:20:08,393
+
+
 But Todd, I'm in love.
 
-735
-01:20:08,520 --> 01:20:12,229
+
+
 As long as she buys something every 5 minutes,
 and you clock it as a separate incident.
 
-736
-01:20:12,360 --> 01:20:15,193
+
+
 - You can say whatever you want.
 - Thanks, Todd.
 
-737
-01:20:15,320 --> 01:20:20,758
+
+
 Elizabeth, wonderful news,
 we can speak all night... I mean all day.
 
-738
-01:20:23,400 --> 01:20:28,349
+
+
 Yes sir, no sir... maybe sir.
 
-739
-01:20:28,480 --> 01:20:31,711
+
+
 Quick, quick, quick...
 It's a supervisor demand.
 
-740
-01:20:31,840 --> 01:20:34,718
+
+
 Give it me, thanks’.
 
-741
-01:20:37,306 --> 01:20:38,623
+
+
 Hello?
 
-742
-01:20:39,031 --> 01:20:39,841
+
+
 You got to be kidding me...
 
-743
-01:20:40,068 --> 01:20:42,822
+
+
 I'm buying a freaking American eagle from a
 company that's suppose to be in America...
 
-744
-01:20:43,053 --> 01:20:44,023
+
+
 and I get it in India?
 
-745
-01:20:44,058 --> 01:20:46,797
+
+
 - I understand that you're upset, sir.
 - No, you don't.
 
-746
-01:20:46,800 --> 01:20:50,101
+
+
 You don't understand, last month I lost my job
 at the plant, where I worked for 22 years...
 
-747
-01:20:50,228 --> 01:20:51,767
+
+
 because the whole operation moved to Mexico.
 
-748
-01:20:51,800 --> 01:20:53,950
+
+
 My brother had to leave
 town because there're no jobs.
 
-749
-01:20:54,080 --> 01:20:55,307
+
+
 I know how you feel, sir.
 
-750
-01:20:55,607 --> 01:20:57,388
+
+
 No, you don't, you have a job.
 
-751
-01:20:57,423 --> 01:20:59,796
+
+
 Sir, please don't hang up, I have a solution for you.
 
-752
-01:20:59,816 --> 01:21:01,088
+
+
 What?
 
-753
-01:21:01,100 --> 01:21:03,763
+
+
 Please, understand that many Americans
 are upset about outsourcing...
 
-754
-01:21:03,798 --> 01:21:07,559
+
+
 so we have located American made
 versions of all our products.
 
-755
-01:21:07,680 --> 01:21:10,657
+
+
 If you have a pen, I will give you the
 website of an American company...
 
-756
-01:21:11,051 --> 01:21:13,281
+
+
 that makes an eagle statue
 very similar to ours...
 
-757
-01:21:13,516 --> 01:21:15,009
+
+
 same size, same material...
 
-758
-01:21:15,026 --> 01:21:17,652
+
+
 Only theirs is made 100 percent in America.
 
-759
-01:21:17,760 --> 01:21:21,548
+
+
 Well, thanks, I appreciate it...
 But, ah... is the price about the same?
 
-760
-01:21:21,680 --> 01:21:24,911
+
+
 No, sir, there’s is $212.00 more.
 
-761
-01:21:29,540 --> 01:21:30,830
+
+
 Sir...
 
-762
-01:21:30,840 --> 01:21:35,970
+
+
 - Yea, alright... ah, just sell me yours.
 - Thank you sir, may I have your credit card number?
 
-763
-01:21:41,360 --> 01:21:43,923
+
+
 Alright, ma'am, let me check that
 with my supervisor.
 
-764
-01:21:44,474 --> 01:21:47,798
+
+
 Ok, the shipping fee for overnight,
 is no extra charge. Anything else I can do?
 
-765
-01:21:47,833 --> 01:21:50,875
+
+
 Thank you, for shopping at Western Novelty.
 My name Guarav.
 
-766
-01:21:56,440 --> 01:21:59,910
+
+
 That's it for today, well done everyone.
 Thank you.
 
-767
-01:22:00,040 --> 01:22:05,558
+
+
 Oh, by the way, you broke 6.
 Congratulations.
 
-768
-01:22:05,680 --> 01:22:09,593
+
+
 You guys are amazing.
 I wanna see you all at the Lotus.
 
-769
-01:22:15,280 --> 01:22:17,877
+
+
 Dave?
 
-770
-01:22:18,080 --> 01:22:21,977
+
+
 - Dave... you doing OK?
 - I feel like I swallowed a live squirrel
 
-771
-01:22:22,044 --> 01:22:23,578
+
+
 Don't worry, it only last's for a week.
 
-772
-01:22:24,400 --> 01:22:27,870
+
+
 Some of us are going to the Lotus to celebrate.
 Why don't you come with us?
 
-773
-01:22:28,000 --> 01:22:28,997
+
+
 What’s the Lotus?
 
-774
-01:22:29,637 --> 01:22:32,487
+
+
 It’s like an afterhours club for call center
 workers, who get off at 6am.
 
-775
-01:22:32,522 --> 01:22:33,632
+
+
 It would really be fun.
 You wouldn't like it.
 
-776
-01:22:33,760 --> 01:22:36,274
+
+
 - I need to talk to you.
 - We can talk tomorrow.
 
-777
-01:22:36,400 --> 01:22:39,119
+
+
 Yea, yea, but there's another reason, I came here.
 
-778
-01:22:40,760 --> 01:22:45,231
+
+
 I need to wipe out all the proprietary data,
 of these hard drives, before we pull out of India.
 
-779
-01:22:47,520 --> 01:22:48,795
+
+
 What are you talking about?
 
-780
-01:22:49,127 --> 01:22:51,897
+
+
 Don't tell me we'll ship out, and moving
 Fulfillment back to Seattle?
 
-781
-01:22:51,899 --> 01:22:54,071
+
+
 No... China.
 
-782
-01:22:54,200 --> 01:22:56,401
+
+
 We're running an existing
 call center there already.
 
-783
-01:22:57,186 --> 01:22:58,219
+
+
 They go online tomorrow.
 
-784
-01:22:58,600 --> 01:23:03,879
+
+
 China is the new India.
 20 heads for the price of one.
 
-785
-01:23:04,000 --> 01:23:06,992
+
+
 What're you gonna do?
 
-786
-01:23:40,640 --> 01:23:43,029
+
+
 - Big speech.
 - Speech.
 
-787
-01:23:43,160 --> 01:23:45,549
+
+
 I do have something to say.
 
-788
-01:23:45,680 --> 01:23:48,114
+
+
 Unfortunately, it's bad news.
 
-789
-01:23:48,240 --> 01:23:51,755
+
+
 I just found out...
 
-790
-01:23:51,880 --> 01:23:55,031
+
+
 I don't know there's an easy way to do this.
 
-791
-01:23:55,160 --> 01:23:59,358
+
+
 Western Novelty has decided to
 move Order Fulfillment to China.
 
-792
-01:24:01,200 --> 01:24:04,317
+
+
 All of your jobs have
 been outsourced.
 
-793
-01:24:05,560 --> 01:24:08,632
+
+
 Don't go to work tomorrow.
 It’s over.
 
-794
-01:24:08,760 --> 01:24:12,389
+
+
 Mr. Dave is wiping out the
 hard drives, right now.
 
-795
-01:24:12,520 --> 01:24:16,035
+
+
 You get a month severance pay.
 That’s it.
 
-796
-01:24:22,240 --> 01:24:26,028
+
+
 Guys... announcement.
 
-797
-01:24:26,160 --> 01:24:28,355
+
+
 I am...
 
-798
-01:24:28,480 --> 01:24:33,270
+
+
 I'm engaged to Elizabeth Watson
 in Orange, New Jersey.
 
-799
-01:24:44,880 --> 01:24:48,475
+
+
 I'm sorry, I didn't know, I swear.
 
-800
-01:24:48,600 --> 01:24:50,989
+
+
 Why are they happy about this?
 
-801
-01:24:51,120 --> 01:24:54,749
+
+
 They will be, it doesn't matter.
 
-802
-01:24:54,880 --> 01:24:57,997
+
+
 We trained them to a point, were they
 can get a job anywhere.
 
-803
-01:24:58,120 --> 01:25:01,749
+
+
 Microsoft, Dell, Office Tiger.
 
-804
-01:25:01,880 --> 01:25:04,474
+
+
 They'll get a job in a week.
 
-805
-01:25:04,600 --> 01:25:07,751
+
+
 And with severance pay,
 they can have some... fun.
 
-806
-01:25:07,880 --> 01:25:10,440
+
+
 So you can get another job too?
 
-807
-01:25:10,560 --> 01:25:12,755
+
+
 Management is different.
 
-808
-01:25:12,880 --> 01:25:15,269
+
+
 I'm not young any more.
 
-809
-01:25:15,400 --> 01:25:18,198
+
+
 If I'm lucky, I'll get a job.
 
-810
-01:25:18,320 --> 01:25:20,914
+
+
 But that might take a long time.
 
-811
-01:25:21,040 --> 01:25:25,477
+
+
 If Bhagyashree's parents will hear this,
 she will marry someone else.
 
-812
-01:25:25,600 --> 01:25:28,114
+
+
 - What's her hurry?
 - Astrology.
 
-813
-01:25:28,240 --> 01:25:31,437
+
+
 Her moon are lined up.
 Auspices time.
 
-814
-01:25:31,560 --> 01:25:35,109
+
+
 She must marry this year.
 And now I don't have a job.
 
-815
-01:25:35,240 --> 01:25:37,879
+
+
 I'm so sorry.
 
-816
-01:25:38,000 --> 01:25:41,117
+
+
 - I must leave India.
 - What? Why?
 
-817
-01:25:41,240 --> 01:25:45,677
+
+
 I will die if I see Bhagyashree walking
 on the street, with a new husband.
 
-818
-01:25:47,920 --> 01:25:51,595
+
+
 If it's any consolation, I'm probably fired too.
 
-819
-01:25:54,400 --> 01:25:56,994
+
+
 I'm sorry.
 
-820
-01:25:57,120 --> 01:25:59,588
+
+
 You're a good boss.
 
-821
-01:25:59,720 --> 01:26:02,109
+
+
 Asha, sorry.
 
-822
-01:26:02,240 --> 01:26:07,997
+
+
 Oh, I'm not concerned about the job,
 I'm more concerned about my novel.
 
-823
-01:26:08,120 --> 01:26:11,430
+
+
 - Your what?
 - I'm writing a book in between calls at work.
 
-824
-01:26:11,560 --> 01:26:15,189
+
+
 And I saved a copy on my hard drive,
 I don't want Dave to erase it.
 
-825
-01:26:15,320 --> 01:26:17,993
+
+
 So, can we go back and save it?
 
-826
-01:26:18,120 --> 01:26:22,716
+
+
 - Yes, I guess we should.
 - I think we should go, immediately!
 
-827
-01:26:24,960 --> 01:26:27,997
+
+
 What's this book of yours called?
 
-828
-01:26:28,120 --> 01:26:30,395
+
+
 'Holiday in Goa. '
 
-829
-01:26:39,080 --> 01:26:42,152
+
+
 - That was great, I almost believed you myself.
 - Stop!
 
-830
-01:26:42,280 --> 01:26:44,953
+
+
 - No time for small talk.
 - Where can we go?
 
-831
-01:26:45,080 --> 01:26:49,756
+
+
 Guarav gave us the key to his place...
 It's OK, he's a friend. We can trust him.
 
-832
-01:26:49,880 --> 01:26:53,919
+
+
 We can be alone together.
 We have two hours.
 
-833
-01:27:11,160 --> 01:27:14,869
+
+
 OK, I have to ask you something.
 
-834
-01:27:15,000 --> 01:27:17,150
+
+
 What is that?
 
-835
-01:27:17,280 --> 01:27:20,590
+
+
 It's a bindi, it's a third eye.
 
-836
-01:27:20,720 --> 01:27:24,474
+
+
 It's the eye, with which you see,
 the most important things.
 
-837
-01:27:25,800 --> 01:27:29,031
+
+
 Sometime two eyes aren’t enough,
 when you need help.
 
-838
-01:27:31,400 --> 01:27:33,960
+
+
 You and me already have been in my third eye.
 
-839
-01:27:34,840 --> 01:27:38,310
+
+
 Us? How?
 
-840
-01:27:38,440 --> 01:27:43,719
+
+
 Well, my father is an assistant-manager with a foreign
 company, and my mother comes from a small village.
 
-841
-01:27:43,840 --> 01:27:47,674
+
+
 A girl in my position, has her whole life
 mapped out in front of her.
 
-842
-01:27:47,800 --> 01:27:49,870
+
+
 Everything I've done, I had to fight for.
 
-843
-01:27:50,000 --> 01:27:55,313
+
+
 'Asha, you can’t go to the university, Asha you can't
 work in a call center, what will people say?'
 
-844
-01:27:55,440 --> 01:27:57,874
+
+
 and then what you said...
 
-845
-01:27:58,000 --> 01:28:01,436
+
+
 It was the first time, that I ever
 heard anything like that.
 
-846
-01:28:04,640 --> 01:28:07,313
+
+
 What did I say?
 
-847
-01:28:07,440 --> 01:28:10,238
+
+
 'Asha can do anything'.
 
-848
-01:28:19,200 --> 01:28:23,955
+
+
 I always wanted to believe that.
 Until you, I didn't think it was true.
 
-849
-01:28:25,800 --> 01:28:28,234
+
+
 I hope Ashok sees that.
 
-850
-01:28:28,360 --> 01:28:31,477
+
+
 Well he better, because if he doesn't
 then I'll leave him,
 
-851
-01:28:31,600 --> 01:28:34,876
+
+
 and I'll come to the US and
 take away your job.
 
-852
-01:28:37,400 --> 01:28:39,391
+
+
 God, I'm gonna miss you.
 
-853
-01:28:41,400 --> 01:28:46,349
+
+
 - You'll meet someone.
 - She won't smell like cardamom.
 
-854
-01:28:51,120 --> 01:28:54,317
+
+
 Rub some on her and pretend she's me.
 
-855
-01:28:54,440 --> 01:28:57,637
+
+
 She won't have your eyes either.
 
-856
-01:28:57,760 --> 01:29:01,594
+
+
 I wish I could meet someone
 exactly like you.
 
-857
-01:29:01,720 --> 01:29:03,870
+
+
 Well... almost exactly.
 
-858
-01:29:07,200 --> 01:29:09,111
+
+
 Almost?
 
-859
-01:29:09,240 --> 01:29:14,598
+
+
 Someone as beautifully as you,
 as smart as you.
 
-860
-01:29:14,720 --> 01:29:17,075
+
+
 It's funny.
 
-861
-01:29:17,200 --> 01:29:19,236
+
+
 What?
 
-862
-01:29:19,360 --> 01:29:23,876
+
+
 But is not afraid to try,
 'Monkey pulls the turnip'.
 
-863
-01:29:32,120 --> 01:29:34,839
+
+
 Asha can do anything.
 
-864
-01:29:48,480 --> 01:29:50,675
+
+
 - Hi, Doad, how are you?
 - Good.
 
-865
-01:29:50,800 --> 01:29:55,351
+
+
 My friend Sudah.
 My guest, Doad.
 
-866
-01:30:08,080 --> 01:30:10,878
+
+
 Yes, yes.
 
-867
-01:30:11,441 --> 01:30:15,839
+
+
 Data is uploaded, these hardware is not worth
 shipping to China, so I'm just gonna leave it here.
 
-868
-01:30:15,840 --> 01:30:20,130
+
+
 If there's anything you want other than that
 plasma, I got that covered, you can take it.
 
-869
-01:30:20,160 --> 01:30:24,836
+
+
 Just do it, Dave, if that’s my option,
 just let me go, you don't need me anymore.
 
-870
-01:30:24,960 --> 01:30:27,235
+
+
 We don't need you here.
 
-871
-01:30:27,360 --> 01:30:29,669
+
+
 We need you in Shanghai.
 
-872
-01:30:29,800 --> 01:30:33,315
+
+
 - You're insane.
 - Someone gotta train the new guy.
 
-873
-01:30:33,440 --> 01:30:37,718
+
+
 We've been acquired by the largest direct
 marketing firm within the United States.
 
-874
-01:30:37,840 --> 01:30:40,035
+
+
 Western is just gonna be a small part of this.
 
-875
-01:30:40,160 --> 01:30:44,756
+
+
 The new company is gonna
 outsource 4000 call center jobs.
 
-876
-01:30:44,880 --> 01:30:46,845
+
+
 They need a VP to manage it all.
 
-877
-01:30:47,770 --> 01:30:49,827
+
+
 I showed them your numbers,
 and they want you.
 
-878
-01:30:51,400 --> 01:30:52,974
+
+
 It's no joke, it's a great job.
 
-879
-01:30:53,188 --> 01:30:55,734
+
+
 You get to keep all the benefits
 you have now, plus a fat raise.
 
-880
-01:30:57,520 --> 01:30:59,954
+
+
 I'm not going to China.
 
-881
-01:31:00,080 --> 01:31:05,108
+
+
 and you get to keep the stock option, as oppose
 to losing them, and being unemployed.
 
-882
-01:31:05,240 --> 01:31:08,994
+
+
 No thanks’.
 
-883
-01:31:09,120 --> 01:31:12,749
+
+
 Someone's head hunting you?
 Alright we'll beat their offer, whatever it is.
 
-884
-01:31:21,360 --> 01:31:26,309
+
+
 Did I mention the stock option
 will double in value, maybe triple.
 
-885
-01:31:26,440 --> 01:31:31,070
+
+
 You don't have to live in China, no, all you have to do
 is get the call center up to speed and just visit every...
 
-886
-01:31:31,071 --> 01:31:36,911
+
+
 couple of months, you get first class travel, and a co. apartment is yours in a high-rise overlooking the harbor
 
-887
-01:31:37,040 --> 01:31:39,998
+
+
 What do you want, Todd,
 just tell me what you want.
 
-888
-01:31:40,120 --> 01:31:45,513
+
+
 You can't quit, then you've work
 your ass here, for nothing.
 
-889
-01:31:45,640 --> 01:31:50,111
+
+
 You can’t quit Todd.
 Who I'm gonna send to Shanghai now?
 
-890
-01:32:01,640 --> 01:32:04,108
+
+
 Better Hurry, its boarding.
 
-891
-01:32:05,840 --> 01:32:08,434
+
+
 Mrs. Puro...
 
-892
-01:32:08,560 --> 01:32:13,714
+
+
 Congratulations, to both of you.
 Enjoy the view of the harbor.
 
-893
-01:32:13,840 --> 01:32:18,595
+
+
 - Todd, you saved my life.
 - You saved mine.
 
-894
-01:32:18,720 --> 01:32:23,953
+
+
 Don't worry about running the call centre.
 You'll be great, 'Break a leg'.
 
-895
-01:32:24,080 --> 01:32:27,789
+
+
 - Break my leg?
 - Just an expression, it means good luck.
 
-896
-01:32:27,920 --> 01:32:32,391
+
+
 Thank you, Todd.
 I hope that both your legs get broken.
 
-897
-01:32:34,240 --> 01:32:37,789
+
+
 I'll never forget you said that.
 
-898
-01:33:05,720 --> 01:33:09,110
+
+
 Mom? Hey, its Todd.
 
-899
-01:33:09,240 --> 01:33:11,276
+
+
 Yeah, I'm back.
 
-900
-01:33:11,400 --> 01:33:15,916
+
+
 It was...
 I'll tell you about it, when I come by to visit...
 
-901
-01:34:56,310 --> 01:34:58,216
+
+
 Hello...
 

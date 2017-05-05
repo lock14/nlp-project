@@ -1,3844 +1,3844 @@
-0
-00:00:03,000 --> 00:00:10,500
+
+
 {\move(10,10,190,230,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000&\3c&H00FFFF&}anoXmous
 
-1
-00:00:12,501 --> 00:00:21,202
+
+
 {\move(400,10,190,270,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&HFF0000&\3c&H00FFFF&}https://thepiratebay.se/user/Zen_Bud  
 
-1
-00:00:38,833 --> 00:00:44,208
+
+
 Friedrich, time for a break !
 
-2
-00:00:49,417 --> 00:00:59,958
+
+
 - Friedrich, here's your day loan.
 - Thank you.
 
-3
-00:01:00,042 --> 00:01:02,708
+
+
 Friedrich, watch where you're going !
 
-4
-00:01:04,667 --> 00:01:11,000
+
+
 Berlin Wedding, Late Summer 1942
 
-5
-00:01:35,583 --> 00:01:39,250
+
+
 - I'm sorry I'm late.
 - Yes, I see that. What's up?
 
-6
-00:01:39,292 --> 00:01:40,875
+
+
 I had to work.
 
-7
-00:01:40,917 --> 00:01:43,750
+
+
 This fight is very important
 for us, understand?
 
-8
-00:01:43,917 --> 00:01:45,542
+
+
 Is that them?
 
-9
-00:01:46,500 --> 00:01:47,917
+
+
 Yes.
 
-10
-00:01:48,083 --> 00:01:51,875
+
+
 Students from Napola,
 our new elite.
 
-11
-00:01:51,917 --> 00:01:57,417
+
+
 They may look nerdy. But don't worry,
 they aren't any different than you.
 
-12
-00:02:03,708 --> 00:02:08,542
+
+
 Alright, you made it. But
 don't get too excited about it.
 
-13
-00:02:11,042 --> 00:02:14,708
+
+
 What's up, punk?
 Want a punch in the mug?
 
-14
-00:02:15,292 --> 00:02:17,958
+
+
 You won't be any uglier
 than now, anyway.
 
-15
-00:02:18,625 --> 00:02:20,417
+
+
 And you?
 
-16
-00:02:20,833 --> 00:02:23,292
+
+
 Did you say something?
 
-17
-00:02:23,917 --> 00:02:25,875
+
+
 I don't hear anything...
 
-18
-00:02:27,750 --> 00:02:29,958
+
+
 What's going on here?
 
-19
-00:02:36,083 --> 00:02:38,292
+
+
 Is everything okay?
 
-20
-00:02:42,333 --> 00:02:44,000
+
+
 Next !
 
-21
-00:02:44,167 --> 00:02:45,833
+
+
 Good job !
 
-22
-00:02:46,125 --> 00:02:48,583
+
+
 Nicely done, you'll make it.
 
-23
-00:02:48,750 --> 00:02:51,292
+
+
 And don't forget to cover !
 
-24
-00:03:01,375 --> 00:03:03,042
+
+
 Box !
 
-25
-00:03:31,750 --> 00:03:33,750
+
+
 Attack him !
 
-26
-00:03:34,917 --> 00:03:37,083
+
+
 Now ! Catch him !
 
-27
-00:03:38,000 --> 00:03:41,583
+
+
 And nail him !
 Bring it on ! Hit him !
 
-28
-00:03:58,583 --> 00:04:00,208
+
+
 Hold still...
 
-29
-00:04:01,125 --> 00:04:03,500
+
+
 Great fight.
 
-30
-00:04:03,667 --> 00:04:07,458
+
+
 You fought well,
 Congratulations.
 
-31
-00:04:08,542 --> 00:04:10,750
+
+
 Heil Hitler !
 
-32
-00:04:12,708 --> 00:04:16,958
+
+
 I saw your fight,
 I like your style.
 
-33
-00:04:17,875 --> 00:04:22,958
+
+
 - What school are you from?
 - None, I just graduated.
 
-34
-00:04:23,000 --> 00:04:26,458
+
+
 Did you hear about
 the Fuhrer's schools?
 
-35
-00:04:26,500 --> 00:04:29,542
+
+
 Hitler's educational
 outposts?
 
-36
-00:04:29,583 --> 00:04:35,542
+
+
 I teach Boxing and German at such a
 school, at the Napola, in Allenstein.
 
-37
-00:04:35,583 --> 00:04:38,542
+
+
 We're currently
 accepting applications.
 
-38
-00:04:38,583 --> 00:04:44,500
+
+
 If you report there tomorrow
 morning, I may be able to help you.
 
-39
-00:04:44,542 --> 00:04:46,625
+
+
 What's your name?
 
-40
-00:04:46,792 --> 00:04:48,958
+
+
 Friedrich Weimer.
 
-41
-00:04:49,125 --> 00:04:51,417
+
+
 I'm Heinrich Vogler.
 
-42
-00:04:52,000 --> 00:04:54,458
+
+
 You've got talent, Friedrich.
 
-43
-00:05:00,708 --> 00:05:03,417
+
+
 Man, they're the "Elite"!
 
-44
-00:05:03,583 --> 00:05:05,083
+
+
 - Really?
 - Sure !
 
-45
-00:05:05,250 --> 00:05:07,583
+
+
 They only accept the best.
 
-46
-00:06:01,083 --> 00:06:03,833
+
+
 -Heil Hitler, Friedrich.
 -Heil Hitler.
 
-47
-00:06:03,875 --> 00:06:05,917
+
+
 It's good of you to come.
 
-48
-00:06:06,208 --> 00:06:11,042
+
+
 First we have to conduct some medical
 procedures, then, it's the dexterity exam.
 
-49
-00:06:11,083 --> 00:06:12,417
+
+
 Understood?
 
-50
-00:06:12,458 --> 00:06:14,667
+
+
 Good.
 Then get in queue.
 
-51
-00:06:24,750 --> 00:06:26,458
+
+
 Thirteen.
 
-52
-00:06:32,167 --> 00:06:34,125
+
+
 Ten.
 
-53
-00:06:47,083 --> 00:06:49,083
+
+
 Eye color?
 
-54
-00:06:51,250 --> 00:06:53,042
+
+
 15.
 
-55
-00:06:54,875 --> 00:06:56,875
+
+
 Hair color?
 
-56
-00:06:59,958 --> 00:07:01,417
+
+
 B.
 
-57
-00:07:01,583 --> 00:07:05,208
+
+
 Why did you choose this
 school, youngster?
 
-58
-00:07:05,250 --> 00:07:10,208
+
+
 Because I want to serve the Fuhrer,
 my country, and my motherland.
 
-59
-00:07:10,250 --> 00:07:14,250
+
+
 Nordic type,
 class 1-B.
 
-60
-00:07:49,792 --> 00:07:52,167
+
+
 Where have you been?
 
-61
-00:07:52,208 --> 00:07:56,167
+
+
 - Boxing.
 - At this late hour?
 
-62
-00:07:59,750 --> 00:08:01,500
+
+
 No, I...
 
-63
-00:08:02,792 --> 00:08:06,667
+
+
 I was applying to
 the Napola school.
 
-64
-00:08:08,375 --> 00:08:11,792
+
+
 What did u say?
 
-65
-00:08:18,500 --> 00:08:21,917
+
+
 -You won't go there.
 -But, papa...
 
-66
-00:08:21,958 --> 00:08:27,292
+
+
 It's a big chance for me, I
 can become whomever I want...
 
-67
-00:08:27,333 --> 00:08:28,458
+
+
 Under no circumstance !
 
-68
-00:08:28,500 --> 00:08:32,000
+
+
 It's already too much, what
 Hitlerjugend does to you all.
 
-69
-00:08:32,042 --> 00:08:34,000
+
+
 You're not going to any elite school. 
 
-70
-00:08:34,042 --> 00:08:36,833
+
+
 You're going to work in a factory !
 End of discussion !
 
-71
-00:08:36,875 --> 00:08:41,250
+
+
 Why not? I'll get a secondary
 school certificate there.
 
-72
-00:08:41,292 --> 00:08:44,708
+
+
 And you wouldn't have to pay...
 
-73
-00:08:44,708 --> 00:08:46,375
+
+
 Do as I say.
 
-74
-00:08:46,417 --> 00:08:49,917
+
+
 We've got nothing in common
 with those people, understood?
 
-75
-00:08:50,792 --> 00:08:53,333
+
+
 Yes, father.
 
-76
-00:09:00,542 --> 00:09:07,000
+
+
 Why did dad get mad?
 
-77
-00:09:07,042 --> 00:09:09,500
+
+
 He won't let me go to that school.
 
-78
-00:09:09,542 --> 00:09:12,542
+
+
 What school?
 
-79
-00:09:12,583 --> 00:09:15,542
+
+
 A special one.
 
-80
-00:09:15,583 --> 00:09:19,750
+
+
 It's located in a castle,
 they've got everything there,
 
-81
-00:09:19,792 --> 00:09:25,250
+
+
 showers, boxing hall,
 not to mention the gliders.
 
-82
-00:09:25,292 --> 00:09:30,750
+
+
 After you graduate from
 there, you become the elite,
 
-83
-00:09:30,792 --> 00:09:33,875
+
+
 and don't have to worry
 about money anymore.
 
-84
-00:09:33,917 --> 00:09:36,958
+
+
 And dad doesn't want
 to let you go there?
 
-85
-00:09:37,000 --> 00:09:39,000
+
+
 It sounds really great !
 
-86
-00:09:47,542 --> 00:09:52,667
+
+
 You feel dirtier leaving this,
 than when you enter it.
 
-87
-00:09:52,708 --> 00:09:55,000
+
+
 Same difference.
 
-88
-00:09:55,042 --> 00:10:01,167
+
+
 You'll report first to Kindler,
 then you'll start working in a month.
 
-89
-00:10:01,208 --> 00:10:04,625
+
+
 In one month?
 
-90
-00:10:04,667 --> 00:10:10,458
+
+
 So that you won't have any
 time for stupid thoughts.
 
-91
-00:10:34,583 --> 00:10:38,000
+
+
 Well, are you happy?
 
-92
-00:10:38,042 --> 00:10:41,375
+
+
 I'd rather stay here.
 
-93
-00:10:41,500 --> 00:10:45,125
+
+
 That's so stupid.
 
-94
-00:10:45,167 --> 00:10:48,708
+
+
 It'll be great.
 
-95
-00:10:48,750 --> 00:10:52,625
+
+
 Such a kindergarten is
 just like a summer camp.
 
-96
-00:10:52,667 --> 00:11:01,083
+
+
 You won't have to sit in a bunker all day,
 and all your friends will be there too.
 
-97
-00:11:07,250 --> 00:11:13,583
+
+
 Hey...Is this the way for a
 young German to behave?
 
-98
-00:13:04,833 --> 00:13:09,417
+
+
 Dear mother,
 Don't be angry at me.
 
-99
-00:13:09,458 --> 00:13:14,917
+
+
 But I believe that this is the
 chance of my lifetime. Your Friedrich.
 
-100
-00:13:15,375 --> 00:13:23,250
+
+
 Dear father, I forged your
 signature on the permission.
 
-101
-00:13:23,292 --> 00:13:28,375
+
+
 If you pull me out of Napola,
 I'll report all of
 
-102
-00:13:28,375 --> 00:13:34,208
+
+
 the bad things that you've
 been saying about it.
 
-103
-00:13:41,833 --> 00:13:47,875
+
+
 Wake up, young man. We've
 reached our destination.
 
-104
-00:13:48,875 --> 00:13:51,292
+
+
 Could you drop me
 off right here?
 
-105
-00:13:51,333 --> 00:13:52,875
+
+
 Yes, sure I can.
 
-106
-00:13:53,833 --> 00:13:58,750
+
+
 - Thanks so much.
 - You're very welcome.
 
-107
-00:14:40,000 --> 00:14:42,250
+
+
 But mom, I've already...
 
-108
-00:14:42,417 --> 00:14:45,375
+
+
 But Dad's just
 butchered a pig...
 
-109
-00:14:55,417 --> 00:14:59,792
+
+
 No food?
 Brought enough?
 
-110
-00:15:02,500 --> 00:15:06,542
+
+
 Stand still. Hug your
 brother and smile.
 
-111
-00:15:06,833 --> 00:15:09,625
+
+
 What a beautiful Summer,
 Mr. Von Brock.
 
-112
-00:15:09,667 --> 00:15:12,375
+
+
 - lndeed.
 - Madam...
 
-113
-00:15:15,750 --> 00:15:17,833
+
+
 Friedrich.  Heil Hitler !
 
-114
-00:15:18,000 --> 00:15:21,292
+
+
 Good to see you. See? Your
 dad finally let you come.
 
-115
-00:15:21,333 --> 00:15:24,500
+
+
 Not really,
 but I came anyway.
 
-116
-00:15:26,500 --> 00:15:31,083
+
+
 Ah...
 But, who signed your permission?
 
-117
-00:15:31,167 --> 00:15:33,667
+
+
 I did.
 
-118
-00:15:34,708 --> 00:15:37,750
+
+
 Well, at least you admit doing it.
 
-119
-00:15:37,792 --> 00:15:43,667
+
+
 A real sportsman
 always tells the truth.
 
-120
-00:15:43,958 --> 00:15:49,125
+
+
 Well, that's exactly
 what you're going to
 
-121
-00:15:49,125 --> 00:15:54,500
+
+
 learn here. Come,
 we'll get you your uniform.
 
-122
-00:15:56,583 --> 00:16:02,292
+
+
 - One clothing set,
 in the right size, please. - Yes, sir !
 
-123
-00:16:02,333 --> 00:16:06,292
+
+
 We rarely admit
 people of your age,
 
-124
-00:16:06,333 --> 00:16:12,583
+
+
 but you caught my eye.
 I hope you can appreciate it.
 
-125
-00:16:13,000 --> 00:16:15,125
+
+
 Ah, Schneider, come here !
 
-126
-00:16:15,167 --> 00:16:18,500
+
+
 This is Friedrich Weimer,
 he's new here... for your room.
 
-127
-00:16:18,542 --> 00:16:22,042
+
+
 Show him everything and
 introduce him to friends.
 
-128
-00:16:22,083 --> 00:16:23,333
+
+
 Yes, sir !
 
-129
-00:16:25,167 --> 00:16:28,583
+
+
 I'm Christoph,
 welcome to Allenstein.
 
-130
-00:16:28,625 --> 00:16:29,958
+
+
 Thanks.
 
-131
-00:16:30,000 --> 00:16:35,583
+
+
 Good, I'll show you the room first, then
 you can change your clothes. -Uh huh.
 
-132
-00:16:36,125 --> 00:16:40,792
+
+
 Hey Hubscher, now WE've
 got an Aryan too !
 
-133
-00:16:43,333 --> 00:16:45,792
+
+
 So, this is it !
 
-134
-00:16:50,958 --> 00:16:55,042
+
+
 So, this is your bed,
 and that's your locker.
 
-135
-00:16:56,333 --> 00:17:00,625
+
+
 Track suit, denim-- bottom left,
 sewing kit, clothes brush-- to the left.
 
-136
-00:17:00,667 --> 00:17:02,458
+
+
 top right--
 private things.
 
-137
-00:17:02,500 --> 00:17:06,750
+
+
 Your cap's not supposed to lay,
 but stand, on the brown shirt.
 
-138
-00:17:06,792 --> 00:17:08,667
+
+
 On the bottom--
 towel, handkerchiefs.
 
-139
-00:17:08,708 --> 00:17:13,208
+
+
 Suitcase on top,
 toiletries-- on the door hook.
 
-140
-00:17:13,250 --> 00:17:17,458
+
+
 Ok, keep your things 'straightened', or
 the orderly will throw everything out.
 
-141
-00:17:17,500 --> 00:17:21,292
+
+
 You'll understand the rest. Oh,
 and you're going to buy dessert.
 
-142
-00:17:21,333 --> 00:17:22,667
+
+
 What??
 
-143
-00:17:22,708 --> 00:17:26,583
+
+
 Never mind.
 The first time doesn't count.
 
-144
-00:17:26,625 --> 00:17:30,750
+
+
 Boys, the assembly
 is in 15 minutes !
 
-145
-00:17:30,792 --> 00:17:34,875
+
+
 Good, get changed,
 then, come downstairs.
 
-146
-00:18:47,833 --> 00:18:50,042
+
+
 Friedrich ! Friedrich !
 
-147
-00:18:50,083 --> 00:18:52,000
+
+
 Over here !
 
-148
-00:18:53,458 --> 00:18:56,458
+
+
 Have a seat.
 
-149
-00:19:09,583 --> 00:19:12,333
+
+
 Be seated.
 
-150
-00:19:16,375 --> 00:19:17,917
+
+
 Young men !
 
-151
-00:19:18,792 --> 00:19:20,583
+
+
 Students !
 
-152
-00:19:20,750 --> 00:19:25,917
+
+
 I'd like to warmly welcome you to
 our school in the new year of 1942.
 
-153
-00:19:25,958 --> 00:19:31,042
+
+
 I'd like to inform all new students
 that they have come to the place,
 
-154
-00:19:31,083 --> 00:19:35,500
+
+
 where their future
 will be shaped.
 
-155
-00:19:35,542 --> 00:19:41,125
+
+
 A farmer's son and an industrialist's
 one are equals in this school.
 
-156
-00:19:41,167 --> 00:19:46,750
+
+
 Namely, you'll be the future elite
 of a one thousand year old reich.
 
-157
-00:19:46,792 --> 00:19:49,750
+
+
 Men may create history,
 
-158
-00:19:49,792 --> 00:19:52,708
+
+
 but, WE
 make the men.
 
-159
-00:19:52,750 --> 00:19:59,792
+
+
 To my uncut diamonds, we will keep
 splitting and polishing you for as long
 
-160
-00:19:59,833 --> 00:20:04,875
+
+
 as it takes, until a shiny,
 precious jewel emerges.
 
-161
-00:20:04,917 --> 00:20:08,083
+
+
 And when the final victory arrives,
 
-162
-00:20:08,125 --> 00:20:11,417
+
+
 we will need many new
 regional party leaders.
 
-163
-00:20:11,458 --> 00:20:14,792
+
+
 And I don't mean just
 for just Cartnen
 
-164
-00:20:14,792 --> 00:20:18,917
+
+
 or Mecklemburg, but posts
 for Washington, Moscow,
 
-165
-00:20:18,958 --> 00:20:22,125
+
+
 London, or even Cape Town.
 
-166
-00:20:22,167 --> 00:20:26,000
+
+
 Make good use of your time here.
 
-167
-00:20:26,042 --> 00:20:32,417
+
+
 Sharpen your body and mind.
 And be faithful, loyal companions.
 
-168
-00:20:32,458 --> 00:20:36,375
+
+
 We would like to say 3
 times, a loud Sieg Heil...
 
-169
-00:20:36,417 --> 00:20:41,125
+
+
 to our brave soldiers
 fighting on the frontlines of
 
-170
-00:20:41,125 --> 00:20:45,667
+
+
 the Reich and for our
 beloved leader Adolf Hitler !
 
-171
-00:21:26,958 --> 00:21:30,667
+
+
 Listen, guys,
 this is Friedrich Weimer.
 
-172
-00:21:30,708 --> 00:21:34,417
+
+
 He's new to the school
 and to our room.
 
-173
-00:21:34,458 --> 00:21:36,042
+
+
 - Hi.
 - Bon Appetit.
 
-174
-00:21:36,083 --> 00:21:38,667
+
+
 That's our Wilhelm,
 we call him Hefe.
 
-175
-00:21:38,708 --> 00:21:40,833
+
+
 His father is head of catering.
 
-176
-00:21:40,875 --> 00:21:44,292
+
+
 - and that's why this minced meat
 passed inspection. - Don't listen to him.
 
-177
-00:21:44,333 --> 00:21:47,708
+
+
 You still didn't tell me what you
 wanted in return for your notebooks.
 
-178
-00:21:47,750 --> 00:21:50,500
+
+
 Yeah, 300 grams
 of fine liverwurst.
 
-179
-00:21:50,542 --> 00:21:53,125
+
+
 - 300 grams? You must be joking ?!?
 - No.
 
-180
-00:21:53,167 --> 00:21:58,875
+
+
 But as an extra reward I'll give
 you a glimpse of the photo, huh?
 
-181
-00:21:58,917 --> 00:21:59,750
+
+
 This is Tjaden.
 
-182
-00:21:59,792 --> 00:22:03,292
+
+
 He's the room champion
 for the longest fart. -Hi.
 
-183
-00:22:03,333 --> 00:22:06,333
+
+
 The current record
 is 8,5 seconds.
 
-184
-00:22:06,375 --> 00:22:09,333
+
+
 What's with this
 whole 'photo' thing?
 
-185
-00:22:09,375 --> 00:22:13,625
+
+
 -Of my 3 sisters, all sweaty from dancing.
 -What?
 
-186
-00:22:13,667 --> 00:22:17,792
+
+
 - My best source of income.
 - I also trade socks for 2 marks.
 
-187
-00:22:17,833 --> 00:22:21,917
+
+
 - Does anybody buy this?
 - You haven't met my sisters yet.
 
-188
-00:22:21,958 --> 00:22:24,583
+
+
 The one in the back
 is Siggi...
 
-189
-00:22:24,625 --> 00:22:27,250
+
+
 Watch out !
 Jaucher's coming !
 
-190
-00:22:27,292 --> 00:22:28,375
+
+
 Quick !
 
-191
-00:22:29,542 --> 00:22:31,333
+
+
 Friedrich, line up !
 
-192
-00:22:36,083 --> 00:22:37,250
+
+
 Attention !
 
-193
-00:22:42,958 --> 00:22:46,708
+
+
 - Is this our new recruit?
 - Yes, sir.
 
-194
-00:22:55,083 --> 00:22:56,250
+
+
 Name??
 
-195
-00:22:56,542 --> 00:22:58,292
+
+
 Weimer, Friedrich.
 
-196
-00:22:58,333 --> 00:23:02,000
+
+
 I see, so YOU'RE the one ?!
 
-197
-00:23:02,042 --> 00:23:06,125
+
+
 You're quite famous,
 for a new student.
 
-198
-00:23:06,167 --> 00:23:09,292
+
+
 Then you've got
 to be pretty good.
 
-199
-00:23:23,125 --> 00:23:26,208
+
+
 Whose mess is this?
 
-200
-00:23:31,250 --> 00:23:35,167
+
+
 Move it, clean it up.
 
-201
-00:23:35,417 --> 00:23:37,833
+
+
 Stop sleeping !
 
-202
-00:23:37,875 --> 00:23:41,208
+
+
 Twenty push-ups, now !
 
-203
-00:23:41,250 --> 00:23:44,542
+
+
 One, two, three, four...
 
-204
-00:23:49,375 --> 00:23:51,292
+
+
 What's going on here?
 
-205
-00:23:51,333 --> 00:23:53,500
+
+
 Locker control.
 
-206
-00:23:53,875 --> 00:23:55,708
+
+
 Get up.
 
-207
-00:23:56,625 --> 00:24:00,792
+
+
 Enough.
 The boy is new.
 
-208
-00:24:00,833 --> 00:24:04,500
+
+
 Yes, sir.
 
-209
-00:24:08,667 --> 00:24:10,458
+
+
 Fall out.
 
-210
-00:24:17,000 --> 00:24:22,500
+
+
 You've just made your first enemy.
 
-211
-00:24:32,250 --> 00:24:35,625
+
+
 - Christoph?
 - What?
 
-212
-00:24:35,667 --> 00:24:42,083
+
+
 - I just wanted to ask...
 -It's forbidden to talk during 'lights out'.
 
-213
-00:25:22,083 --> 00:25:30,458
+
+
 [ Albrecht's Nocturnal Arrival ]
 
-214
-00:25:52,542 --> 00:25:58,292
+
+
 Get up ! Make the beds up !
 Morning gymnastics !
 
-215
-00:26:07,917 --> 00:26:12,500
+
+
 Faster, Friedrich.
 
-216
-00:26:22,458 --> 00:26:23,500
+
+
 Thanks.
 
-217
-00:26:23,917 --> 00:26:30,542
+
+
 Sure, no problem. I learned
 this at my previous school.
 
-218
-00:26:30,583 --> 00:26:34,375
+
+
 -I'm Friedrich.
 - Albrecht.
 
-219
-00:26:34,417 --> 00:26:36,042
+
+
 Can't it go any faster?
 
-220
-00:26:36,083 --> 00:26:41,083
+
+
 This snail's pace of yours is
 really beginning to bug me...
 
-221
-00:26:41,125 --> 00:26:44,583
+
+
 Move it to the assembly square !
 
-222
-00:26:55,500 --> 00:26:59,750
+
+
 Move your asses, don't be such sand bags !
 
-223
-00:26:59,792 --> 00:27:02,083
+
+
 I'll teach you a lesson !
 
-224
-00:27:02,125 --> 00:27:06,000
+
+
 You'll see the smoke coming
 out of your asses !
 
-225
-00:27:06,917 --> 00:27:08,417
+
+
 Get in line !
 
-226
-00:27:08,458 --> 00:27:10,375
+
+
 Faster !
 
-227
-00:27:10,417 --> 00:27:12,167
+
+
 Now on the ground !
 
-228
-00:27:12,208 --> 00:27:14,458
+
+
 Push-ups !
 
-229
-00:27:14,500 --> 00:27:16,750
+
+
 One, two !
 
-230
-00:27:19,958 --> 00:27:22,750
+
+
 Schulze, straight shoulders !
 
-231
-00:27:22,792 --> 00:27:25,500
+
+
 Kruger, lower to the ground !
 
-232
-00:27:27,500 --> 00:27:33,375
+
+
 Siegfried Gladen has
 pissed his pants again.
 
-233
-00:27:33,417 --> 00:27:36,750
+
+
 Attention !
 
-234
-00:27:36,792 --> 00:27:41,542
+
+
 Student Gladen,
 three steps forward !
 
-235
-00:27:45,167 --> 00:27:49,542
+
+
 Go and get your mattress.
 
-236
-00:28:03,417 --> 00:28:07,667
+
+
 Take off your trousers.
 
-237
-00:28:07,708 --> 00:28:15,167
+
+
 - What? - You're to take off
 your trousers, for God's sake !
 
-238
-00:28:17,875 --> 00:28:22,417
+
+
 Now start peeing.
 
-239
-00:28:24,167 --> 00:28:27,542
+
+
 C'mon, faster !!!
 
-240
-00:28:28,750 --> 00:28:31,167
+
+
 As you wish...
 
-241
-00:28:31,208 --> 00:28:38,292
+
+
 We'll bow, lie down, and jump !
 
-242
-00:28:38,333 --> 00:28:41,375
+
+
 Starting from now !
 
-243
-00:28:41,417 --> 00:28:44,458
+
+
 One, two, three.
 
-244
-00:28:48,042 --> 00:28:55,625
+
+
 Keep on jumping 'til this young
 man finally decides to pee.
 
-245
-00:29:15,542 --> 00:29:21,375
+
+
 Alright, everybody stand up !
 
-246
-00:29:22,458 --> 00:29:25,708
+
+
 Thank him.
 
-247
-00:29:25,750 --> 00:29:35,875
+
+
 Take that mattress and get the
 hell out my sight ! Fucking pisser !
 
-248
-00:29:37,500 --> 00:29:42,375
+
+
 The one who doesn't know how
 to fight in this world of immortal war
 
-249
-00:29:42,417 --> 00:29:45,042
+
+
 is not worth life.
 
-250
-00:29:45,083 --> 00:29:47,208
+
+
 Bon appetit.
 
-251
-00:29:47,250 --> 00:29:49,292
+
+
 Young men !
 
-252
-00:29:49,333 --> 00:29:55,792
+
+
 I'd like to welcome a son of a great man,
 of a good and personal friend of mine,
 
-253
-00:29:55,833 --> 00:30:00,125
+
+
 and a party birth time companion.
 With great pleasure:
 
-254
-00:30:00,167 --> 00:30:03,375
+
+
 Albrecht Stein,
 
-255
-00:30:03,417 --> 00:30:06,250
+
+
 son of our regional party
 leader: Heinrich Stein.
 
-256
-00:30:06,292 --> 00:30:10,250
+
+
 -A very hearty welcome !
 -Welcome !
 
-257
-00:30:13,875 --> 00:30:16,417
+
+
 Welcome Albrecht.
 
-258
-00:30:16,458 --> 00:30:23,708
+
+
 You're lucky, you were
 given the best room.
 
-259
-00:30:28,042 --> 00:30:29,375
+
+
 Who's that?
 
-260
-00:30:29,417 --> 00:30:31,333
+
+
 That's Katharina.
 
-261
-00:30:31,375 --> 00:30:36,167
+
+
 - But she's already engaged in case
 you wanted to know. - Who said that?
 
-262
-00:30:36,208 --> 00:30:38,042
+
+
 I did, you pig.
 
-263
-00:30:48,125 --> 00:30:51,750
+
+
 ...something that Darwin
 called species' evolution
 
-264
-00:30:51,792 --> 00:30:56,208
+
+
 can also be applied to "nation's
 struggle for life" theory.
 
-265
-00:30:56,250 --> 00:30:59,625
+
+
 Today we'll cover the topic
 
-266
-00:30:59,667 --> 00:31:02,500
+
+
 "Roman writers and the Jew problem."
 
-267
-00:31:02,542 --> 00:31:04,917
+
+
 What means does Fuhrer...
 
-268
-00:31:04,958 --> 00:31:08,000
+
+
 ...use to lead the party to victory?
 
-269
-00:31:08,042 --> 00:31:14,458
+
+
 Extermination of the weaker
 guarantees survival of the stronger,
 
-270
-00:31:14,500 --> 00:31:16,833
+
+
 just like in the animal world.
 
-271
-00:31:16,875 --> 00:31:18,833
+
+
 Which Martin Luther
 quotation fits here?
 
-272
-00:31:18,875 --> 00:31:20,750
+
+
 ...and don't you even
 dare to doubt...
 
-273
-00:31:20,792 --> 00:31:24,958
+
+
 ...that, excluding the Devil,
 he's the most furious
 
-274
-00:31:25,000 --> 00:31:28,333
+
+
 stubborn enemy of yours.
 
-275
-00:31:28,375 --> 00:31:32,875
+
+
 A real Jew will always be a Jew.
 
-276
-00:31:42,625 --> 00:31:47,833
+
+
 A modern bomber
 carries 1800 bombs.
 
-277
-00:31:47,875 --> 00:31:53,083
+
+
 What area will he be able
 to drop the bombs on
 
-278
-00:31:53,125 --> 00:31:57,833
+
+
 if he drops 1 bomb per second...
 
-279
-00:31:57,875 --> 00:32:01,958
+
+
 with the speed of 250
 kilometers per hour?
 
-280
-00:32:35,917 --> 00:32:38,167
+
+
 What is it?
 
-281
-00:32:38,208 --> 00:32:47,375
+
+
 Preacher brought the names of
 all the men killed on the front...
 
-282
-00:33:58,583 --> 00:34:02,125
+
+
 Are we here alone?
 
-283
-00:34:02,167 --> 00:34:04,375
+
+
 Yes.
 
-284
-00:34:09,417 --> 00:34:12,500
+
+
 Shall we begin?
 
-285
-00:34:15,875 --> 00:34:18,042
+
+
 Concentrate.
 
-286
-00:34:21,125 --> 00:34:22,708
+
+
 Harder !
 
-287
-00:34:22,750 --> 00:34:27,792
+
+
 C'mon.  More force !
 Don't sleep !
 
-288
-00:34:27,833 --> 00:34:30,125
+
+
 Put your guard up !
 
-289
-00:34:30,167 --> 00:34:32,375
+
+
 You're to take him out !
 
-290
-00:34:32,417 --> 00:34:34,625
+
+
 Get your fists up !
 
-291
-00:34:34,667 --> 00:34:36,875
+
+
 Your fists up !
 
-292
-00:34:36,917 --> 00:34:38,708
+
+
 Move it !
 
-293
-00:34:38,750 --> 00:34:42,875
+
+
 You've got the strength and the skills, but
 you still have to work on your technique.
 
-294
-00:34:42,917 --> 00:34:45,375
+
+
 Don't punch if you lack balance.
 
-295
-00:34:45,417 --> 00:34:48,792
+
+
 Use front hits only if you
 feel you've got the advantage.
 
-296
-00:34:48,833 --> 00:34:51,292
+
+
 Of course, be as strong
 as you can, understand?
 
-297
-00:34:51,333 --> 00:34:56,500
+
+
 At such moments you've got to
 completely forget about being 'humane'.
 
-298
-00:34:56,542 --> 00:34:58,958
+
+
 This whole compassion
 thing is just bullshit.
 
-299
-00:34:59,000 --> 00:35:04,250
+
+
 Only by doing so, will you
 use your whole potential,
 
-300
-00:35:04,292 --> 00:35:07,208
+
+
 and be ready for bigger fights.
 
-301
-00:35:07,250 --> 00:35:10,333
+
+
 What big fights?
 
-302
-00:35:10,792 --> 00:35:14,833
+
+
 Come with me.
 
-303
-00:35:17,333 --> 00:35:21,167
+
+
 Here: the glory years of our boxers.
 
-304
-00:35:21,208 --> 00:35:25,500
+
+
 Frenz Jensen in 1937
 at Napola's championships.
 
-305
-00:35:25,542 --> 00:35:29,833
+
+
 We were the best of all
 the schools in the country.
 
-306
-00:35:29,875 --> 00:35:31,000
+
+
 And after that?
 
-307
-00:35:31,042 --> 00:35:36,375
+
+
 Well, since then, Potsdam
 took over the cup.
 
-308
-00:35:36,417 --> 00:35:38,625
+
+
 When are the next Championships
 going to take place?
 
-309
-00:35:38,667 --> 00:35:39,875
+
+
 In the winter.
 
-310
-00:35:39,917 --> 00:35:43,458
+
+
 If you train hard enough
 you might take part in it.
 
-311
-00:35:43,500 --> 00:35:45,542
+
+
 Really?
 
-312
-00:35:45,583 --> 00:35:50,292
+
+
 Yes, who knows?
 
-313
-00:35:50,333 --> 00:35:54,875
+
+
 So, get under the shower.
 
-314
-00:36:21,875 --> 00:36:26,417
+
+
 Without mercy.
 
-315
-00:36:26,458 --> 00:36:32,792
+
+
 It's the only way he'll learn.
 
-316
-00:36:40,333 --> 00:36:44,542
+
+
 - Were you hit in the nose?
 - Hehe, you're all sweaty !
 
-317
-00:36:44,583 --> 00:36:46,083
+
+
 Mail !
 
-318
-00:36:47,083 --> 00:36:49,208
+
+
 Hey, that's mine.
 
-319
-00:36:54,042 --> 00:36:56,250
+
+
 Friedrich,
 a package for you.
 
-320
-00:36:56,292 --> 00:36:58,458
+
+
 The bathing photo !
 
-321
-00:36:58,500 --> 00:37:02,542
+
+
 - Yeah. - Look here, I was
 supposed to get ALL of them !
 
-322
-00:37:02,583 --> 00:37:05,167
+
+
 You were just supposed
 to have a look. Let's see.
 
-323
-00:37:05,208 --> 00:37:12,417
+
+
 - Want a glimpse? - Hey, why is he
 allowed to look without paying?
 
-324
-00:37:13,042 --> 00:37:15,667
+
+
 Because you moan and
 groan too much, Hefe.
 
-325
-00:37:16,292 --> 00:37:18,875
+
+
 Hey, you can't do that !
 
-326
-00:37:18,917 --> 00:37:21,125
+
+
 Just a little while...
 
-327
-00:37:21,167 --> 00:37:23,375
+
+
 C'mon, Christoph, please !
 
-328
-00:37:32,458 --> 00:37:35,375
+
+
 Dear Friedrich,
 I hope that you are well.
 
-329
-00:37:35,417 --> 00:37:40,042
+
+
 I don't know if you know, but Dad was
 visited by the Gestapo in the factory,
 
-330
-00:37:40,083 --> 00:37:43,167
+
+
 and now he must
 work double-shifts.
 
-331
-00:37:43,208 --> 00:37:46,250
+
+
 Don't tell him that
 I wrote to you.
 
-332
-00:37:46,292 --> 00:37:48,750
+
+
 Always be careful and brave.
 
-333
-00:37:48,792 --> 00:37:52,083
+
+
 Hans, under the circumstances
 is doing well.
 
-334
-00:37:52,125 --> 00:37:58,625
+
+
 I miss you both very much. Looking
 forward to hearing from you. Your mother.
 
-335
-00:38:00,458 --> 00:38:02,250
+
+
 Oh, yuck, you human pig !
 
-336
-00:38:02,292 --> 00:38:07,917
+
+
 Everybody, just take a deep
 breath together, and it'll be over.
 
-337
-00:38:16,417 --> 00:38:18,375
+
+
 Yes?
 
-338
-00:38:19,125 --> 00:38:22,917
+
+
 Did you finish cleaning up?
 
-339
-00:38:25,083 --> 00:38:31,375
+
+
 - Do you head the school newspaper?
 - I'm going to, starting from next issue.
 
-340
-00:38:31,417 --> 00:38:33,500
+
+
 Do you like to write?
 
-341
-00:38:33,542 --> 00:38:36,917
+
+
 Actually I do.
 
-342
-00:38:43,167 --> 00:38:46,875
+
+
 What do you have there?
 
-343
-00:38:46,917 --> 00:38:49,958
+
+
 My essays from my old school.
 
-344
-00:38:50,000 --> 00:38:54,000
+
+
 They've just been
 sent back to me.
 
-345
-00:38:54,042 --> 00:38:56,083
+
+
 And?
 
-346
-00:38:56,125 --> 00:38:59,292
+
+
 Take a look yourself.
 
-347
-00:39:04,000 --> 00:39:06,458
+
+
 Give it back!
 
-348
-00:39:09,125 --> 00:39:12,542
+
+
 I'll put back the pages
 that have fallen out.
 
-349
-00:39:12,583 --> 00:39:16,625
+
+
 See? there's nearly none left.
 
-350
-00:39:17,417 --> 00:39:20,792
+
+
 Now they're all here.
 
-351
-00:39:26,292 --> 00:39:30,292
+
+
 My mom always says that
 everything I write is wonderful,
 
-352
-00:39:30,333 --> 00:39:34,292
+
+
 but she's never actually
 read anything till the end.
 
-353
-00:39:34,333 --> 00:39:37,000
+
+
 If I were you I'd be happy.
 
-354
-00:39:37,042 --> 00:39:40,042
+
+
 It's like winning a battle
 without having to fight.
 
-355
-00:39:40,083 --> 00:39:42,042
+
+
 No,
 
-356
-00:39:42,083 --> 00:39:51,583
+
+
 it's like being given a medal because
 of their not wanting to see you fight.
 
-357
-00:39:53,667 --> 00:39:55,667
+
+
 Give it to me.
 
-358
-00:39:55,708 --> 00:39:57,625
+
+
 What do you need it for?
 
-359
-00:39:57,667 --> 00:40:01,292
+
+
 - I want to read it.
 - You want to read a school essay?
 
-360
-00:40:01,333 --> 00:40:02,917
+
+
 Sure.
 
-361
-00:40:02,958 --> 00:40:05,833
+
+
 Are you afraid of my opinion?
 
-362
-00:40:05,875 --> 00:40:08,417
+
+
 No.
 
-363
-00:40:08,458 --> 00:40:10,917
+
+
 So?
 
-364
-00:40:10,958 --> 00:40:12,000
+
+
 Friedrich.
 
-365
-00:40:13,750 --> 00:40:18,417
+
+
 Um..would you like to
 see "something" ?
 
-366
-00:40:27,000 --> 00:40:30,042
+
+
 - When did you discover this?
 - Today.  This afternoon.
 
-367
-00:40:30,083 --> 00:40:31,917
+
+
 Do you really want
 to take a look?
 
-368
-00:40:31,958 --> 00:40:35,208
+
+
 Yes, you'll help me up
 and then I'll look.
 
-369
-00:40:35,250 --> 00:40:36,833
+
+
 Why should you be the first?
 
-370
-00:40:36,875 --> 00:40:40,250
+
+
 Because I found it. Besides I've
 got to check if the coast is clear.
 
-371
-00:40:40,292 --> 00:40:43,833
+
+
 - You'll be a back guard.
 -  But, I'd rather be a front guard.
 
-372
-00:40:43,875 --> 00:40:45,500
+
+
 Friedrich, please !
 
-373
-00:40:45,542 --> 00:40:51,250
+
+
 Okay, but only because
 you discovered it.
 
-374
-00:40:57,250 --> 00:41:00,667
+
+
 And?
 Do you see anything?
 
-375
-00:41:00,708 --> 00:41:04,083
+
+
 No, there's no one here.
 
-376
-00:41:09,583 --> 00:41:11,542
+
+
 Let me look.
 
-377
-00:41:11,583 --> 00:41:13,708
+
+
 There's nobody here.
 
-378
-00:41:14,625 --> 00:41:16,250
+
+
 What are you doing?
 
-379
-00:41:16,292 --> 00:41:21,208
+
+
 - It's MY turn.
 -I've already said: there's no one there.
 
-380
-00:41:21,250 --> 00:41:25,125
+
+
 Doesn't matter !
 
-381
-00:41:35,292 --> 00:41:38,042
+
+
 And?
 See anything?
 
-382
-00:41:38,083 --> 00:41:46,583
+
+
 Nothing. Nobody. Just like you said.
 
-383
-00:41:48,083 --> 00:41:49,917
+
+
 Shit !
 
-384
-00:42:06,167 --> 00:42:07,583
+
+
 Friedrich?
 
-385
-00:42:07,625 --> 00:42:08,625
+
+
 Yes?
 
-386
-00:42:10,125 --> 00:42:15,792
+
+
 How did you know she was there?
 
-387
-00:42:15,833 --> 00:42:21,458
+
+
 You held your breath for a moment.
 
-388
-00:42:26,625 --> 00:42:27,667
+
+
 Ready?
 
-389
-00:42:27,833 --> 00:42:28,875
+
+
 Ready.
 
-390
-00:42:33,542 --> 00:42:34,625
+
+
 Tug it!
 
-391
-00:42:37,042 --> 00:42:38,958
+
+
 Pull it!
 
-392
-00:42:44,167 --> 00:42:46,042
+
+
 Pull it, faster!
 
-393
-00:43:38,542 --> 00:43:42,292
+
+
 Goddamn it,
 you're supposed to jump higher !
 
-394
-00:43:42,333 --> 00:43:45,125
+
+
 What a bunch of clumsy assholes !
 
-395
-00:43:45,167 --> 00:43:47,917
+
+
 Silence, let your sobbing be heard.
 
-396
-00:43:47,958 --> 00:43:50,583
+
+
 Follow me,
 
-397
-00:43:50,625 --> 00:43:53,083
+
+
 sightly virgin Freyn.
 
-398
-00:43:56,875 --> 00:44:01,500
+
+
 "Gods have you been
 foiling, noble knight,
 
-399
-00:44:01,542 --> 00:44:06,125
+
+
 but I'm afraid that
 dragon will you not bite."
 
-400
-00:44:06,167 --> 00:44:12,625
+
+
 Na,na, that is German poetry for
 you, gentlemen. Carry on.
 
-401
-00:44:32,542 --> 00:44:34,792
+
+
 Oh! I'm sorry !
 
-402
-00:44:34,833 --> 00:44:39,625
+
+
 No, never apologize !
 No one says: I'm sorry ! Come !
 
-403
-00:44:45,042 --> 00:44:46,833
+
+
 And?
 
-404
-00:44:48,875 --> 00:44:51,833
+
+
 Well, it's ok.
 
-405
-00:44:51,875 --> 00:44:53,875
+
+
 Just ok???
 
-406
-00:44:53,917 --> 00:44:59,042
+
+
 It is good.
 REALLY good !
 
-407
-00:45:09,500 --> 00:45:11,417
+
+
 Remember what I said:
 
-408
-00:45:11,458 --> 00:45:14,167
+
+
 Fight until he's out cold.
 
-409
-00:45:14,208 --> 00:45:16,792
+
+
 Only one of you can win.
 
-410
-00:45:16,833 --> 00:45:20,833
+
+
 If you make it through 2 rounds,
 you've got a chance to win.
 
-411
-00:45:22,083 --> 00:45:27,208
+
+
 Make him cry !
 
-412
-00:45:49,000 --> 00:45:51,375
+
+
 You know the rules, fight
 until the knock out !
 
-413
-00:45:51,750 --> 00:45:53,500
+
+
 To your corners !
 
-414
-00:45:57,167 --> 00:45:59,125
+
+
 Box !
 
-415
-00:46:26,458 --> 00:46:27,500
+
+
 Stop !
 
-416
-00:46:28,458 --> 00:46:30,667
+
+
 Alright...box !
 
-417
-00:46:53,750 --> 00:46:57,958
+
+
 Hit him, Friedrich !
 
-418
-00:46:58,000 --> 00:47:00,875
+
+
 Believe in yourself and hit him !
 
-419
-00:47:00,917 --> 00:47:03,750
+
+
 You're fighting 'till the knock out !
 
-420
-00:47:46,833 --> 00:47:52,792
+
+
 Friedrich wins by knock
 out ! Friedrich Weimer !
 
-421
-00:48:14,500 --> 00:48:17,958
+
+
 Congratulations, my boy,
 first class fight.
 
-422
-00:48:18,000 --> 00:48:19,208
+
+
 Thank you.
 
-423
-00:48:19,250 --> 00:48:24,292
+
+
 So short with us, and so much
 progress made, an excellent example.
 
-424
-00:48:24,333 --> 00:48:27,458
+
+
 If we take over Potsdam's
 cup in the winter,
 
-425
-00:48:27,500 --> 00:48:31,958
+
+
 I'll put in a good word for you
 at the Berlin sport school.
 
-426
-00:48:32,000 --> 00:48:34,750
+
+
 The next Olympics are
 just around the corner.
 
-427
-00:48:34,792 --> 00:48:37,292
+
+
 Keep on training.
 
-428
-00:48:37,333 --> 00:48:39,583
+
+
 We have great faith in you.
 
-429
-00:48:39,625 --> 00:48:44,042
+
+
 Thank you.
 Thank you very much.
 
-430
-00:49:04,542 --> 00:49:05,833
+
+
 What's wrong?
 
-431
-00:49:05,875 --> 00:49:08,750
+
+
 Nothing.
 
-432
-00:49:10,167 --> 00:49:13,833
+
+
 - Congratulations.
 - Thanks.
 
-433
-00:49:13,875 --> 00:49:15,958
+
+
 You had no mercy,
 
-434
-00:49:16,000 --> 00:49:20,458
+
+
 he was already hanging on the ropes.
 
-435
-00:49:20,500 --> 00:49:21,417
+
+
 So?
 
-436
-00:49:21,458 --> 00:49:24,458
+
+
 He'd have done exactly
 the same to me.
 
-437
-00:49:24,500 --> 00:49:28,333
+
+
 I've just seen him, and
 he's still unconscious.
 
-438
-00:49:28,375 --> 00:49:30,542
+
+
 What did you expect?
 
-439
-00:49:30,583 --> 00:49:35,833
+
+
 - Would you rather see ME lying there?
 - You didn't have to be so brutal.
 
-440
-00:49:35,875 --> 00:49:38,750
+
+
 - Are you maybe jealous of my victory?
 - No
 
-441
-00:49:38,792 --> 00:49:42,083
+
+
 But couldn't you have
 achieved it in a different way?
 
-442
-00:49:42,125 --> 00:49:46,500
+
+
 - No, I couldn't have !
 
-443
-00:49:58,708 --> 00:50:00,250
+
+
 Get up !
 
-444
-00:50:10,375 --> 00:50:13,375
+
+
 Siegfried,
 
-445
-00:50:13,417 --> 00:50:16,333
+
+
 where are you going so fast?
 
-446
-00:50:16,375 --> 00:50:19,208
+
+
 To the bathroom.
 
-447
-00:50:19,250 --> 00:50:22,083
+
+
 Turn around.
 
-448
-00:50:28,542 --> 00:50:33,333
+
+
 You're a shameful stain
 on the school's honor.
 
-449
-00:50:33,375 --> 00:50:38,708
+
+
 What if the Fuhrer came tomorrow
 and your room stunk of pee?
 
-450
-00:50:38,750 --> 00:50:44,917
+
+
 - What would your sport instructor
 think about it?   - Please, no, I...
 
-451
-00:50:44,958 --> 00:50:49,708
+
+
 For 20 marks I'll forget the whole thing.
 
-452
-00:50:49,750 --> 00:50:54,208
+
+
 - I don't have that much money on me.
 -  Then:  GET IT !
 
-453
-00:50:54,250 --> 00:50:58,833
+
+
 If you don't find it
 before supper, your 
 
-454
-00:50:58,833 --> 00:51:04,083
+
+
 sport instructor will be
 informed of your problem.
 
-455
-00:51:04,125 --> 00:51:08,583
+
+
 - Everything ok, Siegfried?
 - Yeah.
 
-456
-00:51:08,875 --> 00:51:13,167
+
+
 A hand grenade has
 an exploding range
 
-457
-00:51:13,417 --> 00:51:16,125
+
+
 of approximately 15 meters.
 
-458
-00:51:16,333 --> 00:51:19,500
+
+
 And it's splintered fragments
 may fly even further.
 
-459
-00:51:20,500 --> 00:51:22,500
+
+
 To sum up:
 
-460
-00:51:23,917 --> 00:51:26,125
+
+
 Unscrew the lid,
 
-461
-00:51:27,833 --> 00:51:31,250
+
+
 pull the line -
 and now it's triggered and sharp.
 
-462
-00:51:31,292 --> 00:51:33,875
+
+
 Then we make a wide sweeping motion,
 
-463
-00:51:33,917 --> 00:51:36,500
+
+
 we throw it, then, take cover.
 
-464
-00:51:36,542 --> 00:51:41,917
+
+
 After pulling the line you've got
 4,5 seconds till detonation.
 
-465
-00:51:41,958 --> 00:51:44,583
+
+
 Are there any questions?
 
-466
-00:51:45,542 --> 00:51:46,583
+
+
 Fine...
 
-467
-00:52:01,000 --> 00:52:03,750
+
+
 Christoph, come.
 
-468
-00:52:10,417 --> 00:52:14,708
+
+
 So: Pull it. Sweeping motion.
 Throw. Duck.
 
-469
-00:52:19,417 --> 00:52:21,083
+
+
 Very good.
 
-470
-00:52:22,750 --> 00:52:25,083
+
+
 Friedrich, next. Come.
 
-471
-00:52:33,167 --> 00:52:35,917
+
+
 So: Pull it. Sweeping motion.
 
-472
-00:52:36,083 --> 00:52:38,500
+
+
 Throw. Duck.
 
-473
-00:52:49,417 --> 00:52:50,625
+
+
 Wilhelm.
 
-474
-00:52:57,625 --> 00:53:00,417
+
+
 And: Pull it. Sweeping motion.
 
-475
-00:53:00,667 --> 00:53:02,958
+
+
 Throw. Duck.
 
-476
-00:53:14,000 --> 00:53:16,042
+
+
 Albrecht, come.
 
-477
-00:53:22,125 --> 00:53:25,292
+
+
 And: Pull it.
 Sweeping motion.
 
-478
-00:53:25,583 --> 00:53:27,625
+
+
 Throw it.
 I said: THROW IT !
 
-479
-00:53:27,667 --> 00:53:29,000
+
+
 TAKE COVER !
 
-480
-00:53:31,708 --> 00:53:33,750
+
+
 GODDAMMIT !
 
-481
-00:53:41,167 --> 00:53:44,958
+
+
 Martin. Come.
 
-482
-00:53:53,083 --> 00:53:58,667
+
+
 ARE YOU OUT OF YOUR MIND ??
 THROW IT !!
 
-483
-00:54:50,042 --> 00:54:53,750
+
+
 Our regional party leader has come
 
-484
-00:54:54,042 --> 00:54:58,667
+
+
 to pay a last tribute to
 our hero's memory.
 
-485
-00:55:33,875 --> 00:55:39,333
+
+
 We are gathered here today
 to pay tribute and to honor
 
-486
-00:55:39,375 --> 00:55:41,583
+
+
 the memory of our comrade,
 
-487
-00:55:41,625 --> 00:55:45,417
+
+
 Siegfried Gladen.
 
-488
-00:55:45,458 --> 00:55:49,458
+
+
 In a moment of terrible
 and grave danger,
 
-489
-00:55:49,500 --> 00:55:53,458
+
+
 he sacrificed himself
 for the good of others.
 
-490
-00:55:53,500 --> 00:55:55,667
+
+
 He gave up his own life
 
-491
-00:55:55,708 --> 00:55:59,875
+
+
 to save the lives of
 twenty of his comrades.
 
-492
-00:55:59,917 --> 00:56:02,167
+
+
 The young man
 
-493
-00:56:02,208 --> 00:56:05,333
+
+
 who lies here now at this funeral
 
-494
-00:56:05,375 --> 00:56:10,125
+
+
 has filled the last seconds of
 his life, not with hesitation,
 
-495
-00:56:10,167 --> 00:56:13,208
+
+
 but with action.
 
-496
-00:56:13,250 --> 00:56:15,792
+
+
 Our times don't need
 
-497
-00:56:15,833 --> 00:56:18,250
+
+
 timid solutions.
 
-498
-00:56:18,292 --> 00:56:21,333
+
+
 We don't need metrosexualists,
 
-499
-00:56:21,375 --> 00:56:24,292
+
+
 but men who actually do something.
 
-500
-00:56:24,333 --> 00:56:28,250
+
+
 Every one of us, standing
 here now, should ask himself:
 
-501
-00:56:28,292 --> 00:56:32,167
+
+
 Why wasn't it me who
 jumped on that grenade?
 
-502
-00:56:32,208 --> 00:56:35,333
+
+
 Did he find at that very moment,
 
-503
-00:56:35,375 --> 00:56:39,917
+
+
 the lives of his friends to be
 more valuable than his own?
 
-504
-00:56:39,958 --> 00:56:44,042
+
+
 If so, why?
 
-505
-00:56:45,250 --> 00:56:47,542
+
+
 Our bodies are not our own property
 
-506
-00:56:48,500 --> 00:56:50,167
+
+
 but our nation's,
 
-507
-00:56:50,500 --> 00:56:52,375
+
+
 our country's
 
-508
-00:56:52,667 --> 00:56:55,792
+
+
 and before all, our Fuhrer's.
 
-509
-00:56:57,167 --> 00:57:02,375
+
+
 And what?... What can be a
 better ending for our lives,
 
-510
-00:57:02,583 --> 00:57:04,458
+
+
 than a heroic death?
 
-511
-00:57:13,375 --> 00:57:15,417
+
+
 Siegfried Gladen,
 
-512
-00:57:16,958 --> 00:57:19,000
+
+
 our nation thanks you
 
-513
-00:57:20,083 --> 00:57:25,083
+
+
 and assures you that
 it will never forget you.
 
-514
-00:57:40,042 --> 00:57:41,833
+
+
 Lower !
 
-515
-00:57:42,583 --> 00:57:45,583
+
+
 I can't believe my own eyes !
 
-516
-00:57:46,917 --> 00:57:51,583
+
+
 It can always be done
 just a little bit better.
 
-517
-00:57:51,625 --> 00:57:54,167
+
+
 Don't let the tiredness get to you !
 
-518
-00:57:57,625 --> 00:57:59,083
+
+
 Enough !
 
-519
-00:58:02,917 --> 00:58:04,875
+
+
 Young men,
 
-520
-00:58:04,917 --> 00:58:08,208
+
+
 today we'll practice high jumps,
 
-521
-00:58:08,250 --> 00:58:11,792
+
+
 my favorite sport discipline.
 
-522
-00:58:11,833 --> 00:58:17,042
+
+
 It requires absolute body control,
 
-523
-00:58:17,083 --> 00:58:20,167
+
+
 stomach muscles must
 be hard as a stiff board,
 
-524
-00:58:20,208 --> 00:58:22,542
+
+
 as they support the whole body.
 
-525
-00:58:22,583 --> 00:58:24,708
+
+
 If you bend at the waist,
 
-526
-00:58:24,750 --> 00:58:28,917
+
+
 you won't achieve a thing.
 
-527
-00:58:28,958 --> 00:58:32,417
+
+
 Hard as a stiff board.
 
-528
-00:58:32,458 --> 00:58:35,750
+
+
 Who wants to try first?
 
-529
-00:58:35,792 --> 00:58:40,125
+
+
 Come here, boxer kid.
 
-530
-00:58:42,333 --> 00:58:44,583
+
+
 Hard as a stiff board. Go on.
 
-531
-00:58:54,000 --> 00:58:55,875
+
+
 Well? Hit me.
 
-532
-00:59:06,167 --> 00:59:07,333
+
+
 Fine,
 
-533
-00:59:09,792 --> 00:59:11,875
+
+
 Line up for first the jump !
 
-534
-00:59:25,083 --> 00:59:31,542
+
+
 Quite a brave act.
 
-535
-00:59:31,583 --> 00:59:34,917
+
+
 Will you come home
 with me on Sunday?
 
-536
-00:59:34,958 --> 00:59:38,833
+
+
 It's my father's birthday.
 
-537
-00:59:38,875 --> 00:59:42,625
+
+
 - Heil Hitler, master Stein.
 - Heil Hitler, Johan.
 
-538
-01:00:33,250 --> 01:00:39,042
+
+
 Albrecht, finally.
 Good to see you.
 
-539
-01:00:39,083 --> 01:00:43,417
+
+
 Friedrich? I've heard so
 much about you. Welcome.
 
-540
-01:00:43,458 --> 01:00:46,375
+
+
 - Thank's for the invitation.
 - No need for thanks.
 
-541
-01:00:46,417 --> 01:00:50,917
+
+
 - Mom, l...
 - Tell me later, dear.
 
-542
-01:00:51,667 --> 01:00:55,000
+
+
 Come. Show me your room.
 
-543
-01:00:57,250 --> 01:00:58,667
+
+
 Not bad.
 
-544
-01:00:58,708 --> 01:01:01,750
+
+
 Yup, everything was already here...
 
-545
-01:01:01,792 --> 01:01:06,000
+
+
 - In the whole house?
 - Yup.
 
-546
-01:01:09,625 --> 01:01:14,167
+
+
 Quick, quick quick !
 
-547
-01:01:34,833 --> 01:01:38,583
+
+
 Thank you, I'm very touched.
 
-548
-01:01:54,583 --> 01:01:57,125
+
+
 Happy Birthday.
 
-549
-01:01:57,167 --> 01:02:00,750
+
+
 Good evening, father.
 Happy Birthday.
 
-550
-01:02:00,792 --> 01:02:02,625
+
+
 Thank you, Albrecht.
 
-551
-01:02:02,667 --> 01:02:05,667
+
+
 You've lost weight.
 Are you playing enough sports?
 
-552
-01:02:05,708 --> 01:02:10,458
+
+
 Sure, of course.  Naturally.
 
-553
-01:02:10,500 --> 01:02:13,625
+
+
 This is Friedrich.
 
-554
-01:02:13,667 --> 01:02:15,250
+
+
 - You know...
 - Of course.
 
-555
-01:02:15,292 --> 01:02:17,750
+
+
 I've heard alot about
 your boxing skills.
 
-556
-01:02:17,792 --> 01:02:18,792
+
+
 A warm welcome.
 
-557
-01:02:29,833 --> 01:02:32,500
+
+
 Dear Heinrich,
 
-558
-01:02:32,542 --> 01:02:37,542
+
+
 on behalf of your old mates
 we wish you the very best,
 
-559
-01:02:37,583 --> 01:02:41,250
+
+
 and a good start in Warthegau.
 
-560
-01:02:41,292 --> 01:02:45,917
+
+
 I hope you've got enough skills
 to clean up the local mess !
 
-561
-01:02:45,958 --> 01:02:48,292
+
+
 Cheers !
 
-562
-01:03:00,042 --> 01:03:02,000
+
+
 Dear father,
 
-563
-01:03:02,042 --> 01:03:06,875
+
+
 I wrote a small
 birthday poem for you.
 
-564
-01:03:10,083 --> 01:03:12,625
+
+
 Here it goes:
 
-565
-01:03:12,667 --> 01:03:14,083
+
+
 - At first...
 - Thank you,
 
-566
-01:03:14,125 --> 01:03:19,708
+
+
 Albrecht, thank you very much.
 I'll listen to it later.
 
-567
-01:03:26,750 --> 01:03:29,292
+
+
 Dear Franz,
 
-568
-01:03:29,333 --> 01:03:31,333
+
+
 party companions,
 
-569
-01:03:31,375 --> 01:03:35,500
+
+
 Thank you for this great party.
 
-570
-01:03:35,542 --> 01:03:37,333
+
+
 Let me tell you
 
-571
-01:03:37,375 --> 01:03:40,083
+
+
 that the task I was given
 
-572
-01:03:40,125 --> 01:03:42,750
+
+
 fills me with great pride.
 
-573
-01:03:42,792 --> 01:03:47,583
+
+
 I know, that it wouldn't have
 been granted to me, in Berlin.
 
-574
-01:03:47,625 --> 01:03:50,667
+
+
 Some people simply can't
 understand my methods.
 
-575
-01:03:50,708 --> 01:03:55,333
+
+
 But in this country, it's the Fuhrer
 who decides, not the bureaucrats.
 
-576
-01:03:55,375 --> 01:03:59,458
+
+
 Cheers !
 Carl.  Willhelm.  Franz.
 
-577
-01:04:03,833 --> 01:04:07,500
+
+
 How's your combat training?
 
-578
-01:04:07,542 --> 01:04:13,583
+
+
 - Good.  - Albrecht's going to be a
 Waffen SS officer after school.
 
-579
-01:04:13,625 --> 01:04:20,250
+
+
 Ah, then tasks of strength
 might not be all that...
 
-580
-01:04:20,417 --> 01:04:22,792
+
+
 So, you're the boxer, are you?
 
-581
-01:04:23,042 --> 01:04:25,583
+
+
 - And in perfect shape, I've heard.
 
-582
-01:04:25,583 --> 01:04:29,833
+
+
 - Really? Then maybe you could
 show us some of your'moves'?
 
-583
-01:04:29,875 --> 01:04:31,375
+
+
 An excellent idea !
 
-584
-01:04:31,417 --> 01:04:32,458
+
+
 Gentlemen,
 
-585
-01:04:32,500 --> 01:04:36,958
+
+
 after dinner, I invite you to the
 cellar, where our young elite
 
-586
-01:04:37,000 --> 01:04:41,250
+
+
 will show us something VERY special.
 
-587
-01:04:44,125 --> 01:04:46,792
+
+
 What a great idea.
 
-588
-01:04:54,917 --> 01:04:56,500
+
+
 Surprised, aren't you?
 
-589
-01:04:56,833 --> 01:05:01,167
+
+
 -I train in my free time to keep in shape.
 -Undress !
 
-590
-01:05:01,208 --> 01:05:04,708
+
+
 - Undress?
 - Yes, you'll show us what you've learned.
 
-591
-01:05:04,750 --> 01:05:11,375
+
+
 - But Albrecht does't...
 - Ahhh, every German should box.
 
-592
-01:05:21,375 --> 01:05:22,917
+
+
 And...Box !
 
-593
-01:05:27,458 --> 01:05:29,167
+
+
 What's that supposed to be?
 
-594
-01:05:29,333 --> 01:05:33,583
+
+
 Fight honestly, you don't
 have to spare anyone here.
 
-595
-01:05:35,750 --> 01:05:37,250
+
+
 Fight honestly,
 
-596
-01:05:37,958 --> 01:05:38,792
+
+
 No.
 
-597
-01:05:44,333 --> 01:05:45,417
+
+
 Hit me !
 
-598
-01:05:45,583 --> 01:05:47,958
+
+
 - No.
 - You're to box !
 
-599
-01:05:50,000 --> 01:05:52,333
+
+
 Hit me, coward !
 
-600
-01:05:55,167 --> 01:05:57,125
+
+
 You're to fight !
 
-601
-01:06:08,167 --> 01:06:09,208
+
+
 Albrecht !
 
-602
-01:06:15,417 --> 01:06:17,833
+
+
 Don't you worry.
 Great punch.
 
-603
-01:06:18,250 --> 01:06:19,917
+
+
 Genius.
 
-604
-01:06:19,958 --> 01:06:22,792
+
+
 Hans, give our young
 people some vodlka.
 
-605
-01:06:22,833 --> 01:06:25,375
+
+
 Our country needs
 people like you.
 
-606
-01:06:25,417 --> 01:06:31,792
+
+
 More people like you on the Eastern front,
 and we can close that chapter for good.
 
-607
-01:06:31,833 --> 01:06:35,708
+
+
 Cheers !
 
-608
-01:06:35,750 --> 01:06:40,333
+
+
 - But, sir...
 - No refusing Heinrich.
 
-609
-01:06:52,458 --> 01:06:57,833
+
+
 - Shall we, young master?
 - Yes, let's go.
 
-610
-01:07:26,292 --> 01:07:34,083
+
+
 Albrecht, listen...
 [  Big sigh  ]
 
-611
-01:07:42,167 --> 01:07:44,417
+
+
 Attention !
 
-612
-01:07:57,458 --> 01:08:00,000
+
+
 About face !
 
-613
-01:08:01,875 --> 01:08:03,458
+
+
 Young men...
 
-614
-01:08:03,917 --> 01:08:09,167
+
+
 Good news for you. Due
 to intensified air battles
 
-615
-01:08:09,208 --> 01:08:12,250
+
+
 Wehrmacht has requested
 some of Napola's students.
 
-616
-01:08:12,292 --> 01:08:18,333
+
+
 Yesterday our whole
 eighth grade volunteered.
 
-617
-01:08:18,375 --> 01:08:21,250
+
+
 They're off to terrify the enemy !
 
-618
-01:08:21,292 --> 01:08:24,125
+
+
 And I'm filled with pride
 
-619
-01:08:24,167 --> 01:08:28,125
+
+
 that our second school certificate students
 
-620
-01:08:28,167 --> 01:08:33,167
+
+
 have embraced
 the call, and have not
 
-621
-01:08:33,208 --> 01:08:37,458
+
+
 chosen to run from danger.
 
-622
-01:08:38,208 --> 01:08:42,083
+
+
 Heil Hitler, young men !
 Heil Hitler !
 
-623
-01:08:46,333 --> 01:08:52,833
+
+
 Well, at least, they no
 longer have to be here...
 
-624
-01:09:05,125 --> 01:09:08,000
+
+
 How long are you going
 to stay mad at me?
 
-625
-01:09:08,042 --> 01:09:09,833
+
+
 I'm not mad.
 
-626
-01:09:11,417 --> 01:09:13,875
+
+
 I'm afraid.
 
-627
-01:09:15,542 --> 01:09:17,958
+
+
 Of what?
 
-628
-01:09:32,958 --> 01:09:34,000
+
+
 Friedrich,
 
-629
-01:09:36,917 --> 01:09:38,708
+
+
 Wake up.
 
-630
-01:09:44,125 --> 01:09:46,500
+
+
 What's going on?
 
-631
-01:09:49,917 --> 01:09:54,167
+
+
 It's your father.
 
-632
-01:09:55,542 --> 01:09:58,708
+
+
 Let's Go !
 Fall in line !
 
-633
-01:10:07,083 --> 01:10:08,333
+
+
 Attention !
 
-634
-01:10:13,375 --> 01:10:17,125
+
+
 Seventh grade reporting, sir.
 
-635
-01:10:21,250 --> 01:10:24,208
+
+
 Heil Hitler, young men !
 Heil Hitler !
 
-636
-01:10:24,625 --> 01:10:26,542
+
+
 At ease.
 
-637
-01:10:27,625 --> 01:10:30,750
+
+
 Young men, we've got a problem.
 
-638
-01:10:30,792 --> 01:10:35,667
+
+
 Day before yesterday, a transport
 with war prisoners arrived at Allenstein.
 
-639
-01:10:35,708 --> 01:10:40,458
+
+
 12 Russians escaped into
 the forests near Karlstadt.
 
-640
-01:10:40,500 --> 01:10:43,125
+
+
 They overpowered two guards,
 
-641
-01:10:43,167 --> 01:10:44,833
+
+
 and stole their weapons.
 
-642
-01:10:44,875 --> 01:10:48,875
+
+
 Nobody knows the local
 area better than you do.
 
-643
-01:10:48,917 --> 01:10:50,917
+
+
 So I ask for your help.
 
-644
-01:10:50,958 --> 01:10:53,583
+
+
 If you wish to take part
 in this dangerous mission,
 
-645
-01:10:53,625 --> 01:10:56,167
+
+
 and help recapture
 these wild monsters:
 
-646
-01:10:56,208 --> 01:11:01,917
+
+
 Answer loudly: Yes, sir !
 - Yes, sir !
 
-647
-01:11:01,958 --> 01:11:03,542
+
+
 Then, let's go !
 
-648
-01:11:03,750 --> 01:11:05,000
+
+
 Faster !
 
-649
-01:11:05,250 --> 01:11:07,125
+
+
 Take the ammo by yourself.
 
-650
-01:11:11,917 --> 01:11:13,875
+
+
 Live ammunition?
 
-651
-01:11:13,917 --> 01:11:16,208
+
+
 And what did you think?
 
-652
-01:11:16,250 --> 01:11:18,625
+
+
 That we were going to catch
 them with our bare hands?  Next.
 
-653
-01:11:18,667 --> 01:11:19,958
+
+
 Go, go !
 
-654
-01:11:20,125 --> 01:11:21,167
+
+
 Get in !
 
-655
-01:11:25,625 --> 01:11:27,125
+
+
 Forward !
 
-656
-01:12:11,708 --> 01:12:16,958
+
+
 Young men. Do your best.
 Don't let them escape.
 
-657
-01:12:17,000 --> 01:12:19,208
+
+
 I'll award the most zealous units
 
-658
-01:12:19,250 --> 01:12:23,875
+
+
 with a Contribution Cross myself.
 
-659
-01:12:23,917 --> 01:12:24,917
+
+
 Load your weapons !
 
-660
-01:12:28,958 --> 01:12:31,000
+
+
 Unlock them !
 
-661
-01:12:33,500 --> 01:12:35,375
+
+
 March off !
 
-662
-01:13:37,458 --> 01:13:38,541
+
+
 Halt.  Don't move !
 
-663
-01:14:07,333 --> 01:14:08,875
+
+
 Halt !!!
 
-664
-01:14:09,041 --> 01:14:11,291
+
+
 Hands up,
 or I'll shoot !
 
-665
-01:14:22,375 --> 01:14:28,166
+
+
 I saw one there, he had
 something in his hands.
 
-666
-01:14:54,666 --> 01:14:58,458
+
+
 Oh my god, they're just children !
 
-667
-01:14:58,500 --> 01:15:04,083
+
+
 Bandages ! Hand them to me ! Hurry !!
 
-668
-01:15:11,833 --> 01:15:15,666
+
+
 - What's he saying?
 - I don't know.
 
-669
-01:15:17,375 --> 01:15:21,666
+
+
 It won't be any help !
 Albrecht !
 
-670
-01:15:32,041 --> 01:15:41,541
+
+
 Everything's ok...Calm down...
 Everything will be fine...
 
-671
-01:16:33,958 --> 01:16:37,000
+
+
 He's dead.
 
-672
-01:16:37,541 --> 01:16:39,833
+
+
 It's high time.
 
-673
-01:16:39,875 --> 01:16:41,541
+
+
 Let's go !
 
-674
-01:16:41,583 --> 01:16:43,791
+
+
 What's happened here?
 
-675
-01:16:43,833 --> 01:16:45,041
+
+
 Report.
 
-676
-01:16:45,083 --> 01:16:49,208
+
+
 Five captives shot while trying to escape.
 
-677
-01:16:49,250 --> 01:16:51,250
+
+
 - Is that the last one?
 - Yes.
 
-678
-01:16:51,291 --> 01:16:53,666
+
+
 Stand back, Albrecht.
 
-679
-01:16:56,666 --> 01:16:59,791
+
+
 Father, NO !!!
 
-680
-01:17:02,000 --> 01:17:05,833
+
+
 Don't you DARE defy me in public again !
 Understand??
 
-681
-01:17:05,875 --> 01:17:10,750
+
+
 - DO you understand?!!
 - Yes, father.
 
-682
-01:17:10,791 --> 01:17:12,166
+
+
 Good job, young men.
 
-683
-01:17:12,208 --> 01:17:15,041
+
+
 Let's go, there's more of
 them to recapture.
 
-684
-01:17:15,083 --> 01:17:17,291
+
+
 You too ! Get moving ! And fast !
 
-685
-01:17:17,333 --> 01:17:23,125
+
+
 - Sir, we...
 - Why suddenly the:  "Sir"  ?
 
-686
-01:17:23,583 --> 01:17:25,458
+
+
 Yes, of course, I mean:  Heinrich.
 
-687
-01:17:26,291 --> 01:17:28,416
+
+
 Come, Albrecht.
 
-688
-01:17:34,125 --> 01:17:35,666
+
+
 Let's go. Move it.
 
-689
-01:17:45,750 --> 01:17:51,541
+
+
 - Pull yourself together !
 - Pull myself together??
 
-690
-01:17:51,583 --> 01:17:57,208
+
+
 Do you know what
 we've just done??
 
-691
-01:17:57,250 --> 01:18:01,500
+
+
 We didn't have to shoot !
 
-692
-01:18:01,541 --> 01:18:04,625
+
+
 I didn't give you an order !
 
-693
-01:18:04,666 --> 01:18:07,833
+
+
 But your father said
 that they were armed !
 
-694
-01:18:07,875 --> 01:18:10,583
+
+
 What are you staring at??
 
-695
-01:18:10,625 --> 01:18:12,208
+
+
 I'm not looking at you.
 
-696
-01:18:12,250 --> 01:18:16,125
+
+
 I know what you're thinking...
 
-697
-01:18:16,166 --> 01:18:20,166
+
+
 Don't look at me like that !!!
 
-698
-01:18:21,166 --> 01:18:23,708
+
+
 - Albrecht !
 - Stay here.
 
-699
-01:18:23,750 --> 01:18:26,916
+
+
 It won't do any good.
 
-700
-01:18:42,875 --> 01:18:47,416
+
+
 Hey Weimer,
 were you the one who shot him?
 
-701
-01:18:47,458 --> 01:18:49,500
+
+
 Hey, say something.
 Answer my question.
 
-702
-01:18:49,541 --> 01:18:52,333
+
+
 I asked you something.
 
-703
-01:18:52,375 --> 01:18:55,333
+
+
 Are you deaf ??
 
-704
-01:18:58,875 --> 01:19:02,708
+
+
 - Break it up !
 - I'll take care of it.
 
-705
-01:19:02,750 --> 01:19:05,333
+
+
 Take their weapons.
 
-706
-01:19:05,375 --> 01:19:10,458
+
+
 Are you out of your minds??
 This is a combat mission !
 
-707
-01:19:10,500 --> 01:19:13,041
+
+
 Get in.
 
-708
-01:19:55,666 --> 01:19:57,291
+
+
 Let's go.
 
-709
-01:20:00,958 --> 01:20:05,250
+
+
 You're lucky the Russians
 didn't abduct you.
 
-710
-01:20:05,291 --> 01:20:08,083
+
+
 You'll be leaving jail tomorrow.
 
-711
-01:20:08,125 --> 01:20:10,208
+
+
 You, that way.
 
-712
-01:20:57,333 --> 01:20:58,791
+
+
 Christoph?
 
-713
-01:20:58,833 --> 01:21:00,708
+
+
 Shut up, Hefe.
 
-714
-01:21:00,750 --> 01:21:06,333
+
+
 - I'd like to talk...
 - Shut the fuck up.
 
-715
-01:21:18,500 --> 01:21:20,166
+
+
 Attention !
 
-716
-01:21:26,791 --> 01:21:28,375
+
+
 Sit down !
 
-717
-01:21:33,125 --> 01:21:37,375
+
+
 Take out your notebooks,
 you're going to write an essay:
 
-718
-01:21:37,416 --> 01:21:43,375
+
+
 "Winter landscape as a background
 for German Knight Sagas."
 
-719
-01:21:43,416 --> 01:21:47,250
+
+
 You've got an hour,
 starting from now.
 
-720
-01:22:29,500 --> 01:22:33,375
+
+
 Alright, your time's up.
 
-721
-01:22:38,041 --> 01:22:42,541
+
+
 Christoph, come to the
 front and start reading.
 
-722
-01:22:43,583 --> 01:22:45,083
+
+
 Please.
 
-723
-01:22:48,708 --> 01:22:53,625
+
+
 German landscape as a
 background for German Knight Sagas.
 
-724
-01:22:53,666 --> 01:22:57,708
+
+
 German landscape is a very important
 background for Knight Sagas.
 
-725
-01:22:57,750 --> 01:22:59,250
+
+
 Oh, really, Christoph?
 
-726
-01:22:59,291 --> 01:23:01,583
+
+
 The earliest sources prove
 
-727
-01:23:01,625 --> 01:23:04,666
+
+
 the enormous role of winter
 landscape in historic...
 
-728
-01:23:04,708 --> 01:23:07,041
+
+
 Enough. Take your seat.
 
-729
-01:23:07,083 --> 01:23:09,833
+
+
 Albrecht, come, you'll read.
 
-730
-01:23:19,458 --> 01:23:20,791
+
+
 Please.
 
-731
-01:23:24,750 --> 01:23:27,416
+
+
 Despite being a bit childish,
 
-732
-01:23:27,458 --> 01:23:32,416
+
+
 winter and a view of freshly
 fallen snow awakens in us
 
-733
-01:23:32,458 --> 01:23:36,041
+
+
 a feeling of inexplicable joy.
 
-734
-01:23:36,083 --> 01:23:41,541
+
+
 Perhaps because as children, we
 think of snow in relation to Christmas...
 
-735
-01:23:41,583 --> 01:23:47,416
+
+
 In my dreams I am the hero who
 saves the virgin from the dragon.
 
-736
-01:23:47,458 --> 01:23:51,875
+
+
 One who frees the
 world from evil.
 
-737
-01:23:51,916 --> 01:23:56,041
+
+
 When searching for
 the escapees yesterday,
 
-738
-01:23:56,083 --> 01:24:00,041
+
+
 I remembered the boy who
 wanted to save the world from evil.
 
-739
-01:24:00,083 --> 01:24:01,333
+
+
 Albrecht, enough.
 
-740
-01:24:01,375 --> 01:24:07,333
+
+
 Upon returning I realized
 that I MYSELF am that evil...
 
-741
-01:24:07,375 --> 01:24:11,541
+
+
 The very evil I wanted
 to free the world from.
 
-742
-01:24:11,583 --> 01:24:13,083
+
+
 Albrecht, enough.
 
-743
-01:24:13,125 --> 01:24:15,833
+
+
 Killing the captives was wrong.
 
-744
-01:24:15,875 --> 01:24:19,833
+
+
 - They weren't armed, as Stein had told  us,
 just to bait us.     - Stop it.
 
-745
-01:24:19,875 --> 01:24:25,833
+
+
 - We didn't shoot men, but helpless
 children.  - LEAVE THIS INSTANT !!!
 
-746
-01:24:56,333 --> 01:25:00,000
+
+
 [ Head of Institution ]
 
-747
-01:25:09,500 --> 01:25:12,958
+
+
 How can you explain
 your behavior?
 
-748
-01:25:18,583 --> 01:25:27,250
+
+
 Do you understand the
 position you've put me in?
 
-749
-01:25:27,291 --> 01:25:36,916
+
+
 I don't think you have the slightest
 idea of all the privileges you have here.
 
-750
-01:25:42,625 --> 01:25:46,583
+
+
 Do you know how much I
 would have sacrificed just
 
-751
-01:25:46,583 --> 01:25:49,500
+
+
 to be able to graduate
 from such a school?
 
-752
-01:25:49,541 --> 01:25:52,625
+
+
 But I wasn't granted
 such a chance,
 
-753
-01:25:52,666 --> 01:25:58,583
+
+
 by the age of 16, I'd already
 been working for 3 whole years.
 
-754
-01:25:58,625 --> 01:26:02,458
+
+
 And you..
 
-755
-01:26:02,500 --> 01:26:05,500
+
+
 All you do is to trample on everything.
 
-756
-01:26:05,541 --> 01:26:08,291
+
+
 But that's over now.
 
-757
-01:26:08,333 --> 01:26:10,208
+
+
 You're going to write an essay,
 
-758
-01:26:10,250 --> 01:26:13,750
+
+
 in which you'll tell
 the 'real' version.
 
-759
-01:26:13,791 --> 01:26:15,791
+
+
 And I expect you
 
-760
-01:26:15,833 --> 01:26:18,416
+
+
 to voluntarily join the
 Waffen SS by yourself.
 
-761
-01:26:18,458 --> 01:26:21,208
+
+
 I've already talked
 to Borner, brigade leader.
 
-762
-01:26:21,250 --> 01:26:25,000
+
+
 Ukraine will suit you
 the best, right now.
 
-763
-01:26:25,041 --> 01:26:27,666
+
+
 - I can't.
 - What?
 
-764
-01:26:27,708 --> 01:26:30,791
+
+
 I won't write a new essay.
 
-765
-01:26:30,833 --> 01:26:36,791
+
+
 Yesterday, I wrote
 what I really thought.
 
-766
-01:26:38,250 --> 01:26:43,125
+
+
 I'm to be given that essay
 early tomorrow morning,
 
-767
-01:26:43,166 --> 01:26:52,083
+
+
 or else you won't survive this.
 
-768
-01:27:03,208 --> 01:27:06,083
+
+
 Alright, get out. End of jail.
 
-769
-01:27:08,916 --> 01:27:11,541
+
+
 - What's going on?
 - Haven't you heard?
 
-770
-01:27:11,583 --> 01:27:14,250
+
+
 Albrecht defamed his
 father in an essay.
 
-771
-01:27:15,291 --> 01:27:16,333
+
+
 What ??
 
-772
-01:27:32,625 --> 01:27:34,041
+
+
 Albrecht !
 
-773
-01:27:37,291 --> 01:27:39,875
+
+
 What's happened?
 
-774
-01:27:40,875 --> 01:27:46,083
+
+
 I'll be 17 in one week.
 
-775
-01:27:46,125 --> 01:27:49,875
+
+
 My father's shipping me off
 to the Eastern front.
 
-776
-01:27:49,916 --> 01:27:55,083
+
+
 I'm to write another essay
 to straighten things out.
 
-777
-01:27:55,125 --> 01:27:59,416
+
+
 So why did you write that essay?
 
-778
-01:27:59,458 --> 01:28:01,250
+
+
 I couldn't have done it any other way.
 
-779
-01:28:01,291 --> 01:28:03,666
+
+
 What do you mean:
 I couldn't...?
 
-780
-01:28:03,708 --> 01:28:07,000
+
+
 Yes, you couldn't neither...
 
-781
-01:28:07,041 --> 01:28:09,250
+
+
 when you punched the coach.
 
-782
-01:28:09,291 --> 01:28:13,333
+
+
 - That was something completely different.
 - Oh, really?
 
-783
-01:28:13,375 --> 01:28:17,083
+
+
 - You didn't help anyone by doing so !
 - Yes, I did.
 
-784
-01:28:17,125 --> 01:28:22,250
+
+
 So who'd you help? Explain it
 to me. I can't understand it !
 
-785
-01:28:22,291 --> 01:28:26,208
+
+
 I helped myself...
 
-786
-01:28:26,250 --> 01:28:28,333
+
+
 Oh, really?
 You helped yourself??
 
-787
-01:28:28,375 --> 01:28:33,541
+
+
 You didn't think about
 anyone else, did you?
 
-788
-01:28:33,583 --> 01:28:39,291
+
+
 He ?! Say something !! He ?!
 
-789
-01:28:42,875 --> 01:28:45,875
+
+
 You fucking egoist !!
 
-790
-01:29:20,666 --> 01:29:28,000
+
+
 That's the first essay of mine
 my father has ever read...
 
-791
-01:29:28,791 --> 01:29:32,833
+
+
 So what are you going to do now?
 
-792
-01:29:32,875 --> 01:29:36,208
+
+
 I don't know.
 
-793
-01:29:50,583 --> 01:29:56,708
+
+
 Get up ! In 10 minutes I want
 to see everybody at the lake !
 
-794
-01:29:58,916 --> 01:30:02,375
+
+
 When I say "in 10 minutes",
 
-795
-01:30:02,416 --> 01:30:06,625
+
+
 then you ARE to be at the lake
 in 10 minutes. Is that clear??
 
-796
-01:30:06,666 --> 01:30:07,708
+
+
 Okay.
 
-797
-01:30:08,708 --> 01:30:11,708
+
+
 You'll enter this air hole here,
 
-798
-01:30:11,750 --> 01:30:15,833
+
+
 then, swim (underwater)
 to the second one.
 
-799
-01:30:15,875 --> 01:30:21,166
+
+
 Whoever's ready... goes to wash
 himself, then, it's on to breakfast.
 
-800
-01:30:21,208 --> 01:30:23,083
+
+
 Christoph, you're the first.
 
-801
-01:30:23,125 --> 01:30:27,791
+
+
 Well, c'mon, it's not getting
 any warmer here !
 
-802
-01:30:58,333 --> 01:31:03,208
+
+
 Christian and Peter,
 go to the second air hole.
 
-803
-01:31:44,166 --> 01:31:47,166
+
+
 Ok, it's back to your room. Hup !
 
-804
-01:31:48,125 --> 01:31:52,333
+
+
 Friedrich, you're next. Come !
 
-805
-01:32:17,291 --> 01:32:19,833
+
+
 Albrecht, your turn.
 
-806
-01:33:05,333 --> 01:33:08,625
+
+
 Tjaden, next.
 
-807
-01:33:49,708 --> 01:33:53,541
+
+
 Albrecht. Albrecht !!
 
-808
-01:33:56,291 --> 01:34:01,958
+
+
 Albrecht, no !
 NO !
 
-809
-01:37:11,125 --> 01:37:14,625
+
+
 Too weak...
 
-810
-01:37:16,375 --> 01:37:20,291
+
+
 He was simply too weak...
 
-811
-01:38:13,958 --> 01:38:19,208
+
+
 Obituary.
 
-812
-01:38:21,083 --> 01:38:22,750
+
+
 Please !
 
-813
-01:38:27,000 --> 01:38:28,458
+
+
 Friedrich,
 
-814
-01:38:30,875 --> 01:38:34,208
+
+
 good to see you up.
 
-815
-01:38:38,625 --> 01:38:45,791
+
+
 I'd like to have this printed
 in the upcoming issue.
 
-816
-01:38:45,791 --> 01:38:47,500
+
+
 [ Obituary ]
 
-817
-01:38:47,500 --> 01:38:49,916
+
+
 No.
 
-818
-01:38:50,083 --> 01:38:51,666
+
+
 But,
 
-819
-01:38:51,708 --> 01:38:55,000
+
+
 then... they can't
 yet bury him.
 
-820
-01:38:55,041 --> 01:39:00,000
+
+
 - You can't do that...
 - Amidst people who have died for Fuhrer,
 
-821
-01:39:00,041 --> 01:39:03,833
+
+
 for motherland, and for the nation:
 there's no place for suicides.
 
-822
-01:39:03,875 --> 01:39:06,083
+
+
 His parents think the same way.
 
-823
-01:39:06,125 --> 01:39:08,083
+
+
 They've seriously asked me
 
-824
-01:39:08,125 --> 01:39:12,875
+
+
 if I've forgiven you for the fact that
 you're partly responsible for his death...
 
-825
-01:39:12,916 --> 01:39:14,875
+
+
 Both strongly feel that
 
-826
-01:39:14,916 --> 01:39:18,375
+
+
 their son changed greatly
 since meeting you...
 
-827
-01:39:18,416 --> 01:39:21,708
+
+
 But I defended you.
 
-828
-01:39:21,750 --> 01:39:25,541
+
+
 Don't worry. I know how
 much that Saturday fight,
 
-829
-01:39:25,583 --> 01:39:27,750
+
+
 in the name of our
 school, means to you.
 
-830
-01:39:27,791 --> 01:39:29,583
+
+
 Strong proof of your faith
 
-831
-01:39:29,625 --> 01:39:33,791
+
+
 in your tutors. And your
 gratitude for the chance
 
-832
-01:39:33,833 --> 01:39:36,916
+
+
 that you were given here.
 
-833
-01:39:36,958 --> 01:39:41,000
+
+
 Thank you.
 You may leave now.
 
-834
-01:39:49,000 --> 01:39:55,875
+
+
 How are you doing?
 
-835
-01:40:05,750 --> 01:40:09,708
+
+
 Friedrich, what happened back
 there in the forest was terrible...
 
-836
-01:40:09,750 --> 01:40:14,333
+
+
 And Albrecht's
 death is a severe loss.
 
-837
-01:40:14,375 --> 01:40:18,083
+
+
 But right now, it's all about
 your life..., your future...
 
-838
-01:40:18,125 --> 01:40:26,833
+
+
 There are scouts from various
 sport schools in the audience.
 
-839
-01:40:26,875 --> 01:40:32,083
+
+
 Use this fact well.
 
-840
-01:40:38,000 --> 01:40:39,958
+
+
 Is everything alright?
 
-841
-01:40:42,666 --> 01:40:44,000
+
+
 Make him cry !
 
-842
-01:40:53,208 --> 01:40:54,916
+
+
 You know the rules.
 
-843
-01:40:55,166 --> 01:41:00,166
+
+
 No punches below the waist,
 no head butting. Fight fairly.
 
-844
-01:41:00,208 --> 01:41:02,041
+
+
 Now to
 your corners.
 
-845
-01:41:07,333 --> 01:41:08,375
+
+
 Box !
 
-846
-01:41:58,625 --> 01:42:01,958
+
+
 One, two,
 
-847
-01:42:04,750 --> 01:42:05,791
+
+
 three,
 
-848
-01:42:09,583 --> 01:42:10,666
+
+
 four...
 
-849
-01:43:04,291 --> 01:43:05,458
+
+
 Box !
 
-850
-01:44:55,541 --> 01:45:01,041
+
+
 Strip !
 Everything.
 
-851
-01:45:24,083 --> 01:45:32,583
+
+
 The underwear is also ours.
 
-852
-01:45:39,125 --> 01:45:41,750
+
+
 Dismissed.
 
-853
-01:45:47,500 --> 01:45:50,875
+
+
 Hurry Weimer !
 Get on with it !
 
-854
-01:46:26,208 --> 01:46:29,166
+
+
 Let's go, forward march !
 
-855
-01:47:51,291 --> 01:47:55,500
+
+
 Up until 1945, there were
 over 40 Nazi educational
 
-856
-01:47:55,500 --> 01:47:58,791
+
+
 outposts, with more
 than 15,000 students,
 
-857
-01:47:58,833 --> 01:48:04,833
+
+
 all within the territory
 of the German Reich.
 
-858
-01:48:04,875 --> 01:48:08,375
+
+
 When the war was finally
 acknowledged as being lost,
 
-859
-01:48:08,375 --> 01:48:11,833
+
+
 they were still sent out
 for the:   "Last Struggle"
 
-860
-01:48:11,875 --> 01:48:21,166
+
+
 Blinded by instructed fanaticism and
 despite being insufficiently armed,
 
-861
-01:48:21,208 --> 01:48:27,000
+
+
 they offered a stubborn resistance.
 
-862
-01:48:27,041 --> 01:48:42,541
+
+
 Half of them died...
 
-863
-01:48:42,583 --> 01:49:10,416
+
+
 <font face="Monotype Corsiva" color=#808080"> © anoXmous </ font>
 <font face="Monotype Corsiva" color=#D900D9"> @ https://thepiratebay.se/user/Zen_Bud </font>

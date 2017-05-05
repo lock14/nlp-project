@@ -1,2889 +1,2889 @@
-1
-00:00:41,841 --> 00:00:43,676
+
+
 Ethel!
 
-2
-00:00:43,676 --> 00:00:45,011
+
+
 Ethel?
 
-3
-00:00:48,965 --> 00:00:49,799
+
+
 Fred...
 
-4
-00:00:51,017 --> 00:00:53,386
+
+
 Fred!
 
-5
-00:00:53,386 --> 00:00:54,888
+
+
 Fred, wake up!
 
-6
-00:00:54,888 --> 00:00:56,189
+
+
 Fred!
 
-7
-00:00:58,558 --> 00:01:00,560
+
+
 What is it, Ethel?
 
-8
-00:01:01,061 --> 00:01:03,563
+
+
 Fred, this is Lucy on the intercom.
 
-9
-00:01:03,563 --> 00:01:04,564
+
+
 Oh, oh.
 
-10
-00:01:04,564 --> 00:01:05,565
+
+
 Is Ethel there?
 
-11
-00:01:06,066 --> 00:01:06,866
+
+
 No.
 
-12
-00:01:06,866 --> 00:01:08,234
+
+
 Well, where is she?
 
-13
-00:01:08,234 --> 00:01:09,235
+
+
 How should I know?
 
-14
-00:01:09,235 --> 00:01:10,620
+
+
 Well, she's your wife.
 
-15
-00:01:10,620 --> 00:01:14,124
+
+
 Well, did you wake me up just to rub
 it in?
 
-16
-00:01:14,124 --> 00:01:15,408
+
+
 Oh...
 
-17
-00:01:15,408 --> 00:01:18,328
+
+
 Listen, Ethel was supposed to be here
 an hour ago.
 
-18
-00:01:18,328 --> 00:01:21,331
+
+
 I don't know how I'm gonna do all the
 things I have to do
 
-19
-00:01:21,331 --> 00:01:23,333
+
+
 for the Yankee Doodle Day celebration
 
-20
-00:01:23,333 --> 00:01:25,335
+
+
 if Ethel isn't gonna cooperate with
 me.
 
-21
-00:01:25,335 --> 00:01:26,336
+
+
 Honestly!
 
-22
-00:01:26,336 --> 00:01:29,339
+
+
 Listen, Fred, did you try on your
 costume yet?
 
-23
-00:01:29,839 --> 00:01:31,841
+
+
 Fred, did you try on your costume
 yet?
 
-24
-00:01:34,227 --> 00:01:35,728
+
+
 Really.
 
-25
-00:01:42,902 --> 00:01:45,655
+
+
 Committee member Mertz reporting.
 
-26
-00:01:47,157 --> 00:01:49,609
+
+
 Ethel, where have you been?
 
-27
-00:01:49,609 --> 00:01:52,829
+
+
 I've got a million things to check
 with you.
 
-28
-00:01:52,829 --> 00:01:54,664
+
+
 Let me see that poster.
 
-29
-00:01:56,082 --> 00:01:58,585
+
+
 "Yankee Doodle Day Celebration."
 Uh...
 
-30
-00:01:58,585 --> 00:02:01,087
+
+
 I thought it was supposed to say
 
-31
-00:02:01,087 --> 00:02:02,589
+
+
 "Lucy Ricardo, chairman
 
-32
-00:02:12,098 --> 00:02:14,968
+
+
 Did you put these posters up all over
 town?
 
-33
-00:02:14,968 --> 00:02:15,935
+
+
 Yeah.
 
-34
-00:02:15,935 --> 00:02:17,220
+
+
 Did you nail them
 
-35
-00:02:17,220 --> 00:02:18,721
+
+
 to the telephone poles like I asked
 you to?
 
-36
-00:02:20,940 --> 00:02:22,308
+
+
 All right, now. Let's see.
 
-37
-00:02:22,308 --> 00:02:24,310
+
+
 Did you call all the members of my
 committee
 
-38
-00:02:24,310 --> 00:02:26,146
+
+
 and ask them to be here for luncheon
 tomorrow?
 
-39
-00:02:26,146 --> 00:02:27,447
+
+
 Yep, I did.
 
-40
-00:02:27,447 --> 00:02:28,281
+
+
 All of them?
 
-41
-00:02:28,281 --> 00:02:29,782
+
+
 Yep, all of them.
 
-42
-00:02:29,782 --> 00:02:30,783
+
+
 Did you check the man who's writing
 
-43
-00:02:30,783 --> 00:02:32,785
+
+
 a special song about the Battle of
 Campo?
 
-44
-00:02:32,785 --> 00:02:33,786
+
+
 Yep. I did that.
 
-45
-00:02:34,287 --> 00:02:35,288
+
+
 Did you talk to Mr. Silvestri the
 sculptor,
 
-46
-00:02:35,288 --> 00:02:36,789
+
+
 make sure the statue will be ready
 
-47
-00:02:36,789 --> 00:02:37,790
+
+
 the day after tomorrow?
 
-48
-00:02:37,790 --> 00:02:38,791
+
+
 Yeah. Uh-huh.
 
-49
-00:02:38,791 --> 00:02:39,792
+
+
 Day after tomorrow.
 
-50
-00:02:39,792 --> 00:02:40,793
+
+
 Yep, yep, yep.
 
-51
-00:02:40,793 --> 00:02:42,295
+
+
 Did you rent the trailer to carry it
 in?
 
-52
-00:02:42,795 --> 00:02:43,329
+
+
 Yep, yep.
 
-53
-00:02:43,830 --> 00:02:45,331
+
+
 Good. Oh, boy!
 
-54
-00:02:45,832 --> 00:02:47,834
+
+
 I'm never gonna be chairman of
 another committee.
 
-55
-00:02:47,834 --> 00:02:48,835
+
+
 It's too much work.
 
-56
-00:02:51,304 --> 00:02:53,173
+
+
 For who?
 
-57
-00:02:53,173 --> 00:02:54,174
+
+
 For me.
 
-58
-00:02:54,174 --> 00:02:56,142
+
+
 For you?!
 
-59
-00:02:56,643 --> 00:02:58,978
+
+
 Who do you think's been doing all the
 work?
 
-60
-00:02:58,978 --> 00:03:00,930
+
+
 How about... Ouch!
 
-61
-00:03:00,930 --> 00:03:02,899
+
+
 Listen, Ethel, I just mean
 
-62
-00:03:02,899 --> 00:03:04,400
+
+
 that I have all the responsibility.
 
-63
-00:03:04,901 --> 00:03:06,736
+
+
 I'm the one that has to sit home and
 worry
 
-64
-00:03:06,736 --> 00:03:08,988
+
+
 about whether you're getting all the
 work done or not.
 
-65
-00:03:08,988 --> 00:03:11,824
+
+
 Well, now, I'll just make you a deal.
 
-66
-00:03:11,824 --> 00:03:13,576
+
+
 Next year, I'll sit home and worry,
 
-67
-00:03:13,576 --> 00:03:16,579
+
+
 and you go out and nail your thumb to
 a telephone pole.
 
-68
-00:03:16,579 --> 00:03:18,081
+
+
 Oh, Ethel. Listen.
 
-69
-00:03:18,581 --> 00:03:20,583
+
+
 We are commemorating a battle of the
 Revolutionary War.
 
-70
-00:03:21,084 --> 00:03:22,418
+
+
 Now, let's not start one of our own.
 
-71
-00:03:22,418 --> 00:03:23,836
+
+
 Well, all right.
 Okay.
 
-72
-00:03:23,836 --> 00:03:25,838
+
+
 Did you and Fred try on your costumes
 yet?
 
-73
-00:03:26,339 --> 00:03:27,173
+
+
 Yep.
 How were they?
 
-74
-00:03:27,173 --> 00:03:28,625
+
+
 Oh, mine's just fine.
 
-75
-00:03:28,625 --> 00:03:30,510
+
+
 Fred's grumbling about his as usual.
 
-76
-00:03:30,510 --> 00:03:31,961
+
+
 He's gonna wear it, isn't he?
 
-77
-00:03:31,961 --> 00:03:32,929
+
+
 Yeah, I think he is.
 
-78
-00:03:32,929 --> 00:03:34,430
+
+
 When I left this morning,
 
-79
-00:03:34,430 --> 00:03:35,431
+
+
 he was standing in front of a mirror,
 
-80
-00:03:35,431 --> 00:03:37,433
+
+
 trying on his powdered wig.
 
-81
-00:03:37,433 --> 00:03:38,935
+
+
 It was a proud sight.
 
-82
-00:03:38,935 --> 00:03:40,937
+
+
 It's the first time in 20 years
 
-83
-00:03:40,937 --> 00:03:42,939
+
+
 Fred's been able to brush his hair.
 
-84
-00:03:44,891 --> 00:03:47,694
+
+
 Well, I got Ricky to read the speech
 at the unveiling.
 
-85
-00:03:47,694 --> 00:03:48,528
+
+
 You did?
 Yeah.
 
-86
-00:03:48,528 --> 00:03:49,812
+
+
 Did you have much of a struggle?
 
-87
-00:03:49,812 --> 00:03:51,898
+
+
 No. He agreed to it right away.
 
-88
-00:03:51,898 --> 00:03:54,150
+
+
 You mean you didn't have to trick him
 or anything?
 
-89
-00:03:54,150 --> 00:03:55,401
+
+
 Mm.
 
-90
-00:03:55,401 --> 00:03:57,704
+
+
 My, he's getting agreeable these
 days.
 
-91
-00:03:57,704 --> 00:04:00,156
+
+
 I know. Things are working out
 beautifully.
 
-92
-00:04:00,156 --> 00:04:03,660
+
+
 Ricky's getting mellow just as I'm
 running out of tricks.
 
-93
-00:04:03,960 --> 00:04:05,328
+
+
 Lucy!
 
-94
-00:04:05,328 --> 00:04:06,329
+
+
 What?
 
-95
-00:04:07,747 --> 00:04:08,248
+
+
 Look at this!
 
-96
-00:04:08,248 --> 00:04:09,749
+
+
 What is it?
 
-97
-00:04:09,749 --> 00:04:11,751
+
+
 Fred! He chewed up my slippers!
 
-98
-00:04:11,751 --> 00:04:14,220
+
+
 Fred wouldn't do a thing like that.
 
-99
-00:04:14,220 --> 00:04:15,722
+
+
 Oh, he means the dog Fred.
 
-100
-00:04:15,722 --> 00:04:16,723
+
+
 Oh.
 
-101
-00:04:16,723 --> 00:04:17,724
+
+
 I knew we made a mistake
 
-102
-00:04:18,224 --> 00:04:19,509
+
+
 letting Little Ricky name that dog
 Fred.
 
-103
-00:04:19,509 --> 00:04:21,344
+
+
 We made a mistake letting Little
 Ricky
 
-104
-00:04:21,344 --> 00:04:22,845
+
+
 get the dog in the first place.
 
-105
-00:04:23,346 --> 00:04:24,397
+
+
 Where is that four-legged beast?
 
-106
-00:04:24,397 --> 00:04:26,432
+
+
 Oh, I don't know. He's up with Little
 Ricky, I guess.
 
-107
-00:04:26,432 --> 00:04:27,934
+
+
 Well, where is Ricky?
 He's not in his room.
 
-108
-00:04:27,934 --> 00:04:29,936
+
+
 Well, he must be up there someplace.
 Ricky!
 
-109
-00:04:30,436 --> 00:04:31,437
+
+
 Yes, Mommy?
 
-110
-00:04:31,437 --> 00:04:32,939
+
+
 Is Fred up there with you?
 
-111
-00:04:32,939 --> 00:04:34,857
+
+
 No, Mommy.
 
-112
-00:04:34,857 --> 00:04:37,860
+
+
 What is that you have on your
 face?
 
-113
-00:04:37,860 --> 00:04:39,195
+
+
 I'm a clown.
 
-114
-00:04:39,195 --> 00:04:40,613
+
+
 Ay-ay-ay-ay-ay!
 
-115
-00:04:40,613 --> 00:04:42,115
+
+
 He's a clown.
 
-116
-00:04:42,115 --> 00:04:43,700
+
+
 March yourself right down here, young
 man.
 
-117
-00:04:43,700 --> 00:04:45,702
+
+
 He must have gotten into my
 makeup kit.
 
-118
-00:04:45,702 --> 00:04:48,871
+
+
 Yeah. Ricky, you shouldn't put stuff
 like that
 
-119
-00:04:48,871 --> 00:04:50,707
+
+
 all over your face, honey.
 
-120
-00:04:50,707 --> 00:04:52,375
+
+
 Daddy was a clown this morning.
 
-121
-00:04:52,375 --> 00:04:54,177
+
+
 Yeah, I know I was a clown this
 morning,
 
-122
-00:04:54,177 --> 00:04:56,679
+
+
 but that's because I'm doing a circus
 number at the club.
 
-123
-00:04:56,679 --> 00:04:58,514
+
+
 I wanted to show Mommy how I was
 gonna look.
 
-124
-00:04:58,514 --> 00:04:59,932
+
+
 Well, from now on,
 
-125
-00:04:59,932 --> 00:05:02,435
+
+
 you'd better not bring home your
 m-a-k-e-u-p.
 
-126
-00:05:02,435 --> 00:05:03,936
+
+
 I know what that is.
 
-127
-00:05:03,936 --> 00:05:04,937
+
+
 You do?
 
-128
-00:05:04,937 --> 00:05:06,439
+
+
 Uh-huh. It's spelling.
 
-129
-00:05:06,439 --> 00:05:07,940
+
+
 It's spelling. Yeah.
 
-130
-00:05:07,940 --> 00:05:09,442
+
+
 Well, now, you go on upstairs
 
-131
-00:05:09,442 --> 00:05:10,943
+
+
 and take all that stuff off your
 face,
 
-132
-00:05:10,943 --> 00:05:12,945
+
+
 and don't you ever get in Daddy's
 makeup kit again.
 
-133
-00:05:12,945 --> 00:05:14,063
+
+
 Okay, Mommy.
 Go on now.
 
-134
-00:05:14,063 --> 00:05:15,448
+
+
 Where's Fred?
 
-135
-00:05:15,448 --> 00:05:17,950
+
+
 In the den, Daddy, sleeping in your
 chair.
 
-136
-00:05:17,950 --> 00:05:20,903
+
+
 In the den, sleeping in my chair.
 
-137
-00:05:20,903 --> 00:05:23,906
+
+
 You know, that dog uses my favorite
 chair more than I do.
 
-138
-00:05:24,407 --> 00:05:26,492
+
+
 Well, he likes to be comfortable like
 anyone else.
 
-139
-00:05:26,993 --> 00:05:29,879
+
+
 Well, then why doesn't he go out and
 buy his own izzy share?
 
-140
-00:05:29,879 --> 00:05:33,216
+
+
 He's not gonna hurt your old "izzy
 share."
 
-141
-00:05:33,216 --> 00:05:37,136
+
+
 Besides, there's a brand-new doghouse
 in the backyard,
 
-142
-00:05:37,136 --> 00:05:38,471
+
+
 and you were supposed to keep him
 there.
 
-143
-00:05:38,471 --> 00:05:39,806
+
+
 He doesn't like it out there.
 
-144
-00:05:39,806 --> 00:05:41,307
+
+
 Why not?
 I don't know.
 
-145
-00:05:41,307 --> 00:05:42,308
+
+
 Why don't you ask him?
 
-146
-00:05:42,308 --> 00:05:43,810
+
+
 Mira, que tiene cosa...
 
-147
-00:05:43,810 --> 00:05:44,811
+
+
 el perro este no le gusta la casa de
 perro...
 
-148
-00:05:44,811 --> 00:05:47,230
+
+
 And stop jabbering at me in a foreign
 tongue.
 
-149
-00:05:47,730 --> 00:05:49,482
+
+
 I got enough trouble without you
 being cranky.
 
-150
-00:05:49,482 --> 00:05:50,933
+
+
 I am not cranky!
 
-151
-00:05:51,434 --> 00:05:54,153
+
+
 The dog sits in my favorite chair all
 the time.
 
-152
-00:05:54,153 --> 00:05:57,156
+
+
 He doesn't like the doghouse that I
 bought him.
 
-153
-00:05:57,156 --> 00:05:58,658
+
+
 He chews up all my slippers.
 
-154
-00:05:58,658 --> 00:06:00,159
+
+
 Ever since we got that animal,
 
-155
-00:06:00,159 --> 00:06:01,661
+
+
 he's leading my life
 
-156
-00:06:01,661 --> 00:06:04,163
+
+
 and I'm leading the dog's life.
 
-157
-00:06:04,163 --> 00:06:06,532
+
+
 I'm sorry you have to hear all this
 arguing, Ethel.
 
-158
-00:06:06,532 --> 00:06:07,500
+
+
 Oh, that's all right.
 
-159
-00:06:07,500 --> 00:06:09,001
+
+
 Makes me feel right at home.
 
-160
-00:06:09,001 --> 00:06:12,004
+
+
 I thought you were taking him to
 obedience school.
 
-161
-00:06:12,505 --> 00:06:13,506
+
+
 I have been.
 
-162
-00:06:13,506 --> 00:06:14,507
+
+
 Well, then, how come
 
-163
-00:06:14,507 --> 00:06:16,342
+
+
 that he hasn't learned how to
 obedience?
 
-164
-00:06:16,342 --> 00:06:18,261
+
+
 Well, I don't know.
 Maybe it's because
 
-165
-00:06:18,261 --> 00:06:20,263
+
+
 I haven't been helping him with his
 homework.
 
-166
-00:06:20,263 --> 00:06:21,764
+
+
 Well, you'd better help him with his
 homework,
 
-167
-00:06:22,265 --> 00:06:23,266
+
+
 or I'm going to take him right back
 to the pound
 
-168
-00:06:23,266 --> 00:06:24,100
+
+
 that's where we got him.
 
-169
-00:06:24,517 --> 00:06:26,018
+
+
 Oh, honey, now you don't mean that.
 
-170
-00:06:26,018 --> 00:06:28,521
+
+
 Anyway, he's graduating from
 obedience school tomorrow,
 
-171
-00:06:29,021 --> 00:06:31,023
+
+
 and I'm sure he's gonna come through
 with flying colors.
 
-172
-00:06:31,023 --> 00:06:32,024
+
+
 Good.
 Now, listen.
 
-173
-00:06:32,024 --> 00:06:33,309
+
+
 Did you try your costume on yet?
 
-174
-00:06:33,309 --> 00:06:34,644
+
+
 Oh, that's another thing.
 
-175
-00:06:35,144 --> 00:06:36,145
+
+
 I'll make the speech,
 
-176
-00:06:36,145 --> 00:06:38,147
+
+
 but I'm not gonna wear that
 silly-looking
 
-177
-00:06:38,147 --> 00:06:40,483
+
+
 Yankee Doodle dandy outfit that you
 got me. No.
 
-178
-00:06:40,483 --> 00:06:42,952
+
+
 Oh, honey, you look so wonderful
 
-179
-00:06:42,952 --> 00:06:44,954
+
+
 in a Revolutionary War uniform.
 
-180
-00:06:44,954 --> 00:06:45,955
+
+
 Oh, sure, yeah.
 
-181
-00:06:46,456 --> 00:06:47,957
+
+
 Yeah, those knee breeches will give
 you a chance
 
-182
-00:06:47,957 --> 00:06:49,208
+
+
 to show off your good-looking legs.
 
-183
-00:06:49,208 --> 00:06:51,494
+
+
 I am not going to be seen
 
-184
-00:06:51,494 --> 00:06:54,747
+
+
 in those silly early-American
 snickers.
 
-185
-00:06:54,747 --> 00:06:56,632
+
+
 It's knickers.
 
-186
-00:06:56,632 --> 00:06:58,885
+
+
 That's what I said-- snickers.
 
-187
-00:06:58,885 --> 00:07:00,670
+
+
 Well, now, look.
 you're making a mistake.
 
-188
-00:07:00,670 --> 00:07:01,671
+
+
 I'll leave it to you, Ethel.
 
-189
-00:07:01,671 --> 00:07:03,172
+
+
 Doesn't he have good-looking legs?
 
-190
-00:07:04,640 --> 00:07:07,143
+
+
 Come on, now, will you?
 Cut it out.
 
-191
-00:07:07,143 --> 00:07:09,145
+
+
 Well, everybody else is wearing a
 costume.
 
-192
-00:07:09,145 --> 00:07:10,513
+
+
 Yeah, Rick.
 Even Fred.
 
-193
-00:07:10,513 --> 00:07:11,397
+
+
 Yeah? What's he wearing?
 
-194
-00:07:11,764 --> 00:07:12,765
+
+
 Oh, he's got a wonderful one.
 
-195
-00:07:12,765 --> 00:07:14,267
+
+
 He's gonna be the town crier.
 
-196
-00:07:14,267 --> 00:07:16,269
+
+
 He's gonna go through the town
 ringing a bell,
 
-197
-00:07:16,269 --> 00:07:18,020
+
+
 announcing all the ceremonies.
 
-198
-00:07:18,020 --> 00:07:20,656
+
+
 This I got to see.
 
-199
-00:07:20,656 --> 00:07:21,574
+
+
 Well, will you wear it or not?
 
-200
-00:07:21,574 --> 00:07:23,075
+
+
 All right, all right.
 
-201
-00:07:23,075 --> 00:07:24,076
+
+
 I'll go learn my speech.
 
-202
-00:07:24,076 --> 00:07:25,328
+
+
 Okay, he will.
 Oh, honestly.
 
-203
-00:07:25,328 --> 00:07:26,696
+
+
 They give you a fight, don't they?
 
-204
-00:07:26,696 --> 00:07:28,197
+
+
 What you have to go through...
 
-205
-00:07:28,197 --> 00:07:29,198
+
+
 Boy, oh, boy.
 
-206
-00:07:29,699 --> 00:07:30,700
+
+
 ...to get him into costume for a
 thing like this.
 
-207
-00:07:30,700 --> 00:07:32,201
+
+
 Hear ye!
 
-208
-00:07:32,201 --> 00:07:34,921
+
+
 Hear ye! Hear ye!
 
-209
-00:07:34,921 --> 00:07:37,707
+
+
 Oh, Fred, you look wonderful!
 
-210
-00:07:38,207 --> 00:07:42,211
+
+
 Hear ye! Hear ye! Hear ye!
 
-211
-00:07:42,211 --> 00:07:46,632
+
+
 Get yourself another town crier!
 
-212
-00:07:46,632 --> 00:07:50,102
+
+
 What are you talking about?
 
-213
-00:07:50,102 --> 00:07:51,938
+
+
 I refuse to do this fool thing.
 
-214
-00:07:51,938 --> 00:07:53,639
+
+
 Well, why, Fred?
 
-215
-00:07:53,639 --> 00:07:57,777
+
+
 Well, first of all, this ding-dang
 wig is too hot!
 
-216
-00:07:57,777 --> 00:08:01,564
+
+
 How do people stand it when they have
 hair?
 
-217
-00:08:01,564 --> 00:08:03,399
+
+
 Listen, Fred.
 Maybe you can do it
 
-218
-00:08:03,399 --> 00:08:04,400
+
+
 without the wig, huh?
 
-219
-00:08:04,400 --> 00:08:05,902
+
+
 That's not all.
 
-220
-00:08:05,902 --> 00:08:07,737
+
+
 These things are killing my feet.
 
-221
-00:08:07,737 --> 00:08:10,206
+
+
 If their shoes pinched like these,
 
-222
-00:08:10,206 --> 00:08:12,959
+
+
 no wonder the town criers cried.
 
-223
-00:08:12,959 --> 00:08:15,795
+
+
 Fred, we can get you some bigger
 shoes.
 
-224
-00:08:15,795 --> 00:08:17,296
+
+
 Oh, sure, Fred. You gotta do
 something
 
-225
-00:08:17,296 --> 00:08:19,298
+
+
 to celebrate Yankee Doodle Day.
 
-226
-00:08:19,298 --> 00:08:21,300
+
+
 Well, I can always stick a feather in
 my hat
 
-227
-00:08:21,300 --> 00:08:22,802
+
+
 and call it macaroni.
 
-228
-00:08:22,802 --> 00:08:24,220
+
+
 Oh, now, Fred.
 
-229
-00:08:24,720 --> 00:08:26,222
+
+
 Fred!
 
-230
-00:08:26,222 --> 00:08:27,223
+
+
 Come on, now.
 
-231
-00:08:27,223 --> 00:08:28,724
+
+
 Say you'll be the town crier.
 
-232
-00:08:28,724 --> 00:08:32,144
+
+
 No, sir. I wouldn't go yelling
 through town in this outfit
 
-233
-00:08:32,144 --> 00:08:34,931
+
+
 if the British were to come back
 again!
 
-234
-00:08:34,931 --> 00:08:35,731
+
+
 Oh, Fred!
 
-235
-00:08:35,731 --> 00:08:36,732
+
+
 I'll get him to do it.
 
-236
-00:08:36,732 --> 00:08:37,733
+
+
 Don't worry about it.
 
-237
-00:08:37,733 --> 00:08:38,734
+
+
 I'll get him to do it.
 
-238
-00:08:38,734 --> 00:08:40,019
+
+
 Now, listen, Fred...
 
-239
-00:08:40,019 --> 00:08:42,355
+
+
 Fred! Fred! Fred!
 
-240
-00:08:42,355 --> 00:08:45,608
+
+
 Fred! Fred!
 
-241
-00:08:45,608 --> 00:08:46,409
+
+
 Where did he go?
 
-242
-00:08:46,409 --> 00:08:48,327
+
+
 What did he do?
 
-243
-00:08:48,327 --> 00:08:50,112
+
+
 He chewed up my whole speech.
 
-244
-00:08:50,112 --> 00:08:53,916
+
+
 Oh. Well, now, honey, don't, don't,
 don't be mad at him.
 
-245
-00:08:53,916 --> 00:08:54,917
+
+
 He won't do these things
 
-246
-00:08:54,917 --> 00:08:56,669
+
+
 once he's graduated from obedience
 school.
 
-247
-00:08:56,669 --> 00:08:59,672
+
+
 If you ask me, we should have sent
 him to reform school.
 
-248
-00:08:59,672 --> 00:09:00,673
+
+
 Oh...
 
-249
-00:09:02,675 --> 00:09:05,177
+
+
 "Fellow citizens of Westport,
 
-250
-00:09:05,177 --> 00:09:08,180
+
+
 "we're gathered here on Yankee Doodle
 Day
 
-251
-00:09:08,180 --> 00:09:12,468
+
+
 to commemorate, to unveil and
 dedicate a statue."
 
-252
-00:09:14,804 --> 00:09:21,310
+
+
 "The statue will commemorate the
 great bravery and daring courage
 
-253
-00:09:21,310 --> 00:09:24,313
+
+
 "of the patriots of this community
 
-254
-00:09:24,564 --> 00:09:28,951
+
+
 "during the Battle of Campo in 17...
 
-255
-00:09:28,951 --> 00:09:31,954
+
+
 "1777.
 
-256
-00:09:31,954 --> 00:09:36,459
+
+
 "I hereby dedicate this statue to the
 ancestors
 
-257
-00:09:36,459 --> 00:09:37,827
+
+
 "of these brave men,
 
-258
-00:09:37,827 --> 00:09:39,829
+
+
 "many of whom are still living...
 
-259
-00:09:40,329 --> 00:09:41,080
+
+
 Hi, dear.
 
-260
-00:09:41,080 --> 00:09:43,165
+
+
 in this..." Oh, hi.
 
-261
-00:09:43,165 --> 00:09:44,967
+
+
 Congratulations are in order.
 Fred graduated!
 
-262
-00:09:44,967 --> 00:09:46,752
+
+
 Well! Congratulations, old man!
 
-263
-00:09:46,752 --> 00:09:48,054
+
+
 What's that?
 
-264
-00:09:48,054 --> 00:09:49,088
+
+
 That's his diploma.
 
-265
-00:09:49,088 --> 00:09:50,473
+
+
 Well, we'll frame it up
 
-266
-00:09:50,473 --> 00:09:51,974
+
+
 and put it in his doghouse.
 Yeah.
 
-267
-00:09:51,974 --> 00:09:53,759
+
+
 Did he really learn something?
 
-268
-00:09:53,759 --> 00:09:55,678
+
+
 Well, I told you he graduated.
 
-269
-00:09:55,678 --> 00:09:59,565
+
+
 Well, good for you, because I'm
 running out of slippers.
 
-270
-00:09:59,565 --> 00:10:02,018
+
+
 Hey, who set the table for my
 luncheon?
 
-271
-00:10:02,018 --> 00:10:03,486
+
+
 Oh, Ethel did.
 
-272
-00:10:03,486 --> 00:10:04,987
+
+
 And there's a beautiful plate
 
-273
-00:10:04,987 --> 00:10:06,322
+
+
 of cold cuts back in the kitchen.
 
-274
-00:10:06,322 --> 00:10:07,773
+
+
 Oh, good.
 They're delicious.
 
-275
-00:10:09,775 --> 00:10:10,660
+
+
 What are you doing?
 
-276
-00:10:10,660 --> 00:10:13,663
+
+
 These cold cuts are for my committee
 members.
 
-277
-00:10:13,663 --> 00:10:15,114
+
+
 Well, what is the principal speaker
 
-278
-00:10:15,114 --> 00:10:16,415
+
+
 supposed to eat for lunch?
 
-279
-00:10:16,415 --> 00:10:17,700
+
+
 I'll fix you
 
-280
-00:10:17,700 --> 00:10:19,035
+
+
 a peanut butter and jelly sandwich.
 
-281
-00:10:19,035 --> 00:10:21,370
+
+
 Thanks a lot.
 
-282
-00:10:21,370 --> 00:10:25,124
+
+
 Well, Fred, now let's see if you
 really graduated.
 
-283
-00:10:25,124 --> 00:10:26,459
+
+
 I want you to take this diploma,
 
-284
-00:10:26,959 --> 00:10:29,462
+
+
 take it over to Little Ricky upstairs
 and show it to him.
 
-285
-00:10:29,462 --> 00:10:30,963
+
+
 Then after you do that,
 
-286
-00:10:30,963 --> 00:10:33,265
+
+
 I want you to the diploma over to the
 guest house
 
-287
-00:10:33,265 --> 00:10:35,434
+
+
 and show it to Aunt Ethel and Uncle
 Fred.
 
-288
-00:10:35,434 --> 00:10:37,553
+
+
 Oh, for heaven's sake, Ricky.
 
-289
-00:10:37,553 --> 00:10:39,055
+
+
 He can't do all that.
 
-290
-00:10:39,055 --> 00:10:40,606
+
+
 Well, you just told me
 
-291
-00:10:40,606 --> 00:10:42,608
+
+
 he graduated from obedience school.
 
-292
-00:10:42,608 --> 00:10:43,609
+
+
 Well, he learned obedience,
 
-293
-00:10:44,110 --> 00:10:48,064
+
+
 but he's not ready for The Ed
 Sullivan Show.
 
-294
-00:10:48,064 --> 00:10:48,781
+
+
 What can he do?
 
-295
-00:10:49,148 --> 00:10:50,149
+
+
 He can do lots of things.
 
-296
-00:10:50,149 --> 00:10:52,652
+
+
 He can sit up, he can speak, he can
 roll over.
 
-297
-00:10:52,652 --> 00:10:53,953
+
+
 I'll show you later.
 
-298
-00:10:53,953 --> 00:10:54,737
+
+
 Well, show me now.
 
-299
-00:10:55,237 --> 00:10:55,738
+
+
 No. I haven't got time now, honey.
 
-300
-00:10:56,238 --> 00:10:56,956
+
+
 I gotta get this luncheon going.
 
-301
-00:10:56,956 --> 00:10:58,290
+
+
 Listen. I paid 30 bucks
 
-302
-00:10:58,290 --> 00:10:59,875
+
+
 for this character to go to that
 school.
 
-303
-00:10:59,875 --> 00:11:02,161
+
+
 I want to see what he learned.
 
-304
-00:11:02,161 --> 00:11:04,580
+
+
 I don't want to show you right now.
 
-305
-00:11:04,580 --> 00:11:05,798
+
+
 I will show you later.
 
-306
-00:11:05,798 --> 00:11:09,919
+
+
 Apparently, the wrong one went to
 obedience school.
 
-307
-00:11:10,219 --> 00:11:12,421
+
+
 Oh, all right.
 
-308
-00:11:12,421 --> 00:11:16,425
+
+
 Show what you learned to Senor Simon
 Legree.
 
-309
-00:11:16,425 --> 00:11:19,428
+
+
 Leash. Come on, now, Fred.
 
-310
-00:11:19,428 --> 00:11:20,429
+
+
 All righty, boy.
 
-311
-00:11:20,930 --> 00:11:22,932
+
+
 Show Daddy what we learned here, huh?
 
-312
-00:11:22,932 --> 00:11:25,317
+
+
 Oh, boy, he graduated top honors,
 
-313
-00:11:25,317 --> 00:11:27,319
+
+
 too, boy.
 All right, now.
 
-314
-00:11:27,319 --> 00:11:28,237
+
+
 Sit up, honey.
 
-315
-00:11:28,738 --> 00:11:29,488
+
+
 Sit up, Fred.
 
-316
-00:11:29,488 --> 00:11:31,607
+
+
 Fred, sit up.
 
-317
-00:11:31,607 --> 00:11:33,159
+
+
 Come on, Fred, sit up.
 
-318
-00:11:33,159 --> 00:11:35,528
+
+
 Aw, come on, Fred.
 You know how to sit up.
 
-319
-00:11:35,528 --> 00:11:37,279
+
+
 Now, you're not paying attention.
 Come on, now.
 
-320
-00:11:37,279 --> 00:11:38,864
+
+
 Sit up.
 Here we go.
 
-321
-00:11:38,864 --> 00:11:39,999
+
+
 Up we go.
 
-322
-00:11:39,999 --> 00:11:41,367
+
+
 Up, up, up, up, Fred. Up!
 
-323
-00:11:41,367 --> 00:11:44,336
+
+
 Show Daddy how you can sit up.
 
-324
-00:11:44,336 --> 00:11:45,838
+
+
 Come on here. Fred, up.
 
-325
-00:11:47,840 --> 00:11:50,760
+
+
 You know how to sit up.
 
-326
-00:11:50,760 --> 00:11:52,211
+
+
 You know how to sit up.
 Come on, honey.
 
-327
-00:11:52,211 --> 00:11:53,963
+
+
 Never mind the lovemaking.
 
-328
-00:11:53,963 --> 00:11:54,797
+
+
 Just come on, now. Sit up.
 
-329
-00:11:54,797 --> 00:11:55,765
+
+
 I want you to sit up.
 
-330
-00:11:56,265 --> 00:11:57,266
+
+
 Now, pay attention. Up, boy.
 
-331
-00:11:57,266 --> 00:11:59,051
+
+
 Up.
 
-332
-00:11:59,051 --> 00:12:00,436
+
+
 Aw, come on, now.
 You know how to it.
 
-333
-00:12:00,436 --> 00:12:02,271
+
+
 Look. Like this. See? Like this.
 
-334
-00:12:10,863 --> 00:12:13,199
+
+
 I guess he just doesn't feel like
 sitting up right now.
 
-335
-00:12:13,199 --> 00:12:15,067
+
+
 No, I guess not.
 
-336
-00:12:15,067 --> 00:12:17,870
+
+
 Well, actually, sitting up wasn't his
 best subject.
 
-337
-00:12:17,870 --> 00:12:19,455
+
+
 Oh?
 
-338
-00:12:19,455 --> 00:12:21,373
+
+
 No. Let's try speaking.
 
-339
-00:12:21,373 --> 00:12:22,374
+
+
 Here we go now.
 
-340
-00:12:22,374 --> 00:12:24,376
+
+
 All right, Fred, pay attention now.
 
-341
-00:12:24,877 --> 00:12:26,162
+
+
 All right, speak!
 
-342
-00:12:26,162 --> 00:12:27,830
+
+
 Speak, boy!
 
-343
-00:12:27,830 --> 00:12:29,799
+
+
 Speak! Fred?
 
-344
-00:12:29,799 --> 00:12:31,550
+
+
 Speak, speak, speak!
 
-345
-00:12:31,550 --> 00:12:32,418
+
+
 Come on, say something.
 
-346
-00:12:32,918 --> 00:12:33,419
+
+
 Talk up a storm, boy!
 
-347
-00:12:33,919 --> 00:12:34,754
+
+
 Come on. Say something.
 
-348
-00:12:34,754 --> 00:12:36,388
+
+
 Speak, Fred!
 
-349
-00:12:38,090 --> 00:12:40,593
+
+
 Come on, say something for me.
 
-350
-00:12:41,093 --> 00:12:42,094
+
+
 Just a couple of words, huh?
 
-351
-00:12:42,094 --> 00:12:42,895
+
+
 Oh, now, Fred, stop.
 
-352
-00:12:42,895 --> 00:12:44,396
+
+
 Come on. Speak.
 
-353
-00:12:45,898 --> 00:12:51,187
+
+
 I guess he didn't head his class in
 speaking either.
 
-354
-00:12:51,187 --> 00:12:53,489
+
+
 Well, actually, he isn't supposed to
 speak
 
-355
-00:12:53,489 --> 00:12:56,358
+
+
 unless he wants something, you know,
 like his dinner.
 
-356
-00:12:56,358 --> 00:12:58,327
+
+
 Oh. Oh, I see.
 
-357
-00:12:58,327 --> 00:13:00,696
+
+
 He's a before-dinner speaker.
 
-358
-00:13:02,198 --> 00:13:02,998
+
+
 Yeah, well.
 
-359
-00:13:02,998 --> 00:13:04,366
+
+
 Here's something he does very well.
 
-360
-00:13:04,867 --> 00:13:05,868
+
+
 Now, watch.
 
-361
-00:13:05,868 --> 00:13:06,919
+
+
 Okay, Fred.
 
-362
-00:13:06,919 --> 00:13:09,171
+
+
 Now, roll over and play dead!
 
-363
-00:13:09,672 --> 00:13:10,456
+
+
 Come on, Fred.
 
-364
-00:13:10,456 --> 00:13:12,208
+
+
 Come on now, roll over and play dead.
 
-365
-00:13:12,708 --> 00:13:13,542
+
+
 Come on. Roll over and play dead,
 boy.
 
-366
-00:13:13,542 --> 00:13:16,011
+
+
 Come on. Down you go.
 Play dead.
 
-367
-00:13:16,595 --> 00:13:17,429
+
+
 Fred...
 
-368
-00:13:22,218 --> 00:13:24,136
+
+
 Come on now, roll over and play dead,
 boy.
 
-369
-00:13:24,637 --> 00:13:26,021
+
+
 Fred, pay attention to me.
 
-370
-00:13:26,021 --> 00:13:29,475
+
+
 Look. Look, Fred. Fred...
 
-371
-00:13:29,975 --> 00:13:30,976
+
+
 Like this.
 
-372
-00:13:35,614 --> 00:13:38,117
+
+
 Are you sure they didn't give him the
 diploma
 
-373
-00:13:38,117 --> 00:13:39,485
+
+
 just to get rid of him?
 
-374
-00:13:39,485 --> 00:13:41,954
+
+
 Well, I don't understand it.
 
-375
-00:13:41,954 --> 00:13:44,456
+
+
 He did everything beautifully for the
 instructor at school.
 
-376
-00:13:44,456 --> 00:13:46,826
+
+
 Look, I'm gonna give you one more
 chance here.
 
-377
-00:13:46,826 --> 00:13:48,294
+
+
 Now, you stand up there.
 
-378
-00:13:48,294 --> 00:13:50,796
+
+
 Now, Fred, pay attention!
 
-379
-00:13:53,082 --> 00:13:54,466
+
+
 Go get it, boy!
 
-380
-00:13:58,087 --> 00:13:59,421
+
+
 Fred, go get it.
 
-381
-00:14:02,057 --> 00:14:05,060
+
+
 Fred! Go get it!
 
-382
-00:14:05,060 --> 00:14:07,429
+
+
 Fetch the paper, Frederick.
 
-383
-00:14:09,265 --> 00:14:11,984
+
+
 Can't you do just one trick, for me,
 Fred? Come on.
 
-384
-00:14:11,984 --> 00:14:13,319
+
+
 Fred, look.
 
-385
-00:14:20,192 --> 00:14:21,994
+
+
 Nice Lucy.
 
-386
-00:14:21,994 --> 00:14:24,246
+
+
 Nice Lucy.
 
-387
-00:14:24,246 --> 00:14:26,665
+
+
 Here. You deserve this more than he
 does.
 
-388
-00:14:30,169 --> 00:14:32,171
+
+
 Well, he just must be exhausted
 
-389
-00:14:32,171 --> 00:14:34,173
+
+
 for cramming for all of his exams,
 that's all.
 
-390
-00:14:34,673 --> 00:14:35,674
+
+
 He needs a vacation.
 
-391
-00:14:35,674 --> 00:14:37,626
+
+
 Good. Then he can go out in the
 doghouse
 
-392
-00:14:37,626 --> 00:14:38,928
+
+
 and then he can take his vacation.
 
-393
-00:14:38,928 --> 00:14:40,679
+
+
 He doesn't like it out there.
 
-394
-00:14:40,679 --> 00:14:42,681
+
+
 Well, that's too bad.
 
-395
-00:14:42,681 --> 00:14:44,683
+
+
 But if he's not smart enough to
 learn, how...
 
-396
-00:14:44,683 --> 00:14:47,102
+
+
 Shh! Don't talk like that in front of
 Fred.
 
-397
-00:14:47,603 --> 00:14:48,604
+
+
 You'll hurt his feelings.
 
-398
-00:14:49,104 --> 00:14:50,356
+
+
 Come on, Fred.
 
-399
-00:14:50,356 --> 00:14:52,107
+
+
 Fred.
 
-400
-00:14:52,892 --> 00:14:54,193
+
+
 Fred!
 
-401
-00:14:54,860 --> 00:14:56,061
+
+
 Oh, Fred!
 
-402
-00:15:01,867 --> 00:15:04,536
+
+
 You big bully.
 
-403
-00:15:10,042 --> 00:15:11,493
+
+
 Now, what were you saying?
 
-404
-00:15:11,493 --> 00:15:14,330
+
+
 I was saying that if he's not smart
 enough to mind,
 
-405
-00:15:14,330 --> 00:15:15,831
+
+
 he can stay in the doghouse.
 
-406
-00:15:15,831 --> 00:15:16,999
+
+
 You're mean!
 
-407
-00:15:16,999 --> 00:15:18,801
+
+
 Since when is mean for a dog
 
-408
-00:15:18,801 --> 00:15:20,085
+
+
 to stay in his doghouse?
 
-409
-00:15:20,085 --> 00:15:21,971
+
+
 When the dog doesn't like the
 doghouse,
 
-410
-00:15:21,971 --> 00:15:23,472
+
+
 he's not happy out there.
 
-411
-00:15:23,472 --> 00:15:24,890
+
+
 Why shouldn't he be happy out there?
 
-412
-00:15:24,890 --> 00:15:26,892
+
+
 It's a beautiful doghouse.
 
-413
-00:15:26,892 --> 00:15:28,394
+
+
 It's very roomy.
 
-414
-00:15:28,394 --> 00:15:29,895
+
+
 It's brand-new.
 
-415
-00:15:29,895 --> 00:15:31,397
+
+
 It doesn't have a mortgage.
 
-416
-00:15:31,397 --> 00:15:34,149
+
+
 And he doesn't have a wife to nag
 him.
 
-417
-00:15:34,149 --> 00:15:36,435
+
+
 Oh, there's no talking to you.
 
-418
-00:15:36,435 --> 00:15:37,436
+
+
 I have things to do.
 
-419
-00:15:37,436 --> 00:15:38,938
+
+
 We'll discuss this later.
 
-420
-00:15:43,609 --> 00:15:45,611
+
+
 Fellow citizens of Westport,
 
-421
-00:15:45,611 --> 00:15:49,114
+
+
 we are gathered here on Yankee
 Doodle...
 
-422
-00:15:49,114 --> 00:15:50,950
+
+
 Oh, no!
 
-423
-00:15:50,950 --> 00:15:53,369
+
+
 Oh, you naughty dog!
 
-424
-00:15:53,369 --> 00:15:54,586
+
+
 What's the matter?
 
-425
-00:15:54,954 --> 00:15:57,756
+
+
 He licked half of the cold cuts on
 that platter!
 
-426
-00:15:57,756 --> 00:15:58,457
+
+
 Where are you going?
 
-427
-00:15:58,457 --> 00:15:59,842
+
+
 I'm going to put him out
 
-428
-00:15:59,842 --> 00:16:01,844
+
+
 in the doghouse where he belongs!
 
-429
-00:16:03,712 --> 00:16:07,967
+
+
 ...On Doodle Dandy Day to dedicate...
 
-430
-00:16:17,042 --> 00:16:18,544
+
+
 Ethel, wait till you see it.
 
-431
-00:16:18,544 --> 00:16:20,045
+
+
 Mr. Silvestri did a wonderful job.
 
-432
-00:16:20,045 --> 00:16:21,547
+
+
 Oh, I can hardly wait!
 
-433
-00:16:21,547 --> 00:16:24,249
+
+
 Oh, it's really...
 It's just beautiful.
 
-434
-00:16:25,751 --> 00:16:26,752
+
+
 Are you ready?
 
-435
-00:16:26,752 --> 00:16:27,753
+
+
 Yeah.
 
-436
-00:16:27,753 --> 00:16:29,505
+
+
 Oh!
 
-437
-00:16:29,505 --> 00:16:32,057
+
+
 Oh, it's pretty lifelike, isn't it?
 
-438
-00:16:32,057 --> 00:16:33,842
+
+
 Oh, I should say it is.
 
-439
-00:16:33,842 --> 00:16:36,562
+
+
 I thought I saw him squeeze the
 trigger.
 
-440
-00:16:36,562 --> 00:16:38,230
+
+
 Ha, ha!
 
-441
-00:16:38,230 --> 00:16:39,732
+
+
 Isn't it great?
 
-442
-00:16:39,732 --> 00:16:41,233
+
+
 It is just great!
 
-443
-00:16:41,233 --> 00:16:42,651
+
+
 When do you take it over to Jessup
 Green?
 
-444
-00:16:42,651 --> 00:16:44,153
+
+
 Well, I'm going to get it there
 
-445
-00:16:44,153 --> 00:16:46,155
+
+
 just a few minutes before Ricky does
 the unveiling.
 
-446
-00:16:46,155 --> 00:16:48,157
+
+
 That way nobody will be able to peek
 at it
 
-447
-00:16:48,157 --> 00:16:49,158
+
+
 before the ceremony.
 
-448
-00:16:49,158 --> 00:16:50,159
+
+
 Where is Ricky?
 
-449
-00:16:50,659 --> 00:16:51,660
+
+
 He's over at the newspaper office.
 
-450
-00:16:52,161 --> 00:16:53,162
+
+
 They're taking some pictures
 
-451
-00:16:53,162 --> 00:16:54,663
+
+
 for the Yankee Doodle Day
 celebration.
 
-452
-00:16:55,164 --> 00:16:56,665
+
+
 Mommy! Mommy!
 
-453
-00:16:56,665 --> 00:16:57,583
+
+
 What?
 
-454
-00:16:58,083 --> 00:16:59,084
+
+
 Fred ran away!
 
-455
-00:16:59,084 --> 00:16:59,952
+
+
 Fred ran away?
 
-456
-00:16:59,952 --> 00:17:00,953
+
+
 Which Fred?
 
-457
-00:17:01,453 --> 00:17:01,954
+
+
 My dog!
 
-458
-00:17:02,454 --> 00:17:03,455
+
+
 Oh, nuts.
 
-459
-00:17:03,455 --> 00:17:04,923
+
+
 Are you sure?
 
-460
-00:17:04,923 --> 00:17:07,176
+
+
 Are you sure he ran away?
 
-461
-00:17:07,176 --> 00:17:07,960
+
+
 His rope's chewed up,
 
-462
-00:17:07,960 --> 00:17:09,428
+
+
 and there's a hole in the fence.
 
-463
-00:17:09,428 --> 00:17:11,430
+
+
 Oh, dear. It's my fault for putting
 him
 
-464
-00:17:11,430 --> 00:17:12,765
+
+
 out there in that doghouse.
 
-465
-00:17:12,765 --> 00:17:14,633
+
+
 Now, honey, he's around here
 someplace.
 
-466
-00:17:14,633 --> 00:17:15,634
+
+
 We'll find him.
 Oh, dear.
 
-467
-00:17:15,634 --> 00:17:16,635
+
+
 Fred!
 Fred!
 
-468
-00:17:16,635 --> 00:17:17,636
+
+
 Fred!
 Fred!
 
-469
-00:17:17,636 --> 00:17:19,138
+
+
 Fred!
 Fred!
 
-470
-00:17:19,138 --> 00:17:20,139
+
+
 Fred!
 Fred?
 
-471
-00:17:20,139 --> 00:17:21,106
+
+
 What do you want?
 
-472
-00:17:21,106 --> 00:17:22,608
+
+
 Oh, not you.
 
-473
-00:17:22,608 --> 00:17:24,610
+
+
 We're calling the dog.
 
-474
-00:17:24,610 --> 00:17:25,611
+
+
 He ran away.
 
-475
-00:17:25,611 --> 00:17:27,112
+
+
 Oh, Mommy, where is he?
 
-476
-00:17:27,613 --> 00:17:28,614
+
+
 We'll find him, honey. I promise.
 
-477
-00:17:29,114 --> 00:17:30,115
+
+
 Don't worry, honey.
 
-478
-00:17:30,115 --> 00:17:31,617
+
+
 Fred!
 
-479
-00:17:32,868 --> 00:17:34,153
+
+
 Lucy, your phone's ringing.
 Lucy..
 
-480
-00:17:34,153 --> 00:17:35,070
+
+
 What?
 
-481
-00:17:35,070 --> 00:17:36,488
+
+
 Your phone.
 Your phone.
 
-482
-00:17:36,488 --> 00:17:38,040
+
+
 You keep looking.
 We will, honey.
 
-483
-00:17:39,825 --> 00:17:40,826
+
+
 Fred!
 
-484
-00:17:40,826 --> 00:17:41,827
+
+
 Fred!
 Fred!
 
-485
-00:17:41,827 --> 00:17:42,711
+
+
 Hello.
 
-486
-00:17:42,711 --> 00:17:44,213
+
+
 Oh, hello, Grace.
 
-487
-00:17:44,213 --> 00:17:45,714
+
+
 Yeah.
 
-488
-00:17:45,714 --> 00:17:47,716
+
+
 Yeah, we just found out a minute ago.
 
-489
-00:17:48,217 --> 00:17:49,718
+
+
 He did?
 
-490
-00:17:49,718 --> 00:17:51,220
+
+
 Which way did he go?
 
-491
-00:17:51,220 --> 00:17:54,006
+
+
 Oh. Okay. Yeah. Thanks, Grace.
 
-492
-00:17:54,006 --> 00:17:54,890
+
+
 Oh, dear!
 
-493
-00:17:55,390 --> 00:17:56,391
+
+
 Fred.
 
-494
-00:17:56,391 --> 00:17:58,393
+
+
 Fred! Fred!
 
-495
-00:17:58,393 --> 00:17:59,228
+
+
 Can't you hear me?
 
-496
-00:17:59,228 --> 00:18:00,679
+
+
 Yeah, I can hear you.
 
-497
-00:18:00,679 --> 00:18:02,681
+
+
 Well, why didn't you answer?
 
-498
-00:18:02,681 --> 00:18:03,599
+
+
 I thought you were calling the dog.
 
-499
-00:18:03,599 --> 00:18:04,983
+
+
 Oh, for heaven's sakes.
 
-500
-00:18:04,983 --> 00:18:07,436
+
+
 Tell Ethel and Ricky to come in here
 right away.
 
-501
-00:18:08,437 --> 00:18:09,438
+
+
 Ethel!
 Yes?
 
-502
-00:18:09,438 --> 00:18:11,440
+
+
 Come on.
 Lucy wants you.
 
-503
-00:18:12,941 --> 00:18:13,742
+
+
 What's up?
 
-504
-00:18:13,742 --> 00:18:15,160
+
+
 Grace Munson just called and said
 
-505
-00:18:15,160 --> 00:18:17,162
+
+
 that she saw a dog that looked like
 Fred
 
-506
-00:18:17,162 --> 00:18:18,497
+
+
 running up the road past her house.
 
-507
-00:18:18,497 --> 00:18:20,833
+
+
 Oh! That's almost a mile away from
 here!
 
-508
-00:18:20,833 --> 00:18:22,201
+
+
 Maybe it wasn't our Fred.
 
-509
-00:18:22,201 --> 00:18:24,169
+
+
 Well, we gotta track down every lead.
 
-510
-00:18:24,169 --> 00:18:26,004
+
+
 Now, listen, I'm gonna drive over to
 the Munsons'.
 
-511
-00:18:26,004 --> 00:18:27,923
+
+
 You go out and get Bruce Ramsey,
 honey.
 
-512
-00:18:27,923 --> 00:18:28,924
+
+
 Look all around the neighborhood.
 
-513
-00:18:28,924 --> 00:18:29,925
+
+
 Hear?
 Okay, Mommy.
 
-514
-00:18:30,292 --> 00:18:30,793
+
+
 You stay here in case there're
 
-515
-00:18:31,293 --> 00:18:31,794
+
+
 any more calls, will you, Ethel?
 
-516
-00:18:32,294 --> 00:18:33,045
+
+
 Oh, sure.
 
-517
-00:18:33,545 --> 00:18:34,429
+
+
 Lucy, you call us, now, if you find
 him.
 
-518
-00:18:34,880 --> 00:18:35,881
+
+
 Yeah, I will.
 I'll look around here.
 
-519
-00:18:35,881 --> 00:18:37,382
+
+
 Maybe he's hiding inside.
 
-520
-00:18:37,382 --> 00:18:38,383
+
+
 I'll look in the kitchen.
 
-521
-00:18:46,358 --> 00:18:47,860
+
+
 Fred!
 
-522
-00:18:47,860 --> 00:18:48,861
+
+
 What?
 
-523
-00:18:49,862 --> 00:18:51,146
+
+
 I'm calling the dog.
 
-524
-00:18:51,146 --> 00:18:53,148
+
+
 Oh, for corn sakes.
 
-525
-00:18:53,148 --> 00:18:55,984
+
+
 I haven't been right once today.
 
-526
-00:18:55,984 --> 00:18:57,953
+
+
 Maybe it'd make things simpler
 
-527
-00:18:57,953 --> 00:18:58,954
+
+
 if you changed your name.
 
-528
-00:18:58,954 --> 00:18:59,872
+
+
 To what?
 
-529
-00:18:59,872 --> 00:19:01,323
+
+
 Rover.
 
-530
-00:19:02,157 --> 00:19:04,877
+
+
 Very funny!
 
-531
-00:19:04,877 --> 00:19:06,328
+
+
 I'll go and look in the den.
 
-532
-00:19:06,829 --> 00:19:08,714
+
+
 I'll go upstairs and look, Fred.
 
-533
-00:19:17,256 --> 00:19:18,674
+
+
 Hey!
 What was that?
 
-534
-00:19:18,674 --> 00:19:20,175
+
+
 Something sounded like a wreck out
 there in back.
 
-535
-00:19:20,175 --> 00:19:21,176
+
+
 No, no. It was out here, Fred.
 
-536
-00:19:21,176 --> 00:19:22,177
+
+
 No, it was in back.
 
-537
-00:19:22,177 --> 00:19:23,178
+
+
 I know it was out there.
 
-538
-00:19:23,178 --> 00:19:24,179
+
+
 My ear tells me it's in the back.
 
-539
-00:19:24,179 --> 00:19:25,180
+
+
 It sounded just like it was out
 front.
 
-540
-00:19:25,180 --> 00:19:27,432
+
+
 It's out back!
 Now go on!
 
-541
-00:19:30,269 --> 00:19:32,104
+
+
 Lucy, are you all right?
 
-542
-00:19:32,104 --> 00:19:34,573
+
+
 I'm all right, but look at him.
 
-543
-00:19:34,573 --> 00:19:37,075
+
+
 Oh, my goodness, honey.
 
-544
-00:19:37,075 --> 00:19:38,577
+
+
 What happened?
 
-545
-00:19:38,577 --> 00:19:39,578
+
+
 Oh, I jumped in the car
 
-546
-00:19:39,578 --> 00:19:41,413
+
+
 and forgot all about the trailer
 
-547
-00:19:41,413 --> 00:19:42,915
+
+
 and backed right into that elm tree.
 
-548
-00:19:42,915 --> 00:19:44,333
+
+
 Wouldn't you know it?
 
-549
-00:19:44,333 --> 00:19:46,835
+
+
 The poor guy got through the
 Revolutionary War
 
-550
-00:19:46,835 --> 00:19:48,337
+
+
 without a scratch,
 
-551
-00:19:48,337 --> 00:19:50,339
+
+
 but five minutes with you and he's
 finished.
 
-552
-00:19:50,339 --> 00:19:52,424
+
+
 Oh, be quiet, Fred.
 
-553
-00:19:52,424 --> 00:19:54,927
+
+
 Uh, Lucy, maybe we can glue it back
 together.
 
-554
-00:19:54,927 --> 00:19:56,879
+
+
 Glue what back together?
 
-555
-00:19:56,879 --> 00:19:58,881
+
+
 This is all that's left of him.
 
-556
-00:19:58,881 --> 00:19:59,798
+
+
 Oh, my goodness.
 
-557
-00:20:00,299 --> 00:20:01,633
+
+
 Well, you gotta do something.
 
-558
-00:20:01,633 --> 00:20:03,051
+
+
 You've got to fix it.
 
-559
-00:20:03,051 --> 00:20:06,054
+
+
 Oh, how can I fix it, for heaven's
 sake?
 
-560
-00:20:10,058 --> 00:20:11,860
+
+
 Doesn't look very good.
 
-561
-00:20:11,860 --> 00:20:12,778
+
+
 Lucy.
 What?
 
-562
-00:20:13,278 --> 00:20:14,279
+
+
 The unveiling's in an hour.
 
-563
-00:20:14,279 --> 00:20:15,113
+
+
 What are you gonnna do?
 
-564
-00:20:15,113 --> 00:20:16,064
+
+
 Oh, dear, I don't know.
 
-565
-00:20:16,064 --> 00:20:17,566
+
+
 But while I'm thinking,
 
-566
-00:20:17,566 --> 00:20:18,567
+
+
 will you drive over to the Munsons',
 
-567
-00:20:19,067 --> 00:20:20,319
+
+
 find Little Ricky and go find the
 dog, will you?
 
-568
-00:20:20,319 --> 00:20:21,653
+
+
 Sure.
 Yeah.
 
-569
-00:20:21,653 --> 00:20:22,654
+
+
 Oh...
 
-570
-00:20:24,156 --> 00:20:25,657
+
+
 See you later, shorty.
 
-571
-00:20:27,159 --> 00:20:28,660
+
+
 Ethel, what am I gonna do?
 
-572
-00:20:28,660 --> 00:20:30,662
+
+
 They'll throw me out of the
 Historical Society.
 
-573
-00:20:30,662 --> 00:20:32,130
+
+
 Oh, you'll be lucky
 
-574
-00:20:32,130 --> 00:20:33,632
+
+
 if they don't throw you out of town.
 
-575
-00:20:34,132 --> 00:20:34,883
+
+
 Oh, dear.
 
-576
-00:20:34,883 --> 00:20:37,669
+
+
 Hey, I'll call Mr. Silvestri
 
-577
-00:20:37,669 --> 00:20:39,004
+
+
 and see if he's got another one.
 
-578
-00:20:39,004 --> 00:20:41,473
+
+
 Another one?
 
-579
-00:20:41,473 --> 00:20:44,176
+
+
 They don't make statues in pairs like
 bookends.
 
-580
-00:20:44,176 --> 00:20:47,512
+
+
 Oh, it doesn't hurt to ask.
 
-581
-00:20:47,512 --> 00:20:48,513
+
+
 Mr. Silvestri?
 
-582
-00:20:49,014 --> 00:20:50,515
+
+
 This is Mrs. Ricardo.
 
-583
-00:20:50,515 --> 00:20:53,518
+
+
 Yeah. You know the statue you made
 for us?
 
-584
-00:20:53,518 --> 00:20:58,023
+
+
 Well, by any chance, do you happen to
 have a spare?
 
-585
-00:20:58,023 --> 00:20:59,524
+
+
 Oh, you don't, huh?
 
-586
-00:20:59,524 --> 00:21:01,526
+
+
 Well, could you make another one?
 
-587
-00:21:01,526 --> 00:21:02,327
+
+
 Oh, good!
 
-588
-00:21:03,495 --> 00:21:04,830
+
+
 How long will it take?
 
-589
-00:21:04,830 --> 00:21:06,114
+
+
 Two weeks!
 
-590
-00:21:07,165 --> 00:21:08,000
+
+
 Oh, dear.
 
-591
-00:21:08,000 --> 00:21:11,003
+
+
 Well, could you make it sooner?
 
-592
-00:21:11,503 --> 00:21:15,507
+
+
 Well, I was thinking in about an
 hour, maybe?
 
-593
-00:21:16,008 --> 00:21:19,011
+
+
 Yeah, well, all right, all right, all
 right, Mr. Silvestri.
 
-594
-00:21:19,011 --> 00:21:21,013
+
+
 Well, you start on it right now, huh?
 
-595
-00:21:21,013 --> 00:21:23,015
+
+
 Yeah. What?
 
-596
-00:21:23,015 --> 00:21:25,017
+
+
 Why do I want another one?
 
-597
-00:21:25,017 --> 00:21:26,385
+
+
 Why? Why?
 
-598
-00:21:26,385 --> 00:21:27,219
+
+
 Why, Ethel?
 
-599
-00:21:27,219 --> 00:21:29,137
+
+
 Why do we want two of them?
 
-600
-00:21:29,137 --> 00:21:32,140
+
+
 Uh... well...
 Westport is growing
 
-601
-00:21:32,140 --> 00:21:34,142
+
+
 and it may become twin cities
 
-602
-00:21:34,142 --> 00:21:35,944
+
+
 like Saint Paul and Minneapolis.
 
-603
-00:21:35,944 --> 00:21:38,814
+
+
 Yeah, well, you know, Mr. Silvestri,
 
-604
-00:21:38,814 --> 00:21:42,818
+
+
 Westport is growing so, it just might
 become twin cities
 
-605
-00:21:42,818 --> 00:21:45,821
+
+
 like Saint Appolis and Minnie Paul.
 
-606
-00:21:47,039 --> 00:21:49,875
+
+
 Minneapolis and Saint Paul.
 
-607
-00:21:49,875 --> 00:21:51,376
+
+
 Oh.
 
-608
-00:21:51,376 --> 00:21:53,879
+
+
 Well, you just go ahead, Mr.
 Silvestri,
 
-609
-00:21:53,879 --> 00:21:55,881
+
+
 and we'll think up a reason later.
 
-610
-00:21:55,881 --> 00:21:58,884
+
+
 I mean, I'll tell you the reason
 later. Yeah.
 
-611
-00:21:58,884 --> 00:22:01,386
+
+
 Oh, uh, Mr. Silvestri,
 
-612
-00:22:01,386 --> 00:22:06,892
+
+
 incidentally, is the, uh, the first
 statue insured?
 
-613
-00:22:06,892 --> 00:22:08,727
+
+
 Oh! Oh, thank goodness!
 
-614
-00:22:10,095 --> 00:22:11,596
+
+
 Yeah, well, just start on the...
 
-615
-00:22:11,596 --> 00:22:12,597
+
+
 on the other one.
 
-616
-00:22:12,597 --> 00:22:14,099
+
+
 Thanks very much.
 
-617
-00:22:14,099 --> 00:22:16,401
+
+
 Oh! Thank goodness that's over.
 
-618
-00:22:16,401 --> 00:22:17,769
+
+
 Now all you have to do
 
-619
-00:22:17,769 --> 00:22:19,271
+
+
 is postpone the ceremonies for two
 weeks.
 
-620
-00:22:19,271 --> 00:22:20,188
+
+
 Yeah.
 
-621
-00:22:20,188 --> 00:22:21,490
+
+
 Postpone the...?
 
-622
-00:22:21,490 --> 00:22:23,825
+
+
 I can't postpone the ceremonies!
 
-623
-00:22:23,825 --> 00:22:26,278
+
+
 Everybody in town will be over there
 in an hour.
 
-624
-00:22:26,278 --> 00:22:27,779
+
+
 Well, what are you gonna do?
 
-625
-00:22:27,779 --> 00:22:30,082
+
+
 I don't know. I forgot all about the
 ceremonies.
 
-626
-00:22:30,082 --> 00:22:31,366
+
+
 Oh, dear.
 
-627
-00:22:31,366 --> 00:22:32,868
+
+
 Oh, Ethel.
 
-628
-00:22:35,370 --> 00:22:37,873
+
+
 Hey, I got an idea.
 
-629
-00:22:39,374 --> 00:22:41,760
+
+
 No, maybe it's too wild.
 
-630
-00:22:41,760 --> 00:22:44,262
+
+
 If you've got an idea that you think
 is too wild,
 
-631
-00:22:44,262 --> 00:22:46,264
+
+
 I don't want to hear it.
 
-632
-00:22:47,049 --> 00:22:49,885
+
+
 No, I think it will work.
 
-633
-00:22:49,885 --> 00:22:51,853
+
+
 Yeah, I think so.
 
-634
-00:23:08,787 --> 00:23:10,789
+
+
 You know, we're going to have
 
-635
-00:23:10,789 --> 00:23:12,290
+
+
 ice cream and cake later.
 
-636
-00:23:12,290 --> 00:23:13,291
+
+
 Are you having a good time, honey?
 
-637
-00:23:13,792 --> 00:23:14,793
+
+
 Yes.
 
-638
-00:23:14,793 --> 00:23:17,295
+
+
 Fred! Fred, you found Fred!
 
-639
-00:23:17,295 --> 00:23:18,797
+
+
 Oh, let him through here. Oh, Fred!
 
-640
-00:23:19,297 --> 00:23:20,298
+
+
 Yeah, I found him.
 I found him all right.
 
-641
-00:23:20,298 --> 00:23:21,800
+
+
 Oh, bless his little heart.
 
-642
-00:23:22,300 --> 00:23:23,135
+
+
 Where was he?
 
-643
-00:23:23,135 --> 00:23:24,636
+
+
 Well, you will never believe it.
 
-644
-00:23:24,636 --> 00:23:26,138
+
+
 He was sitting on the steps
 
-645
-00:23:26,138 --> 00:23:27,005
+
+
 of the obedience school.
 
-646
-00:23:27,005 --> 00:23:28,473
+
+
 Oh, Fred.
 
-647
-00:23:28,473 --> 00:23:30,258
+
+
 Now, why do you suppose he went
 there?
 
-648
-00:23:30,258 --> 00:23:32,227
+
+
 Well, I guess he heard he had a bad
 report.
 
-649
-00:23:32,227 --> 00:23:34,229
+
+
 He was trying to sign up for summer
 school.
 
-650
-00:23:34,229 --> 00:23:35,013
+
+
 Oh, maybe.
 
-651
-00:23:35,013 --> 00:23:37,432
+
+
 Your mommy's here, honey.
 
-652
-00:23:37,432 --> 00:23:38,433
+
+
 You'll see her pretty soon.
 
-653
-00:23:38,433 --> 00:23:40,152
+
+
 And your daddy's getting ready to
 make a speech.
 
-654
-00:23:40,152 --> 00:23:41,486
+
+
 Did you know that?
 Yeah.
 
-655
-00:23:48,910 --> 00:23:51,163
+
+
 Fellow citizens of Westport,
 
-656
-00:23:51,163 --> 00:23:54,499
+
+
 we are gathered here on Yankee Doodle
 Day
 
-657
-00:23:55,000 --> 00:23:58,003
+
+
 to unveil and dedicate a statue--
 
-658
-00:23:58,003 --> 00:23:59,504
+
+
 a statue which commemorates
 
-659
-00:23:59,504 --> 00:24:02,007
+
+
 the great bravery and daring courage
 
-660
-00:24:02,007 --> 00:24:04,509
+
+
 of the patriots of this community
 
-661
-00:24:04,509 --> 00:24:08,513
+
+
 during the Battle of Campo in 1777.
 
-662
-00:24:09,014 --> 00:24:14,019
+
+
 So I hereby dedicate this statue to
 these brave men and women,
 
-663
-00:24:14,019 --> 00:24:15,520
+
+
 and to their descendants,
 
-664
-00:24:15,520 --> 00:24:20,525
+
+
 many of whom are still living in this
 community.
 
-665
-00:24:20,525 --> 00:24:22,811
+
+
 And now, for the unveiling.
 
-666
-00:24:27,115 --> 00:24:28,116
+
+
 Here we go!
 
-667
-00:24:59,681 --> 00:25:00,515
+
+
 Lucy?
 
-668
-00:25:03,685 --> 00:25:04,986
+
+
 Lucy!
 
-669
-00:25:14,112 --> 00:25:17,115
+
+
 Shoot, if you must, this old redhead.
 
-670
-00:25:18,917 --> 00:25:21,920
+
+
 Un momento, un momento que ha pasado
 algo...
 
-671
-00:25:21,920 --> 00:25:23,421
+
+
 Fred...
 
-672
-00:25:23,421 --> 00:25:24,923
+
+
 Que ha pasado algo...
 

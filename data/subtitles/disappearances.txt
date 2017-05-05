@@ -1,1976 +1,1976 @@
-1
-00:00:11,144 --> 00:00:16,014
+
+
 Mr Whitebird wrote a letter.
 
-2
-00:00:16,049 --> 00:00:25,651
+
+
 Mr Blackbird ate it without reading it.
 
-3
-00:00:26,159 --> 00:00:31,256
+
+
 DISAPPEAR
 
-4
-00:04:33,306 --> 00:04:35,900
+
+
 Yes, that's it.
 
-5
-00:04:38,211 --> 00:04:40,202
+
+
 It's coming.
 
-6
-00:04:48,121 --> 00:04:56,221
+
+
 Hi, Yinan.
 
-7
-00:04:56,729 --> 00:04:57,525
+
+
 Yes.
 
-8
-00:04:57,930 --> 00:04:59,697
+
+
 How did you make it?
 
-9
-00:04:59,732 --> 00:05:01,825
+
+
 The measurement is wrong.
 
-10
-00:05:02,335 --> 00:05:03,632
+
+
 I understand.
 
-11
-00:05:04,304 --> 00:05:06,771
+
+
 You can't just walk away like this.
 
-12
-00:05:06,806 --> 00:05:08,841
+
+
 The last person scolded by the boss is me.
 
-13
-00:05:08,876 --> 00:05:13,642
+
+
 All of these are wrong.
 
-14
-00:05:16,449 --> 00:05:18,644
+
+
 What the hell did you do?
 
-15
-00:05:18,851 --> 00:05:21,819
+
+
 I am sorry. I will redo it.
 
-16
-00:05:21,854 --> 00:05:23,253
+
+
 You idiot. You don't need to do it.
 
-17
-00:05:23,756 --> 00:05:24,950
+
+
 ShanTin, you do it.
 
-18
-00:05:25,358 --> 00:05:26,120
+
+
 What?
 
-19
-00:05:26,259 --> 00:05:27,225
+
+
 No way.
 
-20
-00:05:27,260 --> 00:05:28,852
+
+
 He is not concentrated.
 
-21
-00:05:29,062 --> 00:05:30,552
+
+
 So please do it.
 
-22
-00:05:31,264 --> 00:05:32,697
+
+
 Useless.
 
-23
-00:05:32,732 --> 00:05:34,427
+
+
 Troublemaker!
 
-24
-00:05:51,484 --> 00:05:52,382
+
+
 How are you?
 
-25
-00:05:53,086 --> 00:05:53,984
+
+
 I'm fine. Hello.
 
-26
-00:05:56,989 --> 00:05:58,581
+
+
 What are you reading?
 
-27
-00:06:02,995 --> 00:06:05,088
+
+
 It is not important.
 
-28
-00:06:05,198 --> 00:06:07,393
+
+
 I can lend it to you.
 
-29
-00:06:07,467 --> 00:06:08,491
+
+
 Great.
 
-30
-00:06:08,701 --> 00:06:09,367
+
+
 Idiot.
 
-31
-00:06:09,402 --> 00:06:10,503
+
+
 You don't know how to read a book.
 
-32
-00:06:10,538 --> 00:06:11,170
+
+
 What do you borrow it for?
 
-33
-00:06:11,205 --> 00:06:12,270
+
+
 Nonsense.
 
-34
-00:06:12,305 --> 00:06:13,966
+
+
 I will be able to read it from now on.
 
-35
-00:06:14,507 --> 00:06:16,566
+
+
 We are studying at Kwangshu's home.
 
-36
-00:06:16,676 --> 00:06:17,870
+
+
 Will Yinan be with you?
 
-37
-00:06:19,278 --> 00:06:21,178
+
+
 I am not going.
 
-38
-00:06:21,214 --> 00:06:22,246
+
+
 Only two of us.
 
-39
-00:06:22,281 --> 00:06:23,015
+
+
 I am afraid that he will be rude to me.
 
-40
-00:06:23,050 --> 00:06:24,505
+
+
 Enough. Stop saying this.
 
-41
-00:06:25,618 --> 00:06:27,711
+
+
 I need to work now.
 
-42
-00:06:28,988 --> 00:06:30,523
+
+
 I said it before.
 
-43
-00:06:30,558 --> 00:06:31,615
+
+
 Really?
 
-44
-00:06:32,125 --> 00:06:33,615
+
+
 Sorry to border you.
 
-45
-00:06:33,826 --> 00:06:34,884
+
+
 We have to go.
 
-46
-00:06:42,135 --> 00:06:43,033
+
+
 Goodbye
 
-47
-00:06:48,808 --> 00:06:49,934
+
+
 About this...
 
-48
-00:06:50,843 --> 00:06:51,832
+
+
 What's up?
 
-49
-00:06:56,416 --> 00:06:59,214
+
+
 Can I go if I have time?
 
-50
-00:07:00,953 --> 00:07:03,444
+
+
 I mean studying.
 
-51
-00:07:03,723 --> 00:07:05,748
+
+
 Just like before.
 
-52
-00:07:06,359 --> 00:07:08,020
+
+
 I will have a day off on the day after tomorrow.
 
-53
-00:07:09,362 --> 00:07:10,158
+
+
 I understand.
 
-54
-00:07:10,329 --> 00:07:11,780
+
+
 I will come to see you after school.
 
-55
-00:07:11,815 --> 00:07:13,232
+
+
 Are you fine with this, Kwangshu?
 
-56
-00:07:13,267 --> 00:07:14,299
+
+
 Of course it is fine.
 
-57
-00:07:14,334 --> 00:07:15,331
+
+
 Come if you have time.
 
-58
-00:07:15,435 --> 00:07:16,424
+
+
 Okay. We decide it.
 
-59
-00:07:17,270 --> 00:07:18,862
+
+
 I need to study, too.
 
-60
-00:07:19,172 --> 00:07:21,572
+
+
 I will prepare for the admission
 exam of university with everybody.
 
-61
-00:07:22,074 --> 00:07:25,043
+
+
 Let's work hard together.
 
-62
-00:07:25,378 --> 00:07:26,072
+
+
 Yes.
 
-63
-00:07:26,179 --> 00:07:27,840
+
+
 So see you on the day after tomorrow.
 
-64
-00:07:57,210 --> 00:07:58,199
+
+
 You.
 
-65
-00:07:58,711 --> 00:07:59,803
+
+
 What's up?
 
-66
-00:08:01,113 --> 00:08:02,603
+
+
 I can only take a short rest.
 
-67
-00:08:03,182 --> 00:08:05,514
+
+
 You will be surpassed by Yinan
 if you remain this way.
 
-68
-00:08:06,319 --> 00:08:07,911
+
+
 It is impossible.
 
-69
-00:08:08,221 --> 00:08:09,554
+
+
 How impossible?
 
-70
-00:08:09,589 --> 00:08:12,319
+
+
 Yinan score very good result in high school.
 
-71
-00:08:13,025 --> 00:08:14,176
+
+
 You are so annoying.
 
-72
-00:08:14,211 --> 00:08:15,328
+
+
 Always talk about Yinan.
 
-73
-00:08:15,363 --> 00:08:16,093
+
+
 What's up?
 
-74
-00:08:16,128 --> 00:08:17,296
+
+
 Are you jealous of him?
 
-75
-00:08:17,331 --> 00:08:18,422
+
+
 No way.
 
-76
-00:08:19,499 --> 00:08:21,990
+
+
 What are you doing?
 
-77
-00:08:22,134 --> 00:08:23,226
+
+
 Don't do this.
 
-78
-00:08:23,603 --> 00:08:26,037
+
+
 Stop it.
 
-79
-00:08:28,040 --> 00:08:29,507
+
+
 Stop it now.
 
-80
-00:08:33,012 --> 00:08:35,105
+
+
 We are studying.
 
-81
-00:08:36,015 --> 00:08:37,448
+
+
 Only doing this.
 
-82
-00:09:29,201 --> 00:09:34,468
+
+
 No way.
 
-83
-00:09:35,207 --> 00:09:37,198
+
+
 What's the matter?
 
-84
-00:09:37,510 --> 00:09:38,511
+
+
 I have period today.
 
-85
-00:09:38,546 --> 00:09:40,274
+
+
 What?
 
-86
-00:09:41,380 --> 00:09:42,779
+
+
 Let's use your month.
 
-87
-00:09:43,316 --> 00:09:44,283
+
+
 I said no.
 
-88
-00:09:45,284 --> 00:09:46,512
+
+
 Give it to me.
 
-89
-00:09:46,686 --> 00:09:49,501
+
+
 You like this recently.
 
-90
-00:09:49,536 --> 00:09:52,317
+
+
 Let's use your hands.
 
-91
-00:09:52,625 --> 00:09:54,158
+
+
 No.
 
-92
-00:09:54,193 --> 00:09:55,490
+
+
 We need to study.
 
-93
-00:09:56,495 --> 00:09:59,430
+
+
 How can we stop it now.
 
-94
-00:12:43,295 --> 00:12:47,197
+
+
 These guys are out of control.
 
-95
-00:12:47,800 --> 00:12:50,894
+
+
 You will be scolded by the boss, Yansi.
 
-96
-00:12:51,003 --> 00:12:53,164
+
+
 Fine, he is cute.
 
-97
-00:12:53,572 --> 00:12:55,199
+
+
 Seems to be delicious.
 
-98
-00:12:55,708 --> 00:12:56,874
+
+
 These things.
 
-99
-00:12:56,909 --> 00:12:57,977
+
+
 They can be served soon.
 
-100
-00:12:58,012 --> 00:13:00,002
+
+
 Don't be nonsense
 
-101
-00:13:00,179 --> 00:13:01,246
+
+
 What nonsense.
 
-102
-00:13:01,281 --> 00:13:02,279
+
+
 These things.
 
-103
-00:13:02,314 --> 00:13:03,872
+
+
 They are food in the past.
 
-104
-00:13:04,517 --> 00:13:05,149
+
+
 Really?
 
-105
-00:13:05,184 --> 00:13:06,811
+
+
 Of course. So they can't fly.
 
-106
-00:13:08,587 --> 00:13:09,605
+
+
 They can fly.
 
-107
-00:13:09,640 --> 00:13:10,682
+
+
 They can't.
 
-108
-00:13:10,717 --> 00:13:11,689
+
+
 I can be sure.
 
-109
-00:13:11,724 --> 00:13:12,986
+
+
 Have you seen them fly before?
 
-110
-00:13:13,292 --> 00:13:14,193
+
+
 I haven't.
 
-111
-00:13:14,228 --> 00:13:15,059
+
+
 Right.
 
-112
-00:13:15,094 --> 00:13:16,929
+
+
 Why do they have feathers?
 
-113
-00:13:16,964 --> 00:13:17,495
+
+
 So...
 
-114
-00:13:17,530 --> 00:13:18,690
+
+
 They are birds anyway.
 
-115
-00:13:22,101 --> 00:13:23,728
+
+
 Yansi.
 
-116
-00:13:26,305 --> 00:13:27,135
+
+
 Yes.
 
-117
-00:13:33,312 --> 00:13:34,211
+
+
 Do you know...
 
-118
-00:13:34,246 --> 00:13:35,838
+
+
 She have special relationship with the boss.
 
-119
-00:13:35,948 --> 00:13:37,848
+
+
 I saw them in the office
 
-120
-00:13:37,883 --> 00:13:39,749
+
+
 When they are making love.
 
-121
-00:13:40,052 --> 00:13:41,041
+
+
 Really?
 
-122
-00:13:42,321 --> 00:13:45,017
+
+
 It seems that the boss is very dissolute.
 
-123
-00:13:45,658 --> 00:13:46,522
+
+
 Yes.
 
-124
-00:13:49,662 --> 00:13:51,755
+
+
 Why is he in low spirits.
 
-125
-00:13:51,964 --> 00:13:53,454
+
+
 Let's go to have some fun after work.
 
-126
-00:13:53,732 --> 00:13:54,767
+
+
 We will have a holiday tomorrow.
 
-127
-00:13:54,802 --> 00:13:56,029
+
+
 But...
 
-128
-00:13:56,368 --> 00:13:57,767
+
+
 I don't have money.
 
-129
-00:13:57,870 --> 00:13:58,919
+
+
 Don't be like this.
 
-130
-00:13:58,954 --> 00:13:59,968
+
+
 We have said it before.
 
-131
-00:14:51,123 --> 00:14:53,421
+
+
 You haven't been here for a long time.
 
-132
-00:14:54,627 --> 00:14:56,026
+
+
 Yes.
 
-133
-00:14:56,128 --> 00:14:58,289
+
+
 I haven't been here since my father died.
 
-134
-00:14:58,831 --> 00:15:00,093
+
+
 Yes.
 
-135
-00:15:07,239 --> 00:15:08,384
+
+
 Don't wait for him.
 
-136
-00:15:08,419 --> 00:15:09,530
+
+
 Let's start our study.
 
-137
-00:15:10,743 --> 00:15:12,005
+
+
 Okay.
 
-138
-00:15:12,344 --> 00:15:13,510
+
+
 He's a real idiot.
 
-139
-00:15:13,545 --> 00:15:15,125
+
+
 Even taking some supplementary lessons.
 
-140
-00:15:15,160 --> 00:15:16,706
+
+
 He is still the worst among three of us.
 
-141
-00:15:16,949 --> 00:15:18,348
+
+
 Yes.
 
-142
-00:15:22,955 --> 00:15:24,650
+
+
 Do you understand this question?
 
-143
-00:15:26,225 --> 00:15:28,659
+
+
 The second question.
 
-144
-00:15:37,937 --> 00:15:39,461
+
+
 Do you hear me?
 
-145
-00:15:42,641 --> 00:15:44,074
+
+
 I am sorry.
 
-146
-00:15:44,677 --> 00:15:46,235
+
+
 What's up?
 
-147
-00:15:52,584 --> 00:15:53,651
+
+
 Yinan
 
-148
-00:15:53,686 --> 00:15:54,954
+
+
 When Kwanshu is not here.
 
-149
-00:15:54,989 --> 00:15:56,285
+
+
 You are so quiet.
 
-150
-00:15:56,455 --> 00:15:57,522
+
+
 Really?
 
-151
-00:15:57,557 --> 00:15:58,555
+
+
 Yes.
 
-152
-00:15:58,590 --> 00:16:00,359
+
+
 Are you very boring with me?
 
-153
-00:16:00,394 --> 00:16:01,792
+
+
 Of course not.
 
-154
-00:16:06,498 --> 00:16:09,160
+
+
 What have Kwangshu done?
 
-155
-00:16:21,113 --> 00:16:22,603
+
+
 It is troublesome.
 
-156
-00:18:19,098 --> 00:18:20,429
+
+
 Yinan.
 
-157
-00:18:51,063 --> 00:18:52,758
+
+
 Stop it.
 
-158
-00:19:04,776 --> 00:19:06,539
+
+
 Please stop it.
 
-159
-00:19:14,086 --> 00:19:15,451
+
+
 What happened?
 
-160
-00:19:45,017 --> 00:19:48,418
+
+
 Stop it.
 
-161
-00:20:39,438 --> 00:20:40,769
+
+
 I am sorry.
 
-162
-00:20:44,543 --> 00:20:46,272
+
+
 I have to go now.
 
-163
-00:20:47,779 --> 00:20:49,348
+
+
 Sorry. Please don't go.
 
-164
-00:20:49,383 --> 00:20:50,383
+
+
 Let me go.
 
-165
-00:20:50,418 --> 00:20:51,446
+
+
 Don't go.
 
-166
-00:20:51,481 --> 00:20:52,475
+
+
 Let me go.
 
-167
-00:20:52,884 --> 00:20:54,044
+
+
 Don't go.
 
-168
-00:20:54,286 --> 00:20:55,275
+
+
 Let me off. I am hurt.
 
-169
-00:20:55,454 --> 00:20:55,977
+
+
 Don't cry.
 
-170
-00:21:10,502 --> 00:21:11,696
+
+
 Asi.
 
-171
-00:22:07,059 --> 00:22:11,621
+
+
 Yinan. Are you there?
 
-172
-00:22:14,966 --> 00:22:17,434
+
+
 Hi, hi.
 
-173
-00:23:03,515 --> 00:23:05,415
+
+
 Come.
 
-174
-00:23:05,917 --> 00:23:08,185
+
+
 Sorry.
 
-175
-00:23:08,220 --> 00:23:15,023
+
+
 My bike is out of order.
 
-176
-00:23:16,328 --> 00:23:22,096
+
+
 So I am a bit late.
 
-177
-00:23:24,336 --> 00:23:28,796
+
+
 Asi hasn't arrived?
 
-178
-00:23:29,107 --> 00:23:30,699
+
+
 Yes.
 
-179
-00:23:31,910 --> 00:23:36,012
+
+
 What happened to her?
 
-180
-00:23:36,047 --> 00:23:40,814
+
+
 She told me that she will come early.
 
-181
-00:24:04,976 --> 00:24:08,377
+
+
 What is she doing?
 
-182
-00:24:14,953 --> 00:24:16,087
+
+
 What happened to you?
 
-183
-00:24:16,122 --> 00:24:18,885
+
+
 Are you sick?
 
-184
-00:24:19,157 --> 00:24:21,682
+
+
 Yes.
 
-185
-00:24:22,294 --> 00:24:24,696
+
+
 I had a fever since this morning.
 
-186
-00:24:24,731 --> 00:24:25,662
+
+
 Yes.
 
-187
-00:24:25,697 --> 00:24:29,949
+
+
 I slept all day.
 
-188
-00:24:29,984 --> 00:24:34,202
+
+
 If in this case.
 
-189
-00:24:34,306 --> 00:24:37,503
+
+
 Let's call off our meeting today.
 
-190
-00:24:40,011 --> 00:24:41,458
+
+
 I am sorry.
 
-191
-00:24:41,493 --> 00:24:42,905
+
+
 Not at all.
 
-192
-00:24:43,815 --> 00:24:48,479
+
+
 I need to ask her now.
 
-193
-00:26:35,827 --> 00:26:36,919
+
+
 What.
 
-194
-00:26:39,230 --> 00:26:40,629
+
+
 Are you awake?
 
-195
-00:26:41,232 --> 00:26:43,393
+
+
 What's the matter?
 
-196
-00:26:44,336 --> 00:26:47,430
+
+
 You should be hungry
 after sleeping whole day.
 
-197
-00:26:47,939 --> 00:26:50,134
+
+
 I am making some food.
 
-198
-00:26:50,241 --> 00:26:51,640
+
+
 I don't want it.
 
-199
-00:26:51,743 --> 00:26:53,540
+
+
 I don't want it.
 
-200
-00:26:54,746 --> 00:26:56,338
+
+
 Asi.
 
-201
-00:26:56,948 --> 00:27:00,714
+
+
 We will live together form now on.
 
-202
-00:27:03,555 --> 00:27:05,420
+
+
 What did you say?
 
-203
-00:27:07,459 --> 00:27:08,756
+
+
 You don't want it?
 
-204
-00:27:08,960 --> 00:27:11,053
+
+
 I don't want it.
 
-205
-00:27:11,229 --> 00:27:13,823
+
+
 I will not let you go.
 
-206
-00:27:15,166 --> 00:27:17,300
+
+
 If you let you go,
 
-207
-00:27:17,335 --> 00:27:20,031
+
+
 I will lose you forever.
 
-208
-00:27:21,840 --> 00:27:25,942
+
+
 Will you tell Kwanshu
 
-209
-00:27:25,977 --> 00:27:31,677
+
+
 about what happened today?
 
-210
-00:27:31,850 --> 00:27:35,251
+
+
 Then I will be alone from now on.
 
-211
-00:27:37,989 --> 00:27:42,688
+
+
 So I need to do this now.
 
-212
-00:27:49,167 --> 00:27:50,691
+
+
 I will scream.
 
-213
-00:27:50,902 --> 00:27:51,994
+
+
 I don't mind.
 
-214
-00:27:52,170 --> 00:27:54,161
+
+
 Because there is no one around here.
 
-215
-00:27:57,475 --> 00:27:58,475
+
+
 It is very late now.
 
-216
-00:27:58,510 --> 00:28:01,809
+
+
 No one will stay at the workshop.
 
-217
-00:28:02,480 --> 00:28:04,446
+
+
 After my father died,
 
-218
-00:28:04,481 --> 00:28:06,413
+
+
 I always stay here alone.
 
-219
-00:28:15,927 --> 00:28:20,728
+
+
 Everyday is the same.
 
-220
-00:28:28,840 --> 00:28:30,330
+
+
 Don't do this.
 
-221
-00:28:30,642 --> 00:28:31,734
+
+
 I didn't do anything.
 
-222
-00:28:31,843 --> 00:28:33,037
+
+
 Don't come to me.
 
-223
-00:28:49,527 --> 00:28:53,258
+
+
 I don't have any attempt.
 
-224
-00:29:01,673 --> 00:29:04,042
+
+
 Until I fall in love with you.
 
-225
-00:29:04,077 --> 00:29:06,169
+
+
 I will wait for you.
 
-226
-00:30:10,608 --> 00:30:13,008
+
+
 Is everything alright?
 
-227
-00:30:15,246 --> 00:30:18,340
+
+
 Did you smoke in the toilet?
 
-228
-00:30:18,650 --> 00:30:20,550
+
+
 You are still a student?
 
-229
-00:30:20,718 --> 00:30:22,954
+
+
 You've got to work seriously.
 
-230
-00:30:22,989 --> 00:30:24,717
+
+
 Understand?
 
-231
-00:30:28,660 --> 00:30:29,922
+
+
 May I?
 
-232
-00:30:30,061 --> 00:30:31,426
+
+
 Do you want it too
 
-233
-00:30:34,165 --> 00:30:35,757
+
+
 Go quickly.
 
-234
-00:31:01,092 --> 00:31:01,990
+
+
 Let me go.
 
-235
-00:31:02,160 --> 00:31:03,074
+
+
 Sorry.
 
-236
-00:31:03,109 --> 00:31:03,988
+
+
 Let me go.
 
-237
-00:31:30,321 --> 00:31:34,189
+
+
 I am really sorry.
 
-238
-00:31:35,693 --> 00:31:38,924
+
+
 Go back.
 
-239
-00:31:39,430 --> 00:31:41,898
+
+
 Why are you so bawdy?
 
-240
-00:31:43,635 --> 00:31:46,102
+
+
 I remember when I was small,
 
-241
-00:31:46,137 --> 00:31:52,042
+
+
 You said that you will marry me, Asi.
 
-242
-00:31:52,944 --> 00:31:54,138
+
+
 Did I say that?
 
-243
-00:31:56,915 --> 00:31:58,542
+
+
 Yes, you said that.
 
-244
-00:31:59,350 --> 00:32:01,619
+
+
 You said that you will be my bride.
 
-245
-00:32:01,654 --> 00:32:03,052
+
+
 Not Kwangshu.
 
-246
-00:32:05,456 --> 00:32:06,616
+
+
 Don't say it anymore.
 
-247
-00:32:06,758 --> 00:32:09,124
+
+
 It was only a joke played by kids.
 
-248
-00:32:12,130 --> 00:32:15,861
+
+
 But you had said that.
 
-249
-00:32:18,536 --> 00:32:20,801
+
+
 So I need to get you back
 
-250
-00:32:20,836 --> 00:32:23,067
+
+
 from the arms of Kwangshu.
 
-251
-00:32:41,659 --> 00:32:42,859
+
+
 Go away.
 
-252
-00:32:42,894 --> 00:32:45,163
+
+
 I will never leave you.
 
-253
-00:32:45,198 --> 00:32:47,154
+
+
 Stop it.
 
-254
-00:32:56,407 --> 00:32:58,705
+
+
 Please let me go.
 
-255
-00:32:59,010 --> 00:33:01,379
+
+
 I will not tell anyone about this.
 
-256
-00:33:01,414 --> 00:33:02,445
+
+
 No way.
 
-257
-00:33:02,480 --> 00:33:03,446
+
+
 I will not stop it.
 
-258
-00:33:03,481 --> 00:33:04,882
+
+
 Until you fall in love with me.
 
-259
-00:33:04,917 --> 00:33:05,882
+
+
 In this situation,
 
-260
-00:33:05,917 --> 00:33:07,509
+
+
 how can I fall in love with you?
 
-261
-00:33:09,821 --> 00:33:11,914
+
+
 You had loved me when you were small.
 
-262
-00:33:12,290 --> 00:33:15,123
+
+
 So you can love me now.
 
-263
-00:35:42,974 --> 00:35:48,037
+
+
 Step father, are you alright?
 
-264
-00:35:50,481 --> 00:35:56,442
+
+
 I am old now.
 
-265
-00:36:11,302 --> 00:36:12,835
+
+
 Yinan
 
-266
-00:36:12,870 --> 00:36:14,906
+
+
 You had never taken care of him?
 
-267
-00:36:14,941 --> 00:36:16,897
+
+
 He is really cute.
 
-268
-00:36:17,308 --> 00:36:19,401
+
+
 Really?
 
-269
-00:36:20,378 --> 00:36:21,811
+
+
 I want to eat him.
 
-270
-00:36:24,182 --> 00:36:25,080
+
+
 Thank you very much.
 
-271
-00:36:25,283 --> 00:36:26,375
+
+
 Yansi.
 
-272
-00:36:26,584 --> 00:36:28,017
+
+
 You did that with boss today?
 
-273
-00:36:28,719 --> 00:36:30,016
+
+
 No more bull shit.
 
-274
-00:36:30,321 --> 00:36:32,423
+
+
 You have to learn from Yinan
 
-275
-00:36:32,458 --> 00:36:33,720
+
+
 He is still working.
 
-276
-00:36:37,795 --> 00:36:39,095
+
+
 What a hell is her attitude.
 
-277
-00:36:39,130 --> 00:36:40,495
+
+
 I will give her a lesson someday.
 
-278
-00:36:40,598 --> 00:36:41,549
+
+
 What did you say?
 
-279
-00:36:41,584 --> 00:36:42,500
+
+
 Are you serious?
 
-280
-00:36:42,535 --> 00:36:43,432
+
+
 Yes.
 
-281
-00:36:50,708 --> 00:36:53,108
+
+
 There is no pay for any overtime working.
 
-282
-00:36:54,045 --> 00:36:55,535
+
+
 I need to do a little bit more.
 
-283
-00:36:55,913 --> 00:36:56,811
+
+
 Really?
 
-284
-00:37:07,458 --> 00:37:09,255
+
+
 Yes, Yinan.
 
-285
-00:37:11,262 --> 00:37:12,559
+
+
 What's up?
 
-286
-00:37:15,866 --> 00:37:17,163
+
+
 Nothing.
 
-287
-00:37:18,569 --> 00:37:20,730
+
+
 Anyway, I need to fix a little bit more.
 
-288
-00:39:18,889 --> 00:39:20,186
+
+
 What are you doing?
 
-289
-00:39:20,991 --> 00:39:22,193
+
+
 Then when you are alone at home.
 
-290
-00:39:22,228 --> 00:39:23,359
+
+
 You can go anywhere.
 
-291
-00:39:23,394 --> 00:39:24,884
+
+
 Or even go to the toilet.
 
-292
-00:39:38,275 --> 00:39:39,401
+
+
 Yinan.
 
-293
-00:39:39,910 --> 00:39:41,002
+
+
 What's up?
 
-294
-00:39:41,278 --> 00:39:43,405
+
+
 Do you really like me?
 
-295
-00:39:43,814 --> 00:39:45,304
+
+
 Of course I do.
 
-296
-00:39:45,983 --> 00:39:47,473
+
+
 For a long time?
 
-297
-00:39:49,887 --> 00:39:51,320
+
+
 Yes.
 
-298
-00:39:53,991 --> 00:39:55,541
+
+
 So why didn't you reply to me.
 
-299
-00:39:55,576 --> 00:39:57,091
+
+
 When you received my letter.
 
-300
-00:39:58,829 --> 00:40:00,194
+
+
 Your letter?
 
-301
-00:40:01,932 --> 00:40:03,079
+
+
 Never mind.
 
-302
-00:40:03,114 --> 00:40:04,227
+
+
 What happened?
 
-303
-00:40:04,502 --> 00:40:05,935
+
+
 I said never mind.
 
-304
-00:40:11,809 --> 00:40:13,037
+
+
 Don't come to me.
 
-305
-00:40:16,414 --> 00:40:17,642
+
+
 I understand.
 
-306
-00:40:34,031 --> 00:40:35,726
+
+
 Go to sleep now.
 
-307
-00:42:47,398 --> 00:42:48,865
+
+
 Finished.
 
-308
-00:42:57,207 --> 00:42:58,799
+
+
 You are not eating?
 
-309
-00:43:01,312 --> 00:43:03,405
+
+
 Really?
 
-310
-00:43:40,517 --> 00:43:41,814
+
+
 Come on.
 
-311
-00:43:46,857 --> 00:43:49,348
+
+
 Haven't you want this all the time?
 
-312
-00:43:50,060 --> 00:43:52,051
+
+
 Do you want to do it now?
 
-313
-00:43:54,765 --> 00:43:56,164
+
+
 Come to me quickly.
 
-314
-00:44:46,016 --> 00:44:49,008
+
+
 Please let me go after this.
 
-315
-00:44:50,921 --> 00:44:53,617
+
+
 The foods are cold now.
 
-316
-00:45:10,841 --> 00:45:12,035
+
+
 Chung Tao
 
-317
-00:45:12,242 --> 00:45:14,210
+
+
 The taste of the chicken is bad.
 
-318
-00:45:14,344 --> 00:45:15,333
+
+
 Really?
 
-319
-00:45:20,417 --> 00:45:22,851
+
+
 I has already been a week.
 
-320
-00:45:23,954 --> 00:45:25,353
+
+
 Really?
 
-321
-00:45:26,657 --> 00:45:28,424
+
+
 Parents of Asi.
 
-322
-00:45:28,459 --> 00:45:32,259
+
+
 They call me and cry everyday.
 
-323
-00:45:33,163 --> 00:45:36,257
+
+
 They guess that Asi is kidnapped by someone.
 
-324
-00:45:41,271 --> 00:45:44,468
+
+
 Do you have any clue?
 
-325
-00:45:47,177 --> 00:45:48,974
+
+
 What are you doing?
 
-326
-00:45:49,009 --> 00:45:50,772
+
+
 Go to work now.
 
-327
-00:45:51,982 --> 00:45:53,347
+
+
 I understand.
 
-328
-00:45:54,885 --> 00:45:56,353
+
+
 I don't want to talk now.
 
-329
-00:45:56,388 --> 00:45:57,877
+
+
 I need to work now.
 
-330
-00:45:58,756 --> 00:46:02,385
+
+
 Why are you so indifferent?
 
-331
-00:46:03,994 --> 00:46:05,757
+
+
 I am not.
 
-332
-00:46:06,864 --> 00:46:08,889
+
+
 Because you come to ask me everyday.
 
-333
-00:46:09,066 --> 00:46:10,260
+
+
 And I have no way to help you...
 
-334
-00:46:52,309 --> 00:46:54,476
+
+
 When I grow up...
 
-335
-00:46:54,511 --> 00:46:58,538
+
+
 I will be the bride of Yinan.
 
-336
-00:47:11,361 --> 00:47:12,953
+
+
 Are you awake?
 
-337
-00:47:13,864 --> 00:47:15,931
+
+
 When I come back.
 
-338
-00:47:15,966 --> 00:47:18,730
+
+
 I find that your temperature is so hot.
 
-339
-00:47:21,071 --> 00:47:23,266
+
+
 It will be better for you to sleep more.
 
-340
-00:47:29,146 --> 00:47:32,479
+
+
 I will be off tomorrow.
 
-341
-00:47:44,494 --> 00:47:50,262
+
+
 Only Asi be with me now.
 
-342
-00:48:53,263 --> 00:48:54,596
+
+
 Very hot.
 
-343
-00:48:54,631 --> 00:48:56,258
+
+
 You have to eat carefully.
 
-344
-00:49:00,971 --> 00:49:02,437
+
+
 No.
 
-345
-00:49:02,472 --> 00:49:04,372
+
+
 You have to eat.
 
-346
-00:49:28,999 --> 00:49:30,866
+
+
 You sweat badly.
 
-347
-00:49:30,901 --> 00:49:33,096
+
+
 I think you will cool down a bit.
 
-348
-00:49:38,308 --> 00:49:40,503
+
+
 When we were small.
 
-349
-00:49:40,811 --> 00:49:44,212
+
+
 The three of us took the shower together.
 
-350
-00:49:47,117 --> 00:49:49,608
+
+
 I miss the days.
 
-351
-00:50:16,646 --> 00:50:18,944
+
+
 Yes, Yinan.
 
-352
-00:50:21,918 --> 00:50:26,321
+
+
 It will be better that we don't see each other
 
-353
-00:50:32,362 --> 00:50:39,336
+
+
 When I learnt that your father passed away.
 
-354
-00:50:39,371 --> 00:50:42,237
+
+
 I decided to quit my study.
 
-355
-00:50:43,173 --> 00:50:45,573
+
+
 I was very happy at heart.
 
-356
-00:50:47,577 --> 00:50:51,775
+
+
 I think I can stay with you, Asi.
 
-357
-00:50:55,085 --> 00:50:56,484
+
+
 Really?
 
-358
-00:50:58,255 --> 00:51:06,492
+
+
 In fact, Asi like you very much.
 
-359
-00:51:09,800 --> 00:51:12,200
+
+
 She's just kidding.
 
-360
-00:51:12,369 --> 00:51:13,893
+
+
 You are wrong.
 
-361
-00:51:14,905 --> 00:51:18,272
+
+
 She fell in love with you when she was in high school.
 
-362
-00:51:20,110 --> 00:51:21,211
+
+
 No more nonsense.
 
-363
-00:51:21,246 --> 00:51:22,744
+
+
 It is true.
 
-364
-00:51:22,779 --> 00:51:25,270
+
+
 I know this all the time.
 
-365
-00:51:25,515 --> 00:51:28,177
+
+
 Because I love Asi since I was small.
 
-366
-00:51:29,719 --> 00:51:32,317
+
+
 I remembered that she...
 
-367
-00:51:32,352 --> 00:51:34,916
+
+
 wrote you a love letter.
 
-368
-00:51:36,793 --> 00:51:38,920
+
+
 But...
 
-369
-00:51:39,329 --> 00:51:45,495
+
+
 I stole the letter form your mailbox.
 
-370
-00:51:46,436 --> 00:51:48,631
+
+
 I was so bad.
 
-371
-00:51:50,740 --> 00:51:53,775
+
+
 Do you think that Asi
 
-372
-00:51:53,810 --> 00:51:55,912
+
+
 with hate me if she learn the truth?
 
-373
-00:51:55,947 --> 00:51:57,243
+
+
 Of course she will not.
 
-374
-00:51:58,115 --> 00:52:00,115
+
+
 Really?
 
-375
-00:52:00,150 --> 00:52:03,353
+
+
 But I repent for what I have done.
 
-376
-00:52:03,388 --> 00:52:05,501
+
+
 If you have received that letter
 
-377
-00:52:05,536 --> 00:52:07,614
+
+
 Things will not be the same now.
 
-378
-00:52:20,070 --> 00:52:23,062
+
+
 Have you read that letter?
 
-379
-00:52:24,474 --> 00:52:26,135
+
+
 Yes.
 
-380
-00:52:26,276 --> 00:52:28,141
+
+
 What is it about?
 
-381
-00:52:29,279 --> 00:52:30,678
+
+
 I forget about it.
 
-382
-00:52:30,780 --> 00:52:32,077
+
+
 Really?
 
-383
-00:53:05,815 --> 00:53:08,079
+
+
 Period...
 
-384
-00:53:28,738 --> 00:53:33,038
+
+
 Kwangshu...
 
-385
-00:53:33,343 --> 00:53:35,038
+
+
 What have you done?
 
-386
-00:54:25,695 --> 00:54:27,162
+
+
 Come back?
 
-387
-00:54:30,267 --> 00:54:31,700
+
+
 I am back.
 
-388
-00:54:40,010 --> 00:54:42,205
+
+
 I am hungry.
 
-389
-00:54:47,817 --> 00:54:49,614
+
+
 This is delicious.
 
-390
-00:54:50,220 --> 00:54:51,312
+
+
 Really?
 
-391
-00:54:52,122 --> 00:54:54,317
+
+
 Yinan is a good cook.
 
-392
-00:54:55,992 --> 00:54:57,619
+
+
 You can try this.
 
-393
-00:54:57,794 --> 00:54:59,819
+
+
 That's enough.
 
-394
-00:54:59,929 --> 00:55:01,624
+
+
 You didn't eat yet.
 
-395
-00:55:01,731 --> 00:55:03,631
+
+
 It is tasty.
 
-396
-00:55:28,658 --> 00:55:31,058
+
+
 Yes, Yinan.
 
-397
-00:55:35,965 --> 00:55:38,160
+
+
 Let's sleep together.
 
-398
-00:55:41,538 --> 00:55:43,768
+
+
 I have taken a shower already.
 
-399
-00:55:45,675 --> 00:55:47,666
+
+
 But...
 
-400
-00:55:48,578 --> 00:55:50,546
+
+
 Please
 
-401
-00:55:52,782 --> 00:55:55,080
+
+
 I understand.
 
-402
-00:56:23,713 --> 00:56:29,310
+
+
 Can I kiss you?
 
-403
-00:57:09,759 --> 00:57:12,159
+
+
 You can touch them.
 
-404
-00:57:32,382 --> 00:57:33,440
+
+
 Come on.
 
-405
-00:57:33,550 --> 00:57:34,983
+
+
 Use your mouth.
 
-406
-00:57:35,051 --> 00:57:36,575
+
+
 I understand.
 
-407
-00:58:02,312 --> 00:58:04,075
+
+
 Very comfortable.
 
-408
-00:58:34,143 --> 00:58:36,941
+
+
 Harder. Harder.
 
-409
-01:00:27,757 --> 01:00:31,750
+
+
 You want this at last.
 
-410
-01:00:37,066 --> 01:00:39,967
+
+
 Stop it.
 
-411
-01:00:46,576 --> 01:00:49,067
+
+
 I am sorry.
 
-412
-01:00:49,479 --> 01:00:50,878
+
+
 Never mind.
 
-413
-01:00:52,448 --> 01:00:54,215
+
+
 I know it well.
 
-414
-01:00:54,250 --> 01:00:55,983
+
+
 If we did that,
 
-415
-01:00:56,653 --> 01:00:59,247
+
+
 we can't go further...
 
-416
-01:01:00,957 --> 01:01:01,222
+
+
 But...
 
-417
-01:01:01,257 --> 01:01:03,350
+
+
 I have no turning back.
 
-418
-01:01:05,094 --> 01:01:06,186
+
+
 I am sorry.
 
-419
-01:01:06,295 --> 01:01:07,694
+
+
 I said never mind.
 
-420
-01:01:12,402 --> 01:01:13,801
+
+
 So please do not say it again.
 
-421
-01:01:15,505 --> 01:01:18,303
+
+
 Stop it.
 
-422
-01:01:21,611 --> 01:01:23,806
+
+
 Don't do this.
 
-423
-01:01:39,195 --> 01:01:41,129
+
+
 Stop it.
 
-424
-01:01:43,232 --> 01:01:44,995
+
+
 Please stop it.
 
-425
-01:01:45,101 --> 01:01:46,419
+
+
 Keep quiet.
 
-426
-01:01:46,454 --> 01:01:47,702
+
+
 Stop it.
 
-427
-01:01:47,737 --> 01:01:49,034
+
+
 Can you keep quiet?
 
-428
-01:03:41,450 --> 01:03:44,720
+
+
 If we can do this from the beginning.
 
-429
-01:03:44,755 --> 01:03:46,847
+
+
 It will be great.
 
-430
-01:04:43,579 --> 01:04:46,680
+
+
 Come down.
 
-431
-01:04:46,715 --> 01:04:49,782
+
+
 Go away.
 
-432
-01:04:50,319 --> 01:04:52,514
+
+
 What are you doing?
 
-433
-01:04:52,622 --> 01:04:54,214
+
+
 I said come down.
 
-434
-01:04:55,024 --> 01:04:58,619
+
+
 Do you want to kill yourself?
 
-435
-01:07:59,308 --> 01:08:00,400
+
+
 Thank you very much.
 
-436
-01:08:01,210 --> 01:08:02,376
+
+
 Yansi.
 
-437
-01:08:02,411 --> 01:08:03,605
+
+
 Have you made love with the boss?
 
-438
-01:08:04,313 --> 01:08:05,507
+
+
 You are so annoying.
 
-439
-01:08:05,614 --> 01:08:06,765
+
+
 Don't say it anymore.
 
-440
-01:08:06,800 --> 01:08:07,917
+
+
 Can I join you next time?
 
-441
-01:08:07,952 --> 01:08:09,085
+
+
 I understand.
 
-442
-01:08:09,120 --> 01:08:10,253
+
+
 Really?
 
-443
-01:08:10,288 --> 01:08:11,352
+
+
 Next time.
 
-444
-01:08:11,387 --> 01:08:12,820
+
+
 So you should keep your word.
 
-445
-01:08:24,834 --> 01:08:27,428
+
+
 Do you want to make love with me, Yinan?
 
-446
-01:08:29,405 --> 01:08:30,838
+
+
 Yes.
 
-447
-01:08:31,941 --> 01:08:34,808
+
+
 No more bull shit.
 
-448
-01:08:45,955 --> 01:08:48,947
+
+
 His legs are no good.
 
-449
-01:08:50,960 --> 01:08:52,951
+
+
 Really?
 
-450
-01:08:56,365 --> 01:08:59,926
+
+
 I got to go now.
 
-451
-01:09:02,738 --> 01:09:05,172
+
+
 Don't tell my stepfather.
 
-452
-01:09:05,841 --> 01:09:07,172
+
+
 I understand.
 
-453
-01:09:08,878 --> 01:09:11,369
+
+
 I am a fool.
 
-454
-01:09:11,480 --> 01:09:13,480
+
+
 I really decided to...
 
-455
-01:09:13,515 --> 01:09:15,480
+
+
 go on a living like that.
 
-456
-01:09:16,185 --> 01:09:18,585
+
+
 Where are you going?
 
-457
-01:09:20,256 --> 01:09:21,484
+
+
 I don't know.
 
-458
-01:09:21,657 --> 01:09:23,591
+
+
 I am a big big fool.
 
-459
-01:09:24,059 --> 01:09:25,185
+
+
 Really?
 
-460
-01:09:27,396 --> 01:09:31,389
+
+
 Yinan, are you going with me?
 
-461
-01:09:32,568 --> 01:09:35,196
+
+
 Are you kidding?
 
-462
-01:09:37,206 --> 01:09:38,195
+
+
 No.
 
-463
-01:09:42,311 --> 01:09:43,903
+
+
 But...
 
-464
-01:09:44,013 --> 01:09:48,416
+
+
 In fact, I have fallen in love with you
 since a long time ago.
 
-465
-01:09:50,819 --> 01:09:52,309
+
+
 You don't know that?
 
-466
-01:09:54,523 --> 01:09:56,115
+
+
 Of course I don't know.
 
-467
-01:09:57,426 --> 01:09:58,893
+
+
 Really?
 
-468
-01:09:59,995 --> 01:10:04,227
+
+
 If you don't tell me.
 
-469
-01:10:05,134 --> 01:10:08,001
+
+
 How will I know?
 
-470
-01:10:08,904 --> 01:10:10,303
+
+
 Yes, you are right.
 
-471
-01:10:34,763 --> 01:10:37,960
+
+
 Asi...
 
-472
-01:10:39,568 --> 01:10:43,072
+
+
 Can you tell me about that letter?
 
-473
-01:10:43,107 --> 01:10:49,068
+
+
 Can I read it again?
 
-474
-01:11:35,924 --> 01:11:41,294
+
+
 Mr Whitebird wrote a letter.
 
-475
-01:11:41,430 --> 01:11:47,198
+
+
 Mr Blackbird ate it without reading it.
 
-476
-01:11:47,303 --> 01:11:50,339
+
+
 No way out. The letter was written.
 
-477
-01:11:50,374 --> 01:11:53,107
+
+
 And this is that letter.
 
-478
-01:11:53,142 --> 01:11:57,340
+
+
 Mr Blackbird read the letter finally.
 
-479
-01:11:58,213 --> 01:12:00,340
+
+
 Chung Tao
 
-480
-01:12:00,649 --> 01:12:02,446
+
+
 That things disappeared.
 
-481
-01:12:02,618 --> 01:12:04,415
+
+
 Yes.
 
-482
-01:12:04,920 --> 01:12:06,854
+
+
 Where have you been?
 
-483
-01:12:06,955 --> 01:12:10,447
+
+
 Mr Whitebird wrote a letter.
 
-484
-01:12:10,626 --> 01:12:11,992
+
+
 You...
 
-485
-01:12:12,027 --> 01:12:13,395
+
+
 know when has Yansi been?
 
-486
-01:12:13,430 --> 01:12:14,763
+
+
 We haven't seen her today.
 
-487
-01:12:14,798 --> 01:12:15,627
+
+
 Yes.
 
-488
-01:12:16,765 --> 01:12:21,361
+
+
 No way out. The letter was written.
 
-489
-01:12:21,670 --> 01:12:27,233
+
+
 Mr Whitebird wrote a letter.
 
-490
-01:12:27,343 --> 01:12:33,065
+
+
 Mr Blackbird ate it without reading it.
 
-491
-01:12:33,100 --> 01:12:38,787
+
+
 No way out. The letter was written.
 
-492
-01:12:38,822 --> 01:12:44,885
+
+
 This is that letter.
 
-493
-01:14:44,886 --> 01:14:45,886
+
+
 Subtitles by LeapinLar
 

@@ -1,3369 +1,3369 @@
-1
-00:00:32,408 --> 00:00:37,287
+
+
 There was a time when the fearsome,
 beautiful land of Alagaësia...
 
-2
-00:00:37,455 --> 00:00:42,250
+
+
 ...was ruled by men astride mighty dragons.
 
-3
-00:00:43,586 --> 00:00:46,296
+
+
 To protect and serve was their mission.
 
-4
-00:00:46,464 --> 00:00:50,091
+
+
 And for thousands of years,
 the people prospered.
 
-5
-00:00:50,259 --> 00:00:52,510
+
+
 But the riders grew arrogant...
 
-6
-00:00:52,678 --> 00:00:56,306
+
+
 ...and began to fight among themselves
 for power.
 
-7
-00:01:00,102 --> 00:01:01,436
+
+
 Sensing their weakness...
 
-8
-00:01:01,604 --> 00:01:07,484
+
+
 ...a young rider named Galbatorix
 betrayed them...
 
-9
-00:01:09,070 --> 00:01:14,157
+
+
 ...and in a single bloody battle,
 believed he had killed them all...
 
-10
-00:01:19,372 --> 00:01:22,290
+
+
 ...riders and dragons alike.
 
-11
-00:01:22,458 --> 00:01:27,545
+
+
 Since then, our land
 has been ruled by Galbatorix.
 
-12
-00:01:28,714 --> 00:01:30,048
+
+
 He crushed all rebellion...
 
-13
-00:01:30,216 --> 00:01:34,302
+
+
 ...including the freedom fighters
 known as the Varden.
 
-14
-00:01:36,389 --> 00:01:40,058
+
+
 Those that survived fled to the mountains.
 
-15
-00:01:40,226 --> 00:01:42,894
+
+
 There they hoped for a miracle...
 
-16
-00:01:43,062 --> 00:01:46,856
+
+
 ...that might even their odds
 against the king.
 
-17
-00:01:54,282 --> 00:01:56,616
+
+
 Our story begins one night...
 
-18
-00:01:56,784 --> 00:02:01,621
+
+
 ...as Arya, an ally of the Varden,
 rides for her life...
 
-19
-00:02:01,789 --> 00:02:07,210
+
+
 ...carrying a stone
 stolen from the king himself.
 
-20
-00:02:12,216 --> 00:02:14,843
+
+
 l suffer without my stone.
 
-21
-00:02:15,011 --> 00:02:18,430
+
+
 Do not prolong my suffering.
 
-22
-00:02:51,213 --> 00:02:55,050
+
+
 Miles away,
 a young boy ventures out hunting.
 
-23
-00:02:56,260 --> 00:02:59,262
+
+
 His life and Alagaësia...
 
-24
-00:02:59,930 --> 00:03:02,557
+
+
 ...will never be the same again.
 
-25
-00:04:42,074 --> 00:04:44,159
+
+
 -Give it to me...
 -Durza.
 
-26
-00:04:44,326 --> 00:04:45,994
+
+
 ...and l'll let you live.
 
-27
-00:04:46,162 --> 00:04:49,080
+
+
 ls there anyone
 who trusts the word of a Shade?
 
-28
-00:05:18,903 --> 00:05:20,570
+
+
 Where did you send it?
 
-29
-00:05:21,697 --> 00:05:23,865
+
+
 Poor Durza.
 
-30
-00:05:24,408 --> 00:05:28,203
+
+
 How will you tell the king you failed?
 
-31
-00:06:30,766 --> 00:06:31,766
+
+
 Come with me.
 
-32
-00:06:31,934 --> 00:06:35,478
+
+
 Two more patriotic volunteers
 for the king's army.
 
-33
-00:06:35,646 --> 00:06:39,774
+
+
 My sons are not fighters.
 The men you take, they never return.
 
-34
-00:06:40,985 --> 00:06:43,611
+
+
 Every village must do its share.
 
-35
-00:06:43,779 --> 00:06:47,156
+
+
 Rejoice. your sons will be heroes.
 
-36
-00:06:58,127 --> 00:07:00,336
+
+
 Expensive taste, Eragon.
 
-37
-00:07:01,630 --> 00:07:07,510
+
+
 The king's strip. The best cut there is.
 The fat just melts into the meat.
 
-38
-00:07:08,387 --> 00:07:12,932
+
+
 How much?
 
-39
-00:07:13,684 --> 00:07:15,977
+
+
 Too much for a poor farm boy.
 
-40
-00:07:17,855 --> 00:07:20,982
+
+
 l have something. Something to trade.
 
-41
-00:07:25,321 --> 00:07:27,989
+
+
 What is this? Some kind of stone?
 
-42
-00:07:28,866 --> 00:07:31,868
+
+
 -l found it.
 -Stole it, more likely.
 
-43
-00:07:32,036 --> 00:07:33,953
+
+
 l was hunting.
 
-44
-00:07:37,041 --> 00:07:38,541
+
+
 Hunting in the Spine.
 
-45
-00:07:44,506 --> 00:07:48,259
+
+
 Put it back. lt belongs to the king.
 Tell no one you have it.
 
-46
-00:07:48,427 --> 00:07:50,928
+
+
 you'll endanger the whole village.
 Now get out.
 
-47
-00:07:51,096 --> 00:07:54,849
+
+
 l don't need that sort of trouble here.
 Get out.
 
-48
-00:07:57,186 --> 00:08:00,480
+
+
 Look at this. A necklace.
 
-49
-00:08:00,648 --> 00:08:05,652
+
+
 Now, where'd a fool like you
 find such an appetizing string of jewels?
 
-50
-00:08:07,363 --> 00:08:11,074
+
+
 -lnteresting you should ask.
 -ls that right?
 
-51
-00:08:11,241 --> 00:08:14,619
+
+
 l was walking up the lane the other day,
 admiring them sitting on a branch.
 
-52
-00:08:14,787 --> 00:08:16,788
+
+
 Clap of thunder,
 they f ell dead at me feet.
 
-53
-00:08:16,955 --> 00:08:20,416
+
+
 So l thought,
 "Well, l can't leave them there.
 
-54
-00:08:20,584 --> 00:08:22,043
+
+
 Someone might trip."
 
-55
-00:08:23,045 --> 00:08:26,422
+
+
 -So l hung them up there, out of the way.
 -Do you know what l think?
 
-56
-00:08:26,590 --> 00:08:28,633
+
+
 -What's that?
 -l think you're a thief.
 
-57
-00:08:29,176 --> 00:08:30,885
+
+
 -A poacher.
 -Oh, no.
 
-58
-00:08:31,053 --> 00:08:33,596
+
+
 l confiscate them all
 in the name of the king.
 
-59
-00:08:35,307 --> 00:08:36,724
+
+
 Don't try anything.
 
-60
-00:08:42,439 --> 00:08:45,274
+
+
 Well, l'll just cut them down
 for you then, shall l?
 
-61
-00:08:46,068 --> 00:08:48,653
+
+
 -Grab those.
 -Sorry l didn't pluck them.
 
-62
-00:08:49,571 --> 00:08:52,281
+
+
 Take care of  the little bones.
 
-63
-00:08:52,449 --> 00:08:54,909
+
+
 Hate to see you choke.
 
-64
-00:09:03,001 --> 00:09:06,421
+
+
 All hail Eragon.
 The mighty hunter returns.
 
-65
-00:09:08,340 --> 00:09:12,635
+
+
 yeah. With his invisible catch.
 
-66
-00:09:13,679 --> 00:09:16,597
+
+
 What happened, did you get scared
 when the deer growled?
 
-67
-00:09:23,981 --> 00:09:25,440
+
+
 No respect f or the hunter?
 
-68
-00:09:28,110 --> 00:09:29,610
+
+
 Don't you ever learn?
 
-69
-00:09:35,868 --> 00:09:37,660
+
+
 Shall we have another lesson today?
 
-70
-00:09:42,249 --> 00:09:44,333
+
+
 you f ight like an old goat, Roran.
 
-71
-00:09:53,260 --> 00:09:54,844
+
+
 Mind my breakf ast.
 
-72
-00:09:56,013 --> 00:09:58,306
+
+
 -you're too slow, Roran.
 -Wake up, dreamer.
 
-73
-00:09:59,892 --> 00:10:01,350
+
+
 That sounded like your head.
 
-74
-00:10:05,063 --> 00:10:09,066
+
+
 Hey. Come on, boys. That's enough.
 Come on, Roran.
 
-75
-00:10:45,521 --> 00:10:47,188
+
+
 Eragon?
 
-76
-00:10:48,899 --> 00:10:50,191
+
+
 l'm leaving.
 
-77
-00:10:51,276 --> 00:10:53,861
+
+
 l'm old enough to be recruited now.
 
-78
-00:10:54,363 --> 00:10:56,781
+
+
 Before the soldiers come looking for me.
 
-79
-00:10:57,991 --> 00:11:00,243
+
+
 l won't serve in the army.
 
-80
-00:11:02,371 --> 00:11:04,080
+
+
 l'll send word when l've settled.
 
-81
-00:11:04,248 --> 00:11:07,166
+
+
 -But what--?
 -He knows.
 
-82
-00:11:07,334 --> 00:11:09,210
+
+
 l already told him.
 
-83
-00:11:12,923 --> 00:11:14,799
+
+
 Where will you go?
 
-84
-00:11:16,969 --> 00:11:18,928
+
+
 l don't know yet.
 
-85
-00:11:20,848 --> 00:11:22,765
+
+
 All l know is l'm going.
 
-86
-00:11:23,600 --> 00:11:25,685
+
+
 Roran? Eragon?
 
-87
-00:11:26,103 --> 00:11:27,562
+
+
 Come on.
 
-88
-00:11:36,446 --> 00:11:38,698
+
+
 Roran told you then?
 
-89
-00:11:39,449 --> 00:11:42,243
+
+
 your day will come too, Eragon.
 
-90
-00:11:42,411 --> 00:11:45,746
+
+
 And you will decide for yourself
 the kind of lif e you wish to lead.
 
-91
-00:11:45,914 --> 00:11:48,958
+
+
 Uncle, l like my life right here.
 
-92
-00:11:52,796 --> 00:11:55,423
+
+
 What many men seek
 is often right under their nose.
 
-93
-00:11:56,800 --> 00:12:00,469
+
+
 But for some,
 the unknown is too hard to resist.
 
-94
-00:12:01,805 --> 00:12:03,639
+
+
 ls that why my mother left?
 
-95
-00:12:09,146 --> 00:12:12,189
+
+
 My sister was in a great hurry
 when she left you here.
 
-96
-00:12:12,357 --> 00:12:17,028
+
+
 Whatever her reasons, we can only trust
 they were for your own good.
 
-97
-00:12:17,654 --> 00:12:22,366
+
+
 Besides, had she not,
 l wouldn't have gained another son.
 
-98
-00:12:34,421 --> 00:12:36,505
+
+
 Take these.
 
-99
-00:12:37,883 --> 00:12:40,509
+
+
 l've been saving them for you.
 
-100
-00:12:41,345 --> 00:12:43,471
+
+
 your blessing is all l need.
 
-101
-00:12:53,482 --> 00:12:55,316
+
+
 Take care of  yourself, Roran.
 
-102
-00:12:59,488 --> 00:13:01,113
+
+
 Goodbye, Father.
 
-103
-00:13:20,384 --> 00:13:22,176
+
+
 Be strong, brother.
 
-104
-00:13:26,056 --> 00:13:27,974
+
+
 And work on that aim.
 
-105
-00:13:30,352 --> 00:13:31,894
+
+
 you may make a hunter yet.
 
-106
-00:14:27,617 --> 00:14:29,493
+
+
 Not a stone.
 
-107
-00:14:30,412 --> 00:14:31,912
+
+
 An egg.
 
-108
-00:14:38,420 --> 00:14:41,422
+
+
 Well, look at you.
 
-109
-00:14:44,968 --> 00:14:46,385
+
+
 What are you?
 
-110
-00:14:50,766 --> 00:14:53,809
+
+
 Well, you're not a bird.
 
-111
-00:15:34,392 --> 00:15:36,143
+
+
 Where is it?
 
-112
-00:15:41,608 --> 00:15:43,400
+
+
 Too late.
 
-113
-00:15:43,568 --> 00:15:55,913
+
+
 lt's hatched.
 
-114
-00:16:08,051 --> 00:16:09,718
+
+
 Look at what you did.
 
-115
-00:16:09,886 --> 00:16:14,515
+
+
 Eragon, wake up.
 Get on with your chores.
 
-116
-00:16:19,104 --> 00:16:20,437
+
+
 Hungry?
 
-117
-00:16:33,410 --> 00:16:34,910
+
+
 Go on.
 
-118
-00:16:35,245 --> 00:16:37,413
+
+
 Drink while it's still warm.
 
-119
-00:16:45,797 --> 00:16:49,592
+
+
 l'm sorry. That's all there is.
 
-120
-00:17:10,947 --> 00:17:13,616
+
+
 So much f or our rat problem.
 
-121
-00:17:22,876 --> 00:17:25,920
+
+
 My king, Galbatorix.
 
-122
-00:17:26,087 --> 00:17:29,423
+
+
 As you feared, the dragon has hatched.
 
-123
-00:17:30,300 --> 00:17:32,384
+
+
 But to a mere farm boy.
 
-124
-00:17:32,552 --> 00:17:34,803
+
+
 To whom is not the issue.
 
-125
-00:17:35,430 --> 00:17:38,307
+
+
 When the Varden learn
 that the legend is real...
 
-126
-00:17:38,475 --> 00:17:41,227
+
+
 ...they will be encouraged
 to challenge me.
 
-127
-00:17:42,646 --> 00:17:46,148
+
+
 And l am not interested
 in being challenged.
 
-128
-00:17:46,316 --> 00:17:50,694
+
+
 There is no one left for you to f ear,
 my king.
 
-129
-00:17:53,823 --> 00:17:57,993
+
+
 Beyond these borders
 are remnants of the resistance.
 
-130
-00:17:58,578 --> 00:18:01,914
+
+
 Dwarves. Elves. The Varden.
 
-131
-00:18:04,668 --> 00:18:08,003
+
+
 l can't let them have hope.
 
-132
-00:18:13,343 --> 00:18:18,138
+
+
 Do not let them reach the Varden.
 
-133
-00:18:18,932 --> 00:18:20,474
+
+
 l will find the boy...
 
-134
-00:18:22,018 --> 00:18:24,520
+
+
 ...and kill him before he becomes a man.
 
-135
-00:18:38,618 --> 00:18:40,536
+
+
 Where's your mother?
 
-136
-00:18:42,205 --> 00:18:44,498
+
+
 Did she abandon you too?
 
-137
-00:18:47,043 --> 00:18:49,670
+
+
 Did she leave in a great hurry?
 
-138
-00:19:15,530 --> 00:19:23,162
+
+
 Ra'zac.
 
-139
-00:19:27,250 --> 00:19:29,668
+
+
 kill the rider.
 
-140
-00:19:34,507 --> 00:19:36,633
+
+
 Nothing f rom my boys.
 
-141
-00:19:39,137 --> 00:19:41,096
+
+
 Not a word.
 
-142
-00:19:41,348 --> 00:19:42,973
+
+
 Their mother's heart is broken.
 
-143
-00:19:43,808 --> 00:19:45,559
+
+
 And for what?
 
-144
-00:19:45,894 --> 00:19:49,063
+
+
 More death? More suffering?
 
-145
-00:19:49,230 --> 00:19:52,524
+
+
 Easy, Horst. The soldiers will hear you.
 
-146
-00:19:52,692 --> 00:19:53,984
+
+
 What's that matter?
 
-147
-00:19:54,152 --> 00:19:57,529
+
+
 Speak or not speak.
 lt makes no difference.
 
-148
-00:19:57,697 --> 00:20:01,241
+
+
 Quiet, Brom.
 A fool like you has nothing to lose.
 
-149
-00:20:02,160 --> 00:20:04,620
+
+
 No argument there.
 
-150
-00:20:05,955 --> 00:20:07,790
+
+
 Don't mind me.
 
-151
-00:20:10,835 --> 00:20:13,420
+
+
 But it wasn't always like this, was it?
 
-152
-00:20:14,881 --> 00:20:20,469
+
+
 There was a time when our land flourished
 without cruelty and f ear.
 
-153
-00:20:23,973 --> 00:20:27,101
+
+
 A time of dragons and Dragon Riders.
 
-154
-00:20:28,395 --> 00:20:32,523
+
+
 Those days are long gone.
 Old Brom is going on with his stories.
 
-155
-00:20:32,690 --> 00:20:36,944
+
+
 Don't pretend you've forgotten.
 Men astride magnif icent beasts.
 
-156
-00:20:38,154 --> 00:20:40,489
+
+
 No one could def eat them.
 
-157
-00:20:41,449 --> 00:20:44,118
+
+
 Until, that is, one of their own...
 
-158
-00:20:44,285 --> 00:20:47,287
+
+
 ...a rider named Galbatorix...
 
-159
-00:20:47,455 --> 00:20:51,667
+
+
 ...decided to take all the power for himself
 and cut down any rider who opposed him.
 
-160
-00:20:51,835 --> 00:20:54,336
+
+
 Enough, bef ore you hang by a tree.
 
-161
-00:20:54,504 --> 00:20:56,171
+
+
 No!
 
-162
-00:20:57,382 --> 00:20:59,216
+
+
 Let him finish.
 
-163
-00:21:02,137 --> 00:21:06,265
+
+
 -And one day, he will pay for his crime.
 -Are you deaf? Be on your way!
 
-164
-00:21:06,766 --> 00:21:09,393
+
+
 The time of Dragon Riders...
 
-165
-00:21:10,228 --> 00:21:12,396
+
+
 ...will come again.
 
-166
-00:21:25,034 --> 00:21:26,702
+
+
 And then Brom said:
 
-167
-00:21:26,870 --> 00:21:29,955
+
+
 "The time of the Dragon Riders
 will come again."
 
-168
-00:21:34,502 --> 00:21:38,380
+
+
 Well, first, l think you need to fly.
 
-169
-00:21:39,799 --> 00:21:41,383
+
+
 yes, you did it!
 
-170
-00:22:09,496 --> 00:22:11,205
+
+
 She's gone.
 
-171
-00:22:58,795 --> 00:23:02,297
+
+
 -What's happening?
 -Brom was right, Eragon.
 
-172
-00:23:02,465 --> 00:23:05,509
+
+
 The time of the Dragon Riders
 has come again.
 
-173
-00:23:06,177 --> 00:23:07,803
+
+
 you can hear my thoughts?
 
-174
-00:23:07,971 --> 00:23:12,099
+
+
 l have waited 1 000 years
 to hear your thoughts.
 
-175
-00:23:12,267 --> 00:23:14,560
+
+
 And now you can hear mine.
 
-176
-00:23:14,727 --> 00:23:19,314
+
+
 l am Saphira. And you are my rider.
 
-177
-00:23:19,774 --> 00:23:21,316
+
+
 Rider?
 
-178
-00:24:29,177 --> 00:24:30,594
+
+
 Get out.
 
-179
-00:24:34,390 --> 00:24:35,766
+
+
 ls it true?
 
-180
-00:24:37,393 --> 00:24:39,186
+
+
 What you spoke of?
 
-181
-00:24:39,354 --> 00:24:42,481
+
+
 Didn't you hear me? Get out.
 
-182
-00:24:42,940 --> 00:24:44,441
+
+
 l want to know more.
 
-183
-00:24:45,443 --> 00:24:47,027
+
+
 Please?
 
-184
-00:24:47,195 --> 00:24:48,695
+
+
 Tell me about the dragons.
 
-185
-00:24:52,784 --> 00:24:54,242
+
+
 Did anybody follow you here?
 
-186
-00:24:54,410 --> 00:24:57,871
+
+
 How big will they grow?
 When do they breathe fire?
 
-187
-00:24:58,706 --> 00:25:00,916
+
+
 keep your voice down.
 
-188
-00:25:01,542 --> 00:25:05,921
+
+
 you mocked the king
 in front of his soldiers.
 
-189
-00:25:07,965 --> 00:25:13,512
+
+
 l always say,
 "Better ask forgiveness than permission."
 
-190
-00:25:13,680 --> 00:25:15,347
+
+
 Then tell me.
 
-191
-00:25:15,807 --> 00:25:18,642
+
+
 -Tell me about the dragons.
 -Go home.
 
-192
-00:25:20,061 --> 00:25:23,105
+
+
 Mind your corn. Till your fields. All right?
 
-193
-00:25:23,981 --> 00:25:25,899
+
+
 you'll just get yourself into trouble.
 
-194
-00:25:27,110 --> 00:25:28,860
+
+
 What does it make you, then?
 
-195
-00:25:29,028 --> 00:25:31,780
+
+
 A liar or a coward?
 
-196
-00:25:33,616 --> 00:25:35,117
+
+
 l know.
 
-197
-00:25:35,284 --> 00:25:37,285
+
+
 l know your story is true.
 
-198
-00:26:27,712 --> 00:26:29,337
+
+
 l told you.
 
-199
-00:26:29,672 --> 00:26:31,673
+
+
 His name is Eragon.
 
-200
-00:26:38,598 --> 00:26:40,682
+
+
 The boy. The boy took it with him.
 
-201
-00:26:41,517 --> 00:26:44,853
+
+
 He lives on a farm,
 the furthest one in the valley.
 
-202
-00:26:45,688 --> 00:26:47,564
+
+
 Please, don't kill me.
 
-203
-00:27:11,172 --> 00:27:13,215
+
+
 Eragon. lt's you they want.
 
-204
-00:27:14,801 --> 00:27:17,636
+
+
 -Take me down.
 -You're in danger.
 
-205
-00:27:18,137 --> 00:27:20,430
+
+
 What are you doing?
 l have to warn my uncle.
 
-206
-00:27:20,598 --> 00:27:23,225
+
+
 lt's too late. There's nothing you can do.
 
-207
-00:27:24,685 --> 00:27:26,686
+
+
 Hold on.
 
-208
-00:27:31,234 --> 00:27:33,109
+
+
 You're ridiculous. Hold on.
 
-209
-00:27:37,281 --> 00:27:40,408
+
+
 -l'm begging. Please put me down now.
 -l can't. They'll kill you.
 
-210
-00:27:41,744 --> 00:27:45,038
+
+
 -Take me down now.
 -You stupid boy.
 
-211
-00:27:56,259 --> 00:27:57,926
+
+
 l'm slipping.
 
-212
-00:28:00,847 --> 00:28:03,056
+
+
 Take me down now.
 
-213
-00:28:03,641 --> 00:28:06,226
+
+
 You're giving me no choice.
 
-214
-00:28:20,366 --> 00:28:22,826
+
+
 Uncle? Uncle.
 
-215
-00:28:44,515 --> 00:28:45,849
+
+
 Eragon?
 
-216
-00:28:50,855 --> 00:28:52,856
+
+
 l should have been here.
 
-217
-00:28:53,482 --> 00:28:55,150
+
+
 To warn him.
 
-218
-00:28:56,402 --> 00:28:58,945
+
+
 -This is your fault.
 -You would have met the same fate.
 
-219
-00:28:59,113 --> 00:29:01,990
+
+
 No. l could have saved him.
 
-220
-00:29:03,200 --> 00:29:04,743
+
+
 Go away.
 
-221
-00:29:05,328 --> 00:29:07,621
+
+
 And stay away.
 
-222
-00:29:18,132 --> 00:29:20,175
+
+
 Uncle, l'm sorry.
 
-223
-00:29:41,614 --> 00:29:44,199
+
+
 -you?
 -Let go of me.
 
-224
-00:29:45,326 --> 00:29:47,160
+
+
 -Where's your dragon?
 -Gone.
 
-225
-00:29:47,328 --> 00:29:49,621
+
+
 -What do you mean, "gone"?
 -l sent her away.
 
-226
-00:29:49,789 --> 00:29:51,498
+
+
 you can't stay here and mourn him--
 
-227
-00:29:51,666 --> 00:29:54,042
+
+
 l'm not going anywhere.
 Not until l bury him.
 
-228
-00:30:00,716 --> 00:30:02,759
+
+
 -There.
 -What are you doing?
 
-229
-00:30:02,927 --> 00:30:06,429
+
+
 A funeral fit f or a king. Come.
 
-230
-00:30:09,725 --> 00:30:12,227
+
+
 -Let go.
 -Listen...
 
-231
-00:30:12,395 --> 00:30:16,022
+
+
 ...they killed him, but they were after you.
 lf we stay here, we're both dead.
 
-232
-00:30:16,190 --> 00:30:18,525
+
+
 Now get on that horse. Go on.
 
-233
-00:30:18,693 --> 00:30:20,610
+
+
 Get up there.
 
-234
-00:30:21,862 --> 00:30:24,447
+
+
 -Who are you?
 -Ride. Now. Go on.
 
-235
-00:30:46,220 --> 00:30:48,430
+
+
 Come on, boy. Ride.
 
-236
-00:31:32,808 --> 00:31:36,019
+
+
 -Why here?
 -Because l said here.
 
-237
-00:31:39,023 --> 00:31:42,817
+
+
 -Call your dragon.
 -My uncle was killed because of her.
 
-238
-00:31:43,027 --> 00:31:45,111
+
+
 She was protecting you
 against the Ra'zac.
 
-239
-00:31:45,780 --> 00:31:48,156
+
+
 -l could have killed them.
 -That's the spirit.
 
-240
-00:31:48,324 --> 00:31:50,575
+
+
 One part brave, three parts fool.
 
-241
-00:31:50,743 --> 00:31:52,786
+
+
 What, you don't think l could do it?
 
-242
-00:31:52,953 --> 00:31:56,790
+
+
 The Ra'zac kill mercilessly.
 That's what they do.
 
-243
-00:31:56,957 --> 00:32:00,376
+
+
 -But a boy of  1 5, 1 6--
 -Seventeen.
 
-244
-00:32:02,004 --> 00:32:03,296
+
+
 Seventeen. Forgive me.
 
-245
-00:32:03,464 --> 00:32:06,508
+
+
 Well, l think even a 1 7-year-old boy...
 
-246
-00:32:06,675 --> 00:32:10,845
+
+
 ...might probably last a minute
 against Durza's assassins.
 
-247
-00:32:11,013 --> 00:32:13,264
+
+
 Then l'll find Durza and kill him.
 
-248
-00:32:14,517 --> 00:32:16,351
+
+
 Durza's a Shade.
 
-249
-00:32:18,187 --> 00:32:22,857
+
+
 A sorcerer possessed with demonic spirits.
 
-250
-00:32:23,025 --> 00:32:27,612
+
+
 Find Durza,
 you'll be no better off than your uncle.
 
-251
-00:32:27,780 --> 00:32:32,992
+
+
 you just pray to heaven he doesn't find you
 because the king won't rest until he does.
 
-252
-00:32:33,619 --> 00:32:35,787
+
+
 you are the Varden's only hope.
 
-253
-00:32:35,955 --> 00:32:38,706
+
+
 -Who are the Varden?
 -Rebels. Outcasts.
 
-254
-00:32:38,874 --> 00:32:43,837
+
+
 Men who are brave or mad enough
 to oppose Galbatorix.
 
-255
-00:32:44,004 --> 00:32:46,881
+
+
 They built a stronghold
 in the Beor Mountains.
 
-256
-00:32:48,050 --> 00:32:49,425
+
+
 How do you know all this?
 
-257
-00:32:52,054 --> 00:32:54,681
+
+
 Because l've been about a bit.
 
-258
-00:32:58,310 --> 00:33:00,520
+
+
 l've seen things...
 
-259
-00:33:01,397 --> 00:33:03,064
+
+
 ...you could never imagine.
 
-260
-00:33:04,942 --> 00:33:06,776
+
+
 Now call your dragon.
 
-261
-00:33:09,071 --> 00:33:11,573
+
+
 She's f ar away by now. She can't hear me.
 
-262
-00:33:12,533 --> 00:33:15,535
+
+
 Shall we have an agreement
 not to lie to each other?
 
-263
-00:33:16,912 --> 00:33:20,123
+
+
 l know she hears your thoughts.
 Now call your dragon.
 
-264
-00:33:25,462 --> 00:33:28,756
+
+
 Saphira? Can you find us?
 
-265
-00:33:32,344 --> 00:33:34,012
+
+
 l never left you.
 
-266
-00:33:54,158 --> 00:33:58,119
+
+
 -l'm sorry for what l said.
 -l understand.
 
-267
-00:33:58,579 --> 00:34:00,246
+
+
 You loved him very much.
 
-268
-00:34:04,210 --> 00:34:07,629
+
+
 -And who might this be?
 -This is Brom.
 
-269
-00:34:08,255 --> 00:34:09,839
+
+
 He knows about dragons.
 
-270
-00:34:10,174 --> 00:34:14,510
+
+
 He knows about dragons?
 l'll be the judge of that.
 
-271
-00:34:16,805 --> 00:34:19,557
+
+
 Easy. l think he's a friend.
 
-272
-00:34:21,143 --> 00:34:22,727
+
+
 Muscular.
 
-273
-00:34:23,896 --> 00:34:26,147
+
+
 Graceful proportions.
 
-274
-00:34:27,024 --> 00:34:29,067
+
+
 Talons...
 
-275
-00:34:29,985 --> 00:34:31,361
+
+
 ...nicely curved.
 
-276
-00:34:33,781 --> 00:34:35,490
+
+
 Legs a bit thin.
 
-277
-00:34:36,367 --> 00:34:39,160
+
+
 Only my voice is gentle, old man.
 
-278
-00:34:39,328 --> 00:34:42,080
+
+
 Spikes sharp.
 
-279
-00:34:42,248 --> 00:34:44,290
+
+
 All in all...
 
-280
-00:34:44,750 --> 00:34:46,417
+
+
 ...a fine young dragon.
 
-281
-00:34:47,127 --> 00:34:50,463
+
+
 Well, he does know a bit about dragons.
 
-282
-00:34:51,048 --> 00:34:55,468
+
+
 And soon, strong enough to ride.
 
-283
-00:34:55,636 --> 00:34:58,096
+
+
 Not me. l won't do it again.
 
-284
-00:34:59,807 --> 00:35:02,016
+
+
 My story was about you, Eragon.
 
-285
-00:35:02,184 --> 00:35:05,353
+
+
 lt is your fate to be a Dragon Rider.
 
-286
-00:35:06,188 --> 00:35:10,608
+
+
 The Varden need a rider
 if they are to defeat Durza and the king.
 
-287
-00:35:12,069 --> 00:35:15,280
+
+
 -l didn't ask for any of  this.
 -But you were chosen nevertheless.
 
-288
-00:35:15,447 --> 00:35:19,575
+
+
 A dragon will only hatch
 if it feels the presence of its rider.
 
-289
-00:35:19,743 --> 00:35:21,661
+
+
 lt'll wait forever, if it has to.
 
-290
-00:35:23,497 --> 00:35:25,498
+
+
 What he says is true.
 
-291
-00:35:26,292 --> 00:35:27,625
+
+
 But now it's found you.
 
-292
-00:35:27,793 --> 00:35:30,962
+
+
 lt will serve you and only you,
 and that's put your life in danger.
 
-293
-00:35:32,464 --> 00:35:35,842
+
+
 -Because it chose me?
 -No.
 
-294
-00:35:36,552 --> 00:35:40,513
+
+
 Because the easiest way for the king
 to destroy your dragon is to kill you.
 
-295
-00:35:43,017 --> 00:35:46,644
+
+
 A rider will live on if  his dragon is killed.
 
-296
-00:35:46,895 --> 00:35:48,813
+
+
 But if a rider dies....
 
-297
-00:35:51,400 --> 00:35:53,735
+
+
 So does his dragon.
 
-298
-00:36:28,937 --> 00:36:31,189
+
+
 Handsome blade.
 
-299
-00:36:32,524 --> 00:36:34,108
+
+
 Simple...
 
-300
-00:36:35,069 --> 00:36:36,361
+
+
 ...and to the point.
 
-301
-00:36:38,113 --> 00:36:41,240
+
+
 The farm boy evaded the Ra'zac.
 
-302
-00:36:48,332 --> 00:36:49,999
+
+
 Bring me his head.
 
-303
-00:36:55,798 --> 00:36:58,132
+
+
 Durza will send his Urgals after us.
 
-304
-00:36:58,300 --> 00:37:01,969
+
+
 Ahead, five hard days ride,
 is the river town of  Daret...
 
-305
-00:37:02,262 --> 00:37:04,138
+
+
 ...the last outpost before the foothills.
 
-306
-00:37:04,306 --> 00:37:07,392
+
+
 Now, if we can get there without
 being discovered, we have a chance.
 
-307
-00:37:08,102 --> 00:37:11,646
+
+
 Tell Saphira to fly above us
 and scout the countryside f or Urgals...
 
-308
-00:37:11,814 --> 00:37:16,025
+
+
 ...or worse, Ra'zacs.
 lf they find us, we'll have no chance.
 
-309
-00:37:16,193 --> 00:37:19,862
+
+
 And tell her only to come to us at night.
 
-310
-00:37:20,030 --> 00:37:21,072
+
+
 Do as he says.
 
-311
-00:37:21,240 --> 00:37:22,907
+
+
 But be careful.
 
-312
-00:37:23,075 --> 00:37:25,368
+
+
 You be careful.
 
-313
-00:37:57,317 --> 00:37:58,985
+
+
 This way.
 
-314
-00:38:14,001 --> 00:38:18,045
+
+
 Urgals. They used to be the king's enemies.
 Now they're his guard.
 
-315
-00:38:19,590 --> 00:38:22,800
+
+
 Oh, they're closer to us than l thought.
 We better stay off the roads.
 
-316
-00:38:24,761 --> 00:38:26,387
+
+
 -Why can't we take them?
 -Quiet.
 
-317
-00:38:27,723 --> 00:38:29,891
+
+
 you're not ready to take anything yet.
 
-318
-00:38:30,809 --> 00:38:33,769
+
+
 l have skills. l can fight.
 
-319
-00:38:34,229 --> 00:38:37,273
+
+
 My cousin, Roran and l.
 
-320
-00:38:37,441 --> 00:38:39,400
+
+
 We've trained.
 
-321
-00:38:41,153 --> 00:38:43,779
+
+
 -With swords.
 -Well, then...
 
-322
-00:38:44,406 --> 00:38:46,115
+
+
 ...perhaps l've underestimated you.
 
-323
-00:38:50,329 --> 00:38:53,539
+
+
 Right, then.
 Let's see these skills of yours.
 
-324
-00:38:53,707 --> 00:38:56,250
+
+
 you know, this won't be fair to you,
 old man.
 
-325
-00:38:56,418 --> 00:38:57,877
+
+
 Humor me.
 
-326
-00:39:00,964 --> 00:39:04,175
+
+
 Oh, dear.
 Well, l see the effect of your training.
 
-327
-00:39:07,554 --> 00:39:10,389
+
+
 Good. Good.
 
-328
-00:39:12,100 --> 00:39:15,603
+
+
 Don't get overconfident.
 
-329
-00:39:24,112 --> 00:39:26,656
+
+
 lt won't be your cousin Roran
 you're fighting.
 
-330
-00:39:26,907 --> 00:39:29,116
+
+
 And it won't be wooden staves, either.
 
-331
-00:39:36,542 --> 00:39:40,711
+
+
 l could've beaten him.
 l just didn't want to hurt the old man.
 
-332
-00:39:41,088 --> 00:39:43,089
+
+
 Of course you could have.
 
-333
-00:39:43,257 --> 00:39:44,882
+
+
 Don't dragons breathe fire?
 
-334
-00:39:46,593 --> 00:39:48,803
+
+
 She's not old enough to sustain a flame.
 
-335
-00:39:49,638 --> 00:39:51,305
+
+
 Lucky for you.
 
-336
-00:40:01,984 --> 00:40:03,776
+
+
 How did you do that?
 
-337
-00:40:05,153 --> 00:40:07,238
+
+
 What did you just do?
 
-338
-00:40:07,990 --> 00:40:10,658
+
+
 l started a fire.
 
-339
-00:40:16,123 --> 00:40:17,498
+
+
 He doesn't trust me.
 
-340
-00:40:17,666 --> 00:40:20,668
+
+
 Maybe we need to trust him first.
 
-341
-00:40:20,836 --> 00:40:23,879
+
+
 Now get to sleep. With any luck,
 tomorrow, by the end of the day...
 
-342
-00:40:24,047 --> 00:40:26,090
+
+
 ...we will have
 slipped through Daret unseen.
 
-343
-00:40:27,009 --> 00:40:32,847
+
+
 Then it's the foothills of the Beor Mountains
 and a straight shot to the Varden.
 
-344
-00:41:14,222 --> 00:41:17,475
+
+
 Eragon, wake up. Come on, wake up.
 
-345
-00:41:17,643 --> 00:41:19,018
+
+
 We're at the village of  Daret.
 
-346
-00:41:19,186 --> 00:41:23,272
+
+
 We'll leave the horses here.
 keep Saphira close.
 
-347
-00:41:50,425 --> 00:41:53,260
+
+
 Buy us some bread down there.
 
-348
-00:41:53,595 --> 00:41:56,263
+
+
 Come back, meet me here.
 l won't be long.
 
-349
-00:41:56,973 --> 00:41:59,183
+
+
 Don't talk to anybody.
 
-350
-00:43:02,330 --> 00:43:04,999
+
+
 Do you wish Angela to read your fortune?
 
-351
-00:43:06,418 --> 00:43:10,129
+
+
 -But l have no money.
 -Did Angela ask for money?
 
-352
-00:43:12,632 --> 00:43:15,801
+
+
 knucklebones of a dragon.
 
-353
-00:43:16,386 --> 00:43:18,304
+
+
 They will tell me everything about you.
 
-354
-00:43:32,194 --> 00:43:33,652
+
+
 This is difficult.
 
-355
-00:43:35,572 --> 00:43:37,573
+
+
 A young life so tangled.
 
-356
-00:43:37,741 --> 00:43:40,910
+
+
 But you have been long awaited
 by many races.
 
-357
-00:43:41,077 --> 00:43:43,162
+
+
 Great battles rage around you.
 
-358
-00:43:44,247 --> 00:43:47,082
+
+
 lt can't be. l don't understand.
 
-359
-00:43:47,250 --> 00:43:52,338
+
+
 you have powers you do not acknowledge,
 but there is a doom upon you.
 
-360
-00:43:52,506 --> 00:43:55,549
+
+
 Part of it lies in a death
 that rapidly approaches.
 
-361
-00:43:56,092 --> 00:43:58,719
+
+
 No. lt's already happened.
 
-362
-00:44:00,222 --> 00:44:04,350
+
+
 And a girl.
 She calls to you in your dreams.
 
-363
-00:44:05,185 --> 00:44:07,728
+
+
 She's part of your past...
 
-364
-00:44:08,021 --> 00:44:10,105
+
+
 ...and your future.
 
-365
-00:44:10,732 --> 00:44:13,275
+
+
 Who is she? Tell me her name.
 
-366
-00:44:25,288 --> 00:44:26,997
+
+
 Do l have to do everything myself?
 
-367
-00:44:27,165 --> 00:44:29,834
+
+
 -The f ortuneteller--
 -Did she tell you about him, huh?
 
-368
-00:44:30,001 --> 00:44:31,418
+
+
 Come on.
 
-369
-00:44:32,420 --> 00:44:34,088
+
+
 Where's everybody gone?
 
-370
-00:44:38,260 --> 00:44:42,221
+
+
 -She told me my future.
 -The f uture is for the living, Eragon.
 
-371
-00:44:44,641 --> 00:44:46,308
+
+
 Come on!
 
-372
-00:45:10,125 --> 00:45:11,542
+
+
 Saphira!
 
-373
-00:45:38,987 --> 00:45:45,034
+
+
 Eragon.
 
-374
-00:46:04,179 --> 00:46:06,180
+
+
 My hand. lt burns.
 
-375
-00:46:06,348 --> 00:46:08,807
+
+
 Slowly, slowly, slowly.
 
-376
-00:46:10,268 --> 00:46:11,936
+
+
 My head.
 
-377
-00:46:12,854 --> 00:46:15,105
+
+
 Feels like l've been kicked by a horse.
 
-378
-00:46:15,482 --> 00:46:16,857
+
+
 What happened?
 
-379
-00:46:17,025 --> 00:46:21,195
+
+
 Most new Dragon Riders take years to learn
 what you discovered by instinct.
 
-380
-00:46:21,696 --> 00:46:24,698
+
+
 -What was that?
 -Magic.
 
-381
-00:46:28,870 --> 00:46:30,204
+
+
 l was only reacting.
 
-382
-00:46:31,206 --> 00:46:34,708
+
+
 Magic comes from dragons.
 
-383
-00:46:35,210 --> 00:46:38,379
+
+
 lt flows through the riders
 who command them.
 
-384
-00:46:41,466 --> 00:46:44,134
+
+
 -Saphira.
 -She's fine.
 
-385
-00:46:44,886 --> 00:46:48,180
+
+
 But she felt your f ear as her own.
 
-386
-00:46:49,224 --> 00:46:51,725
+
+
 your bond with her is strong.
 
-387
-00:46:51,893 --> 00:46:54,228
+
+
 -Those were Urgals, weren't they?
 -yes.
 
-388
-00:46:54,396 --> 00:46:57,231
+
+
 -Did l kill them?
 -yes.
 
-389
-00:46:57,816 --> 00:47:00,192
+
+
 But death is nothing to celebrate.
 
-390
-00:47:02,237 --> 00:47:05,364
+
+
 Magic must be your last resort.
 
-391
-00:47:05,949 --> 00:47:08,701
+
+
 lt has rules. lt has limitations.
 
-392
-00:47:09,494 --> 00:47:13,414
+
+
 Before you cast a spell, you must learn
 the ancient language of the elves.
 
-393
-00:47:16,501 --> 00:47:19,712
+
+
 Brisingr means "fire." ls fire.
 
-394
-00:47:19,879 --> 00:47:23,382
+
+
 The thing is the word.
 know the word and you control the thing.
 
-395
-00:47:24,342 --> 00:47:25,926
+
+
 Before you can cast a spell...
 
-396
-00:47:26,094 --> 00:47:30,347
+
+
 ...you must have the physical strength
 to withstand its effect.
 
-397
-00:47:30,515 --> 00:47:34,059
+
+
 Some spells may leave you weakened.
 
-398
-00:47:34,227 --> 00:47:37,271
+
+
 Other spells,
 as you found out on the bridge...
 
-399
-00:47:37,439 --> 00:47:39,815
+
+
 ...can leave you unconscious.
 
-400
-00:47:39,983 --> 00:47:43,235
+
+
 And yet other spells,
 if you use them before you're ready...
 
-401
-00:47:43,987 --> 00:47:45,404
+
+
 ...will kill you.
 
-402
-00:47:46,614 --> 00:47:48,449
+
+
 l can teach you the words...
 
-403
-00:47:48,616 --> 00:47:52,619
+
+
 ...but the limits of your strength
 you must learn for yourself.
 
-404
-00:47:56,916 --> 00:48:00,210
+
+
 -What's the word for tree?
 -Tree is traevam.
 
-405
-00:48:03,965 --> 00:48:05,466
+
+
 And the branch?
 
-406
-00:48:08,219 --> 00:48:11,764
+
+
 And when a dragon and rider are truly one,
 then they see as one.
 
-407
-00:48:13,016 --> 00:48:16,560
+
+
 And tha's "skulblakas ven."
 
-408
-00:48:21,649 --> 00:48:25,235
+
+
 Well, since we've announced ourselves
 so spectacularly to the world...
 
-409
-00:48:25,487 --> 00:48:28,322
+
+
 ...we're gonna have to find
 another way through these hills.
 
-410
-00:48:28,490 --> 00:48:33,911
+
+
 Of course, that would be a lot easier
 if you were flying.
 
-411
-00:48:38,583 --> 00:48:41,502
+
+
 Did someone mention flying?
 
-412
-00:48:42,087 --> 00:48:45,839
+
+
 Are you ready to try again, Dragon Rider?
 
-413
-00:48:46,007 --> 00:48:47,925
+
+
 l didn't do so well last time.
 
-414
-00:48:48,551 --> 00:48:51,095
+
+
 We didn't do so well.
 
-415
-00:48:54,933 --> 00:48:58,018
+
+
 You can thank Brom for the saddle.
 
-416
-00:49:03,983 --> 00:49:05,859
+
+
 No, that's not so bad up here.
 
-417
-00:49:14,702 --> 00:49:17,204
+
+
 Not so bad at all.
 
-418
-00:49:25,547 --> 00:49:26,630
+
+
 yeah!
 
-419
-00:49:27,590 --> 00:49:29,258
+
+
 Lean.
 
-420
-00:49:31,845 --> 00:49:33,303
+
+
 Not that much!
 
-421
-00:49:44,691 --> 00:49:46,692
+
+
 Feel how she moves, Eragon.
 
-422
-00:49:46,860 --> 00:49:49,319
+
+
 How she turns. And when she accelerates.
 
-423
-00:49:49,487 --> 00:49:51,238
+
+
 Come on, let's see what you got.
 
-424
-00:49:51,406 --> 00:49:53,991
+
+
 You want speed? Here we go.
 
-425
-00:49:56,828 --> 00:49:59,246
+
+
 Hold on, Eragon.
 
-426
-00:50:05,879 --> 00:50:07,504
+
+
 You asked for it.
 
-427
-00:50:07,714 --> 00:50:09,506
+
+
 There you go.
 
-428
-00:50:17,682 --> 00:50:19,224
+
+
 When we're truly one...
 
-429
-00:50:19,392 --> 00:50:23,437
+
+
 ...you can fight from everywhere,
 even from the tail.
 
-430
-00:50:23,605 --> 00:50:25,606
+
+
 l wanna try it.
 
-431
-00:50:25,773 --> 00:50:28,192
+
+
 Maybe not yet.
 
-432
-00:50:31,237 --> 00:50:33,155
+
+
 Oh, it's easy. l can do this.
 
-433
-00:50:39,454 --> 00:50:43,332
+
+
 Maybe not yet.
 
-434
-00:50:50,590 --> 00:50:53,008
+
+
 Maybe l can try this.
 
-435
-00:50:56,930 --> 00:50:59,264
+
+
 Fantastic.
 
-436
-00:51:03,770 --> 00:51:05,520
+
+
 you always see like this?
 
-437
-00:51:05,688 --> 00:51:08,232
+
+
 That's nothing. Watch this.
 
-438
-00:51:38,680 --> 00:51:40,180
+
+
 What's wrong?
 
-439
-00:51:41,516 --> 00:51:43,183
+
+
 Ra'zacs.
 
-440
-00:51:43,851 --> 00:51:45,352
+
+
 Brom.
 
-441
-00:51:46,271 --> 00:51:48,730
+
+
 This time they die. Now, go.
 
-442
-00:51:48,898 --> 00:51:50,399
+
+
 With pleasure.
 
-443
-00:51:54,028 --> 00:51:56,655
+
+
 Come on. Come on.
 Eragon, stay out of this.
 
-444
-00:51:56,823 --> 00:51:58,824
+
+
 Lower, Saphira, lower.
 
-445
-00:52:23,141 --> 00:52:24,975
+
+
 Eragon. Above you.
 
-446
-00:52:27,812 --> 00:52:29,563
+
+
 Come on.
 
-447
-00:53:06,017 --> 00:53:07,684
+
+
 Protect your dragon.
 
-448
-00:53:10,063 --> 00:53:13,940
+
+
 your irresponsibility
 nearly cost Saphira her life.
 
-449
-00:53:14,108 --> 00:53:16,109
+
+
 Don't worry about me.
 
-450
-00:53:16,277 --> 00:53:18,528
+
+
 l'm stronger than he thinks.
 
-451
-00:53:18,696 --> 00:53:21,615
+
+
 Do you not listen to anything l tell you?
 
-452
-00:53:23,451 --> 00:53:26,286
+
+
 "Better to ask forgiveness
 than permission."
 
-453
-00:53:33,795 --> 00:53:37,464
+
+
 your duty is to reach the Varden alive.
 
-454
-00:53:37,632 --> 00:53:40,842
+
+
 Let's talk about truth
 bef ore we start talking about duty.
 
-455
-00:53:41,010 --> 00:53:43,470
+
+
 What are you talking about?
 
-456
-00:53:44,138 --> 00:53:49,810
+
+
 l thought we agreed
 not to lie to one another...
 
-457
-00:53:53,648 --> 00:53:55,148
+
+
 ...Dragon Rider.
 
-458
-00:53:56,150 --> 00:53:57,943
+
+
 Of course.
 
-459
-00:54:00,321 --> 00:54:02,197
+
+
 Not anymore.
 
-460
-00:54:09,914 --> 00:54:11,164
+
+
 Where's your dragon?
 
-461
-00:54:12,834 --> 00:54:14,167
+
+
 Dead.
 
-462
-00:54:20,133 --> 00:54:24,553
+
+
 She was murdered by another rider
 with this sword...
 
-463
-00:54:25,430 --> 00:54:26,763
+
+
 ...Za'roc.
 
-464
-00:54:28,224 --> 00:54:30,350
+
+
 That sword is a dragon killer.
 
-465
-00:54:31,352 --> 00:54:32,853
+
+
 The rider's name...
 
-466
-00:54:34,313 --> 00:54:36,148
+
+
 ...was Morzan.
 
-467
-00:54:40,528 --> 00:54:42,821
+
+
 Galbatorix won him over.
 
-468
-00:54:46,909 --> 00:54:49,703
+
+
 And while she was trying to protect me...
 
-469
-00:54:50,830 --> 00:54:52,747
+
+
 ...my dragon was killed.
 
-470
-00:54:53,958 --> 00:54:55,459
+
+
 Better we...
 
-471
-00:54:56,711 --> 00:54:58,837
+
+
 ...than our riders.
 
-472
-00:55:00,256 --> 00:55:04,634
+
+
 So l set out to search for Morzan.
 
-473
-00:55:06,345 --> 00:55:07,679
+
+
 And l found him.
 
-474
-00:55:09,348 --> 00:55:14,269
+
+
 l took his sword
 and l drove it through his heart.
 
-475
-00:55:15,229 --> 00:55:18,231
+
+
 And as he died, so did his dragon...
 
-476
-00:55:20,151 --> 00:55:24,446
+
+
 ...the last, except for the king's.
 
-477
-00:55:27,408 --> 00:55:29,284
+
+
 So l hid out in Carvahall...
 
-478
-00:55:31,078 --> 00:55:32,496
+
+
 ...with a shame...
 
-479
-00:55:33,789 --> 00:55:36,249
+
+
 ...l rightly deserved.
 
-480
-00:55:36,584 --> 00:55:42,255
+
+
 Because of me,
 the days of the Dragon Riders were over.
 
-481
-00:55:44,509 --> 00:55:46,510
+
+
 Then you came.
 
-482
-00:55:47,053 --> 00:55:49,262
+
+
 you both came.
 
-483
-00:55:49,430 --> 00:55:53,808
+
+
 And now the days of the riders
 have come again.
 
-484
-00:56:26,968 --> 00:56:30,470
+
+
 Bring me the boy, l said.
 
-485
-00:56:33,432 --> 00:56:36,309
+
+
 Bring me his blood...
 
-486
-00:56:40,314 --> 00:56:41,731
+
+
 ...l said.
 
-487
-00:56:43,359 --> 00:56:45,110
+
+
 But you...
 
-488
-00:56:47,113 --> 00:56:50,907
+
+
 ...you bring me nothing.
 
-489
-00:57:09,135 --> 00:57:10,844
+
+
 you.
 
-490
-00:57:14,890 --> 00:57:18,143
+
+
 Congratulations.
 you've just been promoted.
 
-491
-00:57:22,982 --> 00:57:24,816
+
+
 l tire of this.
 
-492
-00:57:25,860 --> 00:57:27,986
+
+
 l'll bring the boy to me.
 
-493
-00:57:54,263 --> 00:57:56,222
+
+
 Tell me your name.
 
-494
-00:57:57,224 --> 00:58:00,185
+
+
 -Eragon.
 -Eragon.
 
-495
-00:58:00,645 --> 00:58:03,813
+
+
 l am Arya, Princess of Ellesmera.
 
-496
-00:58:03,981 --> 00:58:05,857
+
+
 We are allies with the Varden.
 
-497
-00:58:06,484 --> 00:58:08,526
+
+
 you're the only one who can save me.
 
-498
-00:58:08,944 --> 00:58:10,528
+
+
 But how do l find you?
 
-499
-00:58:10,696 --> 00:58:14,074
+
+
 Durza holds me prisoner at Gil'ead.
 
-500
-00:58:32,593 --> 00:58:34,969
+
+
 -Where are you going?
 -To find Arya.
 
-501
-00:58:37,014 --> 00:58:38,306
+
+
 How do you know that name?
 
-502
-00:58:38,474 --> 00:58:40,684
+
+
 She's Durza's prisoner.
 
-503
-00:58:41,602 --> 00:58:43,269
+
+
 l'm going to free her.
 
-504
-00:58:43,521 --> 00:58:47,524
+
+
 That's out of the question.
 Gil'ead's in the opposite direction.
 
-505
-00:58:48,859 --> 00:58:51,277
+
+
 We can't start going back.
 We're almost there.
 
-506
-00:58:53,406 --> 00:58:57,158
+
+
 l won't let you do that.
 lt's too much of a risk.
 
-507
-00:58:57,326 --> 00:59:00,995
+
+
 The egg was sent to me.
 l'll decide what risks l take. Not you.
 
-508
-00:59:01,163 --> 00:59:03,707
+
+
 Eragon, this is more than about just us.
 
-509
-00:59:03,874 --> 00:59:06,084
+
+
 -lf l don't, she'll be killed.
 -yes.
 
-510
-00:59:06,252 --> 00:59:08,837
+
+
 And it's a sacrifice she's happy to make...
 
-511
-00:59:09,004 --> 00:59:11,631
+
+
 ...because she values your life over hers.
 
-512
-00:59:11,799 --> 00:59:14,300
+
+
 -l won't let her die.
 -lf she dies...
 
-513
-00:59:14,468 --> 00:59:18,012
+
+
 ...then she'll join the countless others
 who have died waiting for you.
 
-514
-00:59:18,180 --> 00:59:21,558
+
+
 As the Varden now wait for you.
 
-515
-00:59:22,810 --> 00:59:26,688
+
+
 you must try and understand.
 lt's your life that's important.
 
-516
-00:59:29,984 --> 00:59:31,818
+
+
 l do understand.
 
-517
-00:59:31,986 --> 00:59:35,613
+
+
 One false move, one reckless decision...
 
-518
-00:59:36,240 --> 00:59:38,032
+
+
 ...and everything is lost.
 
-519
-00:59:39,160 --> 00:59:43,371
+
+
 lt's good to be brave,
 but sometimes it's better to be wise.
 
-520
-00:59:45,249 --> 00:59:48,168
+
+
 -Eragon, listen to me.
 -your shame is not mine.
 
-521
-00:59:50,171 --> 00:59:53,381
+
+
 you forgot what it means
 to be a Dragon Rider.
 
-522
-00:59:54,008 --> 00:59:56,092
+
+
 l will save her.
 
-523
-00:59:57,344 --> 00:59:59,345
+
+
 -Eragon--
 -Please don't, Saphira.
 
-524
-00:59:59,513 --> 01:00:01,639
+
+
 l'm the rider and l say we go.
 
-525
-01:00:18,032 --> 01:00:19,491
+
+
 You'll draw too much attention.
 
-526
-01:00:19,658 --> 01:00:22,619
+
+
 We'll have to wait for night
 and l'll go in alone.
 
-527
-01:00:24,371 --> 01:00:27,123
+
+
 Those walls hold death, Eragon.
 
-528
-01:00:27,583 --> 01:00:32,170
+
+
 Not today, not for us.
 l'm going to save her life. l can do this.
 
-529
-01:00:32,338 --> 01:00:34,839
+
+
 Our power is greatest
 when we're together.
 
-530
-01:00:35,007 --> 01:00:39,677
+
+
 We can't truly be together
 until l become as strong as you.
 
-531
-01:00:44,975 --> 01:00:46,434
+
+
 Move along, now.
 
-532
-01:00:48,562 --> 01:00:50,355
+
+
 Move faster.
 
-533
-01:00:53,567 --> 01:00:55,276
+
+
 Make way.
 
-534
-01:00:57,696 --> 01:00:59,989
+
+
 keep up. Come on.
 
-535
-01:02:16,400 --> 01:02:17,692
+
+
 Eragon.
 
-536
-01:02:18,819 --> 01:02:21,821
+
+
 -you shouldn't have come.
 -But in the woods....
 
-537
-01:02:21,989 --> 01:02:25,408
+
+
 Leave me here. Go. Now.
 
-538
-01:02:25,576 --> 01:02:27,035
+
+
 lt's far too late for that.
 
-539
-01:02:31,624 --> 01:02:34,083
+
+
 Forgive me if l stare.
 
-540
-01:02:34,460 --> 01:02:39,172
+
+
 l knew you were young, but even then
 l expected someone a little more....
 
-541
-01:02:40,382 --> 01:02:42,050
+
+
 Well, more.
 
-542
-01:03:04,073 --> 01:03:05,657
+
+
 A young magician.
 
-543
-01:03:06,241 --> 01:03:07,533
+
+
 How quaint.
 
-544
-01:03:08,160 --> 01:03:11,120
+
+
 Do you already feel it
 draining your strength?
 
-545
-01:03:17,378 --> 01:03:21,464
+
+
 They say as a Dragon Rider
 draws his last breath...
 
-546
-01:03:22,591 --> 01:03:26,260
+
+
 ...he can hear the dying screams
 of his dragon.
 
-547
-01:03:29,390 --> 01:03:31,057
+
+
 Out of the way!
 
-548
-01:03:34,561 --> 01:03:36,020
+
+
 No!
 
-549
-01:03:38,357 --> 01:03:40,692
+
+
 you'll have to do much better than that.
 
-550
-01:03:54,289 --> 01:03:56,541
+
+
 -Get out.
 -No. Not without you.
 
-551
-01:03:56,709 --> 01:03:58,251
+
+
 Come on. Let's go.
 
-552
-01:04:00,421 --> 01:04:01,838
+
+
 Go.
 
-553
-01:04:07,594 --> 01:04:09,679
+
+
 Take Za'roc.
 
-554
-01:04:24,486 --> 01:04:25,903
+
+
 Saphira, can you carry three?
 
-555
-01:04:26,572 --> 01:04:27,905
+
+
 Not for very long.
 
-556
-01:04:42,671 --> 01:04:44,505
+
+
 l suggest you leave quickly.
 
-557
-01:04:49,094 --> 01:04:50,595
+
+
 Come on. Let's get out of  here.
 
-558
-01:04:54,016 --> 01:04:55,433
+
+
 Come on.
 
-559
-01:04:55,601 --> 01:04:57,351
+
+
 -Archers ready.
 -Over here.
 
-560
-01:04:59,021 --> 01:05:00,480
+
+
 Higher. They're on the roof.
 
-561
-01:05:00,981 --> 01:05:05,443
+
+
 l can't. The weight, it's too much.
 
-562
-01:05:23,796 --> 01:05:25,379
+
+
 Eragon?
 
-563
-01:05:29,593 --> 01:05:31,260
+
+
 Durza....
 
-564
-01:05:31,804 --> 01:05:33,805
+
+
 -Durza....
 -Durza's dead.
 
-565
-01:05:34,556 --> 01:05:36,682
+
+
 Did you pierce him through the heart?
 
-566
-01:05:38,393 --> 01:05:42,855
+
+
 you can only kill a Shade
 if you pierce him through the heart.
 
-567
-01:05:46,151 --> 01:05:48,444
+
+
 -We must get help.
 -Where?
 
-568
-01:05:49,363 --> 01:05:51,906
+
+
 -From the Varden.
 -yes.
 
-569
-01:05:52,866 --> 01:05:54,283
+
+
 Go to the Varden.
 
-570
-01:05:58,038 --> 01:05:59,372
+
+
 Take this.
 
-571
-01:06:03,377 --> 01:06:05,294
+
+
 Go...
 
-572
-01:06:05,879 --> 01:06:07,755
+
+
 ...without me.
 
-573
-01:06:08,423 --> 01:06:11,926
+
+
 No. l need you.
 
-574
-01:06:12,094 --> 01:06:13,928
+
+
 No, Eragon.
 
-575
-01:06:14,721 --> 01:06:18,099
+
+
 lt's l who've always needed you.
 
-576
-01:06:20,352 --> 01:06:23,062
+
+
 you gave me my lif e back again.
 
-577
-01:06:25,232 --> 01:06:27,900
+
+
 Take care of  Saphira.
 
-578
-01:06:28,443 --> 01:06:30,736
+
+
 Without her...
 
-579
-01:06:31,780 --> 01:06:35,533
+
+
 ...you'll find lif e is hardly worth living.
 
-580
-01:06:37,077 --> 01:06:38,411
+
+
 l won't let you die.
 
-581
-01:06:39,580 --> 01:06:41,080
+
+
 Not for my mistake.
 
-582
-01:07:07,983 --> 01:07:10,026
+
+
 you are not strong enough...
 
-583
-01:07:11,320 --> 01:07:12,904
+
+
 ...yet.
 
-584
-01:07:15,157 --> 01:07:17,366
+
+
 That's the spirit.
 
-585
-01:07:18,452 --> 01:07:22,079
+
+
 One part brave, three parts fool.
 
-586
-01:07:28,462 --> 01:07:30,213
+
+
 Forgive me.
 
-587
-01:07:31,798 --> 01:07:36,260
+
+
 Eragon. Let him die with pride...
 
-588
-01:07:42,392 --> 01:07:44,685
+
+
 ...as a Dragon Rider.
 
-589
-01:08:29,022 --> 01:08:30,815
+
+
 l can't breathe fire yet...
 
-590
-01:08:32,526 --> 01:08:35,236
+
+
 ...but l can do this for Brom:
 
-591
-01:08:46,456 --> 01:08:49,208
+
+
 Now time cannot ravage him.
 
-592
-01:08:50,210 --> 01:08:51,919
+
+
 Who will remember him?
 
-593
-01:08:53,714 --> 01:08:55,798
+
+
 Many people will...
 
-594
-01:08:55,966 --> 01:08:57,466
+
+
 ...because of you.
 
-595
-01:09:52,064 --> 01:09:53,564
+
+
 Eragon.
 
-596
-01:09:56,526 --> 01:09:59,945
+
+
 A Shade has poisoned her.
 Someone's coming.
 
-597
-01:10:08,163 --> 01:10:11,374
+
+
 l need to get you to the Varden.
 How do l find them?
 
-598
-01:10:34,106 --> 01:10:36,607
+
+
 -This one's been following us.
 -Stand up.
 
-599
-01:10:39,903 --> 01:10:41,570
+
+
 All my life, l dreamed of dragons.
 
-600
-01:10:41,738 --> 01:10:44,532
+
+
 Who are you?
 And why are you following us?
 
-601
-01:10:44,699 --> 01:10:47,535
+
+
 l'm Murtagh.
 And you need me, Dragon Rider.
 
-602
-01:10:47,702 --> 01:10:50,830
+
+
 -Thanks, but l'll be fine without you.
 -you seek the Varden.
 
-603
-01:10:52,999 --> 01:10:56,001
+
+
 l know the mountains,
 every valley and stream.
 
-604
-01:10:57,003 --> 01:10:59,296
+
+
 She'll suffer if you go astray.
 
-605
-01:11:00,841 --> 01:11:02,675
+
+
 Why did you risk your life for us?
 
-606
-01:11:02,843 --> 01:11:06,095
+
+
 My f amily was slaughtered
 by the king's men when l was a boy.
 
-607
-01:11:06,638 --> 01:11:10,182
+
+
 l heard rumors.
 They said a rider had appeared.
 
-608
-01:11:10,350 --> 01:11:14,019
+
+
 Eragon. We must go.
 
-609
-01:11:15,814 --> 01:11:20,192
+
+
 lf there were ever a time for retribution,
 this was it.
 
-610
-01:11:20,861 --> 01:11:23,362
+
+
 lf you can show me
 the quickest way to the Varden....
 
-611
-01:11:23,530 --> 01:11:25,197
+
+
 To the Varden it is.
 
-612
-01:11:31,496 --> 01:11:34,206
+
+
 you'll learn to trust me, Dragon Rider.
 
-613
-01:11:39,963 --> 01:11:41,964
+
+
 l'm not the only one
 you need to convince.
 
-614
-01:12:12,621 --> 01:12:15,122
+
+
 We'll have to go by foot from here.
 
-615
-01:12:20,420 --> 01:12:24,006
+
+
 Saphira? keep Arya safe until l call.
 
-616
-01:12:24,174 --> 01:12:28,010
+
+
 l will, but hurry. The Urgals are closing in.
 
-617
-01:12:49,115 --> 01:12:50,824
+
+
 Thanks again.
 
-618
-01:12:50,992 --> 01:12:52,993
+
+
 Don't mention it.
 
-619
-01:12:54,996 --> 01:12:57,873
+
+
 Tell me your vision
 looked something like this.
 
-620
-01:12:58,959 --> 01:13:00,626
+
+
 Come on.
 
-621
-01:13:35,996 --> 01:13:39,123
+
+
 The task was simple: bring the boy to me.
 
-622
-01:13:40,333 --> 01:13:42,793
+
+
 There were complications.
 
-623
-01:13:42,961 --> 01:13:45,004
+
+
 yes, so l've heard.
 
-624
-01:13:45,171 --> 01:13:47,840
+
+
 Complications do tend to happen.
 
-625
-01:13:48,008 --> 01:13:52,511
+
+
 But fortunately for you,
 your incompetence may work in my f avor.
 
-626
-01:13:52,679 --> 01:13:55,764
+
+
 The boy has led us directly to the Varden.
 
-627
-01:13:56,933 --> 01:14:01,103
+
+
 And so the job falls upon you, Durza...
 
-628
-01:14:01,271 --> 01:14:05,899
+
+
 ...to remind those who resist my rule...
 
-629
-01:14:06,067 --> 01:14:09,361
+
+
 ...that as long as l am king...
 
-630
-01:14:09,529 --> 01:14:14,408
+
+
 ...disloyalty will be punishable by death.
 
-631
-01:14:16,870 --> 01:14:20,497
+
+
 Gather my army and follow them.
 
-632
-01:14:21,041 --> 01:14:23,626
+
+
 Leave no one alive.
 
-633
-01:14:26,671 --> 01:14:28,589
+
+
 -Move up there.
 -Come on, get them on there.
 
-634
-01:14:33,136 --> 01:14:34,637
+
+
 Which one of you is the rider?
 
-635
-01:14:34,804 --> 01:14:36,847
+
+
 l am. My name is Eragon.
 
-636
-01:14:39,059 --> 01:14:41,644
+
+
 l am Ajihad, leader of the Varden.
 
-637
-01:14:41,811 --> 01:14:44,438
+
+
 lf you are the rider, call your beast inside.
 
-638
-01:14:44,606 --> 01:14:47,941
+
+
 lf it attacks, you will die first.
 
-639
-01:14:49,819 --> 01:14:53,364
+
+
 Saphira? Bring Arya, but be cautious.
 
-640
-01:15:14,177 --> 01:15:15,552
+
+
 How is Arya?
 
-641
-01:15:15,929 --> 01:15:18,138
+
+
 She's holding on.
 
-642
-01:15:18,598 --> 01:15:21,266
+
+
 Her heart beats faintly.
 
-643
-01:15:30,485 --> 01:15:32,903
+
+
 She's been poisoned by a Shade.
 
-644
-01:15:34,406 --> 01:15:36,782
+
+
 Our healers will make her well.
 
-645
-01:15:36,950 --> 01:15:38,283
+
+
 Watch over Arya.
 
-646
-01:15:38,451 --> 01:15:39,702
+
+
 But be careful.
 
-647
-01:15:40,578 --> 01:15:43,122
+
+
 You be careful.
 
-648
-01:16:06,438 --> 01:16:09,732
+
+
 -There are Urgals on the mountain.
 -Urgals.
 
-649
-01:16:10,984 --> 01:16:13,235
+
+
 They're scouring the mountain
 as we speak.
 
-650
-01:16:13,862 --> 01:16:16,321
+
+
 Time is short.
 l must know if you're with us.
 
-651
-01:16:16,698 --> 01:16:19,408
+
+
 We'll be greatly outnumbered.
 
-652
-01:16:23,455 --> 01:16:24,913
+
+
 We've come to join you.
 
-653
-01:16:44,058 --> 01:16:46,310
+
+
 -Seize him.
 -No.
 
-654
-01:16:52,025 --> 01:16:54,651
+
+
 He's with me. He saved my lif e.
 
-655
-01:16:54,819 --> 01:16:58,989
+
+
 He is the son of Morzan, the traitor.
 
-656
-01:17:02,744 --> 01:17:04,119
+
+
 ls it true?
 
-657
-01:17:04,871 --> 01:17:07,664
+
+
 A son doesn't choose his father.
 
-658
-01:17:09,626 --> 01:17:11,668
+
+
 This was the only thing he ever gave me.
 
-659
-01:17:14,631 --> 01:17:17,090
+
+
 l hated that man until the day he died.
 
-660
-01:17:17,258 --> 01:17:21,053
+
+
 Lock him up.
 lf he tries to escape, kill him.
 
-661
-01:17:22,472 --> 01:17:25,140
+
+
 -Let go of me.
 -l've no time to take chances.
 
-662
-01:17:25,308 --> 01:17:29,436
+
+
 The Urgals' presence here can only mean
 that the king's men are not f ar behind.
 
-663
-01:17:30,814 --> 01:17:34,900
+
+
 These cowards will hide no more.
 
-664
-01:17:35,777 --> 01:17:39,488
+
+
 Tonight, we destroy the resistance.
 
-665
-01:17:44,077 --> 01:17:46,411
+
+
 Annihilate.
 
-666
-01:17:55,713 --> 01:17:58,340
+
+
 But the boy is mine.
 
-667
-01:18:09,644 --> 01:18:13,605
+
+
 -Excuse me. l should have knocked.
 -lt's fine.
 
-668
-01:18:13,773 --> 01:18:15,941
+
+
 My f ather asked me to bring you to him.
 
-669
-01:18:18,695 --> 01:18:20,404
+
+
 l'll be ready in just a moment.
 
-670
-01:18:23,324 --> 01:18:25,993
+
+
 Arya has responded well
 to our healers' work.
 
-671
-01:18:26,160 --> 01:18:29,246
+
+
 -Her strength runs deep.
 -When can l see her?
 
-672
-01:18:29,414 --> 01:18:33,917
+
+
 She's resting now.
 Only she can answer that.
 
-673
-01:18:52,645 --> 01:18:54,104
+
+
 Check those rails.
 
-674
-01:18:55,481 --> 01:18:57,274
+
+
 They're af raid of me.
 
-675
-01:18:57,775 --> 01:18:59,818
+
+
 Why wouldn't they be?
 
-676
-01:19:00,445 --> 01:19:03,989
+
+
 There's no retreat from here,
 nowhere else to hide.
 
-677
-01:19:04,157 --> 01:19:06,909
+
+
 The suspicion has kept us alive
 all these years.
 
-678
-01:19:08,328 --> 01:19:11,663
+
+
 When word spread
 of a new Dragon Rider...
 
-679
-01:19:12,332 --> 01:19:16,001
+
+
 ...we were expecting someone
 who was more...
 
-680
-01:19:16,377 --> 01:19:19,254
+
+
 -...well....
 -More than me.
 
-681
-01:19:23,009 --> 01:19:24,635
+
+
 l've heard it before.
 
-682
-01:19:24,802 --> 01:19:27,429
+
+
 More heat. Add more heat.
 
-683
-01:19:28,723 --> 01:19:31,391
+
+
 -your armor is ready for you.
 -Take your positions.
 
-684
-01:19:31,559 --> 01:19:33,518
+
+
 Come on, harder.
 
-685
-01:19:33,686 --> 01:19:36,063
+
+
 We must prepare for battle.
 
-686
-01:19:55,166 --> 01:19:59,378
+
+
 lt's not as easy as it looks, is it?
 
-687
-01:20:05,093 --> 01:20:08,762
+
+
 you look fit for battle.
 
-688
-01:20:11,724 --> 01:20:14,643
+
+
 -Positions.
 -Ready?
 
-689
-01:20:15,478 --> 01:20:17,396
+
+
 Urgals are here.
 
-690
-01:20:17,563 --> 01:20:19,481
+
+
 Be strong, Eragon.
 
-691
-01:20:19,649 --> 01:20:23,318
+
+
 The search for a rider
 has been long and dangerous.
 
-692
-01:20:23,486 --> 01:20:26,613
+
+
 Some of us have carried the egg
 for as long as we can remember...
 
-693
-01:20:26,781 --> 01:20:32,285
+
+
 ...hoping it would hatch,
 when f ate finally carried it to you.
 
-694
-01:20:32,453 --> 01:20:35,831
+
+
 Why me?
 l'm just a f arm boy from Carvahall.
 
-695
-01:20:35,999 --> 01:20:40,335
+
+
 Because that is who Saphira chose.
 
-696
-01:20:45,008 --> 01:20:47,509
+
+
 l barely even recognize myself.
 
-697
-01:21:01,149 --> 01:21:02,774
+
+
 They worked through the night...
 
-698
-01:21:03,401 --> 01:21:05,819
+
+
 ...to protect our greatest hope...
 
-699
-01:21:06,487 --> 01:21:08,947
+
+
 ...and our leader who rides her.
 
-700
-01:21:13,745 --> 01:21:15,412
+
+
 lt's time.
 
-701
-01:21:31,304 --> 01:21:33,597
+
+
 Take your positions.
 
-702
-01:22:05,505 --> 01:22:08,340
+
+
 Ready the archers!
 
-703
-01:23:06,732 --> 01:23:09,651
+
+
 l need to know, Saphira. Why me?
 
-704
-01:23:09,819 --> 01:23:13,029
+
+
 You choose a leader for his heart.
 
-705
-01:23:14,907 --> 01:23:16,158
+
+
 But l'm not without fear.
 
-706
-01:23:16,325 --> 01:23:19,035
+
+
 Without fear there cannot be courage.
 
-707
-01:23:19,203 --> 01:23:24,207
+
+
 But when we are together,
 it is our enemies who should be afraid.
 
-708
-01:23:24,375 --> 01:23:26,751
+
+
 And are we together, Saphira?
 
-709
-01:23:27,920 --> 01:23:29,880
+
+
 As one?
 
-710
-01:23:38,931 --> 01:23:41,141
+
+
 l'll take that as a yes.
 
-711
-01:23:47,315 --> 01:23:48,940
+
+
 Loose!
 
-712
-01:23:56,824 --> 01:23:58,491
+
+
 Now!
 
-713
-01:24:00,536 --> 01:24:03,788
+
+
 lnto the sky, to win or die!
 
-714
-01:24:10,338 --> 01:24:11,963
+
+
 Fire!
 
-715
-01:24:20,306 --> 01:24:21,806
+
+
 yeah!
 
-716
-01:24:26,479 --> 01:24:29,856
+
+
 Let me out! Let me out!
 
-717
-01:24:31,067 --> 01:24:33,860
+
+
 Let me out of  here! Let--!
 
-718
-01:26:14,295 --> 01:26:17,922
+
+
 -Oh, no.
 -Time to return the favor.
 
-719
-01:26:23,804 --> 01:26:25,180
+
+
 l guess we're even!
 
-720
-01:26:43,532 --> 01:26:46,409
+
+
 Come! Taste the blood of  your dragon!
 
-721
-01:26:47,203 --> 01:26:48,787
+
+
 Let's finish this.
 
-722
-01:27:01,675 --> 01:27:02,967
+
+
 What is that thing?
 
-723
-01:27:03,135 --> 01:27:05,011
+
+
 Dark magic.
 
-724
-01:27:09,350 --> 01:27:11,643
+
+
 Closer, so we can reach his heart.
 
-725
-01:27:11,811 --> 01:27:14,521
+
+
 This time, rip it out of his chest.
 
-726
-01:27:57,815 --> 01:27:59,065
+
+
 Saphira!
 
-727
-01:27:59,233 --> 01:28:01,067
+
+
 Hear her scream!
 
-728
-01:28:17,084 --> 01:28:18,418
+
+
 Saphira, you're hurt.
 
-729
-01:28:19,086 --> 01:28:21,129
+
+
 Don't worry about me.
 
-730
-01:28:22,047 --> 01:28:23,548
+
+
 Keep your mind in the fight.
 
-731
-01:28:42,151 --> 01:28:45,653
+
+
 What's happening? My vision's f ailing.
 
-732
-01:28:45,821 --> 01:28:48,823
+
+
 lt is not you, but me.
 
-733
-01:28:50,951 --> 01:28:53,495
+
+
 This wound weakens me.
 
-734
-01:28:55,789 --> 01:28:59,792
+
+
 Easy, Saphira.
 We're gonna get through this together.
 
-735
-01:29:05,132 --> 01:29:06,591
+
+
 l'm losing strength.
 
-736
-01:29:11,388 --> 01:29:13,473
+
+
 l know what l have to do.
 
-737
-01:29:30,032 --> 01:29:31,533
+
+
 Now!
 
-738
-01:29:42,253 --> 01:29:43,795
+
+
 That's for Brom.
 
-739
-01:29:46,632 --> 01:29:48,383
+
+
 l expected more.
 
-740
-01:30:27,006 --> 01:30:28,590
+
+
 Saphira!
 
-741
-01:30:46,066 --> 01:30:48,151
+
+
 We did it.
 
-742
-01:30:49,069 --> 01:30:50,486
+
+
 Saphira?
 
-743
-01:30:52,781 --> 01:30:54,032
+
+
 Together.
 
-744
-01:30:57,411 --> 01:31:02,957
+
+
 Whatever life there is in me, take it.
 
-745
-01:31:03,125 --> 01:31:06,127
+
+
 Eragon, no.
 
-746
-01:31:09,923 --> 01:31:13,259
+
+
 Even you don't have a heart...
 
-747
-01:31:13,427 --> 01:31:17,555
+
+
 ...strong enough for both of us.
 
-748
-01:33:07,207 --> 01:33:09,000
+
+
 Slowly, rider.
 
-749
-01:33:10,461 --> 01:33:12,170
+
+
 Saphira?
 
-750
-01:33:15,591 --> 01:33:18,259
+
+
 Some friends can't be replaced.
 
-751
-01:33:30,522 --> 01:33:32,690
+
+
 Well, luckily, some don't have to be.
 
-752
-01:33:35,194 --> 01:33:37,904
+
+
 Saphira. l didn't think l could do it.
 
-753
-01:33:38,071 --> 01:33:42,325
+
+
 You shouldn't have. lt was reckless...
 
-754
-01:33:42,743 --> 01:33:44,118
+
+
 ...but l'm glad you did.
 
-755
-01:33:44,953 --> 01:33:47,705
+
+
 Wasn't it an old, wise man who once said:
 
-756
-01:33:47,873 --> 01:33:50,792
+
+
 "One part brave, three parts fool"?
 
-757
-01:33:52,044 --> 01:33:55,129
+
+
 Brom would be proud of you.
 
-758
-01:33:57,216 --> 01:33:58,966
+
+
 Of us.
 
-759
-01:34:01,386 --> 01:34:02,637
+
+
 And Arya?
 
-760
-01:34:02,805 --> 01:34:06,390
+
+
 Thought that might come up.
 Get changed.
 
-761
-01:34:07,601 --> 01:34:08,768
+
+
 She's off to Ellesmera.
 
-762
-01:34:08,936 --> 01:34:12,522
+
+
 But what horse was ever born
 that could outrun a dragon?
 
-763
-01:35:00,362 --> 01:35:02,947
+
+
 you never gave me a chance
 to say goodbye.
 
-764
-01:35:03,115 --> 01:35:05,449
+
+
 There was no time.
 
-765
-01:35:05,617 --> 01:35:08,703
+
+
 Galbatorix will try to avenge this defeat.
 
-766
-01:35:08,871 --> 01:35:11,247
+
+
 l must return to my people in Ellesméra.
 
-767
-01:35:11,415 --> 01:35:13,624
+
+
 And you must prepare the Varden.
 
-768
-01:35:19,506 --> 01:35:21,841
+
+
 you lost those who were dear to you.
 
-769
-01:35:22,801 --> 01:35:25,428
+
+
 you've paid a great price for your courage.
 
-770
-01:35:29,391 --> 01:35:32,560
+
+
 Did you know the people of the Varden
 already tell stories about you?
 
-771
-01:35:34,563 --> 01:35:36,772
+
+
 Legend of Eragon,
 the great Shade-slayer...
 
-772
-01:35:36,940 --> 01:35:38,774
+
+
 ...spreads throughout Alagaësia.
 
-773
-01:35:40,319 --> 01:35:42,528
+
+
 Well, you know how legends go.
 
-774
-01:35:42,696 --> 01:35:45,323
+
+
 People will believe
 just about anything these days.
 
-775
-01:35:48,744 --> 01:35:50,411
+
+
 When will l see you again?
 
-776
-01:35:54,666 --> 01:35:56,667
+
+
 Time moves quickly.
 
-777
-01:35:56,835 --> 01:36:01,631
+
+
 Only yesterday you were a farm boy.
 Today you are a hero.
 
-778
-01:36:04,217 --> 01:36:07,929
+
+
 Tomorrow may see us together again.
 
-779
-01:36:11,516 --> 01:36:13,893
+
+
 Then l'll be waiting for tomorrow.
 
-780
-01:36:22,277 --> 01:36:23,903
+
+
 Tomorrow will come...
 
-781
-01:36:24,613 --> 01:36:26,739
+
+
 ...sooner than you think.
 
-782
-01:36:34,998 --> 01:36:36,958
+
+
 Take care of  him, Saphira.
 
-783
-01:36:37,125 --> 01:36:38,834
+
+
 l will.
 
-784
-01:36:55,894 --> 01:36:57,561
+
+
 Come.
 
-785
-01:43:58,108 --> 01:43:59,108
+
+
 [English - US}
 

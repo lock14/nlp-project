@@ -1,3280 +1,3280 @@
-0
-00:03:22,876 --> 00:03:24,537
+
+
 "She knew a trick.
 
-1
-00:03:25,545 --> 00:03:29,675
+
+
 "She knew how to turn her life into a movie
 and watch things happen.
 
-2
-00:03:31,051 --> 00:03:35,545
+
+
 "Not to her,
 but to a girl who looked just like her.
 
-3
-00:03:36,523 --> 00:03:37,922
+
+
 "Was she the runaway
 
-4
-00:03:38,024 --> 00:03:41,790
+
+
 "with everything she owned
 in a ratty old backpack?
 
-5
-00:03:41,895 --> 00:03:46,127
+
+
 "Or, was she watching a movie about
 a hitchhiking runaway on a lonely highway?
 
-6
-00:03:47,467 --> 00:03:51,062
+
+
 "A truck slowed till the girl squinted
 in his headlights.
 
-7
-00:03:51,905 --> 00:03:53,463
+
+
 "But one good look at her
 
-8
-00:03:53,573 --> 00:03:55,700
+
+
 "and the trucker couldn't get out of there
 fast enough.
 
-9
-00:03:56,476 --> 00:03:58,637
+
+
 "She didn't even have the strength
 to curse him
 
-10
-00:03:58,745 --> 00:04:02,010
+
+
 "as she choked on the dust
 of his spinning wheels."
 
-11
-00:04:54,567 --> 00:04:58,367
+
+
 I'm sorry, Mr. Norquist.
 I know I should have this by now.
 
-12
-00:04:58,471 --> 00:05:00,462
+
+
 You've been distracted lately, Aubrey.
 
-13
-00:05:01,541 --> 00:05:05,272
+
+
 The next Young Artist Competition
 is less than a month away.
 
-14
-00:05:06,079 --> 00:05:07,603
+
+
 I know. I know.
 
-15
-00:05:14,187 --> 00:05:15,779
+
+
 Watch this hand.
 
-16
-00:05:29,769 --> 00:05:31,236
+
+
 You see how easy?
 
-17
-00:05:33,006 --> 00:05:34,098
+
+
 Yeah.
 
-18
-00:05:36,409 --> 00:05:38,172
+
+
 I've been meaning to talk to you.
 
-19
-00:05:38,812 --> 00:05:40,609
+
+
 You know, I've been thinking, and...
 
-20
-00:05:42,148 --> 00:05:45,140
+
+
 I just... I don't know if I'm cut out
 to play piano anymore.
 
-21
-00:05:46,152 --> 00:05:49,986
+
+
 Aubrey, all artists feel that way. Iùs normal.
 
-22
-00:05:50,090 --> 00:05:52,558
+
+
 No, I... I want to quit.
 
-23
-00:05:53,360 --> 00:05:56,796
+
+
 I mean, I barely made my winter admit
 to Yale, and I could still blow it.
 
-24
-00:05:57,764 --> 00:06:00,790
+
+
 I just need to concentrate
 all of my efforts into writing.
 
-25
-00:06:00,900 --> 00:06:03,960
+
+
 But you have a gift, an innate talent.
 
-26
-00:06:04,070 --> 00:06:06,300
+
+
 You won the Young Artist Competition.
 
-27
-00:06:06,406 --> 00:06:09,034
+
+
 I mean, how much more validation
 do you need?
 
-28
-00:06:09,142 --> 00:06:11,804
+
+
 That was a long time ago, Mr. Norquist.
 
-29
-00:06:21,588 --> 00:06:22,816
+
+
 Hi, you.
 
-30
-00:07:17,010 --> 00:07:19,308
+
+
 <i>"She always felt like half a person.</i>
 
-31
-00:07:19,412 --> 00:07:21,744
+
+
 <i>"Half a person with half a soul.</i>
 
-32
-00:07:21,848 --> 00:07:26,342
+
+
 <i>"Sometimes, if she dreamed hard enough,</i>
 <i>she could bring the two halves together.</i>
 
-33
-00:07:26,453 --> 00:07:30,514
+
+
 <i>"But she always woke to the same feelings</i>
 <i>of loneliness and loss. "</i>
 
-34
-00:07:39,399 --> 00:07:41,560
+
+
 - Hey.
 - Hi.
 
-35
-00:07:42,001 --> 00:07:43,969
+
+
 Where'd you find a blue rose?
 
-36
-00:07:44,070 --> 00:07:47,471
+
+
 I passed a place on the street. Here.
 
-37
-00:07:47,574 --> 00:07:48,871
+
+
 Thank you.
 
-38
-00:07:54,113 --> 00:07:55,375
+
+
 You okay?
 
-39
-00:07:57,050 --> 00:07:58,142
+
+
 Yeah.
 
-40
-00:07:59,319 --> 00:08:00,513
+
+
 Got me.
 
-41
-00:08:16,035 --> 00:08:19,061
+
+
 Sheriff, several federal agents
 were seen entering city hall
 
-42
-00:08:19,172 --> 00:08:21,606
+
+
 - about an hour ago.
 - Why has the coroner's report been sealed?
 
-43
-00:08:21,708 --> 00:08:22,936
+
+
 - Sheriff! Jennifer Toland...
 - Please.
 
-44
-00:08:23,042 --> 00:08:24,066
+
+
 ...disappeared almost two months ago.
 
-45
-00:08:24,177 --> 00:08:25,804
+
+
 Serial killers typically...
 
-46
-00:08:25,912 --> 00:08:28,472
+
+
 We have one dead girl,
 and you're talking serial killer!
 
-47
-00:08:28,581 --> 00:08:31,709
+
+
 - You people astound me.
 - Could you just give us a name?
 
-48
-00:08:32,519 --> 00:08:35,249
+
+
 Who has not yet found the aortic arches?
 
-49
-00:08:37,991 --> 00:08:40,391
+
+
 And the super-pharyngeal ganglia?
 
-50
-00:08:41,394 --> 00:08:42,486
+
+
 The brain.
 
-51
-00:08:43,263 --> 00:08:45,857
+
+
 Yes, you can barely see that,
 even under the microscope.
 
-52
-00:08:49,936 --> 00:08:51,096
+
+
 Is that all I am to you?
 
-53
-00:08:51,204 --> 00:08:53,229
+
+
 Just something to relax you
 before the game?
 
-54
-00:08:53,339 --> 00:08:56,035
+
+
 If I cut a worm in half,
 will it become two worms?
 
-55
-00:08:56,142 --> 00:08:58,303
+
+
 No, Pete, thaùs a myth.
 
-56
-00:08:59,479 --> 00:09:02,880
+
+
 Whaùs it gonna take for me and you
 to be together?
 
-57
-00:09:02,982 --> 00:09:05,041
+
+
 A lot more than one blue rose.
 
-58
-00:09:05,151 --> 00:09:08,143
+
+
 Aubrey, I think I'm falling in love with you.
 
-59
-00:09:09,222 --> 00:09:12,214
+
+
 We barely know each other, Jerrod.
 
-60
-00:09:12,325 --> 00:09:14,384
+
+
 - You're delusional.
 - No, I'm not.
 
-61
-00:09:14,494 --> 00:09:17,361
+
+
 I've never felt this way about a girl before.
 
-62
-00:09:17,463 --> 00:09:18,862
+
+
 - I just keep thinking about you and...
 - Jerrod!
 
-63
-00:09:18,965 --> 00:09:22,628
+
+
 Can you point out for me
 the female reproductive organs?
 
-64
-00:09:23,536 --> 00:09:24,764
+
+
 The seminal receptacles.
 
-65
-00:09:24,871 --> 00:09:26,668
+
+
 Yes, I can, actually.
 
-66
-00:09:30,777 --> 00:09:31,869
+
+
 That should be it.
 
-67
-00:09:36,282 --> 00:09:39,274
+
+
 Those would be
 the male reproductive organs.
 
-68
-00:09:42,655 --> 00:09:45,920
+
+
 The female organs are at the other end
 of the worm.
 
-69
-00:09:48,628 --> 00:09:51,620
+
+
 Looks like you need a little more experience
 in the female anatomy.
 
-70
-00:09:54,300 --> 00:09:56,200
+
+
 - Oh, my God!
 - I'm sorry.
 
-71
-00:10:05,778 --> 00:10:08,713
+
+
 Jennifer TolanÔs body was discovered
 early this morning.
 
-72
-00:10:09,949 --> 00:10:13,680
+
+
 Please don't ask me any questions.
 I don't have the details.
 
-73
-00:10:19,926 --> 00:10:25,193
+
+
 <i>Nineteen-year-old female, 5'4 " tall.</i>
 
-74
-00:10:30,370 --> 00:10:33,931
+
+
 <i>Amputation of individual digits,</i>
 
-75
-00:10:34,040 --> 00:10:36,668
+
+
 <i>possibly on the same or successive days.</i>
 
-76
-00:10:37,944 --> 00:10:42,278
+
+
 <i>Full metacarpal amputation</i>
 <i>approximately two weeks later.</i>
 
-77
-00:10:45,785 --> 00:10:48,845
+
+
 <i>Ragged cuts indicate</i>
 
-78
-00:10:48,955 --> 00:10:54,689
+
+
 <i>near-lethal levels of amphetamines</i>
 <i>inducing a state of forced alertness,</i>
 
-79
-00:10:54,794 --> 00:10:58,662
+
+
 <i>suggesting the killer wanted the victim</i>
 
-80
-00:10:58,765 --> 00:11:01,563
+
+
 <i>fully conscious during each limb removal.</i>
 
-81
-00:12:17,710 --> 00:12:21,806
+
+
 <i>As we all know,</i>
 <i>Jennifer TolanÔs body was found this week.</i>
 
-82
-00:12:22,448 --> 00:12:25,281
+
+
 <i>And we'd like to take a moment of silence.</i>
 
-83
-00:12:31,491 --> 00:12:35,325
+
+
 <i>Now, leùs get out there</i>
 <i>and win this one for Jennifer Tolandl</i>
 
-84
-00:12:47,907 --> 00:12:49,340
+
+
 Come on!
 
-85
-00:13:32,685 --> 00:13:34,710
+
+
 <i>Curfew is one hour away.</i>
 
-86
-00:13:34,821 --> 00:13:38,951
+
+
 <i>Attention, curfew, for under 21,</i>
 <i>begins in one hour.</i>
 
-87
-00:13:41,761 --> 00:13:42,853
+
+
 Why are you...
 
-88
-00:13:42,962 --> 00:13:44,759
+
+
 Just marry him
 and start popping out babies.
 
-89
-00:13:44,864 --> 00:13:47,890
+
+
 No way. I'm done sleeping with guys
 I'm not in love with.
 
-90
-00:13:48,000 --> 00:13:50,901
+
+
 Oh, like you were some kind
 of a sex addict before.
 
-91
-00:13:51,003 --> 00:13:52,265
+
+
 But Jerrod loves you.
 
-92
-00:13:52,371 --> 00:13:57,070
+
+
 I'll be 3,000 miles away in January.
 I mean, I can't afford to fall in love.
 
-93
-00:13:57,176 --> 00:13:58,143
+
+
 Thaùs nice.
 
-94
-00:13:58,244 --> 00:14:02,237
+
+
 <i>Iùs like someone could stab you</i>
 <i>and you'd never even know what...</i>
 
-95
-00:14:02,348 --> 00:14:04,714
+
+
 Iùs like Mardi Gras or something.
 
-96
-00:14:04,817 --> 00:14:09,015
+
+
 Yeah, I read this story about this killer
 who sits behind people in movies
 
-97
-00:14:09,121 --> 00:14:11,851
+
+
 and stabs them with a needle right here.
 
-98
-00:14:11,958 --> 00:14:13,619
+
+
 You die like instantly.
 
-99
-00:14:13,726 --> 00:14:16,593
+
+
 Nobody even knows you're dead
 until the movie's over and you don't get up.
 
-100
-00:14:16,696 --> 00:14:18,027
+
+
 Iùs so creep...
 
-101
-00:14:18,130 --> 00:14:22,328
+
+
 Beat them, baby! Owls, number one!
 Leùs do this! Yeah!
 
-102
-00:14:22,435 --> 00:14:23,402
+
+
 Oh, my God!
 
-103
-00:14:23,502 --> 00:14:25,595
+
+
 Oh, so weird!
 
-104
-00:14:25,705 --> 00:14:27,502
+
+
 Everybody is insanely crazy.
 
-105
-00:14:27,607 --> 00:14:30,098
+
+
 - Hey!
 - Hey!
 
-106
-00:14:30,209 --> 00:14:31,642
+
+
 I'm looking for Jerrod.
 
-107
-00:14:31,744 --> 00:14:34,372
+
+
 - Oh, good luck.
 - Oh, there he is! Jerrod!
 
-108
-00:14:34,480 --> 00:14:36,141
+
+
 - Jerrod!
 - Aubrey, wait!
 
-109
-00:14:36,249 --> 00:14:38,979
+
+
 I'll meet you in front of the Fremont at 11:45.
 
-110
-00:14:39,518 --> 00:14:40,712
+
+
 Jerrod!
 
-111
-00:15:07,146 --> 00:15:08,340
+
+
 Aubrey?
 
-112
-00:15:10,483 --> 00:15:11,677
+
+
 Aubrey!
 
-113
-00:15:13,619 --> 00:15:14,813
+
+
 Aubrey!
 
-114
-00:15:16,622 --> 00:15:19,182
+
+
 Okay, so I am officially freaking out.
 
-115
-00:15:19,292 --> 00:15:22,193
+
+
 I'm just gonna try her cell again,
 and you've got to try Jerrod.
 
-116
-00:15:22,295 --> 00:15:23,387
+
+
 Okay.
 
-117
-00:15:27,600 --> 00:15:30,694
+
+
 - I think iùs coming from over here!
 - Don't hang up your phone!
 
-118
-00:15:30,803 --> 00:15:32,395
+
+
 - Hello? Hey.
 - Iùs me.
 
-119
-00:15:32,505 --> 00:15:34,029
+
+
 Where's Aubrey?
 
-120
-00:15:34,840 --> 00:15:35,898
+
+
 What?
 
-121
-00:15:37,910 --> 00:15:40,344
+
+
 Okay, where did she park?
 
-122
-00:15:40,446 --> 00:15:42,277
+
+
 Where'd she park her car?
 
-123
-00:15:42,381 --> 00:15:44,713
+
+
 - Come on, you rode with her.
 - Yeah, it was on that street.
 
-124
-00:15:44,817 --> 00:15:47,581
+
+
 - Iùs that street, you know the one.
 - No. No, I don't know the one.
 
-125
-00:15:47,687 --> 00:15:49,314
+
+
 - Tell me.
 - Yeah, I do. Iùs in front
 
-126
-00:15:49,422 --> 00:15:52,482
+
+
 - of the little art gallery with the gate.
 - Yeah.
 
-127
-00:15:52,758 --> 00:15:54,555
+
+
 - Wait!
 - Wait a second!
 
-128
-00:15:57,897 --> 00:16:00,058
+
+
 There it is! There's her car!
 
-129
-00:17:24,517 --> 00:17:25,745
+
+
 Help!
 
-130
-00:17:25,851 --> 00:17:26,875
+
+
 No!
 
-131
-00:17:29,755 --> 00:17:30,779
+
+
 No!
 
-132
-00:17:37,530 --> 00:17:39,361
+
+
 She...
 
-133
-00:17:39,465 --> 00:17:41,433
+
+
 She lives on this thing.
 
-134
-00:17:42,234 --> 00:17:43,724
+
+
 Iùs her life.
 
-135
-00:17:45,438 --> 00:17:46,666
+
+
 Writing.
 
-136
-00:17:48,007 --> 00:17:49,736
+
+
 She loves to write.
 
-137
-00:17:51,243 --> 00:17:54,269
+
+
 Mr. Fleming, I'm gonna have to
 take that computer from you.
 
-138
-00:17:54,380 --> 00:17:56,041
+
+
 I need to make a copy of the hard drive.
 
-139
-00:17:56,148 --> 00:17:58,639
+
+
 Take it, please. Anything you need.
 
-140
-00:18:07,827 --> 00:18:09,089
+
+
 Daniel,
 
-141
-00:18:10,096 --> 00:18:13,224
+
+
 is there any chance
 that your daughter might have run away?
 
-142
-00:18:13,332 --> 00:18:16,699
+
+
 Was she unhappy about anything?
 
-143
-00:18:16,802 --> 00:18:18,394
+
+
 Aubrey? Unhappy?
 
-144
-00:18:21,740 --> 00:18:22,707
+
+
 No.
 
-145
-00:18:23,876 --> 00:18:25,173
+
+
 Not at all.
 
-146
-00:18:25,711 --> 00:18:26,871
+
+
 You sure about that?
 
-147
-00:18:28,681 --> 00:18:31,616
+
+
 Where were you
 when Aubrey left for the game?
 
-148
-00:18:33,319 --> 00:18:38,586
+
+
 I was on a conference call,
 so I was in the dining room, pacing.
 
-149
-00:18:38,691 --> 00:18:41,091
+
+
 You know, I always pace when I...
 
-150
-00:18:41,193 --> 00:18:43,821
+
+
 Do you remember saying goodbye to her?
 
-151
-00:18:45,631 --> 00:18:48,156
+
+
 Can you describe how she looked?
 
-152
-00:18:48,267 --> 00:18:49,928
+
+
 What her mood was?
 
-153
-00:19:01,614 --> 00:19:03,946
+
+
 You know, you don't always
 
-154
-00:19:04,049 --> 00:19:05,573
+
+
 think to take a mental picture
 of your daughter
 
-155
-00:19:05,684 --> 00:19:07,982
+
+
 every time she leaves the house.
 
-156
-00:19:08,454 --> 00:19:10,388
+
+
 I used to do that, but...
 
-157
-00:19:11,957 --> 00:19:14,585
+
+
 "The Worrier," Daniel used to call me.
 
-158
-00:19:20,766 --> 00:19:22,393
+
+
 Do you have kids?
 
-159
-00:19:28,908 --> 00:19:30,773
+
+
 It falls away, and...
 
-160
-00:19:33,846 --> 00:19:35,780
+
+
 They always come back.
 
-161
-00:19:35,881 --> 00:19:39,044
+
+
 You know, they never don't come back.
 It just...
 
-162
-00:21:31,930 --> 00:21:33,056
+
+
 Aubrey!
 
-163
-00:21:38,270 --> 00:21:39,464
+
+
 Aubrey!
 
-164
-00:21:57,523 --> 00:21:59,388
+
+
 Keep your eyes peeled!
 
-165
-00:22:30,155 --> 00:22:32,749
+
+
 3:00 sharp? Yeah, good man.
 
-166
-00:22:35,861 --> 00:22:37,726
+
+
 Jesus.
 
-167
-00:22:37,830 --> 00:22:41,095
+
+
 Well, I hope our little investigation
 doesn't interfere with bingo night.
 
-168
-00:23:11,363 --> 00:23:13,729
+
+
 I feel like half a person, you know?
 
-169
-00:23:13,832 --> 00:23:17,233
+
+
 And, all of a sudden, it dawns on me,
 this is Steve and Vicky.
 
-170
-00:23:17,336 --> 00:23:19,702
+
+
 Steve and Vicky this, Steve and Vicky that.
 
-171
-00:23:19,805 --> 00:23:23,036
+
+
 We're finishing each other's sentences here.
 
-172
-00:23:23,142 --> 00:23:26,077
+
+
 Hell, we're finishing each other's thoughts.
 
-173
-00:23:50,068 --> 00:23:51,126
+
+
 Hey!
 
-174
-00:23:53,739 --> 00:23:55,001
+
+
 You okay?
 
-175
-00:23:57,509 --> 00:23:58,567
+
+
 Hey!
 
-176
-00:24:08,554 --> 00:24:09,646
+
+
 Yeah?
 
-177
-00:24:11,390 --> 00:24:12,584
+
+
 Susan!
 
-178
-00:24:13,692 --> 00:24:15,159
+
+
 Is she alive?
 
-179
-00:24:15,794 --> 00:24:19,389
+
+
 - Oh, God!
 - Okay, okay, okay, okay. How bad?
 
-180
-00:24:33,879 --> 00:24:36,211
+
+
 Her blood pressure's increasing.
 
-181
-00:24:38,150 --> 00:24:39,913
+
+
 - She's fucking awake.
 - For GoÔs sake.
 
-182
-00:24:40,018 --> 00:24:42,043
+
+
 Increasing her thiopental.
 
-183
-00:24:52,464 --> 00:24:56,127
+
+
 Orthopedic saw. Orthopedic saw, now.
 
-184
-00:25:05,210 --> 00:25:07,872
+
+
 Well! Hey, beautiful.
 
-185
-00:25:09,715 --> 00:25:12,707
+
+
 Nobody expected to see those eyes
 for a while.
 
-186
-00:25:18,457 --> 00:25:21,085
+
+
 - I'm in the hospital?
 - You're safe now.
 
-187
-00:25:22,261 --> 00:25:25,230
+
+
 What hospital am I in? Where?
 
-188
-00:25:27,165 --> 00:25:28,132
+
+
 I'll...
 
-189
-00:25:28,967 --> 00:25:30,992
+
+
 I'll get the doctor, okay?
 
-190
-00:25:46,518 --> 00:25:47,780
+
+
 Oh, my...
 
-191
-00:25:47,886 --> 00:25:49,251
+
+
 Oh, my God!
 
-192
-00:26:01,266 --> 00:26:04,360
+
+
 Oh, my God! Oh, my God!
 
-193
-00:26:21,753 --> 00:26:23,118
+
+
 Look, the press is asking questions.
 
-194
-00:26:23,221 --> 00:26:27,021
+
+
 - Now, I think what we should do...
 - No, no, no. No comments, no leaks.
 
-195
-00:26:27,125 --> 00:26:30,185
+
+
 Aubrey Fleming is still missing
 as far as the worlÔs concerned,
 
-196
-00:26:30,295 --> 00:26:32,058
+
+
 - and I want to keep it that way.
 - Everyone at the hospital's
 
-197
-00:26:32,164 --> 00:26:34,632
+
+
 been threatened with dismissal
 and obstruction of justice charges
 
-198
-00:26:34,733 --> 00:26:36,963
+
+
 if they leak a word of this. We clear?
 
-199
-00:26:37,069 --> 00:26:39,333
+
+
 Plausible explanations. Okay.
 
-200
-00:26:39,438 --> 00:26:42,839
+
+
 Number one, he was done with her.
 He left her on the side of the road to die.
 
-201
-00:26:42,941 --> 00:26:45,535
+
+
 But he didn't count on her will to live.
 
-202
-00:26:45,644 --> 00:26:47,111
+
+
 I don't buy it.
 
-203
-00:26:47,212 --> 00:26:49,908
+
+
 He wasn't done with Aubrey Fleming,
 not by a long shot.
 
-204
-00:26:50,015 --> 00:26:53,246
+
+
 He only had her for what? 17, 18 days?
 
-205
-00:26:53,352 --> 00:26:57,379
+
+
 The sectioning was just getting started.
 Her leg wasn't completely off.
 
-206
-00:26:57,489 --> 00:27:00,424
+
+
 And why the hell would he sew her fingers
 back onto her hand,
 
-207
-00:27:00,525 --> 00:27:01,583
+
+
 - and her hand back onto...
 - But wait a minute.
 
-208
-00:27:01,693 --> 00:27:03,183
+
+
 Remember, Jennifer Toland drowned.
 
-209
-00:27:04,096 --> 00:27:06,758
+
+
 I mean, now, iùs too early
 for an accurate profile but...
 
-210
-00:27:07,132 --> 00:27:10,033
+
+
 I think the cutting is about punishment.
 
-211
-00:27:10,135 --> 00:27:12,433
+
+
 And when the punishment is over,
 
-212
-00:27:12,537 --> 00:27:15,904
+
+
 he finds a way for the death to happen,
 so he doesn't have to be there.
 
-213
-00:27:16,008 --> 00:27:20,206
+
+
 Now, he doesn't like the dying part,
 but he's got to make sure it happens.
 
-214
-00:27:21,580 --> 00:27:23,138
+
+
 Dying freaks him out.
 
-215
-00:27:23,248 --> 00:27:24,442
+
+
 I think she escaped.
 
-216
-00:27:24,549 --> 00:27:27,382
+
+
 The only answer
 that makes any sense to me.
 
-217
-00:27:31,890 --> 00:27:33,414
+
+
 Hey, honey pie.
 
-218
-00:27:37,663 --> 00:27:39,324
+
+
 Sure did miss you.
 
-219
-00:27:42,734 --> 00:27:47,137
+
+
 We're gonna have you home in no time,
 and we can put all this behind us.
 
-220
-00:27:48,373 --> 00:27:49,362
+
+
 Home?
 
-221
-00:27:49,474 --> 00:27:51,101
+
+
 Isn't that right, Doctor?
 
-222
-00:27:51,209 --> 00:27:53,302
+
+
 Aubrey's been very brave.
 
-223
-00:27:53,412 --> 00:27:56,848
+
+
 With any luck,
 we'll have her out of the ICU tomorrow.
 
-224
-00:27:59,418 --> 00:28:01,682
+
+
 Who is Aubrey?
 
-225
-00:28:05,724 --> 00:28:07,123
+
+
 Who are you?
 
-226
-00:28:10,028 --> 00:28:11,757
+
+
 Who is...
 
-227
-00:28:11,863 --> 00:28:13,660
+
+
 - Who is Aubrey?
 - No.
 
-228
-00:28:15,500 --> 00:28:17,730
+
+
 - Oh, my God.
 - I don't...
 
-229
-00:28:17,836 --> 00:28:19,861
+
+
 I just, I don't...
 
-230
-00:28:22,040 --> 00:28:25,032
+
+
 Don't touch me. Don't touch me.
 Please, don't.
 
-231
-00:28:38,256 --> 00:28:41,020
+
+
 Aubrey Fleming,
 session number one, 10:30 a.m.
 
-232
-00:28:42,527 --> 00:28:44,358
+
+
 I'm not Aubrey Fleming.
 
-233
-00:28:44,463 --> 00:28:45,862
+
+
 Then what should I call you?
 
-234
-00:28:45,964 --> 00:28:48,057
+
+
 My real name would be nice.
 
-235
-00:28:50,202 --> 00:28:51,965
+
+
 Session number one, 10:30 a.m.
 
-236
-00:28:53,572 --> 00:28:54,971
+
+
 Dakota Moss.
 
-237
-00:28:56,108 --> 00:28:57,507
+
+
 Listen.
 
-238
-00:28:57,609 --> 00:29:01,545
+
+
 I know I may look a little like
 this Aubrey chick, or whatever her name is,
 
-239
-00:29:01,646 --> 00:29:04,877
+
+
 but I'm not her, okay? I am not her.
 
-240
-00:29:06,151 --> 00:29:08,210
+
+
 Leùs get some housekeeping
 out of the way first.
 
-241
-00:29:09,554 --> 00:29:12,284
+
+
 - Date of birth?
 - June 9th, 1988.
 
-242
-00:29:13,458 --> 00:29:15,358
+
+
 Social Security number?
 
-243
-00:29:16,394 --> 00:29:17,884
+
+
 I don't have one.
 
-244
-00:29:19,064 --> 00:29:21,464
+
+
 Look, when you're raised by a crack addict
 who thinks the less
 
-245
-00:29:21,566 --> 00:29:24,194
+
+
 that people know about you, the better,
 it kind of sticks.
 
-246
-00:29:25,303 --> 00:29:28,295
+
+
 I made up a Social Security number
 when I needed one,
 
-247
-00:29:28,406 --> 00:29:31,705
+
+
 but I couldn't keep a job long enough
 for that to matter.
 
-248
-00:29:31,810 --> 00:29:34,904
+
+
 A job? You're fairly young to be working.
 
-249
-00:29:35,013 --> 00:29:39,347
+
+
 Yeah, well, I didn't grow up in New Salem.
 I grew up in the real world.
 
-250
-00:29:41,119 --> 00:29:42,518
+
+
 You mentioned your mother.
 
-251
-00:29:43,054 --> 00:29:44,021
+
+
 Dead.
 
-252
-00:29:44,322 --> 00:29:45,721
+
+
 How did your mother die?
 
-253
-00:29:46,158 --> 00:29:47,284
+
+
 O.D.
 
-254
-00:29:50,162 --> 00:29:51,629
+
+
 How long ago?
 
-255
-00:29:55,967 --> 00:30:00,267
+
+
 <i>Six, seven months ago.</i>
 <i>We weren't really what you'd call close</i>
 
-256
-00:30:00,372 --> 00:30:02,704
+
+
 <i>since she'd started using again.</i>
 
-257
-00:30:02,808 --> 00:30:07,074
+
+
 <i>But I could always count on seeing</i>
 <i>the palm of her hand on payday.</i>
 
-258
-00:30:07,179 --> 00:30:11,309
+
+
 <i>When she didn't come around,</i>
 <i>I assumed she was dead.</i>
 
-259
-00:30:11,416 --> 00:30:14,112
+
+
 <i>Wasn't too hard to see that one coming.</i>
 
-260
-00:30:53,925 --> 00:30:55,449
+
+
 She was stupid.
 
-261
-00:30:57,028 --> 00:30:58,290
+
+
 Pathetic.
 
-262
-00:30:59,631 --> 00:31:01,098
+
+
 And a junkie.
 
-263
-00:31:16,481 --> 00:31:17,914
+
+
 <i>Did your mother leave you anything?</i>
 
-264
-00:31:18,583 --> 00:31:20,778
+
+
 <i>Yeah. $11.</i>
 
-265
-00:31:31,930 --> 00:31:35,388
+
+
 Tell me something. Why does a shrink need
 your Social Security number?
 
-266
-00:31:36,701 --> 00:31:38,999
+
+
 I like to have it for my files.
 
-267
-00:31:40,305 --> 00:31:42,273
+
+
 You're fuzz, aren't you?
 
-268
-00:31:45,010 --> 00:31:46,944
+
+
 I don't want to lie to you.
 
-269
-00:31:47,045 --> 00:31:50,412
+
+
 I am a psychiatrist,
 but I also do work for the FBI.
 
-270
-00:31:50,515 --> 00:31:52,346
+
+
 I fucking knew it.
 
-271
-00:31:52,450 --> 00:31:55,146
+
+
 It doesn't mean I care any less
 for the work we do here.
 
-272
-00:31:56,288 --> 00:32:00,247
+
+
 You know, you're wasting your time
 because I've got nothing to tell you.
 
-273
-00:32:00,358 --> 00:32:03,725
+
+
 In cases like these, there are specific details
 that we withhold from the public
 
-274
-00:32:03,828 --> 00:32:07,889
+
+
 to separate the serial confessors
 from the serial killer.
 
-275
-00:32:07,999 --> 00:32:11,093
+
+
 The pattern of your injuries is identical.
 Not similar,
 
-276
-00:32:12,570 --> 00:32:15,539
+
+
 identical, with another young girl.
 
-277
-00:32:15,640 --> 00:32:17,972
+
+
 A murdered girl, from New Salem.
 
-278
-00:32:20,078 --> 00:32:21,340
+
+
 Prove it.
 
-279
-00:32:34,059 --> 00:32:35,492
+
+
 Oh, my God.
 
-280
-00:32:38,029 --> 00:32:39,792
+
+
 Hello, Mrs. Fleming.
 
-281
-00:32:41,466 --> 00:32:42,524
+
+
 Hey.
 
-282
-00:32:43,601 --> 00:32:45,034
+
+
 Hi.
 
-283
-00:32:45,136 --> 00:32:48,867
+
+
 I brought some of your things
 to make you feel more at home.
 
-284
-00:32:50,141 --> 00:32:55,010
+
+
 This is Mr. Gervais.
 
-285
-00:33:02,587 --> 00:33:03,952
+
+
 All right.
 
-286
-00:33:04,055 --> 00:33:08,458
+
+
 Look, I'm sure you're a very nice woman.
 Really. But I don't have a home.
 
-287
-00:33:08,560 --> 00:33:11,996
+
+
 And, yeah, I just want to know
 when I get to get out of here.
 
-288
-00:33:12,097 --> 00:33:17,194
+
+
 You don't remember Mr. Gervais
 and sleeping with him?
 
-289
-00:33:19,170 --> 00:33:20,262
+
+
 Nope.
 
-290
-00:33:25,043 --> 00:33:26,874
+
+
 And this is some of your...
 
-291
-00:33:27,078 --> 00:33:31,481
+
+
 Some... Some of Aubrey's favorite music,
 on that.
 
-292
-00:33:32,350 --> 00:33:34,944
+
+
 Now, where are... Shit.
 
-293
-00:33:35,987 --> 00:33:38,080
+
+
 How could I forget the earphones?
 
-294
-00:33:39,591 --> 00:33:42,492
+
+
 This was the most important thing in here.
 
-295
-00:33:42,594 --> 00:33:45,085
+
+
 You love your music, and, you know,
 
-296
-00:33:45,196 --> 00:33:48,688
+
+
 they use music to help
 people come out of comas.
 
-297
-00:33:48,800 --> 00:33:51,394
+
+
 Do I look like I'm in a fucking coma?
 
-298
-00:33:58,977 --> 00:34:01,036
+
+
 What else you got in the bag?
 
-299
-00:34:01,146 --> 00:34:03,307
+
+
 Whaùs that? Is it a picture?
 
-300
-00:34:03,415 --> 00:34:04,404
+
+
 Yeah.
 
-301
-00:34:04,549 --> 00:34:07,916
+
+
 <i>Dr. Mancuso to the ER.</i>
 <i>Dr. Mancuso to the ER.</i>
 
-302
-00:34:08,019 --> 00:34:09,111
+
+
 Here.
 
-303
-00:34:14,392 --> 00:34:15,620
+
+
 Where...
 
-304
-00:34:16,961 --> 00:34:18,326
+
+
 Who gave you this?
 
-305
-00:34:18,696 --> 00:34:19,993
+
+
 Is something happening?
 
-306
-00:34:21,833 --> 00:34:23,164
+
+
 When I was a little girl, I...
 
-307
-00:34:23,268 --> 00:34:25,793
+
+
 You were seven.
 
-308
-00:34:25,904 --> 00:34:28,429
+
+
 We all went to Hawaii for Christmas.
 
-309
-00:34:30,909 --> 00:34:34,310
+
+
 The pictures are almost the same.
 
-310
-00:34:35,747 --> 00:34:39,114
+
+
 My bathing suit was different,
 the water wasn't blue.
 
-311
-00:34:40,285 --> 00:34:42,583
+
+
 It was brown, actually.
 
-312
-00:34:42,687 --> 00:34:44,848
+
+
 And my mother took me there
 
-313
-00:34:44,956 --> 00:34:47,151
+
+
 as if it was some sort of treat or something
 
-314
-00:34:47,692 --> 00:34:49,751
+
+
 to watch freaking garbage float.
 
-315
-00:34:55,700 --> 00:34:57,327
+
+
 What is it, honey?
 
-316
-00:34:59,604 --> 00:35:02,402
+
+
 A lot of little girls look alike, I guess.
 
-317
-00:35:07,212 --> 00:35:08,611
+
+
 Whaùs this?
 
-318
-00:35:13,251 --> 00:35:15,276
+
+
 You've got to understand that we are trying
 
-319
-00:35:15,386 --> 00:35:17,718
+
+
 - to help your daughter, Mrs. Fleming.
 - This is what you call help?
 
-320
-00:35:17,822 --> 00:35:20,655
+
+
 - This isn't help. This is just more torture.
 - I have full authority
 
-321
-00:35:20,758 --> 00:35:22,225
+
+
 - to conduct this investigation...
 - Don't!
 
-322
-00:35:22,327 --> 00:35:24,352
+
+
 ...in any way I see fit.
 - You do not have full authority.
 
-323
-00:35:24,462 --> 00:35:26,589
+
+
 - I'm trying to prevent it happening...
 - Hasn't she suffered enough?
 
-324
-00:35:26,698 --> 00:35:28,393
+
+
 ...to another girl and mother...
 - Are you just trying...
 
-325
-00:35:28,500 --> 00:35:29,626
+
+
 ...because it will...
 ...to prolong our pain?
 
-326
-00:35:29,734 --> 00:35:32,703
+
+
 ...Mrs. Fleming. It will.
 - My God, where is your sympathy?
 
-327
-00:35:32,804 --> 00:35:35,796
+
+
 Your daughter is lucky to be alive,
 but she will not be safe
 
-328
-00:35:35,907 --> 00:35:39,809
+
+
 until whoever did this to her is behind bars.
 
-329
-00:35:41,679 --> 00:35:43,203
+
+
 She's not safe.
 
-330
-00:36:10,308 --> 00:36:14,608
+
+
 Dakota, this is Julie Bascombe
 and Phil Lazarus.
 
-331
-00:36:14,712 --> 00:36:18,079
+
+
 Yeah, I've seen them around.
 Two of my prison guards.
 
-332
-00:36:20,552 --> 00:36:23,487
+
+
 The security measures are all
 for your own comfort, Dakota.
 
-333
-00:36:24,489 --> 00:36:27,583
+
+
 Dakota, who cut you?
 Thaùs all we want to know.
 
-334
-00:36:29,394 --> 00:36:33,023
+
+
 Look, once he finds out you're still alive,
 he's gonna come after you.
 
-335
-00:36:33,131 --> 00:36:35,292
+
+
 Now, we've done everything we can
 to keep this out of the press,
 
-336
-00:36:35,400 --> 00:36:37,630
+
+
 but iùs bound to get out sooner or later.
 
-337
-00:36:37,735 --> 00:36:39,794
+
+
 So, you're gonna use me as bait,
 unless I cooperate.
 
-338
-00:36:39,904 --> 00:36:41,633
+
+
 Is that what you're saying?
 
-339
-00:36:42,640 --> 00:36:46,770
+
+
 Dakota, help us, please.
 You saw the pictures of Jennifer.
 
-340
-00:36:46,878 --> 00:36:50,439
+
+
 The same person who cut her cut you.
 You can't deny that.
 
-341
-00:36:52,817 --> 00:36:55,081
+
+
 What do you remember
 about the past few weeks?
 
-342
-00:36:57,789 --> 00:36:58,881
+
+
 Everything.
 
-343
-00:36:58,990 --> 00:37:02,153
+
+
 Everything? Thaùs unusual.
 
-344
-00:37:02,260 --> 00:37:04,387
+
+
 Dakota, who did this to you?
 
-345
-00:37:05,797 --> 00:37:06,889
+
+
 I don't know.
 
-346
-00:37:06,998 --> 00:37:10,024
+
+
 - Were you blindfolded?
 - You were locked up?
 
-347
-00:37:10,134 --> 00:37:12,295
+
+
 It doesn't matter
 if it doesn't make sense to you.
 
-348
-00:37:12,403 --> 00:37:14,633
+
+
 We'll put the pieces together.
 
-349
-00:37:21,079 --> 00:37:24,139
+
+
 All right, so I got this new job. Night shift.
 
-350
-00:37:25,750 --> 00:37:27,377
+
+
 What kind of job?
 
-351
-00:37:28,419 --> 00:37:30,182
+
+
 A hostess.
 
-352
-00:37:30,288 --> 00:37:32,153
+
+
 At a gentlemen's club.
 
-353
-00:37:33,524 --> 00:37:36,425
+
+
 Don't care how old you really are, kiddo.
 
-354
-00:37:36,527 --> 00:37:40,657
+
+
 Your ID says you're 21,
 you're fucking 21 to me.
 
-355
-00:37:43,534 --> 00:37:47,436
+
+
 <i>An exotic dancer,</i>
 <i>thaùs what the hostess job turned out to be.</i>
 
-356
-00:39:34,379 --> 00:39:38,213
+
+
 <i>He coulÔve been there</i>
 <i>the first night I danced. I don't know.</i>
 
-357
-00:42:53,711 --> 00:42:55,679
+
+
 Everything about him was just...
 
-358
-00:42:56,581 --> 00:42:59,573
+
+
 I don't know, was intense.
 
-359
-00:43:01,586 --> 00:43:03,110
+
+
 I never really got to see his face.
 
-360
-00:43:03,220 --> 00:43:05,051
+
+
 How do you know it was the same guy
 from the club?
 
-361
-00:43:05,156 --> 00:43:08,648
+
+
 - I just knew.
 - Was he tall? Thin? Stocky? What?
 
-362
-00:43:12,096 --> 00:43:14,087
+
+
 He was wearing blue gloves.
 
-363
-00:43:14,198 --> 00:43:16,826
+
+
 - The rubber kind that doctors wear.
 - Are you sure?
 
-364
-00:43:16,934 --> 00:43:19,425
+
+
 Look, I'm not sure about anything, okay?
 
-365
-00:43:19,537 --> 00:43:21,095
+
+
 What about when he cut you?
 
-366
-00:43:21,872 --> 00:43:23,271
+
+
 You didn't see him then?
 
-367
-00:43:25,109 --> 00:43:28,704
+
+
 - No.
 - Look, he gave you drugs, Aubrey. Okay?
 
-368
-00:43:28,813 --> 00:43:30,246
+
+
 To make you watch.
 
-369
-00:43:30,348 --> 00:43:33,181
+
+
 To keep you awake,
 so you'd have to have seen something.
 
-370
-00:43:33,284 --> 00:43:34,376
+
+
 I don't lie.
 
-371
-00:43:35,119 --> 00:43:37,212
+
+
 If I tell you I didn't see him,
 I didn't fucking see him.
 
-372
-00:43:37,321 --> 00:43:39,346
+
+
 How do you know it was the same guy
 who cut you, then?
 
-373
-00:43:39,457 --> 00:43:42,051
+
+
 You're right. I don't know.
 
-374
-00:43:42,159 --> 00:43:45,754
+
+
 Aubrey, you have got to
 stop playing games with us.
 
-375
-00:43:45,863 --> 00:43:48,855
+
+
 Am I making myself clear?
 We have to know the truth.
 
-376
-00:43:48,966 --> 00:43:51,332
+
+
 Oh. Oh, I'm sorry.
 You want to know the truth?
 
-377
-00:43:51,435 --> 00:43:54,336
+
+
 Well, what about me? You think I don't?
 
-378
-00:43:54,438 --> 00:43:56,338
+
+
 How the fuck would you feel?
 
-379
-00:43:56,440 --> 00:44:00,672
+
+
 Fingers, leg, hand, gone.
 I practically fucking died.
 
-380
-00:44:00,778 --> 00:44:03,975
+
+
 And now, I'm locked up
 in the fucking hospital
 
-381
-00:44:04,081 --> 00:44:06,049
+
+
 like a goddamn prisoner!
 
-382
-00:44:35,413 --> 00:44:37,244
+
+
 So, what are you saying, Doctor?
 
-383
-00:44:37,348 --> 00:44:41,444
+
+
 I don't know.
 Usually iùs easy to find the inconsistencies,
 
-384
-00:44:41,552 --> 00:44:42,746
+
+
 the holes in the fantasy.
 
-385
-00:44:42,853 --> 00:44:45,549
+
+
 Even in the most extreme cases
 of posttraumatic stress,
 
-386
-00:44:45,656 --> 00:44:49,820
+
+
 you get a tiny measure
 of the original person.
 
-387
-00:44:49,927 --> 00:44:52,896
+
+
 You know what I think, Doctor?
 I think we're wasting our time.
 
-388
-00:44:52,997 --> 00:44:55,591
+
+
 - I think this kid is lying through her teeth.
 - No.
 
-389
-00:44:57,268 --> 00:45:00,169
+
+
 She's not lying. She's...
 
-390
-00:45:05,376 --> 00:45:07,537
+
+
 I don't think iùs that simple.
 
-391
-00:45:07,645 --> 00:45:09,135
+
+
 She was withholding deliberately.
 
-392
-00:45:09,246 --> 00:45:10,213
+
+
 - Yeah?
 - Yeah.
 
-393
-00:45:10,314 --> 00:45:11,941
+
+
 I thought she just ran out of imagination.
 
-394
-00:45:12,049 --> 00:45:14,108
+
+
 Aubrey Fleming is not short on imagination.
 
-395
-00:45:14,218 --> 00:45:15,480
+
+
 - Thaùs for sure.
 - Okay.
 
-396
-00:45:15,586 --> 00:45:20,489
+
+
 So, she gets to a certain point in her story
 and she stops talking. Why?
 
-397
-00:45:20,591 --> 00:45:24,254
+
+
 Sometimes people create alter egos
 to relay information
 
-398
-00:45:24,361 --> 00:45:27,728
+
+
 that their primary personalities
 would never reveal.
 
-399
-00:45:27,832 --> 00:45:30,426
+
+
 So, why would the alter ego withhold?
 
-400
-00:45:31,402 --> 00:45:32,369
+
+
 I don't know.
 
-401
-00:45:33,270 --> 00:45:35,636
+
+
 I think she doesn't tell everybody
 the whole story
 
-402
-00:45:35,740 --> 00:45:37,935
+
+
 because she doesn't think
 anybody's gonna believe her.
 
-403
-00:45:38,042 --> 00:45:41,011
+
+
 I mean, she's not even sure
 she believes what happened to her.
 
-404
-00:45:55,059 --> 00:45:58,051
+
+
 <i>... unconfirmed reports tonight,</i>
 <i>in this News 5 exclusive,</i>
 
-405
-00:45:58,963 --> 00:46:00,521
+
+
 <i>that the abducted teen has been found</i>
 
-406
-00:46:00,631 --> 00:46:04,123
+
+
 <i>and has been secretly held</i>
 <i>at New Salem Hospital for over a week.</i>
 
-407
-00:46:04,235 --> 00:46:05,930
+
+
 <i>- News 5 will continue to update you...</i>
 - Shit.
 
-408
-00:46:06,036 --> 00:46:08,231
+
+
 <i>... on this story as it develops.</i>
 
-409
-00:46:53,651 --> 00:46:56,176
+
+
 No. No!
 
-410
-00:46:56,287 --> 00:46:59,017
+
+
 No! Get off, get him off me!
 
-411
-00:46:59,123 --> 00:47:02,991
+
+
 Aubrey! What happened?
 Sweetheart, what happened?
 
-412
-00:47:03,093 --> 00:47:04,287
+
+
 Honey, what happened?
 Who did this to you?
 
-413
-00:47:04,395 --> 00:47:06,761
+
+
 - Somebody come in here!
 - Get off of me!
 
-414
-00:47:06,864 --> 00:47:09,230
+
+
 Iùs okay, iùs Daddy. Iùs Daddy.
 Iùs okay. Iùs Daddy.
 
-415
-00:47:09,333 --> 00:47:11,858
+
+
 Iùs all right.
 
-416
-00:47:11,969 --> 00:47:14,437
+
+
 - Calm down and back away, Mr. Fleming.
 - Don't you fucking touch me!
 
-417
-00:47:14,538 --> 00:47:17,996
+
+
 Somebody came in here and sliced up
 my little girl. I want you to find him now!
 
-418
-00:47:19,310 --> 00:47:21,471
+
+
 No! No!
 
-419
-00:47:47,137 --> 00:47:48,900
+
+
 I am Aubrey Fleming.
 
-420
-00:47:51,575 --> 00:47:53,270
+
+
 My name is Aubrey Fleming.
 
-421
-00:47:53,377 --> 00:47:57,177
+
+
 I enjoy sunsets, long walks on the beach,
 and playing the piano.
 
-422
-00:47:57,281 --> 00:48:00,182
+
+
 I have never seen the inside of a strip club
 or a crack house,
 
-423
-00:48:00,284 --> 00:48:02,809
+
+
 and I have never sold my body
 to hairy old men with B.O.
 
-424
-00:48:02,920 --> 00:48:04,717
+
+
 because I am perfect.
 
-425
-00:48:11,228 --> 00:48:14,163
+
+
 Say hello to your new state-of-the-art hand.
 
-426
-00:48:21,772 --> 00:48:24,138
+
+
 Your nerve impulses get picked up
 by sensors
 
-427
-00:48:24,241 --> 00:48:27,802
+
+
 that control six different sets of gears
 and motors inside the hand,
 
-428
-00:48:27,912 --> 00:48:31,780
+
+
 so the movements are incredibly lifelike
 and precise.
 
-429
-00:48:31,882 --> 00:48:33,474
+
+
 Iùs so creepy.
 
-430
-00:48:33,584 --> 00:48:35,814
+
+
 No. Iùs beautiful.
 
-431
-00:48:35,920 --> 00:48:38,582
+
+
 Once we're sure everything works
 the way iùs supposed to,
 
-432
-00:48:38,689 --> 00:48:40,589
+
+
 we'll fit this over it.
 
-433
-00:48:47,231 --> 00:48:48,425
+
+
 Lovely.
 
-434
-00:48:49,566 --> 00:48:51,033
+
+
 Step forward.
 
-435
-00:48:55,005 --> 00:48:56,529
+
+
 Take your time.
 
-436
-00:49:00,311 --> 00:49:01,642
+
+
 Beautiful.
 
-437
-00:49:05,749 --> 00:49:07,512
+
+
 You're almost there, you're almost there.
 
-438
-00:49:09,987 --> 00:49:14,549
+
+
 Excellent, excellent. You'll be back
 on the dance floor in no time, Dakota.
 
-439
-00:49:14,658 --> 00:49:16,125
+
+
 Iùs amazing.
 
-440
-00:49:16,226 --> 00:49:18,717
+
+
 - Thank you.
 - For?
 
-441
-00:49:18,862 --> 00:49:20,727
+
+
 For calling me Dakota.
 
-442
-00:49:22,700 --> 00:49:24,964
+
+
 Just don't forget to plug it in
 when you're not wearing it.
 
-443
-00:49:25,069 --> 00:49:28,664
+
+
 If the battery runs down,
 iùs like dragging around a wooden leg.
 
-444
-00:49:28,772 --> 00:49:29,864
+
+
 Okay.
 
-445
-00:49:44,655 --> 00:49:47,749
+
+
 I think we managed
 to avoid all those reporters.
 
-446
-00:50:40,377 --> 00:50:42,345
+
+
 Aubrey chose the colors?
 
-447
-00:50:45,416 --> 00:50:48,442
+
+
 Yeah. Aubrey. Aubrey chose everything.
 
-448
-00:51:07,137 --> 00:51:09,731
+
+
 Thanks for putting me up for a while.
 I appreciate it.
 
-449
-00:51:14,445 --> 00:51:15,639
+
+
 Well...
 
-450
-00:51:16,647 --> 00:51:18,911
+
+
 Looks like we're not the only ones
 happy to see you home.
 
-451
-00:51:22,653 --> 00:51:24,314
+
+
 I don't like cats.
 
-452
-00:51:26,123 --> 00:51:27,488
+
+
 Okay. Yeah.
 
-453
-00:51:29,093 --> 00:51:30,856
+
+
 If you need anything, just...
 
-454
-00:51:39,536 --> 00:51:40,764
+
+
 Hold it!
 
-455
-00:51:43,507 --> 00:51:45,475
+
+
 - ID, please.
 - Yeah, sure.
 
-456
-00:51:49,847 --> 00:51:51,007
+
+
 Go on.
 
-457
-00:51:54,251 --> 00:51:56,048
+
+
 Thaùs the boyfriend.
 
-458
-00:52:26,617 --> 00:52:27,948
+
+
 - Hey.
 - Hi.
 
-459
-00:52:28,051 --> 00:52:29,450
+
+
 Dakota Moss.
 
-460
-00:52:30,721 --> 00:52:32,621
+
+
 Jerrod. Jerrod Pointer.
 
-461
-00:52:35,359 --> 00:52:38,351
+
+
 Sorry, I'm not really used to this thing yet.
 
-462
-00:52:39,830 --> 00:52:41,923
+
+
 Iùs fucked up though, huh?
 
-463
-00:52:43,834 --> 00:52:46,268
+
+
 - Thanks for seeing me.
 - Yeah, sure.
 
-464
-00:52:47,371 --> 00:52:49,100
+
+
 Are those flowers for me?
 
-465
-00:52:49,206 --> 00:52:50,298
+
+
 Yeah.
 
-466
-00:52:51,475 --> 00:52:52,669
+
+
 Thanks.
 
-467
-00:52:54,945 --> 00:52:56,344
+
+
 Might as well sit down.
 
-468
-00:53:04,254 --> 00:53:05,221
+
+
 Iùs upstairs.
 
-469
-00:53:07,658 --> 00:53:09,956
+
+
 Just keep forgetting to plug it in at night.
 
-470
-00:53:11,895 --> 00:53:13,795
+
+
 I was supposed to protect you.
 
-471
-00:53:13,897 --> 00:53:15,797
+
+
 So, you must be Aubrey's boyfriend.
 
-472
-00:53:17,067 --> 00:53:18,159
+
+
 Yeah.
 
-473
-00:53:20,170 --> 00:53:21,296
+
+
 I'm not Aubrey.
 
-474
-00:53:25,709 --> 00:53:27,574
+
+
 I'm really not Aubrey.
 
-475
-00:53:39,022 --> 00:53:40,853
+
+
 Aubrey wouldn't do that, would she?
 
-476
-00:53:49,466 --> 00:53:51,366
+
+
 Can I get you guys anything?
 
-477
-00:53:54,037 --> 00:53:55,834
+
+
 Oh, hi, Mrs. Fleming.
 
-478
-00:53:58,542 --> 00:54:00,009
+
+
 We're gonna go upstairs.
 
-479
-00:54:03,347 --> 00:54:05,008
+
+
 - Could you? Thanks.
 - Sure.
 
-480
-00:54:15,125 --> 00:54:18,094
+
+
 - Well, you coming?
 - Yeah.
 
-481
-00:54:22,299 --> 00:54:25,962
+
+
 Oh, and Susan, would you mind putting
 the blue roses in some water for me?
 
-482
-00:54:26,069 --> 00:54:27,263
+
+
 Thanks.
 
-483
-00:54:41,685 --> 00:54:45,121
+
+
 There's only one of these,
 so we better make it last.
 
-484
-00:56:31,428 --> 00:56:33,191
+
+
 Don't stop! Oh, my God.
 
-485
-00:56:57,988 --> 00:56:58,977
+
+
 Aubrey?
 
-486
-00:57:00,023 --> 00:57:01,320
+
+
 Why are you doing this?
 
-487
-00:57:04,694 --> 00:57:06,355
+
+
 Did she ever fuck you like that?
 
-488
-00:57:09,800 --> 00:57:11,529
+
+
 Did she ever fuck you at all?
 
-489
-00:57:15,472 --> 00:57:16,996
+
+
 Do you think she'd start now?
 
-490
-00:57:18,809 --> 00:57:22,040
+
+
 Look, if you want me to call you Dakota,
 I'll call you Dakota.
 
-491
-00:57:23,146 --> 00:57:25,808
+
+
 But if you're not Aubrey,
 then how'd you get all cut up?
 
-492
-00:57:30,420 --> 00:57:31,887
+
+
 I don't know.
 
-493
-00:57:34,357 --> 00:57:36,257
+
+
 I can't really explain.
 
-494
-01:00:15,185 --> 01:00:16,379
+
+
 Oh, God.
 
-495
-01:00:39,009 --> 01:00:41,671
+
+
 I found that heroin ho just like that.
 
-496
-01:00:42,812 --> 01:00:44,939
+
+
 What happened to her hand?
 
-497
-01:00:45,048 --> 01:00:47,949
+
+
 Why the hell you asking me?
 How should I know?
 
-498
-01:00:48,685 --> 01:00:51,119
+
+
 What happened to your hand, kiddo?
 
-499
-01:00:53,890 --> 01:00:55,517
+
+
 I'll be okay.
 
-500
-01:00:55,625 --> 01:00:57,752
+
+
 What happened to your hand?
 
-501
-01:00:57,861 --> 01:00:59,726
+
+
 Damn, that bitch lost a lot of blood.
 
-502
-01:00:59,829 --> 01:01:02,662
+
+
 You can die from losing that kind of blood.
 
-503
-01:01:03,500 --> 01:01:04,990
+
+
 Dance.
 
-504
-01:01:05,101 --> 01:01:06,295
+
+
 I'm just saying!
 
-505
-01:01:07,270 --> 01:01:08,430
+
+
 Dance.
 
-506
-01:01:09,272 --> 01:01:13,208
+
+
 Marlene is out there, and she'll kick my ass
 if I go out there while she's on.
 
-507
-01:01:13,343 --> 01:01:14,970
+
+
 You go out there.
 
-508
-01:01:28,591 --> 01:01:29,615
+
+
 So?
 
-509
-01:01:35,131 --> 01:01:36,689
+
+
 I was just having a drink out back
 
-510
-01:01:36,800 --> 01:01:41,066
+
+
 and I dropped a glass.
 Musùve cut myself when I picked it up.
 
-511
-01:01:43,506 --> 01:01:45,974
+
+
 How you gonna get to the emergency room?
 
-512
-01:01:46,076 --> 01:01:49,341
+
+
 Hospitals are for rich people. I'll be okay.
 
-513
-01:01:49,446 --> 01:01:50,811
+
+
 How you gonna get home?
 
-514
-01:01:51,715 --> 01:01:53,239
+
+
 I will be fine.
 
-515
-01:01:54,017 --> 01:01:56,315
+
+
 You better take an extra towel.
 
-516
-01:02:07,997 --> 01:02:09,965
+
+
 You got to hold it higher.
 
-517
-01:02:13,203 --> 01:02:15,398
+
+
 You got to hold it higher than your heart.
 
-518
-01:02:30,687 --> 01:02:33,315
+
+
 Aren't you gonna ask me what happened?
 
-519
-01:02:37,393 --> 01:02:38,917
+
+
 People get cut.
 
-520
-01:02:40,263 --> 01:02:41,662
+
+
 Thaùs life.
 
-521
-01:02:49,506 --> 01:02:51,701
+
+
 People get cut. Thaùs life.
 
-522
-01:02:54,244 --> 01:02:55,404
+
+
 Jesus.
 
-523
-01:02:56,212 --> 01:02:57,679
+
+
 So my finger got cut off,
 
-524
-01:02:58,648 --> 01:03:00,172
+
+
 but nobody did it.
 
-525
-01:03:01,317 --> 01:03:03,308
+
+
 Who's gonna believe that?
 
-526
-01:03:05,088 --> 01:03:07,386
+
+
 Look at you. You don't even believe it.
 
-527
-01:03:07,490 --> 01:03:08,582
+
+
 Yeah, I do.
 
-528
-01:03:09,759 --> 01:03:11,192
+
+
 Thaùs because I fucked you.
 
-529
-01:03:15,665 --> 01:03:17,633
+
+
 - What is it?
 - My foot.
 
-530
-01:03:21,738 --> 01:03:22,705
+
+
 Wrong foot.
 
-531
-01:03:24,073 --> 01:03:26,234
+
+
 Iùs phantom limb pain.
 
-532
-01:03:28,611 --> 01:03:31,444
+
+
 Iùs enough to make you
 believe in ghosts, huh?
 
-533
-01:03:32,982 --> 01:03:35,075
+
+
 You know,
 maybe thaùs why ghosts are restless.
 
-534
-01:03:38,121 --> 01:03:41,318
+
+
 Because there's nothing left
 of what they were except for the pain.
 
-535
-01:03:45,762 --> 01:03:47,161
+
+
 I need your help, Jerrod.
 
-536
-01:04:08,952 --> 01:04:10,283
+
+
 Piece of shit.
 
-537
-01:04:11,354 --> 01:04:14,289
+
+
 Hey. You got a condom, man?
 
-538
-01:04:14,390 --> 01:04:16,187
+
+
 - No!
 - What? I'm serious. I'll buy it off you.
 
-539
-01:04:16,292 --> 01:04:18,055
+
+
 I'm sorry, kid. I don't have one.
 
-540
-01:04:19,362 --> 01:04:21,796
+
+
 Hey, any of you guys got a rubber?
 
-541
-01:04:23,600 --> 01:04:25,534
+
+
 No, I'm... You don't carry rubbers?
 
-542
-01:04:26,936 --> 01:04:28,130
+
+
 Thanks.
 
-543
-01:04:35,812 --> 01:04:37,245
+
+
 Hey, hey!
 
-544
-01:04:40,416 --> 01:04:41,610
+
+
 Where you headed, boy?
 
-545
-01:04:42,252 --> 01:04:44,277
+
+
 Just let me through, okay?
 
-546
-01:04:45,688 --> 01:04:47,713
+
+
 - Go ahead, kid.
 - Thank you.
 
-547
-01:04:57,634 --> 01:05:00,125
+
+
 We're at the Tolands' house. Here.
 
-548
-01:05:03,506 --> 01:05:05,940
+
+
 - Not so hard.
 - Sorry.
 
-549
-01:05:06,042 --> 01:05:07,873
+
+
 So, this is it?
 
-550
-01:05:07,977 --> 01:05:11,105
+
+
 - You want me to go in with you?
 - No, iùs okay.
 
-551
-01:05:11,214 --> 01:05:13,910
+
+
 You probably better go back.
 They might get suspicious.
 
-552
-01:05:25,061 --> 01:05:26,585
+
+
 - Okay.
 - All right.
 
-553
-01:05:26,696 --> 01:05:27,754
+
+
 Bye.
 
-554
-01:06:12,141 --> 01:06:14,234
+
+
 Why did you have to come here, Aubrey?
 
-555
-01:06:16,546 --> 01:06:19,481
+
+
 You've still got your life.
 Nobody in this house has any left.
 
-556
-01:06:20,616 --> 01:06:22,811
+
+
 And you're not cooperating with the police.
 
-557
-01:06:23,086 --> 01:06:26,283
+
+
 I've heard all about it.
 You know, you could help find the monster.
 
-558
-01:06:28,057 --> 01:06:29,786
+
+
 I'm sorry, I can't.
 
-559
-01:06:39,068 --> 01:06:42,003
+
+
 I know you didn't come over here
 to upset us.
 
-560
-01:06:47,043 --> 01:06:49,011
+
+
 Just seeing her room would be enough.
 
-561
-01:08:13,129 --> 01:08:14,323
+
+
 Aubrey!
 
-562
-01:08:19,435 --> 01:08:21,232
+
+
 This is what they call protecting us?
 
-563
-01:08:21,337 --> 01:08:22,668
+
+
 - Where the hell was Lanny Rierden?
 - All right.
 
-564
-01:08:22,772 --> 01:08:25,002
+
+
 Daniel, come on. Just calm down.
 She's safe.
 
-565
-01:08:25,108 --> 01:08:27,076
+
+
 I mean, he's mad because he knows
 I'm telling the truth.
 
-566
-01:08:27,176 --> 01:08:31,738
+
+
 - He knows Aubrey's still out there.
 - Aubrey, please. Just shut the fuck up.
 
-567
-01:08:34,183 --> 01:08:36,208
+
+
 Latest DNA test came back.
 
-568
-01:08:38,321 --> 01:08:41,085
+
+
 Hello? Julie?
 You want to take a look at them?
 
-569
-01:08:41,190 --> 01:08:43,215
+
+
 Take a look at this.
 
-570
-01:08:43,326 --> 01:08:46,625
+
+
 I thought I should go over
 Aubrey's hard drive one more time, right?
 
-571
-01:08:48,498 --> 01:08:51,899
+
+
 <i>"She wrote down the name</i>
 <i>and her real mother's last known address,</i>
 
-572
-01:08:52,001 --> 01:08:56,631
+
+
 "but it was what she saw next that
 slammed her in the gut like a celestial fist.
 
-573
-01:08:56,739 --> 01:09:00,675
+
+
 "She stared at the hospital records
 in disbelief. It couldn't be true.
 
-574
-01:09:00,776 --> 01:09:03,267
+
+
 "But there it was, in black and white.
 
-575
-01:09:03,379 --> 01:09:06,143
+
+
 "Not only did she have a mother
 she'd never met,
 
-576
-01:09:06,249 --> 01:09:08,581
+
+
 "she also had an identical twin.
 
-577
-01:09:09,852 --> 01:09:14,755
+
+
 "But Virginia Sue Moss had left town
 with her twin sister almost 20 years ago.
 
-578
-01:09:14,857 --> 01:09:17,587
+
+
 "How would she ever find her other half?
 
-579
-01:09:17,693 --> 01:09:20,856
+
+
 "She knew only that she had to try.
 She had no choice.
 
-580
-01:09:22,165 --> 01:09:23,792
+
+
 "To be continued."
 
-581
-01:09:25,635 --> 01:09:26,897
+
+
 Moss.
 
-582
-01:09:27,003 --> 01:09:28,994
+
+
 As in Dakota Moss. Yeah.
 
-583
-01:09:30,740 --> 01:09:32,765
+
+
 - So this proves that...
 - That she's always been
 
-584
-01:09:32,875 --> 01:09:34,342
+
+
 and always will be Aubrey Fleming.
 
-585
-01:09:34,443 --> 01:09:37,037
+
+
 I mean, she's living inside a world
 she made up.
 
-586
-01:09:38,147 --> 01:09:41,412
+
+
 So the DNA test comparing
 Aubrey and Dakota...
 
-587
-01:09:41,517 --> 01:09:42,643
+
+
 Came back identical.
 
-588
-01:09:43,419 --> 01:09:45,148
+
+
 Damn right, it did.
 
-589
-01:10:00,036 --> 01:10:01,936
+
+
 Higher than your heart.
 
-590
-01:10:13,749 --> 01:10:15,580
+
+
 Odd, even.
 
-591
-01:10:16,686 --> 01:10:19,280
+
+
 Right, left.
 
-592
-01:10:19,388 --> 01:10:21,982
+
+
 Rest, motion.
 
-593
-01:10:22,091 --> 01:10:23,752
+
+
 Peace, war.
 
-594
-01:10:25,294 --> 01:10:27,888
+
+
 Love, hate.
 
-595
-01:10:27,997 --> 01:10:29,965
+
+
 Two halves to everything.
 
-596
-01:10:31,567 --> 01:10:33,558
+
+
 Sometimes people get cut.
 
-597
-01:10:37,206 --> 01:10:39,606
+
+
 Sometimes people get cut in half.
 
-598
-01:12:26,916 --> 01:12:31,148
+
+
 <i>Darker than the shadowy depths</i>
 <i>of the deepest ocean,</i>
 
-599
-01:12:31,253 --> 01:12:35,952
+
+
 <i>more infinite than the starry universe,</i>
 <i>in three meager pounds,</i>
 
-600
-01:12:36,058 --> 01:12:40,119
+
+
 <i>all the knowledge that ever was</i>
 <i>or ever will be.</i>
 
-601
-01:12:40,229 --> 01:12:45,292
+
+
 <i>I'm Art Bell,</i>
 <i>and these are the mysteries of the mind.</i>
 
-602
-01:12:45,401 --> 01:12:47,733
+
+
 <i>The best documented case</i>
 <i>of stigmatic twins</i>
 
-603
-01:12:48,537 --> 01:12:52,667
+
+
 <i>is that of Joseph K., 35,</i>
 <i>and his twin brother, Jacob.</i>
 
-604
-01:12:54,176 --> 01:12:58,442
+
+
 <i>Jacob K. was a petty thief</i>
 <i>with a gambling problem.</i>
 
-605
-01:12:58,547 --> 01:13:02,347
+
+
 <i>He owed more than $5,000 to the mob.</i>
 
-606
-01:13:02,451 --> 01:13:06,080
+
+
 <i>Unable to pay off his loan,</i>
 <i>Jacob K. was targeted for assassination</i>
 
-607
-01:13:06,188 --> 01:13:09,521
+
+
 <i>on the night of December 18th, 1944.</i>
 
-608
-01:13:12,762 --> 01:13:15,560
+
+
 <i>The very same night Jacob K.</i>
 <i>was gunned down,</i>
 
-609
-01:13:15,664 --> 01:13:20,601
+
+
 <i>a deep puncture wound appeared</i>
 <i>in Joseph K. 's neck in the same spot.</i>
 
-610
-01:13:20,703 --> 01:13:23,695
+
+
 <i>Lacking all explanation,</i>
 <i>authorities concluded</i>
 
-611
-01:13:23,806 --> 01:13:26,900
+
+
 <i>that Joseph K. 's wound was self-inflicted.</i>
 
-612
-01:13:27,009 --> 01:13:30,172
+
+
 <i>They failed, however,</i>
 <i>to address just how he coulÔve known</i>
 
-613
-01:13:30,279 --> 01:13:33,339
+
+
 <i>the precise location</i>
 <i>of his brother's mortal wound</i>
 
-614
-01:13:34,316 --> 01:13:39,185
+
+
 <i>or how both men happened to die</i>
 <i>at the same hour, miles apart.</i>
 
-615
-01:13:43,759 --> 01:13:44,783
+
+
 Hey.
 
-616
-01:13:44,894 --> 01:13:47,294
+
+
 I saw the light. You all right?
 
-617
-01:13:48,364 --> 01:13:50,229
+
+
 Yeah. I couldn't sleep.
 
-618
-01:13:53,169 --> 01:13:56,002
+
+
 This is a non-smoking house, young lady.
 
-619
-01:14:02,812 --> 01:14:04,575
+
+
 And will remain one.
 
-620
-01:14:06,982 --> 01:14:10,679
+
+
 You know, I think thaùs the first time
 I've seen you...
 
-621
-01:14:17,927 --> 01:14:20,919
+
+
 - I'm sorry.
 - No, iùs okay. I shouldn't have.
 
-622
-01:14:22,331 --> 01:14:24,162
+
+
 I think I'm Aubrey's twin sister.
 
-623
-01:14:25,801 --> 01:14:27,393
+
+
 Her identical twin sister.
 
-624
-01:14:27,503 --> 01:14:29,937
+
+
 I mean, hospitals make mistakes.
 We coulÔve been separated at birth.
 
-625
-01:14:31,607 --> 01:14:34,075
+
+
 Look at this house,
 this life that your daughter had.
 
-626
-01:14:34,176 --> 01:14:37,270
+
+
 Why would I pretend to be some loser
 if this was all mine, huh?
 
-627
-01:14:38,414 --> 01:14:40,245
+
+
 Iùs like a bad dream, sweetie.
 
-628
-01:14:41,417 --> 01:14:46,047
+
+
 And someday very soon,
 you're gonna wake up and realize the truth.
 
-629
-01:14:46,155 --> 01:14:48,385
+
+
 But iùs possible we could be twins, right?
 
-630
-01:14:50,860 --> 01:14:52,088
+
+
 You see?
 
-631
-01:14:55,030 --> 01:14:57,464
+
+
 You were all by yourself in there.
 
-632
-01:14:59,735 --> 01:15:02,533
+
+
 No twin sister. Just you.
 
-633
-01:15:08,310 --> 01:15:10,938
+
+
 I'm not much of a crier, you know,
 
-634
-01:15:12,648 --> 01:15:14,775
+
+
 but I cried when I saw this.
 
-635
-01:15:17,086 --> 01:15:18,678
+
+
 Daniel and I...
 
-636
-01:15:21,156 --> 01:15:22,350
+
+
 I fell.
 
-637
-01:15:24,026 --> 01:15:25,186
+
+
 And
 
-638
-01:15:26,795 --> 01:15:30,959
+
+
 they made me stay in my bed,
 flat on my back, for about six weeks.
 
-639
-01:15:33,035 --> 01:15:35,128
+
+
 Six weeks towards the end,
 but it was worth it.
 
-640
-01:15:35,237 --> 01:15:37,899
+
+
 I mean, there were times when I thought,
 
-641
-01:15:38,007 --> 01:15:40,737
+
+
 "I'm not gonna be able
 to stand another moment of this."
 
-642
-01:15:41,577 --> 01:15:45,240
+
+
 But there were also...
 There were times when you'd get
 
-643
-01:15:45,347 --> 01:15:47,838
+
+
 real still on me.
 
-644
-01:15:49,218 --> 01:15:53,245
+
+
 And I'd take both my hands,
 I'd put them on my belly, and I said,
 
-645
-01:15:53,355 --> 01:15:57,086
+
+
 "Kick. Kick the hell out of me, girl.
 Show me what you got."
 
-646
-01:15:57,192 --> 01:16:00,252
+
+
 And you'd kick. Every time.
 
-647
-01:16:02,398 --> 01:16:04,423
+
+
 The night you were born. Oh, my God.
 
-648
-01:16:05,668 --> 01:16:06,828
+
+
 It was terrifying.
 
-649
-01:16:08,370 --> 01:16:12,033
+
+
 I barely saw you,
 and they took you away from me.
 
-650
-01:16:12,141 --> 01:16:15,508
+
+
 And it was...
 It was touch-and-go for two whole days.
 
-651
-01:16:15,611 --> 01:16:20,139
+
+
 And then finally,
 finally I had you in my arms.
 
-652
-01:16:22,184 --> 01:16:23,811
+
+
 A little miracle.
 
-653
-01:16:26,322 --> 01:16:30,156
+
+
 I'm not trying to prove you wrong,
 you know?
 
-654
-01:16:31,560 --> 01:16:34,256
+
+
 I'm really just trying to help you see.
 
-655
-01:16:42,171 --> 01:16:43,365
+
+
 I know.
 
-656
-01:16:47,242 --> 01:16:49,233
+
+
 But you don't believe me.
 
-657
-01:16:55,384 --> 01:16:58,148
+
+
 But you don't need me
 to believe you, sweetheart.
 
-658
-01:16:59,321 --> 01:17:02,222
+
+
 When I think we'll never be normal again...
 
-659
-01:17:06,695 --> 01:17:07,662
+
+
 I...
 
-660
-01:17:08,897 --> 01:17:12,094
+
+
 I see that about you. That strength.
 
-661
-01:17:15,938 --> 01:17:20,932
+
+
 And I think, you know, we'll be all right.
 No matter what.
 
-662
-01:17:21,043 --> 01:17:23,375
+
+
 Different, maybe, but all right.
 
-663
-01:17:24,847 --> 01:17:26,474
+
+
 <i>'C</i>ause you're a kicker, girl.
 
-664
-01:17:28,384 --> 01:17:29,817
+
+
 You go right ahead
 
-665
-01:17:29,918 --> 01:17:33,752
+
+
 and you kick your way
 to the other side of this problem.
 
-666
-01:17:34,990 --> 01:17:39,290
+
+
 I'm gonna be there every step of the way
 if you need me.
 
-667
-01:18:23,906 --> 01:18:24,998
+
+
 Shit.
 
-668
-01:18:29,812 --> 01:18:31,302
+
+
 <i>Dakota.</i>
 
-669
-01:20:03,405 --> 01:20:05,134
+
+
 I know what you did, Daniel.
 
-670
-01:20:05,941 --> 01:20:08,239
+
+
 - Susan's baby died in the incubator.
 - She what?
 
-671
-01:20:08,343 --> 01:20:10,106
+
+
 You bought Aubrey
 from the crack head down the hall
 
-672
-01:20:10,212 --> 01:20:11,236
+
+
 because she had one to spare.
 
-673
-01:20:11,346 --> 01:20:12,313
+
+
 - You're Aubrey.
 - Not me.
 
-674
-01:20:12,414 --> 01:20:13,381
+
+
 - Hey, you're Aubrey.
 - Not me, Daniel.
 
-675
-01:20:13,515 --> 01:20:14,504
+
+
 - You were kidnapped...
 - I'm not Aubrey.
 
-676
-01:20:14,616 --> 01:20:17,210
+
+
 ...and you were hurt, and you're home now.
 - Daniel, I'm not Aubrey.
 
-677
-01:20:17,319 --> 01:20:18,786
+
+
 I'm her twin. Stop it!
 
-678
-01:20:20,322 --> 01:20:21,914
+
+
 I'm her twin.
 
-679
-01:20:22,024 --> 01:20:24,891
+
+
 Daniel, you're the only one who knows
 that there are really two of us.
 
-680
-01:20:24,993 --> 01:20:27,359
+
+
 - You have to help me.
 - I'm trying to help you, honey. I am.
 
-681
-01:20:27,462 --> 01:20:29,089
+
+
 No, I saw the envelopes.
 
-682
-01:20:30,232 --> 01:20:31,824
+
+
 I saw the New Salem postmarks.
 
-683
-01:20:33,135 --> 01:20:34,932
+
+
 A little cash on an ongoing basis.
 
-684
-01:20:35,037 --> 01:20:37,096
+
+
 One hits the jackpot,
 the other one gets stuck
 
-685
-01:20:37,206 --> 01:20:40,573
+
+
 - with Virginia Sue Moss.
 - Okay, enough, okay? Just...
 
-686
-01:20:41,810 --> 01:20:44,404
+
+
 I'm tired of this shit, okay? Just...
 
-687
-01:20:48,550 --> 01:20:50,950
+
+
 I'm gonna get you some ice.
 
-688
-01:20:51,053 --> 01:20:53,578
+
+
 So you'd let both of us die
 just to keep your secret?
 
-689
-01:20:53,689 --> 01:20:54,713
+
+
 No!
 
-690
-01:21:00,596 --> 01:21:03,463
+
+
 She lost this one first. So did I.
 
-691
-01:21:06,235 --> 01:21:07,327
+
+
 Fuck.
 
-692
-01:21:52,214 --> 01:21:53,272
+
+
 Fuck!
 
-693
-01:22:32,054 --> 01:22:33,248
+
+
 Oh, my...
 
-694
-01:22:44,900 --> 01:22:46,265
+
+
 Oh, my God.
 
-695
-01:22:52,841 --> 01:22:55,332
+
+
 <i>I always felt like half a person.</i>
 
-696
-01:22:55,444 --> 01:22:57,241
+
+
 <i>You know, half a person with half a soul.</i>
 
-697
-01:22:58,313 --> 01:23:01,077
+
+
 <i>It never occurred to me</i>
 <i>that I may possibly have a twin.</i>
 
-698
-01:23:01,984 --> 01:23:05,818
+
+
 <i>All I had to go on was a gut feeling</i>
 <i>and a New Salem postmark.</i>
 
-699
-01:23:19,401 --> 01:23:22,461
+
+
 Look, Daniel, I know you may not care
 about what happened to me.
 
-700
-01:23:23,438 --> 01:23:25,429
+
+
 But what about Aubrey?
 
-701
-01:23:25,540 --> 01:23:27,838
+
+
 What about the girl you raised
 to be your daughter?
 
-702
-01:23:27,943 --> 01:23:30,639
+
+
 Everything that happens to Aubrey
 happens to me.
 
-703
-01:23:31,646 --> 01:23:35,047
+
+
 He still has her, okay?
 
-704
-01:23:35,417 --> 01:23:37,317
+
+
 Now, are you gonna help me find her?
 
-705
-01:23:39,821 --> 01:23:41,152
+
+
 - I can't.
 - You can't?
 
-706
-01:23:41,256 --> 01:23:44,157
+
+
 - I can't risk losing this.
 - You're pathetic.
 
-707
-01:23:46,361 --> 01:23:47,988
+
+
 Go fuck yourself.
 
-708
-01:26:12,774 --> 01:26:14,833
+
+
 "Blue ribbons are for winners.
 
-709
-01:26:16,144 --> 01:26:18,305
+
+
 "Never settle for the red.
 
-710
-01:26:19,848 --> 01:26:22,214
+
+
 "Rest in peace. Douglas."
 
-711
-01:26:35,564 --> 01:26:38,089
+
+
 - Iùs okay, iùs me.
 - I know who killed me.
 
-712
-01:26:38,200 --> 01:26:39,758
+
+
 You're alive, Dakota, okay? You're not...
 
-713
-01:26:39,868 --> 01:26:41,130
+
+
 No, look.
 
-714
-01:26:50,545 --> 01:26:52,570
+
+
 We really shouldn't go up there
 without letting somebody know.
 
-715
-01:26:52,681 --> 01:26:56,117
+
+
 - We don't have enough time.
 - I know, I know, I know.
 
-716
-01:26:56,218 --> 01:27:00,450
+
+
 <i>Dakota, there's not enough air.</i>
 
-717
-01:27:00,555 --> 01:27:02,648
+
+
 - What is it?
 - I can't...
 
-718
-01:27:02,757 --> 01:27:04,019
+
+
 - Hold on. Just breathe.
 - No, I can't breathe.
 
-719
-01:27:04,125 --> 01:27:05,092
+
+
 - Breathe. You're having a panic...
 - I can't.
 
-720
-01:27:05,193 --> 01:27:06,990
+
+
 - You're having a panic attack. Just breathe.
 - I can't breathe.
 
-721
-01:27:07,095 --> 01:27:08,221
+
+
 Iùs okay. Come on, breathe.
 
-722
-01:27:08,330 --> 01:27:10,798
+
+
 Iùs okay. Iùs okay.
 
-723
-01:27:10,899 --> 01:27:13,959
+
+
 You need to breathe. Good, good. Breathe.
 
-724
-01:27:26,648 --> 01:27:29,378
+
+
 I shoulÔve believed you from the start.
 
-725
-01:27:30,919 --> 01:27:32,250
+
+
 I'm sorry.
 
-726
-01:28:36,718 --> 01:28:38,413
+
+
 <i>Dakota.</i>
 
-727
-01:28:45,193 --> 01:28:48,162
+
+
 <i>Douglas Norquist.</i>
 
-728
-01:28:51,599 --> 01:28:54,159
+
+
 <i>There's two halves to everything.</i>
 
-729
-01:29:14,189 --> 01:29:19,855
+
+
 Oh, come on. Just breathe, Aubrey.
 Breathe. Slowly.
 
-730
-01:32:14,269 --> 01:32:15,531
+
+
 Fuck you!
 
-731
-01:34:03,344 --> 01:34:04,709
+
+
 Oh, my God.
 
-732
-01:34:08,483 --> 01:34:10,747
+
+
 Daniel, come on. Wake up.
 
-733
-01:34:10,852 --> 01:34:12,547
+
+
 Come on.
 
-734
-01:34:12,654 --> 01:34:13,848
+
+
 Aubrey?
 
-735
-01:34:19,527 --> 01:34:20,619
+
+
 Yeah.
 
-736
-01:34:23,264 --> 01:34:26,756
+
+
 - I'm sorry.
 - No! Come on, come on. I need you.
 
-737
-01:34:26,868 --> 01:34:28,733
+
+
 Come on, stay with me.
 
-738
-01:37:30,084 --> 01:37:31,949
+
+
 Why did you come back?
 
-739
-01:37:33,788 --> 01:37:35,813
+
+
 You should be dead by now.
 
-740
-01:37:36,791 --> 01:37:38,918
+
+
 Why aren't you dead?
 
-741
-01:37:42,864 --> 01:37:45,332
+
+
 I fucking buried you.
 
-742
-01:37:47,568 --> 01:37:49,763
+
+
 How did you get away from me?
 
-743
-01:37:50,938 --> 01:37:52,929
+
+
 How did you get out, huh?
 
-744
-01:37:55,343 --> 01:38:00,303
+
+
 Now, I have to fucking do the whole thing
 
-745
-01:38:00,414 --> 01:38:04,009
+
+
 all over again!
 
-746
-01:39:04,679 --> 01:39:06,579
+
+
 <i>Dakota.</i>
 
-747
-01:39:06,681 --> 01:39:09,775
+
+
 <i>I can't breathe.</i>

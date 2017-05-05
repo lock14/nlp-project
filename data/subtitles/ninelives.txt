@@ -1,5946 +1,5946 @@
-1
-00:00:56,460 --> 00:00:59,200
+
+
 You think this is cute, don't you?
 
-2
-00:00:59,299 --> 00:01:02,509
+
+
 You think there's a real connection there.
 
-3
-00:01:02,619 --> 00:01:05,225
+
+
 So you feed it,
 
-4
-00:01:05,299 --> 00:01:07,347
+
+
 you dress it up.
 
-5
-00:01:11,420 --> 00:01:13,069
+
+
 But a cat doesn't care if you live or die
 
-6
-00:01:13,140 --> 00:01:15,950
+
+
 as long as someone
 gives it Friskies twice a day.
 
-7
-00:01:25,260 --> 00:01:29,469
+
+
 But people are so desperate
 for someone to hold onto
 
-8
-00:01:29,539 --> 00:01:31,429
+
+
 they'll take whatever they can get.
 
-9
-00:01:32,140 --> 00:01:34,905
+
+
 I found him on the street,
 months after the accident
 
-10
-00:01:34,979 --> 00:01:37,027
+
+
 and I dress him like Masao.
 
-11
-00:01:37,099 --> 00:01:40,661
+
+
 I know my son has come back
 to me in this cat.
 
-12
-00:01:40,819 --> 00:01:44,301
+
+
 But no matter how lonely you are,
 
-13
-00:01:44,379 --> 00:01:47,668
+
+
 a cat is not a person.
 
-14
-00:02:09,900 --> 00:02:12,346
+
+
 Okay. Super helpful, uh...
 
-15
-00:02:12,460 --> 00:02:15,543
+
+
 Oh, so marketing wants
 sign-off on the new billboard.
 
-16
-00:02:16,379 --> 00:02:17,905
+
+
 What do you think?
 
-17
-00:02:17,979 --> 00:02:19,868
+
+
 It might be a little
 heavy on the Photoshop.
 
-18
-00:02:19,939 --> 00:02:20,986
+
+
 Get me a real F-16.
 
-19
-00:02:21,060 --> 00:02:22,106
+
+
 We'll take some real pictures.
 
-20
-00:02:22,219 --> 00:02:23,949
+
+
 No, they said they don't
 have the budget for it.
 
-21
-00:02:24,020 --> 00:02:25,384
+
+
 Fire the marketing department!
 
-22
-00:02:25,460 --> 00:02:27,747
+
+
 You wanna fire the entire
 marketing department?
 
-23
-00:02:27,819 --> 00:02:30,789
+
+
 No. I wanna fly a real F-16. What's next?
 
-24
-00:02:30,860 --> 00:02:32,509
+
+
 I'm supposed to remind you,
 
-25
-00:02:32,579 --> 00:02:33,819
+
+
 Lara's left two messages.
 
-26
-00:02:33,939 --> 00:02:35,384
+
+
 Why is she calling?
 
-27
-00:02:35,460 --> 00:02:36,985
+
+
 Because she's your wife.
 
-28
-00:02:37,060 --> 00:02:39,426
+
+
 I put together some talking points
 
-29
-00:02:39,500 --> 00:02:40,831
+
+
 for your press conference.
 
-30
-00:02:40,900 --> 00:02:42,186
+
+
 How old are you again?
 
-31
-00:02:42,259 --> 00:02:43,307
+
+
 Twenty-eight.
 
-32
-00:02:43,379 --> 00:02:44,426
+
+
 That's how long I've been
 talking to the press.
 
-33
-00:02:44,500 --> 00:02:45,501
+
+
 I'll be fine.
 
-34
-00:02:45,579 --> 00:02:46,627
+
+
 Sir, we're ready.
 
-35
-00:02:48,579 --> 00:02:50,183
+
+
 Why don't you jump with me today?
 
-36
-00:02:50,259 --> 00:02:52,706
+
+
 Oh, yeah, no. I just had breakfast, so...
 
-37
-00:02:52,819 --> 00:02:53,901
+
+
 Come on!
 
-38
-00:02:54,340 --> 00:02:56,182
+
+
 Dad, I can't. I can't.
 
-39
-00:02:56,860 --> 00:02:58,191
+
+
 All right.
 
-40
-00:02:58,819 --> 00:03:02,062
+
+
 Chicken!
 
-41
-00:03:06,139 --> 00:03:07,664
+
+
 Good one, Dad.
 
-42
-00:03:25,780 --> 00:03:26,781
+
+
 Yeah!
 
-43
-00:03:26,860 --> 00:03:28,271
+
+
 Very nice, very nice!
 
-44
-00:03:29,620 --> 00:03:30,950
+
+
 Perfect landing.
 
-45
-00:03:31,020 --> 00:03:32,350
+
+
 Thank you.
 
-46
-00:03:32,420 --> 00:03:35,104
+
+
 Thank you very much. Thank you.
 
-47
-00:03:35,379 --> 00:03:36,620
+
+
 Good morning, everyone.
 
-48
-00:03:36,699 --> 00:03:37,860
+
+
 What an incredible view.
 
-49
-00:03:37,939 --> 00:03:40,829
+
+
 And I mean all of you that I get
 to look at this fine morning.
 
-50
-00:03:40,900 --> 00:03:42,186
+
+
 Thank you for coming.
 
-51
-00:03:42,300 --> 00:03:43,903
+
+
 Now, when we open this building
 
-52
-00:03:43,979 --> 00:03:45,390
+
+
 one month from today.
 
-53
-00:03:45,579 --> 00:03:48,424
+
+
 The FireBrand Tower will be the tallest
 building in North America.
 
-54
-00:03:48,620 --> 00:03:50,860
+
+
 And that means that we can
 finally move out of that dump
 
-55
-00:03:50,939 --> 00:03:53,102
+
+
 we've all been forced to work in
 all these years down the block.
 
-56
-00:03:53,180 --> 00:03:54,341
+
+
 Tell us about Chicago.
 
-57
-00:03:54,420 --> 00:03:56,865
+
+
 Mr. Brand, any comment
 on the Paragon Tower?
 
-58
-00:03:57,020 --> 00:03:59,067
+
+
 Oh, you mean that tin shack
 they're gluing together
 
-59
-00:03:59,139 --> 00:04:00,265
+
+
 over there in Chicago?
 
-60
-00:04:00,340 --> 00:04:01,387
+
+
 No. No comment on that.
 
-61
-00:04:01,460 --> 00:04:03,508
+
+
 Rumor is they're beating you by 60 feet.
 
-62
-00:04:03,900 --> 00:04:05,663
+
+
 Well, no. There's not a chance of that.
 
-63
-00:04:05,780 --> 00:04:07,588
+
+
 No, no. Look, I'd love to
 answer more questions,
 
-64
-00:04:07,699 --> 00:04:09,145
+
+
 but I gotta get back to the office.
 
-65
-00:04:12,099 --> 00:04:13,783
+
+
 All right. I wanna move fast here.
 
-66
-00:04:13,860 --> 00:04:15,544
+
+
 Have legal review this overnight.
 
-67
-00:04:15,659 --> 00:04:17,343
+
+
 They're all tied up with the tower.
 
-68
-00:04:17,500 --> 00:04:19,069
+
+
 Listen, I know we got to keep him happy,
 
-69
-00:04:19,139 --> 00:04:21,062
+
+
 but we can't let this building
 distract us from...
 
-70
-00:04:21,139 --> 00:04:22,744
+
+
 Why? You've got something better to do?
 
-71
-00:04:23,100 --> 00:04:24,100
+
+
 Oh.
 
-72
-00:04:24,180 --> 00:04:25,420
+
+
 How was the press conference?
 
-73
-00:04:25,500 --> 00:04:27,389
+
+
 Well, apparently it was a distraction.
 
-74
-00:04:27,459 --> 00:04:30,031
+
+
 I pulled some staff to explore
 a public offering.
 
-75
-00:04:30,139 --> 00:04:32,540
+
+
 I'm sorry.
 Did I ask you to sell my company?
 
-76
-00:04:32,659 --> 00:04:33,740
+
+
 Are we taking bids?
 
-77
-00:04:33,819 --> 00:04:34,901
+
+
 How much can we get for Gary?
 
-78
-00:04:36,340 --> 00:04:37,341
+
+
 We ran some rough numbers...
 
-79
-00:04:37,459 --> 00:04:39,622
+
+
 Yeah. Well, first, why is the press
 asking me about Chicago?
 
-80
-00:04:39,699 --> 00:04:41,428
+
+
 You're winning. Yours is bigger.
 
-81
-00:04:41,540 --> 00:04:44,019
+
+
 Well, finally there's our new slogan.
 
-82
-00:04:44,100 --> 00:04:45,625
+
+
 Where are we with the opening ceremony?
 
-83
-00:04:45,699 --> 00:04:47,622
+
+
 We're gonna rig the entire
 building with fireworks.
 
-84
-00:04:47,819 --> 00:04:49,709
+
+
 Oh, so, wait. When I cut the ribbon...
 
-85
-00:04:49,779 --> 00:04:50,781
+
+
 Fireworks go off.
 
-86
-00:04:50,860 --> 00:04:52,987
+
+
 Oh, my God. Ian, that is just spectacular,
 
-87
-00:04:53,060 --> 00:04:55,540
+
+
 you know, if we were doing
 a Fourth of July celebration
 
-88
-00:04:55,620 --> 00:04:57,064
+
+
 or a really rousing Oktoberfest.
 
-89
-00:04:57,139 --> 00:04:58,221
+
+
 Tom, we can't keep...
 
-90
-00:04:58,300 --> 00:04:59,870
+
+
 Look, we are just about to cap off
 
-91
-00:04:59,939 --> 00:05:01,783
+
+
 the tallest building
 in the Northern Hemisphere
 
-92
-00:05:01,860 --> 00:05:04,180
+
+
 and I can't brag about it
 if I don't own it.
 
-93
-00:05:04,339 --> 00:05:05,341
+
+
 Yeah.
 
-94
-00:05:05,420 --> 00:05:07,706
+
+
 This is the distraction.
 
-95
-00:05:09,060 --> 00:05:12,826
+
+
 Okay, everybody,
 let's pretend that that didn't just happen.
 
-96
-00:05:28,459 --> 00:05:29,699
+
+
 - What's that?
 - It's a surprise.
 
-97
-00:05:29,779 --> 00:05:30,781
+
+
 For my birthday?
 
-98
-00:05:32,060 --> 00:05:33,788
+
+
 - What are you watching?
 - Dad.
 
-99
-00:05:34,459 --> 00:05:36,144
+
+
 Did he tell you to record this?
 
-100
-00:05:36,300 --> 00:05:37,824
+
+
 No, but I just wanted to see him.
 
-101
-00:05:37,899 --> 00:05:39,026
+
+
 Look. Watch.
 
-102
-00:05:39,220 --> 00:05:41,427
+
+
 And that means that we can
 finally move out of that dump
 
-103
-00:05:41,500 --> 00:05:42,831
+
+
 we've all been forced to work in
 
-104
-00:05:42,899 --> 00:05:44,425
+
+
 all these years down the block.
 
-105
-00:05:45,100 --> 00:05:46,590
+
+
 How many times have you watched this?
 
-106
-00:05:46,899 --> 00:05:47,867
+
+
 Um...
 
-107
-00:05:47,939 --> 00:05:48,941
+
+
 Eighty-three.
 
-108
-00:05:49,379 --> 00:05:50,790
+
+
 And now it's 84.
 
-109
-00:05:51,019 --> 00:05:52,465
+
+
 We're worried about costs.
 
-110
-00:05:52,540 --> 00:05:54,860
+
+
 Well, that's why we call this
 a "Board meeting."
 
-111
-00:05:56,860 --> 00:05:58,146
+
+
 Please take a message.
 
-112
-00:05:58,220 --> 00:06:00,221
+
+
 - Tom, these are serious concerns.
 - I know.
 
-113
-00:06:00,300 --> 00:06:01,824
+
+
 - Look, I understand...
 - Lara Brand.
 
-114
-00:06:03,779 --> 00:06:06,350
+
+
 - Lara Brand.
 - Oh, no, go ahead. Just take it outside.
 
-115
-00:06:09,620 --> 00:06:11,747
+
+
 Ian, where's Tom?
 I can't get ahold of him.
 
-116
-00:06:11,819 --> 00:06:13,470
+
+
 I can't pry him away from the Board.
 
-117
-00:06:13,540 --> 00:06:17,430
+
+
 I wanna show you all that I take
 your concerns very seriously.
 
-118
-00:06:17,540 --> 00:06:20,190
+
+
 Our operating costs
 are up 30% from last quarter.
 
-119
-00:06:20,259 --> 00:06:24,470
+
+
 And my first concern is why is Ian
 coming at us with this IPO crap?
 
-120
-00:06:24,579 --> 00:06:25,819
+
+
 He's been with the Board all day?
 
-121
-00:06:25,899 --> 00:06:27,105
+
+
 It's hard to get Tom's attention.
 
-122
-00:06:27,180 --> 00:06:28,386
+
+
 Maybe I should join the Board.
 
-123
-00:06:28,459 --> 00:06:30,860
+
+
 Or you can take my job. Please.
 
-124
-00:06:30,939 --> 00:06:32,704
+
+
 Ian approached us with the idea.
 
-125
-00:06:32,779 --> 00:06:34,987
+
+
 He's put together
 a very attractive proposal.
 
-126
-00:06:35,139 --> 00:06:37,620
+
+
 A public offering means
 a big payday for all of us.
 
-127
-00:06:37,779 --> 00:06:40,624
+
+
 Now, we've sunk years of revenue
 into that building, Tom.
 
-128
-00:06:40,699 --> 00:06:41,985
+
+
 It's time to cash out.
 
-129
-00:06:42,139 --> 00:06:44,427
+
+
 Come on, we got plenty of cash, don't we?
 
-130
-00:06:44,500 --> 00:06:45,500
+
+
 And why?
 
-131
-00:06:45,579 --> 00:06:48,470
+
+
 Because we built airlines and retail
 chains and phone companies,
 
-132
-00:06:48,540 --> 00:06:50,668
+
+
 but no one is gonna remember any of those
 
-133
-00:06:50,819 --> 00:06:52,151
+
+
 because they keep changing hands.
 
-134
-00:06:52,220 --> 00:06:53,903
+
+
 But 100 years from now,
 
-135
-00:06:53,980 --> 00:06:56,459
+
+
 when people look out their windows
 and they see that tower,
 
-136
-00:06:56,540 --> 00:06:58,382
+
+
 they're gonna see the name "Brand"
 
-137
-00:06:58,459 --> 00:07:00,269
+
+
 and that's a name they will never forget.
 
-138
-00:07:00,339 --> 00:07:03,627
+
+
 And that is not something
 that I am willing to sell.
 
-139
-00:07:03,699 --> 00:07:05,827
+
+
 We're not running a charity
 for your ego, Tom.
 
-140
-00:07:05,980 --> 00:07:08,141
+
+
 Okay. Well, then instead,
 let's play a little game.
 
-141
-00:07:08,220 --> 00:07:09,824
+
+
 You know, just for the fun of it.
 
-142
-00:07:10,019 --> 00:07:13,661
+
+
 Raise your hand if your name
 is on the company letterhead.
 
-143
-00:07:13,860 --> 00:07:15,668
+
+
 - Tom...
 - No, no. Come on, we'll just call it a vote.
 
-144
-00:07:15,819 --> 00:07:18,663
+
+
 - Tom...
 - Fifty-one percent!
 
-145
-00:07:18,740 --> 00:07:20,423
+
+
 Feels good to win.
 
-146
-00:07:20,500 --> 00:07:22,184
+
+
 You can sell shares at my funeral.
 
-147
-00:07:22,259 --> 00:07:24,547
+
+
 And the next time Ian wants to play CEO,
 
-148
-00:07:25,660 --> 00:07:27,901
+
+
 we can fire him together.
 
-149
-00:07:28,379 --> 00:07:30,302
+
+
 - Hey, can I borrow you for a minute?
 - Not now.
 
-150
-00:07:30,420 --> 00:07:32,069
+
+
 It's about the tower.
 
-151
-00:07:36,259 --> 00:07:38,466
+
+
 I already talked to your dad about this.
 We're 100 feet taller.
 
-152
-00:07:38,659 --> 00:07:39,627
+
+
 I know that's the projection.
 
-153
-00:07:39,699 --> 00:07:40,747
+
+
 But that's printed to scale.
 
-154
-00:07:40,860 --> 00:07:42,191
+
+
 Chicago's beating us by 60.
 
-155
-00:07:42,259 --> 00:07:43,420
+
+
 Am I missing something here? We're taller.
 
-156
-00:07:43,540 --> 00:07:45,189
+
+
 There's too much steel in their roof.
 
-157
-00:07:45,340 --> 00:07:46,341
+
+
 So?
 
-158
-00:07:46,500 --> 00:07:49,185
+
+
 So that's rated for 760 tons,
 and there's nothing on it.
 
-159
-00:07:49,259 --> 00:07:50,545
+
+
 But if they laid that much steel...
 
-160
-00:07:52,180 --> 00:07:53,261
+
+
 They're not done.
 
-161
-00:07:53,340 --> 00:07:54,341
+
+
 No, that's not in their plans.
 
-162
-00:07:54,459 --> 00:07:55,461
+
+
 They know we have their plans.
 
-163
-00:07:55,540 --> 00:07:57,901
+
+
 They want us to think we're winning
 but they got a permit for that
 
-164
-00:07:57,980 --> 00:07:59,425
+
+
 and they are beating us by 60 feet.
 
-165
-00:07:59,500 --> 00:08:00,865
+
+
 David!
 
-166
-00:08:00,980 --> 00:08:02,709
+
+
 Right. Keep this quiet.
 
-167
-00:08:05,459 --> 00:08:08,190
+
+
 Oh, Ian, let's make that call
 to Madrid before they take their siesta.
 
-168
-00:08:08,259 --> 00:08:09,420
+
+
 Absolutely.
 
-169
-00:08:10,139 --> 00:08:12,028
+
+
 You know, we do have janitors.
 
-170
-00:08:12,139 --> 00:08:13,903
+
+
 - Yeah. I've been busy.
 - I got you something.
 
-171
-00:08:14,060 --> 00:08:15,060
+
+
 Ow!
 
-172
-00:08:23,139 --> 00:08:24,425
+
+
 Thanks, Dad.
 
-173
-00:08:30,819 --> 00:08:33,426
+
+
 I'm sorry to break up your dinner,
 but I need that report.
 
-174
-00:08:33,500 --> 00:08:35,501
+
+
 Well, tell your wife the check's on me.
 
-175
-00:08:35,580 --> 00:08:38,264
+
+
 Yeah, but she gets another
 anniversary next year.
 
-176
-00:08:38,340 --> 00:08:39,784
+
+
 I don't really care.
 
-177
-00:08:41,659 --> 00:08:43,741
+
+
 Oh, excuse me,
 have you seen my wife anywhere?
 
-178
-00:08:43,820 --> 00:08:45,025
+
+
 What does she look like?
 
-179
-00:08:45,100 --> 00:08:49,344
+
+
 She is the most beautiful woman
 in the entire world.
 
-180
-00:08:49,419 --> 00:08:51,548
+
+
 Oh, well, maybe I have seen her.
 Let me see.
 
-181
-00:08:52,940 --> 00:08:55,067
+
+
 Oh, here we go. Is this her?
 
-182
-00:08:55,940 --> 00:08:57,350
+
+
 Oh, let's give her a call.
 
-183
-00:08:57,419 --> 00:08:59,865
+
+
 Yeah, it was a busy day. What did I miss?
 
-184
-00:09:00,980 --> 00:09:02,424
+
+
 Uh, my birthday was last month.
 
-185
-00:09:02,620 --> 00:09:04,110
+
+
 You're joking me right now?
 
-186
-00:09:04,299 --> 00:09:06,268
+
+
 You're gonna have to give me
 more to work with than that.
 
-187
-00:09:08,460 --> 00:09:10,542
+
+
 - Oh, damn it. It's not today?
 - Tomorrow.
 
-188
-00:09:10,620 --> 00:09:12,030
+
+
 Oh, well, then I haven't missed it.
 
-189
-00:09:12,100 --> 00:09:13,544
+
+
 Father of the year.
 
-190
-00:09:13,620 --> 00:09:14,985
+
+
 So, what did we get her?
 
-191
-00:09:15,059 --> 00:09:16,186
+
+
 Oh, we didn't get her anything.
 
-192
-00:09:16,299 --> 00:09:20,225
+
+
 You were too busy to talk for five minutes,
 so I got her a makeup kit.
 
-193
-00:09:20,379 --> 00:09:23,428
+
+
 Oh, well, couldn't we say that
 the makeup kit's from both of us?
 
-194
-00:09:23,500 --> 00:09:25,423
+
+
 - No.
 - Fine.
 
-195
-00:09:25,580 --> 00:09:26,626
+
+
 What should I get her?
 
-196
-00:09:27,259 --> 00:09:29,500
+
+
 Maybe you should ask her what she wants.
 
-197
-00:09:29,580 --> 00:09:31,070
+
+
 Try getting to know her a little bit
 
-198
-00:09:31,139 --> 00:09:32,585
+
+
 before she heads off to college.
 
-199
-00:09:32,740 --> 00:09:34,663
+
+
 Come on. I still got seven years left.
 
-200
-00:09:34,820 --> 00:09:36,788
+
+
 Or, no, six years. I'm kidding.
 
-201
-00:09:37,019 --> 00:09:38,350
+
+
 Is this how you raised David?
 
-202
-00:09:38,419 --> 00:09:40,024
+
+
 - My son turned out just fine.
 - Mmm.
 
-203
-00:09:40,100 --> 00:09:42,148
+
+
 He had to apply for a job to see his dad.
 
-204
-00:09:42,220 --> 00:09:43,664
+
+
 Well, of course.
 His mother got full custody.
 
-205
-00:09:43,740 --> 00:09:44,740
+
+
 I had a terrible lawyer.
 
-206
-00:09:44,820 --> 00:09:46,230
+
+
 When you come to Rebecca's party...
 
-207
-00:09:46,299 --> 00:09:48,701
+
+
 Look, we are a month away from opening
 the tallest building in...
 
-208
-00:09:48,779 --> 00:09:51,431
+
+
 Tom! When you come to Rebecca's party,
 
-209
-00:09:51,500 --> 00:09:54,470
+
+
 you gotta be here and you have
 to bring an exceptional gift.
 
-210
-00:09:54,580 --> 00:09:55,661
+
+
 Daddy!
 
-211
-00:09:55,820 --> 00:09:57,947
+
+
 Hey, baby.
 
-212
-00:09:58,139 --> 00:10:00,791
+
+
 Oh, my goodness.
 Those are such fancy pajamas.
 
-213
-00:10:00,860 --> 00:10:01,860
+
+
 Yeah, aren't they?
 
-214
-00:10:01,980 --> 00:10:03,424
+
+
 - They're not pajamas.
 - They're not?
 
-215
-00:10:03,500 --> 00:10:05,389
+
+
 But isn't it your bedtime?
 What time is her bedtime?
 
-216
-00:10:05,700 --> 00:10:06,985
+
+
 She's coming with us.
 
-217
-00:10:07,179 --> 00:10:08,466
+
+
 Mom says I get to meet the Mayor.
 
-218
-00:10:08,539 --> 00:10:09,541
+
+
 Really?
 
-219
-00:10:10,019 --> 00:10:11,863
+
+
 Quality father-daughter bonding time.
 
-220
-00:10:12,659 --> 00:10:14,184
+
+
 Will there be food?
 
-221
-00:10:14,340 --> 00:10:15,421
+
+
 It's $10,000 a plate.
 
-222
-00:10:15,500 --> 00:10:16,500
+
+
 You're gonna eat like a queen.
 
-223
-00:10:16,580 --> 00:10:17,990
+
+
 Will there be pizza?
 
-224
-00:10:18,059 --> 00:10:20,107
+
+
 Yes, $10,000 pizza.
 
-225
-00:10:23,899 --> 00:10:26,870
+
+
 The children's fund has thrived
 under the Mayor's leadership.
 
-226
-00:10:27,059 --> 00:10:29,745
+
+
 And to make sure Mayor Edwards
 gets something out of it,
 
-227
-00:10:29,820 --> 00:10:31,548
+
+
 he's gonna lower the voting age to ten.
 
-228
-00:10:32,980 --> 00:10:35,301
+
+
 Everyone asks me why my husband
 
-229
-00:10:35,419 --> 00:10:37,548
+
+
 is hosting a charity event.
 
-230
-00:10:37,620 --> 00:10:40,020
+
+
 The truth is Tom loves children.
 
-231
-00:10:40,139 --> 00:10:42,142
+
+
 He says they make the best smartphones.
 
-232
-00:10:42,620 --> 00:10:43,860
+
+
 I don't get it.
 
-233
-00:10:43,899 --> 00:10:45,424
+
+
 - She just burned your dad.
 - Oh.
 
-234
-00:10:45,500 --> 00:10:47,264
+
+
 They say there is no substitute
 
-235
-00:10:47,340 --> 00:10:48,943
+
+
 for time with your children.
 
-236
-00:10:49,059 --> 00:10:51,984
+
+
 Although, we know, in this room,
 money comes close.
 
-237
-00:10:53,980 --> 00:10:56,426
+
+
 And that's why this charity is so popular.
 
-238
-00:10:56,539 --> 00:10:57,951
+
+
 If you don't have time for kids,
 
-239
-00:10:58,019 --> 00:10:59,544
+
+
 we'll ease your guilt
 by taking your dough.
 
-240
-00:11:00,820 --> 00:11:04,461
+
+
 Which is why Tom Brand has agreed
 to host this benefit
 
-241
-00:11:04,539 --> 00:11:06,621
+
+
 for the next seven years.
 
-242
-00:11:08,700 --> 00:11:11,509
+
+
 So without further ado,
 please welcome my husband,
 
-243
-00:11:11,580 --> 00:11:13,548
+
+
 a real pussy cat, Tom Brand.
 
-244
-00:11:18,019 --> 00:11:19,988
+
+
 So, today is the big day.
 
-245
-00:11:20,059 --> 00:11:21,471
+
+
 Have you thought about what you want?
 
-246
-00:11:21,539 --> 00:11:22,666
+
+
 I want a cat.
 
-247
-00:11:22,740 --> 00:11:23,980
+
+
 Oh, I don't think our building takes pets.
 
-248
-00:11:24,059 --> 00:11:25,221
+
+
 You own the building.
 
-249
-00:11:25,299 --> 00:11:26,711
+
+
 Wait, didn't you ask for a cat last year?
 
-250
-00:11:26,779 --> 00:11:28,668
+
+
 Yeah, and you got me a foosball table.
 
-251
-00:11:28,740 --> 00:11:30,548
+
+
 Honey, most kids would kill
 for a foosball table.
 
-252
-00:11:30,620 --> 00:11:32,224
+
+
 Yeah, but none of my friends
 play foosball.
 
-253
-00:11:32,299 --> 00:11:34,381
+
+
 So, at least if I have a cat,
 I can play with the cat.
 
-254
-00:11:34,460 --> 00:11:35,985
+
+
 All right, all right.
 I'll make you a deal.
 
-255
-00:11:36,059 --> 00:11:38,380
+
+
 - I will think about it. How about that?
 - Yes!
 
-256
-00:11:40,659 --> 00:11:42,071
+
+
 Get her jewelry. Girls love jewelry.
 
-257
-00:11:42,139 --> 00:11:43,140
+
+
 Pull some strings with Apple,
 
-258
-00:11:43,220 --> 00:11:44,745
+
+
 get her a prototype of the new iPhone.
 
-259
-00:11:44,820 --> 00:11:45,866
+
+
 How about a private concert?
 
-260
-00:11:45,940 --> 00:11:47,429
+
+
 - You know what band she is into?
 - No.
 
-261
-00:11:47,500 --> 00:11:48,911
+
+
 I have a radical suggestion.
 
-262
-00:11:48,980 --> 00:11:50,709
+
+
 Have you tried asking Rebecca
 what she wants?
 
-263
-00:11:50,779 --> 00:11:52,748
+
+
 Yes, she wants a cat.
 
-264
-00:11:52,820 --> 00:11:53,980
+
+
 Well, that's in your price range.
 
-265
-00:11:54,059 --> 00:11:55,186
+
+
 I hate cats.
 
-266
-00:11:55,259 --> 00:11:57,261
+
+
 They puke all over the house.
 They shed all over everything.
 
-267
-00:11:57,340 --> 00:11:59,149
+
+
 I got an ex-wife, a wife and two kids,
 
-268
-00:11:59,220 --> 00:12:00,426
+
+
 I don't need another thing to feed.
 
-269
-00:12:00,620 --> 00:12:02,065
+
+
 What about a pony?
 
-270
-00:12:10,220 --> 00:12:12,143
+
+
 Could you smile? It's a party.
 
-271
-00:12:12,220 --> 00:12:13,380
+
+
 Why do we always come here?
 
-272
-00:12:13,460 --> 00:12:15,269
+
+
 They're family. More or less.
 
-273
-00:12:15,740 --> 00:12:18,346
+
+
 What are you barking at?
 There are no squirrels in the elevator.
 
-274
-00:12:20,139 --> 00:12:21,664
+
+
 Here, take him.
 
-275
-00:12:24,460 --> 00:12:26,029
+
+
 Just pretend you're having fun.
 
-276
-00:12:26,139 --> 00:12:28,062
+
+
 Seriously?
 
-277
-00:12:32,580 --> 00:12:34,423
+
+
 Happy birthday!
 
-278
-00:12:35,980 --> 00:12:37,822
+
+
 I love this yearly ritual
 
-279
-00:12:37,899 --> 00:12:39,629
+
+
 where Tom forgets Rebecca's birthdays
 
-280
-00:12:39,700 --> 00:12:42,100
+
+
 and you forget that Tom
 forgets Rebecca's birthdays.
 
-281
-00:12:42,179 --> 00:12:43,226
+
+
 He kind of remembered.
 
-282
-00:12:43,340 --> 00:12:45,581
+
+
 - You'd have to fire a warning shot.
 - Madison!
 
-283
-00:12:45,659 --> 00:12:47,866
+
+
 When Tom and I divorced,
 he got the younger model.
 
-284
-00:12:47,940 --> 00:12:49,066
+
+
 I'm blushing.
 
-285
-00:12:49,179 --> 00:12:50,750
+
+
 If he loses you, it's jailbait.
 
-286
-00:12:50,820 --> 00:12:52,105
+
+
 Well, that's romantic.
 
-287
-00:12:52,179 --> 00:12:54,581
+
+
 I want you to call my lawyer.
 
-288
-00:12:54,659 --> 00:12:56,230
+
+
 Do you get a finder's fee?
 
-289
-00:12:56,299 --> 00:12:58,347
+
+
 Lara, the day Tom and I divorced
 
-290
-00:12:58,419 --> 00:12:59,990
+
+
 was the happiest day of my life.
 
-291
-00:13:00,059 --> 00:13:02,107
+
+
 I want that happiness for you.
 
-292
-00:13:02,179 --> 00:13:04,386
+
+
 Come on, help me out before
 your hands get all shaky.
 
-293
-00:13:05,340 --> 00:13:08,469
+
+
 This is for the road.
 I don't want Tom catching us together.
 
-294
-00:13:08,539 --> 00:13:10,780
+
+
 What's he gonna do? Divorce you again?
 
-295
-00:13:12,340 --> 00:13:13,865
+
+
 He would if he could.
 
-296
-00:13:14,500 --> 00:13:16,866
+
+
 Are there gonna be any boys at the party?
 
-297
-00:13:16,940 --> 00:13:18,509
+
+
 No.
 
-298
-00:13:18,620 --> 00:13:20,144
+
+
 You're turning 11, Rebecca.
 
-299
-00:13:20,220 --> 00:13:22,951
+
+
 Now's the time.
 I could help you, you know.
 
-300
-00:13:23,019 --> 00:13:24,828
+
+
 Like how my mom helps your mom.
 
-301
-00:13:24,899 --> 00:13:26,708
+
+
 - What?
 - Never mind.
 
-302
-00:13:26,779 --> 00:13:27,860
+
+
 I love your room.
 
-303
-00:13:27,940 --> 00:13:29,100
+
+
 Thank you.
 
-304
-00:13:29,220 --> 00:13:30,948
+
+
 My dad actually likes
 spending time with me,
 
-305
-00:13:31,019 --> 00:13:33,022
+
+
 so he never has to buy me off.
 
-306
-00:13:34,379 --> 00:13:37,065
+
+
 Come on. Smile for Instagram.
 
-307
-00:13:40,740 --> 00:13:42,264
+
+
 What if you got her a plush cat?
 
-308
-00:13:42,340 --> 00:13:43,750
+
+
 See, technically, it's a cat.
 
-309
-00:13:43,860 --> 00:13:45,225
+
+
 No, technically, it's not a cat.
 
-310
-00:13:45,539 --> 00:13:46,985
+
+
 Chicago just announced.
 
-311
-00:13:47,299 --> 00:13:49,302
+
+
 Hang on. I got it, I got it, I got it.
 
-312
-00:13:49,379 --> 00:13:51,780
+
+
 Take a look at Tashirojima,
 
-313
-00:13:51,860 --> 00:13:53,988
+
+
 also known as Cat Island.
 
-314
-00:13:54,059 --> 00:13:55,299
+
+
 Put her up there with a nanny.
 
-315
-00:13:55,379 --> 00:13:57,109
+
+
 Best part, you don't
 even have to be there.
 
-316
-00:13:57,179 --> 00:13:58,147
+
+
 That's interesting.
 
-317
-00:13:58,220 --> 00:13:59,426
+
+
 She asks for a cat every single year.
 
-318
-00:13:59,539 --> 00:14:00,666
+
+
 You can't just buy your way out.
 
-319
-00:14:00,740 --> 00:14:02,504
+
+
 Mr. Brand, I think the fact that
 
-320
-00:14:02,580 --> 00:14:04,183
+
+
 you've had us put so much time
 and thought into this
 
-321
-00:14:04,259 --> 00:14:05,591
+
+
 is really gonna show her you care.
 
-322
-00:14:05,659 --> 00:14:06,946
+
+
 If you wanna show her you really care,
 
-323
-00:14:07,019 --> 00:14:08,259
+
+
 just get her what she really wants.
 
-324
-00:14:08,580 --> 00:14:10,469
+
+
 A cat.
 
-325
-00:14:11,539 --> 00:14:13,224
+
+
 Jeez.
 
-326
-00:14:29,659 --> 00:14:32,981
+
+
 Nearest pet shop, 1.7 miles.
 
-327
-00:14:39,820 --> 00:14:40,821
+
+
 Damn it.
 
-328
-00:14:40,899 --> 00:14:42,061
+
+
 Recalculating.
 
-329
-00:14:43,899 --> 00:14:47,790
+
+
 In one-tenth of a mile, make a right turn.
 
-330
-00:14:53,419 --> 00:14:55,149
+
+
 Make a left turn.
 
-331
-00:15:01,620 --> 00:15:02,985
+
+
 You have arrived.
 
-332
-00:15:07,019 --> 00:15:08,020
+
+
 Jeez!
 
-333
-00:16:05,139 --> 00:16:06,551
+
+
 Get away from me.
 
-334
-00:16:08,059 --> 00:16:09,061
+
+
 Shut up.
 
-335
-00:16:09,620 --> 00:16:12,145
+
+
 Hello? Hello?
 
-336
-00:16:15,019 --> 00:16:16,749
+
+
 - Oh, hello.
 - Hi.
 
-337
-00:16:20,419 --> 00:16:22,308
+
+
 You look familiar. Have we met?
 
-338
-00:16:22,379 --> 00:16:23,541
+
+
 Oh, I doubt it.
 
-339
-00:16:23,620 --> 00:16:25,349
+
+
 I know you from somewhere.
 
-340
-00:16:25,460 --> 00:16:27,188
+
+
 Well, I'm on TV a lot.
 
-341
-00:16:27,259 --> 00:16:29,661
+
+
 Yes! Animal Planet. I love that show.
 
-342
-00:16:29,740 --> 00:16:30,946
+
+
 No, not Animal Planet.
 
-343
-00:16:31,059 --> 00:16:34,029
+
+
 - I'm Tom Brand. I own FireBrand.
 - There you go.
 
-344
-00:16:34,100 --> 00:16:36,500
+
+
 I use newspaper in the poopy boxes,
 
-345
-00:16:36,580 --> 00:16:38,980
+
+
 and I see your face all the time.
 
-346
-00:16:39,940 --> 00:16:41,179
+
+
 Look, I'm a little late for something,
 
-347
-00:16:41,259 --> 00:16:43,024
+
+
 so if we could just get on with it?
 
-348
-00:16:43,220 --> 00:16:45,221
+
+
 - Meow!
 - Sure.
 
-349
-00:16:45,379 --> 00:16:46,984
+
+
 You don't like cats, do you, Mr. Brand?
 
-350
-00:16:47,059 --> 00:16:48,823
+
+
 Look, can I just pick one out?
 And then I'll be on my way.
 
-351
-00:16:48,899 --> 00:16:50,902
+
+
 You don't pick a cat. The cat picks you.
 
-352
-00:16:50,980 --> 00:16:52,663
+
+
 Look, I make million-dollar
 decisions for lunch.
 
-353
-00:16:52,740 --> 00:16:54,071
+
+
 I'm pretty sure I can pick out a cat.
 
-354
-00:16:54,139 --> 00:16:55,982
+
+
 See that? He likes you.
 
-355
-00:16:56,059 --> 00:16:59,381
+
+
 It figures because he's
 attracted to troubled souls.
 
-356
-00:17:01,419 --> 00:17:03,104
+
+
 Used up seven lives already.
 
-357
-00:17:04,420 --> 00:17:06,548
+
+
 Meow, meow, meow,
 meow, meow, meow, meow, meow
 
-358
-00:17:06,619 --> 00:17:09,191
+
+
 Meow, meow, meow, meow Meow, meow, meow
 
-359
-00:17:09,539 --> 00:17:12,749
+
+
 That'll give Chicago the tallest
 building in North America
 
-360
-00:17:13,180 --> 00:17:15,103
+
+
 which leaves New York
 and FireBrand in second place.
 
-361
-00:17:15,180 --> 00:17:16,864
+
+
 You should pick a bowl.
 
-362
-00:17:16,940 --> 00:17:18,145
+
+
 The company could not
 be reached for comment.
 
-363
-00:17:18,220 --> 00:17:20,108
+
+
 But with the opening ceremony
 just a month away...
 
-364
-00:17:20,180 --> 00:17:21,909
+
+
 "Mister Fuzzypants."
 
-365
-00:17:21,980 --> 00:17:24,631
+
+
 Yeah. Yeah. Good.
 
-366
-00:17:24,940 --> 00:17:26,180
+
+
 Good choice.
 
-367
-00:17:26,660 --> 00:17:28,070
+
+
 Yeah. Could you just wrap it up for me?
 
-368
-00:17:28,140 --> 00:17:29,186
+
+
 Sure.
 
-369
-00:17:30,779 --> 00:17:32,111
+
+
 You know, I get it.
 
-370
-00:17:32,180 --> 00:17:34,625
+
+
 "Brand" because your name is Brand.
 
-371
-00:17:36,299 --> 00:17:38,382
+
+
 - But why "Fire"?
 - How much do I owe you?
 
-372
-00:17:38,460 --> 00:17:40,905
+
+
 I ask because I did the same thing, see.
 
-373
-00:17:40,980 --> 00:17:44,189
+
+
 My name is Perkins,
 
-374
-00:17:44,259 --> 00:17:48,151
+
+
 so I call my store "Purrkins."
 
-375
-00:17:48,220 --> 00:17:50,871
+
+
 Oh, I see there.
 
-376
-00:17:51,420 --> 00:17:53,945
+
+
 We're just like two peas in a pod.
 
-377
-00:17:54,220 --> 00:17:55,425
+
+
 Yeah. Keep the change.
 
-378
-00:17:55,740 --> 00:17:57,026
+
+
 Oh, wow.
 
-379
-00:18:01,220 --> 00:18:04,109
+
+
 - You might not wanna take that.
 - I'm sorry?
 
-380
-00:18:04,180 --> 00:18:05,784
+
+
 You're running late, it's a gift.
 
-381
-00:18:05,859 --> 00:18:07,099
+
+
 You don't want to be late.
 
-382
-00:18:09,779 --> 00:18:11,862
+
+
 For the party?
 
-383
-00:18:16,339 --> 00:18:17,340
+
+
 Right.
 
-384
-00:18:18,900 --> 00:18:21,743
+
+
 Ian, what the hell is going on?
 
-385
-00:18:24,059 --> 00:18:25,824
+
+
 Okay, cats.
 
-386
-00:18:25,980 --> 00:18:28,142
+
+
 Let's do this.
 
-387
-00:18:32,380 --> 00:18:33,825
+
+
 Oh, good job.
 
-388
-00:18:35,339 --> 00:18:37,387
+
+
 - Happy birthday, baby.
 - Thank you.
 
-389
-00:18:37,460 --> 00:18:39,029
+
+
 Okay, first piece for the birthday girl.
 
-390
-00:18:39,099 --> 00:18:40,464
+
+
 And save some for Daddy.
 
-391
-00:18:40,539 --> 00:18:42,906
+
+
 Just put it in the freezer
 next to last year's slice.
 
-392
-00:18:43,019 --> 00:18:44,863
+
+
 - Mmm.
 - What?
 
-393
-00:18:50,779 --> 00:18:52,111
+
+
 Wait here.
 
-394
-00:19:15,700 --> 00:19:17,224
+
+
 Shut up.
 
-395
-00:19:28,059 --> 00:19:29,185
+
+
 Went with the cat.
 
-396
-00:19:29,259 --> 00:19:30,307
+
+
 Smart move.
 
-397
-00:19:30,380 --> 00:19:31,790
+
+
 Was that news report a joke?
 
-398
-00:19:31,859 --> 00:19:33,544
+
+
 Tom, we can turn this around.
 
-399
-00:19:33,619 --> 00:19:34,701
+
+
 Just look up there.
 
-400
-00:19:34,779 --> 00:19:36,191
+
+
 That antenna's 47 feet.
 
-401
-00:19:36,259 --> 00:19:37,385
+
+
 I spoke to our engineers,
 
-402
-00:19:37,460 --> 00:19:39,780
+
+
 and if we install support lines,
 we can raise it up.
 
-403
-00:19:39,859 --> 00:19:40,941
+
+
 That's what they did at One World Trade.
 
-404
-00:19:41,019 --> 00:19:42,749
+
+
 Stop. You dragged me across town
 
-405
-00:19:42,900 --> 00:19:44,628
+
+
 and up 1,900 feet to tell me this?
 
-406
-00:19:44,700 --> 00:19:45,701
+
+
 This is a solution.
 
-407
-00:19:45,779 --> 00:19:47,269
+
+
 - That antenna is...
 - Antenna?
 
-408
-00:19:47,339 --> 00:19:49,865
+
+
 I wanted the tallest building,
 Ian, not the best reception.
 
-409
-00:19:49,940 --> 00:19:51,351
+
+
 Well, maybe we can add more floors.
 
-410
-00:19:51,420 --> 00:19:52,830
+
+
 Do you know how much planning
 went into this?
 
-411
-00:19:52,900 --> 00:19:54,470
+
+
 To get permission to build it this height?
 
-412
-00:19:54,539 --> 00:19:56,065
+
+
 You blew it. We're now standing
 
-413
-00:19:56,140 --> 00:19:57,630
+
+
 on the second tallest
 building in North America.
 
-414
-00:19:57,700 --> 00:19:59,588
+
+
 Number two, because you were busy
 
-415
-00:19:59,660 --> 00:20:01,708
+
+
 trying to sell my company behind my back.
 
-416
-00:20:01,819 --> 00:20:03,151
+
+
 - Tom...
 - Pack up your office!
 
-417
-00:20:04,539 --> 00:20:06,109
+
+
 I'm late. I know. Stop calling.
 
-418
-00:20:22,140 --> 00:20:23,710
+
+
 - Pull me up.
 - You're firing me?
 
-419
-00:20:23,779 --> 00:20:24,780
+
+
 Take my hand!
 
-420
-00:20:43,779 --> 00:20:45,144
+
+
 That hurt.
 
-421
-00:20:47,500 --> 00:20:48,740
+
+
 BP holding steady.
 
-422
-00:20:48,819 --> 00:20:50,151
+
+
 Okay, let's do this on three.
 
-423
-00:20:50,220 --> 00:20:51,221
+
+
 Ready?
 
-424
-00:20:51,299 --> 00:20:53,301
+
+
 One, two, three.
 
-425
-00:20:57,220 --> 00:20:58,949
+
+
 What about that guy?
 
-426
-00:21:01,140 --> 00:21:03,063
+
+
 Huh, this little guy looks fine.
 
-427
-00:21:05,700 --> 00:21:08,431
+
+
 Wow, that guy looks worse off than me.
 
-428
-00:21:08,500 --> 00:21:11,151
+
+
 And he's wearing my clothes.
 
-429
-00:21:12,660 --> 00:21:14,788
+
+
 And that's my belt.
 
-430
-00:21:19,859 --> 00:21:21,224
+
+
 Seriously?
 
-431
-00:21:25,259 --> 00:21:27,182
+
+
 It's just a bad dream!
 
-432
-00:21:31,900 --> 00:21:33,105
+
+
 The good news is your husband made it
 
-433
-00:21:33,180 --> 00:21:34,909
+
+
 through surgery with no complications,
 
-434
-00:21:34,980 --> 00:21:37,346
+
+
 but he had severe head trauma
 and is unresponsive.
 
-435
-00:21:37,420 --> 00:21:39,023
+
+
 You call this unresponsive?
 
-436
-00:21:39,619 --> 00:21:40,746
+
+
 When will he wake up?
 
-437
-00:21:40,819 --> 00:21:42,230
+
+
 Mrs. Brand, your husband's in a coma.
 
-438
-00:21:42,299 --> 00:21:45,462
+
+
 Once the swelling in the brain is
 reduced over the next couple of days,
 
-439
-00:21:45,539 --> 00:21:47,508
+
+
 that's when we're more likely
 to see a recovery.
 
-440
-00:21:47,579 --> 00:21:48,990
+
+
 But right now, he's not in there.
 
-441
-00:21:49,059 --> 00:21:50,346
+
+
 That's because I'm in here!
 
-442
-00:21:50,420 --> 00:21:52,262
+
+
 Lara, listen to me! It's me!
 
-443
-00:21:55,460 --> 00:21:56,904
+
+
 Thank God. You can hear me.
 
-444
-00:21:58,539 --> 00:22:00,348
+
+
 Wait, wait, wait, wait.
 
-445
-00:22:00,420 --> 00:22:01,500
+
+
 No, no, no, no.
 
-446
-00:22:01,579 --> 00:22:03,308
+
+
 Don't leave me back there.
 
-447
-00:22:03,380 --> 00:22:05,428
+
+
 Hey, leave me with me.
 
-448
-00:22:09,579 --> 00:22:10,626
+
+
 Hi.
 
-449
-00:22:12,220 --> 00:22:13,460
+
+
 Hi, baby.
 
-450
-00:22:14,220 --> 00:22:15,425
+
+
 Can I see Daddy?
 
-451
-00:22:15,500 --> 00:22:18,742
+
+
 Well, he is sleeping right now
 so he can't talk to us,
 
-452
-00:22:18,819 --> 00:22:20,584
+
+
 but maybe he can hear us.
 
-453
-00:22:20,660 --> 00:22:22,150
+
+
 We'll go in together, okay?
 
-454
-00:22:22,220 --> 00:22:23,710
+
+
 - Come on.
 - Shall we see?
 
-455
-00:22:24,500 --> 00:22:26,548
+
+
 Oh, this is so humiliating.
 
-456
-00:22:26,619 --> 00:22:27,984
+
+
 Hey, Lara. I tried to lift him up,
 
-457
-00:22:28,059 --> 00:22:29,185
+
+
 but I wasn't strong enough.
 
-458
-00:22:29,299 --> 00:22:30,664
+
+
 - Judas.
 - No, it's not your fault.
 
-459
-00:22:30,740 --> 00:22:31,980
+
+
 Whose cat is that?
 
-460
-00:22:32,059 --> 00:22:33,346
+
+
 I think he's yours.
 
-461
-00:22:33,420 --> 00:22:34,990
+
+
 I think your dad got him. Let's go see.
 
-462
-00:22:35,500 --> 00:22:37,501
+
+
 Daddy got me a cat?
 
-463
-00:22:37,579 --> 00:22:39,263
+
+
 Amazing, isn't it?
 
-464
-00:22:49,099 --> 00:22:50,146
+
+
 I said I'd call.
 
-465
-00:22:59,099 --> 00:23:00,864
+
+
 Hello, someone, anyone.
 
-466
-00:23:00,940 --> 00:23:03,340
+
+
 I'm trapped inside a cat's body.
 
-467
-00:23:03,460 --> 00:23:04,700
+
+
 Somebody help me!
 
-468
-00:23:04,779 --> 00:23:07,259
+
+
 You, in the horrible green jacket.
 
-469
-00:23:10,500 --> 00:23:13,503
+
+
 So, how are you doin' in there?
 
-470
-00:23:13,579 --> 00:23:15,548
+
+
 The nightmare continues.
 
-471
-00:23:15,619 --> 00:23:17,861
+
+
 Mr. Brand, this is no dream.
 
-472
-00:23:17,940 --> 00:23:19,351
+
+
 - You can hear me?
 - Shh.
 
-473
-00:23:19,420 --> 00:23:21,262
+
+
 I'm a cat whisperer.
 
-474
-00:23:21,339 --> 00:23:23,387
+
+
 And I'm the only one who can hear you.
 
-475
-00:23:23,460 --> 00:23:24,621
+
+
 What did you do to me?
 
-476
-00:23:24,700 --> 00:23:26,701
+
+
 I didn't do anything. You fell off a roof.
 
-477
-00:23:26,779 --> 00:23:28,430
+
+
 Fine. How do I get out of this?
 
-478
-00:23:28,500 --> 00:23:29,944
+
+
 Wrong question.
 
-479
-00:23:30,019 --> 00:23:32,500
+
+
 You should ask, "How did I get into this?"
 
-480
-00:23:32,579 --> 00:23:34,183
+
+
 Fine! How did I get into this?
 
-481
-00:23:34,259 --> 00:23:35,829
+
+
 Keep asking that question.
 
-482
-00:23:35,900 --> 00:23:37,390
+
+
 I hope you figure it out.
 
-483
-00:23:37,460 --> 00:23:39,064
+
+
 What does that mean?
 
-484
-00:23:39,579 --> 00:23:40,786
+
+
 Your body won't last long.
 
-485
-00:23:40,859 --> 00:23:43,625
+
+
 If it expires, you're gonna
 be stuck in there
 
-486
-00:23:43,700 --> 00:23:45,030
+
+
 for the rest of your life.
 
-487
-00:23:45,099 --> 00:23:46,589
+
+
 You get me out of here, you son of a...
 
-488
-00:23:46,660 --> 00:23:47,990
+
+
 Calm down, Mr. Brand.
 
-489
-00:23:48,059 --> 00:23:49,585
+
+
 You're a cat.
 
-490
-00:23:49,980 --> 00:23:51,391
+
+
 It's not the end of the world.
 
-491
-00:23:51,460 --> 00:23:53,269
+
+
 I hate cats.
 
-492
-00:23:53,339 --> 00:23:55,468
+
+
 That's what makes this so perfect.
 
-493
-00:23:57,180 --> 00:23:58,625
+
+
 All right.
 
-494
-00:23:58,700 --> 00:24:00,429
+
+
 Calm down.
 
-495
-00:24:00,500 --> 00:24:03,151
+
+
 I thought Daddy would get me a kitten.
 
-496
-00:24:03,220 --> 00:24:04,664
+
+
 He is scruffy, isn't he?
 
-497
-00:24:05,339 --> 00:24:06,865
+
+
 What, you want to trade him in.
 
-498
-00:24:06,980 --> 00:24:07,980
+
+
 No!
 
-499
-00:24:08,059 --> 00:24:09,585
+
+
 I didn't think so.
 
-500
-00:24:09,660 --> 00:24:11,741
+
+
 All right, welcome home, cat.
 
-501
-00:24:11,859 --> 00:24:12,861
+
+
 Oh.
 
-502
-00:24:13,900 --> 00:24:15,503
+
+
 Maybe we should let him get comfortable.
 
-503
-00:24:15,579 --> 00:24:18,345
+
+
 He wants to explore.
 
-504
-00:24:18,500 --> 00:24:20,945
+
+
 Can I sleep with you tonight, Mommy?
 
-505
-00:24:21,700 --> 00:24:23,065
+
+
 Yeah, kiddo.
 
-506
-00:24:24,019 --> 00:24:25,784
+
+
 I could use the company.
 
-507
-00:24:25,859 --> 00:24:28,545
+
+
 Message. Let them know I'm me.
 
-508
-00:24:28,619 --> 00:24:29,666
+
+
 Write a message.
 
-509
-00:24:29,740 --> 00:24:31,105
+
+
 Simple.
 
-510
-00:24:31,180 --> 00:24:33,228
+
+
 "Oh, hi, it's Tom.
 
-511
-00:24:33,339 --> 00:24:34,625
+
+
 "Get me out of here."
 
-512
-00:24:34,700 --> 00:24:38,465
+
+
 Just need a few words.
 
-513
-00:24:38,539 --> 00:24:40,029
+
+
 Nothing complicated.
 
-514
-00:25:17,579 --> 00:25:20,026
+
+
 Dear Lara, don't panic. It's Tom.
 
-515
-00:25:20,099 --> 00:25:22,467
+
+
 I seem to be trapped in the body of a cat.
 
-516
-00:25:22,539 --> 00:25:23,701
+
+
 This is not a joke.
 
-517
-00:25:23,779 --> 00:25:25,862
+
+
 Your loving husband, Tom.
 
-518
-00:25:28,980 --> 00:25:30,505
+
+
 Okay, that didn't work.
 
-519
-00:25:30,579 --> 00:25:32,901
+
+
 Although, not bad for a cat.
 
-520
-00:25:45,779 --> 00:25:48,942
+
+
 Ironically, I could really
 use a mouse right now.
 
-521
-00:25:55,420 --> 00:25:58,980
+
+
 Mommy, when is Daddy gonna come home?
 
-522
-00:25:59,059 --> 00:26:00,505
+
+
 Just as soon as he wakes up.
 
-523
-00:26:00,619 --> 00:26:02,941
+
+
 They should use a really big alarm clock.
 
-524
-00:26:03,019 --> 00:26:04,942
+
+
 You'd be a great doctor.
 
-525
-00:26:21,420 --> 00:26:22,421
+
+
 What do you want, kitty?
 
-526
-00:26:22,500 --> 00:26:26,060
+
+
 Money clip, plus license equals...
 
-527
-00:26:26,140 --> 00:26:27,380
+
+
 I'm stuck in a cat!
 
-528
-00:26:27,460 --> 00:26:28,825
+
+
 He wants to play.
 
-529
-00:26:31,140 --> 00:26:33,871
+
+
 Well, sorry, kitty. It is bedtime in here.
 
-530
-00:26:33,940 --> 00:26:35,624
+
+
 But we can play tomorrow.
 
-531
-00:26:35,700 --> 00:26:36,780
+
+
 Tomorrow?
 
-532
-00:26:40,500 --> 00:26:41,580
+
+
 Okay.
 
-533
-00:26:47,259 --> 00:26:48,785
+
+
 Where were we?
 
-534
-00:28:43,460 --> 00:28:46,748
+
+
 If I'm in a cat's body,
 
-535
-00:28:46,819 --> 00:28:49,141
+
+
 is a cat in my body?
 
-536
-00:28:50,660 --> 00:28:52,230
+
+
 Oh...
 
-537
-00:28:52,299 --> 00:28:54,461
+
+
 I always hated that rug.
 
-538
-00:28:55,700 --> 00:28:56,701
+
+
 Whoa!
 
-539
-00:28:58,539 --> 00:29:00,304
+
+
 This is good scotch.
 
-540
-00:29:25,900 --> 00:29:26,901
+
+
 Rough night?
 
-541
-00:29:26,980 --> 00:29:28,868
+
+
 No. I was just contemplating
 
-542
-00:29:28,940 --> 00:29:31,625
+
+
 the rest of my life as a cat.
 
-543
-00:29:32,619 --> 00:29:33,621
+
+
 Hmm.
 
-544
-00:29:40,059 --> 00:29:41,788
+
+
 Okay.
 
-545
-00:29:41,900 --> 00:29:43,549
+
+
 Jesus!
 
-546
-00:29:43,740 --> 00:29:45,344
+
+
 Who's hungry?
 
-547
-00:29:51,500 --> 00:29:52,500
+
+
 Oh...
 
-548
-00:29:55,019 --> 00:29:56,020
+
+
 Yum yum.
 
-549
-00:30:02,180 --> 00:30:04,261
+
+
 Looks like a cat already ate this.
 
-550
-00:30:04,380 --> 00:30:06,064
+
+
 Bon appétit.
 
-551
-00:30:06,140 --> 00:30:08,107
+
+
 French. That'll sell this stuff.
 
-552
-00:30:16,380 --> 00:30:17,711
+
+
 All right.
 
-553
-00:30:20,940 --> 00:30:22,145
+
+
 There's your litter box.
 
-554
-00:30:22,220 --> 00:30:24,063
+
+
 No, thank you, I have the rug.
 
-555
-00:30:36,099 --> 00:30:38,147
+
+
 I had a really good excuse.
 
-556
-00:30:40,099 --> 00:30:42,102
+
+
 Here come the floodgates.
 
-557
-00:30:45,900 --> 00:30:48,471
+
+
 You probably think I'm crazy
 crying over a piece of cake.
 
-558
-00:30:48,539 --> 00:30:51,019
+
+
 Or that your husband's
 in the hospital in a coma.
 
-559
-00:30:51,099 --> 00:30:52,864
+
+
 He's gonna wake up.
 
-560
-00:30:53,779 --> 00:30:54,826
+
+
 Right?
 
-561
-00:30:55,460 --> 00:30:57,780
+
+
 Oh, I really gotta find that Perkins guy.
 
-562
-00:31:01,420 --> 00:31:02,990
+
+
 Hangover!
 
-563
-00:31:05,099 --> 00:31:06,625
+
+
 Hello, kitty.
 
-564
-00:31:06,940 --> 00:31:08,305
+
+
 What should we call you?
 
-565
-00:31:09,819 --> 00:31:12,391
+
+
 Is that your name? Mister Fuzzypants?
 
-566
-00:31:12,460 --> 00:31:13,790
+
+
 I hate karma.
 
-567
-00:31:13,900 --> 00:31:16,425
+
+
 You're the best gift I ever got.
 
-568
-00:31:17,500 --> 00:31:18,944
+
+
 No, too sweet.
 
-569
-00:31:20,059 --> 00:31:21,788
+
+
 That wasn't funny.
 
-570
-00:31:23,619 --> 00:31:25,144
+
+
 What are you two laughing at?
 
-571
-00:31:25,220 --> 00:31:27,382
+
+
 I don't think it's funny.
 
-572
-00:31:27,460 --> 00:31:28,665
+
+
 See, this is my point of view.
 
-573
-00:31:28,740 --> 00:31:31,549
+
+
 We don't need high rises,
 we need strategic growth.
 
-574
-00:31:31,619 --> 00:31:32,859
+
+
 And that's what we've all been saying.
 
-575
-00:31:32,940 --> 00:31:35,181
+
+
 We shouldn't even be
 talking about this now.
 
-576
-00:31:35,259 --> 00:31:36,500
+
+
 This isn't a crisis.
 
-577
-00:31:36,579 --> 00:31:38,263
+
+
 This is an opportunity.
 
-578
-00:31:55,619 --> 00:31:56,666
+
+
 What?
 
-579
-00:32:00,500 --> 00:32:01,625
+
+
 What do you need?
 
-580
-00:32:14,819 --> 00:32:16,788
+
+
 If you want food, it's in the bowl.
 
-581
-00:32:21,380 --> 00:32:22,540
+
+
 Fruity Pebbles
 
-582
-00:32:23,539 --> 00:32:26,191
+
+
 or that?
 
-583
-00:32:29,539 --> 00:32:30,621
+
+
 Fruity Pebbles.
 
-584
-00:32:37,700 --> 00:32:41,307
+
+
 Be the cat, be the cat, be the cat,
 be the cat, be the cat!
 
-585
-00:32:43,900 --> 00:32:44,901
+
+
 Graceful.
 
-586
-00:32:46,019 --> 00:32:47,351
+
+
 Yeah? You try it.
 
-587
-00:33:01,779 --> 00:33:04,828
+
+
 And, nailed it!
 
-588
-00:33:05,619 --> 00:33:06,666
+
+
 I called your mom, too.
 
-589
-00:33:06,740 --> 00:33:08,344
+
+
 I just wanted to get everyone together.
 
-590
-00:33:08,420 --> 00:33:09,625
+
+
 Well, it smells great.
 
-591
-00:33:09,700 --> 00:33:11,349
+
+
 What are you cooking?
 
-592
-00:33:12,980 --> 00:33:14,823
+
+
 Roast cat.
 
-593
-00:33:15,180 --> 00:33:17,228
+
+
 Maybe its head got screwed up in the fall.
 
-594
-00:33:17,299 --> 00:33:18,825
+
+
 He's an alcoholic. I can't get him to eat,
 
-595
-00:33:18,900 --> 00:33:20,140
+
+
 but I found an empty decanter,
 
-596
-00:33:20,220 --> 00:33:22,108
+
+
 of 50-year-old Macallan
 with fur all over it.
 
-597
-00:33:22,180 --> 00:33:23,829
+
+
 Well, at least he has good taste.
 
-598
-00:33:23,900 --> 00:33:26,141
+
+
 Maybe I should mix scotch into his food.
 
-599
-00:33:26,220 --> 00:33:27,346
+
+
 Can I use Dad's office for a bit?
 
-600
-00:33:27,420 --> 00:33:28,467
+
+
 Yeah, what's up?
 
-601
-00:33:28,539 --> 00:33:30,190
+
+
 I just want to see
 if I can find anything else
 
-602
-00:33:30,259 --> 00:33:32,148
+
+
 that might help me
 with this whole Chicago...
 
-603
-00:33:33,980 --> 00:33:36,028
+
+
 Do they make MRIs for cats?
 
-604
-00:33:36,380 --> 00:33:37,904
+
+
 You mean CAT scans?
 
-605
-00:33:39,059 --> 00:33:40,903
+
+
 I should have landed on the knives.
 
-606
-00:33:42,700 --> 00:33:44,111
+
+
 I'll be in the office.
 
-607
-00:33:50,900 --> 00:33:52,230
+
+
 Hi.
 
-608
-00:33:59,539 --> 00:34:00,586
+
+
 So,
 
-609
-00:34:00,700 --> 00:34:02,030
+
+
 are you like Dad now?
 
-610
-00:34:02,460 --> 00:34:03,507
+
+
 What do you mean?
 
-611
-00:34:03,619 --> 00:34:05,030
+
+
 Are you president of the company?
 
-612
-00:34:05,660 --> 00:34:08,550
+
+
 No, I'm doing the same job,
 just without Dad.
 
-613
-00:34:09,179 --> 00:34:10,545
+
+
 Can you come out soon?
 
-614
-00:34:10,619 --> 00:34:12,110
+
+
 Yeah, in a minute.
 
-615
-00:34:12,260 --> 00:34:14,422
+
+
 You're so totally like Dad.
 
-616
-00:34:18,539 --> 00:34:19,826
+
+
 Lara!
 
-617
-00:34:19,900 --> 00:34:22,266
+
+
 Oh, good! Satan's over for dinner.
 
-618
-00:34:22,860 --> 00:34:25,864
+
+
 So sorry about Tom.
 I always thought it would be skydiving,
 
-619
-00:34:25,940 --> 00:34:27,385
+
+
 or that his secretary would just snap
 
-620
-00:34:27,460 --> 00:34:28,949
+
+
 and bring an Uzi to the office.
 
-621
-00:34:29,099 --> 00:34:31,306
+
+
 I thought you'd die from a Botox overdose.
 
-622
-00:34:31,579 --> 00:34:33,230
+
+
 Oh, you brought the dogs.
 
-623
-00:34:34,340 --> 00:34:35,784
+
+
 Princess, Jeanette!
 
-624
-00:34:46,460 --> 00:34:49,349
+
+
 You know Tom's unconscious, right?
 You can take the night off.
 
-625
-00:34:49,420 --> 00:34:51,342
+
+
 Yeah, well, someone
 has to keep things going.
 
-626
-00:34:51,460 --> 00:34:53,940
+
+
 I never understood why you wanted
 to work for him anyway.
 
-627
-00:34:54,019 --> 00:34:55,862
+
+
 - Mom, if we could not talk...
 - Hey.
 
-628
-00:34:55,940 --> 00:34:57,987
+
+
 This isn't healthy.
 
-629
-00:35:15,619 --> 00:35:17,269
+
+
 Chicken soup for grief.
 
-630
-00:35:20,059 --> 00:35:21,505
+
+
 - Mmm.
 - Mmm.
 
-631
-00:35:29,940 --> 00:35:31,351
+
+
 Stop it. Get out of here.
 
-632
-00:35:33,179 --> 00:35:34,181
+
+
 Heel!
 
-633
-00:35:35,539 --> 00:35:37,702
+
+
 Can you please take them away?
 They're really scaring him.
 
-634
-00:35:37,780 --> 00:35:40,306
+
+
 They have a very strong sense
 about other animals.
 
-635
-00:35:40,380 --> 00:35:42,382
+
+
 - Where'd your dad get him?
 - Why?
 
-636
-00:35:42,460 --> 00:35:44,507
+
+
 Well, did he just
 pick him up off the streets?
 
-637
-00:35:44,579 --> 00:35:46,264
+
+
 He's just a little messy.
 
-638
-00:35:46,380 --> 00:35:48,507
+
+
 I know you're upset
 because your dad's dying...
 
-639
-00:35:48,780 --> 00:35:51,385
+
+
 He's not dying. He's just unconscious.
 
-640
-00:35:51,500 --> 00:35:54,389
+
+
 My mom says your mom should be
 more realistic about his condition.
 
-641
-00:35:56,139 --> 00:35:57,903
+
+
 Princess, Jeanette, heel!
 
-642
-00:35:59,820 --> 00:36:01,344
+
+
 T
 
-643
-00:36:01,820 --> 00:36:03,663
+
+
 O
 
-644
-00:36:04,059 --> 00:36:05,221
+
+
 M.
 
-645
-00:36:08,699 --> 00:36:10,384
+
+
 Madison, David, Rebecca, Nicole.
 
-646
-00:36:11,619 --> 00:36:12,621
+
+
 What?
 
-647
-00:36:12,900 --> 00:36:14,186
+
+
 I set a place for Tom.
 
-648
-00:36:14,539 --> 00:36:17,748
+
+
 Well, that's a weird habit.
 It's not like he's usually here for dinner.
 
-649
-00:36:18,099 --> 00:36:19,545
+
+
 Madison, not tonight.
 
-650
-00:36:19,739 --> 00:36:21,981
+
+
 I'd say the same thing if he were here.
 
-651
-00:36:22,059 --> 00:36:23,505
+
+
 Yes, that's why nobody likes you.
 
-652
-00:36:23,579 --> 00:36:25,661
+
+
 But there's a reason
 you've been seeing Josh.
 
-653
-00:36:25,739 --> 00:36:26,786
+
+
 Josh?
 
-654
-00:36:26,860 --> 00:36:28,510
+
+
 Oh, I can't even think
 about that right now.
 
-655
-00:36:28,579 --> 00:36:31,663
+
+
 Now's the perfect time.
 It's not like Tom could catch you.
 
-656
-00:36:34,460 --> 00:36:35,905
+
+
 Who needs a litter box?
 
-657
-00:36:46,940 --> 00:36:50,182
+
+
 Oh, Madison? I've been a bad kitty.
 
-658
-00:36:51,780 --> 00:36:53,429
+
+
 Hey! You...
 
-659
-00:36:57,500 --> 00:36:58,626
+
+
 Oh...
 
-660
-00:36:59,059 --> 00:37:00,471
+
+
 Cheese!
 
-661
-00:37:12,780 --> 00:37:14,384
+
+
 Sorry, everybody.
 
-662
-00:37:15,300 --> 00:37:16,347
+
+
 - Wait.
 - What?
 
-663
-00:37:16,820 --> 00:37:19,300
+
+
 Nothing, I just thought
 I saw... Nothing. It's okay.
 
-664
-00:37:19,500 --> 00:37:21,581
+
+
 Lara, that cat needs to be put down.
 
-665
-00:37:21,659 --> 00:37:22,661
+
+
 Hey!
 
-666
-00:37:22,820 --> 00:37:24,059
+
+
 I'll buy you a new bag, Madison.
 
-667
-00:37:24,139 --> 00:37:27,268
+
+
 Hire a trainer,
 a cat whisperer, I don't care.
 
-668
-00:37:27,900 --> 00:37:29,664
+
+
 Let's get you a new martini.
 
-669
-00:37:30,019 --> 00:37:31,101
+
+
 Yes.
 
-670
-00:37:31,300 --> 00:37:34,382
+
+
 Well, someone's gotta talk
 about the empty chair.
 
-671
-00:37:35,139 --> 00:37:37,541
+
+
 - Should we do toasts?
 - It's not a wake, Mom.
 
-672
-00:37:37,860 --> 00:37:39,827
+
+
 This isn't Tom's
 first time in the hospital.
 
-673
-00:37:40,139 --> 00:37:41,983
+
+
 Remember when he launched the airline?
 
-674
-00:37:42,059 --> 00:37:44,108
+
+
 He was always on the phone, never slept.
 
-675
-00:37:44,179 --> 00:37:45,420
+
+
 You know what you asked me?
 
-676
-00:37:45,500 --> 00:37:46,547
+
+
 Vampire.
 
-677
-00:37:46,619 --> 00:37:48,269
+
+
 Why is Daddy a vampire?
 
-678
-00:37:48,500 --> 00:37:50,867
+
+
 Because Mommy sucked all his blood.
 
-679
-00:37:50,940 --> 00:37:52,668
+
+
 He'd stay awake all night working out,
 
-680
-00:37:52,739 --> 00:37:55,425
+
+
 and then one day, he just fell
 asleep on a moving treadmill.
 
-681
-00:37:55,500 --> 00:37:57,228
+
+
 He was in the hospital for a week.
 
-682
-00:37:57,619 --> 00:37:59,304
+
+
 Best vacation I ever had.
 
-683
-00:37:59,380 --> 00:38:01,347
+
+
 I'd wake up and find him
 on the balcony at 4:00 a.m.
 
-684
-00:38:01,420 --> 00:38:03,262
+
+
 just staring at his tower.
 
-685
-00:38:03,340 --> 00:38:04,387
+
+
 I'll say this for Tom.
 
-686
-00:38:04,460 --> 00:38:05,621
+
+
 There was never another woman.
 
-687
-00:38:05,699 --> 00:38:06,860
+
+
 With me, it was an airline.
 
-688
-00:38:06,940 --> 00:38:08,942
+
+
 With you, it's a big skyscraper.
 
-689
-00:38:09,019 --> 00:38:10,431
+
+
 Ignore everything you hear tonight.
 
-690
-00:38:10,619 --> 00:38:12,463
+
+
 I'm not a role model, Rebecca.
 
-691
-00:38:12,539 --> 00:38:13,871
+
+
 You're used to it.
 
-692
-00:38:14,099 --> 00:38:15,704
+
+
 - How about that toast?
 - Mmm-hmm.
 
-693
-00:38:15,940 --> 00:38:18,181
+
+
 - To Dad. Wake up soon.
 - We miss you.
 
-694
-00:38:18,340 --> 00:38:19,864
+
+
 Or your tower misses you.
 
-695
-00:38:34,380 --> 00:38:35,744
+
+
 Sleep well?
 
-696
-00:38:36,860 --> 00:38:40,262
+
+
 Rebecca Alison Brand,
 your cat destroyed the yellow pages!
 
-697
-00:38:40,380 --> 00:38:42,030
+
+
 What's a yellow pages?
 
-698
-00:39:08,980 --> 00:39:10,344
+
+
 That cat you got,
 
-699
-00:39:10,420 --> 00:39:11,387
+
+
 he's lucky you're in here
 
-700
-00:39:11,460 --> 00:39:13,110
+
+
 or you'd have killed him by now.
 
-701
-00:39:13,219 --> 00:39:14,505
+
+
 I got a plan to beat Chicago.
 
-702
-00:39:14,579 --> 00:39:16,422
+
+
 I just need to sell it to the Board.
 
-703
-00:39:16,739 --> 00:39:19,141
+
+
 When you wake up, we might be number one.
 
-704
-00:39:20,500 --> 00:39:21,706
+
+
 We're doing the best that we can do.
 
-705
-00:39:21,780 --> 00:39:23,384
+
+
 Okay. Thank you so much.
 
-706
-00:39:29,179 --> 00:39:30,420
+
+
 What are you doing here?
 
-707
-00:39:30,500 --> 00:39:32,786
+
+
 Sprained my wrist. That's why
 I couldn't hold on to your Dad.
 
-708
-00:39:32,860 --> 00:39:34,782
+
+
 You're seeing my Dad's neurologist
 about your wrist?
 
-709
-00:39:34,860 --> 00:39:36,021
+
+
 The Board needs updates on his status.
 
-710
-00:39:36,099 --> 00:39:37,260
+
+
 So ask me.
 
-711
-00:39:37,340 --> 00:39:39,661
+
+
 We're not going to take medical
 advice from the grieving son.
 
-712
-00:39:39,739 --> 00:39:40,980
+
+
 It's a massive transition for the company.
 
-713
-00:39:41,059 --> 00:39:42,186
+
+
 What transition?
 
-714
-00:39:42,260 --> 00:39:44,706
+
+
 Big day at the office.
 Good luck with the Board.
 
-715
-00:39:47,099 --> 00:39:48,385
+
+
 We're losing by that much.
 
-716
-00:39:48,460 --> 00:39:49,905
+
+
 We get 70 feet, we're number one.
 
-717
-00:39:49,980 --> 00:39:52,061
+
+
 Now, our structure
 can't support another floor,
 
-718
-00:39:52,139 --> 00:39:55,507
+
+
 and unfortunately we can't just
 smuggle a wrecking ball into Chicago,
 
-719
-00:39:55,579 --> 00:39:57,150
+
+
 so we need to shed weight.
 
-720
-00:39:57,219 --> 00:39:58,346
+
+
 I thought we were making it taller.
 
-721
-00:39:58,940 --> 00:40:00,465
+
+
 We lose one floor,
 
-722
-00:40:00,860 --> 00:40:02,065
+
+
 it buys us this.
 
-723
-00:40:02,139 --> 00:40:03,380
+
+
 That's gonna collapse.
 
-724
-00:40:03,460 --> 00:40:04,585
+
+
 Not if we use titanium.
 
-725
-00:40:04,659 --> 00:40:05,865
+
+
 Why don't we just build it out of gold?
 
-726
-00:40:05,980 --> 00:40:07,822
+
+
 It's as strong as steel
 and half the weight.
 
-727
-00:40:07,940 --> 00:40:10,260
+
+
 I don't know what problem
 you're trying to solve here.
 
-728
-00:40:10,340 --> 00:40:11,340
+
+
 Excuse me?
 
-729
-00:40:11,460 --> 00:40:13,746
+
+
 This is a stack of prime real
 estate in Manhattan.
 
-730
-00:40:13,820 --> 00:40:15,231
+
+
 We can't charge rent on a jungle gym.
 
-731
-00:40:15,300 --> 00:40:16,983
+
+
 My father didn't build
 the tallest skyscraper
 
-732
-00:40:17,059 --> 00:40:19,188
+
+
 in the Northern Hemisphere
 for a little rent money.
 
-733
-00:40:19,260 --> 00:40:20,670
+
+
 It's not the tallest skyscraper.
 
-734
-00:40:20,820 --> 00:40:22,231
+
+
 Because you screwed up.
 
-735
-00:40:22,300 --> 00:40:23,300
+
+
 Hmm.
 
-736
-00:40:25,780 --> 00:40:29,670
+
+
 Look. If Tom were here, you know
 this is exactly what he would do.
 
-737
-00:40:29,739 --> 00:40:32,744
+
+
 I appreciate that you want
 to honor your father, David.
 
-738
-00:40:32,820 --> 00:40:33,981
+
+
 We need to watch the books.
 
-739
-00:40:34,059 --> 00:40:37,347
+
+
 Our company can't keep diverting
 funds into Tom's pet projects.
 
-740
-00:40:37,780 --> 00:40:38,985
+
+
 It's his company.
 
-741
-00:40:39,059 --> 00:40:40,106
+
+
 Thank you, David.
 
-742
-00:40:40,659 --> 00:40:42,184
+
+
 He's not dead.
 
-743
-00:40:54,780 --> 00:40:56,623
+
+
 - Meow.
 - Meow.
 
-744
-00:40:56,900 --> 00:40:57,947
+
+
 You wanna try?
 
-745
-00:40:58,019 --> 00:40:59,021
+
+
 You wanna try?
 
-746
-00:40:59,099 --> 00:41:00,340
+
+
 Lord help me.
 
-747
-00:41:01,099 --> 00:41:04,626
+
+
 Okay, let's try "A purse
 is not a litter box."
 
-748
-00:41:05,179 --> 00:41:07,103
+
+
 A purse is not a litter box.
 
-749
-00:41:10,420 --> 00:41:12,786
+
+
 Mr. Fuzzypants was the last thing
 her father gave her,
 
-750
-00:41:12,860 --> 00:41:14,349
+
+
 so she's really latched on.
 
-751
-00:41:14,539 --> 00:41:17,224
+
+
 Mmm. He wants attention, obviously.
 
-752
-00:41:17,539 --> 00:41:19,382
+
+
 - This is our daughter, Rebecca.
 - Hello.
 
-753
-00:41:19,820 --> 00:41:21,548
+
+
 You are going to tell
 them every word I say.
 
-754
-00:41:24,659 --> 00:41:25,865
+
+
 Good move. Nice.
 
-755
-00:41:26,139 --> 00:41:27,300
+
+
 You try it.
 
-756
-00:41:27,380 --> 00:41:30,190
+
+
 Your dad bought this cat at my store.
 Did you know that?
 
-757
-00:41:30,420 --> 00:41:31,989
+
+
 Who cares? Just translate.
 
-758
-00:41:32,059 --> 00:41:35,222
+
+
 I remember, he said he wanted you
 to have exactly what you asked for.
 
-759
-00:41:35,340 --> 00:41:38,184
+
+
 Hey, cat freak, I didn't call you
 down here to ignore me.
 
-760
-00:41:39,019 --> 00:41:41,260
+
+
 Could we have a moment of privacy, please?
 
-761
-00:41:43,139 --> 00:41:44,300
+
+
 You and the cat?
 
-762
-00:41:44,380 --> 00:41:45,380
+
+
 - Yeah.
 - Okay.
 
-763
-00:41:52,139 --> 00:41:54,380
+
+
 You don't have time for games, Mr. Brand.
 
-764
-00:41:54,460 --> 00:41:55,949
+
+
 Tell them who I am.
 
-765
-00:41:56,019 --> 00:41:57,590
+
+
 I'm not your press agent.
 
-766
-00:42:00,380 --> 00:42:01,505
+
+
 Well, you're a cat whisperer,
 
-767
-00:42:01,579 --> 00:42:03,581
+
+
 and I'm pretty sure I'm still a cat!
 
-768
-00:42:06,420 --> 00:42:07,501
+
+
 Have you asked yourself
 
-769
-00:42:07,579 --> 00:42:09,150
+
+
 how you got into this position?
 
-770
-00:42:09,219 --> 00:42:10,380
+
+
 I tried googling it, but you know,
 
-771
-00:42:10,460 --> 00:42:12,507
+
+
 they don't make keyboards for paws!
 
-772
-00:42:12,579 --> 00:42:15,628
+
+
 You're acting like a beast
 and you're driving your family crazy.
 
-773
-00:42:15,699 --> 00:42:18,385
+
+
 These doctors can't
 keep you alive forever,
 
-774
-00:42:18,460 --> 00:42:22,101
+
+
 so if you want to get out of this,
 you have to behave.
 
-775
-00:42:22,699 --> 00:42:25,431
+
+
 And if your human body goes,
 get used to those paws.
 
-776
-00:42:25,500 --> 00:42:27,103
+
+
 You'll be a cat forever.
 
-777
-00:42:31,340 --> 00:42:33,467
+
+
 I am not eating cat food.
 
-778
-00:42:33,739 --> 00:42:35,230
+
+
 You'll eat cat food or else.
 
-779
-00:42:35,340 --> 00:42:37,023
+
+
 Oh, I'm 10 pounds and covered in fur.
 
-780
-00:42:37,099 --> 00:42:38,864
+
+
 What else could you possibly do to me?
 
-781
-00:42:38,940 --> 00:42:40,829
+
+
 This cat has not been fixed.
 
-782
-00:42:41,219 --> 00:42:42,266
+
+
 Don't you dare.
 
-783
-00:42:42,739 --> 00:42:44,867
+
+
 Oh, should I take him to the vet?
 
-784
-00:42:44,940 --> 00:42:46,179
+
+
 - Perkins...
 - Let's wait.
 
-785
-00:42:46,260 --> 00:42:47,864
+
+
 - ...if you so much as lay a finger on...
 - He's made progress.
 
-786
-00:42:47,940 --> 00:42:49,668
+
+
 He's gonna be better now.
 
-787
-00:42:49,739 --> 00:42:52,630
+
+
 If he's not eating his food,
 using his poopy box,
 
-788
-00:42:53,019 --> 00:42:55,306
+
+
 give me a call. I'll clip him myself.
 
-789
-00:42:55,460 --> 00:42:56,621
+
+
 You hear that, Fuzzypants?
 
-790
-00:42:56,699 --> 00:42:58,940
+
+
 I am the sixth richest
 person in Manhattan!
 
-791
-00:42:59,019 --> 00:43:00,067
+
+
 A well-behaved pet
 
-792
-00:43:00,139 --> 00:43:02,141
+
+
 brings love and comfort to a home.
 
-793
-00:43:02,820 --> 00:43:05,505
+
+
 And your family needs that right now,
 
-794
-00:43:05,619 --> 00:43:06,701
+
+
 so are you gonna behave?
 
-795
-00:43:07,340 --> 00:43:09,068
+
+
 You need to be a cat.
 
-796
-00:43:10,139 --> 00:43:12,063
+
+
 Okay, I'll be a cat.
 
-797
-00:43:12,139 --> 00:43:13,141
+
+
 Behave.
 
-798
-00:43:15,139 --> 00:43:16,221
+
+
 No clipping.
 
-799
-00:43:17,980 --> 00:43:19,311
+
+
 All the best.
 
-800
-00:43:21,940 --> 00:43:23,021
+
+
 All the best.
 
-801
-00:43:24,420 --> 00:43:26,309
+
+
 Who needs to be fixed?
 
-802
-00:43:26,659 --> 00:43:30,380
+
+
 Yes, letting salmon breathe
 all day really brings out the flavor.
 
-803
-00:43:33,619 --> 00:43:35,543
+
+
 Lord, help me.
 
-804
-00:43:36,860 --> 00:43:38,588
+
+
 How do cats eat this stuff?
 
-805
-00:43:40,900 --> 00:43:43,266
+
+
 Ah... I can't.
 
-806
-00:43:46,179 --> 00:43:48,751
+
+
 I'm starving.
 
-807
-00:44:01,059 --> 00:44:04,860
+
+
 Come on. Come on, Fuzzypants,
 you can do it. Come on.
 
-808
-00:44:05,460 --> 00:44:06,791
+
+
 Hold it, hold it still.
 
-809
-00:44:06,860 --> 00:44:09,465
+
+
 Hold it still, hold it, hold it still.
 
-810
-00:44:09,699 --> 00:44:11,224
+
+
 Is this supposed to be fun?
 
-811
-00:44:12,460 --> 00:44:13,460
+
+
 Yeah.
 
-812
-00:44:14,219 --> 00:44:15,550
+
+
 Just drown me.
 
-813
-00:44:20,980 --> 00:44:22,789
+
+
 Well, that's an improvement.
 
-814
-00:44:23,380 --> 00:44:24,585
+
+
 Look.
 
-815
-00:44:24,659 --> 00:44:25,820
+
+
 Seriously?
 
-816
-00:44:46,019 --> 00:44:47,067
+
+
 Good kitty.
 
-817
-00:44:48,099 --> 00:44:49,590
+
+
 Public humiliation.
 
-818
-00:44:50,820 --> 00:44:51,820
+
+
 Hi, Josh.
 
-819
-00:44:51,900 --> 00:44:52,947
+
+
 Josh?
 
-820
-00:44:53,059 --> 00:44:55,108
+
+
 I got something I have to show you.
 
-821
-00:44:55,179 --> 00:44:56,750
+
+
 Look, I can't keep doing this.
 
-822
-00:44:56,820 --> 00:44:59,027
+
+
 No, I'm not taking no for an answer.
 I'm already on my way.
 
-823
-00:44:59,260 --> 00:45:00,943
+
+
 Yeah, I'm not gonna...
 
-824
-00:45:01,579 --> 00:45:03,025
+
+
 I'll text you the address, okay?
 
-825
-00:45:09,219 --> 00:45:10,744
+
+
 Don't even think about it.
 
-826
-00:45:10,820 --> 00:45:12,344
+
+
 Come on, get out of there.
 I gotta get going.
 
-827
-00:45:12,420 --> 00:45:13,420
+
+
 Let's go.
 
-828
-00:45:26,460 --> 00:45:27,949
+
+
 Missing something?
 
-829
-00:45:29,739 --> 00:45:31,867
+
+
 Here, kitty. Here, kitty.
 Here, kitty. Here, kitty.
 
-830
-00:45:31,940 --> 00:45:32,987
+
+
 Kitty, kitty, kitty, kitty.
 
-831
-00:45:33,099 --> 00:45:34,510
+
+
 Oh!
 
-832
-00:45:34,860 --> 00:45:35,860
+
+
 Sorry, honey.
 
-833
-00:45:36,619 --> 00:45:38,588
+
+
 Kitty, kitty. Come on, kitty, kitty.
 
-834
-00:45:47,340 --> 00:45:48,626
+
+
 Of all the cats in the world,
 
-835
-00:45:48,739 --> 00:45:50,902
+
+
 of course Tom picked you.
 You're just like him.
 
-836
-00:45:50,980 --> 00:45:52,550
+
+
 That's what I've been trying to tell you.
 
-837
-00:45:52,659 --> 00:45:55,266
+
+
 Stubborn and selfish and shedding.
 
-838
-00:45:55,340 --> 00:45:56,704
+
+
 But here's the difference.
 
-839
-00:45:56,780 --> 00:45:59,101
+
+
 I'm legally barred
 from castrating my husband.
 
-840
-00:46:00,059 --> 00:46:01,221
+
+
 Drop 'em.
 
-841
-00:46:03,460 --> 00:46:04,507
+
+
 Good kitty.
 
-842
-00:46:41,699 --> 00:46:43,110
+
+
 Nailed it!
 
-843
-00:46:59,820 --> 00:47:01,264
+
+
 Excuse me, who are you?
 
-844
-00:47:02,940 --> 00:47:04,226
+
+
 Who are you?
 
-845
-00:47:04,619 --> 00:47:05,951
+
+
 None of your business.
 
-846
-00:47:09,539 --> 00:47:11,065
+
+
 We've only got one day in Ohio, so...
 
-847
-00:47:11,139 --> 00:47:13,222
+
+
 - You're selling the company.
 - I'll call you back.
 
-848
-00:47:13,300 --> 00:47:15,028
+
+
 You're cutting the books,
 you're lining up a roadshow,
 
-849
-00:47:15,099 --> 00:47:17,181
+
+
 and you got Goldman Sachs camped out
 in the conference room.
 
-850
-00:47:17,260 --> 00:47:18,420
+
+
 We're taking FireBrand public.
 
-851
-00:47:18,659 --> 00:47:20,742
+
+
 - With the CEO in a coma?
 - The odds that he recovers...
 
-852
-00:47:20,820 --> 00:47:22,231
+
+
 - When he wakes up...
 - If.
 
-853
-00:47:22,340 --> 00:47:25,628
+
+
 He is gonna fire every single one of you.
 
-854
-00:47:25,780 --> 00:47:26,985
+
+
 Calculated risk.
 
-855
-00:47:27,059 --> 00:47:29,630
+
+
 David, when this deal goes through,
 your family makes billions.
 
-856
-00:47:29,699 --> 00:47:32,465
+
+
 Just take the money.
 You don't owe Tom Brand a thing.
 
-857
-00:47:48,260 --> 00:47:49,625
+
+
 Hi, Josh.
 
-858
-00:47:50,340 --> 00:47:51,340
+
+
 This is pretty.
 
-859
-00:47:51,619 --> 00:47:52,905
+
+
 It's gorgeous, right?
 
-860
-00:47:52,980 --> 00:47:54,902
+
+
 He's an Abercrombie model?
 
-861
-00:47:54,980 --> 00:47:56,219
+
+
 Wait till you see this view.
 
-862
-00:48:02,260 --> 00:48:03,465
+
+
 - Hi, Josh.
 - Hi.
 
-863
-00:48:04,340 --> 00:48:05,501
+
+
 We need to talk.
 
-864
-00:48:05,579 --> 00:48:06,626
+
+
 Let's talk inside.
 
-865
-00:48:06,699 --> 00:48:08,782
+
+
 No, let's just do it out here.
 
-866
-00:48:08,900 --> 00:48:10,425
+
+
 Where, in the grass?
 
-867
-00:48:10,500 --> 00:48:12,389
+
+
 I know that we've been at this for months,
 
-868
-00:48:12,460 --> 00:48:14,940
+
+
 and you must be anxious
 for some kind of decision.
 
-869
-00:48:15,460 --> 00:48:16,871
+
+
 I can't keep seeing you.
 
-870
-00:48:16,980 --> 00:48:18,981
+
+
 Lara, just take a look at...
 
-871
-00:48:22,500 --> 00:48:23,626
+
+
 Mr. Fuzzypants?
 
-872
-00:48:23,780 --> 00:48:24,780
+
+
 Seriously?
 
-873
-00:48:25,300 --> 00:48:27,302
+
+
 What are you doing here?
 
-874
-00:48:27,579 --> 00:48:30,389
+
+
 You know, getting out of the city
 is really great for a pet.
 
-875
-00:48:30,460 --> 00:48:31,905
+
+
 And this place just went
 on the market today.
 
-876
-00:48:31,980 --> 00:48:34,027
+
+
 - Market?
 - I can't look at any more houses.
 
-877
-00:48:34,099 --> 00:48:35,101
+
+
 What?
 
-878
-00:48:38,139 --> 00:48:39,186
+
+
 When Madison introduced us,
 
-879
-00:48:39,260 --> 00:48:40,590
+
+
 she said you were ready to buy.
 
-880
-00:48:40,659 --> 00:48:41,661
+
+
 I thought I was.
 
-881
-00:48:41,739 --> 00:48:44,983
+
+
 New house, new job,
 I was ready to leave Tom.
 
-882
-00:48:45,300 --> 00:48:46,789
+
+
 She was leaving me.
 
-883
-00:48:47,139 --> 00:48:49,141
+
+
 So, what's changed?
 
-884
-00:48:49,219 --> 00:48:52,349
+
+
 Well, what's changed is
 I have this shaggy gremlin,
 
-885
-00:48:52,420 --> 00:48:54,103
+
+
 and even when he's stalking me,
 
-886
-00:48:54,179 --> 00:48:58,070
+
+
 he's a constant reminder, the last thing
 Tom did was for his daughter,
 
-887
-00:48:58,179 --> 00:48:59,306
+
+
 and I love him.
 
-888
-00:48:59,380 --> 00:49:00,380
+
+
 And I love you.
 
-889
-00:49:00,460 --> 00:49:02,349
+
+
 - I need to go.
 - I never stopped.
 
-890
-00:49:05,699 --> 00:49:06,746
+
+
 Are you happy now?
 
-891
-00:49:06,820 --> 00:49:08,548
+
+
 Not until you are.
 
-892
-00:49:11,940 --> 00:49:13,829
+
+
 - Dr. Cole.
 - Uh-oh.
 
-893
-00:49:14,340 --> 00:49:15,626
+
+
 Bad news?
 
-894
-00:49:22,059 --> 00:49:25,826
+
+
 Rebecca, I was just visiting Daddy.
 
-895
-00:49:26,340 --> 00:49:27,501
+
+
 He is still sleeping.
 
-896
-00:49:27,579 --> 00:49:29,581
+
+
 He's getting better, though, right?
 
-897
-00:49:29,659 --> 00:49:31,548
+
+
 His body is getting better,
 
-898
-00:49:31,619 --> 00:49:33,702
+
+
 but he's been sleeping so long,
 
-899
-00:49:33,780 --> 00:49:36,306
+
+
 Dr. Cole doesn't know
 if he's gonna wake up.
 
-900
-00:49:36,380 --> 00:49:37,869
+
+
 But he could.
 
-901
-00:49:38,500 --> 00:49:39,626
+
+
 He could.
 
-902
-00:49:39,699 --> 00:49:41,862
+
+
 Mom, then it's gonna be okay.
 
-903
-00:49:42,579 --> 00:49:46,744
+
+
 Dad's been working so hard,
 he just needs extra sleep.
 
-904
-00:49:53,980 --> 00:49:56,108
+
+
 Three cool cats
 
-905
-00:49:57,460 --> 00:49:59,746
+
+
 Three cool cats
 
-906
-00:50:01,300 --> 00:50:04,429
+
+
 Parked on the corner in a beat-up car
 
-907
-00:50:04,940 --> 00:50:08,068
+
+
 Dividing up a nickel candy bar
 
-908
-00:50:09,219 --> 00:50:11,871
+
+
 Talking all about how sharp they are
 
-909
-00:50:11,940 --> 00:50:14,260
+
+
 These three cool cats
 
-910
-00:50:17,099 --> 00:50:18,340
+
+
 I'm so sorry, baby.
 
-911
-00:50:18,420 --> 00:50:19,581
+
+
 Not now.
 
-912
-00:50:20,300 --> 00:50:22,826
+
+
 Three cool chicks
 
-913
-00:50:24,099 --> 00:50:27,547
+
+
 Walkin' down the street
 Swingin' their hips
 
-914
-00:50:28,260 --> 00:50:31,184
+
+
 Splitting up a bag of potato chips
 
-915
-00:50:31,260 --> 00:50:35,106
+
+
 And three cool cats
 did three big flips for
 
-916
-00:50:35,420 --> 00:50:37,786
+
+
 Three cool chicks
 
-917
-00:50:39,260 --> 00:50:42,981
+
+
 Up popped the first cool cat
 He said, "Man, look at that!
 
-918
-00:50:43,139 --> 00:50:46,586
+
+
 "Man, do you see what I see?"
 
-919
-00:50:46,780 --> 00:50:50,340
+
+
 - "I want that middle chick!"
 - "I want that little chick!"
 
-920
-00:50:50,460 --> 00:50:53,509
+
+
 "Hey, man, save one chick for me!"
 
-921
-00:50:54,139 --> 00:50:56,949
+
+
 Three cool chicks
 
-922
-00:50:58,099 --> 00:50:59,943
+
+
 Three cool chicks
 
-923
-00:51:01,539 --> 00:51:05,226
+
+
 They look like angels from up above
 
-924
-00:51:05,380 --> 00:51:09,146
+
+
 And three cool cats really fell in love
 
-925
-00:51:09,260 --> 00:51:13,231
+
+
 But three cool chicks
 made three fools of these
 
-926
-00:51:13,300 --> 00:51:15,461
+
+
 Three cool cats
 
-927
-00:51:17,059 --> 00:51:18,902
+
+
 Three cool cats
 
-928
-00:51:18,980 --> 00:51:20,141
+
+
 What?
 
-929
-00:51:20,860 --> 00:51:22,987
+
+
 Three cool cats
 
-930
-00:51:28,099 --> 00:51:29,590
+
+
 What's wrong?
 
-931
-00:51:34,739 --> 00:51:35,980
+
+
 Oh, boy.
 
-932
-00:51:37,500 --> 00:51:38,989
+
+
 I'm an idiot.
 
-933
-00:51:45,980 --> 00:51:48,347
+
+
 I should have been a better dad.
 
-934
-00:51:55,539 --> 00:51:56,586
+
+
 Hey.
 
-935
-00:51:56,659 --> 00:51:58,469
+
+
 My mom said you needed company right now,
 
-936
-00:51:58,539 --> 00:52:00,507
+
+
 so I'm volunteering my time.
 
-937
-00:52:00,579 --> 00:52:02,264
+
+
 I kind of wanna be alone right now.
 
-938
-00:52:04,380 --> 00:52:06,030
+
+
 You should go wash your face.
 
-939
-00:52:06,099 --> 00:52:08,864
+
+
 Crying really doesn't work
 with your complexion.
 
-940
-00:52:16,940 --> 00:52:18,510
+
+
 She's a wreck.
 
-941
-00:52:25,380 --> 00:52:26,380
+
+
 Hey!
 
-942
-00:52:34,699 --> 00:52:35,666
+
+
 Your stupid cat took my...
 
-943
-00:52:35,739 --> 00:52:37,469
+
+
 Why would you share this?
 
-944
-00:52:37,539 --> 00:52:39,463
+
+
 I wanted to show some boys.
 
-945
-00:52:39,539 --> 00:52:41,143
+
+
 If they see you when you're vulnerable,
 
-946
-00:52:41,219 --> 00:52:42,300
+
+
 they'll wanna take care of you and...
 
-947
-00:52:42,380 --> 00:52:44,222
+
+
 You sent this one to half our class.
 
-948
-00:52:44,300 --> 00:52:45,347
+
+
 That was a joke.
 
-949
-00:52:45,420 --> 00:52:47,184
+
+
 You know what, my dad is in the hospital.
 
-950
-00:52:47,260 --> 00:52:48,704
+
+
 Explain the joke to me.
 
-951
-00:52:48,780 --> 00:52:50,463
+
+
 I was just trying to help.
 
-952
-00:52:50,579 --> 00:52:51,911
+
+
 That's what friends do.
 
-953
-00:52:51,980 --> 00:52:54,221
+
+
 You know what,
 my mom is friends with your mom,
 
-954
-00:52:54,300 --> 00:52:55,789
+
+
 and I see you over here a lot,
 
-955
-00:52:55,860 --> 00:52:57,099
+
+
 but stop pretending, Nicole.
 
-956
-00:52:57,179 --> 00:52:58,750
+
+
 We're not friends!
 
-957
-00:53:05,539 --> 00:53:07,621
+
+
 I can't believe you just did that!
 
-958
-00:53:09,619 --> 00:53:12,987
+
+
 Good work, but why did you grab her phone?
 
-959
-00:53:13,099 --> 00:53:14,590
+
+
 Because I'm your daddy.
 
-960
-00:53:15,579 --> 00:53:16,581
+
+
 Ew!
 
-961
-00:53:25,900 --> 00:53:29,028
+
+
 Livanto, round and balanced.
 
-962
-00:53:29,099 --> 00:53:31,306
+
+
 I can't play, Mr. Fuzzypants.
 
-963
-00:53:36,340 --> 00:53:38,581
+
+
 That was the right answer.
 
-964
-00:53:46,780 --> 00:53:49,067
+
+
 If this is what it takes to become human,
 
-965
-00:53:52,340 --> 00:53:55,230
+
+
 I will be the best cat that ever lived.
 
-966
-00:54:25,500 --> 00:54:28,708
+
+
 Hey, I brought something
 that's gonna wake you up.
 
-967
-00:54:29,300 --> 00:54:31,268
+
+
 An invitation to the grand opening
 
-968
-00:54:31,340 --> 00:54:33,820
+
+
 of the tallest lightning rod
 
-969
-00:54:33,900 --> 00:54:36,141
+
+
 in the Northern Hemisphere.
 
-970
-00:54:38,380 --> 00:54:40,985
+
+
 I miss sharing things with you, Tom.
 
-971
-00:54:42,179 --> 00:54:44,228
+
+
 That's why you need to wake up.
 
-972
-00:54:44,300 --> 00:54:47,509
+
+
 I'm not going to this thing
 without a date.
 
-973
-00:55:06,179 --> 00:55:07,943
+
+
 Are you figuring this out?
 
-974
-00:55:08,019 --> 00:55:09,670
+
+
 Hey. I just want
 another look at Dad's files.
 
-975
-00:55:09,739 --> 00:55:10,786
+
+
 Okay.
 
-976
-00:55:10,860 --> 00:55:12,588
+
+
 Is everything all right?
 
-977
-00:55:14,780 --> 00:55:16,907
+
+
 They locked up investors this morning.
 
-978
-00:55:16,980 --> 00:55:19,027
+
+
 FireBrand's going to the
 New York Stock Exchange.
 
-979
-00:55:19,099 --> 00:55:20,181
+
+
 When?
 
-980
-00:55:20,260 --> 00:55:23,945
+
+
 They're announcing it
 when they open the tower.
 
-981
-00:55:24,340 --> 00:55:25,989
+
+
 Ian totally went behind our back.
 
-982
-00:55:26,059 --> 00:55:28,061
+
+
 He's lined up Benson and Stein
 and the rest of the Board
 
-983
-00:55:28,139 --> 00:55:29,141
+
+
 in a secret deal.
 
-984
-00:55:30,980 --> 00:55:32,822
+
+
 Turns out, Ian's been working
 on this plan for months
 
-985
-00:55:32,900 --> 00:55:34,344
+
+
 and was waiting for the right time.
 
-986
-00:55:36,139 --> 00:55:37,266
+
+
 Tom would kill them.
 
-987
-00:55:37,340 --> 00:55:38,943
+
+
 They don't care.
 
-988
-00:55:43,739 --> 00:55:46,710
+
+
 Did he leave any directives or anything?
 
-989
-00:55:46,980 --> 00:55:49,630
+
+
 Uh, there's a will, but he's not dead.
 
-990
-00:55:49,699 --> 00:55:51,588
+
+
 Yeah, I know, I know. I know.
 
-991
-00:55:51,659 --> 00:55:53,230
+
+
 I just hope there's something in here
 
-992
-00:55:53,300 --> 00:55:56,030
+
+
 that'll help me fight this thing.
 
-993
-00:56:03,659 --> 00:56:06,139
+
+
 Damn. I'm everywhere.
 
-994
-00:56:35,139 --> 00:56:36,789
+
+
 David Brand.
 
-995
-00:56:37,219 --> 00:56:39,268
+
+
 You're gonna need a raise.
 
-996
-00:56:44,619 --> 00:56:47,702
+
+
 But first, let's give you a promotion.
 
-997
-00:57:02,139 --> 00:57:04,666
+
+
 David's pulling files from legal.
 He's gonna fight this.
 
-998
-00:57:04,739 --> 00:57:06,309
+
+
 As long as we get to market,
 he can't do anything.
 
-999
-00:57:13,780 --> 00:57:17,340
+
+
 Articles of incorporation. Where are they?
 
-1000
-00:57:18,179 --> 00:57:20,262
+
+
 I did find this in Tom's desk.
 
-1001
-00:57:20,340 --> 00:57:22,706
+
+
 He left all his voting shares to David.
 
-1002
-00:57:22,980 --> 00:57:24,708
+
+
 Did the audit find anything like this?
 
-1003
-00:57:24,780 --> 00:57:25,780
+
+
 No.
 
-1004
-00:57:26,019 --> 00:57:27,704
+
+
 David knows. He has to know.
 
-1005
-00:57:27,780 --> 00:57:29,748
+
+
 If he knew, we wouldn't be here.
 
-1006
-00:57:29,820 --> 00:57:31,503
+
+
 I never saw Tom hug David.
 
-1007
-00:57:31,579 --> 00:57:32,740
+
+
 I'm not much of a hugger.
 
-1008
-00:57:32,860 --> 00:57:35,101
+
+
 He's got him working
 out of that broom closet.
 
-1009
-00:57:35,179 --> 00:57:37,068
+
+
 I keep wanting to call Child Services.
 
-1010
-00:57:37,139 --> 00:57:38,824
+
+
 Yo!
 
-1011
-00:57:38,900 --> 00:57:40,664
+
+
 Well then,
 
-1012
-00:57:40,739 --> 00:57:43,311
+
+
 I never saw this. Did you?
 
-1013
-00:57:43,380 --> 00:57:44,380
+
+
 Never.
 
-1014
-00:57:44,460 --> 00:57:47,463
+
+
 We all appreciate the way
 you've handled this situation.
 
-1015
-00:57:47,539 --> 00:57:51,260
+
+
 If Tom doesn't pull through,
 we want you to take the helm.
 
-1016
-00:57:51,380 --> 00:57:52,666
+
+
 - Okay, thank you.
 - Hmm.
 
-1017
-00:57:56,460 --> 00:57:58,110
+
+
 - Hang in there.
 - Yeah.
 
-1018
-00:59:21,699 --> 00:59:22,780
+
+
 Hey, Mom.
 
-1019
-00:59:22,860 --> 00:59:24,827
+
+
 I hand you the keys
 to a multi-billion dollar company
 
-1020
-00:59:24,900 --> 00:59:25,900
+
+
 and you call your mother?
 
-1021
-00:59:25,980 --> 00:59:27,869
+
+
 Do you still have the files
 from the divorce?
 
-1022
-00:59:28,059 --> 00:59:29,630
+
+
 Oh, yeah.
 
-1023
-00:59:29,699 --> 00:59:32,385
+
+
 Princess, Jeanette, shut it!
 
-1024
-00:59:33,099 --> 00:59:36,387
+
+
 All of the company records
 for the first 10 years are in here.
 
-1025
-00:59:36,460 --> 00:59:39,588
+
+
 Should probably get rid of this stuff,
 but it makes me nostalgic.
 
-1026
-00:59:39,659 --> 00:59:40,740
+
+
 - For Dad?
 - His money.
 
-1027
-00:59:40,820 --> 00:59:42,150
+
+
 Well, at least you got half.
 
-1028
-00:59:42,699 --> 00:59:45,146
+
+
 I don't know how he did it,
 building this company from scratch.
 
-1029
-00:59:45,219 --> 00:59:48,030
+
+
 He never came home. That's how he did it.
 
-1030
-00:59:48,099 --> 00:59:49,226
+
+
 Why are you doing this?
 
-1031
-00:59:49,300 --> 00:59:51,028
+
+
 Are you waiting for
 him to say, "Good job"?
 
-1032
-00:59:51,099 --> 00:59:52,864
+
+
 'Cause your father is
 never gonna give you that.
 
-1033
-00:59:52,980 --> 00:59:55,221
+
+
 - What's this?
 - Well...
 
-1034
-00:59:55,300 --> 00:59:56,380
+
+
 What?
 
-1035
-00:59:56,460 --> 00:59:57,541
+
+
 When your father was just starting off,
 
-1036
-00:59:57,619 --> 00:59:59,224
+
+
 he couldn't think of
 a name for the company,
 
-1037
-00:59:59,340 --> 01:00:01,740
+
+
 and then one day,
 you drew a picture of him.
 
-1038
-01:00:01,820 --> 01:00:03,822
+
+
 He was never there, but he loved you.
 
-1039
-01:00:05,179 --> 01:00:06,590
+
+
 It's your company, too.
 
-1040
-01:00:06,659 --> 01:00:08,661
+
+
 You named the damn thing.
 
-1041
-01:00:09,300 --> 01:00:11,746
+
+
 It's rare for a company
 to be so interested in a patient.
 
-1042
-01:00:11,820 --> 01:00:13,503
+
+
 Tom wasn't just a boss, he was a friend.
 
-1043
-01:00:13,579 --> 01:00:14,581
+
+
 I want to know how he's doing.
 
-1044
-01:00:14,659 --> 01:00:16,503
+
+
 He could wake up tomorrow,
 he could stay like this forever.
 
-1045
-01:00:16,579 --> 01:00:17,706
+
+
 We really don't know.
 
-1046
-01:00:17,780 --> 01:00:19,384
+
+
 - Well, what are the odds?
 - It's hard to say.
 
-1047
-01:00:19,460 --> 01:00:20,985
+
+
 At this point, less than 1%?
 
-1048
-01:00:21,059 --> 01:00:23,027
+
+
 If you've done your research,
 I don't know what else you want.
 
-1049
-01:00:23,099 --> 01:00:24,943
+
+
 I'm concerned that you're
 giving his wife false hope.
 
-1050
-01:00:25,019 --> 01:00:26,306
+
+
 I told her we don't know.
 
-1051
-01:00:26,380 --> 01:00:28,951
+
+
 Well, you know, that makes it sound
 like it could go either way.
 
-1052
-01:00:29,019 --> 01:00:29,987
+
+
 I can't tell her what to do.
 
-1053
-01:00:30,059 --> 01:00:31,471
+
+
 I just want you to tell her the truth.
 
-1054
-01:00:31,579 --> 01:00:34,186
+
+
 Dragging this out
 is so hard on this family.
 
-1055
-01:00:34,699 --> 01:00:36,110
+
+
 Just think about it.
 
-1056
-01:01:10,059 --> 01:01:12,300
+
+
 Lara, you're so beautiful.
 
-1057
-01:01:12,380 --> 01:01:14,268
+
+
 Did I tell you often enough?
 
-1058
-01:01:21,659 --> 01:01:22,661
+
+
 Oh.
 
-1059
-01:01:22,739 --> 01:01:25,505
+
+
 I just wanna say that I'm...
 
-1060
-01:01:25,579 --> 01:01:26,547
+
+
 I'm sorry.
 
-1061
-01:01:26,619 --> 01:01:28,588
+
+
 Hello, there. Come here.
 
-1062
-01:01:28,980 --> 01:01:31,630
+
+
 I'm not in the mood for crazy tonight.
 
-1063
-01:01:32,260 --> 01:01:33,500
+
+
 Good boy.
 
-1064
-01:01:37,219 --> 01:01:40,541
+
+
 I guess this isn't easy for you,
 huh, Mr. Fuzzypants?
 
-1065
-01:01:40,619 --> 01:01:43,021
+
+
 Meeting a family like this?
 
-1066
-01:01:43,099 --> 01:01:44,704
+
+
 Do you need a cuddle?
 
-1067
-01:01:44,820 --> 01:01:46,628
+
+
 Somebody need a cuddle tonight?
 
-1068
-01:01:52,619 --> 01:01:53,701
+
+
 Okay.
 
-1069
-01:01:53,780 --> 01:01:56,146
+
+
 This is a special treat just for us.
 
-1070
-01:01:57,099 --> 01:01:58,101
+
+
 Don't tell.
 
-1071
-01:01:58,179 --> 01:02:00,467
+
+
 Sadly, I've got no one to tell.
 
-1072
-01:02:05,619 --> 01:02:07,588
+
+
 How does that feel, huh?
 
-1073
-01:02:07,659 --> 01:02:09,230
+
+
 Very, very sad.
 
-1074
-01:02:11,019 --> 01:02:12,465
+
+
 Good night.
 
-1075
-01:02:15,219 --> 01:02:16,630
+
+
 I love you.
 
-1076
-01:02:22,980 --> 01:02:24,141
+
+
 Lara.
 
-1077
-01:02:24,579 --> 01:02:26,105
+
+
 Lara, wake up.
 
-1078
-01:02:32,820 --> 01:02:34,389
+
+
 Are you trying to be my hairdresser?
 
-1079
-01:02:37,380 --> 01:02:38,380
+
+
 Hello?
 
-1080
-01:02:40,059 --> 01:02:41,505
+
+
 Send him right up.
 
-1081
-01:02:46,380 --> 01:02:47,619
+
+
 Do you have a company to sell?
 
-1082
-01:02:47,699 --> 01:02:48,905
+
+
 No, the tower opening's tonight
 
-1083
-01:02:48,980 --> 01:02:50,061
+
+
 and I didn't see your name on the list.
 
-1084
-01:02:50,139 --> 01:02:51,266
+
+
 I'm not getting out much.
 
-1085
-01:02:51,980 --> 01:02:52,981
+
+
 We'd love to have you.
 
-1086
-01:02:53,059 --> 01:02:54,266
+
+
 I'm sure you would.
 
-1087
-01:02:54,659 --> 01:02:56,822
+
+
 Lara, we all miss Tom very much.
 
-1088
-01:02:57,420 --> 01:03:01,186
+
+
 And maybe it's not my place
 to say this, but you have to know.
 
-1089
-01:03:01,460 --> 01:03:03,588
+
+
 - He's not coming back.
 - Mom?
 
-1090
-01:03:03,820 --> 01:03:05,184
+
+
 Go back to your room, Rebecca.
 
-1091
-01:03:05,260 --> 01:03:06,625
+
+
 What is he talking about?
 
-1092
-01:03:06,699 --> 01:03:08,702
+
+
 Just get ready for school, okay, sweetie?
 
-1093
-01:03:13,860 --> 01:03:15,146
+
+
 You don't know what you're talking about.
 
-1094
-01:03:15,219 --> 01:03:16,460
+
+
 The doctors say he has a chance.
 
-1095
-01:03:16,579 --> 01:03:18,070
+
+
 I understand. If I were you,
 
-1096
-01:03:18,139 --> 01:03:20,347
+
+
 I would do anything to keep him alive.
 
-1097
-01:03:20,900 --> 01:03:22,822
+
+
 - But this could go on for months.
 - I can wait.
 
-1098
-01:03:22,900 --> 01:03:24,947
+
+
 Or years. And he never wakes up.
 
-1099
-01:03:25,179 --> 01:03:26,625
+
+
 And Rebecca, she needs to mourn,
 
-1100
-01:03:26,699 --> 01:03:27,985
+
+
 she can't do that if she's waiting
 
-1101
-01:03:28,059 --> 01:03:29,471
+
+
 for a father who's never coming home.
 
-1102
-01:03:29,539 --> 01:03:30,541
+
+
 Ian, don't...
 
-1103
-01:03:33,739 --> 01:03:34,900
+
+
 - No!
 - Oh!
 
-1104
-01:03:36,539 --> 01:03:38,268
+
+
 Get this off of me!
 
-1105
-01:03:41,460 --> 01:03:43,427
+
+
 Please! Get this beast off of me.
 
-1106
-01:03:47,699 --> 01:03:48,701
+
+
 All right, in the cage.
 
-1107
-01:03:48,820 --> 01:03:49,820
+
+
 What did I do?
 
-1108
-01:03:49,900 --> 01:03:51,186
+
+
 You are going into the cage.
 
-1109
-01:03:51,260 --> 01:03:54,070
+
+
 That cat is feral, and you need
 to take it to the pound.
 
-1110
-01:03:54,139 --> 01:03:55,300
+
+
 This is a brand new suit!
 
-1111
-01:03:58,019 --> 01:03:59,987
+
+
 He just clawed you before I could.
 
-1112
-01:04:00,059 --> 01:04:01,869
+
+
 - Lara...
 - I am not an idiot.
 
-1113
-01:04:01,940 --> 01:04:03,543
+
+
 You're not here because you care about me
 
-1114
-01:04:03,619 --> 01:04:04,985
+
+
 or about Rebecca or about Tom.
 
-1115
-01:04:05,059 --> 01:04:07,949
+
+
 And I am not unplugging my husband
 to help your bottom line.
 
-1116
-01:04:08,019 --> 01:04:09,987
+
+
 - Bye, Mom.
 - Wait, honey, I'll walk you to school.
 
-1117
-01:04:10,059 --> 01:04:13,143
+
+
 No, it's okay, Mom. It's only
 a couple of blocks and I'm 11.
 
-1118
-01:04:13,260 --> 01:04:14,385
+
+
 Okay.
 
-1119
-01:04:22,219 --> 01:04:25,268
+
+
 I understand. You want to protect Rebecca.
 
-1120
-01:04:25,340 --> 01:04:27,501
+
+
 And I want to protect the company.
 
-1121
-01:04:27,579 --> 01:04:29,105
+
+
 But we both need the same thing.
 
-1122
-01:04:30,619 --> 01:04:31,621
+
+
 Goodbye, Ian.
 
-1123
-01:04:46,500 --> 01:04:47,911
+
+
 Where's my dry cleaning?
 
-1124
-01:04:47,980 --> 01:04:49,469
+
+
 Mr. Cox, you're scheduled at the tower.
 
-1125
-01:04:49,539 --> 01:04:50,780
+
+
 Yeah, I know.
 Tell the Board I'm running late.
 
-1126
-01:04:50,820 --> 01:04:52,947
+
+
 - Oh, they're in Mr. Brand's office.
 - What?
 
-1127
-01:04:53,019 --> 01:04:55,101
+
+
 But I moved up your meeting
 with the event planner.
 
-1128
-01:04:57,820 --> 01:04:58,981
+
+
 Why aren't you at the tower?
 
-1129
-01:04:59,059 --> 01:05:00,550
+
+
 - You called a meeting.
 - I didn't call a meeting.
 
-1130
-01:05:00,619 --> 01:05:02,190
+
+
 David called the meeting.
 
-1131
-01:05:02,260 --> 01:05:03,306
+
+
 Were you gonna tell me?
 
-1132
-01:05:03,380 --> 01:05:05,143
+
+
 He said he just needed the Board.
 
-1133
-01:05:13,460 --> 01:05:15,382
+
+
 You figured it out.
 
-1134
-01:05:24,139 --> 01:05:25,141
+
+
 Where's the Board?
 
-1135
-01:05:25,219 --> 01:05:26,630
+
+
 I sent them ahead to the tower.
 
-1136
-01:05:26,699 --> 01:05:27,780
+
+
 Sorry they missed your meeting.
 
-1137
-01:05:27,860 --> 01:05:28,985
+
+
 That's okay. We'll do it there.
 
-1138
-01:05:29,059 --> 01:05:30,141
+
+
 We're gonna have a little vote.
 
-1139
-01:05:30,219 --> 01:05:31,630
+
+
 Yeah, you know,
 you're not going to the opening.
 
-1140
-01:05:31,699 --> 01:05:34,146
+
+
 - Really?
 - Yeah. Mr. Brand no longer works for us.
 
-1141
-01:05:34,219 --> 01:05:35,664
+
+
 He's right. I own the company.
 
-1142
-01:05:35,739 --> 01:05:37,628
+
+
 Not yet. Please escort
 him off the property.
 
-1143
-01:05:37,699 --> 01:05:38,701
+
+
 Don't touch me.
 
-1144
-01:05:38,780 --> 01:05:41,306
+
+
 Ian, you do this, I will come
 at you with an army of lawyers.
 
-1145
-01:05:41,539 --> 01:05:42,826
+
+
 Go ahead. Sue me.
 
-1146
-01:05:42,900 --> 01:05:44,503
+
+
 Do it tomorrow when we're both rich.
 
-1147
-01:05:44,579 --> 01:05:47,059
+
+
 Do you really think you can steal
 FireBrand with a couple of bouncers?
 
-1148
-01:05:47,139 --> 01:05:48,949
+
+
 And you think you can stop me
 with a note from Daddy?
 
-1149
-01:05:49,019 --> 01:05:50,704
+
+
 Your father's dying. You lost his company.
 
-1150
-01:05:50,780 --> 01:05:53,021
+
+
 At the end of the day,
 you're not Tom Brand.
 
-1151
-01:06:16,019 --> 01:06:17,146
+
+
 Look who's back.
 
-1152
-01:06:18,500 --> 01:06:20,228
+
+
 I knew you'd be back.
 
-1153
-01:06:21,260 --> 01:06:22,989
+
+
 Look who's here.
 
-1154
-01:06:31,980 --> 01:06:33,902
+
+
 What can I do for you, birthday girl?
 
-1155
-01:06:33,980 --> 01:06:35,664
+
+
 I want you to take the cat back.
 
-1156
-01:06:35,739 --> 01:06:37,309
+
+
 What's he done?
 
-1157
-01:06:38,860 --> 01:06:40,748
+
+
 He's been great. It's just...
 
-1158
-01:06:40,820 --> 01:06:42,867
+
+
 I think they might wanna take him away
 
-1159
-01:06:42,940 --> 01:06:45,146
+
+
 and maybe he'd be better off back here.
 
-1160
-01:06:45,420 --> 01:06:47,740
+
+
 I get returns all the time.
 
-1161
-01:06:48,019 --> 01:06:50,545
+
+
 Some cats just don't take
 to their new family.
 
-1162
-01:06:50,860 --> 01:06:53,750
+
+
 When I met your father,
 I hoped it would work out.
 
-1163
-01:06:54,260 --> 01:06:56,422
+
+
 I know it's stupid, but sometimes I feel
 
-1164
-01:06:56,500 --> 01:06:58,740
+
+
 like my dad's looking out
 for me through the cat.
 
-1165
-01:06:58,900 --> 01:07:00,025
+
+
 You miss him.
 
-1166
-01:07:00,340 --> 01:07:03,264
+
+
 I do. I love my dad so much.
 
-1167
-01:07:03,500 --> 01:07:04,501
+
+
 And he loves you,
 
-1168
-01:07:04,579 --> 01:07:07,469
+
+
 but it's not enough
 to say you love someone.
 
-1169
-01:07:07,539 --> 01:07:09,429
+
+
 You have to show it. Sometimes,
 
-1170
-01:07:10,579 --> 01:07:12,105
+
+
 love means sacrifice.
 
-1171
-01:07:13,019 --> 01:07:14,306
+
+
 You have to show it.
 
-1172
-01:07:16,940 --> 01:07:20,148
+
+
 When you came to the house,
 you were talking to him.
 
-1173
-01:07:20,579 --> 01:07:22,786
+
+
 It's what I do. I'm a cat whisperer.
 
-1174
-01:07:23,579 --> 01:07:26,947
+
+
 Yeah, but you were talking
 to him like he was a person.
 
-1175
-01:07:29,099 --> 01:07:30,545
+
+
 Is this cat my dad?
 
-1176
-01:07:30,980 --> 01:07:32,902
+
+
 Perkins, listen. You have to tell her.
 
-1177
-01:07:33,179 --> 01:07:34,829
+
+
 - What do you think?
 - Well,
 
-1178
-01:07:34,900 --> 01:07:39,110
+
+
 he makes me feel like my dad's still
 around more than he ever was before.
 
-1179
-01:07:39,619 --> 01:07:40,621
+
+
 Sometimes,
 
-1180
-01:07:41,260 --> 01:07:43,661
+
+
 I almost wish my daddy
 was more like the cat.
 
-1181
-01:07:44,780 --> 01:07:47,590
+
+
 But I really just want my daddy back.
 
-1182
-01:07:48,900 --> 01:07:50,139
+
+
 Excuse me a minute.
 
-1183
-01:07:52,219 --> 01:07:54,222
+
+
 I'm gonna show you something.
 
-1184
-01:08:07,300 --> 01:08:08,983
+
+
 I'll be right back.
 
-1185
-01:08:10,099 --> 01:08:11,101
+
+
 Wait.
 
-1186
-01:08:17,579 --> 01:08:18,627
+
+
 You should stay with us.
 
-1187
-01:08:18,699 --> 01:08:20,509
+
+
 A cat's life is so much better.
 
-1188
-01:08:20,579 --> 01:08:22,184
+
+
 Thanks, but no thanks.
 
-1189
-01:08:22,739 --> 01:08:25,060
+
+
 We're cold, selfish,
 and people still love us.
 
-1190
-01:08:25,340 --> 01:08:27,229
+
+
 That's not who I wanna be.
 
-1191
-01:08:27,340 --> 01:08:29,502
+
+
 Three cool cats
 
-1192
-01:08:30,979 --> 01:08:33,346
+
+
 Three cool cats
 
-1193
-01:08:34,579 --> 01:08:36,104
+
+
 May I have this dance?
 
-1194
-01:08:36,180 --> 01:08:38,023
+
+
 Parked on the corner in a beat-up car
 
-1195
-01:08:38,699 --> 01:08:41,943
+
+
 Dividing up a nickel candy bar
 
-1196
-01:08:42,460 --> 01:08:45,463
+
+
 Talking all about how sharp they are
 
-1197
-01:08:45,699 --> 01:08:47,862
+
+
 These three cool cats
 
-1198
-01:08:50,180 --> 01:08:52,466
+
+
 Three cool chicks
 
-1199
-01:09:01,220 --> 01:09:02,301
+
+
 Clear.
 
-1200
-01:09:07,619 --> 01:09:09,145
+
+
 Rebecca's gonna kill me.
 
-1201
-01:09:16,579 --> 01:09:17,627
+
+
 Hello.
 
-1202
-01:09:20,180 --> 01:09:24,025
+
+
 - "I want that middle chick!"
 - "I want that little chick!"
 
-1203
-01:09:24,100 --> 01:09:26,751
+
+
 "Hey, man, save one chick for me!"
 
-1204
-01:09:27,779 --> 01:09:30,100
+
+
 Three cool chicks
 
-1205
-01:09:31,579 --> 01:09:33,662
+
+
 Three cool chicks
 
-1206
-01:09:37,579 --> 01:09:38,944
+
+
 Hey, everything all right?
 
-1207
-01:09:39,140 --> 01:09:42,587
+
+
 And three cool cats really fell in love
 
-1208
-01:09:42,659 --> 01:09:46,631
+
+
 But three cool chicks
 made three fools of these
 
-1209
-01:09:46,699 --> 01:09:49,270
+
+
 Three cool cats
 
-1210
-01:09:50,579 --> 01:09:57,509
+
+
 Three cool cats
 
-1211
-01:10:01,699 --> 01:10:03,747
+
+
 You still wanna return the cat?
 
-1212
-01:10:04,500 --> 01:10:06,069
+
+
 No.
 
-1213
-01:10:06,500 --> 01:10:09,230
+
+
 If you want your dad back,
 you should get going.
 
-1214
-01:10:15,380 --> 01:10:18,270
+
+
 I think he might be running out of time.
 
-1215
-01:10:20,939 --> 01:10:23,101
+
+
 Dad, when they open the tower tonight...
 
-1216
-01:10:37,220 --> 01:10:38,631
+
+
 Get down.
 
-1217
-01:10:40,300 --> 01:10:42,381
+
+
 We're not seeing
 any cerebral activity at all.
 
-1218
-01:10:42,460 --> 01:10:44,542
+
+
 I just don't want to give you false hope.
 
-1219
-01:10:44,619 --> 01:10:46,827
+
+
 There's a possibility
 he's not coming back.
 
-1220
-01:10:47,979 --> 01:10:49,823
+
+
 Mom, Dad's still here.
 
-1221
-01:10:50,020 --> 01:10:51,145
+
+
 Can you give us a minute?
 
-1222
-01:10:51,220 --> 01:10:52,744
+
+
 You know how the cat's been acting funny?
 
-1223
-01:10:52,819 --> 01:10:54,230
+
+
 Well, that's because it's Dad.
 
-1224
-01:10:54,300 --> 01:10:56,701
+
+
 - Rebecca...
 - Listen, I can prove it.
 
-1225
-01:10:56,819 --> 01:10:58,230
+
+
 Let's talk outside.
 
-1226
-01:10:59,220 --> 01:11:00,460
+
+
 Come on.
 
-1227
-01:11:02,340 --> 01:11:04,149
+
+
 Mom, I'm not making it up.
 
-1228
-01:11:04,739 --> 01:11:07,823
+
+
 Oh, look, I know how you feel.
 I miss him, too.
 
-1229
-01:11:07,899 --> 01:11:11,109
+
+
 You'll see, Mommy.
 He's really alive in the cat.
 
-1230
-01:11:13,180 --> 01:11:14,625
+
+
 I screwed up, Dad.
 
-1231
-01:11:14,819 --> 01:11:15,945
+
+
 What are you talking about?
 
-1232
-01:11:16,420 --> 01:11:19,742
+
+
 I spent my whole life waiting for
 a sign that I was making you proud.
 
-1233
-01:11:20,020 --> 01:11:21,430
+
+
 When I finally got it,
 
-1234
-01:11:22,340 --> 01:11:23,671
+
+
 I let you down.
 
-1235
-01:11:24,100 --> 01:11:25,670
+
+
 I lost everything.
 
-1236
-01:11:26,979 --> 01:11:28,185
+
+
 I can't live with that.
 
-1237
-01:11:34,380 --> 01:11:36,029
+
+
 I don't know if you're still in there,
 
-1238
-01:11:37,100 --> 01:11:38,386
+
+
 but you won't wanna miss this.
 
-1239
-01:11:54,739 --> 01:11:56,662
+
+
 'Cause I'm gonna take my first jump.
 
-1240
-01:11:58,380 --> 01:12:01,350
+
+
 And my last jump right off of that tower.
 
-1241
-01:12:01,420 --> 01:12:02,546
+
+
 No, David!
 
-1242
-01:12:03,819 --> 01:12:06,345
+
+
 Goodbye, Dad. I love you.
 
-1243
-01:12:15,539 --> 01:12:17,109
+
+
 So how does this work?
 
-1244
-01:12:17,939 --> 01:12:19,225
+
+
 You'll need to sign a DNR.
 
-1245
-01:12:19,899 --> 01:12:20,900
+
+
 DNR?
 
-1246
-01:12:21,140 --> 01:12:22,789
+
+
 They're pulling the plug on me?
 
-1247
-01:12:22,859 --> 01:12:24,862
+
+
 And then we'll take out the respirator.
 
-1248
-01:12:25,060 --> 01:12:26,060
+
+
 Daddy.
 
-1249
-01:12:26,260 --> 01:12:28,990
+
+
 Mom, remember how me and Dad
 used to dance together?
 
-1250
-01:12:29,060 --> 01:12:31,461
+
+
 - Yeah.
 - Just watch, okay? We'll show you, okay?
 
-1251
-01:12:31,539 --> 01:12:32,541
+
+
 Daddy, come here.
 
-1252
-01:12:32,979 --> 01:12:34,708
+
+
 Daddy. Daddy.
 
-1253
-01:12:34,899 --> 01:12:36,503
+
+
 We need to show Mommy our dance.
 
-1254
-01:12:36,819 --> 01:12:37,820
+
+
 Come here.
 
-1255
-01:12:39,260 --> 01:12:40,261
+
+
 Daddy.
 
-1256
-01:12:42,500 --> 01:12:44,149
+
+
 Love means sacrifice.
 
-1257
-01:12:45,020 --> 01:12:46,350
+
+
 Love means sacrifice.
 
-1258
-01:12:46,420 --> 01:12:48,149
+
+
 Daddy! Daddy!
 
-1259
-01:12:48,420 --> 01:12:50,945
+
+
 I'm spending the rest
 of my life in a litter box.
 
-1260
-01:12:51,420 --> 01:12:52,421
+
+
 Daddy.
 
-1261
-01:12:52,659 --> 01:12:53,661
+
+
 Daddy!
 
-1262
-01:12:54,340 --> 01:12:57,548
+
+
 Daddy! Daddy, come here!
 We have to show her!
 
-1263
-01:12:58,180 --> 01:13:00,751
+
+
 - Daddy! Daddy! What are you doing?
 - My baby.
 
-1264
-01:13:01,779 --> 01:13:03,828
+
+
 Oh, honey, I'm sorry.
 
-1265
-01:13:06,899 --> 01:13:09,380
+
+
 Thank you. Isn't she beautiful?
 
-1266
-01:13:09,739 --> 01:13:12,220
+
+
 1,900 feet of glass and steel.
 
-1267
-01:13:12,380 --> 01:13:15,224
+
+
 Now, you can tell
 I'm a bit of a numbers guy,
 
-1268
-01:13:15,300 --> 01:13:17,621
+
+
 so, for me, this tower's
 more than a legacy.
 
-1269
-01:13:17,739 --> 01:13:21,949
+
+
 Its 2.8 million square feet
 of pristine office space.
 
-1270
-01:13:34,020 --> 01:13:35,510
+
+
 Before I even cut a ribbon,
 
-1271
-01:13:35,579 --> 01:13:39,301
+
+
 we've leased 65%
 of the tallest building in New York.
 
-1272
-01:13:39,380 --> 01:13:41,427
+
+
 And we're already in negotiations
 for the rest of it.
 
-1273
-01:13:51,899 --> 01:13:53,503
+
+
 We can be so much more.
 
-1274
-01:13:53,899 --> 01:13:56,948
+
+
 But this company is greater
 than the sum of its parts.
 
-1275
-01:13:57,020 --> 01:13:59,546
+
+
 Beyond real estate, in the last year,
 
-1276
-01:13:59,619 --> 01:14:01,462
+
+
 we've enjoyed record earnings.
 
-1277
-01:14:02,539 --> 01:14:04,269
+
+
 Global retail.
 
-1278
-01:14:04,340 --> 01:14:06,229
+
+
 But before we move on
 with our big announcement,
 
-1279
-01:14:06,300 --> 01:14:08,462
+
+
 we have a special guest
 who'd like to say a few words.
 
-1280
-01:14:08,539 --> 01:14:10,144
+
+
 Please welcome Mayor Edwards.
 
-1281
-01:14:10,220 --> 01:14:11,426
+
+
 Thank you, Ian.
 
-1282
-01:14:13,699 --> 01:14:14,860
+
+
 New York...
 
-1283
-01:14:15,300 --> 01:14:17,506
+
+
 We're gonna tell Daddy
 how much we love him.
 
-1284
-01:14:20,819 --> 01:14:21,820
+
+
 David?
 
-1285
-01:14:25,659 --> 01:14:26,820
+
+
 - I like to take a moment of...
 - Hey.
 
-1286
-01:14:26,899 --> 01:14:28,265
+
+
 Wake up in there. Let me in.
 
-1287
-01:14:28,340 --> 01:14:30,149
+
+
 For the dreamer
 who made all this possible.
 
-1288
-01:14:31,300 --> 01:14:32,539
+
+
 Tom Brand.
 
-1289
-01:14:33,619 --> 01:14:35,384
+
+
 Now I'm gonna turn this back to Mr. Cox.
 
-1290
-01:14:35,460 --> 01:14:38,304
+
+
 We all wish Tom was here,
 but someone's gotta cut the ribbon.
 
-1291
-01:14:40,779 --> 01:14:42,668
+
+
 Oh, come on!
 
-1292
-01:14:53,180 --> 01:14:54,180
+
+
 Wait!
 
-1293
-01:14:55,500 --> 01:14:57,184
+
+
 Thank goodness you found him.
 
-1294
-01:14:57,260 --> 01:14:58,546
+
+
 That thing is yours?
 
-1295
-01:14:58,619 --> 01:15:01,748
+
+
 That's Mr. Fuzzypants. He keeps escaping.
 
-1296
-01:15:02,260 --> 01:15:04,069
+
+
 What kind of name is Fuzzypants?
 
-1297
-01:15:04,340 --> 01:15:05,751
+
+
 Please.
 
-1298
-01:15:06,779 --> 01:15:07,780
+
+
 Thank you.
 
-1299
-01:15:09,500 --> 01:15:10,786
+
+
 You little Houdini.
 
-1300
-01:15:10,859 --> 01:15:12,828
+
+
 He won't bother you anymore. I promise.
 
-1301
-01:15:12,899 --> 01:15:14,185
+
+
 He tried to scratch me.
 
-1302
-01:15:14,779 --> 01:15:16,588
+
+
 That must have been so scary for you.
 
-1303
-01:15:17,220 --> 01:15:18,904
+
+
 Fuzzypants.
 
-1304
-01:15:19,539 --> 01:15:20,541
+
+
 Thank you.
 
-1305
-01:15:26,420 --> 01:15:29,344
+
+
 That was some bold move you
 made back there, Mr. Brand.
 
-1306
-01:15:29,699 --> 01:15:31,110
+
+
 Thank you, Perkins.
 
-1307
-01:15:34,100 --> 01:15:35,386
+
+
 If it was me,
 
-1308
-01:15:35,460 --> 01:15:37,189
+
+
 I'd have stayed at the hospital.
 
-1309
-01:15:37,260 --> 01:15:38,944
+
+
 Guess I'm moving into your shop.
 
-1310
-01:15:39,020 --> 01:15:40,350
+
+
 No,
 
-1311
-01:15:40,420 --> 01:15:42,945
+
+
 'cause you're not gonna make it.
 
-1312
-01:15:43,220 --> 01:15:44,345
+
+
 What? Wait!
 
-1313
-01:15:54,100 --> 01:15:55,465
+
+
 Wait, this is the best part.
 
-1314
-01:15:55,500 --> 01:15:57,342
+
+
 Whoa!
 
-1315
-01:16:01,619 --> 01:16:02,621
+
+
 Whoa!
 
-1316
-01:16:06,260 --> 01:16:07,261
+
+
 Whoa.
 
-1317
-01:16:07,779 --> 01:16:09,430
+
+
 - Should we call animal control?
 - No.
 
-1318
-01:16:09,500 --> 01:16:10,661
+
+
 We got Tasers.
 
-1319
-01:16:10,739 --> 01:16:12,868
+
+
 Right. Let's do this.
 
-1320
-01:16:22,220 --> 01:16:24,791
+
+
 All right, kitty, just stand still.
 
-1321
-01:16:24,859 --> 01:16:27,466
+
+
 The sad thing is
 I'll never get to fire you.
 
-1322
-01:16:27,699 --> 01:16:29,702
+
+
 We're gonna break the Internet.
 
-1323
-01:16:34,539 --> 01:16:35,587
+
+
 Sorry! Sorry!
 
-1324
-01:16:35,659 --> 01:16:37,548
+
+
 Did you have to set it to boil?
 
-1325
-01:16:42,619 --> 01:16:43,746
+
+
 Look, you idiot.
 
-1326
-01:16:44,739 --> 01:16:45,740
+
+
 Oh, God.
 
-1327
-01:16:46,659 --> 01:16:49,470
+
+
 We got a man on the roof.
 We are gonna need fire, paramedics...
 
-1328
-01:16:49,539 --> 01:16:50,826
+
+
 And animal control.
 
-1329
-01:16:51,340 --> 01:16:53,069
+
+
 We got a man on the roof.
 We got a man on the roof.
 
-1330
-01:16:53,140 --> 01:16:54,743
+
+
 Who's on the roof?
 
-1331
-01:16:54,899 --> 01:16:55,947
+
+
 He's going to jump!
 
-1332
-01:16:58,340 --> 01:16:59,341
+
+
 David.
 
-1333
-01:17:08,020 --> 01:17:09,350
+
+
 Don't even think about it.
 
-1334
-01:17:14,340 --> 01:17:15,579
+
+
 Sir, get down from there.
 
-1335
-01:17:15,659 --> 01:17:17,264
+
+
 Step away from the ledge.
 
-1336
-01:17:20,020 --> 01:17:21,180
+
+
 David, wait!
 
-1337
-01:17:42,460 --> 01:17:43,461
+
+
 Oh.
 
-1338
-01:17:59,420 --> 01:18:00,944
+
+
 Mr. Fuzzypants?
 
-1339
-01:18:13,420 --> 01:18:15,104
+
+
 - My son...
 - Whoo.
 
-1340
-01:18:16,500 --> 01:18:18,502
+
+
 You were a man all along.
 
-1341
-01:18:40,140 --> 01:18:41,551
+
+
 Meow, that hurt.
 
-1342
-01:18:41,619 --> 01:18:42,780
+
+
 - Tom? Tom?
 - Dad.
 
-1343
-01:18:43,579 --> 01:18:46,150
+
+
 Oh, baby. Oh, I missed you so much.
 
-1344
-01:18:46,779 --> 01:18:48,747
+
+
 Well, it's good to see
 Tom's spirit alive and well.
 
-1345
-01:18:48,819 --> 01:18:50,503
+
+
 As soon as security takes care of this...
 
-1346
-01:18:55,020 --> 01:18:56,067
+
+
 Come on.
 
-1347
-01:18:56,460 --> 01:18:57,949
+
+
 Whoo!
 
-1348
-01:19:00,819 --> 01:19:02,265
+
+
 Good evening, everybody.
 
-1349
-01:19:03,220 --> 01:19:06,144
+
+
 So, I hear Ian doesn't want
 to talk about Chicago.
 
-1350
-01:19:06,619 --> 01:19:08,384
+
+
 You know, we may not have
 the tallest building,
 
-1351
-01:19:08,460 --> 01:19:09,949
+
+
 but we do have the tallest building
 
-1352
-01:19:10,020 --> 01:19:11,430
+
+
 anyone has ever BASE jumped off.
 
-1353
-01:19:11,979 --> 01:19:13,265
+
+
 Let's hear it for David Brand.
 
-1354
-01:19:17,819 --> 01:19:20,551
+
+
 And I'm proud to announce
 that tomorrow, FireBrand...
 
-1355
-01:19:20,619 --> 01:19:23,065
+
+
 FireBrand has always been
 a family business
 
-1356
-01:19:23,140 --> 01:19:25,188
+
+
 and nothing is going to change that.
 
-1357
-01:19:25,260 --> 01:19:26,909
+
+
 I see the Board's all here.
 
-1358
-01:19:26,979 --> 01:19:28,140
+
+
 Let's take a vote.
 
-1359
-01:19:28,619 --> 01:19:30,827
+
+
 Fifty-one percent against going public.
 
-1360
-01:19:31,260 --> 01:19:32,466
+
+
 - And you're fired.
 - Good luck.
 
-1361
-01:19:32,699 --> 01:19:34,429
+
+
 Thank you very much!
 
-1362
-01:19:34,500 --> 01:19:36,309
+
+
 Ian Cox, ladies and gentlemen.
 
-1363
-01:19:36,380 --> 01:19:37,904
+
+
 Give the little guy a hand.
 
-1364
-01:19:41,180 --> 01:19:42,180
+
+
 Lara?
 
-1365
-01:19:42,659 --> 01:19:44,787
+
+
 David. David, he's awake.
 
-1366
-01:19:44,899 --> 01:19:46,105
+
+
 - Yep.
 - Your dad's awake.
 
-1367
-01:19:46,180 --> 01:19:47,670
+
+
 Okay, I'll be right there.
 
-1368
-01:19:49,579 --> 01:19:51,264
+
+
 Welcome back, Dad.
 
-1369
-01:19:53,500 --> 01:19:55,740
+
+
 No, I can handle the SEC.
 
-1370
-01:19:55,859 --> 01:19:57,908
+
+
 - Just get me on the phone with Goldman...
 - Sir...
 
-1371
-01:19:58,100 --> 01:19:59,863
+
+
 - You might want to hang up.
 - Excuse me?
 
-1372
-01:20:00,180 --> 01:20:01,944
+
+
 You're not going to like
 where this call is going.
 
-1373
-01:20:02,500 --> 01:20:04,707
+
+
 Thank you. Sorry, some nutcase.
 
-1374
-01:20:04,939 --> 01:20:06,668
+
+
 Listen, we can still take him to court.
 
-1375
-01:20:10,100 --> 01:20:11,146
+
+
 Ian...
 
-1376
-01:20:12,300 --> 01:20:13,301
+
+
 Ian?
 
-1377
-01:20:13,380 --> 01:20:14,984
+
+
 Gotta be honest.
 
-1378
-01:20:15,460 --> 01:20:17,224
+
+
 I don't know
 how you're gonna get out of this.
 
-1379
-01:20:18,140 --> 01:20:19,551
+
+
 I hate cats.
 
-1380
-01:20:20,659 --> 01:20:22,980
+
+
 That's what makes this so perfect.
 
-1381
-01:20:29,500 --> 01:20:31,627
+
+
 You probably want to hear that
 I've learned something,
 
-1382
-01:20:31,699 --> 01:20:33,463
+
+
 that I've changed...
 
-1383
-01:20:34,220 --> 01:20:36,587
+
+
 Well, I still think
 cats are horrible beasts
 
-1384
-01:20:36,699 --> 01:20:38,828
+
+
 that would eat you in your sleep
 if they ran out of food.
 
-1385
-01:20:38,899 --> 01:20:41,220
+
+
 They're selfish animals. That's for sure.
 
-1386
-01:20:41,619 --> 01:20:43,667
+
+
 But I'm not one of them.
 
-1387
-01:20:44,300 --> 01:20:45,301
+
+
 Not anymore.
 
-1388
-01:20:51,060 --> 01:20:52,710
+
+
 Be quiet. Shush.
 
-1389
-01:20:54,140 --> 01:20:55,345
+
+
 Mr. Brand.
 
-1390
-01:20:55,739 --> 01:20:57,548
+
+
 You look like a new man.
 
-1391
-01:20:58,899 --> 01:21:00,265
+
+
 What can I do for you?
 
-1392
-01:21:01,579 --> 01:21:03,662
+
+
 I know we can't replace Fuzzypants,
 
-1393
-01:21:03,739 --> 01:21:05,503
+
+
 but we were wondering...
 
-1394
-01:21:05,579 --> 01:21:07,309
+
+
 If you have any dogs.
 
-1395
-01:21:08,060 --> 01:21:09,060
+
+
 No.
 
-1396
-01:21:09,859 --> 01:21:13,341
+
+
 But only yesterday,
 an old friend stopped by.
 
-1397
-01:21:13,899 --> 01:21:15,868
+
+
 Used up eight of his lives,
 
-1398
-01:21:15,939 --> 01:21:17,590
+
+
 and he tells me
 
-1399
-01:21:19,140 --> 01:21:21,666
+
+
 he'd like to spend his last life
 
-1400
-01:21:22,579 --> 01:21:23,627
+
+
 with you.
 
-1401
-01:21:25,060 --> 01:21:26,470
+
+
 Fuzzypants.
 
-1402
-01:21:28,100 --> 01:21:30,466
+
+
 So, that's a no on the dog, then.

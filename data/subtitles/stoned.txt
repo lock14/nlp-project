@@ -1,4621 +1,4621 @@
-1
-00:00:22,720 --> 00:00:24,438
+
+
 Sorry, we were cut off.
 
-2
-00:00:24,640 --> 00:00:27,200
+
+
 That's right, Rolling Stones.
 
-3
-00:00:27,400 --> 00:00:29,994
+
+
 You said the Harper Twins
 were snowed in.
 
-4
-00:00:30,200 --> 00:00:32,509
+
+
 We can take their place.
 
-5
-00:00:32,720 --> 00:00:35,678
+
+
 My name? Brian. Mr. Jones.
 
-6
-00:00:35,880 --> 00:00:38,155
+
+
 The Stones' manager.
 
-7
-00:00:38,360 --> 00:00:40,794
+
+
 7.30 sound check? Great.
 
-8
-00:00:41,000 --> 00:00:43,070
+
+
 We'll see you then.
 
-9
-00:00:58,240 --> 00:01:00,993
+
+
 # I am the little red rooster #
 
-10
-00:01:01,200 --> 00:01:04,749
+
+
 # Too lazy to crow for day #
 
-11
-00:01:11,160 --> 00:01:13,071
+
+
 # I am the little red rooster #
 
-12
-00:01:14,600 --> 00:01:17,160
+
+
 # Too lazy to crow for day #
 
-13
-00:01:27,680 --> 00:01:30,194
+
+
 # Keep everything in the farmyard #
 
-14
-00:01:31,480 --> 00:01:34,631
+
+
 # Upset in every way #
 
-15
-00:01:44,240 --> 00:01:46,754
+
+
 # Dogs begin to bark and... #
 
-16
-00:01:47,680 --> 00:01:50,114
+
+
 # Hounds begin to howl #
 
-17
-00:01:57,400 --> 00:02:00,039
+
+
 # Dogs begin to bark and... #
 
-18
-00:02:00,240 --> 00:02:02,959
+
+
 # Hounds begin to howl #
 
-19
-00:02:13,160 --> 00:02:15,833
+
+
 # Watch out, strange cat people #
 
-20
-00:02:16,880 --> 00:02:19,394
+
+
 # Little red rooster's on the prowl #
 
-21
-00:02:26,920 --> 00:02:29,673
+
+
 # If you see my little red rooster #
 
-22
-00:02:31,680 --> 00:02:34,194
+
+
 # Please drive him home ##
 
-23
-00:03:35,000 --> 00:03:38,390
+
+
 Oh, my God! Oh, my God! Oh, my God!
 
-24
-00:03:42,280 --> 00:03:44,794
+
+
 Hold him up! Pull him up!
 
-25
-00:03:45,000 --> 00:03:47,833
+
+
 Brian!
 Brian!
 
-26
-00:03:48,040 --> 00:03:51,032
+
+
 Pull him up, for God's sake!
 I'm coming!
 
-27
-00:03:51,240 --> 00:03:54,118
+
+
 Help him up, Frank!
 Brian!
 
-28
-00:03:59,200 --> 00:04:01,794
+
+
 Brian!
 
-29
-00:04:12,280 --> 00:04:14,589
+
+
 Brian!
 
-30
-00:04:15,680 --> 00:04:18,399
+
+
 Brian, come on!
 
-31
-00:04:18,600 --> 00:04:21,353
+
+
 Oh, my God, Brian!
 
-32
-00:04:22,280 --> 00:04:25,238
+
+
 Come on, Brian! Brian!
 
-33
-00:04:28,040 --> 00:04:30,270
+
+
 Please help me.
 
-34
-00:04:33,760 --> 00:04:36,320
+
+
 Call an ambulance!
 
-35
-00:04:37,720 --> 00:04:39,597
+
+
 Brian!
 
-36
-00:04:42,360 --> 00:04:44,351
+
+
 Oh, my God, Brian!
 
-37
-00:04:46,280 --> 00:04:48,589
+
+
 Brian!
 
-38
-00:04:49,600 --> 00:04:52,433
+
+
 Brian!
 
-39
-00:05:21,600 --> 00:05:22,555
+
+
 Studio A.
 
-40
-00:05:22,760 --> 00:05:24,910
+
+
 Is Tom there?
 
-41
-00:05:25,120 --> 00:05:29,352
+
+
 Tom Keylock? He went out.
 I'll tell him when he gets-
 
-42
-00:05:29,560 --> 00:05:31,471
+
+
 What?
 D Oh-oh-oh-oh d
 
-43
-00:05:31,680 --> 00:05:34,831
+
+
 Brian?
 D Whoo d
 
-44
-00:05:35,040 --> 00:05:36,439
+
+
 Shit. Really?
 
-45
-00:05:38,160 --> 00:05:40,833
+
+
 Mick? Keith?
 Come to the phone. It's urgent.
 
-46
-00:05:44,840 --> 00:05:47,229
+
+
 Brian! No!
 Someone, please!
 
-47
-00:05:47,440 --> 00:05:49,237
+
+
 <i>This is the BBC World Service.</i>
 
-48
-00:05:49,440 --> 00:05:50,429
+
+
 <i>In the early hours of this morning,</i>
 
-49
-00:05:50,640 --> 00:05:55,111
+
+
 <i>Brian Jones, guitarist with the popular
 rhythm and blues group The Rolling Stones,</i>
 
-50
-00:05:55,320 --> 00:05:57,675
+
+
 <i>was found dead in his swimming pool
 in his home in East Sussex.</i>
 
-51
-00:05:57,880 --> 00:06:00,440
+
+
 <i>As the founding member
 of The Rolling Stones,</i>
 
-52
-00:06:00,640 --> 00:06:04,633
+
+
 <i>Mr. Jones' brand of rock 'n' roll,
 alongside Lennon and McCartney,</i>
 
-53
-00:06:04,840 --> 00:06:07,035
+
+
 <i>was commonly held to be
 one of the k ey influences</i>
 
-54
-00:06:07,240 --> 00:06:09,435
+
+
 <i>of the so-called British
 Swinging Sixties music scene.</i>
 
-55
-00:06:09,640 --> 00:06:13,428
+
+
 <i>Le décès de Brian Jones représente la
 mort de la décennie du rock 'n' roll.</i>
 
-56
-00:06:13,640 --> 00:06:16,757
+
+
 <i>Il symbolise la débauche et la
 sexiness de la génération permissive.</i>
 
-57
-00:06:16,960 --> 00:06:21,112
+
+
 <i>About midnight Jones went for a swim
 with Swedish girlfriend, Anna Wohlin,</i>
 
-58
-00:06:21,320 --> 00:06:23,356
+
+
 <i>and another friend,
 Mr. Frank Thorogood.</i>
 
-59
-00:06:23,560 --> 00:06:26,313
+
+
 <i>The cause of death is unknown.</i>
 
-60
-00:06:40,960 --> 00:06:42,871
+
+
 Called Tom.
 
-61
-00:06:43,080 --> 00:06:45,071
+
+
 He's on his way down here.
 
-62
-00:06:45,280 --> 00:06:47,510
+
+
 Everything will be all right.
 
-63
-00:06:58,480 --> 00:06:59,469
+
+
 Come on, Frank.
 
-64
-00:06:59,680 --> 00:07:03,116
+
+
 What, you're telling me your missus don't
 want you doing building work for Brian Jones?
 
-65
-00:07:03,320 --> 00:07:04,275
+
+
 The thing is, Tom,
 
-66
-00:07:04,480 --> 00:07:06,710
+
+
 she'd just like me
 to find a job on a site in London.
 
-67
-00:07:06,920 --> 00:07:08,797
+
+
 I mean, we spent
 all that fucking time away at Keith's-
 
-68
-00:07:09,000 --> 00:07:10,479
+
+
 Oi!
 
-69
-00:07:10,680 --> 00:07:13,035
+
+
 Watch the ash on Keith's upholstery.
 
-70
-00:07:13,240 --> 00:07:15,356
+
+
 No, I reckon you should chuck
 your bit on the side, mate.
 
-71
-00:07:15,560 --> 00:07:17,676
+
+
 What's her name?
 Joan? Put it in the past.
 
-72
-00:07:17,880 --> 00:07:19,996
+
+
 New job, new horizons.
 
-73
-00:07:20,200 --> 00:07:23,237
+
+
 Anyway, working for Brian's not
 the same as working for Keith.
 
-74
-00:07:23,440 --> 00:07:25,192
+
+
 You're gonna need a clear head.
 
-75
-00:07:25,400 --> 00:07:27,994
+
+
 I mean, Keith was never there
 half the time, was he?
 
-76
-00:07:28,200 --> 00:07:29,758
+
+
 Are you really
 The Rolling Stones' manager?
 
-77
-00:07:29,960 --> 00:07:33,794
+
+
 Road manager, love. I don't shove
 bits of paper round a desk.
 
-78
-00:07:34,000 --> 00:07:36,434
+
+
 I look after them. My boys.
 
-79
-00:07:36,640 --> 00:07:39,074
+
+
 Will Keith Richards
 mind us being in his house?
 
-80
-00:07:39,280 --> 00:07:41,510
+
+
 Now, why would he give me the keys
 
-81
-00:07:41,720 --> 00:07:44,871
+
+
 if he had a problem with me showing a
 beautiful woman round his beautiful house?
 
-82
-00:07:46,400 --> 00:07:47,958
+
+
 Frank?
 
-83
-00:07:48,160 --> 00:07:49,991
+
+
 Why don't you take Joan here
 on the tour?
 
-84
-00:07:50,200 --> 00:07:54,591
+
+
 Yeah, come on. I'll show you the room
 I'm building for Keith's guitars, eh?
 
-85
-00:07:55,720 --> 00:07:57,073
+
+
 Yeah, you chuck her.
 
-86
-00:07:57,280 --> 00:08:01,432
+
+
 I'm elbowing that Janet. Can't understand
 half the words she uses, for a start.
 
-87
-00:08:01,640 --> 00:08:05,838
+
+
 Frank tells me you're a nurse.
 I like intelligent birds.
 
-88
-00:08:08,160 --> 00:08:10,469
+
+
 Do you want me
 to show you Keith's bedroom?
 
-89
-00:08:10,680 --> 00:08:12,671
+
+
 I thought the others
 might have got there first.
 
-90
-00:08:12,880 --> 00:08:16,475
+
+
 Oh, no. Frank wouldn't
 do a thing like that.
 
-91
-00:08:16,680 --> 00:08:20,275
+
+
 Trust me, Frank,
 there's plenty more fish in the sea.
 
-92
-00:08:22,040 --> 00:08:26,033
+
+
 Actually, I think it's quite nice here.
 What with the fire and all that.
 
-93
-00:08:26,240 --> 00:08:28,196
+
+
 Don't you?
 
-94
-00:08:28,960 --> 00:08:31,997
+
+
 You should think of me
 as your protector, Janet.
 
-95
-00:08:32,200 --> 00:08:33,713
+
+
 You can always rely on me.
 
-96
-00:08:38,200 --> 00:08:40,350
+
+
 If the missus finds out,
 I'll be hung out like a kipper.
 
-97
-00:08:40,560 --> 00:08:43,632
+
+
 But like I said,
 new job, new horizons.
 
-98
-00:08:45,320 --> 00:08:47,072
+
+
 Brian wants a lot of work
 done on this place.
 
-99
-00:08:47,280 --> 00:08:48,918
+
+
 He only bought it
 a couple of months ago.
 
-100
-00:08:49,120 --> 00:08:50,553
+
+
 So the money's
 got to be good, then?
 
-101
-00:08:50,760 --> 00:08:53,718
+
+
 You just get your feet
 under the table, mate.
 
-102
-00:09:13,560 --> 00:09:16,358
+
+
 D Mm-hm, mm-hm d
 
-103
-00:09:22,680 --> 00:09:25,399
+
+
 d You better come on d
 
-104
-00:09:25,600 --> 00:09:27,955
+
+
 d In my kitchen d
 
-105
-00:09:28,160 --> 00:09:32,676
+
+
 d It's going to be raining outdoors dd
 
-106
-00:09:38,320 --> 00:09:41,630
+
+
 Tom, my man!
 I forgot you were coming.
 
-107
-00:09:41,840 --> 00:09:43,671
+
+
 Brian, meet a mate of mine.
 
-108
-00:09:43,880 --> 00:09:46,394
+
+
 Frank Thorogood.
 
-109
-00:09:48,000 --> 00:09:50,514
+
+
 One of the best builders around.
 
-110
-00:09:52,080 --> 00:09:54,833
+
+
 Nice place.
 I told you, Frank did Keith's gaff up.
 
-111
-00:09:55,800 --> 00:09:58,109
+
+
 Anyone who's good enough for Keith
 is good enough for me.
 
-112
-00:09:58,320 --> 00:10:00,834
+
+
 Oh, I found that camera you lost.
 Oh, great.
 
-113
-00:10:01,040 --> 00:10:04,157
+
+
 Don't you two worry about it,
 your secret's safe with me.
 
-114
-00:10:04,360 --> 00:10:07,158
+
+
 So, what do you mean, secrets?
 
-115
-00:10:07,360 --> 00:10:12,115
+
+
 It stands to reason, don't it? You
 two love-birds alone with a camera.
 
-116
-00:10:12,320 --> 00:10:15,232
+
+
 Did your glasses get all steamed up
 looking at the pictures, lover?
 
-117
-00:10:15,440 --> 00:10:18,318
+
+
 Cool it, Anna. He's just
 trying to mess with our minds.
 
-118
-00:10:18,520 --> 00:10:20,351
+
+
 Isn't that right, Tom?
 
-119
-00:10:23,800 --> 00:10:26,109
+
+
 I won't charge for the processing.
 
-120
-00:10:44,720 --> 00:10:47,757
+
+
 Fuck it, Tom! There's other girls
 apart from her on that film.
 
-121
-00:10:47,960 --> 00:10:49,473
+
+
 Blimey! Oh, dear!
 
-122
-00:10:49,680 --> 00:10:52,319
+
+
 Well, they all look the same to me,
 so maybe she won't notice.
 
-123
-00:10:52,520 --> 00:10:56,035
+
+
 Brian, you lying bastard!
 You said you were at the studios.
 
-124
-00:10:56,240 --> 00:10:58,595
+
+
 I'm going back to London!
 
-125
-00:11:02,680 --> 00:11:05,638
+
+
 You know, maybe you'd do better off
 without her around for a bit, eh?
 
-126
-00:11:05,840 --> 00:11:07,592
+
+
 Be a bit of peace and quiet,
 knock off a few tunes.
 
-127
-00:11:07,800 --> 00:11:10,030
+
+
 I don't knock off tunes, Tom.
 
-128
-00:11:17,920 --> 00:11:21,913
+
+
 <i>Parts of it go back
 to the Domesday Book, 900 years.</i>
 
-129
-00:11:22,120 --> 00:11:24,156
+
+
 A.A. Milne owned it for a long time.
 
-130
-00:11:24,360 --> 00:11:29,309
+
+
 Christopher Robin,
 Winnie-the-Pooh. All written here.
 
-131
-00:11:29,520 --> 00:11:32,592
+
+
 They ran wild in this garden.
 
-132
-00:11:32,800 --> 00:11:35,394
+
+
 So, what do you want doing, then?
 
-133
-00:11:38,160 --> 00:11:40,469
+
+
 Well, I want some lights in the pool
 
-134
-00:11:40,680 --> 00:11:43,956
+
+
 and some beams in the kitchen
 so it matches the rest of the house.
 
-135
-00:11:44,160 --> 00:11:46,469
+
+
 There's tons to be done.
 
-136
-00:11:46,680 --> 00:11:48,432
+
+
 I'm having ideas all the time.
 
-137
-00:11:48,640 --> 00:11:50,756
+
+
 Come on, Heffalump.
 
-138
-00:11:50,960 --> 00:11:52,837
+
+
 Fetch!
 
-139
-00:11:53,040 --> 00:11:54,712
+
+
 And the drainage is up the spout.
 
-140
-00:11:55,720 --> 00:11:58,109
+
+
 Well, I can take a look at that.
 
-141
-00:12:02,920 --> 00:12:06,833
+
+
 Oh, I got drunk one night. They're
 not as expensive as you might think.
 
-142
-00:12:08,440 --> 00:12:10,317
+
+
 What sort of budget,
 then, for the work?
 
-143
-00:12:10,520 --> 00:12:13,398
+
+
 The office can deal with the details.
 
-144
-00:12:13,600 --> 00:12:16,239
+
+
 So, what did Tom tell you about me?
 
-145
-00:12:16,440 --> 00:12:19,193
+
+
 I bet he said I was paranoid.
 
-146
-00:12:19,400 --> 00:12:20,879
+
+
 Right?
 
-147
-00:12:21,080 --> 00:12:23,310
+
+
 <i>No.</i>
 
-148
-00:12:26,960 --> 00:12:29,269
+
+
 Eh, Tom?
 
-149
-00:12:31,120 --> 00:12:33,759
+
+
 I ain't sure about this.
 
-150
-00:12:33,960 --> 00:12:37,919
+
+
 Course you are. You did it
 at Keith's gaff. You know the score.
 
-151
-00:12:38,120 --> 00:12:40,759
+
+
 Patience is the name of the game.
 
-152
-00:12:40,960 --> 00:12:44,111
+
+
 You keep Brian happy
 and you're in the gravy.
 
-153
-00:12:56,240 --> 00:12:59,516
+
+
 You'll be staying above the garage, weeknights.
 Check it out. It's got a bog and everything.
 
-154
-00:13:00,680 --> 00:13:02,750
+
+
 I'll keep the interfering bitch
 away for a few days.
 
-155
-00:13:02,960 --> 00:13:05,428
+
+
 Give you time
 to settle in with the boys.
 
-156
-00:13:05,640 --> 00:13:09,633
+
+
 <i>Enjoy, my son! Welcome to
 The House at Pooh Corner.</i>
 
-157
-00:13:30,520 --> 00:13:32,829
+
+
 <i>Hello, I'm Julian
 and this is my friend Sandy.</i>
 
-158
-00:13:33,040 --> 00:13:35,076
+
+
 <i>Oh, it's Mr. Horne!</i>
 
-159
-00:13:35,280 --> 00:13:37,748
+
+
 <i>Oh, how bona to vada your eke!</i>
 
-160
-00:13:41,480 --> 00:13:43,994
+
+
 Excuse me, Mr. Jones.
 
-161
-00:13:44,200 --> 00:13:45,792
+
+
 Brian.
 
-162
-00:13:46,000 --> 00:13:47,592
+
+
 Photographer.
 
-163
-00:13:47,800 --> 00:13:50,234
+
+
 Why can't people leave me alone?
 
-164
-00:13:50,440 --> 00:13:52,351
+
+
 What, you want me to get rid of him?
 
-165
-00:13:56,120 --> 00:13:58,918
+
+
 Oi! What do you think
 you're doing, eh?
 
-166
-00:13:59,120 --> 00:14:00,838
+
+
 Sling your hook!
 
-167
-00:14:01,040 --> 00:14:04,555
+
+
 You come round here again,
 I'll break your neck!
 
-168
-00:14:10,640 --> 00:14:13,837
+
+
 Well, he's gone.
 Do you mind if I use your blower?
 
-169
-00:14:20,720 --> 00:14:23,712
+
+
 <i>He was the strangest man.</i>
 
-170
-00:14:25,400 --> 00:14:27,356
+
+
 Joe?
 
-171
-00:14:27,560 --> 00:14:29,710
+
+
 It's Frank.
 
-172
-00:14:29,920 --> 00:14:32,718
+
+
 I need a cab to Chichester.
 
-173
-00:14:32,920 --> 00:14:37,596
+
+
 Where am I?
 You can't go. I mean, Anna's gone.
 
-174
-00:14:38,440 --> 00:14:40,670
+
+
 Well, I'll need to go over there to get
 my boys together for the morning.
 
-175
-00:14:40,880 --> 00:14:44,998
+
+
 Sod them all!
 I'm not staying here on my own.
 
-176
-00:14:51,160 --> 00:14:53,355
+
+
 You can cook?
 
-177
-00:14:54,840 --> 00:14:56,831
+
+
 I'll call you back.
 
-178
-00:15:00,680 --> 00:15:02,113
+
+
 Got any eggs?
 
-179
-00:15:06,560 --> 00:15:10,314
+
+
 So you were at Keith's?
 Yeah, that's right.
 
-180
-00:15:10,520 --> 00:15:12,954
+
+
 He's a cool guy.
 
-181
-00:15:13,160 --> 00:15:15,515
+
+
 I didn't see that much of him,
 to be honest with you.
 
-182
-00:15:15,720 --> 00:15:18,598
+
+
 Always travelling
 with that girlfriend of his.
 
-183
-00:15:18,800 --> 00:15:21,758
+
+
 Anita.
 Yeah, that's the one.
 
-184
-00:15:27,960 --> 00:15:31,111
+
+
 People think I'm a druggie,
 but I'm not anymore.
 
-185
-00:15:31,320 --> 00:15:33,595
+
+
 Now I'm just a boozer.
 
-186
-00:15:33,800 --> 00:15:36,109
+
+
 I've had convictions,
 you know, Frank.
 
-187
-00:15:36,320 --> 00:15:39,471
+
+
 Yeah, I read about it in the paper.
 Yeah.
 
-188
-00:15:39,680 --> 00:15:41,750
+
+
 The lying English press.
 
-189
-00:15:41,960 --> 00:15:44,428
+
+
 They print
 the law's version of all that shit.
 
-190
-00:15:44,640 --> 00:15:47,837
+
+
 They even started
 trying to plant the dope on me.
 
-191
-00:15:48,040 --> 00:15:50,031
+
+
 That's all behind me now.
 
-192
-00:15:51,560 --> 00:15:53,357
+
+
 Fuck them.
 
-193
-00:15:53,560 --> 00:15:56,154
+
+
 Well, I guess they were
 right about one thing.
 
-194
-00:15:56,360 --> 00:15:58,396
+
+
 <i>I was always my own worst enemy.</i>
 
-195
-00:15:58,600 --> 00:16:01,672
+
+
 When your brother gets home, you are to go straight
 to your room and do your homework. Is that clear?
 
-196
-00:16:01,880 --> 00:16:04,235
+
+
 Yes, Mum.
 
-197
-00:16:08,080 --> 00:16:09,991
+
+
 And close the door, Barbara.
 
-198
-00:16:14,920 --> 00:16:18,913
+
+
 Do you have any idea
 what you've done?
 
-199
-00:16:19,120 --> 00:16:21,350
+
+
 Is it Mary?
 
-200
-00:16:21,560 --> 00:16:23,790
+
+
 Is something wrong?
 
-201
-00:16:25,280 --> 00:16:28,033
+
+
 No, she's a perfectly healthy
 14-year-old,
 
-202
-00:16:28,240 --> 00:16:30,674
+
+
 <i>aside from the fact
 that she's three months pregnant</i>
 
-203
-00:16:30,880 --> 00:16:32,677
+
+
 <i>and she claims that you're the father.</i>
 
-204
-00:16:32,880 --> 00:16:35,075
+
+
 Brian.
 
-205
-00:16:37,760 --> 00:16:40,149
+
+
 You should be locked away
 for this, you bastard!
 
-206
-00:16:44,720 --> 00:16:47,473
+
+
 Couldn't she see a doctor?
 
-207
-00:16:47,680 --> 00:16:50,831
+
+
 I mean, aren't there clinics now?
 
-208
-00:16:52,240 --> 00:16:54,879
+
+
 Oh, you want to become
 a murderer, do you?
 
-209
-00:16:55,080 --> 00:16:57,548
+
+
 As well as a molester?
 
-210
-00:16:57,760 --> 00:16:59,637
+
+
 You make me sick.
 
-211
-00:17:04,280 --> 00:17:06,999
+
+
 Look at this filth! This evil filth!
 
-212
-00:17:13,080 --> 00:17:16,868
+
+
 D Every time
 I'm walking down the street d
 
-213
-00:17:17,680 --> 00:17:19,750
+
+
 d Some pretty mama
 Start breaking down d
 
-214
-00:17:19,960 --> 00:17:21,632
+
+
 d Please stop breaking down dd
 
-215
-00:17:25,560 --> 00:17:30,031
+
+
 <i>All I had was my music.
 And then I got the guys together.</i>
 
-216
-00:17:30,240 --> 00:17:32,515
+
+
 Which one of you smart alecs
 changed the bloody locks?
 
-217
-00:17:32,720 --> 00:17:34,870
+
+
 Now chuck the keys down right now!
 
-218
-00:17:35,080 --> 00:17:37,310
+
+
 You and your hairy friends
 owe three months' rent!
 
-219
-00:17:37,520 --> 00:17:40,318
+
+
 They're out.
 No, they're not. I can hear them!
 
-220
-00:17:40,520 --> 00:17:43,432
+
+
 Oh, physically they're here
 but astrologically speaking-
 
-221
-00:17:43,640 --> 00:17:45,596
+
+
 Don't give me that codswallop!
 
-222
-00:17:45,800 --> 00:17:48,030
+
+
 Look, when they stop playing
 I'll send them over with the dosh.
 
-223
-00:17:48,240 --> 00:17:50,356
+
+
 You mind you do.
 
-224
-00:17:52,160 --> 00:17:55,436
+
+
 Keep playing, lads.
 We could be here till Christmas.
 
-225
-00:18:03,560 --> 00:18:06,393
+
+
 You're gonna be big, big, big.
 
-226
-00:18:06,600 --> 00:18:08,352
+
+
 And forget these perky clubs.
 
-227
-00:18:08,560 --> 00:18:12,075
+
+
 I helped Epstein break the Beatles in
 the US and I can do the same for you.
 
-228
-00:18:12,280 --> 00:18:15,955
+
+
 You need a proper producer,
 a manager, and I'm your man.
 
-229
-00:18:20,760 --> 00:18:22,113
+
+
 As spokesperson for the band,
 
-230
-00:18:22,320 --> 00:18:26,757
+
+
 I can safely say
 we don't want to be the Beatles.
 
-231
-00:18:26,960 --> 00:18:30,430
+
+
 When I brought the guys together,
 it was for the blues, man.
 
-232
-00:18:30,640 --> 00:18:33,279
+
+
 Lennon and McCartney
 write pop songs.
 
-233
-00:18:33,480 --> 00:18:37,189
+
+
 And so should you,
 but red-hot and dangerous.
 
-234
-00:18:37,400 --> 00:18:39,152
+
+
 Lose the suits, burn the house down.
 
-235
-00:18:39,360 --> 00:18:44,036
+
+
 Come on, guys. If the Beatles
 are Christ, you're the Antichrist.
 
-236
-00:18:58,120 --> 00:19:02,432
+
+
 <i>Andrew was right, we did
 become big. Everywhere.</i>
 
-237
-00:19:04,640 --> 00:19:09,236
+
+
 It's just the U.S. Of A that's
 the problem. They won't let me in.
 
-238
-00:19:09,440 --> 00:19:13,149
+
+
 Not that I care. It's them, my band.
 
-239
-00:19:13,360 --> 00:19:15,191
+
+
 Mick's organised
 yet another American tour
 
-240
-00:19:15,400 --> 00:19:19,473
+
+
 and because of the convictions,
 the lawyers say I'm a...
 
-241
-00:19:19,680 --> 00:19:20,954
+
+
 liability.
 
-242
-00:19:21,960 --> 00:19:25,794
+
+
 So you're stuck here, then.
 Till the suits sort it out.
 
-243
-00:19:27,000 --> 00:19:29,878
+
+
 Meantime, I think
 I'll get legally stoned.
 
-244
-00:19:34,600 --> 00:19:36,750
+
+
 Cheers, Frank.
 Cheers, Mr. Jones.
 
-245
-00:19:37,640 --> 00:19:39,153
+
+
 Brian.
 
-246
-00:19:51,920 --> 00:19:55,754
+
+
 Hi, Keith. Yeah, listen, I think I've got
 something. Let me just play it to you.
 
-247
-00:19:55,960 --> 00:19:58,599
+
+
 Keith's not here right now.
 Call back later.
 
-248
-00:19:58,800 --> 00:20:00,313
+
+
 Nita, is that you?
 
-249
-00:20:00,520 --> 00:20:01,794
+
+
 Anita?
 
-250
-00:21:05,000 --> 00:21:07,070
+
+
 Follow me.
 
-251
-00:21:17,320 --> 00:21:19,072
+
+
 Thank you.
 
-252
-00:21:38,200 --> 00:21:40,509
+
+
 I was watching you on-stage.
 
-253
-00:21:41,600 --> 00:21:43,272
+
+
 You were laughing at the riots.
 
-254
-00:21:46,760 --> 00:21:49,069
+
+
 I'm a bad person.
 
-255
-00:21:49,280 --> 00:21:51,430
+
+
 Then I must be too.
 
-256
-00:21:53,200 --> 00:21:55,077
+
+
 I'm Anita.
 
-257
-00:22:01,520 --> 00:22:03,590
+
+
 I'm Brian.
 
-258
-00:22:05,640 --> 00:22:08,154
+
+
 Everybody knows who you are.
 
-259
-00:22:25,600 --> 00:22:28,160
+
+
 You're not unhappy I kidnapped you?
 
-260
-00:22:29,200 --> 00:22:31,998
+
+
 Feel free to kidnap me any time.
 
-261
-00:22:32,200 --> 00:22:34,714
+
+
 Mick and Keith might not like it
 
-262
-00:22:34,920 --> 00:22:37,195
+
+
 but I'm going to love it.
 
-263
-00:22:37,400 --> 00:22:40,710
+
+
 Anita?
 Hm?
 
-264
-00:22:40,920 --> 00:22:42,558
+
+
 <i>Merci.</i>
 
-265
-00:22:45,400 --> 00:22:48,233
+
+
 <i>Livrer sur le D</i>
 
-266
-00:22:48,440 --> 00:22:50,908
+
+
 <i>de Nadie.</i>
 
-267
-00:22:51,120 --> 00:22:54,715
+
+
 Lysergic acid diethylamide.
 
-268
-00:22:54,920 --> 00:22:55,989
+
+
 LSD.
 
-269
-00:22:56,200 --> 00:22:58,998
+
+
 But should you have it?
 
-270
-00:23:02,160 --> 00:23:04,310
+
+
 See the serpent's tongue?
 
-271
-00:23:07,520 --> 00:23:10,990
+
+
 <i>Fais attention. Ne lui
 donnes pas trop la première fois.</i>
 
-272
-00:23:12,200 --> 00:23:14,953
+
+
 He thinks you might not like
 what you find beyond the door.
 
-273
-00:23:15,160 --> 00:23:17,230
+
+
 But I like the gatekeeper.
 
-274
-00:23:32,720 --> 00:23:36,679
+
+
 What you find beyond the door.
 
-275
-00:23:37,560 --> 00:23:39,869
+
+
 # One pill makes you larger #
 
-276
-00:23:40,080 --> 00:23:41,433
+
+
 # And #
 
-277
-00:23:41,640 --> 00:23:44,438
+
+
 # One pill makes you small #
 
-278
-00:23:44,640 --> 00:23:49,111
+
+
 # And the ones
 That Mother gives you #
 
-279
-00:23:49,320 --> 00:23:53,632
+
+
 # Don't do anything at all #
 
-280
-00:23:53,840 --> 00:23:55,512
+
+
 # Go ask Alice #
 
-281
-00:23:57,440 --> 00:24:00,591
+
+
 # When she's 10 feet tall #
 
-282
-00:24:02,640 --> 00:24:06,838
+
+
 # And if you go chasing rabbits #
 
-283
-00:24:07,040 --> 00:24:10,749
+
+
 # And you know you're going to fall ##
 
-284
-00:24:11,440 --> 00:24:14,671
+
+
 Volker. This is my new friend Brian.
 
-285
-00:24:14,880 --> 00:24:17,155
+
+
 It's exciting that
 Anita has agreed to act in my film.
 
-286
-00:24:17,360 --> 00:24:19,032
+
+
 To act?
 
-287
-00:24:19,240 --> 00:24:22,869
+
+
 Of course. I would be honoured if
 you would consider writing the music.
 
-288
-00:24:23,080 --> 00:24:26,356
+
+
 In my new film
 she performs a murder.
 
-289
-00:24:27,200 --> 00:24:29,555
+
+
 Music to murder to? Interesting.
 
-290
-00:24:30,320 --> 00:24:33,153
+
+
 # When men on the chessboard #
 
-291
-00:24:33,360 --> 00:24:37,433
+
+
 # Get up and tell you where to go #
 
-292
-00:24:38,560 --> 00:24:41,313
+
+
 Maybe it isn't planned.
 Maybe it's just murder.
 
-293
-00:24:42,200 --> 00:24:46,273
+
+
 # And your mind is moving low #
 
-294
-00:24:46,480 --> 00:24:50,109
+
+
 # Go ask Alice #
 
-295
-00:24:50,320 --> 00:24:54,791
+
+
 # I think she'll know #
 
-296
-00:24:55,000 --> 00:24:56,638
+
+
 # When logic #
 
-297
-00:24:56,840 --> 00:24:59,673
+
+
 # And proportion #
 
-298
-00:24:59,880 --> 00:25:03,475
+
+
 # Have fallen sloppy dead #
 
-299
-00:25:03,680 --> 00:25:07,719
+
+
 # And the White Knight
 Is talking backwards #
 
-300
-00:25:07,920 --> 00:25:12,516
+
+
 # And the Red Queen's
 "Off with her head!" #
 
-301
-00:25:12,720 --> 00:25:15,712
+
+
 # Remember #
 
-302
-00:25:15,920 --> 00:25:20,755
+
+
 # What the Dormouse said #
 
-303
-00:25:20,960 --> 00:25:24,953
+
+
 # Keep your head #
 
-304
-00:25:25,160 --> 00:25:32,111
+
+
 # Keep your head ##
 
-305
-00:25:45,120 --> 00:25:46,394
+
+
 Frank?
 
-306
-00:25:46,600 --> 00:25:50,559
+
+
 I need some female company.
 You'll have to drive me up to London.
 
-307
-00:25:50,760 --> 00:25:52,716
+
+
 I can't drive.
 
-308
-00:25:52,920 --> 00:25:55,195
+
+
 Why not? Course you can drive.
 
-309
-00:25:55,400 --> 00:25:56,992
+
+
 I've only got the one eye.
 
-310
-00:26:00,680 --> 00:26:04,116
+
+
 Which one is it?
 That's for you to find out, isn't it?
 
-311
-00:26:04,320 --> 00:26:06,072
+
+
 Lost it for king and country.
 
-312
-00:26:07,720 --> 00:26:10,109
+
+
 You're no use as a driver.
 
-313
-00:26:12,360 --> 00:26:14,237
+
+
 I'm not a driver.
 
-314
-00:26:14,440 --> 00:26:16,431
+
+
 I'm a fucking builder.
 
-315
-00:26:24,680 --> 00:26:27,353
+
+
 Brian?
 
-316
-00:26:31,120 --> 00:26:33,588
+
+
 All right. All right, then, cheers.
 
-317
-00:26:34,560 --> 00:26:37,154
+
+
 See you tomorrow, yeah?
 
-318
-00:27:22,760 --> 00:27:26,275
+
+
 # Wouldn't it be nice
 To get on with me neighbours? #
 
-319
-00:27:29,360 --> 00:27:32,909
+
+
 # But they make it very clear
 They've got no room for ravers #
 
-320
-00:27:37,160 --> 00:27:40,357
+
+
 # They stop me from grooving
 They bang on me wall #
 
-321
-00:27:40,560 --> 00:27:43,950
+
+
 # They're doing me crust in
 It's no good at all #
 
-322
-00:27:44,160 --> 00:27:47,596
+
+
 # Lazy Sunday afternoon #
 
-323
-00:27:47,800 --> 00:27:50,712
+
+
 # I've got no mind to worry #
 
-324
-00:27:50,920 --> 00:27:55,198
+
+
 # I close my eyes and drift away #
 
-325
-00:27:57,440 --> 00:28:01,353
+
+
 # Aroo de do de do
 Aroo de do de di day #
 
-326
-00:28:01,560 --> 00:28:04,597
+
+
 # Lazy Sunday afternoon #
 
-327
-00:28:04,800 --> 00:28:08,315
+
+
 # I've got no mind to worry #
 
-328
-00:28:08,520 --> 00:28:13,196
+
+
 # Close my eyes and drift away ##
 
-329
-00:28:23,120 --> 00:28:25,509
+
+
 Frank?
 
-330
-00:28:26,640 --> 00:28:29,950
+
+
 What?
 Want to take a gander at this?
 
-331
-00:28:30,160 --> 00:28:32,879
+
+
 Coming.
 
-332
-00:28:44,880 --> 00:28:47,792
+
+
 Boys.
 
-333
-00:28:49,360 --> 00:28:52,238
+
+
 D Can't stop breaking down d
 
-334
-00:28:56,280 --> 00:28:59,272
+
+
 Pour your own.
 Cheers.
 
-335
-00:29:00,400 --> 00:29:02,709
+
+
 Can you move it over there?
 
-336
-00:29:03,520 --> 00:29:07,069
+
+
 # I can't walk the streets
 Consolidate my mind #
 
-337
-00:29:07,280 --> 00:29:09,874
+
+
 # Some no-good woman
 Keeps on breaking down #
 
-338
-00:29:10,080 --> 00:29:12,275
+
+
 It's a brick wall.
 
-339
-00:29:12,480 --> 00:29:13,913
+
+
 It just doesn't feel right.
 
-340
-00:29:14,120 --> 00:29:16,429
+
+
 # Please stop breaking down ##
 
-341
-00:29:19,080 --> 00:29:21,435
+
+
 Where over there?
 
-342
-00:29:34,520 --> 00:29:39,355
+
+
 # You Saturday-night women
 You love to ape and clown #
 
-343
-00:29:39,560 --> 00:29:42,836
+
+
 # You won't do nothing but tear
 A good man's reputation down #
 
-344
-00:29:43,040 --> 00:29:45,349
+
+
 # Stop breaking down #
 
-345
-00:29:51,120 --> 00:29:53,076
+
+
 # The stuff I got'll bust
 Your brains out, baby ##
 
-346
-00:29:53,280 --> 00:29:55,236
+
+
 Hi, Brian.
 Great!
 
-347
-00:30:01,480 --> 00:30:03,710
+
+
 Fantastic.
 
-348
-00:30:06,000 --> 00:30:09,834
+
+
 Um, tell Frank
 it was in the right place before.
 
-349
-00:30:14,320 --> 00:30:16,117
+
+
 Fucking ponce.
 
-350
-00:30:16,320 --> 00:30:18,709
+
+
 Just ignore the ponce.
 
-351
-00:30:18,920 --> 00:30:21,354
+
+
 We can keep this going all summer
 and not even break a sweat.
 
-352
-00:30:21,560 --> 00:30:24,393
+
+
 But he flaunts that bird in our faces!
 
-353
-00:30:24,600 --> 00:30:28,479
+
+
 Just remember to keep your hands
 off, otherwise it'll all be over.
 
-354
-00:30:29,480 --> 00:30:31,789
+
+
 When are we gonna
 get paid proper, Frank?
 
-355
-00:30:32,000 --> 00:30:33,399
+
+
 I'm sorting it out.
 
-356
-00:30:48,200 --> 00:30:51,670
+
+
 Yeah. Yeah, all right, Frank.
 Look, I'll fix it.
 
-357
-00:30:51,880 --> 00:30:54,440
+
+
 Look, I gotta get some money
 to Brian's builders.
 
-358
-00:30:54,640 --> 00:30:56,790
+
+
 Can we talk about this, Tom?
 
-359
-00:31:00,640 --> 00:31:03,632
+
+
 Hello? Can I ask you to hold?
 
-360
-00:31:14,240 --> 00:31:16,708
+
+
 Brian's constantly overspending.
 
-361
-00:31:16,920 --> 00:31:19,832
+
+
 The clothes. The travelling.
 
-362
-00:31:21,080 --> 00:31:22,957
+
+
 Just the lifestyle.
 
-363
-00:31:23,160 --> 00:31:25,196
+
+
 Way above the other four.
 
-364
-00:31:25,400 --> 00:31:28,676
+
+
 And then there's the lawyers' fees,
 and it's not just the drug bust.
 
-365
-00:31:28,880 --> 00:31:32,714
+
+
 There are five women all claiming
 to be the mothers of his children.
 
-366
-00:31:33,760 --> 00:31:36,911
+
+
 The others are gonna have to approve any
 more large sums being spent on his house.
 
-367
-00:31:37,320 --> 00:31:39,117
+
+
 Yeah, well, I need cash now.
 
-368
-00:31:39,320 --> 00:31:44,314
+
+
 These boys don't get paid, then what
 we've spent so far goes down the toilet.
 
-369
-00:31:47,920 --> 00:31:50,070
+
+
 This is the last payment
 without approval.
 
-370
-00:31:52,720 --> 00:31:53,948
+
+
 Brian has no incomings.
 
-371
-00:31:54,160 --> 00:32:00,030
+
+
 He's not touring. He's not writing any songs.
 He's not even at the recording sessions anymore.
 
-372
-00:32:00,240 --> 00:32:03,232
+
+
 But it's still his band, though, isn't it?
 Is it, Tom?
 
-373
-00:32:04,400 --> 00:32:08,279
+
+
 Well, he thinks so, mate.
 He thinks so.
 
-374
-00:32:14,200 --> 00:32:16,395
+
+
 Boys, boys, this song is great.
 
-375
-00:32:16,600 --> 00:32:19,398
+
+
 Just needs a little more work.
 Later, man. We're going down the pub.
 
-376
-00:32:19,600 --> 00:32:23,878
+
+
 No, it'll just take half an hour.
 We'll see you in the pub, Brian.
 
-377
-00:32:24,080 --> 00:32:26,548
+
+
 See you down there, mate.
 
-378
-00:32:32,840 --> 00:32:35,274
+
+
 I hope you've got some money, then.
 
-379
-00:32:39,080 --> 00:32:41,640
+
+
 I can't do you both
 at the same fucking time, can I?
 
-380
-00:32:43,360 --> 00:32:45,635
+
+
 Here we are!
 Hey, Tom!
 
-381
-00:32:45,840 --> 00:32:47,831
+
+
 This is nothing,
 just the down payment.
 
-382
-00:32:48,040 --> 00:32:50,429
+
+
 So get those down your throats
 and this in your pockets.
 
-383
-00:32:50,640 --> 00:32:53,393
+
+
 That's it. Cheers, Tom.
 
-384
-00:32:56,080 --> 00:32:58,150
+
+
 Great.
 What you doing?
 
-385
-00:33:02,240 --> 00:33:04,834
+
+
 Tom, I'm the one
 who should be paying them.
 
-386
-00:33:05,040 --> 00:33:07,474
+
+
 You're right, Frank.
 That's a good point.
 
-387
-00:33:07,680 --> 00:33:09,671
+
+
 Everyone should know their place.
 
-388
-00:33:09,880 --> 00:33:13,270
+
+
 You know, you should've called me
 earlier. I'd have come down like a shot.
 
-389
-00:33:13,480 --> 00:33:17,519
+
+
 Pity Brian's not around. Could've had
 a word with him about taking the piss.
 
-390
-00:33:17,720 --> 00:33:20,518
+
+
 Yeah, well, we got more done today with
 him out of the house than all last week.
 
-391
-00:33:20,720 --> 00:33:23,154
+
+
 What's up here, Tom?
 
-392
-00:33:24,480 --> 00:33:26,550
+
+
 Yeah, you have
 a look around, darling.
 
-393
-00:33:26,760 --> 00:33:29,115
+
+
 I thought you was dumping her.
 
-394
-00:33:29,320 --> 00:33:33,108
+
+
 I am. This is it.
 You know, the big E.
 
-395
-00:33:33,320 --> 00:33:37,871
+
+
 Bring her down here, give her a bit
 of excitement, then, "Boof!" Finito.
 
-396
-00:33:38,080 --> 00:33:40,150
+
+
 Well, come on. Tea break's over.
 
-397
-00:33:40,360 --> 00:33:43,875
+
+
 So is Frank taking Brian Jones
 for a bit of a ride, then?
 
-398
-00:33:44,080 --> 00:33:45,035
+
+
 What you on about?
 
-399
-00:33:45,240 --> 00:33:49,438
+
+
 It's just that that's what Joan said
 Frank was doing at Keith Richards'.
 
-400
-00:33:49,640 --> 00:33:51,631
+
+
 "Skimming off,"
 is that the expression?
 
-401
-00:33:51,840 --> 00:33:54,400
+
+
 No.
 
-402
-00:33:54,600 --> 00:33:57,239
+
+
 Frank's as good as gold.
 Nah, she's just-
 
-403
-00:33:57,440 --> 00:34:00,273
+
+
 She's just pissed off because he's
 giving her the elbow, that's all.
 
-404
-00:34:00,480 --> 00:34:02,630
+
+
 Mm, yes.
 
-405
-00:34:02,840 --> 00:34:06,196
+
+
 A woman scorned
 can be a vengeful creature.
 
-406
-00:34:06,400 --> 00:34:08,630
+
+
 Yeah.
 
-407
-00:34:11,520 --> 00:34:13,511
+
+
 Come on.
 
-408
-00:35:04,160 --> 00:35:06,549
+
+
 Who's been sleeping in my bed?
 
-409
-00:35:11,360 --> 00:35:14,113
+
+
 Thank you, Frank.
 That's all right.
 
-410
-00:35:20,920 --> 00:35:23,832
+
+
 So are you like Tom,
 got these birds on the side?
 
-411
-00:35:24,040 --> 00:35:27,749
+
+
 I got a girl, yeah.
 I bet you have, you dirty dog.
 
-412
-00:35:27,960 --> 00:35:29,632
+
+
 What's Tom's woman like?
 
-413
-00:35:29,840 --> 00:35:32,434
+
+
 Janet? Leggy, posh.
 
-414
-00:35:33,400 --> 00:35:35,755
+
+
 Mm, nice. So have you had her?
 
-415
-00:35:35,960 --> 00:35:37,598
+
+
 You must be joking.
 
-416
-00:35:37,800 --> 00:35:40,633
+
+
 Come on, Frank.
 
-417
-00:35:40,840 --> 00:35:43,229
+
+
 Haven't you ever heard of free love?
 
-418
-00:35:45,320 --> 00:35:47,151
+
+
 She's beautiful, isn't she?
 
-419
-00:35:49,000 --> 00:35:50,752
+
+
 Yeah, very.
 
-420
-00:35:52,000 --> 00:35:54,468
+
+
 If you want her, you can have her.
 
-421
-00:35:55,680 --> 00:35:57,716
+
+
 You can.
 
-422
-00:35:58,960 --> 00:36:02,032
+
+
 But Anna only goes with real men,
 don't you, honey?
 
-423
-00:36:05,000 --> 00:36:06,956
+
+
 I know.
 
-424
-00:36:07,880 --> 00:36:09,677
+
+
 Why don't you show her your stuff,
 
-425
-00:36:09,880 --> 00:36:11,791
+
+
 some press-ups?
 
-426
-00:36:14,040 --> 00:36:16,873
+
+
 How about starting with 50?
 
-427
-00:36:17,080 --> 00:36:21,756
+
+
 You must be able to do 50.
 Even I can do 50.
 
-428
-00:36:21,960 --> 00:36:25,270
+
+
 I'm sure she'll show you
 some form of appreciation.
 
-429
-00:36:41,840 --> 00:36:44,354
+
+
 Fifty, eh?
 
-430
-00:36:46,640 --> 00:36:49,996
+
+
 One, two, three, four,
 
-431
-00:36:50,200 --> 00:36:51,599
+
+
 five, six-
 
-432
-00:37:08,360 --> 00:37:11,432
+
+
 I knew you was having me on.
 
-433
-00:37:21,080 --> 00:37:23,435
+
+
 The next 50 will be harder.
 
-434
-00:37:23,640 --> 00:37:26,279
+
+
 I wonder what she'll do then.
 
-435
-00:37:31,320 --> 00:37:33,470
+
+
 All right.
 
-436
-00:37:41,000 --> 00:37:42,956
+
+
 One, two...
 
-437
-00:38:14,960 --> 00:38:17,235
+
+
 There. Fifty.
 
-438
-00:38:59,080 --> 00:39:02,152
+
+
 I'm into brain not brawn.
 
-439
-00:39:10,320 --> 00:39:12,276
+
+
 Come on, let's go up.
 
-440
-00:39:14,720 --> 00:39:18,156
+
+
 Come on, Frank!
 We're still mates, aren't we?
 
-441
-00:39:18,360 --> 00:39:21,830
+
+
 I mean, love the beam, man.
 
-442
-00:39:28,520 --> 00:39:32,911
+
+
 # Beautiful miracle
 Pardon my lyrical rhapsody #
 
-443
-00:39:33,120 --> 00:39:35,509
+
+
 # But can't you see #
 
-444
-00:39:35,720 --> 00:39:38,598
+
+
 # You've captured me #
 
-445
-00:39:38,800 --> 00:39:39,994
+
+
 # Being so glamorous #
 
-446
-00:39:40,200 --> 00:39:43,272
+
+
 # Can't you be amorous
 Just with me? #
 
-447
-00:39:43,480 --> 00:39:45,835
+
+
 # Make it soon #
 
-448
-00:39:46,040 --> 00:39:48,873
+
+
 # Take a look at the moon #
 
-449
-00:39:49,080 --> 00:39:51,719
+
+
 What's it like
 at this Brian Jones', then?
 
-450
-00:39:51,920 --> 00:39:54,354
+
+
 All right. Swimming pool and all that.
 
-451
-00:39:54,560 --> 00:39:57,154
+
+
 All right for some.
 # -around the cornerd
 
-452
-00:39:57,360 --> 00:40:00,432
+
+
 # When I'm around you #
 
-453
-00:40:00,640 --> 00:40:02,835
+
+
 # Let's go cuddle in a corner #
 
-454
-00:40:03,040 --> 00:40:06,077
+
+
 # Any cosy little corner #
 
-455
-00:40:06,280 --> 00:40:08,236
+
+
 # Love is just around the corner #
 
-456
-00:40:08,440 --> 00:40:10,396
+
+
 # And I'm around you ##
 
-457
-00:40:23,600 --> 00:40:26,558
+
+
 Hello?
 Frank, it's me. I need you here.
 
-458
-00:40:26,760 --> 00:40:28,034
+
+
 The cover's blown off the cesspit
 
-459
-00:40:28,240 --> 00:40:31,471
+
+
 and if it keeps on raining,
 we're going to be engulfed in poo.
 
-460
-00:40:31,680 --> 00:40:34,478
+
+
 Brian, how did you get my number?
 Don't get all paranoid on me, Frank.
 
-461
-00:40:34,680 --> 00:40:38,434
+
+
 Only one of us is allowed to be
 paranoid. That's the arrangement.
 
-462
-00:40:38,640 --> 00:40:43,191
+
+
 I'm sorry. Look, just get in a cab
 and I'll pay for it. Thank you, Frank.
 
-463
-00:40:43,400 --> 00:40:45,994
+
+
 All right, I'm gonna have a bath.
 
-464
-00:40:57,920 --> 00:41:00,593
+
+
 Anna!
 I'm in the bath!
 
-465
-00:41:07,760 --> 00:41:10,149
+
+
 Anna? Frank's arrived.
 
-466
-00:41:17,080 --> 00:41:20,072
+
+
 There's no cover on it.
 I know.
 
-467
-00:41:20,280 --> 00:41:21,998
+
+
 It's only there.
 
-468
-00:41:22,200 --> 00:41:24,236
+
+
 Shall we put it back on?
 
-469
-00:41:30,920 --> 00:41:33,115
+
+
 Thanks, Frank.
 Couldn't have done it without you.
 
-470
-00:41:33,320 --> 00:41:37,677
+
+
 Let's go up to the house. Anna can fix
 us some grub and a nice stiff drink.
 
-471
-00:41:37,880 --> 00:41:39,791
+
+
 Carrot juice?
 
-472
-00:41:40,000 --> 00:41:41,479
+
+
 Anyone?
 
-473
-00:41:41,680 --> 00:41:43,910
+
+
 Mm?
 
-474
-00:41:44,120 --> 00:41:47,556
+
+
 Morning.
 
-475
-00:41:59,800 --> 00:42:01,518
+
+
 Thanks.
 Good party?
 
-476
-00:42:01,720 --> 00:42:04,109
+
+
 Far-out.
 
-477
-00:42:09,200 --> 00:42:13,034
+
+
 Missed you last night at the studio.
 Had the groove down.
 
-478
-00:42:13,240 --> 00:42:16,789
+
+
 Could've been really something.
 Like old times.
 
-479
-00:42:17,000 --> 00:42:19,594
+
+
 Get those guitars weaving again
 is what we need.
 
-480
-00:42:19,800 --> 00:42:22,439
+
+
 Are you gonna put down
 some tracks today?
 
-481
-00:42:25,160 --> 00:42:27,958
+
+
 Can't right now.
 
-482
-00:42:29,840 --> 00:42:33,389
+
+
 Brian, you can't like them
 recording without you.
 
-483
-00:42:33,600 --> 00:42:37,434
+
+
 I'm not exactly in love
 with the music we're playing now.
 
-484
-00:42:37,640 --> 00:42:40,074
+
+
 Keith can lay down my stuff.
 
-485
-00:42:40,280 --> 00:42:42,396
+
+
 It's really not that difficult.
 
-486
-00:42:42,600 --> 00:42:47,276
+
+
 Brian, you've forgotten
 I go to Munich today. The film.
 
-487
-00:42:48,480 --> 00:42:50,710
+
+
 Can't you push it back a bit?
 
-488
-00:42:50,920 --> 00:42:53,878
+
+
 I'd like to, but it's a film.
 
-489
-00:43:06,640 --> 00:43:08,676
+
+
 So you could go to the studio.
 
-490
-00:43:08,880 --> 00:43:11,474
+
+
 Don't tell me what to do!
 
-491
-00:43:13,720 --> 00:43:16,154
+
+
 I can do whatever I bloody well like!
 
-492
-00:43:26,960 --> 00:43:30,111
+
+
 Brian? Brian!
 
-493
-00:43:31,840 --> 00:43:34,274
+
+
 Brian.
 
-494
-00:43:34,480 --> 00:43:36,198
+
+
 Brian!
 
-495
-00:43:38,800 --> 00:43:40,756
+
+
 It's not just his funeral, Keith.
 
-496
-00:43:42,520 --> 00:43:44,397
+
+
 It's ours as well.
 
-497
-00:43:57,360 --> 00:44:01,592
+
+
 Keith, he's right, you know.
 It's just another wasted session.
 
-498
-00:44:01,800 --> 00:44:04,917
+
+
 Cat just needs a break, that's all.
 
-499
-00:44:24,000 --> 00:44:24,955
+
+
 Stop!
 
-500
-00:44:29,360 --> 00:44:31,749
+
+
 <i>Und schnitt. Danke.</i>
 
-501
-00:44:31,960 --> 00:44:33,518
+
+
 <i>Sclussklappe.</i>
 
-502
-00:44:33,720 --> 00:44:35,199
+
+
 Okay.
 
-503
-00:44:35,400 --> 00:44:36,719
+
+
 Anita,
 
-504
-00:44:36,920 --> 00:44:39,639
+
+
 <i>jetzt wieder...</i>
 
-505
-00:44:44,480 --> 00:44:46,391
+
+
 <i>Sind Sie fertig, oder?</i>
 
-506
-00:44:46,600 --> 00:44:49,068
+
+
 Brian? Where have you been?
 
-507
-00:44:49,280 --> 00:44:51,840
+
+
 Volker keeps asking.
 You got the rushes, yes?
 
-508
-00:44:52,040 --> 00:44:54,600
+
+
 Yeah. Yeah, don't worry, Anita.
 
-509
-00:44:55,800 --> 00:44:58,189
+
+
 I've been working night and day.
 
-510
-00:45:17,040 --> 00:45:20,237
+
+
 <i>Hab immer noch das Drehbuch.</i>
 
-511
-00:45:21,440 --> 00:45:22,395
+
+
 Why are we on holiday
 
-512
-00:45:22,600 --> 00:45:26,229
+
+
 if you have to be finished
 with the music in two weeks?
 
-513
-00:45:26,440 --> 00:45:29,910
+
+
 I want to be proud you,
 Brian, and you just keep-
 
-514
-00:45:30,120 --> 00:45:32,918
+
+
 I need more time.
 
-515
-00:45:33,120 --> 00:45:35,839
+
+
 What's wrong?
 You're a wreck!
 
-516
-00:45:36,040 --> 00:45:41,239
+
+
 I'm going home. I'm telling Volker
 to get someone else to do the music.
 
-517
-00:45:44,920 --> 00:45:48,993
+
+
 Don't leave me.
 Get out! Look at yourself!
 
-518
-00:45:49,200 --> 00:45:51,475
+
+
 You can't handle the drugs!
 
-519
-00:45:52,920 --> 00:45:56,629
+
+
 We take drugs. We do.
 You, me, Keith-
 
-520
-00:45:56,840 --> 00:46:02,073
+
+
 I can handle them, Brian! Keith
 can handle them! You, you just-
 
-521
-00:46:02,280 --> 00:46:05,477
+
+
 You just fade away!
 
-522
-00:46:05,680 --> 00:46:08,399
+
+
 You drink too much,
 you take too many fucking drugs!
 
-523
-00:46:08,600 --> 00:46:10,670
+
+
 You can't even get it up
 without hitting me!
 
-524
-00:46:10,880 --> 00:46:14,919
+
+
 That's what you like.
 Not all the time.
 
-525
-00:46:17,400 --> 00:46:19,311
+
+
 You're not leaving.
 
-526
-00:46:19,520 --> 00:46:21,670
+
+
 You're fucking pathetic.
 
-527
-00:46:48,440 --> 00:46:51,079
+
+
 That was wonderful, Brian. Thank you.
 
-528
-00:47:14,120 --> 00:47:16,236
+
+
 Jesus.
 
-529
-00:47:33,640 --> 00:47:36,518
+
+
 Frank! Frank!
 
-530
-00:47:43,000 --> 00:47:46,117
+
+
 Sorry, Brian. Didn't I tell you
 I was emptying the pool?
 
-531
-00:47:46,320 --> 00:47:48,629
+
+
 Don't worry about that.
 It's the sound, Frank.
 
-532
-00:47:48,840 --> 00:47:51,559
+
+
 Watch that step there.
 Come on, I'll show you.
 
-533
-00:47:51,760 --> 00:47:53,796
+
+
 I'm just gonna lower it down.
 
-534
-00:47:54,680 --> 00:47:57,114
+
+
 Right, Frank, start the tape.
 
-535
-00:48:00,480 --> 00:48:03,836
+
+
 Wait, grab this.
 Now, why don't you to take this?
 
-536
-00:48:05,000 --> 00:48:07,355
+
+
 Give it a shake.
 
-537
-00:48:07,560 --> 00:48:09,994
+
+
 That's it. Come on, get into it.
 
-538
-00:48:10,200 --> 00:48:12,794
+
+
 Use your hand like this. Like this.
 
-539
-00:48:14,200 --> 00:48:16,316
+
+
 Into the microphone.
 
-540
-00:48:25,480 --> 00:48:27,391
+
+
 Come on! Get into it!
 
-541
-00:48:28,520 --> 00:48:30,795
+
+
 That's it. Feel the music.
 
-542
-00:48:38,920 --> 00:48:41,150
+
+
 Come on, Frank, come on!
 
-543
-00:48:41,360 --> 00:48:43,635
+
+
 That's it!
 
-544
-00:49:16,720 --> 00:49:18,950
+
+
 All right, lads. Knock off.
 
-545
-00:49:19,160 --> 00:49:22,311
+
+
 Nice one, Frank!
 What, 3.30?
 
-546
-00:49:28,200 --> 00:49:32,830
+
+
 You coming to the boozer?
 Later maybe.
 
-547
-00:50:05,560 --> 00:50:06,709
+
+
 Shit.
 
-548
-00:50:19,680 --> 00:50:21,875
+
+
 Definitely a six, Frank.
 
-549
-00:50:25,240 --> 00:50:29,119
+
+
 What do you think?
 Someone's in trouble.
 
-550
-00:50:32,160 --> 00:50:36,233
+
+
 You did restock, didn't you?
 Course I bloody did.
 
-551
-00:50:36,440 --> 00:50:40,353
+
+
 You know, you play quite well
 for a bloke with one eye.
 
-552
-00:50:40,560 --> 00:50:42,869
+
+
 Have you ever heard of the
 blues legend Blind Willie Johnson?
 
-553
-00:50:43,080 --> 00:50:46,550
+
+
 No.
 He was a very cool guy.
 
-554
-00:50:46,760 --> 00:50:50,070
+
+
 So your partial blindness
 makes you partially cool, Frank.
 
-555
-00:50:51,200 --> 00:50:54,272
+
+
 Thank you, Brian.
 I'll go and get the booze, eh?
 
-556
-00:51:02,160 --> 00:51:04,628
+
+
 What are you doing in my room?
 
-557
-00:51:14,400 --> 00:51:17,039
+
+
 Do you know what'd happen to Brian
 if the cops found this here?
 
-558
-00:51:17,240 --> 00:51:19,595
+
+
 It's only grass, Frank.
 
-559
-00:51:19,800 --> 00:51:22,234
+
+
 The black bombers are his prescription.
 I need to hide them from him.
 
-560
-00:51:22,440 --> 00:51:25,273
+
+
 You don't care about him, do you?
 
-561
-00:51:25,480 --> 00:51:29,359
+
+
 Prison would kill that boy.
 What are you now, his babysitter?
 
-562
-00:51:31,760 --> 00:51:34,228
+
+
 I'll keep these from now on, eh?
 
-563
-00:51:34,440 --> 00:51:39,912
+
+
 And this. If I told Brian about this,
 he'd chuck you on the spot.
 
-564
-00:51:40,120 --> 00:51:42,918
+
+
 Maybe he'd chuck you, Frank.
 
-565
-00:51:43,960 --> 00:51:45,951
+
+
 He's got you now.
 
-566
-00:51:46,160 --> 00:51:50,517
+
+
 You need to keep in with him to get
 your bread. I know what you're doing.
 
-567
-00:51:51,840 --> 00:51:54,354
+
+
 I'm not the hanger-on.
 
-568
-00:51:57,280 --> 00:51:59,271
+
+
 Hello?
 
-569
-00:52:01,800 --> 00:52:05,839
+
+
 Mick and Keith?
 They want to come down tomorrow?
 
-570
-00:52:07,040 --> 00:52:09,349
+
+
 Yeah, Brian will be here.
 
-571
-00:52:10,480 --> 00:52:12,516
+
+
 Thank you. Bye.
 
-572
-00:52:18,080 --> 00:52:20,230
+
+
 Do you want to tell him?
 
-573
-00:52:27,000 --> 00:52:32,597
+
+
 If Mick and Keith are coming down tomorrow,
 I'll get some more booze in, eh, Brian?
 
-574
-00:52:32,800 --> 00:52:36,395
+
+
 I'll leave you to it, then.
 
-575
-00:53:01,280 --> 00:53:04,477
+
+
 D Paper sun d
 
-576
-00:53:15,200 --> 00:53:17,760
+
+
 d On the run dd
 
-577
-00:53:50,280 --> 00:53:51,759
+
+
 Loved your movie, Anita.
 
-578
-00:53:51,960 --> 00:53:56,511
+
+
 Brian's music was amazing. But I'm
 not so sure about my performance.
 
-579
-00:53:56,720 --> 00:53:58,836
+
+
 You were wonderful, darling.
 
-580
-00:54:00,880 --> 00:54:04,714
+
+
 What do you see?
 Clouds look like big fucking rats.
 
-581
-00:54:04,920 --> 00:54:08,469
+
+
 Need their arses blown off.
 
-582
-00:54:09,560 --> 00:54:13,075
+
+
 Somebody give me a gun.
 
-583
-00:54:18,800 --> 00:54:22,952
+
+
 We're changing. It's like we're part
 of some experiment.
 
-584
-00:54:23,160 --> 00:54:24,957
+
+
 Like something amazing's
 going to come from it.
 
-585
-00:54:25,160 --> 00:54:28,869
+
+
 I'm going somewhere, that's for sure.
 
-586
-00:54:29,080 --> 00:54:31,719
+
+
 I'm going to hell, Brian.
 
-587
-00:54:31,920 --> 00:54:33,273
+
+
 Race you.
 
-588
-00:54:52,320 --> 00:54:54,709
+
+
 Don't you feel her power?
 
-589
-00:54:57,840 --> 00:54:59,592
+
+
 You want to fuck her!
 
-590
-00:54:59,800 --> 00:55:02,360
+
+
 Oh, shut up!
 Man-
 
-591
-00:55:02,560 --> 00:55:05,028
+
+
 Fucking hell, Brian.
 
-592
-00:55:05,240 --> 00:55:07,800
+
+
 And you want to fuck him.
 
-593
-00:55:09,040 --> 00:55:13,477
+
+
 I know that. I've seen the way
 you've been looking at each other.
 
-594
-00:55:13,680 --> 00:55:16,433
+
+
 I'm telling you, I don't care.
 
-595
-00:55:17,680 --> 00:55:20,717
+
+
 I honestly don't care.
 
-596
-00:55:20,920 --> 00:55:25,710
+
+
 Brian, this is stupid, man.
 Keith! I love you, man.
 
-597
-00:55:26,800 --> 00:55:29,951
+
+
 I want you to have a good time.
 
-598
-00:55:30,160 --> 00:55:34,392
+
+
 This is our party.
 This is just part of the experiment.
 
-599
-00:55:34,600 --> 00:55:37,797
+
+
 We can do whatever we want.
 
-600
-00:55:38,760 --> 00:55:40,910
+
+
 I don't want him, damn it.
 
-601
-00:55:48,000 --> 00:55:50,309
+
+
 If you want to fuck Keith-
 
-602
-00:55:50,520 --> 00:55:52,875
+
+
 What are you doing?
 
-603
-00:55:53,080 --> 00:55:55,196
+
+
 Don't be so bourgeois.
 
-604
-00:55:56,400 --> 00:55:59,392
+
+
 Besides, I'm ordering you.
 
-605
-00:56:10,640 --> 00:56:13,518
+
+
 Gysin, where's the dealer?
 The Eggman?
 
-606
-00:56:15,040 --> 00:56:16,996
+
+
 In bed, asleep?
 
-607
-00:56:29,160 --> 00:56:32,152
+
+
 Gysin, can you get me some coke?
 
-608
-00:56:32,600 --> 00:56:34,192
+
+
 No.
 
-609
-00:56:35,400 --> 00:56:37,755
+
+
 LSD, MDT,
 
-610
-00:56:38,880 --> 00:56:41,030
+
+
 hashish,
 
-611
-00:56:42,120 --> 00:56:43,394
+
+
 psilocybin.
 
-612
-00:56:44,360 --> 00:56:46,316
+
+
 I suppose that'll have to do.
 
-613
-00:56:58,920 --> 00:57:01,229
+
+
 Why don't you go
 and look for Anita, Brian?
 
-614
-00:57:02,120 --> 00:57:04,839
+
+
 Anita can take care of herself.
 
-615
-00:57:05,040 --> 00:57:06,678
+
+
 Tom, get the car!
 
-616
-00:58:02,640 --> 00:58:04,756
+
+
 Brian?
 
-617
-00:58:12,880 --> 00:58:14,677
+
+
 What's going on?
 
-618
-00:58:14,880 --> 00:58:17,633
+
+
 This is just part of the experiment.
 
-619
-00:58:20,640 --> 00:58:23,791
+
+
 What are you doing?
 You know what I'm doing.
 
-620
-00:58:24,000 --> 00:58:27,754
+
+
 I don't want to! I don't want to.
 Yes, you do. Yes, you do.
 
-621
-00:58:27,960 --> 00:58:30,235
+
+
 Get off. Get off!
 
-622
-00:58:34,520 --> 00:58:36,829
+
+
 Aaahh! Please!
 
-623
-00:58:37,040 --> 00:58:40,237
+
+
 You experiment with Keith?
 You made me! No!
 
-624
-00:58:40,440 --> 00:58:43,512
+
+
 Experiment with me!
 
-625
-00:58:46,760 --> 00:58:49,752
+
+
 Stop!
 
-626
-00:58:49,960 --> 00:58:52,679
+
+
 Stop!
 
-627
-00:59:05,400 --> 00:59:06,549
+
+
 Hello?
 
-628
-00:59:06,760 --> 00:59:10,594
+
+
 <i>Look, I've been ringing and
 fucking ringing. What's going on?</i>
 
-629
-00:59:10,800 --> 00:59:13,234
+
+
 Nothing. It's- It's all coming together.
 
-630
-00:59:13,440 --> 00:59:16,591
+
+
 <i>You want to talk to Brian?
 No, I don't want to talk to Brian.</i>
 
-631
-00:59:16,800 --> 00:59:19,678
+
+
 Your missus has been calling my missus.
 You've not been home for three weeks.
 
-632
-00:59:19,880 --> 00:59:22,713
+
+
 <i>What's happening, Frank?
 Nothing!</i>
 
-633
-00:59:22,920 --> 00:59:26,037
+
+
 I just had a lot of work
 on my plate, that's all.
 
-634
-00:59:26,240 --> 00:59:28,117
+
+
 Yeah, well, just so you know,
 
-635
-00:59:28,320 --> 00:59:31,630
+
+
 I'll be back to take care of things
 after everything goes khaki, all right?
 
-636
-00:59:56,040 --> 00:59:58,190
+
+
 He missed a bit.
 
-637
-01:00:00,800 --> 01:00:02,916
+
+
 Where's the arsehole?
 
-638
-01:00:06,360 --> 01:00:07,873
+
+
 Tom?
 
-639
-01:00:08,080 --> 01:00:10,230
+
+
 Get us out of here.
 Fuck.
 
-640
-01:01:04,200 --> 01:01:05,155
+
+
 She kept fucking him.
 
-641
-01:01:05,360 --> 01:01:08,033
+
+
 I don't know about anything, but
 Joan's gonna take you to the airport.
 
-642
-01:01:13,320 --> 01:01:15,629
+
+
 Come on, Anita. Come on, come on.
 
-643
-01:01:26,200 --> 01:01:30,113
+
+
 Come on, Tom!
 Just put your foot down.
 
-644
-01:01:33,520 --> 01:01:34,509
+
+
 Don't touch the car!
 
-645
-01:01:48,400 --> 01:01:52,439
+
+
 What do you mean, we've checked
 out? "We" is standing right here!
 
-646
-01:01:52,640 --> 01:01:55,029
+
+
 Where are the others?
 Gone.
 
-647
-01:01:55,240 --> 01:01:57,959
+
+
 Gone? What, disappeared?
 
-648
-01:01:58,160 --> 01:02:00,310
+
+
 Just like that?
 
-649
-01:02:01,360 --> 01:02:05,035
+
+
 Did they leave a message?
 No, sir, just this.
 
-650
-01:02:06,080 --> 01:02:08,116
+
+
 What's this?
 
-651
-01:02:08,320 --> 01:02:11,073
+
+
 I'm not paying the fucking bill.
 
-652
-01:02:14,080 --> 01:02:17,311
+
+
 # With your pencil in your hand #
 
-653
-01:02:17,520 --> 01:02:19,476
+
+
 # You see somebody naked #
 
-654
-01:02:19,680 --> 01:02:23,116
+
+
 # And you say, "Who is that man?" #
 
-655
-01:02:24,920 --> 01:02:26,990
+
+
 # You try so hard #
 
-656
-01:02:27,200 --> 01:02:30,988
+
+
 # But you don't understand #
 
-657
-01:02:31,200 --> 01:02:35,637
+
+
 # Just what you'll say
 When you get home #
 
-658
-01:02:37,680 --> 01:02:41,036
+
+
 # 'Cause you know
 Something is happening #
 
-659
-01:02:41,240 --> 01:02:44,869
+
+
 # But you don't know what it is #
 
-660
-01:02:45,080 --> 01:02:47,719
+
+
 # Do you #
 
-661
-01:02:47,920 --> 01:02:50,434
+
+
 # Mr. Jones? #
 
-662
-01:02:57,240 --> 01:03:01,631
+
+
 # Your raise up your head
 And you ask, "Is this where it is?" #
 
-663
-01:03:03,160 --> 01:03:08,234
+
+
 # Somebody points to you
 And says, "It's his" #
 
-664
-01:03:09,800 --> 01:03:12,553
+
+
 # You say, "What's mine?" #
 
-665
-01:03:12,760 --> 01:03:15,638
+
+
 # And somebody else says
 "Where what is?" #
 
-666
-01:03:15,840 --> 01:03:19,071
+
+
 # And you say, "Oh, my God!
 Am I here alone?" #
 
-667
-01:03:19,280 --> 01:03:22,272
+
+
 Hi, guys. Great to see you. Come in.
 
-668
-01:03:23,480 --> 01:03:26,756
+
+
 # 'Cause you know
 Something is happening here #
 
-669
-01:03:26,960 --> 01:03:30,555
+
+
 # But you don't know what it is #
 
-670
-01:03:30,760 --> 01:03:35,629
+
+
 # Do you, Mr. Jones? ##
 
-671
-01:03:40,120 --> 01:03:43,999
+
+
 So. You fellas don't make it
 down here very often.
 
-672
-01:03:46,280 --> 01:03:48,077
+
+
 Looks like a nice one.
 
-673
-01:03:48,280 --> 01:03:49,793
+
+
 Hey.
 
-674
-01:03:50,000 --> 01:03:53,117
+
+
 You got some live Hendrix. Cool.
 
-675
-01:03:53,320 --> 01:03:55,880
+
+
 Yeah. He sent one over.
 
-676
-01:03:56,600 --> 01:03:59,273
+
+
 Look, Brian, we've got this tour.
 
-677
-01:03:59,480 --> 01:04:04,110
+
+
 Even if the lawyers can get you into
 the States, you're never at the studio.
 
-678
-01:04:04,320 --> 01:04:07,392
+
+
 We need a guitarist
 who knows the new material.
 
-679
-01:04:07,600 --> 01:04:08,555
+
+
 Mm.
 
-680
-01:04:08,760 --> 01:04:11,433
+
+
 And we- I mean, you're not...
 
-681
-01:04:11,640 --> 01:04:13,551
+
+
 You're out, cock.
 
-682
-01:04:13,760 --> 01:04:15,352
+
+
 You're fired.
 
-683
-01:04:24,360 --> 01:04:27,955
+
+
 What we thought,
 what the management figured out,
 
-684
-01:04:30,120 --> 01:04:34,750
+
+
 you'll get 100 grand now, and 20
 for every year the band keeps going.
 
-685
-01:04:34,960 --> 01:04:36,791
+
+
 Sure.
 
-686
-01:04:39,040 --> 01:04:42,430
+
+
 Come and see us
 at the studio, you know?
 
-687
-01:04:46,960 --> 01:04:48,234
+
+
 So long, mate.
 
-688
-01:04:57,160 --> 01:04:59,833
+
+
 You'll get your act together, man.
 
-689
-01:05:23,640 --> 01:05:26,677
+
+
 # I'm gonna tell you
 How it's gonna be #
 
-690
-01:05:28,120 --> 01:05:30,031
+
+
 # You're gonna give your love to me #
 
-691
-01:05:31,960 --> 01:05:34,952
+
+
 # I'm gonna love you night and day #
 
-692
-01:05:36,040 --> 01:05:39,828
+
+
 # Well, love is love
 And not fade away #
 
-693
-01:05:40,040 --> 01:05:43,237
+
+
 # Well, love is love
 And not fade away #
 
-694
-01:05:44,440 --> 01:05:47,432
+
+
 # My love is bigger than a Cadillac #
 
-695
-01:05:48,520 --> 01:05:51,318
+
+
 # I'll try to show it
 When you drive me back #
 
-696
-01:05:52,440 --> 01:05:55,830
+
+
 # Your love for me
 Has got to be real #
 
-697
-01:05:56,040 --> 01:05:59,191
+
+
 # Want you to know just how I feel #
 
-698
-01:06:00,560 --> 01:06:03,313
+
+
 # Love is real, not fade away #
 
-699
-01:06:04,360 --> 01:06:06,510
+
+
 # Love is real, not fade away #
 
-700
-01:06:08,440 --> 01:06:09,919
+
+
 # Yeah #
 
-701
-01:06:26,400 --> 01:06:29,119
+
+
 # Oh, love is love
 Don't fade away d
 
-702
-01:06:30,600 --> 01:06:33,034
+
+
 # Love is love
 Don't fade away #
 
-703
-01:06:34,840 --> 01:06:37,479
+
+
 # Love is love
 Don't fade away #
 
-704
-01:06:39,000 --> 01:06:41,036
+
+
 # Love is love
 Don't fade away #
 
-705
-01:06:43,120 --> 01:06:45,554
+
+
 # Love is love
 Don't fade away ##
 
-706
-01:07:01,440 --> 01:07:04,398
+
+
 Brian, what happened?
 Nita?
 
-707
-01:07:11,560 --> 01:07:15,269
+
+
 You've got my pills, haven't you?
 Anna told me.
 
-708
-01:07:17,720 --> 01:07:19,836
+
+
 I need one.
 
-709
-01:07:20,040 --> 01:07:22,349
+
+
 I don't think you need
 anything else, Brian.
 
-710
-01:07:22,560 --> 01:07:25,757
+
+
 Frank, they're my prescription.
 I need them.
 
-711
-01:07:26,960 --> 01:07:29,110
+
+
 I don't think you need-
 I need them.
 
-712
-01:07:40,040 --> 01:07:42,270
+
+
 Do you want any, Frank?
 No.
 
-713
-01:07:42,480 --> 01:07:43,549
+
+
 Frank?
 
-714
-01:07:53,080 --> 01:07:55,036
+
+
 Come on.
 
-715
-01:08:02,880 --> 01:08:06,475
+
+
 Can't you do something, Frank?
 What?
 
-716
-01:08:06,680 --> 01:08:10,719
+
+
 He needs your help. I thought
 you were supposed to be in control.
 
-717
-01:08:10,920 --> 01:08:13,434
+
+
 Now, then, Keylock's here.
 
-718
-01:08:21,120 --> 01:08:24,078
+
+
 Oi, Brian! Oi, oi, oi! Come on.
 
-719
-01:08:30,120 --> 01:08:32,554
+
+
 What are you doing, mate?
 
-720
-01:08:33,880 --> 01:08:35,598
+
+
 Just clearing out the crap.
 
-721
-01:08:37,120 --> 01:08:40,430
+
+
 Yeah, well, you don't want
 to destroy this stuff, eh?
 
-722
-01:08:40,640 --> 01:08:42,596
+
+
 It could be worth a fortune.
 
-723
-01:08:42,800 --> 01:08:43,915
+
+
 Sure.
 
-724
-01:08:44,120 --> 01:08:47,556
+
+
 When are you getting
 your new band set up, eh?
 
-725
-01:08:47,760 --> 01:08:50,513
+
+
 You know, there was
 a call from Hendrix at the office.
 
-726
-01:08:53,080 --> 01:08:55,310
+
+
 He's a cool cat.
 
-727
-01:08:57,200 --> 01:09:00,590
+
+
 We've been talking
 about getting it together.
 
-728
-01:09:00,800 --> 01:09:03,075
+
+
 He called?
 I'll take over.
 
-729
-01:09:03,280 --> 01:09:06,431
+
+
 I can handle that.
 
-730
-01:09:07,040 --> 01:09:08,996
+
+
 Get that down you.
 
-731
-01:09:17,440 --> 01:09:21,911
+
+
 I'm out of the band, Tom.
 I know, son.
 
-732
-01:09:22,120 --> 01:09:24,429
+
+
 But it's for the best.
 
-733
-01:09:30,040 --> 01:09:31,519
+
+
 Oi.
 
-734
-01:09:45,680 --> 01:09:46,999
+
+
 You don't need that.
 
-735
-01:09:47,200 --> 01:09:49,475
+
+
 What the fuck happened?
 
-736
-01:09:49,680 --> 01:09:53,468
+
+
 I don't know. He got hold
 of something, went fucking crazy.
 
-737
-01:09:53,680 --> 01:09:55,796
+
+
 It's been like a madhouse down here.
 
-738
-01:09:56,000 --> 01:09:59,913
+
+
 Yeah, well, don't worry about it.
 Maybe I should get Janet down.
 
-739
-01:10:01,760 --> 01:10:04,115
+
+
 Thought you'd given her the big E.
 
-740
-01:10:04,320 --> 01:10:06,231
+
+
 I'm just thinking
 that we might need a nurse,
 
-741
-01:10:06,440 --> 01:10:08,271
+
+
 what with Brian going all loose.
 
-742
-01:10:10,080 --> 01:10:13,072
+
+
 Shame she wasn't here this morning.
 Oi!
 
-743
-01:10:13,280 --> 01:10:17,717
+
+
 Hey, Frank, you stick to this kind
 in the future, all right?
 
-744
-01:10:20,520 --> 01:10:24,433
+
+
 When you gonna get
 your hair cut, Frank?
 
-745
-01:10:51,720 --> 01:10:55,110
+
+
 It's only been a few days.
 
-746
-01:10:55,320 --> 01:10:57,880
+
+
 It's just the drugs
 are leaving your system, you know.
 
-747
-01:10:58,080 --> 01:10:59,638
+
+
 I still feel terrible.
 
-748
-01:11:15,160 --> 01:11:16,991
+
+
 # Good morning
 The world is bright #
 
-749
-01:11:17,200 --> 01:11:19,668
+
+
 # And you sit tight
 And you'll be right... ##
 
-750
-01:11:19,880 --> 01:11:21,632
+
+
 <i>And here's more sensational news.</i>
 
-751
-01:11:21,840 --> 01:11:23,319
+
+
 <i>After months of speculation,</i>
 
-752
-01:11:23,520 --> 01:11:28,310
+
+
 <i>Brian Jones, founder member of The Rolling
 Stones, said he is to quit the group.</i>
 
-753
-01:11:28,520 --> 01:11:30,590
+
+
 <i>In an official statement today
 he said-</i>
 
-754
-01:11:30,800 --> 01:11:35,078
+
+
 <i>I no longer see eye to eye with the
 others over the disks we are cutting.</i>
 
-755
-01:11:35,280 --> 01:11:37,316
+
+
 <i>We no longer communicate musically.</i>
 
-756
-01:11:37,520 --> 01:11:40,592
+
+
 <i>The Stones' music
 is not to my taste anymore.</i>
 
-757
-01:11:40,800 --> 01:11:44,759
+
+
 <i>I have a desire to play my own brand
 of music rather than that of others,</i>
 
-758
-01:11:44,960 --> 01:11:47,952
+
+
 <i>no matter how much
 I appreciate the musical concept.</i>
 
-759
-01:11:48,160 --> 01:11:50,310
+
+
 <i>The only solution
 is to go our separate ways,</i>
 
-760
-01:11:50,520 --> 01:11:53,796
+
+
 <i>but we shall still remain friends.
 I love those fellows.</i>
 
-761
-01:12:00,160 --> 01:12:01,991
+
+
 What do you think?
 
-762
-01:12:02,200 --> 01:12:04,589
+
+
 You look beautiful.
 
-763
-01:12:05,440 --> 01:12:08,591
+
+
 I am Sir Brian, king of the castle.
 
-764
-01:12:08,800 --> 01:12:12,679
+
+
 Sir Brian was meant
 to write his music in paradise,
 
-765
-01:12:12,880 --> 01:12:14,598
+
+
 not a building site.
 
-766
-01:12:14,800 --> 01:12:16,870
+
+
 So you gonna get rid of them, then?
 
-767
-01:12:17,080 --> 01:12:19,958
+
+
 I've got to fire someone
 I didn't even hire in the first place.
 
-768
-01:12:20,160 --> 01:12:23,789
+
+
 Yeah. It'll be just you and me.
 
-769
-01:12:24,000 --> 01:12:26,912
+
+
 Just us? Never.
 
-770
-01:12:30,720 --> 01:12:33,473
+
+
 # The man I love #
 
-771
-01:12:35,240 --> 01:12:37,549
+
+
 # I took from my best friend #
 
-772
-01:12:40,880 --> 01:12:43,269
+
+
 # Some joker got lucky #
 
-773
-01:12:45,080 --> 01:12:47,992
+
+
 # And stole him back again ##
 
-774
-01:12:49,760 --> 01:12:51,751
+
+
 Brian?
 
-775
-01:13:02,160 --> 01:13:04,913
+
+
 Brian!
 Fucking ponce has locked us out!
 
-776
-01:13:05,120 --> 01:13:07,634
+
+
 What do you reckon I'd get for this?
 
-777
-01:13:07,840 --> 01:13:11,355
+
+
 You wouldn't know too much about money,
 would you? Or we'd have seen some.
 
-778
-01:13:11,560 --> 01:13:15,917
+
+
 What about those guitars in there?
 Must be worth a bit.
 
-779
-01:13:16,120 --> 01:13:20,955
+
+
 They wouldn't notice if you nicked
 one. If you had the balls, that is.
 
-780
-01:13:22,600 --> 01:13:27,071
+
+
 You're just a fucking brickie.
 What do you know about anything?
 
-781
-01:13:29,200 --> 01:13:30,792
+
+
 I'm coming!
 
-782
-01:13:33,640 --> 01:13:35,392
+
+
 <i>Hello?</i>
 
-783
-01:13:35,600 --> 01:13:37,352
+
+
 Tom? It's Frank.
 
-784
-01:13:37,560 --> 01:13:39,710
+
+
 <i>Frank, I'm just on my way out
 so call me later, yeah?</i>
 
-785
-01:13:39,920 --> 01:13:43,230
+
+
 No, it's getting messy down here now.
 The boys want paying.
 
-786
-01:13:44,280 --> 01:13:46,714
+
+
 Yeah, well, maybe I'll get down there,
 maybe I won't, all right?
 
-787
-01:13:46,920 --> 01:13:49,195
+
+
 Well, maybe you should.
 
-788
-01:13:49,400 --> 01:13:51,630
+
+
 Tom, I'm owed.
 
-789
-01:13:55,160 --> 01:14:00,678
+
+
 All right. Go down the Stones' office this afternoon
 and whatever Brian owes you will be waiting for you.
 
-790
-01:14:01,720 --> 01:14:03,438
+
+
 Thanks, Tom.
 
-791
-01:14:13,520 --> 01:14:15,397
+
+
 It's been touted as a free concert
 
-792
-01:14:15,600 --> 01:14:19,673
+
+
 but really it's a way of introducing
 the new boy who's replacing Brian.
 
-793
-01:14:19,880 --> 01:14:22,872
+
+
 Yeah, Mick Taylor.
 He's quite gorgeous, actually.
 
-794
-01:14:24,160 --> 01:14:26,993
+
+
 Look, I'm gonna have to go. Yeah.
 
-795
-01:14:28,720 --> 01:14:30,358
+
+
 Hiya. Is Tom Keylock around at all?
 
-796
-01:14:30,560 --> 01:14:33,836
+
+
 You're Mr. Thorogood?
 Yeah, that's right.
 
-797
-01:14:34,040 --> 01:14:37,715
+
+
 He left this for you.
 Good.
 
-798
-01:14:44,240 --> 01:14:47,630
+
+
 I ain't having that.
 There ain't enough money there.
 
-799
-01:14:47,840 --> 01:14:50,957
+
+
 And there's a mistake. It says "full
 and final payment for all services. "
 
-800
-01:14:51,160 --> 01:14:53,355
+
+
 There's no mistake.
 
-801
-01:14:53,560 --> 01:14:55,630
+
+
 Mr. Jones isn't happy with your work.
 
-802
-01:14:55,840 --> 01:14:56,829
+
+
 And quite frankly,
 
-803
-01:14:57,040 --> 01:15:01,477
+
+
 The Rolling Stones are no longer
 willing to finance your shenanigans.
 
-804
-01:15:01,680 --> 01:15:03,830
+
+
 Until Mr. Jones
 opens a separate account,
 
-805
-01:15:04,040 --> 01:15:06,190
+
+
 that's all you're getting from us.
 
-806
-01:15:06,400 --> 01:15:09,153
+
+
 Good day, Mr. Thorogood.
 
-807
-01:15:32,200 --> 01:15:35,317
+
+
 You ain't firing me.
 There's 8 grand still owing.
 
-808
-01:15:35,520 --> 01:15:37,476
+
+
 You ain't getting away with it.
 
-809
-01:15:38,880 --> 01:15:41,110
+
+
 All good things
 come to an end, Frank.
 
-810
-01:15:41,320 --> 01:15:44,392
+
+
 Don't worry, you'll get your money.
 That's why you have to go.
 
-811
-01:15:44,600 --> 01:15:46,670
+
+
 It's built up too much.
 
-812
-01:15:47,920 --> 01:15:49,319
+
+
 I don't want the work completed.
 
-813
-01:15:49,520 --> 01:15:52,353
+
+
 For chrissakes,
 don't you want the fucking job done?
 
-814
-01:15:52,560 --> 01:15:56,109
+
+
 I've done all this work.
 I could still finish it.
 
-815
-01:15:56,320 --> 01:15:59,392
+
+
 I need space. I need peace.
 
-816
-01:15:59,600 --> 01:16:02,114
+
+
 I've got my own work to do now.
 
-817
-01:16:04,400 --> 01:16:06,356
+
+
 I thought it was agreed.
 
-818
-01:16:10,600 --> 01:16:13,558
+
+
 Oh, so that's it, then?
 
-819
-01:16:13,760 --> 01:16:17,878
+
+
 Look, you're good company,
 you're fun to wind up.
 
-820
-01:16:18,080 --> 01:16:19,479
+
+
 But you're...
 
-821
-01:16:19,680 --> 01:16:21,591
+
+
 a fucking terrible builder.
 
-822
-01:16:23,600 --> 01:16:25,477
+
+
 Yeah.
 
-823
-01:16:28,560 --> 01:16:31,358
+
+
 Well, I ain't going nowhere
 till I get my money.
 
-824
-01:16:38,640 --> 01:16:41,438
+
+
 Well, I'm going...
 
-825
-01:16:41,640 --> 01:16:43,835
+
+
 swimming.
 
-826
-01:16:44,040 --> 01:16:47,749
+
+
 Get the door, would you?
 And what's for supper, Frank?
 
-827
-01:16:52,280 --> 01:16:53,633
+
+
 Tom?
 
-828
-01:16:56,440 --> 01:17:00,319
+
+
 The door was open.
 Are you okay, Frank?
 
-829
-01:17:16,320 --> 01:17:20,711
+
+
 Things will work out, Frank. Let's
 just try and have a lovely evening.
 
-830
-01:17:20,920 --> 01:17:22,911
+
+
 Yeah.
 
-831
-01:17:23,120 --> 01:17:25,714
+
+
 Let's have a lovely evening, eh?
 
-832
-01:18:02,680 --> 01:18:05,274
+
+
 We're not hungry.
 
-833
-01:18:05,480 --> 01:18:09,439
+
+
 All right, Anna.
 You might change your mind, eh?
 
-834
-01:18:12,320 --> 01:18:14,072
+
+
 Ungrateful cow.
 
-835
-01:18:15,120 --> 01:18:17,031
+
+
 No fucking manners.
 
-836
-01:18:17,240 --> 01:18:19,834
+
+
 So, what now?
 
-837
-01:18:20,040 --> 01:18:22,713
+
+
 I go back home,
 see what work's around.
 
-838
-01:18:23,760 --> 01:18:26,911
+
+
 Had enough of this gaff anyway.
 Mm.
 
-839
-01:18:27,120 --> 01:18:29,953
+
+
 Stonesville. A very strange place.
 
-840
-01:18:30,160 --> 01:18:31,639
+
+
 Yeah.
 
-841
-01:18:31,840 --> 01:18:36,118
+
+
 This is nice.
 Can't quite place the seasoning.
 
-842
-01:18:37,840 --> 01:18:39,751
+
+
 Parsley.
 
-843
-01:18:41,880 --> 01:18:44,599
+
+
 Have you spoken to Tom?
 I called him today.
 
-844
-01:18:44,800 --> 01:18:47,189
+
+
 He ain't coming down here.
 
-845
-01:18:47,400 --> 01:18:51,109
+
+
 Told me he don't want
 nothing more to do with you.
 
-846
-01:18:51,320 --> 01:18:53,880
+
+
 He let me down today and all.
 
-847
-01:18:54,080 --> 01:18:56,071
+
+
 That's Tom all over, isn't it?
 
-848
-01:18:56,280 --> 01:18:59,636
+
+
 That's his trouble, just not reliable.
 
-849
-01:19:01,280 --> 01:19:03,510
+
+
 Come on.
 
-850
-01:19:03,720 --> 01:19:06,792
+
+
 I want to get smashed tonight.
 Last night and all.
 
-851
-01:19:07,000 --> 01:19:09,468
+
+
 I'm not really a vodka drinker.
 Come on.
 
-852
-01:19:09,680 --> 01:19:12,672
+
+
 Put a little lemonade with it, eh?
 
-853
-01:19:17,000 --> 01:19:18,035
+
+
 Cheers.
 
-854
-01:19:23,040 --> 01:19:26,032
+
+
 Strong?
 Mm-hm!
 
-855
-01:20:48,160 --> 01:20:50,196
+
+
 Oh. Oh, Tom.
 
-856
-01:20:50,400 --> 01:20:52,960
+
+
 I knew you'd come.
 
-857
-01:20:59,680 --> 01:21:01,989
+
+
 Frank! Stop it!
 
-858
-01:21:04,920 --> 01:21:07,115
+
+
 Frank, get off!
 
-859
-01:22:37,000 --> 01:22:39,560
+
+
 A touch more Jane than Tarzan,
 I'm afraid, Frank.
 
-860
-01:22:39,760 --> 01:22:42,558
+
+
 So says the ponce with a girl's barnet.
 
-861
-01:22:42,760 --> 01:22:44,239
+
+
 Ha-ha, very droll.
 
-862
-01:22:51,280 --> 01:22:56,115
+
+
 Come on. Don't tell me you wouldn't
 like to look like me, be like me.
 
-863
-01:22:56,320 --> 01:23:00,871
+
+
 What, look like you? You're a freak.
 There's only one freak in this pool.
 
-864
-01:23:02,720 --> 01:23:04,631
+
+
 Piss off, you poof.
 Ho-ho!
 
-865
-01:23:09,800 --> 01:23:11,631
+
+
 That's stupid. You're acting like kids.
 
-866
-01:23:11,840 --> 01:23:14,912
+
+
 You've both had enough.
 Come on, Brian.
 
-867
-01:23:16,840 --> 01:23:18,592
+
+
 Well, you sure can pick them.
 
-868
-01:23:18,800 --> 01:23:22,554
+
+
 Oh? Well, who should I pick,
 Frank? You?
 
-869
-01:23:22,760 --> 01:23:24,990
+
+
 Do you want to replace Anna?
 
-870
-01:23:28,960 --> 01:23:33,112
+
+
 Why don't you piss off, eh?
 I'm not a poof like you.
 
-871
-01:23:34,200 --> 01:23:37,795
+
+
 Come on, Frank.
 You swing both ways, don't you?
 
-872
-01:23:38,560 --> 01:23:42,394
+
+
 Maybe you, me and Anna
 should have a threesome.
 
-873
-01:23:49,120 --> 01:23:53,238
+
+
 Are you all right?
 Yeah, I'm fine.
 
-874
-01:23:53,440 --> 01:23:54,793
+
+
 I think you should get out.
 
-875
-01:23:55,000 --> 01:23:59,152
+
+
 Honestly, I'm fine. Could you grab
 my inhaler? It's in the music room.
 
-876
-01:23:59,360 --> 01:24:01,874
+
+
 Okay. I'll be right back.
 
-877
-01:24:32,040 --> 01:24:35,828
+
+
 Ha-ha-ha!
 Like it underwater, do you?
 
-878
-01:24:43,800 --> 01:24:47,270
+
+
 Fuck off, you arsehole!
 Arsehole? Who you calling arsehole?
 
-879
-01:24:49,200 --> 01:24:51,156
+
+
 Arsehole!
 
-880
-01:24:52,480 --> 01:24:54,914
+
+
 Where do you think you're going, eh?
 
-881
-01:24:57,560 --> 01:24:59,790
+
+
 Quite strong for a ponce, ain't you?
 
-882
-01:25:09,000 --> 01:25:13,278
+
+
 It's a fucking joke! Never serious.
 I'll get you!
 
-883
-01:25:28,480 --> 01:25:31,278
+
+
 Don't you laugh at me,
 Brian-sodding-Jones.
 
-884
-01:25:44,360 --> 01:25:46,590
+
+
 Mate.
 
-885
-01:26:06,040 --> 01:26:07,871
+
+
 Tom?
 
-886
-01:26:13,920 --> 01:26:16,036
+
+
 Tom?
 
-887
-01:26:29,720 --> 01:26:31,790
+
+
 There.
 
-888
-01:26:35,560 --> 01:26:37,630
+
+
 I need a towel.
 
-889
-01:26:44,960 --> 01:26:47,076
+
+
 Brian, I-
 
-890
-01:26:48,440 --> 01:26:49,873
+
+
 Brian?
 
-891
-01:26:51,400 --> 01:26:53,516
+
+
 Brian?
 
-892
-01:26:55,440 --> 01:26:57,749
+
+
 Brian!
 
-893
-01:26:57,960 --> 01:27:00,315
+
+
 Oh, fuck! Brian!
 
-894
-01:27:01,240 --> 01:27:03,435
+
+
 Brian!
 
-895
-01:27:03,640 --> 01:27:05,232
+
+
 Brian!
 
-896
-01:27:05,440 --> 01:27:07,431
+
+
 Frank! Frank!
 
-897
-01:27:07,640 --> 01:27:09,915
+
+
 Frank!
 
-898
-01:27:14,000 --> 01:27:15,877
+
+
 <i>Ja, men det var jättelänge sen.</i>
 
-899
-01:27:17,840 --> 01:27:20,070
+
+
 Anna? Will you
 come down here, please, now?
 
-900
-01:27:20,280 --> 01:27:23,795
+
+
 Get off the phone. This is a private-
 Now, please. It's Brian.
 
-901
-01:27:24,000 --> 01:27:25,672
+
+
 Get off the phone.
 This is a private call.
 
-902
-01:27:25,880 --> 01:27:27,836
+
+
 I can't swim, Anna.
 
-903
-01:27:59,480 --> 01:28:01,232
+
+
 Brian?
 
-904
-01:28:14,400 --> 01:28:16,789
+
+
 Oh, my God!
 
-905
-01:28:17,000 --> 01:28:19,275
+
+
 Damn it, get help!
 
-906
-01:28:19,480 --> 01:28:23,393
+
+
 # Well, I followed him #
 
-907
-01:28:23,600 --> 01:28:28,355
+
+
 # To the station #
 
-908
-01:28:28,560 --> 01:28:35,432
+
+
 # With a suitcase in my hand ##
 
-909
-01:28:35,640 --> 01:28:37,596
+
+
 Oh, my God!
 
-910
-01:28:38,640 --> 01:28:41,518
+
+
 Tell us again what happened,
 in your own words.
 
-911
-01:28:41,720 --> 01:28:43,597
+
+
 I told you. I saw Brian.
 
-912
-01:28:43,800 --> 01:28:47,031
+
+
 He was lying facedown at the bottom
 of the deep end of the pool.
 
-913
-01:28:47,240 --> 01:28:49,595
+
+
 <i>Janet and I jumped in
 and after a struggle, we got him out.</i>
 
-914
-01:28:49,800 --> 01:28:54,032
+
+
 <i>And that's your sworn statement,
 is it, Mr. Thorogood?</i>
 
-915
-01:28:56,440 --> 01:28:59,716
+
+
 # Well, it's hard to tell #
 
-916
-01:28:59,920 --> 01:29:03,549
+
+
 # It's hard to tell #
 
-917
-01:29:03,760 --> 01:29:10,472
+
+
 # When all your love is in vain ##
 
-918
-01:29:16,200 --> 01:29:17,155
+
+
 Cops held you a while.
 
-919
-01:29:17,360 --> 01:29:21,148
+
+
 Yeah, well, they just hammered me
 with the same questions.
 
-920
-01:29:21,360 --> 01:29:23,555
+
+
 "What was he drinking?"
 "Was he on drugs?"
 
-921
-01:29:23,760 --> 01:29:26,513
+
+
 Yeah, well, pop star dies like that,
 drug squad got a result, haven't they?
 
-922
-01:29:26,720 --> 01:29:28,551
+
+
 Did my name come up?
 
-923
-01:29:29,800 --> 01:29:31,153
+
+
 Nah.
 
-924
-01:29:31,360 --> 01:29:33,271
+
+
 Janet?
 
-925
-01:29:33,480 --> 01:29:35,789
+
+
 Said she was a friend of mine.
 
-926
-01:29:36,000 --> 01:29:40,516
+
+
 Well, sometimes you've got to lie,
 haven't you? For everyone's sake.
 
-927
-01:29:40,720 --> 01:29:42,631
+
+
 Tom-
 You were supposed to look after him.
 
-928
-01:29:42,840 --> 01:29:45,479
+
+
 What the fucking hell happened here?
 
-929
-01:29:46,720 --> 01:29:49,188
+
+
 It's been building for months,
 hasn't it?
 
-930
-01:29:49,400 --> 01:29:51,868
+
+
 You've let yourself go.
 Look at the state of you.
 
-931
-01:30:00,440 --> 01:30:04,115
+
+
 What are you doing?
 Brian's stuff, isn't it?
 
-932
-01:30:04,320 --> 01:30:06,356
+
+
 I don't want kids ransacking the place
 
-933
-01:30:06,560 --> 01:30:09,677
+
+
 and I don't want Plod finding any
 drugs he might've hidden in his clobber.
 
-934
-01:30:11,120 --> 01:30:13,918
+
+
 I look after my boy.
 
-935
-01:30:14,120 --> 01:30:18,193
+
+
 He was trouble to me alive
 and he's trouble to me dead.
 
-936
-01:30:22,800 --> 01:30:26,634
+
+
 You're well out of it, sacked.
 Now look what I've got to do.
 
-937
-01:30:26,840 --> 01:30:30,799
+
+
 I gotta get a statement, I gotta get that
 Swedish bint on a plane out of here.
 
-938
-01:30:31,000 --> 01:30:34,879
+
+
 <i>Supposed to be with the lads. They're
 recording Top of the Pops today.</i>
 
-939
-01:30:39,440 --> 01:30:40,839
+
+
 And then there's you.
 
-940
-01:30:42,920 --> 01:30:46,071
+
+
 I'll cover your arse
 because it's my arse too.
 
-941
-01:30:46,280 --> 01:30:50,478
+
+
 Your stupid games
 could've ruined both of us, Frank.
 
-942
-01:30:50,680 --> 01:30:53,114
+
+
 I don't want to know the truth!
 
-943
-01:30:54,440 --> 01:30:58,115
+
+
 We both know it was
 your fucking fault either way.
 
-944
-01:30:59,640 --> 01:31:02,234
+
+
 Come on, you give me a hand.
 
-945
-01:31:06,800 --> 01:31:10,315
+
+
 # And all my love #
 
-946
-01:31:10,520 --> 01:31:18,473
+
+
 # Is in vain #
 
-947
-01:31:28,880 --> 01:31:34,512
+
+
 # Oh, oh, yeah ##
 
-948
-01:31:56,480 --> 01:31:59,040
+
+
 Without Brian Jones
 they're finished as a rock band.
 
-949
-01:31:59,240 --> 01:32:02,312
+
+
 I mean, in the next 12 months.
 You mark my words.
 
-950
-01:32:02,520 --> 01:32:05,751
+
+
 No, they'll do all right without Brian.
 
-951
-01:32:10,000 --> 01:32:11,991
+
+
 We all will.
 
-952
-01:32:28,120 --> 01:32:30,190
+
+
 Tom, my man.
 
-953
-01:32:36,640 --> 01:32:39,108
+
+
 Look at them all.
 
-954
-01:32:40,200 --> 01:32:42,395
+
+
 Isn't it fabulous?
 
-955
-01:32:45,120 --> 01:32:46,917
+
+
 Thanks for making a martyr of me.
 
-956
-01:32:47,120 --> 01:32:49,156
+
+
 If it wasn't for you, I'd still be alive
 
-957
-01:32:49,360 --> 01:32:52,432
+
+
 and no one would care.
 
-958
-01:32:54,880 --> 01:32:57,110
+
+
 You know that isn't true.
 
-959
-01:32:58,360 --> 01:33:00,749
+
+
 It was you screwing
 with Frank's head what did it.
 
-960
-01:33:02,360 --> 01:33:07,195
+
+
 Because you had nothing better
 to do. Because you didn't have her.
 
-961
-01:33:09,080 --> 01:33:10,832
+
+
 Nita.
 
-962
-01:33:16,320 --> 01:33:19,949
+
+
 <i>Just had to go and
 screw it up, didn't you?</i>
 
-963
-01:33:21,040 --> 01:33:24,555
+
+
 Your problem is,
 you were never happy.
 
-964
-01:33:24,760 --> 01:33:26,751
+
+
 Even Frank was happy.
 
-965
-01:33:28,280 --> 01:33:30,510
+
+
 You're wrong, you know, Tom.
 
-966
-01:33:30,720 --> 01:33:34,235
+
+
 I was happy
 somewhere in the middle there.
 
-967
-01:33:35,720 --> 01:33:38,234
+
+
 But the thing with happiness was...
 
-968
-01:33:48,160 --> 01:33:49,559
+
+
 it was boring.
 
-969
-01:33:56,520 --> 01:33:59,273
+
+
 # Time #
 
-970
-01:33:59,480 --> 01:34:01,596
+
+
 # Is on my side #
 
-971
-01:34:01,800 --> 01:34:03,916
+
+
 # Yes, it is #
 
-972
-01:34:04,120 --> 01:34:06,111
+
+
 # Time #
 
-973
-01:34:06,320 --> 01:34:08,550
+
+
 # Is on my side #
 
-974
-01:34:08,760 --> 01:34:11,752
+
+
 # Yes, it is #
 
-975
-01:34:11,960 --> 01:34:14,952
+
+
 # Now, you always say #
 
-976
-01:34:15,160 --> 01:34:17,913
+
+
 # That you wanna be free #
 
-977
-01:34:18,600 --> 01:34:20,511
+
+
 # You'll come running back #
 
-978
-01:34:20,720 --> 01:34:22,039
+
+
 # Just like I hoped you would, baby #
 
-979
-01:34:22,240 --> 01:34:23,798
+
+
 # You'll come running back #
 
-980
-01:34:24,000 --> 01:34:25,718
+
+
 # I won't have to cry no more #
 
-981
-01:34:25,920 --> 01:34:27,797
+
+
 # You'll come running back #
 
-982
-01:34:28,000 --> 01:34:29,069
+
+
 # Uh-huh #
 
-983
-01:34:29,280 --> 01:34:32,556
+
+
 # Yeah, yeah, yeah, yeah #
 
-984
-01:34:32,760 --> 01:34:34,796
+
+
 # Time #
 
-985
-01:34:35,000 --> 01:34:37,389
+
+
 # Is on my side #
 
-986
-01:34:37,600 --> 01:34:39,830
+
+
 # Yes, it is, yeah #
 
-987
-01:34:40,040 --> 01:34:42,679
+
+
 # Time #
 
-988
-01:34:42,880 --> 01:34:44,836
+
+
 # Is on my side #
 
-989
-01:34:45,040 --> 01:34:46,473
+
+
 # Uh-huh #
 
-990
-01:34:46,680 --> 01:34:47,635
+
+
 # I know that #
 
-991
-01:34:47,840 --> 01:34:50,308
+
+
 # You're searching for good times #
 
-992
-01:34:51,560 --> 01:34:54,154
+
+
 # But just wait and see #
 
-993
-01:34:54,360 --> 01:34:56,920
+
+
 # You'll come running back #
 
-994
-01:35:14,680 --> 01:35:16,432
+
+
 # Well, I can't #
 
-995
-01:35:16,640 --> 01:35:18,596
+
+
 # Get the devil #
 
-996
-01:35:18,800 --> 01:35:20,791
+
+
 # Outside of me #
 
-997
-01:35:21,000 --> 01:35:23,036
+
+
 # Outside of me #
 
-998
-01:35:23,240 --> 01:35:25,151
+
+
 # No, I can't #
 
-999
-01:35:25,360 --> 01:35:27,112
+
+
 # Get the devil #
 
-1000
-01:35:27,320 --> 01:35:29,038
+
+
 # Outside of me #
 
-1001
-01:35:29,240 --> 01:35:31,310
+
+
 # Outside of me #
 
-1002
-01:35:31,520 --> 01:35:33,397
+
+
 # But I hate the world #
 
-1003
-01:35:33,600 --> 01:35:35,431
+
+
 # And everything I see #
 
-1004
-01:35:35,640 --> 01:35:37,471
+
+
 # Everything I see #
 
-1005
-01:35:37,680 --> 01:35:39,875
+
+
 # Everything I see #
 
-1006
-01:35:40,080 --> 01:35:41,752
+
+
 # And I'll never #
 
-1007
-01:35:41,960 --> 01:35:43,791
+
+
 # Get the devil #
 
-1008
-01:35:44,000 --> 01:35:45,991
+
+
 # Outside of me #
 
-1009
-01:35:46,200 --> 01:35:48,555
+
+
 # Outside of me #
 
-1010
-01:36:00,960 --> 01:36:02,996
+
+
 # But I hate the world #
 
-1011
-01:36:03,200 --> 01:36:05,077
+
+
 # And everything I see #
 
-1012
-01:36:05,280 --> 01:36:07,157
+
+
 # Everything I see #
 
-1013
-01:36:07,360 --> 01:36:09,271
+
+
 # Everything I see #
 
-1014
-01:36:09,480 --> 01:36:11,516
+
+
 # I know the meaning of the word #
 
-1015
-01:36:11,720 --> 01:36:13,517
+
+
 # When it came to me #
 
-1016
-01:36:13,720 --> 01:36:15,676
+
+
 # When it came to me #
 
-1017
-01:36:15,880 --> 01:36:17,711
+
+
 # When it came to me #
 
-1018
-01:36:17,920 --> 01:36:20,036
+
+
 # I don't live #
 
-1019
-01:36:20,240 --> 01:36:22,276
+
+
 # I just breathe #
 
-1020
-01:36:22,480 --> 01:36:23,993
+
+
 # I don't give #
 
-1021
-01:36:24,200 --> 01:36:26,475
+
+
 # And I don't receive #
 
-1022
-01:36:26,680 --> 01:36:28,511
+
+
 # And I'll never #
 
-1023
-01:36:28,720 --> 01:36:30,438
+
+
 # Get the devil #
 
-1024
-01:36:30,640 --> 01:36:32,312
+
+
 # Outside of me #
 
-1025
-01:36:32,520 --> 01:36:34,909
+
+
 # Outside of me #
 
-1026
-01:37:12,520 --> 01:37:14,715
+
+
 # Well, I don't get #
 
-1027
-01:37:14,920 --> 01:37:16,558
+
+
 # All the good things #
 
-1028
-01:37:16,760 --> 01:37:18,591
+
+
 # You said I'd see #
 
-1029
-01:37:18,800 --> 01:37:21,030
+
+
 # You said I'd see #
 
-1030
-01:37:21,240 --> 01:37:23,151
+
+
 # And I don't #
 
-1031
-01:37:23,360 --> 01:37:24,998
+
+
 # See the light #
 
-1032
-01:37:25,200 --> 01:37:27,156
+
+
 # Surrounding me #
 
-1033
-01:37:27,360 --> 01:37:29,191
+
+
 # Surrounding me #
 
-1034
-01:37:29,400 --> 01:37:31,516
+
+
 # But I see lovers #
 
-1035
-01:37:31,720 --> 01:37:33,517
+
+
 # Walking free #
 
-1036
-01:37:33,720 --> 01:37:35,472
+
+
 # And I see red #
 
-1037
-01:37:35,680 --> 01:37:37,716
+
+
 # Each time you say #
 
-1038
-01:37:37,920 --> 01:37:39,592
+
+
 # All the good things #
 
-1039
-01:37:39,800 --> 01:37:41,677
+
+
 # Gonna come my way #
 
-1040
-01:37:41,880 --> 01:37:43,632
+
+
 # And I don't know you #
 
-1041
-01:37:43,840 --> 01:37:45,637
+
+
 # And you don't know me #
 
-1042
-01:37:45,840 --> 01:37:47,717
+
+
 # I know what I want #
 
-1043
-01:37:47,920 --> 01:37:50,229
+
+
 # What I can be #
 
-1044
-01:37:50,440 --> 01:37:52,396
+
+
 # And I'll never #
 
-1045
-01:37:52,600 --> 01:37:54,192
+
+
 # Get the devil #
 
-1046
-01:37:54,400 --> 01:37:56,197
+
+
 # Outside of me #
 
-1047
-01:37:56,400 --> 01:37:58,356
+
+
 # Outside of me #
 
-1048
-01:37:58,560 --> 01:38:00,357
+
+
 # Outside of me #
 
-1049
-01:38:00,560 --> 01:38:02,437
+
+
 # Outside of me #
 
-1050
-01:38:02,640 --> 01:38:04,471
+
+
 # Outside of me #
 
-1051
-01:38:04,680 --> 01:38:06,671
+
+
 # Outside of me #
 
-1052
-01:38:06,880 --> 01:38:08,677
+
+
 # Outside of me #
 
-1053
-01:38:08,880 --> 01:38:10,836
+
+
 # Outside of me #
 
-1054
-01:38:11,040 --> 01:38:13,156
+
+
 # Outside of me ##
 
-1055
-01:38:13,360 --> 01:38:15,271
+
+
 <i>Subtitles:
 SDI Media Group</i>
 

@@ -1,5473 +1,5473 @@
-1
-00:00:54,366 --> 00:00:55,414
+
+
 Dora!
 
-2
-00:10:05,465 --> 00:10:06,927
+
+
 Fagle!
 
-3
-00:10:09,144 --> 00:10:10,256
+
+
 Fagle!
 
-4
-00:10:10,328 --> 00:10:11,328
+
+
 Huh?
 
-5
-00:10:53,081 --> 00:10:55,087
+
+
 All right.
 Hold still now.
 
-6
-00:11:33,783 --> 00:11:35,856
+
+
 Mmm-hmm. Yes.
 
-7
-00:11:41,368 --> 00:11:44,596
+
+
 Well...
 Oh, sorry.
 
-8
-00:11:44,696 --> 00:11:45,841
+
+
 No, thanks.
 
-9
-00:11:45,943 --> 00:11:48,278
+
+
 Well, you're in good health.
 
-10
-00:11:49,463 --> 00:11:50,893
+
+
 So how's Judith and the kids?
 
-11
-00:11:50,967 --> 00:11:53,520
+
+
 Good.
 Everyone's good, you know.
 
-12
-00:11:53,624 --> 00:11:56,241
+
+
 Danny must be, what?
 About to be bar mitzvahed?
 
-13
-00:11:56,344 --> 00:11:57,489
+
+
 Two weeks.
 
-14
-00:11:57,559 --> 00:11:59,470
+
+
 Well, mazel tov!
 
-15
-00:12:00,087 --> 00:12:01,812
+
+
 They grow up fast, don't they?
 
-16
-00:12:23,320 --> 00:12:24,432
+
+
 Hmm...
 
-17
-00:12:31,416 --> 00:12:32,415
+
+
 Hmm...
 
-18
-00:12:41,144 --> 00:12:42,158
+
+
 Yeah, you put the...
 
-19
-00:13:05,239 --> 00:13:06,239
+
+
 That's right, you put the...
 
-20
-00:13:36,855 --> 00:13:38,260
+
+
 You following this?
 
-21
-00:13:38,999 --> 00:13:40,078
+
+
 Okay?
 
-22
-00:13:41,398 --> 00:13:42,477
+
+
 So...
 
-23
-00:13:44,054 --> 00:13:45,548
+
+
 This part is exciting.
 
-24
-00:13:47,447 --> 00:13:49,966
+
+
 So, am I right?
 
-25
-00:13:50,197 --> 00:13:51,442
+
+
 So, okay. So...
 
-26
-00:13:51,543 --> 00:13:54,325
+
+
 So, if that's that,
 then we can do this.
 
-27
-00:13:55,383 --> 00:13:57,357
+
+
 And that's Schrödinger's Paradox, right?
 
-28
-00:13:57,495 --> 00:13:58,989
+
+
 Is the cat dead?
 
-29
-00:13:59,735 --> 00:14:01,938
+
+
 Or is the cat not dead?
 
-30
-00:14:02,102 --> 00:14:03,149
+
+
 Messages, Professor Gopnik.
 
-31
-00:14:03,254 --> 00:14:04,596
+
+
 Thank you, Natalie.
 
-32
-00:14:04,982 --> 00:14:06,837
+
+
 Oh, Clive, come in.
 
-33
-00:14:10,966 --> 00:14:13,868
+
+
 So, what can I do for you?
 
-34
-00:14:15,158 --> 00:14:17,297
+
+
 Dr Gopnik, I believe the results
 
-35
-00:14:17,366 --> 00:14:19,374
+
+
 of the physics midterm were unjust.
 
-36
-00:14:20,566 --> 00:14:21,995
+
+
 Uh-huh? How so?
 
-37
-00:14:22,102 --> 00:14:24,240
+
+
 I received unsatisfactory grade.
 
-38
-00:14:24,341 --> 00:14:26,480
+
+
 In fact, F, the failing grade.
 
-39
-00:14:26,998 --> 00:14:30,096
+
+
 Yes. You failed the midterm.
 That's accurate.
 
-40
-00:14:30,166 --> 00:14:31,692
+
+
 Yes, but that is not just.
 
-41
-00:14:31,926 --> 00:14:34,773
+
+
 I was unaware to be examined
 on the mathematics.
 
-42
-00:14:34,837 --> 00:14:37,871
+
+
 Well, you can't do physics
 without mathematics, really, can you?
 
-43
-00:14:37,974 --> 00:14:41,290
+
+
 If I receive the failing grade,
 I lose my scholarship,
 
-44
-00:14:41,366 --> 00:14:42,610
+
+
 and I feel shame.
 
-45
-00:14:42,998 --> 00:14:46,193
+
+
 I understand the physics.
 I understand the dead cat.
 
-46
-00:14:46,293 --> 00:14:49,709
+
+
 But you can't really understand
 the physics
 
-47
-00:14:49,813 --> 00:14:51,471
+
+
 without understanding the math.
 
-48
-00:14:51,573 --> 00:14:55,153
+
+
 The math tells how it really works.
 That's the real thing.
 
-49
-00:14:55,254 --> 00:14:58,668
+
+
 The stories I give you in class
 are just illustrative.
 
-50
-00:14:58,774 --> 00:15:02,451
+
+
 They're like fables, say,
 to help give you a picture.
 
-51
-00:15:02,518 --> 00:15:03,761
+
+
 I mean...
 
-52
-00:15:04,981 --> 00:15:07,283
+
+
 Even I don't understand the dead cat.
 
-53
-00:15:07,381 --> 00:15:09,171
+
+
 The math is how it really works.
 
-54
-00:15:09,238 --> 00:15:10,514
+
+
 Very difficult.
 
-55
-00:15:10,998 --> 00:15:11,998
+
+
 Very difficult.
 
-56
-00:15:12,053 --> 00:15:13,962
+
+
 Well, I'm sorry, but I...
 
-57
-00:15:14,038 --> 00:15:15,085
+
+
 What do you propose?
 
-58
-00:15:15,158 --> 00:15:16,238
+
+
 - Passing grade.
 - No, no.
 
-59
-00:15:16,341 --> 00:15:18,447
+
+
 Or perhaps I can take the midterm again.
 
-60
-00:15:18,517 --> 00:15:20,207
+
+
 I know now it cover the mathematics.
 
-61
-00:15:20,277 --> 00:15:22,894
+
+
 Well, the other students
 wouldn't like that, would they?
 
-62
-00:15:22,965 --> 00:15:26,347
+
+
 If one student gets to retake the test
 until he gets a grade he likes?
 
-63
-00:15:27,638 --> 00:15:28,980
+
+
 - Secret test.
 - No...
 
-64
-00:15:29,302 --> 00:15:30,610
+
+
 - Hush-hush.
 - No.
 
-65
-00:15:30,677 --> 00:15:32,172
+
+
 That's just not workable.
 
-66
-00:15:32,245 --> 00:15:35,148
+
+
 I'm afraid we'll just have to bite
 the bullet on this thing, Clive...
 
-67
-00:15:35,254 --> 00:15:36,562
+
+
 Very troubling.
 
-68
-00:15:37,334 --> 00:15:38,446
+
+
 Very troubling.
 
-69
-00:15:52,661 --> 00:15:53,937
+
+
 <i>Sy Ableman.</i>
 
-70
-00:15:54,004 --> 00:15:56,013
+
+
 Hello, Sy.
 Larry Gopnik.
 
-71
-00:15:56,437 --> 00:15:58,803
+
+
 <i>Larry.
 How are you, my friend?</i>
 
-72
-00:15:59,061 --> 00:16:00,490
+
+
 Good.
 How you been, Sy?
 
-73
-00:16:00,565 --> 00:16:03,282
+
+
 <i>Fine.
 Can we talk, Larry?</i>
 
-74
-00:16:03,380 --> 00:16:04,974
+
+
 What? You...
 Uh...
 
-75
-00:16:05,397 --> 00:16:07,219
+
+
 <i>Hello? Larry?</i>
 
-76
-00:16:07,317 --> 00:16:08,494
+
+
 Call back!
 
-77
-00:16:08,565 --> 00:16:09,677
+
+
 Clive!
 
-78
-00:16:22,037 --> 00:16:23,246
+
+
 That was Sy Ableman.
 
-79
-00:16:23,317 --> 00:16:24,658
+
+
 He said he got disconnected.
 
-80
-00:16:27,732 --> 00:16:28,732
+
+
 <i>Out in a minute.</i>
 
-81
-00:16:28,756 --> 00:16:30,894
+
+
 I gotta wash my hair.
 I'm going out tonight.
 
-82
-00:16:30,965 --> 00:16:31,965
+
+
 <i>I'll be out in a minute.</i>
 
-83
-00:16:32,052 --> 00:16:33,460
+
+
 Jesus Christ!
 
-84
-00:16:35,125 --> 00:16:37,067
+
+
 Why is Uncle Arthur
 always in the bathroom?
 
-85
-00:16:37,173 --> 00:16:39,312
+
+
 He has to drain his sebaceous cyst.
 You know that.
 
-86
-00:16:39,413 --> 00:16:40,413
+
+
 Will you set the table?
 
-87
-00:16:40,500 --> 00:16:42,639
+
+
 Why can't he do it in the basement
 or out in the garage?
 
-88
-00:16:46,100 --> 00:16:48,850
+
+
 I had 20 bucks in it, too.
 Inside the case.
 
-89
-00:16:48,917 --> 00:16:50,346
+
+
 Twenty bucks?
 How come?
 
-90
-00:16:50,613 --> 00:16:53,482
+
+
 Bought a lid from Mike Fagle
 a couple of weeks ago.
 
-91
-00:16:53,556 --> 00:16:54,604
+
+
 Still owed him 20.
 
-92
-00:16:54,677 --> 00:16:56,269
+
+
 He already gave you the pot?
 
-93
-00:16:56,532 --> 00:16:59,566
+
+
 Yeah. But a couple of weeks ago,
 my funding got cut off.
 
-94
-00:16:59,923 --> 00:17:02,291
+
+
 Fagle said he'd pound the crap out of me
 if I didn't pay up.
 
-95
-00:17:02,355 --> 00:17:04,528
+
+
 What funding got cut off?
 Where do you get your money?
 
-96
-00:17:04,596 --> 00:17:05,596
+
+
 What happened?
 
-97
-00:17:05,619 --> 00:17:07,409
+
+
 Rabbi Turchik took his radio.
 Had money in it.
 
-98
-00:17:07,477 --> 00:17:08,686
+
+
 That fucker!
 
-99
-00:17:08,756 --> 00:17:10,479
+
+
 Yeah. I think he said
 he was confiscating it.
 
-100
-00:17:10,579 --> 00:17:12,336
+
+
 He's a fucker.
 Where do you get your money?
 
-101
-00:17:12,403 --> 00:17:13,865
+
+
 Mike Fagle's gonna kick his ass.
 
-102
-00:17:13,971 --> 00:17:16,338
+
+
 Last week he pounded the crap out
 of Seth Seddlemeyer.
 
-103
-00:17:16,403 --> 00:17:17,615
+
+
 He's a fucker!
 
-104
-00:17:17,684 --> 00:17:19,757
+
+
 - Fagle or Seth Seddlemeyer?
 - They're both fuckers!
 
-105
-00:17:20,661 --> 00:17:21,661
+
+
 <i>Out in a minute!</i>
 
-106
-00:17:21,715 --> 00:17:22,763
+
+
 Are you still in there?
 
-107
-00:17:22,836 --> 00:17:24,593
+
+
 <i>Yeah, I'll be out in a minute!</i>
 
-108
-00:17:48,564 --> 00:17:49,564
+
+
 Arthur!
 
-109
-00:17:49,652 --> 00:17:51,080
+
+
 <i>- Yeah?
 - Dinner!</i>
 
-110
-00:17:51,476 --> 00:17:53,134
+
+
 <i>Okay, out in a minute!</i>
 
-111
-00:17:53,203 --> 00:17:54,317
+
+
 We should wait.
 
-112
-00:17:54,420 --> 00:17:55,597
+
+
 Are you kidding?
 
-113
-00:18:02,612 --> 00:18:05,296
+
+
 Mr. Brandt keeps mowing
 part of our lawn.
 
-114
-00:18:05,523 --> 00:18:06,768
+
+
 Does that matter?
 
-115
-00:18:07,058 --> 00:18:08,106
+
+
 What?
 
-116
-00:18:08,243 --> 00:18:09,651
+
+
 Is it important?
 
-117
-00:18:11,092 --> 00:18:12,368
+
+
 It's just odd.
 
-118
-00:18:12,435 --> 00:18:15,086
+
+
 Mom, how long is Uncle Arthur
 staying with us?
 
-119
-00:18:15,155 --> 00:18:16,650
+
+
 Ask your father.
 
-120
-00:19:03,378 --> 00:19:04,491
+
+
 Honey.
 
-121
-00:19:05,490 --> 00:19:06,490
+
+
 Honey.
 
-122
-00:19:06,578 --> 00:19:07,756
+
+
 Did you talk to Sy?
 
-123
-00:19:08,243 --> 00:19:09,388
+
+
 Sy?
 
-124
-00:19:10,643 --> 00:19:13,195
+
+
 Sy Ableman.
 That's right, he called, but I...
 
-125
-00:19:13,298 --> 00:19:14,759
+
+
 - You didn't talk to him?
 - No.
 
-126
-00:19:16,818 --> 00:19:19,121
+
+
 You know the problems
 that you and I have been having?
 
-127
-00:19:19,219 --> 00:19:20,219
+
+
 Mmm-hmm.
 
-128
-00:19:20,275 --> 00:19:22,795
+
+
 Well, Sy and I
 have become very close.
 
-129
-00:19:24,563 --> 00:19:29,036
+
+
 In short, I think it's time
 that we start talking about a divorce.
 
-130
-00:19:34,515 --> 00:19:35,563
+
+
 Sy Ableman?
 
-131
-00:19:35,634 --> 00:19:37,009
+
+
 This is not about Sy.
 
-132
-00:19:37,075 --> 00:19:38,602
+
+
 You mentioned Sy!
 
-133
-00:19:38,674 --> 00:19:40,682
+
+
 Don't twist my words, Larry.
 
-134
-00:19:40,755 --> 00:19:43,210
+
+
 A divorce? What have I done?
 I haven't done anything.
 
-135
-00:19:43,282 --> 00:19:45,070
+
+
 Larry, don't be a child.
 
-136
-00:19:45,171 --> 00:19:47,788
+
+
 You haven't done anything.
 I haven't done anything.
 
-137
-00:19:47,891 --> 00:19:50,923
+
+
 Yes! Yes, we haven't done anything.
 
-138
-00:19:50,993 --> 00:19:53,864
+
+
 And I'm probably about to get tenure.
 
-139
-00:19:53,971 --> 00:19:57,232
+
+
 Nevertheless, there have been problems,
 as you know...
 
-140
-00:19:57,330 --> 00:19:59,567
+
+
 - Well...
 - and things have changed.
 
-141
-00:19:59,634 --> 00:20:01,390
+
+
 And then, Sy Ableman.
 
-142
-00:20:01,843 --> 00:20:03,086
+
+
 Sy has come into my life, and I...
 
-143
-00:20:03,154 --> 00:20:07,083
+
+
 Come into your... What does that mean?
 You barely know him.
 
-144
-00:20:07,154 --> 00:20:09,194
+
+
 Oh, please.
 We've known the Ablemans for 15 years, Larry!
 
-145
-00:20:09,298 --> 00:20:12,746
+
+
 Yes, but you said
 we hadn't done anything.
 
-146
-00:20:13,041 --> 00:20:15,431
+
+
 I haven't done anything.
 
-147
-00:20:15,761 --> 00:20:18,347
+
+
 This is not some flashy fling, Larry.
 
-148
-00:20:18,450 --> 00:20:21,134
+
+
 This is not about woopsy-doopsy.
 
-149
-00:20:22,930 --> 00:20:24,556
+
+
 Sy Ableman?
 
-150
-00:20:24,913 --> 00:20:26,441
+
+
 <i>I'll be out in a minute!</i>
 
-151
-00:20:26,513 --> 00:20:28,040
+
+
 - Oh, Jesus Christ!
 - Look, I didn't know any other way
 
-152
-00:20:28,115 --> 00:20:30,798
+
+
 of breaking it to you except to just
 tell you and treat you like an adult.
 
-153
-00:20:30,898 --> 00:20:32,327
+
+
 Is that so wrong?
 
-154
-00:20:33,201 --> 00:20:34,346
+
+
 Where do I sleep?
 
-155
-00:20:34,513 --> 00:20:36,489
+
+
 - What?
 - Arthur's on the couch.
 
-156
-00:20:37,074 --> 00:20:38,121
+
+
 Look, Sy feels that we should...
 
-157
-00:20:38,193 --> 00:20:40,528
+
+
 Esther is barely cold!
 
-158
-00:20:40,594 --> 00:20:42,449
+
+
 Esther died three years ago,
 
-159
-00:20:42,513 --> 00:20:44,848
+
+
 and it was a loveless marriage.
 
-160
-00:20:46,513 --> 00:20:47,888
+
+
 Sy wants a get.
 
-161
-00:20:50,930 --> 00:20:52,391
+
+
 - A what?
 - A ritual divorce.
 
-162
-00:20:52,498 --> 00:20:54,025
+
+
 He says it's very important.
 
-163
-00:20:54,130 --> 00:20:57,031
+
+
 Without a gett, I'm an aguna.
 
-164
-00:20:57,137 --> 00:20:58,184
+
+
 A what?
 
-165
-00:20:58,289 --> 00:20:59,785
+
+
 What are you talking about?
 
-166
-00:20:59,890 --> 00:21:02,192
+
+
 You always act so surprised.
 
-167
-00:21:02,289 --> 00:21:04,678
+
+
 I have begged you to see the Rabbi.
 
-168
-00:21:41,969 --> 00:21:43,375
+
+
 Messages, Professor Gopnik.
 
-169
-00:21:52,721 --> 00:21:54,826
+
+
 Yes, thanks for coming, Clive.
 Have a seat.
 
-170
-00:21:58,162 --> 00:22:01,871
+
+
 We had, I think,
 a good talk the other day,
 
-171
-00:22:02,929 --> 00:22:04,871
+
+
 - but you left something...
 - I didn't leave it.
 
-172
-00:22:07,313 --> 00:22:09,483
+
+
 Well, you don't even know
 what I was going to say.
 
-173
-00:22:09,553 --> 00:22:10,926
+
+
 I didn't leave anything.
 
-174
-00:22:10,993 --> 00:22:12,367
+
+
 I'm not missing anything.
 
-175
-00:22:12,432 --> 00:22:14,155
+
+
 I know where everything is.
 
-176
-00:22:15,537 --> 00:22:18,188
+
+
 Well then, Clive...
 
-177
-00:22:19,121 --> 00:22:20,549
+
+
 Where did this come from?
 
-178
-00:22:24,689 --> 00:22:26,183
+
+
 This is here, isn't it?
 
-179
-00:22:26,737 --> 00:22:28,046
+
+
 Yes, sir.
 That is there.
 
-180
-00:22:28,113 --> 00:22:29,160
+
+
 This is not nothing.
 
-181
-00:22:29,232 --> 00:22:30,509
+
+
 This is something.
 
-182
-00:22:31,441 --> 00:22:33,230
+
+
 Yes. That is something.
 
-183
-00:22:34,480 --> 00:22:36,520
+
+
 - What is it?
 - You know what it is, I believe.
 
-184
-00:22:37,489 --> 00:22:40,041
+
+
 - And you know I can't keep it, Clive.
 - Yes, sir.
 
-185
-00:22:40,113 --> 00:22:41,934
+
+
 I'll have to pass it on
 to Professor Finkle,
 
-186
-00:22:42,512 --> 00:22:44,683
+
+
 along with my suspicions
 about where it came from.
 
-187
-00:22:44,751 --> 00:22:46,476
+
+
 Actions have consequences.
 
-188
-00:22:46,576 --> 00:22:47,576
+
+
 Yes. Often.
 
-189
-00:22:47,632 --> 00:22:49,967
+
+
 No, always!
 Actions always have consequences!
 
-190
-00:22:50,032 --> 00:22:52,815
+
+
 In this office,
 actions have consequences.
 
-191
-00:22:52,881 --> 00:22:54,507
+
+
 - Yes, sir.
 - Not just physics,
 
-192
-00:22:54,607 --> 00:22:55,786
+
+
 - morally.
 - Yes.
 
-193
-00:22:55,888 --> 00:22:57,547
+
+
 And we both know
 about your actions.
 
-194
-00:22:57,647 --> 00:22:59,536
+
+
 No, sir.
 I know about my actions.
 
-195
-00:22:59,601 --> 00:23:03,080
+
+
 I can interpret, Clive.
 I know what you meant me to understand.
 
-196
-00:23:03,152 --> 00:23:04,712
+
+
 Meer sir my sir.
 
-197
-00:23:08,080 --> 00:23:09,935
+
+
 "Meer sir my sir"?
 
-198
-00:23:10,000 --> 00:23:13,230
+
+
 Mere surmise, sir.
 
-199
-00:23:14,192 --> 00:23:15,622
+
+
 Very uncertain.
 
-200
-00:23:47,471 --> 00:23:48,682
+
+
 You little brat fucker!
 
-201
-00:23:48,751 --> 00:23:50,791
+
+
 You snuck 20 bucks
 out of my drawer!
 
-202
-00:23:51,152 --> 00:23:52,875
+
+
 Studying Torah, asshole.
 
-203
-00:23:52,976 --> 00:23:54,830
+
+
 You little brat!
 I'm telling Dad!
 
-204
-00:23:55,152 --> 00:23:57,192
+
+
 You gonna tell him you've been
 sneaking it out of his wallet?
 
-205
-00:23:57,296 --> 00:24:00,362
+
+
 You know what I'm gonna do, you little brat,
 if you don't give it back?
 
-206
-00:24:01,071 --> 00:24:02,281
+
+
 Dad?
 
-207
-00:24:02,672 --> 00:24:04,843
+
+
 Dad, you've gotta fix the aerial.
 
-208
-00:24:04,912 --> 00:24:06,820
+
+
 Hello, Larry.
 Have you thought about a lawyer?
 
-209
-00:24:06,928 --> 00:24:08,172
+
+
 - Dad!
 - Honey, please!
 
-210
-00:24:08,240 --> 00:24:09,287
+
+
 We're not getting
 channel four at all.
 
-211
-00:24:09,359 --> 00:24:10,604
+
+
 Can we discuss it later?
 
-212
-00:24:10,672 --> 00:24:11,784
+
+
 I can't get F Troop.
 
-213
-00:24:11,887 --> 00:24:13,163
+
+
 Larry, the children know.
 
-214
-00:24:13,231 --> 00:24:14,573
+
+
 Do you think this is some secret?
 
-215
-00:24:14,638 --> 00:24:16,101
+
+
 Do you think this is something
 we're going to keep quiet?
 
-216
-00:24:16,207 --> 00:24:17,701
+
+
 Dad, Uncle Arthur
 is in the bathroom again,
 
-217
-00:24:17,807 --> 00:24:18,920
+
+
 and I'm going to the Hole at 8:00.
 
-218
-00:24:18,990 --> 00:24:20,201
+
+
 <i>- Out in a minute!
 - Ow! Stop!</i>
 
-219
-00:24:20,271 --> 00:24:22,181
+
+
 - She keeps doing that!
 - What's going on?
 
-220
-00:24:49,711 --> 00:24:50,888
+
+
 Arthur?
 
-221
-00:24:51,278 --> 00:24:52,278
+
+
 Yes?
 
-222
-00:24:53,550 --> 00:24:54,958
+
+
 What are you doing?
 
-223
-00:24:57,391 --> 00:24:59,365
+
+
 Working on the Mentaculus.
 
-224
-00:25:01,999 --> 00:25:03,886
+
+
 Any luck, um,
 
-225
-00:25:05,391 --> 00:25:06,884
+
+
 looking for an apartment?
 
-226
-00:25:10,095 --> 00:25:11,095
+
+
 No.
 
-227
-00:25:27,631 --> 00:25:29,386
+
+
 - Sy.
 - Good to see you, Larry.
 
-228
-00:25:31,151 --> 00:25:32,151
+
+
 I'll get Judith.
 
-229
-00:25:32,207 --> 00:25:35,949
+
+
 No, listen, actually,
 I'm here to see you, if I might.
 
-230
-00:25:37,198 --> 00:25:39,369
+
+
 Such a thing.
 Such a thing.
 
-231
-00:25:39,439 --> 00:25:40,439
+
+
 Shall we go in the kitchen?
 
-232
-00:25:40,527 --> 00:25:45,066
+
+
 You know, Larry, the way
 we handle ourselves in this situation,
 
-233
-00:25:45,967 --> 00:25:47,242
+
+
 so important.
 
-234
-00:25:47,309 --> 00:25:48,969
+
+
 - Uh-huh?
 - Absolutely.
 
-235
-00:25:49,038 --> 00:25:50,500
+
+
 Judith told me that
 she broke the news to you,
 
-236
-00:25:50,606 --> 00:25:53,509
+
+
 and she said that
 you were very adult.
 
-237
-00:25:53,999 --> 00:25:55,405
+
+
 - Did she?
 - Absolutely.
 
-238
-00:25:55,727 --> 00:25:57,767
+
+
 The respect she has for you...
 
-239
-00:25:58,606 --> 00:26:00,265
+
+
 - Yes?
 - Do you drink wine?
 
-240
-00:26:00,589 --> 00:26:01,799
+
+
 Because this is
 an incredible bottle.
 
-241
-00:26:01,869 --> 00:26:03,080
+
+
 This is not Mogen David, Larry.
 
-242
-00:26:03,151 --> 00:26:05,769
+
+
 This is a wine. A Bordeaux.
 
-243
-00:26:05,838 --> 00:26:07,398
+
+
 - You know, Sy...
 - Open it.
 
-244
-00:26:07,470 --> 00:26:09,958
+
+
 Let it breathe.
 Ten minutes.
 
-245
-00:26:10,030 --> 00:26:12,397
+
+
 Letting it breathe, so important.
 
-246
-00:26:12,494 --> 00:26:14,184
+
+
 Thanks, Sy, but I'm not...
 
-247
-00:26:14,286 --> 00:26:16,674
+
+
 Listen, I insist, Larry.
 There's no cause for discomfort.
 
-248
-00:26:16,750 --> 00:26:18,724
+
+
 I'd be uncomfortable
 if you didn't take it.
 
-249
-00:26:18,798 --> 00:26:20,837
+
+
 Larry, listen.
 These are signs.
 
-250
-00:26:20,910 --> 00:26:22,119
+
+
 Tokens, Larry.
 
-251
-00:26:22,190 --> 00:26:23,531
+
+
 I'm just...
 I'm not ungrateful.
 
-252
-00:26:23,597 --> 00:26:24,808
+
+
 I just don't know
 a lot about wine,
 
-253
-00:26:24,878 --> 00:26:26,339
+
+
 - and given our...
 - It's okay.
 
-254
-00:26:26,925 --> 00:26:28,999
+
+
 - respective...
 - It's okay.
 
-255
-00:26:31,117 --> 00:26:34,467
+
+
 Larry, we're going to be fine.
 
-256
-00:26:41,998 --> 00:26:43,307
+
+
 Want some of this, fucker?
 
-257
-00:27:14,765 --> 00:27:15,779
+
+
 Fuck.
 
-258
-00:30:18,667 --> 00:30:21,001
+
+
 Would you read this?
 Tell me what you think?
 
-259
-00:30:23,852 --> 00:30:24,898
+
+
 Okay.
 
-260
-00:30:26,988 --> 00:30:29,125
+
+
 Boy! You should have worn a hat.
 
-261
-00:30:51,626 --> 00:30:53,481
+
+
 Let's see some hustle, Mitch.
 
-262
-00:31:37,515 --> 00:31:38,626
+
+
 Larry?
 
-263
-00:31:39,626 --> 00:31:41,032
+
+
 Hi, Arlen.
 
-264
-00:31:41,642 --> 00:31:46,596
+
+
 Larry, I feel that as head of
 the tenure committee, I should tell you this.
 
-265
-00:31:46,987 --> 00:31:52,170
+
+
 Though it should be no cause for concern,
 and you should not at all be worried.
 
-266
-00:31:52,522 --> 00:31:53,522
+
+
 Okay.
 
-267
-00:31:53,609 --> 00:31:56,031
+
+
 But I feel I should mention it,
 
-268
-00:31:56,105 --> 00:31:59,903
+
+
 even though it will carry
 no weight in our decision
 
-269
-00:32:00,010 --> 00:32:01,505
+
+
 on whether or not
 to grant you tenure.
 
-270
-00:32:01,609 --> 00:32:04,163
+
+
 So again, no cause for concern.
 
-271
-00:32:04,233 --> 00:32:06,568
+
+
 Okay, Arlen.
 Give what any weight?
 
-272
-00:32:07,755 --> 00:32:09,064
+
+
 Well...
 
-273
-00:32:09,163 --> 00:32:11,136
+
+
 We've received a number of letters
 
-274
-00:32:12,490 --> 00:32:16,036
+
+
 denigrating you
 and urging us not to...
 
-275
-00:32:16,105 --> 00:32:17,699
+
+
 Not to grant you tenure.
 
-276
-00:32:20,426 --> 00:32:21,426
+
+
 From who?
 
-277
-00:32:21,450 --> 00:32:24,832
+
+
 Well, they're anonymous,
 so we dismiss them completely.
 
-278
-00:32:25,801 --> 00:32:27,209
+
+
 Well, what do they say?
 
-279
-00:32:27,594 --> 00:32:29,699
+
+
 Well, they make allegations...
 
-280
-00:32:29,801 --> 00:32:31,743
+
+
 Well, allegations...
 Assertions.
 
-281
-00:32:31,849 --> 00:32:35,559
+
+
 And though we give them
 no credence at all, Larry.
 
-282
-00:32:36,362 --> 00:32:37,790
+
+
 Well, I'm not really at liberty
 
-283
-00:32:37,865 --> 00:32:40,354
+
+
 to discuss the specifics
 of the committee's deliberations.
 
-284
-00:32:40,425 --> 00:32:44,003
+
+
 But I think you're saying these won't play
 any part in your deliberations?
 
-285
-00:32:44,074 --> 00:32:45,317
+
+
 None whatsoever.
 
-286
-00:32:45,385 --> 00:32:46,385
+
+
 So what are they?
 
-287
-00:32:46,410 --> 00:32:49,125
+
+
 Moral turpitude, you could say.
 
-288
-00:32:50,569 --> 00:32:53,123
+
+
 Uh-huh. Can I ask?
 Are they...
 
-289
-00:32:54,185 --> 00:32:56,096
+
+
 - Are they idiomatic?
 - Hmm?
 
-290
-00:32:56,201 --> 00:32:59,846
+
+
 The reason I ask, I have
 a Korean student. South Korean.
 
-291
-00:32:59,945 --> 00:33:03,623
+
+
 A disgruntled South Korean,
 and I meant to talk to you about this...
 
-292
-00:33:03,721 --> 00:33:08,674
+
+
 Oh, no, no. They're competently,
 even eloquently written.
 
-293
-00:33:08,744 --> 00:33:12,192
+
+
 A native English speaker.
 There's no question about that.
 
-294
-00:33:12,266 --> 00:33:14,567
+
+
 - Uh-huh.
 - Let me reiterate.
 
-295
-00:33:14,634 --> 00:33:16,040
+
+
 No cause for concern.
 
-296
-00:33:16,105 --> 00:33:20,742
+
+
 I only speak because
 I would feel odd concealing it.
 
-297
-00:33:20,842 --> 00:33:22,402
+
+
 - Yes.
 - Yeah.
 
-298
-00:33:24,361 --> 00:33:25,375
+
+
 Best to Judith.
 
-299
-00:33:32,425 --> 00:33:34,182
+
+
 I gotta get my radio back.
 
-300
-00:33:34,280 --> 00:33:36,386
+
+
 Maybe the fucker lodged it
 up his fucking asshole.
 
-301
-00:33:36,489 --> 00:33:39,685
+
+
 I gotta get it back, or Mike Fagle's
 gonna pound the crap out of me.
 
-302
-00:33:39,785 --> 00:33:41,160
+
+
 Way up his asshole.
 
-303
-00:33:54,825 --> 00:33:55,936
+
+
 Good afternoon.
 
-304
-00:33:59,848 --> 00:34:00,848
+
+
 Go scrub up, Mitch.
 
-305
-00:34:02,825 --> 00:34:03,872
+
+
 Been hunting?
 
-306
-00:34:10,184 --> 00:34:11,559
+
+
 Is that a...
 
-307
-00:34:11,625 --> 00:34:12,998
+
+
 It's gonna be a boat shed.
 
-308
-00:34:13,065 --> 00:34:14,307
+
+
 Uh-huh.
 
-309
-00:34:14,409 --> 00:34:15,409
+
+
 That's great.
 
-310
-00:34:16,905 --> 00:34:19,239
+
+
 - Mr. Brandt...
 - I said scrub up, Mitch!
 
-311
-00:34:23,945 --> 00:34:25,318
+
+
 Isn't this a school day?
 
-312
-00:34:25,385 --> 00:34:27,360
+
+
 I took him out of school today
 so he could hunt with his dad.
 
-313
-00:34:30,505 --> 00:34:32,260
+
+
 Uh, Mr. Brandt,
 
-314
-00:34:32,360 --> 00:34:34,248
+
+
 that's just about
 at the property line there.
 
-315
-00:34:34,313 --> 00:34:35,621
+
+
 I don't think we're supposed to get
 
-316
-00:34:35,721 --> 00:34:37,280
+
+
 - within, what, 10 feet...
 - Property line's the poplar.
 
-317
-00:34:39,465 --> 00:34:40,643
+
+
 - The...
 - Poplar.
 
-318
-00:34:41,289 --> 00:34:43,842
+
+
 - Well, even if it is, you're just about over it.
 - Measure.
 
-319
-00:34:43,943 --> 00:34:46,791
+
+
 - I don't have to measure, you can tell it's...
 - Line's the poplar.
 
-320
-00:34:48,168 --> 00:34:49,184
+
+
 What's going on?
 
-321
-00:34:49,608 --> 00:34:50,608
+
+
 Nothing.
 
-322
-00:34:53,224 --> 00:34:54,916
+
+
 - Larry?
 - Yeah?
 
-323
-00:34:54,985 --> 00:34:56,512
+
+
 Did you go to Sieglestein Schlutz?
 
-324
-00:34:56,583 --> 00:34:57,632
+
+
 No, I...
 Not yet.
 
-325
-00:34:57,704 --> 00:34:58,719
+
+
 Larry.
 
-326
-00:34:58,791 --> 00:35:00,001
+
+
 Appointment Monday.
 
-327
-00:35:00,072 --> 00:35:01,315
+
+
 Where are you going?
 
-328
-00:35:01,384 --> 00:35:02,594
+
+
 I'm going to the Hole.
 
-329
-00:35:02,664 --> 00:35:04,190
+
+
 What? At 5:00?
 
-330
-00:35:04,264 --> 00:35:06,652
+
+
 We're stopping at Laurie Kipperstein's house
 so I can wash my hair.
 
-331
-00:35:07,239 --> 00:35:08,239
+
+
 Hi, Mr. Gopnik.
 
-332
-00:35:08,585 --> 00:35:10,657
+
+
 - You can't wash it here?
 - Uncle Arthur's in the bathroom.
 
-333
-00:35:10,760 --> 00:35:12,255
+
+
 <i>I'll be out in a minute!</i>
 
-334
-00:35:12,360 --> 00:35:13,375
+
+
 - Are you ready?
 - Huh?
 
-335
-00:35:13,481 --> 00:35:14,909
+
+
 - We're meeting Sy at Embers.
 - I am?
 
-336
-00:35:14,983 --> 00:35:17,221
+
+
 Both of us.
 I told you, Larry.
 
-337
-00:35:19,144 --> 00:35:20,322
+
+
 Larry.
 
-338
-00:35:24,519 --> 00:35:25,534
+
+
 How are you?
 
-339
-00:35:27,271 --> 00:35:28,271
+
+
 Sy.
 
-340
-00:35:30,728 --> 00:35:31,728
+
+
 Hello, Judith.
 
-341
-00:35:31,784 --> 00:35:32,784
+
+
 Hello, Sy.
 
-342
-00:35:34,887 --> 00:35:37,987
+
+
 Larry, I want to thank you for coming.
 
-343
-00:35:38,280 --> 00:35:41,663
+
+
 It's so important that we be able
 to discuss these things.
 
-344
-00:35:41,768 --> 00:35:43,393
+
+
 I'm happy to come to Embers, Sy.
 
-345
-00:35:43,463 --> 00:35:45,853
+
+
 But I'm thinking, really,
 maybe it's best to leave
 
-346
-00:35:45,960 --> 00:35:47,237
+
+
 these discussions to the lawyers.
 
-347
-00:35:47,304 --> 00:35:50,021
+
+
 Of course. Legal matters,
 you let the lawyers discuss.
 
-348
-00:35:50,119 --> 00:35:52,030
+
+
 You don't mix apples and oranges.
 
-349
-00:35:52,103 --> 00:35:53,478
+
+
 I have begged you to see the lawyer.
 
-350
-00:35:53,543 --> 00:35:54,753
+
+
 I told you, I'm going Monday.
 
-351
-00:35:54,822 --> 00:35:57,376
+
+
 Monday is timely.
 This is not...
 
-352
-00:35:57,480 --> 00:36:00,992
+
+
 Please, Embers is not the forum
 for legalities. You're so right.
 
-353
-00:36:02,184 --> 00:36:05,532
+
+
 No, Judith and I wanted
 merely to discuss, uh,
 
-354
-00:36:06,342 --> 00:36:08,677
+
+
 practicalities.
 Living arrangements.
 
-355
-00:36:09,032 --> 00:36:12,675
+
+
 After all, this is an issue
 where no one is at odds.
 
-356
-00:36:12,744 --> 00:36:13,856
+
+
 Living arrangements?
 
-357
-00:36:14,983 --> 00:36:18,081
+
+
 I think we all agree
 that the children
 
-358
-00:36:18,152 --> 00:36:21,119
+
+
 not being contaminated
 with the tension,
 
-359
-00:36:21,192 --> 00:36:22,271
+
+
 the most important.
 
-360
-00:36:22,344 --> 00:36:24,253
+
+
 We shouldn't put the kids
 in the middle of this, Larry.
 
-361
-00:36:24,360 --> 00:36:25,360
+
+
 The kids aren't...
 
-362
-00:36:25,447 --> 00:36:27,268
+
+
 I'm saying "we".
 I'm not pointing fingers.
 
-363
-00:36:27,367 --> 00:36:29,952
+
+
 No one is playing the blame game, Larry.
 
-364
-00:36:30,023 --> 00:36:31,070
+
+
 I didn't say anyone was.
 
-365
-00:36:31,143 --> 00:36:33,030
+
+
 Well, let's not play
 "He said. She Said," either.
 
-366
-00:36:33,159 --> 00:36:35,068
+
+
 - I wasn't! I...
 - All right. Look, look, look.
 
-367
-00:36:35,143 --> 00:36:38,755
+
+
 Let's just take a step back
 and we can diffuse the situation.
 
-368
-00:36:40,840 --> 00:36:44,222
+
+
 You know, Larry,
 sometimes I find that
 
-369
-00:36:44,327 --> 00:36:45,920
+
+
 if I count to 10...
 
-370
-00:36:47,782 --> 00:36:48,797
+
+
 One,
 
-371
-00:36:50,023 --> 00:36:51,023
+
+
 two,
 
-372
-00:36:52,422 --> 00:36:53,436
+
+
 three,
 
-373
-00:36:54,822 --> 00:36:56,001
+
+
 four...
 
-374
-00:36:56,391 --> 00:36:58,179
+
+
 Or silently.
 
-375
-00:37:05,318 --> 00:37:07,871
+
+
 Really, to keep things
 on an even keel
 
-376
-00:37:07,943 --> 00:37:09,764
+
+
 leading up to Danny's bar mitzvah...
 
-377
-00:37:09,831 --> 00:37:11,554
+
+
 A child's bar mitzvah, Larry.
 
-378
-00:37:11,623 --> 00:37:15,201
+
+
 Sy and I think it's best
 if you move out of the house.
 
-379
-00:37:16,487 --> 00:37:17,487
+
+
 Move out?
 
-380
-00:37:17,543 --> 00:37:19,876
+
+
 - Well, it makes eminent sense.
 - Things can't continue as they...
 
-381
-00:37:19,943 --> 00:37:21,349
+
+
 Move out?
 Where would I go?
 
-382
-00:37:21,447 --> 00:37:24,382
+
+
 Well, for instance,
 the Jolly Roger is quite livable.
 
-383
-00:37:24,487 --> 00:37:25,697
+
+
 It's not expensive.
 
-384
-00:37:25,798 --> 00:37:28,253
+
+
 The rooms are eminently habitable.
 
-385
-00:37:28,358 --> 00:37:29,788
+
+
 This would allow you
 to visit the kids.
 
-386
-00:37:29,862 --> 00:37:31,869
+
+
 There's convenience in its favor.
 They've got a pool.
 
-387
-00:37:31,943 --> 00:37:34,496
+
+
 Wouldn't it make more sense
 for you to move in with Sy?
 
-388
-00:37:36,391 --> 00:37:37,438
+
+
 Larry.
 
-389
-00:37:37,831 --> 00:37:40,831
+
+
 Larry, you...
 You are jesting.
 
-390
-00:37:41,831 --> 00:37:44,514
+
+
 I think, really, the Jolly Roger
 
-391
-00:37:44,583 --> 00:37:47,516
+
+
 is the appropriate course of action.
 
-392
-00:37:52,742 --> 00:37:53,789
+
+
 Listen here,
 
-393
-00:37:53,862 --> 00:37:55,454
+
+
 you little fucker,
 I want my money!
 
-394
-00:37:55,590 --> 00:37:56,800
+
+
 Stop it!
 I'm gonna get it!
 
-395
-00:37:56,806 --> 00:37:57,806
+
+
 Give it back!
 
-396
-00:37:57,862 --> 00:37:59,422
+
+
 You owe me 20 bucks,
 you little shit!
 
-397
-00:37:59,525 --> 00:38:01,380
+
+
 - Don't worry about it!
 - Give it, brat fucker!
 
-398
-00:38:01,510 --> 00:38:03,876
+
+
 - I'm gonna get it! I'm gonna get it!
 - Brat! Fucker!
 
-399
-00:38:03,943 --> 00:38:05,534
+
+
 - What's going on?
 - Nothing.
 
-400
-00:38:07,782 --> 00:38:09,757
+
+
 - What was that?
 - Nothing.
 
-401
-00:38:10,949 --> 00:38:12,378
+
+
 How's the Torah portion coming?
 
-402
-00:38:12,487 --> 00:38:14,755
+
+
 Can you maybe use the hi-fi?
 
-403
-00:38:14,822 --> 00:38:16,032
+
+
 - What?
 - Can I borrow this?
 
-404
-00:38:16,101 --> 00:38:19,844
+
+
 I'm taking some stuff to,
 you know, the Jolly Roger.
 
-405
-00:38:19,909 --> 00:38:20,989
+
+
 - Dad!
 - Sure, Dad.
 
-406
-00:38:21,061 --> 00:38:22,972
+
+
 Dad! Chinese guy!
 
-407
-00:38:23,429 --> 00:38:24,476
+
+
 Culture clash.
 
-408
-00:38:27,141 --> 00:38:28,222
+
+
 Culture clash.
 
-409
-00:38:29,318 --> 00:38:32,166
+
+
 With all respect, Mr. Park,
 I don't think it's that.
 
-410
-00:38:32,230 --> 00:38:33,474
+
+
 - Yes.
 - No,
 
-411
-00:38:33,541 --> 00:38:36,989
+
+
 it would be a culture clash
 if it were the custom in your land
 
-412
-00:38:37,061 --> 00:38:38,436
+
+
 to bribe people for grades.
 
-413
-00:38:38,501 --> 00:38:39,581
+
+
 Yes.
 
-414
-00:38:41,061 --> 00:38:43,134
+
+
 So, you're saying it is the custom?
 
-415
-00:38:43,237 --> 00:38:46,402
+
+
 No, this is defamation.
 Ground for lawsuit.
 
-416
-00:38:46,981 --> 00:38:48,028
+
+
 Let me get this straight.
 
-417
-00:38:48,101 --> 00:38:50,590
+
+
 You're threatening to sue me
 for defaming your son?
 
-418
-00:38:50,661 --> 00:38:51,742
+
+
 Yes.
 
-419
-00:38:52,358 --> 00:38:54,496
+
+
 - But it would...
 - Is this man bothering you?
 
-420
-00:38:55,686 --> 00:38:58,304
+
+
 Is he bothering me?
 No.
 
-421
-00:39:00,197 --> 00:39:01,376
+
+
 I, uh...
 
-422
-00:39:07,461 --> 00:39:08,737
+
+
 See, look...
 
-423
-00:39:08,838 --> 00:39:10,431
+
+
 If it were defamation,
 there would have to be
 
-424
-00:39:10,501 --> 00:39:12,509
+
+
 someone I was defaming him to, or I...
 
-425
-00:39:12,581 --> 00:39:14,556
+
+
 All right, let's keep it simple.
 
-426
-00:39:14,630 --> 00:39:17,925
+
+
 I could pretend the money never appeared.
 That's not defaming anyone.
 
-427
-00:39:17,989 --> 00:39:20,257
+
+
 Yes. And passing grade.
 
-428
-00:39:20,902 --> 00:39:22,461
+
+
 - Passing grade?
 - Yes.
 
-429
-00:39:23,429 --> 00:39:24,956
+
+
 Or you'll sue me?
 
-430
-00:39:25,028 --> 00:39:26,108
+
+
 For taking money.
 
-431
-00:39:26,181 --> 00:39:27,871
+
+
 So he did leave the money?
 
-432
-00:39:27,940 --> 00:39:29,150
+
+
 This is defamation!
 
-433
-00:39:30,342 --> 00:39:33,309
+
+
 It doesn't make sense.
 Either he left the money or he didn't.
 
-434
-00:39:33,382 --> 00:39:35,617
+
+
 Please.
 Accept the mystery.
 
-435
-00:39:38,885 --> 00:39:40,576
+
+
 Give me that, fucker.
 
-436
-00:39:47,590 --> 00:39:48,800
+
+
 He's very good with numbers.
 
-437
-00:39:48,869 --> 00:39:52,097
+
+
 I think his social skills
 have held him back.
 
-438
-00:39:52,197 --> 00:39:54,106
+
+
 Such a sweet man, though.
 
-439
-00:39:54,181 --> 00:39:55,425
+
+
 Arthur has a good heart.
 
-440
-00:39:56,485 --> 00:39:58,786
+
+
 And he never complains, unlike me.
 
-441
-00:39:59,780 --> 00:40:01,635
+
+
 Sometimes I don't give him
 enough credit.
 
-442
-00:40:01,701 --> 00:40:05,313
+
+
 He tried to tell me about this thing
 he's working on, this...
 
-443
-00:40:05,380 --> 00:40:07,137
+
+
 The Mentaculus.
 
-444
-00:40:07,940 --> 00:40:13,210
+
+
 He says it's a probability map
 of the universe.
 
-445
-00:40:14,181 --> 00:40:16,416
+
+
 Does he go out socially at all?
 
-446
-00:40:17,028 --> 00:40:20,344
+
+
 He tries. He's been going to the
 singles mixers at Hillel House.
 
-447
-00:40:22,501 --> 00:40:24,704
+
+
 I should talk.
 I'm not doing any better.
 
-448
-00:40:26,021 --> 00:40:27,231
+
+
 How is Judith?
 
-449
-00:40:29,317 --> 00:40:31,869
+
+
 Fine. She's fine.
 
-450
-00:40:33,668 --> 00:40:36,516
+
+
 Sometimes these things
 just aren't meant to be.
 
-451
-00:40:36,581 --> 00:40:40,322
+
+
 And it can take a while before
 you feel what was always there.
 
-452
-00:40:40,389 --> 00:40:42,657
+
+
 - For better or worse.
 - I never felt it!
 
-453
-00:40:43,621 --> 00:40:45,824
+
+
 It was a bolt from the blue.
 
-454
-00:40:45,925 --> 00:40:47,070
+
+
 What does that mean?
 
-455
-00:40:47,141 --> 00:40:50,751
+
+
 Everything that I thought was
 one way turns out to be another.
 
-456
-00:40:51,748 --> 00:40:56,222
+
+
 Then, it's an opportunity to learn
 how things really are.
 
-457
-00:40:57,539 --> 00:40:58,882
+
+
 I don't mean to sound glib.
 
-458
-00:41:01,188 --> 00:41:04,733
+
+
 It's not always easy deciphering
 what God is trying to tell you,
 
-459
-00:41:05,284 --> 00:41:08,318
+
+
 but it's not something you have
 to figure out all by yourself.
 
-460
-00:41:09,764 --> 00:41:10,974
+
+
 We're Jews.
 
-461
-00:41:11,427 --> 00:41:15,202
+
+
 We've got that well of tradition
 to draw on, to help us understand.
 
-462
-00:41:15,844 --> 00:41:18,429
+
+
 When we're puzzled,
 we have all the stories
 
-463
-00:41:18,500 --> 00:41:22,077
+
+
 that have been handed down
 from people who had the same problems.
 
-464
-00:41:24,003 --> 00:41:25,945
+
+
 Have you talked to Rabbi Nachtner?
 
-465
-00:41:29,539 --> 00:41:30,539
+
+
 Why not see him?
 
-466
-00:41:30,563 --> 00:41:32,157
+
+
 What's the Rabbi gonna tell me?
 
-467
-00:41:32,547 --> 00:41:34,172
+
+
 If I knew, I'd be the Rabbi.
 
-468
-00:41:34,500 --> 00:41:38,079
+
+
 The air out here is magnificent.
 
-469
-00:41:39,460 --> 00:41:43,452
+
+
 I'm telling you,
 if someone could bottle this air,
 
-470
-00:41:43,556 --> 00:41:45,278
+
+
 they'd make a million dollars.
 
-471
-00:42:01,380 --> 00:42:03,202
+
+
 Hello, Larry.
 Good to see you.
 
-472
-00:42:03,268 --> 00:42:04,577
+
+
 Oh. Rabbi Scott.
 
-473
-00:42:05,860 --> 00:42:07,900
+
+
 I thought I was going
 to see Rabbi Nachtner.
 
-474
-00:42:08,003 --> 00:42:10,010
+
+
 He was called away
 on an etz monim.
 
-475
-00:42:10,115 --> 00:42:13,661
+
+
 Ruth Brynn's mother is in the hospital
 and she isn't doing well.
 
-476
-00:42:13,762 --> 00:42:16,893
+
+
 Rabbi Nachtner asked me
 to cover for him. Come on in.
 
-477
-00:42:28,099 --> 00:42:31,360
+
+
 And she wants a gett.
 
-478
-00:42:36,163 --> 00:42:37,210
+
+
 A what?
 
-479
-00:42:39,780 --> 00:42:41,503
+
+
 - She wants a...
 - Oh, a gett.
 
-480
-00:42:41,603 --> 00:42:43,097
+
+
 Uh-huh. Sure.
 
-481
-00:42:43,842 --> 00:42:46,429
+
+
 I feel like the carpet's
 been yanked out from under me.
 
-482
-00:42:46,500 --> 00:42:48,670
+
+
 I don't know which end is up.
 
-483
-00:42:48,739 --> 00:42:50,461
+
+
 I'm not even sure how to react.
 
-484
-00:42:50,563 --> 00:42:51,840
+
+
 I'm too confused.
 
-485
-00:42:52,260 --> 00:42:55,773
+
+
 What reasons did she give
 for the rupture?
 
-486
-00:42:55,875 --> 00:42:58,329
+
+
 She didn't give reasons
 Just that,
 
-487
-00:42:58,434 --> 00:43:00,572
+
+
 you know,
 things haven't been going well.
 
-488
-00:43:00,675 --> 00:43:01,690
+
+
 And is that true?
 
-489
-00:43:02,338 --> 00:43:03,768
+
+
 I guess.
 I don't know.
 
-490
-00:43:03,875 --> 00:43:05,947
+
+
 She's usually right
 about these things.
 
-491
-00:43:06,018 --> 00:43:08,385
+
+
 I was hoping that
 Rabbi Nachtner could...
 
-492
-00:43:08,867 --> 00:43:10,809
+
+
 That he would...
 He would... Yes?
 
-493
-00:43:10,914 --> 00:43:13,052
+
+
 Well, with the benefit
 of his life experience.
 
-494
-00:43:13,795 --> 00:43:14,907
+
+
 No offense.
 
-495
-00:43:14,978 --> 00:43:18,012
+
+
 No, of course not.
 I am the junior rabbi.
 
-496
-00:43:18,659 --> 00:43:22,271
+
+
 And it's true, the point of view
 of somebody who's older
 
-497
-00:43:22,338 --> 00:43:26,594
+
+
 and perhaps had similar problems
 might be more valid.
 
-498
-00:43:26,659 --> 00:43:29,594
+
+
 And you should see the senior rabbi
 as well, by all means.
 
-499
-00:43:29,666 --> 00:43:30,811
+
+
 Or even Marshak,
 
-500
-00:43:31,298 --> 00:43:32,989
+
+
 if you can get in.
 
-501
-00:43:33,059 --> 00:43:35,545
+
+
 He's quite busy, but maybe...
 
-502
-00:43:39,713 --> 00:43:41,175
+
+
 Can I share something with you?
 
-503
-00:43:41,538 --> 00:43:44,320
+
+
 Because I, too, have had
 the feeling of losing track
 
-504
-00:43:44,387 --> 00:43:47,070
+
+
 of Hashem,
 which is the problem here.
 
-505
-00:43:47,586 --> 00:43:50,269
+
+
 I, too, have forgotten
 how to see him in the world,
 
-506
-00:43:50,338 --> 00:43:52,313
+
+
 and when that happens, you think,
 
-507
-00:43:52,387 --> 00:43:56,215
+
+
 "Well, if I can't see him,
 he isn't there. He's gone".
 
-508
-00:43:56,481 --> 00:43:58,009
+
+
 But that's not the case.
 
-509
-00:43:58,498 --> 00:44:01,367
+
+
 You just need to remember
 how to see him.
 
-510
-00:44:01,474 --> 00:44:03,679
+
+
 Am I right? I mean...
 
-511
-00:44:04,737 --> 00:44:06,648
+
+
 The parking lot here.
 
-512
-00:44:09,538 --> 00:44:10,913
+
+
 Not much to see.
 
-513
-00:44:11,523 --> 00:44:14,108
+
+
 But if you imagine yourself
 a visitor,
 
-514
-00:44:14,914 --> 00:44:18,657
+
+
 somebody who isn't familiar
 with these autos and such,
 
-515
-00:44:18,755 --> 00:44:21,210
+
+
 somebody still
 with the capacity for wonder.
 
-516
-00:44:21,313 --> 00:44:24,347
+
+
 Someone with a fresh perspective.
 
-517
-00:44:24,898 --> 00:44:26,141
+
+
 That's what it is, Larry.
 
-518
-00:44:26,242 --> 00:44:28,184
+
+
 Because with the right perspective,
 
-519
-00:44:28,259 --> 00:44:31,574
+
+
 you can see Hashem, you know,
 reaching into the world.
 
-520
-00:44:31,681 --> 00:44:34,300
+
+
 He is in the world,
 not just in shul.
 
-521
-00:44:34,978 --> 00:44:39,681
+
+
 It sounds to me like you're looking
 at the world, looking at your wife,
 
-522
-00:44:39,746 --> 00:44:41,601
+
+
 through tired eyes.
 
-523
-00:44:42,242 --> 00:44:45,690
+
+
 It sounds like she's become
 a sort of thing...
 
-524
-00:44:46,400 --> 00:44:47,862
+
+
 A problem.
 
-525
-00:44:48,385 --> 00:44:49,465
+
+
 A thing.
 
-526
-00:44:49,538 --> 00:44:51,577
+
+
 She is seeing Sy Ableman.
 
-527
-00:44:56,193 --> 00:44:57,949
+
+
 - Oh.
 - They're planning...
 
-528
-00:44:58,018 --> 00:44:59,425
+
+
 That's why they want the gett.
 
-529
-00:44:59,521 --> 00:45:01,661
+
+
 Oh, I'm sorry.
 
-530
-00:45:01,760 --> 00:45:03,222
+
+
 It was his idea.
 
-531
-00:45:03,297 --> 00:45:08,512
+
+
 Well, they do need a gett
 to remarry in the faith.
 
-532
-00:45:09,697 --> 00:45:12,567
+
+
 But...
 This is life.
 
-533
-00:45:13,536 --> 00:45:17,213
+
+
 You have to see these things
 as expressions of God's will.
 
-534
-00:45:17,313 --> 00:45:19,135
+
+
 You don't have to like it,
 of course.
 
-535
-00:45:19,552 --> 00:45:21,789
+
+
 The boss isn't always right,
 but he's always the boss.
 
-536
-00:45:21,858 --> 00:45:23,581
+
+
 That's right!
 
-537
-00:45:24,161 --> 00:45:25,338
+
+
 Things aren't so bad.
 
-538
-00:45:25,442 --> 00:45:27,612
+
+
 Look at the parking lot, Larry.
 
-539
-00:45:29,217 --> 00:45:31,356
+
+
 Just look at that parking lot.
 
-540
-00:45:46,753 --> 00:45:47,931
+
+
 Are we eating already?
 
-541
-00:45:48,034 --> 00:45:49,375
+
+
 Sarah's going out.
 
-542
-00:45:50,016 --> 00:45:51,260
+
+
 Ow! Cut it out!
 
-543
-00:45:51,360 --> 00:45:52,539
+
+
 What's going on?
 
-544
-00:45:58,592 --> 00:45:59,592
+
+
 Isn't Dad eating?
 
-545
-00:45:59,617 --> 00:46:00,893
+
+
 He's at the Jolly Roger.
 
-546
-00:46:01,920 --> 00:46:03,099
+
+
 Oh, yeah.
 
-547
-00:46:08,257 --> 00:46:09,304
+
+
 How are you, Larry?
 
-548
-00:46:09,376 --> 00:46:11,766
+
+
 Jesus, I am so sorry
 
-549
-00:46:11,905 --> 00:46:14,293
+
+
 - to be seeing you under these circumstances.
 - Oh, well...
 
-550
-00:46:14,400 --> 00:46:16,856
+
+
 I always thought you and Judy
 were rock solid.
 
-551
-00:46:16,960 --> 00:46:20,059
+
+
 This is so terrible, Larry.
 This is devastating.
 
-552
-00:46:20,161 --> 00:46:21,469
+
+
 Well, you know,
 the way I look at it,
 
-553
-00:46:21,536 --> 00:46:24,952
+
+
 it's an opportunity for me
 to really sit down and figure things out
 
-554
-00:46:25,025 --> 00:46:29,115
+
+
 and look at the world afresh
 instead of just, you know,
 
-555
-00:46:29,184 --> 00:46:32,958
+
+
 settling for the routine,
 tired old way of looking at things.
 
-556
-00:46:34,657 --> 00:46:35,737
+
+
 Really?
 
-557
-00:46:36,992 --> 00:46:38,400
+
+
 I don't know, maybe not.
 
-558
-00:46:40,001 --> 00:46:43,197
+
+
 Well, legally, I have to warn you,
 
-559
-00:46:43,264 --> 00:46:45,632
+
+
 it's never easy for the husband.
 
-560
-00:46:45,695 --> 00:46:48,413
+
+
 Unless, of course,
 there's some question
 
-561
-00:46:48,512 --> 00:46:52,570
+
+
 of the wife having violated
 the marriage contract?
 
-562
-00:46:52,672 --> 00:46:54,614
+
+
 Oh, no, no.
 Nothing like that.
 
-563
-00:46:54,721 --> 00:46:57,175
+
+
 Although she is planning to marry
 Sy Ableman, but they...
 
-564
-00:46:57,280 --> 00:46:58,588
+
+
 Sy Ableman!
 
-565
-00:46:59,617 --> 00:47:02,583
+
+
 - Yes. But they...
 - Esther is barely cold!
 
-566
-00:47:03,360 --> 00:47:04,637
+
+
 She passed three years ago.
 
-567
-00:47:04,704 --> 00:47:08,730
+
+
 Well... Still, this changes
 the complexion, Larry.
 
-568
-00:47:09,184 --> 00:47:10,494
+
+
 Sy Ableman.
 
-569
-00:47:10,592 --> 00:47:13,275
+
+
 Not in the sense that...
 There hasn't been hanky-panky.
 
-570
-00:47:13,344 --> 00:47:14,391
+
+
 To my knowledge.
 
-571
-00:47:14,496 --> 00:47:17,626
+
+
 - Oh?
 - No I'm fairly certain this is not an issue.
 
-572
-00:47:17,695 --> 00:47:20,730
+
+
 And in fact, Judith wants a gett.
 
-573
-00:47:23,199 --> 00:47:24,246
+
+
 A what?
 
-574
-00:47:25,376 --> 00:47:26,804
+
+
 A ritual divorce.
 
-575
-00:47:26,911 --> 00:47:28,952
+
+
 - Oh.
 - So that they can remarry in the faith.
 
-576
-00:47:29,023 --> 00:47:31,195
+
+
 Uh-huh.
 Yeah, sure, uh...
 
-577
-00:47:31,264 --> 00:47:33,206
+
+
 Well, not really a legal issue.
 
-578
-00:47:35,039 --> 00:47:36,251
+
+
 Okay, um...
 
-579
-00:47:37,280 --> 00:47:39,068
+
+
 Good. Good.
 
-580
-00:47:39,840 --> 00:47:41,465
+
+
 Well...
 
-581
-00:47:41,536 --> 00:47:44,831
+
+
 On the other thing,
 the neighbor's property line,
 
-582
-00:47:44,896 --> 00:47:47,416
+
+
 I've asked Solomon Schlutz
 to take a look.
 
-583
-00:47:47,519 --> 00:47:50,748
+
+
 There's very little to do
 with real estate that'll get by Sol.
 
-584
-00:47:50,815 --> 00:47:52,507
+
+
 Okay. Good.
 How do you...
 
-585
-00:47:52,576 --> 00:47:54,005
+
+
 I guess I'm a little worried.
 
-586
-00:47:54,112 --> 00:47:56,184
+
+
 How do you...
 I have money pressures...
 
-587
-00:47:56,255 --> 00:47:58,262
+
+
 Our fee structure?
 We bill by the hour.
 
-588
-00:47:58,335 --> 00:48:01,467
+
+
 Dave Sieglestein and
 Solomon Schlutz bill at 110.
 
-589
-00:48:01,534 --> 00:48:04,251
+
+
 The associates, me,
 for instance, bill at...
 
-590
-00:48:04,351 --> 00:48:06,719
+
+
 Call for Mr. Gopnik.
 Danny at home.
 
-591
-00:48:06,784 --> 00:48:08,726
+
+
 You can take it here.
 
-592
-00:48:10,815 --> 00:48:11,896
+
+
 0809.
 
-593
-00:48:13,759 --> 00:48:14,759
+
+
 Danny?
 
-594
-00:48:14,782 --> 00:48:16,344
+
+
 <i>- Hey, Dad.
 - Are you all right?</i>
 
-595
-00:48:16,416 --> 00:48:17,416
+
+
 Are you all...
 
-596
-00:48:17,472 --> 00:48:18,780
+
+
 <i>F Troop is fuzzy.</i>
 
-597
-00:48:20,576 --> 00:48:21,786
+
+
 What?
 
-598
-00:48:21,855 --> 00:48:23,545
+
+
 <i>F Troop is still fuzzy.</i>
 
-599
-00:48:26,335 --> 00:48:28,092
+
+
 <i>- Dad?
 - Is everything okay?</i>
 
-600
-00:49:51,293 --> 00:49:52,293
+
+
 Clive?
 
-601
-00:49:55,389 --> 00:49:56,389
+
+
 Clive!
 
-602
-00:49:58,143 --> 00:50:00,826
+
+
 You little bastard!
 You gonna send your mother next?
 
-603
-00:50:02,813 --> 00:50:04,570
+
+
 Little bastard!
 I want to see you!
 
-604
-00:50:13,054 --> 00:50:14,054
+
+
 Hold on.
 
-605
-00:50:14,398 --> 00:50:16,373
+
+
 Professor Gopnik,
 it's Dick Dutton again.
 
-606
-00:50:17,150 --> 00:50:18,164
+
+
 Dick Dutton.
 
-607
-00:50:20,157 --> 00:50:21,157
+
+
 Hello?
 
-608
-00:50:21,213 --> 00:50:22,708
+
+
 <i>Hello, Mr. Gopnik?</i>
 
-609
-00:50:22,782 --> 00:50:25,367
+
+
 <i>This is Dick Dutton
 from the Columbia Record Club.</i>
 
-610
-00:50:25,469 --> 00:50:28,371
+
+
 <i>I'm calling because
 it's now four months,</i>
 
-611
-00:50:28,478 --> 00:50:30,746
+
+
 <i>and we have yet to receive
 your first payment.</i>
 
-612
-00:50:33,150 --> 00:50:34,579
+
+
 There's some mistake.
 
-613
-00:50:34,653 --> 00:50:36,891
+
+
 I'm not a member
 of the Columbian Record Club.
 
-614
-00:50:36,989 --> 00:50:40,536
+
+
 <i>Sir, you are Lawrence Gopnik
 of 8419 Fern Hill Road?</i>
 
-615
-00:50:40,637 --> 00:50:42,262
+
+
 No, I live at the Jolly Roger.
 
-616
-00:50:42,333 --> 00:50:43,380
+
+
 <i>Excuse me?</i>
 
-617
-00:50:44,030 --> 00:50:45,273
+
+
 No, I...
 
-618
-00:50:46,141 --> 00:50:48,215
+
+
 Well, yes, okay.
 
-619
-00:50:48,317 --> 00:50:50,139
+
+
 <i>- Yes, you are Lawrence Gopnik?
 - Okay.</i>
 
-620
-00:50:50,813 --> 00:50:51,827
+
+
 <i>"Okay" means...</i>
 
-621
-00:50:51,902 --> 00:50:54,074
+
+
 Okay, yes, Lawrence Gopnik, yes.
 
-622
-00:50:54,141 --> 00:50:56,989
+
+
 <i>Okay, well, you received
 your 12 introductory albums,</i>
 
-623
-00:50:57,054 --> 00:51:00,469
+
+
 <i>and you've been receiving the monthly
 main selection for four months now...</i>
 
-624
-00:51:00,541 --> 00:51:02,103
+
+
 The monthly main selection?
 Is that a record?
 
-625
-00:51:02,172 --> 00:51:03,864
+
+
 I didn't ask for any records.
 
-626
-00:51:03,932 --> 00:51:06,967
+
+
 <i>To receive the monthly main selection,
 you do nothing. You...</i>
 
-627
-00:51:07,085 --> 00:51:08,579
+
+
 That's right.
 I haven't done anything.
 
-628
-00:51:08,684 --> 00:51:11,237
+
+
 <i>Yes, that's why you received
 the monthly main selection.</i>
 
-629
-00:51:11,373 --> 00:51:15,878
+
+
 <i>- But...
 - The last one was Santana Abraxas. You...</i>
 
-630
-00:51:15,949 --> 00:51:19,264
+
+
 I didn't ask for Santana Abraxas.
 
-631
-00:51:19,373 --> 00:51:21,380
+
+
 <i>You request the main selection</i>
 
-632
-00:51:21,485 --> 00:51:23,873
+
+
 <i>at the retail price by doing nothing.</i>
 
-633
-00:51:23,949 --> 00:51:25,804
+
+
 <i>It's automatically mailed to you,</i>
 
-634
-00:51:25,869 --> 00:51:27,297
+
+
 <i>plus shipping and handling.</i>
 
-635
-00:51:27,436 --> 00:51:30,121
+
+
 <i>- You're about to receive...
 - I can't afford a new record every month!</i>
 
-636
-00:51:30,188 --> 00:51:31,530
+
+
 I haven't asked...
 
-637
-00:51:31,597 --> 00:51:34,443
+
+
 <i>You're about to get Cosmo's Factory, sir.</i>
 
-638
-00:51:34,509 --> 00:51:36,036
+
+
 <i>The June main selection.</i>
 
-639
-00:51:36,108 --> 00:51:38,476
+
+
 Look, look,
 something is very wrong!
 
-640
-00:51:38,572 --> 00:51:40,677
+
+
 I don't want Santana Abraxas.
 
-641
-00:51:40,748 --> 00:51:42,820
+
+
 I've just been in a
 terrible auto accident.
 
-642
-00:51:46,829 --> 00:51:47,940
+
+
 <i>I'm sorry, sir.</i>
 
-643
-00:51:49,771 --> 00:51:53,001
+
+
 Well, thank you.
 But I...
 
-644
-00:51:53,867 --> 00:51:54,867
+
+
 <i>Are you okay?</i>
 
-645
-00:51:56,876 --> 00:51:59,724
+
+
 Yes, yes.
 No one was hurt.
 
-646
-00:52:00,907 --> 00:52:03,297
+
+
 <i>Okay. Good.</i>
 
-647
-00:52:04,556 --> 00:52:08,516
+
+
 <i>Well, you had 14 days
 to listen to Santana Abraxas.</i>
 
-648
-00:52:08,588 --> 00:52:09,603
+
+
 - Sir?
 - Look...
 
-649
-00:52:09,677 --> 00:52:12,262
+
+
 I didn't ask for Santana Abraxas,
 
-650
-00:52:12,364 --> 00:52:15,713
+
+
 I didn't listen to Santana Abraxas,
 
-651
-00:52:15,789 --> 00:52:17,643
+
+
 I didn't do anything!
 
-652
-00:52:17,708 --> 00:52:19,563
+
+
 <i>- Sir! Your son.
 - Mr. Gopnik...</i>
 
-653
-00:52:19,628 --> 00:52:21,003
+
+
 He says it's urgent.
 
-654
-00:52:21,068 --> 00:52:22,311
+
+
 <i>We can't make you listen
 to the record...</i>
 
-655
-00:52:22,411 --> 00:52:24,005
+
+
 <i>- Okay, okay, okay...
 - We provide...</i>
 
-656
-00:52:24,077 --> 00:52:25,483
+
+
 Okay, I have to call you back.
 
-657
-00:52:25,547 --> 00:52:27,239
+
+
 <i>- This is... I'm sorry.
 - No, no, Mr. Gopnik, please...</i>
 
-658
-00:52:27,309 --> 00:52:28,802
+
+
 <i>- Danny?
 - Yeah. Listen, Dad...</i>
 
-659
-00:52:28,876 --> 00:52:30,501
+
+
 Did you join the Columbia Record Club?
 
-660
-00:52:32,907 --> 00:52:34,021
+
+
 <i>- Danny?
 - Um...</i>
 
-661
-00:52:34,123 --> 00:52:37,222
+
+
 Danny, this is completely unacceptable.
 I can't afford to...
 
-662
-00:52:37,324 --> 00:52:38,949
+
+
 <i>Okay, Dad, but you gotta come home.</i>
 
-663
-00:52:40,396 --> 00:52:41,606
+
+
 Is it F Troop?
 
-664
-00:52:41,675 --> 00:52:43,530
+
+
 <i>No, Mom's real upset.</i>
 
-665
-00:52:55,115 --> 00:52:57,155
+
+
 - Dad?
 - Yes?
 
-666
-00:52:57,226 --> 00:52:59,114
+
+
 Does this mean I can't go
 to the Hole tonight?
 
-667
-00:52:59,211 --> 00:53:01,034
+
+
 Does... what mean?
 What happened?
 
-668
-00:53:01,132 --> 00:53:03,367
+
+
 Oh, Sy Ableman,
 he died in a car crash.
 
-669
-00:53:03,436 --> 00:53:04,436
+
+
 Hey, Dad.
 
-670
-00:53:04,844 --> 00:53:05,844
+
+
 What?
 
-671
-00:53:05,931 --> 00:53:07,273
+
+
 So you're coming back home?
 
-672
-00:53:08,235 --> 00:53:09,315
+
+
 Can you fix the aerial?
 
-673
-00:53:09,387 --> 00:53:10,402
+
+
 What?
 
-674
-00:53:10,474 --> 00:53:12,514
+
+
 It's still, you know...
 
-675
-00:53:45,068 --> 00:53:47,588
+
+
 She seems to be asking an awful lot.
 
-676
-00:53:49,322 --> 00:53:51,210
+
+
 But then... I don't know.
 
-677
-00:53:51,626 --> 00:53:53,699
+
+
 Somebody has to pay for Sy's funeral.
 
-678
-00:53:54,635 --> 00:53:55,617
+
+
 Uh-huh.
 
-679
-00:53:55,628 --> 00:53:57,001
+
+
 His own estate is in probate,
 
-680
-00:53:57,067 --> 00:53:58,822
+
+
 but why does it have to be me?
 
-681
-00:53:58,922 --> 00:54:00,963
+
+
 Or is it wrong to complain?
 
-682
-00:54:01,355 --> 00:54:02,664
+
+
 Judy says it is.
 
-683
-00:54:03,275 --> 00:54:05,161
+
+
 But I'm so strapped for cash right now,
 
-684
-00:54:05,226 --> 00:54:08,041
+
+
 carrying the mortgage,
 and paying for the Jolly Roger,
 
-685
-00:54:08,106 --> 00:54:11,402
+
+
 and I wrecked the car,
 and Danny's bar mitzvah coming up, I...
 
-686
-00:54:11,467 --> 00:54:14,184
+
+
 Something like this,
 there's never a good time.
 
-687
-00:54:14,827 --> 00:54:17,478
+
+
 I don't know where it all leaves me.
 
-688
-00:54:17,547 --> 00:54:18,626
+
+
 Sy's death.
 
-689
-00:54:20,043 --> 00:54:22,945
+
+
 Obviously, it's not going
 to go back like it was.
 
-690
-00:54:23,050 --> 00:54:24,050
+
+
 Mmm.
 
-691
-00:54:24,074 --> 00:54:25,929
+
+
 - Would you even want that, Larry?
 - No, I...
 
-692
-00:54:25,994 --> 00:54:29,289
+
+
 Well, yeah.
 Sometimes.
 
-693
-00:54:29,963 --> 00:54:30,963
+
+
 Or...
 
-694
-00:54:31,755 --> 00:54:33,510
+
+
 I don't know.
 I guess
 
-695
-00:54:34,123 --> 00:54:36,489
+
+
 the honest answer is,
 I don't know.
 
-696
-00:54:36,554 --> 00:54:39,849
+
+
 What was my life before?
 Not what I thought it was.
 
-697
-00:54:40,746 --> 00:54:41,956
+
+
 So what does it all mean?
 
-698
-00:54:42,025 --> 00:54:44,262
+
+
 What is Hashem trying to tell me,
 
-699
-00:54:44,362 --> 00:54:46,599
+
+
 making me pay for Sy Ableman's funeral?
 
-700
-00:54:46,666 --> 00:54:47,876
+
+
 - Mmm.
 - And did I tell you
 
-701
-00:54:47,945 --> 00:54:50,760
+
+
 I had a car accident
 the same time Sy had his?
 
-702
-00:54:50,826 --> 00:54:53,030
+
+
 - The same instant, for all I know.
 - Mmm.
 
-703
-00:54:53,130 --> 00:54:56,708
+
+
 Is Hashem trying to tell me
 that Sy Ableman is me?
 
-704
-00:54:57,163 --> 00:54:59,583
+
+
 Or that we are all one or something?
 
-705
-00:55:01,003 --> 00:55:02,563
+
+
 How does God speak to us?
 
-706
-00:55:03,690 --> 00:55:04,737
+
+
 It's a good question.
 
-707
-00:55:05,706 --> 00:55:06,786
+
+
 You know Lee Sussman.
 
-708
-00:55:07,530 --> 00:55:09,472
+
+
 Dr Sussman?
 I think I... Yeah.
 
-709
-00:55:10,090 --> 00:55:12,425
+
+
 Did he ever tell you
 about the goy's teeth?
 
-710
-00:55:13,034 --> 00:55:14,976
+
+
 No Uh, what goy?
 
-711
-00:55:15,081 --> 00:55:18,081
+
+
 So, Lee is at work one day.
 
-712
-00:55:18,505 --> 00:55:21,505
+
+
 <i>You know, he has the orthodontic practice
 there at Great Bear.</i>
 
-713
-00:55:23,210 --> 00:55:24,518
+
+
 <i>He's making a plaster mold.</i>
 
-714
-00:55:24,585 --> 00:55:28,034
+
+
 <i>It's for corrective bridgework
 in the mouth of one of his patents,</i>
 
-715
-00:55:28,106 --> 00:55:29,534
+
+
 Russell Krauss.
 
-716
-00:55:40,873 --> 00:55:43,045
+
+
 <i>The mold dries,
 and Lee is examining it one day</i>
 
-717
-00:55:43,114 --> 00:55:45,382
+
+
 <i>before fabricating an appliance.</i>
 
-718
-00:55:45,481 --> 00:55:47,106
+
+
 <i>He notices something unusual.</i>
 
-719
-00:55:50,282 --> 00:55:52,965
+
+
 <i>There appears to be
 something engraved</i>
 
-720
-00:55:53,034 --> 00:55:55,782
+
+
 <i>on the inside of the
 patents lower incisors.</i>
 
-721
-00:56:03,465 --> 00:56:06,782
+
+
 <i>Hey vav shin yud ayin nun yud.</i>
 
-722
-00:56:08,425 --> 00:56:10,280
+
+
 <i>Ho-she-ay-ni.</i>
 
-723
-00:56:10,344 --> 00:56:12,581
+
+
 <i>"Help me. Save me".</i>
 
-724
-00:56:12,873 --> 00:56:14,978
+
+
 This, in a goy's mouth, Larry.
 
-725
-00:56:21,768 --> 00:56:23,362
+
+
 <i>He calls the goy back</i>
 
-726
-00:56:23,432 --> 00:56:26,597
+
+
 <i>on the pretense of needling
 additional measurements for the appliance.</i>
 
-727
-00:56:26,954 --> 00:56:28,099
+
+
 <i>"How are you?</i>
 
-728
-00:56:29,193 --> 00:56:31,081
+
+
 <i>"Noticed any other problems
 with your teeth?"</i>
 
-729
-00:56:33,161 --> 00:56:34,161
+
+
 <i>"No".</i>
 
-730
-00:56:41,545 --> 00:56:42,722
+
+
 <i>There it is.</i>
 
-731
-00:56:43,304 --> 00:56:44,800
+
+
 <i>Ho-she-ay-ni.</i>
 
-732
-00:56:44,873 --> 00:56:45,873
+
+
 <i>"Help me".</i>
 
-733
-00:56:46,793 --> 00:56:47,793
+
+
 <i>Son of a gun.</i>
 
-734
-00:56:50,954 --> 00:56:52,262
+
+
 <i>Sussman goes home.</i>
 
-735
-00:56:53,128 --> 00:56:54,818
+
+
 <i>Can Sussman eat?
 Sussman can't eat.</i>
 
-736
-00:56:55,688 --> 00:56:58,023
+
+
 <i>Can Sussman sleep?
 Sussman can't sleep.</i>
 
-737
-00:57:03,945 --> 00:57:06,311
+
+
 <i>Sussman looks at the molds
 of his other patents,</i>
 
-738
-00:57:06,409 --> 00:57:07,619
+
+
 <i>goy and Jew alike,</i>
 
-739
-00:57:07,721 --> 00:57:09,695
+
+
 <i>seeking other messages.
 He finds none.</i>
 
-740
-00:57:10,601 --> 00:57:12,193
+
+
 <i>He looks In his own mouth.</i>
 
-741
-00:57:12,809 --> 00:57:13,809
+
+
 <i>Nothing.</i>
 
-742
-00:57:14,664 --> 00:57:16,487
+
+
 <i>He looks in his wife's mouth.</i>
 
-743
-00:57:21,800 --> 00:57:22,880
+
+
 <i>Nothing.</i>
 
-744
-00:57:23,721 --> 00:57:25,793
+
+
 But Sussman is an educated man.
 
-745
-00:57:26,184 --> 00:57:27,777
+
+
 Not the world's greatest sage, maybe.
 
-746
-00:57:27,880 --> 00:57:29,059
+
+
 No Rabbi Marshak.
 
-747
-00:57:29,385 --> 00:57:32,253
+
+
 <i>But he knows a thing or two
 about the Zohar and the Kabbalah.</i>
 
-748
-00:57:32,360 --> 00:57:35,590
+
+
 <i>He knows that every Hebrew letter
 has its numeric equivalent.</i>
 
-749
-00:57:35,688 --> 00:57:38,438
+
+
 <i>8-4-5-4-4-7-3</i>
 
-750
-00:57:38,503 --> 00:57:40,740
+
+
 <i>Seven digits.
 A phone number, maybe?</i>
 
-751
-00:57:42,793 --> 00:57:46,240
+
+
 <i>"Hello? Do you know a goy
 named Krauss, Russell Krauss?"</i>
 
-752
-00:57:46,313 --> 00:57:47,313
+
+
 <i>"Who?"</i>
 
-753
-00:57:47,400 --> 00:57:48,545
+
+
 <i>"Where have I called?</i>
 
-754
-00:57:49,224 --> 00:57:52,094
+
+
 <i>"The Red Owl in Bloomington?
 Thanks so much".</i>
 
-755
-00:57:56,585 --> 00:57:57,697
+
+
 <i>He goes.</i>
 
-756
-00:58:00,327 --> 00:58:03,197
+
+
 <i>It's a Red Owl.
 Groceries, what have you.</i>
 
-757
-00:58:06,152 --> 00:58:08,967
+
+
 <i>Sussman goes home.
 What does it mean?</i>
 
-758
-00:58:09,384 --> 00:58:12,231
+
+
 <i>He has to find out
 if he is ever to sleep again.</i>
 
-759
-00:58:12,905 --> 00:58:14,181
+
+
 <i>He goes to see...</i>
 
-760
-00:58:15,784 --> 00:58:16,831
+
+
 the Rabbi Nachtner.
 
-761
-00:58:16,903 --> 00:58:19,686
+
+
 <i>He comes In, he sits right
 where you're sitting, right now.</i>
 
-762
-00:58:20,360 --> 00:58:21,668
+
+
 <i>"What does it mean, Rabbi?</i>
 
-763
-00:58:22,824 --> 00:58:25,190
+
+
 <i>"Is it a sign from Hashem?
 Help me.</i>
 
-764
-00:58:25,288 --> 00:58:27,742
+
+
 <i>"I, Sussman, should be doing something
 to help this goy.</i>
 
-765
-00:58:27,847 --> 00:58:29,856
+
+
 <i>"Doing what?
 The teeth don't say.</i>
 
-766
-00:58:29,960 --> 00:58:33,440
+
+
 <i>"Or maybe I'm supposed to help people
 generally lead a more righteous life?</i>
 
-767
-00:58:34,568 --> 00:58:36,989
+
+
 <i>"Is the answer in Kabbalah?
 In Torah?</i>
 
-768
-00:58:37,864 --> 00:58:39,619
+
+
 <i>"Or is there even a question?</i>
 
-769
-00:58:40,583 --> 00:58:43,932
+
+
 <i>"Tell me, Rabbi, what can such a sign</i>
 
-770
-00:58:44,264 --> 00:58:45,442
+
+
 "mean?"
 
-771
-00:58:53,192 --> 00:58:54,467
+
+
 So? What did you tell him?
 
-772
-00:58:55,943 --> 00:58:56,943
+
+
 Sussman?
 
-773
-00:58:57,159 --> 00:58:58,338
+
+
 Yes.
 
-774
-00:58:58,438 --> 00:59:00,512
+
+
 Is it relevant?
 
-775
-00:59:00,583 --> 00:59:02,012
+
+
 Well, isn't that why you're telling me?
 
-776
-00:59:02,920 --> 00:59:03,934
+
+
 Okay.
 
-777
-00:59:05,063 --> 00:59:06,590
+
+
 Nachtner says, "Look.
 
-778
-00:59:06,664 --> 00:59:08,355
+
+
 <i>"The teeth, we don't know.</i>
 
-779
-00:59:08,423 --> 00:59:10,594
+
+
 "A sign from Hashem?
 Don't know.
 
-780
-00:59:10,983 --> 00:59:11,983
+
+
 "Helping others?
 
-781
-00:59:13,224 --> 00:59:14,335
+
+
 "Couldn't hurt".
 
-782
-00:59:18,023 --> 00:59:20,577
+
+
 No, no, but who put it there?
 
-783
-00:59:20,679 --> 00:59:24,639
+
+
 Was it for him, Sussman? Or for whoever
 found it? Or for just... For, for...
 
-784
-00:59:24,710 --> 00:59:25,920
+
+
 We can't know everything.
 
-785
-00:59:25,990 --> 00:59:27,681
+
+
 It sounds like you don't know anything!
 
-786
-00:59:27,751 --> 00:59:29,059
+
+
 Why even tell me the story?
 
-787
-00:59:29,382 --> 00:59:31,771
+
+
 First I should tell you,
 then I shouldn't.
 
-788
-00:59:34,599 --> 00:59:35,844
+
+
 What happened to Sussman?
 
-789
-00:59:36,231 --> 00:59:38,139
+
+
 What would happen?
 Not much.
 
-790
-00:59:38,246 --> 00:59:39,293
+
+
 <i>He went back to work.</i>
 
-791
-00:59:39,847 --> 00:59:42,498
+
+
 <i>For a while, he checked every
 patents teeth for new messages.</i>
 
-792
-00:59:42,599 --> 00:59:43,710
+
+
 <i>He didnt find any.</i>
 
-793
-00:59:43,782 --> 00:59:45,693
+
+
 <i>In time, he found he stopped checking.</i>
 
-794
-00:59:47,398 --> 00:59:48,827
+
+
 <i>He returned to life.</i>
 
-795
-00:59:53,670 --> 00:59:55,940
+
+
 These questions that are
 bothering you, Larry,
 
-796
-00:59:57,063 --> 00:59:58,492
+
+
 maybe they're like a toothache.
 
-797
-00:59:59,751 --> 01:00:02,139
+
+
 Feel them for a while,
 then they go away.
 
-798
-01:00:02,630 --> 01:00:05,119
+
+
 I don't want it to just go away!
 I want an answer!
 
-799
-01:00:05,190 --> 01:00:06,978
+
+
 Sure. We all want the answer.
 
-800
-01:00:07,943 --> 01:00:09,699
+
+
 Hashem doesn't owe us the answer, Larry.
 
-801
-01:00:10,182 --> 01:00:11,873
+
+
 Hashem doesn't owe us anything.
 
-802
-01:00:11,943 --> 01:00:13,853
+
+
 The obligation runs the other way.
 
-803
-01:00:14,407 --> 01:00:16,675
+
+
 Why does he make us feel the questions
 
-804
-01:00:16,742 --> 01:00:19,045
+
+
 if he's not going
 to give us any answers?
 
-805
-01:00:21,222 --> 01:00:22,432
+
+
 He hasn't told me.
 
-806
-01:00:27,590 --> 01:00:30,492
+
+
 And what happened to the goy?
 
-807
-01:00:30,918 --> 01:00:31,918
+
+
 The goy?
 
-808
-01:00:33,702 --> 01:00:34,702
+
+
 Who cares?
 
-809
-01:00:35,079 --> 01:00:37,445
+
+
 <i>Sy Ableman was a serious man.</i>
 
-810
-01:00:39,782 --> 01:00:43,295
+
+
 Sy Ableman was a man
 devoted to his community.
 
-811
-01:00:43,942 --> 01:00:47,259
+
+
 To Torah study.
 To his beloved wife, Esther,
 
-812
-01:00:47,365 --> 01:00:50,465
+
+
 until three years ago she passed,
 
-813
-01:00:50,565 --> 01:00:53,021
+
+
 and to his duty, as he saw it.
 
-814
-01:00:54,791 --> 01:00:56,384
+
+
 Where does such a man go?
 
-815
-01:00:57,286 --> 01:01:01,541
+
+
 A tzadik. Who knows,
 maybe even a lamed vavnik.
 
-816
-01:01:02,021 --> 01:01:03,548
+
+
 A man beloved by all.
 
-817
-01:01:03,623 --> 01:01:05,923
+
+
 A man who despised the frivolous.
 
-818
-01:01:05,989 --> 01:01:09,186
+
+
 Could such a serious man simply
 
-819
-01:01:10,342 --> 01:01:11,342
+
+
 disappear?
 
-820
-01:01:12,197 --> 01:01:15,612
+
+
 We speak of olam ha-ba,
 the world to come.
 
-821
-01:01:16,197 --> 01:01:17,197
+
+
 Not heaven.
 
-822
-01:01:18,342 --> 01:01:20,992
+
+
 Not what the gentiles think of
 as afterlife.
 
-823
-01:01:21,063 --> 01:01:24,358
+
+
 "Olam ha-ba".
 What is olam ha-ba?
 
-824
-01:01:25,829 --> 01:01:28,829
+
+
 Where is olam ha-ba?
 
-825
-01:01:30,277 --> 01:01:34,402
+
+
 Well, it is not
 a geographic place, certainly.
 
-826
-01:01:34,469 --> 01:01:36,958
+
+
 Like Canada.
 
-827
-01:01:37,670 --> 01:01:40,485
+
+
 Nor is it the
 Eretz zavat chalav udvash,
 
-828
-01:01:40,550 --> 01:01:42,143
+
+
 the land flowing with milk and honey.
 
-829
-01:01:42,246 --> 01:01:45,213
+
+
 For we are not promised
 a personal reward.
 
-830
-01:01:45,925 --> 01:01:47,300
+
+
 A gold star.
 
-831
-01:01:48,358 --> 01:01:51,773
+
+
 A first-class VIP lounge where we
 get milk and cookies to eternity.
 
-832
-01:01:53,349 --> 01:01:56,994
+
+
 Olam ha-ba is
 in the bosom of Abraham.
 
-833
-01:02:01,925 --> 01:02:03,038
+
+
 Arthur Gopnik?
 
-834
-01:02:04,677 --> 01:02:06,106
+
+
 Are you Arthur Gopnik?
 
-835
-01:02:07,460 --> 01:02:09,371
+
+
 I'm Lawrence Gopnik.
 
-836
-01:02:09,476 --> 01:02:11,298
+
+
 Do you go by the name Arthur Gopnik?
 
-837
-01:02:11,396 --> 01:02:12,804
+
+
 No.
 
-838
-01:02:12,869 --> 01:02:14,112
+
+
 Is that Arthur Gopnik?
 
-839
-01:02:17,989 --> 01:02:20,639
+
+
 Can you tell me what's going on?
 We're sitting shiva here.
 
-840
-01:02:20,708 --> 01:02:21,757
+
+
 You're what?
 
-841
-01:02:22,501 --> 01:02:24,193
+
+
 A religious observance.
 
-842
-01:02:24,262 --> 01:02:26,268
+
+
 We're bereaved.
 
-843
-01:02:26,438 --> 01:02:27,550
+
+
 Who died?
 
-844
-01:02:27,621 --> 01:02:29,050
+
+
 My wife's, uh...
 
-845
-01:02:31,750 --> 01:02:32,829
+
+
 It's a long story.
 
-846
-01:02:32,902 --> 01:02:36,545
+
+
 Look, you tell Gopnik, Arthur Gopnik,
 he's breaking the law.
 
-847
-01:02:36,646 --> 01:02:38,914
+
+
 We're not arresting him now,
 but next time we will.
 
-848
-01:02:38,981 --> 01:02:41,795
+
+
 Gambling's against the law in this state.
 That's just the way it is.
 
-849
-01:02:41,860 --> 01:02:44,577
+
+
 All right.
 Go back to your thing.
 
-850
-01:02:45,509 --> 01:02:46,753
+
+
 Sorry, sir.
 
-851
-01:02:49,030 --> 01:02:52,574
+
+
 Dad, we get channel four now,
 but not channel seven.
 
-852
-01:02:52,677 --> 01:02:54,945
+
+
 Arthur, how could you do that
 to this family?
 
-853
-01:02:55,940 --> 01:02:58,461
+
+
 - On Sy's...
 - It's hardly a crime, I mean, nobody got hurt.
 
-854
-01:02:58,565 --> 01:02:59,940
+
+
 That doesn't make it right!
 
-855
-01:03:00,036 --> 01:03:01,663
+
+
 He won a lot of money, Dad.
 
-856
-01:03:01,764 --> 01:03:03,422
+
+
 The Mentaculus really works!
 
-857
-01:03:04,581 --> 01:03:05,858
+
+
 You knew about it?
 
-858
-01:03:07,204 --> 01:03:08,699
+
+
 - Well...
 - They must have finked me out.
 
-859
-01:03:09,637 --> 01:03:10,978
+
+
 They knew I could just go on winning,
 
-860
-01:03:11,077 --> 01:03:12,505
+
+
 so they blackballed me and now...
 
-861
-01:03:12,581 --> 01:03:13,987
+
+
 What did you do with the money you won?
 
-862
-01:03:18,083 --> 01:03:19,262
+
+
 What's going on?
 
-863
-01:03:19,364 --> 01:03:21,152
+
+
 Well, I didn't want it,
 and Danny said that he could use it...
 
-864
-01:03:21,219 --> 01:03:22,333
+
+
 That is so unfair!
 
-865
-01:03:22,436 --> 01:03:23,713
+
+
 - What are you...
 - I'll tell you what's unfair.
 
-866
-01:03:23,780 --> 01:03:25,668
+
+
 What's unfair is them
 not letting me play in their card game.
 
-867
-01:03:25,764 --> 01:03:27,706
+
+
 Why give him the money?
 You know what he spends it on?
 
-868
-01:03:27,780 --> 01:03:28,795
+
+
 I know about the records.
 
-869
-01:03:28,869 --> 01:03:30,811
+
+
 Records? Do you think
 he buys records from Mike Fagle?
 
-870
-01:03:30,916 --> 01:03:32,346
+
+
 At least I'm not saving up
 for a nose job.
 
-871
-01:03:32,420 --> 01:03:33,664
+
+
 - What a brat!
 - What?
 
-872
-01:03:33,764 --> 01:03:36,514
+
+
 Nobody in this house is getting a nose job!
 You got that?
 
-873
-01:03:37,829 --> 01:03:39,771
+
+
 Danny!
 You're not excused!
 
-874
-01:03:39,876 --> 01:03:40,956
+
+
 We're still talking!
 
-875
-01:03:41,027 --> 01:03:42,751
+
+
 What was this card game, Arthur?
 
-876
-01:03:42,820 --> 01:03:44,730
+
+
 Some goys put together a private game.
 
-877
-01:03:44,836 --> 01:03:45,981
+
+
 I think that they're Italian.
 
-878
-01:03:46,083 --> 01:03:47,458
+
+
 Danny!
 What's going on?
 
-879
-01:03:47,556 --> 01:03:49,922
+
+
 Danny?
 We're sitting shiva here.
 
-880
-01:03:58,788 --> 01:04:04,353
+
+
 Well, she has retained
 Barney Silver at Tuchman, Marsh.
 
-881
-01:04:05,476 --> 01:04:07,070
+
+
 This is a...
 
-882
-01:04:08,036 --> 01:04:11,385
+
+
 - This is an aggressive firm, Larry.
 - Mmm-hmm.
 
-883
-01:04:11,460 --> 01:04:14,275
+
+
 These are not pleasant people.
 
-884
-01:04:14,340 --> 01:04:17,340
+
+
 Judith is free to retain whoever she...
 
-885
-01:04:18,179 --> 01:04:20,635
+
+
 I take it you don't talk?
 
-886
-01:04:22,980 --> 01:04:26,242
+
+
 It's hard.
 I think she emptied our bank account.
 
-887
-01:04:26,307 --> 01:04:27,289
+
+
 Mmm.
 
-888
-01:04:27,300 --> 01:04:31,228
+
+
 I tried to ask her about it, very civilly. She...
 - Yeah.
 
-889
-01:04:31,300 --> 01:04:36,416
+
+
 Yeah, you need to open a new account
 in your name only.
 
-890
-01:04:36,516 --> 01:04:38,784
+
+
 Put your paychecks in there
 from here on out.
 
-891
-01:04:38,884 --> 01:04:40,541
+
+
 - Can I?
 - Oh, absolutely.
 
-892
-01:04:40,643 --> 01:04:42,105
+
+
 It's not dishonest?
 
-893
-01:04:42,179 --> 01:04:43,838
+
+
 Oh, absolutely.
 
-894
-01:04:43,907 --> 01:04:45,434
+
+
 - You...
 - I hate to say this,
 
-895
-01:04:45,507 --> 01:04:49,119
+
+
 but I think she's also been
 sneaking cash out of my wallet.
 
-896
-01:04:49,186 --> 01:04:51,128
+
+
 Oh, boy. Oh, boy.
 
-897
-01:04:51,458 --> 01:04:56,893
+
+
 Yeah, well, this is
 definitely adversarial.
 
-898
-01:05:00,355 --> 01:05:02,777
+
+
 Larry? Are you all right?
 Larry!
 
-899
-01:05:02,882 --> 01:05:06,429
+
+
 Hey, come on now! Larry!
 There's no need for that.
 
-900
-01:05:06,500 --> 01:05:08,190
+
+
 Larry, Larry, we...
 
-901
-01:05:08,260 --> 01:05:10,813
+
+
 We're going to get through this.
 
-902
-01:05:15,362 --> 01:05:17,751
+
+
 Have you talked to the Rabbi?
 
-903
-01:05:23,106 --> 01:05:24,733
+
+
 I talked to Nachtner.
 
-904
-01:05:25,603 --> 01:05:27,938
+
+
 Was he helpful at all?
 
-905
-01:05:30,786 --> 01:05:32,860
+
+
 What, did he tell you
 about the goy's teeth?
 
-906
-01:05:34,659 --> 01:05:36,731
+
+
 You should try to talk to Marshak.
 
-907
-01:05:36,994 --> 01:05:40,028
+
+
 They told me he doesn't do
 pastoral work anymore.
 
-908
-01:05:40,099 --> 01:05:41,146
+
+
 He just...
 
-909
-01:05:42,498 --> 01:05:45,150
+
+
 congratulates the bar mitzvah boy
 every week.
 
-910
-01:05:45,219 --> 01:05:46,494
+
+
 Well, that's too bad.
 
-911
-01:05:46,980 --> 01:05:50,143
+
+
 He's a very wise man, Marshak.
 
-912
-01:05:50,755 --> 01:05:51,998
+
+
 Getting old.
 
-913
-01:05:52,898 --> 01:05:54,010
+
+
 Very old.
 
-914
-01:05:55,139 --> 01:05:56,894
+
+
 No, me.
 
-915
-01:05:58,722 --> 01:06:01,210
+
+
 - Uh, Dick Dutton. Columbia Record Club.
 - Not now.
 
-916
-01:06:01,315 --> 01:06:02,972
+
+
 Does he ever come to the phone?
 
-917
-01:06:06,402 --> 01:06:08,737
+
+
 If I came in, could...
 
-918
-01:06:11,715 --> 01:06:14,496
+
+
 Well, how about
 at Rabbi Marshak's convenience?
 
-919
-01:06:16,099 --> 01:06:17,275
+
+
 Uh-huh. Uh-huh.
 
-920
-01:06:17,762 --> 01:06:20,545
+
+
 Well, could I give you my number
 at the Jolly Roger?
 
-921
-01:06:20,641 --> 01:06:23,228
+
+
 X squared, so that delta X equals
 
-922
-01:06:23,298 --> 01:06:26,266
+
+
 the square root of .077 A
 squared minus zero,
 
-923
-01:06:26,338 --> 01:06:29,438
+
+
 from which we derive the square root
 of .077 A squared.
 
-924
-01:06:29,507 --> 01:06:30,967
+
+
 And also, the uncertainty
 
-925
-01:06:31,074 --> 01:06:34,239
+
+
 in P is equal to the square root
 of bracket P squared
 
-926
-01:06:34,306 --> 01:06:36,673
+
+
 minus bracket P squared,
 
-927
-01:06:36,739 --> 01:06:39,128
+
+
 which also equals the square root
 of H over A squared.
 
-928
-01:06:39,233 --> 01:06:41,851
+
+
 Which lets us delta X, delta P
 
-929
-01:06:41,954 --> 01:06:45,697
+
+
 equals the square root of .077 A squared,
 
-930
-01:06:45,795 --> 01:06:50,945
+
+
 H over A squared, and 1.74 H bar.
 
-931
-01:06:51,043 --> 01:06:52,351
+
+
 Okay?
 
-932
-01:06:52,418 --> 01:06:53,911
+
+
 The Uncertainty Principle.
 
-933
-01:06:54,498 --> 01:06:57,465
+
+
 It proves we can't ever really know
 
-934
-01:06:57,538 --> 01:06:59,032
+
+
 what's going on.
 
-935
-01:07:03,393 --> 01:07:06,907
+
+
 But even though you can't figure
 anything out,
 
-936
-01:07:06,978 --> 01:07:09,695
+
+
 you will be responsible for it
 on the mid-term.
 
-937
-01:07:13,442 --> 01:07:15,612
+
+
 - Did you follow that?
 - Of course.
 
-938
-01:07:16,226 --> 01:07:18,746
+
+
 Except that I know what's going on.
 
-939
-01:07:19,394 --> 01:07:20,824
+
+
 How do you explain?
 
-940
-01:07:20,898 --> 01:07:24,672
+
+
 Well, it might be that in,
 you know, in olam ha-ba...
 
-941
-01:07:24,737 --> 01:07:27,706
+
+
 Excuse me, not the point.
 In this world, Larry.
 
-942
-01:07:28,802 --> 01:07:32,315
+
+
 Now I'll concede that
 it's subtle, it's clever.
 
-943
-01:07:32,994 --> 01:07:35,612
+
+
 But at the end of the day,
 is it convincing?
 
-944
-01:07:36,097 --> 01:07:37,985
+
+
 Well, yes, it's convincing.
 
-945
-01:07:38,081 --> 01:07:40,023
+
+
 It's a proof.
 It's mathematics.
 
-946
-01:07:40,097 --> 01:07:44,255
+
+
 No, excuse me.
 Mathematics is the art of the possible.
 
-947
-01:07:45,025 --> 01:07:46,880
+
+
 I don't think so.
 
-948
-01:07:46,945 --> 01:07:49,793
+
+
 The art of the possible, that's...
 
-949
-01:07:49,858 --> 01:07:51,451
+
+
 I can't remember.
 Something else.
 
-950
-01:07:51,554 --> 01:07:52,829
+
+
 I'm a serious man, Larry.
 
-951
-01:07:52,896 --> 01:07:55,570
+
+
 I know that So, if I've got it wrong,
 what do I...
 
-952
-01:07:55,670 --> 01:07:56,726
+
+
 So simple.
 
-953
-01:07:57,474 --> 01:07:59,382
+
+
 See Marshak.
 
-954
-01:07:59,458 --> 01:08:02,458
+
+
 I know! I want to see Marshak!
 I want to see Marshak!
 
-955
-01:08:03,393 --> 01:08:05,150
+
+
 I fucked your wife, Larry!
 
-956
-01:08:05,217 --> 01:08:08,480
+
+
 I seriously fucked her!
 That's what's going on!
 
-957
-01:08:08,545 --> 01:08:09,545
+
+
 See Marshak!
 
-958
-01:08:42,176 --> 01:08:43,519
+
+
 Mr. Gopnik.
 
-959
-01:08:43,585 --> 01:08:46,104
+
+
 Hello, Mrs. Samsky.
 
-960
-01:08:46,176 --> 01:08:49,341
+
+
 I was going to knock,
 and then I thought you weren't here.
 
-961
-01:08:50,016 --> 01:08:51,707
+
+
 I thought I heard something.
 
-962
-01:08:51,777 --> 01:08:53,599
+
+
 Can I help you?
 Do you want to come in?
 
-963
-01:08:53,664 --> 01:08:55,868
+
+
 - No, I...
 - It's cooler.
 
-964
-01:08:55,936 --> 01:08:57,365
+
+
 Oh. Okay.
 
-965
-01:08:59,520 --> 01:09:05,184
+
+
 I've noticed that Mr. Samsky
 isn't around, and I, uh...
 
-966
-01:09:07,936 --> 01:09:09,759
+
+
 - He travels.
 - Uh-huh. Yeah.
 
-967
-01:09:09,824 --> 01:09:12,507
+
+
 So I thought I should let you know,
 since you're somewhat new here,
 
-968
-01:09:12,576 --> 01:09:17,465
+
+
 if you ever have, whatever,
 chores that you'd, um...
 
-969
-01:09:17,537 --> 01:09:22,009
+
+
 Or just help with something I've decided
 to help others, in a neighborly way.
 
-970
-01:09:24,864 --> 01:09:26,173
+
+
 - How thoughtful.
 - Oh, it's nothing.
 
-971
-01:09:26,271 --> 01:09:29,654
+
+
 It's just good to know
 your neighbors, and to help.
 
-972
-01:09:29,760 --> 01:09:31,135
+
+
 Help others.
 
-973
-01:09:31,457 --> 01:09:35,734
+
+
 Although I don't care much for my neighbors
 on the other side, I must say.
 
-974
-01:09:36,735 --> 01:09:39,519
+
+
 - Goys, aren't they?
 - Mmm. Very much so.
 
-975
-01:09:39,585 --> 01:09:42,487
+
+
 Although maybe it's not fair to judge.
 I have to admit...
 
-976
-01:09:42,591 --> 01:09:43,900
+
+
 Won't you sit down?
 
-977
-01:09:44,000 --> 01:09:46,269
+
+
 Oh, um...
 Okay. Thank you.
 
-978
-01:09:46,336 --> 01:09:48,408
+
+
 - Iced tea? I have some.
 - Okay.
 
-979
-01:09:53,984 --> 01:09:55,545
+
+
 I don't see you much around either.
 
-980
-01:09:56,320 --> 01:10:00,511
+
+
 Yes, actually I haven't been home
 a lot recently. I, uh...
 
-981
-01:10:01,663 --> 01:10:03,770
+
+
 My wife and I are...
 
-982
-01:10:04,735 --> 01:10:09,372
+
+
 Well, she's got me staying at the Jolly Roger,
 the little motel there on...
 
-983
-01:10:10,239 --> 01:10:11,930
+
+
 You're in the doghouse, huh?
 
-984
-01:10:12,735 --> 01:10:17,046
+
+
 Yes. That's an understatement,
 I guess. Thank you.
 
-985
-01:10:17,152 --> 01:10:19,094
+
+
 I guess I...
 
-986
-01:10:19,199 --> 01:10:22,101
+
+
 Do you take advantage
 of the new freedoms?
 
-987
-01:10:28,224 --> 01:10:29,533
+
+
 What do you mean?
 
-988
-01:10:38,336 --> 01:10:40,027
+
+
 It's something I do.
 
-989
-01:10:41,376 --> 01:10:43,033
+
+
 For recreation.
 
-990
-01:10:44,895 --> 01:10:46,007
+
+
 That's...
 
-991
-01:10:47,614 --> 01:10:49,371
+
+
 - marijuana?
 - Mmm-hmm.
 
-992
-01:10:51,775 --> 01:10:53,847
+
+
 You'll find you'll need
 the iced tea.
 
-993
-01:10:58,175 --> 01:10:59,386
+
+
 Is it...
 
-994
-01:11:02,463 --> 01:11:03,893
+
+
 Well, okay.
 
-995
-01:11:24,863 --> 01:11:27,197
+
+
 Maybe Rabbi Scott was right.
 
-996
-01:11:28,511 --> 01:11:29,853
+
+
 Who's Rabbi Scott?
 
-997
-01:11:33,118 --> 01:11:34,875
+
+
 The junior rabbi.
 
-998
-01:11:36,382 --> 01:11:37,430
+
+
 The junior rabbi.
 
-999
-01:11:51,230 --> 01:11:52,408
+
+
 What did he say?
 
-1000
-01:11:53,344 --> 01:11:54,771
+
+
 He spoke of...
 
-1001
-01:11:56,671 --> 01:11:58,132
+
+
 perception.
 
-1002
-01:12:00,190 --> 01:12:02,166
+
+
 All my problems are just...
 
-1003
-01:12:04,350 --> 01:12:05,430
+
+
 Just a...
 
-1004
-01:12:07,230 --> 01:12:08,792
+
+
 A mere...
 
-1005
-01:12:11,837 --> 01:12:13,364
+
+
 Is that a siren?
 
-1006
-01:12:14,783 --> 01:12:15,783
+
+
 No.
 
-1007
-01:12:17,694 --> 01:12:19,101
+
+
 Sometimes people get paranoid...
 
-1008
-01:12:19,230 --> 01:12:20,692
+
+
 Holy cow, that is a siren.
 
-1009
-01:12:26,335 --> 01:12:27,335
+
+
 Hey!
 
-1010
-01:12:29,215 --> 01:12:30,215
+
+
 Hey!
 
-1011
-01:12:32,318 --> 01:12:33,318
+
+
 Hey!
 
-1012
-01:12:33,342 --> 01:12:34,488
+
+
 Does this man live here?
 
-1013
-01:12:34,494 --> 01:12:37,145
+
+
 - Sort of. He sleeps on the couch.
 - This is crazy!
 
-1014
-01:12:37,213 --> 01:12:39,069
+
+
 I didn't know what to tell them.
 They asked me for my address.
 
-1015
-01:12:39,134 --> 01:12:41,337
+
+
 It's just mathematics.
 You can't arrest a man for mathematics.
 
-1016
-01:12:41,439 --> 01:12:43,675
+
+
 I didn't know whether to tell them here,
 or at the Jolly Roger.
 
-1017
-01:12:43,742 --> 01:12:44,822
+
+
 Do you know this man?
 
-1018
-01:12:44,894 --> 01:12:46,551
+
+
 I just figured that this would
 sound better. I don't know.
 
-1019
-01:12:46,622 --> 01:12:49,143
+
+
 Dad, why is Uncle Arthur in handcuffs?
 
-1020
-01:12:49,215 --> 01:12:51,582
+
+
 It's all a mistake. I mean,
 not a mistake, a miscarriage...
 
-1021
-01:12:51,677 --> 01:12:53,434
+
+
 - Hello, Mrs. Samsky.
 - Hello, Arthur.
 
-1022
-01:12:53,533 --> 01:12:55,389
+
+
 - Does this man live here?
 - He sleeps on the couch.
 
-1023
-01:12:55,453 --> 01:12:56,663
+
+
 Look. What did he do?
 
-1024
-01:12:56,734 --> 01:12:59,069
+
+
 - Nothing! I didn't do anything!
 - Dad sleeps on a cot.
 
-1025
-01:12:59,134 --> 01:13:01,337
+
+
 Sir, we picked this man up
 at the North Dakota.
 
-1026
-01:13:01,438 --> 01:13:04,505
+
+
 - But I didn't do anything! I didn't...
 - The North Dakota?
 
-1027
-01:13:04,574 --> 01:13:06,396
+
+
 Solicitation. Sodomy.
 Very serious.
 
-1028
-01:13:06,462 --> 01:13:07,542
+
+
 But I didn't do anything.
 
-1029
-01:13:07,614 --> 01:13:08,662
+
+
 "Sodomy"?
 
-1030
-01:13:09,597 --> 01:13:11,256
+
+
 What's sodomy, Dad?
 
-1031
-01:13:14,173 --> 01:13:15,930
+
+
 What does Arthur say?
 
-1032
-01:13:17,823 --> 01:13:20,375
+
+
 He says he didn't do anything.
 
-1033
-01:13:20,478 --> 01:13:21,655
+
+
 Uh-huh.
 
-1034
-01:13:23,230 --> 01:13:26,578
+
+
 He says he just
 went in for a drink.
 
-1035
-01:13:26,654 --> 01:13:27,832
+
+
 Uh-huh.
 
-1036
-01:13:31,453 --> 01:13:33,527
+
+
 - Does Arthur drink?
 - No.
 
-1037
-01:13:33,630 --> 01:13:34,710
+
+
 Uh-huh.
 
-1038
-01:13:35,869 --> 01:13:37,844
+
+
 The North Dakota.
 
-1039
-01:13:39,134 --> 01:13:40,180
+
+
 Well...
 
-1040
-01:13:42,493 --> 01:13:43,922
+
+
 You'll need a criminal attorney.
 
-1041
-01:13:44,029 --> 01:13:47,444
+
+
 - Okay. Who's...
 - Ron Meshbesher.
 
-1042
-01:13:47,550 --> 01:13:49,917
+
+
 - Is he good?
 - Ron is very good.
 
-1043
-01:13:51,518 --> 01:13:53,208
+
+
 I don't understand.
 
-1044
-01:13:54,012 --> 01:13:56,828
+
+
 - He goes to mixers at the Hillel House.
 - Mmm.
 
-1045
-01:13:59,868 --> 01:14:02,487
+
+
 - I would call Ron Meshbesher.
 - Is he expensive?
 
-1046
-01:14:02,590 --> 01:14:05,143
+
+
 Ron is not cheap.
 
-1047
-01:14:06,462 --> 01:14:07,509
+
+
 Yeah.
 
-1048
-01:14:07,774 --> 01:14:10,643
+
+
 Oh, Sol, come in,
 we could use some good news.
 
-1049
-01:14:12,029 --> 01:14:14,582
+
+
 Sol's been going over
 the property line issue
 
-1050
-01:14:14,654 --> 01:14:16,541
+
+
 and he wouldn't go into details,
 but he seems to think
 
-1051
-01:14:16,636 --> 01:14:19,125
+
+
 there's a nifty way out of this.
 
-1052
-01:14:19,229 --> 01:14:21,333
+
+
 Says it was pure luck
 that he caught something.
 
-1053
-01:14:21,436 --> 01:14:23,925
+
+
 I guess that's why
 you're full partner, eh, Sol?
 
-1054
-01:14:43,037 --> 01:14:45,971
+
+
 - Danny's bar mitzvah is...
 - This week.
 
-1055
-01:14:46,077 --> 01:14:49,011
+
+
 This Shabbas?
 Great, great.
 
-1056
-01:15:07,515 --> 01:15:09,271
+
+
 Professor Gopnik, Dick Dutton.
 
-1057
-01:15:09,341 --> 01:15:11,194
+
+
 Heart attack.
 Call back.
 
-1058
-01:15:20,893 --> 01:15:22,070
+
+
 Larry?
 
-1059
-01:15:25,372 --> 01:15:28,470
+
+
 As you know, the tenure committee
 meets on... What?
 
-1060
-01:15:29,917 --> 01:15:31,770
+
+
 - Are you all right?
 - I'm fine.
 
-1061
-01:15:32,828 --> 01:15:34,716
+
+
 I'm sorry.
 I know you've hit a rough patch.
 
-1062
-01:15:34,780 --> 01:15:36,503
+
+
 Someone just...
 
-1063
-01:15:36,572 --> 01:15:38,328
+
+
 But I'm fine.
 
-1064
-01:15:40,572 --> 01:15:44,216
+
+
 Well, as you know,
 the tenure committee meets on Wednesday
 
-1065
-01:15:44,315 --> 01:15:46,770
+
+
 - to make its final determinations, so if...
 - Arlen,
 
-1066
-01:15:48,573 --> 01:15:50,164
+
+
 I am not an evil man.
 
-1067
-01:15:50,748 --> 01:15:53,782
+
+
 - No, no, Larry, no, of course not.
 - I am not!
 
-1068
-01:15:53,851 --> 01:15:55,673
+
+
 No, we don't make moral judgments.
 
-1069
-01:15:55,739 --> 01:15:58,423
+
+
 I went to the Aster Art once.
 
-1070
-01:15:58,493 --> 01:16:00,248
+
+
 I saw Swedish Reverie.
 
-1071
-01:16:00,347 --> 01:16:02,289
+
+
 No, it's okay.
 We don't need to know.
 
-1072
-01:16:02,395 --> 01:16:04,087
+
+
 It wasn't even erotic.
 
-1073
-01:16:04,188 --> 01:16:07,036
+
+
 Although it was, in a way.
 
-1074
-01:16:07,100 --> 01:16:09,619
+
+
 It's all right, really, Larry.
 Believe me.
 
-1075
-01:16:11,581 --> 01:16:12,627
+
+
 Yeah, okay.
 
-1076
-01:16:12,988 --> 01:16:15,541
+
+
 Okay. Okay.
 
-1077
-01:16:17,341 --> 01:16:19,707
+
+
 So, we decide on Wednesday.
 
-1078
-01:16:19,771 --> 01:16:22,259
+
+
 So, if there's anything
 that you want to
 
-1079
-01:16:22,332 --> 01:16:24,698
+
+
 submit in support
 of your tenure application,
 
-1080
-01:16:24,796 --> 01:16:27,349
+
+
 we would need it by Wednesday.
 
-1081
-01:16:27,420 --> 01:16:29,176
+
+
 Submit?
 What do you...
 
-1082
-01:16:29,275 --> 01:16:31,664
+
+
 Well, anything.
 Any published work.
 
-1083
-01:16:31,739 --> 01:16:35,220
+
+
 Anything you've done
 outside the institution.
 
-1084
-01:16:35,292 --> 01:16:38,073
+
+
 Anything at all
 that we should be aware of.
 
-1085
-01:16:39,068 --> 01:16:41,305
+
+
 - I haven't done anything.
 - Uh-huh.
 
-1086
-01:16:41,372 --> 01:16:43,346
+
+
 - I haven't published.
 - Uh-huh.
 
-1087
-01:16:43,418 --> 01:16:45,841
+
+
 - You're still getting those...
 - Uh-huh.
 
-1088
-01:16:46,587 --> 01:16:50,483
+
+
 - Those anonymous...
 - No, no, I know. Yeah. Uh-huh. Yeah.
 
-1089
-01:16:50,587 --> 01:16:52,693
+
+
 - Okay. Okay. Wednesday?
 - Uh-huh.
 
-1090
-01:16:52,796 --> 01:16:56,243
+
+
 Um... Okay Uh...
 Don't worry.
 
-1091
-01:16:56,954 --> 01:17:00,216
+
+
 Doing nothing is not bad.
 Ipso facto.
 
-1092
-01:17:01,466 --> 01:17:03,256
+
+
 Just relax.
 
-1093
-01:17:04,091 --> 01:17:05,684
+
+
 Try to relax.
 
-1094
-01:17:07,131 --> 01:17:11,222
+
+
 Oh, my God, Mrs. Samsky!
 
-1095
-01:17:11,292 --> 01:17:12,568
+
+
 So good.
 
-1096
-01:17:25,051 --> 01:17:27,439
+
+
 Nailing it down.
 So important.
 
-1097
-01:17:48,539 --> 01:17:52,631
+
+
 Please. I need help. I've already talked
 to the other rabbis. Please.
 
-1098
-01:17:53,338 --> 01:17:55,412
+
+
 It's not about Danny's bar mitzvah.
 
-1099
-01:17:55,515 --> 01:17:57,751
+
+
 My boy, Danny.
 This coming Shabbas.
 
-1100
-01:17:57,819 --> 01:17:59,673
+
+
 Very joyous event.
 That's all fine.
 
-1101
-01:17:59,738 --> 01:18:04,823
+
+
 It's more about myself.
 I've had quite a bit of tsuris lately.
 
-1102
-01:18:04,890 --> 01:18:07,193
+
+
 Marital problems, professional,
 you name it.
 
-1103
-01:18:07,259 --> 01:18:08,981
+
+
 This is not a frivolous request.
 
-1104
-01:18:09,051 --> 01:18:10,644
+
+
 This is a...
 
-1105
-01:18:10,747 --> 01:18:12,404
+
+
 I'm a...
 
-1106
-01:18:12,506 --> 01:18:15,735
+
+
 I've tried to be a serious man,
 you know?
 
-1107
-01:18:15,833 --> 01:18:19,216
+
+
 Tried to do right, be a member
 of the community, raise the...
 
-1108
-01:18:19,291 --> 01:18:23,283
+
+
 Danny, Sarah, they both
 go to school, Hebrew school.
 
-1109
-01:18:23,386 --> 01:18:24,847
+
+
 A good breakfast...
 
-1110
-01:18:24,954 --> 01:18:28,369
+
+
 Well, Danny goes to Hebrew school,
 Sarah doesn't have time.
 
-1111
-01:18:28,475 --> 01:18:31,060
+
+
 She mostly washes her hair.
 
-1112
-01:18:32,250 --> 01:18:34,159
+
+
 Apparently there are
 several steps involved,
 
-1113
-01:18:34,266 --> 01:18:37,048
+
+
 but you don't have to tell Marshak that,
 just tell him I need help.
 
-1114
-01:18:37,146 --> 01:18:39,122
+
+
 Please. I need help.
 
-1115
-01:19:31,194 --> 01:19:32,819
+
+
 The Rabbi is busy.
 
-1116
-01:19:35,546 --> 01:19:37,270
+
+
 He didn't look busy.
 
-1117
-01:19:39,448 --> 01:19:40,877
+
+
 He's thinking.
 
-1118
-01:19:57,626 --> 01:19:58,804
+
+
 Arthur?
 
-1119
-01:20:06,457 --> 01:20:07,603
+
+
 Arthur?
 
-1120
-01:20:08,569 --> 01:20:09,997
+
+
 What's wrong?
 
-1121
-01:20:10,618 --> 01:20:13,814
+
+
 It'll be okay.
 Arthur, we'll...
 
-1122
-01:20:13,912 --> 01:20:16,662
+
+
 Don't worry, we'll get Ron Meshbesher.
 It'll be okay...
 
-1123
-01:20:22,168 --> 01:20:23,380
+
+
 Arthur!
 
-1124
-01:20:24,889 --> 01:20:26,100
+
+
 Arthur!
 
-1125
-01:20:37,016 --> 01:20:40,213
+
+
 Arthur! You've got
 to pull yourself together!
 
-1126
-01:20:40,313 --> 01:20:43,510
+
+
 It's all shit, Larry!
 It's all shit!
 
-1127
-01:20:43,577 --> 01:20:44,984
+
+
 Arthur, don't use that word.
 
-1128
-01:20:45,048 --> 01:20:47,088
+
+
 It's just fucking shit!
 
-1129
-01:20:47,193 --> 01:20:48,193
+
+
 Arthur.
 
-1130
-01:20:48,216 --> 01:20:50,421
+
+
 Look at all that Hashem
 has given you!
 
-1131
-01:20:50,488 --> 01:20:53,521
+
+
 What has he given me?
 He hasn't given me shit!
 
-1132
-01:20:53,625 --> 01:20:57,421
+
+
 Arthur. What do I have?
 I live at the Jolly Roger.
 
-1133
-01:20:57,497 --> 01:21:00,944
+
+
 You have a family!
 You have a job!
 
-1134
-01:21:01,016 --> 01:21:04,180
+
+
 Hashem hasn't given me shit.
 He hasn't given me bupkes!
 
-1135
-01:21:04,248 --> 01:21:07,095
+
+
 It's not fair to blame Hashem,
 Arthur. Please.
 
-1136
-01:21:07,193 --> 01:21:09,135
+
+
 Sometimes...
 Please calm down.
 
-1137
-01:21:09,208 --> 01:21:11,280
+
+
 Sometimes you have to help yourself.
 
-1138
-01:21:13,528 --> 01:21:15,600
+
+
 Hashem hasn't given me shit.
 
-1139
-01:21:16,953 --> 01:21:19,670
+
+
 Now I can't even play cards.
 
-1140
-01:21:26,457 --> 01:21:29,010
+
+
 It's okay, it's okay.
 
-1141
-01:21:29,144 --> 01:21:31,761
+
+
 It's okay, it's okay.
 
-1142
-01:21:56,024 --> 01:21:57,365
+
+
 Is this it?
 
-1143
-01:21:57,944 --> 01:22:00,694
+
+
 Yeah, I think.
 Yeah, there.
 
-1144
-01:22:11,127 --> 01:22:14,444
+
+
 Look, this should help you
 get back on your feet.
 
-1145
-01:22:19,768 --> 01:22:20,814
+
+
 Oh, my God.
 Where did you get this?
 
-1146
-01:22:20,887 --> 01:22:22,317
+
+
 - It doesn't matter.
 - This is a lot of money.
 
-1147
-01:22:22,712 --> 01:22:25,132
+
+
 - It should get you started.
 - I know, but this is a lot of money.
 
-1148
-01:22:25,271 --> 01:22:26,896
+
+
 - You sure you don't need it?
 - Arthur, I'm fine.
 
-1149
-01:22:26,967 --> 01:22:28,528
+
+
 Come on, get in.
 When you're settled,
 
-1150
-01:22:28,631 --> 01:22:30,257
+
+
 let me know how to get in touch.
 
-1151
-01:22:30,328 --> 01:22:32,149
+
+
 You're sure?
 
-1152
-01:22:32,216 --> 01:22:33,524
+
+
 It's fine.
 
-1153
-01:22:50,230 --> 01:22:52,783
+
+
 Larry. I'm sorry.
 
-1154
-01:22:53,847 --> 01:22:55,189
+
+
 What I said last night.
 
-1155
-01:22:55,256 --> 01:22:56,881
+
+
 I know.
 
-1156
-01:22:56,984 --> 01:22:58,292
+
+
 It's okay.
 
-1157
-01:23:03,127 --> 01:23:04,337
+
+
 Goodbye!
 
-1158
-01:23:13,463 --> 01:23:15,405
+
+
 There's another Jew, son!
 
-1159
-01:23:31,703 --> 01:23:35,380
+
+
 Were we out at the pool last night?
 
-1160
-01:23:37,975 --> 01:23:39,023
+
+
 Yeah.
 
-1161
-01:23:41,175 --> 01:23:42,451
+
+
 I'm sorry.
 
-1162
-01:23:50,582 --> 01:23:52,011
+
+
 It's Shabbas.
 
-1163
-01:23:55,766 --> 01:23:57,359
+
+
 Give me that fucker.
 
-1164
-01:26:49,845 --> 01:26:53,521
+
+
 I'm sorry that...
 That things have been so hard for us.
 
-1165
-01:26:55,125 --> 01:26:56,466
+
+
 It's okay.
 
-1166
-01:26:57,524 --> 01:27:00,045
+
+
 Sy had so much respect for you, Larry.
 
-1167
-01:27:01,685 --> 01:27:04,336
+
+
 He wrote letters to
 the tenure committee.
 
-1168
-01:27:15,988 --> 01:27:17,844
+
+
 Jesus Christ.
 
-1169
-01:27:19,604 --> 01:27:22,255
+
+
 Taking your place
 as a member of our tribe.
 
-1170
-01:27:22,323 --> 01:27:24,363
+
+
 Now, you will go
 and see Rabbi Marshak.
 
-1171
-01:27:24,469 --> 01:27:28,081
+
+
 Afterwards, you will celebrate
 in a reception downstairs in Schanfield Hall.
 
-1172
-01:27:28,180 --> 01:27:32,206
+
+
 And then, you will be a member of
 B'Nai Avraham and the Nation of Israel.
 
-1173
-01:27:32,309 --> 01:27:36,335
+
+
 Danny Gopnik, the Sisterhood makes
 a gift to you of this Kiddush cup,
 
-1174
-01:27:36,404 --> 01:27:40,496
+
+
 so that you will remember this blessed day
 on the next Shabbas and the next,
 
-1175
-01:27:40,564 --> 01:27:43,019
+
+
 and on every Shabbas
 of a long and fruitful life.
 
-1176
-01:27:43,091 --> 01:27:48,012
+
+
 And until that wonderful day when you stand
 under the chuppah, we say amen.
 
-1177
-01:29:23,251 --> 01:29:26,121
+
+
 When the truth
 
-1178
-01:29:27,443 --> 01:29:28,970
+
+
 is found
 
-1179
-01:29:30,323 --> 01:29:32,233
+
+
 to be lies...
 
-1180
-01:29:40,851 --> 01:29:43,600
+
+
 and all the hope
 
-1181
-01:29:44,340 --> 01:29:47,600
+
+
 within you dies...
 
-1182
-01:29:56,530 --> 01:29:57,840
+
+
 Then what?
 
-1183
-01:30:00,305 --> 01:30:02,859
+
+
 Grace Slick.
 
-1184
-01:30:04,243 --> 01:30:06,414
+
+
 Marty Balin.
 
-1185
-01:30:07,570 --> 01:30:09,840
+
+
 Paul Kantner.
 
-1186
-01:30:11,251 --> 01:30:13,038
+
+
 Jorma...
 
-1187
-01:30:13,970 --> 01:30:15,115
+
+
 Kaukonen.
 
-1188
-01:30:15,443 --> 01:30:16,872
+
+
 something.
 
-1189
-01:30:17,841 --> 01:30:21,104
+
+
 These are the members
 
-1190
-01:30:22,259 --> 01:30:24,494
+
+
 of the Airplane.
 
-1191
-01:30:24,561 --> 01:30:26,471
+
+
 - Mmm-hmm.
 - Uh-huh.
 
-1192
-01:30:57,265 --> 01:30:58,728
+
+
 Be a good boy.
 
-1193
-01:31:04,402 --> 01:31:06,256
+
+
 Danny was magnificent.
 
-1194
-01:31:07,442 --> 01:31:08,442
+
+
 Oh.
 
-1195
-01:31:08,978 --> 01:31:10,636
+
+
 Thank you, Arlen.
 
-1196
-01:31:10,738 --> 01:31:13,194
+
+
 Mazel tov.
 It was wonderful.
 
-1197
-01:31:13,778 --> 01:31:16,233
+
+
 Yes, it was.
 Thank you.
 
-1198
-01:31:16,337 --> 01:31:18,760
+
+
 Such a time of nachas.
 
-1199
-01:31:18,865 --> 01:31:21,516
+
+
 He's your youngest,
 you have to savor it.
 
-1200
-01:31:22,002 --> 01:31:23,114
+
+
 I do.
 
-1201
-01:31:24,145 --> 01:31:25,323
+
+
 I will.
 
-1202
-01:31:26,257 --> 01:31:29,159
+
+
 - Well, see you at the staff caf.
 - Yes.
 
-1203
-01:31:29,265 --> 01:31:30,475
+
+
 I, uh...
 
-1204
-01:31:31,250 --> 01:31:32,559
+
+
 Just, um...
 
-1205
-01:31:33,521 --> 01:31:37,296
+
+
 I shouldn't tell you this,
 I'm not telling you officially.
 
-1206
-01:31:37,362 --> 01:31:40,875
+
+
 The tenure candidates
 aren't notified till Thursday.
 
-1207
-01:31:43,345 --> 01:31:44,393
+
+
 Yes?
 
-1208
-01:31:45,265 --> 01:31:47,021
+
+
 You'll be very pleased.
 
-1209
-01:31:49,521 --> 01:31:53,166
+
+
 - Thank you, Arlen.
 - I didn't say anything. Mazel tov.
 
-1210
-01:32:45,617 --> 01:32:46,761
+
+
 Fagle.
 
-1211
-01:33:24,400 --> 01:33:27,051
+
+
 There's a tornado warning
 from the weather service.
 
-1212
-01:33:27,119 --> 01:33:31,528
+
+
 Mr. Turchik has decided to move us
 into the basement of the synagogue.
 
-1213
-01:33:33,840 --> 01:33:35,432
+
+
 We will form two lines.
 
-1214
-01:34:28,975 --> 01:34:32,171
+
+
 That fucking flag's gonna rip
 right off the flagpole!
 
-1215
-01:34:46,287 --> 01:34:47,287
+
+
 Hello?
 
-1216
-01:34:48,047 --> 01:34:50,055
+
+
 <i>- Larry?
 - Yes?</i>
 
-1217
-01:34:50,127 --> 01:34:51,654
+
+
 <i>Hi, Len Shapiro.</i>
 
-1218
-01:34:51,728 --> 01:34:54,542
+
+
 Oh. Hello, Dr. Shapiro.
 
-1219
-01:34:54,608 --> 01:34:56,779
+
+
 <i>Listen, mazel tov on Danny.</i>
 
-1220
-01:34:56,846 --> 01:34:58,570
+
+
 Yes, thank you.
 
-1221
-01:34:58,640 --> 01:35:02,796
+
+
 <i>Listen, could you come by
 to discuss these x-ray results?</i>
 
-1222
-01:35:06,958 --> 01:35:08,136
+
+
 <i>Hello?</i>
 
-1223
-01:35:10,479 --> 01:35:11,493
+
+
 Yes?
 
-1224
-01:35:11,567 --> 01:35:13,804
+
+
 <i>Larry, could you come in
 to discuss these x-ray results?</i>
 
-1225
-01:35:13,904 --> 01:35:16,140
+
+
 <i>You remember the x-rays we took?</i>
 
-1226
-01:35:18,287 --> 01:35:20,175
+
+
 We can't discuss them
 over the phone?
 
-1227
-01:35:21,198 --> 01:35:23,173
+
+
 <i>I think we'd be more comfortable
 in person.</i>
 
-1228
-01:35:24,207 --> 01:35:25,768
+
+
 <i>Can you come in?</i>
 
-1229
-01:35:27,055 --> 01:35:28,965
+
+
 <i>- When?
 - Now.</i>
 
-1230
-01:35:29,038 --> 01:35:31,908
+
+
 <i>Now is good.
 I've cleared some time now.</i>
 
-1231
-01:35:39,823 --> 01:35:42,125
+
+
 Hey, Fagle!
 
-1232
-01:35:45,167 --> 01:35:46,890
+
+
 Fagle, I got your...

@@ -1,4043 +1,4043 @@
-1
-00:03:49,873 --> 00:03:53,969
+
+
 It's her! I know it's her!
 She wants to tell us something!
 
-2
-00:03:54,045 --> 00:03:55,512
+
+
 - <i>We must do something!</i>
 - <i>Sit down!</i>
 
-3
-00:03:55,579 --> 00:03:58,480
+
+
 - <i>Please!</i>
 - Hey!
 
-4
-00:04:10,561 --> 00:04:15,021
+
+
 In the name of His Imperial Majesty
 and the city of Vienna...
 
-5
-00:04:15,098 --> 00:04:18,500
+
+
 I hereby arrest Eduard Abramovicz...
 
-6
-00:04:18,569 --> 00:04:21,470
+
+
 also known as Eisenheim
 the Illusionist...
 
-7
-00:04:21,538 --> 00:04:24,735
+
+
 <i>on charges of disturbing public order...</i>
 
-8
-00:04:24,809 --> 00:04:28,300
+
+
 <i>charlatanism and threats</i>
 <i>against the empire!</i>
 
-9
-00:04:28,379 --> 00:04:31,576
+
+
 Leave him alone!
 
-10
-00:04:36,519 --> 00:04:39,148
+
+
 They're arresting him!
 They're arresting Eisenheim!
 
-11
-00:05:02,346 --> 00:05:04,779
+
+
 Chief Inspector Uhl.
 
-12
-00:05:16,093 --> 00:05:19,187
+
+
 - You're late.
 - My apologies, Your Highness.
 
-13
-00:05:19,262 --> 00:05:22,231
+
+
 I was attending to
 the loose ends of the case.
 
-14
-00:05:22,298 --> 00:05:26,132
+
+
 - Are there still loose ends?
 - Very few.
 
-15
-00:05:26,202 --> 00:05:28,194
+
+
 Did he do it again?
 
-16
-00:05:30,641 --> 00:05:32,836
+
+
 How does he do it?
 
-17
-00:05:32,909 --> 00:05:35,401
+
+
 <i>I'm afraid I still don't know.</i>
 
-18
-00:05:37,148 --> 00:05:39,081
+
+
 Did you ask him?
 
-19
-00:05:39,149 --> 00:05:41,584
+
+
 He's not talking at this point.
 
-20
-00:05:41,651 --> 00:05:45,144
+
+
 Well, I'm sure
 you have... methods...
 
-21
-00:05:45,221 --> 00:05:47,884
+
+
 <i>for that kind of thing.</i>
 
-22
-00:05:49,393 --> 00:05:52,327
+
+
 I want you to put an end to it.
 
-23
-00:05:52,396 --> 00:05:54,488
+
+
 Surely you have something on him.
 
-24
-00:05:55,566 --> 00:05:58,000
+
+
 <i>Something from his past?</i>
 
-25
-00:05:59,103 --> 00:06:03,471
+
+
 Yes. Yes, I think I do.
 
-26
-00:06:10,146 --> 00:06:13,014
+
+
 <i>In fact, we know all about his life.</i>
 
-27
-00:06:14,584 --> 00:06:18,076
+
+
 <i>We've spoken to almost everyone</i>
 <i>who ever knew him.</i>
 
-28
-00:06:23,994 --> 00:06:26,519
+
+
 <i>As a boy, I'm told</i>
 <i>he had a chance encounter...</i>
 
-29
-00:06:26,596 --> 00:06:29,463
+
+
 <i>with a traveling magician.</i>
 
-30
-00:06:33,937 --> 00:06:36,201
+
+
 <i>Boy.</i>
 
-31
-00:07:09,105 --> 00:07:11,540
+
+
 <i>One version of the story was that the man himself...</i>
 
-32
-00:07:11,608 --> 00:07:14,338
+
+
 <i>then vanished...</i>
 
-33
-00:07:14,411 --> 00:07:17,538
+
+
 <i>along with the tree.</i>
 
-34
-00:07:17,615 --> 00:07:19,673
+
+
 <i>Who knows what actually happened?</i>
 
-35
-00:07:34,999 --> 00:07:38,593
+
+
 <i>People began to think he had</i>
 <i>some kind of special power...</i>
 
-36
-00:07:38,668 --> 00:07:42,331
+
+
 <i>or at least that</i>
 <i>he was a bit different.</i>
 
-37
-00:07:47,278 --> 00:07:49,269
+
+
 <i>And then he met her.</i>
 
-38
-00:07:59,322 --> 00:08:02,120
+
+
 - <i>Don't drop it.</i>
 - <i>Careful, you're going to trip.</i>
 
-39
-00:08:02,192 --> 00:08:06,220
+
+
 - <i>Drop it, you muck snipe.</i>
 - <i>Oh! Watch out for that hole, alley rat!</i>
 
-40
-00:08:06,297 --> 00:08:08,288
+
+
 - Drop it!
 - Come on.
 
-41
-00:08:20,944 --> 00:08:23,175
+
+
 <i>Pick a card.</i>
 
-42
-00:08:24,714 --> 00:08:27,411
+
+
 <i>Put it back in the deck.</i>
 
-43
-00:08:33,657 --> 00:08:35,648
+
+
 Now, watch.
 
-44
-00:08:48,471 --> 00:08:51,999
+
+
 <i>Duchess von Teschen, you can't be</i>
 <i>in a place like this. They're peasants.</i>
 
-45
-00:08:53,177 --> 00:08:55,668
+
+
 Remember who you are.
 
-46
-00:09:24,707 --> 00:09:26,835
+
+
 <i>She was brought back to the castle...</i>
 
-47
-00:09:26,911 --> 00:09:28,936
+
+
 <i>and they were forbidden</i>
 <i>to see each other.</i>
 
-48
-00:09:29,013 --> 00:09:32,880
+
+
 <i>But soon, they were doing just that.</i>
 
-49
-00:09:32,950 --> 00:09:36,317
+
+
 <i>Over the next few years, they could</i>
 <i>always find a way to be together.</i>
 
-50
-00:09:36,386 --> 00:09:39,822
+
+
 Quick, come on.
 
-51
-00:09:44,294 --> 00:09:47,559
+
+
 <i>In China there's a magician</i>
 <i>that could make anything disappear-</i>
 
-52
-00:09:47,630 --> 00:09:50,030
+
+
 <i>a house, a wagon, anything.</i>
 
-53
-00:09:50,100 --> 00:09:54,594
+
+
 <i>We'll go visit him. They can't stop us</i>
 <i>if we want to be together.</i>
 
-54
-00:09:54,672 --> 00:09:57,038
+
+
 They'll never find us.
 
-55
-00:09:57,106 --> 00:10:00,235
+
+
 Do you promise
 you'll take me with you?
 
-56
-00:10:00,311 --> 00:10:02,745
+
+
 One day I will.
 
-57
-00:10:02,812 --> 00:10:06,509
+
+
 One day we'll run away together.
 
-58
-00:10:06,582 --> 00:10:08,573
+
+
 We'll disappear.
 
-59
-00:10:46,823 --> 00:10:49,793
+
+
 There's a secret way to open it.
 
-60
-00:11:01,538 --> 00:11:04,131
+
+
 I wanted a picture.
 
-61
-00:11:23,626 --> 00:11:25,618
+
+
 Sophie, are you there?
 
-62
-00:11:28,499 --> 00:11:32,162
+
+
 - We must hurry! They're coming!
 - <i>Duchess von Teschen!</i>
 
-63
-00:11:33,669 --> 00:11:37,366
+
+
 <i>Duchess von Teschen!</i>
 
-64
-00:11:37,441 --> 00:11:41,639
+
+
 - <i>Duchess von Teschen!</i>
 - <i>Duchess von Teschen!</i>
 
-65
-00:11:44,014 --> 00:11:47,813
+
+
 <i>Make us disappear.</i>
 <i>Make us disappear.</i>
 
-66
-00:11:47,884 --> 00:11:50,318
+
+
 <i>Duchess von Teschen!</i>
 
-67
-00:11:55,058 --> 00:11:56,993
+
+
 Stop. Stop.
 
-68
-00:12:02,765 --> 00:12:04,961
+
+
 - Don't do this.
 - Let go!
 
-69
-00:12:05,034 --> 00:12:08,971
+
+
 - Let me go. Let go!
 - Your father's waiting for you.
 
-70
-00:12:09,038 --> 00:12:12,371
+
+
 - <i>Let go!</i>
 - No!
 
-71
-00:12:12,442 --> 00:12:14,842
+
+
 - Eduard!
 - Please, let go!
 
-72
-00:12:14,912 --> 00:12:17,142
+
+
 - No!
 - Let me go!
 
-73
-00:12:17,213 --> 00:12:21,115
+
+
 Let her go, please!
 
-74
-00:12:21,184 --> 00:12:23,880
+
+
 - <i>Let go! Stop it!</i>
 - Sophie!
 
-75
-00:12:23,953 --> 00:12:25,888
+
+
 Eduard!
 
-76
-00:12:25,956 --> 00:12:27,855
+
+
 - <i>Sophie!</i>
 - Eduard!
 
-77
-00:12:27,924 --> 00:12:30,485
+
+
 Sophie.
 
-78
-00:12:30,561 --> 00:12:32,653
+
+
 <i>Stay away from her, or next time...</i>
 
-79
-00:12:32,729 --> 00:12:35,562
+
+
 <i>we'll arrest you and your family.</i>
 
-80
-00:12:45,109 --> 00:12:48,509
+
+
 <i>What happened next remains a mystery.</i>
 
-81
-00:12:48,578 --> 00:12:51,446
+
+
 <i>We do know that</i>
 <i>he traveled the world...</i>
 
-82
-00:12:51,514 --> 00:12:54,381
+
+
 <i>that he began to perform</i>
 <i>his magic in public...</i>
 
-83
-00:12:54,451 --> 00:12:57,181
+
+
 <i>that he changed his name</i>
 <i>to Eisenheim.</i>
 
-84
-00:12:59,322 --> 00:13:02,690
+
+
 <i>And then almost 15 years later...</i>
 
-85
-00:13:02,759 --> 00:13:04,750
+
+
 <i>he appeared in Vienna.</i>
 
-86
-00:13:11,768 --> 00:13:14,100
+
+
 <i>Life and death...</i>
 
-87
-00:13:14,171 --> 00:13:17,606
+
+
 space and time...
 
-88
-00:13:17,673 --> 00:13:20,734
+
+
 fate and chance.
 
-89
-00:13:20,811 --> 00:13:24,371
+
+
 These are the forces
 of the universe.
 
-90
-00:13:24,447 --> 00:13:27,211
+
+
 Tonight, ladies and gentleman...
 
-91
-00:13:27,283 --> 00:13:33,018
+
+
 I present to you a man who has
 unlocked these mysteries.
 
-92
-00:13:33,090 --> 00:13:35,149
+
+
 From the furthest corners
 of the world...
 
-93
-00:13:35,225 --> 00:13:38,990
+
+
 where the dark arts
 still hold sway...
 
-94
-00:13:39,062 --> 00:13:41,928
+
+
 he returns to us to demonstrate...
 
-95
-00:13:41,999 --> 00:13:46,129
+
+
 how nature's laws may be bent.
 
-96
-00:13:46,202 --> 00:13:50,230
+
+
 I give you... Eisenheim.
 
-97
-00:14:00,317 --> 00:14:02,615
+
+
 Might I borrow a handkerchief
 from someone?
 
-98
-00:14:05,455 --> 00:14:07,446
+
+
 You, madam.
 
-99
-00:14:22,371 --> 00:14:24,340
+
+
 Thank you.
 
-100
-00:14:24,408 --> 00:14:27,433
+
+
 Ah, be patient.
 
-101
-00:14:27,510 --> 00:14:29,536
+
+
 Now, if you please.
 
-102
-00:14:30,913 --> 00:14:35,613
+
+
 <i>I would like to continue</i>
 <i>with an examination of time.</i>
 
-103
-00:14:35,686 --> 00:14:40,145
+
+
 From the moment we enter this life,
 we are in the flow of it.
 
-104
-00:14:40,224 --> 00:14:44,923
+
+
 We measure it and we mark it,
 but we cannot defy it.
 
-105
-00:14:44,995 --> 00:14:48,431
+
+
 We cannot even speed it up
 or slow it down.
 
-106
-00:14:50,900 --> 00:14:52,892
+
+
 Or can we?
 
-107
-00:14:54,171 --> 00:14:56,503
+
+
 Have we not each
 experienced the sensation...
 
-108
-00:14:56,572 --> 00:15:00,235
+
+
 that a beautiful moment
 seemed to pass too quickly...
 
-109
-00:15:00,309 --> 00:15:03,039
+
+
 and wished that
 we could make it linger?
 
-110
-00:15:05,514 --> 00:15:08,918
+
+
 Or felt time slow on a dull day...
 
-111
-00:15:09,052 --> 00:15:12,613
+
+
 <i>and wished that we could</i>
 <i>speed things up a bit?</i>
 
-112
-00:16:19,022 --> 00:16:21,786
+
+
 I assure you, they're quite real.
 
-113
-00:16:21,857 --> 00:16:24,019
+
+
 Is it real? Let's see.
 
-114
-00:16:24,094 --> 00:16:27,495
+
+
 And you, madam,
 where is your handkerchief?
 
-115
-00:16:57,860 --> 00:17:00,557
+
+
 Bravo!
 
-116
-00:17:00,629 --> 00:17:02,620
+
+
 Very good.
 
-117
-00:17:05,835 --> 00:17:07,769
+
+
 <i>Give us something, please.</i>
 
-118
-00:17:07,836 --> 00:17:11,603
+
+
 - Please, give us something. Please.
 - What's all this?
 
-119
-00:17:11,673 --> 00:17:13,938
+
+
 We're poor.
 
-120
-00:17:14,009 --> 00:17:16,911
+
+
 - Do you think you're poor?
 - Yes.
 
-121
-00:17:18,480 --> 00:17:20,711
+
+
 I want to show you something.
 
-122
-00:17:20,784 --> 00:17:22,718
+
+
 You're not poor.
 
-123
-00:17:22,786 --> 00:17:26,813
+
+
 You have everything
 that you need right here.
 
-124
-00:17:26,890 --> 00:17:28,881
+
+
 Thank you.
 
-125
-00:17:30,259 --> 00:17:32,250
+
+
 Thank you.
 
-126
-00:17:34,263 --> 00:17:36,255
+
+
 Thank you.
 
-127
-00:17:36,332 --> 00:17:38,323
+
+
 And that's yours.
 
-128
-00:17:39,969 --> 00:17:42,801
+
+
 And this too.
 
-129
-00:17:47,242 --> 00:17:49,676
+
+
 I've got the magic one!
 
-130
-00:18:00,089 --> 00:18:04,151
+
+
 - Good morning.
 - Good morning.
 
-131
-00:18:04,227 --> 00:18:06,218
+
+
 - Coffee?
 - No.
 
-132
-00:18:06,296 --> 00:18:09,527
+
+
 - Strudel? I have two.
 - Nothing, thank you.
 
-133
-00:18:12,402 --> 00:18:16,030
+
+
 You look very pleased with yourself.
 How are the receipts?
 
-134
-00:18:16,105 --> 00:18:18,232
+
+
 - Not bad. A three-quarter house.
 - <i>Well done.</i>
 
-135
-00:18:18,307 --> 00:18:20,708
+
+
 But we're going to do better
 than that. Listen to this.
 
-136
-00:18:20,777 --> 00:18:24,542
+
+
 Listen. "There is no argument
 that his uncanny displays...
 
-137
-00:18:24,614 --> 00:18:29,210
+
+
 "separate him from the ranks
 of garden-variety stage wizards.
 
-138
-00:18:29,285 --> 00:18:32,152
+
+
 "Some of his effects
 transcend mere illusion...
 
-139
-00:18:32,221 --> 00:18:35,281
+
+
 "and approach the realm of art.
 
-140
-00:18:35,357 --> 00:18:38,486
+
+
 He is very young
 to be so masterful."
 
-141
-00:18:38,560 --> 00:18:42,497
+
+
 <i>Do you see?</i>
 <i>We'll pack the house with this review.</i>
 
-142
-00:18:42,565 --> 00:18:44,999
+
+
 We are going to make more money
 than you ever dreamed of.
 
-143
-00:18:45,067 --> 00:18:47,662
+
+
 <i>But if it was mechanical.</i>
 
-144
-00:18:47,737 --> 00:18:49,932
+
+
 <i>Maybe he had it wrapped</i>
 <i>in some kind of bark?</i>
 
-145
-00:18:50,006 --> 00:18:52,065
+
+
 Oh, I know, of course
 I thought of that.
 
-146
-00:18:52,142 --> 00:18:54,336
+
+
 It's the butterflies
 I'm trying to work out.
 
-147
-00:18:54,410 --> 00:18:56,901
+
+
 Oh, for Pete's sake.
 Invisible wire.
 
-148
-00:18:56,980 --> 00:18:59,914
+
+
 Too obvious. How many men
 have you detailed for tonight?
 
-149
-00:18:59,982 --> 00:19:02,576
+
+
 We have eight men inside,
 another eight out front.
 
-150
-00:19:02,652 --> 00:19:05,018
+
+
 <i>Perhaps you'll get another look</i>
 <i>at your butterflies.</i>
 
-151
-00:19:05,087 --> 00:19:06,577
+
+
 Mmm.
 
-152
-00:19:10,859 --> 00:19:15,229
+
+
 - <i>Come on in.</i>
 - Check the last 10 rows there.
 
-153
-00:19:36,019 --> 00:19:37,952
+
+
 You! Don't touch that!
 
-154
-00:19:38,020 --> 00:19:39,954
+
+
 - Put that down!
 - Ah, Herr Eisenheim.
 
-155
-00:19:40,022 --> 00:19:42,252
+
+
 Who are you and what do you
 think you're doing?
 
-156
-00:19:42,325 --> 00:19:45,782
+
+
 I'm Chief Inspector Walter Uhl
 and I'm inspecting your theater.
 
-157
-00:19:45,862 --> 00:19:48,797
+
+
 I've seen you perform.
 Very impressive.
 
-158
-00:19:48,865 --> 00:19:52,561
+
+
 - <i>Very impressive.</i>
 - How can we help you, Inspector?
 
-159
-00:19:52,634 --> 00:19:55,194
+
+
 You will be honored to know
 the crown prince...
 
-160
-00:19:55,270 --> 00:19:57,261
+
+
 plans to attend
 your performance tonight.
 
-161
-00:19:57,339 --> 00:19:59,432
+
+
 - The crown prince?
 - <i>Yes!</i>
 
-162
-00:19:59,509 --> 00:20:01,942
+
+
 <i>So, obviously we have</i>
 <i>to inspect the theater.</i>
 
-163
-00:20:02,010 --> 00:20:04,205
+
+
 I think that one's small
 for an assassin, don't you?
 
-164
-00:20:04,279 --> 00:20:07,942
+
+
 Yes, the orange tree.
 
-165
-00:20:08,017 --> 00:20:10,348
+
+
 You know, I have seen things
 like this before...
 
-166
-00:20:10,420 --> 00:20:13,980
+
+
 but never one like that.
 
-167
-00:20:14,057 --> 00:20:15,990
+
+
 - Extraordinary.
 - Thank you.
 
-168
-00:20:16,058 --> 00:20:19,028
+
+
 I have been puzzling
 over how it works...
 
-169
-00:20:19,095 --> 00:20:22,622
+
+
 especially how the butterflies fly.
 
-170
-00:20:24,032 --> 00:20:27,001
+
+
 I assure you,
 your secret is safe with me.
 
-171
-00:20:27,069 --> 00:20:31,165
+
+
 I'm an officer of the law after all,
 and a bit of an amateur conjurer.
 
-172
-00:20:31,240 --> 00:20:33,538
+
+
 - Are you really?
 - Yes.
 
-173
-00:20:33,609 --> 00:20:37,740
+
+
 Well, card tricks, coins,
 uh, sleight of hand, yes.
 
-174
-00:20:37,814 --> 00:20:39,304
+
+
 Hmm.
 
-175
-00:20:39,382 --> 00:20:43,546
+
+
 But nothing fancy.
 Perhaps you'll give me a tip.
 
-176
-00:20:45,221 --> 00:20:47,746
+
+
 Yes, all right.
 
-177
-00:20:47,824 --> 00:20:50,451
+
+
 I'll show you one I'm very fond of.
 Are you a gambling man?
 
-178
-00:20:50,526 --> 00:20:54,121
+
+
 - On occasion, yes.
 - I will bet you the secret of the orange tree...
 
-179
-00:20:54,197 --> 00:20:57,394
+
+
 that I can guess which hand
 you place this in every time.
 
-180
-00:20:57,467 --> 00:21:00,128
+
+
 Excellent.
 
-181
-00:21:00,202 --> 00:21:03,900
+
+
 Put it in your fist, raise your hand
 against your forehead...
 
-182
-00:21:03,972 --> 00:21:06,964
+
+
 <i>concentrate on it,</i>
 <i>form a mental picture.</i>
 
-183
-00:21:07,042 --> 00:21:08,977
+
+
 - Yes.
 - <i>Have you got it?</i>
 
-184
-00:21:09,045 --> 00:21:11,707
+
+
 - Yes.
 - <i>Put your hands in front of you.</i>
 
-185
-00:21:15,317 --> 00:21:17,650
+
+
 It's in your left.
 
-186
-00:21:17,720 --> 00:21:19,653
+
+
 - Well-
 - A lucky guess, perhaps.
 
-187
-00:21:19,721 --> 00:21:21,916
+
+
 You have a confederate
 who signals you.
 
-188
-00:21:21,990 --> 00:21:24,982
+
+
 - No. It's more primitive than that.
 - Uh-huh.
 
-189
-00:21:25,060 --> 00:21:29,259
+
+
 When you raise your hand to your head,
 the blood drains from it.
 
-190
-00:21:29,332 --> 00:21:31,323
+
+
 It will be paler every time.
 
-191
-00:21:35,371 --> 00:21:40,205
+
+
 Oh. Oh, I like that very much.
 
-192
-00:21:40,276 --> 00:21:42,710
+
+
 Please take it with my compliments.
 
-193
-00:21:42,778 --> 00:21:45,713
+
+
 Why, thank you.
 Eh, the blood drains.
 
-194
-00:21:45,781 --> 00:21:49,376
+
+
 Now, Inspector...
 
-195
-00:21:49,451 --> 00:21:52,182
+
+
 if you don't mind, I've got to prepare
 for tonight's performance.
 
-196
-00:21:52,255 --> 00:21:55,554
+
+
 Ah.
 
-197
-00:22:04,567 --> 00:22:07,468
+
+
 <i>Please stand for His Imperial Highness...</i>
 
-198
-00:22:07,537 --> 00:22:10,438
+
+
 <i>Crown Prince Leopold.</i>
 
-199
-00:22:37,500 --> 00:22:42,096
+
+
 I thought we might end this evening
 with a discussion of the soul.
 
-200
-00:22:42,171 --> 00:22:44,730
+
+
 All of the greatest religions...
 
-201
-00:22:44,807 --> 00:22:49,005
+
+
 speak of the soul's endurance
 beyond the end of life.
 
-202
-00:22:49,077 --> 00:22:53,741
+
+
 So, what then
 does it mean... to die?
 
-203
-00:22:54,916 --> 00:22:57,646
+
+
 <i>I need a volunteer</i>
 <i>from the audience.</i>
 
-204
-00:22:57,720 --> 00:23:00,654
+
+
 Someone not afraid of death.
 
-205
-00:23:02,424 --> 00:23:05,019
+
+
 Please, someone?
 
-206
-00:23:05,094 --> 00:23:07,460
+
+
 I assure you,
 no tragedy will befall you.
 
-207
-00:23:37,426 --> 00:23:39,486
+
+
 It's an honor, Duchess von Teschen.
 
-208
-00:23:52,208 --> 00:23:54,732
+
+
 Do you know me?
 
-209
-00:23:55,811 --> 00:23:57,643
+
+
 No.
 
-210
-00:23:59,848 --> 00:24:02,409
+
+
 You're quite certain
 that we've never met before?
 
-211
-00:24:02,484 --> 00:24:04,213
+
+
 Yes, of course.
 
-212
-00:24:18,567 --> 00:24:21,866
+
+
 Now please gaze
 directly into my eyes.
 
-213
-00:24:21,938 --> 00:24:23,997
+
+
 Look nowhere else.
 
-214
-00:25:00,041 --> 00:25:02,032
+
+
 Wave to yourself.
 
-215
-00:25:05,413 --> 00:25:07,711
+
+
 Turn in a circle.
 
-216
-00:25:14,222 --> 00:25:16,384
+
+
 Now bow to yourself.
 
-217
-00:25:59,134 --> 00:26:01,365
+
+
 Away.
 
-218
-00:27:03,898 --> 00:27:08,164
+
+
 They must have liked you. They've
 waited for you nearly five minutes.
 
-219
-00:27:08,237 --> 00:27:12,605
+
+
 Your Highness, may I introduce
 Eisenheim the Illusionist?
 
-220
-00:27:16,945 --> 00:27:20,438
+
+
 - Well done.
 - Thank you for coming. I hope you enjoyed it.
 
-221
-00:27:20,516 --> 00:27:23,314
+
+
 Oh, we more than enjoyed it.
 
-222
-00:27:23,385 --> 00:27:26,150
+
+
 Stimulated great debate
 amongst us, hasn't it?
 
-223
-00:27:26,221 --> 00:27:28,622
+
+
 Except of course for your assistant,
 Duchess von Teschen.
 
-224
-00:27:28,691 --> 00:27:31,454
+
+
 You seemed to have struck her
 quite speechless. A feat in itself.
 
-225
-00:27:31,527 --> 00:27:35,292
+
+
 - Did you hypnotize her?
 - In a fashion.
 
-226
-00:27:35,364 --> 00:27:38,423
+
+
 I'd like to learn that trick.
 
-227
-00:27:38,500 --> 00:27:43,802
+
+
 <i>Rainier here thinks you have</i>
 <i>supernatural powers.</i>
 
-228
-00:27:43,873 --> 00:27:46,034
+
+
 Do you claim supernatural powers?
 
-229
-00:27:47,343 --> 00:27:49,777
+
+
 I've never said anything
 of that kind.
 
-230
-00:27:49,845 --> 00:27:52,746
+
+
 - Then you won't mind a question or two.
 - Now let's not ruin it.
 
-231
-00:27:52,815 --> 00:27:56,147
+
+
 <i>You needn't divulge</i>
 <i>anything I can't guess.</i>
 
-232
-00:27:56,218 --> 00:27:57,913
+
+
 As you wish.
 
-233
-00:27:57,987 --> 00:28:00,079
+
+
 Your assistants
 are behind the mirror...
 
-234
-00:28:00,155 --> 00:28:03,785
+
+
 somewhere in robes obviously.
 
-235
-00:28:03,858 --> 00:28:07,385
+
+
 Lights in the frame perhaps
 to illuminate them, or angled mirrors?
 
-236
-00:28:07,462 --> 00:28:10,432
+
+
 That would be one way to do it.
 
-237
-00:28:10,499 --> 00:28:13,194
+
+
 I think I understand it all
 except the ghost.
 
-238
-00:28:13,269 --> 00:28:15,327
+
+
 That was very, very good.
 
-239
-00:28:15,403 --> 00:28:18,305
+
+
 Another viewing perhaps?
 
-240
-00:28:18,374 --> 00:28:21,468
+
+
 You must come to the Hofburg next time.
 We'll make an evening of it.
 
-241
-00:28:21,544 --> 00:28:24,172
+
+
 That will be my pleasure.
 
-242
-00:28:24,246 --> 00:28:26,645
+
+
 <i>So be it.</i>
 
-243
-00:28:26,715 --> 00:28:29,082
+
+
 Sophie?
 
-244
-00:28:36,157 --> 00:28:38,922
+
+
 <i>And we'll gather</i>
 <i>our best minds next time.</i>
 
-245
-00:28:38,993 --> 00:28:40,961
+
+
 You'll really have a challenge then.
 
-246
-00:28:41,029 --> 00:28:43,896
+
+
 Then I'll prepare something special.
 
-247
-00:28:43,965 --> 00:28:46,025
+
+
 Perhaps I'll make you disappear.
 
-248
-00:28:58,447 --> 00:29:01,314
+
+
 My God.
 When he volunteered her...
 
-249
-00:29:01,383 --> 00:29:05,479
+
+
 I heard the crashing sound
 of money falling on me in piles.
 
-250
-00:29:05,554 --> 00:29:08,546
+
+
 Every lady of means in Vienna will
 want to get up there with you now.
 
-251
-00:29:08,624 --> 00:29:10,557
+
+
 - Mmm.
 - What a show-off.
 
-252
-00:29:10,625 --> 00:29:13,288
+
+
 His father would have died
 if he had seen such a display.
 
-253
-00:29:13,362 --> 00:29:16,888
+
+
 - She didn't seem too happy about it either.
 - She'd better get used to it.
 
-254
-00:29:16,965 --> 00:29:20,366
+
+
 - How's that?
 - Word is she'll marry him soon.
 
-255
-00:29:20,435 --> 00:29:23,962
+
+
 - Really?
 - Taking her chances if you ask me.
 
-256
-00:29:24,038 --> 00:29:26,701
+
+
 - Why?
 - He likes to give his lady friends...
 
-257
-00:29:26,776 --> 00:29:29,243
+
+
 a good thrashing now and again.
 
-258
-00:29:29,310 --> 00:29:31,369
+
+
 People say he pushed one of them
 off a balcony...
 
-259
-00:29:31,446 --> 00:29:34,314
+
+
 just to cover
 the beating he'd given her.
 
-260
-00:30:02,010 --> 00:30:04,845
+
+
 For Herr Eisenheim.
 
-261
-00:30:46,519 --> 00:30:48,452
+
+
 Hello, Sophie.
 
-262
-00:30:53,226 --> 00:30:57,458
+
+
 <i>When I was on the stage,</i>
 <i>you knew me right away.</i>
 
-263
-00:30:57,529 --> 00:31:00,226
+
+
 It took me a moment...
 
-264
-00:31:00,299 --> 00:31:02,768
+
+
 but, yes, I knew.
 
-265
-00:31:02,836 --> 00:31:05,269
+
+
 You could have said something.
 
-266
-00:31:05,337 --> 00:31:07,431
+
+
 I thought you'd figure
 it out eventually.
 
-267
-00:31:07,507 --> 00:31:09,667
+
+
 Yes, I would have.
 
-268
-00:31:09,742 --> 00:31:12,233
+
+
 I would have come another night,
 volunteered...
 
-269
-00:31:12,311 --> 00:31:14,303
+
+
 walked right on stage
 and said, "Hello."
 
-270
-00:31:14,381 --> 00:31:16,747
+
+
 <i>And then you'd really</i>
 <i>have had to move quickly.</i>
 
-271
-00:31:16,816 --> 00:31:19,079
+
+
 I suspect you would have.
 
-272
-00:31:21,587 --> 00:31:23,578
+
+
 I don't understand why.
 
-273
-00:31:27,760 --> 00:31:31,788
+
+
 Perhaps for the same reasons you
 find it prudent to meet in a carriage.
 
-274
-00:31:31,865 --> 00:31:35,266
+
+
 It's just a game
 I have to play with them.
 
-275
-00:31:37,002 --> 00:31:41,598
+
+
 I'm followed everywhere. It's-
 It's supposed to be for my protection.
 
-276
-00:31:43,777 --> 00:31:45,801
+
+
 Yes.
 
-277
-00:31:45,878 --> 00:31:50,406
+
+
 So, I hear congratulations
 are in order.
 
-278
-00:31:50,482 --> 00:31:53,076
+
+
 <i>What for?</i>
 
-279
-00:31:53,153 --> 00:31:55,484
+
+
 They say you'll be the princess.
 
-280
-00:31:55,555 --> 00:31:58,887
+
+
 - It's not decided at all.
 - Ah.
 
-281
-00:32:00,226 --> 00:32:02,922
+
+
 It makes a certain sense, I suppose.
 
-282
-00:32:02,996 --> 00:32:06,557
+
+
 We've known each other for years,
 and of course, our families.
 
-283
-00:32:06,633 --> 00:32:09,157
+
+
 He's very intelligent.
 
-284
-00:32:09,234 --> 00:32:12,727
+
+
 <i>A little too intelligent</i>
 <i>for his own good.</i>
 
-285
-00:32:16,476 --> 00:32:19,468
+
+
 You're lucky, you know...
 
-286
-00:32:19,546 --> 00:32:22,344
+
+
 to have broken free as you did.
 
-287
-00:32:24,384 --> 00:32:27,147
+
+
 I often wish that I had-
 
-288
-00:32:30,289 --> 00:32:32,223
+
+
 Wished what?
 
-289
-00:32:35,561 --> 00:32:38,155
+
+
 Wished that I would see you again.
 
-290
-00:32:42,935 --> 00:32:44,994
+
+
 And now you have.
 
-291
-00:32:47,140 --> 00:32:50,734
+
+
 Yes, now I have.
 
-292
-00:32:57,750 --> 00:33:00,548
+
+
 I look forward to seeing you
 again at the Hofburg.
 
-293
-00:33:00,619 --> 00:33:02,951
+
+
 Until then.
 
-294
-00:33:26,880 --> 00:33:28,904
+
+
 Here's the report
 on Duchess von Teschen.
 
-295
-00:33:28,981 --> 00:33:31,347
+
+
 Mmm. Anything interesting?
 
-296
-00:33:31,417 --> 00:33:33,409
+
+
 See for yourself.
 
-297
-00:33:40,527 --> 00:33:43,086
+
+
 The magician?
 
-298
-00:33:43,163 --> 00:33:45,096
+
+
 <i>They drove around for half an hour.</i>
 
-299
-00:33:45,164 --> 00:33:47,998
+
+
 <i>Then he got out near the theater.</i>
 
-300
-00:33:51,203 --> 00:33:54,070
+
+
 <i>What do you want us to do?</i>
 
-301
-00:34:11,458 --> 00:34:14,449
+
+
 Join us for a drink?
 
-302
-00:34:20,065 --> 00:34:22,364
+
+
 Please.
 
-303
-00:34:32,711 --> 00:34:35,306
+
+
 You like something to eat,
 something to drink, hmm?
 
-304
-00:34:35,380 --> 00:34:37,644
+
+
 - No, thank you.
 - Herr Eisenheim...
 
-305
-00:34:37,717 --> 00:34:41,447
+
+
 I'm going to ask you a question...
 
-306
-00:34:41,521 --> 00:34:43,512
+
+
 that may not seem friendly...
 
-307
-00:34:43,590 --> 00:34:47,150
+
+
 but I assure you, in fact, is.
 
-308
-00:34:49,061 --> 00:34:53,226
+
+
 What is your relationship
 with the Duchess von Teschen?
 
-309
-00:34:53,298 --> 00:34:56,028
+
+
 You're right,
 that doesn't seem friendly.
 
-310
-00:34:56,101 --> 00:34:58,570
+
+
 Oh, but that is precisely my point.
 
-311
-00:34:58,637 --> 00:35:02,335
+
+
 For, you see,
 where others might judge...
 
-312
-00:35:02,407 --> 00:35:07,208
+
+
 a discreet carriage ride
 for what it seemed to be...
 
-313
-00:35:07,280 --> 00:35:10,875
+
+
 I am willing to find out
 what it actually was.
 
-314
-00:35:12,619 --> 00:35:15,349
+
+
 All right. We were
 childhood acquaintances.
 
-315
-00:35:15,420 --> 00:35:17,820
+
+
 Acquaintances?
 
-316
-00:35:17,891 --> 00:35:20,188
+
+
 Childhood friends.
 
-317
-00:35:20,260 --> 00:35:22,420
+
+
 My father was a cabinetmaker.
 
-318
-00:35:22,494 --> 00:35:26,123
+
+
 <i>He made the furniture for her family's house.</i>
 
-319
-00:35:26,199 --> 00:35:29,532
+
+
 I see, the cabinetmaker's son
 friends with a-
 
-320
-00:35:29,601 --> 00:35:34,505
+
+
 - Has there been a complaint?
 - Oh, no, no. If there'd been a complaint...
 
-321
-00:35:34,574 --> 00:35:38,065
+
+
 well, we'd be having a very, uh,
 different sort of conversation.
 
-322
-00:35:39,445 --> 00:35:44,074
+
+
 Yes. He relies on you for
 that sort of thing, does he?
 
-323
-00:35:44,150 --> 00:35:47,085
+
+
 I'm a simple public servant,
 Herr Eisenheim.
 
-324
-00:35:47,152 --> 00:35:49,211
+
+
 That's not what I hear.
 
-325
-00:35:49,289 --> 00:35:52,952
+
+
 I hear you'll be
 the chief of police very soon.
 
-326
-00:35:53,025 --> 00:35:57,554
+
+
 - Maybe mayor of Vienna? Party secretary?
 - All subject to his whim.
 
-327
-00:35:57,630 --> 00:36:00,690
+
+
 You better hope he doesn't dissolve
 the parliament before you get there.
 
-328
-00:36:00,766 --> 00:36:05,226
+
+
 Now the prince has some progressive ideas,
 but he will make a fine emperor.
 
-329
-00:36:05,304 --> 00:36:09,070
+
+
 Well, they say you're very close to him,
 so I'm sure you'll do fine.
 
-330
-00:36:09,141 --> 00:36:14,943
+
+
 Look. Yes, indeed, they say
 that I'm very close to the prince.
 
-331
-00:36:15,014 --> 00:36:20,144
+
+
 But the simple truth of the matter is,
 Herr Eisenheim, I'm the son of a butcher.
 
-332
-00:36:20,219 --> 00:36:24,280
+
+
 He's the heir to the empire.
 How close could we be to such as him?
 
-333
-00:36:24,356 --> 00:36:28,123
+
+
 <i>Hmm? Do you see my point?</i>
 
-334
-00:36:32,498 --> 00:36:35,728
+
+
 Don't fool yourself that
 you can play in their game.
 
-335
-00:36:37,603 --> 00:36:39,538
+
+
 I've served on the edge of it...
 
-336
-00:36:39,606 --> 00:36:43,599
+
+
 for... many, many years...
 
-337
-00:36:43,675 --> 00:36:45,768
+
+
 and I can tell you with certainty...
 
-338
-00:36:45,844 --> 00:36:49,143
+
+
 <i>there's no trick they haven't seen.</i>
 
-339
-00:36:52,784 --> 00:36:55,686
+
+
 It's not worth it.
 
-340
-00:36:59,858 --> 00:37:02,521
+
+
 <i>My guest tonight...</i>
 
-341
-00:37:02,594 --> 00:37:07,827
+
+
 is not a showman at all,
 but rather a wizard...
 
-342
-00:37:07,900 --> 00:37:11,427
+
+
 <i>who has sold his soul</i>
 <i>to the devil...</i>
 
-343
-00:37:11,503 --> 00:37:14,940
+
+
 <i>in return for unholy powers.</i>
 
-344
-00:37:15,007 --> 00:37:17,976
+
+
 Or so at least some of our friends here
 would have us believe.
 
-345
-00:37:18,043 --> 00:37:20,478
+
+
 <i>But fear not.</i>
 
-346
-00:37:20,545 --> 00:37:25,744
+
+
 Everything can
 and will be explained.
 
-347
-00:37:25,818 --> 00:37:30,346
+
+
 - All mysteries penetrated.
 - <i>Hear! Hear!</i>
 
-348
-00:37:30,422 --> 00:37:33,483
+
+
 <i>Well said! Well said!</i>
 
-349
-00:37:59,117 --> 00:38:01,847
+
+
 - <i>Is that the emperor?</i>
 - <i>Ah, yes, your father.</i>
 
-350
-00:38:01,920 --> 00:38:05,219
+
+
 I didn't think he was invited.
 
-351
-00:38:06,893 --> 00:38:09,487
+
+
 <i>Bravo.</i>
 
-352
-00:38:15,501 --> 00:38:18,902
+
+
 A fair likeness of the old man.
 
-353
-00:38:18,971 --> 00:38:22,338
+
+
 Too modern a style for him, of course.
 
-354
-00:38:22,407 --> 00:38:24,534
+
+
 I'm afraid I'm not much
 of a painter.
 
-355
-00:38:24,610 --> 00:38:27,875
+
+
 It's true. There are no brushstrokes
 in this painting.
 
-356
-00:38:27,947 --> 00:38:31,347
+
+
 I can see that clearly.
 
-357
-00:38:31,416 --> 00:38:33,351
+
+
 So to achieve the color...
 
-358
-00:38:33,418 --> 00:38:37,253
+
+
 some sort of chemical must
 be interacting, presumably.
 
-359
-00:38:37,322 --> 00:38:40,224
+
+
 <i>Some sort of sprayer up your sleeve?</i>
 
-360
-00:38:40,293 --> 00:38:43,557
+
+
 - May I?
 - If you feel you must.
 
-361
-00:38:45,231 --> 00:38:48,927
+
+
 - I do.
 - Oh, let the man do his show.
 
-362
-00:38:49,001 --> 00:38:52,061
+
+
 You want me to just sit there
 when it's so obvious?
 
-363
-00:38:52,137 --> 00:38:54,469
+
+
 I do.
 
-364
-00:38:54,539 --> 00:38:57,202
+
+
 He tries to trick you.
 I try to enlighten you.
 
-365
-00:38:57,275 --> 00:38:59,608
+
+
 Which is the more noble pursuit?
 
-366
-00:38:59,679 --> 00:39:01,612
+
+
 May we have the lights, please...
 
-367
-00:39:01,681 --> 00:39:03,978
+
+
 so His Highness can better see?
 
-368
-00:39:04,050 --> 00:39:07,780
+
+
 - See here, Leopold, let's have the show.
 - Hear! Hear!
 
-369
-00:39:07,853 --> 00:39:10,219
+
+
 - Come on, Leopold.
 - Get on with it.
 
-370
-00:39:10,289 --> 00:39:13,121
+
+
 Very well. I propose a challenge.
 
-371
-00:39:14,793 --> 00:39:18,126
+
+
 <i>Why don't you astonish us...</i>
 
-372
-00:39:18,197 --> 00:39:20,528
+
+
 if you can...
 
-373
-00:39:20,599 --> 00:39:25,003
+
+
 without all the... gadgetry?
 
-374
-00:39:25,070 --> 00:39:27,630
+
+
 As you wish.
 
-375
-00:39:29,509 --> 00:39:31,840
+
+
 <i>Your sword is very beautiful.</i>
 
-376
-00:39:31,911 --> 00:39:33,639
+
+
 Might I see it?
 
-377
-00:39:33,713 --> 00:39:35,704
+
+
 Certainly.
 
-378
-00:39:38,351 --> 00:39:40,342
+
+
 May I?
 
-379
-00:39:46,692 --> 00:39:49,320
+
+
 Where does power flow from?
 
-380
-00:39:51,329 --> 00:39:55,027
+
+
 Skill or destiny, or divine right?
 
-381
-00:39:57,202 --> 00:40:01,003
+
+
 We all know the story
 of a sword called Excalibur.
 
-382
-00:40:02,474 --> 00:40:06,206
+
+
 Excalibur's blade
 was fixed in stone...
 
-383
-00:40:09,815 --> 00:40:12,376
+
+
 and there it stayed.
 
-384
-00:40:14,519 --> 00:40:19,115
+
+
 Many worthy knights tried to
 pull the sword from the stone.
 
-385
-00:40:19,192 --> 00:40:21,956
+
+
 Only Arthur succeeded...
 
-386
-00:40:22,027 --> 00:40:23,996
+
+
 proving his right to rule.
 
-387
-00:40:24,063 --> 00:40:26,896
+
+
 <i>Who can take this sword?</i>
 
-388
-00:40:26,965 --> 00:40:31,130
+
+
 You, sir, can you take the sword?
 
-389
-00:40:52,157 --> 00:40:54,318
+
+
 No surprise there.
 
-390
-00:40:54,393 --> 00:40:56,884
+
+
 Perhaps you, sir.
 
-391
-00:40:58,831 --> 00:41:02,164
+
+
 Not so eager, cousin.
 
-392
-00:41:05,070 --> 00:41:07,197
+
+
 <i>Come on. You can do it.</i>
 
-393
-00:41:07,273 --> 00:41:10,764
+
+
 - <i>Do it! Do it!</i>
 - <i>Come on!</i>
 
-394
-00:41:18,016 --> 00:41:21,452
+
+
 You shall live a long life.
 
-395
-00:41:21,521 --> 00:41:24,422
+
+
 Thank you for your indulgence.
 
-396
-00:41:37,168 --> 00:41:39,932
+
+
 Come now. If you can't pull it out,
 you'll never be emperor.
 
-397
-00:41:40,005 --> 00:41:43,407
+
+
 <i>Your father will live to be a hundred.</i>
 
-398
-00:41:55,320 --> 00:41:58,085
+
+
 The sword to its rightful owner!
 
-399
-00:42:08,434 --> 00:42:12,097
+
+
 That's enough light entertainment
 for this evening.
 
-400
-00:42:12,170 --> 00:42:16,335
+
+
 For more serious discussion,
 please join me for a drink.
 
-401
-00:42:29,255 --> 00:42:31,188
+
+
 Shut him down.
 
-402
-00:42:31,257 --> 00:42:33,657
+
+
 Well, he's very popular,
 Your Highness.
 
-403
-00:42:33,726 --> 00:42:36,387
+
+
 I'm sure you'll find a way.
 
-404
-00:42:42,768 --> 00:42:47,898
+
+
 - What did you do to him?
 - I gave him what he asked for.
 
-405
-00:42:47,974 --> 00:42:50,442
+
+
 What would possess you
 to do something so foolish?
 
-406
-00:42:50,509 --> 00:42:55,411
+
+
 <i>Duchess von Teschen,</i>
 <i>you must come along, my dear.</i>
 
-407
-00:42:55,481 --> 00:42:58,541
+
+
 We don't want to keep
 the prince waiting.
 
-408
-00:42:58,617 --> 00:43:01,246
+
+
 - Did you enjoy the show?
 - It was wonderful, wasn't it?
 
-409
-00:43:01,320 --> 00:43:03,844
+
+
 It was amusing.
 
-410
-00:43:40,960 --> 00:43:43,588
+
+
 Who told you where to find me?
 
-411
-00:43:43,663 --> 00:43:48,190
+
+
 Your manager. I told him if he wants
 to stay in Vienna, you need my help.
 
-412
-00:43:48,266 --> 00:43:50,827
+
+
 Ah, so I'm to be driven
 from the city, is that it?
 
-413
-00:43:50,902 --> 00:43:54,030
+
+
 - Good. I shall relish it.
 - Stop it!
 
-414
-00:43:55,775 --> 00:43:57,902
+
+
 <i>I came here to try to help you.</i>
 
-415
-00:43:57,976 --> 00:44:01,673
+
+
 Why? Why should you possibly
 care what happens to me now?
 
-416
-00:44:01,746 --> 00:44:04,181
+
+
 You were my friend.
 I <i>am</i> your friend.
 
-417
-00:44:04,250 --> 00:44:09,186
+
+
 We knew each other very briefly
 a long time ago. You don't know me at all.
 
-418
-00:44:09,255 --> 00:44:14,157
+
+
 Then why did you speak to me?
 Why did you even bother talking-
 
-419
-00:45:30,068 --> 00:45:32,536
+
+
 And you kept it all this time.
 
-420
-00:45:34,239 --> 00:45:37,902
+
+
 I used to sit and stare
 at your picture...
 
-421
-00:45:37,976 --> 00:45:40,467
+
+
 trying to imagine where you were.
 
-422
-00:45:42,014 --> 00:45:46,849
+
+
 At night I'd have dreams
 I had gone with you...
 
-423
-00:45:46,920 --> 00:45:50,650
+
+
 and then I'd wake up
 and realize where I was.
 
-424
-00:45:58,130 --> 00:46:01,827
+
+
 But in my dreams you
 had shorter hair and no beard.
 
-425
-00:46:10,143 --> 00:46:13,601
+
+
 Where did you go when you left?
 
-426
-00:46:16,014 --> 00:46:18,414
+
+
 To my uncle's farm near Prague.
 
-427
-00:46:19,686 --> 00:46:21,677
+
+
 How exotic.
 
-428
-00:46:24,990 --> 00:46:27,960
+
+
 I went to Russia...
 
-429
-00:46:28,027 --> 00:46:29,960
+
+
 then Asia Minor...
 
-430
-00:46:30,028 --> 00:46:32,623
+
+
 and then the Orient for many years.
 
-431
-00:46:32,699 --> 00:46:35,030
+
+
 So long.
 
-432
-00:46:35,101 --> 00:46:37,592
+
+
 I always meant to return.
 
-433
-00:46:39,204 --> 00:46:44,141
+
+
 I just- I kept thinking I'd find it
 around the next corner.
 
-434
-00:46:45,244 --> 00:46:47,235
+
+
 What?
 
-435
-00:46:48,847 --> 00:46:50,782
+
+
 A real mystery.
 
-436
-00:46:53,619 --> 00:46:55,746
+
+
 I saw remarkable things...
 
-437
-00:46:55,822 --> 00:46:59,155
+
+
 but the only mystery
 I never solved was...
 
-438
-00:46:59,224 --> 00:47:02,284
+
+
 why my heart couldn't let go of you.
 
-439
-00:47:23,382 --> 00:47:25,976
+
+
 He wants me to go to Budapest...
 
-440
-00:47:26,052 --> 00:47:28,485
+
+
 with him next week
 to announce our engagement.
 
-441
-00:47:30,690 --> 00:47:34,456
+
+
 He wants the Hungarians behind him.
 
-442
-00:47:34,527 --> 00:47:36,791
+
+
 They're going to crown him king.
 
-443
-00:47:36,862 --> 00:47:39,626
+
+
 I'm sure his father will have
 something to say about that.
 
-444
-00:47:39,699 --> 00:47:41,929
+
+
 He plans to overthrow his father.
 
-445
-00:47:43,202 --> 00:47:46,432
+
+
 That could go very badly for him...
 
-446
-00:47:46,505 --> 00:47:48,440
+
+
 and for you.
 
-447
-00:47:48,507 --> 00:47:50,476
+
+
 <i>You shouldn't be involved.</i>
 
-448
-00:47:50,543 --> 00:47:54,137
+
+
 I am part of his plan.
 
-449
-00:47:54,213 --> 00:47:56,976
+
+
 He only gets Hungary by
 aligning himself with my family.
 
-450
-00:47:57,050 --> 00:48:01,282
+
+
 - Leave him.
 - It's not that easy.
 
-451
-00:48:01,353 --> 00:48:05,119
+
+
 Call it off and come away with me.
 
-452
-00:48:05,190 --> 00:48:10,822
+
+
 <i>Or don't say anything</i>
 <i>and we'll just go.</i>
 
-453
-00:48:10,896 --> 00:48:14,230
+
+
 As long as we're alive...
 
-454
-00:48:14,300 --> 00:48:16,233
+
+
 he'll hunt us.
 
-455
-00:48:16,302 --> 00:48:18,463
+
+
 And when he finds us, he'll kill us.
 
-456
-00:48:31,918 --> 00:48:33,851
+
+
 Look at me.
 
-457
-00:48:36,188 --> 00:48:39,487
+
+
 <i>Do you truly want to leave with me?</i>
 
-458
-00:48:43,463 --> 00:48:47,023
+
+
 Yes, I do.
 
-459
-00:49:23,302 --> 00:49:27,204
+
+
 There you are. As I predicted,
 they've shut us down.
 
-460
-00:49:27,273 --> 00:49:31,333
+
+
 <i>Are you happy now, hmm?</i>
 <i>You made your point.</i>
 
-461
-00:49:31,409 --> 00:49:34,173
+
+
 <i>It doesn't matter that we were</i>
 <i>sold out for the whole run!</i>
 
-462
-00:49:34,246 --> 00:49:38,307
+
+
 No, look. You got it off your chest.
 
-463
-00:49:38,384 --> 00:49:40,375
+
+
 - <i>Do we have money?</i>
 - What?
 
-464
-00:49:40,452 --> 00:49:43,353
+
+
 - Do we have any money saved?
 - Yes, we have some.
 
-465
-00:49:43,422 --> 00:49:45,753
+
+
 But we could have had
 much, much more.
 
-466
-00:49:45,824 --> 00:49:49,192
+
+
 Mmm, it will have to do.
 
-467
-00:49:50,896 --> 00:49:53,057
+
+
 And the second account, all of it.
 
-468
-00:49:53,132 --> 00:49:56,123
+
+
 <i>Of course, Herr Eisenheim.</i>
 
-469
-00:50:00,306 --> 00:50:02,432
+
+
 Thank you.
 
-470
-00:50:56,027 --> 00:50:58,929
+
+
 And you have no doubt
 it was Duchess von Teschen?
 
-471
-00:50:58,998 --> 00:51:02,398
+
+
 I'd stake my life on it.
 
-472
-00:51:02,467 --> 00:51:04,833
+
+
 What was in this suitcase?
 
-473
-00:51:04,903 --> 00:51:06,894
+
+
 I don't know.
 
-474
-00:51:17,148 --> 00:51:19,617
+
+
 He's by the first car.
 
-475
-00:51:44,309 --> 00:51:47,074
+
+
 <i>The map will show you where to meet.</i>
 
-476
-00:51:47,146 --> 00:51:51,344
+
+
 <i>When it's done, you'll travel ahead</i>
 <i>with her and I shall follow.</i>
 
-477
-00:51:51,416 --> 00:51:54,079
+
+
 <i>And she understands</i>
 <i>everything this entails?</i>
 
-478
-00:51:54,152 --> 00:51:58,681
+
+
 <i>Completely. There's not a lot of time.</i>
 
-479
-00:52:29,255 --> 00:52:32,519
+
+
 As you know, we sometimes follow...
 
-480
-00:52:32,590 --> 00:52:35,753
+
+
 Duchess von Teschen
 for her protection.
 
-481
-00:52:37,295 --> 00:52:40,128
+
+
 Yesterday she was seen
 in the company of another man.
 
-482
-00:52:40,199 --> 00:52:41,860
+
+
 What man?
 
-483
-00:52:43,101 --> 00:52:45,592
+
+
 Eisenheim the Illusionist.
 
-484
-00:52:45,670 --> 00:52:48,572
+
+
 What were they doing?
 
-485
-00:52:48,641 --> 00:52:53,077
+
+
 - Well, they were meeting and, uh-
 - <i>Touching? Kissing?</i>
 
-486
-00:52:53,144 --> 00:52:54,806
+
+
 Fornicating?
 
-487
-00:52:54,880 --> 00:52:58,407
+
+
 Not that we observed, no.
 
-488
-00:52:58,483 --> 00:53:01,817
+
+
 However, I have reason to believe that
 they may be planning something together.
 
-489
-00:53:03,322 --> 00:53:05,483
+
+
 <i>It's possible they may be leaving.</i>
 
-490
-00:53:05,557 --> 00:53:08,219
+
+
 I'm not certain of anything yet,
 Your Highness.
 
-491
-00:53:08,293 --> 00:53:10,454
+
+
 Thank you, Inspector.
 
-492
-00:53:10,528 --> 00:53:13,726
+
+
 We can, of course, acquire more information-
 
-493
-00:53:44,929 --> 00:53:47,898
+
+
 He spent the afternoon
 in Vienna with his father.
 
-494
-00:53:47,967 --> 00:53:50,434
+
+
 He's expected shortly.
 
-495
-00:54:22,034 --> 00:54:24,831
+
+
 What a surprise.
 
-496
-00:54:24,903 --> 00:54:27,998
+
+
 <i>I thought you didn't like it here.</i>
 
-497
-00:54:31,744 --> 00:54:34,474
+
+
 I suppose you think
 you're very clever...
 
-498
-00:54:35,614 --> 00:54:40,574
+
+
 and very democratic
 in your friendships.
 
-499
-00:54:40,652 --> 00:54:43,213
+
+
 - <i>Aren't you?</i>
 - What are you talking about?
 
-500
-00:54:43,289 --> 00:54:46,349
+
+
 Your magician friend.
 
-501
-00:54:46,425 --> 00:54:48,722
+
+
 I know you've been with him.
 
-502
-00:54:50,563 --> 00:54:54,362
+
+
 It's true. We've been
 friends since childhood.
 
-503
-00:54:54,432 --> 00:54:57,061
+
+
 You sleep with all
 your childhood friends?
 
-504
-00:54:57,135 --> 00:54:59,331
+
+
 I will not be spoken to this way.
 
-505
-00:54:59,405 --> 00:55:02,896
+
+
 - You'll be spoken to as I wish to speak to you!
 - You're drunk.
 
-506
-00:55:02,974 --> 00:55:06,342
+
+
 You're getting quite old,
 aren't you?
 
-507
-00:55:06,411 --> 00:55:09,744
+
+
 <i>You know, my mother was 16 years old</i>
 <i>when she married my father.</i>
 
-508
-00:55:09,815 --> 00:55:13,545
+
+
 And you? Can you even bear children?
 Are you any use at all?
 
-509
-00:55:13,619 --> 00:55:17,054
+
+
 - Are you trying to embarrass me?
 - It has nothing to do with you.
 
-510
-00:55:17,121 --> 00:55:20,648
+
+
 It has everything to do with me!
 
-511
-00:55:20,726 --> 00:55:24,025
+
+
 You will not share my bed
 if you've slept with him!
 
-512
-00:55:25,864 --> 00:55:28,458
+
+
 You don't understand.
 
-513
-00:55:29,601 --> 00:55:31,967
+
+
 I'm not going to share
 your bed at all.
 
-514
-00:55:34,239 --> 00:55:38,108
+
+
 I'm not going to Budapest with you.
 
-515
-00:55:38,177 --> 00:55:41,304
+
+
 I don't want to be part
 of what you're planning.
 
-516
-00:55:41,380 --> 00:55:43,574
+
+
 And I will not marry you.
 
-517
-00:55:47,152 --> 00:55:50,746
+
+
 <i>I assume you haven't been so stupid</i>
 <i>as to tell him anything.</i>
 
-518
-00:55:50,822 --> 00:55:54,918
+
+
 <i>'Cause if you disrupt my plans, I will have</i>
 <i>no further use for you. Do you understand?</i>
 
-519
-00:56:02,001 --> 00:56:05,630
+
+
 Now, you will travel
 to Budapest tomorrow.
 
-520
-00:56:05,704 --> 00:56:09,800
+
+
 I recommend that you are here early,
 packed and ready to go.
 
-521
-00:56:09,875 --> 00:56:12,570
+
+
 <i>Do nothing more to embarrass me.</i>
 
-522
-00:56:13,811 --> 00:56:15,746
+
+
 Good-bye.
 
-523
-00:56:19,050 --> 00:56:22,679
+
+
 What do you mean, "Good-bye"?
 Come back here.
 
-524
-00:56:27,192 --> 00:56:29,387
+
+
 Come back here!
 
-525
-00:56:42,708 --> 00:56:46,371
+
+
 <i>Don't disobey me again.</i>
 <i>Whore!</i>
 
-526
-00:56:53,786 --> 00:56:55,981
+
+
 <i>Out of my way.</i>
 
-527
-00:56:56,054 --> 00:56:59,786
+
+
 <i>Please, don't.</i>
 
-528
-00:57:26,217 --> 00:57:29,550
+
+
 No, leave that.
 Leave all the lanterns.
 
-529
-00:58:35,820 --> 00:58:40,347
+
+
 <i>Duchess von Teschen!</i>
 
-530
-00:58:40,425 --> 00:58:42,893
+
+
 <i>Duchess von Teschen!</i>
 
-531
-00:58:51,869 --> 00:58:55,327
+
+
 <i>Maybe look on that side!</i>
 
-532
-00:58:57,507 --> 00:59:00,340
+
+
 <i>Over here!</i>
 
-533
-00:59:52,396 --> 00:59:55,695
+
+
 Whoa. Whoa.
 
-534
-01:00:02,706 --> 01:00:04,936
+
+
 I thought you saw her
 get on the train with him.
 
-535
-01:00:05,009 --> 01:00:09,139
+
+
 No, sir. We were waiting in Vienna
 for them, but they left from Baden.
 
-536
-01:00:09,213 --> 01:00:11,545
+
+
 We <i>assumed</i> she was with him.
 
-537
-01:00:11,615 --> 01:00:13,641
+
+
 <i>Should I wire</i>
 <i>the crown prince in Budapest?</i>
 
-538
-01:00:13,717 --> 01:00:16,186
+
+
 <i>It's been done.</i>
 
-539
-01:00:16,253 --> 01:00:19,313
+
+
 - Who are you?
 - I'm the family's doctor.
 
-540
-01:00:19,389 --> 01:00:21,516
+
+
 Are you the chief inspector?
 
-541
-01:00:21,592 --> 01:00:25,425
+
+
 Yes, I am. You understand
 this is a police matter now?
 
-542
-01:00:25,496 --> 01:00:29,090
+
+
 - Of course I understand.
 - Good, good.
 
-543
-01:00:29,166 --> 01:00:32,431
+
+
 - You have determined the cause of death?
 - <i>She bled to death.</i>
 
-544
-01:00:32,503 --> 01:00:35,438
+
+
 There's a wound on her throat...
 
-545
-01:00:35,505 --> 01:00:38,304
+
+
 just above the left collarbone.
 
-546
-01:00:38,376 --> 01:00:40,775
+
+
 Perhaps from a knife or a sword.
 
-547
-01:00:40,844 --> 01:00:43,108
+
+
 May I take a look?
 
-548
-01:01:05,835 --> 01:01:08,304
+
+
 Inspector, I-I will
 not stand for it.
 
-549
-01:01:08,371 --> 01:01:11,000
+
+
 The crown prince
 will not stand for it.
 
-550
-01:01:11,074 --> 01:01:14,340
+
+
 This is not some circus sideshow.
 
-551
-01:01:15,646 --> 01:01:18,376
+
+
 My apologies, of course.
 
-552
-01:01:22,152 --> 01:01:25,246
+
+
 Thank you, Doctor.
 
-553
-01:01:28,925 --> 01:01:32,588
+
+
 Probably robbed.
 Gypsies, maybe.
 
-554
-01:01:32,663 --> 01:01:35,153
+
+
 Saw all those diamonds,
 couldn't say no.
 
-555
-01:01:35,233 --> 01:01:39,795
+
+
 Chief Inspector,
 there's one thing you should know.
 
-556
-01:01:39,869 --> 01:01:43,168
+
+
 - <i>Yes, what is that?</i>
 - In the folds of her dress...
 
-557
-01:01:43,240 --> 01:01:46,972
+
+
 I found this small gemstone.
 
-558
-01:02:03,893 --> 01:02:06,920
+
+
 Seen last Thursday at 7:30 p.m.,
 riding without an escort...
 
-559
-01:02:06,998 --> 01:02:08,931
+
+
 toward the Imperial Hunting Lodge.
 
-560
-01:02:09,000 --> 01:02:12,594
+
+
 Groomsman said
 she arrived about 8:30.
 
-561
-01:02:12,670 --> 01:02:14,603
+
+
 What was she doing riding alone?
 
-562
-01:02:18,074 --> 01:02:20,565
+
+
 He did this.
 You know he did.
 
-563
-01:02:20,644 --> 01:02:22,635
+
+
 - I know who did what?
 - The crown prince!
 
-564
-01:02:22,713 --> 01:02:24,943
+
+
 He killed her. He's done it
 before, and you know it.
 
-565
-01:02:25,016 --> 01:02:27,849
+
+
 No, I don't know that. In fact,
 I'm sure he didn't. He's in Budapest.
 
-566
-01:02:27,918 --> 01:02:31,376
+
+
 - He killed her before he left!
 - I'm afraid the facts don't support your theory.
 
-567
-01:02:33,990 --> 01:02:36,824
+
+
 - She was leaving him.
 - For who? You?
 
-568
-01:02:36,893 --> 01:02:39,192
+
+
 - Yes!
 - Don't be absurd, Herr Eisenheim.
 
-569
-01:02:39,262 --> 01:02:42,460
+
+
 He killed her because
 he couldn't let her go.
 
-570
-01:02:42,532 --> 01:02:45,525
+
+
 - She knew his secret.
 - What secret?
 
-571
-01:02:45,603 --> 01:02:47,570
+
+
 - Ask your inspector. He knows-
 - Stop this right now!
 
-572
-01:02:47,637 --> 01:02:51,903
+
+
 Are you completely corrupt?
 
-573
-01:02:51,976 --> 01:02:56,072
+
+
 No, not completely. No.
 
-574
-01:02:56,146 --> 01:03:01,175
+
+
 Which is why I'll advise you not to accuse
 anyone, especially His Imperial Highness.
 
-575
-01:03:01,251 --> 01:03:03,242
+
+
 Or you will end up in jail yourself.
 
-576
-01:03:26,344 --> 01:03:29,369
+
+
 - Where's the guard who let her out of the gate?
 - Gone with the crown prince.
 
-577
-01:03:29,447 --> 01:03:31,539
+
+
 - Did any of the servants see her leave?
 - All asleep.
 
-578
-01:03:31,614 --> 01:03:34,344
+
+
 Ah-ha.
 What about him?
 
-579
-01:03:34,418 --> 01:03:37,353
+
+
 He, uh, he put her horse
 in the first stall when she arrived.
 
-580
-01:03:37,420 --> 01:03:39,411
+
+
 Ah.
 
-581
-01:03:42,992 --> 01:03:45,257
+
+
 Was it this one?
 
-582
-01:03:54,605 --> 01:03:58,166
+
+
 We don't have jurisdiction
 on Imperial property.
 
-583
-01:03:58,242 --> 01:04:00,233
+
+
 Thank you.
 I know.
 
-584
-01:04:02,079 --> 01:04:04,603
+
+
 So what are you doing?
 
-585
-01:04:06,650 --> 01:04:09,141
+
+
 Investigating.
 
-586
-01:04:09,219 --> 01:04:11,585
+
+
 Listening to that magician, are you?
 
-587
-01:04:14,657 --> 01:04:17,182
+
+
 <i>For all we know, he did it.</i>
 
-588
-01:04:17,260 --> 01:04:19,592
+
+
 No, I think not.
 
-589
-01:04:19,663 --> 01:04:22,063
+
+
 <i>The crown prince is back.</i>
 
-590
-01:04:30,541 --> 01:04:32,907
+
+
 Chief Inspector.
 
-591
-01:04:32,976 --> 01:04:36,913
+
+
 <i>We should go. Now.</i>
 
-592
-01:04:40,784 --> 01:04:42,719
+
+
 What have you found out?
 
-593
-01:04:42,786 --> 01:04:44,981
+
+
 - She was last seen riding here, alone.
 - Yes.
 
-594
-01:04:45,054 --> 01:04:48,547
+
+
 And based on your information,
 I then threw her out.
 
-595
-01:04:48,626 --> 01:04:52,356
+
+
 - Did she commit suicide?
 - No. It was surely murder.
 
-596
-01:04:52,429 --> 01:04:55,489
+
+
 - Do you have a suspect?
 - We will soon, Your Highness.
 
-597
-01:05:03,407 --> 01:05:07,467
+
+
 <i>Later that week, we</i>
 <i>arrested a man and charged him with murder...</i>
 
-598
-01:05:07,545 --> 01:05:11,641
+
+
 <i>but I knew that</i>
 <i>that wouldn't satisfy Eisenheim.</i>
 
-599
-01:05:16,820 --> 01:05:20,085
+
+
 <i>I had my men continue to watch him.</i>
 
-600
-01:05:35,306 --> 01:05:39,139
+
+
 <i>He finally emerged from his grief</i>
 <i>and bought a rundown theater.</i>
 
-601
-01:05:39,210 --> 01:05:41,143
+
+
 It's perfect.
 
-602
-01:05:47,485 --> 01:05:49,418
+
+
 <i>He fired his manager...</i>
 
-603
-01:05:49,487 --> 01:05:53,286
+
+
 <i>and began preparing</i>
 <i>for a new kind of show.</i>
 
-604
-01:07:56,813 --> 01:07:58,804
+
+
 <i>Who is he?</i>
 
-605
-01:08:00,650 --> 01:08:02,641
+
+
 My name is Frankel.
 
-606
-01:08:04,954 --> 01:08:08,891
+
+
 - Where did you come from?
 - I come from Brunn.
 
-607
-01:08:08,958 --> 01:08:11,052
+
+
 My father is a lens grinder there.
 
-608
-01:08:11,128 --> 01:08:14,063
+
+
 How have you come
 to be here tonight?
 
-609
-01:08:18,469 --> 01:08:21,631
+
+
 - I don't know.
 - <i>Are you alive?</i>
 
-610
-01:08:25,109 --> 01:08:27,372
+
+
 <i>What can you tell us</i>
 <i>about the other side?</i>
 
-611
-01:08:27,444 --> 01:08:29,412
+
+
 - <i>What's it like?</i>
 - <i>Yes, tell us.</i>
 
-612
-01:08:29,479 --> 01:08:32,813
+
+
 <i>You must know things. Secret things.</i>
 
-613
-01:08:32,882 --> 01:08:35,317
+
+
 <i>Say something spiritual.</i>
 
-614
-01:08:56,640 --> 01:08:59,939
+
+
 They don't seem
 to think it's a trick.
 
-615
-01:09:00,010 --> 01:09:02,534
+
+
 <i>Eisenheim.! Come out and talk to us!</i>
 
-616
-01:09:08,284 --> 01:09:11,720
+
+
 <i>Eisenheim's audience</i>
 <i>had always been enthusiastic...</i>
 
-617
-01:09:11,788 --> 01:09:16,623
+
+
 <i>but now he was attracting a more...</i>
 <i>impassioned following.</i>
 
-618
-01:09:45,956 --> 01:09:47,890
+
+
 <i>Madame. Please?</i>
 
-619
-01:09:56,734 --> 01:09:58,034
+
+
 <i>With these spirits,</i>
 <i>these manifestations...</i>
 
-620
-01:09:58,069 --> 01:10:01,402
+
+
 <i>With these spirits,</i>
 <i>these manifestations...</i>
 
-621
-01:10:01,470 --> 01:10:04,372
+
+
 Eisenheim has given us hard proof...
 
-622
-01:10:04,440 --> 01:10:06,908
+
+
 of the soul's immortality.
 
-623
-01:10:06,976 --> 01:10:09,945
+
+
 The spirit has been reaffirmed...
 
-624
-01:10:10,012 --> 01:10:13,278
+
+
 <i>in the face of modern,</i>
 <i>scientific materialism.</i>
 
-625
-01:10:13,350 --> 01:10:16,682
+
+
 <i>The work of spiritualism</i>
 <i>will rouse humanity...</i>
 
-626
-01:10:16,752 --> 01:10:19,278
+
+
 to a new, moral earnestness.
 
-627
-01:10:19,355 --> 01:10:23,452
+
+
 "It is a revolutionary movement,
 and we will turn the empire...
 
-628
-01:10:23,527 --> 01:10:26,189
+
+
 into a spiritual republic."
 
-629
-01:10:26,262 --> 01:10:30,359
+
+
 Do you think Eisenheim's behind all this?
 
-630
-01:10:36,573 --> 01:10:41,636
+
+
 Why must I be bothered
 with a magician?
 
-631
-01:10:41,711 --> 01:10:45,442
+
+
 He is proving to be more
 than a magician, Your Highness.
 
-632
-01:10:45,515 --> 01:10:49,109
+
+
 He is a charlatan.
 He's a faker.
 
-633
-01:10:49,185 --> 01:10:53,282
+
+
 He pretends to have
 supernatural powers-
 
-634
-01:10:54,791 --> 01:10:57,190
+
+
 Put him on trial for fraud.
 
-635
-01:10:58,994 --> 01:11:01,292
+
+
 - First, we have to show it is fraud.
 - Then do it.
 
-636
-01:11:01,363 --> 01:11:03,662
+
+
 Find out how the trick is done,
 and then arrest him.
 
-637
-01:11:12,975 --> 01:11:15,466
+
+
 This is just a rough demonstration,
 Inspector.
 
-638
-01:11:15,545 --> 01:11:17,536
+
+
 But you can see how it could work.
 
-639
-01:11:25,387 --> 01:11:28,481
+
+
 Yes, I see.
 Not bad, not bad.
 
-640
-01:11:32,496 --> 01:11:34,895
+
+
 We need a spy in Eisenheim's troupe.
 
-641
-01:11:34,965 --> 01:11:37,559
+
+
 - Those Orientals, they won't give us anything.
 - Mm.
 
-642
-01:11:37,634 --> 01:11:40,659
+
+
 - I already tried.
 - Yeah. Then try something else.
 
-643
-01:12:59,615 --> 01:13:01,550
+
+
 What has happened here?
 
-644
-01:13:01,618 --> 01:13:03,916
+
+
 One of those ghosts from
 the theater down the street.
 
-645
-01:13:03,987 --> 01:13:06,148
+
+
 - Yes. Up there.
 - Where?
 
-646
-01:13:06,222 --> 01:13:09,248
+
+
 - There.
 - Right there. And it's a boy.
 
-647
-01:13:09,326 --> 01:13:11,988
+
+
 - Yes. Look, look.
 - Sick!
 
-648
-01:13:15,198 --> 01:13:17,689
+
+
 - Where is this thing?
 - Right there.
 
-649
-01:13:17,766 --> 01:13:19,859
+
+
 - Over there.
 - Uh-huh. Did you see it?
 
-650
-01:13:19,935 --> 01:13:21,926
+
+
 Mm!
 
-651
-01:13:24,573 --> 01:13:29,011
+
+
 <i>God. An apparition. I saw it. I swear.</i>
 
-652
-01:13:29,078 --> 01:13:32,878
+
+
 - <i>Yes!</i>
 - <i>Right over there.</i>
 
-653
-01:14:23,966 --> 01:14:25,957
+
+
 <i>Where are you taking him?</i>
 
-654
-01:14:31,774 --> 01:14:34,766
+
+
 <i>I want to know how it's done.</i>
 
-655
-01:14:34,844 --> 01:14:37,506
+
+
 First the orange tree, now this.
 
-656
-01:14:37,579 --> 01:14:40,173
+
+
 Do I have to share all my professional
 secrets with the police?
 
-657
-01:14:40,250 --> 01:14:43,047
+
+
 Well, in this case, yes,
 or I'll be forced to arrest you.
 
-658
-01:14:43,118 --> 01:14:45,279
+
+
 - On what charge?
 - Oh, well, we'll start with fraud.
 
-659
-01:14:47,356 --> 01:14:49,381
+
+
 - Excuse me, Chief Inspector-
 - What?
 
-660
-01:14:49,458 --> 01:14:52,121
+
+
 I think you should look
 outside the window.
 
-661
-01:15:04,774 --> 01:15:07,936
+
+
 - Who are they?
 - They are here for him.
 
-662
-01:15:08,978 --> 01:15:11,310
+
+
 <i>Oh!</i>
 
-663
-01:15:11,381 --> 01:15:14,543
+
+
 My goodness, you have
 a devoted following.
 
-664
-01:15:14,617 --> 01:15:18,212
+
+
 - What is it they expect of you?
 - I have no idea.
 
-665
-01:15:18,287 --> 01:15:20,688
+
+
 What do your spies tell you?
 
-666
-01:15:20,756 --> 01:15:23,885
+
+
 That you plan to subvert
 the monarchy, perhaps.
 
-667
-01:15:23,960 --> 01:15:28,090
+
+
 Why? Just because
 the crown prince is a murderer?
 
-668
-01:15:29,599 --> 01:15:32,533
+
+
 He's not a murderer.
 We have the real murderer in prison.
 
-669
-01:15:32,601 --> 01:15:34,899
+
+
 - He pleaded guilty.
 - You've got the wrong man.
 
-670
-01:15:34,970 --> 01:15:38,304
+
+
 - You don't know that.
 - No, but you do.
 
-671
-01:15:39,743 --> 01:15:42,302
+
+
 Hmm.
 
-672
-01:15:44,680 --> 01:15:47,547
+
+
 Herr Eisenheim, you will
 also go to prison...
 
-673
-01:15:47,617 --> 01:15:51,018
+
+
 if you don't explain to me
 what it is you are doing.
 
-674
-01:15:51,087 --> 01:15:54,921
+
+
 - <i>Let him go!</i>
 - <i>Or we will!</i>
 
-675
-01:15:54,990 --> 01:15:58,984
+
+
 The sentence will be greater
 if that mob attacks the building.
 
-676
-01:15:59,061 --> 01:16:01,962
+
+
 <i>Eisenheim.! Eisenheim.! Eisenheim.!</i>
 
-677
-01:16:02,030 --> 01:16:05,626
+
+
 Well?
 
-678
-01:16:07,569 --> 01:16:10,003
+
+
 <i>What are you doing?</i>
 <i>Stop!</i>
 
-679
-01:16:10,073 --> 01:16:12,268
+
+
 - <i>Stop!</i>
 - <i>Eisenheim.!</i>
 
-680
-01:16:12,341 --> 01:16:14,640
+
+
 <i>There he is!</i>
 
-681
-01:16:14,711 --> 01:16:16,940
+
+
 <i>Listen to me, please!</i>
 
-682
-01:16:17,012 --> 01:16:20,676
+
+
 You must listen to me, please!
 
-683
-01:16:23,051 --> 01:16:27,613
+
+
 Thank you all for coming. I have been
 speaking with the chief inspector.
 
-684
-01:16:27,689 --> 01:16:32,354
+
+
 <i>And I think there's been</i>
 <i>a serious misunderstanding.</i>
 
-685
-01:16:34,463 --> 01:16:36,488
+
+
 I want you all to know...
 
-686
-01:16:36,565 --> 01:16:40,627
+
+
 that everything that you have seen
 in my theater is an illusion.
 
-687
-01:16:40,703 --> 01:16:43,637
+
+
 <i>It's a trick.</i>
 
-688
-01:16:43,706 --> 01:16:45,935
+
+
 <i>It's not real.</i>
 
-689
-01:16:48,043 --> 01:16:52,845
+
+
 I can't bring loved ones
 back from the grave.
 
-690
-01:16:52,916 --> 01:16:55,885
+
+
 I can't receive messages
 from the other side.
 
-691
-01:16:57,319 --> 01:17:00,153
+
+
 I apologize if I've given
 you any false hope.
 
-692
-01:17:00,222 --> 01:17:06,162
+
+
 My intention has only been
 to entertain, nothing more.
 
-693
-01:17:07,796 --> 01:17:12,063
+
+
 <i>Now I appreciate your support.</i>
 
-694
-01:17:12,135 --> 01:17:14,364
+
+
 <i>But you must go home.</i>
 
-695
-01:17:14,436 --> 01:17:17,372
+
+
 Please, you must go.
 
-696
-01:17:29,418 --> 01:17:33,219
+
+
 There, now. I've explained it,
 so it can't be fraud.
 
-697
-01:17:35,324 --> 01:17:37,315
+
+
 May I go?
 
-698
-01:17:58,814 --> 01:18:00,748
+
+
 Has he tricked you?
 Is that it?
 
-699
-01:18:02,417 --> 01:18:04,351
+
+
 <i>No, Your Highness.</i>
 
-700
-01:18:04,420 --> 01:18:07,184
+
+
 Then why are you failing me?
 
-701
-01:18:11,060 --> 01:18:13,358
+
+
 I thought I could trust you.
 
-702
-01:18:15,030 --> 01:18:19,467
+
+
 I thought you were a man I could bring
 with me when I took the throne.
 
-703
-01:18:22,005 --> 01:18:25,167
+
+
 - Am I wrong about you?
 - No. You're not wrong, Your Highness, no.
 
-704
-01:18:25,240 --> 01:18:30,405
+
+
 I need men who can complete
 the tasks assigned to them!
 
-705
-01:18:38,054 --> 01:18:40,453
+
+
 Instead, I'm surrounded by fools.
 
-706
-01:18:40,523 --> 01:18:44,425
+
+
 <i>In the end, I must</i>
 <i>do everything myself.</i>
 
-707
-01:18:44,493 --> 01:18:47,520
+
+
 - I can see this case will be no different.
 - Mm.
 
-708
-01:19:06,748 --> 01:19:11,185
+
+
 - How do I look?
 - Ordinary, Your Highness.
 
-709
-01:19:11,253 --> 01:19:13,188
+
+
 Very ordinary.
 
-710
-01:19:17,359 --> 01:19:19,725
+
+
 I think I'm going to enjoy this.
 
-711
-01:19:40,216 --> 01:19:44,948
+
+
 - They don't recognize you.
 - Good.
 
-712
-01:19:45,020 --> 01:19:49,082
+
+
 And keep your distance. I don't want
 to be seen with a policeman.
 
-713
-01:21:08,570 --> 01:21:11,471
+
+
 <i>Who are you?</i>
 
-714
-01:21:11,541 --> 01:21:14,100
+
+
 <i>Are you Duchess von Teschen?</i>
 
-715
-01:21:14,176 --> 01:21:16,110
+
+
 Yes.
 
-716
-01:21:16,179 --> 01:21:18,238
+
+
 <i>What's happened to you?</i>
 
-717
-01:21:18,314 --> 01:21:21,078
+
+
 <i>She was murdered.</i>
 <i>Were you murdered?</i>
 
-718
-01:21:23,920 --> 01:21:26,582
+
+
 <i>By who?</i>
 
-719
-01:21:26,655 --> 01:21:28,590
+
+
 <i>Did they arrest the right man?</i>
 
-720
-01:21:28,658 --> 01:21:31,786
+
+
 <i>Tell us, please. Who murdered you?</i>
 
-721
-01:21:31,860 --> 01:21:34,796
+
+
 - <i>Tell us.</i>
 - Someone. Here.
 
-722
-01:21:34,863 --> 01:21:37,594
+
+
 <i>Tell us, and point him out.</i>
 
-723
-01:21:37,667 --> 01:21:39,658
+
+
 <i>Was it the crown prince?</i>
 
-724
-01:21:39,735 --> 01:21:41,966
+
+
 <i>He's killed a woman before!</i>
 
-725
-01:21:42,037 --> 01:21:44,198
+
+
 <i>Hey! The crown prince isn't even here.</i>
 
-726
-01:21:44,273 --> 01:21:47,640
+
+
 <i>The crown prince</i>
 <i>killed her! Something must be done!</i>
 
-727
-01:22:14,470 --> 01:22:16,631
+
+
 Chief Inspector, are you sure
 you have the right man?
 
-728
-01:22:16,706 --> 01:22:19,606
+
+
 - Quite sure. Excuse me.
 - Did you investigate the crown prince?
 
-729
-01:22:19,675 --> 01:22:21,609
+
+
 He cannot continue if this is true.
 
-730
-01:22:21,676 --> 01:22:23,610
+
+
 - He must be brought to justice.
 - It's not true.
 
-731
-01:22:23,679 --> 01:22:26,375
+
+
 The magic trick is not evidence.
 What is your name?
 
-732
-01:22:26,448 --> 01:22:30,010
+
+
 - I don't see how that matters.
 - I advise you to watch what you say, sir.
 
-733
-01:22:36,458 --> 01:22:39,655
+
+
 That actress didn't even
 look like Sophie.
 
-734
-01:22:39,729 --> 01:22:41,890
+
+
 But the audience is
 stupid and he knows it.
 
-735
-01:22:41,963 --> 01:22:46,162
+
+
 He manipulates them.
 He himself said nothing.
 
-736
-01:22:46,234 --> 01:22:48,168
+
+
 His actress said nothing
 inflammatory.
 
-737
-01:22:48,237 --> 01:22:50,501
+
+
 He left it to the audience
 to make their accusations.
 
-738
-01:22:50,573 --> 01:22:52,972
+
+
 All plants paid for
 by him, of course.
 
-739
-01:22:54,777 --> 01:22:56,904
+
+
 I don't suppose you made
 a note of those people?
 
-740
-01:22:56,979 --> 01:22:59,208
+
+
 I'm afraid we didn't
 have enough men tonight.
 
-741
-01:22:59,282 --> 01:23:02,341
+
+
 <i>At the next performance,</i>
 <i>I want them all arrested.</i>
 
-742
-01:23:02,417 --> 01:23:05,819
+
+
 Every one of them.
 Eisenheim, the whole troupe.
 
-743
-01:23:05,887 --> 01:23:09,118
+
+
 I want to have an example
 made of him...
 
-744
-01:23:09,192 --> 01:23:11,854
+
+
 in front of all his followers.
 
-745
-01:23:15,331 --> 01:23:17,662
+
+
 That was very foolish last night.
 
-746
-01:23:21,737 --> 01:23:24,296
+
+
 You can't destroy him, you know.
 
-747
-01:23:24,372 --> 01:23:27,536
+
+
 - You can't bring down the monarchy.
 - Oh, I know <i>I</i> can't.
 
-748
-01:23:27,609 --> 01:23:29,873
+
+
 Then don't raise her again.
 
-749
-01:23:29,945 --> 01:23:32,380
+
+
 Don't provoke those questions.
 
-750
-01:23:37,052 --> 01:23:39,715
+
+
 Eisenheim, I don't
 want to arrest you.
 
-751
-01:23:42,591 --> 01:23:44,650
+
+
 I'm a cynical man, God knows...
 
-752
-01:23:44,726 --> 01:23:47,719
+
+
 but if your manifestations
 are somehow real...
 
-753
-01:23:47,796 --> 01:23:50,823
+
+
 then even I'm willing to admit,
 you're a very special person.
 
-754
-01:23:50,899 --> 01:23:53,835
+
+
 And if it's a trick,
 then it's equally impressive.
 
-755
-01:23:53,903 --> 01:23:56,427
+
+
 Either way, you have a gift.
 
-756
-01:23:56,505 --> 01:23:59,872
+
+
 So don't make me put you in jail!
 
-757
-01:23:59,942 --> 01:24:02,171
+
+
 Promise me you won't do it again.
 
-758
-01:24:02,244 --> 01:24:05,510
+
+
 I promise you, you'll
 enjoy this next show.
 
-759
-01:24:06,615 --> 01:24:09,516
+
+
 What do you want?
 
-760
-01:24:09,585 --> 01:24:13,953
+
+
 - Nothing.
 - Then why bring her back?
 
-761
-01:24:15,925 --> 01:24:17,916
+
+
 Just to be with her.
 
-762
-01:24:20,695 --> 01:24:22,630
+
+
 To be with her.
 
-763
-01:24:32,440 --> 01:24:34,375
+
+
 - Everything is ready?
 - Yes, sir.
 
-764
-01:24:34,443 --> 01:24:37,640
+
+
 - We're trying to assess how he might escape.
 - He will not escape.
 
-765
-01:24:37,712 --> 01:24:40,273
+
+
 - I want guards at every door and window!
 - Sir.
 
-766
-01:24:47,957 --> 01:24:50,627
+
+
 <i>I want to apologize to you</i>
 <i>for my behavior of late.</i>
 
-767
-01:24:50,760 --> 01:24:53,661
+
+
 But I want to make it up to you,
 if you'll listen to a proposition.
 
-768
-01:24:53,729 --> 01:24:56,994
+
+
 - Well, I don't know.
 - I'll make it worth your while, Josef.
 
-769
-01:24:57,065 --> 01:25:00,364
+
+
 You know, I'm very busy right now. I haven't
 just been sitting around waiting for you.
 
-770
-01:25:00,435 --> 01:25:02,426
+
+
 No. No, of course.
 
-771
-01:25:06,876 --> 01:25:10,403
+
+
 I want you to assume control
 of all my finances.
 
-772
-01:25:10,479 --> 01:25:12,913
+
+
 And my assets.
 
-773
-01:25:12,981 --> 01:25:15,609
+
+
 - Everything.
 - Everything?
 
-774
-01:25:15,685 --> 01:25:18,847
+
+
 Yes. Including this theater...
 
-775
-01:25:18,921 --> 01:25:20,854
+
+
 and all the receipts from
 tonight's performance...
 
-776
-01:25:20,922 --> 01:25:23,858
+
+
 which I offer with
 my sincere thanks.
 
-777
-01:25:27,363 --> 01:25:31,731
+
+
 - What do you say?
 - All right.
 
-778
-01:25:31,801 --> 01:25:34,827
+
+
 - I'll do it.
 - Good. Good.
 
-779
-01:25:36,005 --> 01:25:39,132
+
+
 Would you like me
 to introduce you tonight?
 
-780
-01:25:39,207 --> 01:25:42,041
+
+
 No. Tonight, just enjoy the show.
 
-781
-01:26:04,500 --> 01:26:07,798
+
+
 Excuse me, Chief Inspector.
 I'm Josef Fischer, Eisenheim's manager.
 
-782
-01:26:07,869 --> 01:26:10,235
+
+
 Yes, I remember.
 
-783
-01:26:10,305 --> 01:26:13,172
+
+
 - What's going on? Why all the police?
 - Precautions, Herr Fischer.
 
-784
-01:26:13,242 --> 01:26:15,938
+
+
 - Precautions.
 - Are you planning to arrest Eisenheim?
 
-785
-01:26:16,011 --> 01:26:18,947
+
+
 Oh, that's entirely up to him.
 
-786
-01:26:57,653 --> 01:27:00,622
+
+
 There! There!
 
-787
-01:27:02,759 --> 01:27:04,750
+
+
 <i>It's Duchess von Teschen!</i>
 
-788
-01:27:17,172 --> 01:27:20,609
+
+
 Why were you murdered?
 
-789
-01:27:20,676 --> 01:27:23,201
+
+
 - I was leaving him.
 - <i>Leaving who?</i>
 
-790
-01:27:23,279 --> 01:27:26,145
+
+
 - The crown prince?
 - <i>Of course it was.</i>
 
-791
-01:27:26,215 --> 01:27:29,012
+
+
 - <i>We won't stand for it!</i>
 - I tried to get away.
 
-792
-01:27:33,855 --> 01:27:35,881
+
+
 I was wearing my locket when I died.
 
-793
-01:27:35,957 --> 01:27:39,086
+
+
 <i>But now it's gone.</i>
 <i>It's lost.</i>
 
-794
-01:27:39,162 --> 01:27:41,994
+
+
 - <i>Tell us, please. Who murdered you?</i>
 - Was it the crown prince?
 
-795
-01:27:42,064 --> 01:27:44,532
+
+
 We must do something!
 
-796
-01:27:44,600 --> 01:27:47,068
+
+
 - Come along.
 - <i>We must help her!</i>
 
-797
-01:27:52,608 --> 01:27:54,599
+
+
 <i>To the front!</i>
 
-798
-01:27:55,944 --> 01:27:58,208
+
+
 <i>Step out!</i>
 
-799
-01:28:01,350 --> 01:28:04,182
+
+
 <i>In the name of</i>
 <i>His Imperial Majesty...</i>
 
-800
-01:28:04,252 --> 01:28:09,520
+
+
 and the City of Vienna,
 I hereby arrest Eduard Abramovicz-
 
-801
-01:28:09,591 --> 01:28:12,493
+
+
 also known as
 Eisenheim the Illusionist-
 
-802
-01:28:12,561 --> 01:28:15,929
+
+
 <i>on charges of</i>
 <i>disturbing public order...</i>
 
-803
-01:28:15,997 --> 01:28:19,262
+
+
 charlatanism and
 threats against the empire!
 
-804
-01:28:19,335 --> 01:28:22,167
+
+
 - No!
 - <i>Get back, get back!</i>
 
-805
-01:28:25,841 --> 01:28:29,208
+
+
 <i>Stop it! Stop it, all of you!</i>
 
-806
-01:29:25,033 --> 01:29:27,059
+
+
 - He disappeared.
 - Where is he?
 
-807
-01:29:30,538 --> 01:29:32,769
+
+
 Find him!
 
-808
-01:29:42,851 --> 01:29:45,377
+
+
 - Where is he?
 - He was right there.
 
-809
-01:29:45,453 --> 01:29:47,649
+
+
 - How was his trick done?
 - No trick.
 
-810
-01:29:47,722 --> 01:29:50,190
+
+
 - How is it done?
 - I don't know. Nobody know.
 
-811
-01:29:57,966 --> 01:30:00,332
+
+
 <i>Damn it!</i>
 
-812
-01:33:46,561 --> 01:33:50,259
+
+
 <i>I had my driver take</i>
 <i>the sword to police headquarters.</i>
 
-813
-01:33:52,868 --> 01:33:56,064
+
+
 <i>My men will examine it and see</i>
 <i>if it matches the gemstone...</i>
 
-814
-01:33:56,137 --> 01:33:59,106
+
+
 <i>found on Duchess von Teschen's body-</i>
 <i>I have no doubt that it will.</i>
 
-815
-01:34:03,279 --> 01:34:06,770
+
+
 And after that, I came in here...
 
-816
-01:34:06,849 --> 01:34:10,046
+
+
 and you asked me why I was late.
 
-817
-01:34:11,119 --> 01:34:13,087
+
+
 You've stolen Imperial property.
 
-818
-01:34:13,154 --> 01:34:15,385
+
+
 That seems trivial
 compared with murder.
 
-819
-01:34:15,457 --> 01:34:17,856
+
+
 Even if that were true, you have
 no jurisdiction here.
 
-820
-01:34:17,926 --> 01:34:22,363
+
+
 <i>That's right. You may do as you wish here,</i>
 <i>without consequence.</i>
 
-821
-01:34:23,565 --> 01:34:27,296
+
+
 Nobody can punish you.
 
-822
-01:34:27,368 --> 01:34:29,462
+
+
 - Except one man.
 - Who's that?
 
-823
-01:34:29,537 --> 01:34:32,404
+
+
 The emperor.
 
-824
-01:34:32,474 --> 01:34:35,443
+
+
 I don't suppose he'll leave his crown
 to a murderer, do you?
 
-825
-01:34:38,581 --> 01:34:41,913
+
+
 - He'll never believe you.
 - Maybe not.
 
-826
-01:34:43,219 --> 01:34:46,016
+
+
 Hmm.
 
-827
-01:34:46,087 --> 01:34:48,215
+
+
 But, I wrote a letter
 to his general staff...
 
-828
-01:34:48,289 --> 01:34:51,657
+
+
 <i>telling them... everything.</i>
 
-829
-01:34:51,726 --> 01:34:54,992
+
+
 <i>Including your plan</i>
 <i>to overthrow the emperor.</i>
 
-830
-01:34:55,064 --> 01:34:58,261
+
+
 I know they'll listen to that.
 
-831
-01:34:58,333 --> 01:35:00,927
+
+
 <i>You'll not take the throne-</i>
 <i>not with my help.</i>
 
-832
-01:35:01,002 --> 01:35:05,497
+
+
 You no longer want to be chief of police?
 Mayor of Vienna?
 
-833
-01:35:05,573 --> 01:35:09,203
+
+
 <i>You don't want to be</i>
 <i>a baron, an aristocrat?</i>
 
-834
-01:35:10,511 --> 01:35:13,275
+
+
 I'm afraid that's out of
 the question at this point.
 
-835
-01:35:18,720 --> 01:35:20,654
+
+
 You fool.
 He's tricking you.
 
-836
-01:35:20,722 --> 01:35:24,215
+
+
 He's manipulating you. He had the sword
 at a command performance.
 
-837
-01:35:24,292 --> 01:35:26,783
+
+
 He could have pried the stones loose then
 and planted them here.
 
-838
-01:35:26,862 --> 01:35:28,796
+
+
 - He has planted everything.
 - You're drunk.
 
-839
-01:35:28,863 --> 01:35:33,528
+
+
 It's all a trick.
 It's an illusion.
 
-840
-01:35:35,003 --> 01:35:38,269
+
+
 Perhaps there's truth
 in this illusion.
 
-841
-01:35:51,353 --> 01:35:53,650
+
+
 You need to wire your driver,
 and have the sword returned.
 
-842
-01:35:53,721 --> 01:35:57,555
+
+
 - Or what?
 - I'll shoot you. Perhaps I'll shoot you anyway.
 
-843
-01:35:57,626 --> 01:36:01,118
+
+
 And then you'll have killed
 a police inspector and a duchess.
 
-844
-01:36:01,195 --> 01:36:03,130
+
+
 Or perhaps you'll kill yourself.
 
-845
-01:36:03,198 --> 01:36:06,860
+
+
 You, uh, committed suicide,
 distraught at having failed your leader.
 
-846
-01:36:22,984 --> 01:36:28,479
+
+
 <i>Ah. Some officers</i>
 <i>of the general staff, I'd guess.</i>
 
-847
-01:36:28,556 --> 01:36:30,547
+
+
 They must have received my letter.
 
-848
-01:36:39,835 --> 01:36:43,600
+
+
 - What do you want?
 - I don't want anything.
 
-849
-01:36:43,671 --> 01:36:48,404
+
+
 Fine. Fine. You shall have nothing.
 
-850
-01:36:56,585 --> 01:37:00,487
+
+
 - Gentlemen-
 - The situation is so obvious.
 
-851
-01:37:00,555 --> 01:37:03,524
+
+
 Everyone's completely incompetent.
 
-852
-01:37:03,591 --> 01:37:06,025
+
+
 My father runs the empire
 into the ground...
 
-853
-01:37:06,095 --> 01:37:08,154
+
+
 and no one notices, no one
 knows anything about it.
 
-854
-01:37:08,229 --> 01:37:10,561
+
+
 I propose to clean up
 the mess, and you betray me!
 
-855
-01:37:10,631 --> 01:37:13,260
+
+
 You're all becoming irrelevant.
 You will be replaced.
 
-856
-01:37:13,335 --> 01:37:17,668
+
+
 The country will be run by mongrels!
 
-857
-01:37:17,739 --> 01:37:21,698
+
+
 There's a thousand different voices screaming
 to be heard, and nothing will be done!
 
-858
-01:37:21,777 --> 01:37:25,735
+
+
 Nothing!
 I've done everything I can.
 
-859
-01:37:25,814 --> 01:37:28,783
+
+
 Too much!
 
-860
-01:37:30,985 --> 01:37:32,976
+
+
 Far too much.
 
-861
-01:37:33,055 --> 01:37:36,286
+
+
 <i>Your Highness!</i>
 <i>Are you in there?</i>
 
-862
-01:37:36,358 --> 01:37:38,917
+
+
 <i>Your Highness, open the door.</i>
 
-863
-01:37:38,993 --> 01:37:40,984
+
+
 <i>Please. Open the door.</i>
 
-864
-01:37:41,063 --> 01:37:43,930
+
+
 <i>By your father's authority...</i>
 
-865
-01:37:43,998 --> 01:37:46,990
+
+
 <i>I insist you open the door!</i>
 
-866
-01:37:47,069 --> 01:37:49,195
+
+
 <i>You must open the door!</i>
 
-867
-01:37:49,270 --> 01:37:51,932
+
+
 You're all fools.
 
-868
-01:37:52,006 --> 01:37:55,305
+
+
 - <i>Please, Your Highness!</i>
 - I can't stand it.
 
-869
-01:37:55,377 --> 01:37:59,279
+
+
 I won't stand it.
 
-870
-01:37:59,347 --> 01:38:01,838
+
+
 <i>Break down the door. Break it down!</i>
 
-871
-01:38:06,721 --> 01:38:10,521
+
+
 - What happened?
 - The crown prince just shot himself.
 
-872
-01:38:56,471 --> 01:38:58,837
+
+
 <i>Are you Chief Inspector Uhl?</i>
 
-873
-01:38:58,907 --> 01:39:01,306
+
+
 I used to be.
 
-874
-01:39:25,900 --> 01:39:29,268
+
+
 You!
 Who gave you this?
 
-875
-01:39:31,506 --> 01:39:34,237
+
+
 - <i>Who gave you this?</i>
 - Herr Eisenheim!
 
-876
-01:39:35,310 --> 01:39:37,301
+
+
 When?
 
-877
-01:39:59,167 --> 01:40:01,158
+
+
 <i>Look out!</i>
 
-878
-01:41:04,832 --> 01:41:06,766
+
+
 All aboard!
 
-879
-01:41:06,835 --> 01:41:09,359
+
+
 Tickets and papers.
 
-880
-01:41:11,773 --> 01:41:14,867
+
+
 <i>All aboard!</i>
 
-881
-01:41:43,137 --> 01:41:45,072
+
+
 <i>When it's done...</i>
 
-882
-01:41:45,140 --> 01:41:47,506
+
+
 you'll travel ahead
 with her, and I will follow.
 
-883
-01:41:47,574 --> 01:41:50,975
+
+
 - And she understands everything this entails?
 - <i>Completely.</i>
 
-884
-01:41:51,046 --> 01:41:53,570
+
+
 <i>Do you think that</i>
 <i>Eisenheim's behind all this?</i>
 
-885
-01:41:57,118 --> 01:42:01,020
+
+
 <i>So, what does it mean, to die?</i>
 
-886
-01:42:03,457 --> 01:42:07,417
+
+
 - <i>What do you want?</i>
 - <i>To be with her.</i>
 
-887
-01:42:07,494 --> 01:42:10,520
+
+
 <i>To be with her.</i>
 
-888
-01:42:13,234 --> 01:42:18,228
+
+
 <i>Chief Inspector,</i>
 <i>there's one thing you should know.</i>
 
-889
-01:42:21,443 --> 01:42:24,172
+
+
 <i>Your sword</i>
 <i>is very beautiful. Might I see it?</i>
 
-890
-01:42:24,244 --> 01:42:26,610
+
+
 - <i>You're drunk.</i>
 - <i>You were drunk.</i>
 
-891
-01:42:41,095 --> 01:42:43,427
+
+
 <i>He's a charlatan. He's a faker.</i>
 
-892
-01:42:43,497 --> 01:42:46,057
+
+
 <i>He's planted everything.</i>
 
-893
-01:42:57,112 --> 01:42:59,706
+
+
 <i>Everything</i>
 <i>you have seen is an illusion.</i>
 
-894
-01:42:59,780 --> 01:43:02,113
+
+
 <i>It's a trick.</i>

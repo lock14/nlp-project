@@ -1,4980 +1,4980 @@
-1
-00:01:49,609 --> 00:01:54,655
+
+
 Once upon a time,
 in an English castle far, far away,
 
-2
-00:01:54,739 --> 00:01:57,491
+
+
 there lived a pampered personage
 
-3
-00:01:57,575 --> 00:02:00,452
+
+
 by the name of Prince.
 
-4
-00:02:03,081 --> 00:02:06,083
+
+
 - All right, everyone, he's awake.
 - Hurry.
 
-5
-00:02:06,167 --> 00:02:10,254
+
+
 Quickly. Get the Carlyle log.
 
-6
-00:02:18,221 --> 00:02:22,391
+
+
 Prince knew no other life
 than a life of luxury.
 
-7
-00:02:23,184 --> 00:02:25,727
+
+
 Did I mention that Prince was a cat?
 
-8
-00:02:29,816 --> 00:02:32,317
+
+
 Good morning, Prince.
 
-9
-00:02:34,195 --> 00:02:35,988
+
+
 Your tea.
 
-10
-00:02:36,614 --> 00:02:38,240
+
+
 Brekkie.
 
-11
-00:02:38,324 --> 00:02:40,909
+
+
 I have your favorite dish.
 
-12
-00:02:41,035 --> 00:02:42,411
+
+
 Carlyle log.
 
-13
-00:02:43,913 --> 00:02:45,455
+
+
 Lovely.
 
-14
-00:02:56,426 --> 00:02:57,551
+
+
 Super.
 
-15
-00:03:03,516 --> 00:03:05,726
+
+
 It's good to be the king.
 
-16
-00:03:07,061 --> 00:03:11,815
+
+
 On the other side of the world,
 there lived an equally pampered cat
 
-17
-00:03:11,900 --> 00:03:14,151
+
+
 who thought he was the king,
 
-18
-00:03:14,235 --> 00:03:17,487
+
+
 but who ruled over
 a somewhat smaller domain.
 
-19
-00:03:17,780 --> 00:03:19,198
+
+
 Meow.
 
-20
-00:03:21,743 --> 00:03:24,203
+
+
 I'm the king of the cul-de-sac.
 
-21
-00:03:24,287 --> 00:03:26,538
+
+
 That's what I'm talking about.
 
-22
-00:03:27,498 --> 00:03:30,876
+
+
 Jon and I have everything
 I could ever want.
 
-23
-00:03:31,336 --> 00:03:34,254
+
+
 Food in the fridge. Cable and satellite.
 
-24
-00:03:34,339 --> 00:03:36,506
+
+
 And don't forget lasagna.
 
-25
-00:03:36,591 --> 00:03:39,968
+
+
 That's right. It's good to be king.
 
-26
-00:03:43,681 --> 00:03:47,309
+
+
 I want you to know
 you're the most important thing in my life.
 
-27
-00:03:47,393 --> 00:03:49,061
+
+
 Let me sleep, please.
 
-28
-00:03:49,145 --> 00:03:52,147
+
+
 Before I met you, my life had no meaning.
 
-29
-00:03:52,482 --> 00:03:54,024
+
+
 I was incomplete.
 
-30
-00:03:54,150 --> 00:03:56,193
+
+
 You still are, really.
 
-31
-00:03:56,945 --> 00:04:01,949
+
+
 I guess what I'm trying to say is...
 will you marry me?
 
-32
-00:04:02,951 --> 00:04:04,201
+
+
 Marriage.
 
-33
-00:04:04,994 --> 00:04:08,914
+
+
 Well, this is kind of sudden.
 There may be some legal issues here.
 
-34
-00:04:08,998 --> 00:04:11,124
+
+
 Look, I like you, but not as a spouse.
 
-35
-00:04:11,209 --> 00:04:14,628
+
+
 Maybe as a servant we could
 stay together, make it work.
 
-36
-00:04:14,712 --> 00:04:17,047
+
+
 So what do you say, Liz?
 
-37
-00:04:17,340 --> 00:04:19,591
+
+
 Wait a second. Liz?
 
-38
-00:04:20,426 --> 00:04:21,718
+
+
 Garfield.
 
-39
-00:04:21,803 --> 00:04:25,889
+
+
 Liz is a girl. No, worse - she's a girl vet.
 
-40
-00:04:27,183 --> 00:04:30,560
+
+
 - Turkey's ready.
 - I think Jon has touched bottom now.
 
-41
-00:04:34,899 --> 00:04:37,442
+
+
 We gotta put an end to this torture.
 
-42
-00:04:38,236 --> 00:04:39,945
+
+
 Time for a new DJ.
 
-43
-00:04:43,241 --> 00:04:46,285
+
+
 Cat scratch fever!
 
-44
-00:04:46,369 --> 00:04:48,787
+
+
 Oh, cat scratch fever!
 
-45
-00:04:50,623 --> 00:04:52,624
+
+
 Somebody take my temperature.
 
-46
-00:04:52,709 --> 00:04:54,001
+
+
 Garfield.
 
-47
-00:04:58,464 --> 00:05:01,758
+
+
 - Man, you have changed.
 - I can't have you messing this up for me.
 
-48
-00:05:01,843 --> 00:05:06,555
+
+
 I get it. It's her.
 She doesn't like our music.
 
-49
-00:05:06,723 --> 00:05:11,059
+
+
 Whatever happened to Jon,
 my metalhead guy, my dude?
 
-50
-00:05:11,144 --> 00:05:13,645
+
+
 You were so much cooler
 when you wore a mullet.
 
-51
-00:05:13,730 --> 00:05:14,813
+
+
 Now stay here.
 
-52
-00:05:14,897 --> 00:05:17,357
+
+
 Far cooler. I suppose she likes this haircut?
 
-53
-00:05:19,319 --> 00:05:22,487
+
+
 - Coming.
 - Tell me she likes it the way it is now.
 
-54
-00:05:26,576 --> 00:05:30,287
+
+
 - Hey, Liz.
 - Jon, I have incredible news.
 
-55
-00:05:30,663 --> 00:05:34,750
+
+
 Guess who's speaking at the fundraiser
 for the Royal Animal Conservancy.
 
-56
-00:05:34,834 --> 00:05:37,044
+
+
 - Siegfried and Roy?
 - Come on.
 
-57
-00:05:37,128 --> 00:05:39,629
+
+
 - Just Siegfried?
 - Jane Goodall dropped out
 
-58
-00:05:39,714 --> 00:05:42,549
+
+
 'cause she's nursing a sick chimp,
 and they asked me.
 
-59
-00:05:42,633 --> 00:05:46,845
+
+
 It's gonna be at this really cool castle
 on a huge estate.
 
-60
-00:05:46,929 --> 00:05:52,351
+
+
 I am flying to London tomorrow morning.
 Can you believe this? I have to pack.
 
-61
-00:05:52,560 --> 00:05:55,187
+
+
 Are these rose petals and candles?
 
-62
-00:05:55,938 --> 00:05:58,815
+
+
 Yeah, well, I have... I've some...
 
-63
-00:05:58,941 --> 00:06:01,777
+
+
 Some important news of my own.
 
-64
-00:06:04,947 --> 00:06:06,198
+
+
 Me too.
 
-65
-00:06:08,618 --> 00:06:11,995
+
+
 Excuse me.
 Do you believe in love at first sight?
 
-66
-00:06:12,080 --> 00:06:17,793
+
+
 I was hoping you'd say yes.
 You have made me so very cat happy.
 
-67
-00:06:19,712 --> 00:06:23,340
+
+
 - Come on. What's the news?
 - The news is, I...
 
-68
-00:06:24,801 --> 00:06:27,094
+
+
 I finally house-trained Odie.
 
-69
-00:06:27,178 --> 00:06:28,387
+
+
 - Really?
 - Yeah.
 
-70
-00:06:28,471 --> 00:06:30,972
+
+
 That would explain the rose petals.
 
-71
-00:06:36,396 --> 00:06:41,691
+
+
 I have to pack. I'm so sorry about dinner,
 but I will send your regards to the Queen.
 
-72
-00:06:41,776 --> 00:06:45,487
+
+
 - Congratulations on Odie.
 - Yeah. And you too.
 
-73
-00:06:45,655 --> 00:06:47,656
+
+
 They're lucky to have you.
 
-74
-00:06:48,157 --> 00:06:49,449
+
+
 Bye.
 
-75
-00:06:54,330 --> 00:06:57,916
+
+
 - I thought she'd never leave.
 - Garfield. You ate the whole turkey?
 
-76
-00:06:58,000 --> 00:07:01,044
+
+
 - Well, yeah.
 - What are you doing with this?
 
-77
-00:07:02,713 --> 00:07:04,089
+
+
 Never mind.
 
-78
-00:07:04,841 --> 00:07:07,467
+
+
 It's too late. She's already off to...
 
-79
-00:07:08,261 --> 00:07:10,011
+
+
 Good stuffing.
 
-80
-00:07:10,096 --> 00:07:13,265
+
+
 Come on. Cheer up.
 I saved you the wishbone.
 
-81
-00:07:13,349 --> 00:07:17,227
+
+
 - There's nothing I can do.
 - Return the ring. Get your money back.
 
-82
-00:07:17,311 --> 00:07:21,481
+
+
 - Wait a minute. I'll go to London.
 - You poor sap.
 
-83
-00:07:21,566 --> 00:07:24,609
+
+
 - She'll love it. She'll be surprised.
 - Tell me you won't.
 
-84
-00:07:24,694 --> 00:07:27,112
+
+
 - She'll say yes.
 - Please don't.
 
-85
-00:07:27,280 --> 00:07:29,364
+
+
 - I gotta go pack.
 - You moron.
 
-86
-00:07:31,367 --> 00:07:34,369
+
+
 This is a huge mistake, Jon.
 One of your biggest.
 
-87
-00:07:34,454 --> 00:07:39,207
+
+
 Don't roam. Stay home. Odie and I
 are not just coming along for the ride, pal.
 
-88
-00:07:41,711 --> 00:07:44,087
+
+
 This is actually an intervention.
 
-89
-00:07:46,757 --> 00:07:49,259
+
+
 Okay, guys. Here we are.
 
-90
-00:07:49,552 --> 00:07:52,721
+
+
 Quick flight.
 We must have been in the jet stream.
 
-91
-00:07:54,390 --> 00:07:59,227
+
+
 England is no great shakes. The buildings
 here look like the kennel back home.
 
-92
-00:07:59,896 --> 00:08:03,565
+
+
 That is the kennel back home.
 They'll never take me alive.
 
-93
-00:08:04,901 --> 00:08:07,569
+
+
 - They're gonna be fine, Jon.
 - Yeah.
 
-94
-00:08:08,738 --> 00:08:11,323
+
+
 Garfield's never stayed in a kennel before.
 
-95
-00:08:11,407 --> 00:08:13,825
+
+
 I'm afraid he might have
 some separation anxiety.
 
-96
-00:08:13,910 --> 00:08:18,038
+
+
 No. He's probably fast asleep
 in his cage by now.
 
-97
-00:08:18,122 --> 00:08:21,625
+
+
 You hear me, Warden?
 I have the right to remain silent.
 
-98
-00:08:21,751 --> 00:08:25,587
+
+
 Anything I say can and will
 be held against me in a court of law.
 
-99
-00:08:25,671 --> 00:08:27,964
+
+
 And I have the right
 to an attorney too, pal.
 
-100
-00:08:28,049 --> 00:08:32,219
+
+
 And if I can't afford one,
 one must be provided for me by the court.
 
-101
-00:08:33,763 --> 00:08:36,973
+
+
 Never mind. I just broke out.
 
-102
-00:08:37,266 --> 00:08:39,518
+
+
 He likes a belly rub twice a day.
 
-103
-00:08:39,685 --> 00:08:43,772
+
+
 If you could give him lasagna
 between each meal, that would be great.
 
-104
-00:08:43,856 --> 00:08:46,441
+
+
 Almost forgot Pookie.
 He can't be without Pookie.
 
-105
-00:09:00,081 --> 00:09:02,499
+
+
 Great. Just when things were looking up.
 
-106
-00:09:02,625 --> 00:09:04,584
+
+
 Why don't you stay
 and get your fleas removed?
 
-107
-00:09:04,669 --> 00:09:06,920
+
+
 Maybe get a brain transplant.
 
-108
-00:09:07,964 --> 00:09:10,882
+
+
 Go away. Beat it. Hide beneath the wheels.
 
-109
-00:09:10,967 --> 00:09:13,802
+
+
 You're ripping my fur. Get off.
 
-110
-00:09:13,886 --> 00:09:14,886
+
+
 Get in here. Get in.
 
-111
-00:09:14,971 --> 00:09:18,139
+
+
 You have my cell phone and hotel number?
 
-112
-00:09:18,224 --> 00:09:20,183
+
+
 - Bye, now.
 - Okay.
 
-113
-00:09:21,852 --> 00:09:23,853
+
+
 Airport, and step on it.
 
-114
-00:09:24,981 --> 00:09:29,317
+
+
 Jon won't mind if I repack him.
 We're gonna need some room in this bag.
 
-115
-00:10:05,021 --> 00:10:07,939
+
+
 You savage beast.
 How dare you. Get out of here.
 
-116
-00:10:08,024 --> 00:10:09,399
+
+
 Smithee.
 
-117
-00:10:09,650 --> 00:10:12,360
+
+
 There's something in the pool, Smithee.
 
-118
-00:10:16,699 --> 00:10:19,409
+
+
 There's a duck in my pool, Smithee.
 A duck.
 
-119
-00:10:19,493 --> 00:10:20,869
+
+
 A duck, sir?
 
-120
-00:10:21,370 --> 00:10:25,081
+
+
 Filthy wild animal
 soaking itself in my pool.
 
-121
-00:10:25,166 --> 00:10:29,586
+
+
 - What do you intend doing about this?
 - I shall speak to the duck, sir.
 
-122
-00:10:31,380 --> 00:10:34,966
+
+
 By the way, the solicitors are here
 to read Lady Eleanor's will.
 
-123
-00:10:35,051 --> 00:10:36,384
+
+
 Excellent.
 
-124
-00:10:37,345 --> 00:10:40,972
+
+
 In a few moments,
 I'll be the master of this entire estate.
 
-125
-00:10:41,349 --> 00:10:44,684
+
+
 And from this day on,
 things will be done my way.
 
-126
-00:10:59,241 --> 00:11:04,913
+
+
 This is the last will and testament
 of Lady Eleanor Carlyle of Carlyle Castle.
 
-127
-00:11:05,456 --> 00:11:07,999
+
+
 "I declare this to be
 my last will and testament
 
-128
-00:11:08,084 --> 00:11:10,710
+
+
 "which I make this first day
 of September... "
 
-129
-00:11:10,795 --> 00:11:13,672
+
+
 Keep still.
 They're reading Lady Eleanor's will.
 
-130
-00:11:13,756 --> 00:11:15,924
+
+
 I've got a bad feeling about this.
 
-131
-00:11:16,008 --> 00:11:19,844
+
+
 If Lord Dargis gets the estate,
 we're done for.
 
-132
-00:11:19,929 --> 00:11:21,054
+
+
 Quiet.
 
-133
-00:11:21,138 --> 00:11:25,266
+
+
 "To my devoted Smithee:
 I make thee caretaker of my estate.
 
-134
-00:11:25,351 --> 00:11:28,269
+
+
 "Care for my beloved animal friends
 as you have in the past
 
-135
-00:11:28,354 --> 00:11:32,107
+
+
 "and you'll always
 have a home at Carlyle Castle. "
 
-136
-00:11:33,192 --> 00:11:34,818
+
+
 Thank you, madam.
 
-137
-00:11:34,985 --> 00:11:38,363
+
+
 She's dead, Smithee.
 You can stop sucking up.
 
-138
-00:11:38,906 --> 00:11:42,450
+
+
 "The rest of my worldly possessions,
 my castle and grounds,
 
-139
-00:11:42,535 --> 00:11:44,911
+
+
 "I leave to the love of my life,
 
-140
-00:11:45,746 --> 00:11:48,123
+
+
 "somebody who was like a son to me... "
 
-141
-00:11:48,207 --> 00:11:53,128
+
+
 - Thank you, Aunt Eleanor. Thank you.
 - Please let me finish, Mr. Dargis.
 
-142
-00:11:53,212 --> 00:11:55,755
+
+
 I'm sorry. I got a little ahead of myself.
 
-143
-00:11:55,840 --> 00:11:58,466
+
+
 "... like a son to me,
 I leave all my possessions
 
-144
-00:11:58,551 --> 00:12:01,344
+
+
 "to my beloved kitty, Prince the 12th. "
 
-145
-00:12:01,429 --> 00:12:05,140
+
+
 - Incredible. Entirely without precedent.
 - This is what it says.
 
-146
-00:12:05,224 --> 00:12:07,475
+
+
 But I'm her nephew, her only heir.
 
-147
-00:12:07,560 --> 00:12:10,186
+
+
 She can't have left it all to her cat.
 
-148
-00:12:10,312 --> 00:12:14,941
+
+
 - I, Prince, the new lord of the castle?
 - Hurrah.
 
-149
-00:12:15,025 --> 00:12:18,903
+
+
 Good show, Lady Eleanor. Bless her heart.
 
-150
-00:12:19,113 --> 00:12:23,324
+
+
 - Can it be? We are delivered.
 - Thank you, Winston.
 
-151
-00:12:23,409 --> 00:12:27,245
+
+
 The will clearly states
 that you may stay on at Carlyle Castle
 
-152
-00:12:27,329 --> 00:12:31,374
+
+
 and receive your usual stipend
 of 50 pounds a week.
 
-153
-00:12:31,459 --> 00:12:32,917
+
+
 50 pounds?
 
-154
-00:12:33,002 --> 00:12:37,589
+
+
 Upon Prince's passing, after what
 we assume will be a long and happy life,
 
-155
-00:12:37,673 --> 00:12:40,759
+
+
 you will receive the castle,
 the land and your title.
 
-156
-00:12:40,843 --> 00:12:44,387
+
+
 But that fat ball of fur
 could last for another 15 years.
 
-157
-00:12:44,472 --> 00:12:46,014
+
+
 Let us hope so.
 
-158
-00:12:51,312 --> 00:12:55,315
+
+
 The castle was built over 600 years ago
 by Lord Franklin Carlyle.
 
-159
-00:12:55,483 --> 00:12:58,276
+
+
 Now, the initial structure
 is late medieval in style...
 
-160
-00:12:58,360 --> 00:13:01,029
+
+
 On this wing, we'll put the pool and spa.
 
-161
-00:13:01,113 --> 00:13:03,865
+
+
 Yes, and where would
 the squash courts be?
 
-162
-00:13:03,949 --> 00:13:06,159
+
+
 - There he is.
 - That's unbelievable.
 
-163
-00:13:06,243 --> 00:13:10,997
+
+
 Hello. Snap your photos. Unfortunately,
 I can but spare a few moments...
 
-164
-00:13:11,081 --> 00:13:15,376
+
+
 Buddy, do you mind stepping aside?
 I can't get a good shot of the cat.
 
-165
-00:13:15,753 --> 00:13:19,923
+
+
 Greetings, all. Hello. So glad.
 
-166
-00:13:20,007 --> 00:13:22,425
+
+
 May I remind you this is private property.
 
-167
-00:13:22,510 --> 00:13:25,386
+
+
 Relax, bro. It's not like you own the place.
 
-168
-00:13:25,721 --> 00:13:27,222
+
+
 We shall see.
 
-169
-00:13:29,391 --> 00:13:35,647
+
+
 To all the royal subjects, I give you
 the new possessor of Carlyle Castle,
 
-170
-00:13:35,731 --> 00:13:37,148
+
+
 Prince Xll.
 
-171
-00:13:41,570 --> 00:13:45,406
+
+
 To one and all, I pledge,
 from this day forward,
 
-172
-00:13:45,491 --> 00:13:48,743
+
+
 to rule my kingdom
 with wisdom and valor.
 
-173
-00:13:48,994 --> 00:13:53,581
+
+
 And as long as I reign,
 you shall continue to have safe haven
 
-174
-00:13:53,666 --> 00:13:57,168
+
+
 here on the bountiful grounds of Carlyle.
 
-175
-00:13:57,419 --> 00:13:59,170
+
+
 Thank you. That is all.
 
-176
-00:13:59,880 --> 00:14:03,049
+
+
 Hurrah. Long live Prince.
 
-177
-00:14:03,133 --> 00:14:06,010
+
+
 I think that went frightfully well,
 don't you, Winny?
 
-178
-00:14:06,095 --> 00:14:08,972
+
+
 Sire, I hasten to remind you
 that Lord Dargis
 
-179
-00:14:09,056 --> 00:14:11,057
+
+
 has every reason to get rid of you.
 
-180
-00:14:11,141 --> 00:14:13,434
+
+
 Winny, pooh-pooh.
 
-181
-00:14:13,769 --> 00:14:16,104
+
+
 I'm his favorite kitty cat.
 
-182
-00:14:26,448 --> 00:14:28,825
+
+
 Hello, little Prince.
 
-183
-00:14:28,909 --> 00:14:31,828
+
+
 What a beautiful day for a picnic, what?
 
-184
-00:14:31,912 --> 00:14:35,206
+
+
 No, thanks, old boy.
 You just run along and enjoy yourself.
 
-185
-00:14:35,291 --> 00:14:36,708
+
+
 What the devil...?
 
-186
-00:14:37,668 --> 00:14:42,130
+
+
 So it's hide-and-seek you want to play?
 All right, I'll count to 100.
 
-187
-00:14:42,214 --> 00:14:45,967
+
+
 - Hello, Rommel.
 - One, two, three, four, five...
 
-188
-00:14:46,635 --> 00:14:51,306
+
+
 ...35, 36, 37, 38...
 
-189
-00:14:51,390 --> 00:14:55,977
+
+
 ...96, 97, 98, 99, 100.
 
-190
-00:14:56,061 --> 00:15:00,565
+
+
 All right. Fair warning.
 Ready or not, here I come.
 
-191
-00:15:05,237 --> 00:15:07,655
+
+
 Bon voyage, Prince.
 
-192
-00:15:11,327 --> 00:15:14,537
+
+
 Dear me.
 I may have misjudged the old boy.
 
-193
-00:15:14,622 --> 00:15:16,331
+
+
 Perhaps he is somewhat of a scoundrel.
 
-194
-00:15:16,415 --> 00:15:19,834
+
+
 After all, this is not the way
 one plays hide-and-seek.
 
-195
-00:15:57,706 --> 00:15:59,248
+
+
 Blimey.
 
-196
-00:16:00,459 --> 00:16:03,836
+
+
 - Will that be all, sir?
 - Yes. Thank you.
 
-197
-00:16:05,464 --> 00:16:06,798
+
+
 - Thank you.
 - Thank you, sir.
 
-198
-00:16:06,882 --> 00:16:08,216
+
+
 Wait.
 
-199
-00:16:09,259 --> 00:16:12,095
+
+
 - How do I look?
 - Lovely, sir.
 
-200
-00:16:12,471 --> 00:16:16,975
+
+
 No, see, I'm proposing to my girlfriend.
 She's staying down the hall.
 
-201
-00:16:17,059 --> 00:16:18,851
+
+
 I want to make sure I look...
 
-202
-00:16:18,936 --> 00:16:20,478
+
+
 Let's see, now.
 
-203
-00:16:22,606 --> 00:16:24,399
+
+
 It needs a certain...
 
-204
-00:16:27,653 --> 00:16:32,573
+
+
 May I, sir? There we are. Hugh Grant.
 
-205
-00:16:32,658 --> 00:16:36,619
+
+
 Great. Could you deliver this
 to the girl in room 407?
 
-206
-00:16:36,704 --> 00:16:39,288
+
+
 - Of course, sir.
 - And...
 
-207
-00:16:41,834 --> 00:16:43,126
+
+
 And this.
 
-208
-00:16:43,544 --> 00:16:45,169
+
+
 Cary Grant, sir.
 
-209
-00:16:55,431 --> 00:16:57,140
+
+
 - Jon.
 - Hey.
 
-210
-00:16:57,474 --> 00:17:00,518
+
+
 - Why are you here?
 - It's Fashion Week. Where else would I be?
 
-211
-00:17:00,602 --> 00:17:03,396
+
+
 This is incredible.
 I can't believe you're here.
 
-212
-00:17:03,480 --> 00:17:04,647
+
+
 So you're glad?
 
-213
-00:17:04,732 --> 00:17:06,983
+
+
 Glad? I'm thrilled.
 
-214
-00:17:07,651 --> 00:17:11,112
+
+
 But London?
 Did you come all the way here just for me?
 
-215
-00:17:11,196 --> 00:17:16,784
+
+
 Yeah, it's nuts.
 In fact, I want us to be together...
 
-216
-00:17:23,834 --> 00:17:25,626
+
+
 Odie. Come here.
 
-217
-00:17:27,463 --> 00:17:30,339
+
+
 Air. Water. Lasagna.
 
-218
-00:17:30,632 --> 00:17:33,259
+
+
 - Garfield?
 - That's the hello I get?
 
-219
-00:17:33,343 --> 00:17:36,220
+
+
 13 hours in a bag with a farting dog.
 
-220
-00:17:36,305 --> 00:17:39,348
+
+
 There are quarantine laws here.
 
-221
-00:17:39,433 --> 00:17:41,642
+
+
 Don't let Odie out of your sight.
 They might deport him.
 
-222
-00:17:41,727 --> 00:17:45,396
+
+
 Deport Odie? I like this country already.
 
-223
-00:17:47,691 --> 00:17:52,570
+
+
 Okay. I'm gonna need a litter box,
 room-service menu and the TV remote -
 
-224
-00:17:52,654 --> 00:17:54,363
+
+
 and in that order.
 
-225
-00:17:54,615 --> 00:17:57,450
+
+
 If anyone needs me, I'll be in my office.
 
-226
-00:18:02,164 --> 00:18:03,915
+
+
 Where are my clothes?
 
-227
-00:18:03,999 --> 00:18:06,959
+
+
 Cool. My very own cat tub.
 
-228
-00:18:12,508 --> 00:18:14,175
+
+
 Golly.
 
-229
-00:18:18,388 --> 00:18:21,224
+
+
 Got it. Could have just come down
 and told me that.
 
-230
-00:18:21,308 --> 00:18:23,601
+
+
 Listen up. Barnyard newsflash.
 
-231
-00:18:23,685 --> 00:18:25,770
+
+
 I've got some good news
 and some bad news.
 
-232
-00:18:25,854 --> 00:18:28,606
+
+
 - Which would you like first?
 - The bad news.
 
-233
-00:18:28,690 --> 00:18:31,526
+
+
 Lord Dargis just threw Prince in the river.
 
-234
-00:18:33,362 --> 00:18:38,032
+
+
 - Okay, give me the good news.
 - He was in a lovely picnic basket.
 
-235
-00:18:39,159 --> 00:18:41,702
+
+
 If he throws us in the river,
 we'll never survive.
 
-236
-00:18:41,787 --> 00:18:44,413
+
+
 You're ducks. You can swim.
 
-237
-00:18:44,498 --> 00:18:48,417
+
+
 - Winston, I'm next in line for the throne.
 - This could get ugly.
 
-238
-00:18:48,502 --> 00:18:52,922
+
+
 - I have a list of new rules of governance.
 - I hardly think that's necessary.
 
-239
-00:18:53,006 --> 00:18:57,635
+
+
 Rule number one. The barnyard animals
 congregate entirely too close to the castle.
 
-240
-00:18:57,719 --> 00:18:59,595
+
+
 We house pets need our space.
 
-241
-00:18:59,680 --> 00:19:03,224
+
+
 You've got enough space, laddie -
 right between your ears.
 
-242
-00:19:03,308 --> 00:19:06,477
+
+
 Take that back.
 I command you, as your new king.
 
-243
-00:19:06,562 --> 00:19:10,481
+
+
 There's still a chance
 Prince may find his way back here.
 
-244
-00:19:10,566 --> 00:19:13,609
+
+
 In the meantime, Claudius,
 you get into the castle
 
-245
-00:19:13,694 --> 00:19:15,778
+
+
 and find out what Dargis is up to.
 
-246
-00:19:15,863 --> 00:19:18,573
+
+
 I'm on it. I'm your mouse on the inside.
 
-247
-00:19:18,824 --> 00:19:21,200
+
+
 I'll see what I can learn from my end.
 
-248
-00:19:26,123 --> 00:19:28,374
+
+
 - I want to do something more cultural.
 - Okay.
 
-249
-00:19:28,458 --> 00:19:29,917
+
+
 You're cold.
 
-250
-00:19:30,586 --> 00:19:34,255
+
+
 Getting colder.
 You're an icicle. You're frozen stiff.
 
-251
-00:19:34,548 --> 00:19:38,384
+
+
 Let's remind ourselves
 what we're looking for. It's a hamburger.
 
-252
-00:19:38,468 --> 00:19:41,596
+
+
 A squeaky hamburger.
 
-253
-00:19:41,722 --> 00:19:45,808
+
+
 - We'll take a walk through Hyde Park.
 - Excuse me? We walk?
 
-254
-00:19:46,101 --> 00:19:50,104
+
+
 Then we stroll down
 the incredibly cultural Piccadilly.
 
-255
-00:19:50,355 --> 00:19:52,648
+
+
 - Stroll?
 - And then Carnaby Street.
 
-256
-00:19:52,733 --> 00:19:55,193
+
+
 Aren't we 40 years too late
 for Carnaby Street?
 
-257
-00:19:55,277 --> 00:19:58,029
+
+
 No, luv, that's where
 all the swinging birds are.
 
-258
-00:19:58,363 --> 00:20:01,532
+
+
 Well, then, we are definitely
 going to the British Museum.
 
-259
-00:20:02,409 --> 00:20:04,994
+
+
 Any cuter, I'm gonna need a barf bag.
 
-260
-00:20:08,373 --> 00:20:09,373
+
+
 What are you doing?
 
-261
-00:20:09,458 --> 00:20:12,418
+
+
 I'm security, protecting you from yourself.
 
-262
-00:20:12,502 --> 00:20:14,712
+
+
 You have caused enough trouble today.
 
-263
-00:20:14,796 --> 00:20:17,340
+
+
 Now, you have food, water and company.
 
-264
-00:20:17,424 --> 00:20:19,425
+
+
 - Which one is he?
 - Be good.
 
-265
-00:20:19,509 --> 00:20:24,055
+
+
 Jon, you're delirious.
 Be careful. She's a man-eater.
 
-266
-00:20:24,306 --> 00:20:27,266
+
+
 Oh, no. He's under her spell.
 
-267
-00:20:28,435 --> 00:20:31,062
+
+
 Okay, Odie, I'll give you one small clue.
 
-268
-00:20:31,146 --> 00:20:32,813
+
+
 It's not in there.
 
-269
-00:20:36,526 --> 00:20:37,777
+
+
 Prince?
 
-270
-00:20:39,488 --> 00:20:42,114
+
+
 Where is that cat?
 
-271
-00:20:44,034 --> 00:20:45,243
+
+
 Prince.
 
-272
-00:20:52,084 --> 00:20:53,292
+
+
 Prince.
 
-273
-00:20:54,503 --> 00:20:55,753
+
+
 Prince.
 
-274
-00:20:58,048 --> 00:20:59,298
+
+
 Prince.
 
-275
-00:21:00,259 --> 00:21:01,467
+
+
 Prince.
 
-276
-00:21:02,678 --> 00:21:03,844
+
+
 Pull.
 
-277
-00:21:09,768 --> 00:21:14,397
+
+
 Sir, have you by any chance seen Prince?
 I can't seem to find him anywhere.
 
-278
-00:21:14,481 --> 00:21:19,860
+
+
 Oh, dear. You mean our little orange
 bundle of fun is missing?
 
-279
-00:21:22,030 --> 00:21:23,155
+
+
 Pull.
 
-280
-00:21:26,660 --> 00:21:29,495
+
+
 Crikey. The man's got a cannon.
 
-281
-00:21:30,205 --> 00:21:33,291
+
+
 - And he's pointing it at us.
 - We're sitting ducks.
 
-282
-00:21:33,375 --> 00:21:36,877
+
+
 Careful, sir. You wouldn't want
 to injure the creatures, would you?
 
-283
-00:21:36,962 --> 00:21:38,921
+
+
 Run away.
 
-284
-00:21:39,006 --> 00:21:42,883
+
+
 Course not. That would make me
 some kind of monster, wouldn't it?
 
-285
-00:21:42,968 --> 00:21:45,094
+
+
 By the way, I've a little errand for you.
 
-286
-00:21:45,178 --> 00:21:48,472
+
+
 Could you go to London,
 pick up my new suits at Willoughby's?
 
-287
-00:21:48,557 --> 00:21:50,141
+
+
 Very good, sir.
 
-288
-00:21:56,732 --> 00:21:57,857
+
+
 Pull.
 
-289
-00:22:01,403 --> 00:22:04,780
+
+
 Can you imagine taking a nap
 on that table?
 
-290
-00:22:05,907 --> 00:22:08,701
+
+
 Just lie there for hours and shed.
 
-291
-00:22:09,619 --> 00:22:11,954
+
+
 The Queen's corgis, Milly and Tillie,
 
-292
-00:22:12,039 --> 00:22:15,541
+
+
 returned from their world cruise
 with the Queen aboard her yacht.
 
-293
-00:22:15,625 --> 00:22:17,877
+
+
 The animals suffered mild seasickness,
 
-294
-00:22:17,961 --> 00:22:21,547
+
+
 but now are back to eating
 the finest calf's liver in the universe.
 
-295
-00:22:21,631 --> 00:22:23,341
+
+
 Must be sweet.
 
-296
-00:22:23,425 --> 00:22:26,010
+
+
 "My tummy's upset.
 May I have some liver?"
 
-297
-00:22:26,094 --> 00:22:29,138
+
+
 - Boy, I wish Jon was a queen.
 - Housekeeping.
 
-298
-00:22:29,222 --> 00:22:32,308
+
+
 Okay, blockhead, time to bust out of here
 and catch up with Jon.
 
-299
-00:22:32,392 --> 00:22:33,684
+
+
 First, let's grab some chow,
 
-300
-00:22:33,769 --> 00:22:37,772
+
+
 before I eat your liver with
 some fava beans and a nice Chianti.
 
-301
-00:22:42,319 --> 00:22:45,780
+
+
 Sorry, we left a bit of a mess
 in the bathroom. Thanks.
 
-302
-00:22:48,950 --> 00:22:52,161
+
+
 Keep your eyes peeled
 for a goofy-looking guy with a map.
 
-303
-00:22:52,245 --> 00:22:54,830
+
+
 They're not up here. I'm coming down.
 
-304
-00:22:59,628 --> 00:23:01,504
+
+
 Jon, Jon, Jon.
 
-305
-00:23:02,005 --> 00:23:04,382
+
+
 Where's Waldo?
 
-306
-00:23:06,843 --> 00:23:09,804
+
+
 Take the picture. Take it. Take the picture.
 
-307
-00:23:16,978 --> 00:23:19,605
+
+
 Halt. Right face.
 
-308
-00:23:19,731 --> 00:23:23,109
+
+
 Excuse me. Did you see a couple of people
 who looked like tourists?
 
-309
-00:23:23,193 --> 00:23:24,860
+
+
 I know this drill.
 
-310
-00:23:24,945 --> 00:23:27,780
+
+
 They won't crack up
 no matter what you do.
 
-311
-00:23:27,948 --> 00:23:30,658
+
+
 Hey, freeze-frame, your knee's on fire.
 
-312
-00:23:31,159 --> 00:23:32,618
+
+
 I know I can get this guy.
 
-313
-00:23:32,702 --> 00:23:35,246
+
+
 Seriously, your zipper's down.
 
-314
-00:23:35,664 --> 00:23:37,206
+
+
 Hey, dry goods.
 
-315
-00:23:38,625 --> 00:23:41,752
+
+
 Anybody ever tell you
 you look like Tina Turner?
 
-316
-00:23:42,712 --> 00:23:45,923
+
+
 - That was effective.
 - Her Majesty, the queen of England.
 
-317
-00:23:46,007 --> 00:23:47,842
+
+
 What's all the hubbub?
 
-318
-00:23:48,468 --> 00:23:49,802
+
+
 Attention.
 
-319
-00:23:50,887 --> 00:23:53,681
+
+
 Hey, Odie, look. It's those royal corgis.
 
-320
-00:23:55,684 --> 00:23:58,352
+
+
 Hey, lady. You got any leftover liver?
 
-321
-00:23:58,854 --> 00:24:00,312
+
+
 Stuck-up little punk.
 
-322
-00:24:00,397 --> 00:24:02,940
+
+
 I know she heard us.
 They had the top down.
 
-323
-00:24:03,024 --> 00:24:04,567
+
+
 Odie?
 
-324
-00:24:06,027 --> 00:24:08,904
+
+
 Odie, no, don't do the ugly American thing.
 
-325
-00:24:10,824 --> 00:24:13,075
+
+
 The British are coming.
 
-326
-00:24:13,493 --> 00:24:15,911
+
+
 Well, you made him crack, anyway.
 
-327
-00:24:17,289 --> 00:24:21,584
+
+
 Disgusting. It's so smelly down here.
 I must get out. Hello.
 
-328
-00:24:21,710 --> 00:24:25,880
+
+
 Can someone help a chap?
 I'm in the sewer.
 
-329
-00:24:27,757 --> 00:24:29,967
+
+
 This is hopeless. We'll never find Jon.
 
-330
-00:24:30,051 --> 00:24:33,220
+
+
 Face it, Odie,
 nobody cares whether we live or...
 
-331
-00:24:41,396 --> 00:24:43,564
+
+
 Prince. I've found you.
 
-332
-00:24:43,648 --> 00:24:48,110
+
+
 Oh, dear. Why is it the weird ones
 always go for the cat, not the dog?
 
-333
-00:24:48,361 --> 00:24:50,070
+
+
 Odie, help, please.
 
-334
-00:24:51,114 --> 00:24:56,368
+
+
 - Is that a cologne or a disinfectant, sir?
 - I just got you a special treat. Minced pie.
 
-335
-00:24:56,495 --> 00:25:00,122
+
+
 Odie, call a cop. I mean bobby, orjimmy.
 
-336
-00:25:00,207 --> 00:25:05,002
+
+
 Never mind, Odie. Don't bother.
 There's a pie here. I'll be just fine.
 
-337
-00:25:32,405 --> 00:25:39,245
+
+
 Dear heavens. That was absolutely
 the most horrifying. But I'm alive. I'm alive.
 
-338
-00:25:39,329 --> 00:25:42,665
+
+
 And covered in filth.
 
-339
-00:25:43,542 --> 00:25:47,419
+
+
 Here, here. I must return to my throne.
 
-340
-00:25:48,129 --> 00:25:49,797
+
+
 What ho?
 
-341
-00:25:49,965 --> 00:25:55,553
+
+
 Indeed. Seeing me in this state
 must be shocking. I've lost my bearings.
 
-342
-00:25:55,637 --> 00:25:59,056
+
+
 You must lead me with all due haste
 to the castle at Carlyle.
 
-343
-00:25:59,140 --> 00:26:01,433
+
+
 But first I require a bath.
 
-344
-00:26:03,019 --> 00:26:05,729
+
+
 Here, come on.
 Do you expect me to lick myself?
 
-345
-00:26:05,814 --> 00:26:09,275
+
+
 Garfield? Odie? What are you doing here?
 
-346
-00:26:09,359 --> 00:26:12,278
+
+
 Garfield? What the devil is a Garfield?
 
-347
-00:26:12,862 --> 00:26:14,405
+
+
 What am I gonna do with you guys?
 
-348
-00:26:14,489 --> 00:26:17,825
+
+
 Do you know how bad I would feel
 if I lost you here?
 
-349
-00:26:18,493 --> 00:26:21,912
+
+
 From now on,
 I'm not letting you out of my sight, OK?
 
-350
-00:26:22,289 --> 00:26:27,251
+
+
 Dear heaven. Why is it the weird ones
 always go for the cat and not the dog?
 
-351
-00:26:28,336 --> 00:26:29,712
+
+
 Bath time for you, buddy.
 
-352
-00:26:29,796 --> 00:26:32,256
+
+
 Well, that's the best news
 I've heard all day.
 
-353
-00:26:32,340 --> 00:26:34,091
+
+
 The dog's not very bright.
 
-354
-00:26:34,175 --> 00:26:37,136
+
+
 Where are you taking me?
 Somewhere lovely and special?
 
-355
-00:26:48,940 --> 00:26:50,899
+
+
 Hey, Mario Andretti.
 
-356
-00:26:50,984 --> 00:26:52,776
+
+
 You're driving on
 the wrong side of the road,
 
-357
-00:26:52,861 --> 00:26:55,613
+
+
 and I've got an entire pie in my stomach.
 
-358
-00:26:55,697 --> 00:26:57,281
+
+
 Don't worry, Prince.
 
-359
-00:26:57,365 --> 00:27:00,492
+
+
 You'll feel better
 when we get back to Carlyle.
 
-360
-00:27:02,746 --> 00:27:04,830
+
+
 Excuse me. Yes, hello. Hobbs here.
 
-361
-00:27:04,914 --> 00:27:10,377
+
+
 Hobbs. This is Manfred Dargis here.
 A terrible thing has happened.
 
-362
-00:27:11,212 --> 00:27:14,214
+
+
 Prince is missing.
 We've searched everywhere.
 
-363
-00:27:14,591 --> 00:27:16,300
+
+
 - Prince is missing?
 - Missing?
 
-364
-00:27:16,384 --> 00:27:21,347
+
+
 - This is a rather sudden development.
 - Actually, it's quite common.
 
-365
-00:27:21,931 --> 00:27:24,475
+
+
 In the absence or, in this case,
 the death of an owner,
 
-366
-00:27:24,559 --> 00:27:28,354
+
+
 it can be quite confusing
 and disorienting to a cat.
 
-367
-00:27:28,605 --> 00:27:32,149
+
+
 Let's face it,
 the brain's the size of a gumball.
 
-368
-00:27:32,942 --> 00:27:35,986
+
+
 All the same, it seems rather fishy to me.
 
-369
-00:27:36,071 --> 00:27:39,114
+
+
 I don't particularly care
 what it seems to you.
 
-370
-00:27:39,407 --> 00:27:43,577
+
+
 Legally, since he is gone,
 the title of the Carlyle estate falls to me.
 
-371
-00:27:43,662 --> 00:27:45,663
+
+
 Am I not correct?
 
-372
-00:27:47,749 --> 00:27:49,249
+
+
 Yes, very well.
 
-373
-00:27:49,459 --> 00:27:50,751
+
+
 Goodbye.
 
-374
-00:27:53,797 --> 00:27:57,132
+
+
 He's up to something.
 He's got some plan for the estate.
 
-375
-00:27:57,217 --> 00:27:59,051
+
+
 And I want to find out what.
 
-376
-00:28:04,099 --> 00:28:08,852
+
+
 - Miss Abby Westminster, I presume.
 - Lord Dargis. An absolute pleasure. Hello.
 
-377
-00:28:10,230 --> 00:28:14,858
+
+
 I'm so pleased you've shown
 such an interest in our little enterprise.
 
-378
-00:28:14,943 --> 00:28:17,653
+
+
 Well, my investors are very interested.
 
-379
-00:28:18,279 --> 00:28:21,782
+
+
 - Cheers, dear.
 - To a long-lasting business relationship.
 
-380
-00:28:21,866 --> 00:28:23,951
+
+
 To Carlyle Resort and Spa.
 
-381
-00:28:27,706 --> 00:28:31,166
+
+
 Allow me to introduce you to my dream.
 
-382
-00:28:34,087 --> 00:28:36,547
+
+
 - What's this?
 - A state-of-the-art spa,
 
-383
-00:28:36,631 --> 00:28:40,968
+
+
 meditation garden
 and, of course, luxury condominium.
 
-384
-00:28:42,011 --> 00:28:44,930
+
+
 But what of the woodland
 and barnyard areas?
 
-385
-00:28:46,266 --> 00:28:47,558
+
+
 Allow me.
 
-386
-00:28:49,394 --> 00:28:52,146
+
+
 - If you would.
 - Very clever.
 
-387
-00:28:52,564 --> 00:28:57,317
+
+
 No woodland. No barnyard area. Gone.
 
-388
-00:28:58,027 --> 00:29:00,821
+
+
 So what will you do with all the animals?
 
-389
-00:29:01,197 --> 00:29:07,494
+
+
 Let's just say, those we don't chase off
 we will serve up to the guests.
 
-390
-00:29:10,999 --> 00:29:12,666
+
+
 I must alert the others at once.
 
-391
-00:29:23,511 --> 00:29:27,931
+
+
 Bus driver, pull it over. I gotta pie belch
 coming up that might break your windows.
 
-392
-00:29:41,738 --> 00:29:43,363
+
+
 Come on, Prince.
 
-393
-00:29:44,991 --> 00:29:51,872
+
+
 Yeah. I used to be known as Prince,
 but you can just call me Gar... field.
 
-394
-00:29:52,957 --> 00:29:56,001
+
+
 Wow. Get a load of this dump.
 
-395
-00:30:00,215 --> 00:30:02,716
+
+
 Thanks. No pet door?
 
-396
-00:30:04,219 --> 00:30:06,720
+
+
 Holy cow. I can hear my footsteps.
 
-397
-00:30:06,888 --> 00:30:10,682
+
+
 Mom, Dad, I'm home.
 
-398
-00:30:11,142 --> 00:30:13,894
+
+
 - Your Highness.
 - You talking to me, Froggy?
 
-399
-00:30:14,187 --> 00:30:16,563
+
+
 It's me, your trusty servant Winston.
 
-400
-00:30:17,232 --> 00:30:21,026
+
+
 Warning: I don't fight fair.
 I scratch and I bite.
 
-401
-00:30:21,110 --> 00:30:23,737
+
+
 It's all right, sire. All is well now.
 
-402
-00:30:23,822 --> 00:30:25,823
+
+
 - You're home.
 - Home?
 
-403
-00:30:25,907 --> 00:30:29,493
+
+
 Retirement home? Happy home?
 What is this, an insane asylum?
 
-404
-00:30:29,577 --> 00:30:32,287
+
+
 - Am I being kidnapped?
 - Very funny, sire.
 
-405
-00:30:32,413 --> 00:30:37,000
+
+
 Your loyal subjects await you.
 They need to be comforted by your words.
 
-406
-00:30:37,085 --> 00:30:39,169
+
+
 Trust me, windbag.
 
-407
-00:30:39,254 --> 00:30:41,839
+
+
 There's no way I'm gonna give a speech
 to a bunch of strange...
 
-408
-00:30:41,923 --> 00:30:44,925
+
+
 And then, following your words,
 a royal feast.
 
-409
-00:30:45,009 --> 00:30:49,304
+
+
 I think I'm just gonna do a tight
 two minutes, see if that'll calm 'em down.
 
-410
-00:30:49,722 --> 00:30:51,890
+
+
 Oyez.
 
-411
-00:30:52,684 --> 00:30:55,018
+
+
 Prince Xll has returned.
 
-412
-00:30:56,688 --> 00:31:00,691
+
+
 Thank you, windbag,
 for that slobbering introduction.
 
-413
-00:31:00,775 --> 00:31:02,734
+
+
 Hello, everybody.
 
-414
-00:31:05,405 --> 00:31:09,283
+
+
 Listen up.
 Is this an audience or a landscape?
 
-415
-00:31:09,367 --> 00:31:12,619
+
+
 Okay, great to be back here at the palace.
 
-416
-00:31:12,704 --> 00:31:16,999
+
+
 I look out and I see a sea
 of dumb barnyard animals.
 
-417
-00:31:17,083 --> 00:31:20,085
+
+
 I'm here in your country
 to break up a romance
 
-418
-00:31:20,169 --> 00:31:22,921
+
+
 between the guy
 who owns the house I live in
 
-419
-00:31:23,006 --> 00:31:24,673
+
+
 and a girl who's way out of his league.
 
-420
-00:31:24,757 --> 00:31:27,050
+
+
 I know that whatever it is that you have,
 
-421
-00:31:27,135 --> 00:31:29,136
+
+
 there's some sort of affliction
 that produces
 
-422
-00:31:29,220 --> 00:31:31,763
+
+
 this glazed look behind your eyes.
 
-423
-00:31:31,848 --> 00:31:33,307
+
+
 I hope you defeat it.
 
-424
-00:31:33,391 --> 00:31:36,894
+
+
 I wish I could take every one of you
 home with me. Thank you.
 
-425
-00:31:36,978 --> 00:31:40,105
+
+
 - I killed.
 - Very funny, sire. Well done.
 
-426
-00:31:40,481 --> 00:31:42,900
+
+
 I didn't realize it was amateur hour.
 
-427
-00:31:42,984 --> 00:31:46,069
+
+
 - What's up with Prince?
 - He's on the catnip again.
 
-428
-00:31:46,154 --> 00:31:50,073
+
+
 - Chaps, have I got news for you!
 - What's the word, Claudius?
 
-429
-00:31:50,158 --> 00:31:53,660
+
+
 Dargis is going to bulldoze the barnyard
 and feed us to the tourists.
 
-430
-00:31:53,745 --> 00:31:57,915
+
+
 Let him try. He'll have to deal with
 these fists of fury, won't he?
 
-431
-00:31:58,666 --> 00:32:01,043
+
+
 Calm yourselves, everybody.
 
-432
-00:32:01,169 --> 00:32:04,212
+
+
 We're all right as long as Prince is alive.
 
-433
-00:32:04,297 --> 00:32:07,966
+
+
 Well, obviously that feline
 is not Prince, you idiots.
 
-434
-00:32:08,051 --> 00:32:11,178
+
+
 He's not even the cat
 formerly known as Prince.
 
-435
-00:32:13,181 --> 00:32:15,807
+
+
 He doesn't have to be Prince.
 
-436
-00:32:15,892 --> 00:32:19,978
+
+
 He just has to look like him.
 If he fooled me, he'll fool them.
 
-437
-00:32:20,063 --> 00:32:23,649
+
+
 But what's to stop Dargis
 from getting rid of this cat too?
 
-438
-00:32:23,733 --> 00:32:27,569
+
+
 McBunny is right.
 We must protect this cat at all costs.
 
-439
-00:32:27,654 --> 00:32:29,821
+
+
 Our fates rely on it.
 
-440
-00:32:31,032 --> 00:32:33,450
+
+
 Mr. and Mrs. Jon Arbuckle.
 
-441
-00:32:34,285 --> 00:32:36,954
+
+
 Liz Arbuckle. Elizabeth Arbuckle.
 
-442
-00:32:37,038 --> 00:32:39,623
+
+
 Listen, you dolt.
 There's been a coup d'état.
 
-443
-00:32:39,707 --> 00:32:43,877
+
+
 Attempted murder most foul.
 I am Prince Xll of Carlyle.
 
-444
-00:32:45,213 --> 00:32:48,006
+
+
 You there, with the wise
 and thoughtful look.
 
-445
-00:32:48,091 --> 00:32:49,341
+
+
 Hello.
 
-446
-00:32:49,425 --> 00:32:52,052
+
+
 Convince this man there's been a mix-up.
 
-447
-00:32:52,136 --> 00:32:55,639
+
+
 - Garfield, I want you in my wedding party.
 - Wedding party?
 
-448
-00:32:55,723 --> 00:32:59,643
+
+
 - Think you can hold a basket of flowers?
 - Enough of the grooming, you dunce.
 
-449
-00:32:59,727 --> 00:33:02,145
+
+
 My subjects face mortal jeopardy.
 
-450
-00:33:04,440 --> 00:33:05,983
+
+
 Dog, approach.
 
-451
-00:33:07,402 --> 00:33:11,738
+
+
 We must plan my escape, and I'm relying
 on your expedience and cunning.
 
-452
-00:33:13,950 --> 00:33:16,702
+
+
 Okey-dokey. New plan.
 
-453
-00:33:18,454 --> 00:33:20,706
+
+
 Call my pumpkin, windbag.
 I'm ready to roll.
 
-454
-00:33:20,790 --> 00:33:24,543
+
+
 - Roll? Where to?
 - You know. To the hotel. To Jon.
 
-455
-00:33:24,627 --> 00:33:28,005
+
+
 Your master? The one who's
 leaving you for his new wife?
 
-456
-00:33:28,089 --> 00:33:31,925
+
+
 He's not leaving me.
 It's more of a temporary insanity thing.
 
-457
-00:33:32,010 --> 00:33:37,180
+
+
 Garfield, your master's started a new life.
 It's time for you to begin yours.
 
-458
-00:33:37,265 --> 00:33:39,641
+
+
 Come on. I want to show you something.
 
-459
-00:33:39,726 --> 00:33:42,269
+
+
 Do you have any idea
 what runs through your veins?
 
-460
-00:33:42,353 --> 00:33:45,647
+
+
 - Yesterday's dinner, I guess.
 - Royal blood, sire.
 
-461
-00:33:45,732 --> 00:33:49,109
+
+
 You are the long-lost heir
 to the Carlyle throne.
 
-462
-00:33:50,486 --> 00:33:51,695
+
+
 You kill me.
 
-463
-00:33:51,779 --> 00:33:55,866
+
+
 These are your ancestors
 dating back 400 years.
 
-464
-00:33:56,284 --> 00:33:57,451
+
+
 Mine?
 
-465
-00:33:58,953 --> 00:34:02,372
+
+
 Wow. Like, I'm a royal cat?
 
-466
-00:34:02,457 --> 00:34:06,710
+
+
 Of course. And anything you need
 is only a flick of your tail away.
 
-467
-00:34:06,794 --> 00:34:10,380
+
+
 A flick of my tail?
 So if I said, "Drool on your foot"...
 
-468
-00:34:10,923 --> 00:34:14,468
+
+
 Not bad.
 How about, "Roll over and whistle Dixie"?
 
-469
-00:34:16,471 --> 00:34:18,138
+
+
 - How's that?
 - Nice.
 
-470
-00:34:18,222 --> 00:34:21,058
+
+
 All right, tough one.
 Jump up and touch the ceiling.
 
-471
-00:34:21,142 --> 00:34:24,311
+
+
 - How's that, sire?
 - You don't get up there too high, do you?
 
-472
-00:34:27,523 --> 00:34:30,859
+
+
 I give you your royal bedchamber.
 
-473
-00:34:30,943 --> 00:34:33,653
+
+
 I could do some snoozing here. Yeah.
 
-474
-00:34:34,322 --> 00:34:37,449
+
+
 Even a king needs a catnap. Get up.
 
-475
-00:34:38,409 --> 00:34:39,576
+
+
 Get down.
 
-476
-00:34:39,660 --> 00:34:42,329
+
+
 Get up. This baby is spring-loaded.
 
-477
-00:34:42,413 --> 00:34:45,999
+
+
 Why do you think they call me Highness?
 
-478
-00:34:46,667 --> 00:34:48,668
+
+
 You all right? Sire?
 
-479
-00:34:51,839 --> 00:34:55,175
+
+
 - The royal trapeze?
 - That is how you ring, sire.
 
-480
-00:34:55,259 --> 00:34:57,594
+
+
 You pull it when you require something.
 
-481
-00:34:57,678 --> 00:35:00,388
+
+
 - And what is that?
 - Your playhouse.
 
-482
-00:35:00,515 --> 00:35:02,808
+
+
 I needed a playhouse.
 
-483
-00:35:03,017 --> 00:35:06,019
+
+
 I've got a house inside of a house.
 
-484
-00:35:07,230 --> 00:35:09,606
+
+
 Does this castle make my butt
 look too big?
 
-485
-00:35:09,690 --> 00:35:11,566
+
+
 Fits you like a glove.
 
-486
-00:35:12,193 --> 00:35:13,485
+
+
 - Blimey.
 - Pardon.
 
-487
-00:35:13,569 --> 00:35:17,280
+
+
 Well struck, sire.
 Good tone. Smooth finish.
 
-488
-00:35:17,532 --> 00:35:19,866
+
+
 Well, you took that in the best spirit.
 
-489
-00:35:19,951 --> 00:35:24,454
+
+
 - Shall we have a look at the kitchen?
 - Did I hear you say "the kitchen"?
 
-490
-00:35:35,007 --> 00:35:37,551
+
+
 Here we are. I present your cookery.
 
-491
-00:35:37,635 --> 00:35:41,596
+
+
 - All mine?
 - Every morsel, down to the last crumb.
 
-492
-00:35:43,724 --> 00:35:47,310
+
+
 Okay, all right.
 You can just call me "Your Highness. "
 
-493
-00:35:48,396 --> 00:35:50,981
+
+
 - Moving on up
 - Moving on up
 
-494
-00:35:51,065 --> 00:35:53,650
+
+
 - To a castle
 - Moving on up
 
-495
-00:35:53,734 --> 00:35:58,321
+
+
 With lots of servants all doing my will
 
-496
-00:35:58,406 --> 00:36:01,324
+
+
 - I got me a life
 - Moving on up
 
-497
-00:36:01,409 --> 00:36:03,994
+
+
 - Without hassle
 - Moving on up
 
-498
-00:36:04,078 --> 00:36:07,956
+
+
 Sir Garfield is the king of the hill
 
-499
-00:36:09,750 --> 00:36:11,918
+
+
 I sleep on a bed that's real fluffy
 
-500
-00:36:12,003 --> 00:36:14,421
+
+
 I eat from a plate made of gold
 
-501
-00:36:14,922 --> 00:36:17,257
+
+
 They feed me until I get stuffy
 
-502
-00:36:17,341 --> 00:36:20,343
+
+
 My pasta never gets cold
 
-503
-00:36:20,428 --> 00:36:22,512
+
+
 All of my devoted subjects
 
-504
-00:36:22,597 --> 00:36:24,389
+
+
 They know it's all about me
 
-505
-00:36:25,266 --> 00:36:27,934
+
+
 Folks are so loyal to this cat who is royal
 
-506
-00:36:28,019 --> 00:36:31,021
+
+
 They call me Your Majesty
 
-507
-00:36:31,105 --> 00:36:32,689
+
+
 - Moving on up
 - Moving on up
 
-508
-00:36:32,773 --> 00:36:34,941
+
+
 - To a castle
 - Moving on up
 
-509
-00:36:35,026 --> 00:36:39,613
+
+
 With lots of servants all doing my will
 
-510
-00:36:39,739 --> 00:36:42,365
+
+
 - I got me a life
 - Moving on up
 
-511
-00:36:42,450 --> 00:36:45,202
+
+
 - Without hassle
 - Moving on up
 
-512
-00:36:45,286 --> 00:36:50,123
+
+
 Sir Garfield is the king of the hill
 
-513
-00:36:50,750 --> 00:36:53,376
+
+
 Yeah, you can just drop that anywhere.
 
-514
-00:36:57,465 --> 00:36:59,799
+
+
 I'll give it to you straight.
 It's disappointing.
 
-515
-00:36:59,884 --> 00:37:01,718
+
+
 Your doughnuts are dry
 and don't have holes,
 
-516
-00:37:01,802 --> 00:37:04,763
+
+
 and your coffee's so weak,
 it looks like tea.
 
-517
-00:37:04,847 --> 00:37:07,098
+
+
 I don't suppose, Miss Westminster,
 
-518
-00:37:07,183 --> 00:37:10,810
+
+
 you could find time in your busy life
 for a wealthy duke?
 
-519
-00:37:11,646 --> 00:37:14,105
+
+
 Lord Dargis, I'm afraid I'm taken.
 
-520
-00:37:14,523 --> 00:37:17,484
+
+
 As I am myself - by you.
 
-521
-00:37:19,237 --> 00:37:22,197
+
+
 Don't mind me.
 I'm just an incorrigible old...
 
-522
-00:37:23,574 --> 00:37:25,158
+
+
 - Cat.
 - What?
 
-523
-00:37:25,243 --> 00:37:29,079
+
+
 Nothing, nothing. Nothing at all.
 Gosh, is that the time already?
 
-524
-00:37:29,163 --> 00:37:32,290
+
+
 Time, I've always said, flies like an arrow.
 
-525
-00:37:32,375 --> 00:37:37,837
+
+
 Don't be afraid to just show up
 and bring some of those lovely investors.
 
-526
-00:37:37,922 --> 00:37:40,173
+
+
 We'll throw a party. Cheerio.
 
-527
-00:37:46,222 --> 00:37:49,099
+
+
 Smithee. Did I see Prince in here?
 
-528
-00:37:49,183 --> 00:37:50,809
+
+
 Isn't it remarkable?
 
-529
-00:37:50,893 --> 00:37:54,479
+
+
 I found him wandering the streets
 of London as I left Willoughby's.
 
-530
-00:37:54,563 --> 00:37:55,772
+
+
 Indeed?
 
-531
-00:37:56,565 --> 00:37:58,066
+
+
 Extraordinary.
 
-532
-00:37:58,609 --> 00:38:02,529
+
+
 And where is the little fiend... fellow
 at the moment?
 
-533
-00:38:02,613 --> 00:38:07,450
+
+
 - I'm sure I don't know, sir.
 - Well, I'll maybe take a little look-see.
 
-534
-00:38:07,618 --> 00:38:09,869
+
+
 - Make him welcome.
 - Yes, sir.
 
-535
-00:38:14,834 --> 00:38:19,045
+
+
 Look at this room, for example.
 How would you liven this place up?
 
-536
-00:38:19,130 --> 00:38:21,881
+
+
 But, sire, this castle is centuries old.
 
-537
-00:38:21,966 --> 00:38:24,217
+
+
 It's a museum. It's boring.
 
-538
-00:38:24,302 --> 00:38:27,595
+
+
 And you know what's missing
 when your crib is a museum?
 
-539
-00:38:27,680 --> 00:38:30,015
+
+
 - It's called fun.
 - Fun?
 
-540
-00:38:30,099 --> 00:38:34,561
+
+
 It's not that hard. You gotta get
 a running start at something this dull.
 
-541
-00:38:35,062 --> 00:38:37,689
+
+
 This is going to end so badly.
 
-542
-00:38:42,111 --> 00:38:46,489
+
+
 - It was already cracked.
 - Nothing escapes you, does it, sire?
 
-543
-00:38:46,574 --> 00:38:50,076
+
+
 Yeah, I like the way this feels.
 You gotta slide, baby.
 
-544
-00:38:53,122 --> 00:38:55,790
+
+
 Don't worry about it.
 That one was cracked as well.
 
-545
-00:38:55,875 --> 00:38:58,043
+
+
 I can relax. Oops.
 
-546
-00:39:06,677 --> 00:39:09,846
+
+
 Smithee. Get this thing off of me.
 
-547
-00:39:09,930 --> 00:39:12,974
+
+
 - Let's go try another room.
 - Good idea, sire.
 
-548
-00:39:14,477 --> 00:39:16,728
+
+
 I've got the deed
 and the paperwork in order
 
-549
-00:39:16,812 --> 00:39:18,313
+
+
 and contacted the solicitors.
 
-550
-00:39:18,397 --> 00:39:21,274
+
+
 - We'll be out there on Monday.
 - Monday?
 
-551
-00:39:21,484 --> 00:39:23,318
+
+
 But I need more time.
 
-552
-00:39:23,861 --> 00:39:26,446
+
+
 More time? More time for what?
 
-553
-00:39:29,241 --> 00:39:32,118
+
+
 Nothing. That'll be fine.
 
-554
-00:39:32,495 --> 00:39:36,164
+
+
 We'll be there Monday unless,
 by some miracle, Prince returns.
 
-555
-00:39:36,248 --> 00:39:38,750
+
+
 We can only hope, Mr. Hobbs.
 
-556
-00:39:52,973 --> 00:39:56,351
+
+
 - What's the news?
 - Dargis is sure to make a move on the cat.
 
-557
-00:39:56,435 --> 00:39:59,979
+
+
 - The solicitors will be here Monday.
 - Right. Good work.
 
-558
-00:40:04,819 --> 00:40:08,696
+
+
 Careful. That's high-grade American
 cardboard you're tossing around.
 
-559
-00:40:08,781 --> 00:40:12,742
+
+
 Beautiful, fellas. Hang the plasma
 right over the Slip 'N' Slide.
 
-560
-00:40:12,827 --> 00:40:15,912
+
+
 - Sire, a word?
 - Jowls, my man.
 
-561
-00:40:15,996 --> 00:40:20,667
+
+
 Guess what your enlightened, all-powerful
 ruler has brought to the castle.
 
-562
-00:40:20,751 --> 00:40:22,919
+
+
 I can't wait to hear this.
 
-563
-00:40:23,003 --> 00:40:25,588
+
+
 Don't tell me. A Renaissance painting.
 
-564
-00:40:25,673 --> 00:40:28,800
+
+
 - Foosball. You know? Foosball.
 - Foosball?
 
-565
-00:40:28,884 --> 00:40:30,885
+
+
 What does he think this is? A pub?
 
-566
-00:40:30,970 --> 00:40:33,263
+
+
 Just 'cause we don't have
 opposable thumbs
 
-567
-00:40:33,347 --> 00:40:35,473
+
+
 doesn't mean we don't play bar games.
 
-568
-00:40:35,558 --> 00:40:38,476
+
+
 Yes, sire, but I feel your life is in danger.
 
-569
-00:40:38,561 --> 00:40:43,273
+
+
 Listen, Winnebago - if I may call you that.
 When history speaks of me, and she will,
 
-570
-00:40:43,357 --> 00:40:46,734
+
+
 I want to be remembered
 as the Party Prince.
 
-571
-00:40:47,111 --> 00:40:48,445
+
+
 As you wish.
 
-572
-00:40:48,529 --> 00:40:53,074
+
+
 You chaps know me. I'm no snob, right?
 But this cat is too much.
 
-573
-00:40:53,159 --> 00:40:57,954
+
+
 - He's an embarrassment to our way of life.
 - He's a disgrace to the furry race.
 
-574
-00:40:58,038 --> 00:41:00,623
+
+
 "My pillow isn't soft enough.
 My TV remote won't work. "
 
-575
-00:41:00,708 --> 00:41:04,377
+
+
 Don't get your knickers in a twist.
 I know he's a pain in the neck,
 
-576
-00:41:04,462 --> 00:41:07,547
+
+
 but we've just got to
 keep him safe till Monday.
 
-577
-00:41:09,175 --> 00:41:13,052
+
+
 Yeah. My loyal and fragrant subjects.
 Please. Thank you.
 
-578
-00:41:13,137 --> 00:41:16,347
+
+
 Briefly, I hate Mondays. I just hate 'em.
 
-579
-00:41:16,432 --> 00:41:20,560
+
+
 Therefore I decree, from this day forward,
 there'll be no more Mondays.
 
-580
-00:41:20,644 --> 00:41:23,396
+
+
 - What?
 - Got it? Today is Tuesday, then.
 
-581
-00:41:23,522 --> 00:41:25,565
+
+
 Happy Tuesday, everybody.
 
-582
-00:41:26,233 --> 00:41:28,067
+
+
 I think he's lost it.
 
-583
-00:41:28,152 --> 00:41:31,362
+
+
 Like I said, we've just got to
 keep him safe till Tuesday.
 
-584
-00:41:34,533 --> 00:41:36,868
+
+
 Hello, Rommel.
 
-585
-00:41:38,579 --> 00:41:40,788
+
+
 I have a present for you.
 
-586
-00:41:41,207 --> 00:41:43,208
+
+
 Prince's favorite pillow.
 
-587
-00:41:43,834 --> 00:41:46,586
+
+
 Sniffy, sniffy, Rommel. Sniffy, sniffy.
 
-588
-00:41:47,671 --> 00:41:49,589
+
+
 Bad pillow.
 
-589
-00:41:50,591 --> 00:41:53,134
+
+
 Kill kitty. Kill kitty.
 
-590
-00:41:54,678 --> 00:41:58,890
+
+
 What a clever boy.
 Eat the cat. Yum, yum, yum.
 
-591
-00:42:01,101 --> 00:42:04,354
+
+
 I think you're ready.
 
-592
-00:42:05,105 --> 00:42:08,024
+
+
 - Here comes trouble.
 - Eat the pussycat. Good chap.
 
-593
-00:42:08,108 --> 00:42:11,694
+
+
 - Operation Feline Protection under way.
 - I'm on it.
 
-594
-00:42:25,918 --> 00:42:27,043
+
+
 Oops.
 
-595
-00:42:28,837 --> 00:42:30,255
+
+
 Bon appétit.
 
-596
-00:42:32,758 --> 00:42:35,593
+
+
 Here, kitty, kitty. Come to Rommel.
 
-597
-00:42:36,345 --> 00:42:39,305
+
+
 Where are you, my little furry friend?
 
-598
-00:42:40,808 --> 00:42:42,976
+
+
 - Hello, Rommel.
 - Eat kitty.
 
-599
-00:42:43,060 --> 00:42:47,230
+
+
 No, no kitty, Rommel,
 but we have something better to chew on.
 
-600
-00:42:47,481 --> 00:42:50,525
+
+
 - No kitty?
 - That's right, no kitty.
 
-601
-00:42:50,651 --> 00:42:53,611
+
+
 Bring Lord Dargis's new trousers, please.
 
-602
-00:42:53,696 --> 00:42:55,530
+
+
 Pig, the trousers.
 
-603
-00:43:02,371 --> 00:43:05,123
+
+
 - Trousers.
 - Thank you, Sam.
 
-604
-00:43:05,207 --> 00:43:09,502
+
+
 And now, Rommel,
 how about a nice tug of war?
 
-605
-00:43:18,554 --> 00:43:22,348
+
+
 Lord Dargis better watch out
 next time Rommel's on the loose.
 
-606
-00:43:26,478 --> 00:43:28,354
+
+
 Hello, Smithee.
 
-607
-00:43:29,189 --> 00:43:31,357
+
+
 You're in good spirits today, sir.
 
-608
-00:43:31,442 --> 00:43:34,819
+
+
 Yes. For some reason
 I feel a great burden has been lifted.
 
-609
-00:43:34,903 --> 00:43:36,070
+
+
 A burden, sir?
 
-610
-00:43:36,155 --> 00:43:38,865
+
+
 What do you make of
 my new suit, Smithee?
 
-611
-00:43:40,117 --> 00:43:41,576
+
+
 Very smart, sir.
 
-612
-00:43:41,660 --> 00:43:45,788
+
+
 Smithee, I've invited Miss Westminster
 for tea on Monday
 
-613
-00:43:45,873 --> 00:43:48,458
+
+
 and it's extremely important
 she feel welcome.
 
-614
-00:43:48,542 --> 00:43:51,085
+
+
 Bring up a bottle of
 the very best champagne
 
-615
-00:43:51,170 --> 00:43:53,463
+
+
 and set out the Prince Royal china.
 
-616
-00:43:53,547 --> 00:43:56,382
+
+
 Silver service. You know the type of thing.
 
-617
-00:43:56,550 --> 00:43:58,051
+
+
 Very good, sir.
 
-618
-00:44:04,892 --> 00:44:06,142
+
+
 Trousers.
 
-619
-00:44:09,897 --> 00:44:13,149
+
+
 Yes, I'd like to speak
 to Miss Westminster, please.
 
-620
-00:44:14,318 --> 00:44:16,152
+
+
 Hello, Rommel.
 
-621
-00:44:16,570 --> 00:44:19,030
+
+
 Did we enjoy our little snack, then?
 
-622
-00:44:19,114 --> 00:44:22,617
+
+
 - Trousers?
 - Miss Westminster.
 
-623
-00:44:22,910 --> 00:44:26,579
+
+
 - Trousers!
 - Would you like to pop over and have...
 
-624
-00:44:38,467 --> 00:44:40,301
+
+
 - Isn't this fantastic?
 - Yeah.
 
-625
-00:44:40,386 --> 00:44:42,887
+
+
 - Who ordered the pasta?
 - It's for the kitty.
 
-626
-00:44:42,971 --> 00:44:46,432
+
+
 Good Lord. What gruel is this?
 
-627
-00:44:46,809 --> 00:44:50,144
+
+
 Quite right, old boy.
 They must have given me yours.
 
-628
-00:44:50,312 --> 00:44:52,855
+
+
 Garfield, since when
 do you say no to lasagna?
 
-629
-00:44:52,940 --> 00:44:56,484
+
+
 You do realize I'm a cat, don't you, sir?
 
-630
-00:44:56,568 --> 00:44:59,737
+
+
 - He doesn't seem himself.
 - He's probably jet-lagged.
 
-631
-00:44:59,822 --> 00:45:04,450
+
+
 I suppose I should probably force down
 a bite or two to keep up my strength.
 
-632
-00:45:06,787 --> 00:45:08,830
+
+
 It does have a unique texture.
 
-633
-00:45:08,914 --> 00:45:13,501
+
+
 So, Liz, I don't know if you've noticed,
 but I've been kind of anxious to...
 
-634
-00:45:13,961 --> 00:45:17,547
+
+
 Why am I clapping?
 I'm sorry. What were you saying?
 
-635
-00:45:17,631 --> 00:45:21,634
+
+
 Spot on. Never have I tasted its equal.
 
-636
-00:45:25,889 --> 00:45:27,807
+
+
 Garfield, that's gross.
 
-637
-00:45:29,685 --> 00:45:32,145
+
+
 Please, sir, may I have some more?
 
-638
-00:45:46,660 --> 00:45:48,619
+
+
 Does a Great Dane live here?
 
-639
-00:45:48,704 --> 00:45:52,081
+
+
 It's a Carlyle log, my lord.
 A savory of liver and spleen,
 
-640
-00:45:52,166 --> 00:45:54,834
+
+
 served in a sleeve of sheep's intestines.
 
-641
-00:45:55,127 --> 00:45:58,421
+
+
 And you're supposed to eat it?
 What is this? FearFactor?
 
-642
-00:45:58,505 --> 00:46:00,798
+
+
 Intestines, spleen...
 
-643
-00:46:00,883 --> 00:46:03,801
+
+
 - I'm the king, right?
 - Prince, actually.
 
-644
-00:46:03,886 --> 00:46:07,305
+
+
 - Same difference. I rule, yes?
 - Yes, Your Highness.
 
-645
-00:46:07,723 --> 00:46:09,640
+
+
 Great. Then feed this to the humans
 
-646
-00:46:09,725 --> 00:46:14,479
+
+
 and just bring me a piping hot dish
 of lasagna, OK?
 
-647
-00:46:15,647 --> 00:46:18,024
+
+
 I'll see to it at once, sire.
 
-648
-00:46:19,693 --> 00:46:24,113
+
+
 Now it says we add the ricotta cheese.
 
-649
-00:46:24,198 --> 00:46:27,992
+
+
 Ducks, you're supposed to sift the flour,
 not sit in it.
 
-650
-00:46:28,160 --> 00:46:32,413
+
+
 Don't yell at us. We're not the ones
 who drank all the cooking sherry.
 
-651
-00:46:33,624 --> 00:46:36,584
+
+
 Oh, the female ferrets sing this song
 
-652
-00:46:36,668 --> 00:46:38,920
+
+
 Nigel! Ooh! Nigel! Ha!
 
-653
-00:46:39,004 --> 00:46:41,547
+
+
 The female ferrets can't be wrong...
 
-654
-00:46:41,715 --> 00:46:45,384
+
+
 Carrots make everything better,
 and it can't hurt lasagna.
 
-655
-00:46:47,846 --> 00:46:49,931
+
+
 What the heck is...?
 
-656
-00:46:51,391 --> 00:46:52,975
+
+
 That was close.
 
-657
-00:46:53,060 --> 00:46:55,353
+
+
 Slip in the eggs, ooze in the tomatoes,
 
-658
-00:46:55,437 --> 00:46:58,523
+
+
 now stir the whole thing up.
 Let the bowl sizzle.
 
-659
-00:46:58,607 --> 00:47:00,817
+
+
 - No, sizzle. You know.
 - Okay.
 
-660
-00:47:00,901 --> 00:47:04,153
+
+
 Hold it right here, all you animals.
 
-661
-00:47:04,446 --> 00:47:06,447
+
+
 What goes on here, Winston?
 
-662
-00:47:06,532 --> 00:47:09,242
+
+
 We're preparing the royal lasagna, sire.
 
-663
-00:47:09,326 --> 00:47:11,244
+
+
 Unless you'd prefer another dish.
 
-664
-00:47:11,328 --> 00:47:14,831
+
+
 Did you say "dish"?
 Lasagna's not a "dish," windbag.
 
-665
-00:47:15,040 --> 00:47:17,333
+
+
 It's a way of life, a state of being,
 
-666
-00:47:17,417 --> 00:47:19,877
+
+
 man's one perfect achievement.
 
-667
-00:47:20,087 --> 00:47:23,339
+
+
 What did the Indians serve
 to the Pilgrims? Lasagna.
 
-668
-00:47:23,423 --> 00:47:27,844
+
+
 What did Marie Antoinette scream
 to the rabble? "Let them eat lasagna. "
 
-669
-00:47:27,928 --> 00:47:31,180
+
+
 What did Neil Armstrong say
 when he landed on the moon?
 
-670
-00:47:31,265 --> 00:47:33,808
+
+
 "That's one small slice of lasagna. "
 
-671
-00:47:34,101 --> 00:47:39,230
+
+
 It's not a dish. It's the stuff of dreams.
 It's the food of the gods.
 
-672
-00:47:39,731 --> 00:47:41,816
+
+
 It's what's for lunch.
 
-673
-00:47:41,900 --> 00:47:45,528
+
+
 Yeah, well, the problem is
 it seems we've mucked it up.
 
-674
-00:47:45,612 --> 00:47:48,030
+
+
 You just need a little guidance, that's all.
 
-675
-00:47:53,120 --> 00:47:55,454
+
+
 Where's the flour? Who's got it?
 
-676
-00:47:55,873 --> 00:47:59,000
+
+
 - I need a mixing bowl.
 - One large mixing bowl.
 
-677
-00:47:59,293 --> 00:48:02,044
+
+
 And someone to mix it. Thank you.
 
-678
-00:48:05,299 --> 00:48:06,757
+
+
 Much obliged.
 
-679
-00:48:11,054 --> 00:48:13,973
+
+
 Cheba, did you remember
 to wash your hooves?
 
-680
-00:48:15,017 --> 00:48:17,768
+
+
 Ladies. Thank you so much.
 
-681
-00:48:18,395 --> 00:48:20,479
+
+
 Strike. Strike.
 
-682
-00:48:20,564 --> 00:48:22,315
+
+
 A little outside.
 
-683
-00:48:22,399 --> 00:48:25,151
+
+
 Step on it, will you? I need that dough.
 
-684
-00:48:26,570 --> 00:48:29,572
+
+
 Yeah. We'll need about
 a half a pound of this.
 
-685
-00:48:29,948 --> 00:48:33,326
+
+
 What are barnyard animals doing
 in the kitchen? Leave at once.
 
-686
-00:48:33,410 --> 00:48:35,786
+
+
 This is completely against my health code.
 
-687
-00:48:35,871 --> 00:48:38,039
+
+
 Getting hot. Turn on the fan, somebody.
 
-688
-00:48:38,373 --> 00:48:41,167
+
+
 What are you doing? Get away from there.
 
-689
-00:48:43,003 --> 00:48:46,130
+
+
 Sorry. Proof more accidents
 happen in the kitchen
 
-690
-00:48:46,214 --> 00:48:47,632
+
+
 than any other room in the house.
 
-691
-00:48:47,716 --> 00:48:49,926
+
+
 Where did that big ball of dough go?
 
-692
-00:48:50,010 --> 00:48:53,846
+
+
 All I see are magnificent ribbons
 of perfection.
 
-693
-00:48:54,890 --> 00:48:58,184
+
+
 It's lasagna, not shish kebab.
 
-694
-00:48:58,518 --> 00:49:01,187
+
+
 Taste that. Is that too sweet for you?
 
-695
-00:49:03,857 --> 00:49:05,358
+
+
 One time.
 
-696
-00:49:15,577 --> 00:49:17,536
+
+
 Here comes the parsley.
 
-697
-00:49:18,080 --> 00:49:22,041
+
+
 All right, bring it in, bring it in.
 Back, back, back. Good.
 
-698
-00:49:22,125 --> 00:49:24,377
+
+
 I need somebody with a hard head.
 
-699
-00:49:25,379 --> 00:49:26,712
+
+
 Thank you.
 
-700
-00:49:29,299 --> 00:49:31,384
+
+
 It's out of our hands now.
 
-701
-00:49:38,558 --> 00:49:40,393
+
+
 Nice bit of cheese.
 
-702
-00:49:40,477 --> 00:49:43,145
+
+
 This lasagna's fabulous.
 
-703
-00:49:43,814 --> 00:49:48,567
+
+
 - That's a bit of all right, that is.
 - Those Italians got it right, didn't they?
 
-704
-00:49:48,652 --> 00:49:52,238
+
+
 - Two cheeses.
 - That is delicious.
 
-705
-00:49:52,406 --> 00:49:55,658
+
+
 - Yeah, not bad on short notice.
 - It's beautiful.
 
-706
-00:49:55,742 --> 00:49:59,328
+
+
 What did I tell you? If you just let me
 be your king and lead you, all right?
 
-707
-00:49:59,413 --> 00:50:01,497
+
+
 - Any more?
 - One more piece.
 
-708
-00:50:01,581 --> 00:50:03,541
+
+
 - Would anyone mind if I...
 - It's mine.
 
-709
-00:50:03,625 --> 00:50:05,918
+
+
 - Move.
 - Easy. Hold up a moment.
 
-710
-00:50:06,003 --> 00:50:09,213
+
+
 - That piece has Nigel's name on it.
 - I said it's mine.
 
-711
-00:50:09,297 --> 00:50:12,758
+
+
 - Get your paws off it.
 - Please. I command you.
 
-712
-00:50:13,885 --> 00:50:15,261
+
+
 Leave room for dessert.
 
-713
-00:50:18,015 --> 00:50:19,015
+
+
 Wants the bull now.
 
-714
-00:50:19,099 --> 00:50:22,351
+
+
 Half an inch adjustment
 from his last shot. Nearly.
 
-715
-00:50:23,103 --> 00:50:26,355
+
+
 Heavens, I fear there was
 something urgent
 
-716
-00:50:26,440 --> 00:50:28,691
+
+
 to which I was supposed to attend,
 
-717
-00:50:28,775 --> 00:50:32,653
+
+
 and yet I can't for the life of me
 begin to recall what it was.
 
-718
-00:50:33,530 --> 00:50:36,699
+
+
 - You really like it?
 - I do. It's great. Thank you.
 
-719
-00:50:36,783 --> 00:50:38,200
+
+
 Let me see.
 
-720
-00:50:40,370 --> 00:50:42,038
+
+
 I gotta go.
 
-721
-00:50:42,122 --> 00:50:45,916
+
+
 Are you sure I can't go with you
 to this castle tour? They won't mind.
 
-722
-00:50:46,001 --> 00:50:48,919
+
+
 It's a conservancy function
 for speakers only.
 
-723
-00:50:49,254 --> 00:50:52,256
+
+
 I guess the woman who owned the place
 was a big animal lover.
 
-724
-00:50:52,340 --> 00:50:53,549
+
+
 Hang with the guys.
 
-725
-00:50:53,633 --> 00:50:58,971
+
+
 Odie could use a walk and Garfield
 could use some serious ab work.
 
-726
-00:51:00,098 --> 00:51:02,933
+
+
 Anyway, I'll be back soon. Have fun, boys.
 
-727
-00:51:03,602 --> 00:51:08,689
+
+
 My entire world seems to revolve around
 napping, television and lasagna.
 
-728
-00:51:09,649 --> 00:51:13,360
+
+
 Still, I'm plagued by a vague notion
 of a duty unfulfilled.
 
-729
-00:51:13,528 --> 00:51:16,322
+
+
 Oh, well. Back to sleep.
 
-730
-00:51:17,949 --> 00:51:19,784
+
+
 What is it, woof woof?
 
-731
-00:51:19,868 --> 00:51:23,079
+
+
 "Castles of England"?
 Good Lord, there it is.
 
-732
-00:51:23,163 --> 00:51:27,750
+
+
 Carlyle Castle on the Upper Thames.
 Brilliant, Odie.
 
-733
-00:51:27,834 --> 00:51:31,879
+
+
 All this time I took you for,
 well, a complete simpleton.
 
-734
-00:51:32,589 --> 00:51:37,009
+
+
 Now destiny calls.
 To the battlements. Sound the horns.
 
-735
-00:51:37,094 --> 00:51:39,011
+
+
 For king and country.
 
-736
-00:51:39,096 --> 00:51:43,015
+
+
 Farewell, my loyal squire.
 The legend cont...
 
-737
-00:51:43,433 --> 00:51:44,683
+
+
 What ho.
 
-738
-00:51:47,687 --> 00:51:48,979
+
+
 Garfield?
 
-739
-00:51:52,359 --> 00:51:56,445
+
+
 Okay, sore bottom,
 a little disoriented, but undeterred.
 
-740
-00:51:56,530 --> 00:51:57,738
+
+
 Garfield?
 
-741
-00:51:58,323 --> 00:52:00,616
+
+
 Now, which way's the river?
 
-742
-00:52:00,700 --> 00:52:03,160
+
+
 - I think this way.
 - Garfield.
 
-743
-00:52:03,245 --> 00:52:04,620
+
+
 Sorry, Jon.
 
-744
-00:52:10,418 --> 00:52:15,631
+
+
 Here it is.
 Now one needs some kind of conveyance.
 
-745
-00:52:16,633 --> 00:52:18,134
+
+
 Hello.
 
-746
-00:52:18,844 --> 00:52:23,889
+
+
 It's an awfully long way down,
 but I must, and I shall, and I...
 
-747
-00:52:42,617 --> 00:52:45,911
+
+
 Well, Miss Westminster,
 I have the papers all drawn up.
 
-748
-00:52:45,996 --> 00:52:48,789
+
+
 We need only sign them
 and it's on to the groundbreaking.
 
-749
-00:52:48,874 --> 00:52:52,209
+
+
 Wonderful. I'd like to move forward
 as soon as possible.
 
-750
-00:52:52,294 --> 00:52:55,087
+
+
 Just think - bulldozers, paving machines,
 
-751
-00:52:55,172 --> 00:52:59,341
+
+
 busily transforming this dump
 into beautiful luxury condos.
 
-752
-00:52:59,551 --> 00:53:04,638
+
+
 You and I striding through
 centuries of dust like giants,
 
-753
-00:53:04,723 --> 00:53:07,933
+
+
 surveying our emerging empire.
 
-754
-00:53:08,059 --> 00:53:11,478
+
+
 Two proud parents.
 
-755
-00:53:13,773 --> 00:53:16,192
+
+
 I'll just check on Smithee,
 
-756
-00:53:16,276 --> 00:53:18,569
+
+
 see if tea is ready.
 
-757
-00:53:39,382 --> 00:53:41,008
+
+
 Filthy monsters.
 
-758
-00:53:44,304 --> 00:53:47,473
+
+
 Come back here, you smelly creature.
 Come here.
 
-759
-00:53:47,641 --> 00:53:49,975
+
+
 Pigs, mark your man.
 
-760
-00:53:51,061 --> 00:53:53,479
+
+
 Come here, you smelly individual.
 
-761
-00:53:56,566 --> 00:53:59,902
+
+
 You know what? I got two words
 for that guy: "You're fired. "
 
-762
-00:54:00,111 --> 00:54:02,571
+
+
 If only it were that simple, sire.
 
-763
-00:54:05,158 --> 00:54:06,867
+
+
 Swine.
 
-764
-00:54:07,911 --> 00:54:11,497
+
+
 - Is there a problem, sir?
 - There's a bull drinking my champagne,
 
-765
-00:54:11,581 --> 00:54:14,500
+
+
 the pool's full of wild animals,
 and a pig tried to kill me.
 
-766
-00:54:14,584 --> 00:54:16,752
+
+
 Yes, I would say there was a problem.
 
-767
-00:54:16,836 --> 00:54:20,256
+
+
 - I'll tend to it, sir.
 - You'll tend to it immediately.
 
-768
-00:54:20,340 --> 00:54:23,092
+
+
 And we'll have tea indoors.
 Do you think you could handle that?
 
-769
-00:54:23,176 --> 00:54:24,969
+
+
 Thank you. Good chap.
 
-770
-00:54:31,226 --> 00:54:35,854
+
+
 - Has there been an accident?
 - I'm afraid tea will have to wait till later.
 
-771
-00:54:45,782 --> 00:54:50,619
+
+
 He's about 42½ pounds,
 orange fur - more like a burnt sienna -
 
-772
-00:54:50,704 --> 00:54:53,622
+
+
 and he answers to the name Garfield.
 
-773
-00:54:55,500 --> 00:54:59,586
+
+
 Okay. Well, fortunately Scotland Yard
 isn't very busy this week,
 
-774
-00:54:59,671 --> 00:55:03,132
+
+
 so we'll put together
 a task force of our best men
 
-775
-00:55:03,216 --> 00:55:07,469
+
+
 and turn all our resources and attention
 towards finding your fat cat.
 
-776
-00:55:07,887 --> 00:55:09,763
+
+
 - Really?
 - No.
 
-777
-00:55:12,559 --> 00:55:14,101
+
+
 Come on, Odie.
 
-778
-00:55:23,528 --> 00:55:26,864
+
+
 Now, Rommel, it's really quite simple.
 
-779
-00:55:28,575 --> 00:55:30,576
+
+
 Me, Prince.
 
-780
-00:55:31,286 --> 00:55:34,121
+
+
 Prince, me.
 
-781
-00:55:34,205 --> 00:55:37,291
+
+
 Provider of food, food.
 
-782
-00:55:37,584 --> 00:55:39,335
+
+
 All right, guv'nor.
 
-783
-00:55:42,213 --> 00:55:44,548
+
+
 Yum yum.
 
-784
-00:55:46,468 --> 00:55:48,927
+
+
 - Kill.
 - Kitty.
 
-785
-00:55:49,679 --> 00:55:52,848
+
+
 Attaboy, Rommel. There you go.
 
-786
-00:55:52,932 --> 00:55:55,642
+
+
 Well done. That's the spirit.
 
-787
-00:55:56,061 --> 00:55:58,187
+
+
 Bad boy. Bad boy.
 
-788
-00:55:58,271 --> 00:56:00,022
+
+
 Come on, get along.
 
-789
-00:56:01,483 --> 00:56:03,776
+
+
 Smithee. How are you?
 
-790
-00:56:04,152 --> 00:56:06,695
+
+
 Do me a favor. Have that polished.
 There's a good chap.
 
-791
-00:56:06,780 --> 00:56:08,989
+
+
 What's on your mind, Smithee?
 
-792
-00:56:09,866 --> 00:56:13,994
+
+
 Mr. Hobbs' office called.
 Are the solicitors convening again, sir?
 
-793
-00:56:14,454 --> 00:56:16,955
+
+
 It's nothing at all, Smithee.
 
-794
-00:56:17,040 --> 00:56:19,708
+
+
 Papers to sign, you know. Boring.
 
-795
-00:56:19,793 --> 00:56:23,337
+
+
 Incidentally, when did you last
 have a holiday, Smithee?
 
-796
-00:56:23,963 --> 00:56:25,422
+
+
 Holiday, sir?
 
-797
-00:56:26,424 --> 00:56:29,259
+
+
 - I can't remember.
 - Seriously, man?
 
-798
-00:56:29,344 --> 00:56:32,179
+
+
 What an embarrassing oversight
 on my part.
 
-799
-00:56:32,263 --> 00:56:36,308
+
+
 I insist you have a week's holiday,
 starting today.
 
-800
-00:56:36,434 --> 00:56:39,812
+
+
 - I don't know. I don't think I can...
 - I won't hear a word of it.
 
-801
-00:56:39,896 --> 00:56:42,648
+
+
 I can just see you cycling in the Dordogne,
 
-802
-00:56:42,732 --> 00:56:46,402
+
+
 fighting the wild boar in Tristan da Cunha.
 
-803
-00:56:46,569 --> 00:56:50,823
+
+
 Farewell, wind to your sails
 and bon voyage, Smithee.
 
-804
-00:56:50,949 --> 00:56:52,908
+
+
 Well, then,
 
-805
-00:56:52,992 --> 00:56:55,452
+
+
 thank you, sir.
 
-806
-00:57:03,503 --> 00:57:05,838
+
+
 What am I gonna do?
 How am I supposed to find Garfield?
 
-807
-00:57:05,922 --> 00:57:08,632
+
+
 London's really big.
 
-808
-00:57:14,389 --> 00:57:16,807
+
+
 I don't care about some
 alien love baby, OK?
 
-809
-00:57:16,891 --> 00:57:19,017
+
+
 I'm worried about Garfield.
 
-810
-00:57:20,562 --> 00:57:23,397
+
+
 Odie, you know what?
 You're being a real...
 
-811
-00:57:23,857 --> 00:57:29,027
+
+
 "Lady Eleanor of Carlyle has left her entire
 estate to her beloved cat, Prince Xll. "
 
-812
-00:57:29,237 --> 00:57:32,448
+
+
 Maybe someone mistook
 this cat for Garfield.
 
-813
-00:57:32,532 --> 00:57:33,907
+
+
 Odie, come on. Come on, buddy.
 
-814
-00:57:35,243 --> 00:57:39,705
+
+
 The Venetian crystal chandeliers were
 commissioned by the third Earl of Carlyle
 
-815
-00:57:39,789 --> 00:57:42,374
+
+
 in the late 18th century.
 
-816
-00:57:42,459 --> 00:57:47,796
+
+
 Over here we have several family portraits
 painted by the Dutch master, Van Dyck.
 
-817
-00:57:47,881 --> 00:57:51,592
+
+
 These are amongst the many treasures
 to be found at Carlyle.
 
-818
-00:57:52,260 --> 00:57:55,387
+
+
 Rule Britannia
 Britannia catches waves
 
-819
-00:57:55,555 --> 00:57:59,308
+
+
 Hogwash. I tell you,
 this cat is mocking us at every turn.
 
-820
-00:57:59,392 --> 00:58:00,851
+
+
 Preston, calm yourself.
 
-821
-00:58:00,935 --> 00:58:03,270
+
+
 We're only doing what is best
 for everybody.
 
-822
-00:58:03,354 --> 00:58:06,565
+
+
 How much longer
 must we sustain this charade?
 
-823
-00:58:06,649 --> 00:58:10,611
+
+
 I can't believe this cat is so stupid
 as to think he's actually royalty.
 
-824
-00:58:10,695 --> 00:58:15,824
+
+
 Well, he does,
 and, house cat or not, we need him.
 
-825
-00:58:15,909 --> 00:58:17,242
+
+
 House cat?
 
-826
-00:58:17,327 --> 00:58:20,037
+
+
 - Just have a little patience.
 - Patience?
 
-827
-00:58:20,205 --> 00:58:25,292
+
+
 Admit it, Winston. This buffoon
 couldn't groom the paws of a real king.
 
-828
-00:58:25,418 --> 00:58:26,668
+
+
 Buffoon?
 
-829
-00:59:28,898 --> 00:59:32,985
+
+
 Golly, this is without a doubt
 my all-time crummiest moment.
 
-830
-00:59:39,117 --> 00:59:43,412
+
+
 Jon. Man, I've been such
 a stupid, selfish cat.
 
-831
-00:59:44,414 --> 00:59:47,541
+
+
 I've lost my friend. I gotta find him.
 
-832
-00:59:48,334 --> 00:59:52,838
+
+
 The original medieval kitchen
 has stood on this site since 1485.
 
-833
-00:59:52,922 --> 00:59:56,550
+
+
 Yes, it's big, it's old and it's musty.
 
-834
-00:59:56,634 --> 01:00:01,513
+
+
 Lord Dargis, please meet the tour group
 from the Royal Animal Conservancy.
 
-835
-01:00:01,598 --> 01:00:05,934
+
+
 By all means, save the little darlings.
 That's my motto.
 
-836
-01:00:06,019 --> 01:00:09,771
+
+
 Big fan of Free Willy, Born Free,
 all the Free movies.
 
-837
-01:00:09,856 --> 01:00:12,566
+
+
 Bravo. Now, off you go.
 
-838
-01:00:12,900 --> 01:00:16,445
+
+
 If you come this way, we'll visit
 some of the underground passages.
 
-839
-01:00:16,529 --> 01:00:20,449
+
+
 Hello. Welcome to Carlyle Castle, my dear.
 
-840
-01:00:20,533 --> 01:00:22,034
+
+
 Thank you. It's beautiful.
 
-841
-01:00:22,118 --> 01:00:23,702
+
+
 Well, that makes two of you.
 
-842
-01:00:23,786 --> 01:00:26,997
+
+
 Did I mention
 how much I abhor fox-hunting?
 
-843
-01:00:27,081 --> 01:00:30,167
+
+
 - Unless, of course, in self-defense.
 - Bye.
 
-844
-01:00:30,251 --> 01:00:32,711
+
+
 If I may,
 
-845
-01:00:32,795 --> 01:00:35,922
+
+
 - one question...
 - Liz.
 
-846
-01:00:36,007 --> 01:00:38,967
+
+
 The same as our own dear queen. Cordial?
 
-847
-01:00:39,802 --> 01:00:42,471
+
+
 - One question, Liz.
 - Liz?
 
-848
-01:00:42,555 --> 01:00:46,725
+
+
 What would you say if I were to donate
 one of my priceless oil paintings
 
-849
-01:00:46,809 --> 01:00:48,560
+
+
 to your conservancy?
 
-850
-01:00:50,146 --> 01:00:53,231
+
+
 - Thank you?
 - But how would you say it?
 
-851
-01:00:54,108 --> 01:00:57,319
+
+
 That royal sleaze is hitting on Liz.
 
-852
-01:00:57,403 --> 01:01:00,947
+
+
 Perhaps you would consider
 dining with me at the castle tonight?
 
-853
-01:01:01,199 --> 01:01:04,201
+
+
 Nobody hits on my best friend's girlfriend
 
-854
-01:01:04,285 --> 01:01:05,786
+
+
 and succeeds.
 
-855
-01:01:07,830 --> 01:01:10,582
+
+
 Mr. Piñata Head.
 
-856
-01:01:12,251 --> 01:01:13,335
+
+
 You.
 
-857
-01:01:14,545 --> 01:01:17,130
+
+
 - Me?
 - Excuse me for one moment.
 
-858
-01:01:17,215 --> 01:01:20,092
+
+
 - Sure, but...
 - Mi castle es su castle.
 
-859
-01:01:28,393 --> 01:01:30,936
+
+
 Your nine lives are up.
 
-860
-01:01:31,270 --> 01:01:33,230
+
+
 No. No, not now.
 
-861
-01:01:33,731 --> 01:01:36,983
+
+
 Good Lord. Do these people never sleep?
 
-862
-01:01:37,068 --> 01:01:38,151
+
+
 Why now?
 
-863
-01:01:38,236 --> 01:01:40,946
+
+
 Mr. Hobbs. Punctual as usual.
 
-864
-01:01:41,280 --> 01:01:44,282
+
+
 Just taking out the rubbish.
 Won't be a jiffy.
 
-865
-01:01:45,451 --> 01:01:48,203
+
+
 Please. Okay, you got me.
 
-866
-01:01:51,124 --> 01:01:53,166
+
+
 You are so stupid.
 
-867
-01:02:01,050 --> 01:02:03,802
+
+
 - Dungeon.
 - I'm just a cat.
 
-868
-01:02:10,727 --> 01:02:14,187
+
+
 Please. I'm so weak.
 
-869
-01:02:14,313 --> 01:02:16,982
+
+
 And you're so strong.
 
-870
-01:02:17,066 --> 01:02:18,483
+
+
 So powerful.
 
-871
-01:02:22,113 --> 01:02:23,280
+
+
 You creep.
 
-872
-01:02:23,364 --> 01:02:27,242
+
+
 There's more than one way
 to skin a royal cat.
 
-873
-01:02:27,326 --> 01:02:31,288
+
+
 I'm not a royal cat.
 I'm a self-centered house cat. Wait. Wait.
 
-874
-01:02:31,372 --> 01:02:34,708
+
+
 What? You think I'm gonna crack in here?
 
-875
-01:02:34,834 --> 01:02:39,671
+
+
 No. This is gonna be a treat. I'm finally
 gonna have some quality alone time.
 
-876
-01:02:39,839 --> 01:02:42,966
+
+
 I'm gonna write that novel
 I've been putting off.
 
-877
-01:02:43,050 --> 01:02:47,095
+
+
 I'm gonna learn a couple of languages
 and start a new work-out regimen.
 
-878
-01:02:47,221 --> 01:02:51,808
+
+
 I'm gonna lose all this, get myself
 in top physical condition. Thank you.
 
-879
-01:02:51,893 --> 01:02:53,685
+
+
 Yeah.
 
-880
-01:02:53,770 --> 01:02:58,064
+
+
 I love it here.
 You've done me an enormous favor.
 
-881
-01:02:58,149 --> 01:03:00,025
+
+
 Who's laughing now?
 
-882
-01:03:14,373 --> 01:03:17,250
+
+
 It's nice to get away
 from the urban sprawl.
 
-883
-01:03:17,335 --> 01:03:19,753
+
+
 Carlyle, 28 miles.
 
-884
-01:03:21,088 --> 01:03:22,714
+
+
 Going my way?
 
-885
-01:03:26,427 --> 01:03:27,969
+
+
 Piece of cake, really.
 
-886
-01:03:29,931 --> 01:03:32,057
+
+
 So we make a left up ahead.
 
-887
-01:03:36,604 --> 01:03:38,647
+
+
 Right turn. Thanks, buddy.
 
-888
-01:03:42,944 --> 01:03:46,863
+
+
 - I'm afraid there's just no sign of him.
 - Really?
 
-889
-01:03:46,948 --> 01:03:50,617
+
+
 Well, then, let's make it official.
 
-890
-01:03:50,701 --> 01:03:52,828
+
+
 Well, if we must, we must.
 
-891
-01:03:53,287 --> 01:03:55,580
+
+
 Then there's the time I got hit by that car,
 
-892
-01:03:55,790 --> 01:03:59,000
+
+
 and that time that I ate
 that six-day-old halibut.
 
-893
-01:04:00,127 --> 01:04:03,046
+
+
 That's only seven lives. I got two more.
 
-894
-01:04:03,130 --> 01:04:05,757
+
+
 All right. I'm gonna get out of this.
 
-895
-01:04:08,553 --> 01:04:12,138
+
+
 - Bingo.
 - Winston and I have come to your rescue.
 
-896
-01:04:12,265 --> 01:04:15,392
+
+
 Took you long enough.
 Did you hear my stomach growling?
 
-897
-01:04:15,476 --> 01:04:18,270
+
+
 No, but we heard
 your tiresome monologue.
 
-898
-01:04:18,354 --> 01:04:20,105
+
+
 Bad halibut indeed.
 
-899
-01:04:23,192 --> 01:04:26,570
+
+
 - Let's get you out of here, Your Highness.
 - Winster.
 
-900
-01:04:26,654 --> 01:04:30,156
+
+
 The solicitors are here.
 We have to move quickly.
 
-901
-01:04:31,742 --> 01:04:37,205
+
+
 - Then we luncheon, Your Royal Highness.
 - Yeah, you can drop that shtick, drool boy.
 
-902
-01:04:37,540 --> 01:04:39,374
+
+
 I heard you and the bird.
 
-903
-01:04:39,458 --> 01:04:42,002
+
+
 How about the "house cat" part?
 I love that.
 
-904
-01:04:42,086 --> 01:04:45,714
+
+
 All right, all right,
 so we weren't exactly honest.
 
-905
-01:04:45,840 --> 01:04:48,341
+
+
 We had to do it.
 What would you have done?
 
-906
-01:04:48,426 --> 01:04:50,468
+
+
 Save your breath, chubby cheeks.
 
-907
-01:04:50,553 --> 01:04:54,931
+
+
 I shall abdicate my throne
 and return to my TV chair.
 
-908
-01:04:55,266 --> 01:04:59,060
+
+
 - You were our only hope.
 - The only hope of the hopeless.
 
-909
-01:05:00,271 --> 01:05:01,646
+
+
 What do they want - blood?
 
-910
-01:05:01,731 --> 01:05:05,567
+
+
 I've been eating and sleeping
 my heart out for these animals.
 
-911
-01:05:05,693 --> 01:05:07,235
+
+
 Still not enough.
 
-912
-01:05:07,320 --> 01:05:11,990
+
+
 Like I'm not as good
 as a royal cat could be?
 
-913
-01:06:00,998 --> 01:06:04,334
+
+
 I so knew you weren't me.
 
-914
-01:06:04,418 --> 01:06:06,962
+
+
 And you must be Garfield.
 
-915
-01:06:07,046 --> 01:06:11,174
+
+
 - How do you know my name?
 - I've lived your life for the past few days.
 
-916
-01:06:11,258 --> 01:06:15,011
+
+
 Yes, if ever a man loved a cat,
 it's your Jon.
 
-917
-01:06:15,137 --> 01:06:18,431
+
+
 Return to him, Garfield.
 Return to your home.
 
-918
-01:06:20,101 --> 01:06:23,979
+
+
 Your Highness,
 you don't have to tell me twice. Bye-bye.
 
-919
-01:06:25,022 --> 01:06:29,818
+
+
 Sire, thank heavens.
 You've returned. Thank heavens.
 
-920
-01:06:29,902 --> 01:06:33,822
+
+
 - It's the real Prince, the genuine article.
 - Yes, my friends.
 
-921
-01:06:33,906 --> 01:06:37,575
+
+
 I have returned to you
 at this, our darkest hour.
 
-922
-01:06:37,702 --> 01:06:40,829
+
+
 So, Winny,
 what exactly is Lord Dargis up to?
 
-923
-01:06:40,913 --> 01:06:44,207
+
+
 He intends to level our homes
 and kill us all.
 
-924
-01:06:44,542 --> 01:06:46,001
+
+
 Okay.
 
-925
-01:06:47,837 --> 01:06:51,506
+
+
 Well, in that case,
 I decree that we pack our bags
 
-926
-01:06:51,590 --> 01:06:54,300
+
+
 and get our scraggy bottoms out of here.
 
-927
-01:06:54,385 --> 01:06:57,262
+
+
 - Perhaps to the castle next door.
 - Oh, boy.
 
-928
-01:06:57,346 --> 01:06:59,723
+
+
 - That was inspirational.
 - Brilliant.
 
-929
-01:06:59,807 --> 01:07:02,100
+
+
 I am so fired up.
 
-930
-01:07:02,309 --> 01:07:05,729
+
+
 - I have to believe we can do better.
 - I thought you were leaving.
 
-931
-01:07:05,813 --> 01:07:10,400
+
+
 Button the beak, Froot Loops,
 or I'll stick that thing on backwards.
 
-932
-01:07:10,484 --> 01:07:15,447
+
+
 Look, Lord Doofus is just another bully.
 And what do we do to bullies?
 
-933
-01:07:15,531 --> 01:07:17,532
+
+
 Well, generally, we run from them.
 
-934
-01:07:17,616 --> 01:07:22,078
+
+
 No, we don't leave.
 We stand and we kick royal butt.
 
-935
-01:07:22,163 --> 01:07:26,791
+
+
 Trust me, if you beasts can bake
 a two-cheese lasagna,
 
-936
-01:07:26,876 --> 01:07:28,710
+
+
 you can beat Dargis.
 
-937
-01:07:28,836 --> 01:07:30,920
+
+
 Well, do you have a plan, Garfield?
 
-938
-01:07:31,005 --> 01:07:32,881
+
+
 Tell you what.
 For the duration of this battle,
 
-939
-01:07:32,965 --> 01:07:36,009
+
+
 I would prefer to be called G-Cat,
 
-940
-01:07:36,302 --> 01:07:40,221
+
+
 and we have two plans.
 
-941
-01:07:40,306 --> 01:07:42,432
+
+
 Teamwork. Yes.
 
-942
-01:07:49,315 --> 01:07:50,982
+
+
 Hey, girlie dog.
 
-943
-01:07:53,486 --> 01:07:57,489
+
+
 Yeah, you, girlie girl.
 You're such a silly, sissy dog.
 
-944
-01:08:01,660 --> 01:08:04,829
+
+
 - Go. Go!
 - The game's afoot.
 
-945
-01:08:11,212 --> 01:08:13,296
+
+
 Sissy, silly dog.
 
-946
-01:08:13,839 --> 01:08:16,007
+
+
 You don't move so good, bozo.
 
-947
-01:08:23,432 --> 01:08:25,183
+
+
 Here, kitty, kitty.
 
-948
-01:08:29,063 --> 01:08:32,107
+
+
 Mr. Stinky Dog.
 
-949
-01:08:32,858 --> 01:08:34,526
+
+
 Hey, loco.
 
-950
-01:08:34,777 --> 01:08:36,319
+
+
 Oh, no.
 
-951
-01:08:37,530 --> 01:08:38,988
+
+
 Run away.
 
-952
-01:08:47,248 --> 01:08:54,045
+
+
 The loss of Prince - I'm not quite sure
 any of us will ever get over it.
 
-953
-01:08:54,588 --> 01:08:57,715
+
+
 Prince and Carlyle Court were one.
 
-954
-01:08:58,759 --> 01:09:04,556
+
+
 Sometimes it's almost as if
 his spirit were still...
 
-955
-01:09:11,230 --> 01:09:16,776
+
+
 - His spirit's still what?
 - Still roaming the grounds.
 
-956
-01:09:20,072 --> 01:09:23,449
+
+
 I wonder if you could excuse me
 for a little while.
 
-957
-01:09:23,534 --> 01:09:26,035
+
+
 Do you hear running water?
 
-958
-01:09:28,789 --> 01:09:30,915
+
+
 I won't be long.
 
-959
-01:09:32,084 --> 01:09:34,669
+
+
 He's a bit of a tool, don't you think?
 
-960
-01:09:38,632 --> 01:09:41,676
+
+
 - Yes?
 - Lord Dargis. Am I early?
 
-961
-01:09:42,052 --> 01:09:44,762
+
+
 Only just, Miss Westminster. Only just.
 
-962
-01:09:44,847 --> 01:09:46,931
+
+
 Please, please, please.
 
-963
-01:09:48,142 --> 01:09:50,518
+
+
 I was just finishing something up.
 
-964
-01:09:50,603 --> 01:09:53,354
+
+
 I wonder if you'd like to wait in the library.
 
-965
-01:09:53,439 --> 01:09:54,480
+
+
 Okay.
 
-966
-01:09:54,773 --> 01:09:58,860
+
+
 - Make yourself at home. Have a seat.
 - Thank you.
 
-967
-01:09:58,944 --> 01:10:02,864
+
+
 - Tally-ho.
 - On the other hand, this simply won't do.
 
-968
-01:10:02,948 --> 01:10:06,534
+
+
 - Smithee's been painting again.
 - I can't smell anything.
 
-969
-01:10:06,619 --> 01:10:10,830
+
+
 You never can. Next thing you know,
 you're salsa dancing in your knickers.
 
-970
-01:10:10,915 --> 01:10:13,124
+
+
 - What?
 - I won't be long.
 
-971
-01:10:21,383 --> 01:10:25,303
+
+
 Mr. Dargis,
 will we be starting sometime today?
 
-972
-01:10:25,429 --> 01:10:27,805
+
+
 Absolutely, Mr. Hobbs.
 
-973
-01:10:28,182 --> 01:10:29,599
+
+
 Hello again.
 
-974
-01:10:31,018 --> 01:10:33,478
+
+
 - What's the matter?
 - Matter with what?
 
-975
-01:10:33,562 --> 01:10:36,189
+
+
 - You screamed.
 - No, I didn't.
 
-976
-01:10:36,273 --> 01:10:38,775
+
+
 Why don't you adjourn to my study?
 
-977
-01:10:44,823 --> 01:10:47,033
+
+
 And I'll retrieve the papers.
 
-978
-01:10:54,833 --> 01:10:58,002
+
+
 Where are you, you red-headed devil?
 
-979
-01:11:09,431 --> 01:11:11,683
+
+
 Mr. Fancy Pants.
 
-980
-01:11:15,229 --> 01:11:17,855
+
+
 Wait till I get my hands on you.
 
-981
-01:11:18,732 --> 01:11:20,858
+
+
 Bring it on.
 
-982
-01:11:36,667 --> 01:11:39,210
+
+
 Dargis.
 
-983
-01:11:39,295 --> 01:11:42,922
+
+
 I got two words for yous: me yow.
 
-984
-01:11:43,882 --> 01:11:45,758
+
+
 Come here, you.
 
-985
-01:11:49,722 --> 01:11:54,142
+
+
 No, you won't do.
 I specifically requested a feline masseuse.
 
-986
-01:12:01,066 --> 01:12:03,818
+
+
 Somebody get this thing off of me.
 
-987
-01:12:10,409 --> 01:12:12,869
+
+
 Hey, bozo.
 
-988
-01:12:12,953 --> 01:12:14,954
+
+
 Yeah, you, buster.
 
-989
-01:12:20,085 --> 01:12:23,546
+
+
 Stupid, red-haired,
 
-990
-01:12:23,630 --> 01:12:25,631
+
+
 flea-bitten...
 
-991
-01:12:31,930 --> 01:12:34,515
+
+
 Lord D... What is...
 
-992
-01:12:35,100 --> 01:12:38,102
+
+
 - What is that?
 - I felt a slight chill.
 
-993
-01:12:38,312 --> 01:12:40,605
+
+
 I thought a simple wrap
 would be just the ticket.
 
-994
-01:12:40,689 --> 01:12:42,357
+
+
 - There.
 - There what?
 
-995
-01:12:42,441 --> 01:12:47,820
+
+
 There is absolutely no reason
 why you can't have a cool, refreshing drink
 
-996
-01:12:47,905 --> 01:12:52,241
+
+
 to make you feel calmer
 in this steamy weather. Wait in the room.
 
-997
-01:12:52,326 --> 01:12:54,035
+
+
 Stupid cat.
 
-998
-01:12:54,912 --> 01:12:57,622
+
+
 Nobody makes an idiot out of me.
 
-999
-01:13:05,589 --> 01:13:07,632
+
+
 Upsy-daisy.
 
-1000
-01:13:07,716 --> 01:13:08,883
+
+
 Medic.
 
-1001
-01:13:09,301 --> 01:13:11,969
+
+
 - Well done, old man.
 - Thank you.
 
-1002
-01:13:12,096 --> 01:13:15,139
+
+
 Never seen a welcome mat on the way out.
 
-1003
-01:13:17,142 --> 01:13:21,813
+
+
 - Get your cameras ready, ladies.
 - Come back here, you flea-bitten monster.
 
-1004
-01:13:48,424 --> 01:13:50,675
+
+
 Trousers.
 
-1005
-01:13:57,891 --> 01:14:00,518
+
+
 Trousers.
 
-1006
-01:14:11,196 --> 01:14:13,322
+
+
 - Target sighted.
 - Shaken him off.
 
-1007
-01:14:13,407 --> 01:14:16,409
+
+
 - Pull.
 - Take that.
 
-1008
-01:14:17,327 --> 01:14:18,744
+
+
 And that.
 
-1009
-01:14:19,496 --> 01:14:22,874
+
+
 - Down a bit. Down a bit. Up.
 - Bob's your uncle.
 
-1010
-01:14:25,878 --> 01:14:28,588
+
+
 Good Lord. It's a conspiracy.
 
-1011
-01:14:33,302 --> 01:14:36,679
+
+
 - Oh, dear.
 - Trousers.
 
-1012
-01:14:36,763 --> 01:14:40,016
+
+
 Smithee!
 
-1013
-01:14:41,643 --> 01:14:43,936
+
+
 Excuse me. Sir?
 
-1014
-01:14:44,021 --> 01:14:46,647
+
+
 - Is that Carlyle Castle?
 - It is.
 
-1015
-01:14:46,732 --> 01:14:51,736
+
+
 Maybe you can help me.
 Have you seen a cat that looks like this?
 
-1016
-01:14:51,820 --> 01:14:53,196
+
+
 Yes.
 
-1017
-01:14:53,405 --> 01:14:56,407
+
+
 That's Prince, the cat of Carlyle.
 
-1018
-01:14:57,075 --> 01:14:59,952
+
+
 It's also Garfield, the cat of the cul-de-sac.
 
-1019
-01:15:00,078 --> 01:15:03,039
+
+
 You mean you have a cat
 that's Prince's Doppelgänger?
 
-1020
-01:15:03,123 --> 01:15:06,167
+
+
 No. I'm saying they look exactly alike,
 
-1021
-01:15:06,251 --> 01:15:08,503
+
+
 and there's a chance
 they may have got mixed up.
 
-1022
-01:15:08,587 --> 01:15:09,587
+
+
 I see.
 
-1023
-01:15:13,008 --> 01:15:14,759
+
+
 There you are, man.
 
-1024
-01:15:15,844 --> 01:15:19,388
+
+
 Good God.
 What happened to your clothes?
 
-1025
-01:15:19,473 --> 01:15:22,767
+
+
 Indeed, it's been that kind of day.
 
-1026
-01:15:22,851 --> 01:15:25,269
+
+
 Mr. Dargis, I demand an explanation.
 
-1027
-01:15:25,771 --> 01:15:28,022
+
+
 I had no choice.
 
-1028
-01:15:28,106 --> 01:15:31,400
+
+
 The cat just won't die.
 
-1029
-01:15:31,818 --> 01:15:36,155
+
+
 - What did you say?
 - You will sign the deeds over to me.
 
-1030
-01:15:36,281 --> 01:15:39,325
+
+
 - Cat or no cat.
 - Oh, my.
 
-1031
-01:15:39,451 --> 01:15:40,701
+
+
 Mr. Hobbs, you were right.
 
-1032
-01:15:40,786 --> 01:15:44,288
+
+
 Lord Dargis was willing to go
 to any lengths to get the estate.
 
-1033
-01:15:44,373 --> 01:15:47,917
+
+
 - I can see you're busy. I'm just gonna...
 - Young lady.
 
-1034
-01:15:49,503 --> 01:15:51,212
+
+
 Get over there.
 
-1035
-01:15:51,296 --> 01:15:54,465
+
+
 Traitoress.
 You were working with them all along.
 
-1036
-01:16:00,347 --> 01:16:03,432
+
+
 Odie. Odie, wait for me. Odie.
 
-1037
-01:16:04,393 --> 01:16:06,185
+
+
 Get on with it.
 
-1038
-01:16:06,311 --> 01:16:09,939
+
+
 Hello, everyone. Sorry I'm late.
 Shall I ring for tea?
 
-1039
-01:16:10,023 --> 01:16:12,066
+
+
 It's Prince, and he's alive.
 
-1040
-01:16:12,150 --> 01:16:16,404
+
+
 I am bushed.
 All this running-for-my-life stuff.
 
-1041
-01:16:16,905 --> 01:16:19,532
+
+
 What say we break for lunch,
 take a quick nap
 
-1042
-01:16:19,616 --> 01:16:21,242
+
+
 and pick it up later? Sound good?
 
-1043
-01:16:21,326 --> 01:16:24,161
+
+
 There are two of you little monsters.
 
-1044
-01:16:24,246 --> 01:16:28,332
+
+
 For those of you keeping score at home,
 that's 18 lives.
 
-1045
-01:16:28,417 --> 01:16:30,918
+
+
 This is unbelievable. Two cats?
 
-1046
-01:16:31,003 --> 01:16:34,338
+
+
 No matter. I've plenty of ammunition.
 
-1047
-01:16:37,050 --> 01:16:39,302
+
+
 Something's biting me.
 
-1048
-01:16:45,017 --> 01:16:48,102
+
+
 - Odie, let him go.
 - Help!
 
-1049
-01:16:48,186 --> 01:16:51,272
+
+
 Your lunatic dog just bit my bottom.
 
-1050
-01:16:52,816 --> 01:16:54,358
+
+
 All right.
 
-1051
-01:16:54,818 --> 01:16:57,111
+
+
 Well played, you.
 
-1052
-01:16:57,279 --> 01:17:00,698
+
+
 - Hey, look. It's little Jon.
 - Good show, old man.
 
-1053
-01:17:01,366 --> 01:17:03,451
+
+
 I'll go quietly.
 
-1054
-01:17:03,535 --> 01:17:04,952
+
+
 - Jon?
 - Liz.
 
-1055
-01:17:05,037 --> 01:17:06,287
+
+
 What's going on?
 
-1056
-01:17:06,455 --> 01:17:08,998
+
+
 - Well, hello, my dear.
 - Hello.
 
-1057
-01:17:09,082 --> 01:17:11,792
+
+
 And not a moment too soon.
 
-1058
-01:17:13,754 --> 01:17:15,838
+
+
 Is this a part of the tour?
 
-1059
-01:17:15,922 --> 01:17:19,842
+
+
 - Let her go.
 - All in good time. Now, if you'd be so kind.
 
-1060
-01:17:20,719 --> 01:17:24,388
+
+
 - OK. Stay calm, OK?
 - Mr. Hobbs, the papers, please.
 
-1061
-01:17:24,473 --> 01:17:26,390
+
+
 I've seen enough. Wanna call your weasel?
 
-1062
-01:17:26,475 --> 01:17:27,975
+
+
 Sic him, Nigel.
 
-1063
-01:17:28,060 --> 01:17:31,771
+
+
 I'm a ferret, and I mean business.
 Trouser-leg business.
 
-1064
-01:17:33,565 --> 01:17:37,902
+
+
 I'll take a leg, please. On second thoughts,
 I'll have some white meat.
 
-1065
-01:17:37,986 --> 01:17:42,073
+
+
 Good Lord.
 There's a wild animal in my trousers.
 
-1066
-01:17:48,914 --> 01:17:50,456
+
+
 Who's next, then?
 
-1067
-01:17:50,874 --> 01:17:53,793
+
+
 Glass jaw. He can dish it out,
 but he can't take it.
 
-1068
-01:17:53,919 --> 01:17:56,587
+
+
 That was amazing. Are you OK?
 
-1069
-01:17:57,005 --> 01:18:00,383
+
+
 Yeah, I never felt better.
 
-1070
-01:18:00,634 --> 01:18:05,054
+
+
 - Well done, Garfield. I was rooting for you.
 - Did you hear something?
 
-1071
-01:18:05,138 --> 01:18:09,141
+
+
 - Yes, one did.
 - I'm here to discuss my new position.
 
-1072
-01:18:09,226 --> 01:18:11,435
+
+
 There he is, gentlemen.
 
-1073
-01:18:11,561 --> 01:18:14,105
+
+
 Come along. There's a good boy.
 
-1074
-01:18:14,231 --> 01:18:19,068
+
+
 It was the animals, you know. Plotting,
 planning, every one of them against me.
 
-1075
-01:18:19,152 --> 01:18:21,237
+
+
 I assume that will be all, sir?
 
-1076
-01:18:21,321 --> 01:18:24,448
+
+
 Smithee. He'll vouch for me.
 
-1077
-01:18:24,574 --> 01:18:25,700
+
+
 Smithee.
 
-1078
-01:18:25,784 --> 01:18:29,328
+
+
 Odie, thank you.
 You're a hero and a gentleman.
 
-1079
-01:18:29,579 --> 01:18:34,792
+
+
 Whoa. There are two Garfields?
 How can you tell them apart?
 
-1080
-01:18:34,876 --> 01:18:37,211
+
+
 You forgot imbecile.
 
-1081
-01:18:37,504 --> 01:18:38,796
+
+
 Garfield.
 
-1082
-01:18:39,297 --> 01:18:44,176
+
+
 Liz, I've been trying to get the courage up
 to ask you something all week.
 
-1083
-01:18:44,928 --> 01:18:46,429
+
+
 And...
 
-1084
-01:18:49,307 --> 01:18:51,600
+
+
 Come on. Really?
 
-1085
-01:18:52,310 --> 01:18:54,520
+
+
 Looking for something?
 
-1086
-01:19:02,154 --> 01:19:03,738
+
+
 Thanks, pal.
 
-1087
-01:19:06,658 --> 01:19:08,743
+
+
 Liz, will you marry me?
 
-1088
-01:19:09,327 --> 01:19:10,578
+
+
 Yes.
 
-1089
-01:19:16,168 --> 01:19:19,336
+
+
 You know a dog's mouth
 is cleaner than a human's?
 
-1090
-01:19:19,838 --> 01:19:22,298
+
+
 Come on. The coast is clear.
 
-1091
-01:19:32,017 --> 01:19:34,143
+
+
 Let's hear it for the cats.
 
-1092
-01:19:36,438 --> 01:19:39,273
+
+
 - Go, Garfield.
 - That's right. Come on.
 
-1093
-01:19:39,357 --> 01:19:41,567
+
+
 Can you do the Carlyle jig?
 
-1094
-01:19:41,693 --> 01:19:43,527
+
+
 It goes like this.
 
-1095
-01:19:45,071 --> 01:19:47,406
+
+
 - Can you do this?
 - Boogaloo.
 
-1096
-01:19:52,829 --> 01:19:54,830
+
+
 Bust a move, man.
 
-1097
-01:19:54,915 --> 01:19:57,416
+
+
 No, it's something like this, here.
 
-1098
-01:19:57,959 --> 01:20:02,880
+
+
 And so, my loyal subjects,
 I leave you with a final legacy.
 
-1099
-01:20:04,132 --> 01:20:06,717
+
+
 Cannonball.
 
-1100
-01:20:16,520 --> 01:20:18,687
+
+
 Brilliant party, sire.
 
-1101
-01:20:19,481 --> 01:20:23,275
+
+
 Yeah, when the going gets tough,
 the great ones party.
 
-1102
-01:20:31,576 --> 01:20:35,079
+
+
 - Who wants to play Marco Polo?
 - Marco.
 
-1103
-01:20:35,413 --> 01:20:40,751
+
+
 I refuse to partake in this sinful display
 of hedonism. Those nuts look good.
 
-1104
-01:20:40,836 --> 01:20:44,463
+
+
 Get a load of this. Bombs away.
 
-1105
-01:20:44,756 --> 01:20:46,841
+
+
 I love this pond.
 
-1106
-01:20:46,925 --> 01:20:50,511
+
+
 We rule the pool, goosy.
 Give me some feathers.
 
-1107
-01:21:02,774 --> 01:21:04,483
+
+
 Watch the ears.
 
-1108
-01:21:05,777 --> 01:21:08,946
+
+
 Thank you. You're so kind.
 
-1109
-01:21:14,452 --> 01:21:16,745
+
+
 Odie, could you beat it, please?
 
-1110
-01:21:18,790 --> 01:21:21,125
+
+
 It's good to be king.
 

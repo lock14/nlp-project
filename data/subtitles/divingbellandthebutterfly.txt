@@ -1,4854 +1,4854 @@
-1
-00:00:29,947 --> 00:00:33,656
+
+
 The Diving Bell and the Butterfly
 
-2
-00:02:14,627 --> 00:02:17,887
+
+
 Look! He's waking.
 - Dr. Cocheton, come to room 119.
 
-3
-00:02:17,987 --> 00:02:19,967
+
+
 Dr. Cocheton to room 119, please.
 
-4
-00:02:20,067 --> 00:02:23,018
+
+
 No, no, Jean-Dominique,
 open your eyes.
 
-5
-00:02:23,118 --> 00:02:24,607
+
+
 Keep your eyes open.
 
-6
-00:02:24,707 --> 00:02:27,346
+
+
 Mr Bauby, keep your eyes open.
 
-7
-00:02:28,427 --> 00:02:32,487
+
+
 You've been asleep for a long time.
 Can you hear me?
 
-8
-00:02:32,587 --> 00:02:34,587
+
+
 <i>I hear you.</i>
 
-9
-00:02:37,787 --> 00:02:40,337
+
+
 <i>What is happening...?</i>
 
-10
-00:02:42,747 --> 00:02:44,872
+
+
 <i>Jesus. I'm in a hospital.</i>
 
-11
-00:02:45,427 --> 00:02:48,021
+
+
 Mr Bauby, keep your eyes open.
 
-12
-00:02:50,507 --> 00:02:53,057
+
+
 Try to keep them open, please.
 
-13
-00:02:53,067 --> 00:02:57,219
+
+
 Good man.
 Follow the light with your eyes.
 
-14
-00:03:03,387 --> 00:03:05,387
+
+
 Great.
 
-15
-00:03:06,427 --> 00:03:09,942
+
+
 Don't be alarmed.
 You're in a hospital.
 
-16
-00:03:11,507 --> 00:03:15,819
+
+
 I'm a doctor. My name's Cocheton.
 These are nurses.
 
-17
-00:03:16,747 --> 00:03:19,382
+
+
 We're here to take care of you.
 
-18
-00:03:20,067 --> 00:03:22,617
+
+
 Do you remember what happened?
 
-19
-00:03:24,587 --> 00:03:26,767
+
+
 Do You remember
 what happened?
 
-20
-00:03:26,867 --> 00:03:30,576
+
+
 <i>I said. Vaguely.</i>
 
-21
-00:03:35,747 --> 00:03:39,305
+
+
 You're in the Naval
 Hospital, Berck-sur-Mer.
 
-22
-00:03:39,405 --> 00:03:41,487
+
+
 On the coast. In Calais.
 
-23
-00:03:41,587 --> 00:03:44,627
+
+
 You were treated first
 in Paris, and then...
 
-24
-00:03:44,727 --> 00:03:45,727
+
+
 brought here.
 
-25
-00:03:45,827 --> 00:03:48,887
+
+
 Do you remember that?
 - <i>Not really.</i>
 
-26
-00:03:49,347 --> 00:03:51,557
+
+
 You see, Jean-Dominique...
 
-27
-00:03:51,907 --> 00:03:53,727
+
+
 you've had a stroke.
 
-28
-00:03:53,827 --> 00:03:56,927
+
+
 You've been in a coma for almost 
 three weeks.
 
-29
-00:03:57,027 --> 00:04:00,682
+
+
 But now you're waking up and
 you'll be fine.
 
-30
-00:04:02,067 --> 00:04:04,067
+
+
 I promise you.
 
-31
-00:04:04,907 --> 00:04:05,907
+
+
 <i>Thanks</i>
 
-32
-00:04:06,007 --> 00:04:08,927
+
+
 I'm just going to give
 you a few simple tests.
 
-33
-00:04:09,027 --> 00:04:11,727
+
+
 I want you to keep
 your eyes on me.
 
-34
-00:04:11,827 --> 00:04:13,827
+
+
 Good. You understand.
 
-35
-00:04:15,347 --> 00:04:18,464
+
+
 <i>Yes, Yes.</i>
 
-36
-00:04:23,387 --> 00:04:28,256
+
+
 When I say blink, please blink.
 
-37
-00:04:33,387 --> 00:04:35,387
+
+
 Excellent.
 
-38
-00:04:37,067 --> 00:04:39,376
+
+
 Now, tell me your name.
 
-39
-00:04:41,107 --> 00:04:42,480
+
+
 <i>Jean-Dominique Bauby.</i>
 
-40
-00:04:42,580 --> 00:04:44,767
+
+
 Come on, try hard, say your name.
 
-41
-00:04:44,867 --> 00:04:48,462
+
+
 <i>I did.</i>
 - Try saying your name.
 
-42
-00:04:48,667 --> 00:04:49,847
+
+
 <i>Jean-Dominique Bauby.</i>
 
-43
-00:04:49,947 --> 00:04:53,701
+
+
 Try saying your children's names.
 
-44
-00:04:55,387 --> 00:04:58,618
+
+
 <i>Théophile, Céleste, Hortense.</i>
 
-45
-00:05:01,547 --> 00:05:03,822
+
+
 All right, don't worry.
 
-46
-00:05:04,027 --> 00:05:08,498
+
+
 It's a slow process.
 Your speech will come back.
 
-47
-00:05:08,707 --> 00:05:13,303
+
+
 <i>What? Can't you hear me, 
 Doctor? Doctor?</i>
 
-48
-00:05:13,507 --> 00:05:16,658
+
+
 <i>Oh, Christ. I can't speak.</i>
 
-49
-00:05:16,867 --> 00:05:19,984
+
+
 <i>They can't hear me.</i>
 
-50
-00:05:21,227 --> 00:05:23,087
+
+
 <i>I can't speak.</i>
 
-51
-00:05:23,187 --> 00:05:25,382
+
+
 <i>What's happened to me?</i>
 
-52
-00:05:27,267 --> 00:05:30,020
+
+
 <i>My name is
 Jean-Dominique Bauby.</i>
 
-53
-00:05:30,227 --> 00:05:32,227
+
+
 <i>Doctor?</i>
 
-54
-00:05:33,067 --> 00:05:35,067
+
+
 <i>It's okay, okay.</i>
 
-55
-00:05:35,547 --> 00:05:37,497
+
+
 <i>All right, I've had a
 stroke - my speech...</i>
 
-56
-00:05:37,597 --> 00:05:39,407
+
+
 <i>will come back. My
 memory will come back</i>
 
-57
-00:05:39,507 --> 00:05:43,767
+
+
 It will take some time, Mr Bauby.
 We will take care of you.
 
-58
-00:05:43,867 --> 00:05:45,867
+
+
 <i>I'll be patient</i>
 
-59
-00:05:47,187 --> 00:05:49,187
+
+
 <i>Okay...</i>
 
-60
-00:05:49,507 --> 00:05:51,507
+
+
 <i>I believe you.</i>
 
-61
-00:06:02,947 --> 00:06:05,586
+
+
 <i>Who brought the flowers?</i>
 
-62
-00:06:07,067 --> 00:06:09,067
+
+
 <i>Roses.</i>
 
-63
-00:06:10,067 --> 00:06:13,423
+
+
 <i>Click, click...</i>
 
-64
-00:06:23,987 --> 00:06:25,987
+
+
 <i>Inès.</i>
 
-65
-00:06:38,627 --> 00:06:40,697
+
+
 How did you sleep?
 
-66
-00:06:43,947 --> 00:06:44,947
+
+
 Now let's see...
 
-67
-00:06:56,147 --> 00:06:58,689
+
+
 This morning you have
 an important visitor.
 
-68
-00:06:58,789 --> 00:07:00,607
+
+
 Dr. Lepage, your neurologist...
 
-69
-00:07:00,707 --> 00:07:03,087
+
+
 so we want you at your best.
 
-70
-00:07:19,407 --> 00:07:21,445
+
+
 <i>If I could only be that frog.</i>
 
-71
-00:07:31,187 --> 00:07:34,672
+
+
 Hello. My name is Alain Lepage, 
 I'm your neurologist.
 
-72
-00:07:34,772 --> 00:07:35,567
+
+
 You know Dr. Cocheton.
 
-73
-00:07:35,667 --> 00:07:37,387
+
+
 Jean-Dominique... No.
 Your friends call...
 
-74
-00:07:37,487 --> 00:07:38,487
+
+
 you Jean-Do...
 
-75
-00:07:38,587 --> 00:07:40,069
+
+
 so that is how I will address you.
 
-76
-00:07:40,169 --> 00:07:41,967
+
+
 I want you to think
 of me as your friend,
 
-77
-00:07:42,067 --> 00:07:43,607
+
+
 <i>Just be my doctor.</i>
 
-78
-00:07:43,707 --> 00:07:48,223
+
+
 Jean-Do, 
 I know how difficult this is for you.
 
-79
-00:07:49,867 --> 00:07:52,764
+
+
 No one has told you the extent of...
 
-80
-00:07:52,864 --> 00:07:56,689
+
+
 your condition. That is
 my job...yes, my job.
 
-81
-00:07:56,827 --> 00:08:01,696
+
+
 You've had what we call a 
 cerebrovascular accident.
 
-82
-00:08:02,867 --> 00:08:05,647
+
+
 It has put your brain
 stem out of action.
 
-83
-00:08:05,747 --> 00:08:09,233
+
+
 The brain stem is an
 essential component...
 
-84
-00:08:09,333 --> 00:08:11,628
+
+
 of our internal computer...
 
-85
-00:08:11,707 --> 00:08:14,367
+
+
 the link between the
 brain and the spinal cord.
 
-86
-00:08:14,467 --> 00:08:17,474
+
+
 In the past, we would have
 said you suffered ...
 
-87
-00:08:17,574 --> 00:08:20,007
+
+
 a massive near-fatal stroke.
 
-88
-00:08:20,107 --> 00:08:26,080
+
+
 But now with some improved techniques...
 
-89
-00:08:26,187 --> 00:08:29,082
+
+
 we're able to prolong life.
 
-90
-00:08:29,107 --> 00:08:31,307
+
+
 <i>Is this life? Is this life?</i>
 
-91
-00:08:32,787 --> 00:08:34,381
+
+
 Yes, prolong life.
 
-92
-00:08:37,347 --> 00:08:39,762
+
+
 I'm not going to mince words.
 
-93
-00:08:39,862 --> 00:08:42,837
+
+
 You are paralyzed
 from head to toe.
 
-94
-00:08:43,667 --> 00:08:46,592
+
+
 And, as you now
 must have realized,
 
-95
-00:08:46,692 --> 00:08:48,732
+
+
 you are unable to speak.
 
-96
-00:08:50,267 --> 00:08:54,687
+
+
 The name for your condition
 is...
 
-97
-00:08:55,707 --> 00:08:57,777
+
+
 'locked-in syndrome'.
 
-98
-00:09:00,067 --> 00:09:03,218
+
+
 <i>'locked-in syndrome'.</i>
 
-99
-00:09:06,147 --> 00:09:11,607
+
+
 It will be of no comfort to you but
 your condition is extremely rare.
 
-100
-00:09:11,707 --> 00:09:14,527
+
+
 And we simply don't know the 
 cause of it.
 
-101
-00:09:14,627 --> 00:09:17,087
+
+
 You do not smoke, you
 drink with moderation...
 
-102
-00:09:17,187 --> 00:09:19,927
+
+
 So, I'm afraid it's just
 without explanation.
 
-103
-00:09:20,027 --> 00:09:25,499
+
+
 However, apart from being
 totally paralyzed...
 
-104
-00:09:25,707 --> 00:09:28,607
+
+
 we believe you are normal
 in every other respect.
 
-105
-00:09:28,707 --> 00:09:31,257
+
+
 <i>Normal?</i>
 - So there is hope.
 
-106
-00:09:32,147 --> 00:09:35,292
+
+
 We know you have
 good brain function.
 
-107
-00:09:35,347 --> 00:09:36,886
+
+
 You're able to understand us.
 
-108
-00:09:36,986 --> 00:09:39,127
+
+
 You follow our movements
 with your eyes.
 
-109
-00:09:39,227 --> 00:09:42,627
+
+
 But I'm not content
 with your right eye.
 
-110
-00:09:44,587 --> 00:09:47,659
+
+
 That muscle isn't working well.
 
-111
-00:09:48,907 --> 00:09:51,546
+
+
 And there is no irrigation.
 
-112
-00:09:53,467 --> 00:09:56,504
+
+
 We may need to cover it ...or not.
 
-113
-00:09:56,707 --> 00:09:58,707
+
+
 <i>Cover it?</i>
 
-114
-00:09:59,387 --> 00:10:02,857
+
+
 <i>What is covered?</i>
 
-115
-00:10:04,447 --> 00:10:06,946
+
+
 I may need a second
 opinion on that...
 
-116
-00:10:07,046 --> 00:10:09,881
+
+
 We want you to take it
 easy for a few days.
 
-117
-00:10:09,981 --> 00:10:11,804
+
+
 <i>What do you think I'm doing now?</i>
 
-118
-00:10:11,904 --> 00:10:14,487
+
+
 Very soon two beautiful
 women will visit you.
 
-119
-00:10:14,587 --> 00:10:17,835
+
+
 I envy you because
 when I say beautiful,
 
-120
-00:10:17,935 --> 00:10:19,287
+
+
 I mean beautiful.
 
-121
-00:10:19,387 --> 00:10:24,415
+
+
 They're therapists and
 they're miracle workers.
 
-122
-00:10:24,627 --> 00:10:28,859
+
+
 And so, as I say, there's hope.
 
-123
-00:10:29,747 --> 00:10:31,487
+
+
 <i>You already said that.</i>
 
-124
-00:10:31,587 --> 00:10:34,181
+
+
 I'll come again, soon.
 
-125
-00:10:34,387 --> 00:10:38,245
+
+
 <i>How nice. Leave.</i>
 You will be well looked after.
 
-126
-00:10:40,033 --> 00:10:43,933
+
+
 <i>Oh Christ. 
 Noirtier de Villefort...</i>
 
-127
-00:11:29,227 --> 00:11:31,227
+
+
 Hello.
 
-128
-00:11:36,227 --> 00:11:36,760
+
+
 Hello.
 
-129
-00:11:37,587 --> 00:11:39,987
+
+
 <i>I'm dead and I've gone to heaven.</i>
 
-130
-00:11:40,087 --> 00:11:40,887
+
+
 I'm Henriette.
 
-131
-00:11:40,987 --> 00:11:42,127
+
+
 I'm Marie.
 
-132
-00:11:42,387 --> 00:11:45,127
+
+
 I'm told you can blink your eyes.
 
-133
-00:11:45,227 --> 00:11:49,222
+
+
 I want you to blink once for yes, 
 twice for no.
 
-134
-00:11:49,747 --> 00:11:54,407
+
+
 <i>What luck. I've got these two 
 by my bed and I'm helpless.</i>
 
-135
-00:11:54,507 --> 00:11:56,887
+
+
 Can you read what this says?
 
-136
-00:12:00,067 --> 00:12:02,127
+
+
 Good.
 - <i> Are you married?</i>
 
-137
-00:12:02,227 --> 00:12:05,887
+
+
 I'm the Physical Therapist, and my
 job is to get you to swallow.
 
-138
-00:12:05,987 --> 00:12:09,387
+
+
 I'll be working on
 your tongue and lips.
 
-139
-00:12:09,547 --> 00:12:12,047
+
+
 <i>Sounds fun.</i>
 - And I'm the Speech Therapist...
 
-140
-00:12:12,147 --> 00:12:14,785
+
+
 We need to find a way for you
 to communicate...
 
-141
-00:12:14,885 --> 00:12:17,127
+
+
 until you can speak again.
 
-142
-00:12:17,227 --> 00:12:20,039
+
+
 Honestly, We have never treated 
 this condition.
 
-143
-00:12:20,139 --> 00:12:20,867
+
+
 <i>Great.</i>
 
-144
-00:12:20,967 --> 00:12:24,447
+
+
 There will be much work.
 - So, we won't waste time.
 
-145
-00:12:24,547 --> 00:12:29,063
+
+
 I just came to introduce
 myself. See you later.
 
-146
-00:12:30,307 --> 00:12:32,307
+
+
 <i>See you later.</i>
 
-147
-00:12:41,267 --> 00:12:43,267
+
+
 Jean-Do, I want you to know...
 
-148
-00:12:44,267 --> 00:12:47,807
+
+
 this is the most important job I've 
 ever undertaken.
 
-149
-00:12:47,907 --> 00:12:51,087
+
+
 And I'm determined to succeed.
 
-150
-00:12:51,187 --> 00:12:53,187
+
+
 With your help, of course.
 
-151
-00:12:54,387 --> 00:12:59,657
+
+
 We're going to start by asking
 some more questions.
 
-152
-00:13:00,427 --> 00:13:01,847
+
+
 Okay?
 
-153
-00:13:01,947 --> 00:13:05,378
+
+
 Remember, you answer by blinking,
 once for yes...
 
-154
-00:13:05,478 --> 00:13:07,478
+
+
 or twice for no.
 
-155
-00:13:09,547 --> 00:13:11,547
+
+
 Am I a man?
 
-156
-00:13:11,907 --> 00:13:13,907
+
+
 Am I a woman?
 
-157
-00:13:16,307 --> 00:13:18,307
+
+
 Is the sun too bright for you?
 
-158
-00:13:20,987 --> 00:13:22,987
+
+
 Is it midnight now?
 
-159
-00:13:22,987 --> 00:13:26,812
+
+
 <i>Strange questions.</i>
 - Are we in Paris?
 
-160
-00:13:28,907 --> 00:13:30,907
+
+
 Are we in Berck?
 
-161
-00:13:31,147 --> 00:13:34,503
+
+
 Does wood float on water?
 - <i>What do you think.</i>
 
-162
-00:13:35,347 --> 00:13:38,492
+
+
 do you remember having your stroke?
 
-163
-00:13:39,267 --> 00:13:41,906
+
+
 Were you the editor of Elle magazine?
 
-164
-00:13:42,627 --> 00:13:45,664
+
+
 <i>I was the editor-in-chief of Elle magazine.</i>
 
-165
-00:14:23,947 --> 00:14:25,767
+
+
 Your right eye isn't working properly.
 
-166
-00:14:25,867 --> 00:14:27,867
+
+
 Did you hear me?
 
-167
-00:14:27,947 --> 00:14:32,452
+
+
 Your right eye isn't working.
 I have to sew it up.
 
-168
-00:14:33,027 --> 00:14:35,492
+
+
 <i>Sew it up?</i>
 - It will be alright.
 
-169
-00:14:36,992 --> 00:14:39,847
+
+
 It will prevent an ulcerated cornea.
 
-170
-00:14:40,667 --> 00:14:43,899
+
+
 I would have been here sooner,
 but I've been skiing.
 
-171
-00:14:43,999 --> 00:14:45,999
+
+
 St. Moritz is wonderful this time of year.
 
-172
-00:14:46,107 --> 00:14:47,347
+
+
 <i>You fool.</i>
 
-173
-00:14:47,547 --> 00:14:52,087
+
+
 There is nothing like sailing down
 a slope with the wind in your face.
 
-174
-00:14:52,187 --> 00:14:53,847
+
+
 <i>Don't come near me.</i>
 
-175
-00:14:53,947 --> 00:14:56,412
+
+
 <i>Don't touch me.</i>
 
-176
-00:14:56,587 --> 00:14:59,567
+
+
 <i>Please, no.</i>
 
-177
-00:14:59,667 --> 00:15:04,007
+
+
 <i>No, Doctor. Please.</i>
 
-178
-00:15:04,107 --> 00:15:09,261
+
+
 <i>No, please don't . God, please. 
 Don't do it.</i>
 
-179
-00:15:10,227 --> 00:15:13,202
+
+
 I have done it a thousand times.
 
-180
-00:15:24,707 --> 00:15:26,527
+
+
 Don't worry.
 
-181
-00:15:26,627 --> 00:15:30,381
+
+
 I am almost done.  Almost...
 
-182
-00:15:30,587 --> 00:15:34,375
+
+
 Very good.
 
-183
-00:15:35,067 --> 00:15:37,067
+
+
 There. Finished.
 
-184
-00:15:43,627 --> 00:15:47,527
+
+
 We're here to dress you.
 Good for the morale.
 
-185
-00:15:47,627 --> 00:15:48,942
+
+
 Then we have a surprise.
 
-186
-00:16:16,987 --> 00:16:20,252
+
+
 Good. Now try him in the wheelchair.
 
-187
-00:16:25,387 --> 00:16:26,387
+
+
 Great.
 
-188
-00:16:28,067 --> 00:16:31,424
+
+
 Wheel him around, will you?
 
-189
-00:16:32,524 --> 00:16:33,524
+
+
 Turn.
 
-190
-00:16:34,547 --> 00:16:37,547
+
+
 I want to be sure that sitting like that...
 
-191
-00:16:37,647 --> 00:16:40,607
+
+
 won't trigger uncontrolled muscular spasms.
 
-192
-00:16:41,007 --> 00:16:42,127
+
+
 Understand?
 - Yes.
 
-193
-00:16:42,387 --> 00:16:46,347
+
+
 He needs a cushion for his head.
 - Sorry bear with us.
 
-194
-00:16:47,347 --> 00:16:48,699
+
+
 Excellent, excellent.
 
-195
-00:16:49,227 --> 00:16:52,047
+
+
 You can handle the wheelchair.
 
-196
-00:16:52,147 --> 00:16:55,256
+
+
 <i>Excellent? This sounds like a 
 life sentence.</i>
 
-197
-00:16:56,907 --> 00:16:58,907
+
+
 And now for the surprise.
 
-198
-00:17:11,427 --> 00:17:13,685
+
+
 <i>Oh my God, who's that?</i>
 
-199
-00:17:13,827 --> 00:17:14,885
+
+
 <i>Is it me?</i>
 
-200
-00:17:16,467 --> 00:17:18,860
+
+
 <i>I look as if I was submerged...</i>
 
-201
-00:17:18,960 --> 00:17:20,960
+
+
 <i>in a vat of formaldehyde.</i> 
 
-202
-00:17:22,147 --> 00:17:24,147
+
+
 <i>How terrible.</i>
 
-203
-00:17:25,347 --> 00:17:28,384
+
+
 <i>Is this my surprise? 
 To see myself</i>
 
-204
-00:17:41,947 --> 00:17:43,947
+
+
 <i>Céline.</i>
 
-205
-00:17:50,907 --> 00:17:54,377
+
+
 How are you? I better explain.
 
-206
-00:17:55,307 --> 00:17:59,607
+
+
 Isn't this a wonderful surprise, Jean-Do?
 Your first visitor. Your wife.
 
-207
-00:17:59,707 --> 00:18:03,217
+
+
 <i>She's not my wife. She's the 
 mother of my children.</i>
 
-208
-00:18:03,317 --> 00:18:05,703
+
+
 He understands everything. Everything.
 
-209
-00:18:06,867 --> 00:18:10,621
+
+
 If you ask a question, make it a 
 yes-or-no question.
 
-210
-00:18:10,827 --> 00:18:14,887
+
+
 He'll blink. Once for yes, twice for no.
 
-211
-00:18:16,547 --> 00:18:20,049
+
+
 It is important to speak to him...
 
-212
-00:18:20,149 --> 00:18:22,497
+
+
 here in front of him. Okay?
 
-213
-00:18:22,707 --> 00:18:26,727
+
+
 If you stand here, he can't see you...
 or over here.
 
-214
-00:18:26,827 --> 00:18:30,007
+
+
 Speak to him here. 
 Yes,Jean-Do?
 
-215
-00:18:30,107 --> 00:18:34,627
+
+
 I'll go. I'm sure you have a lot to 
 say to each other.
 
-216
-00:18:53,707 --> 00:18:56,175
+
+
 They say that you're...
 
-217
-00:18:59,027 --> 00:19:03,107
+
+
 Everyone prays for you and 
 hopes the bests for you.
 
-218
-00:19:04,267 --> 00:19:07,242
+
+
 I didn't bring the children.
 
-219
-00:19:07,267 --> 00:19:09,267
+
+
 I wanted to see you first.
 
-220
-00:19:10,267 --> 00:19:13,242
+
+
 The children are okay.
 They miss you.
 
-221
-00:19:14,307 --> 00:19:17,027
+
+
 Céleste prays every evening for you.
 
-222
-00:19:20,987 --> 00:19:22,987
+
+
 Do you want me to bring them?
 
-223
-00:19:24,627 --> 00:19:26,627
+
+
 You don't want to see them.
 
-224
-00:19:34,307 --> 00:19:37,667
+
+
 Laurent wants to visit.
 Do you want to see him?
 
-225
-00:19:39,307 --> 00:19:41,307
+
+
 Him? You want to see him.
 
-226
-00:19:42,427 --> 00:19:44,427
+
+
 I'll tell him.
 
-227
-00:20:05,947 --> 00:20:08,072
+
+
 Has she already visited you?
 
-228
-00:20:14,947 --> 00:20:18,772
+
+
 I've met the speech therapist.
 I like her.
 
-229
-00:20:19,507 --> 00:20:22,057
+
+
 She thinks that she can help you.
 
-230
-00:20:31,387 --> 00:20:32,618
+
+
 I beg you...
 
-231
-00:20:32,887 --> 00:20:35,318
+
+
 Please, don't cry.
 
-232
-00:20:40,507 --> 00:20:43,014
+
+
 <i>I know Berck station.</i>
 
-233
-00:20:43,114 --> 00:20:45,847
+
+
 <i>I can see it now.</i>
 
-234
-00:20:45,947 --> 00:20:48,487
+
+
 <i>It's the most depressing place 
 in the world.</i>
 
-235
-00:20:48,587 --> 00:20:53,087
+
+
 <i>It certainly was when I had
 holidays here as a boy.</i>
 
-236
-00:20:53,187 --> 00:20:55,907
+
+
 <i>The end of summer.</i>
 
-237
-00:20:56,027 --> 00:20:59,087
+
+
 <i>Waiting for the train to Paris 
 with my father.</i>
 
-238
-00:20:59,187 --> 00:21:04,202
+
+
 <i>It was desolate then... 
 and must feel more desolate now.</i>
 
-239
-00:21:05,147 --> 00:21:09,397
+
+
 <i>I have treated her so badly. 
 And the children too.</i>
 
-240
-00:21:11,427 --> 00:21:15,386
+
+
 <i>And now I can never make up for it.</i>
 
-241
-00:21:17,267 --> 00:21:18,847
+
+
 <i>Not at all.</i>
 
-242
-00:21:18,947 --> 00:21:20,947
+
+
 Look at this.
 
-243
-00:21:22,707 --> 00:21:26,143
+
+
 This is not the alphabet 
 you learned in school.
 
-244
-00:21:26,347 --> 00:21:31,507
+
+
 The letters are listed in the order 
 of the frequency of their use. Understand?
 
-245
-00:21:31,747 --> 00:21:36,343
+
+
 E, S, A, R, I, N, T,U,L,
 O,M,D,P,C,F....
 
-246
-00:21:38,147 --> 00:21:39,342
+
+
 <i>Frequency of use?</i>
 
-247
-00:21:44,427 --> 00:21:48,647
+
+
 I have done research, and
 discussed it with my colleagues...
 
-248
-00:21:48,747 --> 00:21:51,047
+
+
 in the hope we can create
 a working system.
 
-249
-00:21:51,147 --> 00:21:54,207
+
+
 <i>Good for you.</i>
 - This is how it works...
 
-250
-00:21:54,307 --> 00:21:58,152
+
+
 Think of  what you wish to say.
 then use blinks.
 
-251
-00:21:58,827 --> 00:22:03,184
+
+
 I will read out the letters slowly one by one.
 
-252
-00:22:03,387 --> 00:22:06,527
+
+
 When I say your first letter, blink.
 
-253
-00:22:06,627 --> 00:22:11,417
+
+
 I write it down, and we go to the
 next letter.
 
-254
-00:22:11,627 --> 00:22:14,687
+
+
 So we make words and phrases.
 
-255
-00:22:14,787 --> 00:22:18,727
+
+
 One more thing: 
 If a word is finished, give two blinks.
 
-256
-00:22:18,827 --> 00:22:24,437
+
+
 As if you were typing. 
 If I make the wrong letter, you blink rapidly.
 
-257
-00:22:25,147 --> 00:22:29,127
+
+
 It does not sound easy, but it will work.
 
-258
-00:22:29,227 --> 00:22:33,052
+
+
 Your friends and family will profit too.
 
-259
-00:22:33,067 --> 00:22:36,552
+
+
 Are you ready,Mr. Bauby? 
 Look at me.
 
-260
-00:22:37,587 --> 00:22:41,944
+
+
 Do you want to try? 
 You have something to say?
 
-261
-00:22:42,147 --> 00:22:43,847
+
+
 Very well.
 
-262
-00:22:43,947 --> 00:22:46,922
+
+
 Let's try it. 
 - <i> Wait, no...</i>
 
-263
-00:22:47,547 --> 00:22:50,607
+
+
 <i>Let me think what I will say.</i>
 - E.
 
-264
-00:22:50,907 --> 00:22:54,616
+
+
 Is E your first letter?
 - <i>No.</i>
 
-265
-00:22:54,827 --> 00:22:56,713
+
+
 E is not the first letter.
 
-266
-00:22:56,813 --> 00:22:59,087
+
+
 <i>I don't even know what to say.</i>
 
-267
-00:22:59,187 --> 00:23:03,522
+
+
 I know this is difficult. 
 We'll go slowly.
 
-268
-00:23:04,347 --> 00:23:07,578
+
+
 E, S, A...
 
-269
-00:23:15,027 --> 00:23:17,027
+
+
 <i>This goes too slow.</i>
 
-270
-00:23:17,947 --> 00:23:21,716
+
+
 <i>I can't keep my eye 
 open this long.</i>
 
-271
-00:23:21,816 --> 00:23:23,816
+
+
 <i>Hurry up.</i>
 
-272
-00:23:23,987 --> 00:23:25,987
+
+
 <i>I.</i>
 
-273
-00:23:28,827 --> 00:23:30,827
+
+
 I?
 - <i>Bravo.</i>
 
-274
-00:23:32,667 --> 00:23:34,667
+
+
 Is I your first letter?
 
-275
-00:23:34,667 --> 00:23:38,322
+
+
 <i>My first word is I. 
 I start with myself.</i>
 
-276
-00:23:38,347 --> 00:23:40,347
+
+
 E, S...
 
-277
-00:23:40,427 --> 00:23:41,767
+
+
 S?
 
-278
-00:23:41,867 --> 00:23:43,867
+
+
 <i>No.</i>
 - No?
 
-279
-00:23:44,067 --> 00:23:46,786
+
+
 Not S. 
 </i>That went too fast.</i>
 
-280
-00:23:50,747 --> 00:23:54,527
+
+
 <i>This will never work. Your idea 
 is a nightmare.</i>
 
-281
-00:23:54,627 --> 00:23:56,127
+
+
 Do we continue?
 
-282
-00:23:58,627 --> 00:23:01,627
+
+
 <i>Noirtier de Villefort</i>
 
-283
-00:24:03,787 --> 00:24:06,187
+
+
 <i>Just leave me alone.</i>
 
-284
-00:24:30,387 --> 00:24:33,857
+
+
 <i>Up, down, up.</i>
 
-285
-00:24:35,147 --> 00:24:37,147
+
+
 <i>Under my arms.</i>
 
-286
-00:24:38,147 --> 00:24:40,527
+
+
 <i>The back of my legs.</i>
 
-287
-00:24:41,387 --> 00:24:43,503
+
+
 <i>I am 42 years old...</i>
 
-288
-00:24:44,507 --> 00:24:47,992
+
+
 <i>and I'm handled like 
 a big baby.</i>
 
-289
-00:24:49,427 --> 00:24:53,261
+
+
 <i>My ass is washed and diapered.</i>
 
-290
-00:24:54,867 --> 00:24:57,077
+
+
 <i>It's simply laughable.</i>
 
-291
-00:24:58,587 --> 00:25:00,896
+
+
 <i>But as the poet said:</i>
 
-292
-00:25:01,107 --> 00:25:05,187
+
+
 <i>Only crazy people laugh 
 when there is nothing to laugh about.</i>
 
-293
-00:25:05,627 --> 00:25:07,662
+
+
  I want you to blow me a kiss.
 
-294
-00:25:07,767 --> 00:25:08,767
+
+
 <i>Say what?</i>
 
-295
-00:25:08,867 --> 00:25:10,867
+
+
 Go ahead.
 
-296
-00:25:11,627 --> 00:25:13,627
+
+
 Try it.
 
-297
-00:25:18,227 --> 00:25:20,227
+
+
 Go ahead.
 
-298
-00:25:21,547 --> 00:25:23,547
+
+
 Try.
 
-299
-00:25:23,827 --> 00:25:26,007
+
+
 It is difficult.
 - <i>Please, no mirror.</i>
 
-300
-00:25:26,107 --> 00:25:29,367
+
+
 You have to do this.
 - <i>Not that face.</i>
 
-301
-00:25:29,467 --> 00:25:32,953
+
+
 When you're resting or watching TV,
 
-302
-00:25:33,053 --> 00:25:35,542
+
+
 I want you to blow me kisses.
 
-303
-00:25:35,747 --> 00:25:37,747
+
+
 Okay?
 - <i>Yes.</i>
 
-304
-00:25:37,987 --> 00:25:41,047
+
+
 Another thing you should practice...
 
-305
-00:25:41,227 --> 00:25:43,937
+
+
 Is sliding your tongue...
 
-306
-00:25:44,037 --> 00:25:46,237
+
+
 to the back of your palate.
 
-307
-00:25:46,347 --> 00:25:50,499
+
+
 That's how you'll learn to swallow.
 Watch.
 
-308
-00:25:56,187 --> 00:25:59,077
+
+
 <i>God, this isn't fair. Not fair at all.</i>
 
-309
-00:26:06,827 --> 00:26:09,899
+
+
 Your turn.
 - <i>Away with that mirror.</i>
 
-310
-00:26:10,947 --> 00:26:12,947
+
+
 Open your mouth.
 
-311
-00:26:14,107 --> 00:26:15,447
+
+
 Good.
 
-312
-00:26:15,547 --> 00:26:19,457
+
+
 Try sliding your tongue backwards.
 
-313
-00:26:22,067 --> 00:26:24,607
+
+
 <i>I can't do it.</i>
 - Go on, try it.
 
-314
-00:26:24,707 --> 00:26:26,743
+
+
 <i>I can't do it.</i>
 
-315
-00:26:26,947 --> 00:26:29,327
+
+
 That's great. You moved your tongue.
 
 
-316
-00:26:29,427 --> 00:26:33,847
+
+
 <i>Don't make me do this, Dear.</i>
 - Do it again.
 
-317
-00:26:35,787 --> 00:26:40,019
+
+
 Incredible. It's good.
 - <i>It's weird.</i>
 
-318
-00:26:44,227 --> 00:26:48,664
+
+
 I will help you to move your head...
 Like this.
 
-319
-00:26:51,307 --> 00:26:54,219
+
+
 <i>You're doing it all.</i>
 - And left.
 
-320
-00:26:55,147 --> 00:26:57,147
+
+
 Very good.
 
-321
-00:26:57,187 --> 00:26:59,940
+
+
 Now right. Good.
 
-322
-00:27:02,227 --> 00:27:04,227
+
+
 And left again.
 
-323
-00:27:14,587 --> 00:27:17,545
+
+
 Do you feel my hands on your face?
 
-324
-00:27:17,747 --> 00:27:19,407
+
+
 <i>No.</i>
 
-325
-00:27:19,507 --> 00:27:22,397
+
+
 Never mind. You will.
 
-326
-00:27:25,787 --> 00:27:29,017
+
+
 We all feel honoured to have you here.
 
-327
-00:27:30,107 --> 00:27:34,272
+
+
 I'm a regular reader of Elle.
 I love it.
 
-328
-00:27:34,947 --> 00:27:38,517
+
+
 But I think all the models look
 like boys.
 
-329
-00:27:43,387 --> 00:27:47,297
+
+
 <i>Do you think?</i>
 - They are all becoming so thin.
 
-330
-00:27:48,867 --> 00:27:50,867
+
+
 A strange trend.
 
-331
-00:27:51,267 --> 00:27:53,303
+
+
 <i>She is so beautiful.</i>
 
-332
-00:27:55,187 --> 00:27:59,260
+
+
 I have a strong faith.
 I pray for you every day.
 
-333
-00:28:02,107 --> 00:28:04,254
+
+
 He can only see  with his right eye.
 
-334
-00:28:04,354 --> 00:28:06,447
+
+
 Look at him directly when you speak.
 
-335
-00:28:06,547 --> 00:28:08,547
+
+
 <i>Who is this?</i>
 
-336
-00:28:12,747 --> 00:28:15,747
+
+
 <i>Pierre Roussin.</i>
 - Hello.
 
-337
-00:28:17,787 --> 00:28:21,063
+
+
 Do you recognize me?
 - <i>Of course.</i>
 
-338
-00:28:21,267 --> 00:28:22,872
+
+
 He blinks once for yes...
 
-339
-00:28:22,972 --> 00:28:24,887
+
+
 <i>I never called him back.</i>
 
-340
-00:28:24,987 --> 00:28:28,302
+
+
 should I leave?  - No,no.
 - <i>Please stay.</i>
 
-341
-00:28:28,307 --> 00:28:31,087
+
+
 <i>Why haven't I called him back?</i>
 
-342
-00:28:31,187 --> 00:28:34,097
+
+
 I heard what had happened to you...
 
-343
-00:28:34,197 --> 00:28:35,397
+
+
 and I wanted...
 
-344
-00:28:35,987 --> 00:28:41,577
+
+
 No. I was compelled to come
 because of what happened to me.
 
-345
-00:28:43,307 --> 00:28:47,387
+
+
 In a way, I know what you're going through.
 
-346
-00:28:49,107 --> 00:28:53,312
+
+
 Being taken hostage is not so different...
 
-347
-00:28:53,412 --> 00:28:55,412
+
+
 from your situation.
 
-348
-00:28:56,347 --> 00:28:58,472
+
+
 You understand?
 - Hostage?
 
-349
-00:28:59,587 --> 00:29:04,487
+
+
 Jean-Dominique was kind enough
 to give me his seat on a plane.
 
-350
-00:29:04,587 --> 00:29:07,901
+
+
 The flight was hijacked and I...
 
-351
-00:29:08,001 --> 00:29:10,996
+
+
 became a hostage in Beirut. 4 years...
 
-352
-00:29:11,127 --> 00:29:14,745
+
+
 4 years,4 months, 
 2 weeks, 5 days...
 
-353
-00:29:14,845 --> 00:29:16,607
+
+
 and 7 hours.
 
-354
-00:29:16,707 --> 00:29:21,462
+
+
 I was held in a small, dark cellar.
 
-355
-00:29:21,667 --> 00:29:23,962
+
+
 It was hard to breathe.
 
-356
-00:29:24,947 --> 00:29:27,097
+
+
 I called it my tomb...
 
-357
-00:29:30,347 --> 00:29:35,944
+
+
 I know about wines.
 -  <i>What happened to his hands?</i>
 
-358
-00:29:36,147 --> 00:29:39,533
+
+
 Each day I recited aloud the classes...
 
-359
-00:29:39,633 --> 00:29:42,863
+
+
 of the best Bordeaux wines from 1855.
 
-360
-00:29:43,587 --> 00:29:48,687
+
+
 Château Margaux, Château 
 Lafite Rotschild, etc...
 
-361
-00:29:52,107 --> 00:29:56,102
+
+
 That kept me sane. 
 Or what passed for sanity.
 
-362
-00:29:59,947 --> 00:30:06,546
+
+
 Most of the time I was desperate, 
 suicidal and angry.
 
-363
-00:30:09,227 --> 00:30:12,740
+
+
 The beatings, the filth, the cruelty...
 
-364
-00:30:12,847 --> 00:30:17,342
+
+
 especially the waiting.
 That was the worst.
 
-365
-00:30:17,867 --> 00:30:19,867
+
+
 But I survived...
 
-366
-00:30:21,467 --> 00:30:23,963
+
+
 by keeping a grip...
 
-367
-00:30:24,063 --> 00:30:26,663
+
+
 on my own humanity.
 
-368
-00:30:30,547 --> 00:30:31,942
+
+
 I had no choice.
 
-369
-00:30:32,042 --> 00:30:35,842
+
+
 That's all I had... Just like you.
 
-370
-00:30:38,907 --> 00:30:45,176
+
+
 Cling to your own humanity and 
 you will survive.
 
-371
-00:30:46,147 --> 00:30:50,823
+
+
 <i>Humanity? Not easy.</i>
 - I had to come and say this to you.
 
-372
-00:30:51,787 --> 00:30:56,487
+
+
 <i>Why didn't I  call him 
 after he returned from Beruit?</i>
 
-373
-00:30:56,587 --> 00:30:58,327
+
+
 <i>I felt guilty.</i>
 
-374
-00:30:58,427 --> 00:31:03,432
+
+
 I had to tell you.
 - <i>I am ashamed of myself.</i>
 
-375
-00:31:14,747 --> 00:31:16,747
+
+
 V?
 
-376
-00:31:17,187 --> 00:31:19,187
+
+
 E?
 
-377
-00:31:19,787 --> 00:31:21,787
+
+
 I want?
 
-378
-00:31:22,267 --> 00:31:24,267
+
+
 What do you want , Mr Bauby?
 
-379
-00:31:34,587 --> 00:31:36,587
+
+
 M.
 
-380
-00:31:45,107 --> 00:31:47,107
+
+
 O.
 
-381
-00:31:56,307 --> 00:31:58,307
+
+
 U.
 
-382
-00:32:02,227 --> 00:32:04,502
+
+
 R. Mourir. To die.
 
-383
-00:32:05,547 --> 00:32:07,547
+
+
 You want to die?
 
-384
-00:32:09,547 --> 00:32:11,547
+
+
 How can you say that?
 
-385
-00:32:14,827 --> 00:32:18,567
+
+
 There are people who love you, 
 who care for you.
 
-386
-00:32:18,667 --> 00:32:22,047
+
+
 I hardly know you, but 
 I care for you already.
 
-387
-00:32:22,147 --> 00:32:25,007
+
+
 You're alive. So don't say
 that you want to die.
 
-388
-00:32:25,107 --> 00:32:27,487
+
+
 It's an offense. It's obscene.
 
-389
-00:32:32,867 --> 00:32:34,867
+
+
 Do you want to continue?
 
-390
-00:32:36,227 --> 00:32:38,227
+
+
 Very well.
 
-391
-00:32:39,067 --> 00:32:41,787
+
+
 I hope you will change your mind.
 
-392
-00:33:04,667 --> 00:33:06,703
+
+
 I apologize.
 
-393
-00:33:15,387 --> 00:33:18,265
+
+
 <i>Why?
 - I went too far.</i>
 
-394
-00:33:22,347 --> 00:33:24,347
+
+
 Rest well.
 
-395
-00:33:38,067 --> 00:33:39,257
+
+
 Do you like it.
 
-396
-00:33:39,357 --> 00:33:42,007
+
+
 I didn't really know what to bring.
 
-397
-00:33:42,107 --> 00:33:44,827
+
+
 I also brought this.
 
-398
-00:33:44,927 --> 00:33:48,860
+
+
 One moment
 -<i>What are you doing?</i>
 
-399
-00:33:49,227 --> 00:33:51,227
+
+
 <i>What is that?</i>
 
-400
-00:33:51,267 --> 00:33:55,347
+
+
 <i>Oh no.
 I will look like a rabbit.</i>
 
-401
-00:33:56,587 --> 00:33:58,947
+
+
 I'll read the letters and you blink.
 
-402
-00:33:59,047 --> 00:34:00,047
+
+
 Okay?
 
-403
-00:34:00,147 --> 00:34:02,147
+
+
 <i>Just leave.</i>
 - Okay?
 
-404
-00:34:06,667 --> 00:34:09,135
+
+
 S or A?
 - <i>You chose.</i>
 
-405
-00:34:09,347 --> 00:34:13,260
+
+
 A.
 - <i>Okay then, A.</i>
 
-406
-00:34:20,147 --> 00:34:22,147
+
+
 N?
 
-407
-00:34:22,347 --> 00:34:24,347
+
+
 <i>Okay, N.</i>
 
-408
-00:34:25,667 --> 00:34:27,667
+
+
 <i>Anna.</i>
 
-409
-00:34:30,587 --> 00:34:32,967
+
+
 <i>You must look at me, Laurent.</i>
 - Sorry.
 
 
-410
-00:34:33,067 --> 00:34:35,230
+
+
 I forgot to look at you.
 
-411
-00:34:35,330 --> 00:34:38,047
+
+
 Sorry, I'll start again. Slower.
 
-412
-00:34:38,147 --> 00:34:40,297
+
+
 <i>Whatever...</i>
 
-413
-00:34:47,747 --> 00:34:49,167
+
+
 <i>Too funny.</i>
 
-414
-00:34:49,267 --> 00:34:52,225
+
+
 I've never been a good hospital visitor.
 
-415
-00:34:52,387 --> 00:34:54,700
+
+
 I usually brings grapes and then 
 eat them.
 
-416
-00:34:54,800 --> 00:34:55,807
+
+
 This is aweful.
 
-417
-00:34:55,907 --> 00:34:57,687
+
+
 Why did this happen to you?
 
-418
-00:34:57,787 --> 00:35:01,247
+
+
 You hear people talking.
 Yesterday in Cafe de Flore...
 
-419
-00:35:01,347 --> 00:35:04,201
+
+
 Someone said,
 'Did you know that ...
 
-420
-00:35:04,301 --> 00:35:06,767
+
+
 Jean-Do is now a 
 complete vegetable?'
 
-421
-00:35:06,867 --> 00:35:09,347
+
+
 <i>Vegtable?</i>
 - He can't see you there.
 
-422
-00:35:09,447 --> 00:35:11,807
+
+
 <i>Who said that?</i>
 
-423
-00:35:11,907 --> 00:35:16,822
+
+
 <i>Am I a carrot, a potato, 
 a Kosher pickle?</i>
 
-424
-00:35:19,907 --> 00:35:24,222
+
+
 <i>Yes, go. Go on. Leave the carrot.</i>
 
-425
-00:36:16,007 --> 00:36:20,622
+
+
 <i>Noirtier de Villefort</i>
 
-426
-00:36:29,907 --> 00:36:31,963
+
+
 <i>Today my whole life seems like...</i>
 
-427
-00:36:32,063 --> 00:36:35,293
+
+
 <i>nothing but a  chain of small failures.</i>
 
-428
-00:36:36,507 --> 00:36:39,454
+
+
 <i>The women I was unable to love...</i>
 
-429
-00:36:39,554 --> 00:36:41,527
+
+
 <i>the opportunities missed...</i>
 
-430
-00:36:41,627 --> 00:36:45,567
+
+
 <i>moments of chance that I 
 let escape.</i>
 
-431
-00:36:45,667 --> 00:36:48,447
+
+
 <i>A race whose result I knew 
 in advance...</i>
 
-432
-00:36:48,547 --> 00:36:52,202
+
+
 <i>but in which I never made a bet 
 on the winner.</i>
 
-433
-00:36:53,587 --> 00:36:55,712
+
+
 <i>Was I blind or deaf?</i>
 
-434
-00:36:55,907 --> 00:36:58,195
+
+
 <i>Or did I need a disaster...</i>
 
-435
-00:36:58,295 --> 00:37:02,845
+
+
 <i> to see the truth 
 about myself.</i>
 
-436
-00:37:09,267 --> 00:37:11,267
+
+
 I'm still here.
 
-437
-00:37:14,787 --> 00:37:17,422
+
+
 Are you feeling more co-operative?
 
-438
-00:37:23,187 --> 00:37:25,187
+
+
 Good.
 
-439
-00:37:25,667 --> 00:37:28,367
+
+
 We're going to master this.
 
-440
-00:37:28,467 --> 00:37:30,697
+
+
 Are you ready?
 - <i>Yes, Teacher.</i>
 
-441
-00:37:30,867 --> 00:37:32,867
+
+
 Very well.
 
-442
-00:37:33,187 --> 00:37:35,187
+
+
 I'll begin.
 
-443
-00:37:47,667 --> 00:37:49,667
+
+
 M?
 
-444
-00:37:51,427 --> 00:37:53,427
+
+
 E?
 
-445
-00:37:56,667 --> 00:37:58,667
+
+
 R?
 
-446
-00:38:05,027 --> 00:38:07,541
+
+
 C? Merci?
 
-447
-00:38:08,467 --> 00:38:10,467
+
+
 Thank you?
 
-448
-00:38:10,947 --> 00:38:12,947
+
+
 Thank you.
 
-449
-00:38:13,467 --> 00:38:16,447
+
+
 May I call you Jean-Do??
 - <i>Women are so uncomplicated.</i>
 
-450
-00:38:16,547 --> 00:38:18,547
+
+
 Thank you, Jean-Do.
 
-451
-00:38:29,747 --> 00:38:31,747
+
+
 J?
 
-452
-00:38:35,667 --> 00:38:37,667
+
+
 A? I have?
 
-453
-00:38:37,867 --> 00:38:42,965
+
+
 <i>I have decided not to pity 
 myself any longer.</i>
 
-454
-00:38:46,087 --> 00:38:51,487
+
+
 <i>Two of my parts other than 
 my right eye are not paralyzed.</i>
 
-455
-00:38:51,987 --> 00:38:53,787
+
+
 <i>My imagination...</i>
 
-456
-00:38:54,947 --> 00:38:56,947
+
+
 <i>and my memory.</i>
 
-457
-00:39:09,907 --> 00:39:13,934
+
+
 <i>Imagination and memory are what
  I must use....</i>
 
-458
-00:39:14,134 --> 00:39:16,139
+
+
 <i>to escape my diving bell.</i>
 
-459
-00:39:39,387 --> 00:39:43,699
+
+
 <i>I have realized I can imagine
 anything, anyone, anywhere.</i>
 
-460
-00:39:50,867 --> 00:39:54,007
+
+
 <i>I can feel the waves caress 
 me on the Isle of Martinique.</i>
 
-461
-00:39:55,107 --> 00:39:57,742
+
+
 <i>I can visit the women I love....</i>
 
-462
-00:40:06,107 --> 00:40:08,437
+
+
 <i>Bow down before...</i>
 
-463
-00:40:08,537 --> 00:40:11,512
+
+
 <i>Ozymandias, king of kings.</i>
 
-464
-00:40:15,947 --> 00:40:18,415
+
+
 <i>I can imagine anything at all.</i>
 
-465
-00:40:19,187 --> 00:40:24,995
+
+
 <i>I make my childhood dreams live; or my 
 ambitions as an adult.</i>
 
-466
-00:40:25,147 --> 00:40:27,887
+
+
 <i>And now I choose to remember myself 
 as I was.</i>
 
-467
-00:40:27,987 --> 00:40:32,607
+
+
 <i>Handsome, debonair, glamorous,
 and devilishly attractive.</i>
 
-468
-00:40:32,707 --> 00:40:35,462
+
+
 <i>Yes. Glamorous and  handsome.</i>
 
-469
-00:40:35,562 --> 00:40:38,792
+
+
 <i>This about me...
 not Marlon Brando.</i>
 
-470
-00:40:38,795 --> 00:40:40,795
+
+
 <i>THIS IS ME.</i>
 
-471
-00:41:12,307 --> 00:41:16,302
+
+
 Is this Betty Mialet?
 - ' Yes, this is she '.
 
-472
-00:41:16,427 --> 00:41:21,421
+
+
 I am Henriette Durand,
 I'm a therapist at Berck sur Mer.
 
-473
-00:41:21,587 --> 00:41:25,567
+
+
 I'm calling on behalf of a patient,
 Jean-Dominique Bauby.
 
-474
-00:41:25,667 --> 00:41:28,386
+
+
 Jean-Do? How is he?
 
-475
-00:41:29,107 --> 00:41:32,487
+
+
 Okay, but...
 - I have heard that he was paralyzed...
 
-476
-00:41:32,587 --> 00:41:35,666
+
+
 ' he can't  communicate with anyone. '
 
-477
-00:41:35,766 --> 00:41:37,766
+
+
 That's not absolutely accurate
 
-478
-00:41:38,787 --> 00:41:39,927
+
+
 Come in.
 
-479
-00:41:40,027 --> 00:41:44,305
+
+
 I called  to ask if you could do 
 something for him.
 
-480
-00:41:44,467 --> 00:41:46,662
+
+
 Of course. One moment.
 
-481
-00:41:47,587 --> 00:41:49,007
+
+
 ' What does he want? '
 
-482
-00:41:49,107 --> 00:41:52,327
+
+
 He says that he has a book 
 contract with you.
 
-483
-00:41:52,427 --> 00:41:55,247
+
+
 He said...? I thought he couldn't speak?
 
-484
-00:41:55,347 --> 00:41:59,579
+
+
 He communicates. I will explain later.
 
-485
-00:41:59,787 --> 00:42:01,365
+
+
 About this book...
 
-486
-00:42:01,465 --> 00:42:04,247
+
+
 Yes, he has a contract with us,...
 
-487
-00:42:04,347 --> 00:42:08,247
+
+
 but now, given the circumstances...
 - He wants to do it.
 
-488
-00:42:08,347 --> 00:42:09,971
+
+
 To write the book.
 
-489
-00:42:10,071 --> 00:42:13,192
+
+
 ' I beg your pardon. 
 It's not possible. '
 
-490
-00:42:14,467 --> 00:42:17,017
+
+
 I assure you it is possible for him.
 
-491
-00:42:17,187 --> 00:42:23,899
+
+
 But, do you think you can find someone 
 to take his dictation?
 
-492
-00:42:24,107 --> 00:42:26,107
+
+
 Someone with patience.
 
-493
-00:42:26,787 --> 00:42:32,339
+
+
 Someone available each day. 
 A special someone.
 
-494
-00:42:32,547 --> 00:42:35,505
+
+
 I understand. I'll call you back.
 
-495
-00:42:37,067 --> 00:42:40,507
+
+
 Betty Mialet said Claude Mendibil 
 was sent from heaven...
 
-496
-00:42:40,607 --> 00:42:42,696
+
+
 perfect for this type of work.
 
-497
-00:42:42,907 --> 00:42:46,607
+
+
 Betty always exaggerates. I have to 
 practice first with Henriette.
 
-498
-00:42:46,707 --> 00:42:49,257
+
+
 No problem. It won't take long.
 
-499
-00:42:49,787 --> 00:42:51,787
+
+
 He wants to say something.
 
-500
-00:42:59,627 --> 00:43:01,627
+
+
 A?
 
-501
-00:43:15,347 --> 00:43:17,347
+
+
 Don't panic.
 
-502
-00:43:21,627 --> 00:43:24,108
+
+
 Claude has taken a room
 in Berck. You should...
 
-503
-00:43:24,208 --> 00:43:26,207
+
+
 make a schedule.
 
-504
-00:43:26,307 --> 00:43:32,257
+
+
 <i>The nurse wakes me at 5 a.m.,
 then I decide what I will write.</i>
 
-505
-00:43:32,467 --> 00:43:36,802
+
+
 <i>You can come at 8 and 
 I will dictate what I've prepared.</i>
 
-506
-00:43:37,507 --> 00:43:42,706
+
+
 Very well. I'll do my best.
 - <i>I'm sure of it.</i>
 
-507
-00:43:42,907 --> 00:43:46,392
+
+
 <i>Can we can start tomorrow?</i>
 - Yes sir.
 
-508
-00:44:15,787 --> 00:44:19,746
+
+
 <i>Behind?
 - Behind the frayed curtain of my window...</i>
 
-509
-00:44:19,907 --> 00:44:23,327
+
+
 <i>a pale glow announces the breaking of day.</i>
 
-510
-00:44:23,427 --> 00:44:26,967
+
+
 <i>My feet hurt, my head weighs a ton.</i>
 
-511
-00:44:27,067 --> 00:44:31,287
+
+
 <i>My body is a prisoner in
 this invisible diving-bell.</i>
 
-512
-00:44:31,387 --> 00:44:35,007
+
+
 <i>I compose these bed-ridden
 travel notes,...</i>
 
-513
-00:44:35,107 --> 00:44:38,847
+
+
 <i>...as a castaway on the shores 
 of lonliness.</i>
 
-514
-00:44:39,347 --> 00:44:44,872
+
+
 <i>This Hospital was once a home for 
 children with tuberculosis.</i>
 
-515
-00:44:46,147 --> 00:44:49,407
+
+
 <i>In the large hall stands a white marble bust of...</i>
 
-516
-00:44:49,507 --> 00:44:52,807
+
+
 <i>Empress Eugénie, the wife 
 of Napoleon III...</i>
 
-517
-00:44:52,907 --> 00:44:55,906
+
+
 <i>the founder of the hospital.</i>
 
-518
-00:44:56,006 --> 00:44:57,207
+
+
 <i>She came frequently.</i>
 
-519
-00:44:57,307 --> 00:45:01,283
+
+
 <i>It has been a fat farm, a school, a place...</i>
 
-520
-00:45:01,387 --> 00:45:05,167
+
+
 <i>where the great Diaghilev rehearsed
 his Ballet Russe.</i>
 
-521
-00:45:05,267 --> 00:45:08,231
+
+
 <i>It was here that Nijinsky reportedly...</i>
 
-522
-00:45:08,331 --> 00:45:11,306
+
+
 <i>leapt 12 feet into the air.</i>
 
-523
-00:45:13,867 --> 00:45:16,335
+
+
 <i>No one here now leaps in the air.</i>
 
-524
-00:45:16,547 --> 00:45:21,357
+
+
 <i>Now everyone here is elderly and weak, 
 or like me...</i>
 
-525
-00:45:21,457 --> 00:45:23,127
+
+
 <i>rigid and mute.</i>
 
-526
-00:45:23,227 --> 00:45:25,297
+
+
 <i>A battalion of cripples.</i>
 
-527
-00:45:28,507 --> 00:45:30,775
+
+
 <i>I enjoy being wheeled to a spot... </i>
 
-528
-00:45:30,875 --> 00:45:32,167
+
+
 <i>which I call Cinecittà .</i>
 
-529
-00:45:32,267 --> 00:45:35,687
+
+
 <i>A deserted terrace that opens 
 on a landscape...</i>
 
-530
-00:45:35,787 --> 00:45:39,867
+
+
 <i>that has a poetic charm like a movie set.</i>
 
-531
-00:45:40,107 --> 00:45:42,306
+
+
 <i>A handful of buildings at the...</i>
 
-532
-00:45:42,406 --> 00:45:46,727
+
+
 <i> foot of the dune look like a ghost town 
 in a Western.</i>
 
-533
-00:45:46,827 --> 00:45:49,807
+
+
 <i>When I see the suburbs of Berck,...</i>
 
-534
-00:45:49,907 --> 00:45:52,546
+
+
 <i>it's like a miniature train lay-out.</i>
 
-535
-00:45:54,027 --> 00:45:58,847
+
+
 <i>The white foam of the sea is almost
 created by special effects.</i>
 
-536
-00:45:58,947 --> 00:46:02,092
+
+
 <i>My favorite sight of all is the lighthouse.</i>
 
-537
-00:46:02,227 --> 00:46:07,242
+
+
 <i>Tall, robust, reassuring in 
 red and white stripes.</i>
 
-538
-00:46:07,547 --> 00:46:09,047
+
+
 <i>I accept the protection...</i>
 
-539
-00:46:09,147 --> 00:46:10,687
+
+
 <i>of this symbol of
 brotherhood...</i>
 
-540
-00:46:10,787 --> 00:46:12,907
+
+
 <i>guardian not only of sailors...</i>
 
-541
-00:46:13,007 --> 00:46:14,367
+
+
 <i>but of the sick whom...</i>
 
-542
-00:46:14,467 --> 00:46:17,367
+
+
 <i>fate has cast to the far edges of life.</i>
 
-543
-00:46:17,467 --> 00:46:20,717
+
+
 ' The two peaks of this mini museum:
 
-544
-00:46:20,817 --> 00:46:23,167
+
+
 the white marble bust...
 
-545
-00:46:23,267 --> 00:46:26,230
+
+
 which embodies the radiating youth...
 
-546
-00:46:26,330 --> 00:46:29,447
+
+
 of a princess who died at age 94;
 
-547
-00:46:29,547 --> 00:46:31,527
+
+
 ...and also her empire. '
 
-548
-00:46:31,627 --> 00:46:36,142
+
+
 <i>Five hours of work. Not too bad.</i>
 
-549
-00:46:39,347 --> 00:46:42,347
+
+
 <i> But, I'm no Balzac.</i>
 
-550
-00:46:43,027 --> 00:46:45,027
+
+
 Do I continue?
 
-551
-00:46:48,587 --> 00:46:50,178
+
+
 <i>I read Balzac.</i>
 
-552
-00:46:50,278 --> 00:46:54,107
+
+
 ' It was well to hear nothing.'
 - <i>Graham Greene.</i>
 
-553
-00:46:54,207 --> 00:46:56,807
+
+
 ' Then, incidentally, it became clear.'
 
-554
-00:46:56,907 --> 00:46:59,697
+
+
 ' Suddenly a policeman beat him. '
 
-555
-00:46:59,797 --> 00:47:02,976
+
+
 ' This was rather shocking to him. '
 
-556
-00:47:03,427 --> 00:47:06,387
+
+
 ' He belonged to the upper class which...
 
-557
-00:47:06,487 --> 00:47:08,887
+
+
 viewed the police as protection. '
 
-558
-00:47:08,987 --> 00:47:12,927
+
+
 ' I am 45, divorced,
 and I want to call the consulate...
 
-559
-00:47:13,027 --> 00:47:16,785
+
+
 regarding this policeman that 
 called me a pig...
 
-560
-00:47:16,885 --> 00:47:18,825
+
+
 and demand his passport. '
 
-561
-00:47:46,507 --> 00:47:49,992
+
+
 What's this?
 - Is it a man or a woman?
 
-562
-00:47:52,867 --> 00:47:56,522
+
+
 I think a man.
 - He winked at you.
 
-563
-00:47:58,907 --> 00:48:03,752
+
+
 Pardon, but you have ordered a phone
 with loud-spreakers?
 
-564
-00:48:09,107 --> 00:48:11,487
+
+
 Did  you order a telephone?
 
-565
-00:48:13,987 --> 00:48:15,987
+
+
 We can come back later.
 
-566
-00:48:17,627 --> 00:48:20,847
+
+
 What are you doing here?
 Who let you in?
 
-567
-00:48:20,947 --> 00:48:23,527
+
+
 We're from the telephone company.
 
-568
-00:48:23,627 --> 00:48:27,962
+
+
 Then you should check in at reception.
 - Nobody was there.
 
-569
-00:48:27,987 --> 00:48:31,220
+
+
 Then put it on the table, please.
 
-570
-00:48:37,747 --> 00:48:40,552
+
+
 Be careful, please.
 
-571
-00:48:41,747 --> 00:48:44,007
+
+
 We will tell your friends and family...
 
-572
-00:48:44,107 --> 00:48:46,367
+
+
 then they can arrange times to call.
 
-573
-00:48:46,467 --> 00:48:49,612
+
+
 We will be sure then that there is 
 someone with you.
 
-574
-00:48:54,307 --> 00:48:58,887
+
+
 Excuse me. Can't he talk?
 - Don't act like he's not here.
 
-575
-00:48:58,987 --> 00:49:01,057
+
+
 Do you have a question for him?
 
-576
-00:49:01,267 --> 00:49:03,267
+
+
 Excuse me. If he can't speak...
 
-577
-00:49:03,367 --> 00:49:05,247
+
+
 why does he want a phone?
 
-578
-00:49:05,347 --> 00:49:07,642
+
+
 Maybe he's a heavy breather.
 
-579
-00:49:10,867 --> 00:49:13,162
+
+
 Do you think you're funny?
 <i>Ha ha ha...</i>
 
-580
-00:49:15,107 --> 00:49:17,107
+
+
 How dare they.
 
-581
-00:49:18,147 --> 00:49:21,717
+
+
 <i>You have no sense of humor, Henriette.</i>
 
-582
-00:49:43,147 --> 00:49:46,632
+
+
 <i>A big black fly lands on my nose.</i>
 
-583
-00:49:47,267 --> 00:49:50,431
+
+
 <i>I twist my head to shake him off.</i>
 
-584
-00:49:50,531 --> 00:49:51,927
+
+
 <i>He just sits there.</i>
 
-585
-00:49:52,027 --> 00:49:54,127
+
+
 <i>Olympic wrestling is nothing in comparison.</i>
 
-586
-00:49:54,227 --> 00:49:57,967
+
+
 You moved your head. 
 When did you start that?
 
-587
-00:49:57,987 --> 00:49:59,987
+
+
 <i>Thank you.</i>
 
-588
-00:50:09,027 --> 00:50:10,567
+
+
 Now?
 
-589
-00:50:10,667 --> 00:50:13,527
+
+
 It's wonderful. You moved your head.
 
-590
-00:50:13,627 --> 00:50:15,598
+
+
 <i>Always Marie sees miracles.</i>
 
-591
-00:50:15,698 --> 00:50:18,567
+
+
 Dr. Lepage, he has moved his head.
 
-592
-00:50:18,667 --> 00:50:19,367
+
+
 Hello.
 
-593
-00:50:19,667 --> 00:50:21,667
+
+
 <i>A miracle: only one 'hello'.</i>
 
-594
-00:50:21,867 --> 00:50:24,642
+
+
 Progress. Progress.
 - <i>Ha. This is better.</i>
 
-595
-00:50:27,787 --> 00:50:31,612
+
+
 Show me your tongue.
 I'll open your mouth.
 
-596
-00:50:31,827 --> 00:50:35,103
+
+
 There.
 - He moved it a little.
 
-597
-00:50:35,267 --> 00:50:37,627
+
+
 Then his speech will begin to progress.
 
-598
-00:50:37,727 --> 00:50:40,087
+
+
 The tongue is essential.
 There is hope.
 
-599
-00:50:40,187 --> 00:50:42,496
+
+
 Great, this is terrific.
 
-600
-00:50:42,707 --> 00:50:47,212
+
+
 We will work very hard, so you 
 can begin to eat.
 
-601
-00:50:47,667 --> 00:50:51,247
+
+
 <i>A book does not exist until it is read.</i>
 
-602
-00:50:51,347 --> 00:50:54,070
+
+
 <i>I recall giving my father a shave.</i>
 
-603
-00:50:54,170 --> 00:50:56,487
+
+
 <i>I visited him one week before 
 my accident.</i>
 
-604
-00:50:56,587 --> 00:50:59,259
+
+
 <i>He was not well, so I spent the night...</i>
 
-605
-00:50:59,359 --> 00:51:01,367
+
+
 <i>in his apartment in Paris.</i>
 
-606
-00:51:01,467 --> 00:51:05,647
+
+
 <i>In the morning I shaved him.</i>
 - Leave me be.
 
-607
-00:51:05,747 --> 00:51:08,857
+
+
 Who cares if I am shaved or not?
 
-608
-00:51:08,957 --> 00:51:10,657
+
+
 I do.
 
-609
-00:51:11,427 --> 00:51:14,021
+
+
 I am terrified.
 - Of what?
 
-610
-00:51:15,107 --> 00:51:17,496
+
+
 Of you shaving me.
 
-611
-00:51:19,027 --> 00:51:22,727
+
+
 You were always so damned clumsy.
 - It runs in the family.
 
-612
-00:51:22,827 --> 00:51:24,407
+
+
 Yes.
 
-613
-00:51:24,507 --> 00:51:26,543
+
+
 Coffee?
 - No. No.
 
-614
-00:51:29,307 --> 00:51:31,281
+
+
 Don't tire him. He's not well.
 
-615
-00:51:31,381 --> 00:51:34,322
+
+
 How can a shave tire him?
 
-616
-00:51:40,107 --> 00:51:44,527
+
+
 Your mother was prettier.
 - That wouldn't be difficult.
 
-617
-00:51:44,627 --> 00:51:47,778
+
+
 Do you still think of your Mother?
 - Oh, that.
 
-618
-00:51:49,027 --> 00:51:53,902
+
+
 You always ask me that and I always
 say the same thing: ...not really.
 
-619
-00:51:57,427 --> 00:51:58,877
+
+
 What are you reading at the moment?
 
-620
-00:51:58,977 --> 00:52:02,626
+
+
 Re-reading. The Count of Monte Cristo.
 
-621
-00:52:02,787 --> 00:52:03,787
+
+
 Why?
 
-622
-00:52:03,887 --> 00:52:07,815
+
+
 I'm thinking of writing a modern version.
 
-623
-00:52:08,027 --> 00:52:11,002
+
+
 Of the Count of Monte Cristo?
 - Yes.
 
-624
-00:52:11,027 --> 00:52:15,225
+
+
 Vengeance will still be the 
 driving force...
 
-625
-00:52:15,327 --> 00:52:20,306
+
+
 but set in today's world, with the
 main character a woman.
 
-626
-00:52:22,787 --> 00:52:25,927
+
+
 <i>The Countess of Monte Cristo?
 - Yes, a woman.</i>
 
-627
-00:52:26,027 --> 00:52:28,045
+
+
 I don't want to read it.
 
-628
-00:52:28,145 --> 00:52:31,385
+
+
 I haven't written it yet.
 
-629
-00:52:32,427 --> 00:52:36,306
+
+
 I have a contract with a publisher.
 
-630
-00:52:39,987 --> 00:52:43,812
+
+
 If you cut me, I'll take you to court.
 
-631
-00:52:48,787 --> 00:52:52,496
+
+
 The doctor was here yesterday.
 - And?
 
-632
-00:52:53,347 --> 00:52:56,285
+
+
 He said that I would live to be 100.
 
-633
-00:52:56,385 --> 00:52:59,247
+
+
 Great. We can make a big celebration.
 
-634
-00:52:59,347 --> 00:53:03,959
+
+
 I won't attend.
 Who wants to live to be a hundred?
 
-635
-00:53:04,987 --> 00:53:08,377
+
+
 Jean-Do, Don't tell a soul.
 
-636
-00:53:09,427 --> 00:53:11,807
+
+
 I still miss your mother.
 
-637
-00:53:13,507 --> 00:53:18,182
+
+
 I won't tell. It will be our secret.
 
-638
-00:53:19,427 --> 00:53:22,076
+
+
 You should have married Céline.
 
-639
-00:53:22,176 --> 00:53:24,697
+
+
 What difference would it have made?
 
-640
-00:53:25,227 --> 00:53:29,209
+
+
 You wouldn't have left her so easily...
 
-641
-00:53:29,309 --> 00:53:30,767
+
+
 and your children.
 
-642
-00:53:30,867 --> 00:53:33,348
+
+
 Can we talk about this another time?
 
-643
-00:53:33,448 --> 00:53:35,367
+
+
 I know what I'm talking about.
 
-644
-00:53:35,467 --> 00:53:42,066
+
+
 No one had more affairs than I did.
 Well, perhaps Casanova.
 
-645
-00:53:42,227 --> 00:53:45,652
+
+
 An affair is not enough reason to leave...
 
-646
-00:53:45,752 --> 00:53:48,132
+
+
 the mother of your children.
 
-647
-00:53:48,227 --> 00:53:51,237
+
+
 There are no standards anymore.
 
-648
-00:53:51,337 --> 00:53:54,397
+
+
 It's not funny, it's true.
 
-649
-00:53:56,747 --> 00:54:00,527
+
+
 Bring your children to see me.
 Céline brings them.
 
-650
-00:54:00,627 --> 00:54:02,232
+
+
 You need to also.
 
-651
-00:54:02,332 --> 00:54:05,367
+
+
 Well, I've spent enough time 
 with this.
 
-652
-00:54:05,467 --> 00:54:07,935
+
+
 What's that?
 
-653
-00:54:08,107 --> 00:54:12,737
+
+
 Orange blossom.
 - Should I smell like a tart?
 
-654
-00:54:14,627 --> 00:54:16,902
+
+
 It's an aphrodisiac.
 
-655
-00:54:17,867 --> 00:54:21,518
+
+
 That will make the girls come running.
 
-656
-00:54:21,618 --> 00:54:25,057
+
+
 Certainly, if they had the chance 
 to smell you.
 
-657
-00:54:25,227 --> 00:54:27,946
+
+
 Let me look at myself.
 
-658
-00:54:41,867 --> 00:54:46,772
+
+
 Not bad. They don't make them 
 like me anymore.
 
-659
-00:55:02,147 --> 00:55:05,642
+
+
 I, I wanted to tell you something.
 - Eh?
 
-660
-00:55:06,307 --> 00:55:09,767
+
+
 I can't remember.
 - It will come back.
 
-661
-00:55:09,867 --> 00:55:11,287
+
+
 I'm not so sure.
 
-662
-00:55:11,387 --> 00:55:15,567
+
+
 Not much comes back anymore.
 - Don't exaggerate.
 
-663
-00:55:15,667 --> 00:55:18,977
+
+
 Oh, yes. I remember what I wanted 
 to tell you.
 
-664
-00:55:21,947 --> 00:55:26,179
+
+
 I am proud of you. 
 Really, very very proud.
 
-665
-00:55:30,427 --> 00:55:32,427
+
+
 And another thing...
 
-666
-00:55:38,307 --> 00:55:40,423
+
+
 I've forgotten.
 
-667
-00:55:40,627 --> 00:55:44,767
+
+
 <i>My father's approval. I found it 
 comforting then...</i>
 
-668
-00:55:44,867 --> 00:55:49,287
+
+
 <i>...and I find it even more so now. 
 We are all children.</i>
 
-669
-00:55:49,387 --> 00:55:52,362
+
+
 <i>We all need recognition.</i>
 
-670
-00:55:53,307 --> 00:55:55,457
+
+
 <i>I want to see my children.</i>
 
-671
-00:55:56,427 --> 00:55:58,552
+
+
 <i>I want to see my children.</i>
 
-672
-00:56:01,467 --> 00:56:05,585
+
+
 Here we are. It's Father's Day.
 
-673
-00:56:05,747 --> 00:56:08,056
+
+
 Happy Father's Day, Papa.
 
-674
-00:56:19,067 --> 00:56:22,247
+
+
 <i>Even a rough sketch, a shadow...</i>
 
-675
-00:56:22,347 --> 00:56:26,407
+
+
 <i>a tiny fragment of a dad is 
 still a dad.</i>
 
-676
-00:56:47,347 --> 00:56:50,460
+
+
 <i>Father's Day. My son wiping the 
 saliva that...</i>
 
-677
-00:56:50,560 --> 00:56:52,407
+
+
 <i>escapes my lips.</i>
 
-678
-00:56:52,507 --> 00:56:56,785
+
+
 <i>We never before celebrated 
 this farcical holiday.</i>
 
-679
-00:57:01,307 --> 00:57:04,822
+
+
 You cry because you did not...
 
-680
-00:57:05,027 --> 00:57:07,967
+
+
 marry with such a beautiful boy.
 
-681
-00:57:09,627 --> 00:57:12,807
+
+
 Claude says you make good 
 progress on the book.
 
-682
-00:57:12,907 --> 00:57:15,372
+
+
 It's fantastic that you're writing it.
 
-683
-00:57:15,667 --> 00:57:18,982
+
+
 You are the most wonderful man 
 that I know.
 
-684
-00:57:19,307 --> 00:57:21,432
+
+
 Have you had many visitors?
 
-685
-00:57:25,427 --> 00:57:27,427
+
+
 Laurent, Anne-Marie...
 
-686
-00:57:29,747 --> 00:57:31,747
+
+
 ...Michel...
 
-687
-00:57:32,147 --> 00:57:35,139
+
+
 Has she been? No, hmm?
 
-688
-00:57:37,667 --> 00:57:40,677
+
+
 Isn't she hopelessly in love
 with you?
 
-689
-00:57:40,777 --> 00:57:42,777
+
+
 Well, it's her business.
 
-690
-00:57:48,027 --> 00:57:50,577
+
+
 Should we practice the alphabet?
 
-691
-00:58:35,307 --> 00:58:38,487
+
+
 <i>' When I began a diet a week 
 before my stroke,...</i>
 
-692
-00:58:38,587 --> 00:58:42,137
+
+
 <i>I never dreamed of such dramatic 
 results.</i>
 
-693
-00:58:42,237 --> 00:58:45,797
+
+
 <i>This is radical.'</i>
 - You're crazy.
 
-694
-00:58:46,987 --> 00:58:51,228
+
+
 <i>'Now they know how it is 
 to have a zombie...</i>
 
-695
-00:58:51,328 --> 00:58:54,496
+
+
 <i>for a father. Thank you.'</i>
 
-696
-00:58:54,707 --> 00:58:55,967
+
+
 That's not nice.
 
-697
-00:58:56,067 --> 00:58:58,067
+
+
 Kids.
 
-698
-00:58:59,627 --> 00:59:01,837
+
+
 Do you want to play Hangman, Papa?
 
-699
-00:59:03,507 --> 00:59:06,142
+
+
 I'll help you. Whisper a word.
 
-700
-00:59:07,227 --> 00:59:10,407
+
+
 The first letter is C. The last is E.
 
-701
-00:59:10,507 --> 00:59:12,507
+
+
 There are 7 letters.
 
-702
-00:59:55,227 --> 00:59:59,982
+
+
 The kangaroo has leaped
 over the wall...
 
-703
-01:00:00,187 --> 01:00:02,621
+
+
 over the the wall of the zoo.
 
-704
-01:00:02,827 --> 01:00:07,662
+
+
 Oh my, he jumped so high.
 
-705
-01:00:07,867 --> 01:00:13,021
+
+
 Oh my, he was so beautiful.
 Oh my, he jumped so high.
 
-706
-01:00:13,187 --> 01:00:14,187
+
+
 That's all.
 
-707
-01:00:14,287 --> 01:00:17,092
+
+
 Says good-bye to Papa, Kids. 
 Let's go.
 
-708
-01:00:20,347 --> 01:00:22,347
+
+
 Bye, Papa.
 
-709
-01:00:29,627 --> 01:00:32,824
+
+
 Bye, Papa. Until next week.
 
-710
-01:00:58,947 --> 01:01:02,807
+
+
 <i>There are no words to express the
 grief that surges over me.</i>
 
-711
-01:01:02,907 --> 01:01:06,991
+
+
 <i>I, their father, can't even ruffle 
 their hair...</i>
 
-712
-01:01:07,091 --> 01:01:09,540
+
+
 <i>hug their necks...</i>
 
-713
-01:01:09,747 --> 01:01:13,367
+
+
 <i>or hold their warm bodies 
 against me.</i>
 
-714
-01:01:13,467 --> 01:01:17,764
+
+
 <i>However, I am happy to see them 
 living, moving...</i>
 
-715
-01:01:17,864 --> 01:01:19,864
+
+
 <i>and laughing.</i>
 
-716
-01:01:20,587 --> 01:01:23,499
+
+
 <i>I call that a beautiful day.</i>
 
-717
-01:01:27,867 --> 01:01:31,382
+
+
 <i>I'm feeling sorry for myself again.
 No?</i>
 
-718
-01:01:31,507 --> 01:01:33,632
+
+
 You were genuinely happy.
 
-719
-01:01:34,587 --> 01:01:36,587
+
+
 <i>You think?</i>
 
-720
-01:01:37,027 --> 01:01:39,027
+
+
 <i>Perhaps.</i>
 
-721
-01:01:45,547 --> 01:01:46,547
+
+
 <i>Make this kick.</i>
 
-722
-01:01:47,547 --> 01:01:49,620
+
+
 <i>Away from the T.V.</i>
 
-723
-01:01:52,327 --> 01:01:54,342
+
+
 <i>Oh, shit. Sheesh.</i>
 
-724
-01:01:54,442 --> 01:01:57,442
+
+
 See you later.
 - <i> Yeh. Later.</i>
 
-725
-01:01:58,242 --> 01:02:00,342
+
+
 <i>What are you doing?</i>
 
-726
-01:02:00,442 --> 01:02:02,242
+
+
 Oh, God.
 
-727
-01:02:05,047 --> 01:02:07,530
+
+
 <i>No T.V. dinner tonight.</i>
 
-728
-01:02:07,630 --> 01:02:10,520
+
+
 <i>Where will I dine this evening?</i>
 
-729
-01:02:11,467 --> 01:02:15,621
+
+
 <i>I want to treat myself to a feast...</i>
 
-730
-01:02:15,721 --> 01:02:17,721
+
+
 <i>at Le Duc.</i>
 
-731
-01:02:26,827 --> 01:02:31,139
+
+
 What a coincidence to find you here.
 - Isn't it incredible?
 
-732
-01:02:32,347 --> 01:02:34,347
+
+
 An oyster?
 
-733
-01:03:12,947 --> 01:03:18,377
+
+
 It seems like it was just yesterday 
 when I first heard your name.
 
-734
-01:04:36,107 --> 01:04:38,107
+
+
 Soft.
 
-735
-01:04:41,107 --> 01:04:43,607
+
+
 Stop it. I don't like compliments.
 
-736
-01:04:46,227 --> 01:04:48,007
+
+
 What is the next chapter.
 
-737
-01:04:48,107 --> 01:04:51,497
+
+
 <i>Sunday. Sundays are frightening.</i>
 
-738
-01:04:52,507 --> 01:04:55,132
+
+
 <i>If someone turns on the 
 T.V. for you,...</i>
 
-739
-01:04:55,232 --> 01:04:57,537
+
+
 <i>you have to be alert not to miss it.</i>
 
-740
-01:04:57,707 --> 01:04:59,347
+
+
 <i>It is high strategy.</i>
 
-741
-01:05:00,347 --> 01:05:03,540
+
+
 <i>Maybe you will have to 
 wait 3 hours.</i>
 
-742
-01:05:03,640 --> 01:05:06,167
+
+
 <i>Before a Samaritan 
 turns it back on.</i>
 
-743
-01:05:06,267 --> 01:05:07,675
+
+
 <i>Terrible Sundays.</i>
 
-744
-01:05:07,775 --> 01:05:10,007
+
+
 <i>No speech therapy, no psycho-therapy.</i>
 
-745
-01:05:10,107 --> 01:05:12,127
+
+
 <i>No physical therapy. No visitors.</i>
 
-746
-01:05:12,227 --> 01:05:14,527
+
+
 <i>Bare-bones staff.</i>
 
-747
-01:05:14,627 --> 01:05:17,007
+
+
 <i>Sunday is a long desert excursion.</i>
 
-748
-01:05:17,107 --> 01:05:22,047
+
+
 <i>But today, Marie has nobly 
 suggested she take me to Mass.</i>
 
-749
-01:05:22,147 --> 01:05:25,210
+
+
 <i>I explained to her that I am not religious,</i>
 
-750
-01:05:25,310 --> 01:05:27,127
+
+
 <i>but that was in vain.</i>
 
-751
-01:05:27,227 --> 01:05:29,897
+
+
 <i>Everywhere people are praying for me.</i>
 
-752
-01:05:29,997 --> 01:05:32,972
+
+
 <i>First on the list is my daughter, Céleste.</i>
 
-753
-01:05:33,147 --> 01:05:35,147
+
+
 <i>And Marie...naturally.</i>
 
-754
-01:05:36,267 --> 01:05:39,041
+
+
 <i>The most diverse deities 
 have been evoked...</i>
 
-755
-01:05:39,141 --> 01:05:40,167
+
+
 <i>to help me.</i>
 
-756
-01:05:40,267 --> 01:05:43,837
+
+
 <i>In Nepal they chant a mantra for me.</i>
 
-757
-01:05:43,987 --> 01:05:46,844
+
+
 <i>In Cameroon a medicine man 
 has procured...</i>
 
-758
-01:05:46,944 --> 01:05:49,247
+
+
 <i>the goodwill of the African gods.</i>
 
-759
-01:05:49,347 --> 01:05:52,237
+
+
 <i>I have delegated my right eye to him.</i>
 
-760
-01:05:52,507 --> 01:05:55,143
+
+
 <i>I can't deny it.
 I've tried to organize...</i>
 
-761
-01:05:55,243 --> 01:05:57,207
+
+
 <i>this vast spiritual energy...</i>
 
-762
-01:05:57,307 --> 01:05:59,287
+
+
 <i>to salvage my existence.</i>
 
-763
-01:05:59,387 --> 01:06:01,972
+
+
 <i>It may not be admirable,</i>
 
-764
-01:06:02,072 --> 01:06:05,972
+
+
 <i>it may even be hypocritical,
 but I'll try anything.</i>
 
-765
-01:06:13,227 --> 01:06:15,522
+
+
 I'm glad to see you here.
 
-766
-01:06:16,107 --> 01:06:18,088
+
+
 I came to visit you a few days ago...
 
-767
-01:06:18,188 --> 01:06:20,847
+
+
 I came to give you Communion...
 
-768
-01:06:20,947 --> 01:06:22,947
+
+
 but you were sleeping.
 
-769
-01:06:24,067 --> 01:06:26,456
+
+
 Yes, that's right.
 - <i>What?</i>
 
-770
-01:06:26,667 --> 01:06:29,939
+
+
 Do you want to take communion now?
 <i>No.</i>
 
-771
-01:06:31,787 --> 01:06:33,567
+
+
 Yes.
 - Do you want to be blessed?
 
-772
-01:06:33,667 --> 01:06:35,667
+
+
 <i>No.</i>
 - Yes.
 
-773
-01:06:36,547 --> 01:06:39,476
+
+
 Lord, have mercy on Jean-Dominique...
 
-774
-01:06:39,576 --> 01:06:41,407
+
+
 who is cruelly afflicted.
 
-775
-01:06:41,507 --> 01:06:46,456
+
+
 Help his body to heal and 
 keep his spirits light.
 
-776
-01:06:46,667 --> 01:06:49,407
+
+
 Help him to find faith.
 - <i> My spirit is already lighted.</i>
 
-777
-01:06:49,507 --> 01:06:51,483
+
+
 In the name of the Father...
 
-778
-01:06:52,583 --> 01:06:54,852
+
+
 <i>You fucked me good.</i>
 
-779
-01:07:06,507 --> 01:07:08,507
+
+
 My?
 
-780
-01:07:11,707 --> 01:07:13,707
+
+
 My Father?
 
-781
-01:07:33,427 --> 01:07:37,706
+
+
 <i>My Father, There are priests in bordeaux...</i>
 
-782
-01:07:37,806 --> 01:07:41,927
+
+
 <i>who pray regularly for me.</i>
 
-783
-01:07:43,227 --> 01:07:44,763
+
+
 That's good to hear.
 
-784
-01:07:44,863 --> 01:07:47,767
+
+
 <i>But there have been no results.</i>
 
-785
-01:07:47,867 --> 01:07:51,647
+
+
 We must have patience.
 - <i>Yes. That's what the doctors say.</i>
 
-786
-01:07:51,747 --> 01:07:54,722
+
+
 Perhaps I can make  a proposal?
 
-787
-01:07:54,907 --> 01:07:57,307
+
+
 Soon, I will make a pilgrimage trip...
 
-788
-01:07:57,407 --> 01:07:58,407
+
+
 to Lourdes.
 
-789
-01:07:58,507 --> 01:07:59,567
+
+
 <i>Lourdes?</i>
 
-790
-01:07:59,667 --> 01:08:02,727
+
+
 Marie and I thought that you 
 might want to go.
 
-791
-01:08:02,827 --> 01:08:05,507
+
+
 <i>I smell a trap.</i>
 - Miracles have happened there.
 
-792
-01:08:05,607 --> 01:08:09,192
+
+
 It's true.
 - <i>I've already been to Lourdes.</i>
 
-793
-01:08:33,627 --> 01:08:37,487
+
+
 Why don't we stop and go back.
 - I am not turning back.
 
-794
-01:08:37,587 --> 01:08:39,847
+
+
 It is my car. I'll drive where I want.
 
-795
-01:08:39,947 --> 01:08:43,047
+
+
 You said you wanted a dirty week-end.
 - I never said that.
 
-796
-01:08:43,147 --> 01:08:47,567
+
+
 We can't have a dirty week-end
 in Lourdes. It just isn't right.
 
-797
-01:08:47,667 --> 01:08:50,642
+
+
 You only have one thing on your mind.
 
-798
-01:08:52,267 --> 01:08:54,303
+
+
 I want to see the Madonna.
 
-799
-01:08:56,507 --> 01:08:58,075
+
+
 I don't believe you.
 
-800
-01:08:58,175 --> 01:09:00,847
+
+
 I want to see it and to drink the water.
 
-801
-01:09:00,947 --> 01:09:02,947
+
+
 Spare me, please.
 
-802
-01:09:04,627 --> 01:09:08,197
+
+
 You can do it too. It would be good for you.
 
-803
-01:09:13,627 --> 01:09:15,927
+
+
 Impressive. Huh?
 
-804
-01:09:17,427 --> 01:09:18,667
+
+
 Pfft.
 
-805
-01:09:18,767 --> 01:09:21,897
+
+
 I'll go buy bottles for the water.
 
-806
-01:09:43,507 --> 01:09:45,641
+
+
 I've had it. I won't stay here.
 
-807
-01:09:45,741 --> 01:09:49,059
+
+
 You're wrong. It might be good for you.
 
-808
-01:09:49,267 --> 01:09:51,767
+
+
 Don't be so sure, it might be dangerous.
 
-809
-01:09:52,667 --> 01:09:55,247
+
+
 Imagine what might happen 
 to a healthy person by the...
 
-810
-01:09:55,347 --> 01:09:58,407
+
+
 appearing of the Madonna.
 They could be paralyzed.
 
-811
-01:09:58,507 --> 01:09:59,707
+
+
 You're terrible.
 
-812
-01:10:00,307 --> 01:10:02,423
+
+
 Hello.
 - Hello, Miss.
 
-813
-01:10:02,627 --> 01:10:05,517
+
+
 Look, I have found my Madonna.
 
-814
-01:10:07,647 --> 01:10:08,801
+
+
 Forget it.
 
-815
-01:10:09,901 --> 01:10:12,901
+
+
 I don't want anything more 
 to do with you.
 
-816
-01:10:14,187 --> 01:10:17,179
+
+
 Okay. Okay. I'll give it to you as a present.
 
-817
-01:10:18,667 --> 01:10:21,266
+
+
 Madame has a good eye.
 This Madonna...
 
-818
-01:10:21,366 --> 01:10:23,407
+
+
 was blessed by the Cardinal.
 
-819
-01:10:23,507 --> 01:10:26,647
+
+
 Do you have more 318's?
 - Look in the magazines.
 
-820
-01:10:26,747 --> 01:10:30,023
+
+
 How much is it?
 - 300 euro.
 
-821
-01:10:30,227 --> 01:10:32,227
+
+
 That much?
 
-822
-01:10:35,387 --> 01:10:40,147
+
+
 Don't we know each other?
 - No sir, I don't think so.
 
-823
-01:10:41,627 --> 01:10:43,627
+
+
 I have no change.
 
-824
-01:10:45,547 --> 01:10:50,052
+
+
 I can't make love with her watching.
 - I understand.
 
-825
-01:10:50,407 --> 01:10:53,467
+
+
 I wasn't stating fact. I was complaining.
 
-826
-01:10:53,567 --> 01:10:55,767
+
+
 Let me turn it off.
 
-827
-01:10:56,267 --> 01:10:58,267
+
+
 No.
 
-828
-01:10:59,787 --> 01:11:03,700
+
+
 It's the only one blessed by the Cardinal.
 
-829
-01:11:06,147 --> 01:11:10,967
+
+
 Josephine, back in Paris,
 we will have to seperate.
 
-830
-01:11:11,787 --> 01:11:15,541
+
+
 Because of her?
 - No, because of everything.
 
-831
-01:11:17,467 --> 01:11:20,459
+
+
 Fine. You're right.
 
-832
-01:11:32,627 --> 01:11:34,252
+
+
 I'm going out.
 
-833
-01:11:34,927 --> 01:11:36,552
+
+
 Turn off the light.
 
-834
-01:11:38,627 --> 01:11:40,627
+
+
 But not my Madonna.
 
-835
-01:13:10,707 --> 01:13:12,707
+
+
 Go ahead, Jean-Do.
 
-836
-01:13:16,907 --> 01:13:20,582
+
+
 If you can say ' La '
 you can also swallow .
 
-837
-01:13:20,787 --> 01:13:22,982
+
+
 Even say  'Lourdes'.
 
-838
-01:13:31,347 --> 01:13:34,225
+
+
 Are you in a comfortable position?
 
-839
-01:13:49,907 --> 01:13:53,807
+
+
 <i>' The Pressure-Cooker ' can be the title of the piece...</i>
 
-840
-01:13:53,907 --> 01:13:57,287
+
+
 <i>that I will write concerning my experiences here.</i>
 
-841
-01:13:57,387 --> 01:14:01,047
+
+
 <i>Or I can call it  ' One Eye ' or ' Diving Bell '.</i>
 
-842
-01:14:01,147 --> 01:14:03,661
+
+
 <i>The plot and location have been determined.</i>
 
-843
-01:14:03,867 --> 01:14:07,607
+
+
 <i>A hospital room. Here Mr. L.,
 in the prime of life...</i>
 
-844
-01:14:07,707 --> 01:14:10,751
+
+
 <i>with locked-in syndrome,
 strains to find...</i>
 
-845
-01:14:10,851 --> 01:14:13,367
+
+
 <i>life after a severe stroke.</i>
 
-846
-01:14:13,467 --> 01:14:15,452
+
+
 <i>Ambitious and a little cynical,...</i>
 
-847
-01:14:15,552 --> 01:14:17,927
+
+
 <i>since he knew nothing of failure,...</i>
 
-848
-01:14:18,027 --> 01:14:21,763
+
+
 <i>...Mr. L. learns to acknowledge
 his dire distress.</i>
 
-849
-01:14:21,867 --> 01:14:23,877
+
+
 <i>We follow this slow transformation...</i>
 
-850
-01:14:23,977 --> 01:14:26,347
+
+
 <i>via a personal inner-narration,...</i>
 
-851
-01:14:26,447 --> 01:14:28,047
+
+
 <i>expressing the feelings of Mr. L.</i>
 
-852
-01:14:28,147 --> 01:14:31,247
+
+
 <i>I have the last scene already. 
 - It is night.</i>
 
-853
+
 01:14:31,347 -->  01:14:34,367
 <i>Mr L. has been immobile 
 from the very opening.</i>
 
-854
-01:14:34,467 --> 01:14:36,909
+
+
 <i>Suddenly he throws off his blankets...</i>
 
-855
-01:14:37,009 --> 01:14:39,767
+
+
 <i>and jumps off the bed.</i>
 
-856
-01:14:39,867 --> 01:14:42,961
+
+
 <i>Then it becomes dark and we hear...</i>
 
-857
-01:14:43,061 --> 01:14:45,527
+
+
 <i>this monologue
 from Mr L.,...</i>
 
-858
-01:14:45,627 --> 01:14:48,007
+
+
 <i>' Fuck. It was just a dream. '</i>
 
-859
-01:15:16,027 --> 01:15:18,939
+
+
 Stand up. You can stand up.
 
-860
-01:15:19,147 --> 01:15:21,147
+
+
 All is well.
 
-861
-01:16:00,827 --> 01:16:04,167
+
+
 ' I want to remember what has happened to me.'
 
-862
-01:16:04,267 --> 01:16:06,267
+
+
 You want me to ask someone?
 
-863
-01:16:12,067 --> 01:16:14,067
+
+
 No?
 
-864
-01:16:21,027 --> 01:16:23,872
+
+
 Hello. Room 119.
 
-865
-01:16:26,627 --> 01:16:30,197
+
+
 This is Claude.
 I'm here with Jean-Do.
 
-866
-01:16:30,267 --> 01:16:31,716
+
+
 ' This is his father. '
 
-867
-01:16:31,816 --> 01:16:35,027
+
+
 Yes. We had expected your phone call.
 
-868
-01:16:38,707 --> 01:16:41,540
+
+
 What do I need to do? 
 Speak normally?
 
-869
-01:16:42,627 --> 01:16:45,927
+
+
 ' Jean-Do can understand you. 
 He will answer you. '
 
-870
-01:16:46,027 --> 01:16:51,499
+
+
 ' You will hear me say letters... '
 - Yes. Céline explained it to me.
 
-871
-01:16:54,747 --> 01:16:57,898
+
+
 ' Start when you're ready, Mr. Bauby. '
 
-872
-01:16:58,067 --> 01:17:00,067
+
+
 Can he hear me?
 
-873
-01:17:01,627 --> 01:17:05,063
+
+
 Jean-Dominique, It's Papa.
 
-874
-01:17:07,987 --> 01:17:11,582
+
+
 ' I'm sitting by the open window. '
 
-875
-01:17:13,987 --> 01:17:17,982
+
+
 ' How goes it with you?
 - Oh. It's a stupid question. '
 
-876
-01:17:30,027 --> 01:17:32,407
+
+
 <i>Yes. It is.</i>
 
-877
-01:17:35,747 --> 01:17:37,747
+
+
 I miss you.
 
-878
-01:17:51,907 --> 01:17:53,907
+
+
 <i>I miss you , too.</i>
 
-879
-01:17:56,307 --> 01:18:00,061
+
+
 It's really impossible to have a 
 conversation like this.
 
-880
-01:18:00,267 --> 01:18:05,112
+
+
 I forgot everything that I wanted to say.
 No. I remember.
 
-881
-01:18:06,147 --> 01:18:11,141
+
+
 I've sent you a gift.
 A surprise.
 
-882
-01:18:15,627 --> 01:18:17,627
+
+
 <i>I've been reflecting...</i>
 
-883
-01:18:18,307 --> 01:18:22,346
+
+
 concerning us.
 - We are in the same boat.
 
-884
-01:18:22,547 --> 01:18:30,022
+
+
 I'm trapped in this apartment, and 
 cannot go down or up the stairs.
 
-885
-01:18:30,307 --> 01:18:34,003
+
+
 Try climbing four floors...
 
-886
-01:18:34,103 --> 01:18:36,103
+
+
 <i>when you're 82.</i>
 
-887
-01:18:37,267 --> 01:18:40,942
+
+
 We both have locked-in syndrome.
 
-888
-01:18:41,147 --> 01:18:46,062
+
+
 You are locked inside your body,
 and I inside my apartment.
 
-889
-01:18:46,267 --> 01:18:48,456
+
+
 Jean-Dominique, remember...
 
-890
-01:18:48,567 --> 01:18:54,087
+
+
 that in the upper-right hand 
 drawer of my desk there is a letter.
 
-891
-01:18:54,187 --> 01:18:58,087
+
+
 In it is my Will.
 
-892
-01:18:58,187 --> 01:19:00,287
+
+
 It's, Jean-Do...
 
-893
-01:19:05,307 --> 01:19:07,999
+
+
 ......a file marked 'Miscellaneous'.
 
-894
-01:19:12,307 --> 01:19:14,307
+
+
 I have to hang up...
 
-895
-01:19:28,467 --> 01:19:32,380
+
+
 <i>Don't cry.</i>
 - It isn't easy to speak.
 
-896
-01:19:32,587 --> 01:19:35,465
+
+
 You're my son, damn it.
 
-897
-01:19:36,707 --> 01:19:38,917
+
+
 It occurs to me, Jean-Do.
 
-898
-01:19:40,147 --> 01:19:44,482
+
+
 I almost forgot. You have your
 birthday soon.
 
-899
-01:19:44,787 --> 01:19:46,787
+
+
 I'll call again.
 
-900
-01:19:48,027 --> 01:19:50,027
+
+
 Happy Birthday.
 
-901
-01:20:32,907 --> 01:20:36,533
+
+
 <i>It's not easy to speak to a son...</i>
 
-902
-01:20:36,633 --> 01:20:39,353
+
+
 <i>when you know he won't reply.</i>
 
-903
-01:20:40,353 --> 01:20:49,553
+
+
 <i>Noirtier de Villefort</i>
 
-904
-01:20:57,467 --> 01:21:01,122
+
+
 I thought that a trip might please you.
 
-905
-01:21:02,267 --> 01:21:05,942
+
+
 I have another surprise. Close your eyes.
 
-906
-01:21:07,067 --> 01:21:10,104
+
+
 Close them. Close them.
 
-907
-01:21:15,827 --> 01:21:17,427
+
+
 Now. Open them.
 
-908
-01:21:17,527 --> 01:21:19,687
+
+
 THE COUNT OF MONTE CRISTO
 
-909
-01:21:19,787 --> 01:21:21,726
+
+
 <i>You shouldn't have.</i>
 
-910
-01:21:22,487 --> 01:21:23,826
+
+
 <i>In two volumes.</i>
 
-911
-01:21:23,927 --> 01:21:27,852
+
+
 It's not a first edition, 
 but it's pretty old.
 
-912
-01:21:30,667 --> 01:21:31,922
+
+
 Shall I read a bit?
 
-913
-01:21:33,587 --> 01:21:34,822
+
+
 Which chapter?
 
-914
-01:21:35,747 --> 01:21:38,092
+
+
 <i>We use Roman numerals.</i>
 
-915
-01:21:38,192 --> 01:21:40,407
+
+
 <i>I have to think.</i>
 
-916
-01:21:40,507 --> 01:21:43,047
+
+
 <i>What would it be in 
 Roman numerals?</i>
 
-917
-01:21:43,147 --> 01:21:46,856
+
+
 <i>It becomes L... I...X</i>
 
-918
-01:21:47,907 --> 01:21:51,183
+
+
 <i>I'll do it faster next time.</i>
 
-919
-01:21:51,667 --> 01:21:55,137
+
+
 50? Higher?
 - <i>Yes. Higher.</i>
 
-920
-01:21:57,587 --> 01:21:59,587
+
+
 Nine? 59? Okay.
 
-921
-01:22:00,707 --> 01:22:03,221
+
+
 Here we go then.
 
-922
-01:22:03,427 --> 01:22:07,967
+
+
 <i>There is the illustration.
 The coincidence frightens me.</i>
 
-923
-01:22:08,067 --> 01:22:10,702
+
+
 ' They took their places near him...'
 
-924
-01:22:11,787 --> 01:22:13,857
+
+
 <i>' Noirtier de Villefort in his wheelchair... '</i>
 
-925
-01:22:13,957 --> 01:22:16,847
+
+
 <i>' from the early morning until late at night. '</i>
 
-926
-01:22:16,947 --> 01:22:21,127
+
+
 <i>' With a mirror Noirtier could see 
 the entire apartment. '</i>
 
-927
-01:22:21,227 --> 01:22:26,207
+
+
 <i>' Thus he did not have to move
  himself. Indeed, it was impossible. '</i>
 
-928
-01:22:26,307 --> 01:22:29,207
+
+
 <i>' Sight and hearing were the only 
 senses... '</i>
 
-929
-01:22:29,307 --> 01:22:33,425
+
+
 <i>' still working in his dying frame. '</i>
 
-930
-01:22:34,187 --> 01:22:37,065
+
+
 ' ...already 3/4 ready for the grave.'
 
-931
-01:22:38,187 --> 01:22:41,417
+
+
 <i>Don't you think that it sounds like me?</i>
 
-932
-01:22:41,987 --> 01:22:43,987
+
+
 No.
 - <i>Oh, yes.</i>
 
-933
-01:22:44,187 --> 01:22:47,304
+
+
 <i>I make people shudder, too.</i>
 
-934
-01:22:48,587 --> 01:22:49,863
+
+
 That's not true.
 
-935
-01:22:49,963 --> 01:22:53,007
+
+
 <i>I should never have considered 
 rewriting Dumas.</i>
 
-936
-01:22:53,107 --> 01:22:57,241
+
+
 <i>Don't tamper with a masterpiece. 
 It's a lesson.</i>
 
-937
-01:22:58,307 --> 01:23:01,598
+
+
 <i>I didn't know Noirtier was the
 man... </i>
 
-938
-01:23:01,698 --> 01:23:03,007
+
+
 <i>I was to become.</i>
 
-939
-01:23:03,307 --> 01:23:08,567
+
+
 <i>My diving bell has dragged you down
 to the bottom of the sea with me.</i>
 
-940
-01:23:08,667 --> 01:23:10,160
+
+
 Jean-Do, if sometimes I am...
 
-941
-01:23:10,260 --> 01:23:13,027
+
+
 at the bottom of the sea with you,..
 
-942
-01:23:13,127 --> 01:23:16,317
+
+
 you are also my butterfly.
 
-943
-01:23:17,507 --> 01:23:19,972
+
+
 <i>That's a love declaration.</i>
 
-944
-01:23:21,707 --> 01:23:24,301
+
+
 <i>When we finish this book ...</i>
 
-945
-01:23:24,427 --> 01:23:28,127
+
+
 <i>...we will write another one
 about sports.</i>
 
-946
-01:23:28,227 --> 01:23:31,292
+
+
 <i>Then, maybe, I will start to run myself.</i>
 
-947
-01:23:32,987 --> 01:23:35,687
+
+
 ' I have missed you at the festival.
 
-948
-01:23:35,787 --> 01:23:39,127
+
+
 However, I hope to see you there
 next year, Jean-Paul. '
 
-949
-01:23:39,227 --> 01:23:41,502
+
+
 Le Tango, Nîmes.
 
-950
-01:23:52,027 --> 01:23:57,706
+
+
 ' Dear Mr. Bauby, 
 Concerning your order of a custom-made camper.
 
-951
-01:23:57,807 --> 01:24:03,504
+
+
 We can deliver it to you 6 to 8 
 months after your order.
 
-952
-01:24:04,707 --> 01:24:08,702
+
+
 Yours sincerely, Henri Raynaud.
 That is good news.
 
-953
-01:24:10,947 --> 01:24:12,947
+
+
 This is from your father.
 
-954
-01:24:19,867 --> 01:24:21,867
+
+
 ' This is a gift. '
 
-955
-01:24:24,547 --> 01:24:28,032
+
+
 Look, 
 a photograph of you when you were young.
 
-956
-01:24:29,467 --> 01:24:32,357
+
+
 Jean-Do, eight years old, Berck sur Mer.
 
-957
-01:24:36,347 --> 01:24:38,347
+
+
 From Anne-Marie.
 
-958
-01:24:42,027 --> 01:24:44,461
+
+
 The room of Jean-Dominique Bauby.
 
-959
-01:24:44,561 --> 01:24:45,687
+
+
 ' With whom am I speaking? '
 
-960
-01:24:45,787 --> 01:24:48,452
+
+
 Céline Desmoulins. And you are?
 
-961
-01:24:48,707 --> 01:24:53,223
+
+
 ' This is Inès. 
 I want to speak with Jean-Do. '
 
-962
-01:24:54,947 --> 01:24:56,947
+
+
 One moment.
 
-963
-01:24:59,507 --> 01:25:02,527
+
+
 The speaker is on, so he can hear you.
 
-964
-01:25:02,627 --> 01:25:05,937
+
+
 I can't speak with you there.
 
-965
-01:25:06,147 --> 01:25:10,106
+
+
 You have no choice. 
 There is no one else.
 
-966
-01:25:10,267 --> 01:25:13,752
+
+
 ' Isn't the therapist there. '
 - Not today.
 
-967
-01:25:21,747 --> 01:25:23,747
+
+
 ' Darling.... '
 
-968
-01:25:25,587 --> 01:25:28,883
+
+
 ' I said I'd come to see you,  but...
 
-969
-01:25:28,983 --> 01:25:31,727
+
+
 when I got to the station, I turned around. '
 
-970
-01:25:31,827 --> 01:25:33,827
+
+
 ' I just can't face it. '
 
-971
-01:25:34,427 --> 01:25:36,807
+
+
 ' Please, please forgive me. '
 
-972
-01:25:40,587 --> 01:25:42,367
+
+
 ' Céline? '
 - Yes.
 
-973
-01:25:42,467 --> 01:25:44,445
+
+
 ' Can you leave the room
 to get a snack? '
 
-974
-01:25:44,545 --> 01:25:48,144
+
+
 ' I have some personal things to say. '
 
-975
-01:25:48,347 --> 01:25:50,815
+
+
 ' I'm sorry. '
 - I cannot.
 
-976
-01:25:51,027 --> 01:25:55,107
+
+
 There's no one else. 
 Wait, he wants to say something.
 
-977
-01:26:03,627 --> 01:26:05,627
+
+
 One?
 
-978
-01:26:13,027 --> 01:26:15,027
+
+
 One minute?
 
-979
-01:26:15,187 --> 01:26:18,077
+
+
 I'm leaving the room. But not for long.
 
-980
-01:26:24,187 --> 01:26:27,224
+
+
 ' Are you there? '
 
-981
-01:26:30,827 --> 01:26:32,827
+
+
 ' Darling,...'
 
-982
-01:26:33,427 --> 01:26:35,807
+
+
 ' I love you more than ever. '
 
-983
-01:26:37,467 --> 01:26:41,122
+
+
 ' I want to see you, but 
 not as you are now. '
 
-984
-01:26:42,347 --> 01:26:45,152
+
+
 ' I only want to think of you as you were. '
 
-985
-01:26:47,107 --> 01:26:49,107
+
+
 ' You will heal? Huh?'
 
-986
-01:26:50,667 --> 01:26:52,703
+
+
 ' I miss you. '
 
-987
-01:26:53,227 --> 01:26:58,902
+
+
 ' I miss you, I feel alone without you.
 It's unbearable. '
 
-988
-01:26:59,027 --> 01:27:01,407
+
+
 ' I know you can understand. '
 
-989
-01:27:04,387 --> 01:27:06,696
+
+
 ' You're always in my thoughts. '
 
-990
-01:27:13,547 --> 01:27:17,096
+
+
 ' I know your family is there with you. '
 
-991
-01:27:22,067 --> 01:27:24,067
+
+
 ' Do you want me to come? '
 
-992
-01:27:25,267 --> 01:27:27,887
+
+
 I'm back.
 - ' Do you want me to come? '
 
-993
-01:27:27,987 --> 01:27:32,265
+
+
 ' Do you want me to come? ' 
 - I'm here, Inès.
 
-994
-01:28:21,227 --> 01:28:23,227
+
+
 Every day...
 
-995
-01:29:02,667 --> 01:29:04,942
+
+
 Every day I wait for you.
 
-996
-01:29:05,227 --> 01:29:08,447
+
+
 ' Will you please repeat. 
 I didn't understand. '
 
-997
-01:29:08,547 --> 01:29:10,547
+
+
 ' I didn't hear you. '
 
-998
-01:29:12,467 --> 01:29:15,272
+
+
 He said, 'Every day he waits for you.'
 
-999
-01:30:20,027 --> 01:30:23,537
+
+
 Excuse me, but if I don't get a 
 seat on this plane...
 
-1000
-01:30:23,637 --> 01:30:26,897
+
+
 I'll miss my connection to Hong-Kong.
 
-1001
-01:30:28,907 --> 01:30:31,626
+
+
 Please, take my seat.
 - Thanks.
 
-1002
-01:30:32,027 --> 01:30:35,172
+
+
 I'll take the next flight.
 
-1003
-01:30:35,867 --> 01:30:37,867
+
+
 Bon Voyage.
 
-1004
-01:30:41,007 --> 01:30:43,672
+
+
 Oh, shit. You're not going
 to Hong-Kong...
 
-1005
-01:30:43,872 --> 01:30:48,672
+
+
 You're going to Beirut.
 
-1006
-01:30:57,747 --> 01:31:00,892
+
+
 Are you okay? It will be okay.
 
-1007
-01:31:00,907 --> 01:31:03,182
+
+
 Don't worry.
 
-1008
-01:31:10,907 --> 01:31:13,966
+
+
 <i>Generally, I forget my dreams, and people....</i>
 
-1009
-01:31:14,066 --> 01:31:17,367
+
+
 <i> who tell their dreams annoy everyone.</i>
 
-1010
-01:31:17,467 --> 01:31:21,547
+
+
 <i>But this one kept recurring.
 I don't know why.</i>
 
-1011
-01:31:21,787 --> 01:31:23,787
+
+
 <i>It frightened me.</i>
 
-1012
-01:31:24,547 --> 01:31:28,372
+
+
 <i>The feeling of doom doesn't leave me.</i>
 
-1013
-01:31:28,427 --> 01:31:31,453
+
+
 <i>It took what I can only describe as
 a miracle ....</i>
 
-1014
-01:31:31,553 --> 01:31:33,678
+
+
 <i>to lift my spirits.</i>
 
-1015
-01:31:34,867 --> 01:31:37,276
+
+
 <i>It's dangerous to believe in 
 personal miracles.</i>
 
-1016
-01:31:37,376 --> 01:31:39,727
+
+
 <i>They tend to make one feel 
 self-important.</i>
 
-1017
-01:31:39,827 --> 01:31:43,286
+
+
 <i>Nevertheless, I must report that I
 believe something...</i>
 
-1018
-01:31:43,386 --> 01:31:45,897
+
+
 <i>miraculous did occur.</i>
 
-1019
-01:31:45,997 --> 01:31:48,461
+
+
 <i>I began to sing.</i>
 
-1020
-01:31:49,947 --> 01:31:52,745
+
+
 <i>I grunt. I sing.</i>
 
-1021
-01:31:53,907 --> 01:31:55,651
+
+
 <i>My hearing isn't so great, but...</i>
 
-1022
-01:31:55,751 --> 01:31:57,887
+
+
 <i>sometimes, I think I hear 
 my heart beating.</i>
 
-1023
-01:31:57,987 --> 01:32:00,087
+
+
 <i>But I believe it's the sound...</i>
 
-1024
-01:32:00,187 --> 01:32:01,667
+
+
 <i>of butterfly wings.</i>
 
-1025
-01:32:01,767 --> 01:32:04,058
+
+
 <i>I'm making firm progress 
 and I may...</i>
 
-1026
-01:32:04,158 --> 01:32:06,227
+
+
 <i>have developed butterfly hearing.</i>
 
-1027
-01:32:06,327 --> 01:32:10,007
+
+
 <i>I look forward to the future.
 Soon the summer will end...</i>
 
-1028
-01:32:10,107 --> 01:32:14,187
+
+
 <i>and I will begin my first autumn 
 in this hospital.</i>
 
-1029
-01:32:15,067 --> 01:32:17,067
+
+
 <i>My life is here.</i>
 
-1030
-01:32:17,307 --> 01:32:19,687
+
+
 <i>A constant repetition.</i>
 
-1031
-01:32:20,547 --> 01:32:22,547
+
+
 <i>In this place.</i>
 
-1032
-01:32:22,827 --> 01:32:24,827
+
+
 How are you?
 
-1033
-01:32:26,587 --> 01:32:28,407
+
+
 He speaks.
 
-1034
-01:32:28,507 --> 01:32:31,305
+
+
 He's speaking.
 - He sings, too.
 
-1035
-01:32:31,867 --> 01:32:34,437
+
+
 Go ahead, sing for Laurent.
 
-1036
-01:32:34,667 --> 01:32:37,137
+
+
 Please, do it for me.
 
-1037
-01:32:43,627 --> 01:32:46,202
+
+
 <i>The kangaroo has leaped
 over the wall...</i>
 
-1038
-01:32:46,302 --> 01:32:48,727
+
+
 <i>Over the the wall of the zoo....</i>
 
-1039
-01:32:48,827 --> 01:32:50,301
+
+
 <i>He jumped so high...</i>
 
-1040
-01:32:50,401 --> 01:32:53,291
+
+
 <i>Oh my, he was so beautiful.</i>
 
-1041
-01:32:54,467 --> 01:32:56,467
+
+
 Are you okay?
 
-1042
-01:32:56,507 --> 01:32:59,227
+
+
 Did he finish?
 - No more singing now.
 
-1043
-01:33:17,907 --> 01:33:19,907
+
+
 <i>I have pneumonia.</i>
 
-1044
-01:33:22,227 --> 01:33:24,377
+
+
 <i>Just when I had hope.</i>
 
-1045
-01:33:36,947 --> 01:33:40,498
+
+
 <i>Like a sailor who watches land gradually
 sink away...</i>
 
-1046
-01:33:40,598 --> 01:33:43,182
+
+
 <i>I see my past fading.</i>
 
-1047
-01:33:44,147 --> 01:33:47,632
+
+
 <i>More and more of it is reduced 
 to ashes.</i>
 
-1048
-01:34:02,467 --> 01:34:04,467
+
+
 <i>What a come-back.</i>
 
-1049
-01:34:04,787 --> 01:34:07,967
+
+
 <i>My office. 
 I know that couple,... </i>
 
-1050
-01:34:08,067 --> 01:34:10,787
+
+
 <i>but I don't recall their names.</i>
 
-1051
-01:34:11,747 --> 01:34:13,747
+
+
 <i>This is my car?</i>
 
-1052
-01:34:14,187 --> 01:34:16,187
+
+
 <i>My new car.</i>
 
-1053
-01:35:28,667 --> 01:35:30,667
+
+
 Where's the horn?
 
-1054
-01:36:13,047 --> 01:36:16,367
+
+
 Bend down so I can hug you.
 - Do you see my car?
 
-1055
-01:36:16,767 --> 01:36:18,467
+
+
 Splendid.
 
-1056
-01:36:20,947 --> 01:36:22,947
+
+
 Everything okay, Théo?
 - Yes.
 
-1057
-01:36:23,147 --> 01:36:25,167
+
+
 Have you had a good week?
 
-1058
-01:36:25,267 --> 01:36:30,047
+
+
 Can we go to the theatre?
 - The theatre? Yes we will go.
 
-1059
-01:36:30,147 --> 01:36:34,272
+
+
 Can we eat oysters?
 - You like oysters now?
 
-1060
-01:36:38,667 --> 01:36:41,387
+
+
 Don't  bring him back too late.
 
-1061
-01:36:43,227 --> 01:36:45,227
+
+
 Here we go.
 
-1062
-01:36:46,707 --> 01:36:51,552
+
+
 Can I get in the front?
 - You bet. There's no other seat.
 
-1063
-01:36:57,627 --> 01:36:59,827
+
+
 We'll have our time soon.
 
-1064
-01:37:01,027 --> 01:37:03,382
+
+
 How do you like it?
 
-1065
-01:37:16,627 --> 01:37:20,327
+
+
 Everything okay with the team?
 - Yeh, the players are okay.
 
-1066
-01:37:20,427 --> 01:37:23,274
+
+
 Do you have a shower afterwards?
 
-1067
-01:37:23,374 --> 01:37:26,689
+
+
 We take a shower and change clothes.
 
-1068
-01:37:26,747 --> 01:37:30,487
+
+
 Do you have your pubic hair?
 - No, not yet.
 
-1069
-01:37:30,627 --> 01:37:36,099
+
+
 When I was young,  one of the  boys 
 didn't want to undress to shower.
 
-1070
-01:37:36,307 --> 01:37:39,268
+
+
 The manager wouldn't let him play.
 
-1071
-01:37:39,368 --> 01:37:42,487
+
+
 So his father wanted to fight with 
 the manager.
 
-1072
-01:37:42,587 --> 01:37:47,432
+
+
 But he didn't do it.
 The mother calmed him down.
 
-1073
-01:37:48,147 --> 01:37:52,737
+
+
 Finally nobody did a thing, but
 the boy quit the team.
 
-1074
-01:37:55,427 --> 01:37:57,149
+
+
 Do you have that problem?
 
-1075
-01:37:57,249 --> 01:37:59,207
+
+
 No, you can't shower with clothes on...
 
-1076
-01:37:59,307 --> 01:38:02,458
+
+
 You tell me if you do.
 - Oh,no.
 
-1077
-01:38:02,667 --> 01:38:04,969
+
+
 Do you have any news?
 Your Mom is okay?
 
-1078
-01:38:05,069 --> 01:38:06,647
+
+
 She's okay.
 
-1079
-01:38:06,747 --> 01:38:10,997
+
+
 You see that?
 - The road to Aunt Diane's.
 
-1080
-01:38:12,027 --> 01:38:14,097
+
+
 Are you feeling hot?  No?
 
-1081
-01:38:15,547 --> 01:38:17,757
+
+
 No. I don't feel hot.
 
-1082
-01:38:21,347 --> 01:38:23,347
+
+
 We could have...
 
-1083
-01:38:24,387 --> 01:38:26,387
+
+
 We could have...
 
-1084
-01:38:36,227 --> 01:38:41,752
+
+
 It's about to rain. Wait. I'll stop.
 I'll stop.
 
-1085
-01:38:58,027 --> 01:39:00,416
+
+
 Papa, what's wrong with you, Papa?
 
-1086
-01:39:49,867 --> 01:39:53,017
+
+
 Run to the house. 
 Call your Mom.
 
-1087
-01:39:54,787 --> 01:39:56,816
+
+
 ' My last thought was...
 
-1088
-01:39:56,916 --> 01:39:59,447
+
+
 we have to cancel going to 
 the theatre..
 
-1089
-01:39:59,547 --> 01:40:04,575
+
+
 We'd be late in any case.
 - We'll go tomorrow night.
 
-1090
-01:40:05,587 --> 01:40:08,137
+
+
 Then I sank into a coma. '
 
-1091
-01:40:46,187 --> 01:40:48,303
+
+
 Does this make a book?
 
-1092
-01:40:58,467 --> 01:41:01,527
+
+
 For Théophile, Céleste and Hortense.
 
-1093
-01:41:01,627 --> 01:41:04,824
+
+
 I wish for them many butterflies.'
 
-1094
-01:41:07,067 --> 01:41:09,967
+
+
 All my thanks to 
 Claude Mendibil.
 
-1095
-01:41:10,067 --> 01:41:12,617
+
+
 Without her understanding...
 
-1096
-01:41:12,717 --> 01:41:15,777
+
+
 this book could not have 
 been written.
 
-1097
-01:41:46,067 --> 01:41:48,067
+
+
 I've always been there.
 
-1098
-01:41:48,107 --> 01:41:50,107
+
+
 You know it?
 
-1099
-01:41:52,547 --> 01:41:55,767
+
+
 These are great reviews.
 Shall I read them?
 
-1100
-01:41:55,867 --> 01:42:00,567
+
+
 ' The man who dictates in silence, 
 Without movement or speech,...
 
-1101
-01:42:00,667 --> 01:42:02,702
+
+
 Bauby learned to communicate...
 
-1102
-01:42:02,802 --> 01:42:04,967
+
+
 with an eyelid to write this book.
 
-1103
-01:42:05,067 --> 01:42:08,073
+
+
 An emotional trip in the 
 world of loneliness...
 
-1104
-01:42:08,173 --> 01:42:10,487
+
+
 which haunts the hospital of Berck. '
 
-1105
-01:42:10,587 --> 01:42:12,587
+
+
 By Bernard Chapuis.
 
-1106
-01:42:12,667 --> 01:42:14,667
+
+
 A very emotional book.
 
-1107
-01:42:21,067 --> 01:42:23,898
+
+
 ' Bauby, 43 years old, 
 renowned journalist,...
 
-1108
-01:42:23,998 --> 01:42:26,407
+
+
 dedicated father, free man...
 
-1109
-01:42:26,507 --> 01:42:31,607
+
+
 aspired to write a book about 
 the revenge of women...
 
-1110
-01:42:31,607 --> 01:42:34,107
+
+
 ' The Countess of Monte Cristo. '
 
-1111
-01:42:37,067 --> 01:42:38,720
+
+
 Two days after the publication of...
 
-1112
-01:42:38,820 --> 01:42:40,567
+
+
 'The Diving Bell and
 the Butterfly'...
 
-1113
-01:42:40,667 --> 01:42:44,626
+
+
 in 1996, Jean-Dominique
 Bauby died.
 

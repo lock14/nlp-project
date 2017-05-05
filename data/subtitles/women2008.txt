@@ -1,3050 +1,3050 @@
-1
-00:00:30,330 --> 00:00:32,834
+
+
 <i>The accused is sentenced
 to three months in jail.</i>
 
-2
-00:00:33,000 --> 00:00:36,212
+
+
 - We have to find a way.
 - It's empty in here.
 
-3
-00:00:37,630 --> 00:00:39,798
+
+
 What can you tell me about Blomkvist?
 
-4
-00:00:39,966 --> 00:00:41,341
+
+
 I think he was set up.
 
-5
-00:00:41,509 --> 00:00:43,469
+
+
 Henrik Vanger from the Vanger Group?
 
-6
-00:00:43,636 --> 00:00:47,097
+
+
 It's Harriet Vanger.
 She used to babysit you.
 
-7
-00:00:47,265 --> 00:00:49,267
+
+
 - Who sends them to you?
 - Harriet's killer.
 
-8
-00:00:49,433 --> 00:00:51,018
+
+
 You don't know my family.
 
-9
-00:00:51,185 --> 00:00:53,813
+
+
 One of them killed Harriet.
 
-10
-00:00:53,979 --> 00:00:57,524
+
+
 Look at the window.
 That's the last picture of Harriet.
 
-11
-00:00:57,692 --> 00:00:59,694
+
+
 So now you're working for the big capitalists?
 
-12
-00:00:59,860 --> 00:01:03,323
+
+
 Give it up before you become obsessed
 yourself. There is no answer.
 
-13
-00:01:03,488 --> 00:01:06,367
+
+
 - What is she looking at?
 - Her killer.
 
-14
-00:01:07,034 --> 00:01:09,329
+
+
 - What are you up to?
 - Henrik will invest in <i>Millennium.</i>
 
-15
-00:01:11,914 --> 00:01:13,370
+
+
 If you give me
 any kind of trouble,
 
-16
-00:01:13,471 --> 00:01:16,001
+
+
 I'll make sure you spend the
 rest of your life in a closed ward.
 
-17
-00:01:16,168 --> 00:01:19,796
+
+
 I know all about your mental problems
 and your violent background.
 
-18
-00:01:19,963 --> 00:01:21,215
+
+
 Are you a good girl?
 
-19
-00:01:23,134 --> 00:01:25,093
+
+
 - Lisbeth Salander?
 - Who are you?
 
-20
-00:01:25,260 --> 00:01:26,304
+
+
 Give it a rest.
 
-21
-00:01:26,471 --> 00:01:28,430
+
+
 How much do you know about my assignment?
 
-22
-00:01:28,597 --> 00:01:30,849
+
+
 It's a 40-year-old murder
 of a 16-year-old girl.
 
-23
-00:01:31,016 --> 00:01:32,060
+
+
 I need your help.
 
-24
-00:01:37,606 --> 00:01:40,984
+
+
 PART 2
 
-25
-00:03:06,820 --> 00:03:10,824
+
+
 THE GIRL WITH THE DRAGON TATTOO
 
-26
-00:04:04,127 --> 00:04:06,087
+
+
 Welcome.
 
-27
-00:04:06,254 --> 00:04:07,423
+
+
 Yes...
 
-28
-00:04:10,259 --> 00:04:11,885
+
+
 Yes...
 
-29
-00:04:14,472 --> 00:04:16,766
+
+
 So he'll live?
 
-30
-00:04:21,728 --> 00:04:23,898
+
+
 Can I visit him?
 
-31
-00:04:26,192 --> 00:04:28,694
+
+
 Lisbeth Salander's here.
 
-32
-00:04:32,490 --> 00:04:34,074
+
+
 Yes.
 
-33
-00:04:35,742 --> 00:04:38,995
+
+
 OK, Frode.
 Talk to you soon. Thanks.
 
-34
-00:04:55,930 --> 00:04:58,807
+
+
 IF A WOMAN APPROACHES AN ANIMAL
 TO HAVE SEXUAL RELATIONS...
 
-35
-00:05:00,725 --> 00:05:04,646
+
+
 As we've been sharing files lately,
 I assume you're up to date.
 
-36
-00:05:06,023 --> 00:05:07,608
+
+
 Yes.
 
-37
-00:05:13,572 --> 00:05:16,324
+
+
 Everyone here is a suspect.
 
-38
-00:05:17,326 --> 00:05:20,204
+
+
 They were all on the island
 when Harriet disappeared,
 
-39
-00:05:20,370 --> 00:05:23,874
+
+
 except for Richard and Gottfried,
 who were dead.
 
-40
-00:05:24,040 --> 00:05:28,545
+
+
 We know that she's afraid of someone
 on the other side of the street.
 
-41
-00:05:28,713 --> 00:05:32,341
+
+
 Bible passages, blood and death.
 
-42
-00:05:32,507 --> 00:05:35,261
+
+
 Brutal content in a girl's diary.
 
-43
-00:05:35,427 --> 00:05:38,680
+
+
 The day she disappeared,
 Harriet talked to the local vicar,
 
-44
-00:05:38,848 --> 00:05:42,393
+
+
 Otto Falk.
 We know that they used to meet.
 
-45
-00:05:42,560 --> 00:05:48,024
+
+
 Harriet was 16
 and came from a non-religious family.
 
-46
-00:05:48,189 --> 00:05:53,278
+
+
 Suddenly she starts quoting the Bible
 and hobnobbing with the vicar.
 
-47
-00:05:56,115 --> 00:05:58,951
+
+
 - Why don't you have a car?
 - To spare the environment.
 
-48
-00:05:59,117 --> 00:06:00,995
+
+
 Do you also try to save African children?
 
-49
-00:06:01,161 --> 00:06:04,540
+
+
 You should know that.
 It's in the report.
 
-50
-00:06:06,125 --> 00:06:08,418
+
+
 Are we taking that?
 
-51
-00:06:14,716 --> 00:06:18,220
+
+
 - Were you planning to take the bus?
 - Holy crap.
 
-52
-00:06:20,473 --> 00:06:22,557
+
+
 What the hell.
 
-53
-00:06:24,601 --> 00:06:26,312
+
+
 Hold onto the bike!
 
-54
-00:06:45,872 --> 00:06:49,918
+
+
 Yes, Harriet, the poor girl.
 She came to a tragic end.
 
-55
-00:06:50,086 --> 00:06:52,338
+
+
 Do you remember what you talked about?
 
-56
-00:06:52,504 --> 00:06:55,716
+
+
 Why did she suddenly get
 so interested in religion?
 
-57
-00:06:55,882 --> 00:06:59,762
+
+
 She wasn't a true believer.
 
-58
-00:06:59,928 --> 00:07:05,892
+
+
 Like many young people, Harriet
 regarded God like a fashion accessory.
 
-59
-00:07:06,060 --> 00:07:09,689
+
+
 - She was a restless girl.
 - She wrote these down.
 
-60
-00:07:09,855 --> 00:07:14,067
+
+
 - Do they make sense to you?
 - Strange girl.
 
-61
-00:07:15,319 --> 00:07:19,740
+
+
 No, they seem completely random.
 
-62
-00:07:20,658 --> 00:07:26,372
+
+
 She didn't take anything seriously.
 She was a little trouble-maker.
 
-63
-00:07:26,538 --> 00:07:32,545
+
+
 - Others say she was withdrawn.
 - No, she was a lively girl.
 
-64
-00:07:32,711 --> 00:07:35,338
+
+
 Always looking for excitement.
 
-65
-00:07:36,548 --> 00:07:39,218
+
+
 Sweden wasn't big enough for her.
 
-66
-00:07:40,261 --> 00:07:43,596
+
+
 I expect that's why she moved abroad.
 
-67
-00:07:43,764 --> 00:07:45,891
+
+
 - Moved?
 - Yes, to London.
 
-68
-00:07:46,057 --> 00:07:50,396
+
+
 - He's thinking of Anita.
 - You've got it all mixed up, Dad.
 
-69
-00:07:50,562 --> 00:07:53,064
+
+
 No. She got cancer, poor girl.
 
-70
-00:07:53,231 --> 00:07:58,028
+
+
 They did look a bit alike,
 and they were best friends.
 
-71
-00:07:58,194 --> 00:08:01,574
+
+
 Anita moved to London,
 and she died of cancer a few years ago.
 
-72
-00:08:01,740 --> 00:08:06,120
+
+
 - You are thinking of Anita.
 - That's right. Anita.
 
-73
-00:08:06,286 --> 00:08:10,624
+
+
 - That's what I said.
 - It's OK, Dad.
 
-74
-00:08:10,790 --> 00:08:14,127
+
+
 Anita and Harriet were cousins,
 and you knew both girls?
 
-75
-00:08:14,295 --> 00:08:17,630
+
+
 - We went to the same school.
 - Was Harriet a religious person?
 
-76
-00:08:17,798 --> 00:08:20,800
+
+
 - No.
 - How about after Gottfried's death?
 
-77
-00:08:20,968 --> 00:08:26,932
+
+
 She became more introvert,
 but she wasn't a Christian.
 
-78
-00:08:32,687 --> 00:08:37,610
+
+
 You know... What if these quotes
 don't have anything to do with God?
 
-79
-00:08:37,777 --> 00:08:40,361
+
+
 What if it's a code?
 
-80
-00:08:40,528 --> 00:08:43,698
+
+
 Sara Witt was found murdered
 in her family's barn,
 
-81
-00:08:43,865 --> 00:08:46,994
+
+
 not far from Vilhelmina in 1962.
 
-82
-00:08:47,620 --> 00:08:49,913
+
+
 Sara? What else does it say?
 
-83
-00:08:50,080 --> 00:08:53,793
+
+
 "Between 2 and 3 a.m.,
 the victim was lured ..."
 
-84
-00:08:56,711 --> 00:09:01,549
+
+
 "The woman's body was mutilated,
 possibly from a religious ritual."
 
-85
-00:09:01,716 --> 00:09:04,345
+
+
 "The police won't disclose
 anymore details."
 
-86
-00:09:04,511 --> 00:09:08,765
+
+
 Mutilated, possibly religious...
 Did they find the killer?
 
-87
-00:09:12,186 --> 00:09:14,813
+
+
 No. The case was never solved.
 
-88
-00:09:18,024 --> 00:09:21,320
+
+
 - It's a long shot.
 - I know.
 
-89
-00:09:22,238 --> 00:09:26,616
+
+
 - How far is it to Vilhelmina?
 - Too far on a motorcycle.
 
-90
-00:09:46,220 --> 00:09:48,596
+
+
 What are we waiting for?
 
-91
-00:09:48,764 --> 00:09:51,182
+
+
 - You want to drive?
 - Why?
 
-92
-00:09:52,768 --> 00:09:57,523
+
+
 - I haven't driven since my divorce.
 - Then it's about time.
 
-93
-00:10:27,344 --> 00:10:30,471
+
+
 Funny how female names always
 bring you to porn sites.
 
-94
-00:10:30,639 --> 00:10:32,682
+
+
 What are you doing?
 
-95
-00:10:34,225 --> 00:10:38,438
+
+
 I'm getting the computer to search
 all the newspaper databases.
 
-96
-00:11:02,254 --> 00:11:06,258
+
+
 What was the name of the
 journalist who wrote about Sara?
 
-97
-00:11:06,424 --> 00:11:09,427
+
+
 Witt? Gunnar Brännlund.
 
-98
-00:11:23,775 --> 00:11:26,278
+
+
 - Gunnar.
 - Hi. Mikael.
 
-99
-00:11:26,445 --> 00:11:27,988
+
+
 Hi. Gunnar.
 
-100
-00:11:28,154 --> 00:11:30,950
+
+
 Let's go to the barn.
 
-101
-00:11:34,244 --> 00:11:37,373
+
+
 They couldn't sell the
 farm after what happened.
 
-102
-00:11:37,538 --> 00:11:40,584
+
+
 It's been empty ever since.
 
-103
-00:11:46,673 --> 00:11:48,634
+
+
 This is where she was found?
 
-104
-00:11:48,801 --> 00:11:53,846
+
+
 Yes. Her husband found her.
 It was horrific for him. Horrific.
 
-105
-00:11:56,225 --> 00:11:58,268
+
+
 She was lying right here.
 
-106
-00:12:01,062 --> 00:12:06,485
+
+
 In this stall.
 Pinioned and tortured.
 
-107
-00:12:16,412 --> 00:12:18,956
+
+
 Were the animals also harmed?
 
-108
-00:12:19,999 --> 00:12:22,375
+
+
 How did you know?
 
-109
-00:12:24,128 --> 00:12:31,051
+
+
 Several cows had been mistreated.
 A few even had to be put down.
 
-110
-00:12:31,217 --> 00:12:33,928
+
+
 - Anyone have a theory?
 - No.
 
-111
-00:12:34,096 --> 00:12:38,182
+
+
 But they arrested a deviant who might
 have been capable of such a crime.
 
-112
-00:12:38,350 --> 00:12:42,187
+
+
 - A deviant?
 - He batted for the other team.
 
-113
-00:12:42,354 --> 00:12:44,981
+
+
 - You mean he was gay.
 - Yes.
 
-114
-00:12:45,149 --> 00:12:49,695
+
+
 - But he wasn't convicted of the murder?
 - No. Only of the other sordid stuff.
 
-115
-00:12:49,861 --> 00:12:52,614
+
+
 It was against the law back then.
 
-116
-00:12:53,907 --> 00:12:57,119
+
+
 And for good reason, if you ask me.
 
-117
-00:12:59,663 --> 00:13:03,082
+
+
 "If a woman approaches an animal
 to have sexual relations with it,
 
-118
-00:13:03,250 --> 00:13:05,753
+
+
 kill both the woman and the animal."
 
-119
-00:13:08,964 --> 00:13:12,091
+
+
 - It might be a coincidence.
 - Yes.
 
-120
-00:13:16,929 --> 00:13:19,475
+
+
 Holy shit, Lisbeth.
 
-121
-00:13:21,184 --> 00:13:23,937
+
+
 If the others also fit...
 
-122
-00:13:37,283 --> 00:13:39,411
+
+
 I've found an old TV guide.
 
-123
-00:13:42,748 --> 00:13:46,293
+
+
 A programme from 1999 about
 a murder in Dalarna.
 
-124
-00:13:46,460 --> 00:13:47,543
+
+
 Go on.
 
-125
-00:13:47,711 --> 00:13:51,631
+
+
 "The series <i>Swedish Murders</i> looks
 at the case of Magda Lovisa Sjöberg
 
-126
-00:13:51,798 --> 00:13:53,466
+
+
 from Dalarna."
 
-127
-00:13:54,802 --> 00:13:56,677
+
+
 Magda...
 
-128
-00:13:56,845 --> 00:14:01,140
+
+
 "A brutal murder puzzle from November
 1954 that baffled the police."
 
-129
-00:14:01,307 --> 00:14:03,811
+
+
 Didn't we have a Magda reference?
 
-130
-00:14:03,976 --> 00:14:06,730
+
+
 Leviticus, Chapter 1, Verse 12.
 
-131
-00:14:06,897 --> 00:14:09,982
+
+
 "He is to cut it into pieces...
 including the head and the fat."
 
-132
-00:14:10,149 --> 00:14:14,278
+
+
 "And the priest shall arrange them...
 on the burning wood on the altar."
 
-133
-00:14:15,364 --> 00:14:17,407
+
+
 That was verbatim.
 
-134
-00:14:19,993 --> 00:14:22,453
+
+
 You quoted it word for word.
 
-135
-00:14:46,687 --> 00:14:50,774
+
+
 I think I've found another one,
 a 17-year-old girl from Uppsala.
 
-136
-00:14:52,275 --> 00:14:56,529
+
+
 - Shit. When?
 - 1964.
 
-137
-00:15:00,741 --> 00:15:03,995
+
+
 "Desperate search for witnesses."
 
-138
-00:15:06,164 --> 00:15:08,500
+
+
 "Mari's murder keeps locals indoors."
 
-139
-00:15:55,213 --> 00:16:00,427
+
+
 And our ratings were sky-high,
 so we're planning another season.
 
-140
-00:16:00,594 --> 00:16:04,014
+
+
 New episodes showcasing old murder mysteries.
 
-141
-00:16:06,265 --> 00:16:09,061
+
+
 That's our host, Sally.
 
-142
-00:16:14,441 --> 00:16:17,068
+
+
 Let me see what I can find in the basement.
 
-143
-00:16:17,235 --> 00:16:18,861
+
+
 Thank you.
 
-144
-00:16:22,407 --> 00:16:24,659
+
+
 Sally?
 
-145
-00:16:32,918 --> 00:16:38,548
+
+
 You landed me with overtime.
 I had to do some digging. Follow me.
 
-146
-00:16:50,686 --> 00:16:55,315
+
+
 As far as I know, Magda's body
 was found after only six hours.
 
-147
-00:16:56,357 --> 00:16:59,110
+
+
 A farmer saw the smoke from the fire.
 
-148
-00:16:59,278 --> 00:17:02,614
+
+
 He thought it was some kids having a party.
 
-149
-00:17:04,407 --> 00:17:07,035
+
+
 Someone cut out fat from the body.
 
-150
-00:17:09,663 --> 00:17:15,711
+
+
 That's right. They found remains
 of fat together with the head.
 
-151
-00:17:16,836 --> 00:17:19,047
+
+
 Awful.
 
-152
-00:17:21,717 --> 00:17:26,762
+
+
 - Thanks for your help.
 - Let me know if there's anything else.
 
-153
-00:17:26,930 --> 00:17:29,057
+
+
 Actually, there is.
 
-154
-00:17:30,224 --> 00:17:32,728
+
+
 Could we have copies of this material?
 
-155
-00:17:37,273 --> 00:17:38,900
+
+
 Sure.
 
-156
-00:18:18,022 --> 00:18:20,025
+
+
 What the hell?
 Relax!
 
-157
-00:18:21,692 --> 00:18:24,820
+
+
 I just wanted to wake you up.
 We're here.
 
-158
-00:18:40,378 --> 00:18:42,172
+
+
 Can I come in?
 
-159
-00:18:45,967 --> 00:18:47,635
+
+
 Here's your bag.
 
-160
-00:18:54,726 --> 00:18:56,228
+
+
 Are you OK?
 
-161
-00:18:58,063 --> 00:18:59,940
+
+
 Yes, I'm OK.
 
-162
-00:19:35,182 --> 00:19:38,019
+
+
 I can't find anyone who fits the initials BJ.
 
-163
-00:19:39,229 --> 00:19:42,898
+
+
 But LI could be Liv Ingvartsson.
 
-164
-00:19:43,066 --> 00:19:47,112
+
+
 A prostitute who disappeared in Ånge
 and was found on a building site.
 
-165
-00:19:47,278 --> 00:19:48,947
+
+
 What was that quote again?
 
-166
-00:19:49,114 --> 00:19:51,365
+
+
 "... she is to bring two doves
 or two young pigeons,
 
-167
-00:19:51,532 --> 00:19:53,868
+
+
 one for a burnt offering
 and the other for a sin offering."
 
-168
-00:19:54,035 --> 00:19:56,997
+
+
 "The priest will make atonement
 for her, and she will be clean."
 
-169
-00:19:57,163 --> 00:20:01,084
+
+
 Ånge That's miles away in
 the direction we came from.
 
-170
-00:20:24,023 --> 00:20:25,650
+
+
 There.
 
-171
-00:20:27,943 --> 00:20:32,365
+
+
 Now we've got Sara, Mari,
 Magda and Liv. Four murders.
 
-172
-00:20:32,531 --> 00:20:35,743
+
+
 Now we only need BJ, who's been circled.
 
-173
-00:20:35,911 --> 00:20:38,121
+
+
 Harriet can't have known them.
 
-174
-00:20:38,288 --> 00:20:44,294
+
+
 Liv was murdered in 1949. Harriet was
 born in 1950. What's the connection?
 
-175
-00:20:45,503 --> 00:20:48,507
+
+
 She makes a list of murdered
 women and disappears.
 
-176
-00:20:48,673 --> 00:20:52,426
+
+
 - She must've known who the killer was.
 - Yes.
 
-177
-00:21:01,353 --> 00:21:03,771
+
+
 - This is great stuff, Janne.
 - Glad you like it.
 
-178
-00:21:03,939 --> 00:21:08,734
+
+
 But, remember, we can't publish a line
 without solid sources.
 
-179
-00:21:10,487 --> 00:21:12,905
+
+
 - Can I have a word, Erika?
 - Sure.
 
-180
-00:21:13,073 --> 00:21:15,032
+
+
 - Don't forget to call them.
 - No.
 
-181
-00:21:15,200 --> 00:21:18,036
+
+
 - That's good, Janne.
 - All right.
 
-182
-00:21:20,997 --> 00:21:24,709
+
+
 I've discovered that Janne
 communicates with Wennerström.
 
-183
-00:21:27,586 --> 00:21:29,673
+
+
 How do you know this?
 
-184
-00:21:30,548 --> 00:21:34,009
+
+
 I checked his email.
 I happened to see something.
 
-185
-00:21:34,176 --> 00:21:40,307
+
+
 He gets a copy of every communication
 passing through our office.
 
-186
-00:21:41,934 --> 00:21:46,439
+
+
 Janne forwards Wennerström
 everything where he's mentioned.
 
-187
-00:21:51,111 --> 00:21:53,028
+
+
 Janne.
 
-188
-00:21:55,490 --> 00:21:57,450
+
+
 So he's Wennerström's errand boy.
 
-189
-00:21:58,867 --> 00:22:00,912
+
+
 Fucking hell.
 
-190
-00:22:02,038 --> 00:22:04,540
+
+
 What will you do?
 
-191
-00:22:07,419 --> 00:22:10,171
+
+
 I've got to fire him ASAP.
 
-192
-00:22:11,423 --> 00:22:13,508
+
+
 Is that really the best option?
 
-193
-00:22:15,634 --> 00:22:18,555
+
+
 - What do you mean?
 - I was thinking...
 
-194
-00:22:18,721 --> 00:22:23,518
+
+
 Isn't this a golden opportunity
 to control what Wennerström knows?
 
-195
-00:22:30,858 --> 00:22:33,403
+
+
 Malin, what are you doing here at <i>Millennium</i>?
 
-196
-00:22:34,528 --> 00:22:37,406
+
+
 Huh? You're a politician.
 
-197
-00:23:11,900 --> 00:23:13,984
+
+
 Man, I could use a shower!
 
-198
-00:23:15,487 --> 00:23:17,029
+
+
 What is it?
 
-199
-00:23:18,198 --> 00:23:20,282
+
+
 Somebody's been here.
 
-200
-00:23:23,369 --> 00:23:25,872
+
+
 The pictures have been touched.
 
-201
-00:23:27,082 --> 00:23:29,209
+
+
 The Bible is pointing in the other direction.
 
-202
-00:23:30,960 --> 00:23:33,797
+
+
 - Look.
 - What the hell?
 
-203
-00:23:33,962 --> 00:23:38,050
+
+
 Someone has been curious.
 
-204
-00:23:49,479 --> 00:23:51,772
+
+
 I'll buy a new lock tomorrow.
 
-205
-00:24:04,993 --> 00:24:08,288
+
+
 Lisbeth...
 do you have a photographic memory?
 
-206
-00:24:29,144 --> 00:24:32,271
+
+
 I'm sorry.
 I didn't mean to upset you.
 
-207
-00:24:32,439 --> 00:24:36,608
+
+
 It's fantastic if you do.
 I wish that I had it.
 
-208
-00:25:12,186 --> 00:25:15,064
+
+
 Fuck, you scared me!
 
-209
-00:25:16,441 --> 00:25:18,026
+
+
 What is it?
 
-210
-00:25:24,240 --> 00:25:26,201
+
+
 What are you doing?
 
-211
-00:25:43,801 --> 00:25:46,011
+
+
 Are you sure it's a good idea?
 
-212
-00:26:38,815 --> 00:26:41,733
+
+
 - Are you leaving?
 - Good night.
 
-213
-00:27:02,630 --> 00:27:04,840
+
+
 - Good morning.
 - Good morning.
 
-214
-00:27:28,071 --> 00:27:30,157
+
+
 Did you sleep well?
 
-215
-00:27:43,922 --> 00:27:48,175
+
+
 - I'm updating Henrik. Want to come?
 - I hate hospitals.
 
-216
-00:27:50,636 --> 00:27:52,512
+
+
 OK.
 
-217
-00:28:00,104 --> 00:28:03,566
+
+
 But that's...
 That's totally absurd.
 
-218
-00:28:05,401 --> 00:28:09,446
+
+
 You've found out more than I'd hoped for.
 
-219
-00:28:09,614 --> 00:28:16,203
+
+
 - Your assistant, is she good?
 - She's... good.
 
-220
-00:28:16,371 --> 00:28:19,958
+
+
 I'm sorry about checking up on you,
 but I had to make sure
 
-221
-00:28:20,124 --> 00:28:23,294
+
+
 not to give the wrong person
 access to my private business.
 
-222
-00:28:23,461 --> 00:28:25,421
+
+
 No worries.
 
-223
-00:28:27,464 --> 00:28:30,218
+
+
 Just concentrate on getting well.
 
-224
-00:28:33,261 --> 00:28:37,432
+
+
 - When will you be discharged?
 - Not anytime soon.
 
-225
-00:28:37,599 --> 00:28:42,105
+
+
 But I'll get well, no matter how much
 that will annoy the Vangers.
 
-226
-00:28:44,106 --> 00:28:48,277
+
+
 They've called a meeting
 and you're at the top of the agenda.
 
-227
-00:28:48,443 --> 00:28:52,615
+
+
 - Me?
 - Harriet's mother wants you to quit.
 
-228
-00:28:54,366 --> 00:28:56,536
+
+
 I'll continue... all the way.
 
-229
-00:28:56,702 --> 00:28:59,247
+
+
 I'll keep you updated.
 
-230
-00:28:59,413 --> 00:29:02,000
+
+
 Regarding the last reference...
 
-231
-00:29:02,165 --> 00:29:04,460
+
+
 - The last name.
 - BJ.
 
-232
-00:29:04,626 --> 00:29:07,255
+
+
 Ask Morell if he can help you.
 
-233
-00:29:07,422 --> 00:29:09,798
+
+
 He wasn't thrilled about me.
 
-234
-00:29:09,965 --> 00:29:13,469
+
+
 He's just as obsessed about this case as I am.
 
-235
-00:29:13,635 --> 00:29:16,013
+
+
 Give him another chance.
 He deserves it.
 
-236
-00:29:28,108 --> 00:29:31,028
+
+
 Morell! Morell!
 
-237
-00:29:37,160 --> 00:29:40,078
+
+
 I'll be damned!
 Five murders!
 
-238
-00:29:42,457 --> 00:29:45,667
+
+
 - They weren't phone numbers.
 - If it's any consolation,
 
-239
-00:29:45,835 --> 00:29:49,797
+
+
 it wasn't me who cracked it.
 We need your help, Morell.
 
-240
-00:29:49,963 --> 00:29:54,093
+
+
 - Just ask.
 - We can't find out who "BJ" was.
 
-241
-00:29:54,259 --> 00:29:58,221
+
+
 She's circled as if she's particularly
 important. It's the last reference.
 
-242
-00:29:58,388 --> 00:30:02,894
+
+
 We'll get the local police
 forces to check their records.
 
-243
-00:30:03,060 --> 00:30:08,356
+
+
 If there's a woman with these initials
 who died in the '40s, '50s or '60s,
 
-244
-00:30:08,523 --> 00:30:13,653
+
+
 we've got to find her. Do the victims
 have anything in common?
 
-245
-00:30:13,820 --> 00:30:17,282
+
+
 - Something significant to their killer?
 - No, it seems random.
 
-246
-00:30:17,450 --> 00:30:20,619
+
+
 Apart from the passages and their gender.
 
-247
-00:30:22,954 --> 00:30:25,875
+
+
 Do you realise what this means?
 
-248
-00:30:26,041 --> 00:30:28,461
+
+
 If the first murder took place in 1949,
 
-249
-00:30:28,627 --> 00:30:31,963
+
+
 the man sending flowers must be very old.
 
-250
-00:30:32,131 --> 00:30:35,634
+
+
 It reduces the number of suspects considerably.
 
-251
-00:31:02,994 --> 00:31:07,666
+
+
 - Mikael. Nice of you to come. Welcome.
 - Thank you.
 
-252
-00:31:07,834 --> 00:31:11,921
+
+
 - Harald couldn't make it. He's hunting.
 - I see.
 
-253
-00:31:14,714 --> 00:31:16,592
+
+
 To what do I owe the honour?
 
-254
-00:31:16,759 --> 00:31:20,221
+
+
 Have you read the local paper recently?
 
-255
-00:31:20,387 --> 00:31:22,640
+
+
 - I've been out of town.
 - That's right.
 
-256
-00:31:22,807 --> 00:31:27,353
+
+
 They're bringing out
 quite an interesting serial
 
-257
-00:31:27,519 --> 00:31:29,980
+
+
 on your exile here on Hedeby.
 
-258
-00:31:30,147 --> 00:31:33,233
+
+
 BLOMKVIST'S NEW YOUNG GIRLFRIEND
 
-259
-00:31:34,277 --> 00:31:35,318
+
+
 OK...
 
-260
-00:31:35,486 --> 00:31:38,114
+
+
 VANGER INVESTS IN FAILING MAGAZINE
 
-261
-00:31:38,573 --> 00:31:42,576
+
+
 - And?
 - You must realise we don't like it.
 
-262
-00:31:42,742 --> 00:31:47,707
+
+
 Henrik is dying, and there's
 one scandal after another.
 
-263
-00:31:47,874 --> 00:31:51,501
+
+
 My private life has nothing to do
 with my work for Henrik.
 
-264
-00:31:51,669 --> 00:31:55,839
+
+
 It does, if it affects
 everybody in the Vanger Group.
 
-265
-00:31:56,007 --> 00:32:00,094
+
+
 Haven't you done enough harm?
 You'll give Henrik a heart attack
 
-266
-00:32:00,260 --> 00:32:03,013
+
+
 by poking around in my daughter's death
 
-267
-00:32:03,181 --> 00:32:06,851
+
+
 and forcing him to invest
 in your propaganda sheet.
 
-268
-00:32:07,018 --> 00:32:13,273
+
+
 Calm down, now. Mikael has simply
 done what Henrik paid him to do.
 
-269
-00:32:14,107 --> 00:32:18,653
+
+
 - Maybe it's time to call it a day.
 - What do you mean?
 
-270
-00:32:18,820 --> 00:32:22,575
+
+
 You're making matters worse
 by coming here with your whore.
 
-271
-00:32:22,741 --> 00:32:24,701
+
+
 Mother, don't use that tone.
 
-272
-00:32:24,868 --> 00:32:29,957
+
+
 But maybe you should take a break now.
 It's been a pretty hard deal.
 
-273
-00:32:31,875 --> 00:32:35,462
+
+
 - I'm needed here.
 - And at <i>Millennium.</i>
 
-274
-00:32:35,630 --> 00:32:38,007
+
+
 What has <i>Millennium</i> got to do with it?
 
-275
-00:32:38,173 --> 00:32:41,509
+
+
 I'm standing in while Henrik is ill.
 
-276
-00:32:41,676 --> 00:32:46,097
+
+
 Henrik agreed to leave the
 content solely up to us.
 
-277
-00:32:46,265 --> 00:32:48,601
+
+
 - Mikael, as your friend...
 - Excuse me.
 
-278
-00:32:48,768 --> 00:32:54,815
+
+
 I'd like to make a comment.
 Henrik signed a contract.
 
-279
-00:32:55,607 --> 00:32:59,653
+
+
 As long as he lives, it cannot be cancelled.
 
-280
-00:32:59,819 --> 00:33:04,407
+
+
 So whether Mikael likes it or not,
 he has to continue.
 
-281
-00:33:19,382 --> 00:33:22,884
+
+
 I'm sorry that had to be so dramatic.
 
-282
-00:33:23,051 --> 00:33:26,763
+
+
 - Why do you wear Harriet's necklace?
 - What do you mean?
 
-283
-00:33:27,807 --> 00:33:31,559
+
+
 Harriet was wearing it when she
 disappeared. Now you're wearing it.
 
-284
-00:33:31,727 --> 00:33:34,896
+
+
 What are you trying to say?
 Are you accusing me?
 
-285
-00:33:36,273 --> 00:33:38,567
+
+
 Just tell me where you got it from.
 
-286
-00:33:38,733 --> 00:33:43,530
+
+
 I inherited it from Anita.
 It never belonged to Harriet.
 
-287
-00:33:48,160 --> 00:33:50,746
+
+
 Anita, your sister?
 
-288
-00:33:50,913 --> 00:33:53,374
+
+
 When you came here, I was relieved.
 
-289
-00:33:53,540 --> 00:33:58,170
+
+
 I thought it would be good with
 some new blood in this hostile colony.
 
-290
-00:33:58,336 --> 00:34:02,633
+
+
 But you're just as bad.
 You're as obsessed as Henrik!
 
-291
-00:34:13,268 --> 00:34:14,686
+
+
 <i>Micke.</i>
 
-292
-00:34:15,896 --> 00:34:17,606
+
+
 <i>Micke!</i>
 
-293
-00:34:20,233 --> 00:34:22,652
+
+
 <i>Everything all right?</i>
 
-294
-00:34:53,309 --> 00:34:56,353
+
+
 Anita is Harriet.
 I was mistaken. It's not her.
 
-295
-00:34:56,519 --> 00:34:58,396
+
+
 What are you talking about?
 
-296
-00:34:58,563 --> 00:35:02,400
+
+
 They both looked after me that summer.
 It's Anita's necklace.
 
-297
-00:35:11,159 --> 00:35:16,123
+
+
 Yes, it's Anita.
 Shit, those two were so alike.
 
-298
-00:35:16,289 --> 00:35:20,378
+
+
 - What do we know about Anita Vanger?
 - Cousin and Harriet's closest friend.
 
-299
-00:35:20,543 --> 00:35:24,340
+
+
 They were together each summer.
 She had no alibi but wasn't a suspect.
 
-300
-00:35:24,507 --> 00:35:27,760
+
+
 Right after Harriet's death,
 she moved to London to study.
 
-301
-00:35:27,927 --> 00:35:32,181
+
+
 She had a brilliant career but died
 from breast cancer when she was 37.
 
-302
-00:35:32,347 --> 00:35:34,516
+
+
 She died 20 years ago.
 
-303
-00:35:35,684 --> 00:35:37,936
+
+
 She didn't tell Morell it
 was her in the window.
 
-304
-00:35:38,103 --> 00:35:42,273
+
+
 - Maybe she had something to hide.
 - Maybe to cover for the killer.
 
-305
-00:35:42,440 --> 00:35:44,068
+
+
 Yeah.
 
-306
-00:35:52,576 --> 00:35:56,079
+
+
 HI PLAGUE. PLS RUN CHECK
 ON ANITA VANGER. WILL PAY...
 
-307
-00:36:01,210 --> 00:36:04,045
+
+
 - Plague?
 - If there is anything, he'll find it.
 
-308
-00:37:42,018 --> 00:37:45,313
+
+
 - What happened?
 - Some idiot shot at me.
 
-309
-00:37:47,775 --> 00:37:50,318
+
+
 Let me take a look.
 
-310
-00:37:55,699 --> 00:37:59,202
+
+
 - Did you see who?
 - No. Damn.
 
-311
-00:38:00,579 --> 00:38:02,664
+
+
 Let's get you under a hot shower.
 
-312
-00:38:05,000 --> 00:38:06,835
+
+
 Shit.
 
-313
-00:38:10,922 --> 00:38:14,717
+
+
 We must be very close now.
 And someone doesn't like it.
 
-314
-00:38:14,885 --> 00:38:17,679
+
+
 Give me my phone.
 We have to call the police.
 
-315
-00:38:17,846 --> 00:38:20,306
+
+
 - What can they do?
 - Go and get it.
 
-316
-00:38:20,474 --> 00:38:22,601
+
+
 - Then I'm out of here.
 - Lisbeth!
 
-317
-00:38:29,942 --> 00:38:33,403
+
+
 - Let's not jump to any conclusions.
 - Stop it.
 
-318
-00:38:33,570 --> 00:38:37,157
+
+
 - It could be a hunting accident.
 - No.
 
-319
-00:38:37,324 --> 00:38:41,244
+
+
 - I'll get to the bottom of this.
 - I hope so.
 
-320
-00:38:42,161 --> 00:38:44,623
+
+
 If it's not an accident, then you're not safe.
 
-321
-00:38:47,208 --> 00:38:50,795
+
+
 I think you should go home.
 At least for a while.
 
-322
-00:38:52,047 --> 00:38:55,300
+
+
 Ever since I came here,
 everyone wants me to leave.
 
-323
-00:38:58,304 --> 00:39:00,389
+
+
 Anything new on BJ?
 
-324
-00:39:00,556 --> 00:39:06,186
+
+
 We didn't find a BJ in the system.
 But we'll keep on searching.
 
-325
-00:39:06,353 --> 00:39:08,688
+
+
 There are no bullets here.
 
-326
-00:39:08,856 --> 00:39:13,402
+
+
 No casing.
 We can't find anything at all.
 
-327
-00:39:33,463 --> 00:39:37,467
+
+
 - What happened?
 - I spent seven hours at the station.
 
-328
-00:39:37,635 --> 00:39:40,387
+
+
 They believe it's a hunting accident.
 
-329
-00:39:45,224 --> 00:39:46,851
+
+
 What's all this?
 
-330
-00:39:47,018 --> 00:39:51,148
+
+
 It's from Milton Security.
 They sent it from Stockholm.
 
-331
-00:39:51,315 --> 00:39:55,152
+
+
 Two cameras outside and five inside,
 connected to motion detectors.
 
-332
-00:39:55,318 --> 00:39:57,112
+
+
 I've got the whole place covered.
 
-333
-00:40:00,199 --> 00:40:02,159
+
+
 Fantastic.
 
-334
-00:40:11,793 --> 00:40:14,295
+
+
 You're not planning to leave, are you?
 
-335
-00:40:17,465 --> 00:40:19,342
+
+
 No, I'm not.
 
-336
-00:40:29,394 --> 00:40:31,521
+
+
 So now we've got it on tape?
 
-337
-00:40:34,148 --> 00:40:37,235
+
+
 Yes.
 It's already on the Internet.
 
-338
-00:40:54,503 --> 00:40:56,713
+
+
 - What are you doing?
 - Sorry?
 
-339
-00:40:56,880 --> 00:41:00,675
+
+
 - Go and sleep in your own bed.
 - I want to be close to you.
 
-340
-00:41:03,887 --> 00:41:06,097
+
+
 OK, but I want to sleep.
 
-341
-00:41:17,150 --> 00:41:21,320
+
+
 What has happened to you?
 How did you turn out this way?
 
-342
-00:41:25,784 --> 00:41:30,581
+
+
 You know everything about me.
 I don't know shit about you.
 
-343
-00:41:32,623 --> 00:41:34,668
+
+
 Not a damn thing.
 
-344
-00:41:36,420 --> 00:41:38,505
+
+
 That's the way it is.
 
-345
-00:42:16,210 --> 00:42:18,711
+
+
 - Who is it?
 - Morell.
 
-346
-00:42:22,173 --> 00:42:24,717
+
+
 I've found the last one.
 
-347
-00:42:24,885 --> 00:42:28,472
+
+
 Rebecka Jacobsson, nickname Bea.
 
-348
-00:42:29,764 --> 00:42:31,016
+
+
 BJ.
 
-349
-00:42:32,518 --> 00:42:35,436
+
+
 That's why we didn't find her.
 
-350
-00:42:36,063 --> 00:42:40,608
+
+
 "A man or a woman who is a medium
 or a spiritist among you...
 
-351
-00:42:40,775 --> 00:42:44,070
+
+
 must be put to death.
 You are to stone them."
 
-352
-00:42:47,074 --> 00:42:49,117
+
+
 It's her.
 
-353
-00:42:50,202 --> 00:42:52,954
+
+
 - Where was she killed?
 - In Karlstad.
 
-354
-00:42:53,121 --> 00:42:55,456
+
+
 But that's not the interesting part.
 
-355
-00:42:55,623 --> 00:43:01,045
+
+
 Rebecka worked for the Vanger Group
 until her death in January 1965.
 
-356
-00:43:02,130 --> 00:43:05,384
+
+
 As a secretary for Gottfried Vanger.
 
-357
-00:43:05,550 --> 00:43:08,887
+
+
 Gottfried died before
 Harriet disappeared. So it wasn't him.
 
-358
-00:43:09,054 --> 00:43:13,391
+
+
 But we've got to check if she knew
 other members of the Vanger family.
 
-359
-00:43:13,559 --> 00:43:17,980
+
+
 - Do you have the reports?
 - Karlstad is sending them.
 
-360
-00:43:34,788 --> 00:43:36,956
+
+
 - Hold on.
 - What?
 
-361
-00:43:37,123 --> 00:43:39,668
+
+
 Rebecka and Sara are Jewish names.
 
-362
-00:43:39,835 --> 00:43:41,628
+
+
 - Magda...
 - Magdalena.
 
-363
-00:43:43,547 --> 00:43:46,257
+
+
 Mari, Maria. But Liv?
 
-364
-00:43:50,429 --> 00:43:54,807
+
+
 Liv means Eve. I bet
 Liv Ingvartsson was Jewish as well.
 
-365
-00:43:54,974 --> 00:43:59,438
+
+
 Racist murders.
 It fits the pseudo religious rituals.
 
-366
-00:44:01,481 --> 00:44:03,858
+
+
 But what about Harriet?
 
-367
-00:44:04,025 --> 00:44:07,612
+
+
 Harriet died because she discovered a pattern.
 
-368
-00:44:07,778 --> 00:44:10,197
+
+
 How the hell could we miss it?
 
-369
-00:44:10,364 --> 00:44:14,161
+
+
 They're Jewish names. There were
 three Nazis in the Vanger family.
 
-370
-00:44:14,327 --> 00:44:17,039
+
+
 Only one was still alive when Harriet died.
 
-371
-00:44:17,831 --> 00:44:19,416
+
+
 Harald.
 
-372
-00:44:21,083 --> 00:44:24,378
+
+
 Who happened to be hunting
 when you were running in the woods.
 
-373
-00:44:32,637 --> 00:44:35,389
+
+
 The first murder took place there in 1949.
 
-374
-00:44:36,182 --> 00:44:39,978
+
+
 Then Dalarna, Vilhelmina, Uppsala, Karlstad.
 
-375
-00:44:40,144 --> 00:44:43,690
+
+
 If Harald has been there, he's left traces.
 
-376
-00:44:43,856 --> 00:44:48,027
+
+
 - What do you mean?
 - The accounts of the Vanger Group.
 
-377
-00:44:48,195 --> 00:44:52,907
+
+
 Business travels. There must be
 evidence. Restaurant and hotel bills.
 
-378
-00:44:53,074 --> 00:44:55,786
+
+
 You think he got a tax deduction for murder?
 
-379
-00:44:55,952 --> 00:44:59,539
+
+
 Well, I know about businessmen.
 
-380
-00:45:00,581 --> 00:45:04,293
+
+
 Even if we can prove he's been
 everywhere, it's not enough.
 
-381
-00:45:09,007 --> 00:45:13,302
+
+
 - Maybe he's hunting now.
 - You suggest we break in?
 
-382
-00:45:18,432 --> 00:45:21,936
+
+
 We keep a staff of accountants in Hedestad.
 
-383
-00:45:22,103 --> 00:45:24,898
+
+
 Do you think they keep records that far back?
 
-384
-00:45:25,065 --> 00:45:30,237
+
+
 I think so.
 May I ask what you're looking for?
 
-385
-00:45:30,403 --> 00:45:33,407
+
+
 I'd rather you didn't,
 but we'll get back to you.
 
-386
-00:45:33,572 --> 00:45:36,117
+
+
 - I'll arrange it with Frode.
 - Thanks.
 
-387
-00:45:36,284 --> 00:45:38,202
+
+
 Mikael.
 
-388
-00:45:38,369 --> 00:45:43,250
+
+
 I'm sorry about the meeting.
 I didn't mean to be difficult.
 
-389
-00:45:43,416 --> 00:45:47,795
+
+
 But protecting the family
 is an ingrained response.
 
-390
-00:45:47,963 --> 00:45:49,422
+
+
 No problem.
 
-391
-00:45:49,588 --> 00:45:52,217
+
+
 - How's your head?
 - Fine, thanks.
 
-392
-00:45:52,384 --> 00:45:54,344
+
+
 Look after yourself.
 
-393
-00:45:56,596 --> 00:45:59,349
+
+
 We need to go back quite a few years.
 
-394
-00:46:00,726 --> 00:46:04,021
+
+
 89... 89...
 
-395
-00:46:05,813 --> 00:46:08,525
+
+
 We need the accounts from 1949 until 1966.
 
-396
-00:46:08,692 --> 00:46:11,987
+
+
 Thank Henrik for his old-fashioned
 business practices.
 
-397
-00:46:12,153 --> 00:46:15,322
+
+
 Otherwise, they would've
 been shredded long ago.
 
-398
-00:46:15,574 --> 00:46:18,784
+
+
 Well, it's all there.
 Knock yourself out.
 
-399
-00:46:21,204 --> 00:46:25,833
+
+
 Miss Salander, what exactly
 have you found so far?
 
-400
-00:46:26,001 --> 00:46:28,461
+
+
 Thank you, that was all.
 
-401
-00:48:13,608 --> 00:48:16,360
+
+
 IN THE NAME OF THE FÜHRER
 I BESTOW...
 
-402
-00:48:54,106 --> 00:48:57,818
+
+
 What the hell are you doing here?
 Answer me!
 
-403
-00:48:58,737 --> 00:49:00,487
+
+
 - Huh?
 - Take it easy.
 
-404
-00:49:00,655 --> 00:49:05,702
+
+
 You're gonna write about me
 in your damn communist magazine?
 
-405
-00:49:05,869 --> 00:49:07,913
+
+
 I'm leaving now. Don't shoot.
 
-406
-00:49:08,079 --> 00:49:12,416
+
+
 You broke into my home,
 so I'm free to kill you.
 
-407
-00:49:12,583 --> 00:49:15,211
+
+
 What the hell is going on here?
 
-408
-00:49:16,253 --> 00:49:19,173
+
+
 - Freeze!
 - Drop the gun, Harald.
 
-409
-00:49:19,340 --> 00:49:22,427
+
+
 - Come on, drop it.
 - Stay out of it!
 
-410
-00:49:24,637 --> 00:49:26,847
+
+
 Drop the gun. Drop it.
 
-411
-00:49:40,110 --> 00:49:41,570
+
+
 Are you OK?
 
-412
-00:49:42,489 --> 00:49:46,659
+
+
 How the hell could Gottfried
 have such a wuss of a son?
 
-413
-00:49:50,579 --> 00:49:52,581
+
+
 HARALD NO
 MALMÖ
 
-414
-00:49:54,918 --> 00:49:57,253
+
+
 HARALD IMPOSSIBLE
 HOTEL IN STOCKHOLM
 
-415
-00:49:57,420 --> 00:49:59,547
+
+
 HARALD NO
 HAMBURG
 
-416
-00:50:00,840 --> 00:50:02,300
+
+
 Harald...
 
-417
-00:50:07,264 --> 00:50:08,597
+
+
 No.
 
-418
-00:50:17,690 --> 00:50:19,150
+
+
 No.
 
-419
-00:50:25,447 --> 00:50:29,619
+
+
 - We've got to call Morell.
 - We can call him from my place.
 
-420
-00:50:31,621 --> 00:50:35,666
+
+
 Harald's not going anywhere.
 Come on.
 
-421
-00:50:59,273 --> 00:51:01,318
+
+
 Gottfried?
 
-422
-00:51:12,244 --> 00:51:13,788
+
+
 Gottfried.
 
-423
-00:51:28,427 --> 00:51:30,554
+
+
 Uppsala 1964!
 
-424
-00:51:47,697 --> 00:51:49,657
+
+
 January, February...
 
-425
-00:51:50,532 --> 00:51:52,284
+
+
 April...
 
-426
-00:51:57,664 --> 00:51:58,791
+
+
 VANGER OFFICES IN SWEDEN
 
-427
-00:51:58,958 --> 00:52:01,001
+
+
 Wasn't there a group photo?
 
-428
-00:52:05,507 --> 00:52:07,967
+
+
 What the hell?
 
-429
-00:52:09,594 --> 00:52:11,721
+
+
 Can that be right?
 
-430
-00:52:18,853 --> 00:52:20,688
+
+
 Blue sweater.
 
-431
-00:52:31,699 --> 00:52:33,492
+
+
 What the fuck?
 
-432
-00:52:34,994 --> 00:52:36,663
+
+
 Shit.
 
-433
-00:52:54,639 --> 00:52:56,641
+
+
 Is it helping?
 
-434
-00:52:56,807 --> 00:53:00,728
+
+
 - He gave me a hell of a scare.
 - You don't mess with Harald.
 
-435
-00:53:01,980 --> 00:53:04,606
+
+
 What were you doing in his house?
 
-436
-00:53:06,192 --> 00:53:11,739
+
+
 Harriet discovered a handful
 of murders from the '40s to the '60s.
 
-437
-00:53:11,905 --> 00:53:16,034
+
+
 We know she found a pattern
 the police didn't know about.
 
-438
-00:53:16,202 --> 00:53:19,164
+
+
 We believe that's why she was killed.
 
-439
-00:53:20,581 --> 00:53:24,918
+
+
 But that...
 It sounds totally insane.
 
-440
-00:53:25,670 --> 00:53:29,007
+
+
 We've found a pattern regarding the victims.
 
-441
-00:53:29,548 --> 00:53:32,135
+
+
 They all had Jewish names.
 
-442
-00:53:32,302 --> 00:53:37,724
+
+
 Well, Harald isn't exactly
 crazy about Abraham's kin.
 
-443
-00:53:37,891 --> 00:53:41,478
+
+
 No. So I went to his house
 to see if I could find anything.
 
-444
-00:53:43,480 --> 00:53:46,106
+
+
 - And?
 - What do I know?
 
-445
-00:53:47,983 --> 00:53:50,110
+
+
 He turned up so soon.
 
-446
-00:53:51,195 --> 00:53:55,365
+
+
 But he didn't exactly act all innocent.
 
-447
-00:53:55,532 --> 00:53:57,242
+
+
 No.
 
-448
-00:53:57,409 --> 00:54:00,954
+
+
 If Lisbeth can track down
 his travel activities from the accounts,
 
-449
-00:54:01,121 --> 00:54:04,958
+
+
 we've got evidence against him.
 Bills, invoices.
 
-450
-00:54:05,126 --> 00:54:07,003
+
+
 She's going through everything.
 
-451
-00:54:20,349 --> 00:54:23,018
+
+
 Very well. I'll call the police.
 
-452
-00:54:24,103 --> 00:54:25,938
+
+
 Try Morell.
 
-453
-00:54:52,382 --> 00:54:54,634
+
+
 What were you doing at Harald's?
 
-454
-00:54:57,344 --> 00:54:59,264
+
+
 There, there.
 
-455
-00:55:37,302 --> 00:55:41,389
+
+
 Scream as much as you want to, Mikael.
 Scream as much as you can.
 
-456
-00:55:41,556 --> 00:55:43,682
+
+
 You think anyone'll hear you?
 
-457
-00:56:11,543 --> 00:56:14,838
+
+
 We both know how it's going to end for you.
 
-458
-00:56:25,016 --> 00:56:26,851
+
+
 Why?
 
-459
-00:56:27,893 --> 00:56:29,728
+
+
 Why what?
 
-460
-00:56:30,605 --> 00:56:33,023
+
+
 - All of this.
 - Why not?
 
-461
-00:56:34,442 --> 00:56:38,278
+
+
 I'm doing what every man dreams of.
 I take what I want.
 
-462
-00:56:40,947 --> 00:56:43,701
+
+
 How many women after the first?
 
-463
-00:56:45,161 --> 00:56:48,498
+
+
 I don't know.
 I've lost count.
 
-464
-00:56:48,664 --> 00:56:52,960
+
+
 I had a girl in that cage
 when we were dining upstairs.
 
-465
-00:56:54,628 --> 00:56:58,965
+
+
 Those kinds of women disappear
 all the time. Nobody misses them.
 
-466
-00:57:00,134 --> 00:57:02,679
+
+
 Whores, immigrants.
 
-467
-00:57:04,514 --> 00:57:06,932
+
+
 Fucking hell.
 
-468
-00:57:14,398 --> 00:57:17,443
+
+
 What do you do with them?
 
-469
-00:57:17,610 --> 00:57:19,987
+
+
 What about the references, the mutilations...
 
-470
-00:57:23,199 --> 00:57:28,454
+
+
 That was my father's project. He mixed
 his hobby with race and religion.
 
-471
-00:57:28,621 --> 00:57:33,668
+
+
 But it was a mistake.
 You shouldn't leave the bodies behind.
 
-472
-00:57:37,880 --> 00:57:42,844
+
+
 I take them for a trip in my boat
 and then I drop them in the sea.
 
-473
-00:57:55,440 --> 00:57:57,442
+
+
 Mikael?
 
-474
-00:58:31,099 --> 00:58:33,186
+
+
 Mari was my first.
 
-475
-00:58:36,563 --> 00:58:38,023
+
+
 '64.
 
-476
-00:58:39,400 --> 00:58:41,110
+
+
 You were 16 years old.
 
-477
-00:58:41,277 --> 00:58:46,907
+
+
 It was Dad, Gottfried, who taught me
 how I should strangle her.
 
-478
-00:58:56,166 --> 00:58:58,085
+
+
 It's sick.
 
-479
-00:58:58,753 --> 00:59:00,963
+
+
 It's mainly for the sex.
 
-480
-00:59:02,422 --> 00:59:07,512
+
+
 When I put them down, it's only
 a logical consequence of the rape.
 
-481
-00:59:07,677 --> 00:59:10,097
+
+
 You can't leave any witnesses.
 
-482
-00:59:10,264 --> 00:59:15,186
+
+
 Even though I have to admit
 I love seeing their disappointment.
 
-483
-00:59:18,021 --> 00:59:22,235
+
+
 - Disappointment?
 - They don't realise that they'll die.
 
-484
-00:59:23,277 --> 00:59:28,282
+
+
 It doesn't really fit into
 their scheme of things.
 
-485
-00:59:28,449 --> 00:59:31,827
+
+
 They always think I'll show them mercy.
 
-486
-00:59:34,329 --> 00:59:36,833
+
+
 It's a fantastic moment...
 
-487
-00:59:38,918 --> 00:59:42,170
+
+
 when they realise
 they're not getting away.
 
-488
-00:59:44,215 --> 00:59:46,217
+
+
 When the eyes...
 
-489
-00:59:47,217 --> 00:59:49,679
+
+
 switch off and die.
 
-490
-00:59:51,681 --> 00:59:54,141
+
+
 You'll experience that yourself.
 
-491
-00:59:57,644 --> 01:00:01,731
+
+
 And your sister? What did it feel like
 when your sister's eyes died?
 
-492
-01:00:01,898 --> 01:00:04,985
+
+
 - Harriet disappeared.
 - You want me to believe that?
 
-493
-01:00:05,152 --> 01:00:07,362
+
+
 Believe what the hell you want to.
 
-494
-01:00:10,574 --> 01:00:14,244
+
+
 I would have enjoyed killing her.
 But she disappeared.
 
-495
-01:00:15,036 --> 01:00:17,123
+
+
 Just like you'll disappear.
 
-496
-01:00:23,880 --> 01:00:26,090
+
+
 Do you want some water?
 
-497
-01:00:29,719 --> 01:00:31,094
+
+
 Sure.
 
-498
-01:00:46,027 --> 01:00:47,402
+
+
 Thanks.
 
-499
-01:00:48,905 --> 01:00:52,657
+
+
 You see...
 you're just like everybody else.
 
-500
-01:00:54,159 --> 01:00:59,789
+
+
 It only takes a simple human gesture
 to ignite a small hope
 
-501
-01:00:59,956 --> 01:01:03,543
+
+
 that I might let you go after all.
 
-502
-01:01:07,005 --> 01:01:08,507
+
+
 Right?
 
-503
-01:01:41,248 --> 01:01:44,543
+
+
 Take it easy.
 It'll be quick.
 
-504
-01:01:47,128 --> 01:01:50,800
+
+
 I'm mostly looking forward
 to your little girlfriend.
 
-505
-01:02:06,023 --> 01:02:08,025
+
+
 Come on, you little cunt.
 
-506
-01:02:24,916 --> 01:02:26,876
+
+
 Are you OK?
 
-507
-01:03:09,586 --> 01:03:11,422
+
+
 Fuck!
 
-508
-01:04:31,168 --> 01:04:33,628
+
+
 I can't...
 
-509
-01:04:34,797 --> 01:04:36,632
+
+
 I can't...
 
-510
-01:04:38,759 --> 01:04:40,969
+
+
 I can't move.
 
-511
-01:04:43,472 --> 01:04:46,099
+
+
 I can't move.
 
-512
-01:04:49,311 --> 01:04:51,146
+
+
 Help me.
 
-513
-01:04:53,731 --> 01:04:56,235
+
+
 Please help me.
 
-514
-01:06:54,603 --> 01:06:59,525
+
+
 - Where's Martin?
 - He's not coming back.
 
-515
-01:07:03,070 --> 01:07:04,989
+
+
 What do you mean?
 
-516
-01:07:06,907 --> 01:07:09,076
+
+
 He drove to his death.
 
-517
-01:07:14,164 --> 01:07:17,041
+
+
 - He's finished.
 - Are you positive?
 
-518
-01:07:20,670 --> 01:07:22,922
+
+
 What the hell did you do?
 
-519
-01:07:24,842 --> 01:07:28,469
+
+
 He died in a car accident.
 We don't know anything. OK?
 
-520
-01:07:38,856 --> 01:07:40,231
+
+
 Blomkvist!
 
-521
-01:07:42,818 --> 01:07:45,945
+
+
 - What the hell happened here?
 - The cellar.
 
-522
-01:08:10,262 --> 01:08:12,347
+
+
 What happened out there?
 
-523
-01:08:17,644 --> 01:08:20,021
+
+
 He didn't die in an accident, did he?
 
-524
-01:08:24,693 --> 01:08:26,694
+
+
 Damn it, Lisbeth.
 
-525
-01:08:26,862 --> 01:08:31,408
+
+
 His father taught him to kill
 when he was 16 years old.
 
-526
-01:08:32,493 --> 01:08:35,578
+
+
 That would make anybody sick in the brain.
 
-527
-01:08:35,746 --> 01:08:39,750
+
+
 Don't make him into a fucking victim.
 He nearly killed you.
 
-528
-01:08:39,917 --> 01:08:42,668
+
+
 He was a killer and a rapist,
 and he enjoyed it.
 
-529
-01:08:42,836 --> 01:08:47,091
+
+
 He had the same chances as everyone
 else. You choose who you want to be.
 
-530
-01:08:47,256 --> 01:08:51,677
+
+
 He wasn't a victim. He was
 an evil motherfucker who hated women.
 
-531
-01:08:56,850 --> 01:08:58,851
+
+
 How did he die?
 
-532
-01:09:04,233 --> 01:09:05,984
+
+
 He burned to death.
 
-533
-01:09:11,198 --> 01:09:14,784
+
+
 - Could you have saved him?
 - Yes.
 
-534
-01:09:14,952 --> 01:09:17,996
+
+
 - But you let him burn.
 - Yes.
 
-535
-01:10:03,667 --> 01:10:06,502
+
+
 I would never have done that, Lisbeth.
 
-536
-01:10:08,296 --> 01:10:11,425
+
+
 But I understand why you did it.
 
-537
-01:10:14,761 --> 01:10:17,389
+
+
 I don't know what you've been through.
 
-538
-01:10:20,766 --> 01:10:23,854
+
+
 But I almost died in that cellar...
 
-539
-01:10:25,189 --> 01:10:27,440
+
+
 and you saved my life.
 
-540
-01:10:33,613 --> 01:10:35,948
+
+
 Whatever it is you've been through,
 
-541
-01:10:38,493 --> 01:10:41,121
+
+
 you don't have to tell me.
 
-542
-01:10:44,582 --> 01:10:47,043
+
+
 I'm just glad you're here.
 
-543
-01:10:58,430 --> 01:10:59,931
+
+
 Thanks.
 
-544
-01:11:17,157 --> 01:11:20,493
+
+
 For the first time in my life I feel old.
 
-545
-01:11:30,503 --> 01:11:34,216
+
+
 Well... What do we do now?
 
-546
-01:11:37,176 --> 01:11:40,180
+
+
 We'll have to identify all the victims.
 
-547
-01:11:43,350 --> 01:11:45,269
+
+
 Notify their next of kin.
 
-548
-01:11:47,854 --> 01:11:52,024
+
+
 Get in touch with the ones we can find
 and tell them what happened.
 
-549
-01:11:54,235 --> 01:11:56,363
+
+
 How can one ever make it up to them?
 
-550
-01:11:59,198 --> 01:12:03,787
+
+
 By providing some kind
 of financial compensation? No.
 
-551
-01:12:04,662 --> 01:12:09,876
+
+
 Well, Mikael, it's the story of the decade.
 
-552
-01:12:12,212 --> 01:12:15,881
+
+
 You've got your work cut out for you
 while you're in prison.
 
-553
-01:12:18,885 --> 01:12:21,430
+
+
 It's a good story.
 
-554
-01:12:22,221 --> 01:12:24,265
+
+
 But I'm not going to write about it.
 
-555
-01:12:28,311 --> 01:12:30,439
+
+
 I don't know how to thank you.
 
-556
-01:12:30,605 --> 01:12:33,734
+
+
 You solved a mystery that occupied
 far too many years of my life.
 
-557
-01:12:36,778 --> 01:12:41,115
+
+
 Well, it was my very first case.
 
-558
-01:12:42,408 --> 01:12:44,661
+
+
 How fitting that it would be my last.
 
-559
-01:12:50,958 --> 01:12:53,295
+
+
 We're not finished yet.
 
-560
-01:12:54,546 --> 01:12:56,131
+
+
 What do you mean?
 
-561
-01:12:56,297 --> 01:12:58,966
+
+
 Harriet wasn't one of Martin's victims.
 
-562
-01:12:59,134 --> 01:13:00,469
+
+
 What are you saying?
 
-563
-01:13:00,636 --> 01:13:03,387
+
+
 Martin didn't kill Harriet.
 
-564
-01:13:11,771 --> 01:13:13,939
+
+
 Lisbeth?
 
-565
-01:13:16,777 --> 01:13:18,487
+
+
 Lisbeth?
 
-566
-01:13:42,677 --> 01:13:46,972
+
+
 THERE ARE TWO ANITA VANGERS.
 ONE OF THEM DIED IN LONDON.
 
-567
-01:13:47,140 --> 01:13:52,813
+
+
 THE OTHER ONE LIVES IN AUSTRALIA.
 FIRST ENTRY INTO THE COUNTRY IN 1966.
 
-568
-01:15:02,423 --> 01:15:04,301
+
+
 Harriet?
 
-569
-01:15:07,679 --> 01:15:09,597
+
+
 Harriet Vanger?
 
-570
-01:15:20,358 --> 01:15:22,234
+
+
 Harriet Vanger?
 
-571
-01:15:35,539 --> 01:15:40,503
+
+
 Yes. You and your cousin babysat me
 when I was a small boy.
 
-572
-01:15:43,297 --> 01:15:46,426
+
+
 But I'm here on behalf of Henrik Vanger.
 
-573
-01:15:59,523 --> 01:16:01,608
+
+
 Does he know I'm alive?
 
-574
-01:16:06,488 --> 01:16:08,198
+
+
 Not yet.
 
-575
-01:16:11,076 --> 01:16:15,247
+
+
 Is this to do with my brother's
 death in a car accident?
 
-576
-01:16:15,412 --> 01:16:19,376
+
+
 - How did you know that?
 - We do have Internet access here.
 
-577
-01:16:25,881 --> 01:16:28,301
+
+
 Your brother did this.
 
-578
-01:16:30,554 --> 01:16:32,555
+
+
 He nearly killed me.
 
-579
-01:16:41,146 --> 01:16:43,274
+
+
 It doesn't surprise me.
 
-580
-01:16:49,363 --> 01:16:51,908
+
+
 I'm here to visit Agneta Salander.
 
-581
-01:16:52,074 --> 01:16:55,453
+
+
 - Who can I say it is?
 - Her daughter.
 
-582
-01:16:55,619 --> 01:16:59,123
+
+
 Her daughter?
 Are you Agneta's daughter?
 
-583
-01:17:01,292 --> 01:17:04,796
+
+
 I'm sorry, it's just...
 I've never seen you before.
 
-584
-01:17:06,131 --> 01:17:08,675
+
+
 A visitor for Agneta Salander.
 
-585
-01:17:10,092 --> 01:17:11,886
+
+
 OK.
 
-586
-01:17:12,052 --> 01:17:13,721
+
+
 Room 314.
 
-587
-01:17:51,342 --> 01:17:53,011
+
+
 Hi, Mum.
 
-588
-01:17:56,514 --> 01:17:57,974
+
+
 Mum?
 
-589
-01:18:00,518 --> 01:18:02,811
+
+
 It's me. Lisbeth.
 
-590
-01:18:11,738 --> 01:18:13,530
+
+
 Lisbeth...
 
-591
-01:18:22,039 --> 01:18:24,083
+
+
 Are you Lisbeth?
 
-592
-01:18:26,002 --> 01:18:28,921
+
+
 I wanted to come a long time ago.
 
-593
-01:18:37,430 --> 01:18:39,724
+
+
 You look so different now.
 
-594
-01:18:46,523 --> 01:18:49,943
+
+
 - Do you have kids?
 - No.
 
-595
-01:18:53,779 --> 01:18:55,698
+
+
 A boyfriend?
 
-596
-01:19:00,619 --> 01:19:02,579
+
+
 There is someone...
 
-597
-01:19:08,502 --> 01:19:11,088
+
+
 but you should never fall in love.
 
-598
-01:19:11,922 --> 01:19:14,634
+
+
 You know that better than anyone.
 
-599
-01:19:19,805 --> 01:19:21,725
+
+
 Right, Mum?
 
-600
-01:19:29,899 --> 01:19:33,069
+
+
 I should have picked a better father for you.
 
-601
-01:19:34,570 --> 01:19:38,742
+
+
 Mum...
 It was you he harmed.
 
-602
-01:19:46,750 --> 01:19:48,460
+
+
 Mum...
 
-603
-01:19:59,720 --> 01:20:01,555
+
+
 Come in.
 
-604
-01:20:07,186 --> 01:20:10,064
+
+
 Mikael. Welcome back.
 
-605
-01:20:12,649 --> 01:20:17,113
+
+
 I've got a nice surprise. Promise me
 you won't have a heart attack.
 
-606
-01:20:17,279 --> 01:20:21,367
+
+
 With all the pills I'm popping at the moment,
 
-607
-01:20:21,533 --> 01:20:25,121
+
+
 I think it's physically impossible
 to have a heart attack.
 
-608
-01:20:52,899 --> 01:20:54,734
+
+
 Harriet?
 
-609
-01:21:16,588 --> 01:21:18,423
+
+
 Forgive me.
 
-610
-01:21:29,101 --> 01:21:31,020
+
+
 I'm sorry.
 
-611
-01:21:34,106 --> 01:21:35,984
+
+
 I'm sorry.
 
-612
-01:21:46,411 --> 01:21:50,081
+
+
 I was 14 when Dad raped me for the first time.
 
-613
-01:21:51,541 --> 01:21:54,586
+
+
 A year later he took me to his cottage.
 
-614
-01:21:56,837 --> 01:21:58,715
+
+
 Then Martin joined in.
 
-615
-01:22:02,010 --> 01:22:07,140
+
+
 They abused me again several times after that.
 
-616
-01:22:11,019 --> 01:22:13,145
+
+
 One day I'd had enough.
 
-617
-01:22:17,567 --> 01:22:20,153
+
+
 <i>Dad was drunk as usual.</i>
 
-618
-01:22:28,368 --> 01:22:33,416
+
+
 <i>He reeled off Bible verses and boasted
 about all the women he'd killed.</i>
 
-619
-01:22:41,216 --> 01:22:43,885
+
+
 I took the oar and hit him hard.
 
-620
-01:22:53,185 --> 01:22:56,730
+
+
 <i>I forced him underwater until
 the surface became still.</i>
 
-621
-01:23:14,832 --> 01:23:18,418
+
+
 Then I pushed the boat out
 to make it look like an accident.
 
-622
-01:23:20,712 --> 01:23:23,091
+
+
 <i>But when I turned around...</i>
 
-623
-01:23:25,969 --> 01:23:28,345
+
+
 <i>Martin was there.</i>
 
-624
-01:23:31,056 --> 01:23:34,351
+
+
 <i>Martin treated me even worse than Gottfried.</i>
 
-625
-01:23:35,603 --> 01:23:38,939
+
+
 <i>You sent him to a boarding school in Uppsala,</i>
 
-626
-01:23:39,106 --> 01:23:42,443
+
+
 <i>but on Children's Day he came back.</i>
 
-627
-01:23:44,569 --> 01:23:48,115
+
+
 <i>I was terrified it would start all over again.</i>
 
-628
-01:23:56,623 --> 01:23:58,917
+
+
 And then you went to Anita?
 
-629
-01:23:59,752 --> 01:24:03,881
+
+
 Anita helped me out of here.
 
-630
-01:24:04,047 --> 01:24:08,511
+
+
 When the bridge was opened, she drove the car.
 
-631
-01:24:08,677 --> 01:24:13,099
+
+
 I was in the back seat under a blanket.
 
-632
-01:24:17,478 --> 01:24:20,314
+
+
 I've been thinking of you all these years.
 
-633
-01:24:20,480 --> 01:24:25,653
+
+
 I sent you the framed flowers...
 
-634
-01:24:25,819 --> 01:24:29,990
+
+
 because I wanted to tell you
 that I was out there somewhere.
 
-635
-01:24:32,909 --> 01:24:38,373
+
+
 So I was sad to hear Mikael tell me
 what you'd read into them.
 
-636
-01:24:39,207 --> 01:24:44,505
+
+
 If you hadn't sent them,
 you wouldn't be sitting here now.
 
-637
-01:24:54,474 --> 01:24:55,932
+
+
 No.
 
-638
-01:25:12,449 --> 01:25:14,743
+
+
 Lisbeth, it's me again.
 
-639
-01:25:16,371 --> 01:25:18,706
+
+
 Call me if you get this.
 
-640
-01:25:21,501 --> 01:25:25,380
+
+
 I hope you're all right.
 Call me.
 
-641
-01:25:38,475 --> 01:25:40,228
+
+
 You've got a visitor.
 
-642
-01:25:40,811 --> 01:25:42,563
+
+
 Thirty minutes.
 
-643
-01:25:50,529 --> 01:25:53,073
+
+
 I'm so happy to see you.
 
-644
-01:26:00,163 --> 01:26:01,498
+
+
 Here.
 
-645
-01:26:02,332 --> 01:26:05,002
+
+
 - What's this?
 - A bit of reading.
 
-646
-01:26:12,176 --> 01:26:16,430
+
+
 - Don't you want to sit down?
 - I just wanted to give you that.
 
-647
-01:26:35,449 --> 01:26:38,286
+
+
 I've only got one and a half months left.
 
-648
-01:27:09,108 --> 01:27:11,569
+
+
 EVERYBODY'S GOT SECRETS
 
-649
-01:27:54,487 --> 01:28:00,408
+
+
 WENNERSTRÖM'S EMPIRE RESEMBLES
 A LIVING, BREATHING ORGANISM...
 
-650
-01:28:02,787 --> 01:28:06,791
+
+
 <i>Reporter Mikael Blomkvist,
 who's served a sentence</i>
 
-651
-01:28:06,957 --> 01:28:10,127
+
+
 <i>for libelling
 the tycoon Hans-Erik Wennerström,</i>
 
-652
-01:28:10,293 --> 01:28:12,712
+
+
 <i>now accuses Wennerström again.</i>
 
-653
-01:28:12,880 --> 01:28:15,507
+
+
 <i>In the magazine</i> Millennium,
 
-654
-01:28:15,675 --> 01:28:19,554
+
+
 <i>Blomkvist accuses Wennerström
 of using his companies</i>
 
-655
-01:28:19,720 --> 01:28:22,556
+
+
 <i>to commit serious financial crimes.</i>
 
-656
-01:28:22,722 --> 01:28:26,351
+
+
 - Why are you going after him again?
 - It makes you wonder.
 
-657
-01:28:26,519 --> 01:28:29,896
+
+
 - What will happen to Wennerström?
 - There's an empty cell now.
 
-658
-01:28:30,064 --> 01:28:35,903
+
+
 <i>It's a tangled web, where the value
 of Wennerström Group holdings</i>
 
-659
-01:28:36,069 --> 01:28:40,658
+
+
 <i>has been inflated by investments
 in fictitious "mailbox firms".</i>
 
-660
-01:28:40,824 --> 01:28:46,663
+
+
 <i>Blomkvist describes an empire
 founded on phoney options, accounts,</i>
 
-661
-01:28:46,831 --> 01:28:50,792
+
+
 <i>loan guarantees and foreign
 exchange transactions.</i>
 
-662
-01:28:50,960 --> 01:28:56,090
+
+
 Millennium <i>also reveals that</i>
 <i>the group supports Third World cartels,</i>
 
-663
-01:28:56,256 --> 01:29:02,137
+
+
 <i>cartels that are involved
 in drug trafficking and gunrunning.</i>
 
-664
-01:29:04,390 --> 01:29:05,807
+
+
 Janne.
 
-665
-01:29:05,975 --> 01:29:12,480
+
+
 <i>And a member of the</i> Millennium <i>staff</i>
 <i>has been on the group's payroll,</i>
 
-666
-01:29:12,648 --> 01:29:19,697
+
+
 <i>feeding them with information and
 undermining the publication's efforts.</i>
 
-667
-01:29:19,863 --> 01:29:23,576
+
+
 <i>This is the latest of many
 shocking developments...</i>
 
-668
-01:29:35,296 --> 01:29:37,256
+
+
 Really special.
 
-669
-01:29:37,422 --> 01:29:39,091
+
+
 There he is!
 
-670
-01:29:42,094 --> 01:29:44,180
+
+
 Micke! Micke! Micke!
 
-671
-01:29:50,226 --> 01:29:52,520
+
+
 - Cheers!
 - Cheers!
 
-672
-01:30:00,112 --> 01:30:03,740
+
+
 <i>The wanted tycoon Wennerström</i>
 
-673
-01:30:03,908 --> 01:30:08,078
+
+
 <i>was found dead this morning
 in an apartment in Marbella, Spain.</i>
 
-674
-01:30:08,244 --> 01:30:12,707
+
+
 <i>A cleaning lady found
 the 44-year-old tycoon.</i>
 
-675
-01:30:12,875 --> 01:30:16,045
+
+
 <i>According to the police, it was suicide.</i>
 
-676
-01:30:16,212 --> 01:30:18,546
+
+
 <i>There's no suspicion of a crime.</i>
 
-677
-01:31:04,176 --> 01:31:08,264
+
+
 <i>Yet another interesting turn of events
 in the Wennerström case.</i>
 
-678
-01:31:08,430 --> 01:31:13,644
+
+
 <i>When the police examined
 all of Wennerström's bank accounts,</i>
 
-679
-01:31:13,810 --> 01:31:17,648
+
+
 <i>it appeared that a large sum has been withdrawn</i>
 
-680
-01:31:17,814 --> 01:31:20,443
+
+
 <i>from an account in the Cayman Islands.</i>
 
-681
-01:31:20,609 --> 01:31:24,779
+
+
 <i>Several million Swedish
 kroner have been withdrawn.</i>
 
-682
-01:31:24,947 --> 01:31:28,451
+
+
 <i>Police are now investigating
 an unidentified woman</i>
 
-683
-01:31:28,617 --> 01:31:32,162
+
+
 <i>who was caught by a surveillance camera.</i>
 
-684
-01:31:46,551 --> 01:31:48,429
+
+
 Lisbeth.

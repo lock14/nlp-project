@@ -1,3784 +1,3784 @@
-1
-00:00:04,800 --> 00:00:08,061
+
+
 <i>At the end of the Ice Age,
 the Machine came. </i>
 
-2
-00:00:09,033 --> 00:00:12,363
+
+
 <i>It came from outside.
 It came from space. </i>
 
-3
-00:00:13,367 --> 00:00:15,094
+
+
 <i>It came with one purpose... </i>
 
-4
-00:00:15,733 --> 00:00:18,325
+
+
 <i>to change Man into Mutant. </i>
 
-5
-00:01:22,864 --> 00:01:24,762
+
+
 <i>After much suffering and death... </i>
 
-6
-00:01:25,098 --> 00:01:27,291
+
+
 <i>a warrior named Neachdainn... </i>
 
-7
-00:01:27,631 --> 00:01:29,824
+
+
 <i>united the ancient tribes of Man. </i>
 
-8
-00:01:31,398 --> 00:01:36,126
+
+
 <i>Together, they sealed the deadly
 Machine beneath the earth. </i>
 
-9
-00:01:55,697 --> 00:01:57,686
+
+
 <i>In the distant mountains
 of eastern Europe... </i>
 
-10
-00:01:57,897 --> 00:02:00,954
+
+
 <i>only The Brotherhood,
 descendants of Neachdainn... </i>
 
-11
-00:02:01,230 --> 00:02:03,855
+
+
 <i>kept knowledge of
 the Machine alive... </i>
 
-12
-00:02:04,264 --> 00:02:09,196
+
+
 <i>in stories, in myths, in the
 sacred book of The Chronicles. </i>
 
-13
-00:02:15,063 --> 00:02:19,791
+
+
 <i>Years later, four Corporations
 ruled the world. </i>
 
-14
-00:02:20,496 --> 00:02:21,962
+
+
 <i>Mishima in the East... </i>
 
-15
-00:02:22,663 --> 00:02:25,322
+
+
 <i>Bauhaus and Imperial
 in Europe and Africa... </i>
 
-16
-00:02:26,263 --> 00:02:28,229
+
+
 <i>Capitol in the West. </i>
 
-17
-00:02:29,763 --> 00:02:32,092
+
+
 <i>Each Corporation fights each other... </i>
 
-18
-00:02:32,563 --> 00:02:36,995
+
+
 <i>for what little resources
 remain in a war without end. </i>
 
-19
-00:02:39,463 --> 00:02:41,326
+
+
 <i>On the muddy planes of Europe... </i>
 
-20
-00:02:41,695 --> 00:02:43,694
+
+
 <i>the Bauhaus Corporation prepares... </i>
 
-21
-00:02:43,729 --> 00:02:46,093
+
+
 <i>for another assault
 on the Capitol lines. </i>
 
-22
-00:02:46,862 --> 00:02:52,488
+
+
 <i>Between them, beneath them,
 the Machine still waits. </i>
 
-23
-00:02:56,629 --> 00:02:58,561
+
+
 Keep it up, lads, put a smile on it.
 
-24
-00:02:59,228 --> 00:03:02,922
+
+
 Will you put that
 fucking cigarette out!
 
-25
-00:03:05,562 --> 00:03:09,551
+
+
 Alright, you Bauhaus bastards,
 what's on today's menu of shit?
 
-26
-00:03:16,462 --> 00:03:18,325
+
+
 Incoming!
 
-27
-00:03:18,628 --> 00:03:20,288
+
+
 Get your lid on, son.
 
-28
-00:03:20,494 --> 00:03:21,926
+
+
 Tuck in! Tuck in!
 
-29
-00:03:28,228 --> 00:03:29,318
+
+
 Keep your heads down.
 
-30
-00:03:31,694 --> 00:03:32,682
+
+
 Enjoy!
 
-31
-00:03:39,361 --> 00:03:41,691
+
+
 Don't pick at it, son.
 It makes it worse.
 
-32
-00:03:45,728 --> 00:03:47,125
+
+
 Fucking hell.
 
-33
-00:03:51,994 --> 00:03:53,789
+
+
 All the fun of the fair, eh?
 
-34
-00:03:58,860 --> 00:04:00,758
+
+
 I want you to destroy them!
 
-35
-00:04:01,660 --> 00:04:03,217
+
+
 You will now fight!
 
-36
-00:04:03,860 --> 00:04:05,917
+
+
 I want to see only ashes remaining!
 
-37
-00:04:08,127 --> 00:04:09,615
+
+
 Advance!
 
-38
-00:04:23,926 --> 00:04:25,415
+
+
 Is Hunter's patrol back yet?
 
-39
-00:04:25,726 --> 00:04:27,692
+
+
 What's left... sir.
 
-40
-00:04:42,559 --> 00:04:44,252
+
+
 More pressure on the exit wound.
 
-41
-00:05:11,558 --> 00:05:12,615
+
+
 What happened?
 
-42
-00:05:12,791 --> 00:05:14,992
+
+
 Ran into cog armour
 five klicks back.
 
-43
-00:05:15,027 --> 00:05:17,355
+
+
 - How strong?
 - Five ATCs.
 
-44
-00:05:17,725 --> 00:05:18,850
+
+
 Shit, a full platoon.
 
-45
-00:05:19,025 --> 00:05:20,690
+
+
 We left them bogged
 down in the wire.
 
-46
-00:05:20,725 --> 00:05:23,384
+
+
 They called in our position, ran
 eight-eighties right up our ass...
 
-47
-00:05:23,591 --> 00:05:25,784
+
+
 Once they get through this wire,
 they'll be right on top of us.
 
-48
-00:05:25,992 --> 00:05:28,651
+
+
 - Just another day.
 - Right, fucking on top of us.
 
-49
-00:05:37,790 --> 00:05:39,586
+
+
 Shit, here they come.
 
-50
-00:05:40,591 --> 00:05:42,216
+
+
 I guess dead men don't smoke, huh?
 
-51
-00:05:55,490 --> 00:05:59,048
+
+
 Gracias, Padre. I feel
 all cleansed and shit.
 
-52
-00:06:01,457 --> 00:06:03,423
+
+
 Sergeant? Would you receive grace?
 
-53
-00:06:04,123 --> 00:06:05,555
+
+
 Top's going straight to hell.
 
-54
-00:06:06,023 --> 00:06:08,387
+
+
 You know your Top
 used to be an officer.
 
-55
-00:06:09,223 --> 00:06:10,519
+
+
 A klick and closing, lads.
 
-56
-00:06:10,790 --> 00:06:13,017
+
+
 That's right. We went through
 the Academy and everything.
 
-57
-00:06:13,789 --> 00:06:15,153
+
+
 They're nearly with us, lads.
 
-58
-00:06:19,923 --> 00:06:21,287
+
+
 Then one morning he woke up...
 
-59
-00:06:22,589 --> 00:06:26,113
+
+
 with an extremely nasty case
 of, 'I don't give a fuck'.
 
-60
-00:06:27,290 --> 00:06:30,754
+
+
 A fuck about what?
 Every yard we take...
 
-61
-00:06:30,789 --> 00:06:34,312
+
+
 every Cog we kill, some fat
 fuck's stock goes up two points.
 
-62
-00:06:36,189 --> 00:06:37,985
+
+
 But it's not about
 the money, is it, Sarge?
 
-63
-00:06:38,222 --> 00:06:40,122
+
+
 Ends up where they give
 cash bonuses to officers...
 
-64
-00:06:40,157 --> 00:06:41,679
+
+
 based on body count.
 
-65
-00:06:43,789 --> 00:06:45,054
+
+
 Sometimes, I think
 you don't believe...
 
-66
-00:06:45,089 --> 00:06:48,146
+
+
 in the righteousness of our
 mighty Corporation, Sergeant.
 
-67
-00:06:49,855 --> 00:06:51,412
+
+
 They don't pay me to believe, sir.
 
-68
-00:06:52,556 --> 00:06:53,816
+
+
 Absolutely right.
 
-69
-00:06:54,456 --> 00:06:57,580
+
+
 They pay you to fuck shit up.
 
-70
-00:07:04,122 --> 00:07:05,053
+
+
 Down!
 
-71
-00:07:10,722 --> 00:07:12,922
+
+
 Right, ladies...
 this is it, let's get to it.
 
-72
-00:07:12,957 --> 00:07:14,081
+
+
 Up you get! Up you get!
 
-73
-00:07:15,355 --> 00:07:16,719
+
+
 Step to it, boys.
 
-74
-00:07:17,388 --> 00:07:18,251
+
+
 Now!
 
-75
-00:07:39,021 --> 00:07:42,714
+
+
 Come on, ladies. I want you to
 show those Cogs your war face.
 
-76
-00:07:43,021 --> 00:07:44,282
+
+
 Come on, lads, step to it.
 
-77
-00:07:44,954 --> 00:07:45,977
+
+
 Lock and load.
 
-78
-00:07:52,621 --> 00:07:53,746
+
+
 Come on, Chita.
 
-79
-00:07:54,254 --> 00:07:56,652
+
+
 Easy, lads, wait for it.
 
-80
-00:07:59,721 --> 00:08:01,016
+
+
 Easy.
 
-81
-00:08:06,987 --> 00:08:08,180
+
+
 Let them have it, lads.
 
-82
-00:08:41,086 --> 00:08:42,643
+
+
 Incoming!
 
-83
-00:08:43,752 --> 00:08:45,048
+
+
 Gas!
 
-84
-00:08:46,453 --> 00:08:49,442
+
+
 Masks on now! Come on!
 
-85
-00:09:41,684 --> 00:09:42,809
+
+
 Fuck!
 
-86
-00:09:44,751 --> 00:09:46,376
+
+
 For a second, I thought
 you were going to shoot me.
 
-87
-00:09:47,050 --> 00:09:51,346
+
+
 For a second I was. If I don't make it
 out of here, you look after the girls.
 
-88
-00:09:53,117 --> 00:09:54,776
+
+
 Can't I just buy you a drink?
 
-89
-00:10:11,783 --> 00:10:13,715
+
+
 I can't get through to
 Betty and Marilyn's fucked.
 
-90
-00:10:13,884 --> 00:10:16,441
+
+
 Take Mary Jane and link
 up with Slick Nancy. Go!
 
-91
-00:10:25,283 --> 00:10:27,374
+
+
 You keep that fucking
 bonnet on, soldier!
 
-92
-00:11:33,048 --> 00:11:34,843
+
+
 Our soldiers didn't do this.
 
-93
-00:12:08,647 --> 00:12:11,238
+
+
 Fuck, they're in pieces.
 
-94
-00:12:12,881 --> 00:12:14,176
+
+
 Motherfuckers.
 
-95
-00:12:30,213 --> 00:12:32,838
+
+
 Jesus, God Almighty, Christ!
 
-96
-00:12:47,346 --> 00:12:48,676
+
+
 Murderer!
 
-97
-00:13:06,479 --> 00:13:07,603
+
+
 Put down your weapons!
 
-98
-00:13:08,446 --> 00:13:10,207
+
+
 Whoa, whoa, whoa, easy.
 
-99
-00:13:10,379 --> 00:13:11,605
+
+
 Has war driven you mad?
 
-100
-00:13:11,778 --> 00:13:13,005
+
+
 My men didn't do this.
 
-101
-00:13:13,312 --> 00:13:15,436
+
+
 - So, you accuse me?
 - Yeah.
 
-102
-00:13:23,245 --> 00:13:24,268
+
+
 What was that?
 
-103
-00:13:25,845 --> 00:13:26,868
+
+
 What is that?
 
-104
-00:13:33,345 --> 00:13:34,043
+
+
 Get down!
 
-105
-00:13:34,078 --> 00:13:35,237
+
+
 Come on, get the fuck out of here!
 
-106
-00:13:38,378 --> 00:13:42,367
+
+
 Need back-up. 1047, I repeat, 1047...
 
-107
-00:13:46,611 --> 00:13:47,599
+
+
 I'm out!
 
-108
-00:13:58,044 --> 00:14:00,566
+
+
 Motherfuckers! My leg!
 
-109
-00:14:00,911 --> 00:14:02,536
+
+
 Oh, shit my fucking leg!
 
-110
-00:14:10,843 --> 00:14:12,400
+
+
 Nate! Nate!
 
-111
-00:14:14,310 --> 00:14:15,639
+
+
 I'm right behind you!
 
-112
-00:14:16,544 --> 00:14:17,567
+
+
 Nate!
 
-113
-00:14:18,676 --> 00:14:19,699
+
+
 Come on, then!
 
-114
-00:14:23,143 --> 00:14:24,234
+
+
 See ya!
 
-115
-00:14:25,743 --> 00:14:26,936
+
+
 Come on, then.
 
-116
-00:14:27,643 --> 00:14:29,836
+
+
 Come on! Nate!
 
-117
-00:14:33,043 --> 00:14:34,838
+
+
 Ammo's out! Come on.
 
-118
-00:14:49,009 --> 00:14:50,998
+
+
 - You're not going back!
 - Nate!
 
-119
-00:14:53,609 --> 00:14:54,541
+
+
 Had enough?
 
-120
-00:15:01,509 --> 00:15:04,475
+
+
 Come on, you fucking beauties.
 
-121
-00:15:05,408 --> 00:15:06,669
+
+
 Come on, now, let's have ya!
 
-122
-00:15:07,609 --> 00:15:08,632
+
+
 Where's everybody else?
 
-123
-00:15:09,342 --> 00:15:10,672
+
+
 There's nobody else!
 
-124
-00:15:10,909 --> 00:15:11,806
+
+
 Let's go!
 
-125
-00:15:13,842 --> 00:15:18,274
+
+
 Nate? Nate!
 
-126
-00:15:19,141 --> 00:15:20,868
+
+
 Go!
 
-127
-00:17:39,271 --> 00:17:42,704
+
+
 <i>Before the first dawn,
 there was a battle in Heaven. </i>
 
-128
-00:17:44,505 --> 00:17:46,733
+
+
 <i>The Enemy was cast out
 and fell to Earth... </i>
 
-129
-00:17:47,404 --> 00:17:49,029
+
+
 <i>an evil star... </i>
 
-130
-00:17:49,837 --> 00:17:52,167
+
+
 <i>broken in body but not in pride... </i>
 
-131
-00:17:53,538 --> 00:17:55,662
+
+
 <i>consumed by envy and hate... </i>
 
-132
-00:17:57,104 --> 00:18:00,695
+
+
 <i>it conspired to remake
 man in its own image. </i>
 
-133
-00:18:01,570 --> 00:18:03,866
+
+
 <i>And thus the enemy
 created a machine. </i>
 
-134
-00:18:06,104 --> 00:18:08,797
+
+
 <i>A machine that stripped the
 souls from the dead and dying... </i>
 
-135
-00:18:09,037 --> 00:18:12,969
+
+
 and replaced them with
 its own dark essence...
 
-136
-00:18:14,737 --> 00:18:17,703
+
+
 Neachdainn, founder of our Order...
 
-137
-00:18:18,937 --> 00:18:21,300
+
+
 assembled the ancient tribes of man.
 
-138
-00:18:22,237 --> 00:18:25,260
+
+
 <i>Together, they defeated the enemy... </i>
 
-139
-00:18:25,936 --> 00:18:29,369
+
+
 <i>and sealed his machine
 beneath the Earth. </i>
 
-140
-00:18:35,270 --> 00:18:38,531
+
+
 <i>The war has broken the Great Seal
 and awoken the Machine. </i>
 
-141
-00:18:51,836 --> 00:18:56,202
+
+
 <i>Released from their prison
 the mutants dragged every body... </i>
 
-142
-00:18:56,237 --> 00:18:58,725
+
+
 <i>to the pit where the
 Great Seal once lay... </i>
 
-143
-00:18:59,935 --> 00:19:02,026
+
+
 <i>and deep beneath the ground... </i>
 
-144
-00:19:02,436 --> 00:19:05,402
+
+
 <i>the gears of the Machine
 began to turn again. </i>
 
-145
-00:19:06,536 --> 00:19:08,468
+
+
 <i>Changing the dead and the dying. </i>
 
-146
-00:19:09,402 --> 00:19:12,561
+
+
 <i>Mutating them into
 the enemies of Man. </i>
 
-147
-00:19:38,602 --> 00:19:42,090
+
+
 <i>Even the power of the four
 Corporations couldn't stop them. </i>
 
-148
-00:19:46,335 --> 00:19:49,066
+
+
 <i>The Chronicles promised us
 that one would rise... </i>
 
-149
-00:19:49,101 --> 00:19:52,658
+
+
 <i>and follow the path of Neachdainn,
 down into hell itself... </i>
 
-150
-00:19:53,235 --> 00:19:56,201
+
+
 <i>and deliver Mankind from oblivion. </i>
 
-151
-00:19:56,534 --> 00:19:58,363
+
+
 <i>I travelled to
 see the Corporations... </i>
 
-152
-00:19:58,868 --> 00:20:01,629
+
+
 <i>to plead with them
 to fulfil the Prophecy... </i>
 
-153
-00:20:01,767 --> 00:20:04,426
+
+
 <i>and defeat the enemy of Man. </i>
 
-154
-00:20:27,500 --> 00:20:29,966
+
+
 How much time do we have?
 
-155
-00:20:30,800 --> 00:20:33,028
+
+
 Days. Less, maybe.
 
-156
-00:20:34,167 --> 00:20:36,030
+
+
 Begin the evacuation.
 
-157
-00:20:36,733 --> 00:20:38,063
+
+
 Evacuation?
 
-158
-00:20:40,766 --> 00:20:45,130
+
+
 Move the key personnel
 to off world colonies...
 
-159
-00:20:45,633 --> 00:20:49,121
+
+
 and then we can
 reassess our situation.
 
-160
-00:20:49,433 --> 00:20:51,558
+
+
 Am I to understand that
 you would abandon the Earth?
 
-161
-00:20:53,266 --> 00:20:56,061
+
+
 Yes, Brother. You understand well.
 
-162
-00:20:57,799 --> 00:20:59,425
+
+
 We are finished here.
 
-163
-00:20:59,732 --> 00:21:01,755
+
+
 And even with all your ships...
 
-164
-00:21:02,533 --> 00:21:05,192
+
+
 how many millions do you
 think you'll leave behind?
 
-165
-00:21:06,333 --> 00:21:09,662
+
+
 And do you think that the Enemy
 will stop at this world? They won't.
 
-166
-00:21:10,398 --> 00:21:11,591
+
+
 They'll follow you.
 
-167
-00:21:13,465 --> 00:21:15,488
+
+
 They will follow you
 no matter where you run.
 
-168
-00:21:17,799 --> 00:21:19,424
+
+
 There is still hope!
 
-169
-00:21:27,365 --> 00:21:29,331
+
+
 - What hope?
 - Fulfil the Chronicles!
 
-170
-00:21:30,131 --> 00:21:31,960
+
+
 Give me 20 soldiers and a ship!
 
-171
-00:21:32,131 --> 00:21:35,961
+
+
 And what can these twenty do
 that our armies could not?
 
-172
-00:21:36,131 --> 00:21:38,397
+
+
 They can go where an army cannot.
 
-173
-00:21:38,432 --> 00:21:41,727
+
+
 They can go down into the earth.
 They can destroy the Machine.
 
-174
-00:21:45,664 --> 00:21:49,062
+
+
 I know what you must be thinking.
 You men of science, of commerce.
 
-175
-00:21:49,831 --> 00:21:51,456
+
+
 But I am a man of faith.
 
-176
-00:21:51,764 --> 00:21:52,991
+
+
 And I am asking you...
 
-177
-00:21:56,764 --> 00:21:58,286
+
+
 I am begging you...
 
-178
-00:21:59,764 --> 00:22:01,093
+
+
 Have faith.
 
-179
-00:22:02,431 --> 00:22:04,260
+
+
 Not in me. Not even in this.
 
-180
-00:22:05,431 --> 00:22:07,124
+
+
 But faith in Man...
 
-181
-00:22:08,564 --> 00:22:12,462
+
+
 Faith that the ones you would
 leave behind deserve a chance.
 
-182
-00:22:24,264 --> 00:22:26,957
+
+
 - Where are we going?
 - Come on. Hold on to the ticket.
 
-183
-00:22:29,697 --> 00:22:30,458
+
+
 Run!
 
-184
-00:22:31,964 --> 00:22:33,021
+
+
 Hurry!
 
-185
-00:22:35,063 --> 00:22:36,154
+
+
 Come on.
 
-186
-00:22:50,363 --> 00:22:52,386
+
+
 Leave it! Run!
 
-187
-00:23:13,028 --> 00:23:14,221
+
+
 That's ours.
 
-188
-00:23:15,195 --> 00:23:16,752
+
+
 There it is. Come on.
 
-189
-00:23:23,828 --> 00:23:25,351
+
+
 Good boy, come on.
 
-190
-00:23:25,661 --> 00:23:26,922
+
+
 Evacuation passes?
 
-191
-00:23:28,229 --> 00:23:29,320
+
+
 But I had two tickets.
 
-192
-00:23:30,295 --> 00:23:31,726
+
+
 I have it here, wait.
 
-193
-00:23:32,461 --> 00:23:36,450
+
+
 - Take the child and leave her.
 - Put me down!
 
-194
-00:23:36,995 --> 00:23:39,358
+
+
 - Mum!
 - Get off me!
 
-195
-00:23:39,995 --> 00:23:41,221
+
+
 No!
 
-196
-00:23:41,895 --> 00:23:43,258
+
+
 - Mum!
 - No!
 
-197
-00:23:44,695 --> 00:23:46,126
+
+
 No!
 
-198
-00:23:47,161 --> 00:23:48,252
+
+
 No!
 
-199
-00:23:54,595 --> 00:23:56,026
+
+
 No!
 
-200
-00:24:04,495 --> 00:24:07,086
+
+
 Who could imagine we should
 see days like these?
 
-201
-00:24:07,760 --> 00:24:09,487
+
+
 You should have gone, Brother.
 
-202
-00:24:10,394 --> 00:24:15,156
+
+
 The barricades are crumbling...
 they'll be here soon.
 
-203
-00:24:15,861 --> 00:24:16,959
+
+
 When do you leave?
 
-204
-00:24:16,994 --> 00:24:20,721
+
+
 The absence of gravity interferes
 with my digestion, so...
 
-205
-00:24:21,494 --> 00:24:24,426
+
+
 I shall stay.
 
-206
-00:24:26,293 --> 00:24:29,555
+
+
 Perhaps Man can make a fresh
 start on the New Worlds.
 
-207
-00:24:30,460 --> 00:24:33,085
+
+
 But they won't need
 this old serpent around...
 
-208
-00:24:33,560 --> 00:24:35,423
+
+
 making the same mistakes.
 
-209
-00:24:43,626 --> 00:24:44,956
+
+
 Where will you go?
 
-210
-00:24:46,493 --> 00:24:50,187
+
+
 I shall return to my
 brothers and sisters.
 
-211
-00:24:52,626 --> 00:24:57,820
+
+
 How will you get there? The city
 is under siege on all sides.
 
-212
-00:25:00,893 --> 00:25:02,324
+
+
 It shall be as God wills.
 
-213
-00:25:03,526 --> 00:25:04,957
+
+
 "As God wills"...
 
-214
-00:25:07,059 --> 00:25:09,252
+
+
 yes, perhaps it will be.
 
-215
-00:25:11,659 --> 00:25:15,022
+
+
 I have a ship. It won't hold twenty.
 
-216
-00:25:15,758 --> 00:25:17,418
+
+
 You'll have to make do with less.
 
-217
-00:25:19,125 --> 00:25:21,421
+
+
 Take these.
 
-218
-00:25:22,758 --> 00:25:25,690
+
+
 - And what are they?
 - Off world tickets.
 
-219
-00:25:26,725 --> 00:25:29,691
+
+
 They should help you recruit
 some men for your mission.
 
-220
-00:25:32,592 --> 00:25:34,285
+
+
 Why are you doing this?
 
-221
-00:25:36,158 --> 00:25:41,056
+
+
 Many men think they are going to die,
 Brother. A few of us know it.
 
-222
-00:25:42,991 --> 00:25:45,651
+
+
 And the closer I get to my end...
 
-223
-00:25:46,592 --> 00:25:51,081
+
+
 I find hope is the only investment
 worthy of my attention.
 
-224
-00:25:53,325 --> 00:25:55,291
+
+
 Sir! The perimeter's fallen!
 
-225
-00:25:55,624 --> 00:25:58,113
+
+
 They're hard upon us!
 Your ship's ready.
 
-226
-00:25:58,258 --> 00:26:01,883
+
+
 I'm staying, but Brother Samuel
 will be travelling with you.
 
-227
-00:26:02,091 --> 00:26:03,488
+
+
 Take him where he'd like to go.
 
-228
-00:26:03,791 --> 00:26:06,279
+
+
 Brother Samuel,
 we have very little time.
 
-229
-00:26:10,958 --> 00:26:12,321
+
+
 God bless you, Constantine.
 
-230
-00:26:13,457 --> 00:26:15,753
+
+
 I sincerely hope so, Brother.
 
-231
-00:26:17,924 --> 00:26:19,355
+
+
 Brother Samuel?
 
-232
-00:26:20,957 --> 00:26:23,821
+
+
 Are... are you the One?
 Will you Deliver us?
 
-233
-00:26:24,823 --> 00:26:26,619
+
+
 Pray God that I am.
 
-234
-00:27:18,122 --> 00:27:19,917
+
+
 Do you even have a name?
 
-235
-00:27:49,355 --> 00:27:51,048
+
+
 - Mitch.
 - Addy.
 
-236
-00:27:53,421 --> 00:27:54,751
+
+
 Nathan's not here.
 
-237
-00:27:55,988 --> 00:27:57,248
+
+
 Yeah, I know I...
 
-238
-00:27:58,521 --> 00:27:59,885
+
+
 Please, come in.
 
-239
-00:28:08,254 --> 00:28:09,618
+
+
 I'll make some tea.
 
-240
-00:28:12,120 --> 00:28:13,313
+
+
 Gosh, you've changed.
 
-241
-00:28:14,688 --> 00:28:17,176
+
+
 How long has it been?
 Feels like forever.
 
-242
-00:28:19,254 --> 00:28:22,049
+
+
 - You remember, Grace?
 - Yes, Ma'am.
 
-243
-00:28:24,287 --> 00:28:27,775
+
+
 She's ten now... ten years old...
 
-244
-00:28:29,254 --> 00:28:32,447
+
+
 which means, almost five years...
 gosh, has it been that long?
 
-245
-00:28:37,186 --> 00:28:38,482
+
+
 Here's your tea.
 
-246
-00:28:40,987 --> 00:28:42,509
+
+
 Nobody told you?
 
-247
-00:28:43,587 --> 00:28:45,280
+
+
 No, they won't tell me anything.
 
-248
-00:28:48,753 --> 00:28:50,184
+
+
 On behalf of the Exec...
 
-249
-00:28:53,687 --> 00:28:55,050
+
+
 Hold it.
 
-250
-00:29:02,652 --> 00:29:06,218
+
+
 "On behalf of the Executive
 Vice President of Personnel...
 
-251
-00:29:06,253 --> 00:29:10,844
+
+
 I've been authorized to inform you
 that, Captain Nathan William Rooker...
 
-252
-00:29:10,986 --> 00:29:12,542
+
+
 <i>has been declared missing in... </i>
 
-253
-00:29:13,652 --> 00:29:15,208
+
+
 <i>missing in action."</i>
 
-254
-00:29:18,185 --> 00:29:20,743
+
+
 I have these dreams.
 I could see him.
 
-255
-00:29:24,686 --> 00:29:27,516
+
+
 They're hurting him.
 He's still alive.
 
-256
-00:29:27,686 --> 00:29:29,242
+
+
 I know he's still alive.
 
-257
-00:29:29,419 --> 00:29:34,181
+
+
 Listen, if you think like that,
 you'll drive yourself crazy.
 
-258
-00:29:36,085 --> 00:29:38,210
+
+
 You've got Grace to think about.
 
-259
-00:29:39,018 --> 00:29:41,540
+
+
 And they expect us just
 to wait here and die.
 
-260
-00:29:43,785 --> 00:29:46,342
+
+
 I just don't know what I'm
 going to tell my little girl.
 
-261
-00:30:15,684 --> 00:30:16,809
+
+
 Leave it.
 
-262
-00:30:34,650 --> 00:30:35,945
+
+
 Sergeant Hunter?
 
-263
-00:30:38,217 --> 00:30:42,842
+
+
 A soldier in your platoon suggested me
 your name, Jesus Barrera.
 
-264
-00:30:43,716 --> 00:30:45,114
+
+
 El Jesus.
 
-265
-00:30:45,883 --> 00:30:47,610
+
+
 I need soldiers for a mission.
 
-266
-00:30:48,950 --> 00:30:50,643
+
+
 A mission to destroy the enemy.
 
-267
-00:30:51,916 --> 00:30:53,506
+
+
 What enemy is that?
 
-268
-00:30:55,317 --> 00:30:57,044
+
+
 The Enemy of Man.
 
-269
-00:30:57,950 --> 00:31:01,007
+
+
 I don't expect that any of us
 will survive, but it's a chance...
 
-270
-00:31:02,616 --> 00:31:05,946
+
+
 a chance to save mankind,
 a chance to save the world.
 
-271
-00:31:07,349 --> 00:31:09,076
+
+
 Maybe the last chance.
 
-272
-00:31:10,516 --> 00:31:12,880
+
+
 Well, fuck mankind. Fuck the world.
 
-273
-00:31:19,882 --> 00:31:21,143
+
+
 Fuck you.
 
-274
-00:31:25,416 --> 00:31:27,574
+
+
 Corporal Barrera told
 me you would say that.
 
-275
-00:31:30,182 --> 00:31:32,341
+
+
 He also said... how did he put it?
 
-276
-00:31:33,415 --> 00:31:36,075
+
+
 That you needed a 'get
 out of hell, free' card.
 
-277
-00:31:37,482 --> 00:31:40,642
+
+
 Well... these won't
 get you out of hell.
 
-278
-00:31:44,849 --> 00:31:47,212
+
+
 But they may put you
 on the right road.
 
-279
-00:32:03,547 --> 00:32:06,207
+
+
 <i>If I don't make it out of here,
 can you look after the girls?</i>
 
-280
-00:32:20,147 --> 00:32:21,943
+
+
 Here, put your hat on.
 
-281
-00:32:41,580 --> 00:32:42,944
+
+
 <i>The tickets were life. </i>
 
-282
-00:32:43,080 --> 00:32:46,773
+
+
 <i>Everyone wanted one, but who
 would take such an offer?</i>
 
-283
-00:32:48,080 --> 00:32:49,477
+
+
 <i>Jesus Barrera. </i>
 
-284
-00:32:49,880 --> 00:32:52,180
+
+
 <i>He wouldn't go unless
 I promised his mother... </i>
 
-285
-00:32:52,214 --> 00:32:53,947
+
+
 <i>it meant he would go to heaven. </i>
 
-286
-00:32:53,982 --> 00:32:56,276
+
+
 <i>I did. God forgive me. </i>
 
-287
-00:32:57,947 --> 00:33:01,777
+
+
 <i>John MacGuire. The only soldier
 who refused the tickets. </i>
 
-288
-00:33:02,279 --> 00:33:05,404
+
+
 <i>The sort of a man we should
 be saving not sacrificing. </i>
 
-289
-00:33:08,446 --> 00:33:13,174
+
+
 <i>Valerie Duval. A single
 mother with sixty-one kills... </i>
 
-290
-00:33:13,846 --> 00:33:15,107
+
+
 <i>so young. </i>
 
-291
-00:33:16,279 --> 00:33:17,835
+
+
 <i>Juba Kim Wu. </i>
 
-292
-00:33:18,346 --> 00:33:22,744
+
+
 <i>When I told him that none of us
 would be coming back, he smiled. </i>
 
-293
-00:33:24,012 --> 00:33:27,774
+
+
 <i>Maximillian Von Steiner.
 An officer and an aristocrat. </i>
 
-294
-00:33:28,278 --> 00:33:31,143
+
+
 <i>A leader, but would he follow?</i>
 
-295
-00:33:32,079 --> 00:33:35,408
+
+
 The Chronicles foretell of
 the release of the enemy...
 
-296
-00:33:36,412 --> 00:33:39,935
+
+
 the ruin of the world,
 the final days of our age.
 
-297
-00:33:41,846 --> 00:33:46,710
+
+
 But, they also prophecy
 the survival of Man...
 
-298
-00:33:48,378 --> 00:33:49,843
+
+
 that Neachdainn the Deliverer...
 
-299
-00:33:50,612 --> 00:33:52,736
+
+
 shall walk reborn among us...
 
-300
-00:33:52,911 --> 00:33:54,502
+
+
 and deliver us from destruction.
 
-301
-00:34:01,811 --> 00:34:03,834
+
+
 It is in the service
 of that prophecy...
 
-302
-00:34:04,778 --> 00:34:08,733
+
+
 that we are now irrevocably bound.
 
-303
-00:34:21,444 --> 00:34:22,501
+
+
 Brother?
 
-304
-00:34:24,544 --> 00:34:26,805
+
+
 - How's the leg?
 - It's good.
 
-305
-00:34:29,577 --> 00:34:34,600
+
+
 Six weeks ago, in artillery exchange
 between Bauhaus and Capitol...
 
-306
-00:34:37,311 --> 00:34:38,776
+
+
 That's your friend.
 
-307
-00:34:42,844 --> 00:34:45,575
+
+
 In the ruins of the
 Imperial City of Canaan...
 
-308
-00:34:45,610 --> 00:34:48,977
+
+
 there's an old cathedral. It's
 catacombs open onto a network...
 
-309
-00:34:49,012 --> 00:34:51,636
+
+
 of subterranean tunnels...
 
-310
-00:34:52,143 --> 00:34:57,508
+
+
 you will travel along these tunnels,
 find the machine and blow it up.
 
-311
-00:34:57,777 --> 00:35:00,140
+
+
 Is that all? We just blow it up?
 
-312
-00:35:01,109 --> 00:35:02,370
+
+
 We have a device.
 
-313
-00:35:06,109 --> 00:35:07,699
+
+
 A device?
 
-314
-00:35:10,609 --> 00:35:13,439
+
+
 From the first Brotherhood
 battle with the mutants...
 
-315
-00:35:13,609 --> 00:35:17,769
+
+
 ripped from the Machine before
 the Great Seal was laid.
 
-316
-00:35:18,642 --> 00:35:19,972
+
+
 So, it's a bomb?
 
-317
-00:35:21,209 --> 00:35:24,607
+
+
 We don't know, but we think it is.
 
-318
-00:35:25,042 --> 00:35:26,474
+
+
 You think so?
 
-319
-00:35:26,676 --> 00:35:30,130
+
+
 Our information comes from
 ancient schematics, Lieutenant.
 
-320
-00:35:30,442 --> 00:35:32,567
+
+
 Not an instruction manual.
 
-321
-00:35:33,075 --> 00:35:36,064
+
+
 The device is as ancient
 as Neachdainn itself.
 
-322
-00:35:36,676 --> 00:35:40,233
+
+
 The Chronicles show it placed
 in the centre of the Machine.
 
-323
-00:35:40,775 --> 00:35:44,003
+
+
 It's covered in symbols which
 we think are warnings.
 
-324
-00:35:44,209 --> 00:35:46,606
+
+
 - How safe is it to transport?
 - Does it matter, MacGuire?
 
-325
-00:35:46,808 --> 00:35:49,122
+
+
 You can call me Captain,
 Steiner, and yes.
 
-326
-00:35:49,157 --> 00:35:51,435
+
+
 Bombs don't get stable
 when they get old.
 
-327
-00:35:51,608 --> 00:35:53,107
+
+
 It's a two stage device.
 
-328
-00:35:53,142 --> 00:35:54,573
+
+
 You carry the trigger separately.
 
-329
-00:35:54,741 --> 00:35:56,502
+
+
 Without it, the bomb's
 just dead weight.
 
-330
-00:35:57,274 --> 00:35:59,263
+
+
 - What type of trigger?
 - Mechanical.
 
-331
-00:35:59,675 --> 00:36:02,436
+
+
 Place it in the device
 and turn it with a key...
 
-332
-00:36:02,641 --> 00:36:03,868
+
+
 which we don't have.
 
-333
-00:36:04,241 --> 00:36:06,469
+
+
 - You'll have to find it.
 - Are you kidding me with this guy?
 
-334
-00:36:07,708 --> 00:36:11,435
+
+
 It looks like this and it
 should be in the Machine.
 
-335
-00:36:12,341 --> 00:36:14,273
+
+
 And if we can't find it?
 
-336
-00:36:15,274 --> 00:36:17,001
+
+
 Then the mission will fail...
 
-337
-00:36:17,374 --> 00:36:20,897
+
+
 and every man, woman and child
 on this planet will die.
 
-338
-00:36:24,907 --> 00:36:26,964
+
+
 Why don't we throw it down
 that big, fucking hole?
 
-339
-00:36:28,340 --> 00:36:30,863
+
+
 The Machine is 10,000 years old.
 
-340
-00:36:32,174 --> 00:36:34,272
+
+
 It has survived earthquakes...
 
-341
-00:36:34,307 --> 00:36:36,372
+
+
 pressure changes, plate tectonics.
 
-342
-00:36:36,874 --> 00:36:38,464
+
+
 Then why the fuck the bomb?
 
-343
-00:36:38,807 --> 00:36:44,501
+
+
 Because, Corporal, one of us will
 place the bomb inside the machine.
 
-344
-00:36:44,674 --> 00:36:46,537
+
+
 - The Deliverer?
 - That's right.
 
-345
-00:36:47,373 --> 00:36:49,100
+
+
 What pendejo drew that short hair?
 
-346
-00:36:50,840 --> 00:36:52,738
+
+
 I did.
 
-347
-00:36:55,307 --> 00:36:59,568
+
+
 That's a very handy book, but we'll
 be doing some killing on our way down.
 
-348
-00:37:00,040 --> 00:37:03,437
+
+
 Does your Chronicle offer
 any suggestions there?
 
-349
-00:37:05,639 --> 00:37:07,071
+
+
 I can.
 
-350
-00:37:13,940 --> 00:37:16,098
+
+
 Courtesy of the Bauhaus Corporation.
 
-351
-00:37:21,039 --> 00:37:22,834
+
+
 Keep to the near wall.
 
-352
-00:37:34,072 --> 00:37:38,027
+
+
 As you can see, individual
 bullets are largely useless.
 
-353
-00:37:40,371 --> 00:37:41,632
+
+
 Mutants don't feel pain...
 
-354
-00:37:46,772 --> 00:37:48,203
+
+
 or go into shock.
 
-355
-00:37:49,205 --> 00:37:50,694
+
+
 How can it move at all?
 
-356
-00:37:51,104 --> 00:37:53,171
+
+
 We believe there's changes
 to the mitochondria...
 
-357
-00:37:53,206 --> 00:37:55,797
+
+
 which boost myofascial release.
 
-358
-00:37:56,004 --> 00:37:58,197
+
+
 Cut a chicken's head off
 and watch it dance.
 
-359
-00:37:58,638 --> 00:38:00,103
+
+
 How did you capture this thing?
 
-360
-00:38:00,271 --> 00:38:02,998
+
+
 Our scientists requested
 a subject for tests.
 
-361
-00:38:03,338 --> 00:38:05,929
+
+
 So, we went out with
 shock sticks and nets...
 
-362
-00:38:07,038 --> 00:38:10,368
+
+
 the sticks were useless and those
 blades tore our nets like paper.
 
-363
-00:38:11,104 --> 00:38:13,161
+
+
 We finally pinned this
 one under a tank.
 
-364
-00:38:13,637 --> 00:38:16,103
+
+
 - How many men did you lose?
 - I didn't count.
 
-365
-00:38:16,737 --> 00:38:18,430
+
+
 What's the fastest way to kill it?
 
-366
-00:38:18,771 --> 00:38:22,533
+
+
 Catastrophic tissue damage,
 automatic small arms fire...
 
-367
-00:38:23,038 --> 00:38:26,231
+
+
 usually a clip or more explosives.
 
-368
-00:38:26,471 --> 00:38:29,835
+
+
 - What about Willy-Petes?
 - White phosphorous?
 
-369
-00:38:48,937 --> 00:38:50,459
+
+
 And swords.
 
-370
-00:39:20,102 --> 00:39:22,034
+
+
 Help me...
 
-371
-00:39:25,336 --> 00:39:27,268
+
+
 Help me...
 
-372
-00:39:27,535 --> 00:39:29,001
+
+
 There's somebody alive in there.
 
-373
-00:39:44,068 --> 00:39:45,898
+
+
 You'll not receive the Sacrament?
 
-374
-00:39:46,068 --> 00:39:47,500
+
+
 I'm not hungry.
 
-375
-00:39:49,368 --> 00:39:50,595
+
+
 That man?
 
-376
-00:39:50,835 --> 00:39:51,858
+
+
 He died.
 
-377
-00:39:52,035 --> 00:39:53,467
+
+
 Did he say anything?
 
-378
-00:39:53,635 --> 00:39:55,100
+
+
 He asked for forgiveness.
 
-379
-00:39:56,101 --> 00:40:00,056
+
+
 Do you think inside every
 one of those things...
 
-380
-00:40:01,168 --> 00:40:05,725
+
+
 I don't know. We can only
 pray that God is Merciful.
 
-381
-00:40:09,035 --> 00:40:10,466
+
+
 No days like that.
 
-382
-00:40:12,568 --> 00:40:14,000
+
+
 - Brother Samuel?
 - Captain?
 
-383
-00:40:15,001 --> 00:40:16,967
+
+
 This is a list of supplies.
 
-384
-00:40:19,534 --> 00:40:21,523
+
+
 We'll need them as soon as possible.
 
-385
-00:40:21,701 --> 00:40:22,900
+
+
 This is a House of God.
 
-386
-00:40:22,934 --> 00:40:24,798
+
+
 And we're going to
 die doing his work.
 
-387
-00:40:28,934 --> 00:40:31,127
+
+
 For one thing,
 there is no alcohol here.
 
-388
-00:40:31,301 --> 00:40:33,290
+
+
 You telling me, God don't drink?
 
-389
-00:40:36,067 --> 00:40:38,931
+
+
 - That's for Communion.
 - This is communion.
 
-390
-00:40:44,000 --> 00:40:48,796
+
+
 <i>One last Mass, one last Communion. </i>
 
-391
-00:40:53,567 --> 00:40:56,362
+
+
 <i>Severian, Guardian
 of the Chronicles... </i>
 
-392
-00:40:57,366 --> 00:40:59,229
+
+
 <i>prepares to dress for battle. </i>
 
-393
-00:41:00,099 --> 00:41:01,565
+
+
 <i>Bound by silence... </i>
 
-394
-00:41:01,999 --> 00:41:04,488
+
+
 <i>she cannot voice
 the pain she feels... </i>
 
-395
-00:41:05,400 --> 00:41:08,093
+
+
 <i>for leaving the only
 home she has ever known. </i>
 
-396
-00:41:59,665 --> 00:42:03,757
+
+
 <i>And now, I must succeed
 where Man had failed. </i>
 
-397
-00:42:05,231 --> 00:42:06,254
+
+
 <i>God help me... </i>
 
-398
-00:42:07,698 --> 00:42:09,493
+
+
 <i>God help us all. </i>
 
-399
-00:42:11,064 --> 00:42:12,155
+
+
 Amen.
 
-400
-00:42:35,897 --> 00:42:37,124
+
+
 It's time.
 
-401
-00:42:47,197 --> 00:42:48,686
+
+
 Juba Kim Wu.
 
-402
-00:42:50,831 --> 00:42:52,729
+
+
 Maximillian Von Steiner.
 
-403
-00:42:55,363 --> 00:42:57,625
+
+
 Valerie Chinois Duval.
 
-404
-00:43:09,363 --> 00:43:11,419
+
+
 John Patrick MacGuire.
 
-405
-00:43:16,163 --> 00:43:19,095
+
+
 Jesus Alexandro
 Dominguin de Barrera.
 
-406
-00:43:20,763 --> 00:43:21,524
+
+
 What?
 
-407
-00:43:29,596 --> 00:43:31,494
+
+
 John Mitchell Hunter.
 
-408
-00:44:04,528 --> 00:44:06,517
+
+
 Didn't know there were any left.
 
-409
-00:44:07,228 --> 00:44:08,524
+
+
 Ever used one of these?
 
-410
-00:44:09,861 --> 00:44:11,589
+
+
 On the bat a few times.
 
-411
-00:44:29,161 --> 00:44:30,127
+
+
 <i>Engine one hot. </i>
 
-412
-00:44:34,461 --> 00:44:36,654
+
+
 <i>Engine two hot. </i>
 
-413
-00:44:37,527 --> 00:44:39,720
+
+
 <i>Engine three rising. </i>
 
-414
-00:44:41,227 --> 00:44:43,591
+
+
 <i>Engine four rising. </i>
 
-415
-00:44:48,327 --> 00:44:50,656
+
+
 <i>Stokers, engine two hot. </i>
 
-416
-00:44:52,693 --> 00:44:54,625
+
+
 Boiler one, red line.
 
-417
-00:44:55,693 --> 00:44:57,784
+
+
 Boiler two red line.
 Ready for launch.
 
-418
-00:44:58,560 --> 00:44:59,924
+
+
 Sound all clear.
 
-419
-00:45:02,260 --> 00:45:06,555
+
+
 You fought with Capitol's 101
 in Africa, under Bishop.
 
-420
-00:45:06,726 --> 00:45:07,555
+
+
 That's right.
 
-421
-00:45:07,760 --> 00:45:10,521
+
+
 I was on the other side.
 Imperial Eights.
 
-422
-00:45:10,827 --> 00:45:11,884
+
+
 I know.
 
-423
-00:45:12,059 --> 00:45:14,423
+
+
 I'm glad to be fighting
 beside you on this one.
 
-424
-00:45:14,626 --> 00:45:15,358
+
+
 Huh?
 
-425
-00:45:15,393 --> 00:45:16,791
+
+
 I'm glad to be on the same side.
 
-426
-00:45:16,926 --> 00:45:17,983
+
+
 What?
 
-427
-00:45:20,126 --> 00:45:22,024
+
+
 - Power up one and two.
 - One and two.
 
-428
-00:45:27,059 --> 00:45:28,684
+
+
 <i>Power up three and four. </i>
 
-429
-00:46:50,657 --> 00:46:51,782
+
+
 What?
 
-430
-00:46:52,024 --> 00:46:53,285
+
+
 Your fish.
 
-431
-00:46:55,256 --> 00:46:57,381
+
+
 Kills. Every one of them.
 
-432
-00:46:59,223 --> 00:47:00,246
+
+
 You're the shark.
 
-433
-00:47:00,423 --> 00:47:03,514
+
+
 Death is the shark.
 I'm just a guy with a gun.
 
-434
-00:47:06,757 --> 00:47:10,086
+
+
 Multiple contacts
 at 0-0-4 and 0-1-5.
 
-435
-00:47:14,889 --> 00:47:17,185
+
+
 Escaping transport. They're
 getting the hell out of here.
 
-436
-00:47:21,023 --> 00:47:22,784
+
+
 There goes all the money.
 
-437
-00:47:23,290 --> 00:47:25,347
+
+
 Looks like we got on the
 wrong, fucking shuttle.
 
-438
-00:47:25,556 --> 00:47:27,147
+
+
 You were born on the
 wrong, fucking shuttle.
 
-439
-00:47:28,622 --> 00:47:30,355
+
+
 What crawled up your ass and died?
 
-440
-00:47:30,390 --> 00:47:31,421
+
+
 Your Mother.
 
-441
-00:47:31,456 --> 00:47:33,945
+
+
 No, my mother's too fat.
 
-442
-00:47:34,522 --> 00:47:38,978
+
+
 But my sister could, she's
 as thin as a fucking weasel!
 
-443
-00:47:41,789 --> 00:47:44,516
+
+
 - So, who got them?
 - What?
 
-444
-00:47:45,656 --> 00:47:47,554
+
+
 - Your tickets.
 - Why do you want to know?
 
-445
-00:47:48,822 --> 00:47:50,311
+
+
 Suicide mission.
 
-446
-00:47:51,088 --> 00:47:54,486
+
+
 We're supposed to die together,
 that's an intimate thing.
 
-447
-00:47:54,688 --> 00:47:56,314
+
+
 You make it sound like
 we're going to fuck.
 
-448
-00:47:56,888 --> 00:48:00,252
+
+
 You can fuck a lot of people,
 you only die once.
 
-449
-00:48:00,888 --> 00:48:02,320
+
+
 It's fucked up.
 
-450
-00:48:02,721 --> 00:48:05,187
+
+
 - What about you?
 - What about me?
 
-451
-00:48:06,455 --> 00:48:07,887
+
+
 Your tickets.
 
-452
-00:48:12,221 --> 00:48:13,517
+
+
 Stand behind the line.
 
-453
-00:48:14,521 --> 00:48:16,010
+
+
 Just, just looking.
 
-454
-00:48:17,021 --> 00:48:18,578
+
+
 Look all you want.
 
-455
-00:48:18,888 --> 00:48:20,888
+
+
 Get in my way while I'm flying this...
 
-456
-00:48:20,922 --> 00:48:22,285
+
+
 we're gonna have some problems.
 
-457
-00:48:25,421 --> 00:48:26,580
+
+
 Shit!
 
-458
-00:48:27,555 --> 00:48:31,714
+
+
 - So... where we at?
 - Close. Crossing the Median.
 
-459
-00:48:32,954 --> 00:48:34,977
+
+
 Start our descent
 into Imperial Sector.
 
-460
-00:48:35,754 --> 00:48:37,084
+
+
 Imperial's bad.
 
-461
-00:48:37,188 --> 00:48:39,051
+
+
 It's bad all over this world,
 no matter where you go.
 
-462
-00:48:39,854 --> 00:48:42,752
+
+
 After we drop, you're what?
 Off to Mars? Luna?
 
-463
-00:48:42,921 --> 00:48:44,887
+
+
 I already used too much
 fuel to make orbit...
 
-464
-00:48:45,487 --> 00:48:46,817
+
+
 much less break it.
 
-465
-00:48:47,021 --> 00:48:48,543
+
+
 So you're fucked like
 the rest of us.
 
-466
-00:48:48,854 --> 00:48:52,048
+
+
 Man does everything for a reason,
 even if he doesn't know it...
 
-467
-00:48:53,620 --> 00:48:57,677
+
+
 or else, what is he? Just like
 one of those things out there.
 
-468
-00:48:58,153 --> 00:48:59,585
+
+
 Just another demon.
 
-469
-00:49:01,353 --> 00:49:03,478
+
+
 - Who got yours?
 - I have two children.
 
-470
-00:49:03,820 --> 00:49:06,013
+
+
 - You look a little young.
 - I started young.
 
-471
-00:49:06,454 --> 00:49:10,613
+
+
 - What are their names?
 - Jack's seven, Constance is five.
 
-472
-00:49:12,053 --> 00:49:14,287
+
+
 Getting on the ship, you'd think
 they were going on a ride...
 
-473
-00:49:14,322 --> 00:49:15,843
+
+
 they were so excited.
 
-474
-00:49:17,686 --> 00:49:19,447
+
+
 End of the world.
 
-475
-00:49:21,686 --> 00:49:24,311
+
+
 There's this girl,
 I don't know her name.
 
-476
-00:49:25,553 --> 00:49:27,542
+
+
 She works at The Pearl,
 across from the barracks.
 
-477
-00:49:27,920 --> 00:49:32,682
+
+
 She's got this walk, pure
 beauty, eyes you could drown in.
 
-478
-00:49:32,920 --> 00:49:35,586
+
+
 You gave your ticket to a woman
 and you didn't even fuck her?
 
-479
-00:49:35,621 --> 00:49:37,415
+
+
 I said I didn't know her name.
 
-480
-00:49:37,586 --> 00:49:39,211
+
+
 So, you fucked her then.
 
-481
-00:49:45,219 --> 00:49:48,242
+
+
 Another contact at 3-4-3.
 This one's closing.
 
-482
-00:49:48,618 --> 00:49:49,948
+
+
 Give them a heads up.
 
-483
-00:49:50,885 --> 00:49:53,476
+
+
 Strap in. I'm about to put
 this baby through some paces.
 
-484
-00:49:55,552 --> 00:49:58,541
+
+
 Attention! Transport HMS Tango-6...
 
-485
-00:49:58,785 --> 00:50:01,047
+
+
 you are encroaching
 on a military vessel.
 
-486
-00:50:01,318 --> 00:50:05,580
+
+
 <i>Come around till you're heading
 0- 3-8, let's take this 0-3-8.</i>
 
-487
-00:50:05,752 --> 00:50:10,116
+
+
 0- three-eight, copy? No response.
 
-488
-00:50:10,285 --> 00:50:11,910
+
+
 Plumbers flying planes.
 
-489
-00:50:13,018 --> 00:50:14,609
+
+
 Changing course to 2-8-5.
 
-490
-00:50:15,118 --> 00:50:16,607
+
+
 Two-eight-five, aye!
 
-491
-00:50:16,818 --> 00:50:18,478
+
+
 Diving to 50,000 feet...
 
-492
-00:50:18,685 --> 00:50:20,741
+
+
 Fifty-angels, aye!
 
-493
-00:50:26,485 --> 00:50:27,814
+
+
 What the fuck's going on?
 
-494
-00:50:30,717 --> 00:50:32,149
+
+
 That ought to do it.
 
-495
-00:50:32,417 --> 00:50:35,248
+
+
 They've changed direction.
 They're on an intercept course.
 
-496
-00:50:37,851 --> 00:50:38,908
+
+
 Take your station.
 
-497
-00:50:39,051 --> 00:50:41,346
+
+
 - That's a civilian ship.
 - Take your station, soldier.
 
-498
-00:50:43,050 --> 00:50:44,573
+
+
 Somebody tell me, what's going on?
 
-499
-00:50:51,551 --> 00:50:54,244
+
+
 <i>HMS Tango-6, you must break off. </i>
 
-500
-00:50:56,651 --> 00:50:57,741
+
+
 Hold on!
 
-501
-00:51:04,317 --> 00:51:05,907
+
+
 <i>They're coming straight
 at us, Captain. </i>
 
-502
-00:51:06,150 --> 00:51:09,116
+
+
 <i>HMS Tango-6, break off or
 you will be fired upon. </i>
 
-503
-00:51:09,250 --> 00:51:11,442
+
+
 Repeat, you will be fired upon.
 
-504
-00:51:14,050 --> 00:51:16,174
+
+
 <i>You must break off now!</i>
 
-505
-00:51:20,850 --> 00:51:21,838
+
+
 Fire!
 
-506
-00:51:22,817 --> 00:51:24,112
+
+
 They're going to ram us...
 
-507
-00:51:24,249 --> 00:51:25,146
+
+
 Fire!
 
-508
-00:51:39,383 --> 00:51:40,678
+
+
 <i>Captain, I've lost them. </i>
 
-509
-00:52:00,515 --> 00:52:01,912
+
+
 Get to the escape pod!
 
-510
-00:52:05,048 --> 00:52:06,946
+
+
 Come on, let's get in the pod. Go!
 
-511
-00:52:07,081 --> 00:52:08,808
+
+
 Let's go, let's go.
 
-512
-00:52:08,948 --> 00:52:10,175
+
+
 Get in the pod.
 
-513
-00:52:13,482 --> 00:52:15,004
+
+
 Go, quick!
 
-514
-00:52:15,282 --> 00:52:16,713
+
+
 Let's go, let's go.
 
-515
-00:52:17,748 --> 00:52:18,839
+
+
 The bomb!
 
-516
-00:52:19,748 --> 00:52:20,873
+
+
 Where's the bomb?
 
-517
-00:52:21,115 --> 00:52:23,342
+
+
 Come on, come on!
 
-518
-00:52:25,581 --> 00:52:26,945
+
+
 Give me that damn thing. Come on!
 
-519
-00:52:29,848 --> 00:52:31,143
+
+
 Let's get out of here!
 
-520
-00:52:36,048 --> 00:52:38,014
+
+
 - Pull the fucking chute!
 - It's not releasing.
 
-521
-00:52:39,948 --> 00:52:41,005
+
+
 What are you doing?
 
-522
-00:52:41,182 --> 00:52:42,943
+
+
 Manual release on the outside.
 
-523
-00:52:43,081 --> 00:52:44,104
+
+
 You'll be killed.
 
-524
-00:52:54,514 --> 00:52:55,946
+
+
 Here we go...
 
-525
-00:52:58,648 --> 00:52:59,841
+
+
 Come on!
 
-526
-00:53:02,182 --> 00:53:04,773
+
+
 Pull the fucking chute!
 Do it! Pull it.
 
-527
-00:53:12,414 --> 00:53:13,880
+
+
 What's going on?
 
-528
-00:53:14,381 --> 00:53:15,813
+
+
 We're still falling.
 
-529
-00:53:15,947 --> 00:53:17,913
+
+
 - We're too heavy.
 - We lost the chute.
 
-530
-00:53:18,281 --> 00:53:19,577
+
+
 Goddam it!
 
-531
-00:53:22,581 --> 00:53:23,569
+
+
 Is there a back-up?
 
-532
-00:53:24,047 --> 00:53:25,637
+
+
 Hit the back-up!
 
-533
-00:53:25,880 --> 00:53:28,369
+
+
 - No!
 - Fuck, no! Yes, motherfucker.
 
-534
-00:53:28,613 --> 00:53:30,476
+
+
 Pop it now, we'll shred
 it like the first!
 
-535
-00:53:30,747 --> 00:53:33,179
+
+
 Open low, it'll slow us down
 before we hit.
 
-536
-00:53:33,381 --> 00:53:36,108
+
+
 - Before the silk rips apart.
 - He's right.
 
-537
-00:53:36,281 --> 00:53:37,712
+
+
 - What did he say?
 - I've got not idea.
 
-538
-00:53:38,613 --> 00:53:40,340
+
+
 - Juba's right.
 - Hit the goddam backup.
 
-539
-00:53:40,513 --> 00:53:42,261
+
+
 We've only got one chute left.
 
-540
-00:53:42,296 --> 00:53:44,011
+
+
 We rip that one, we're dead.
 
-541
-00:53:44,280 --> 00:53:47,075
+
+
 When we're lower, we'll pop it.
 
-542
-00:53:47,246 --> 00:53:49,712
+
+
 - Hit the god dam chute.
 - 1500.
 
-543
-00:53:50,113 --> 00:53:51,579
+
+
 You better be right
 about this, Juba.
 
-544
-00:53:52,346 --> 00:53:54,971
+
+
 You sure you know what
 you're talking about?
 
-545
-00:53:55,146 --> 00:53:58,044
+
+
 You better be right about this,
 you son of a bitch.
 
-546
-00:53:59,079 --> 00:54:01,568
+
+
 244... 152...
 
-547
-00:54:01,879 --> 00:54:03,640
+
+
 - Ready?
 - Any time!
 
-548
-00:54:03,813 --> 00:54:04,779
+
+
 Any time now.
 
-549
-00:54:09,380 --> 00:54:11,538
+
+
 Open! Open now!
 
-550
-00:54:14,946 --> 00:54:16,844
+
+
 - Now!
 - Pull the goddam chute!
 
-551
-00:54:38,045 --> 00:54:39,170
+
+
 There you go...
 
-552
-00:54:39,812 --> 00:54:41,573
+
+
 Come on, give me that.
 
-553
-00:54:49,978 --> 00:54:51,239
+
+
 The Captain's fucked.
 
-554
-00:54:59,211 --> 00:55:01,109
+
+
 We'll cut you loose.
 
-555
-00:55:01,445 --> 00:55:03,638
+
+
 It hit the artery.
 
-556
-00:55:05,077 --> 00:55:08,043
+
+
 If you pull it out, I'm gone.
 
-557
-00:55:16,178 --> 00:55:18,041
+
+
 - Amen.
 - Amen.
 
-558
-00:55:31,811 --> 00:55:32,970
+
+
 Sergeant Hunter.
 
-559
-00:55:35,343 --> 00:55:40,674
+
+
 May I ask the borrow
 of a grenade, please?
 
-560
-00:55:57,243 --> 00:55:58,334
+
+
 Thank you.
 
-561
-00:56:01,943 --> 00:56:03,568
+
+
 Good luck, Sergeant.
 
-562
-00:56:21,109 --> 00:56:21,708
+
+
 White phosphorous?
 
-563
-00:56:21,743 --> 00:56:23,833
+
+
 Conchita here, she's
 a real spitfire.
 
-564
-00:56:24,242 --> 00:56:27,003
+
+
 Just make sure you're not near
 me when your gun blows up.
 
-565
-00:56:27,176 --> 00:56:30,767
+
+
 - Where are we?
 - Off by 4 leagues north-southwest.
 
-566
-00:56:30,975 --> 00:56:33,342
+
+
 Gotta pass through the city
 like the old monk said.
 
-567
-00:56:33,377 --> 00:56:34,399
+
+
 Let's go.
 
-568
-00:57:11,074 --> 00:57:12,301
+
+
 Check your targets.
 
-569
-00:57:15,341 --> 00:57:16,567
+
+
 Two...
 
-570
-00:57:38,541 --> 00:57:40,006
+
+
 Need a hand with that, boss?
 
-571
-00:57:41,740 --> 00:57:43,104
+
+
 Be quiet.
 
-572
-00:58:09,406 --> 00:58:11,668
+
+
 Refugees. Where the
 hell are they going?
 
-573
-00:58:16,906 --> 00:58:18,202
+
+
 Hunter?
 
-574
-00:58:36,039 --> 00:58:38,451
+
+
 The current bid stands
 at two gold watches...
 
-575
-00:58:38,486 --> 00:58:40,864
+
+
 a diamond necklace, and
 10,000 gold talents!
 
-576
-00:58:42,572 --> 00:58:45,333
+
+
 Get out of here, go on.
 Clear off, then.
 
-577
-00:58:45,905 --> 00:58:49,439
+
+
 - Going once, going twice...
 - I said, get back!
 
-578
-00:58:49,474 --> 00:58:52,064
+
+
 Sold! To the skeleton
 in the monkey suit.
 
-579
-00:58:57,771 --> 00:58:59,237
+
+
 One ticket, not two!
 
-580
-00:58:59,704 --> 00:59:02,602
+
+
 - I bought it!
 - And she'll show her gratitude...
 
-581
-00:59:02,738 --> 00:59:05,602
+
+
 cleaning my crap
 from here to Mars.
 
-582
-00:59:05,971 --> 00:59:07,994
+
+
 Unless you want to
 buy another ticket?
 
-583
-00:59:08,905 --> 00:59:10,370
+
+
 That's all my money!
 
-584
-00:59:10,704 --> 00:59:12,136
+
+
 Then fuck off!
 
-585
-00:59:15,204 --> 00:59:16,898
+
+
 Do you know who I am?
 
-586
-00:59:22,738 --> 00:59:24,203
+
+
 That's who you are.
 
-587
-00:59:25,970 --> 00:59:29,266
+
+
 Ass, stash or cash!
 Nobody rides free!
 
-588
-00:59:30,004 --> 00:59:31,833
+
+
 <i>I want everybody on in ten minutes. </i>
 
-589
-00:59:31,970 --> 00:59:33,095
+
+
 We need to cut through there.
 
-590
-00:59:33,770 --> 00:59:34,793
+
+
 <i>I want diamonds. </i>
 
-591
-00:59:34,970 --> 00:59:37,527
+
+
 - Good place for an ambush.
 - Can't be too many mutes.
 
-592
-00:59:38,070 --> 00:59:39,297
+
+
 There's too much easy meat.
 
-593
-00:59:40,470 --> 00:59:42,148
+
+
 All the more reason
 for them to come.
 
-594
-00:59:42,183 --> 00:59:43,826
+
+
 <i>I don't care whose... open it. </i>
 
-595
-00:59:44,271 --> 00:59:48,033
+
+
 Come on, show us your money.
 It's your life I'm talking about.
 
-596
-00:59:48,236 --> 00:59:50,532
+
+
 Give me that... ah, fuck off.
 
-597
-00:59:51,004 --> 00:59:52,367
+
+
 Let it go, Hunter.
 
-598
-00:59:55,870 --> 00:59:57,096
+
+
 We go through the square.
 
-599
-00:59:57,737 --> 00:59:59,794
+
+
 - We don't have time for this.
 - Make time.
 
-600
-01:00:02,737 --> 01:00:05,100
+
+
 The next one begins in 5.000 talents.
 
-601
-01:00:09,403 --> 01:00:13,096
+
+
 Save yourselves.
 Get your money out, come on!
 
-602
-01:00:13,536 --> 01:00:16,025
+
+
 Any advance on 6,000?
 
-603
-01:00:16,236 --> 01:00:17,496
+
+
 Come on, we haven't got all day.
 
-604
-01:00:18,236 --> 01:00:20,929
+
+
 Price stands at 7,000 talents...
 
-605
-01:00:21,069 --> 01:00:23,126
+
+
 three bottles of very
 old Scottish whiskey...
 
-606
-01:00:23,836 --> 01:00:24,995
+
+
 Get out of it.
 
-607
-01:00:29,036 --> 01:00:30,300
+
+
 Let them on.
 
-608
-01:00:30,335 --> 01:00:31,596
+
+
 Are you making a bid?
 
-609
-01:00:32,669 --> 01:00:35,066
+
+
 First you take the kids
 and then the women...
 
-610
-01:00:35,502 --> 01:00:37,468
+
+
 and then you take the men
 if there's any room left.
 
-611
-01:00:37,636 --> 01:00:40,965
+
+
 Hey, Soldier-Boy. The ship
 can only carry so much weight.
 
-612
-01:00:41,968 --> 01:00:44,059
+
+
 Yeah? What do you weigh?
 
-613
-01:00:45,035 --> 01:00:47,297
+
+
 - 275kg?
 - 310kg.
 
-614
-01:00:56,368 --> 01:01:00,062
+
+
 310, that's two women and
 two kids. Come on. Let's go.
 
-615
-01:01:05,902 --> 01:01:07,868
+
+
 - What do you weigh?
 - Very little.
 
-616
-01:01:09,768 --> 01:01:11,358
+
+
 Dump the luggage. Take them all.
 
-617
-01:01:26,667 --> 01:01:28,065
+
+
 It's top.
 
-618
-01:01:28,334 --> 01:01:32,527
+
+
 Church, it's not too far. It's just
 in the middle of the old city.
 
-619
-01:01:34,434 --> 01:01:35,866
+
+
 You figure out where
 we're going yet?
 
-620
-01:01:36,201 --> 01:01:37,564
+
+
 Straight on.
 
-621
-01:01:39,101 --> 01:01:41,498
+
+
 Listen you endanger the mission
 again, I shoot you myself.
 
-622
-01:01:41,901 --> 01:01:43,332
+
+
 Why wait?
 
-623
-01:02:51,765 --> 01:02:53,061
+
+
 Christ!
 
-624
-01:02:55,698 --> 01:02:57,493
+
+
 What sort of church is this?
 
-625
-01:02:58,498 --> 01:03:00,054
+
+
 How do you lose a city?
 
-626
-01:03:11,165 --> 01:03:13,358
+
+
 The catacombs lead
 down to the Lost City.
 
-627
-01:03:23,364 --> 01:03:24,887
+
+
 There must be thousands.
 
-628
-01:03:25,397 --> 01:03:27,955
+
+
 Each New Age builds upon
 the bones of the old.
 
-629
-01:03:29,230 --> 01:03:31,219
+
+
 How many times have
 they come before?
 
-630
-01:03:32,731 --> 01:03:36,686
+
+
 They didn't do this, we did this.
 
-631
-01:03:39,230 --> 01:03:41,423
+
+
 We've always excelled
 at killing one another.
 
-632
-01:03:43,431 --> 01:03:45,294
+
+
 They would challenge our supremacy...
 
-633
-01:03:45,631 --> 01:03:47,823
+
+
 as the architects of our own end.
 
-634
-01:03:48,797 --> 01:03:49,956
+
+
 Halt!
 
-635
-01:04:06,897 --> 01:04:08,192
+
+
 - Brother?
 - Yes?
 
-636
-01:04:14,797 --> 01:04:16,387
+
+
 The Lost City.
 
-637
-01:04:18,730 --> 01:04:22,287
+
+
 That skyscraper, we need
 to go down, deep into it.
 
-638
-01:04:24,396 --> 01:04:27,595
+
+
 The City of the Ancients,
 buried 500 years ago...
 
-639
-01:04:27,630 --> 01:04:28,959
+
+
 in the Black Winter.
 
-640
-01:04:32,695 --> 01:04:35,321
+
+
 - Holy shit!
 - We're being watched.
 
-641
-01:05:22,861 --> 01:05:24,156
+
+
 What are they?
 
-642
-01:05:25,828 --> 01:05:27,259
+
+
 I have no idea.
 
-643
-01:05:38,860 --> 01:05:40,190
+
+
 What's it say?
 
-644
-01:05:40,960 --> 01:05:42,653
+
+
 "Abandon all hope."
 
-645
-01:05:43,693 --> 01:05:44,920
+
+
 Motherfuckers.
 
-646
-01:05:47,627 --> 01:05:48,786
+
+
 No shit.
 
-647
-01:05:59,627 --> 01:06:01,183
+
+
 Jesus, that's deep.
 
-648
-01:06:01,627 --> 01:06:03,320
+
+
 Someone's going to
 have to stay up here.
 
-649
-01:06:03,627 --> 01:06:05,422
+
+
 We don't want them coming
 down on top of us.
 
-650
-01:06:06,827 --> 01:06:08,087
+
+
 I got it.
 
-651
-01:06:08,993 --> 01:06:10,653
+
+
 You watch your ass
 out there, compa�ero.
 
-652
-01:06:13,093 --> 01:06:14,582
+
+
 It don't look that safe.
 
-653
-01:06:15,260 --> 01:06:17,055
+
+
 Got to pay for those
 tickets sooner or later.
 
-654
-01:06:18,993 --> 01:06:21,255
+
+
 Take care of yourself, Juba.
 
-655
-01:06:23,426 --> 01:06:26,915
+
+
 Sixty storeys. We'll go first
 and let the others find the way.
 
-656
-01:06:28,559 --> 01:06:29,991
+
+
 Yeah, what do you say?
 
-657
-01:06:34,492 --> 01:06:36,651
+
+
 Brother, alright.
 
-658
-01:06:37,426 --> 01:06:40,551
+
+
 This is the brake. It controls
 how fast you go down, okay?
 
-659
-01:06:42,192 --> 01:06:45,352
+
+
 You lift it up and
 let yourself down.
 
-660
-01:06:46,292 --> 01:06:47,724
+
+
 Punch it in, you stop.
 
-661
-01:06:51,526 --> 01:06:55,014
+
+
 - That's it. Just take it easy.
 - And this?
 
-662
-01:06:55,192 --> 01:06:57,249
+
+
 That's the quick release.
 Don't touch that.
 
-663
-01:07:01,192 --> 01:07:02,452
+
+
 You alright?
 
-664
-01:07:04,125 --> 01:07:05,385
+
+
 Let's go.
 
-665
-01:07:16,158 --> 01:07:17,283
+
+
 20.
 
-666
-01:07:19,924 --> 01:07:21,550
+
+
 How fucking deep is this thing?
 
-667
-01:07:30,791 --> 01:07:32,882
+
+
 - It's getting hot down here.
 - 40
 
-668
-01:07:43,323 --> 01:07:44,584
+
+
 - Samuel?
 - 55.
 
-669
-01:07:44,991 --> 01:07:46,014
+
+
 How far?
 
-670
-01:07:47,524 --> 01:07:49,047
+
+
 - Stop!
 - 60
 
-671
-01:07:52,357 --> 01:07:54,653
+
+
 - We're running out of rope here.
 - We've gone too far.
 
-672
-01:07:56,457 --> 01:07:58,945
+
+
 It's dark, God, it's dark.
 
-673
-01:07:59,657 --> 01:08:00,952
+
+
 Something's not right.
 
-674
-01:08:08,890 --> 01:08:11,220
+
+
 - It can't be.
 - Got anything in that dammed book?
 
-675
-01:08:11,323 --> 01:08:12,720
+
+
 What have I missed?
 
-676
-01:08:18,356 --> 01:08:19,788
+
+
 We got people coming down.
 
-677
-01:08:23,723 --> 01:08:26,382
+
+
 <i>Don't fall behind, Steiner.
 It's a long way down. </i>
 
-678
-01:08:27,723 --> 01:08:29,382
+
+
 <i>Yeah, all the way to hell. </i>
 
-679
-01:09:13,221 --> 01:09:15,016
+
+
 Weird sounds down here, pal.
 
-680
-01:09:17,588 --> 01:09:20,577
+
+
 It has to be here.
 55, 60 floors down...
 
-681
-01:09:20,754 --> 01:09:22,982
+
+
 there should be a ledge.
 It says so right here.
 
-682
-01:09:26,021 --> 01:09:27,112
+
+
 It has to be here.
 
-683
-01:09:40,888 --> 01:09:42,751
+
+
 - Don't let me fall.
 - I'm trying.
 
-684
-01:09:57,421 --> 01:09:59,353
+
+
 You are a lucky son of a bitch.
 
-685
-01:09:59,653 --> 01:10:00,949
+
+
 God provides, Sergeant.
 
-686
-01:10:09,553 --> 01:10:10,917
+
+
 God provides.
 
-687
-01:10:23,453 --> 01:10:24,510
+
+
 Close the gate.
 
-688
-01:10:25,886 --> 01:10:27,318
+
+
 Hold up! Hold up!
 
-689
-01:10:27,653 --> 01:10:28,641
+
+
 <i>Coming down. </i>
 
-690
-01:10:31,752 --> 01:10:32,945
+
+
 We got an ugly.
 
-691
-01:10:37,652 --> 01:10:40,346
+
+
 - We're bottled up in here.
 - Wait! Use this.
 
-692
-01:10:42,719 --> 01:10:44,049
+
+
 Grenade!
 
-693
-01:10:54,952 --> 01:10:56,474
+
+
 - Grenade!
 - Grenade!
 
-694
-01:10:58,752 --> 01:11:00,183
+
+
 Don't drop that match!
 
-695
-01:12:02,383 --> 01:12:03,940
+
+
 Go, go, go!
 
-696
-01:12:55,549 --> 01:12:57,776
+
+
 - Any last words?
 - Shut the fuck up!
 
-697
-01:13:21,015 --> 01:13:22,537
+
+
 Are you well?
 
-698
-01:13:27,815 --> 01:13:28,837
+
+
 Reload!
 
-699
-01:13:37,148 --> 01:13:38,011
+
+
 Down!
 
-700
-01:13:53,747 --> 01:13:55,235
+
+
 Anybody hurt?
 
-701
-01:14:06,380 --> 01:14:08,676
+
+
 Hey... shit!
 
-702
-01:14:16,447 --> 01:14:18,571
+
+
 Let's go... let's go.
 
-703
-01:14:29,147 --> 01:14:30,169
+
+
 Dead end.
 
-704
-01:14:30,312 --> 01:14:32,972
+
+
 - Anyone got a deck of cards?
 - MacGuire.
 
-705
-01:14:33,980 --> 01:14:35,275
+
+
 Figures.
 
-706
-01:14:42,746 --> 01:14:43,802
+
+
 Thanks.
 
-707
-01:15:04,146 --> 01:15:07,270
+
+
 They use tunnels to drag
 bodies to the machine.
 
-708
-01:15:07,912 --> 01:15:09,901
+
+
 It takes days, weeks even.
 
-709
-01:15:10,445 --> 01:15:12,104
+
+
 You got a lot of faith in that book.
 
-710
-01:15:14,412 --> 01:15:15,934
+
+
 You're wasting your time, Steiner.
 
-711
-01:15:16,111 --> 01:15:18,100
+
+
 I will not let a handful
 of rocks stop us.
 
-712
-01:15:18,412 --> 01:15:21,139
+
+
 - It's a lot more than a handful.
 - You find any inspiration?
 
-713
-01:15:21,512 --> 01:15:26,001
+
+
 It's a very good book, but in the end,
 even this book, is just a book.
 
-714
-01:15:27,878 --> 01:15:29,003
+
+
 Well...
 
-715
-01:15:29,412 --> 01:15:31,707
+
+
 And I take my Faith
 from something Greater.
 
-716
-01:15:33,178 --> 01:15:35,371
+
+
 Well, I haven't seen
 much to have faith in.
 
-717
-01:15:35,611 --> 01:15:37,907
+
+
 You have seen the worst
 that Man can do.
 
-718
-01:15:39,978 --> 01:15:42,739
+
+
 But you've not seen the
 worst the Enemy can do.
 
-719
-01:15:45,111 --> 01:15:47,838
+
+
 - So, who got your tickets?
 - What?
 
-720
-01:15:49,144 --> 01:15:50,371
+
+
 Your tickets?
 
-721
-01:15:50,544 --> 01:15:53,476
+
+
 - What does it matter?
 - It matters to me.
 
-722
-01:16:01,977 --> 01:16:03,409
+
+
 Who cares?
 
-723
-01:16:04,577 --> 01:16:06,099
+
+
 I'm sorry.
 
-724
-01:16:08,277 --> 01:16:10,799
+
+
 Everything that is, comes from God.
 
-725
-01:16:12,110 --> 01:16:14,371
+
+
 Everything is from God, and of God.
 
-726
-01:16:15,309 --> 01:16:18,275
+
+
 The Enemy came from the outside.
 
-727
-01:16:19,877 --> 01:16:22,741
+
+
 And as God is Life,
 the Enemy is Unlife.
 
-728
-01:16:23,943 --> 01:16:27,602
+
+
 It is the end of
 every living thing...
 
-729
-01:16:27,910 --> 01:16:29,068
+
+
 everywhere...
 
-730
-01:16:29,810 --> 01:16:31,275
+
+
 and for all time.
 
-731
-01:16:33,109 --> 01:16:36,802
+
+
 And so, I have Faith
 that we will triumph.
 
-732
-01:16:39,610 --> 01:16:42,337
+
+
 Because the alternative
 is too terrible to contemplate.
 
-733
-01:16:43,143 --> 01:16:45,234
+
+
 What if you don't believe in God?
 
-734
-01:16:45,410 --> 01:16:48,171
+
+
 If you did not believe in God,
 you would not be here.
 
-735
-01:16:51,342 --> 01:16:53,036
+
+
 Are you guys gonna help?
 
-736
-01:16:53,375 --> 01:16:56,364
+
+
 Maybe you haven't noticed,
 but your mission is kind of fucked.
 
-737
-01:17:02,142 --> 01:17:03,870
+
+
 You should have a little faith.
 
-738
-01:17:18,008 --> 01:17:19,338
+
+
 Give me a hand.
 
-739
-01:17:28,775 --> 01:17:30,263
+
+
 Something's down there.
 
-740
-01:17:45,608 --> 01:17:46,937
+
+
 Hold up!
 
-741
-01:17:52,174 --> 01:17:55,368
+
+
 Poor bastards! Looks like they've
 been down there for weeks.
 
-742
-01:18:00,640 --> 01:18:02,197
+
+
 We mustn't linger here.
 
-743
-01:18:05,440 --> 01:18:06,804
+
+
 Where the hell are they taking them?
 
-744
-01:18:08,507 --> 01:18:10,666
+
+
 Hunter? What is he doing?
 
-745
-01:18:12,907 --> 01:18:14,839
+
+
 - Is that...?
 - Sergeant?
 
-746
-01:18:15,140 --> 01:18:16,731
+
+
 - Jesus.
 - Top?
 
-747
-01:18:17,039 --> 01:18:18,062
+
+
 That's Nathan.
 
-748
-01:18:20,173 --> 01:18:21,366
+
+
 Fuck!
 
-749
-01:18:21,973 --> 01:18:23,200
+
+
 Come on, let's go.
 
-750
-01:18:24,806 --> 01:18:26,067
+
+
 It's just one man.
 
-751
-01:18:26,373 --> 01:18:27,702
+
+
 I know that man.
 
-752
-01:18:30,806 --> 01:18:32,272
+
+
 We have a mission.
 
-753
-01:18:46,572 --> 01:18:48,004
+
+
 Vaya con Dios.
 
-754
-01:18:54,906 --> 01:18:56,064
+
+
 Let's go!
 
-755
-01:19:54,637 --> 01:19:56,398
+
+
 - Nate!
 - Mitch?
 
-756
-01:19:58,104 --> 01:19:59,729
+
+
 They got you as well.
 
-757
-01:20:00,370 --> 01:20:02,268
+
+
 Don't talk. I'm getting
 you out of here, pal.
 
-758
-01:20:05,537 --> 01:20:07,901
+
+
 - Where are my girls?
 - They're safe.
 
-759
-01:20:08,337 --> 01:20:09,701
+
+
 They're halfway to Mars by now.
 
-760
-01:20:11,903 --> 01:20:13,130
+
+
 Ready?
 
-761
-01:20:20,337 --> 01:20:22,269
+
+
 We're almost there, keep going.
 
-762
-01:20:29,003 --> 01:20:30,299
+
+
 What's that?
 
-763
-01:20:52,403 --> 01:20:54,198
+
+
 What the fuck are you doing?
 
-764
-01:20:55,269 --> 01:20:56,928
+
+
 I've got to find another
 way out of here.
 
-765
-01:21:01,502 --> 01:21:05,265
+
+
 I'm going to make you a sling...
 get you out of this hole.
 
-766
-01:21:12,069 --> 01:21:14,899
+
+
 - Mars, eh?
 - Yeah... Mars.
 
-767
-01:21:16,035 --> 01:21:18,523
+
+
 - How do you explain that one?
 - I did a deal for a guy...
 
-768
-01:21:21,602 --> 01:21:24,568
+
+
 Yeah, you know.
 Save the world kind of thing.
 
-769
-01:21:27,868 --> 01:21:29,391
+
+
 How's it going?
 
-770
-01:21:36,834 --> 01:21:38,130
+
+
 Jesus!
 
-771
-01:21:40,467 --> 01:21:42,592
+
+
 Listen to me. Listen.
 
-772
-01:21:44,601 --> 01:21:46,090
+
+
 Finish your mission.
 
-773
-01:21:48,068 --> 01:21:50,727
+
+
 I can't leave you here.
 
-774
-01:21:51,135 --> 01:21:52,430
+
+
 I'm not asking you to.
 
-775
-01:22:06,833 --> 01:22:09,993
+
+
 Tell Adelaide, and Gracie...
 
-776
-01:22:15,533 --> 01:22:17,726
+
+
 Tell them, tell them...
 
-777
-01:22:19,000 --> 01:22:21,727
+
+
 - Tell them.
 - Right.
 
-778
-01:22:23,267 --> 01:22:25,199
+
+
 - No.
 - Right.
 
-779
-01:22:36,366 --> 01:22:37,593
+
+
 You remember that...
 
-780
-01:23:09,165 --> 01:23:10,256
+
+
 Help!
 
-781
-01:23:11,932 --> 01:23:13,693
+
+
 The bag. We can't lose the bomb.
 
-782
-01:23:18,332 --> 01:23:19,820
+
+
 Take it! Take it!
 
-783
-01:23:22,332 --> 01:23:23,695
+
+
 Give me your hand!
 
-784
-01:23:39,364 --> 01:23:40,625
+
+
 We must go on.
 
-785
-01:23:49,765 --> 01:23:52,788
+
+
 - We have to go on!
 - We're still human, Samuel.
 
-786
-01:24:02,564 --> 01:24:04,052
+
+
 - Thank you.
 - It's an honour.
 
-787
-01:24:15,697 --> 01:24:16,856
+
+
 Fuck you!
 
-788
-01:24:52,262 --> 01:24:53,751
+
+
 Oh, come on, give me a sign.
 
-789
-01:24:58,929 --> 01:25:00,121
+
+
 Come on, fucker!
 
-790
-01:25:01,028 --> 01:25:01,959
+
+
 No!
 
-791
-01:25:02,562 --> 01:25:03,993
+
+
 No!
 
-792
-01:25:37,695 --> 01:25:39,024
+
+
 Severian!
 
-793
-01:26:09,794 --> 01:26:10,953
+
+
 El Jesus.
 
-794
-01:26:11,560 --> 01:26:12,389
+
+
 Hunter!
 
-795
-01:26:18,627 --> 01:26:20,527
+
+
 When's the last time you spoke?
 
-796
-01:26:20,562 --> 01:26:21,822
+
+
 I can't remember.
 
-797
-01:26:24,560 --> 01:26:25,820
+
+
 I couldn't save him.
 
-798
-01:26:27,460 --> 01:26:30,051
+
+
 They dragged them
 all the way to the Machine.
 
-799
-01:26:40,093 --> 01:26:42,558
+
+
 - What are you doing?
 - We need this damn book.
 
-800
-01:26:43,326 --> 01:26:44,314
+
+
 It is not permitted.
 
-801
-01:26:48,092 --> 01:26:49,191
+
+
 They took everything.
 
-802
-01:26:49,226 --> 01:26:52,215
+
+
 He kept looking at this
 damn stuff. What's it say?
 
-803
-01:26:53,393 --> 01:26:54,949
+
+
 - I don't know.
 - Read it!
 
-804
-01:26:55,925 --> 01:26:58,721
+
+
 - I can't.
 - Come here!
 
-805
-01:26:58,925 --> 01:27:00,653
+
+
 Look, read.
 
-806
-01:27:02,559 --> 01:27:03,751
+
+
 I can't read.
 
-807
-01:27:04,892 --> 01:27:06,188
+
+
 You can't...
 
-808
-01:27:07,925 --> 01:27:10,289
+
+
 How can you believe in a book
 if you can't even read it?
 
-809
-01:27:10,458 --> 01:27:14,550
+
+
 I don't need to read it
 to believe that it's true.
 
-810
-01:27:19,225 --> 01:27:21,384
+
+
 - That's the nature of Faith.
 - Fantastic!
 
-811
-01:27:23,325 --> 01:27:24,951
+
+
 What do you believe in?
 
-812
-01:27:29,525 --> 01:27:33,184
+
+
 I'm not paid to believe.
 I'm paid to fuck shit up.
 
-813
-01:27:34,692 --> 01:27:36,248
+
+
 Are you coming?
 
-814
-01:28:08,990 --> 01:28:10,684
+
+
 <i>Help me, please!</i>
 
-815
-01:28:14,957 --> 01:28:16,889
+
+
 <i>Help me!</i>
 
-816
-01:28:17,524 --> 01:28:20,785
+
+
 <i>Help me, please!</i>
 
-817
-01:29:03,256 --> 01:29:05,414
+
+
 Shit! Duval and Steiner.
 
-818
-01:29:32,288 --> 01:29:33,844
+
+
 Are you guys still alive?
 
-819
-01:30:00,354 --> 01:30:01,876
+
+
 Can you still hold a gun?
 
-820
-01:30:02,154 --> 01:30:03,915
+
+
 Only with my right.
 
-821
-01:30:07,521 --> 01:30:08,884
+
+
 How about a rope?
 
-822
-01:30:16,520 --> 01:30:17,747
+
+
 Just say when.
 
-823
-01:31:04,486 --> 01:31:05,952
+
+
 God damn it!
 
-824
-01:31:08,753 --> 01:31:12,480
+
+
 I think they're coming through.
 That tunnel's not going to hold.
 
-825
-01:31:23,718 --> 01:31:26,616
+
+
 These rocks are not going to
 hold them away much longer.
 
-826
-01:31:26,785 --> 01:31:28,376
+
+
 Can't you go any faster?
 
-827
-01:31:39,451 --> 01:31:42,508
+
+
 Steiner? Steiner!
 
-828
-01:33:39,848 --> 01:33:41,871
+
+
 Jesus... no!
 
-829
-01:34:33,147 --> 01:34:34,442
+
+
 Hunter?
 
-830
-01:34:54,646 --> 01:34:56,236
+
+
 Are you one of them?
 
-831
-01:34:56,480 --> 01:34:58,207
+
+
 Get that pig-sticker out of my face.
 
-832
-01:34:58,513 --> 01:34:59,536
+
+
 Are you?
 
-833
-01:35:00,179 --> 01:35:02,111
+
+
 What do you think?
 Give me that bomb!
 
-834
-01:35:05,545 --> 01:35:06,806
+
+
 Give me the fucking bomb!
 
-835
-01:35:15,213 --> 01:35:16,872
+
+
 Shit! Here come
 those motherfuckers.
 
-836
-01:36:03,977 --> 01:36:05,375
+
+
 Anytime!
 
-837
-01:36:17,077 --> 01:36:18,940
+
+
 Put the detonator in the hole.
 
-838
-01:36:19,111 --> 01:36:21,202
+
+
 - You've got to be shitting.
 - Put it in the hole!
 
-839
-01:36:21,378 --> 01:36:23,241
+
+
 - Which hole?
 - Any hole!
 
-840
-01:36:26,910 --> 01:36:27,876
+
+
 This one...
 
-841
-01:36:31,577 --> 01:36:33,600
+
+
 Piece of shit... it doesn't fit!
 
-842
-01:36:37,210 --> 01:36:38,198
+
+
 There?
 
-843
-01:36:58,110 --> 01:36:59,905
+
+
 - It's not working.
 - What?
 
-844
-01:37:03,943 --> 01:37:05,909
+
+
 Give me the pages from the book!
 
-845
-01:37:07,076 --> 01:37:08,837
+
+
 - What are you doing?
 - I'm working on it.
 
-846
-01:37:14,476 --> 01:37:15,703
+
+
 I lost my sword.
 
-847
-01:37:18,075 --> 01:37:19,234
+
+
 Here.
 
-848
-01:37:44,608 --> 01:37:45,938
+
+
 Samuel?
 
-849
-01:37:46,541 --> 01:37:47,700
+
+
 Legion.
 
-850
-01:37:52,942 --> 01:37:56,135
+
+
 Severian, no! That's not Samuel.
 
-851
-01:38:19,674 --> 01:38:20,935
+
+
 Duval, no!
 
-852
-01:38:26,107 --> 01:38:27,368
+
+
 Kill him.
 
-853
-01:38:32,640 --> 01:38:33,799
+
+
 Kill him.
 
-854
-01:38:46,973 --> 01:38:49,405
+
+
 You are Samuel. It's alright.
 
-855
-01:40:04,338 --> 01:40:05,360
+
+
 That's for Nathan.
 
-856
-01:40:06,105 --> 01:40:07,468
+
+
 That's for El Jesus.
 
-857
-01:40:10,637 --> 01:40:12,035
+
+
 And this is for Samuel.
 
-858
-01:40:48,170 --> 01:40:49,294
+
+
 Jump!
 
-859
-01:40:52,037 --> 01:40:53,195
+
+
 Jump!
 
-860
-01:40:56,670 --> 01:40:58,226
+
+
 Have Faith.
 
-861
-01:42:45,767 --> 01:42:47,494
+
+
 <i>And so it ended... </i>
 
-862
-01:42:47,734 --> 01:42:50,461
+
+
 <i>I failed, he did not. </i>
 
-863
-01:42:52,033 --> 01:42:53,999
+
+
 <i>Apostate, unbeliever. </i>
 
-864
-01:42:55,700 --> 01:42:56,995
+
+
 <i>Saviour. </i>
 

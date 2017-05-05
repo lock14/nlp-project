@@ -1,5192 +1,5192 @@
-1
-00:00:09,900 --> 00:00:12,500
+
+
 <i>The Earth is at peace.</i>
 
-2
-00:00:14,700 --> 00:00:16,800
+
+
 <i>There is no hunger.</i>
 
-3
-00:00:20,000 --> 00:00:22,500
+
+
 <i>There is no violence.</i>
 
-4
-00:00:24,500 --> 00:00:26,700
+
+
 <i>The environment is healed.</i>
 
-5
-00:00:31,100 --> 00:00:35,200
+
+
 <i>Honesty, courtesy and kindnes
 are practiced by all.</i>
 
-6
-00:00:38,200 --> 00:00:41,900
+
+
 <i>Our world has never been more</i>
 
-7
-00:00:42,600 --> 00:00:43,900
+
+
 <i>perfect.</i>
 
-8
-00:00:49,600 --> 00:00:52,000
+
+
 <i>Only it is
 no longer our world.</i>
 
-9
-00:00:58,200 --> 00:01:00,600
+
+
 <i>We've been invaded</i>
 
-10
-00:01:00,600 --> 00:01:02,600
+
+
 <i>by an alien race.</i>
 
-11
-00:01:05,900 --> 00:01:07,500
+
+
 <i>They occupy the bodies</i>
 
-12
-00:01:07,500 --> 00:01:10,500
+
+
 <i>of almost all human
 beings on the planet.</i>
 
-13
-00:01:14,700 --> 00:01:17,200
+
+
 <i>The few humans who have survived</i>
 
-14
-00:01:18,100 --> 00:01:19,700
+
+
 <i>are on the run.</i>
 
-15
-00:01:36,200 --> 00:01:37,800
+
+
 Please.
 
-16
-00:01:37,800 --> 00:01:39,000
+
+
 Come with us.
 
-17
-00:01:39,000 --> 00:01:40,100
+
+
 We only want to help you.
 
-18
-00:01:40,100 --> 00:01:41,500
+
+
 Please be careful.
 
-19
-00:01:41,500 --> 00:01:42,800
+
+
 Please don't hurt yourself.
 
-20
-00:01:42,800 --> 00:01:43,900
+
+
 We don't want to hurt you.
 
-21
-00:01:44,700 --> 00:01:46,100
+
+
 Like hell!
 
-22
-00:01:46,100 --> 00:01:47,200
+
+
 No!
 
-23
-00:01:57,800 --> 00:01:59,200
+
+
 No!
 
-24
-00:02:45,000 --> 00:02:49,300
+
+
 Barely a bone not broken or organ ruptured.
 
-25
-00:02:49,300 --> 00:02:51,800
+
+
 I cannot tell you why she is not dead.
 
-26
-00:02:54,100 --> 00:02:56,200
+
+
 This one wants to live.
 
-27
-00:04:57,000 --> 00:04:58,900
+
+
 Welcome.
 
-28
-00:04:58,900 --> 00:05:01,100
+
+
 I am Healer Fords.
 
-29
-00:05:01,100 --> 00:05:02,900
+
+
 What shall I call you?
 
-30
-00:05:02,900 --> 00:05:07,100
+
+
 You have lived many lives on many worlds.
 
-31
-00:05:07,100 --> 00:05:09,300
+
+
 A wanderer such as yourself,
 
-32
-00:05:09,300 --> 00:05:10,400
+
+
 there must have been a name.
 
-33
-00:05:16,400 --> 00:05:18,100
+
+
 Call
 
-34
-00:05:20,400 --> 00:05:22,000
+
+
 me
 
-35
-00:05:23,500 --> 00:05:25,200
+
+
 Wanderer.
 
-36
-00:05:27,400 --> 00:05:29,000
+
+
 When will she be able to work?
 
-37
-00:05:32,100 --> 00:05:33,700
+
+
 Not now.
 
-38
-00:05:34,300 --> 00:05:36,500
+
+
 Of course, Healer.
 
-39
-00:06:23,100 --> 00:06:24,200
+
+
 <i>No.</i>
 
-40
-00:06:24,200 --> 00:06:25,800
+
+
 <i>No.</i>
 
-41
-00:06:25,800 --> 00:06:27,000
+
+
 <i>No.</i>
 
-42
-00:06:27,000 --> 00:06:28,900
+
+
 <i>I didn't die.</i>
 
-43
-00:06:29,300 --> 00:06:31,000
+
+
 <i>I didn't die.</i>
 
-44
-00:06:33,000 --> 00:06:34,500
+
+
 <i>That's right.</i>
 
-45
-00:06:34,500 --> 00:06:35,900
+
+
 <i>I'm still here.</i>
 
-46
-00:06:37,000 --> 00:06:39,200
+
+
 <i>Don't think this is yours.</i>
 
-47
-00:06:39,200 --> 00:06:41,300
+
+
 <i>This body is mine.</i>
 
-48
-00:06:43,500 --> 00:06:45,900
+
+
 No, mine.
 
-49
-00:06:48,900 --> 00:06:51,900
+
+
 <i>I don't know how much you
 know about this new world.</i>
 
-50
-00:06:51,900 --> 00:06:54,200
+
+
 <i>Almost every human</i>
 
-51
-00:06:54,200 --> 00:06:56,300
+
+
 has been successfully occupied.
 
-52
-00:06:57,900 --> 00:07:00,200
+
+
 As with the other planets you've inhabited,
 
-53
-00:07:00,200 --> 00:07:02,400
+
+
 we do not change this world.
 
-54
-00:07:02,400 --> 00:07:03,600
+
+
 But experience it.
 
-55
-00:07:04,400 --> 00:07:05,600
+
+
 And perfect it.
 
-56
-00:07:05,600 --> 00:07:07,200
+
+
 <i>What did you think?</i>
 
-57
-00:07:07,200 --> 00:07:08,800
+
+
 <i>Did you think
 I'd just give up?</i>
 
-58
-00:07:08,800 --> 00:07:12,200
+
+
 However, there are still
 pockets of human resistance
 
-59
-00:07:12,200 --> 00:07:14,400
+
+
 that threaten our peace.
 
-60
-00:07:14,400 --> 00:07:17,100
+
+
 Your host was part of that resistance.
 
-61
-00:07:17,100 --> 00:07:19,000
+
+
 You want me to locate her memories.
 
-62
-00:07:19,000 --> 00:07:22,200
+
+
 Yes. From those memories,
 we can locate other rebels.
 
-63
-00:07:22,200 --> 00:07:23,400
+
+
 <i>Good luck with that.</i>
 
-64
-00:07:23,400 --> 00:07:26,000
+
+
 But I must warn you.
 
-65
-00:07:26,000 --> 00:07:30,000
+
+
 Most humans fade away, but a
 rare few fight their occupation.
 
-66
-00:07:38,900 --> 00:07:41,100
+
+
 Her name is Melanie Stryder.
 
-67
-00:07:44,600 --> 00:07:48,000
+
+
 <i>She was born in Louisiana.</i>
 
-68
-00:07:48,000 --> 00:07:50,300
+
+
 <i>Her family escaped the initial
 waves of colonization.</i>
 
-69
-00:07:54,600 --> 00:07:56,300
+
+
 <i>But it was only
 a matter of time.</i>
 
-70
-00:08:06,600 --> 00:08:08,900
+
+
 <i>Her father was
 discovered alone.</i>
 
-71
-00:08:12,600 --> 00:08:15,500
+
+
 He took his life rather than
 be taken by our Seekers
 
-72
-00:08:15,500 --> 00:08:17,000
+
+
 and risk the lives of his children.
 
-73
-00:08:18,500 --> 00:08:20,500
+
+
 <i>Melanie has been on the run
 ever since with...</i>
 
-74
-00:08:20,500 --> 00:08:22,300
+
+
 <i>No! Don't say it!</i>
 
-75
-00:08:22,300 --> 00:08:23,200
+
+
 <i>Don't you say it!</i>
 
-76
-00:08:25,400 --> 00:08:26,600
+
+
 <i>Please.</i>
 
-77
-00:08:26,600 --> 00:08:28,200
+
+
 <i>I beg you.</i>
 
-78
-00:08:28,200 --> 00:08:29,100
+
+
 Is she resisting?
 
-79
-00:08:33,000 --> 00:08:35,100
+
+
 Jamie.
 
-80
-00:08:35,100 --> 00:08:37,000
+
+
 His name is Jamie Stryder.
 
-81
-00:08:41,200 --> 00:08:43,500
+
+
 <i>I hate you.</i>
 
-82
-00:08:43,500 --> 00:08:45,500
+
+
 <i>If only I could hurt you.</i>
 
-83
-00:08:59,500 --> 00:09:02,300
+
+
 I understand why you are resistant.
 
-84
-00:09:03,600 --> 00:09:05,300
+
+
 You believe that the loss of your will
 
-85
-00:09:05,300 --> 00:09:07,700
+
+
 is too great a sacrifice.
 
-86
-00:09:07,700 --> 00:09:10,000
+
+
 But we have to think of the common good.
 
-87
-00:09:10,000 --> 00:09:13,700
+
+
 <i>Call it whatever you want.
 This is murder.</i>
 
-88
-00:09:29,500 --> 00:09:31,400
+
+
 One sound and you die.
 
-89
-00:09:31,400 --> 00:09:33,600
+
+
 Do it. I'd rather die.
 
-90
-00:09:41,600 --> 00:09:43,000
+
+
 That's impossible.
 
-91
-00:09:45,200 --> 00:09:47,000
+
+
 You're human.
 
-92
-00:09:54,200 --> 00:09:55,700
+
+
 <i>Come back!</i>
 
-93
-00:09:55,700 --> 00:09:57,000
+
+
 <i>Stop!</i>
 
-94
-00:09:57,000 --> 00:09:57,600
+
+
 Stop!
 
-95
-00:09:58,200 --> 00:10:00,000
+
+
 Wait!
 
-96
-00:10:04,200 --> 00:10:06,600
+
+
 Look! Look!
 Look at me!
 
-97
-00:10:06,700 --> 00:10:08,100
+
+
 I'm human.
 
-98
-00:10:08,700 --> 00:10:09,700
+
+
 Just like you.
 
-99
-00:10:11,300 --> 00:10:12,400
+
+
 Get off me.
 
-100
-00:10:12,400 --> 00:10:14,100
+
+
 I'm sorry.
 
-101
-00:10:16,000 --> 00:10:18,200
+
+
 <i>My name is Jared Howe.</i>
 
-102
-00:10:18,200 --> 00:10:20,300
+
+
 <i>I didn't mean to scare you.</i>
 
-103
-00:10:20,300 --> 00:10:23,600
+
+
 I haven't spoken to another
 human being in two years.
 
-104
-00:10:23,600 --> 00:10:26,600
+
+
 I'm guessing you haven't been
 kissed in a while either.
 
-105
-00:10:32,300 --> 00:10:34,100
+
+
 Melanie Stryder.
 
-106
-00:10:40,100 --> 00:10:42,000
+
+
 I've got someone waiting for me.
 
-107
-00:10:43,300 --> 00:10:44,400
+
+
 You're not alone?
 
-108
-00:10:44,400 --> 00:10:46,800
+
+
 It's my kid brother.
 
-109
-00:10:46,800 --> 00:10:50,000
+
+
 He's hungry.
 I ran two hours to get to this house.
 
-110
-00:10:51,400 --> 00:10:52,700
+
+
 I can give you a ride.
 
-111
-00:10:55,200 --> 00:10:57,100
+
+
 Hey, it's faster than running.
 
-112
-00:10:57,100 --> 00:10:59,000
+
+
 It's even faster than your running.
 
-113
-00:11:21,500 --> 00:11:24,600
+
+
 <i>Are you gonna pretend like you
 didn't feel something just now?</i>
 
-114
-00:11:26,600 --> 00:11:29,100
+
+
 <i>I know you felt that.</i>
 
-115
-00:11:34,400 --> 00:11:36,500
+
+
 <i>Stop that!</i>
 
-116
-00:11:36,500 --> 00:11:37,800
+
+
 <i>Stop!</i>
 
-117
-00:11:48,800 --> 00:11:51,500
+
+
 <i>What you're doing is wrong.</i>
 
-118
-00:11:51,500 --> 00:11:53,300
+
+
 <i>And you know it.</i>
 
-119
-00:11:56,600 --> 00:11:59,100
+
+
 After meeting Jared Howe,
 
-120
-00:11:59,100 --> 00:12:01,100
+
+
 Melanie and her brother stayed with him.
 
-121
-00:12:03,800 --> 00:12:06,400
+
+
 <i>They settled in an abandoned place</i>
 
-122
-00:12:06,400 --> 00:12:08,800
+
+
 <i>yet to be explored
 by our souls.</i>
 
-123
-00:12:11,300 --> 00:12:15,400
+
+
 Left, right.
 
-124
-00:12:15,400 --> 00:12:18,400
+
+
 They could almost forget the
 invasion happening around them.
 
-125
-00:12:27,900 --> 00:12:30,900
+
+
 You haven't kissed me since that first night.
 
-126
-00:12:40,400 --> 00:12:42,300
+
+
 Melanie,
 
-127
-00:12:43,300 --> 00:12:45,100
+
+
 you don't have to.
 
-128
-00:12:51,600 --> 00:12:53,600
+
+
 We could be the last ones.
 
-129
-00:12:54,500 --> 00:12:56,600
+
+
 And even if we are,
 
-130
-00:12:57,900 --> 00:13:01,800
+
+
 the last man and woman left on Earth,
 
-131
-00:13:03,600 --> 00:13:05,900
+
+
 you still don't have to.
 
-132
-00:13:11,300 --> 00:13:12,500
+
+
 I want to.
 
-133
-00:13:15,400 --> 00:13:17,500
+
+
 When you touch me,
 
-134
-00:13:17,500 --> 00:13:18,900
+
+
 it's...
 
-135
-00:13:20,800 --> 00:13:23,300
+
+
 I don't want you to stop.
 
-136
-00:13:42,400 --> 00:13:43,700
+
+
 You should sleep.
 
-137
-00:13:44,900 --> 00:13:47,300
+
+
 Then sleep with me.
 
-138
-00:13:56,900 --> 00:13:58,600
+
+
 All I'm saying is
 
-139
-00:13:59,800 --> 00:14:01,700
+
+
 we have time.
 
-140
-00:14:01,700 --> 00:14:03,400
+
+
 You don't know that.
 
-141
-00:14:05,500 --> 00:14:09,400
+
+
 You don't know if we've got months or days.
 
-142
-00:14:11,500 --> 00:14:13,500
+
+
 We could be taken at any moment.
 
-143
-00:14:16,500 --> 00:14:20,300
+
+
 We only have this, now.
 
-144
-00:14:28,800 --> 00:14:30,600
+
+
 Wanderer? Wanderer?
 
-145
-00:14:31,200 --> 00:14:32,700
+
+
 Wanderer!
 
-146
-00:14:36,300 --> 00:14:37,700
+
+
 Yes, Seeker.
 
-147
-00:14:37,700 --> 00:14:40,000
+
+
 You have not spoken for several minutes.
 
-148
-00:14:47,800 --> 00:14:49,400
+
+
 They were lovers?
 
-149
-00:14:51,700 --> 00:14:56,600
+
+
 These humans are not like the
 other bodies you have inhabited.
 
-150
-00:14:56,600 --> 00:15:00,300
+
+
 They have unusually strong physical drives.
 
-151
-00:15:01,000 --> 00:15:02,600
+
+
 You have to be vigilant.
 
-152
-00:15:03,400 --> 00:15:04,700
+
+
 Yes.
 
-153
-00:15:08,400 --> 00:15:10,600
+
+
 <i>They saw Seekers nearby.</i>
 
-154
-00:15:10,600 --> 00:15:12,800
+
+
 <i>They were not found,
 but knew they had to move .</i>
 
-155
-00:15:14,000 --> 00:15:15,300
+
+
 They were headed...
 
-156
-00:15:17,400 --> 00:15:18,600
+
+
 I can't see where.
 
-157
-00:15:20,700 --> 00:15:23,300
+
+
 A safe place with others.
 
-158
-00:15:25,300 --> 00:15:26,100
+
+
 Hope...
 
-159
-00:15:31,500 --> 00:15:33,400
+
+
 Before the long journey,
 
-160
-00:15:33,400 --> 00:15:36,900
+
+
 they spent the night in an old
 hotel they thought was safe.
 
-161
-00:15:36,900 --> 00:15:39,400
+
+
 <i>Jared was out searching for
 supplies for the trip.</i>
 
-162
-00:15:40,800 --> 00:15:42,800
+
+
 Come on. Come on. Come on.
 
-163
-00:15:45,000 --> 00:15:46,900
+
+
 Stay here. Don't move.
 
-164
-00:15:46,900 --> 00:15:48,400
+
+
 I want to go with you.
 
-165
-00:15:48,400 --> 00:15:50,400
+
+
 I'll lead them away and come right back.
 
-166
-00:15:52,100 --> 00:15:54,000
+
+
 I promise. Come on.
 
-167
-00:16:08,600 --> 00:16:09,800
+
+
 No!
 
-168
-00:16:14,800 --> 00:16:16,100
+
+
 <i>Now you know.</i>
 
-169
-00:16:16,900 --> 00:16:19,000
+
+
 <i>I will do anything.</i>
 
-170
-00:16:19,900 --> 00:16:21,000
+
+
 Go on.
 
-171
-00:16:22,600 --> 00:16:23,700
+
+
 There's nothing more now.
 
-172
-00:16:23,700 --> 00:16:24,900
+
+
 There has to be more.
 
-173
-00:16:25,900 --> 00:16:27,600
+
+
 I will keep trying.
 
-174
-00:16:31,500 --> 00:16:33,000
+
+
 Please do, Wanderer.
 
-175
-00:16:44,000 --> 00:16:47,100
+
+
 <i>No! No, no! Wait! Stop!</i>
 
-176
-00:16:47,100 --> 00:16:49,800
+
+
 <i>You were not meant to see that.
 You can't know that!</i>
 
-177
-00:16:49,800 --> 00:16:51,800
+
+
 <i>That could kill them!</i>
 
-178
-00:16:51,800 --> 00:16:55,100
+
+
 <i>Get rid of it. Get rid of it!
 Now! Please!</i>
 
-179
-00:16:55,100 --> 00:16:56,600
+
+
 <i>You were not meant to see that.
 Quiet.</i>
 
-180
-00:16:56,600 --> 00:16:58,100
+
+
 Quiet.
 
-181
-00:17:08,500 --> 00:17:10,200
+
+
 <i>Wanderer, please.</i>
 
-182
-00:17:23,200 --> 00:17:25,400
+
+
 <i>After everything you've se,</i>
 
-183
-00:17:26,500 --> 00:17:28,700
+
+
 <i>how can you still help them?</i>
 
-184
-00:18:09,600 --> 00:18:10,800
+
+
 <i>Surprise, surprise.</i>
 
-185
-00:18:10,800 --> 00:18:12,600
+
+
 <i>Look who's here.</i>
 
-186
-00:18:23,000 --> 00:18:25,200
+
+
 What a pleasant surprise, Seeker.
 
-187
-00:18:25,200 --> 00:18:27,700
+
+
 Did you follow me?
 
-188
-00:18:27,700 --> 00:18:29,500
+
+
 Only in case you needed me.
 
-189
-00:18:29,500 --> 00:18:30,800
+
+
 <i>Yeah. Right.</i>
 
-190
-00:18:30,800 --> 00:18:32,200
+
+
 <i>She is so full of it.</i>
 
-191
-00:18:34,600 --> 00:18:36,500
+
+
 What are you doing here?
 
-192
-00:18:37,800 --> 00:18:40,200
+
+
 I thought a change of scenery might help.
 
-193
-00:18:41,500 --> 00:18:43,900
+
+
 Change.
 
-194
-00:18:43,900 --> 00:18:48,500
+
+
 Wasn't your last planet
 completely covered by water?
 
-195
-00:18:48,500 --> 00:18:51,000
+
+
 It's been a week since
 you've had new information.
 
-196
-00:18:52,100 --> 00:18:53,700
+
+
 Do you know where they are?
 
-197
-00:18:59,700 --> 00:19:01,900
+
+
 <i>If you can't
 say no, say nothing.</i>
 
-198
-00:19:02,300 --> 00:19:04,000
+
+
 <i>Walk away.</i>
 
-199
-00:19:13,700 --> 00:19:15,800
+
+
 Do you pity them?
 
-200
-00:19:15,800 --> 00:19:17,600
+
+
 The humans?
 
-201
-00:19:18,700 --> 00:19:21,100
+
+
 Don't you?
 
-202
-00:19:21,100 --> 00:19:24,200
+
+
 In your other lives, have you
 ever felt anything like this?
 
-203
-00:19:24,900 --> 00:19:26,700
+
+
 They were brutal.
 
-204
-00:19:26,700 --> 00:19:30,600
+
+
 Killing each other.
 Killing their planet.
 
-205
-00:19:30,600 --> 00:19:33,200
+
+
 They're lucky they survived as long as they did.
 
-206
-00:19:35,000 --> 00:19:36,300
+
+
 I do have some good news.
 
-207
-00:19:38,200 --> 00:19:41,800
+
+
 Your identification of Jared Howe has helped.
 
-208
-00:19:41,800 --> 00:19:45,000
+
+
 There was a sighting.
 I am confident we will find him.
 
-209
-00:19:45,000 --> 00:19:46,000
+
+
 <i>- No!
 - No!</i>
 
-210
-00:19:47,100 --> 00:19:48,800
+
+
 Ah!
 
-211
-00:20:07,900 --> 00:20:11,200
+
+
 Seeker, I am so sorry.
 
-212
-00:20:11,200 --> 00:20:13,000
+
+
 I don't know what I was doing.
 
-213
-00:20:13,000 --> 00:20:14,800
+
+
 Perhaps because you weren't doing it.
 
-214
-00:20:14,800 --> 00:20:16,200
+
+
 We have put you through enough.
 
-215
-00:20:16,200 --> 00:20:18,100
+
+
 Your host appears too resistant.
 
-216
-00:20:18,100 --> 00:20:21,800
+
+
 You are going to be re-implanted
 into a more compliant host.
 
-217
-00:20:21,800 --> 00:20:23,700
+
+
 <i>Is he saying
 what I think he's saying?</i>
 
-218
-00:20:23,700 --> 00:20:25,300
+
+
 What will happen to this body?
 
-219
-00:20:25,300 --> 00:20:27,800
+
+
 It is time for someone else
 to search her memories.
 
-220
-00:20:28,800 --> 00:20:29,900
+
+
 <i>Her?</i>
 
-221
-00:20:31,100 --> 00:20:32,700
+
+
 You?
 
-222
-00:20:32,700 --> 00:20:34,100
+
+
 Yes.
 
-223
-00:20:34,100 --> 00:20:35,900
+
+
 My body can be held for me.
 
-224
-00:20:35,900 --> 00:20:39,700
+
+
 I will return to it when we
 have the information we need.
 
-225
-00:20:39,700 --> 00:20:42,200
+
+
 Then what will happen to Melanie Stryder?
 
-226
-00:20:42,200 --> 00:20:45,300
+
+
 She will have the death she originally desired.
 
-227
-00:20:45,300 --> 00:20:48,600
+
+
 Unlike the way humans kill,
 it will be done humanely.
 
-228
-00:20:48,600 --> 00:20:52,100
+
+
 <i>Stop her! Do something!</i>
 
-229
-00:20:52,100 --> 00:20:54,300
+
+
 My Healer has agreed to this?
 
-230
-00:20:54,300 --> 00:20:57,000
+
+
 No.
 He transferred to Fort Worth.
 
-231
-00:20:58,100 --> 00:21:01,000
+
+
 Don't feel bad.
 You are not the only one.
 
-232
-00:21:01,000 --> 00:21:03,300
+
+
 There are others who have not
 had the strength of will.
 
-233
-00:21:05,400 --> 00:21:07,100
+
+
 When?
 We make the transfer tomorrow.
 
-234
-00:21:11,900 --> 00:21:13,800
+
+
 We will stay outside your door tonight
 
-235
-00:21:13,800 --> 00:21:15,700
+
+
 so no harm will come to you.
 
-236
-00:21:15,700 --> 00:21:18,900
+
+
 Or to others.
 
-237
-00:21:18,900 --> 00:21:23,000
+
+
 <i>Please. I don't care if I die.
 I can't have her inside me.</i>
 
-238
-00:21:23,000 --> 00:21:25,000
+
+
 Melanie, I have to do my duty.
 
-239
-00:21:25,000 --> 00:21:28,200
+
+
 <i>You have to do what's right.
 She'll kill my family.</i>
 
-240
-00:21:28,200 --> 00:21:32,800
+
+
 <i>Jamie, Jared, she'll kill them.
 Wanderer, please.</i>
 
-241
-00:21:32,800 --> 00:21:34,700
+
+
 <i>Your Healer.
 Do you think he would help?</i>
 
-242
-00:21:34,700 --> 00:21:37,300
+
+
 I think so.
 But I don't know how to reach him.
 
-243
-00:21:37,300 --> 00:21:40,000
+
+
 <i>We need to find him.
 We have to get out of here.</i>
 
-244
-00:21:40,700 --> 00:21:41,800
+
+
 We?
 
-245
-00:21:42,300 --> 00:21:45,100
+
+
 <i>Put the chair
 against the door.</i>
 
-246
-00:21:49,200 --> 00:21:51,100
+
+
 <i>No. The other way.</i>
 
-247
-00:21:56,400 --> 00:21:58,400
+
+
 How does this help?
 There's no way out.
 
-248
-00:21:58,400 --> 00:22:00,700
+
+
 <i>Yes, there is. That way.</i>
 
-249
-00:22:03,100 --> 00:22:05,000
+
+
 <i>Do it, Wanderer. Move.</i>
 
-250
-00:22:09,700 --> 00:22:11,300
+
+
 <i>Open it.</i>
 
-251
-00:22:16,800 --> 00:22:18,900
+
+
 <i>Come on.
 You can do this.</i>
 
-252
-00:22:22,100 --> 00:22:25,100
+
+
 <i>It's not so high.
 This is nothing.</i>
 
-253
-00:22:29,100 --> 00:22:30,800
+
+
 <i>It's gonna be okay.</i>
 
-254
-00:22:31,900 --> 00:22:32,800
+
+
 <i>Climb up.</i>
 
-255
-00:22:37,700 --> 00:22:38,900
+
+
 <i>Now jump.</i>
 
-256
-00:22:38,900 --> 00:22:40,400
+
+
 I can't.
 
-257
-00:22:40,400 --> 00:22:42,500
+
+
 <i>It's a good thing I can.</i>
 
-258
-00:22:49,900 --> 00:22:51,700
+
+
 <i>Swim!</i>
 
-259
-00:22:55,800 --> 00:22:57,800
+
+
 Wanderer?
 Are you all right?
 
-260
-00:22:57,800 --> 00:22:59,900
+
+
 You could have killed us.
 
-261
-00:22:59,900 --> 00:23:01,300
+
+
 <i>Run!</i>
 
-262
-00:23:01,900 --> 00:23:03,500
+
+
 Step aside.
 
-263
-00:23:16,900 --> 00:23:18,000
+
+
 Wanderer?
 
-264
-00:23:22,100 --> 00:23:23,400
+
+
 I'm sorry.
 
-265
-00:23:29,200 --> 00:23:31,200
+
+
 <i>We need to steal a car.</i>
 
-266
-00:23:31,200 --> 00:23:33,100
+
+
 <i>Don't worry.
 I've done it before.</i>
 
-267
-00:23:33,100 --> 00:23:34,800
+
+
 Let me handle this.
 
-268
-00:23:34,800 --> 00:23:37,900
+
+
 <i>You?
 What are you doing? Wait!</i>
 
-269
-00:23:37,900 --> 00:23:39,500
+
+
 Shh! Quiet!
 
-270
-00:23:43,400 --> 00:23:45,500
+
+
 Do you need help?
 
-271
-00:23:45,500 --> 00:23:47,300
+
+
 May I borrow your vehicle?
 
-272
-00:23:48,200 --> 00:23:49,600
+
+
 Please. It is important.
 
-273
-00:23:50,100 --> 00:23:51,500
+
+
 Certainly.
 
-274
-00:23:53,100 --> 00:23:54,200
+
+
 Can I be of assistance?
 
-275
-00:23:54,200 --> 00:23:56,400
+
+
 No. Thank you.
 
-276
-00:23:56,400 --> 00:23:58,900
+
+
 This is an extremely reliable model.
 
-277
-00:24:03,300 --> 00:24:05,400
+
+
 The tank is full.
 
-278
-00:24:08,500 --> 00:24:09,600
+
+
 <i>Huh!</i>
 
-279
-00:24:09,600 --> 00:24:15,000
+
+
 It was no trick. We do not lie.
 We trust each other.
 
-280
-00:24:15,000 --> 00:24:17,200
+
+
 <i>You guys take
 the fun out of everything.</i>
 
-281
-00:24:18,000 --> 00:24:19,400
+
+
 <i>Where are we going?</i>
 
-282
-00:24:21,500 --> 00:24:24,100
+
+
 I will take you to my Healer in Fort Worth.
 
-283
-00:24:24,100 --> 00:24:27,100
+
+
 <i>Even if your Healer agrees
 to keep me inside you,</i>
 
-284
-00:24:27,100 --> 00:24:28,600
+
+
 <i>I'll still be a prisoner.</i>
 
-285
-00:24:28,600 --> 00:24:30,300
+
+
 You will still be alive.
 
-286
-00:24:30,300 --> 00:24:34,400
+
+
 <i>That Seeker is a lot of things,
 but she's not a fool.</i>
 
-287
-00:24:34,400 --> 00:24:37,100
+
+
 <i>Sooner or later, she'll work
 out where you're going.</i>
 
-288
-00:24:37,100 --> 00:24:38,300
+
+
 We need a map.
 
-289
-00:24:38,300 --> 00:24:39,500
+
+
 <i>I'll show you the way.</i>
 
-290
-00:26:03,400 --> 00:26:05,300
+
+
 <i>What's wrong?</i>
 
-291
-00:26:05,300 --> 00:26:07,200
+
+
 <i>Are the memories
 too painful?</i>
 
-292
-00:26:08,300 --> 00:26:10,200
+
+
 <i>How do you think I feel?</i>
 
-293
-00:26:10,200 --> 00:26:11,400
+
+
 I know how you feel.
 
-294
-00:26:12,400 --> 00:26:14,200
+
+
 That's the problem.
 
-295
-00:26:14,200 --> 00:26:16,400
+
+
 <i>When you take the body,
 the feelings come with it.</i>
 
-296
-00:26:16,400 --> 00:26:17,700
+
+
 <i>It's a package deal.</i>
 
-297
-00:26:21,500 --> 00:26:25,400
+
+
 <i>You tell me. You're the one
 with the steering wheel.</i>
 
-298
-00:26:26,700 --> 00:26:29,100
+
+
 You sent us in the wrong direction.
 
-299
-00:26:29,100 --> 00:26:32,400
+
+
 You have been putting thoughts
 in my head to distract me.
 
-300
-00:26:39,100 --> 00:26:43,000
+
+
 The Seeker was right.
 You are an unreasonable species.
 
-301
-00:26:43,000 --> 00:26:45,400
+
+
 I try to help you and this is how you thank me.
 
-302
-00:26:46,500 --> 00:26:48,400
+
+
 We are going to Fort Worth.
 
-303
-00:26:48,400 --> 00:26:49,400
+
+
 <i>No!</i>
 
-304
-00:27:36,500 --> 00:27:38,200
+
+
 Will it still work?
 
-305
-00:27:38,700 --> 00:27:40,500
+
+
 <i>Not anymore.</i>
 
-306
-00:27:46,400 --> 00:27:47,800
+
+
 Now what do we do?
 
-307
-00:27:47,800 --> 00:27:49,400
+
+
 <i>We walk.</i>
 
-308
-00:27:49,400 --> 00:27:52,100
+
+
 <i>Which way?
 You can go my way,</i>
 
-309
-00:27:52,100 --> 00:27:54,600
+
+
 <i>or you can go your own
 way and kill us both.</i>
 
-310
-00:27:57,400 --> 00:28:03,100
+
+
 <i>I made a promise.
 I promised my brother I'd come back.</i>
 
-311
-00:28:03,100 --> 00:28:05,500
+
+
 How could I have been so foolish?
 
-312
-00:28:06,800 --> 00:28:09,800
+
+
 <i>How do I know
 I can trust you?</i>
 
-313
-00:28:09,800 --> 00:28:12,200
+
+
 <i>I'm giving you
 exactly what you wanted.</i>
 
-314
-00:28:12,200 --> 00:28:13,800
+
+
 <i>Taking you to my family
 could get them killed.</i>
 
-315
-00:28:15,400 --> 00:28:16,700
+
+
 <i>We head east.</i>
 
-316
-00:28:17,600 --> 00:28:19,200
+
+
 <i>Come on.</i>
 
-317
-00:28:26,200 --> 00:28:27,700
+
+
 <i>Don't leave tracks.</i>
 
-318
-00:28:27,700 --> 00:28:29,300
+
+
 <i>Walk on the rocks.</i>
 
-319
-00:29:10,700 --> 00:29:13,200
+
+
 Did you really think you could beat me?
 
-320
-00:29:23,300 --> 00:29:24,500
+
+
 <i>Save the water.</i>
 
-321
-00:29:24,500 --> 00:29:26,400
+
+
 <i>We're gonna need it.</i>
 
-322
-00:29:26,400 --> 00:29:27,900
+
+
 I need it now.
 
-323
-00:29:34,300 --> 00:29:37,200
+
+
 We've been walking for ages.
 
-324
-00:29:37,200 --> 00:29:39,500
+
+
 How do you think you're going to find them?
 
-325
-00:29:39,500 --> 00:29:42,800
+
+
 <i>My uncle had a cabin
 out here in the desert.</i>
 
-326
-00:29:42,800 --> 00:29:45,200
+
+
 <i>We were heading
 out here to join him.</i>
 
-327
-00:29:45,900 --> 00:29:48,200
+
+
 <i>If he survived.</i>
 
-328
-00:29:50,600 --> 00:29:52,500
+
+
 <i>It's farther than I thought.</i>
 
-329
-00:29:52,500 --> 00:29:54,800
+
+
 I don't know how much farther I can go.
 
-330
-00:29:56,200 --> 00:29:59,200
+
+
 <i>We've walked too far
 to walk back.</i>
 
-331
-00:30:48,300 --> 00:30:49,800
+
+
 Melanie.
 
-332
-00:30:58,000 --> 00:30:59,900
+
+
 Come on, girl.
 
-333
-00:30:59,900 --> 00:31:01,200
+
+
 Stay with me.
 
-334
-00:31:01,200 --> 00:31:02,700
+
+
 Uncle Jeb.
 
-335
-00:31:04,200 --> 00:31:05,500
+
+
 You found us.
 
-336
-00:31:06,400 --> 00:31:07,600
+
+
 Us?
 
-337
-00:31:18,300 --> 00:31:22,300
+
+
 Jamie? Jared? Are they here?
 Are they safe?
 
-338
-00:31:27,300 --> 00:31:28,900
+
+
 I told you I saw one.
 
-339
-00:31:32,500 --> 00:31:34,400
+
+
 Why did you give it water?
 
-340
-00:31:34,400 --> 00:31:36,000
+
+
 On account of it was dying.
 
-341
-00:31:38,500 --> 00:31:40,800
+
+
 <i>Uncle Jeb!
 I'm in here!</i>
 
-342
-00:31:40,800 --> 00:31:41,900
+
+
 Hold it, Kyle.
 
-343
-00:31:43,400 --> 00:31:44,800
+
+
 Why?
 
-344
-00:31:44,800 --> 00:31:45,900
+
+
 She's one of them.
 
-345
-00:31:45,900 --> 00:31:48,000
+
+
 Well, yeah, she surely is,
 
-346
-00:31:49,500 --> 00:31:50,500
+
+
 but she's also my niece.
 
-347
-00:31:50,900 --> 00:31:52,400
+
+
 Was.
 
-348
-00:31:52,400 --> 00:31:54,700
+
+
 I'm just saying it's complicated, Ian.
 
-349
-00:31:54,700 --> 00:31:56,000
+
+
 I can make it simple.
 
-350
-00:31:56,000 --> 00:31:57,000
+
+
 Yeah, me, too.
 
-351
-00:32:00,300 --> 00:32:01,700
+
+
 <i>Aunt Maggie!</i>
 
-352
-00:32:01,700 --> 00:32:02,800
+
+
 Aunt Maggie!
 
-353
-00:32:05,300 --> 00:32:08,900
+
+
 You don't fool us, parasite!
 
-354
-00:32:08,900 --> 00:32:11,500
+
+
 <i>Oh, God. They don't see me.
 They only see you.</i>
 
-355
-00:32:11,900 --> 00:32:13,100
+
+
 Now, Maggie.
 
-356
-00:32:13,100 --> 00:32:15,900
+
+
 Don't you "Maggie" me, little brother.
 
-357
-00:32:15,900 --> 00:32:17,900
+
+
 It could bring a whole army down on our heads.
 
-358
-00:32:18,600 --> 00:32:20,500
+
+
 I don't see anyone.
 
-359
-00:32:24,900 --> 00:32:26,400
+
+
 <i>I'm in here.</i>
 
-360
-00:32:26,400 --> 00:32:27,600
+
+
 <i>I'm in here.</i>
 
-361
-00:32:27,600 --> 00:32:28,900
+
+
 This is unkind, Jebediah.
 
-362
-00:32:29,500 --> 00:32:31,300
+
+
 Let's go.
 
-363
-00:32:31,300 --> 00:32:33,300
+
+
 Life is unkind, Magnolia.
 
-364
-00:33:02,400 --> 00:33:03,600
+
+
 Watch your head.
 
-365
-00:33:05,000 --> 00:33:06,700
+
+
 <i>Where are we, Wanderer?</i>
 
-366
-00:33:07,900 --> 00:33:10,600
+
+
 I reckon it's safe enough now.
 
-367
-00:33:47,900 --> 00:33:49,700
+
+
 <i>So many humans alive.</i>
 
-368
-00:33:50,200 --> 00:33:51,500
+
+
 <i>We haven't lost.</i>
 
-369
-00:33:57,500 --> 00:33:58,900
+
+
 <i>Jared!</i>
 
-370
-00:33:58,900 --> 00:34:00,900
+
+
 <i>Jared!
 Jared's alive! Jared's...</i>
 
-371
-00:34:03,600 --> 00:34:05,500
+
+
 Enough, Jared.
 
-372
-00:34:05,500 --> 00:34:06,900
+
+
 Jebediah,
 
-373
-00:34:06,900 --> 00:34:08,700
+
+
 I know it's hard.
 
-374
-00:34:08,700 --> 00:34:11,600
+
+
 But we gotta do what's best for everyone.
 
-375
-00:34:11,600 --> 00:34:13,900
+
+
 She's gotta go to Doc's place.
 Just like the rest.
 
-376
-00:34:13,900 --> 00:34:15,200
+
+
 Ain't that right, Doc?
 
-377
-00:34:17,500 --> 00:34:18,600
+
+
 No!
 
-378
-00:34:18,600 --> 00:34:19,600
+
+
 <i>Jamie!</i>
 
-379
-00:35:02,900 --> 00:35:04,200
+
+
 I don't see any tracks.
 
-380
-00:35:04,900 --> 00:35:06,500
+
+
 She didn't fly away.
 
-381
-00:35:06,500 --> 00:35:08,500
+
+
 This Wanderer is living up to her name.
 
-382
-00:35:08,500 --> 00:35:11,200
+
+
 We find her, we find the resistance.
 
-383
-00:35:35,700 --> 00:35:37,200
+
+
 Melanie?
 
-384
-00:35:40,900 --> 00:35:42,800
+
+
 <i>Wanderer?</i>
 
-385
-00:35:42,800 --> 00:35:45,500
+
+
 <i>They don't know a human can
 stay alive in a body.</i>
 
-386
-00:35:47,300 --> 00:35:49,700
+
+
 <i>You can't tell them
 I'm in here.</i>
 
-387
-00:35:49,700 --> 00:35:51,600
+
+
 <i>They won't believe you.</i>
 
-388
-00:35:51,600 --> 00:35:54,000
+
+
 <i>They'll think you're
 lying to save yourself.</i>
 
-389
-00:35:55,900 --> 00:35:57,700
+
+
 <i>Oh, God.</i>
 
-390
-00:35:57,700 --> 00:35:59,300
+
+
 <i>They're gonna kill us.</i>
 
-391
-00:36:02,900 --> 00:36:04,000
+
+
 <i>I'm sorry.</i>
 
-392
-00:36:37,800 --> 00:36:40,000
+
+
 Move aside, Jared.
 
-393
-00:36:43,700 --> 00:36:45,300
+
+
 Get out of the way.
 
-394
-00:36:45,300 --> 00:36:47,300
+
+
 We can't keep her prisoner forever.
 
-395
-00:36:47,300 --> 00:36:49,800
+
+
 It's gonna escape and lead them to us.
 
-396
-00:36:51,300 --> 00:36:53,300
+
+
 I don't want to hurt you, Jared.
 
-397
-00:36:55,800 --> 00:36:57,000
+
+
 But I will.
 
-398
-00:37:05,200 --> 00:37:07,600
+
+
 No!
 I am what you want!
 
-399
-00:37:07,600 --> 00:37:09,100
+
+
 Stay back!
 
-400
-00:37:09,100 --> 00:37:10,600
+
+
 I am what you want!
 
-401
-00:37:10,600 --> 00:37:11,800
+
+
 Ian! Get it!
 
-402
-00:37:12,200 --> 00:37:13,300
+
+
 Leave him alone!
 
-403
-00:37:16,800 --> 00:37:20,200
+
+
 <i>Keep breathing! Come on, Wanderer!
 Fight him! Fight!</i>
 
-404
-00:37:20,900 --> 00:37:21,700
+
+
 Finish it!
 
-405
-00:37:31,300 --> 00:37:33,900
+
+
 Good evening, everyone.
 
-406
-00:37:33,900 --> 00:37:37,400
+
+
 I hate to remind you, but this is
 my place, and you are my guests.
 
-407
-00:37:38,700 --> 00:37:40,900
+
+
 For the moment, she is, too.
 
-408
-00:37:40,900 --> 00:37:44,100
+
+
 I don't take kindly to my
 guests strangling each other.
 
-409
-00:37:44,100 --> 00:37:46,100
+
+
 Jeb, it's got to die.
 
-410
-00:37:46,700 --> 00:37:48,100
+
+
 We took a vote.
 
-411
-00:37:48,100 --> 00:37:50,100
+
+
 This ain't a democracy.
 
-412
-00:37:51,300 --> 00:37:54,100
+
+
 It's a dictatorship.
 
-413
-00:37:54,100 --> 00:37:57,800
+
+
 It's a benign dictatorship, but
 it's a dictatorship just the same.
 
-414
-00:37:57,800 --> 00:37:59,300
+
+
 You mind telling us what
 you plan on doing with it?
 
-415
-00:38:00,300 --> 00:38:02,100
+
+
 This ain't never happened before.
 
-416
-00:38:02,100 --> 00:38:04,200
+
+
 One of our own coming back.
 
-417
-00:38:05,700 --> 00:38:10,100
+
+
 For right now, this tunnel is off limits.
 
-418
-00:38:10,100 --> 00:38:13,000
+
+
 If I find any of you back here,
 I'm asking questions second.
 
-419
-00:38:20,400 --> 00:38:22,700
+
+
 I'll take the next watch, Jared.
 
-420
-00:38:25,100 --> 00:38:26,700
+
+
 Keep it away from the kid.
 
-421
-00:38:31,000 --> 00:38:34,000
+
+
 I do not think we are looking for Wanderer.
 
-422
-00:38:34,000 --> 00:38:36,100
+
+
 I think we are looking for a body.
 
-423
-00:38:36,100 --> 00:38:37,900
+
+
 Even if she were not hurt in the wreck,
 
-424
-00:38:37,900 --> 00:38:40,200
+
+
 how long could she survive in this place?
 
-425
-00:38:40,200 --> 00:38:43,300
+
+
 From my experience, this
 host has difficulty dying.
 
-426
-00:38:43,300 --> 00:38:45,200
+
+
 There's too much land for us to cover.
 
-427
-00:38:45,200 --> 00:38:47,100
+
+
 I am requesting more Seekers,
 
-428
-00:38:47,100 --> 00:38:49,400
+
+
 ground and air patrols.
 
-429
-00:38:49,400 --> 00:38:51,200
+
+
 Are they really such a threat?
 
-430
-00:38:51,300 --> 00:38:53,700
+
+
 We outnumber them a million to one.
 
-431
-00:39:10,000 --> 00:39:12,300
+
+
 He's still pissed you hit him.
 
-432
-00:39:12,300 --> 00:39:13,500
+
+
 I told him you were sorry.
 
-433
-00:39:13,900 --> 00:39:15,800
+
+
 I'm not.
 
-434
-00:39:15,800 --> 00:39:17,400
+
+
 I know.
 
-435
-00:39:17,400 --> 00:39:19,700
+
+
 No one's ever sorry for hitting my brother.
 
-436
-00:39:24,900 --> 00:39:27,000
+
+
 It looks like they're calling off the search.
 
-437
-00:39:32,000 --> 00:39:33,400
+
+
 Not that one.
 
-438
-00:39:53,900 --> 00:39:55,000
+
+
 <i>Jamie!</i>
 
-439
-00:39:55,000 --> 00:39:56,500
+
+
 <i>Little brother.</i>
 
-440
-00:40:09,100 --> 00:40:10,400
+
+
 Do you know who I am?
 
-441
-00:40:11,200 --> 00:40:12,800
+
+
 You are Jamie.
 
-442
-00:40:14,000 --> 00:40:15,000
+
+
 But you're not Melanie.
 
-443
-00:40:18,500 --> 00:40:21,500
+
+
 I want to know what happened
 to my sister that night.
 
-444
-00:40:21,500 --> 00:40:23,400
+
+
 She said that she was gonna come back.
 
-445
-00:40:23,400 --> 00:40:26,900
+
+
 <i>he deserves to know
 what happened to me.</i>
 
-446
-00:40:28,200 --> 00:40:29,900
+
+
 I'm not a kid.
 
-447
-00:40:30,400 --> 00:40:31,800
+
+
 Please.
 
-448
-00:40:34,400 --> 00:40:36,900
+
+
 To protect you and Jared,
 she tried to take her life.
 
-449
-00:40:38,500 --> 00:40:42,100
+
+
 Our healers mended her and put me in her
 
-450
-00:40:42,100 --> 00:40:44,500
+
+
 hoping I could find out if there
 were other human survivors.
 
-451
-00:40:46,500 --> 00:40:47,500
+
+
 Do you have a name?
 
-452
-00:40:50,200 --> 00:40:51,600
+
+
 They call me Wanderer.
 
-453
-00:40:52,400 --> 00:40:53,500
+
+
 Where do you come from?
 
-454
-00:40:54,200 --> 00:40:56,100
+
+
 Another planet.
 
-455
-00:40:56,100 --> 00:40:58,400
+
+
 What the hell?
 Damn it, Jeb, I told you.
 
-456
-00:40:58,400 --> 00:41:01,500
+
+
 You never said nothing about
 keeping the kid away from her.
 
-457
-00:41:01,500 --> 00:41:04,400
+
+
 Jamie, that is not Melanie!
 She's never coming back.
 
-458
-00:41:04,400 --> 00:41:06,000
+
+
 It's still her body that we've hurt.
 
-459
-00:41:06,000 --> 00:41:07,100
+
+
 Get out of here now, Jamie,
 
-460
-00:41:07,100 --> 00:41:08,300
+
+
 or so help me, I'll...
 Jared.
 
-461
-00:41:12,000 --> 00:41:14,300
+
+
 I'll look after Jamie.
 
-462
-00:41:14,300 --> 00:41:15,200
+
+
 We'll watch it.
 
-463
-00:41:21,900 --> 00:41:24,000
+
+
 I don't trust it.
 
-464
-00:41:24,000 --> 00:41:25,100
+
+
 Could be another Seeker.
 
-465
-00:41:25,100 --> 00:41:26,400
+
+
 She...
 It
 
-466
-00:41:26,400 --> 00:41:30,300
+
+
 is the furthest thing from
 a Seeker I've ever seen.
 
-467
-00:41:30,300 --> 00:41:32,300
+
+
 I mean, she jumped between you and Kyle.
 They don't do that.
 
-468
-00:41:32,300 --> 00:41:35,100
+
+
 It was trying to find a way
 to stay alive and escape.
 
-469
-00:41:35,100 --> 00:41:37,200
+
+
 What, by giving Kyle the
 go-ahead to kill her? It?
 
-470
-00:41:37,200 --> 00:41:38,300
+
+
 That's a good plan.
 
-471
-00:41:38,300 --> 00:41:40,900
+
+
 What the hell has gotten into everybody?
 
-472
-00:41:41,400 --> 00:41:45,200
+
+
 It is the enemy.
 Don't forget it.
 
-473
-00:41:45,200 --> 00:41:47,600
+
+
 You don't feel bad at all.
 I mean, I half killed her.
 
-474
-00:41:47,600 --> 00:41:51,600
+
+
 It doesn't matter.
 It's not human.
 
-475
-00:41:53,300 --> 00:41:55,900
+
+
 So we stop acting human?
 
-476
-00:42:11,500 --> 00:42:13,600
+
+
 This is a big planet.
 
-477
-00:42:18,600 --> 00:42:22,300
+
+
 <i>There has been a sighting f
 humans in your area.</i>
 
-478
-00:42:22,300 --> 00:42:25,400
+
+
 <i>We are commencing a full-scale
 search immediately.</i>
 
-479
-00:42:28,700 --> 00:42:29,900
+
+
 Something, ain't it?
 
-480
-00:42:32,000 --> 00:42:34,300
+
+
 Found this place by accident.
 
-481
-00:42:34,300 --> 00:42:36,100
+
+
 Really, it found me.
 
-482
-00:42:36,100 --> 00:42:38,400
+
+
 I fell through the roof.
 
-483
-00:42:38,400 --> 00:42:41,400
+
+
 Almost died trying to find
 a way out of these caves.
 
-484
-00:42:42,400 --> 00:42:44,600
+
+
 There's only one.
 
-485
-00:42:44,600 --> 00:42:47,500
+
+
 No one's found it on their own since I did.
 
-486
-00:42:47,500 --> 00:42:49,600
+
+
 Kept the place to myself.
 
-487
-00:42:49,600 --> 00:42:52,400
+
+
 Good thing, too.
 Without this, we're all dead. Right?
 
-488
-00:42:52,400 --> 00:42:54,200
+
+
 Wanderer?
 
-489
-00:42:57,500 --> 00:43:00,700
+
+
 Sound travels in these caves.
 
-490
-00:43:00,700 --> 00:43:04,500
+
+
 Your name is a mouthful.
 You mind if I shorten it?
 
-491
-00:43:04,500 --> 00:43:07,200
+
+
 Life's short.
 Especially right now.
 
-492
-00:43:08,200 --> 00:43:10,400
+
+
 Mind if I call you...
 
-493
-00:43:12,300 --> 00:43:14,000
+
+
 Wanda?
 
-494
-00:43:22,600 --> 00:43:29,300
+
+
 We get our power from the sun, Earth.
 Any place we can.
 
-495
-00:43:29,300 --> 00:43:33,400
+
+
 It's actually an extinct
 volcano not quite extinct.
 
-496
-00:43:39,200 --> 00:43:41,000
+
+
 Watch yourself.
 
-497
-00:43:41,000 --> 00:43:42,700
+
+
 Fall in, you're not coming back.
 
-498
-00:43:57,400 --> 00:43:59,500
+
+
 Afternoon, everyone.
 
-499
-00:44:04,100 --> 00:44:05,800
+
+
 It's all yours.
 
-500
-00:44:07,300 --> 00:44:08,800
+
+
 Don't you all look pretty?
 
-501
-00:44:08,800 --> 00:44:10,400
+
+
 You all got your shades?
 
-502
-00:44:10,400 --> 00:44:12,100
+
+
 Yeah, yeah.
 
-503
-00:44:12,100 --> 00:44:14,100
+
+
 Make sure you wear them.
 
-504
-00:44:14,100 --> 00:44:15,600
+
+
 You already look like an alien.
 
-505
-00:45:02,200 --> 00:45:03,700
+
+
 Makes you feel like a human
 being again, don't it?
 
-506
-00:45:07,200 --> 00:45:08,500
+
+
 Bad joke?
 
-507
-00:45:29,700 --> 00:45:31,700
+
+
 You have the resources you wanted, Seeker.
 
-508
-00:45:40,100 --> 00:45:42,500
+
+
 I know you must have seen a lot,
 
-509
-00:45:42,500 --> 00:45:44,500
+
+
 but you ain't seen nothing like this.
 
-510
-00:46:00,500 --> 00:46:02,100
+
+
 Nothing.
 
-511
-00:46:03,300 --> 00:46:06,800
+
+
 Same way the magicians do it.
 Mirrors.
 
-512
-00:46:16,600 --> 00:46:19,500
+
+
 <i>And they all said
 Jeb was crazy.</i>
 
-513
-00:46:19,600 --> 00:46:22,500
+
+
 <i>How many crazy people
 could pull this off?</i>
 
-514
-00:46:24,700 --> 00:46:26,800
+
+
 It's almost ready to harvest.
 
-515
-00:46:27,900 --> 00:46:30,600
+
+
 Can't come too soon.
 We sure need the grain.
 
-516
-00:46:35,800 --> 00:46:39,200
+
+
 Everyone here thinks you're going
 to betray us to the Seekers.
 
-517
-00:46:41,400 --> 00:46:43,600
+
+
 Makes sense.
 
-518
-00:46:43,600 --> 00:46:47,600
+
+
 Why else would you be here?
 
-519
-00:46:47,600 --> 00:46:51,400
+
+
 What I can't wrap my head around
 is what kind of a plan was that?
 
-520
-00:46:51,400 --> 00:46:52,900
+
+
 Walking into the desert with no backup
 
-521
-00:46:52,900 --> 00:46:55,800
+
+
 and no way to get yourself back?
 
-522
-00:46:55,800 --> 00:46:57,700
+
+
 So if, like you say, you weren't
 coming here for the Seekers,
 
-523
-00:46:57,700 --> 00:46:59,700
+
+
 why were you doing it?
 
-524
-00:46:59,700 --> 00:47:02,800
+
+
 Then I started thinking, when
 they put one of you in our heads,
 
-525
-00:47:02,800 --> 00:47:06,500
+
+
 do we still exist?
 Trapped in there?
 
-526
-00:47:06,500 --> 00:47:10,300
+
+
 If our memories are still alive, are we?
 
-527
-00:47:10,300 --> 00:47:13,000
+
+
 You gotta believe some people
 wouldn't go down without a fight.
 
-528
-00:47:13,000 --> 00:47:14,500
+
+
 Hell, I know I wouldn't go quiet.
 
-529
-00:47:14,500 --> 00:47:17,200
+
+
 And I've never seen fight like in Mel.
 
-530
-00:47:17,200 --> 00:47:21,200
+
+
 What she'd fight for, more than
 anything, is the people that she loves.
 
-531
-00:47:24,300 --> 00:47:26,000
+
+
 I wonder
 
-532
-00:47:27,700 --> 00:47:30,900
+
+
 if a love like that might
 play on someone's mind.
 
-533
-00:47:31,800 --> 00:47:33,200
+
+
 Heart.
 
-534
-00:47:35,300 --> 00:47:38,600
+
+
 It might get somebody to do something
 they wouldn't ordinarily do.
 
-535
-00:47:40,400 --> 00:47:42,000
+
+
 Maybe you're here
 
-536
-00:47:42,000 --> 00:47:45,500
+
+
 'cause you do actually care
 about Jared and the kid.
 
-537
-00:47:48,500 --> 00:47:49,700
+
+
 You.
 
-538
-00:47:50,500 --> 00:47:52,300
+
+
 Wanda.
 
-539
-00:47:55,800 --> 00:47:57,300
+
+
 He sees everything.
 
-540
-00:47:58,300 --> 00:48:00,500
+
+
 He's not crazy.
 He's a genius.
 
-541
-00:48:00,500 --> 00:48:02,600
+
+
 <i>I think he's both.</i>
 
-542
-00:48:02,600 --> 00:48:04,500
+
+
 Yeah, I wonder
 
-543
-00:48:05,600 --> 00:48:08,400
+
+
 a lot about a lot of things.
 
-544
-00:48:09,700 --> 00:48:11,900
+
+
 And I'm not the only one.
 
-545
-00:48:13,400 --> 00:48:15,500
+
+
 Care to join us, Jamie?
 
-546
-00:48:22,700 --> 00:48:24,000
+
+
 Uncle Jeb.
 
-547
-00:48:25,400 --> 00:48:27,300
+
+
 How did you know I was here?
 
-548
-00:48:28,800 --> 00:48:30,500
+
+
 Mirrors.
 
-549
-00:48:30,500 --> 00:48:32,000
+
+
 Mirrors! Mirrors!
 
-550
-00:48:54,900 --> 00:48:56,100
+
+
 Help him!
 
-551
-00:49:10,900 --> 00:49:12,000
+
+
 <i>I saw something!</i>
 
-552
-00:49:12,000 --> 00:49:13,400
+
+
 Now, come on!
 
-553
-00:49:13,400 --> 00:49:14,700
+
+
 Help!
 
-554
-00:49:27,600 --> 00:49:28,900
+
+
 <i>I saw evidence of humans.</i>
 
-555
-00:49:37,800 --> 00:49:39,600
+
+
 <i>I see evidence of us.</i>
 
-556
-00:49:41,600 --> 00:49:43,000
+
+
 <i>There's nothing here.</i>
 
-557
-00:49:49,400 --> 00:49:50,600
+
+
 Thank you.
 
-558
-00:49:51,100 --> 00:49:52,700
+
+
 They're gone.
 
-559
-00:49:52,700 --> 00:49:54,000
+
+
 They're gone for now.
 
-560
-00:49:55,100 --> 00:49:56,500
+
+
 Jared and the others are still out there.
 
-561
-00:49:59,000 --> 00:50:02,000
+
+
 Jamie, why don't you take
 over guard duty for a spell?
 
-562
-00:50:08,600 --> 00:50:10,600
+
+
 What do I do?
 
-563
-00:50:10,600 --> 00:50:12,600
+
+
 You just keep an eye on her.
 You'll figure it out.
 
-564
-00:50:14,800 --> 00:50:16,100
+
+
 This way.
 
-565
-00:50:18,100 --> 00:50:21,000
+
+
 You can't give a boy a loaded gun.
 
-566
-00:50:22,100 --> 00:50:24,200
+
+
 That's why I didn't.
 
-567
-00:50:47,900 --> 00:50:49,800
+
+
 <i>Where is he taking us?</i>
 
-568
-00:50:51,000 --> 00:50:53,100
+
+
 Aren't you taking me to my cell?
 
-569
-00:50:55,800 --> 00:50:57,600
+
+
 I miss the outdoors.
 
-570
-00:50:59,100 --> 00:51:01,100
+
+
 And I was thinking that maybe
 you're starting to miss it, too.
 
-571
-00:51:05,400 --> 00:51:07,000
+
+
 Be real quiet.
 
-572
-00:51:13,000 --> 00:51:14,900
+
+
 Okay. Sit here.
 
-573
-00:51:22,900 --> 00:51:24,500
+
+
 You can open your eyes now.
 
-574
-00:51:32,600 --> 00:51:35,100
+
+
 What stars are these?
 
-575
-00:51:35,100 --> 00:51:37,200
+
+
 I've never seen this constellation.
 
-576
-00:51:39,100 --> 00:51:40,800
+
+
 They're not stars.
 
-577
-00:51:41,200 --> 00:51:43,600
+
+
 They're glowworms.
 
-578
-00:51:43,600 --> 00:51:47,200
+
+
 You have to be quiet or they
 get scared and stop shining.
 
-579
-00:52:00,100 --> 00:52:02,500
+
+
 When I miss the sky, I come here.
 
-580
-00:52:05,900 --> 00:52:07,200
+
+
 It's beautiful.
 
-581
-00:52:09,800 --> 00:52:11,200
+
+
 Wanda?
 
-582
-00:52:14,200 --> 00:52:17,500
+
+
 I heard what Uncle Jeb was saying.
 
-583
-00:52:17,500 --> 00:52:20,900
+
+
 He thinks that Melanie might still be alive.
 
-584
-00:52:20,900 --> 00:52:22,200
+
+
 Inside there with you, I mean.
 
-585
-00:52:22,200 --> 00:52:23,800
+
+
 <i>Jamie!</i>
 
-586
-00:52:25,900 --> 00:52:27,800
+
+
 Can that happen?
 
-587
-00:52:28,700 --> 00:52:30,200
+
+
 Does it, Wanda?
 
-588
-00:52:32,100 --> 00:52:33,800
+
+
 Why won't you answer me?
 
-589
-00:52:35,000 --> 00:52:37,100
+
+
 Is Melanie still alive?
 
-590
-00:52:39,600 --> 00:52:41,000
+
+
 Wanda, please.
 
-591
-00:52:42,600 --> 00:52:44,600
+
+
 <i>Forget what I said.</i>
 
-592
-00:52:44,600 --> 00:52:46,000
+
+
 <i>Tell him.</i>
 
-593
-00:52:54,300 --> 00:52:56,200
+
+
 She promised she would come back.
 
-594
-00:52:58,700 --> 00:53:00,000
+
+
 Yes.
 
-595
-00:53:04,000 --> 00:53:07,100
+
+
 Has Melanie ever broken a promise to you?
 
-596
-00:53:19,300 --> 00:53:21,000
+
+
 I love you, Mel.
 
-597
-00:53:21,000 --> 00:53:22,600
+
+
 She loves you, too.
 
-598
-00:53:24,200 --> 00:53:25,800
+
+
 She's so happy you're safe.
 
-599
-00:53:30,800 --> 00:53:33,900
+
+
 Is everybody like that?
 Does everybody stay?
 
-600
-00:53:34,700 --> 00:53:35,800
+
+
 No.
 
-601
-00:53:36,800 --> 00:53:38,900
+
+
 Not like Melanie.
 
-602
-00:53:39,900 --> 00:53:41,600
+
+
 She's special.
 
-603
-00:53:42,200 --> 00:53:43,800
+
+
 She's very strong.
 
-604
-00:53:45,000 --> 00:53:47,600
+
+
 She wanted to keep her promise.
 
-605
-00:53:48,600 --> 00:53:50,800
+
+
 She couldn't have kept her promise
 
-606
-00:53:51,700 --> 00:53:54,100
+
+
 if you didn't help her keep it.
 
-607
-00:53:56,900 --> 00:53:59,300
+
+
 Thank you, Wanda.
 
-608
-00:53:59,400 --> 00:54:01,200
+
+
 It's our secret.
 Okay?
 
-609
-00:54:24,200 --> 00:54:25,900
+
+
 Good evening, sir.
 
-610
-00:54:27,400 --> 00:54:28,900
+
+
 Can I help you?
 
-611
-00:54:31,900 --> 00:54:34,000
+
+
 I think you can.
 
-612
-00:54:35,200 --> 00:54:36,200
+
+
 Come on, hurry.
 
-613
-00:54:45,400 --> 00:54:47,300
+
+
 You guys all right?
 Yeah.
 
-614
-00:54:52,800 --> 00:54:54,400
+
+
 No racing.
 Yeah, sure.
 
-615
-00:55:10,400 --> 00:55:12,200
+
+
 It's ready.
 
-616
-00:55:14,000 --> 00:55:16,100
+
+
 I figured it's time
 you started earning your keep.
 
-617
-00:55:19,200 --> 00:55:21,700
+
+
 I'll see you both in the east field.
 
-618
-00:55:37,000 --> 00:55:38,400
+
+
 Morning, Jamie.
 
-619
-00:55:43,000 --> 00:55:44,400
+
+
 Wanda.
 
-620
-00:55:57,500 --> 00:55:58,900
+
+
 Come on.
 
-621
-00:56:08,500 --> 00:56:09,500
+
+
 Wanda?
 
-622
-00:56:11,100 --> 00:56:12,300
+
+
 Yeah.
 
-623
-00:56:13,800 --> 00:56:15,100
+
+
 Wanda.
 
-624
-00:56:44,400 --> 00:56:46,000
+
+
 <i>Why is he
 looking at you?</i>
 
-625
-00:56:48,100 --> 00:56:50,200
+
+
 <i>Why are you looking at him?</i>
 
-626
-00:57:07,900 --> 00:57:09,800
+
+
 <i>Don't forget.
 He tried to kill you.</i>
 
-627
-00:57:13,300 --> 00:57:16,300
+
+
 <i>Did you hear me?
 He tried to kill you.</i>
 
-628
-00:57:20,900 --> 00:57:22,500
+
+
 <i>Don't you dare smile at him.</i>
 
-629
-00:57:53,300 --> 00:57:54,900
+
+
 You better take care of that.
 
-630
-00:58:05,000 --> 00:58:08,200
+
+
 There. That one drives
 faster than the limit.
 
-631
-00:58:17,300 --> 00:58:19,100
+
+
 <i>Please stop your vehicle
 and safely exit.</i>
 
-632
-00:58:19,100 --> 00:58:20,500
+
+
 Fire!
 
-633
-00:58:27,500 --> 00:58:28,400
+
+
 It ain't doing any good.
 
-634
-00:58:28,500 --> 00:58:30,300
+
+
 I don't care! Keep firing!
 
-635
-00:59:06,500 --> 00:59:08,300
+
+
 Don't get caught.
 
-636
-00:59:10,100 --> 00:59:11,100
+
+
 Take him out!
 
-637
-00:59:24,500 --> 00:59:27,000
+
+
 <i>Please stop your vehicle
 and safely exit.</i>
 
-638
-00:59:33,700 --> 00:59:36,200
+
+
 <i>Switch off your engine
 and safely exit.</i>
 
-639
-01:00:40,200 --> 01:00:41,800
+
+
 There are others.
 
-640
-01:00:50,100 --> 01:00:52,700
+
+
 I always liked science fiction stories.
 
-641
-01:00:54,100 --> 01:00:56,400
+
+
 Never dreamed I'd be living in one.
 
-642
-01:00:57,500 --> 01:00:59,100
+
+
 How many planets have life?
 
-643
-01:01:01,400 --> 01:01:04,500
+
+
 <i>Just remember, Wanda,
 you're not one of them.</i>
 
-644
-01:01:07,400 --> 01:01:09,100
+
+
 Twelve that we know of.
 
-645
-01:01:09,700 --> 01:01:11,800
+
+
 Four I've never been to.
 
-646
-01:01:11,800 --> 01:01:13,800
+
+
 We've just opened up a new world.
 
-647
-01:01:13,800 --> 01:01:15,100
+
+
 You've conquered 12 planets?
 
-648
-01:01:16,600 --> 01:01:18,500
+
+
 That's not how we see it.
 
-649
-01:01:18,500 --> 01:01:21,600
+
+
 We have always lived by
 bonding with another species.
 
-650
-01:01:21,600 --> 01:01:23,600
+
+
 It is how we survive.
 
-651
-01:01:23,600 --> 01:01:25,700
+
+
 We try to live in harmony.
 
-652
-01:01:36,200 --> 01:01:37,500
+
+
 Speed up! Lose it!
 
-653
-01:01:39,700 --> 01:01:41,600
+
+
 No! Let him catch us.
 
-654
-01:01:59,100 --> 01:02:00,100
+
+
 Let's go!
 We've got enough!
 
-655
-01:02:01,300 --> 01:02:02,600
+
+
 Let's go!
 
-656
-01:02:42,600 --> 01:02:44,800
+
+
 We almost had them.
 
-657
-01:02:44,800 --> 01:02:47,700
+
+
 Seeker.
 This is not who we are.
 
-658
-01:02:48,400 --> 01:02:49,500
+
+
 You have killed a soul.
 
-659
-01:02:50,700 --> 01:02:52,900
+
+
 We have to make sacrifices.
 
-660
-01:02:53,800 --> 01:02:55,200
+
+
 This is a war.
 
-661
-01:02:55,500 --> 01:02:58,700
+
+
 This war is over.
 
-662
-01:02:58,700 --> 01:03:01,400
+
+
 The last of the resistance
 will die out on its own.
 
-663
-01:03:01,400 --> 01:03:02,800
+
+
 They will become extinct.
 
-664
-01:03:04,200 --> 01:03:07,800
+
+
 But I think there is a war
 raging in you, Seeker.
 
-665
-01:03:07,800 --> 01:03:09,800
+
+
 We're going home.
 So are you.
 
-666
-01:03:11,200 --> 01:03:13,700
+
+
 You don't know what's going on.
 
-667
-01:03:18,500 --> 01:03:21,900
+
+
 We are losing control.
 
-668
-01:03:27,700 --> 01:03:29,500
+
+
 <i>Wanda.</i>
 
-669
-01:03:29,500 --> 01:03:31,900
+
+
 If you don't mind me asking, how old are you?
 
-670
-01:03:33,800 --> 01:03:36,400
+
+
 Over a thousand of your years.
 
-671
-01:03:36,400 --> 01:03:40,400
+
+
 I have not completed one
 full revolution of your sun,
 
-672
-01:03:40,400 --> 01:03:44,200
+
+
 yet I have found that Earth is more beautiful
 
-673
-01:03:45,600 --> 01:03:48,400
+
+
 and harder than any place I have ever been.
 
-674
-01:03:48,400 --> 01:03:51,300
+
+
 I've gotta say, this is the
 most interesting conversation
 
-675
-01:03:51,300 --> 01:03:52,700
+
+
 - I've had in forever.
 - What is this?
 
-676
-01:03:54,600 --> 01:03:56,300
+
+
 This has gone on long enough!
 
-677
-01:03:57,500 --> 01:03:58,800
+
+
 Out of the way!
 
-678
-01:03:58,800 --> 01:04:00,300
+
+
 - She's not a threat.
 - No?
 
-679
-01:04:01,600 --> 01:04:04,300
+
+
 Aaron and Brandt are dead
 
-680
-01:04:04,300 --> 01:04:06,000
+
+
 thanks to the Seeker looking for it.
 
-681
-01:04:07,600 --> 01:04:09,400
+
+
 Almost got us, too.
 
-682
-01:04:11,400 --> 01:04:13,300
+
+
 I'm gonna end this once and for all!
 
-683
-01:04:13,300 --> 01:04:14,000
+
+
 Jared!
 
-684
-01:04:14,600 --> 01:04:15,700
+
+
 You can't!
 
-685
-01:04:15,700 --> 01:04:17,400
+
+
 Why not?
 
-686
-01:04:17,400 --> 01:04:19,500
+
+
 Because if you kill Wanda...
 
-687
-01:04:19,500 --> 01:04:20,800
+
+
 <i>Oh, no, Jamie!</i>
 
-688
-01:04:21,600 --> 01:04:24,200
+
+
 ...you'll kill Melanie.
 
-689
-01:04:24,200 --> 01:04:26,800
+
+
 She's still alive in there.
 
-690
-01:04:28,400 --> 01:04:30,300
+
+
 I believe it.
 
-691
-01:04:32,900 --> 01:04:34,600
+
+
 You're all letting it fool you!
 
-692
-01:04:48,900 --> 01:04:51,000
+
+
 Come on, Jamie.
 
-693
-01:05:00,800 --> 01:05:03,000
+
+
 I'm so sorry.
 I'll go back to my cell.
 
-694
-01:05:03,400 --> 01:05:04,800
+
+
 No.
 
-695
-01:05:05,600 --> 01:05:07,800
+
+
 This'll blow over.
 
-696
-01:05:07,800 --> 01:05:09,700
+
+
 You can stay in my place.
 
-697
-01:05:11,600 --> 01:05:13,300
+
+
 She'll be safe there.
 
-698
-01:05:14,300 --> 01:05:15,600
+
+
 Mmm.
 
-699
-01:05:21,500 --> 01:05:24,400
+
+
 You tried to kill me
 and now you're protecting me?
 
-700
-01:05:25,700 --> 01:05:27,700
+
+
 Strange world, isn't it?
 
-701
-01:05:30,000 --> 01:05:32,000
+
+
 The strangest.
 
-702
-01:05:38,700 --> 01:05:39,900
+
+
 What's wrong with you, Doc?
 
-703
-01:05:39,900 --> 01:05:41,800
+
+
 You want to try? You try.
 
-704
-01:05:44,400 --> 01:05:46,300
+
+
 Wanda?
 
-705
-01:05:46,300 --> 01:05:49,300
+
+
 I just want you to know that I trust you.
 
-706
-01:05:50,400 --> 01:05:52,600
+
+
 And I believe you're telling us the truth.
 
-707
-01:05:52,600 --> 01:05:54,700
+
+
 But I... I gotta ask.
 
-708
-01:05:54,700 --> 01:05:58,600
+
+
 What's it like for you and her,
 living in there together?
 
-709
-01:05:58,600 --> 01:06:00,900
+
+
 It's crowded.
 
-710
-01:06:05,500 --> 01:06:07,500
+
+
 Let me know if you need anything.
 
-711
-01:06:07,500 --> 01:06:09,600
+
+
 I'll just be right out here.
 
-712
-01:06:25,000 --> 01:06:27,600
+
+
 <i>I think
 he likes you too much.</i>
 
-713
-01:06:27,600 --> 01:06:29,700
+
+
 What is too much?
 
-714
-01:06:29,800 --> 01:06:33,000
+
+
 <i>If I've got anything to do with
 it, you'll never find out.</i>
 
-715
-01:07:03,700 --> 01:07:04,900
+
+
 I know it's with you.
 
-716
-01:07:04,900 --> 01:07:06,900
+
+
 <i>Oh, God.</i>
 
-717
-01:07:06,900 --> 01:07:08,600
+
+
 I'm not gonna kill it.
 
-718
-01:07:08,600 --> 01:07:10,800
+
+
 I just want to talk to it.
 
-719
-01:07:12,600 --> 01:07:15,000
+
+
 It's okay.
 I will talk to him.
 
-720
-01:07:19,000 --> 01:07:22,200
+
+
 Her name is Wanda,
 not "it."
 
-721
-01:07:33,700 --> 01:07:36,800
+
+
 I'm so sorry about what happened out there,
 
-722
-01:07:36,800 --> 01:07:38,100
+
+
 to your friends.
 
-723
-01:07:40,900 --> 01:07:42,700
+
+
 I never meant to hurt anyone.
 
-724
-01:07:45,600 --> 01:07:46,800
+
+
 Wanda,
 
-725
-01:07:47,600 --> 01:07:49,500
+
+
 Jamie and Jeb believe,
 
-726
-01:07:50,200 --> 01:07:51,700
+
+
 Ian, too,
 
-727
-01:07:54,000 --> 01:07:56,000
+
+
 that Mel is still alive and kicking in there.
 
-728
-01:07:56,000 --> 01:07:57,600
+
+
 <i>I am!</i>
 
-729
-01:07:57,600 --> 01:07:59,500
+
+
 <i>I am!</i>
 
-730
-01:07:59,500 --> 01:08:04,200
+
+
 In fact, Jeb has this crazy notion
 that you're here for Jamie and me.
 
-731
-01:08:05,500 --> 01:08:07,800
+
+
 You brought Melanie back to us.
 
-732
-01:08:07,800 --> 01:08:10,700
+
+
 I can't believe it.
 
-733
-01:08:10,700 --> 01:08:13,000
+
+
 I don't want to believe it
 because her being in there,
 
-734
-01:08:14,000 --> 01:08:15,200
+
+
 trapped,
 
-735
-01:08:17,100 --> 01:08:18,900
+
+
 that makes it so much worse somehow.
 
-736
-01:08:23,100 --> 01:08:25,100
+
+
 But I gotta know.
 
-737
-01:08:27,000 --> 01:08:29,600
+
+
 Is Melanie in there?
 
-738
-01:08:29,600 --> 01:08:32,800
+
+
 <i>Just tell him I'm here.
 Tell him I love him.</i>
 
-739
-01:08:33,500 --> 01:08:34,600
+
+
 I'm afraid.
 
-740
-01:08:34,600 --> 01:08:36,500
+
+
 You see, the thing is, Wanda,
 
-741
-01:08:38,200 --> 01:08:40,000
+
+
 I haven't stopped dreaming about Melanie.
 
-742
-01:08:40,000 --> 01:08:42,000
+
+
 <i>I dream about you, too.</i>
 
-743
-01:08:42,000 --> 01:08:44,900
+
+
 I miss everything about her.
 
-744
-01:08:44,900 --> 01:08:48,200
+
+
 And I would do anything to get her back.
 
-745
-01:08:48,200 --> 01:08:50,000
+
+
 You know what makes this so much harder?
 
-746
-01:08:50,000 --> 01:08:52,000
+
+
 It's still her body.
 
-747
-01:08:53,200 --> 01:08:55,200
+
+
 If it wasn't for those eyes...
 
-748
-01:08:57,200 --> 01:08:59,200
+
+
 I got to thinking.
 
-749
-01:09:01,100 --> 01:09:03,200
+
+
 If I can't kiss her,
 
-750
-01:09:05,900 --> 01:09:07,200
+
+
 I can kiss you.
 
-751
-01:09:07,200 --> 01:09:09,900
+
+
 <i>What? No!
 What is he doing?</i>
 
-752
-01:09:10,700 --> 01:09:12,900
+
+
 <i>No! Stop it!</i>
 
-753
-01:09:12,900 --> 01:09:14,500
+
+
 <i>Stop! Now!</i>
 
-754
-01:09:15,100 --> 01:09:16,200
+
+
 <i>Don't do this!</i>
 
-755
-01:09:16,700 --> 01:09:18,300
+
+
 <i>No! No!</i>
 
-756
-01:09:20,700 --> 01:09:21,900
+
+
 I knew it.
 
-757
-01:09:23,200 --> 01:09:24,300
+
+
 Mel.
 
-758
-01:09:25,000 --> 01:09:26,700
+
+
 You're really in there.
 
-759
-01:09:26,700 --> 01:09:28,100
+
+
 You hit me for kissing it.
 
-760
-01:09:29,000 --> 01:09:31,600
+
+
 Mel, I love you.
 
-761
-01:09:31,600 --> 01:09:34,600
+
+
 I know you can't say it back, but I love you.
 
-762
-01:09:44,700 --> 01:09:47,100
+
+
 <i>So now
 he believes it, too.</i>
 
-763
-01:09:48,000 --> 01:09:50,100
+
+
 <i>It doesn't help anyone.</i>
 
-764
-01:09:50,100 --> 01:09:52,900
+
+
 <i>Knowing I'm a prisoner in hee
 just hurts them more.</i>
 
-765
-01:09:55,000 --> 01:09:56,300
+
+
 Wanda!
 
-766
-01:09:56,700 --> 01:09:57,800
+
+
 <i>Hide.</i>
 
-767
-01:09:57,800 --> 01:09:59,300
+
+
 <i>Hide! Hide!</i>
 
-768
-01:10:00,900 --> 01:10:02,300
+
+
 Wanda.
 
-769
-01:10:25,400 --> 01:10:27,600
+
+
 Wanda!
 
-770
-01:10:36,700 --> 01:10:38,600
+
+
 <i>Wanda, get out of here!</i>
 
-771
-01:10:39,700 --> 01:10:40,800
+
+
 <i>Run!</i>
 
-772
-01:10:41,800 --> 01:10:43,600
+
+
 <i>Run!</i>
 
-773
-01:11:11,700 --> 01:11:12,800
+
+
 Grab my hand!
 
-774
-01:11:12,800 --> 01:11:14,100
+
+
 <i>What are you doing? Let go!</i>
 
-775
-01:11:14,700 --> 01:11:17,900
+
+
 <i>Good! If he dies,
 he can't kill us!</i>
 
-776
-01:11:18,200 --> 01:11:19,400
+
+
 No!
 
-777
-01:11:21,700 --> 01:11:22,900
+
+
 Help!
 
-778
-01:11:23,700 --> 01:11:24,900
+
+
 Help!
 
-779
-01:11:40,000 --> 01:11:42,900
+
+
 You're lucky your head's harder
 than any rock in this place.
 
-780
-01:11:43,400 --> 01:11:45,700
+
+
 You'll live.
 
-781
-01:11:45,700 --> 01:11:47,200
+
+
 Don't be too sure about that, Doc.
 
-782
-01:11:47,300 --> 01:11:48,400
+
+
 What happened?
 
-783
-01:11:49,100 --> 01:11:50,200
+
+
 <i>Tell him.</i>
 
-784
-01:11:53,000 --> 01:11:54,100
+
+
 It was an accident.
 
-785
-01:11:54,100 --> 01:11:55,400
+
+
 <i>Like hell!</i>
 
-786
-01:11:55,400 --> 01:11:57,300
+
+
 <i>I thought you didn't lie.</i>
 
-787
-01:11:57,300 --> 01:11:58,800
+
+
 Kyle slipped.
 
-788
-01:11:58,800 --> 01:12:00,200
+
+
 Sure he did.
 
-789
-01:12:00,200 --> 01:12:01,900
+
+
 If that's what it says happened...
 
-790
-01:12:01,900 --> 01:12:03,400
+
+
 Oh, come on.
 We all know what happened.
 
-791
-01:12:06,400 --> 01:12:08,800
+
+
 He tried to kill her.
 
-792
-01:12:08,800 --> 01:12:11,900
+
+
 And for some unknown reason,
 she saved his sorry ass.
 
-793
-01:12:14,000 --> 01:12:15,500
+
+
 If it's true, Kyle, you're out.
 
-794
-01:12:17,100 --> 01:12:18,700
+
+
 Did he try to kill you?
 
-795
-01:12:24,000 --> 01:12:25,400
+
+
 It's not saying he did.
 
-796
-01:12:30,200 --> 01:12:32,800
+
+
 You're the one who has to
 live under the same roof.
 
-797
-01:12:34,000 --> 01:12:36,100
+
+
 Kyle, I'm warning you.
 
-798
-01:12:36,100 --> 01:12:39,100
+
+
 Don't you even look at her wrong.
 
-799
-01:12:39,100 --> 01:12:42,400
+
+
 I haven't shot anyone in a long time.
 Kind of miss the thrill of it.
 
-800
-01:12:45,200 --> 01:12:47,200
+
+
 We gotta get back to work.
 
-801
-01:12:47,200 --> 01:12:49,300
+
+
 Come on, let's go.
 
-802
-01:12:51,400 --> 01:12:52,900
+
+
 Hey, Jeb.
 
-803
-01:12:55,500 --> 01:12:57,500
+
+
 We're going back out.
 
-804
-01:12:57,500 --> 01:12:59,100
+
+
 Too many Seekers out there.
 No.
 
-805
-01:12:59,100 --> 01:13:01,000
+
+
 We lost a lot on that last run.
 
-806
-01:13:03,300 --> 01:13:05,300
+
+
 There are a couple of things that I need.
 
-807
-01:13:07,800 --> 01:13:09,300
+
+
 Take Kyle with you.
 
-808
-01:13:12,500 --> 01:13:13,900
+
+
 Come on, Kyle.
 
-809
-01:13:14,800 --> 01:13:16,100
+
+
 And, you,
 
-810
-01:13:16,200 --> 01:13:18,100
+
+
 keep away from her.
 
-811
-01:13:47,300 --> 01:13:49,800
+
+
 You want to take a walk?
 
-812
-01:13:53,400 --> 01:13:55,600
+
+
 Didn't Jared tell you to stay away from me?
 
-813
-01:13:57,100 --> 01:13:58,900
+
+
 Yeah.
 
-814
-01:14:00,300 --> 01:14:02,300
+
+
 <i>This is not a good idea.</i>
 
-815
-01:14:06,300 --> 01:14:08,300
+
+
 You can open your eyes now.
 
-816
-01:14:12,500 --> 01:14:13,500
+
+
 I'm outside!
 
-817
-01:14:16,400 --> 01:14:18,500
+
+
 That really is the sky.
 
-818
-01:14:37,000 --> 01:14:39,100
+
+
 I like you, Wanda.
 
-819
-01:14:39,100 --> 01:14:40,500
+
+
 I like you, too, Ian.
 
-820
-01:14:40,500 --> 01:14:41,900
+
+
 <i>You did not say that.</i>
 
-821
-01:14:41,900 --> 01:14:43,200
+
+
 No.
 
-822
-01:14:44,500 --> 01:14:45,600
+
+
 Not like that.
 
-823
-01:14:46,300 --> 01:14:48,900
+
+
 <i>Get his hands off me!</i>
 
-824
-01:14:48,900 --> 01:14:51,000
+
+
 <i>This can't work.
 What are you doing?</i>
 
-825
-01:14:52,000 --> 01:14:53,000
+
+
 Let me guess.
 
-826
-01:14:53,900 --> 01:14:55,900
+
+
 You're of two minds about it.
 
-827
-01:14:57,900 --> 01:14:59,000
+
+
 Is this about Jared?
 
-828
-01:14:59,000 --> 01:15:00,300
+
+
 <i>Yes, it's about Jared.</i>
 
-829
-01:15:00,300 --> 01:15:02,300
+
+
 Melanie is in love with him.
 
-830
-01:15:02,300 --> 01:15:03,400
+
+
 And you?
 
-831
-01:15:03,500 --> 01:15:05,500
+
+
 <i>Tell him. Tell him!</i>
 
-832
-01:15:08,100 --> 01:15:09,600
+
+
 This body loves him.
 
-833
-01:15:11,400 --> 01:15:13,500
+
+
 Since it is now my body,
 
-834
-01:15:16,100 --> 01:15:17,100
+
+
 so do I.
 
-835
-01:15:21,900 --> 01:15:23,500
+
+
 But I also have feelings of my own.
 
-836
-01:15:23,500 --> 01:15:24,600
+
+
 <i>No, you don't.</i>
 
-837
-01:15:31,500 --> 01:15:33,100
+
+
 <i>Wanda, no.</i>
 
-838
-01:15:33,900 --> 01:15:35,400
+
+
 <i>Stop!</i>
 
-839
-01:15:35,400 --> 01:15:38,000
+
+
 <i>You are not going there.</i>
 
-840
-01:15:38,000 --> 01:15:39,600
+
+
 <i>What about Jared?</i>
 
-841
-01:15:42,400 --> 01:15:44,700
+
+
 This is very complicated.
 
-842
-01:15:47,500 --> 01:15:51,100
+
+
 Is there any way Melanie
 can give us some privacy?
 
-843
-01:15:52,300 --> 01:15:54,300
+
+
 Look the other way a moment?
 
-844
-01:15:54,300 --> 01:15:55,300
+
+
 Step into the other room?
 
-845
-01:15:55,300 --> 01:15:57,600
+
+
 <i>You wish.</i>
 
-846
-01:15:57,600 --> 01:16:00,500
+
+
 I don't think that's possible right now.
 
-847
-01:16:03,400 --> 01:16:04,700
+
+
 You know,
 
-848
-01:16:07,400 --> 01:16:09,400
+
+
 it's not really me you like.
 
-849
-01:16:10,100 --> 01:16:11,900
+
+
 It's this body.
 
-850
-01:16:13,500 --> 01:16:15,300
+
+
 You couldn't care for me.
 
-851
-01:16:19,400 --> 01:16:21,300
+
+
 If you could hold me,
 
-852
-01:16:22,100 --> 01:16:23,500
+
+
 me,
 
-853
-01:16:24,100 --> 01:16:25,500
+
+
 in your hand,
 
-854
-01:16:26,300 --> 01:16:28,000
+
+
 you'd be disgusted.
 
-855
-01:16:30,300 --> 01:16:32,200
+
+
 You would crush me.
 
-856
-01:16:33,100 --> 01:16:34,700
+
+
 You don't know that.
 
-857
-01:16:36,400 --> 01:16:39,400
+
+
 <i>Wanda! No!
 This is so wrong.</i>
 
-858
-01:16:39,400 --> 01:16:41,500
+
+
 <i>You're not even
 from the same planet!</i>
 
-859
-01:16:41,500 --> 01:16:44,100
+
+
 <i>I'll do something.
 I'll hurt him!</i>
 
-860
-01:16:47,500 --> 01:16:50,200
+
+
 Strange to be in a body
 that won't let me use it.
 
-861
-01:16:59,100 --> 01:17:01,000
+
+
 I think you'd better take me back.
 
-862
-01:17:01,000 --> 01:17:02,400
+
+
 <i>Hallelujah!</i>
 
-863
-01:17:03,200 --> 01:17:04,700
+
+
 As you say,
 
-864
-01:17:05,600 --> 01:17:08,000
+
+
 I'm still of two minds.
 
-865
-01:17:12,700 --> 01:17:14,100
+
+
 Okay.
 
-866
-01:17:24,200 --> 01:17:26,300
+
+
 You're angry when I kiss a man you do love
 
-867
-01:17:26,300 --> 01:17:28,400
+
+
 and angry when I kiss a man you don't.
 
-868
-01:17:28,400 --> 01:17:30,200
+
+
 It's very confusing.
 
-869
-01:17:57,300 --> 01:17:59,100
+
+
 I am not weak.
 
-870
-01:17:59,700 --> 01:18:02,300
+
+
 I am in control.
 
-871
-01:18:03,300 --> 01:18:05,500
+
+
 <i>You will never win.</i>
 
-872
-01:18:42,800 --> 01:18:44,700
+
+
 Jamie.
 Where is everyone?
 
-873
-01:18:47,100 --> 01:18:48,600
+
+
 I don't know.
 
-874
-01:18:48,600 --> 01:18:52,500
+
+
 <i>Why is he lying?
 He never lies.</i>
 
-875
-01:18:52,500 --> 01:18:55,500
+
+
 Your leg should be better by now.
 You need to see Doc.
 
-876
-01:18:55,500 --> 01:18:57,300
+
+
 I just came from there.
 
-877
-01:18:57,300 --> 01:18:59,200
+
+
 He told me to go and lay down.
 
-878
-01:19:03,200 --> 01:19:06,300
+
+
 I'm going to wash up.
 I'll meet you in your room.
 
-879
-01:19:18,400 --> 01:19:20,100
+
+
 <i>This doesn't make sense.</i>
 
-880
-01:19:20,700 --> 01:19:23,400
+
+
 <i>What is Doc thinking?</i>
 
-881
-01:19:23,400 --> 01:19:27,100
+
+
 <i>What's more important than
 getting Jamie better?</i>
 
-882
-01:19:30,400 --> 01:19:31,800
+
+
 <i>Hold on.</i>
 
-883
-01:19:31,800 --> 01:19:33,300
+
+
 <i>Wait.</i>
 
-884
-01:19:33,300 --> 01:19:35,700
+
+
 <i>Wanda, go back. Go back!</i>
 
-885
-01:19:35,700 --> 01:19:37,800
+
+
 <i>Wanda, don't go in there!</i>
 
-886
-01:19:37,800 --> 01:19:39,900
+
+
 <i>Turn around. Go back!</i>
 
-887
-01:19:42,900 --> 01:19:44,700
+
+
 <i>- Oh, God!
 - Enough!</i>
 
-888
-01:20:02,300 --> 01:20:03,300
+
+
 No!
 
-889
-01:20:10,200 --> 01:20:11,700
+
+
 Monsters!
 
-890
-01:20:11,700 --> 01:20:12,900
+
+
 Wait! Wanda!
 
-891
-01:20:13,600 --> 01:20:14,700
+
+
 Wanda!
 
-892
-01:20:14,700 --> 01:20:16,700
+
+
 <i>Wanda! Wanda! Stop!</i>
 
-893
-01:20:16,700 --> 01:20:19,600
+
+
 Get out of my head! Get out!
 
-894
-01:20:47,300 --> 01:20:48,600
+
+
 I'm sorry.
 
-895
-01:21:31,400 --> 01:21:35,300
+
+
 You know, there are easier ways to
 die than starving yourself to death.
 
-896
-01:21:37,700 --> 01:21:38,900
+
+
 Yes.
 
-897
-01:21:40,900 --> 01:21:43,000
+
+
 I could always visit Doc.
 
-898
-01:21:55,500 --> 01:21:59,500
+
+
 What did you expect, Wanda?
 You expect us to just give up?
 
-899
-01:22:00,700 --> 01:22:03,000
+
+
 This is our world.
 
-900
-01:22:03,000 --> 01:22:05,600
+
+
 We haven't just lost a war.
 We're dying out.
 
-901
-01:22:07,000 --> 01:22:09,000
+
+
 We're trying to get our people back.
 
-902
-01:22:12,000 --> 01:22:14,900
+
+
 What you're trying to do is impossible.
 
-903
-01:22:17,500 --> 01:22:19,500
+
+
 It doesn't work like that.
 
-904
-01:22:21,600 --> 01:22:24,900
+
+
 All you are going to do
 
-905
-01:22:24,900 --> 01:22:28,700
+
+
 is keep murdering more of both of us.
 
-906
-01:22:44,800 --> 01:22:47,100
+
+
 For what it's worth, I'm sorry.
 
-907
-01:22:56,700 --> 01:22:58,400
+
+
 I can't stay here.
 
-908
-01:23:01,600 --> 01:23:04,000
+
+
 Not with you slaughtering
 my family in the next room.
 
-909
-01:23:10,500 --> 01:23:13,100
+
+
 If you say our way won't work,
 
-910
-01:23:17,000 --> 01:23:19,800
+
+
 I'll tell the boys no more hostages.
 
-911
-01:23:24,800 --> 01:23:28,400
+
+
 It's probably for the best.
 I don't think Doc could take much more.
 
-912
-01:23:40,000 --> 01:23:42,100
+
+
 How can I trust you?
 
-913
-01:23:46,000 --> 01:23:48,100
+
+
 I trusted you.
 
-914
-01:23:57,900 --> 01:23:59,100
+
+
 There's something else.
 
-915
-01:24:03,100 --> 01:24:05,600
+
+
 Melanie? Are you there?
 
-916
-01:24:05,600 --> 01:24:10,100
+
+
 Melanie, where are you? Jamie is hurt.
 I need you. Talk to me.
 
-917
-01:24:10,100 --> 01:24:13,600
+
+
 Melanie, please come back.
 I can't do this without you.
 
-918
-01:24:27,400 --> 01:24:28,700
+
+
 Wanda.
 
-919
-01:24:30,900 --> 01:24:32,700
+
+
 I want you to know about
 
-920
-01:24:33,500 --> 01:24:34,700
+
+
 Doc and everything.
 
-921
-01:24:34,700 --> 01:24:36,200
+
+
 Don't worry about that now.
 
-922
-01:24:38,000 --> 01:24:39,200
+
+
 We have to get you better.
 
-923
-01:24:42,100 --> 01:24:43,700
+
+
 You sound like Melanie.
 
-924
-01:24:47,200 --> 01:24:49,500
+
+
 Did Melanie say that just then?
 
-925
-01:24:54,000 --> 01:24:55,600
+
+
 Yes.
 
-926
-01:25:01,700 --> 01:25:03,200
+
+
 Wanda.
 I need you to kiss me.
 
-927
-01:25:04,900 --> 01:25:07,200
+
+
 What about Melanie?
 Don't worry about Melanie.
 
-928
-01:25:13,500 --> 01:25:17,100
+
+
 No. Kiss me like
 you want to get slapped.
 
-929
-01:25:28,000 --> 01:25:29,500
+
+
 What?
 Was she stopping you?
 
-930
-01:25:29,500 --> 01:25:33,700
+
+
 No. That's the problem.
 We're alone. She's gone.
 
-931
-01:25:33,700 --> 01:25:36,600
+
+
 Ever since I told her to get
 out of my head, she's...
 
-932
-01:25:36,600 --> 01:25:38,300
+
+
 I'm afraid I've lost her.
 
-933
-01:25:38,300 --> 01:25:40,900
+
+
 She got so angry before when you kissed me.
 
-934
-01:25:40,900 --> 01:25:42,800
+
+
 I thought she'd come back.
 
-935
-01:25:46,700 --> 01:25:49,600
+
+
 Then I guess you'll have to
 make her really angry.
 
-936
-01:26:06,100 --> 01:26:07,800
+
+
 Kiss her.
 
-937
-01:26:11,600 --> 01:26:12,600
+
+
 I lost Melanie.
 
-938
-01:26:14,600 --> 01:26:17,200
+
+
 I don't know if she's still there.
 
-939
-01:26:17,200 --> 01:26:20,300
+
+
 You need to bring her back.
 She hates me kissing you.
 
-940
-01:26:28,300 --> 01:26:29,700
+
+
 Okay.
 
-941
-01:26:54,900 --> 01:26:56,600
+
+
 Melanie, come back.
 
-942
-01:26:57,600 --> 01:26:59,300
+
+
 I will not lose you.
 
-943
-01:27:04,100 --> 01:27:06,300
+
+
 <i>Jared.</i>
 
-944
-01:27:06,300 --> 01:27:08,000
+
+
 Melanie?
 
-945
-01:27:08,000 --> 01:27:10,100
+
+
 <i>Oh. Stop!</i>
 
-946
-01:27:12,900 --> 01:27:14,200
+
+
 Melanie, you bit me!
 
-947
-01:27:14,200 --> 01:27:15,600
+
+
 <i>Wanda, what the hell?</i>
 
-948
-01:27:15,600 --> 01:27:17,000
+
+
 Melanie, I'm so glad you're back.
 
-949
-01:27:17,000 --> 01:27:18,100
+
+
 <i>Did I leave?</i>
 
-950
-01:27:18,100 --> 01:27:19,800
+
+
 For three days.
 
-951
-01:27:19,800 --> 01:27:21,600
+
+
 You don't know what I've
 been through to find you.
 
-952
-01:27:21,600 --> 01:27:23,300
+
+
 <i>Yeah, you look like
 you were suffering.</i>
 
-953
-01:27:23,300 --> 01:27:25,700
+
+
 We have to help Jamie.
 He's hurt.
 
-954
-01:27:26,900 --> 01:27:28,300
+
+
 Come on.
 
-955
-01:27:29,000 --> 01:27:30,000
+
+
 Stop.
 
-956
-01:27:30,000 --> 01:27:31,200
+
+
 Stop.
 
-957
-01:27:31,200 --> 01:27:32,700
+
+
 Where are you going?
 
-958
-01:27:32,700 --> 01:27:34,600
+
+
 It's infected.
 It's got into Jamie's bloodstream.
 
-959
-01:27:34,600 --> 01:27:36,600
+
+
 He needs medicine.
 
-960
-01:27:36,600 --> 01:27:38,400
+
+
 There's no medicine out there.
 You souls have destroyed it all.
 
-961
-01:27:38,400 --> 01:27:40,200
+
+
 He doesn't need your medicine.
 
-962
-01:27:40,200 --> 01:27:42,300
+
+
 It's too late for that.
 He needs ours.
 
-963
-01:27:42,300 --> 01:27:44,100
+
+
 You have to take me out of the cave.
 
-964
-01:27:45,100 --> 01:27:46,600
+
+
 You'll have to trust me.
 
-965
-01:28:08,900 --> 01:28:11,200
+
+
 Cut me.
 I need a wound like Jamie's.
 
-966
-01:28:12,000 --> 01:28:13,100
+
+
 I can't do that.
 
-967
-01:28:13,100 --> 01:28:14,000
+
+
 I'll be healed in minutes.
 
-968
-01:28:20,100 --> 01:28:22,000
+
+
 <i>Take it from him.
 Do it yourself.</i>
 
-969
-01:28:28,700 --> 01:28:32,400
+
+
 They'll be suspicious of this scar.
 I can cover it with a cut.
 
-970
-01:28:34,700 --> 01:28:36,200
+
+
 It's gonna be okay.
 
-971
-01:28:47,400 --> 01:28:49,400
+
+
 Excuse me.
 
-972
-01:28:49,400 --> 01:28:52,200
+
+
 Goodness.
 We have an emergency.
 
-973
-01:28:52,200 --> 01:28:54,300
+
+
 <i>You can do this, Wanda.</i>
 
-974
-01:28:55,100 --> 01:28:56,500
+
+
 I'm Healer Skye.
 
-975
-01:28:57,300 --> 01:28:58,800
+
+
 What happened?
 
-976
-01:28:58,800 --> 01:29:00,400
+
+
 <i>Tell her you tripped.</i>
 
-977
-01:29:00,400 --> 01:29:01,800
+
+
 <i>Tell her you tripped!</i>
 
-978
-01:29:01,800 --> 01:29:03,000
+
+
 I tripped.
 
-979
-01:29:05,100 --> 01:29:07,000
+
+
 <i>With a knife in your hand.</i>
 
-980
-01:29:07,000 --> 01:29:09,100
+
+
 With a knife in my hand, cut myself.
 
-981
-01:29:10,500 --> 01:29:11,800
+
+
 You poor thing.
 
-982
-01:29:12,400 --> 01:29:14,000
+
+
 Let's fix you up.
 
-983
-01:29:31,000 --> 01:29:32,200
+
+
 Heal.
 
-984
-01:29:34,800 --> 01:29:36,200
+
+
 Seal.
 
-985
-01:29:44,400 --> 01:29:48,900
+
+
 If it is no trouble, could
 I please have some water?
 
-986
-01:29:48,900 --> 01:29:50,500
+
+
 Of course.
 
-987
-01:29:53,900 --> 01:29:55,300
+
+
 <i>Hurry! Take it!</i>
 
-988
-01:30:13,000 --> 01:30:14,000
+
+
 What do you think?
 
-989
-01:30:14,800 --> 01:30:15,500
+
+
 Perfect.
 
-990
-01:30:16,800 --> 01:30:17,800
+
+
 Thank you.
 
-991
-01:30:18,400 --> 01:30:20,000
+
+
 Goodbye.
 
-992
-01:30:27,800 --> 01:30:30,400
+
+
 <i>What are you doing?
 We have to go.</i>
 
-993
-01:30:58,200 --> 01:30:59,400
+
+
 Is he alive?
 
-994
-01:30:59,400 --> 01:31:01,000
+
+
 Barely.
 
-995
-01:31:01,000 --> 01:31:02,000
+
+
 What is all that?
 
-996
-01:31:02,000 --> 01:31:03,500
+
+
 Medicine.
 
-997
-01:31:03,500 --> 01:31:05,600
+
+
 Wait! No. No.
 We don't know what that'll do.
 
-998
-01:31:05,600 --> 01:31:07,100
+
+
 She knows what she's doing.
 
-999
-01:31:07,100 --> 01:31:09,000
+
+
 We all know what will happen if we do nothing.
 
-1000
-01:31:09,000 --> 01:31:09,900
+
+
 He'll die.
 
-1001
-01:31:10,500 --> 01:31:11,600
+
+
 Doc.
 
-1002
-01:31:12,100 --> 01:31:13,400
+
+
 It's okay.
 
-1003
-01:31:13,400 --> 01:31:14,900
+
+
 Please.
 
-1004
-01:31:21,400 --> 01:31:22,600
+
+
 Do it.
 
-1005
-01:31:25,900 --> 01:31:27,600
+
+
 Doc, do it.
 
-1006
-01:31:42,100 --> 01:31:43,200
+
+
 That's it.
 
-1007
-01:31:46,900 --> 01:31:48,600
+
+
 <i>Come on, Jamie.
 Open your eyes.</i>
 
-1008
-01:31:50,000 --> 01:31:51,400
+
+
 <i>Please.</i>
 
-1009
-01:31:55,100 --> 01:31:56,600
+
+
 Jamie.
 Hey, buddy.
 
-1010
-01:32:03,900 --> 01:32:05,600
+
+
 You're getting good, Doc.
 
-1011
-01:32:25,400 --> 01:32:28,300
+
+
 <i>I've walked out of plenty
 of stores without paying.</i>
 
-1012
-01:32:28,300 --> 01:32:30,700
+
+
 <i>First time anyone's
 been happy about it.</i>
 
-1013
-01:32:36,200 --> 01:32:38,200
+
+
 I liked it better when we were stealing.
 
-1014
-01:32:38,200 --> 01:32:39,900
+
+
 You spoil everything, Wanda.
 
-1015
-01:32:59,200 --> 01:33:00,400
+
+
 No, Wes!
 
-1016
-01:33:14,300 --> 01:33:16,500
+
+
 Hello, Wanderer.
 
-1017
-01:33:21,000 --> 01:33:22,200
+
+
 Seeker.
 
-1018
-01:33:45,300 --> 01:33:48,000
+
+
 Why did you waste the medicine on me?
 
-1019
-01:33:50,100 --> 01:33:51,300
+
+
 Aren't you going to kill me?
 
-1020
-01:33:55,400 --> 01:33:57,300
+
+
 Can I speak to her alone?
 
-1021
-01:33:57,300 --> 01:33:59,100
+
+
 <i>Does that include me?</i>
 
-1022
-01:34:00,400 --> 01:34:02,200
+
+
 <i>I guess it does.</i>
 
-1023
-01:34:02,200 --> 01:34:04,200
+
+
 We'll be outside, Wanda.
 
-1024
-01:34:05,600 --> 01:34:08,500
+
+
 You just say the word.
 
-1025
-01:34:14,300 --> 01:34:15,600
+
+
 Huh!
 
-1026
-01:34:15,600 --> 01:34:17,500
+
+
 Wanda?
 
-1027
-01:34:17,500 --> 01:34:19,200
+
+
 Surely, you go by "Melanie" now.
 
-1028
-01:34:21,300 --> 01:34:23,600
+
+
 Did you ask to kill me yourself, Melanie?
 
-1029
-01:34:24,800 --> 01:34:26,500
+
+
 What are you waiting for?
 
-1030
-01:34:27,400 --> 01:34:29,300
+
+
 I'm not here to kill you.
 
-1031
-01:34:29,800 --> 01:34:31,100
+
+
 Oh.
 
-1032
-01:34:35,600 --> 01:34:37,600
+
+
 You're my interrogator.
 
-1033
-01:34:44,700 --> 01:34:47,300
+
+
 I do want to know something.
 
-1034
-01:34:51,400 --> 01:34:52,500
+
+
 Why?
 
-1035
-01:34:53,800 --> 01:34:55,600
+
+
 Why couldn't you just let me go?
 
-1036
-01:34:55,600 --> 01:34:57,600
+
+
 Because I was right.
 
-1037
-01:34:59,500 --> 01:35:03,500
+
+
 I know the threat a weak
 soul like you represents.
 
-1038
-01:35:03,500 --> 01:35:07,100
+
+
 Unlike you, I am doing my duty.
 I am fighting for us.
 
-1039
-01:35:07,100 --> 01:35:09,200
+
+
 We cannot live with them like the other worlds.
 
-1040
-01:35:10,800 --> 01:35:12,400
+
+
 You, more than anyone, know that.
 
-1041
-01:35:14,800 --> 01:35:16,300
+
+
 Did you come alone?
 
-1042
-01:35:17,800 --> 01:35:20,100
+
+
 Other Seekers will come looking for me,
 
-1043
-01:35:20,100 --> 01:35:22,500
+
+
 just like I came looking for you.
 
-1044
-01:35:22,500 --> 01:35:24,600
+
+
 No one else is coming to find you.
 
-1045
-01:35:26,100 --> 01:35:29,500
+
+
 You die, and the danger dies with you.
 
-1046
-01:35:30,500 --> 01:35:32,400
+
+
 The people here will be safe.
 
-1047
-01:35:35,300 --> 01:35:37,200
+
+
 So you are going to kill me.
 
-1048
-01:35:47,200 --> 01:35:50,500
+
+
 <i>Wanda, what is this?
 What are you thinking?</i>
 
-1049
-01:35:50,500 --> 01:35:53,700
+
+
 <i>Don't put up walls against me.
 Talk to me.</i>
 
-1050
-01:36:25,200 --> 01:36:26,600
+
+
 Wanda?
 
-1051
-01:36:30,200 --> 01:36:31,900
+
+
 I never got the chance to say how truly...
 
-1052
-01:36:31,900 --> 01:36:33,700
+
+
 There's a way to make up for it.
 
-1053
-01:36:35,300 --> 01:36:38,800
+
+
 what you have been ending
 so many lives trying to do.
 
-1054
-01:36:39,700 --> 01:36:41,800
+
+
 I can take a soul from a body.
 
-1055
-01:36:41,800 --> 01:36:43,400
+
+
 <i>You can do what?</i>
 
-1056
-01:36:44,400 --> 01:36:46,700
+
+
 <i>What are you saying, Wanda?</i>
 
-1057
-01:36:46,700 --> 01:36:48,900
+
+
 I will only give you this knowledge
 
-1058
-01:36:48,900 --> 01:36:51,800
+
+
 on the condition you do as I ask
 
-1059
-01:36:51,800 --> 01:36:54,200
+
+
 and promise that no harm will come to any soul.
 
-1060
-01:36:55,400 --> 01:36:56,900
+
+
 I can promise you that.
 
-1061
-01:36:56,900 --> 01:37:00,200
+
+
 There's one other thing you must promise.
 
-1062
-01:37:00,200 --> 01:37:03,200
+
+
 And you must promise to keep it a secret.
 
-1063
-01:37:09,500 --> 01:37:11,200
+
+
 You have to let me die.
 
-1064
-01:37:11,300 --> 01:37:12,400
+
+
 <i>No! No! No!</i>
 
-1065
-01:37:13,200 --> 01:37:15,200
+
+
 I can't do that, Wanda.
 
-1066
-01:37:16,300 --> 01:37:18,800
+
+
 I... I can't.
 
-1067
-01:37:18,800 --> 01:37:21,000
+
+
 It's the only way I can give you what you want.
 
-1068
-01:37:21,500 --> 01:37:22,600
+
+
 <i>Wanda.</i>
 
-1069
-01:37:23,400 --> 01:37:24,600
+
+
 <i>No.</i>
 
-1070
-01:37:37,400 --> 01:37:38,600
+
+
 She's out.
 
-1071
-01:37:38,600 --> 01:37:41,400
+
+
 So you don't want us to kill the Seeker.
 
-1072
-01:37:41,400 --> 01:37:45,200
+
+
 She killed Wes.
 Who knows how many others?
 
-1073
-01:37:45,200 --> 01:37:47,000
+
+
 She wouldn't blink about butchering us.
 
-1074
-01:37:47,000 --> 01:37:48,700
+
+
 There's been too much killing.
 
-1075
-01:37:50,000 --> 01:37:52,000
+
+
 Not death. Exile.
 
-1076
-01:37:52,700 --> 01:37:55,900
+
+
 You want us to forgive her.
 
-1077
-01:37:55,900 --> 01:37:58,600
+
+
 And let them go, just like that?
 
-1078
-01:37:59,800 --> 01:38:01,000
+
+
 Yes.
 
-1079
-01:38:14,600 --> 01:38:17,700
+
+
 We souls can leave the same way we arrived.
 
-1080
-01:38:18,700 --> 01:38:21,000
+
+
 I will send her away.
 
-1081
-01:38:21,000 --> 01:38:23,500
+
+
 By the time she reaches another planet,
 
-1082
-01:38:23,500 --> 01:38:26,500
+
+
 your grandchildren will have died of old age.
 
-1083
-01:38:55,500 --> 01:38:57,900
+
+
 You have always tried to extract it by force.
 
-1084
-01:38:59,600 --> 01:39:02,600
+
+
 The secret is, you do not remove it,
 
-1085
-01:39:03,500 --> 01:39:04,700
+
+
 it removes itself.
 
-1086
-01:39:06,800 --> 01:39:08,800
+
+
 You coax it out.
 
-1087
-01:39:10,600 --> 01:39:14,700
+
+
 You have always seen it as the enemy.
 It can feel the hate.
 
-1088
-01:39:17,000 --> 01:39:19,900
+
+
 It can only be captured by kindness.
 
-1089
-01:39:21,600 --> 01:39:23,400
+
+
 Love.
 
-1090
-01:39:38,700 --> 01:39:40,800
+
+
 Ian, help me.
 
-1091
-01:40:38,700 --> 01:40:40,100
+
+
 Thank you.
 
-1092
-01:40:42,900 --> 01:40:45,100
+
+
 What is your name?
 
-1093
-01:40:45,100 --> 01:40:46,500
+
+
 I'm Lacey.
 
-1094
-01:40:47,100 --> 01:40:49,800
+
+
 My name is Lacey.
 
-1095
-01:40:49,800 --> 01:40:52,100
+
+
 I've been screaming inside for years.
 
-1096
-01:40:52,800 --> 01:40:54,600
+
+
 Nobody could hear me.
 
-1097
-01:40:54,600 --> 01:40:57,100
+
+
 You're the reason why she
 wouldn't leave me alone.
 
-1098
-01:40:57,100 --> 01:41:00,500
+
+
 Yes, she wasn't just after humans.
 
-1099
-01:41:00,500 --> 01:41:02,700
+
+
 She was hoping to find a way to fight the hosts.
 
-1100
-01:41:04,500 --> 01:41:05,800
+
+
 Like me.
 
-1101
-01:41:06,900 --> 01:41:08,500
+
+
 And you, Melanie.
 
-1102
-01:41:09,800 --> 01:41:11,800
+
+
 Who fight back.
 
-1103
-01:41:39,900 --> 01:41:41,500
+
+
 Have a safe trip.
 
-1104
-01:41:42,700 --> 01:41:44,100
+
+
 <i>And a long one.</i>
 
-1105
-01:41:50,700 --> 01:41:54,200
+
+
 <i>Always send the souls to
 the most distant planets.</i>
 
-1106
-01:41:56,900 --> 01:41:58,200
+
+
 Wanda?
 
-1107
-01:42:01,000 --> 01:42:03,000
+
+
 Do you miss it out there?
 
-1108
-01:42:04,900 --> 01:42:06,300
+
+
 The other worlds?
 
-1109
-01:42:08,700 --> 01:42:10,600
+
+
 I miss many things.
 
-1110
-01:42:12,000 --> 01:42:14,200
+
+
 Don't you miss Melanie?
 
-1111
-01:42:14,200 --> 01:42:16,600
+
+
 Don't you want your sister back?
 
-1112
-01:42:18,100 --> 01:42:20,200
+
+
 She's here now.
 
-1113
-01:42:21,100 --> 01:42:23,200
+
+
 <i>You know he's right.</i>
 
-1114
-01:42:25,200 --> 01:42:27,600
+
+
 Not the way she needs to be.
 
-1115
-01:42:34,000 --> 01:42:35,700
+
+
 I think it's time to move on.
 
-1116
-01:42:35,700 --> 01:42:37,200
+
+
 Leave us?
 
-1117
-01:42:40,600 --> 01:42:42,800
+
+
 Yes.
 
-1118
-01:42:42,800 --> 01:42:45,000
+
+
 But you can always come back, right?
 
-1119
-01:43:00,200 --> 01:43:03,600
+
+
 I asked you here so no one would shout.
 
-1120
-01:43:03,600 --> 01:43:05,900
+
+
 <i>I wish I could shout loud
 enough for them to hear.</i>
 
-1121
-01:43:08,800 --> 01:43:12,600
+
+
 As soon as I knew what to do with the Seeker,
 
-1122
-01:43:12,600 --> 01:43:16,800
+
+
 I knew there was a way for all of
 you to get your loved ones back.
 
-1123
-01:43:16,800 --> 01:43:18,200
+
+
 Without hurting the souls.
 
-1124
-01:43:22,000 --> 01:43:23,600
+
+
 But, of course,
 
-1125
-01:43:26,000 --> 01:43:29,200
+
+
 I knew I had to give Melanie back to herself.
 
-1126
-01:43:30,300 --> 01:43:31,800
+
+
 And leave.
 
-1127
-01:43:31,800 --> 01:43:33,900
+
+
 That can't happen, Wanda.
 We need you.
 
-1128
-01:43:34,600 --> 01:43:40,100
+
+
 <i>Tell them the truth.
 You're not leaving this world.</i>
 
-1129
-01:43:40,100 --> 01:43:43,100
+
+
 <i>Tell them what
 you're really gonna do.</i>
 
-1130
-01:43:43,100 --> 01:43:45,100
+
+
 Now that you have this knowledge
 
-1131
-01:43:45,100 --> 01:43:47,000
+
+
 of how to extract a soul from a body,
 
-1132
-01:43:47,000 --> 01:43:48,700
+
+
 you can survive without me.
 
-1133
-01:43:48,700 --> 01:43:50,300
+
+
 And what does Mel say?
 
-1134
-01:43:50,300 --> 01:43:52,000
+
+
 She's always wanted her life back.
 
-1135
-01:43:52,000 --> 01:43:53,200
+
+
 <i>Don't speak for me.</i>
 
-1136
-01:43:53,800 --> 01:43:55,800
+
+
 You're lying.
 
-1137
-01:43:57,600 --> 01:43:59,300
+
+
 I have to go.
 
-1138
-01:44:04,300 --> 01:44:06,700
+
+
 You don't have to decide right now.
 
-1139
-01:44:08,000 --> 01:44:10,200
+
+
 Think about it.
 
-1140
-01:44:12,200 --> 01:44:14,000
+
+
 Promise me you'll think about it.
 
-1141
-01:44:36,400 --> 01:44:39,900
+
+
 You are not leaving me.
 
-1142
-01:44:39,900 --> 01:44:41,200
+
+
 I can't stay.
 
-1143
-01:44:47,400 --> 01:44:48,700
+
+
 But I love you.
 
-1144
-01:44:50,400 --> 01:44:51,900
+
+
 I love you.
 
-1145
-01:44:53,900 --> 01:44:56,400
+
+
 Don't say it like you're saying goodbye.
 
-1146
-01:45:02,400 --> 01:45:04,900
+
+
 I love you in every way that I can.
 
-1147
-01:45:06,700 --> 01:45:08,300
+
+
 And I'll miss you the most.
 
-1148
-01:45:10,000 --> 01:45:13,400
+
+
 I miss the future I might have had with you.
 
-1149
-01:45:13,400 --> 01:45:15,200
+
+
 You're willing to sacrifice that?
 
-1150
-01:45:15,200 --> 01:45:17,800
+
+
 Sometimes we have to make sacrifices.
 
-1151
-01:45:17,800 --> 01:45:21,700
+
+
 No, I can't let you go. I won't.
 Let me talk to Melanie.
 
-1152
-01:45:21,700 --> 01:45:24,100
+
+
 She's not there right now.
 
-1153
-01:45:24,100 --> 01:45:28,000
+
+
 She stepped into the other
 room, so I can kiss you.
 
-1154
-01:46:27,100 --> 01:46:29,200
+
+
 I really can't talk you out of it?
 
-1155
-01:46:30,000 --> 01:46:32,800
+
+
 No. It's time.
 
-1156
-01:46:34,200 --> 01:46:36,300
+
+
 I want to die.
 
-1157
-01:46:37,400 --> 01:46:39,800
+
+
 If you had lived a millennium
 
-1158
-01:46:39,800 --> 01:46:42,800
+
+
 always in the body of another, you
 might feel the same way yourself.
 
-1159
-01:46:49,400 --> 01:46:52,000
+
+
 <i>Wanda, my sister.</i>
 
-1160
-01:46:52,000 --> 01:46:53,500
+
+
 Yes, sister?
 
-1161
-01:46:54,500 --> 01:46:56,500
+
+
 <i>Please don't do this.</i>
 
-1162
-01:46:59,200 --> 01:47:03,300
+
+
 Don't you want to be
 with Jared? And Jamie?
 
-1163
-01:47:03,300 --> 01:47:06,000
+
+
 <i>It doesn't have
 to be this way.</i>
 
-1164
-01:47:06,000 --> 01:47:07,500
+
+
 <i>You don't have to die.</i>
 
-1165
-01:47:09,900 --> 01:47:13,000
+
+
 <i>You really could go to another world,</i>
 
-1166
-01:47:13,000 --> 01:47:15,000
+
+
 <i>the way you've been
 telling everyone.</i>
 
-1167
-01:47:17,800 --> 01:47:19,800
+
+
 Thank you,
 
-1168
-01:47:21,500 --> 01:47:24,400
+
+
 but by the time I got to the closest planet,
 
-1169
-01:47:25,400 --> 01:47:30,500
+
+
 you, Jamie, Jared, Ian,
 
-1170
-01:47:33,600 --> 01:47:37,500
+
+
 everyone on this world I care
 about would be long dead.
 
-1171
-01:47:41,500 --> 01:47:43,900
+
+
 I don't want to go on without you.
 
-1172
-01:47:49,300 --> 01:47:50,900
+
+
 I love you, Mel.
 
-1173
-01:47:52,100 --> 01:47:53,500
+
+
 <i>I love you.</i>
 
-1174
-01:47:55,600 --> 01:48:00,900
+
+
 <i>You are the purest soul, human
 or not, that I've ever met.</i>
 
-1175
-01:48:03,400 --> 01:48:06,300
+
+
 <i>The universe will be a
 darker place without you.</i>
 
-1176
-01:48:12,000 --> 01:48:13,900
+
+
 Be happy, Mel.
 
-1177
-01:48:16,200 --> 01:48:18,000
+
+
 Be happy
 
-1178
-01:48:19,500 --> 01:48:22,100
+
+
 that after living so many lives,
 
-1179
-01:48:24,400 --> 01:48:27,200
+
+
 I finally found something to die for.
 
-1180
-01:48:35,400 --> 01:48:37,400
+
+
 <i>Goodbye.
 Goodbye.</i>
 
-1181
-01:49:08,500 --> 01:49:10,100
+
+
 Wanda?
 
-1182
-01:49:10,100 --> 01:49:11,500
+
+
 Wanda.
 
-1183
-01:49:15,000 --> 01:49:16,600
+
+
 Wanda?
 
-1184
-01:49:16,600 --> 01:49:18,500
+
+
 Wanda, can you hear me?
 
-1185
-01:49:19,400 --> 01:49:21,000
+
+
 Where am I?
 
-1186
-01:49:21,900 --> 01:49:23,400
+
+
 Who am I?
 
-1187
-01:49:23,400 --> 01:49:25,100
+
+
 You're you.
 
-1188
-01:49:30,200 --> 01:49:32,000
+
+
 Hello, Wanda.
 
-1189
-01:49:32,500 --> 01:49:34,300
+
+
 Melanie?
 
-1190
-01:49:36,600 --> 01:49:39,000
+
+
 You might want to see yourself.
 
-1191
-01:49:52,200 --> 01:49:53,300
+
+
 You still do that with your hair.
 
-1192
-01:50:14,300 --> 01:50:16,100
+
+
 Doc, you broke your word.
 
-1193
-01:50:16,100 --> 01:50:20,700
+
+
 They broke it for me.
 They made me keep you alive.
 
-1194
-01:50:20,700 --> 01:50:21,700
+
+
 But I told you I didn't want to
 
-1195
-01:50:21,700 --> 01:50:23,100
+
+
 take another life in any world.
 
-1196
-01:50:23,100 --> 01:50:27,700
+
+
 We've been taking souls out
 of humans for a month now.
 
-1197
-01:50:27,700 --> 01:50:30,800
+
+
 But when we took the soul out of that body,
 
-1198
-01:50:30,800 --> 01:50:32,100
+
+
 she never woke up.
 
-1199
-01:50:32,100 --> 01:50:33,400
+
+
 The body was dying.
 
-1200
-01:50:33,400 --> 01:50:36,200
+
+
 The only way to save her was to put you inside.
 
-1201
-01:50:38,100 --> 01:50:41,200
+
+
 You haven't killed a body.
 You've given it life.
 
-1202
-01:50:44,700 --> 01:50:46,200
+
+
 I miss you in my head.
 
-1203
-01:50:50,700 --> 01:50:52,100
+
+
 What are you thinking, Wanda?
 
-1204
-01:50:55,800 --> 01:50:58,200
+
+
 I'm thinking how happy I am.
 
-1205
-01:51:25,600 --> 01:51:27,700
+
+
 It's a strange world.
 
-1206
-01:51:28,400 --> 01:51:30,100
+
+
 The strangest.
 
-1207
-01:51:37,100 --> 01:51:41,600
+
+
 <i>Our world isn't like
 the other worlds they came t.</i>
 
-1208
-01:51:41,600 --> 01:51:43,700
+
+
 <i>The way they see it,</i>
 
-1209
-01:51:43,700 --> 01:51:49,300
+
+
 <i>human beings
 are just so alien.</i>
 
-1210
-01:51:49,300 --> 01:51:53,300
+
+
 <i>But if one of them can find a
 way to live with one of us,</i>
 
-1211
-01:51:55,100 --> 01:51:56,600
+
+
 <i>I wonder.</i>
 
-1212
-01:52:19,800 --> 01:52:20,800
+
+
 Seekers.
 
-1213
-01:52:28,700 --> 01:52:30,500
+
+
 No one gets taken.
 
-1214
-01:52:41,500 --> 01:52:42,500
+
+
 Everybody out.
 
-1215
-01:52:48,500 --> 01:52:50,300
+
+
 Seeker, I can...
 Everybody out.
 
-1216
-01:52:52,100 --> 01:52:53,400
+
+
 Now.
 
-1217
-01:53:08,200 --> 01:53:09,500
+
+
 Hmm.
 
-1218
-01:53:09,500 --> 01:53:10,800
+
+
 Little bright out tonight, is it?
 
-1219
-01:53:20,400 --> 01:53:21,300
+
+
 You're human.
 
-1220
-01:53:30,400 --> 01:53:31,700
+
+
 Human.
 
-1221
-01:53:34,300 --> 01:53:35,800
+
+
 Mmm-hmm.
 
-1222
-01:53:40,500 --> 01:53:41,900
+
+
 Not all human.
 
-1223
-01:53:46,600 --> 01:53:47,500
+
+
 Are you their prisoner?
 
-1224
-01:53:54,500 --> 01:53:55,400
+
+
 Yes.
 No.
 
-1225
-01:53:56,900 --> 01:53:58,800
+
+
 I'm not their prisoner.
 
-1226
-01:54:03,300 --> 01:54:04,600
+
+
 I'm their friend.
 
-1227
-01:54:07,200 --> 01:54:08,600
+
+
 They're human.
 
-1228
-01:54:16,400 --> 01:54:18,300
+
+
 Human as you.
 
-1229
-01:54:22,600 --> 01:54:24,400
+
+
 We thought we were the last survivors.
 
-1230
-01:54:24,400 --> 01:54:25,900
+
+
 So did we.
 
-1231
-01:54:27,800 --> 01:54:30,000
+
+
 Till we found three other groups.
 
-1232
-01:54:30,600 --> 01:54:32,300
+
+
 Now four.
 
-1233
-01:54:34,400 --> 01:54:36,800
+
+
 Thought I was the only one who switched sides.
 
-1234
-01:54:36,800 --> 01:54:39,300
+
+
 I guess you never know where
 you're gonna find your home.
 
