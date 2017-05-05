@@ -1,0 +1,8 @@
+#! /bin/bash
+
+# Rename all *.txt to *.text
+CUR="$1"
+NEW="$2"
+for f in *.$CUR; do 
+    mv -- "$f" "${f%.$CUR}.$NEW"
+    done
