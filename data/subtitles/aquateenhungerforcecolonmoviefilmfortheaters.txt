@@ -1,1267 +1,1267 @@
-{141}{230}# It's a groovy time for a movie time #
-{230}{314}# So grab your gal, and grab a seat #
-{316}{390}# But don't forget|to get something to eat #
-{393}{472}# Delicious meat,|a nutritious meat #
-{472}{558}# You can't beat my meat|for a special treat! #
-{561}{647}# Sucking on me is really neat! #
-{647}{738}# Don't be a jerk, and don't be a fool #
-{738}{803}# Be a good neighbor|and follow these rules #
-{1047}{1119}# What are these rules? #
-{1119}{1210}# Remember to keep|your shoes on at all times #
-{1213}{1287}# Don't pull your penis out,|unless you really need to #
-{1287}{1414}# Indecent exposure|is a Class 2 felony #
-{7375}{7437}Come on! Come on, baby!
-{7475}{7499}Dammit!
-{7535}{7590}I can't hold him for much longer!
-{7590}{7674}You wanna know what the problem is?|The problem is it ain't starting.
-{7674}{7725}Yeah, because of something you just did!
-{7725}{7761}I just been sitting in it!
-{7761}{7811}Your butt made it not start. Thanks!
-{7813}{7871}See if the radio works.
-{7880}{7950}I'm not listening to Egypt's Only Country.|Are you nuts?
-{7952}{8039}I listen to The Sand,|Cairo's home for classic rock!
-{8041}{8113}Will you guys get out of here?|I can't hold him for much...
-{8350}{8413}Let's let a real man handle this!
-{8549}{8614}- This thing ain't got no engine.|- Hello?
-{8655}{8708}You need to check the air-tires?
-{8921}{8981}That's where the power is generated!
-{9086}{9142}And that was the problem, wasn't it?
-{9144}{9228}No. While you was fighting|that thing-dog, I...
-{9230}{9259}I called a tow truck.
-{9259}{9305}None of that shit ever happened|and you know it!
-{9305}{9384}- Frylock! You're alive!|- Not quite.
-{9384}{9420}Allow me to explain.
-{9444}{9547}With Frylock in my arms,|I stumbled upon a witch doctor.
-{9547}{9588}Yo, what up, G?
-{9590}{9681}Who was able to provide us|with food, shelter...
-{9681}{9736}and some kick-ass video games.
-{9758}{9844}Yeah, you get pumping.|That's how you pump!
-{9844}{9892}Come on, come on!
-{9918}{9966}Get there!
-{9966}{10000}Come on!
-{10034}{10062}- Yes!|- Glory! Glory!
-{10062}{10120}- That's how you do it!|- The plantation is safe!
-{10120}{10158}Beatdown city, man!
-{10161}{10278}- The slaves are yours!|- The South rises again!
-{10281}{10345}You gotta watch out|for my musket skills, baby!
-{10369}{10458}You are great at that game.|Your friend is terrible, though.
-{10460}{10491}Yeah, he sucks.
-{10587}{10614}He's dead!
-{10614}{10690}You know, I don't advertise this|but I can bring him back to life.
-{10690}{10758}- It's something I do, but it's up to you.|- I'll bet you can't.
-{10760}{10813}Yeah? How much you wanna bet, bro?
-{10815}{10918}And so a bet was made.|And you know I totally would've won...
-{10918}{10959}had the friggin CIA not busted in.
-{10961}{11043}We know you're in there Lincoln!|We've got the place surrounded!
-{11043}{11084}To the new Beetle convertible!
-{11335}{11379}Alright, everybody freeze!
-{11391}{11434}Don't move!
-{11503}{11539}We know you're invisible.
-{11638}{11712}- Crank up some jams!|- I do the radio.
-{11712}{11791}I need me some Sand! K-Sand!
-{11817}{11844}Yeah!
-{11868}{11932}Take a break! Biggie time.
-{11961}{12028}Just because we fought|one invisible criminal...
-{12028}{12076}doesn't mean everybody's invisible.
-{12079}{12187}I understand that, but it does mean|that some of them could be invisible...
-{12187}{12268}and I think|they're all invisible in this room.
-{12388}{12460}I don't know|where you get your ideas, T.J.
-{12517}{12575}Hurry!|This rocket should take you as far as...
-{12575}{12609}Come on!
-{12611}{12683}I was saying, this rocket|should take you as far as Pluto.
-{12685}{12762}- What about Frylock?|- He should wake up at any moment.
-{12762}{12798}But I must warn you...
-{12800}{12877}from now on|he will be extraordinarily dumb.
-{12920}{13004}- Be gone ye!|- OK, but first let's all get picture together.
-{13004}{13064}- Lincoln, you the tallest...|- Everybody freeze.
-{13067}{13129}Go, God damn it! Go!
-{13182}{13230}We know you're invisible, so don't move!
-{13273}{13361}- No one will catch Time Lincoln!|- Shoot before he transports!
-{13364}{13405}No one, ever!
-{13457}{13534}Oh, great.|You just had to shoot, didn't you?
-{13534}{13601}- Way to change the future.|- What do you mean?
-{13601}{13656}Pull, whitey, pull!
-{13659}{13757}And so Frylock is with us,|in a manner of speaking...
-{13759}{13839}but he would never recover his smartness.
-{13839}{13908}And that's why|I have to cut up his food for him.
-{13908}{13978}Frylock, is all this true?|Is that where we come from?
-{13978}{14057}He doesn't understand your talking.|You must draw him pictures.
-{14057}{14148}But you should use bright colors. That's|the only way you can catch his eyes.
-{14150}{14249}The truth is, Meatwad,|I don't know where we came from.
-{14249}{14289}But I do know how we're gonna die.
-{14488}{14517}Aqua Teen!
-{14541}{14582}# My name is #
-{14582}{14642}# Shake Zula,|the mic rula, the old schoola #
-{14642}{14702}# You wanna trip, I'll bring it to ya! #
-{14702}{14764}# Frylock and I'm on top,|rock you like a cop #
-{14764}{14824}# Meatwad you're up next|with your knock-knock #
-{14824}{14882}# Meatwad make the money see #
-{14882}{14934}# Meatwad get the honeys, G#
-{14934}{14994}# Drivin' in my car,|livin' like a star #
-{14994}{15061}# Ice on my fingers and my toes|and I'm a Taurus #
-{15121}{15169}# 'Cause we are the Aqua Teens #
-{15172}{15239}# Make the homies say ho|and the girlies wanna scream! #
-{15241}{15282}# 'Cause we are the Aqua Teens #
-{15284}{15349}# Make the homies say ho|and the girlies wanna scream! #
-{15351}{15409}# Can't stop, won't stop|doin' that thang #
-{15411}{15474}# Swingin' that swang bang|bangin' with the gang #
-{15474}{15541}# Lookin' at my Gucci,|lookin' for the coochie #
-{15541}{15615}# Yeah, I just trying to get some coochie! #
-{15649}{15702}# 'Cause we are the Aqua Teens #
-{15702}{15781}# Make the homies say ho|and the girlies wanna scream! #
-{15781}{15826}# 'Cause we are the Aqua Teens #
-{15826}{15910}# Make the homies say ho|and the girlies wanna scream! #
-{16138}{16174}# Aqua Teen is number one #
-{16198}{16279}# Aqua Teen is number one! Yeah! #
-{16730}{16804}My father built this castle.
-{16807}{16900}He said that Weirds would live here|for a thousand years...
-{16903}{16984}and now it's being turned|into fucking lofts!
-{16987}{17063}Well, you could still stay here.|I mean, you could buy a unit...
-{17063}{17142}- These look pretty cool.|- Look at this unit!
-{17274}{17330}Can you... help him move out?
-{17332}{17363}Inside out?
-{17418}{17442}You know what?
-{17445}{17524}I'm just gonna let you have this one.|You can have it.
-{17526}{17612}- For free.|- But we wanna pay!
-{17744}{17783}Check one, two. Check.
-{17785}{17843}Check, check, check.|One, two, buckle my shoe.
-{17843}{17895}Three-four, shut the door, check, check.
-{17895}{17948}- Checking the mic.|- It's checked.
-{17948}{18046}Checkin' the mic, check.|Checkin' the mic, check.
-{18140}{18195}Check, check, check, checking the mic.
-{18195}{18255}Mic check, checking the mic, mic check.
-{18255}{18296}- It's checked!|- Check.
-{18298}{18396}- Sibilance. Sibilance. Sibilance.|- It's checked already! It's checked!
-{18396}{18509}It is? OK, good.|And we got all these in tune, right?
-{18512}{18581}- Tell me these are in tune.|- Yeah.
-{18581}{18658}- They're dolls.|- Shoot.
-{18658}{18691}Are they in tune?
-{18691}{18770}- What's all this to do?|- This is Meatwad's concert tour.
-{18770}{18866}- Girl Quest 2005.|- Read the t-shirt, fool.
-{18866}{18955}- There's gonna be girls here?|- Yep. I advertised.
-{19039}{19068}What the fuck?!
-{19070}{19135}See, women love kitty cats.
-{19135}{19238}That's why we gonna fire 'em out|of these high-powered plasma cannons.
-{19240}{19272}Meatwad, you need to go on.
-{19274}{19346}The sooner you go on,|the sooner everyone can go home.
-{19348}{19403}Good evening, New Jersey!
-{19403}{19485}How's the air conditioning out there?
-{19507}{19629}Well, let's see|if we can turn the heat up!
-{19650}{19708}What the?|Who's throwing potatoes up here?!
-{19708}{19742}I'll shut this show down!
-{19742}{19821}- Alright Meatwad, we are done!|- Wait, hang on, we're gonna do this.
-{19909}{19941}Fire!
-{19974}{20008}Dang it.
-{20008}{20056}- I guess I didn't pack 'em right.|- Fools!
-{20058}{20104}Like being at the Vietnamese Butcher!
-{20106}{20130}Neil?
-{20156}{20178}Neil?
-{20310}{20403}- Cut it out, Neil!|- Sorry, Walter.
-{20403}{20492}It's Mr. Melon to you! You...
-{20492}{20538}...fool!|- Fuck it!
-{20538}{20583}I can't work under these conditions!
-{20583}{20643}I want a diet water and|I want my mommy right now!
-{20643}{20696}Meatwad, women don't need to be wooed...
-{20698}{20756}with an electric guitar by a meatball.
-{20758}{20801}What women want are these.
-{20835}{20892}Pythons.|Check it out.
-{20907}{20952}Go ahead, touch it. Quick.
-{20979}{21012}- Who farted?|- Shake.
-{21012}{21060}Not all women are into muscles.
-{21060}{21130}Well, the beautiful ones are.|The ones in Miami.
-{21130}{21182}Come on.|All women are beautiful, on the inside.
-{21182}{21245}I know that, yeah,|I've been inside of them.
-{21247}{21322}Their homes. That's where I|go when they leave for work.
-{21322}{21367}I get to know 'em before I meet 'em...
-{21370}{21429}and then I wait for them outside,|behind a bush.
-{21432}{21492}- That what gets me off.|- Gets you off what?
-{21518}{21612}The... the chain.|Off the chain.
-{21612}{21698}Follow me and learn!|Sex ed has begun.
-{21698}{21763}Now this square is the...
-{21815}{21847}...man.|- OK.
-{21847}{21933}- This circle here, that's the uterus.|- That's what it looks like?
-{21933}{22038}Up close, yes.|This is lifelike drawing of the uterus.
-{22038}{22101}See the guy takes the car after his job...
-{22101}{22170}to pick up the uterus at her house.
-{22173}{22252}Because she doesn't work|unless she's sweeping up something.
-{22254}{22293}And where do they go?
-{22293}{22405}All the way... to a hotel...
-{22408}{22477}which definitely has cable.
-{22480}{22540}And that's where|this trapezoid becomes...
-{22540}{22645}shall we say... entangled,
-{22647}{22734}with the exposed|and aerated crotches.
-{22758}{22810}And that there|is the exposed crotches?
-{22810}{22866}I told you|that's the chair and the spatula.
-{22866}{22926}- I knew it.|- Congratulate yourself, my friend.
-{22957}{22990}You have just been laid.
-{23021}{23113}- That feels good.|- Yeah, I never tire of it.
-{23113}{23196}You think that women are attracted to me?
-{23252}{23324}Well, I think they pity you.|Because you're overweight.
-{23324}{23395}I mean, a lot of it has to do|with having a good body.
-{23395}{23436}Well, you ain't got no good body!
-{23439}{23513}I have a great body,|and I get it by doing reps.
-{23513}{23559}No way. You got a machine?!
-{23561}{23635}I don't have a machine.
-{23635}{23695}<i>I have the machine!</i>
-{23714}{23765}Behold.|The machine!
-{23849}{23892}The Insanoflex!
-{23961}{24036}Behold, my Elvis costume!|I ain't seen that since Halloween.
-{24038}{24081}Let me tell you about the system.
-{24084}{24120}Rumor has it...
-{24120}{24232}it was brought back|from a more advanced time...
-{24235}{24326}<i>the time, of course, of Tlmecop...</i>
-{24326}{24381}to train my buns!
-{24381}{24462}Show me how to get some pythons|like Chief Wahoo McDaniel.
-{24462}{24549}No no, you can't just hop into this,|you'll hurt yourself.
-{24549}{24647}Start stretching out by helping me drag it|in front of the TV, OK? Let's go.
-{24647}{24681}And, one!
-{24774}{24803}Push, keep pushing!
-{24805}{24839}Keep pushing!
-{24839}{24904}Ain't that the reason|you exercise in the first place?
-{24906}{24966}- So you could move something like this?|- No!
-{24966}{25033}- That is not the reason.|- Alright. What's the reason?
-{25035}{25127}Poontang.|Poontang is the grubby little middleman...
-{25127}{25175}you must go through|to get the girls.
-{25175}{25234}It's not even assembled right.|Look at this.
-{25237}{25294}That's... that's... Yeah...
-{25294}{25354}so you can do it on a plane,|business trips.
-{25357}{25388}Look at this. One, two...
-{25388}{25460}- OK, and where are the directions?|- I know, I don't know!
-{25460}{25541}You know, the internet|is a popular source of information.
-{25541}{25613}And the internet is also a popular way...
-{25616}{25680}to play some of my favorite games, like...
-{25683}{25745}Crystal Meth, Nightmare Killing Spree...
-{25748}{25819}and Clamdigger - Head To Head.
-{25819}{25872}- Here I go.|- Don't you touch my computer!
-{25875}{25899}Oh my God.
-{25899}{25973}There must be fifty bras on this page!
-{25973}{26018}- I gotta get on that!|- No! No, no, no!
-{26021}{26069}Somebody's been bra-shopping in here!
-{26069}{26114}- Let me see! Come on!|- Do you mind?
-{26114}{26160}- Damn!|- You will bookmark that.
-{26162}{26246}- You've never seen a bra before?|- Not with the boob meat inside of it!
-{26246}{26373}OK. Search for Insanoflex.
-{26539}{26582}Oh my God! Again.
-{26834}{26870}- Oh my God.|- Oh my God.
-{26872}{26954}These directions are written|in some sort of rare, robot dialect.
-{26954}{27021}- Oh my God.|- Please, translate.
-{27023}{27073}- Well, I speak robot.|- This is odd.
-{27126}{27165}- It's almost as if...|- I speak robot.
-{27165}{27232}I heard you.|I'm sorry, continue with your translation.
-{27232}{27313}It's as if someone|didn't want us to put this together.
-{27316}{27395}- And yet they sold it to us.|- I speak robotanese.
-{27428}{27491}Danger.|Deadly death danger.
-{27491}{27572}Beware.|You must never, ever, ever, ever...
-{27572}{27692}ever, ever, ever...
-{27694}{27819}ever, ever, ever,|ever assemble the Insanoflex!
-{27855}{27925}Need help assembling?|Because we said not to?
-{27927}{28001}So is there a number you can translate?|Can you at least do that?
-{28004}{28040}Yeah, there is.
-{28224}{28320}7438445...
-{28423}{28493}Don't do it. Enjoy.
-{29207}{29270}Man, the phone's ringing.
-{29272}{29332}Yes, I can see that,|these work, you know!
-{29334}{29375}Do not touch the phone!
-{29378}{29423}- What the...|- Intruder!
-{29426}{29500}I am the Cybernetic Ghost|of Christmas Past.
-{29517}{29574}Do you have a... a quick second?
-{29605}{29675}- Sure.|- Thousands of years ago into the future...
-{29677}{29752}your race will develop|the ultimate exercise machine...
-{29752}{29824}that has irresistible force|and immovable object...
-{29826}{29919}with over 90 exercises|and an infinite amount of weight...
-{29919}{30025}and plus it has a rowing machine|for cardiovascular workout...
-{30025}{30114}and a clicker that allows you|to keep track of your reps.
-{30114}{30222}Every time you do a rep it clicks "One".
-{30222}{30267}The button is big and red...
-{30269}{30358}a color which no longer exists in your time.
-{30358}{30423}Cool dude!|How do I order?
-{30423}{30507}You fool! Don't you understand?|You built it!
-{30507}{30579}If this machine falls into the wrong abs...
-{30581}{30677}the world as you know it will become|a world as you've never imagined it...
-{30679}{30747}starring Chow Yun-Fat.
-{30768}{30797}What are you saying?
-{30797}{30895}Because I don't even know|what you're talking about anymore.
-{30919}{30996}Are you saying|that someone could become so buff...
-{30998}{31058}that he could score like,|all the world's ass...
-{31058}{31121}and thus creating|massive global inbreeding...
-{31123}{31190}ultimately bring population|growth to a standstill?
-{31193}{31231}No!
-{31231}{31303}Well I wasn't thinking that,|but that could happen.
-{31303}{31348}Dude, I totally want one!
-{31447}{31475}Sorry.
-{31509}{31567}- I still want one.|- Oh, sure.
-{31569}{31629}You'll set it up,|but it will take you over a week...
-{31629}{31710}and you'll keep telling yourself|"I should hop on that and use it"...
-{31710}{31785}because these slacks no longer fit right.
-{31787}{31840}You have got to answer|that fucking phone.
-{31840}{31929}- It's driving me nuts!|- Let the machine get it.
-{31929}{31965}- Hello?|- Hello?
-{31965}{32008}Hey man, how's it going?
-{32008}{32053}- Pretty good.|- I pull your leg out!
-{32164}{32195}Oh, dammit!
-{32209}{32269}We need a new machine.
-{32269}{32331}So, how do you even know all this?
-{32331}{32437}Fortunately for humanity,|I traveled forward into the Bahamas...
-{32437}{32518}but also back in time, to steal this!
-{32674}{32722}- That's a screw.|- No.
-{32722}{32773}It is part XJ32...
-{32773}{32888}which is to fasten the|Pectomizer to the Ab-Eraser...
-{32890}{32933}to the thing!
-{32936}{33036}Without this one piece, the Insanoflex...
-{33036}{33094}would fall apart.
-{33154}{33211}Watch this.
-{33214}{33243}She loves it.
-{33290}{33360}So, that thing is basically a screw.
-{33362}{33406}Yes, it screws into things.
-{33427}{33499}So can't they just go|buy a screw or something?
-{33571}{33602}Shit.
-{33605}{33676}I mean, I'd probably|just shove a pencil in the screw hole.
-{33676}{33720}I just shoved a pencil in the screw hole.
-{33722}{33787}It better not be mine.|My algebra homework is due tomorrow.
-{33787}{33832}Gonna work out on this thing or not?
-{33835}{33866}I'll work out on your face.
-{33938}{34017}Bring me the vegetable oil.|I think I'm gonna pose right here.
-{34017}{34096}Show you boys how it's done!
-{34096}{34192}Women drop to their knees|when they see the shape of my fingers.
-{34192}{34264}They're like beautiful|little muscular hot dogs.
-{34293}{34333}Look at these guns!
-{34333}{34393}I just pooped a little bit.
-{34396}{34444}- Meatwad, hit the switch.|- OK.
-{34544}{34588}- Is it on?|- Hit it again.
-{34588}{34626}Can't get good help these days.
-{34628}{34681}- Jiggle it.|- Do exactly what he told you!
-{34681}{34729}It's just one switch! I'm doing it.
-{34729}{34782}Well that's it. You see this M?
-{34782}{34887}It probably stands for motherboard,|and evidently we're missing it.
-{34887}{34962}It stands for Meatwad.|And that's me, y'all.
-{34962}{35012}It stands for mar...
-{35053}{35132}for mar... morphin...
-{35173}{35261}I will come up with something.|And it will sting like the bee!
-{35264}{35314}Wait a minute.|Is that the box it came in?
-{35314}{35362}No. What am I, on trial here?
-{35364}{35439}- Where did you get this?|- I got it from a dear friend...
-{35439}{35489}<i>who knows my needs.</i>
-{35491}{35604}And he also happens|to wear bitchin' ass pants!
-{35604}{35676}You see, they're made|of a fiber optic technology...
-{35676}{35734}that hug the flesh on my unique shape.
-{35734}{35789}They circulate air|around my genitals...
-{35789}{35834}and they wick the sweat|off my balls.
-{35875}{35945}You wanna know more about my pants,|I got some literature here...
-{35947}{36014}That's alright. I just need to know|where you got that Insanoflex?
-{36014}{36098}Some garage sale. Back when I,|you know, gave a crap about my body.
-{36100}{36168}Then of course some|jack off friggin' ripped it off.
-{36170}{36259}Will you speed it up?|What is the hold-up back there?
-{36259}{36321}Well, Shake says|you gave it to him for Christmas.
-{36323}{36352}Is that where it is?
-{36355}{36458}Yeah, I thought Santa Claus came in here,|and busted out my window.
-{36460}{36491}Look, I know it's yours...
-{36491}{36549}but we're missing a key part|that makes it work.
-{36549}{36640}Well, boo hoo, for you.|So go cry in the street off my property.
-{36642}{36709}Well, what we were thinking|is that if we could just...
-{36709}{36798}...go inside your house and look around.|- See, I'd love to do that, but no.
-{36801}{36832}You're not coming in here.
-{36832}{36928}Can you tell me who you bought it from, and|I can go ask that guy if he still has it?
-{36928}{37000}- Here's the address. Right here on the box.|- What the he...?
-{37000}{37091}Why are we stopping|when my foot is clearly still on the gas?
-{37091}{37184}South Jersey Shore.|I know where that is.
-{37184}{37256}Alright, hop in. Warp speed. Go!
-{37364}{37400}We overshot that.
-{37402}{37472}We went all around the earth|and back to where we started.
-{37472}{37522}It's pretty amazing isn't it?
-{37597}{37671}- OK, impulse power!|- Let's take the cart.
-{37776}{37868}- Wait, wait, wait, stop! Stop!|- What? What is it?
-{37901}{37951}Must've just been the wind.
-{38285}{38357}There it is. In all its beauty.
-{38359}{38407}Oh man. The door's locked.
-{38692}{38726}Hand me a credit card.
-{38726}{38791}Dude, you can't pick the lock,|man, I know you.
-{38791}{38867}I know, I want to order some DVDs online.
-{38867}{38997}This has been a complete intelligence|failure of massive proportions!
-{39028}{39095}<i>Will you see if they have|Deathdream by Bob Clark?</i>
-{39095}{39155}<i>- Did he not do Porky's?|- He did do Porky's.</i>
-{39155}{39241}<i>He also did A Chrlstmas Story,|which makes me laugh and laugh.</i>
-{39244}{39287}Dude, they got a key.
-{39287}{39332}It's right there under the...
-{39335}{39397}Well, it's hanging|on that nail by the door.
-{39400}{39464}- We were never here.|- You never saw us.
-{39639}{39718}I told you dude, we needed the Machine!
-{39721}{39814}- How many times did I say that?|- Zero. You said it none times.
-{40162}{40208}- What?|- Hey, sweaty man.
-{40208}{40275}- Could you help us lift something?|- No, I don't think so.
-{40277}{40304}- Damn it!|- Rude!
-{40304}{40371}What difference does it make?|The friggin thing don't work!
-{40373}{40447}- They're missing a piece.|- Where is it?
-{40447}{40550}That's right, fat man.|I will totally ruin your bushes.
-{40553}{40627}Please don't do that.|It's about to bloom!
-{40630}{40706}I've been urinating it twice a day!
-{40745}{40793}I forgot it did this.
-{40819}{40893}Now tell me fat man, and make it quick...
-{40896}{40960}what was I going to ask you?
-{40984}{41037}Check it out. I mean, here's the box for it.
-{41037}{41090}And here's the address.
-{41090}{41162}Come on, let's go!|Everybody inside the race car!
-{41164}{41205}Wait for me!
-{41227}{41284}- Thrusters on!|- Go!
-{41380}{41440}- Is your seat belt properly fastened?|- Yeah.
-{41440}{41512}Dude, why don't we just take our ship?|It's probably faster.
-{41512}{41574}Yes, to the ship!|It was my idea.
-{41593}{41646}Goodbye fat man.
-{41646}{41687}You can suck it!
-{42128}{42212}- Steve, heat the oil!|- OK.
-{42286}{42327}And now...
-{42327}{42399}shoestring the giant potato!
-{42732}{42831}The oil is ready!
-{42831}{42879}Lower the box!
-{43008}{43034}No!
-{43034}{43116}- No!|- I know!
-{43116}{43195}He's been trying to kill us|for the last three miles.
-{43197}{43289}Listen up, there is|no right on red in this State!
-{43289}{43365}It's left, goddamn you!
-{43368}{43420}Do you even know the difference?
-{43420}{43466}Here we are.
-{43643}{43682}Obviously this is the kitchen.
-{43682}{43780}All modern appliances, brushed metal.|All brand new.
-{43782}{43840}What's this do?|Hey, what's that do?
-{43840}{43926}Don't you ever touch people's stuff!|What kind of manners do you have?
-{43926}{43991}You know I touch the stuff first.
-{43991}{44034}And if you look over here...
-{44034}{44092}- What is this, a creature in here?|- Yes, that.
-{44094}{44200}That's a creaturezoid!|There are only two in the known universe!
-{44200}{44250}Taunt it and it will eat your skin!
-{44252}{44305}This is my... wife.
-{44308}{44408}OK, well, I guess we're gonna go on|and get on out your hair, here.
-{44408}{44528}Out of curiosity, you don't happen to have|a missing piece to an exercise machine...
-{44528}{44588}Nope! Can't help you there. Sorry.
-{44590}{44638}Come on and get me. What's the matter?
-{44641}{44684}Too faggoty to come and get me?
-{44710}{44746}Come on, Shake!
-{44746}{44816}- I'm so sick of pussies.|- Drag me out of here, come on!
-{44962}{45044}- I am a master of disguise!|- Yeah.
-{45082}{45140}Well, they were here, looking for the part.
-{45140}{45264}No one must ever|put together the Insanoflex!
-{45377}{45468}- Well, he doesn't have it.|- We'll just wait...
-{45677}{45763}Thousands of years ago|I told you he didn't have it.
-{45765}{45820}Why are we beating|our brains out about this?
-{45820}{45854}I mean, come on, dudes!
-{45854}{45948}We'll just wait until we create it,|and then like, we'll have it!
-{45948}{45986}Well, alright.
-{46017}{46082}Man, nobody's gonna take|these voice oscillators back.
-{46108}{46185}- Well, I will try anyway.|- I think I even swallowed the tag.
-{46187}{46269}- Do you have the receipt?|- I prefer to keep mine in my butt.
-{46314}{46379}Oh no! Someone's coming!|Put on your costumes.
-{46422}{46446}<i>Oh, shelsse!</i>
-{46449}{46523}Everybody, make out and kiss hard!|Like you mean it!
-{46763}{46803}Get a room!
-{46851}{46945}Did you hear me say, "Get a room?"|I told them to get a room.
-{46947}{47019}They were like making out|then we walked by and I went...
-{47019}{47115}"Get a room!"|That's pretty good, right?
-{47115}{47170}OK, they're gone.
-{47170}{47242}- That was very close.|- Yeah. We were.
-{47242}{47285}Very close.
-{47312}{47379}You know, you're a good kisser.
-{47482}{47532}OK, they're gone, OK?
-{47679}{47712}I'll handle this.
-{47767}{47813}Yes, can I help you?
-{47813}{47909}Yeah, we're here|with the Boys Club and...
-{47909}{47978}We're here to throw down!
-{48081}{48137}Four eyes!|I need those combinations!
-{48137}{48223}- What are you talking about?|- You know, like missile codes right away!
-{48225}{48249}Shake! Shake!
-{48249}{48324}There won't be a tomorrow, Jack.|Let alone your little grandma...
-{48324}{48395}- OK, I give! I give!|- You're going down, milkshake!
-{48395}{48477}I give up!|I'm not even fighting you back!
-{48477}{48513}All you had to do was ask!
-{48513}{48583}- Missile codes? We don't need these!|- Well, I need them.
-{48585}{48654}We are a go for operation|Banana Monkey...
-{48657}{48719}029 Yankee Hotel Foxtrot.
-{48719}{48820}Launch pad one, launch pad two,|launch pad three.
-{48822}{48865}We have ignition.
-{48911}{48961}I am just... I am smelling a missile.
-{49045}{49084}Nah, there's no way!
-{49086}{49124}Greetings, I'm Space...
-{49192}{49251}Shut up, honey. It's just fire.
-{49254}{49297}Say, you wouldn't happen to have a...
-{49299}{49371}I already told you, we don't|have that part you're looking for!
-{49371}{49417}What do you mean you already told us?
-{49419}{49489}Well yeah, just a few minutes ago,|when you were here.
-{49491}{49568}The thing for the exercise equipment,|we don't have it.
-{49568}{49661}Sir, you must turn your key,|we are at Defcon 3.
-{49685}{49721}Turn your key, sir.
-{49748}{49774}Who's that?
-{49800}{49846}- That's my wife.|- OK, look.
-{49846}{49942}If you see anything that looks like this,|let us know.
-{49968}{50035}- Wait a second. Can we have this?|- Meatwad, let me see that.
-{50035}{50088}My God, this is the missing piece!
-{50107}{50167}- Knock-knock!|- Welcome home, baby.
-{50167}{50251}I say this to all of your things.|For this is a robbery.
-{50254}{50316}- Nobody move!|- Yeah, we'll see you guys later.
-{50316}{50359}Stop moving!
-{50386}{50426}- They're gone, man.|- Yes, Err.
-{50426}{50491}We scared them off|with our fierce ferocity.
-{50491}{50577}Do what he says|and say what he does, and...
-{50580}{50623}look at this!
-{50656}{50731}- This is ours!|- That is correct.
-{50731}{50815}What is it? No time for an answer!|Tractor beam on!
-{50834}{50877}Observe as I steal it!
-{50877}{50954}Do not waste your pathetic mortal energy|trying to stop us...
-{50954}{51030}unless you want to amuse us,|which is what you're doing.
-{51030}{51071}You can't stop us, you can't touch us!
-{51071}{51148}We're untouchable, unstoppable,|unflappable, unmotivated...
-{51148}{51172}What is that, Err?
-{51174}{51217}- This is an ashtray!|- What the f...?
-{51217}{51287}- I like to smoke.|- Tractor beam off!
-{51287}{51357}- An ashtray? Come on, man.|- What's wrong with an ashtray?
-{51357}{51426}Err, if you want to achieve in this life...
-{51426}{51484}you need to set your goals higher.
-{51484}{51558}- I'm already pretty high!|- And so am I.
-{51558}{51615}- So grab the other end of this...|- Yes!
-{51615}{51697}...as we commit first degree|Grand Theft Coffee Table!
-{51697}{51750}- Tractor beam on!|- We are stealing!
-{51750}{51807}We control your home furnishings!
-{51807}{51865}And we will be back|when you least expect it.
-{51865}{51889}We will!
-{51889}{51951}For the end table,|the ottoman, and the wine rack.
-{51951}{51975}See if we don't!
-{51975}{52073}- But we don't have room right now.|- We are renting at the Y!
-{52076}{52145}- What's wrong with your chicken?|- That's a gay chicken.
-{52224}{52263}The piece is missing!
-{52263}{52328}- Oh, no!|- Oh, yes, Steve!
-{52483}{52579}Randy!|Turn your fucking stereo down!
-{52579}{52649}Did you see|that chicken guy running around?
-{52651}{52711}- That guy was weird.|- Yeah. Really weird.
-{52711}{52769}There was something|about that chicken.
-{52769}{52860}Something that reminded me|of another weird person I used to know.
-{52860}{52896}Yeah, it was many years ago.
-{52922}{53011}We were colleagues once,|we were very close.
-{53011}{53085}I was just starting in my scientific|career and he was already...
-{53085}{53167}OK, all right, you went to camp,|you made out with a girl, Vietnam, what?
-{53169}{53246}What?! I've got stories too,|I've been places, I have friends.
-{53248}{53335}But right now I need to get physical.|And listening ain't doing it for me.
-{53337}{53404}All right, give me the damn piece.|Let's see if it fits.
-{53536}{53584}It looks like they have the piece.
-{53584}{53646}Then they must have the piece.
-{53646}{53742}- That's what I just said.|- Shush, Emory! The robot is right.
-{53742}{53843}Someone must distract them, while I|go in there and beat it out of them!
-{53872}{53934}- Now who's had that fantasy?|- I got an idea.
-{53934}{54025}Why don't we just send wingnut over here|to freakin' bore them to death.
-{54028}{54087}I have a thousand weapons|of mass distraction.
-{54087}{54133}Which one shall you require?
-{54135}{54193}What about the student council story?
-{54195}{54253}- That one's a corker.|- Oh, yes.
-{54253}{54358}The student council story.|That is one of my very favorites.
-{54426}{54543}Thousands of years ago|I ran for treasurer of student council...
-{54543}{54586}it involved a lot of hard work...
-{54586}{54634}we decorated many cookies...
-{54634}{54708}we spent all night|putting up cream frosting.
-{54708}{54780}And then we drew on many posters.
-{54780}{54845}But the principal called me|down to her office...
-{54845}{54912}and informed me|that I had violated election rules.
-{54915}{55013}Thousands of years ago I kicked your ass.|And I'm gonna do it again right now.
-{55013}{55068}That's what Sister Margaret|kept telling me...
-{55070}{55166}as I explained my political agenda|in her bathroom.
-{55190}{55245}Where are my frickin' pants?!
-{55248}{55315}You can't hide 'em, I see 'em!
-{55317}{55353}I see 'em!
-{55353}{55401}Carl!
-{55401}{55440}I wanna share with you...
-{55442}{55504}by letting you jump on in here|and take the other leg.
-{55504}{55567}- No, thank you. Save it for the tea party.|- Come on.
-{55569}{55620}Our balls will wick together as one!
-{55622}{55667}That's my workout machine, isn't it?
-{55667}{55727}Yeah, we found that missing piece, Carl.
-{55727}{55783}I don't want to tell you what to do, but...
-{55785}{55835}you're putting it in upside down.
-{55835}{55888}Will you back up? I know what I'm doing.
-{55888}{55958}Well fine, do it your wrong way.
-{55958}{56056}- All right, here we go.|- There you go.
-{56082}{56121}- Finally!|- Excuse you?
-{56123}{56195}Set it to maximum!|I'll have to start maxing out right here.
-{56195}{56248}No, I bought it, I get first crack at it!
-{56248}{56308}- I'm doing it.|- I'm the one who just put it together!
-{56308}{56372}- I'm the muscle one!|- Shake, will you let Carl go first?
-{56375}{56447}- I mean, he does own the damn thing!|- You're right, Frylock.
-{56447}{56543}I will be the bigger man,|and let the baby have his way.
-{56545}{56612}Turn it on now! Get a mirror!|Hurry! Someone spot me!
-{56612}{56665}Get your ass out of there!
-{56665}{56691}All right.
-{56732}{56778}All right, put it on warm-up mode.
-{56778}{56885}I want to work into this very slowly|before I completely dominate it, OK?
-{56967}{57049}Look at this whole routine,|this is pretty sweet there.
-{57075}{57125}What the hell?!
-{57125}{57166}What's going on here?
-{57168}{57216}Am I exercising, or?
-{57240}{57324}Seriously,|what is going on behind me here?
-{57327}{57384}Crap, crap, crap, crap!
-{57384}{57449}What the fuck is going on|with this thing?!
-{58281}{58343}Man! I'm glad he went first.
-{58346}{58427}- I told you it mustn't be installed!|- No you didn't!
-{58427}{58468}- I didn't?|- No, you didn't.
-{58523}{58557}I meant to!
-{58557}{58629}Make it stop, I'm already sore here!
-{58700}{58777}<i>- Oh, shelsse!|- Dude, just stay down.</i>
-{58840}{58916}The re... the res... the reasoning...
-{58916}{58979}The resoning must begin at once!
-{58979}{59007}Neil!
-{59007}{59051}Contact the county!
-{59053}{59113}Hang on, wait. What are we doing?
-{59113}{59182}<i>Do I have to explain|everythlng to you, Neil?</i>
-{59182}{59206}Hey, y'all!
-{59209}{59281}They got a big ol'|floating watermelon over here!
-{59281}{59314}Reverse thrusters!
-{59420}{59487}Just a couple more reps man, let's go!
-{59561}{59602}No pain, no gain! Come on!
-{59602}{59660}I wanna see you go for it! You got it!
-{59662}{59724}You don't wanna|look like that forever, do you?
-{59724}{59794}- Crap! It's heading downtown.|- What, the watermelon?
-{59796}{59844}No, not the watermelon!
-{59844}{59928}There's only one way to stop it.
-{59952}{60002}You must push...
-{60005}{60055}the stop switch.
-{60098}{60156}It doesn't have a stop switch!
-{60158}{60204}Well...
-{60206}{60240}I...
-{60266}{60338}Then there's no way to stop it!
-{60338}{60412}- What the f...? You don't know!|- Is that clock right?
-{60415}{60491}- My goodness, is it that time already?|- Man, it has been a day!
-{60494}{60523}I tell you what, I mean...
-{60523}{60587}I been going non-stop|since like noon, or something.
-{60590}{60623}I got to go, I got to go to bed.
-{60623}{60690}- Shake.|- And you got school tomorrow too!
-{60693}{60748}- No I don't.|- Yes you do, and you will now go to bed.
-{60750}{60786}Shake, don't you get it?
-{60789}{60854}Why don't you get this|with your lips!
-{60854}{60894}I'm referring to my anus.
-{60897}{60983}Carl's gonna be destroyed,|along with all the rest of downtown!
-{60985}{61036}If we help you,|can we get the machine?
-{61036}{61110}Or can we go to the?
-{61136}{61187}- Or what!?|- I don't know!
-{61187}{61244}You don't have to yell at me like that!
-{61244}{61276}Look.
-{61278}{61323}We need a plan.
-{61594}{61628}I have a plan.
-{61652}{61724}Alright, you see|that roller coaster over there?
-{61724}{61810}It's the Steel Python,|and in order to ride it...
-{61813}{61868}we must each purchase tickets...
-{61868}{61916}at $3 a pop...
-{61916}{61968}with your money...
-{61968}{62009}in order to ride it.
-{62043}{62100}And that there's the plan.
-{62100}{62141}What about the Insanoflex?
-{62143}{62201}Insan...|No, that thing's gone, brother.
-{62203}{62268}And pretty soon,|the world as we know it will be gone.
-{62268}{62376}That's why you gotta you squeeze as much|out of the time you got left on this earth.
-{62376}{62407}And squeeze it for fun.
-{62407}{62455}He's right.
-{62455}{62539}- Will you two cut it out?!|- Word up, bitch.
-{62563}{62599}Eat that, motherfuckers!
-{62599}{62666}- Now here's dessert!|- What the hell are you doing here?!
-{62666}{62755}That sort of snippy attitude|does not require an answer.
-{62755}{62820}He's right.|You wanna buy a coffee table, man?
-{62820}{62865}Notice the fine lacquered oak.
-{62865}{62930}Four legs!|Top, bottom, underneath, sides.
-{62930}{63023}It would complement|the inside of your anus beautifully.
-{63026}{63081}<i>- Get it, man?|- Do you get the double entendre?</i>
-{63083}{63138}- Up your butt!|- Do you know what an anus is?
-{63138}{63182}Up your butt! Sideways!
-{63184}{63256}Look, we just really|want to ride this coaster, so...
-{63258}{63373}you know, be cool and...|give us all your money.
-{63373}{63465}Total destruction|and devastation is imminent.
-{63465}{63505}And it takes a long time.
-{63505}{63556}About an hour,|hour and a half from now.
-{63558}{63604}- Or two!|- And it will suck.
-{63604}{63683}Wait, stop moving!
-{63731}{63800}Is it just me, man, or is that thing|coming right towards us?
-{63800}{63884}- Yeah, look at it.|- Man, I gotta get out of here.
-{63884}{63937}- Run.|- It's coming right towards us!
-{63939}{63985}I'm sorry, this plan is moronic!
-{63985}{64071}The Insanoflex|is ripping up my home town.
-{64074}{64141}And you're sitting here|not even tall enough to ride!
-{64143}{64208}Now we have to fund your operation!
-{64210}{64304}Come on gang.|Let's all do a topless car wash!
-{64306}{64376}I'm tall enough to ride now.
-{64443}{64493}Meatwad!|I didn't know you could do that.
-{64493}{64582}Ain't no one ever asked me.|You want you some office space?
-{64582}{64618}How 'bout tech support?
-{64620}{64673}Wait a minute, this gives me an idea!
-{64673}{64759}Is it the same idea I had?|About riding that there roller coaster?
-{64759}{64790}I hope so.
-{65160}{65220}Pre... tty bad... ass!
-{65443}{65519}I like the missiles, that works.|You need to mess up the hair more.
-{65519}{65570}- I just combed it.|- Look more like a monster.
-{65572}{65634}I like parting it to the side|but giving it a messy look.
-{65637}{65692}Like he's a preppy|but he'll throw down with you.
-{65694}{65773}Lose the shorts, though.|This ain't no Pride Parade, it's a fight.
-{65776}{65836}Well, how about this?|See? Blue jean shorts.
-{65862}{65929}- Cutoffs.|- OK, fine, that'll work.
-{65932}{65992}Now Oglethorpe and Emory,|I want you two to...
-{65992}{66056}Where'd the Plutonians go?
-{66056}{66112}Hold your hands up this time.
-{66114}{66171}That is a direct order|from Commander Fun.
-{66174}{66203}Hold on, hold on!
-{66203}{66227}Oh God!
-{66440}{66498}Alright, Shake.|The Meat Monster is set up.
-{66500}{66615}You need to lure that thing down|this alley, so Meatwad can attack him.
-{66617}{66680}- Shake?|- I ain't doing that. No.
-{66680}{66730}- No, no. Hell no.|- Stay right there!
-{66730}{66809}What are you do...? You must|lure that thing into the Meat Monster!
-{66809}{66879}Well, what the hell|do you think I'm doing here? My nails?
-{66903}{66934}- I may?|- Fine!
-{66936}{67013}- I'll get Robot Man here to do it.|- I don't want to do it.
-{67015}{67073}My hands are tied at this point.
-{67075}{67154}I kind of also got|a teeth whitening package.
-{67154}{67210}So, you know...
-{67210}{67238}don't stay up.
-{67241}{67291}Meet us out there as soon as you're done.
-{67294}{67375}- Oh, crap!|- OK, just close the door, please?
-{67399}{67469}Alright, Carl!|Looking good!
-{67469}{67526}What are you... Wha...
-{67526}{67581}See you later!
-{67624}{67708}What the hell are you doing?|You were supposed to attack him!
-{67708}{67790}With your fangs! And then|blow him up with the meat missiles!
-{67840}{67895}- I forgot.|- It's too late now.
-{67895}{67972}I've been to the future and it's his destiny.
-{67972}{68037}<i>- Thelr destiny.|- Wait a second.</i>
-{68039}{68082}<i>What do you mean by thelr destiny?</i>
-{68085}{68135}Frylock, look at this!
-{68138}{68190}Oh, my God!
-{68214}{68250}Do you know what this means?
-{68253}{68322}It's just as I suspected.
-{68325}{68348}I'm female.
-{68351}{68404}- It's... it's female.|- You're what?
-{68404}{68476}I mean, the Insanoflex is a female.
-{68562}{68607}And it's pregnant.
-{68663}{68711}Wait, go back to the other part.
-{68711}{68758}Where you were saying|you were a woman?
-{68758}{68782}He's right.
-{68782}{68854}Thousands of years ago into the future...
-{68854}{68943}descendants of the original Insanoflex|will roam the earth...
-{68946}{69027}exercising alternating muscles|on alternating days...
-{69027}{69097}until the human race|has cut carbohydrates...
-{69097}{69154}out of their diet forever.
-{69154}{69214}And everything will be crushed...
-{69216}{69324}in the Yeast Uprising of 1987.
-{69360}{69399}You said you're a woman!
-{69399}{69454}- Well, I'm not. Look, Shake...|- Don't touch me.
-{69454}{69550}Will someone just grab|the other end of that egg, please?
-{69576}{69617}Well with my teeth the way they are...
-{69617}{69689}I'm kind of not supposed|to chew anything for like four hours.
-{69689}{69732}Pick this egg up now!
-{69732}{69792}But my teeth have just been whitened!
-{69849}{69960}These teeth here,|they make for a pretty good stool.
-{69984}{70070}- You know you're sittin' on my teeth?|- I need to get eye level with the TV.
-{70070}{70132}- I see that.|- And then I need to wear these teeth.
-{70132}{70199}In my mouth.|When I go on dates.
-{70199}{70250}With women of the opposite sex.
-{70250}{70315}They're not clothes, you know.|They're part of my body!
-{70315}{70372}Get your ass off my teeth!
-{70415}{70478}Look at this.|This is unbelievable!
-{70478}{70552}I know it! My tan fell off.
-{70554}{70643}$49, straight down the crapper!
-{70643}{70708}With this Ultra X-Ray,|I should be able to look inside...
-{70708}{70811}Why don't you just break it open,|like this. With my Ultra Foot.
-{70885}{70960}OK, once I get the Ultra X-Ray|completely calibrated...
-{70960}{71019}I should be able to configure...
-{71384}{71420}See? I get shit done.
-{71422}{71497}- Damn, that's a good beat!|- Yeah, Meatwad, it is.
-{71523}{71566}Almost too good.
-{71590}{71664}- What is this music?|- Well, it's from my exercise video.
-{71667}{71787}<i>Lose Welghtl Evlsceratel|Volume 2- Sea Of Blood, Island Of Death.</i>
-{71789}{71847}I think I want to see that video.
-{71933}{71974}You'd better run, boy!
-{71976}{72024}Run those pounds off.
-{72024}{72122}See, this is an exercise program|designed to keep you working out.
-{72125}{72192}You know,|24 hours a day for 30 days...
-{72192}{72240}until, you know, forever.
-{72242}{72273}Yeah, but...
-{72273}{72333}You're guaranteed|to lose weight that way.
-{72333}{72372}- What the?|- Or that way.
-{72372}{72434}The way where he blows|your head off with a laser.
-{72434}{72508}- Who blows your head off with a laser?!|- Him, right there.
-{72508}{72556}That's the Insanoflex.
-{72556}{72609}That sucker's crazy.
-{72717}{72777}- We got one of them, don't we?|- Yeah!
-{72777}{72851}Remember? You were supposed|to wrap yourself around him?!
-{72851}{72930}Well I'll be.|Where has my head been?
-{72933}{73000}Has any of these people|ever stopped the Insanoflex?
-{73000}{73077}No. It can't be stopped,|once it gets going with that music!
-{73077}{73153}See, that's what fuels its insane rage.
-{73153}{73213}Maybe if we could change the music...
-{73213}{73268}we could confuse the Insanoflex.
-{73268}{73340}Well, I'll be.|That'd probably do it.
-{73343}{73400}- Does anyone know any musicians?|- My demo tape!
-{73400}{73479}Have you gotten a copy of it?
-{73518}{73573}# Stupid roommates|drive me crazy! #
-{73573}{73642}# Ain't got no toilet,|but I'm in the Navy! #
-{73642}{73683}# Sometimes you wanna walk #
-{73686}{73741}Does anyone know|any other musicians?
-{73743}{73820}# When I tell you what to do,|I pull out my gun! #
-{73820}{73880}# You don't own me,|you think you own me? #
-{73882}{73961}# And get resituated and hawk|the diet pills MC Pee Pants has created #
-{73961}{74052}# I need candy, eat candy till I'm dead!|I'll kill you for candy, candy head! #
-{74052}{74091}# Where you keeping all the candy? #
-{74091}{74160}# If you don't give me some candy|I'll make the ladies sing! #
-{74160}{74242}# Candy in the morning #
-{74242}{74280}# Candy on the way to school #
-{74280}{74345}Alright, I'll just take|a little five minute break.
-{74347}{74410}- Again! I want Candy, again!|- Alright, man! Shit man!
-{74412}{74484}I want candy, bubblegum and taffy.|However you fucking do it!
-{74486}{74546}Put the flames away! It's fine!
-{74546}{74604}Chill for a second, man.|I gotta take this, man.
-{74604}{74645}- What's up?|- I can't...
-{74647}{74702}I can't hear you, you're breaking up.
-{74705}{74805}Satan can I take this up to the surface? I|ain't gettin' no reception, like none, man!
-{74808}{74880}On one condition.
-{74880}{74966}- What's up? You call me?|- Yeah, I guess we did, huh Meatwad?
-{74966}{75038}You tryin' to get you|some fly honeys? 'Cause...
-{75040}{75095}- 'Cause you're a fly.|- Man! For real?
-{75098}{75153}Motherfucker changed me again,|didn't he?
-{75153}{75230}Didn't he? That motherfucker!|Satan is a motherfucker!
-{75230}{75335}- Hey man, you gonna eat that?|- Well that there's a dog turd.
-{75338}{75419}Man! I love me some dog turd, man!
-{75419}{75460}This shit's delicious!
-{75484}{75551}Why the hell do I like me|some dog turd, man?!
-{75553}{75620}Look, no no, don't get up.|You keep on eating.
-{75620}{75700}I... I need you to do|one of your ridiculous songs.
-{75700}{75757}Now you need me?
-{75760}{75822}Man, the world has turned, man!|Look here, man.
-{75846}{75894}I don't have time to do you a song, man!
-{75894}{75959}You need me so bad,|you got to go to my website, man.
-{75959}{76016}- Click on "Contact MC", man!|- I knew it.
-{76018}{76081}Forget this!|I don't have time for this bullshit.
-{76083}{76131}You got a complaint?|Go to the message boards.
-{76131}{76232}Tell your friends, your family, people you|don't like, I'll do anything for attention!
-{76234}{76282}Alright, we need you to write a rap...
-{76282}{76373}so we can put it into the Insanoflex|and make him stop exercising...
-{76376}{76419}and destroying downtown...
-{76419}{76498}where they got the mini golf course|that I like so much.
-{76500}{76548}I got this man, check it out!
-{76577}{76623}Yeah, you feel this?
-{76623}{76702}This beat's from Europe. Man!
-{76702}{76750}I'm gonna lay it down for ya.
-{76750}{76800}# Insanoflex I wanna build your pecs #
-{76803}{76853}# A machine for sex, like a big T-Rex! #
-{76853}{76922}# Gonna build your calves,|gonna tighten your abs #
-{76925}{76958}No!
-{76961}{77006}- No!|- Yes!
-{77028}{77057}# Stop hitting yourself! #
-{77059}{77141}# Why are you hitting yourself|with gross fly guts all over your face? #
-{77141}{77203}- Gross! Get it off me!|- Look. We need a real musician.
-{77244}{77332}- I still got my demo floatin' out there!|- You don't wanna hear that, come on!
-{77332}{77373}The solo acoustic stuff I did?
-{77373}{77435}You know,|about that girlfriend I never had?
-{77435}{77495}- That's beyond suck.|- Solid and funk free.
-{77495}{77594}- But can you dance to it?|- Sure. If you pay for it.
-{77594}{77678}- It's Carl!|- Come... get... me.
-{77678}{77750}I'm... at... the... amusement... park.
-{77752}{77831}Steel Python.
-{77831}{77922}- Grab your tape, we'll have to go with it!|- Let's go with you gettin' 12 bucks.
-{77922}{78044}Or you know, you could go 15 for the CD.|You've got digital quality.
-{78044}{78109}- It sounds like I'm in the room with you.|- Will you come on?!
-{78383}{78452}My Frydar is picking|up slower biorhythms.
-{78452}{78536}- You gotta do it close range, huh?|- Must be in cool-down mode.
-{78538}{78637}Yeah, my Strawdar|picked that up about 20 miles back.
-{78637}{78663}Hey, dudes!
-{78663}{78730}Look at us up here|on the roller coaster!
-{78733}{78771}Hey guys!|What's going on?
-{78812}{78843}What's wrong with him?
-{78843}{78896}- Look out down there!|- My nutrients!
-{78898}{78951}Retrieve them at once,|they have escaped!
-{78951}{79004}That came out of you?!
-{79004}{79075}Alright everyone.|Here's what we're gonna do.
-{79131}{79179}- Man! What happened?|- Dang it.
-{79179}{79236}- Great, and now what?|- I'm gonna fly up there...
-{79238}{79298}and blow them all up|because I am sick of this shit!
-{79301}{79334}- No!|- Wait, Frylock!
-{79380}{79457}So you're just gonna go up there|and blow up your neighbor Carl?
-{79457}{79536}Don't you understand|how much he has to live for?
-{79598}{79656}OK, now that you're looking at me,|I mean...
-{79656}{79752}I'll come up with something here,|give me a second.
-{79764}{79800}He's...
-{79847}{79898}Hang on.
-{80037}{80085}Well, he's got...
-{80123}{80183}...porn!|He's got a bunch of porn.
-{80186}{80257}Who'll take care|of his vast collection of pornography...
-{80260}{80303}both in VHS and DVD format?
-{80305}{80385}Who's gonna call his mom,|and pretend he ain't lookin' at porn...
-{80385}{80464}while he's talking to her on the phone?
-{80466}{80507}And who, answer me this...
-{80507}{80586}will clean his pool|after I have peed all in it?
-{80588}{80639}- You.|- That's my point. Go kill him.
-{80639}{80703}- Alright, alright.|- Hell!
-{80703}{80775}I wrote this next one|when I broke up with my girlfriend...
-{80778}{80835}'cause I slept with her friend|and dumped them both!
-{80835}{80876}Shake, get your ass down from there!
-{80878}{80922}And I think everyone|can relate to the blues.
-{80924}{81020}Like they had|after I dropped them like two hot rocks.
-{81020}{81063}# Nude love #
-{81065}{81137}# Moves over me, like a storm #
-{81161}{81217}It's working.|It's working! He's stopping!
-{81217}{81284}Keep playing, Shake!|Keep playing your dumb ass song!
-{81284}{81377}# There is something in your eye,|and I realize #
-{81380}{81485}# In the sky|nude love #
-{81485}{81552}Wait, hang on, I've got trouble with the G.
-{81583}{81662}Perfect!|It's all going according to plan.
-{81662}{81722}Neil, prepare the fruit pod!
-{81742}{81816}# Crankin, smokin! #|There we go.
-{81816}{81929}# Tapes available|out in the parking lot #
-{81931}{82003}- It is making my ears pop.|- It's got a good message.
-{82005}{82053}He's touching|on some real stuff there.
-{82056}{82092}I like the nude part.
-{82092}{82154}# And then, see me #
-{82154}{82279}# Out by my hatchback for copies! #
-{82346}{82420}# Nude #
-{82554}{82600}# Love #
-{82746}{82773}Thank God!
-{82775}{82852}He was strong, but I think|we learned that music is stronger.
-{82852}{82945}- Carl, I want you to hop on out of there.|- I'm a little sore here...
-{82945}{83012}so, if you don't mind,|no one try to save me right now.
-{83012}{83046}Just let me sit here and...
-{83048}{83127}look damn good for a little bit, OK?
-{83127}{83199}- The music has freed your soul.|- Get off, Shake, get off!
-{83199}{83226}No!
-{83300}{83336}- Carl?|- Oh my God. Carl?
-{83336}{83401}- Is he dead?|- Carl, you all right? Can you hear me?
-{83403}{83427}Carl? Hey, Carl?
-{83470}{83499}Carl!
-{83499}{83566}You OK? There?
-{83566}{83609}What happened to him?
-{83653}{83724}Baby, you showed up! Great.
-{83727}{83847}Sorry, I didn't introduce you guys,|this is my new friend.
-{83847}{83892}- Linda.|- How y'all doin'?
-{83895}{83921}- Hello.|- Hey, man.
-{83921}{83959}Hi, how's it going?
-{84067}{84130}Yeah, we met in line for the coaster.
-{84132}{84197}We compared our lats and our traps and...
-{84199}{84312}turns out we do a lot of the same|exercises, don't we baby?
-{84523}{84616}The two of us were thinking about going|out for some vitamin supplements and...
-{84616}{84683}inject ourselves|with some extract from a bull's semen.
-{84683}{84751}That's what she likes|to do for muscle mass there.
-{84753}{84789}- Anyone wanna come?|- No.
-{84789}{84837}- Nah, that's cool.|- No, I can't.
-{84837}{84918}See ya later, losers. I'm going|off to do another little workout.
-{84921}{84998}At her place! Yeah!
-{85000}{85058}The only thing|that bull semen did for me...
-{85060}{85110}was activate my gag reflex.
-{85153}{85204}Well Carl got himself a girlfriend.
-{85206}{85285}I'm proud of him.|And I'm lonely. I want a girlfriend.
-{85288}{85374}- I'm the one who wants a girlfriend!|- No, it is I who wants a girlfriend.
-{85374}{85436}- Get this thing going again.|- I'll tell y'all what.
-{85439}{85542}See all these eggs laying around here?|Why don't you just pick one out.
-{85544}{85611}Pretty soon they're all gonna hatch|and once they do...
-{85611}{85671}life as we know it, is over.
-{85671}{85750}You know, you're really great|at taking a good fun situation...
-{85753}{85798}and turn it into something crappy.
-{85801}{85854}You know|we're about to get laid here, right?
-{85854}{85933}- How we gonna stop all of them?|- Well, why don't you ask him?
-{85933}{86017}<i>Because he invented it.</i>
-{86041}{86105}I did mention that, right?|I think I mentioned that.
-{86105}{86194}- So you're the one that created this thing?|- I think so. He says I did.
-{86252}{86319}I'll probably just knock it out|this afternoon.
-{86319}{86367}- Let's just wait around.|- He won't.
-{86369}{86407}He has no discipline.
-{86407}{86491}Why don't you tell a story about it|that lasts five hours?
-{86494}{86544}Will you shut up?!
-{86546}{86585}I have an idea.
-{86587}{86638}We're gonna have to go back in time.
-{86676}{86714}- And kill his parents.|- No!
-{86717}{86765}Don't do that, they're in Florida!
-{86765}{86820}No, no, Shake.|Here's what we're gonna do.
-{86820}{86892}Come on, how often|do you see them anyway? Honestly?
-{86894}{86954}Hey guys? Hello?
-{86954}{87031}Don't walk away|or I shall help me for you!
-{87031}{87112}Look man, I'm here for you, it's OK.|Now, what I want you to do...
-{87112}{87172}is drink this.
-{87218}{87285}Thank you Err.|What was that thick shake?
-{87287}{87374}Well, I'll tell you what it is.|It's mayonnaise I found in the trash can.
-{87376}{87472}And it had hair on it!|And you drank it!
-{87472}{87522}Because I am your doctor.|Do what I say!
-{87755}{87779}Look.
-{87779}{87894}Yet again, another testament of my ability|to pound the brewskies.
-{87894}{87944}Yeah. Those are collecting fruit flies.
-{87944}{88055}They are hovering around the display.|They are in awe of my ability to drink.
-{88055}{88134}Dude, you remember that exam?|That's tomorrow?
-{88136}{88218}- 'Cause, were you gonna study for it or?|- I sold my books.
-{88218}{88302}Screw them, man!|Plus, books are for nerds.
-{88302}{88385}Well, maybe you should save|some of that book money for laundry...
-{88388}{88467}'cause your sheets|are getting pretty gross man.
-{88469}{88515}What sheets?|I don't have sheets.
-{88515}{88558}Maybe we should throw them away.
-{88558}{88630}Dude, I'm so glad the computer|hooked us up as roommates.
-{88632}{88683}We are friends forever, you and I.
-{88707}{88735}Yep.
-{88735}{88774}I'm pretty psyched about it.
-{88807}{88863}<i>Shelsse, the RA!</i>
-{88978}{89040}S'up bro?|Wanna hackey-sack?
-{89040}{89066}Can we just kill him?
-{89069}{89145}Yeah, do it, seriously, 'cause I|get straight A's if he gets killed.
-{89148}{89196}Remedial Verbs.|You're studying that?
-{89196}{89241}I say speak to the hand to that class.
-{89241}{89306}I'm not getting up at eleven in the morning!
-{89309}{89380}To create that Insanoflex|you would've had to have...
-{89383}{89472}an advanced knowledge|of biogenetics and robot hydro-rhythms.
-{89474}{89522}Do you, or?
-{89522}{89594}See, I learned|how to help Timmy find his nuts.
-{89594}{89632}Please let me kill him.
-{89810}{89879}Oh, no. My clothes|didn't make it through the time rift!
-{89879}{89915}I'm totally nude.
-{89915}{89980}Nice going.|You saved the future.
-{89980}{90052}- You told me he invented this!|- I will. I know, I do.
-{90054}{90128}Did you even study robotics in school?|You didn't, did you?
-{90128}{90179}No way!|He majored in pottery, man.
-{90179}{90253}Well, is there...|is there like a giant pot...
-{90253}{90330}that destroys the world|that I might have glazed?
-{90359}{90399}You can stare at my genitals.
-{90399}{90452}You totally didn't save the future!
-{90452}{90503}My vacation is ruined!
-{90505}{90558}Well then,|who did create the damn thing?!
-{90618}{90716}- Well, I guess I don't know.|- No you don't. You don't know shit.
-{90716}{90788}"Thousands of Years Ago. "|You randomly string words together...
-{90790}{90877}that make up ridiculous stories of things|that never happened and never will!
-{90877}{91004}Really? Well then,|what do you make of this?
-{91088}{91181}"I can feel it coming in the air tonight. "
-{91224}{91320}"I've been waiting|for this moment all my life. "
-{91358}{91382}My father?
-{91385}{91466}Yes, no, yes.
-{91490}{91526}Your father.
-{91529}{91603}Oh my god!|You don't, you don't mean...
-{91663}{91716}Yes.
-{91716}{91764}- Thousands of years ago...|- No, no.
-{91766}{91840}I know who you're talking about.|Don't worry about it.
-{91840}{91881}- Look, a caterpillar!|- Oh, wait.
-{91881}{91927}- Where?|- Where's this caterpillar?
-{91929}{92008}- Just keep looking. Come on, let's go.|- Now I see it.
-{92008}{92073}Hello, little caterpillar!
-{92099}{92138}Destroy him!
-{92190}{92258}- You never told me we got us a daddy?|- You don't remember?
-{92260}{92337}- Do I remember anything?|- I got your daddy right here.
-{92339}{92425}He's only got one eye,|and two little uncles for ya too.
-{92464}{92533}It was a long time ago...
-{92533}{92562}Did ya hear me?
-{92562}{92634}I said I got your daddy right here|and I pointed at myself?
-{92634}{92711}I thought it was only a dream,|but it was a nightmare.
-{92763}{92833}It was dark, I couldn't see anything.
-{92869}{92974}But I do remember the painful sting|of hot oil against my skin.
-{93130}{93166}The hum.
-{93166}{93255}The hum of some type|of enormous mixer.
-{93315}{93408}And the wet slap|of steel hands on raw meat.
-{93411}{93444}How you doin'?
-{93480}{93593}The shriek of a million chickens,|screaming in agony...
-{93622}{93667}as they were merged into one.
-{93754}{93826}Right on, yeah!
-{93874}{94003}We were each given part of his brain,|and they brought us to life.
-{94027}{94065}<i>But he was never the same.</i>
-{94065}{94121}- There we go.|- Did I get some brain?
-{94164}{94221}- Sort of.|- I know I did. I can feel it.
-{94384}{94408}Well...
-{94408}{94497}- He said it would sort of compensate.|- Guys, down here.
-{94499}{94605}How did I compen... template?
-{94622}{94646}What about me?
-{94648}{94677}Fuck it!
-{94742}{94787}- I got head cheese?!|- All right...
-{94787}{94852}some of us got brain,|but that's not important, OK?
-{94854}{94921}- That was a very good story.|- Well, it's not done.
-{94924}{95022}My turn. Once upon a time,|there was a little elf...
-{95022}{95051}Just shut up!
-{95082}{95171}You have all been created...
-{95173}{95291}for a very ridiculous purpose.
-{95291}{95360}I want you to drive this plane...
-{95360}{95413}into that brick wall!
-{95557}{95612}Zero-one-niner,|requesting permission...
-{95612}{95667}for approach|to smash into brick wall, over.
-{95669}{95720}Permission granted!
-{95737}{95789}Right on!
-{95792}{95859}- Frylock! You?|- Change of plans, Bittle!
-{96053}{96120}- That's all you got?! Come on!|- Let go!
-{96334}{96379}No!
-{96417}{96492}No!|My creations!
-{96494}{96533}Fucking sandals!
-{96614}{96676}So, I diverted the plane to Africa...
-{96676}{96724}so we could try to stop world hunger.
-{96724}{96787}Running into a brick wall just seemed...
-{96789}{96835}like it would hurt. A lot.
-{96859}{96921}I mean, that's just dumb.
-{97029}{97113}All right, listen up. When we hit|the ground, I want everybody...
-{97115}{97166}to spread out|in a three meter stance...
-{97166}{97252}wait for air backup and then we're going...
-{97295}{97360}Chicken Bittle|did not survive the trip.
-{97360}{97463}And it didn't us long|to freak out all of Africa.
-{97580}{97681}- Hi, how ya doing?|- Hey, wait! No! We're here to help you!
-{97683}{97765}Come on, don't run!|Where you going?
-{97767}{97803}Our mission failed.
-{97870}{97983}So we came back to the States|and rented out this house in New Jersey.
-{97985}{98079}I couldn't live up to my father's|backwards, retarded expectations.
-{98081}{98134}I came here to follow my dream...
-{98137}{98218}of dancing professionally...
-{98220}{98249}in the nude.
-{98249}{98285}I mean, on Broadway.
-{98288}{98376}- I don't remember any of this.|- Me neither.
-{98376}{98417}You kept playing with your Gameboy.
-{98419}{98482}I'd say, "Shake, look up.|We're saving that. "
-{98484}{98571}And you were all like,|"Well I'm on level three. "
-{98571}{98618}I do remember level three.
-{98618}{98712}Well, did you ever get|to dance... professionally?
-{98712}{98803}That was a lifetime ago, Meatwad.|I have other responsibilities now.
-{98805}{98863}Yeah, dinner, right?|Where is it?
-{98992}{99038}- We're home.|- This ain't my house.
-{99040}{99067}Mine neither.
-{99136}{99220}Linda, this is some...|food that you've made.
-{99271}{99295}What is it?
-{99297}{99391}Apple cinnamon flavored|monkey gland energy shake.
-{99393}{99472}Thought I tasted a hint|of the monkey gland...
-{99633}{99676}Excuse me.
-{99678}{99769}Linda, I care about you.|I respect you.
-{99822}{99872}So where am I gonna do you?
-{99872}{99928}- Man, jackpot!|- Yeah.
-{99930}{99976}Lie down on it while I get nude.
-{99976}{100031}Yeah, I like it!
-{100088}{100131}Oh man, you are wild!
-{100134}{100222}- Thank you God!|- Yeah. My bedroom.
-{100244}{100311}Hey baby, your muscle's leaking...
-{100335}{100371}What's up with that?
-{100405}{100448}Oh no, no!
-{100474}{100498}Crap!
-{100522}{100585}- Shit.|- This is going to hurt!
-{100587}{100664}- A lot!|- Crap, crap, crap, crap!
-{100666}{100760}Oh, don't cry.|You've been such a good boy.
-{100760}{100805}I'm gonna let you have a lolly!
-{100827}{100863}Now lick it!
-{100995}{101054}- Listen. Is that Carl?|- Carl!
-{101124}{101174}Welcome home, boy!
-{101277}{101359}- You bastard!|- Not anymore, daddy!
-{101361}{101445}- Daddy?|- Bring it on, motherfucker!
-{101445}{101476}Come on, take this!
-{101570}{101625}Come on, I thought you'd love that!
-{101687}{101726}You'd like some more?
-{101997}{102025}That's all you got?
-{102047}{102083}God damn it!
-{102121}{102167}Oh, God Carl!
-{102169}{102232}Thank God. Unchain me.
-{102280}{102320}Where'd you get that lollipop?
-{102320}{102395}Bring it on! Come on! Take this!|And some of that with you!
-{102515}{102577}Can you hold on a sec?|Hold on, hold on, hold on...
-{102579}{102627}What is it, Steve?
-{102627}{102687}Did you need anything else|from me today?
-{102711}{102764}'Cause my wife wants me home|at six and...
-{102764}{102810}Go ahead and punch out.
-{102833}{102879}No, not that one.
-{102963}{103016}Yes.|That one.
-{103198}{103267}OK everybody, have a good one.
-{103718}{103785}God, I love that!
-{103824}{103888}So you created the Insanoflex!
-{103912}{103994}So you could build someone else up|and use their muscles.
-{103994}{104023}Yeah.
-{104025}{104056}Keep going.
-{104059}{104097}I don't know.
-{104099}{104159}- To fight me?|- Yes!
-{104613}{104672}Yes, that's exactly why!
-{104831}{104864}But... but why?
-{104867}{104927}Because I hate you, Daddy!
-{104927}{104996}No, don't you pull|this reverse psychology crap with me!
-{104999}{105056}<i>- It was you who created me!|- No!</i>
-{105056}{105138}<i>It was you who created me!</i>
-{105171}{105262}- Do you remember this?|- That's Little Death Bear.
-{105262}{105337}- How do I know that?|- But you said I couldn't have it!
-{105337}{105401}Because you said|I would lose a hand!
-{105401}{105483}Yeah, man, I mean, look at it,|it's covered with razor blades!
-{105485}{105560}- Well, now I have it.|- Can I have it?
-{105612}{105648}God, now I remember!
-{105648}{105737}- You wanted that thing for Christmas!|- Yes. And instead...
-{105739}{105814}you gave me this.|A Baby Wets All Night!
-{105838}{105893}And it screwed me up forever!
-{105893}{106013}- But, that's not how I remember it.|- How do you remember it, Daddy?
-{106015}{106099}- With star wipes?|- Yeah, a lot of star wipes.
-{106099}{106166}<i>And Phil Collins|is constantly In The Alr Tonlght.</i>
-{106169}{106236}<i>...Tonlght.|I love that song, but why?</i>
-{106236}{106286}- Behold!|- Wait a minute! Wait a minute!
-{106288}{106344}What are you doing back there?
-{106363}{106440}A VHS that you had produced!
-{106440}{106480}No, that's impossible!
-{106483}{106533}You've got a VCR|in the back of your head?!
-{106535}{106595}It's like David Cronenberg|all up in here.
-{106595}{106662}It's all coming together now,|don't you see?
-{106662}{106744}<i>You created hlm|with a piece of your brain!</i>
-{106744}{106792}And he was your only son.
-{106794}{106873}But it didn't come out right,|because you were a bad father.
-{106876}{106953}So you altered your memories|to take away the pain.
-{106955}{107017}Because you thought...|You know, Chicken Bittle?
-{107017}{107092}You remember him?|His death was your fault!
-{107092}{107144}So you wiped your mind clean...
-{107147}{107240}threw away your old identity,|and started a new life...
-{107240}{107286}in obscurity.
-{107288}{107329}No, that's not how it happened.
-{107331}{107394}This is a VHS, he's a VCR...
-{107394}{107427}and he lives with us.
-{107427}{107528}Daddy, you've grown|into a beautiful young woman.
-{107528}{107586}Yeah, thanks.|Let's keep that on the down low.
-{107586}{107662}- What did I tell you?!|- I don't believe it. Come on!
-{107665}{107722}Pay up! Five bucks. Come on!
-{107746}{107811}- But how did?|- Trapped in a man's body.
-{107811}{107900}- But you was...|- I'm a lesbian.
-{107900}{107962}- Yeah, but still, I mean...|- On Oprah.
-{108017}{108094}- Yeah, but the...|- Plastic novelty vagina.
-{108147}{108262}- Well, that... explains a lot.|- But one question still remains.
-{108262}{108317}<i>- We created all of you!|- Mutants!</i>
-{108317}{108391}And the world|you pathetically pretend to live in.
-{108391}{108437}Now, bring us your beer!
-{108458}{108537}- Your remote needs batteries.|- The TV sucks, man.
-{108540}{108607}- And now it needs fixing.|- Children, please.
-{108633}{108679}Stop all this bickering!
-{108679}{108736}That's that watermelon|I was telling you about.
-{108739}{108816}And that was another lie.|And you're going to hell!
-{108816}{108897}Feel the sweet embrace|of Satan's hoof against your face!
-{108899}{108923}Shake!
-{108983}{109007}Meatwad?
-{109046}{109091}Buddy?
-{109094}{109132}Are you OK?
-{109161}{109190}Stand aside!
-{109192}{109245}- What... what happened?|- Neil!
-{109245}{109307}Play the drum solo of life!
-{109909}{109964}Yeah, yeah! Rock! Rock out!
-{110221}{110259}Forget it. I don't want it.
-{110755}{110822}Hey y'all, I live!
-{110822}{110889}- Who are you?|- I am Walter Melon.
-{110921}{110985}- This is my accomplice Neil.|- How's it going?
-{110988}{111043}- Hi.|- Hello.
-{111045}{111124}And this puddle over here|used to be Steve.
-{111124}{111158}The drum solo of life!
-{111199}{111247}No, no, that's OK.
-{111347}{111439}- What are you doin' here?|- Well, I only...
-{111439}{111470}created all of you!
-{111522}{111566}I also created the Insanoflex...
-{111566}{111633}and produced|three top-selling exercise videos.
-{111635}{111690}Then I lost my job.|That sucked.
-{111690}{111750}They said I spent too|much time editing my videos...
-{111750}{111808}and not enough time|breaking down egg crates...
-{111808}{111880}which is what I should be doing now|had I not been fired.
-{111880}{111952}You two were to destroy|each other today...
-{111952}{112084}so I would inherit your real estate|to build the ultimate franchise.
-{112086}{112127}The Insano-Gym!
-{112175}{112239}- But we rent.|- So do I.
-{112242}{112321}- Man, we live at the Y.|- Till we get some things going.
-{112323}{112393}- They won't let us use the pool, man.|- Yes. They won't.
-{112393}{112419}Are you serious?
-{112419}{112494}Yeah man!|They said we pee in the pool. 'Cause I do!
-{112496}{112532}- And I as well.|- Yes!
-{112532}{112601}Digital gold cascades|from our square bladders.
-{112601}{112652}No, about the renting.|You all rent?
-{112652}{112709}- Oh, yes.|- Yes sir. Very much so.
-{112712}{112774}- At the Y.|- But the Insano-Gym!
-{112774}{112839}You couldn't put a gym|in a residential neighborhood.
-{112839}{112884}It's not even zoned for commercial use.
-{112887}{112944}You'd probably have to go|through the city, or something.
-{112944}{113059}Yeah. Well. I guess this|kinda foils your stupid plan.
-{113107}{113172}- Papa?|- Well, yeah! Kinda!
-{113174}{113225}Damn it!|I'm telling your mother.
-{113225}{113275}- Mother?|- Neil, come on!
-{113304}{113359}Wait, wait!|We have a mother?
-{113361}{113414}Yes, Frylock, I am your mother.
-{113489}{113570}And I am a nine-layer bean burrito.
-{113620}{113654}That's neat.
-{113755}{113846}# It's the end of the movie,|and it's getting late #
-{113846}{113910}# I know that you didn't|come here with a date #
-{113910}{113999}# You'll probably go home|and masturbate #
-{113999}{114050}# You're pathetic and lonely #
-{114052}{114131}# And you can't afford|high definition television #
-{114131}{114174}# 'Cause your job|doesn't pay enough #
-{122966}{122993}Time for bed, honey.
-{123018}{123143}Odwiedü www.NAPiSY.info
+# It's a groovy time for a movie time #
+# So grab your gal, and grab a seat #
+# But don't forget|to get something to eat #
+# Delicious meat,|a nutritious meat #
+# You can't beat my meat|for a special treat! #
+# Sucking on me is really neat! #
+# Don't be a jerk, and don't be a fool #
+# Be a good neighbor|and follow these rules #
+# What are these rules? #
+# Remember to keep|your shoes on at all times #
+# Don't pull your penis out,|unless you really need to #
+# Indecent exposure|is a Class 2 felony #
+Come on! Come on, baby!
+Dammit!
+I can't hold him for much longer!
+You wanna know what the problem is?|The problem is it ain't starting.
+Yeah, because of something you just did!
+I just been sitting in it!
+Your butt made it not start. Thanks!
+See if the radio works.
+I'm not listening to Egypt's Only Country.|Are you nuts?
+I listen to The Sand,|Cairo's home for classic rock!
+Will you guys get out of here?|I can't hold him for much...
+Let's let a real man handle this!
+- This thing ain't got no engine.|- Hello?
+You need to check the air-tires?
+That's where the power is generated!
+And that was the problem, wasn't it?
+No. While you was fighting|that thing-dog, I...
+I called a tow truck.
+None of that shit ever happened|and you know it!
+- Frylock! You're alive!|- Not quite.
+Allow me to explain.
+With Frylock in my arms,|I stumbled upon a witch doctor.
+Yo, what up, G?
+Who was able to provide us|with food, shelter...
+and some kick-ass video games.
+Yeah, you get pumping.|That's how you pump!
+Come on, come on!
+Get there!
+Come on!
+- Yes!|- Glory! Glory!
+- That's how you do it!|- The plantation is safe!
+Beatdown city, man!
+- The slaves are yours!|- The South rises again!
+You gotta watch out|for my musket skills, baby!
+You are great at that game.|Your friend is terrible, though.
+Yeah, he sucks.
+He's dead!
+You know, I don't advertise this|but I can bring him back to life.
+- It's something I do, but it's up to you.|- I'll bet you can't.
+Yeah? How much you wanna bet, bro?
+And so a bet was made.|And you know I totally would've won...
+had the friggin CIA not busted in.
+We know you're in there Lincoln!|We've got the place surrounded!
+To the new Beetle convertible!
+Alright, everybody freeze!
+Don't move!
+We know you're invisible.
+- Crank up some jams!|- I do the radio.
+I need me some Sand! K-Sand!
+Yeah!
+Take a break! Biggie time.
+Just because we fought|one invisible criminal...
+doesn't mean everybody's invisible.
+I understand that, but it does mean|that some of them could be invisible...
+and I think|they're all invisible in this room.
+I don't know|where you get your ideas, T.J.
+Hurry!|This rocket should take you as far as...
+Come on!
+I was saying, this rocket|should take you as far as Pluto.
+- What about Frylock?|- He should wake up at any moment.
+But I must warn you...
+from now on|he will be extraordinarily dumb.
+- Be gone ye!|- OK, but first let's all get picture together.
+- Lincoln, you the tallest...|- Everybody freeze.
+Go, God damn it! Go!
+We know you're invisible, so don't move!
+- No one will catch Time Lincoln!|- Shoot before he transports!
+No one, ever!
+Oh, great.|You just had to shoot, didn't you?
+- Way to change the future.|- What do you mean?
+Pull, whitey, pull!
+And so Frylock is with us,|in a manner of speaking...
+but he would never recover his smartness.
+And that's why|I have to cut up his food for him.
+Frylock, is all this true?|Is that where we come from?
+He doesn't understand your talking.|You must draw him pictures.
+But you should use bright colors. That's|the only way you can catch his eyes.
+The truth is, Meatwad,|I don't know where we came from.
+But I do know how we're gonna die.
+Aqua Teen!
+# My name is #
+# Shake Zula,|the mic rula, the old schoola #
+# You wanna trip, I'll bring it to ya! #
+# Frylock and I'm on top,|rock you like a cop #
+# Meatwad you're up next|with your knock-knock #
+# Meatwad make the money see #
+# Meatwad get the honeys, G#
+# Drivin' in my car,|livin' like a star #
+# Ice on my fingers and my toes|and I'm a Taurus #
+# 'Cause we are the Aqua Teens #
+# Make the homies say ho|and the girlies wanna scream! #
+# 'Cause we are the Aqua Teens #
+# Make the homies say ho|and the girlies wanna scream! #
+# Can't stop, won't stop|doin' that thang #
+# Swingin' that swang bang|bangin' with the gang #
+# Lookin' at my Gucci,|lookin' for the coochie #
+# Yeah, I just trying to get some coochie! #
+# 'Cause we are the Aqua Teens #
+# Make the homies say ho|and the girlies wanna scream! #
+# 'Cause we are the Aqua Teens #
+# Make the homies say ho|and the girlies wanna scream! #
+# Aqua Teen is number one #
+# Aqua Teen is number one! Yeah! #
+My father built this castle.
+He said that Weirds would live here|for a thousand years...
+and now it's being turned|into fucking lofts!
+Well, you could still stay here.|I mean, you could buy a unit...
+- These look pretty cool.|- Look at this unit!
+Can you... help him move out?
+Inside out?
+You know what?
+I'm just gonna let you have this one.|You can have it.
+- For free.|- But we wanna pay!
+Check one, two. Check.
+Check, check, check.|One, two, buckle my shoe.
+Three-four, shut the door, check, check.
+- Checking the mic.|- It's checked.
+Checkin' the mic, check.|Checkin' the mic, check.
+Check, check, check, checking the mic.
+Mic check, checking the mic, mic check.
+- It's checked!|- Check.
+- Sibilance. Sibilance. Sibilance.|- It's checked already! It's checked!
+It is? OK, good.|And we got all these in tune, right?
+- Tell me these are in tune.|- Yeah.
+- They're dolls.|- Shoot.
+Are they in tune?
+- What's all this to do?|- This is Meatwad's concert tour.
+- Girl Quest 2005.|- Read the t-shirt, fool.
+- There's gonna be girls here?|- Yep. I advertised.
+What the fuck?!
+See, women love kitty cats.
+That's why we gonna fire 'em out|of these high-powered plasma cannons.
+Meatwad, you need to go on.
+The sooner you go on,|the sooner everyone can go home.
+Good evening, New Jersey!
+How's the air conditioning out there?
+Well, let's see|if we can turn the heat up!
+What the?|Who's throwing potatoes up here?!
+I'll shut this show down!
+- Alright Meatwad, we are done!|- Wait, hang on, we're gonna do this.
+Fire!
+Dang it.
+- I guess I didn't pack 'em right.|- Fools!
+Like being at the Vietnamese Butcher!
+Neil?
+Neil?
+- Cut it out, Neil!|- Sorry, Walter.
+It's Mr. Melon to you! You...
+...fool!|- Fuck it!
+I can't work under these conditions!
+I want a diet water and|I want my mommy right now!
+Meatwad, women don't need to be wooed...
+with an electric guitar by a meatball.
+What women want are these.
+Pythons.|Check it out.
+Go ahead, touch it. Quick.
+- Who farted?|- Shake.
+Not all women are into muscles.
+Well, the beautiful ones are.|The ones in Miami.
+Come on.|All women are beautiful, on the inside.
+I know that, yeah,|I've been inside of them.
+Their homes. That's where I|go when they leave for work.
+I get to know 'em before I meet 'em...
+and then I wait for them outside,|behind a bush.
+- That what gets me off.|- Gets you off what?
+The... the chain.|Off the chain.
+Follow me and learn!|Sex ed has begun.
+Now this square is the...
+...man.|- OK.
+- This circle here, that's the uterus.|- That's what it looks like?
+Up close, yes.|This is lifelike drawing of the uterus.
+See the guy takes the car after his job...
+to pick up the uterus at her house.
+Because she doesn't work|unless she's sweeping up something.
+And where do they go?
+All the way... to a hotel...
+which definitely has cable.
+And that's where|this trapezoid becomes...
+shall we say... entangled,
+with the exposed|and aerated crotches.
+And that there|is the exposed crotches?
+I told you|that's the chair and the spatula.
+- I knew it.|- Congratulate yourself, my friend.
+You have just been laid.
+- That feels good.|- Yeah, I never tire of it.
+You think that women are attracted to me?
+Well, I think they pity you.|Because you're overweight.
+I mean, a lot of it has to do|with having a good body.
+Well, you ain't got no good body!
+I have a great body,|and I get it by doing reps.
+No way. You got a machine?!
+I don't have a machine.
+I have the machine!
+Behold.|The machine!
+The Insanoflex!
+Behold, my Elvis costume!|I ain't seen that since Halloween.
+Let me tell you about the system.
+Rumor has it...
+it was brought back|from a more advanced time...
+the time, of course, of Tlmecop...
+to train my buns!
+Show me how to get some pythons|like Chief Wahoo McDaniel.
+No no, you can't just hop into this,|you'll hurt yourself.
+Start stretching out by helping me drag it|in front of the TV, OK? Let's go.
+And, one!
+Push, keep pushing!
+Keep pushing!
+Ain't that the reason|you exercise in the first place?
+- So you could move something like this?|- No!
+- That is not the reason.|- Alright. What's the reason?
+Poontang.|Poontang is the grubby little middleman...
+you must go through|to get the girls.
+It's not even assembled right.|Look at this.
+That's... that's... Yeah...
+so you can do it on a plane,|business trips.
+Look at this. One, two...
+- OK, and where are the directions?|- I know, I don't know!
+You know, the internet|is a popular source of information.
+And the internet is also a popular way...
+to play some of my favorite games, like...
+Crystal Meth, Nightmare Killing Spree...
+and Clamdigger - Head To Head.
+- Here I go.|- Don't you touch my computer!
+Oh my God.
+There must be fifty bras on this page!
+- I gotta get on that!|- No! No, no, no!
+Somebody's been bra-shopping in here!
+- Let me see! Come on!|- Do you mind?
+- Damn!|- You will bookmark that.
+- You've never seen a bra before?|- Not with the boob meat inside of it!
+OK. Search for Insanoflex.
+Oh my God! Again.
+- Oh my God.|- Oh my God.
+These directions are written|in some sort of rare, robot dialect.
+- Oh my God.|- Please, translate.
+- Well, I speak robot.|- This is odd.
+- It's almost as if...|- I speak robot.
+I heard you.|I'm sorry, continue with your translation.
+It's as if someone|didn't want us to put this together.
+- And yet they sold it to us.|- I speak robotanese.
+Danger.|Deadly death danger.
+Beware.|You must never, ever, ever, ever...
+ever, ever, ever...
+ever, ever, ever,|ever assemble the Insanoflex!
+Need help assembling?|Because we said not to?
+So is there a number you can translate?|Can you at least do that?
+Yeah, there is.
+7438445...
+Don't do it. Enjoy.
+Man, the phone's ringing.
+Yes, I can see that,|these work, you know!
+Do not touch the phone!
+- What the...|- Intruder!
+I am the Cybernetic Ghost|of Christmas Past.
+Do you have a... a quick second?
+- Sure.|- Thousands of years ago into the future...
+your race will develop|the ultimate exercise machine...
+that has irresistible force|and immovable object...
+with over 90 exercises|and an infinite amount of weight...
+and plus it has a rowing machine|for cardiovascular workout...
+and a clicker that allows you|to keep track of your reps.
+Every time you do a rep it clicks "One".
+The button is big and red...
+a color which no longer exists in your time.
+Cool dude!|How do I order?
+You fool! Don't you understand?|You built it!
+If this machine falls into the wrong abs...
+the world as you know it will become|a world as you've never imagined it...
+starring Chow Yun-Fat.
+What are you saying?
+Because I don't even know|what you're talking about anymore.
+Are you saying|that someone could become so buff...
+that he could score like,|all the world's ass...
+and thus creating|massive global inbreeding...
+ultimately bring population|growth to a standstill?
+No!
+Well I wasn't thinking that,|but that could happen.
+Dude, I totally want one!
+Sorry.
+- I still want one.|- Oh, sure.
+You'll set it up,|but it will take you over a week...
+and you'll keep telling yourself|"I should hop on that and use it"...
+because these slacks no longer fit right.
+You have got to answer|that fucking phone.
+- It's driving me nuts!|- Let the machine get it.
+- Hello?|- Hello?
+Hey man, how's it going?
+- Pretty good.|- I pull your leg out!
+Oh, dammit!
+We need a new machine.
+So, how do you even know all this?
+Fortunately for humanity,|I traveled forward into the Bahamas...
+but also back in time, to steal this!
+- That's a screw.|- No.
+It is part XJ32...
+which is to fasten the|Pectomizer to the Ab-Eraser...
+to the thing!
+Without this one piece, the Insanoflex...
+would fall apart.
+Watch this.
+She loves it.
+So, that thing is basically a screw.
+Yes, it screws into things.
+So can't they just go|buy a screw or something?
+Shit.
+I mean, I'd probably|just shove a pencil in the screw hole.
+I just shoved a pencil in the screw hole.
+It better not be mine.|My algebra homework is due tomorrow.
+Gonna work out on this thing or not?
+I'll work out on your face.
+Bring me the vegetable oil.|I think I'm gonna pose right here.
+Show you boys how it's done!
+Women drop to their knees|when they see the shape of my fingers.
+They're like beautiful|little muscular hot dogs.
+Look at these guns!
+I just pooped a little bit.
+- Meatwad, hit the switch.|- OK.
+- Is it on?|- Hit it again.
+Can't get good help these days.
+- Jiggle it.|- Do exactly what he told you!
+It's just one switch! I'm doing it.
+Well that's it. You see this M?
+It probably stands for motherboard,|and evidently we're missing it.
+It stands for Meatwad.|And that's me, y'all.
+It stands for mar...
+for mar... morphin...
+I will come up with something.|And it will sting like the bee!
+Wait a minute.|Is that the box it came in?
+No. What am I, on trial here?
+- Where did you get this?|- I got it from a dear friend...
+who knows my needs.
+And he also happens|to wear bitchin' ass pants!
+You see, they're made|of a fiber optic technology...
+that hug the flesh on my unique shape.
+They circulate air|around my genitals...
+and they wick the sweat|off my balls.
+You wanna know more about my pants,|I got some literature here...
+That's alright. I just need to know|where you got that Insanoflex?
+Some garage sale. Back when I,|you know, gave a crap about my body.
+Then of course some|jack off friggin' ripped it off.
+Will you speed it up?|What is the hold-up back there?
+Well, Shake says|you gave it to him for Christmas.
+Is that where it is?
+Yeah, I thought Santa Claus came in here,|and busted out my window.
+Look, I know it's yours...
+but we're missing a key part|that makes it work.
+Well, boo hoo, for you.|So go cry in the street off my property.
+Well, what we were thinking|is that if we could just...
+...go inside your house and look around.|- See, I'd love to do that, but no.
+You're not coming in here.
+Can you tell me who you bought it from, and|I can go ask that guy if he still has it?
+- Here's the address. Right here on the box.|- What the he...?
+Why are we stopping|when my foot is clearly still on the gas?
+South Jersey Shore.|I know where that is.
+Alright, hop in. Warp speed. Go!
+We overshot that.
+We went all around the earth|and back to where we started.
+It's pretty amazing isn't it?
+- OK, impulse power!|- Let's take the cart.
+- Wait, wait, wait, stop! Stop!|- What? What is it?
+Must've just been the wind.
+There it is. In all its beauty.
+Oh man. The door's locked.
+Hand me a credit card.
+Dude, you can't pick the lock,|man, I know you.
+I know, I want to order some DVDs online.
+This has been a complete intelligence|failure of massive proportions!
+Will you see if they have|Deathdream by Bob Clark?
+- Did he not do Porky's?|- He did do Porky's.
+He also did A Chrlstmas Story,|which makes me laugh and laugh.
+Dude, they got a key.
+It's right there under the...
+Well, it's hanging|on that nail by the door.
+- We were never here.|- You never saw us.
+I told you dude, we needed the Machine!
+- How many times did I say that?|- Zero. You said it none times.
+- What?|- Hey, sweaty man.
+- Could you help us lift something?|- No, I don't think so.
+- Damn it!|- Rude!
+What difference does it make?|The friggin thing don't work!
+- They're missing a piece.|- Where is it?
+That's right, fat man.|I will totally ruin your bushes.
+Please don't do that.|It's about to bloom!
+I've been urinating it twice a day!
+I forgot it did this.
+Now tell me fat man, and make it quick...
+what was I going to ask you?
+Check it out. I mean, here's the box for it.
+And here's the address.
+Come on, let's go!|Everybody inside the race car!
+Wait for me!
+- Thrusters on!|- Go!
+- Is your seat belt properly fastened?|- Yeah.
+Dude, why don't we just take our ship?|It's probably faster.
+Yes, to the ship!|It was my idea.
+Goodbye fat man.
+You can suck it!
+- Steve, heat the oil!|- OK.
+And now...
+shoestring the giant potato!
+The oil is ready!
+Lower the box!
+No!
+- No!|- I know!
+He's been trying to kill us|for the last three miles.
+Listen up, there is|no right on red in this State!
+It's left, goddamn you!
+Do you even know the difference?
+Here we are.
+Obviously this is the kitchen.
+All modern appliances, brushed metal.|All brand new.
+What's this do?|Hey, what's that do?
+Don't you ever touch people's stuff!|What kind of manners do you have?
+You know I touch the stuff first.
+And if you look over here...
+- What is this, a creature in here?|- Yes, that.
+That's a creaturezoid!|There are only two in the known universe!
+Taunt it and it will eat your skin!
+This is my... wife.
+OK, well, I guess we're gonna go on|and get on out your hair, here.
+Out of curiosity, you don't happen to have|a missing piece to an exercise machine...
+Nope! Can't help you there. Sorry.
+Come on and get me. What's the matter?
+Too faggoty to come and get me?
+Come on, Shake!
+- I'm so sick of pussies.|- Drag me out of here, come on!
+- I am a master of disguise!|- Yeah.
+Well, they were here, looking for the part.
+No one must ever|put together the Insanoflex!
+- Well, he doesn't have it.|- We'll just wait...
+Thousands of years ago|I told you he didn't have it.
+Why are we beating|our brains out about this?
+I mean, come on, dudes!
+We'll just wait until we create it,|and then like, we'll have it!
+Well, alright.
+Man, nobody's gonna take|these voice oscillators back.
+- Well, I will try anyway.|- I think I even swallowed the tag.
+- Do you have the receipt?|- I prefer to keep mine in my butt.
+Oh no! Someone's coming!|Put on your costumes.
+Oh, shelsse!
+Everybody, make out and kiss hard!|Like you mean it!
+Get a room!
+Did you hear me say, "Get a room?"|I told them to get a room.
+They were like making out|then we walked by and I went...
+"Get a room!"|That's pretty good, right?
+OK, they're gone.
+- That was very close.|- Yeah. We were.
+Very close.
+You know, you're a good kisser.
+OK, they're gone, OK?
+I'll handle this.
+Yes, can I help you?
+Yeah, we're here|with the Boys Club and...
+We're here to throw down!
+Four eyes!|I need those combinations!
+- What are you talking about?|- You know, like missile codes right away!
+Shake! Shake!
+There won't be a tomorrow, Jack.|Let alone your little grandma...
+- OK, I give! I give!|- You're going down, milkshake!
+I give up!|I'm not even fighting you back!
+All you had to do was ask!
+- Missile codes? We don't need these!|- Well, I need them.
+We are a go for operation|Banana Monkey...
+029 Yankee Hotel Foxtrot.
+Launch pad one, launch pad two,|launch pad three.
+We have ignition.
+I am just... I am smelling a missile.
+Nah, there's no way!
+Greetings, I'm Space...
+Shut up, honey. It's just fire.
+Say, you wouldn't happen to have a...
+I already told you, we don't|have that part you're looking for!
+What do you mean you already told us?
+Well yeah, just a few minutes ago,|when you were here.
+The thing for the exercise equipment,|we don't have it.
+Sir, you must turn your key,|we are at Defcon 3.
+Turn your key, sir.
+Who's that?
+- That's my wife.|- OK, look.
+If you see anything that looks like this,|let us know.
+- Wait a second. Can we have this?|- Meatwad, let me see that.
+My God, this is the missing piece!
+- Knock-knock!|- Welcome home, baby.
+I say this to all of your things.|For this is a robbery.
+- Nobody move!|- Yeah, we'll see you guys later.
+Stop moving!
+- They're gone, man.|- Yes, Err.
+We scared them off|with our fierce ferocity.
+Do what he says|and say what he does, and...
+look at this!
+- This is ours!|- That is correct.
+What is it? No time for an answer!|Tractor beam on!
+Observe as I steal it!
+Do not waste your pathetic mortal energy|trying to stop us...
+unless you want to amuse us,|which is what you're doing.
+You can't stop us, you can't touch us!
+We're untouchable, unstoppable,|unflappable, unmotivated...
+What is that, Err?
+- This is an ashtray!|- What the f...?
+- I like to smoke.|- Tractor beam off!
+- An ashtray? Come on, man.|- What's wrong with an ashtray?
+Err, if you want to achieve in this life...
+you need to set your goals higher.
+- I'm already pretty high!|- And so am I.
+- So grab the other end of this...|- Yes!
+...as we commit first degree|Grand Theft Coffee Table!
+- Tractor beam on!|- We are stealing!
+We control your home furnishings!
+And we will be back|when you least expect it.
+We will!
+For the end table,|the ottoman, and the wine rack.
+See if we don't!
+- But we don't have room right now.|- We are renting at the Y!
+- What's wrong with your chicken?|- That's a gay chicken.
+The piece is missing!
+- Oh, no!|- Oh, yes, Steve!
+Randy!|Turn your fucking stereo down!
+Did you see|that chicken guy running around?
+- That guy was weird.|- Yeah. Really weird.
+There was something|about that chicken.
+Something that reminded me|of another weird person I used to know.
+Yeah, it was many years ago.
+We were colleagues once,|we were very close.
+I was just starting in my scientific|career and he was already...
+OK, all right, you went to camp,|you made out with a girl, Vietnam, what?
+What?! I've got stories too,|I've been places, I have friends.
+But right now I need to get physical.|And listening ain't doing it for me.
+All right, give me the damn piece.|Let's see if it fits.
+It looks like they have the piece.
+Then they must have the piece.
+- That's what I just said.|- Shush, Emory! The robot is right.
+Someone must distract them, while I|go in there and beat it out of them!
+- Now who's had that fantasy?|- I got an idea.
+Why don't we just send wingnut over here|to freakin' bore them to death.
+I have a thousand weapons|of mass distraction.
+Which one shall you require?
+What about the student council story?
+- That one's a corker.|- Oh, yes.
+The student council story.|That is one of my very favorites.
+Thousands of years ago|I ran for treasurer of student council...
+it involved a lot of hard work...
+we decorated many cookies...
+we spent all night|putting up cream frosting.
+And then we drew on many posters.
+But the principal called me|down to her office...
+and informed me|that I had violated election rules.
+Thousands of years ago I kicked your ass.|And I'm gonna do it again right now.
+That's what Sister Margaret|kept telling me...
+as I explained my political agenda|in her bathroom.
+Where are my frickin' pants?!
+You can't hide 'em, I see 'em!
+I see 'em!
+Carl!
+I wanna share with you...
+by letting you jump on in here|and take the other leg.
+- No, thank you. Save it for the tea party.|- Come on.
+Our balls will wick together as one!
+That's my workout machine, isn't it?
+Yeah, we found that missing piece, Carl.
+I don't want to tell you what to do, but...
+you're putting it in upside down.
+Will you back up? I know what I'm doing.
+Well fine, do it your wrong way.
+- All right, here we go.|- There you go.
+- Finally!|- Excuse you?
+Set it to maximum!|I'll have to start maxing out right here.
+No, I bought it, I get first crack at it!
+- I'm doing it.|- I'm the one who just put it together!
+- I'm the muscle one!|- Shake, will you let Carl go first?
+- I mean, he does own the damn thing!|- You're right, Frylock.
+I will be the bigger man,|and let the baby have his way.
+Turn it on now! Get a mirror!|Hurry! Someone spot me!
+Get your ass out of there!
+All right.
+All right, put it on warm-up mode.
+I want to work into this very slowly|before I completely dominate it, OK?
+Look at this whole routine,|this is pretty sweet there.
+What the hell?!
+What's going on here?
+Am I exercising, or?
+Seriously,|what is going on behind me here?
+Crap, crap, crap, crap!
+What the fuck is going on|with this thing?!
+Man! I'm glad he went first.
+- I told you it mustn't be installed!|- No you didn't!
+- I didn't?|- No, you didn't.
+I meant to!
+Make it stop, I'm already sore here!
+- Oh, shelsse!|- Dude, just stay down.
+The re... the res... the reasoning...
+The resoning must begin at once!
+Neil!
+Contact the county!
+Hang on, wait. What are we doing?
+Do I have to explain|everythlng to you, Neil?
+Hey, y'all!
+They got a big ol'|floating watermelon over here!
+Reverse thrusters!
+Just a couple more reps man, let's go!
+No pain, no gain! Come on!
+I wanna see you go for it! You got it!
+You don't wanna|look like that forever, do you?
+- Crap! It's heading downtown.|- What, the watermelon?
+No, not the watermelon!
+There's only one way to stop it.
+You must push...
+the stop switch.
+It doesn't have a stop switch!
+Well...
+I...
+Then there's no way to stop it!
+- What the f...? You don't know!|- Is that clock right?
+- My goodness, is it that time already?|- Man, it has been a day!
+I tell you what, I mean...
+I been going non-stop|since like noon, or something.
+I got to go, I got to go to bed.
+- Shake.|- And you got school tomorrow too!
+- No I don't.|- Yes you do, and you will now go to bed.
+Shake, don't you get it?
+Why don't you get this|with your lips!
+I'm referring to my anus.
+Carl's gonna be destroyed,|along with all the rest of downtown!
+If we help you,|can we get the machine?
+Or can we go to the?
+- Or what!?|- I don't know!
+You don't have to yell at me like that!
+Look.
+We need a plan.
+I have a plan.
+Alright, you see|that roller coaster over there?
+It's the Steel Python,|and in order to ride it...
+we must each purchase tickets...
+at $3 a pop...
+with your money...
+in order to ride it.
+And that there's the plan.
+What about the Insanoflex?
+Insan...|No, that thing's gone, brother.
+And pretty soon,|the world as we know it will be gone.
+That's why you gotta you squeeze as much|out of the time you got left on this earth.
+And squeeze it for fun.
+He's right.
+- Will you two cut it out?!|- Word up, bitch.
+Eat that, motherfuckers!
+- Now here's dessert!|- What the hell are you doing here?!
+That sort of snippy attitude|does not require an answer.
+He's right.|You wanna buy a coffee table, man?
+Notice the fine lacquered oak.
+Four legs!|Top, bottom, underneath, sides.
+It would complement|the inside of your anus beautifully.
+- Get it, man?|- Do you get the double entendre?
+- Up your butt!|- Do you know what an anus is?
+Up your butt! Sideways!
+Look, we just really|want to ride this coaster, so...
+you know, be cool and...|give us all your money.
+Total destruction|and devastation is imminent.
+And it takes a long time.
+About an hour,|hour and a half from now.
+- Or two!|- And it will suck.
+Wait, stop moving!
+Is it just me, man, or is that thing|coming right towards us?
+- Yeah, look at it.|- Man, I gotta get out of here.
+- Run.|- It's coming right towards us!
+I'm sorry, this plan is moronic!
+The Insanoflex|is ripping up my home town.
+And you're sitting here|not even tall enough to ride!
+Now we have to fund your operation!
+Come on gang.|Let's all do a topless car wash!
+I'm tall enough to ride now.
+Meatwad!|I didn't know you could do that.
+Ain't no one ever asked me.|You want you some office space?
+How 'bout tech support?
+Wait a minute, this gives me an idea!
+Is it the same idea I had?|About riding that there roller coaster?
+I hope so.
+Pre... tty bad... ass!
+I like the missiles, that works.|You need to mess up the hair more.
+- I just combed it.|- Look more like a monster.
+I like parting it to the side|but giving it a messy look.
+Like he's a preppy|but he'll throw down with you.
+Lose the shorts, though.|This ain't no Pride Parade, it's a fight.
+Well, how about this?|See? Blue jean shorts.
+- Cutoffs.|- OK, fine, that'll work.
+Now Oglethorpe and Emory,|I want you two to...
+Where'd the Plutonians go?
+Hold your hands up this time.
+That is a direct order|from Commander Fun.
+Hold on, hold on!
+Oh God!
+Alright, Shake.|The Meat Monster is set up.
+You need to lure that thing down|this alley, so Meatwad can attack him.
+- Shake?|- I ain't doing that. No.
+- No, no. Hell no.|- Stay right there!
+What are you do...? You must|lure that thing into the Meat Monster!
+Well, what the hell|do you think I'm doing here? My nails?
+- I may?|- Fine!
+- I'll get Robot Man here to do it.|- I don't want to do it.
+My hands are tied at this point.
+I kind of also got|a teeth whitening package.
+So, you know...
+don't stay up.
+Meet us out there as soon as you're done.
+- Oh, crap!|- OK, just close the door, please?
+Alright, Carl!|Looking good!
+What are you... Wha...
+See you later!
+What the hell are you doing?|You were supposed to attack him!
+With your fangs! And then|blow him up with the meat missiles!
+- I forgot.|- It's too late now.
+I've been to the future and it's his destiny.
+- Thelr destiny.|- Wait a second.
+What do you mean by thelr destiny?
+Frylock, look at this!
+Oh, my God!
+Do you know what this means?
+It's just as I suspected.
+I'm female.
+- It's... it's female.|- You're what?
+I mean, the Insanoflex is a female.
+And it's pregnant.
+Wait, go back to the other part.
+Where you were saying|you were a woman?
+He's right.
+Thousands of years ago into the future...
+descendants of the original Insanoflex|will roam the earth...
+exercising alternating muscles|on alternating days...
+until the human race|has cut carbohydrates...
+out of their diet forever.
+And everything will be crushed...
+in the Yeast Uprising of 1987.
+You said you're a woman!
+- Well, I'm not. Look, Shake...|- Don't touch me.
+Will someone just grab|the other end of that egg, please?
+Well with my teeth the way they are...
+I'm kind of not supposed|to chew anything for like four hours.
+Pick this egg up now!
+But my teeth have just been whitened!
+These teeth here,|they make for a pretty good stool.
+- You know you're sittin' on my teeth?|- I need to get eye level with the TV.
+- I see that.|- And then I need to wear these teeth.
+In my mouth.|When I go on dates.
+With women of the opposite sex.
+They're not clothes, you know.|They're part of my body!
+Get your ass off my teeth!
+Look at this.|This is unbelievable!
+I know it! My tan fell off.
+$49, straight down the crapper!
+With this Ultra X-Ray,|I should be able to look inside...
+Why don't you just break it open,|like this. With my Ultra Foot.
+OK, once I get the Ultra X-Ray|completely calibrated...
+I should be able to configure...
+See? I get shit done.
+- Damn, that's a good beat!|- Yeah, Meatwad, it is.
+Almost too good.
+- What is this music?|- Well, it's from my exercise video.
+Lose Welghtl Evlsceratel|Volume 2- Sea Of Blood, Island Of Death.
+I think I want to see that video.
+You'd better run, boy!
+Run those pounds off.
+See, this is an exercise program|designed to keep you working out.
+You know,|24 hours a day for 30 days...
+until, you know, forever.
+Yeah, but...
+You're guaranteed|to lose weight that way.
+- What the?|- Or that way.
+The way where he blows|your head off with a laser.
+- Who blows your head off with a laser?!|- Him, right there.
+That's the Insanoflex.
+That sucker's crazy.
+- We got one of them, don't we?|- Yeah!
+Remember? You were supposed|to wrap yourself around him?!
+Well I'll be.|Where has my head been?
+Has any of these people|ever stopped the Insanoflex?
+No. It can't be stopped,|once it gets going with that music!
+See, that's what fuels its insane rage.
+Maybe if we could change the music...
+we could confuse the Insanoflex.
+Well, I'll be.|That'd probably do it.
+- Does anyone know any musicians?|- My demo tape!
+Have you gotten a copy of it?
+# Stupid roommates|drive me crazy! #
+# Ain't got no toilet,|but I'm in the Navy! #
+# Sometimes you wanna walk #
+Does anyone know|any other musicians?
+# When I tell you what to do,|I pull out my gun! #
+# You don't own me,|you think you own me? #
+# And get resituated and hawk|the diet pills MC Pee Pants has created #
+# I need candy, eat candy till I'm dead!|I'll kill you for candy, candy head! #
+# Where you keeping all the candy? #
+# If you don't give me some candy|I'll make the ladies sing! #
+# Candy in the morning #
+# Candy on the way to school #
+Alright, I'll just take|a little five minute break.
+- Again! I want Candy, again!|- Alright, man! Shit man!
+I want candy, bubblegum and taffy.|However you fucking do it!
+Put the flames away! It's fine!
+Chill for a second, man.|I gotta take this, man.
+- What's up?|- I can't...
+I can't hear you, you're breaking up.
+Satan can I take this up to the surface? I|ain't gettin' no reception, like none, man!
+On one condition.
+- What's up? You call me?|- Yeah, I guess we did, huh Meatwad?
+You tryin' to get you|some fly honeys? 'Cause...
+- 'Cause you're a fly.|- Man! For real?
+Motherfucker changed me again,|didn't he?
+Didn't he? That motherfucker!|Satan is a motherfucker!
+- Hey man, you gonna eat that?|- Well that there's a dog turd.
+Man! I love me some dog turd, man!
+This shit's delicious!
+Why the hell do I like me|some dog turd, man?!
+Look, no no, don't get up.|You keep on eating.
+I... I need you to do|one of your ridiculous songs.
+Now you need me?
+Man, the world has turned, man!|Look here, man.
+I don't have time to do you a song, man!
+You need me so bad,|you got to go to my website, man.
+- Click on "Contact MC", man!|- I knew it.
+Forget this!|I don't have time for this bullshit.
+You got a complaint?|Go to the message boards.
+Tell your friends, your family, people you|don't like, I'll do anything for attention!
+Alright, we need you to write a rap...
+so we can put it into the Insanoflex|and make him stop exercising...
+and destroying downtown...
+where they got the mini golf course|that I like so much.
+I got this man, check it out!
+Yeah, you feel this?
+This beat's from Europe. Man!
+I'm gonna lay it down for ya.
+# Insanoflex I wanna build your pecs #
+# A machine for sex, like a big T-Rex! #
+# Gonna build your calves,|gonna tighten your abs #
+No!
+- No!|- Yes!
+# Stop hitting yourself! #
+# Why are you hitting yourself|with gross fly guts all over your face? #
+- Gross! Get it off me!|- Look. We need a real musician.
+- I still got my demo floatin' out there!|- You don't wanna hear that, come on!
+The solo acoustic stuff I did?
+You know,|about that girlfriend I never had?
+- That's beyond suck.|- Solid and funk free.
+- But can you dance to it?|- Sure. If you pay for it.
+- It's Carl!|- Come... get... me.
+I'm... at... the... amusement... park.
+Steel Python.
+- Grab your tape, we'll have to go with it!|- Let's go with you gettin' 12 bucks.
+Or you know, you could go 15 for the CD.|You've got digital quality.
+- It sounds like I'm in the room with you.|- Will you come on?!
+My Frydar is picking|up slower biorhythms.
+- You gotta do it close range, huh?|- Must be in cool-down mode.
+Yeah, my Strawdar|picked that up about 20 miles back.
+Hey, dudes!
+Look at us up here|on the roller coaster!
+Hey guys!|What's going on?
+What's wrong with him?
+- Look out down there!|- My nutrients!
+Retrieve them at once,|they have escaped!
+That came out of you?!
+Alright everyone.|Here's what we're gonna do.
+- Man! What happened?|- Dang it.
+- Great, and now what?|- I'm gonna fly up there...
+and blow them all up|because I am sick of this shit!
+- No!|- Wait, Frylock!
+So you're just gonna go up there|and blow up your neighbor Carl?
+Don't you understand|how much he has to live for?
+OK, now that you're looking at me,|I mean...
+I'll come up with something here,|give me a second.
+He's...
+Hang on.
+Well, he's got...
+...porn!|He's got a bunch of porn.
+Who'll take care|of his vast collection of pornography...
+both in VHS and DVD format?
+Who's gonna call his mom,|and pretend he ain't lookin' at porn...
+while he's talking to her on the phone?
+And who, answer me this...
+will clean his pool|after I have peed all in it?
+- You.|- That's my point. Go kill him.
+- Alright, alright.|- Hell!
+I wrote this next one|when I broke up with my girlfriend...
+'cause I slept with her friend|and dumped them both!
+Shake, get your ass down from there!
+And I think everyone|can relate to the blues.
+Like they had|after I dropped them like two hot rocks.
+# Nude love #
+# Moves over me, like a storm #
+It's working.|It's working! He's stopping!
+Keep playing, Shake!|Keep playing your dumb ass song!
+# There is something in your eye,|and I realize #
+# In the sky|nude love #
+Wait, hang on, I've got trouble with the G.
+Perfect!|It's all going according to plan.
+Neil, prepare the fruit pod!
+# Crankin, smokin! #|There we go.
+# Tapes available|out in the parking lot #
+- It is making my ears pop.|- It's got a good message.
+He's touching|on some real stuff there.
+I like the nude part.
+# And then, see me #
+# Out by my hatchback for copies! #
+# Nude #
+# Love #
+Thank God!
+He was strong, but I think|we learned that music is stronger.
+- Carl, I want you to hop on out of there.|- I'm a little sore here...
+so, if you don't mind,|no one try to save me right now.
+Just let me sit here and...
+look damn good for a little bit, OK?
+- The music has freed your soul.|- Get off, Shake, get off!
+No!
+- Carl?|- Oh my God. Carl?
+- Is he dead?|- Carl, you all right? Can you hear me?
+Carl? Hey, Carl?
+Carl!
+You OK? There?
+What happened to him?
+Baby, you showed up! Great.
+Sorry, I didn't introduce you guys,|this is my new friend.
+- Linda.|- How y'all doin'?
+- Hello.|- Hey, man.
+Hi, how's it going?
+Yeah, we met in line for the coaster.
+We compared our lats and our traps and...
+turns out we do a lot of the same|exercises, don't we baby?
+The two of us were thinking about going|out for some vitamin supplements and...
+inject ourselves|with some extract from a bull's semen.
+That's what she likes|to do for muscle mass there.
+- Anyone wanna come?|- No.
+- Nah, that's cool.|- No, I can't.
+See ya later, losers. I'm going|off to do another little workout.
+At her place! Yeah!
+The only thing|that bull semen did for me...
+was activate my gag reflex.
+Well Carl got himself a girlfriend.
+I'm proud of him.|And I'm lonely. I want a girlfriend.
+- I'm the one who wants a girlfriend!|- No, it is I who wants a girlfriend.
+- Get this thing going again.|- I'll tell y'all what.
+See all these eggs laying around here?|Why don't you just pick one out.
+Pretty soon they're all gonna hatch|and once they do...
+life as we know it, is over.
+You know, you're really great|at taking a good fun situation...
+and turn it into something crappy.
+You know|we're about to get laid here, right?
+- How we gonna stop all of them?|- Well, why don't you ask him?
+Because he invented it.
+I did mention that, right?|I think I mentioned that.
+- So you're the one that created this thing?|- I think so. He says I did.
+I'll probably just knock it out|this afternoon.
+- Let's just wait around.|- He won't.
+He has no discipline.
+Why don't you tell a story about it|that lasts five hours?
+Will you shut up?!
+I have an idea.
+We're gonna have to go back in time.
+- And kill his parents.|- No!
+Don't do that, they're in Florida!
+No, no, Shake.|Here's what we're gonna do.
+Come on, how often|do you see them anyway? Honestly?
+Hey guys? Hello?
+Don't walk away|or I shall help me for you!
+Look man, I'm here for you, it's OK.|Now, what I want you to do...
+is drink this.
+Thank you Err.|What was that thick shake?
+Well, I'll tell you what it is.|It's mayonnaise I found in the trash can.
+And it had hair on it!|And you drank it!
+Because I am your doctor.|Do what I say!
+Look.
+Yet again, another testament of my ability|to pound the brewskies.
+Yeah. Those are collecting fruit flies.
+They are hovering around the display.|They are in awe of my ability to drink.
+Dude, you remember that exam?|That's tomorrow?
+- 'Cause, were you gonna study for it or?|- I sold my books.
+Screw them, man!|Plus, books are for nerds.
+Well, maybe you should save|some of that book money for laundry...
+'cause your sheets|are getting pretty gross man.
+What sheets?|I don't have sheets.
+Maybe we should throw them away.
+Dude, I'm so glad the computer|hooked us up as roommates.
+We are friends forever, you and I.
+Yep.
+I'm pretty psyched about it.
+Shelsse, the RA!
+S'up bro?|Wanna hackey-sack?
+Can we just kill him?
+Yeah, do it, seriously, 'cause I|get straight A's if he gets killed.
+Remedial Verbs.|You're studying that?
+I say speak to the hand to that class.
+I'm not getting up at eleven in the morning!
+To create that Insanoflex|you would've had to have...
+an advanced knowledge|of biogenetics and robot hydro-rhythms.
+Do you, or?
+See, I learned|how to help Timmy find his nuts.
+Please let me kill him.
+Oh, no. My clothes|didn't make it through the time rift!
+I'm totally nude.
+Nice going.|You saved the future.
+- You told me he invented this!|- I will. I know, I do.
+Did you even study robotics in school?|You didn't, did you?
+No way!|He majored in pottery, man.
+Well, is there...|is there like a giant pot...
+that destroys the world|that I might have glazed?
+You can stare at my genitals.
+You totally didn't save the future!
+My vacation is ruined!
+Well then,|who did create the damn thing?!
+- Well, I guess I don't know.|- No you don't. You don't know shit.
+"Thousands of Years Ago. "|You randomly string words together...
+that make up ridiculous stories of things|that never happened and never will!
+Really? Well then,|what do you make of this?
+"I can feel it coming in the air tonight. "
+"I've been waiting|for this moment all my life. "
+My father?
+Yes, no, yes.
+Your father.
+Oh my god!|You don't, you don't mean...
+Yes.
+- Thousands of years ago...|- No, no.
+I know who you're talking about.|Don't worry about it.
+- Look, a caterpillar!|- Oh, wait.
+- Where?|- Where's this caterpillar?
+- Just keep looking. Come on, let's go.|- Now I see it.
+Hello, little caterpillar!
+Destroy him!
+- You never told me we got us a daddy?|- You don't remember?
+- Do I remember anything?|- I got your daddy right here.
+He's only got one eye,|and two little uncles for ya too.
+It was a long time ago...
+Did ya hear me?
+I said I got your daddy right here|and I pointed at myself?
+I thought it was only a dream,|but it was a nightmare.
+It was dark, I couldn't see anything.
+But I do remember the painful sting|of hot oil against my skin.
+The hum.
+The hum of some type|of enormous mixer.
+And the wet slap|of steel hands on raw meat.
+How you doin'?
+The shriek of a million chickens,|screaming in agony...
+as they were merged into one.
+Right on, yeah!
+We were each given part of his brain,|and they brought us to life.
+But he was never the same.
+- There we go.|- Did I get some brain?
+- Sort of.|- I know I did. I can feel it.
+Well...
+- He said it would sort of compensate.|- Guys, down here.
+How did I compen... template?
+What about me?
+Fuck it!
+- I got head cheese?!|- All right...
+some of us got brain,|but that's not important, OK?
+- That was a very good story.|- Well, it's not done.
+My turn. Once upon a time,|there was a little elf...
+Just shut up!
+You have all been created...
+for a very ridiculous purpose.
+I want you to drive this plane...
+into that brick wall!
+Zero-one-niner,|requesting permission...
+for approach|to smash into brick wall, over.
+Permission granted!
+Right on!
+- Frylock! You?|- Change of plans, Bittle!
+- That's all you got?! Come on!|- Let go!
+No!
+No!|My creations!
+Fucking sandals!
+So, I diverted the plane to Africa...
+so we could try to stop world hunger.
+Running into a brick wall just seemed...
+like it would hurt. A lot.
+I mean, that's just dumb.
+All right, listen up. When we hit|the ground, I want everybody...
+to spread out|in a three meter stance...
+wait for air backup and then we're going...
+Chicken Bittle|did not survive the trip.
+And it didn't us long|to freak out all of Africa.
+- Hi, how ya doing?|- Hey, wait! No! We're here to help you!
+Come on, don't run!|Where you going?
+Our mission failed.
+So we came back to the States|and rented out this house in New Jersey.
+I couldn't live up to my father's|backwards, retarded expectations.
+I came here to follow my dream...
+of dancing professionally...
+in the nude.
+I mean, on Broadway.
+- I don't remember any of this.|- Me neither.
+You kept playing with your Gameboy.
+I'd say, "Shake, look up.|We're saving that. "
+And you were all like,|"Well I'm on level three. "
+I do remember level three.
+Well, did you ever get|to dance... professionally?
+That was a lifetime ago, Meatwad.|I have other responsibilities now.
+Yeah, dinner, right?|Where is it?
+- We're home.|- This ain't my house.
+Mine neither.
+Linda, this is some...|food that you've made.
+What is it?
+Apple cinnamon flavored|monkey gland energy shake.
+Thought I tasted a hint|of the monkey gland...
+Excuse me.
+Linda, I care about you.|I respect you.
+So where am I gonna do you?
+- Man, jackpot!|- Yeah.
+Lie down on it while I get nude.
+Yeah, I like it!
+Oh man, you are wild!
+- Thank you God!|- Yeah. My bedroom.
+Hey baby, your muscle's leaking...
+What's up with that?
+Oh no, no!
+Crap!
+- Shit.|- This is going to hurt!
+- A lot!|- Crap, crap, crap, crap!
+Oh, don't cry.|You've been such a good boy.
+I'm gonna let you have a lolly!
+Now lick it!
+- Listen. Is that Carl?|- Carl!
+Welcome home, boy!
+- You bastard!|- Not anymore, daddy!
+- Daddy?|- Bring it on, motherfucker!
+Come on, take this!
+Come on, I thought you'd love that!
+You'd like some more?
+That's all you got?
+God damn it!
+Oh, God Carl!
+Thank God. Unchain me.
+Where'd you get that lollipop?
+Bring it on! Come on! Take this!|And some of that with you!
+Can you hold on a sec?|Hold on, hold on, hold on...
+What is it, Steve?
+Did you need anything else|from me today?
+'Cause my wife wants me home|at six and...
+Go ahead and punch out.
+No, not that one.
+Yes.|That one.
+OK everybody, have a good one.
+God, I love that!
+So you created the Insanoflex!
+So you could build someone else up|and use their muscles.
+Yeah.
+Keep going.
+I don't know.
+- To fight me?|- Yes!
+Yes, that's exactly why!
+But... but why?
+Because I hate you, Daddy!
+No, don't you pull|this reverse psychology crap with me!
+- It was you who created me!|- No!
+It was you who created me!
+- Do you remember this?|- That's Little Death Bear.
+- How do I know that?|- But you said I couldn't have it!
+Because you said|I would lose a hand!
+Yeah, man, I mean, look at it,|it's covered with razor blades!
+- Well, now I have it.|- Can I have it?
+God, now I remember!
+- You wanted that thing for Christmas!|- Yes. And instead...
+you gave me this.|A Baby Wets All Night!
+And it screwed me up forever!
+- But, that's not how I remember it.|- How do you remember it, Daddy?
+- With star wipes?|- Yeah, a lot of star wipes.
+And Phil Collins|is constantly In The Alr Tonlght.
+...Tonlght.|I love that song, but why?
+- Behold!|- Wait a minute! Wait a minute!
+What are you doing back there?
+A VHS that you had produced!
+No, that's impossible!
+You've got a VCR|in the back of your head?!
+It's like David Cronenberg|all up in here.
+It's all coming together now,|don't you see?
+You created hlm|with a piece of your brain!
+And he was your only son.
+But it didn't come out right,|because you were a bad father.
+So you altered your memories|to take away the pain.
+Because you thought...|You know, Chicken Bittle?
+You remember him?|His death was your fault!
+So you wiped your mind clean...
+threw away your old identity,|and started a new life...
+in obscurity.
+No, that's not how it happened.
+This is a VHS, he's a VCR...
+and he lives with us.
+Daddy, you've grown|into a beautiful young woman.
+Yeah, thanks.|Let's keep that on the down low.
+- What did I tell you?!|- I don't believe it. Come on!
+Pay up! Five bucks. Come on!
+- But how did?|- Trapped in a man's body.
+- But you was...|- I'm a lesbian.
+- Yeah, but still, I mean...|- On Oprah.
+- Yeah, but the...|- Plastic novelty vagina.
+- Well, that... explains a lot.|- But one question still remains.
+- We created all of you!|- Mutants!
+And the world|you pathetically pretend to live in.
+Now, bring us your beer!
+- Your remote needs batteries.|- The TV sucks, man.
+- And now it needs fixing.|- Children, please.
+Stop all this bickering!
+That's that watermelon|I was telling you about.
+And that was another lie.|And you're going to hell!
+Feel the sweet embrace|of Satan's hoof against your face!
+Shake!
+Meatwad?
+Buddy?
+Are you OK?
+Stand aside!
+- What... what happened?|- Neil!
+Play the drum solo of life!
+Yeah, yeah! Rock! Rock out!
+Forget it. I don't want it.
+Hey y'all, I live!
+- Who are you?|- I am Walter Melon.
+- This is my accomplice Neil.|- How's it going?
+- Hi.|- Hello.
+And this puddle over here|used to be Steve.
+The drum solo of life!
+No, no, that's OK.
+- What are you doin' here?|- Well, I only...
+created all of you!
+I also created the Insanoflex...
+and produced|three top-selling exercise videos.
+Then I lost my job.|That sucked.
+They said I spent too|much time editing my videos...
+and not enough time|breaking down egg crates...
+which is what I should be doing now|had I not been fired.
+You two were to destroy|each other today...
+so I would inherit your real estate|to build the ultimate franchise.
+The Insano-Gym!
+- But we rent.|- So do I.
+- Man, we live at the Y.|- Till we get some things going.
+- They won't let us use the pool, man.|- Yes. They won't.
+Are you serious?
+Yeah man!|They said we pee in the pool. 'Cause I do!
+- And I as well.|- Yes!
+Digital gold cascades|from our square bladders.
+No, about the renting.|You all rent?
+- Oh, yes.|- Yes sir. Very much so.
+- At the Y.|- But the Insano-Gym!
+You couldn't put a gym|in a residential neighborhood.
+It's not even zoned for commercial use.
+You'd probably have to go|through the city, or something.
+Yeah. Well. I guess this|kinda foils your stupid plan.
+- Papa?|- Well, yeah! Kinda!
+Damn it!|I'm telling your mother.
+- Mother?|- Neil, come on!
+Wait, wait!|We have a mother?
+Yes, Frylock, I am your mother.
+And I am a nine-layer bean burrito.
+That's neat.
+# It's the end of the movie,|and it's getting late #
+# I know that you didn't|come here with a date #
+# You'll probably go home|and masturbate #
+# You're pathetic and lonely #
+# And you can't afford|high definition television #
+# 'Cause your job|doesn't pay enough #
+Time for bed, honey.
+Odwiedü www.NAPiSY.info

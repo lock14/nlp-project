@@ -1,4625 +1,1487 @@
-
-
 Excuse me.
-
-
-
 Where can I find a taxi around here?
-
-
-
 Let's see... around here?
-
-
-
 No, I don't know.
-
-
-
 Doesn't matter. I'll stop one.
 Thanks.
-
-
-
 Excuse me.
-
-
-
 Where are you heading?
-
-
-
 To hotel Dobrée near the city hall.
-
-
-
 Are you passing through?
-
-
-
 Yes, I live in Paris.
-
-
-
 Do you come to Nantes often?
 - No, it's the first time.
-
-
-
 On business?
-
-
-
 Yes, I design furniture coverings.
-
-
-
 Usually I work at home, but sometimes
 one has to meet new suppliers.
-
-
-
 Excuse me, that door won't open
 from the inside.
-
-
-
 Thank you very much.
-
-
-
 When are you going back to Paris?
 - Tomorrow.
-
-
-
 See you later.
-
-
-
 Enjoy your stay.
-
-
-
 Pardon me.
-
-
-
 I haven't even introduced myself.
 I'm Gabriel.
-
-
-
 I'm Emily.
-
-
-
 Thanks.
-
-
-
 Thanks for this evening,
 for our conversation...
-
-
-
 ... for giving me a ride,
 for the excellent wine...
-
-
-
 ...for the bill, which you paid
 behind my back.
-
-
-
 And for giving me a good remembrance of Nantes.
-
-
-
 May I...
-
-
-
 I would like to give you one last memory.
-
-
-
 Excuse me.
-
-
-
 You don't have to excuse yourself.
-
-
-
 I'm not blaming you.
 I have to admit...
-
-
-
 ...I feel flattered.
-
-
-
 I think you're attractive as well, but...
-
-
-
 But?
-
-
-
 We'd better not.
-
-
-
 Are you in a relationship?
-
-
-
 Yes.
-
-
-
 Listen, I want to be honest with you.
-
-
-
 I'm living together with someone too.
-
-
-
 The kiss I wanted to give
 was just...
-
-
-
 ...a goodbye kiss.
 A kiss which meant...
-
-
-
 ...I really enjoyed spending
 these hours with you.
-
-
-
 A kiss without consequences?
 - Yes.
-
-
-
 I was thinking the same thing.
 - What's stopping you then?
-
-
-
 A story.
-
-
-
 A story?
-
-
-
 Which happened to you?
-
-
-
 No, about people I know.
-
-
-
 And that's why you don't want
 to kiss me tonight?
-
-
-
 Some stories get a grip on you
 even if you don't want it.
-
-
-
 I would like to tell it to you,
 so that you'll forgive me...
-
-
-
 ...but it's too personal.
-
-
-
 And it's late.
-
-
-
 I hope you understand.
-
-
-
 See you again some day.
-
-
-
 So you're not going to tell me the story?
-
-
-
 You’re saying it's too personal, but...
-
-
-
 I will never meet them...
-
-
-
 ...and I will never see you again either, right?
-
-
-
 You've made me curious.
-
-
-
 I wanted to get some sleep.
 - Tell me the moral of the story.
-
-
-
 To make a long story short,
 this girl was very happy.
-
-
-
 It's hard to tell if someone's
 really happy...
-
-
-
 ...but I think she was.
-
-
-
 She's living in Paris
 and is my age.
-
-
-
 Don't think I'm hiding behind
 a personage.
-
-
-
 Her name's Judith.
 And she doesn't look like me.
-
-
-
-<i>She loved her job.</i>
-
-
-
-<i>She analyzes
-or does research in laboratory.</i>
-
-
-
-<i>Or something like that.</i>
-
-
-
-<i>She was even happier
-because she didn't need to work.</i>
-
-
-
-<i>Claudio, her husband, had
-already suggested her to quit.</i>
-
-
-
-<i>He made good money. His family was rich
-and helped him with the purchase of a pharmacy</i>
-
-
-
-<i>She refused, because she worked
-hard to achieve this...</i>
-
-
-
-<i>...and didn't want to be a housewife.</i>
-
-
-
-<i>Not yet anyway.</i>
-
-
-
-<i>She wanted to stop working
-when she would get children.</i>
-
-
-
-<i>For a while at least.
-Because they both wanted children.</i>
-
-
-
-<i>Yes. She was happy.</i>
-
-
-
-<i>Among Judith's friends
-there was one more special than the others.</i>
-
-
-
-<i>She knew him
-since high school.</i>
-
-
-
-<i>They told each other all their secrets.</i>
-
-
-
-<i>The knew each others lovers.</i>
-
-
-
-<i>Because Claudio worked every Saturday
-Judith and Nicolas met...</i>
-
-
-
-<i>...to talk about the past week,
-their concerns, their problems...</i>
-
-
-
-<i>...their big and small pleasures.
-Questions about life...</i>
-
-
-
-<i>...feelings, desires. Everything.</i>
-
-
-
-<i>Judith was fascinated he
-confided in her so easily.</i>
-
-
-
-<i>This trust and openness...</i>
-
-
-
-<i>...encouraged her to share
-her most intimate feelings with him.</i>
-
-
-
-<i>She loved that, really.</i>
-
-
-
-<i>It was Judith who
-introduced Louise to Nicolas.</i>
-
-
-
-<i>They got along right away.</i>
-
-
-
-<i>Really very nicely.</i>
-
-
-
-<i>Two years later, when Louise got
-a good job abroad...</i>
-
-
-
-<i>...they split up.</i>
-
-
-
-<i>But they stayed friends.</i>
-
-
-
-<i>Judith was worried
-about Nicolas.</i>
-
-
-
-<i>But he seemed to be doing fine.
-She was impressed.</i>
-
-
-
-<i>But a few months later
-it felt different when they were together.</i>
-
-
-
-<i>She suspected he was hiding something.</i>
-
-
-
-<i>That had never happened before.</i>
-
-
-
-<i>Then, one day...</i>
-
-
-
-<i>On a Thursday, around
-a quarter to four, I think.</i>
-
-
-
+She loved her job.
+She analyzes
+or does research in laboratory.
+Or something like that.
+She was even happier
+because she didn't need to work.
+Claudio, her husband, had
+already suggested her to quit.
+He made good money. His family was rich
+and helped him with the purchase of a pharmacy
+She refused, because she worked
+hard to achieve this...
+...and didn't want to be a housewife.
+Not yet anyway.
+She wanted to stop working
+when she would get children.
+For a while at least.
+Because they both wanted children.
+Yes. She was happy.
+Among Judith's friends
+there was one more special than the others.
+She knew him
+since high school.
+They told each other all their secrets.
+The knew each others lovers.
+Because Claudio worked every Saturday
+Judith and Nicolas met...
+...to talk about the past week,
+their concerns, their problems...
+...their big and small pleasures.
+Questions about life...
+...feelings, desires. Everything.
+Judith was fascinated he
+confided in her so easily.
+This trust and openness...
+...encouraged her to share
+her most intimate feelings with him.
+She loved that, really.
+It was Judith who
+introduced Louise to Nicolas.
+They got along right away.
+Really very nicely.
+Two years later, when Louise got
+a good job abroad...
+...they split up.
+But they stayed friends.
+Judith was worried
+about Nicolas.
+But he seemed to be doing fine.
+She was impressed.
+But a few months later
+it felt different when they were together.
+She suspected he was hiding something.
+That had never happened before.
+Then, one day...
+On a Thursday, around
+a quarter to four, I think.
 Excuse me... I'll be right back.
-
-
-
 Yes, it's me.
-
-
-
 I'm sorry to disturb you.
 I know you're at work, but...
-
-
-
 I want to see you as soon as possible.
-
-
-
 It's pretty urgent.
-
-
-
 No, I can't talk about it
 over the phone.
-
-
-
 What's the matter?
-
-
-
 I can only tell you,
 but I don't know if I can manage it.
-
-
-
 Is something wrong?
 - Yes.
-
-
-
 It's serious?
-
-
-
 It's gnawing at me.
 That's it, it's gnawing at me.
-
-
-
 Physically or psychically?
 - Both really.
-
-
-
 Why?
-
-
-
 This might sound strange...
-
-
-
 ...but some people have a shortage of
 vitamins, iron or magnesium.
-
-
-
 I lack...
-
-
-
 ...affection.
-
-
-
 But there are a lot of people
 around you who love you?
-
-
-
 I don't mean that kind of affection.
-
-
-
 Which one then?
 - I mean...
-
-
-
 A different kind of affection.
 - What kind?
-
-
-
 I miss physical affection.
-
-
-
 Physical affection?
-
-
-
 Don't you get what I mean?
-
-
-
 Not really.
-
-
-
 When two people are crazy about
 each other...
-
-
-
 Physically, I mean.
-
-
-
 I hunger for love so much,
 I can't think about anything else.
-
-
-
 It occupies me so much...
-
-
-
 ...I'm starting to feel ill about it.
-
-
-
 It's like having a splinter in
 one's buttock. Not really bad...
-
-
-
 ...and still it can really
 upset a person.
-
-
-
 When you're living together with someone,
 your partner can remove it...
-
-
-
 ...but I'm alone.
-
-
-
 You think I'm ridiculous, right?
 - No.
-
-
-
 Yes, you do.
-
-
-
 I think it's preposterous myself,
 compared to the big problems around us.
-
-
-
 A serious illness does not stop you from
 doing something about a cold.
-
-
-
 You have to get treated.
 - I know, but I don't know how.
-
-
-
 No doctor or medicine can cure it.
-
-
-
 And meeting someone?
-
-
-
 I mean, a woman who can remove
 the splinter?
-
-
-
 I guess that's what I need.
-
-
-
 But I don't want to meet a girl
 just to remove a splinter.
-
-
-
 That wouldn't be fair.
 - That's true.
-
-
-
 Maybe you can try to have
 feelings for her.
-
-
-
 I have no feelings,
 The way I'm feeling right now.
-
-
-
 I'm too obsessed.
-
-
-
 You know, there's a kind of nurse
 who can treat your illness.
-
-
-
 I mean, have you thought about
 seeing a prostitute?
-
-
-
 Yes, I thought about it, but...
-
-
-
 I don't think that's what I need.
-
-
-
 You can only tell once you tried.
-
-
-
 Well...
-
-
-
 ...I saw one this morning.
-
-
-
 And what was it like?
-
-
-
 Tell me.
-
-
-
 I wanted to go for a few days,
 because I thought it would help.
-
-
-
 Then I saw a report on TV about
 the way things work nowadays.
-
-
-
 To get in touch with a girl
 you have to get on the internet.
-
-
-
 Are you joining me for lunch?
 - No, I have to...
-
-
-
 I have to mark some papers.
 Don't wait for me.
-
-
-
-<i>l don't have internet, so I used
-the computer in the teachers' room.</i>
-
-
-
+l don't have internet, so I used
+the computer in the teachers' room.
 Excuse me, sir.
-
-
-
 I noticed you're still here.
-
-
-
 I just wanted to say...
 - Yes?
-
-
-
 You left your pencil in the class room.
-
-
-
 Put it over there. Yes, there.
-
-
-
 Bye.
 - Thanks, bye.
-
-
-
-<i>l randomly chose a girl.</i>
-
-
-
-<i>There were pictures, but one
-couldn't see their faces.</i>
-
-
-
-<i>I chose her because of her
-name really. Eglantine.</i>
-
-
-
-<i>l don't know if it's her real name,
-but I liked the way it sounded.</i>
-
-
-
-<i>There was a phone number.
-I called it.</i>
-
-
-
-<i>We met at her place.</i>
-
-
-
-<i>Well, across the street from her place</i>
-
-
-
-<i>As a precaution, I used a false name</i>
-
-
-
+l randomly chose a girl.
+There were pictures, but one
+couldn't see their faces.
+I chose her because of her
+name really. Eglantine.
+l don't know if it's her real name,
+but I liked the way it sounded.
+There was a phone number.
+I called it.
+We met at her place.
+Well, across the street from her place
+As a precaution, I used a false name
 Hello, it's Frédéric.
-
-
-
 Yes, I'm in front of number 11.
-
-
-
 Really?
-
-
-
-<i>She asked me
-to cross the street</i>
-
-
-
+She asked me
+to cross the street
 Yes, I see it.
-
-
-
 OK, good. See you in a moment.
-
-
-
-<i>Later I understood why.</i>
-
-
-
-<i>She could observe me from her window.
-and check if I was eligible.</i>
-
-
-
+Later I understood why.
+She could observe me from her window.
+and check if I was eligible.
 Come in.
-
-
-
 Oh right, excuse me.
-
-
-
 It's for sex isn't it?
-
-
-
 Yes, if that's not a problem?
-
-
-
 The bath room is over there.
-
-
-
 Get in while I prepare myself.
-
-
-
 Do I have to wait for you there?
 - No, take a shower.
-
-
-
 Here's a towel.
-
-
-
 I'll be waiting upstairs.
-
-
-
 But I already took a shower this morning.
-
-
-
 Sorry, it's a matter of hygiene.
 And it applies to everyone.
-
-
-
 I didn't know that.
-
-
-
 Do I have to wash my hair?
-
-
-
 Of course.
-
-
-
 If x goes with e,
 0 times x gives 0.
-
-
-
 0 is not reducible, for the space
 below 0 can't be reduced...
-
-
-
 ...to 0 and e. Do you understand?
-
-
-
 So if q is smaller than e
 and n greater than 2, q goes with 1.
-
-
-
 So if you have psy from ei,
 this equals ei+1.
-
-
-
 When i from 1 ...
-
-
-
 I'll call you back later.
-
-
-
 Excuse me, I didn't hear you come in.
-
-
-
 Doesn't matter.
-
-
-
 Are you coming?
-
-
-
 What are you doing?
-
-
-
 I wanted to kiss you.
-
-
-
 But there will be no kissing.
-
-
-
 I was speechless.
-
-
-
 I didn't know that either.
-
-
-
 I left without asking my money back.
 - Why?
-
-
-
 I can't do it without kissing.
 - Really?
-
-
-
 Maybe I'm not normal,
 but I have a need for tenderness.
-
-
-
 And that means kissing.
-
-
-
 I'm sure there's
 a solution.
-
-
-
 Even though I can't think of one
 right now.
-
-
-
 A solution is possible.
-
-
-
 But it's an obvious one.
 - Which one?
-
-
-
 No use telling you it.
 - Why? Tell me.
-
-
-
 Talking about something impossible
 is an unnecessary waste of time.
-
-
-
 How do you know it's unnecessary?
 - I assume it is.
-
-
-
 Then you don't know it for sure.
-
-
-
 Maybe it will give you an idea
 you hadn't thought about yet.
-
-
-
 Maybe, that's true.
-
-
-
 Tell me.
-
-
-
 Look, I thought...
-
-
-
 ...because of our relationship...
-
-
-
 ...maybe you could cure me.
-
-
-
 How?
-
-
-
 Because of our intimacy...
-
-
-
 ...the trust and understanding
 which exists between us.
-
-
-
 Look...
-
-
-
 I won't bother you with
 my problems.
-
-
-
 That's normal among friends.
-
-
-
 I'd be willing to help you, but...
-
-
-
 I see. It doesn't matter.
-
-
-
 It's because you asked.
-
-
-
 Why don't you ask another girlfriend?
 Héléne or Sophie?
-
-
-
 You're my best girlfriend...
-
-
-
 ...who understands everything.
-
-
-
 I wouldn't dare asking them.
-
-
-
 When do you want us to do it?
-
-
-
 I'll leave it up to you.
 - Let's do it now.
-
-
-
 Let's get it over with.
-
-
-
 Why not?
 That's a good idea.
-
-
-
 Shall I get undressed or
 do you want to do it?
-
-
-
 Do you mind if we take our time?
-
-
-
 I've got all the time in the world.
-
-
-
 Can I sit down?
 - Of course.
-
-
-
 Are you coming?
-
-
-
 Tell what you'd want.
-
-
-
 Oh, everything you want.
-
-
-
 I'm like that. I enjoy
 giving my partner pleasure.
-
-
-
 We are alike.
-
-
-
 Shall we start?
-
-
-
 Go ahead.
-
-
-
 Can I touch you?
-
-
-
 Can I touch your breasts?
-
-
-
 Is that enjoyable?
-
-
-
 I allow myself to enjoy it,
 because you said you like that.
-
-
-
 Thanks.
 That gives me pleasure.
-
-
-
 Are you still enjoying it?
-
-
-
 Can I stroke your other breast?
-
-
-
 Do you want me to lie down?
-
-
-
 Shall I continue?
-
-
-
 Can I close my eyes?
-
-
-
 Will you think of Claudio then?
-
-
-
 Not at all.
-
-
-
 He rarely strokes my breasts.
 And when he does, it's not the same.
-
-
-
 How?
-
-
-
 He's...
-
-
-
 ...rougher.
-
-
-
 What do you like more?
-
-
-
 I don't know.
 Depends on how I'm feeling.
-
-
-
 Can I move my hand across your body?
-
-
-
 What's the matter?
-
-
-
 Sorry, my throat is dry.
-
-
-
 I'm getting a glass of water.
 Do you want one as well?
-
-
-
 Do you mind if I put on some music?
-
-
-
 Do you want me to assume the same position?
-
-
-
 If you want.
 - No, if you want.
-
-
-
 Maybe we can get undressed first?
-
-
-
 Ready.
-
-
-
 Me too.
-
-
-
 May I kiss you?
-
-
-
 Do you really want to?
-
-
-
 Don't you want it?
-
-
-
 It's just that...
-
-
-
 ...if I won't like it,
 I might not be able to continue.
-
-
-
 It's easier for me to do it with
 someone whom I've never kissed...
-
-
-
 ...than with someone I'm crazy about
 who isn't a good kisser.
-
-
-
 That's why prostitutes don't want to kiss.
-
-
-
 If you really want to kiss me...
-
-
-
 ...you'll run the risk I will
 withdraw afterwards.
-
-
-
 I'll take the risk.
 Otherwise I won't be able to do it.
-
-
-
 But please tell me if you like
 the way I kiss.
-
-
-
 I don't want to force you.
-
-
-
 OK, I promise.
-
-
-
 Was that OK?
-
-
-
 Can I use my tongue now?
-
-
-
 And I wanted to go to bed early.
-
-
-
 What time is it?
-
-
-
 Half past eleven.
 - Already?
-
-
-
 I'll try to tell the rest of the story quickly.
 - I'm all ears.
-
-
-
 After a month Judith and Nicolas met again.
-
-
-
 I don't why they didn't see each other sooner.
-
-
-
 Are you doing well?
-
-
-
 And you?
 - All right.
-
-
-
 Oh, before I forget...
-
-
-
 I met someone.
 - Really?
-
-
-
 Yes.
-
-
-
 But that's great.
-
-
-
 What's her name?
 - Câline.
-
-
-
 Câline. Nice name.
-
-
-
 Yes, I think so too.
-
-
-
 So you're happy?
-
-
-
 Yes, very happy.
-
-
-
 You must feel all light-headed,
 sucked in by love.
-
-
-
 I didn't fall in love head over heels.
-
-
-
 But you're in love, right?
-
-
-
 Yes...
-
-
-
 It's still too early to tell,
 but I feel it's possible...
-
-
-
 ...I'm falling in love.
-
-
-
 I think it will grow slowly.
-
-
-
 You like her, don't you?
 - Of course. Do you want to see a picture of her?
-
-
-
 She's pretty. Do you fancy each other?
 - Yes, I was attracted to her immediately.
-
-
-
 We get along really well.
-
-
-
 We talk a lot.
 That's important in a relationship.
-
-
-
 You'll find out she's really nice.
-
-
-
 I was lucky to have met her.
-
-
-
 Are your worries gone now?
 Cured for once and always?
-
-
-
 Is something wrong
-
-
-
 Well...
-
-
-
 Not really.
 - Tell me.
-
-
-
 Everything's fine.
-
-
-
 Really well, but...
-
-
-
 But?
-
-
-
 It's silly...
-
-
-
 ...but when I kiss her, it's all right.
 Well...
-
-
-
 But?
-
-
-
 But...
-
-
-
 It's just completely different
 with you.
-
-
-
 I'll try to forget it,
 but I can't.
-
-
-
 Ever since that kiss Claudio and I are...
-
-
-
 Everything's all right, but it's not
 the same. It seems less...
-
-
-
 Do you understand what I mean?
-
-
-
 You mean for you it's like that as well...
-
-
-
 It's all my fault.
 - No, it's no one's fault.
-
-
-
 We haven't been honest about our feelings.
-
-
-
 We haven't judged the situation well.
-
-
-
 It's a damned memory.
-
-
-
 It's no memory but an illusion.
 That's all.
-
-
-
 If we would do it again,
 we'll notice it's nothing special.
-
-
-
 You think so?
-
-
-
 I'm sure. Every psychologist
 will tell us that.
-
-
-
 So there's no other remedy?
-
-
-
 I don't think so. And you?
-
-
-
 I'll have to think about it.
-
-
-
 For how long?
 - I don't know.
-
-
-
 Even if I  take my time,
 then I still don't know if I'll find something.
-
-
-
 The problem is: I'm in a rush.
-
-
-
 Claudio and I are taking a vacation.
 I'd like to resolve this first.
-
-
-
 Yes, I wouldn’t want it to get
 in the way of my relationship either.
-
-
-
 What shall we do?
 - Whatever you want.
-
-
-
 Do you think it's OK if we do it now?
 - OK, short and snappy...
-
-
-
 Short, but not snappy,
 we'll have to try our best...
-
-
-
 ...to refute our memory.
-
-
-
 Good idea.
 Let's do it mechanically.
-
-
-
 Totally fine.
 - Where shall we do it?
-
-
-
 Let's do it on the floor.
 It'll be less comfortable that way.
-
-
-
 How did it go for you?
-
-
-
 And you?
 - No, you first.
-
-
-
 You won't be mad if I tell
 you the truth?
-
-
-
 To tell you the truth...
-
-
-
 It was...
-
-
-
 It was fantastic.
 Even better than the first time.
-
-
-
 I'm sorry. I didn't do it on purpose.
 Far from it.
-
-
-
 Are you angry?
 - Yes.
-
-
-
 But I'm angry with myself,
 not you. I thought it was great too.
-
-
-
 Damn it...
-
-
-
 Let's do it again right away.
 That way we'll know for sure.
-
-
-
 Yes, let's leave this behind us
 as soon as possible.
-
-
-
 What shall we do now?
-
-
-
 Let's give it our best shot.
-
-
-
 But that's not what we want.
-
-
-
-<i>Think. Now we've accomplished
-what we didn't want.</i>
-
-
-
-<i>If we try what we don't want,
-we might get what we do want.</i>
-
-
-
+Think. Now we've accomplished
+what we didn't want.
+If we try what we don't want,
+we might get what we do want.
 Maybe you're right.
-
-
-
 So let's try everything.
 All right?
-
-
-
 I'm betting it was still great?
-
-
-
 You're right.
-
-
-
 I don't know why,
 but it was clear.
-
-
-
 I hope I haven't hurt you.
 I haven't done this before.
-
-
-
 It's strange. It didn't hurt before.
 On the contrary.
-
-
-
 What shall we do?
 - I can't think straight.
-
-
-
 Oh no.
 - What's the matter?
-
-
-
 It's terrible. I want to kiss you again,
 just like that, spontaneously.
-
-
-
 Please don't say that.
-
-
-
 It's terrible. It's coming.
 Your mouth.
-
-
-
 What about my mouth?
-
-
-
 When I see it before me,
 it attracts me.
-
-
-
 I'm restraining myself, otherwise
 I'd give it to you.
-
-
-
 Restrain yourself,
 I can't do it by myself.
-
-
-
 I'm trying.
-
-
-
 But maybe we shouldn't stand
 so close to each other.
-
-
-
 You're right.
-
-
-
 What will happen to us now?
 - I wish I knew.
-
-
-
 Don't you think it's...
 - What?
-
-
-
 How shall I put it? Love?
-
-
-
 I don’t think so. And you?
 - No, I don't know.
-
-
-
 I wonder. I'm just saying.
-
-
-
 If you're not sure, you'll have
 to consider every possibility.
-
-
-
 But we fancy each other, don't we?
-
-
-
 Yes, but it's friendship.
 - You're right.
-
-
-
 But there's love among friends...
-
-
-
 ...because one likes to see
 and spoil them.
-
-
-
 Yes, but it's not the same as
 being in love.
-
-
-
 Naturally.
-
-
-
 But what does love have extra?
-
-
-
 There's force of attraction.
 - Sure.
-
-
-
 But isn't that happening between us?
-
-
-
 In love there's mutual attraction.
-
-
-
 One agrees being attracted to each other.
 We're experiencing that as well...
-
-
-
 ...but without wanting it both.
 - You're right.
-
-
-
 But doesn't that happen in a case of
 love at first sight?
-
-
-
 I don't know.
-
-
-
 I just know I'm in love with Claudio.
-
-
-
 You're lucky.
 - Why?
-
-
-
 It's clear to you.
 I'm starting to doubt.
-
-
-
 About your infatuation for Câline?
 - A little bit...
-
-
-
 What about love, friendship,
 attraction, understanding?
-
-
-
 I'm getting a bit confused.
-
-
-
 You're not really helping here.
 You shouldn't doubt.
-
-
-
 I'm sorry.
-
-
-
 You're in love with Câline.
 - I am?
-
-
-
 Of course you are. Let's not
 make a big deal out of it
-
-
-
 We'll laugh about this in a
 few days, you'll see.
-
-
-
 But they didn't, right?
-
-
-
 No.
-
-
-
 I'm ordering another.
 I'm thirsty as well.
-
-
-
 But it will be my last one.
 I'm going to sleep.
-
-
-
 Excuse me, the same please.
-
-
-
 Sorry, the bar is closed.
-
-
-
 I just wanted to ask you to leave.
-
-
-
 Can't we have a last drink?
 We'll finish it at the reception.
-
-
-
 Sorry, sir.
-
-
-
 I can't pour liquor outside the bar
 after closing-time.
-
-
-
 I would like to do it,
 but if the manager finds out...
-
-
-
 I'm still on trial.
-
-
-
 I understand.
 - Thank you, sir.
-
-
-
 Is there a bar around here?
-
-
-
 I think everything's closed by now.
-
-
-
 You could try the station.
-
-
-
 Don't mind the mess.
 I wasn't expecting anyone tonight.
-
-
-
 Do you want a drink?
 - Yes, please.
-
-
-
 Did you make that?
 - Yes.
-
-
-
 It's really beautiful. I'd like
 to have such curtains as well.
-
-
-
 Thanks you, but I won't sell them to you.
 - Why not?
-
-
-
 I'm telling you this story because
 we don't know each other.
-
-
-
 If I were to sell you that fabric,
 we'd have to exchange addresses.
-
-
-
 We'd have to talk again...
-
-
-
 ...maybe meet again.
-
-
-
 It's too late now. When the story's over,
 we won't see each other again.
-
-
-
 Too bad for my business.
-
-
-
 Too bad for me.
-
-
-
 Can I lie down? My back hurts.
-
-
-
 Go ahead.
-
-
-
 Can I take off my shoes?
-
-
-
 Yes...
-
-
-
 Have a seat.
-
-
-
 This way I'll know you're still
 listening to me.
-
-
-
 You're right. I must focus my attention.
-
-
-
 Where was I?
 - At the point...
-
-
-
 ...where Judith and Nicolas were
 wondering if they'd fallen in love.
-
-
-
 I think they're in love...
-
-
-
 ...but don't want to know it.
-
-
-
 Which makes me think of a story.
 - A story?
-
-
-
 Which story?
 - I don't want to interrupt your story.
-
-
-
 I won't mind taking a break.
 Unless it's too long...
-
-
-
 It's short, very short.
-
-
-
-<i>It happened two years ago.
-On a weekday.</i>
-
-
-
-<i>l was practically alone at the museum
-when I saw a girlfriend.</i>
-
-
-
-<i>Well, not a girlfriend.
-The girlfriend of a good friend.</i>
-
-
-
-<i>Often I feel uncomfortable
-around partners of friends.</i>
-
-
-
-<i>One has to hold oneself back
-not to find them attractive...</i>
-
-
-
-<i>...but still act like a friend
-while one really isn't.</i>
-
-
-
+It happened two years ago.
+On a weekday.
+l was practically alone at the museum
+when I saw a girlfriend.
+Well, not a girlfriend.
+The girlfriend of a good friend.
+Often I feel uncomfortable
+around partners of friends.
+One has to hold oneself back
+not to find them attractive...
+...but still act like a friend
+while one really isn't.
 Gabriël?
-
-
-
 How are you?
 - Fine. And you?
-
-
-
 Very well.
-
-
-
 Visiting the museum too?
 - Yes.
-
-
-
 Me too.
-
-
-
 So everything’s fine?
 - A lot has changed.
-
-
-
 Like what?
-
-
-
 Haven't you heard?
 - No.
-
-
-
 François left me for another woman
 two months ago.
-
-
-
 Really? I didn't know that.
 I'm sorry.
-
-
-
 Don't be.
 It isn't your fault.
-
-
-
 It might sound strange...
-
-
-
 ...but I feel much happier now.
-
-
-
 No, honestly.
-
-
-
 It's not to convince myself or
 so you'll tell him.
-
-
-
 I'm feeling better.
-
-
-
 Can you tell?
-
-
-
 Well...
-
-
-
 Sure.
-
-
-
 It has taught me I have become
 another person.
-
-
-
 More independent...
-
-
-
 ...lighter, more open to new things.
-
-
-
 Much more free.
-
-
-
 I surely wouldn't want another relationship
 for example.
-
-
-
 Even if you meet a nice man?
 - Then I'll go for it, give myself.
-
-
-
 I won't ask questions.
-
-
-
 I'll expose myself completely,
 on condition that it won't last long.
-
-
-
 Even if it's fantastic?
 - Yes.
-
-
-
 I only want adventures.
-
-
-
 I want them to be brief and just
 deal with pleasure.
-
-
-
 I don't want them to get serious.
-
-
-
 I want to try out all the good
 things in life.
-
-
-
 Does that shock you?
-
-
-
 It's an amusing story...
-
-
-
 ...but where's the connection?
-
-
-
 I'm not finished yet.
-
-
-
 We've been living together since then.
-
-
-
 Are you still together?
 - Yes.
-
-
-
 She's my partner.
-
-
-
 That's why Nicolas and Judith
 remind me of this story.
-
-
-
 One falls in love when one
 expects it the least.
-
-
-
 I think they love each other...
-
-
-
 ...but don't realize it.
-
-
-
 That's right.
-
-
-
 But they knew soon enough.
-
-
-
-<i>They hadn't seen each other
-for a few weeks...</i>
-
-
-
-<i>...and all seemed to go well.</i>
-
-
-
+They hadn't seen each other
+for a few weeks...
+...and all seemed to go well.
 Excuse me, but I have to talk to you.
-
-
-
 Not here, everyone can see us.
-
-
-
 Come.
-
-
-
 What's going on? You're scaring me.
-
-
-
 I want to tell you two things.
-
-
-
 First, I have thought about it.
-
-
-
 I love you.
 Now I'm sure of it.
-
-
-
 I really love you.
-
-
-
 Secondly, I know it's not convenient now.
 I shouldn't bother you anymore.
-
-
-
 So you'll have to help me
 not to love you anymore.
-
-
-
 I want a "No" from you on all accounts.
-
-
-
 I have to feel it's mutual,
 so I can move on, you understand?
-
-
-
 So...
-
-
-
 Look me straight in the eye
 and tell me you aren't in love with me.
-
-
-
 Go on.
-
-
-
 OK, let's try something else.
-
-
-
 I'll try to kiss you...
-
-
-
 ...and you'll push me away
 to make me comprehend.
-
-
-
 OK, here it goes.
-
-
-
 Go on, push me away.
-
-
-
 I'll start over.
-
-
-
 If you don't react, I don't know
 what to do anymore.
-
-
-
 I think I'll have to be ruder.
-
-
-
 So you'll really react.
-
-
-
 I see no other way.
-
-
-
 Still not a word?
-
-
-
 You won't get angry with me?
-
-
-
 Please tell me you're angry.
-
-
-
 All right...
-
-
-
 Look what I'm doing.
-
-
-
 So you see what I'm doing?
-
-
-
 Tell me you don't want it.
-
-
-
 Tell me.
-
-
-
 Please, tell me.
-
-
-
 I'm looking for Judith.
-
-
-
 Sorry.
-
-
-
 Have you seen Judith?
-
-
-
 Thank you.
-
-
-
 There you are. I had lost you.
 - Yes, we were talking.
-
-
-
 Yes, you know, I needed
 to tell her something.
-
-
-
 Nothing serious?
 - No.
-
-
-
 But it felt good telling her.
-
-
-
 Swell.
-
-
-
 A woman once told me:
 ''My ideal man is not my lover...
-
-
-
 ...it's the one I love tenderly
 and peacefully...
-
-
-
 ...and whom I'm never jealous at''.
-
-
-
 Funny woman.
-
-
-
 She was an old woman.
 But I think it makes sense. Don't you?
-
-
-
 Too sensible for my taste.
-
-
-
 I have a friend who says:
-
-
-
 ''You can only be sensible
 if you're crazy''.
-
-
-
 I think he's right.
-
-
-
 I haven't been crazy enough
 to become really sensible.
-
-
-
 And you?
-
-
-
 I don't know.
-
-
-
 Look, it's one o'clock already.
-
-
-
 And I'm in a hotel room, tipsy,
 with a man I hardly know.
-
-
-
 I think this answers your question.
-
-
-
 I think you're very sensible.
-
-
-
 More so than me.
-
-
-
 But I haven't spoken about the
 terrible consequences yet.
-
-
-
 Why ''terrible''?
-
-
-
 If it wasn't so terrible, it wouldn't
 have affected me that much...
-
-
-
 ...and I would have kissed you before...
-
-
-
 ...and God knows what we would be doing now.
-
-
-
 The story of Judith and Nicolas
 may seem attractive up until now.
-
-
-
 But in the story you just told,
 you and your friend were alone.
-
-
-
 They weren't.
-
-
-
-<i>To their mutual partners...</i>
-
-
-
-<i>...they tried as hard as possible
-not to arouse any suspicion.</i>
-
-
-
-<i>They didn't know
-what to hope for...</i>
-
-
-
-<i>...what to think.</i>
-
-
-
-<i>Maybe it was just a fantasy
-which would blow over soon.</i>
-
-
-
-<i>Or if was a need for change.
-something to avoid the routine of daily life?</i>
-
-
-
-<i>Maybe it wasn't love,
-but physical attraction.</i>
-
-
-
-<i>A story of pheromones.
-A biological phenomenon?</i>
-
-
-
-<i>"Maybe I'm not like others,
-too weak to be guided by reason"...</i>
-
-
-
-<i>...Judith thought.</i>
-
-
-
-<i>''Maybe I'm a selfish monster
-led by sexual instincts''...</i>
-
-
-
-<i>...Nicolas thought.</i>
-
-
-
-<i>''How can one hope for world peace
-with immoral women like me around?''</i>
-
-
-
-<i>''It's because of people like me no
-civilization develops in a harmonious manner?''</i>
-
-
-
-<i>''Must one make a mess of one's life
-for kisses and embraces?''</i>
-
-
-
-<i>''What if it's not just
-kisses and embraces...</i>
-
-
-
-<i>''...but a special relationship?''</i>
-
-
-
-<i>''What if it would be a love story
-like in novels and films?''</i>
-
-
-
+To their mutual partners...
+...they tried as hard as possible
+not to arouse any suspicion.
+They didn't know
+what to hope for...
+...what to think.
+Maybe it was just a fantasy
+which would blow over soon.
+Or if was a need for change.
+something to avoid the routine of daily life?
+Maybe it wasn't love,
+but physical attraction.
+A story of pheromones.
+A biological phenomenon?
+"Maybe I'm not like others,
+too weak to be guided by reason"...
+...Judith thought.
+''Maybe I'm a selfish monster
+led by sexual instincts''...
+...Nicolas thought.
+''How can one hope for world peace
+with immoral women like me around?''
+''It's because of people like me no
+civilization develops in a harmonious manner?''
+''Must one make a mess of one's life
+for kisses and embraces?''
+''What if it's not just
+kisses and embraces...
+''...but a special relationship?''
+''What if it would be a love story
+like in novels and films?''
 What's the matter?
 - We shouldn't do it.
-
-
-
 Don't you want it?
 - Yes I do...
-
-
-
 But I have to make love to Claudio.
 It's been such a long time.
-
-
-
 Why are you looking like that? Are you jealous?
 - A little.
-
-
-
 Shall I think of you?
 That way I wouldn't be cheating on you.
-
-
-
 You're jealous.
-
-
-
 Yes, but I understand.
-
-
-
 This way I can make love to Câline
 without having to feel too much guilt.
-
-
-
 Are you going to make love tonight?
-
-
-
 I have to.
 You don't want me to break up.
-
-
-
 I said it because of us.
-
-
-
 I don't want you to be alone
 if I'm not.
-
-
-
 I would feel so guilty,
 knowing you would be alone.
-
-
-
 I think I'm better of by myself.
 - But Câline's nice...
-
-
-
 That's why I feel guilty,
 because I don't love her.
-
-
-
 She deserves better.
-
-
-
 Claudio deserves better as well.
-
-
-
 Tell me if I should put on something else.
-
-
-
 I have to talk to you.
-
-
-
 Please don't look at me.
-
-
-
 You're wondering what I want.
-
-
-
 The tone of my voice worries you.
-
-
-
 I can't see your face,
 but I think you're looking gloomy already.
-
-
-
 My words aren't reassuring...
-
-
-
 ...while I'd very much like them to be.
-
-
-
 My words mean no harm...
-
-
-
 ...but they'll hurt you anyway.
-
-
-
 I know they'll hurt you for sure.
-
-
-
 I can hear your heart.
-
-
-
 Your beautiful heart is panicking.
-
-
-
 Because of me. I would very much
 like to embrace you, but I can't.
-
-
-
 I shouldn't.
-
-
-
 Yes, I'm no longer yours.
-
-
-
 And yet...
-
-
-
 ...a part of me...
-
-
-
 ...will always be yours.
-
-
-
 Just a part.
-
-
-
 The other, bigger part...
-
-
-
 ...now belongs to someone else
 without me noticing it.
-
-
-
 I haven't chosen it.
-
-
-
 It just happened.
 I can't help it.
-
-
-
 But I won't be far.
-
-
-
 We can stay neighbors, I hope.
-
-
-
 I'm already regretting leaving you...
-
-
-
 ...but even more
 if I wouldn't do it.
-
-
-
 To comfort you, remember this:
-
-
-
 I will spare you my regrets.
 Someone else will have to listen to them.
-
-
-
 Do you want to hear something else?
-
-
-
 I'll get a drink. Want one?
-
-
-
 What are you thinking about?
-
-
-
 I'm imagining this house is ours...
-
-
-
 ...and I'll end up in your arms each day.
-
-
-
 How would you make that happen?
 - What?
-
-
-
 By living together.
-
-
-
 We have to tell Claudio and Câline
 and find a place.
-
-
-
 What's the matter?
-
-
-
 I'm never able to leave Claudio.
-
-
-
 I can't hurt him.
-
-
-
 I can't bear to see him suffer
 because of me.
-
-
-
 Doesn't your cocktail taste good?
-
-
-
 I'm not really thirsty.
-
-
-
 Are you feeling all right?
 - Yes.
-
-
-
 Well... no, not really.
-
-
-
 What's the matter?
-
-
-
 I'd rather tell you after dinner.
-
-
-
 Why?
-
-
-
 It would spoil your appetite.
 - Nothing can spoil my appetite.
-
-
-
 When my father died, everyone was
 surprised I was eating.
-
-
-
 They thought I wasn't sad.
 But that's who I am.
-
-
-
 Well OK...
-
-
-
 I think the time has come...
-
-
-
 ...for us to split up.
-
-
-
 It isn't your fault.
-
-
-
 I'm not blaming you for anything.
 On the contrary, you're...
-
-
-
 ...fantastic.
-
-
-
 But it's not exactly a
 ''love story'' between us.
-
-
-
 That's true.
-
-
-
 But it could be.
 with a little effort.
-
-
-
 That's what I said to myself too.
-
-
-
 But I haven't been making an
 effort lately, haven't I?
-
-
-
 You seemed absent.
-
-
-
 Have you met someone else?
-
-
-
 Yes, and...
-
-
-
 ...unfortunately it's true love.
-
-
-
 Why "unfortunately"?
-
-
-
 Because it's not convenient for her
 at this time. And neither for us.
-
-
-
 It would be better if we'd carry on together.
-
-
-
 You can't have everything in life.
-
-
-
 Your acting strange.
 Aren't you angry with me?
-
-
-
 Don't you think monsters like
 me shouldn't exists?
-
-
-
 I'm a fatalist.
-
-
-
 What do you mean by that?
-
-
-
 Imagine...
-
-
-
 ...walking somewhere and being
 hit by a cyclist.
-
-
-
 You get hurt.
-
-
-
 All you can do is wait until
 your wounds are healed.
-
-
-
 Complaining about it doesn't help.
-
-
-
 Aren't you just a little angry
 with the cyclist?
-
-
-
 Why? Your wounds won't heal
 any faster because of it.
-
-
-
 It's not the cyclist's fault.
 He didn't do it on purpose.
-
-
-
 That's right, but you can also blame
 him for not being careful enough.
-
-
-
 But it requires experience to be careful.
-
-
-
 You can't blame someone
 for not having experience.
-
-
-
 That's absolutely true.
-
-
-
 Very nicely put.
-
-
-
 I had to leave you to discover
 your hidden charms.
-
-
-
 Thanks, that's sweet.
-
-
-
 I'd almost want to kiss you.
 - It's too late for that now...
-
-
-
 Yes, that's true.
-
-
-
 But if you want to,
 you may kiss me on the cheek.
-
-
-
 Did I gain a girlfriend?
-
-
-
 And I a friend?
-
-
-
 The ways to friendship are
 just as strange as those to love.
-
-
-
 What did you say then?
 The ways to friendship...
-
-
-
 I'm not sure whether I said:
-
-
-
-<i>''The ways to friendship are
-just as strange as those to love.''</i>
-
-
-
+''The ways to friendship are
+just as strange as those to love.''
 I think I had this idea this morning.
 It occurred to me then.
-
-
-
 She really is a great girl.
 - Yes, she's really...
-
-
-
 ...great.
-
-
-
 Why are you looking like that?
-
-
-
 I was never jealous of her,
 but if she becomes a girlfriend...
-
-
-
 If life would be fair,
 Claudio would meet someone else.
-
-
-
 That's it, you've got it.
-
-
-
 What?
 - You just said it.
-
-
-
 If he met someone, you wouldn't have
 to leave him. He would.
-
-
-
 He wouldn't mind leaving you and
 he would be happy to see us together.
-
-
-
 He wouldn't even have to feel guilty.
-
-
-
 Hello.
-
-
-
 I'm afraid I don't have much time.
-
-
-
 What do you want to tell me?
-
-
-
 Well...
-
-
-
 I want to know if you're still single.
-
-
-
 Nicolas, you know...
-
-
-
 I've thought about it.
-
-
-
 You were right,
 we're not really suited for each other.
-
-
-
 I don't know if I want to give it another shot.
 - But this isn't about us.
-
-
-
 I want to know whether you're prepared...
-
-
-
 ...to meet someone.
-
-
-
 To meet someone?
 - A good person, much better than me.
-
-
-
 What's this all about?
-
-
-
 It's a bit complicated,
 but I'll explain.
-
-
-
 So I was thinking of you. You've got
 nothing to lose since you're still single.
-
-
-
 You're terrible.
 - Why?
-
-
-
 No, nothing
-
-
-
 You were supposed to meet other men.
 I'm asking you to meet one more.
-
-
-
 if you like him, great.
 If you don't, too bad. See..
-
-
-
 I've got a picture of him.
-
-
-
 What do you think?
-
-
-
 He looks nice.
 - He looks a lot better in person.
-
-
-
 I'm willing to meet him,
 but just because of you.
-
-
-
 There's a chance of one in a thousand
 we'll fancy each other.
-
-
-
 I know, even if it's one in a million,
 it's our only hope.
-
-
-
 Thank you, Câline.
 Thanks.
-
-
-
 I have to go.
 I'll call you when I get back.
-
-
-
 Nice to meet you..
-
-
-
 Nicolas has told me a lot about you.
 - Me too. Good to see you.
-
-
-
 Would you like a drink?
 - No, thanks you.
-
-
-
 Yes, it's...
-
-
-
 That's him.
-
-
-
 Nicolas already showed me a picture.
-
-
-
 This...
-
-
-
 This picture is newer.
-
-
-
 Excuse me.
-
-
-
 Sorry, I'm late.
-
-
-
 So you've met?
-
-
-
 Well...
-
-
-
 We came up with something.
 Tell me if you agree.
-
-
-
 It's complicated,
 but we're willing to give it a go.
-
-
-
 And you as well, I hope.
 Claudio's somewhat special.
-
-
-
 He never showed interest in other women.
-
-
-
 That's our biggest problem.
-
-
-
 That's why we have searched for a way to
 make him interested in you.
-
-
-
 And Schubert came out.
-
-
-
 Schubert?
 - Yes, Schubert, the composer.
-
-
-
 He's very much interested in Schubert.
 He knows his music by heart...
-
-
-
 ...and has read everything about him.
-
-
-
 If he were to meet a woman
 who'd share his passion...
-
-
-
 ...then something might happen.
-
-
-
 Judith, tell her the plan.
-
-
-
 Here it is.
-
-
-
-<i>Claudio works every day at the pharmacy
-close to the Parc Monceau.</i>
-
-
-
-<i>Every Thursday around 12 o'clock
-he leaves his job.</i>
-
-
-
-<i>He's taking tennis lessons
-in the Bois de Boulogne.</i>
-
-
-
-<i>After his lesson, around 2 o'clock,
-he doesn't go back right away.</i>
-
-
-
-<i>He always eats a sandwich
-at the same place.</i>
-
-
-
-<i>He likes the silence there,
-and the view through the large windows.</i>
-
-
-
-<i>He'll stay there until around 3 o'clock.</i>
-
-
-
-<i>Sometimes he reads, or listens
-to music on his walkman.</i>
-
-
-
-<i>Sometimes he's daydreaming.</i>
-
-
-
+Claudio works every day at the pharmacy
+close to the Parc Monceau.
+Every Thursday around 12 o'clock
+he leaves his job.
+He's taking tennis lessons
+in the Bois de Boulogne.
+After his lesson, around 2 o'clock,
+he doesn't go back right away.
+He always eats a sandwich
+at the same place.
+He likes the silence there,
+and the view through the large windows.
+He'll stay there until around 3 o'clock.
+Sometimes he reads, or listens
+to music on his walkman.
+Sometimes he's daydreaming.
 You'll have to wait for him there
 with this book.
-
-
-
 It's a new Schubert biography
 I've ordered on the internet.
-
-
-
 When he sees it, he will surely
 ask where it has been bought.
-
-
-
 Gee, I know nothing about Schubert.
-
-
-
 That doesn't matter.
 Tell him you've just discovered him.
-
-
-
 He'll be delighted to talk
 about his hobby.
-
-
-
 OK? Is everything clear?
-
-
-
 To be honest...
-
-
-
 ...I think it's all a bit thin.
-
-
-
 You never know.
-
-
-
 What's the matter?
 - Nothing.
-
-
-
 Is something bad going to happen to me?
-
-
-
 No, on the contrary.
-
-
-
 What will happen is...
-
-
-
 ...great.
-
-
-
 Then why are you looking like that?
-
-
-
 Because it's isn't great for me.
 - I don't understand it.
-
-
-
 You will meet someone.
 - And?
-
-
-
 Someone you'll fall in love with.
 Very soon, it can happen every day.
-
-
-
 What?
 - The cards are crystal clear.
-
-
-
 You don't have to worry.
 That's nonsense.
-
-
-
 Come here.
-
-
-
 It's not nonsense.
-
-
-
 Bye, I'll see you tonight.
-
-
-
 What's the matter? You said bye
 like you meant "farewell".
-
-
-
 Don't tell me it's still those cards.
-
-
-
 This is getting ridiculous.
-
-
-
 Don't worry,
 we'll see.
-
-
-
 You're totally bonkers.
-
-
-
 I'm going. I don't want to hear anything about it.
-
-
-
 Yes, it's me.
-
-
-
 He just left.
-
-
-
-<i>The day went by slowly.</i>
-
-
-
-<i>It didn't seem to end
-for Judith and Nicolas.</i>
-
-
-
+The day went by slowly.
+It didn't seem to end
+for Judith and Nicolas.
 A bit of silence, please.
-
-
-
-<i>The arranged time
-has passed since a long time.</i>
-
-
-
-<i>They still hadn't heard anything
-from Câline.</i>
-
-
-
+The arranged time
+has passed since a long time.
+They still hadn't heard anything
+from Câline.
 Sorry, I...
-
-
-
 Yes, it's me. Heard anything yet?
-
-
-
 No, she still hasn't called.
 Have you heard anything?
-
-
-
 No he hasn't returned to
 the pharmacy yet.
-
-
-
 He doesn't answer his mobile phone.
-
-
-
 They should still be together.
-
-
-
 Câline knows she's supposed to call
 when she's alone.
-
-
-
 At nine o'clock Claudio still hadn't
 returned home, and no news from Câline.
-
-
-
 How is that possible? Surely she would
 have time to make a call?
-
-
-
 If Claudio hadn't returned, things
 must have gone well with Câline.
-
-
-
 Nothing really went as planned.
-
-
-
 Do you remember Claudio
 leaving in the morning?
-
-
-
 Bye, I'll see you tonight.
-
-
-
 What's the matter? You said bye
 like you meant "farewell".
-
-
-
 Don't tell me it's still those cards.
-
-
-
 Don't worry, we'll see.
-
-
-
 This is starting to get ridiculous.
-
-
-
 I'm going. I don't want to hear
 anything about it.
-
-
-
 He just left.
-
-
-
 Yes, he's got his tennis racket with him.
-
-
-
 It's not raining, so I think he'll go
 I'm sure of it.
-
-
-
 Yes, I've laid down the cards,
 but I'm not proud of myself.
-
-
-
 It wasn't a good idea.
 He didn't believe it.
-
-
-
 Nicolas?
 I can't hear you.
-
-
-
 Can you hear me?
-
-
-
 Have you talked to Câline?
-
-
-
 Good, tell her to be there
 before 2 o'clock...
-
-
-
 ...and to bring the book
 about Schubert.
-
-
-
 Let's keep our fingers crossed...
-
-
-
 I love you too.
-
-
-
 Call me when you've heard
 something from Câline.
-
-
-
 Bye.
-
-
-
-<i>He was too surprised
-to react right away.</i>
-
-
-
-<i>He just went to his work.</i>
-
-
-
+He was too surprised
+to react right away.
+He just went to his work.
 Hello.
-
-
-
 Excuse me...
-
-
-
 Are you doing OK?
-
-
-
 Come here.
-
-
-
-<i>Câline followed the plan
-without expecting anything special.</i>
-
-
-
-<i>Certainly not what was about to happen.</i>
-
-
-
+Câline followed the plan
+without expecting anything special.
+Certainly not what was about to happen.
 Does Schubert interest you?
-
-
-
 Yes.
-
-
-
 I'm discovering him.
 But I want to know more.
-
-
-
 Why? Are you interested in him as well?
-
-
-
 Just between us...
-
-
-
 ...you don't know anything about him, don't you?
-
-
-
 That's right. I’m just starting...
-
-
-
 But I want to know more about him.
-
-
-
 Are you here for the first time?
-
-
-
 That's right. I figured some sports
 would be good for me.
-
-
-
 A girlfriend recommended it.
 I'm here to check it out.
-
-
-
 Do you come here often?
-
-
-
 Aren't you ashamed?
-
-
-
 Excuse me?
-
-
-
 I don't understand.
-
-
-
 I know everything.
-
-
-
 But...
-
-
-
 I don't know what you mean.
-
-
-
 To feel shame, one has to have
 a heart at least...
-
-
-
 ...and a bit of sensitivity.
-
-
-
 You're confusing me with someone else.
 - No, I'm not.
-
-
-
 And I'm not cheating on anyone.
 - You're wrong, I don't know you.
-
-
-
 Stop this game.
 Stop taking me for a fool.
-
-
-
 Are you getting paid to do this?
-
-
-
 Fine...
-
-
-
 It's true.
 I'm here for a reason.
-
-
-
 I don't know how much you know...
-
-
-
 ...but I don't think you're crazy.
 No one. It's not about the money.
-
-
-
 You're not doing this for money?
 You're doing it...
-
-
-
 ...for free?
-
-
-
 Then you disgust me even more.
-
-
-
 Just as much as them.
-
-
-
 I'm just here to help them.
-
-
-
 It was their only hope.
 They planned this for your own good.
-
-
-
 For my own good?
-
-
-
 Do you expect me to thank you?
-
-
-
 How lovely: I'm being surrounded
 by so many concerned people.
-
-
-
 I've never realized it myself.
-
-
-
 I know how you're feeling,
 but try to understand it.
-
-
-
 Understand, why?
-
-
-
 You are saying I don't have a heart,
 but have you got one?
-
-
-
 If I wouldn't have a heart,
 would I feel like this?
-
-
-
 Is humiliation proof
 of a heart or wounded pride?
-
-
-
 You're talking to me like you know me.
-
-
-
 If you only knew how much
 I love Judith.
-
-
-
 I love her like you never have.
-
-
-
 So you want her to be happy?
 - I've always wanted that.
-
-
-
 But now she's happy with
 someone else.
-
-
-
 But she loves you too much
 to leave you.
-
-
-
 Until now, she has suffered
 in order not to let you suffer.
-
-
-
 That's it. It's up to you
 to make her happy...
-
-
-
 ...if you love her,
 like you say you do.
-
-
-
-<i>Câline wanted to tell Nicolas.</i>
-
-
-
-<i>All night Judith waited
-for news about Claudio.</i>
-
-
-
-<i>All night Nicolas waited
-for news about Câline.</i>
-
-
-
+Câline wanted to tell Nicolas.
+All night Judith waited
+for news about Claudio.
+All night Nicolas waited
+for news about Câline.
 Hello, I'd like Nicolas Gimas'
 number please.
-
-
-
 Paris, Rue Fontaine.
-
-
-
 Are you sure? Not known?
-
-
-
-<i>It was hopeless.
-- Hurry up, we have to go.</i>
-
-
-
-<i>She only had Nicolas’ number
-in the memory of the stolen mobile phone.</i>
-
-
-
-<i>For three days Judith
-and Nicolas were left in the dark.</i>
-
-
-
+It was hopeless.
+- Hurry up, we have to go.
+She only had Nicolas’ number
+in the memory of the stolen mobile phone.
+For three days Judith
+and Nicolas were left in the dark.
 Good morning.
-
-
-
 Good morning.
-
-
-
 Do you want to eat something?
-
-
-
 No, thanks.
-
-
-
 Do you want a drink?
-
-
-
 You're hurt, what's the matter?
-
-
-
 Sorry, did I hurt you?
 - No.
-
-
-
 Where are you going?
-
-
-
 You were right.
-
-
-
 About what?
-
-
-
 I have met someone.
-
-
-
 The cards. They were right.
-
-
-
 How's that?
-
-
-
 What you said that evening,
 that I would meet someone...
-
-
-
 I don't understand.
-
-
-
 I've met a woman.
-
-
-
 It was love at first sight,
 as they call it.
-
-
-
 I never thought it would
 happen to me.
-
-
-
 We've been away for three days.
 I'm sorry for being so upfront...
-
-
-
 ...but I don't want to lie to you.
-
-
-
 I know it sounds strange,
 but you understand me, right?
-
-
-
 Are you hurt badly?
-
-
-
 No... Well, yes, badly...
-
-
-
 I don't know.
-
-
-
 Even though the cards predicted it,
 I didn't expect it to happen so soon.
-
-
-
 Aren't you angry with me?
-
-
-
 No...
-
-
-
 It's useless...
-
-
-
 ...to get angry and fight
 each other.
-
-
-
 I'm happy...
-
-
-
 ...you're taking it this way.
-
-
-
 I'm going, I'm expected.
-
-
-
 I'll be back to pick up the rest.
-
-
-
 A few hours later Câline landed in Paris.
-
-
-
 she went straight to Nicolas.
 He was home.
-
-
-
 So she could tell him what happened.
-
-
-
 After that Nicolas called Judith and told her.
-
-
-
 After a few days she heard Claudio
 had returned to his family in Italy...
-
-
-
 ...and he was in a bad state.
-
-
-
 How did Judith and Nicolas feel when
 they saw each other again?
-
-
-
 What we did was wrong, wasn't it?
 - We didn't want to hurt anyone.
-
-
-
 Maybe it's a necessary evil.
-
-
-
 Don't get me wrong, but...
-
-
-
 ...as long as Claudio isn't happy,
 I can't be happy either.
-
-
-
 And that could take a very long time.
-
-
-
 How do you feel about it?
-
-
-
 I assume you don't find it a
 necessary evil.
-
-
-
 On the contrary...
-
-
-
 How I feel about it?
-
-
-
 I think it was a necessary good.
-
-
-
 How's that?
-
-
-
 Without it, I would never
 have met my husband.
-
-
-
 You mean poor Claudio is your husband?
-
-
-
 No, he's very happy now.
 That's what I think anyway.
-
-
-
 Now I understand about the kiss.
-
-
-
 You understand I don't want him
 to experience that again.
-
-
-
 Yes...
-
-
-
 But...
-
-
-
 ...I meant a quick kiss.
-
-
-
 Before a kiss has been given...
-
-
-
 ...no one knows whether it will be
 intimate or quick.
-
-
-
 I don't want you to have regrets.
-
-
-
 I want you to have enjoyed
 this evening.
-
-
-
 You have been so kind
 to listen to me.
-
-
-
 It was a pleasure.
-
-
-
 It feels like I owe you that kiss.
-
-
-
 I even think I'll enjoy
 giving you a kiss.
-
-
-
 Even when it's just an innocent little kiss,
 we must be aware of unforeseen consequences.
-
-
-
 The body is unpredictable.
-
-
-
 What do I have to do?
-
-
-
 We will kiss each other.
-
-
-
 And when it's done...
-
-
-
 ...we won't say anything.
-
-
-
 We will not say a word.
 Not even goodbye.
-
-
-
 We will say goodbye first.
-
-
-
 We will remain silent as not
 to betray our feelings.
-
-
-
 You don't know my last name.
 I don't know yours.
-
-
-
 We won't try to find out about them,
 nor try to meet each other.
-
-
-
 When the kiss is over...
-
-
-
 ...you'll leave...
-
-
-
 ...without a word or glance...
-
-
-
 ...or even a facial expression.
-
-
-
 We will keep our feelings
 to ourselves.
-
-
-
 Do you agree?
 - To be honest...
-
-
-
 ...I have to say I like these rules.
-
-
-
 Good.
-
-
-
 It's late.
-
-
-
 It has been a wonderful evening.
-
-
-
 The time has come to say goodbye.
-
-
-
 Goodbye.
-
-
-
 Goodbye.
-

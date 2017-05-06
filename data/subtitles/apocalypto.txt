@@ -1,451 +1,451 @@
-{1}{1}23.976
-{733}{922}"A great civilization is not conquered from without|until it has destroyed itself from within."|W. Durant
-{5142}{5189}The heart...
-{5380}{5414}...for 'Smoke Frog'.
-{5416}{5446}Thank you.
-{5594}{5643}This liver for 'Curl Nose'.
-{5651}{5693}Thank you.
-{5808}{5838}'Cocoa Leaf'...
-{5842}{5870}...the ears.
-{5874}{5905}Thank you.
-{5974}{6011}And for you 'Blunted'...
-{6078}{6117}...the balls.
-{6196}{6223}Not this again.
-{6234}{6258}I'm helping you.
-{6262}{6290}Then you eat them!
-{6294}{6350}I don't need them.|Neither do the rest of the fellows.
-{6352}{6377}Do you fellows?
-{6378}{6397}No.
-{6398}{6422}Of course not!
-{6423}{6454}Sometimes!
-{6459}{6478}What do you think?
-{6487}{6506}No!
-{6508}{6530}No, no!
-{6544}{6586}But how many times does it take?
-{6592}{6655}I have eight older sisters|and one brother.
-{6663}{6745}Father took tapir balls all ten times.
-{7718}{7750}Shall I tell him?
-{7799}{7854}I'm sorry. The balls are useless.
-{7908}{7937}You've never had them?
-{7944}{8003}Couldn't tell you what they taste like.
-{8027}{8054}None of you?
-{8102}{8166}No, but it's been fun watching you...
-{8306}{8330}This was your idea!
-{8402}{8433}Get him off me!
-{8598}{8637}Calm down!
-{9055}{9126}Why do you let them treat you like this?
-{9139}{9175}Be strong.
-{9191}{9225}Where is your pride?
-{9346}{9419}It all works...Yes?
-{9502}{9530}Yes...
-{9543}{9610}...I just can't make children.
-{9740}{9802}There is something I will tell you...
-{9818}{9897}...but I warn you, it's very powerful.
-{9936}{9955}What do you speak of?
-{9974}{10013}The soanzo leaf.
-{10046}{10079}The soanzo leaf?
-{10086}{10150}From the great marshes in the south...
-{10266}{10338}This is what gave me my 10 children.
-{10490}{10543}No! No! Wait...
-{10575}{10631}You have to rub them on...down there.
-{10648}{10702}Just before you next try.
-{10708}{10758}Apply it generously...
-{10868}{10918}I don't know how to thank you.
-{10966}{11042}If this works...|maybe she'll stop bothering me.
-{11052}{11078}Your wife?
-{11090}{11134}No, her mother.
-{11142}{11199}The old hag wants grandchildren.
-{11428}{11466}Give me some meat.
-{11478}{11526}Here, work on this...
-{11535}{11579}...pure meat...
-{11619}{11675}...ball breath.
-{13220}{13385}What do you want?
-{14715}{14839}I am 'Flint Sky'. I have hunted|this forest from the day I came of age.
-{14875}{14981}My father hunted this forest|with me and before me.
-{15020}{15066}'Jaguar Paw', my son.
-{15074}{15130}He hunts this forest with me.
-{15166}{15250}He will hunt it with his son|after I am gone.
-{15734}{15766}A good catch?
-{15786}{15834}Good waters here.
-{15898}{15933}The forest gives much here.
-{16079}{16126}We ask only to pass through.
-{16146}{16178}Pass.
-{16318}{16362}Keep safe as you pass.
-{16450}{16487}Let's go.
-{17370}{17422}Our lands were ravaged.
-{17442}{17489}We seek a new beginning.
-{17656}{17694}Your lands were ravaged?
-{17783}{17822}Yes...
-{17854}{17918}We seek a new beginning...
-{17932}{17962}Be still.
-{17968}{17990}My son!
-{18038}{18069}Be still.
-{18192}{18223}Back to the village.
-{19032}{19150}I ask you not to speak|of what you saw in the forest today.
-{19243}{19294}You are troubled.
-{19300}{19342}Yes, I am.
-{19738}{19837}Those people in the forest,|what did you see on them?
-{19850}{19878}I do not understand.
-{19904}{19939}Fear.
-{20018}{20090}Deep rotting fear.
-{20103}{20165}They were infected by it.
-{20186}{20217}Did you see?
-{20230}{20282}Fear is a sickness.
-{20408}{20507}It will crawl into the soul|of anyone who engages it.
-{20550}{20650}It has tainted your peace already.
-{20703}{20802}I did not raise you|to see you live with fear.
-{20862}{20903}Strike it from your heart.
-{20908}{20973}Do not bring it into our village.
-{20986}{21073}At first light|we will gather with the elders...
-{21094}{21170}...at the sacred hill of our fathers.
-{21188}{21290}There we will call on|their spirits to guide us.
-{21558}{21599}Oh, here he is!
-{21622}{21654}The big lump!
-{21674}{21710}He's useless.
-{21726}{21762}He can't do it.
-{21806}{21842}You! Yes you!
-{21859}{21941}With your height and your girth.|You have deceived us.
-{21966}{21997}Get inside!
-{22130}{22166}Damn you! Get in there!
-{22174}{22210}Old woman, please.
-{22220}{22243}Move it!
-{22348}{22383}You don't work!
-{22444}{22479}What are you laughing about?
-{22670}{22778}Give me a grandchild|or I will have you replaced.
-{22806}{22851}Mother, that's enough.
-{22875}{22950}Do not come out until you make a child.
-{22990}{23026}Two would be better!
-{23032}{23054}What?
-{23094}{23142}Twins you oaf.
-{23352}{23370}Mother.
-{23394}{23498}Can you go away?|He says he can't with you sitting there.
-{23508}{23541}Just get busy.
-{23571}{23602}Mom...
-{23714}{23749}She's gone.
-{24794}{24859}Mother, what do you say we should|have at the feast tonight?
-{24866}{24930}I have tapir...|but I also found this boy.
-{24947}{24965}I say boy.
-{24970}{24991}Roasted!
-{24998}{25061}The tapir smells better.|I think it's more fresh.
-{25070}{25117}No Dad! No! It's me! It's me!
-{25122}{25189}I'll just hang the boy here|in case we change our minds.
-{25274}{25291}Wait...
-{25296}{25365}That's our 'Turtles Run'.|That's our eldest.
-{25370}{25429}Yes it's me. It's your eldest!
-{25450}{25530}In that case, a crush for my eldest...
-{25616}{25671}...and a crush for my youngest.
-{25702}{25758}Tapir it is.
-{27342}{27377}One day, old man!
-{27390}{27446}One day you won't be able|to run anymore!
-{27870}{27946}And a Man sat alone.
-{27980}{28041}Drenched deep in sadness.
-{28058}{28125}And all the animals|drew near to him and said:
-{28140}{28231}"We do not like to see you so sad...
-{28274}{28357}"Ask us for whatever you wish|and you shall have it."
-{28382}{28486}The Man said:|"I want to have good sight."
-{28520}{28597}The vulture replied:|"You shall have mine."
-{28670}{28746}The Man said: "I want to be strong."
-{28835}{28878}The jaguar said:
-{28934}{29005}"You shall be strong like me."
-{29052}{29193}Then the Man said: "I long|to know the secrets of the earth."
-{29230}{29350}The serpent replied:|"I will show them to you."
-{29395}{29455}And so it went with all the animals.
-{29496}{29562}And when the Man had|all the gifts that they could give...
-{29566}{29606}...he left.
-{29643}{29698}Then the owl said to the other animals:
-{29720}{29813}"Now the Man knows much|and is able to do many things...
-{29839}{29919}"Suddenly I am afraid."
-{29996}{30063}The deer said:|"The Man has all that he needs."
-{30090}{30138}"Now his sadness will stop."
-{30154}{30202}But the owl replied: "No."
-{30266}{30334}"I saw a hole in the Man...
-{30358}{30449}"Deep like a hunger|he will never fill...
-{30474}{30582}"It is what makes him sad|and what makes him want."
-{30660}{30734}"He will go on taking and taking...
-{30762}{30839}"Until one day the World will say:
-{30858}{30957}"I am no more|and I have nothing left to give."
-{32078}{32122}Come back to me...
-{32226}{32270}Come back to me.
-{32963}{33011}My son is dancing.
-{33052}{33103}Your son is happy.
-{34359}{34399}What do you want?
-{34783}{34825}Run!
-{35198}{35294}Now that you're up,|can you please kill that dog?
-{35610}{35659}The dog.
-{37760}{37798}Get up! Get up! Now!
-{39614}{39653}Go to the forest.
-{39663}{39707}Run! Do not look back.
-{40326}{40370}No! No! I am afraid!
-{40378}{40427}Look into my eyes. Look into my eyes.
-{40435}{40461}Be strong...
-{40471}{40498}I am afraid!
-{40512}{40549}Be strong.
-{41950}{41970}Tie him up!
-{43844}{43869}Father!
-{43902}{43954}The others. I have to help.
-{43982}{44023}No, don't leave us!
-{44030}{44094}I will come back, I promise.
-{44102}{44130}Don't you leave!
-{44138}{44158}I promise.
-{44159}{44181}Stay, please stay.
-{44186}{44214}Father, don't go.
-{45571}{45605}Very nice.
-{46732}{46757}Stop!
-{46968}{46999}Tie him up!
-{47104}{47138}I want him alive.
-{47630}{47661}Sorry Father.
-{48119}{48165}That's enough!
-{48419}{48462}Stand him up.
-{48647}{48686}Move away.
-{49018}{49061}My son.
-{49322}{49365}Don't be afraid.
-{50763}{50822}Almost...
-{51180}{51242}...that's your name.
-{51266}{51342}"Almost".
-{51723}{51782}Our life is over.
-{51912}{51943}Shame...
-{52136}{52166}Shame!
-{52266}{52315}Cowards!
-{57438}{57481}Let's move!
-{60830}{60862}We move out now.
-{60872}{60906}They are back.
-{60979}{61011}Get up!
-{61078}{61113}Heave!
-{61286}{61351}Cut Rock, you forgot to duck.
-{61423}{61454}Hold still.
-{61687}{61714}Can you see?
-{61772}{61794}Yes.
-{61806}{61849}Get back to your line.
-{63322}{63350}Come with us...
-{64606}{64634}Get up.
-{64936}{64990}Leave him alone, "Almost".
-{65042}{65087}I said get up.
-{65772}{65814}Up, up...
-{65826}{65863}...that's it.
-{65914}{65946}Let's go!
-{66039}{66109}This man is a good friend of yours...
-{66946}{66993}Don't worry...
-{67078}{67126}I'll take care of them.
-{67196}{67251}They are mine now.
-{67426}{67523}Gentle 'Ixchel'. Tender mother of mercy.
-{67567}{67690}Keep them from harm. Please. Keep them.
-{68551}{68590}One more.
-{69156}{69197}Ready?
-{70658}{70695}Hold on! Hold on!
-{70790}{70827}Wait...
-{70864}{70907}...let's see what happens.
-{71099}{71121}That's it!
-{71294}{71323}Hurry!
-{71346}{71393}Pull! Be strong!
-{71850}{71894}Yes! You did it!
-{71986}{72026}Good work!
-{72334}{72399}Can you breathe?...Good.
-{73114}{73135}Wait here.
-{73935}{73975}What's become of my capture?
-{74066}{74101}Dead weight.
-{74142}{74195}He nearly took the rest with him.
-{74250}{74290}I let him go.
-{74392}{74434}You. Let him go?
-{74603}{74687}Shall we now do what you want?
-{74791}{74862}Let us try that.
-{75420}{75487}Don't let any others go.
-{75647}{75678}Let's move.
-{76044}{76095}Get up "Almost".
-{76122}{76207}We don't want to lose you just yet.
-{77410}{77458}Stand up, boy.
-{77668}{77729}You proved yourself today, my son.
-{77746}{77837}You're now worthy to stand|with the rest of us.
-{77898}{77959}Thank you Father.
-{78200}{78234}Take it...
-{78251}{78281}...it's yours.
-{78379}{78442}It has taken many lives.
-{78739}{78774}Get some rest.
-{79122}{79150}Resting brothers...
-{79156}{79237}...fathers, mothers, wives.
-{79262}{79362}You felt the cold|of this day's early morning.
-{79384}{79485}Now you cannot feel|the coldness of its night.
-{79550}{79598}She stopped screaming...
-{79650}{79722}...too long before they returned,|she had stopped screaming.
-{79742}{79806}We saw how she fought them.
-{79831}{79875}But in the final moment?
-{79914}{79959}If she let them...
-{80023}{80134}...the Goddess of the Scaffold|shows no mercy for the weakness...
-{80183}{80290}Her soul waits for yours|in the shade of the 'Ceiba' Tree.
-{80558}{80599}I need to know.
-{80635}{80750}Before this day's end|I will leave this world.
-{80796}{80927}I will take as many|of these bastard dogs with me as I can.
-{80983}{81098}And I will gladly embrace|the torments of hell...
-{81150}{81231}...if I do not find my 'Sky Flower' there.
-{81400}{81435}Don't rain.
-{82474}{82518}I am walking here.
-{83304}{83353}Keep away, she has the sickness.
-{83966}{84006}Get back!
-{85274}{85326}You fear me?
-{85359}{85422}So you should...
-{85438}{85519}...all you who are vile.
-{85592}{85677}Would you like to know how you will die?
-{85846}{85938}The sacred time is near...
-{85990}{86090}Beware the blackness of day.
-{86166}{86281}Beware the man who brings the jaguar.
-{86350}{86462}Behold him reborn from mud and earth...
-{86488}{86629}For the one he takes you to|will cancel the sky...
-{86656}{86725}...and scratch out the earth.
-{86752}{86807}Scratch you out.
-{86838}{86902}And end your world.
-{87060}{87135}He's with us now.
-{87302}{87370}...day will be like night.
-{87383}{87493}And the man jaguar|will lead you to your end.
-{89194}{89249}Where are they taking us?
-{89352}{89458}We tell stories of a place stone-built.
-{89494}{89531}What happens there?
-{89554}{89587}I do not know...
-{89624}{89709}...but the earth bleeds.
-{89782}{89827}We are near.
-{90827}{90866}Salvation!
-{90880}{90954}He has the laughing sickness.
-{90978}{91026}He likes you!
-{91088}{91118}Help me!
-{91318}{91362}Save me.
-{91552}{91590}Die like a man.
-{95440}{95466}Welcome back.
-{95494}{95529}Have you been successful?
-{95543}{95570}Ask my son.
-{95616}{95649}How many captives?
-{95654}{95678}Deal with my son.
-{95728}{95754}A fair price.
-{95788}{95830}As always, trust me.
-{95850}{95866}Good.
-{96294}{96359}How much will you give me?
-{97839}{97885}Who will buy this woman?
-{97910}{97943}No...she's too old.
-{97975}{98018}She can be useful.
-{98030}{98071}She can cook...clean...
-{98108}{98158}Useless old woman!
-{98246}{98282}No sale.
-{98420}{98453}Go!
-{98479}{98510}Go on.
-{105722}{105825}These are the days of our great lament.
-{105932}{105978}The land thirsts.
-{106036}{106142}A great plague infests our crops.
-{106210}{106307}The scourge of sickness|afflicts us at whim.
-{106451}{106538}They say this strife has made us weak.
-{106591}{106635}That we have become empty.
-{106702}{106757}They say that we rot.
-{107038}{107106}Great people of the banner of the sun...
-{107126}{107162}I say...
-{107190}{107234}...we are strong.
-{107342}{107391}We are a people of destiny.
-{107506}{107585}Destined to be the masters of time.
-{107682}{107761}Destined to be nearest to the Gods.
-{108143}{108218}Mighty 'Kukulkan'!
-{108258}{108366}Whose fury could scorch|this earth to oblivion...
-{108430}{108485}Let us appease you with this sacrifice.
-{108499}{108542}To exalt you in your glory.
-{108563}{108626}To make our people prosper.
-{108652}{108718}To prepare for your return.
-{108791}{108858}Warrior, unafraid and willing!
-{108871}{108927}With your blood you renew the world!
-{108940}{108983}From age to age.
-{109018}{109057}Thanks be to you.
-{109410}{109462}The heart of God!
-{113387}{113442}Come back to me.
-{113656}{113701}Brother...
-{113746}{113790}Journey well...
-{113842}{113863}No.
-{113899}{113926}I can't go.
-{113963}{114001}Not now...
-{117351}{117467}People of the banner|of the sun do not fear.
-{117490}{117534}Rejoice!
-{117564}{117637}'Kukulkan' has drunk his fill of blood.
-{117646}{117713}We have sated his thirst.
-{117740}{117781}Great God.
-{117804}{117858}Show us that you are pleased.
-{117864}{117950}Let your light return upon us.
-{119518}{119567}What of these captives?
-{119680}{119726}Dispose of them.
-{120551}{120603}I need a finisher.
-{120724}{120755}You.
-{120902}{120939}Release them.
-{121138}{121177}You watch.
-{121678}{121703}I'm ready!
-{121823}{121894}There's your jungle beyond the corn.
-{121966}{121999}Go to it.
-{122019}{122053}You're free...
-{122098}{122130}...now run.
-{122210}{122242}I said run.
-{122348}{122378}Run!
-{124144}{124170}Not bad.
-{124606}{124638}Your turn.
-{124826}{124862}Run.
-{126682}{126717}Run!
-{128503}{128541}Sleep.
-{128564}{128618}Sleep, sleep now my son.
-{128643}{128699}The pain will be no more.
-{128746}{128777}Sleep.
-{137170}{137222}He didn't come this way.
-{137540}{137587}He's in the trees.
-{137630}{137659}Spread out.
-{137680}{137717}Keep your eyes up.
-{138254}{138279}Quiet.
-{138558}{138586}He's coming right at us.
-{138987}{139003}There!
-{141838}{141903}He would have wanted me to have it.
-{141955}{142026}The omen is bad...
-{142072}{142146}Mighty 'Ek Chuah' we beg you...
-{142176}{142278}Forgive us for this trespass|against your son the Jaguar.
-{142326}{142386}The omen is bad...
-{142427}{142474}Lift yourself up Drunkards Four...
-{142495}{142567}...the omen was foretold...
-{142624}{142701}...and now we have a fear more grave...
-{142724}{142806}...today I saw the day|become like night...
-{142962}{143050}I saw a man run with the Jaguar...
-{143143}{143242}...we must not let this man|make feet from us.
-{143259}{143287}Enough.
-{143378}{143422}Your words mean nothing.
-{143455}{143509}He runs because he is afraid.
-{143542}{143629}When I catch him,|I will peel his skin...
-{143702}{143767}...and have him watch me wear it.
-{143952}{143982}We leave now.
-{147042}{147070}Stay back.
-{148771}{148798}Here!
-{149387}{149438}The omen was bad...
-{149527}{149554}He's fucked.
-{149634}{149667}Help...please...
-{149687}{149718}Hanging Moss...
-{149758}{149797}See him out.
-{150287}{150375}Open your veins. It's quicker.
-{150680}{150730}Travel well.
-{155186}{155251}So much for your prophecies.
-{155392}{155422}It's not over!
-{156046}{156085}I am 'Jaguar Paw'...
-{156102}{156139}Son of 'Flint Sky'...
-{156174}{156254}My father hunted|this forest before me...
-{156296}{156343}My name is 'Jaguar Paw'.
-{156363}{156402}I am a hunter.
-{156440}{156494}This is my forest.
-{156522}{156631}And my sons will hunt it|with their sons after I am gone...
-{156700}{156730}Come on!
-{156794}{156834}We are going over.
-{156848}{156914}We climb down around.
-{156944}{156994}We cannot let him get away.
-{157011}{157038}We cannot afford...
-{157523}{157574}We all jump.
-{161818}{161858}I am 'Jaguar Paw'.
-{161902}{161946}This is my forest.
-{161996}{162061}And I am not afraid.
-{165116}{165178}You go. I'll wait here.
-{173078}{173122}Almost...
-{173766}{173830}Resting fathers, fly me your strength.
-{174478}{174521}Get up here.
-{174878}{174915}Go back!
-{175620}{175637}Quick!
-{175651}{175674}Hurry up!
-{184950}{184994}What are they?
-{185034}{185078}They bring men.
-{185190}{185235}Should we go to them?
-{185434}{185478}We should go to the forest.
-{185643}{185689}To seek a new beginning.
-{185812}{185846}Come 'Turtles Run'...
-{186843}{186877}THE END
-{186891}{187188}{Y:ui}<font color=blue size=20>|Movie & Captions Conformed By :|KoushiK DaS|[ koushik-das@wassup.co.in ]|[ koushik@moviefan.com ]|" Hope You've Liked & Enjoyed The Movie !!! "</font>
-{24}{456}{Y:ui}<font color=red size=20>|Movie & Captionings Conformed By :|KoushiK DaS|[ koushik-das@wassup.co.in ]|[ koushik@moviefan.com ]|" Hope You'll Like & Enjoy The Movie !!! "</font>
+23.976
+"A great civilization is not conquered from without|until it has destroyed itself from within."|W. Durant
+The heart...
+...for 'Smoke Frog'.
+Thank you.
+This liver for 'Curl Nose'.
+Thank you.
+'Cocoa Leaf'...
+...the ears.
+Thank you.
+And for you 'Blunted'...
+...the balls.
+Not this again.
+I'm helping you.
+Then you eat them!
+I don't need them.|Neither do the rest of the fellows.
+Do you fellows?
+No.
+Of course not!
+Sometimes!
+What do you think?
+No!
+No, no!
+But how many times does it take?
+I have eight older sisters|and one brother.
+Father took tapir balls all ten times.
+Shall I tell him?
+I'm sorry. The balls are useless.
+You've never had them?
+Couldn't tell you what they taste like.
+None of you?
+No, but it's been fun watching you...
+This was your idea!
+Get him off me!
+Calm down!
+Why do you let them treat you like this?
+Be strong.
+Where is your pride?
+It all works...Yes?
+Yes...
+...I just can't make children.
+There is something I will tell you...
+...but I warn you, it's very powerful.
+What do you speak of?
+The soanzo leaf.
+The soanzo leaf?
+From the great marshes in the south...
+This is what gave me my 10 children.
+No! No! Wait...
+You have to rub them on...down there.
+Just before you next try.
+Apply it generously...
+I don't know how to thank you.
+If this works...|maybe she'll stop bothering me.
+Your wife?
+No, her mother.
+The old hag wants grandchildren.
+Give me some meat.
+Here, work on this...
+...pure meat...
+...ball breath.
+What do you want?
+I am 'Flint Sky'. I have hunted|this forest from the day I came of age.
+My father hunted this forest|with me and before me.
+'Jaguar Paw', my son.
+He hunts this forest with me.
+He will hunt it with his son|after I am gone.
+A good catch?
+Good waters here.
+The forest gives much here.
+We ask only to pass through.
+Pass.
+Keep safe as you pass.
+Let's go.
+Our lands were ravaged.
+We seek a new beginning.
+Your lands were ravaged?
+Yes...
+We seek a new beginning...
+Be still.
+My son!
+Be still.
+Back to the village.
+I ask you not to speak|of what you saw in the forest today.
+You are troubled.
+Yes, I am.
+Those people in the forest,|what did you see on them?
+I do not understand.
+Fear.
+Deep rotting fear.
+They were infected by it.
+Did you see?
+Fear is a sickness.
+It will crawl into the soul|of anyone who engages it.
+It has tainted your peace already.
+I did not raise you|to see you live with fear.
+Strike it from your heart.
+Do not bring it into our village.
+At first light|we will gather with the elders...
+...at the sacred hill of our fathers.
+There we will call on|their spirits to guide us.
+Oh, here he is!
+The big lump!
+He's useless.
+He can't do it.
+You! Yes you!
+With your height and your girth.|You have deceived us.
+Get inside!
+Damn you! Get in there!
+Old woman, please.
+Move it!
+You don't work!
+What are you laughing about?
+Give me a grandchild|or I will have you replaced.
+Mother, that's enough.
+Do not come out until you make a child.
+Two would be better!
+What?
+Twins you oaf.
+Mother.
+Can you go away?|He says he can't with you sitting there.
+Just get busy.
+Mom...
+She's gone.
+Mother, what do you say we should|have at the feast tonight?
+I have tapir...|but I also found this boy.
+I say boy.
+Roasted!
+The tapir smells better.|I think it's more fresh.
+No Dad! No! It's me! It's me!
+I'll just hang the boy here|in case we change our minds.
+Wait...
+That's our 'Turtles Run'.|That's our eldest.
+Yes it's me. It's your eldest!
+In that case, a crush for my eldest...
+...and a crush for my youngest.
+Tapir it is.
+One day, old man!
+One day you won't be able|to run anymore!
+And a Man sat alone.
+Drenched deep in sadness.
+And all the animals|drew near to him and said:
+"We do not like to see you so sad...
+"Ask us for whatever you wish|and you shall have it."
+The Man said:|"I want to have good sight."
+The vulture replied:|"You shall have mine."
+The Man said: "I want to be strong."
+The jaguar said:
+"You shall be strong like me."
+Then the Man said: "I long|to know the secrets of the earth."
+The serpent replied:|"I will show them to you."
+And so it went with all the animals.
+And when the Man had|all the gifts that they could give...
+...he left.
+Then the owl said to the other animals:
+"Now the Man knows much|and is able to do many things...
+"Suddenly I am afraid."
+The deer said:|"The Man has all that he needs."
+"Now his sadness will stop."
+But the owl replied: "No."
+"I saw a hole in the Man...
+"Deep like a hunger|he will never fill...
+"It is what makes him sad|and what makes him want."
+"He will go on taking and taking...
+"Until one day the World will say:
+"I am no more|and I have nothing left to give."
+Come back to me...
+Come back to me.
+My son is dancing.
+Your son is happy.
+What do you want?
+Run!
+Now that you're up,|can you please kill that dog?
+The dog.
+Get up! Get up! Now!
+Go to the forest.
+Run! Do not look back.
+No! No! I am afraid!
+Look into my eyes. Look into my eyes.
+Be strong...
+I am afraid!
+Be strong.
+Tie him up!
+Father!
+The others. I have to help.
+No, don't leave us!
+I will come back, I promise.
+Don't you leave!
+I promise.
+Stay, please stay.
+Father, don't go.
+Very nice.
+Stop!
+Tie him up!
+I want him alive.
+Sorry Father.
+That's enough!
+Stand him up.
+Move away.
+My son.
+Don't be afraid.
+Almost...
+...that's your name.
+"Almost".
+Our life is over.
+Shame...
+Shame!
+Cowards!
+Let's move!
+We move out now.
+They are back.
+Get up!
+Heave!
+Cut Rock, you forgot to duck.
+Hold still.
+Can you see?
+Yes.
+Get back to your line.
+Come with us...
+Get up.
+Leave him alone, "Almost".
+I said get up.
+Up, up...
+...that's it.
+Let's go!
+This man is a good friend of yours...
+Don't worry...
+I'll take care of them.
+They are mine now.
+Gentle 'Ixchel'. Tender mother of mercy.
+Keep them from harm. Please. Keep them.
+One more.
+Ready?
+Hold on! Hold on!
+Wait...
+...let's see what happens.
+That's it!
+Hurry!
+Pull! Be strong!
+Yes! You did it!
+Good work!
+Can you breathe?...Good.
+Wait here.
+What's become of my capture?
+Dead weight.
+He nearly took the rest with him.
+I let him go.
+You. Let him go?
+Shall we now do what you want?
+Let us try that.
+Don't let any others go.
+Let's move.
+Get up "Almost".
+We don't want to lose you just yet.
+Stand up, boy.
+You proved yourself today, my son.
+You're now worthy to stand|with the rest of us.
+Thank you Father.
+Take it...
+...it's yours.
+It has taken many lives.
+Get some rest.
+Resting brothers...
+...fathers, mothers, wives.
+You felt the cold|of this day's early morning.
+Now you cannot feel|the coldness of its night.
+She stopped screaming...
+...too long before they returned,|she had stopped screaming.
+We saw how she fought them.
+But in the final moment?
+If she let them...
+...the Goddess of the Scaffold|shows no mercy for the weakness...
+Her soul waits for yours|in the shade of the 'Ceiba' Tree.
+I need to know.
+Before this day's end|I will leave this world.
+I will take as many|of these bastard dogs with me as I can.
+And I will gladly embrace|the torments of hell...
+...if I do not find my 'Sky Flower' there.
+Don't rain.
+I am walking here.
+Keep away, she has the sickness.
+Get back!
+You fear me?
+So you should...
+...all you who are vile.
+Would you like to know how you will die?
+The sacred time is near...
+Beware the blackness of day.
+Beware the man who brings the jaguar.
+Behold him reborn from mud and earth...
+For the one he takes you to|will cancel the sky...
+...and scratch out the earth.
+Scratch you out.
+And end your world.
+He's with us now.
+...day will be like night.
+And the man jaguar|will lead you to your end.
+Where are they taking us?
+We tell stories of a place stone-built.
+What happens there?
+I do not know...
+...but the earth bleeds.
+We are near.
+Salvation!
+He has the laughing sickness.
+He likes you!
+Help me!
+Save me.
+Die like a man.
+Welcome back.
+Have you been successful?
+Ask my son.
+How many captives?
+Deal with my son.
+A fair price.
+As always, trust me.
+Good.
+How much will you give me?
+Who will buy this woman?
+No...she's too old.
+She can be useful.
+She can cook...clean...
+Useless old woman!
+No sale.
+Go!
+Go on.
+These are the days of our great lament.
+The land thirsts.
+A great plague infests our crops.
+The scourge of sickness|afflicts us at whim.
+They say this strife has made us weak.
+That we have become empty.
+They say that we rot.
+Great people of the banner of the sun...
+I say...
+...we are strong.
+We are a people of destiny.
+Destined to be the masters of time.
+Destined to be nearest to the Gods.
+Mighty 'Kukulkan'!
+Whose fury could scorch|this earth to oblivion...
+Let us appease you with this sacrifice.
+To exalt you in your glory.
+To make our people prosper.
+To prepare for your return.
+Warrior, unafraid and willing!
+With your blood you renew the world!
+From age to age.
+Thanks be to you.
+The heart of God!
+Come back to me.
+Brother...
+Journey well...
+No.
+I can't go.
+Not now...
+People of the banner|of the sun do not fear.
+Rejoice!
+'Kukulkan' has drunk his fill of blood.
+We have sated his thirst.
+Great God.
+Show us that you are pleased.
+Let your light return upon us.
+What of these captives?
+Dispose of them.
+I need a finisher.
+You.
+Release them.
+You watch.
+I'm ready!
+There's your jungle beyond the corn.
+Go to it.
+You're free...
+...now run.
+I said run.
+Run!
+Not bad.
+Your turn.
+Run.
+Run!
+Sleep.
+Sleep, sleep now my son.
+The pain will be no more.
+Sleep.
+He didn't come this way.
+He's in the trees.
+Spread out.
+Keep your eyes up.
+Quiet.
+He's coming right at us.
+There!
+He would have wanted me to have it.
+The omen is bad...
+Mighty 'Ek Chuah' we beg you...
+Forgive us for this trespass|against your son the Jaguar.
+The omen is bad...
+Lift yourself up Drunkards Four...
+...the omen was foretold...
+...and now we have a fear more grave...
+...today I saw the day|become like night...
+I saw a man run with the Jaguar...
+...we must not let this man|make feet from us.
+Enough.
+Your words mean nothing.
+He runs because he is afraid.
+When I catch him,|I will peel his skin...
+...and have him watch me wear it.
+We leave now.
+Stay back.
+Here!
+The omen was bad...
+He's fucked.
+Help...please...
+Hanging Moss...
+See him out.
+Open your veins. It's quicker.
+Travel well.
+So much for your prophecies.
+It's not over!
+I am 'Jaguar Paw'...
+Son of 'Flint Sky'...
+My father hunted|this forest before me...
+My name is 'Jaguar Paw'.
+I am a hunter.
+This is my forest.
+And my sons will hunt it|with their sons after I am gone...
+Come on!
+We are going over.
+We climb down around.
+We cannot let him get away.
+We cannot afford...
+We all jump.
+I am 'Jaguar Paw'.
+This is my forest.
+And I am not afraid.
+You go. I'll wait here.
+Almost...
+Resting fathers, fly me your strength.
+Get up here.
+Go back!
+Quick!
+Hurry up!
+What are they?
+They bring men.
+Should we go to them?
+We should go to the forest.
+To seek a new beginning.
+Come 'Turtles Run'...
+THE END
+<font color=blue size=20>|Movie & Captions Conformed By :|KoushiK DaS|[ koushik-das@wassup.co.in ]|[ koushik@moviefan.com ]|" Hope You've Liked & Enjoyed The Movie !!! "</font>
+<font color=red size=20>|Movie & Captionings Conformed By :|KoushiK DaS|[ koushik-das@wassup.co.in ]|[ koushik@moviefan.com ]|" Hope You'll Like & Enjoy The Movie !!! "</font>

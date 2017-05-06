@@ -1,5445 +1,1618 @@
-
-
 A tisket, a tasket,
 a biscuit for me breakfast...
-
-
-
 Come on, Cec,
 stop your blabbing.
-
-
-
 We're... Almost there!
-
-
-
 Look, Rufus, shadow puppets.
-
-
-
 I haven't had me breakfast yet, either.
-
-
-
 Ratter!
-
-
-
 Whoa!
-
-
-
 Shadow puppets?
-
-
-
 Seriously, mate,
-
-
-
 you are one kidney short of a meat pie!
-
-
-
 Uh, I was just...
-
-
-
 Ah!
-
-
-
 What the... Oh!
-
-
-
 Get off of me,
 ya good-for-nothing fleabag of a cat!
-
-
-
 A sailor can't even get
 a night's sleep without some...
-
-
-
 Blimey! Signal fire
 off the starboard bow!
-
-
-
 Signal fire! Starboard bow!
-
-
-
 Cap'n? Cap'n, wake up!
-
-
-
 You wakey, wakey!
-
-
-
 Ah! Attack!
-
-
-
 Board the ship. Take no prisoners.
-
-
-
 Oh. Oh, Bosun, it's you!
-
-
-
 Yeah. Sorry to be wake you, Cap'n,
-
-
-
 but there's a signal fire
 on a small, uncharted island
-
-
-
 off the starboard side.
-
-
-
 What course of action
 shall we be taking?
-
-
-
 Let me have a look.
-
-
-
 Hmm. Some sort of house on fire.
-
-
-
 What's this?
-
-
-
 Fire a broadside,
-
-
-
 drive those bloody beasts off!
-
-
-
 Aye, aye, Cap'n.
-
-
-
 Then go and bring back whoever he is.
-
-
-
 And Bosun,
-
-
-
 make sure they leave
 nothing behind of any value.
-
-
-
 Will do, Cap'n.
-
-
-
 Oh...
-
-
-
 Humans?
-
-
-
 What's yer go-by, fellow?
-
-
-
-<i>Crusoe...</i>
-
-
-
+Crusoe...
 Robinson Crusoe.
-
-
-
 Oh, looks like them wild beasts
 nearly had ya for dinner!
-
-
-
 Lucky we found ya when we did.
-
-
-
 No, they are my...
-
-
-
 Hold on a second, lad!
-
-
-
 Let's have a look in there.
-
-
-
 Aw!
-
-
-
 Not a single gold tooth in his head.
-
-
-
 On. Pity-
-
-
-
 Pirates?
-
-
-
 You be one lucky bloke.
-
-
-
 Crusoe, is it?
-
-
-
 I'm in your debt, Captain.
-
-
-
 Nay, 'twas me eagle-eyed night watch
 who done saved your hide.
-
-
-
 Away with ya, you blasted bird!
-
-
-
 No, Captain, he's with me.
-
-
-
 No, Captain, he's with me!
-
-
-
 A talking parrot?
-
-
-
 What skulduggery is this?
-
-
-
 Taught him to talk yourself, did ya?
-
-
-
 Yes, Captain.
-
-
-
 Drink up!
-
-
-
 That'll stir your stumps, mate.
-
-
-
 Now, tell me more about
 this island of yourn.
-
-
-
 Is there anything of,
 shall we say, value on it?
-
-
-
 All I can say is that
 I was shipwrecked, marooned,
-
-
-
 fending for myself with nothing
 but time and very few skills to survive.
-
-
-
 Sorry about that.
-
-
-
 I see the bird has taught you
 how to drink as well.
-
-
-
 That's not very polite, Tuesday.
-
-
-
 You'll have to wait outside, I'm afraid.
-
-
-
 Fending for myself?
-
-
-
 Really?
-
-
-
 Listen, you two want to hear
 the true tale of Robinson Crusoe?
-
-
-
 Oh! Oh, sure.
-
-
-
 We're all ears,
 or at least Cecil here is.
-
-
-
 Hey, come on, Ruf.
-
-
-
 It all began like every other day
 before Crusoe came to my island.
-
-
-
 Just another day in paradise.
-
-
-
 Every day was the same.
-
-
-
 Beautiful turquoise water,
-
-
-
 blue skies
 and lots of delicious fruit. Mmm.
-
-
-
 Sounds perfect, right?
-
-
-
-<i>Boring if you ask me.</i>
-
-
-
-<i>How much paradise can a bird take?</i>
-
-
-
-<i>I really wanted to get off this island.</i>
-
-
-
+Boring if you ask me.
+How much paradise can a bird take?
+I really wanted to get off this island.
 Let's see what's been washed up today?
-
-
-
 Of course, more of these.
-
-
-
 Oh!
-
-
-
 What's this?
-
-
-
 This could be promising.
-
-
-
 - Hey, guys! It's luau time!
 - Yeah, yeah. Be right there.
-
-
-
 Yee-haa!
-
-
-
 Oh!
-
-
-
 Hi, Rosie!
-
-
-
 Check out these delicious treats!
-
-
-
 Gorgeous. Just gorgeous!
-
-
-
 Just look at all those bugs.
-
-
-
 Mmm.
 The beetles are the best.
-
-
-
 Crunchy on the outside
 with a soft, gooey centre.
-
-
-
 Hey! Where did it go?
-
-
-
 - My kind of bug.
 - You thief!
-
-
-
 Carmello, that wasn't very nice.
-
-
-
 Aren't you joining us for our
 luau today, Mak? We're all here.
-
-
-
 Yeah. Yeah. I'll...
 I'll be right there.
-
-
-
 Do we really need
 a luau every day?
-
-
-
 So what did you bring today?
-
-
-
 I'm not sure what it is.
-
-
-
 I meant food for the luau.
-
-
-
 Of course he didn't
 bring anything for the luau.
-
-
-
 Oh, this is beautiful! Hey, guys, guys!
-
-
-
 I think I really found
 something important this time!
-
-
-
 Check this out!
-
-
-
 Where? What?
-
-
-
 Scrubby, you're really going blind.
-
-
-
 Over here.
-
-
-
 Ooh, smells delicious.
-
-
-
 No, Scrubby, no. It's not food!
-
-
-
 It's proof that there's more
 to the world than just our island!
-
-
-
 Here we go again.
-
-
-
 It's true!
-
-
-
 Can't we just eat in peace for once?
-
-
-
 Sure, no problem,
-
-
-
 as long as you can tell me
 where this came from!
-
-
-
 - From the water.
 - I vote for Carmello.
-
-
-
 I too vote for Carmello.
-
-
-
 I too vote for Carmello!
-
-
-
 Oh, come on, this isn't an election!
 This thingamabobble is... is...
-
-
-
 ls what?
-
-
-
 You know what I think, Mak?
-
-
-
 That thingy is whatever
 you want to believe it is.
-
-
-
 Exactly.
-
-
-
 You are one hopeless dreamer.
-
-
-
 Did you forget
 you almost died of exhaustion
-
-
-
 flying across the ocean
 looking for this other world of yours?
-
-
-
 My dear macaw,
 you must wake up and smell the papaya,
-
-
-
 for this is the world!
-
-
-
 I don't care what you guys say.
-
-
-
 There's a bigger world out there
 and I intend to find it.
-
-
-
-<i>♪ I ply my trade for the Union Jack</i>
-
-
-
-<i>♪ Upon the seven seas</i>
-
-
-
-<i>♪ And unless I eat some rancid meat...</i>
-
-
-
-<i>♪ Bury me soul with a mermaid,
-please ♪</i>
-
-
-
+♪ I ply my trade for the Union Jack
+♪ Upon the seven seas
+♪ And unless I eat some rancid meat...
+♪ Bury me soul with a mermaid,
+please ♪
 Look, boyos!
-
-
-
 Our wannabe map-maker's
 a bit green around the gills!
-
-
-
 We ain't hankerin' to be
 sharin' your lunch with ya, lad.
-
-
-
 Sorry, I'm not much of a sailor.
-
-
-
 You got that right.
-
-
-
 If you're fixin' to upchuck,
 find your way downwind!
-
-
-
 Ah.
-
-
-
 Oh... Your poor stomach...
-
-
-
 Just ye wait till ya get
 one of them strange islands
-
-
-
 and ya meet your first cannibals!
-
-
-
 Cannibals?
-
-
-
 We made our choice to go to sea,
 right, Aynsley, old pal?
-
-
-
 And I swear, I'll not regret it.
-
-
-
 Whoa!
-
-
-
 All right.
 Go and bring me something to eat!
-
-
-
 Right, lovey. I won't fail you.
-
-
-
 Hey, which of you lucky clucks
 wants to join me
-
-
-
 for a little snack?
-
-
-
-<i>Here, chicky, chicky!</i>
-
-
-
+Here, chicky, chicky!
 Come on, now,
-
-
-
 no need to be shy, my plump little...
-
-
-
 What business might you
 be having above decks?
-
-
-
 Oh, I was, uh, just making sure
-
-
-
 my chicken food...
-
-
-
 friends were...
-
-
-
 were fresh.
-
-
-
 No, warm. Warm and comfy.
-
-
-
 Whoa, whoa, whoa!
-
-
-
 Hold on!
 Don't get your fur all in a knot.
-
-
-
 So, then, where were we?
-
-
-
 Knock it off!
 You cats belong down below.
-
-
-
 And stay away from our chickens!
-
-
-
 And that goes for you as well!
-
-
-
 Who does that green-gilled
 landlubber think he is?
-
-
-
 Uh, the human
 who threw us into the hold?
-
-
-
 This is our ship!
 Wretched as it is, it's home!
-
-
-
 Mark my word, Mal,
-
-
-
 someday, somehow,
 that canine and his human will pay!
-
-
-
 I'm with ya there, May.
-
-
-
 They'll pay, all right.
-
-
-
 Uh, how much exactly
 are we charging 'em?
-
-
-
 That should teach them to mess
 with our egg supply, huh, old boy?
-
-
-
 Eggs.
-
-
-
 Oh, no, not again.
-
-
-
 Buck up, boyo.
-
-
-
 Ah, looks like we've got one doozy
 of a storm brewin'.
-
-
-
 So much for a peaceful meal.
-
-
-
 - Whoa!
 - Oh! Oh, nobody saw that one coming!
-
-
-
 - Whoa!
 - Hang on, Carmello.
-
-
-
 Perhaps it would be wise
 to move this soiree to the cave.
-
-
-
 Let's get moving.
 This is going to be a nasty one.
-
-
-
 I'm with you on that call.
-
-
-
 And Mak, grab the pineapple!
-
-
-
 Like we really needed this pineapple.
-
-
-
 All hands on deck!
-
-
-
 Get them sails down!
-
-
-
 And secure the yardarms tight!
-
-
-
 Get yourself below, mate!
-
-
-
 Best you ride out the storm there!
-
-
-
 Ah!
-
-
-
 Oh!
-
-
-
 Ah! Aynsley!
-
-
-
 I got you!
-
-
-
 Oh!
-
-
-
 Hey! Hey!
-
-
-
 Help! Help!
-
-
-
 Look out!
-
-
-
 - Runaway pineapple!
 - Whoa!
-
-
-
 Oh!
-
-
-
 Sorry, Pango. Careful, Scrubby!
-
-
-
 - I got it! Whoa...
 - Scrubby!
-
-
-
 Help!
-
-
-
 Quick! Rosie, the tree!
-
-
-
 Easy, Scrubby, don't panic!
-
-
-
 OK, I got ya now!
-
-
-
 Well, come on, you old goat!
-
-
-
 Get your hooves moving!
 We ain't got all day!
-
-
-
 That's it, easy.
-
-
-
 Don't be afraid, one step at a time...
-
-
-
 Whoa...
-
-
-
 Scrubby!
-
-
-
 - Help!
 - He's not going to make it!
-
-
-
 Do something! Carmello, grab him.
-
-
-
-I <i>got...</i>
-
-
-
+I got...
 You!
-
-
-
 H-H-H-Help!
-
-
-
 Help! We're in here!
-
-
-
 Someone help!
-
-
-
 Help!
-
-
-
 Ah! Ah!
-
-
-
 Whoa...
-
-
-
 Oh...
-
-
-
 No, no. Ah!
-
-
-
 Away!
-
-
-
 Payback time!
-
-
-
 I can't hold on, Mello!
 This is the end, little buddy.
-
-
-
 There's not much time!
 They're gonna fall!
-
-
-
 Hold steady! I'm coming, mates!
-
-
-
 Pango, what are you doing?
-
-
-
 Whoo-hoo-hoo!
-
-
-
 Whoa!
-
-
-
 How's it going, mate?
-
-
-
 Nice try, Pango, but it's hopeless.
-
-
-
 I'm a goner.
-
-
-
 Mak!
-
-
-
 Oh! Hold on, hold on, hold on.
-
-
-
-<i>Oh.</i>
-
-
-
+Oh.
 Come on, come on, come on.
-
-
-
 I'll get you guys out of there!
-
-
-
 Ah! We have to do something!
-
-
-
 - Oops!
 - Oh, no.
-
-
-
 - Mak! Look out!
 - Ouch!
-
-
-
 - Mak!
 - Oh...
-
-
-
 This just went from bad to worse.
-
-
-
 Don't worry, guys,
 that branch looks pretty solid to me.
-
-
-
 Right, but how do we get down?
-
-
-
 You got me there.
-
-
-
 Oh, I can't believe it.
-
-
-
 They're alive!
-
-
-
 It's a miracle!
-
-
-
 Hey. anybody want some pineapple?
-
-
-
 Whoa, whoa! Did you hear that sound?
-
-
-
 - What's out there, Mak?
 - I have no idea.
-
-
-
 I've never heard a sound
 like that before.
-
-
-
 Can you see anything?
-
-
-
 Not a thing.
-
-
-
 Unfortunately, we're going to
 have to wait until morning.
-
-
-
 Same old stuff. Shells and more shells.
-
-
-
 Small ones, big ones...
-
-
-
 That's a new taste.
-
-
-
 Earthy, with a slight touch of salt.
-
-
-
 Come on. Come to papa.
-
-
-
 Huh?
-
-
-
 Hey, Scrubs, what did you find?
-
-
-
 What is it you're eating?
-
-
-
 I don't know but it's delicious.
-
-
-
 Aw, Scrubs!
-
-
-
 You know I collect stuff like this.
-
-
-
 My nose tells me there's more goodies
 up at Rocky Point.
-
-
-
 Look at that!
-
-
-
 Woolly c-c-caterpillars!
-
-
-
 See? I was right.
-
-
-
 This is the most incredible proof
 that there's another world out there!
-
-
-
 No.
-
-
-
 Look behind you.
-
-
-
 What are you talking about? Behind me?
-
-
-
 Ah!
-
-
-
 I can't believe it.
-
-
-
 It's the thing
 we heard dying last night.
-
-
-
 What do you think it is?
-
-
-
 The other world.
-
-
-
 I've got to get a closer look.
-
-
-
 Mak, don't! We have no idea what it is.
-
-
-
 It's too dangerous, Mak!
-
-
-
 But this is amazing! I was right!
-
-
-
 I knew it, I knew it. I knew it!
-
-
-
 This is from the other world!
 I have never seen anything like this!
-
-
-
 Incredible!
-
-
-
 Huh?
-
-
-
 Ah!
-
-
-
 - Mak should be more careful.
 - Pangy's right.
-
-
-
 We should keep our distance.
-
-
-
 What's going on?
-
-
-
 Easy now, whatever you are.
-
-
-
 I just want to talk.
-
-
-
 Sea monsters.
-
-
-
 Wow! Look at this.
-
-
-
 There's hardly any ship left, Aynsley.
-
-
-
 Hello!
-
-
-
 Is anyone out there?
-
-
-
 - Hey! Can anyone hear me?
 - Ooh. Look at it.
-
-
-
 Captain! Bosun!
-
-
-
 - Anyone?
 - It's... hideous!
-
-
-
 Where did they all go?
-
-
-
 I can't believe everyone is really gone.
-
-
-
 Looks like there's just the two of us.
-
-
-
 Let's go to shore.
-
-
-
 Hang on, Aynsley,
 the current's really strong.
-
-
-
 Uh-oh.
-
-
-
 Oh, land, sweet land!
-
-
-
 Oh. It's so good to be alive, Aynsley.
-
-
-
 Bob's your uncle,
 sea monsters walking on land?
-
-
-
 Uh-oh, we're in big trouble.
-
-
-
 Only one thing has two legs.
-
-
-
 A bird!
-
-
-
 And that ain't no bird I've ever seen.
-
-
-
 Yeah. He can't even fly.
-
-
-
 That monster is going to eat Carmello!
-
-
-
 What's going on, Aynsley?
-
-
-
 We gotta do something, now!
-
-
-
 Hurry, make as much noise as you can.
-
-
-
 We have to scare those sea monsters off!
-
-
-
 Come back here, Aynsley!
-
-
-
 Stay close together.
-
-
-
 We don't know what's out there.
-
-
-
 What was that?
-
-
-
 Aynsley! Aynsley, what's that noise?
-
-
-
 Ah! Cannibals, Aynsley, Cannibals!
-
-
-
 We have to get off this island!
-
-
-
 The sailor warned us.
-
-
-
 They'll skin us alive and eat us!
-
-
-
 Hurry, old boy. They're coming for us!
-
-
-
 Uh, get inside the barrel. Go, boy, go.
-
-
-
 There. Yes.
-
-
-
 Guys, guys, guys. What are you doing?
-
-
-
 Scaring off the sea monsters,
 thank you very much.
-
-
-
 And what if they aren't sea monsters?
-
-
-
 Did you see the furry one's teeth?
-
-
-
 He'll rip us to shreds!
-
-
-
 Everybody calm down! We're safe here.
-
-
-
 Are we?
-
-
-
 We really don't know
 what those creatures are capable of!
-
-
-
 I know one thing they're capable of,
 leaving the island!
-
-
-
 What?
-
-
-
 Oh, no!
 Come on, this can't be happening to me.
-
-
-
 He's actually leaving.
-
-
-
 We did it! We got rid of him.
-
-
-
 Yeah, we scared them big time!
-
-
-
 Will somebody tell me what's happening?
-
-
-
 I'll tell you what's going on.
-
-
-
 You guys have ruined my chance to
 get off this island and see the world.
-
-
-
 You really don't get it, do you?
-
-
-
 You think this paradise.
 Well, it is not!
-
-
-
 It meant so much to me.
-
-
-
 - He's back.
 - Oh, no, here we go again.
-
-
-
 Back? Are you serious? Let me see!
-
-
-
 Here's what we're going to do.
 We stay out of sight
-
-
-
 and we keep an eye on them,
 see what they plan on doing. OK?
-
-
-
 OK, then.
-
-
-
 Nobody goes on the beach.
-
-
-
 That goes for you, too, Scrubby.
-
-
-
 Yeah, yeah. I heard ya.
-
-
-
 Didn't even get to finish my breakfast.
-
-
-
 All those new smells
 are driving me crazy!
-
-
-
 I gotta go check it out.
-
-
-
 Where you going, Scrubby?
-
-
-
 Psst! Come back.
-
-
-
 It's not safe out there.
-
-
-
 Can't let all those tasty morsels
 get washed away.
-
-
-
 If I recall correctly, didn't Mak say
 we should all stay out of sight?
-
-
-
 He did!
-
-
-
 Speaking of which, where is Mak?
-
-
-
 Sorry about today, old friend.
-
-
-
 That was a pretty inept attempt.
-
-
-
 Oh, what was I thinking?
-
-
-
 I haven't the foggiest idea
 where we are,
-
-
-
 nor, for that matter,
-
-
-
 the slightest inkling
 in which direction to set sail.
-
-
-
 Someone's bound to come
 and save us, old boy.
-
-
-
 I'm sure of it.
-
-
-
 If those cannibals come back,
 we'll be ready for them.
-
-
-
 Who's out there?
-
-
-
 Show yourselves!
-
-
-
 My dog'll tear you to shreds!
-
-
-
 And I have a musket!
-
-
-
 Huh? A goat?
-
-
-
 It's just a goat.
-
-
-
 And a bird.
-
-
-
 Maybe there aren't
 any cannibals after all.
-
-
-
 Mak, what were you doing
 out there all by yourself?
-
-
-
 I thought you said
 we should stay hidden?
-
-
-
 I was just checking things out is all.
-
-
-
 What's all the commotion about, anyway?
-
-
-
 Well, Epi just made a good point.
-
-
-
 I just suggested, hypothetically,
-
-
-
 that possibly the sea monster
 lost that thingamajig you found.
-
-
-
 And maybe he's come to get it back!
-
-
-
 Along with us!
-
-
-
 It's one of two things for sure,
 a coincidence or a bad omen.
-
-
-
 Either way, you need to get rid of it.
-
-
-
 Why not just give it back
 to the sea monsters?
-
-
-
 Peachy idea.
-
-
-
 No way!
-
-
-
 - Whoa, whoa, whoa, whoa...
 - You're kidding?
-
-
-
 You're so selfish!
-
-
-
 Selfish?
-
-
-
 OK. Uh, maybe.
-
-
-
 Just give me time to think about it.
-
-
-
 But if I do give it back,
 you're all coming with me.
-
-
-
 Well. All right, then, Aynsley,
-
-
-
 we've got some work to do.
-
-
-
 Let's save whatever we can
 before it is all lost to the sea.
-
-
-
 How's it looking, mate?
-
-
-
 They're taking over our beach.
-
-
-
 He's pulling strange stuff
 out from the sea.
-
-
-
 I suppose this means
 they're not leaving any time soon, then?
-
-
-
 Looks that way.
-
-
-
 Do you see how
 the four-legged one sleeps all day
-
-
-
 while the big one does the work?
-
-
-
 No, but I'll take your word for it.
-
-
-
 I'll bet ya
 the sleeping one's the boss.
-
-
-
 Look, he stripped off his skin!
-
-
-
 Ugh, I'm going to be sick.
-
-
-
-<i>None of us knew it at the time,</i>
-
-
-
-<i>but we were being watched
-by the real monsters on the island.</i>
-
-
-
+None of us knew it at the time,
+but we were being watched
+by the real monsters on the island.
 Some luck, huh, May?
-
-
-
 That green-gilled human
 and his mangy mutt made it safely here.
-
-
-
 How are we gonna deal with him?
-
-
-
 He might be a problem for us.
-
-
-
 Don't you worry.
-
-
-
 I'll figure out a way
 to get rid of them quick enough.
-
-
-
 For the time being,
 we sit, watch and wait.
-
-
-
 Aw, come on, May, I'm starving here.
-
-
-
 And what did I just say?
-
-
-
 Sit. Watch. Wait.
-
-
-
 That's right. Now, stay focused!
-
-
-
 We've got the upper claw.
 No one knows we're here.
-
-
-
 Which means we take our time
-
-
-
 and we pick them off one by one.
-
-
-
 Ah, look, Aynsley!
-
-
-
 These could come in very handy.
-
-
-
 I'd better practice a bit
-
-
-
 before we venture out there
 to get our dinner, right, boy?
-
-
-
-<i>♪ I ply my trade from the Union Jack</i>
-
-
-
-<i>♪ Upon the seven seas</i>
-
-
-
-<i>♪ Unless I eat some rancid meat</i>
-
-
-
-<i>♪ Bury me soul with mermaid, please' ♪</i>
-
-
-
+♪ I ply my trade from the Union Jack
+♪ Upon the seven seas
+♪ Unless I eat some rancid meat
+♪ Bury me soul with mermaid, please' ♪
 Steady...
-
-
-
 - What's he doing?
 - Shh.
-
-
-
 Pull back the hammer and...
-
-
-
 I don't know about you, Scrubby,
-
-
-
 but I plan on staying as far away
-from that monster <i>as</i> possible.
-
-
-
+from that monster as possible.
 What was that all about?
-
-
-
 I have absolutely no idea.
-
-
-
 But what we need to find out is
 what these newcomer's intentions are.
-
-
-
 From the sound of it,
 they're up to no good.
-
-
-
 Obviously they're trying to kill us.
-
-
-
 Maybe. But maybe not.
-
-
-
 The truth of the matter is
-
-
-
 that these newcomers have brought
 nothing but trouble to our paradise.
-
-
-
 That is a fact.
-
-
-
 Fine. Then do like I asked
 and stay out of sight.
-
-
-
 They're proof that
 there's another world out there
-
-
-
 and I'm going to find out
 whether they're friend or foe.
-
-
-
 You really don't get it, do you?
-
-
-
 Whoa!
-
-
-
 That was close.
-
-
-
 OK, let's give this a go
 one last time.
-
-
-
 Ah! Did you see that, Aynsley?
-
-
-
 I did it! I hit the mark!
-
-
-
 Let's go fix something to eat, old boy.
-
-
-
 That was a miracle,
 I never thought I'd hit it!
-
-
-
 Well, maybe we'll eat
 something after all.
-
-
-
-<i>I was starting to wonder
-if everyone wasn't right.</i>
-
-
-
-<i>The new world was finally here</i>
-
-
-
-<i>and I had no idea
-if I was ready for it or not.</i>
-
-
-
+I was starting to wonder
+if everyone wasn't right.
+The new world was finally here
+and I had no idea
+if I was ready for it or not.
 Mmm...
 That's the biggest rat I've ever seen.
-
-
-
 Go for the throat,
 let's make this quick.
-
-
-
 Wait, the human!
-
-
-
 Oh, I can't do it, boy.
-
-
-
 Go on! Shoo! Go!
-
-
-
 What now?
-
-
-
 Sorry, pal,
 I've never shot anything before.
-
-
-
 What say we try fishing?
-
-
-
 What's burning?
-
-
-
 U-
-
-
-
 That would be me.
-
-
-
 You smell like burnt biscuits.
-
-
-
 Shh! Something's coming.
-
-
-
 Looks like Rosie was here.
-
-
-
 That's strange,
 Rosie never leaves any food behind.
-
-
-
 Oh!
-
-
-
 Oh, no.
-
-
-
 Would you prefer white
 or dark meat for brunch, darling?
-
-
-
 I prefer... Dog!
-
-
-
 Time to get even, ratter!
-
-
-
 Hold on, Aynsley! I'm coming!
-
-
-
 Those blasted ratters,
 they did survive after all!
-
-
-
 Ah, I'm hit!
-
-
-
 Run for it!
-
-
-
 Good dog.
-
-
-
 You all right, old boy?
-
-
-
 Did you hear that?
-
-
-
 Over there.
-
-
-
 Oh, look, it's a bird,
 a beautiful parrot.
-
-
-
 So, Aynsley,
-
-
-
 that's what all the fuss was about.
-
-
-
 Those ratters were after the bird.
 You've done good, old boy.
-
-
-
 And you...
-
-
-
 We're going to fix you up straight away.
-
-
-
 Look, Aynsley, a ring!
-
-
-
 That can only mean one thing.
-
-
-
 Sailors have set foot
 on this island before.
-
-
-
 I believe there's hope for us after all.
-
-
-
 You can come out guys,
 there's no one around.
-
-
-
 It's too dark,
 I can't see a thing.
-
-
-
 This is the very spot
 where that sea monster attacked me.
-
-
-
 Well, sort of.
-
-
-
-<i>Oh, are muse...</i>
-
-
-
+Oh, are muse...
 We shouldn't have let him go alone.
-
-
-
 Maybe he's moulting.
-
-
-
 Oh, that's a bit of a stretch, Pango.
-
-
-
 Just wait till I get my hooves on them.
-
-
-
 Any way you look at it,
 this is not good.
-
-
-
 Mak can't be gone.
-
-
-
 What's that?
-
-
-
 And who are you two?
-
-
-
 Just two homeless castaways.
-
-
-
 We were held captive by that human
 for months
-
-
-
 with nothing to eat
 but the crumbs from his table.
-
-
-
 What about our friend?
 Did you see him, by any chance?
-
-
-
 Oh, 'tis a true tragedy, all right.
-
-
-
 Oh, an unfortunate turn of events.
 You see, we caused...
-
-
-
 We saw the whole thing.
-
-
-
 Well, come on, let's hear it.
 What are you waiting for?
-
-
-
 We'll tell you
 what happened to your friend
-
-
-
 but I'm warning ya, it ain't pretty.
-
-
-
 You see, the human loves to eat birds
-
-
-
 and I am afraid your friend got...
-
-
-
 Trapped.
-
-
-
 Mmm-hmm.
-
-
-
 This should only take a minute.
-
-
-
 It's just dislocated.
-
-
-
 But it's going to hurt a bit...
-
-
-
 Don't worry,
 you'll feel better in a day or two,
-
-
-
 though you won't be able
 to fly right away.
-
-
-
 Well, then,
-
-
-
 I suppose you'll need a name if
 you're going to stay here for a while.
-
-
-
 Let's see.
-
-
-
 By my reckoning, today's Tuesday.
-
-
-
 That's as good a name as any, eh?
-
-
-
 Can you say Tuesday?
-
-
-
 Tuesday?
-
-
-
 Well, not quit. But that's a start.
-
-
-
 Take care of our new friend, boy.
-
-
-
 I'd better offload
 as much stuff as I can.
-
-
-
 No telling how long
 the ship will stay in one piece.
-
-
-
 They're nothing but cannibals!
-
-
-
 Murderers!
-
-
-
 I say we run 'em off our island!
-
-
-
 Drive them monsters back into the sea!
-
-
-
 Perhaps a plan might be to force them
 to live on Curse Island!
-
-
-
 Yeah! Oh, yes, yes, yes!
-
-
-
 Curse Island!
-
-
-
 Uh, what exactly is Curse Island?
-
-
-
 Ooh! The end of the earth, mate.
-
-
-
 No one's ever made it back from there.
-
-
-
 Yeah. There's nothing there but bugs.
-
-
-
 Lots and lots of nasty bugs.
-
-
-
 Sounds perfect.
-
-
-
 Drive them to Curse Island.
-
-
-
 That's not going to work.
-
-
-
 You have a better idea?
-
-
-
 Uh, no.
-
-
-
 Right. So, then, where were we?
-
-
-
 Stop your flapping about, bird.
-
-
-
 You need to be resting
 that wing of yours.
-
-
-
 What do you want from me?
-
-
-
 I just want to talk.
-
-
-
 The name's Aynsley,
-
-
-
 and from what I understand,
 yours is Tuesday.
-
-
-
 Call me whatever you want,
 except dinner.
-
-
-
 Dinner? We're not going to eat you.
-
-
-
 We saved your life!
-
-
-
 Either way,
 you'll not make much of a meal.
-
-
-
 Not like the fat, juicy turkeys
 we have back home.
-
-
-
 Relax, my master likes you.
-
-
-
 You said your master?
-
-
-
 You did not think that I...
-
-
-
 Oh, I like you. You're funny.
-
-
-
 I've never seen a bird like you
 in England.
-
-
-
 Eng-land. Tell me more, Aynsley.
-
-
-
 Aye, laddie.
-
-
-
 England, my island,
-
-
-
 just one fantastic place
 in a sea of many lands.
-
-
-
 I knew it!
-
-
-
 Crusoe wants to explore them all.
 If we ever get off this one.
-
-
-
 You know, you're the first to come
 from the outside world.
-
-
-
 Oh, dear, that's not good news.
-
-
-
 Uh, hold on a second.
-
-
-
 We're made up like this because...
-
-
-
 Because you look fierce.
-
-
-
 Now, get your heads
 in the game, everyone!
-
-
-
 We have the perfect opportunity.
-
-
-
 The dog and that bird
 are still on the ship.
-
-
-
-<i>Right.</i>
-
-
-
+Right.
 Listen up! Here's the plan.
-
-
-
 We'll deal with the hairy beast
 on the ship.
-
-
-
 The rest of you
 go for the human on the beach.
-
-
-
 What's a ship?
-
-
-
 That wooden thing on the beach.
-
-
-
 As soon as we're on the ship,
-
-
-
 the wooden thing, you attack!
-
-
-
 Right, then. Fierce, fierce, fierce.
-
-
-
 So, I'm a fierce coconut?
-
-
-
 I should go tell my friends
 that I'm OK.
-
-
-
 You'd better stay put,
 you're in no condition to fly.
-
-
-
 Well, look at this.
-
-
-
 We can kill two birds with one stone.
-
-
-
 Hmm? There's two birds now?
-
-
-
 Oh, shut it! Just follow my lead.
-
-
-
 Look, look! That tail feather.
-
-
-
 He's wearing Mak like a trophy!
-
-
-
 That is so wrong!
-
-
-
 Attack! Let's get him!
-
-
-
 Whoa...
-
-
-
 Yee-haw!
-
-
-
 Whoa!
-
-
-
 Whoa!
-
-
-
 Aysnley, we'd better go.
-
-
-
 What's going on out there?
 They've all gone mad.
-
-
-
 - Ah!
 - It appears as if your friends
-
-
-
 - have come to avenge your death.
 - I'm not dead.
-
-
-
 Oh, we're going to
 take care of that right now!
-
-
-
 Aynsley! Help!
-
-
-
 I have had it with you!
-
-
-
 Ah!
-
-
-
 Aynsley!
-
-
-
 Whoa...
-
-
-
 Come on down, then!
-
-
-
 Get off me!
-
-
-
 Aynsley!
-
-
-
 Tuesday?
-
-
-
 - Hold on! That sounded like...
 - Mak!
-
-
-
 Aynsley!
-
-
-
 Mak, get out!
-
-
-
 Kiki!
-
-
-
 Mak.
-
-
-
 I'm coming, boy!!!
-
-
-
 Rotten cats!
-
-
-
 You're to blame for all this!
-
-
-
 You must leave the ship now.
-
-
-
 Go!
-
-
-
 - Aynsley!
 - Go!
-
-
-
 What's happening here?
-
-
-
 I thought Mak was dead.
-
-
-
 We all did,
 but I don't think he made it this time.
-
-
-
 That would be horrible!
-
-
-
 Come on, guys,
 we'd better move back now.
-
-
-
 Oh, no! Aynsley.
-
-
-
 What have I done'?
-
-
-
 Land.
-
-
-
 Land! We're saved, May!
-
-
-
 I thought we were goners.
-
-
-
 Oh, will you just shut up?
-
-
-
 What's that noise?
-
-
-
 - That would be bugs.
 - Bugs!
-
-
-
 Curse Island!
-
-
-
 Rest in peace, old boy.
-
-
-
 Tuesday!
-
-
-
 Psst! Mak!
-
-
-
 Kiki!
-
-
-
 - Mak, you're hurt.
 - I'll be OK.
-
-
-
 I'm sure glad to see you.
-
-
-
 - I was worried!
 - Me, too.
-
-
-
 Come on, now's your chance to get away.
-
-
-
 - I can't.
 - Let me help you.
-
-
-
 No, no... I... I just...
 I don't want to get away.
-
-
-
 What?
-
-
-
 You don't understand.
 It's all those cats' fault.
-
-
-
 - What do you mean?
 - They attacked me.
-
-
-
 He fixed my wing.
-
-
-
 And his dog gave his life to save me.
 I can't leave him now.
-
-
-
 Oh, I see.
 So, he's going to take care of you?
-
-
-
 Look, he's going to
 need my help to survive.
-
-
-
 I owe him that.
-
-
-
 Exactly how do you plan on doing that?
-
-
-
 I mean, look at him!
-
-
-
 Tuesday, help!
-
-
-
 I don't believe it.
-
-
-
 Those cats used us and Mak as well
 and what do we do?
-
-
-
 We attack the human.
-
-
-
 Hold on, then.
-
-
-
 So what you're saying is
 Kiki's to blame for all this?
-
-
-
 - Oh, afraid so!
 - That's not fair.
-
-
-
 We all thought Mak was dead. Didn't we?
-
-
-
 Oh, this is not good, mates.
-
-
-
 Yeah. We've made a real mess of things.
-
-
-
 Ah, it looks that way, Epi, gal.
-
-
-
 Where you going, Rosie?
-
-
-
 Off to clean up our mess!
-
-
-
 I'm in.
-
-
-
 Well, let's get cracking then, mates!
-
-
-
 Wait a second!
-
-
-
 You're going to make
 an even bigger mess of things.
-
-
-
 The wild beasts!
 They're going to get us!
-
-
-
 Stay right where you are.
-
-
-
 I've got a special treat for all of you.
-
-
-
-<i>Oh.</i>
-
-
-
+Oh.
 I just want to
 give you some biscuits is all.
-
-
-
 They're quite good.
-
-
-
 I finished off your dog, human,
-
-
-
 and I promise, one day,
-
-
-
 you and the rest of your lot
 will join him.
-
-
-
 Now, that is the taste of desperation.
-
-
-
 Try the red ones.
 They taste just like chicken. Mmm!
-
-
-
 What... What?
-
-
-
 Do you want to show me something?
-
-
-
 All right. All right, let's go.
-
-
-
 Oh, Tuesday,
-
-
-
 this is fantastic!
-
-
-
 Fresh water!
-
-
-
 Good job, Tuesday.
-
-
-
 What? You want me to follow you?
-
-
-
 OK, I'm coming.
-
-
-
 Hey, guys, look who's here.
-
-
-
 Relax, there's nothing to be afraid of.
-
-
-
 Stay right where you are.
 I'll be right back.
-
-
-
 What got into him?
-
-
-
 - Why is he running away?
 - Beats me.
-
-
-
 - Maybe it's your smell.
 - Huh?
-
-
-
 Try one of these, it's really good.
-
-
-
 And some for you. Enjoy!
-
-
-
 Say, Tuesday, where is pretty bird?
-
-
-
 I haven't seen her yet.
-
-
-
 Pretty bird!
-
-
-
 No need to yell, Mak,
 I mean, Tuesday. I'm right here.
-
-
-
 There you are, pretty bird.
 Here, you see? I won't hurt you.
-
-
-
 Come on, don't be afraid.
-
-
-
 Come on, pretty bird.
-
-
-
 Ouch!
-
-
-
 Well, friendships aren't made in a day.
-
-
-
 We'll take it one step
 at a time, right, Tuesday?
-
-
-
 One step.
-
-
-
 I can't, May.
-
-
-
 The current's too strong.
-
-
-
 - So you failed again, did you?
 - Oh...
-
-
-
 Oh, stop feeling sorry for yourself.
-
-
-
 Our time will come.
-
-
-
 Soon there will be more of us.
-
-
-
 Revenge will be sweet.
-
-
-
 Oh!
-
-
-
 Ah!
-
-
-
 Oh! That hurt.
-
-
-
 Why, you can't see a bloody thing,
 can you, you old goat?
-
-
-
 We're going to have to fix that.
-
-
-
 There you are. That should help.
-
-
-
 Whoo-hoo!
-
-
-
 Why, Rosie, you're no pig.
-
-
-
 Hey! What's gotten into you?
-
-
-
 You're gorgeous!
-
-
-
 Easy. big boy.
-
-
-
 Whoo! Oh! Ow!
-
-
-
 Oh. Oh, no! Whoa!
-
-
-
 No, no, no, no, no! No, no. Ah!
-
-
-
 Oh!
-
-
-
 No. Oh, no!
-
-
-
 Tuesday, help!
-
-
-
 Hey. guys!
-
-
-
 Oh, never mind.
-
-
-
 This is hopeless.
-
-
-
 How am I ever going to survive
 on this island?
-
-
-
 Yes, of course, that's it!
-
-
-
 I have to build a treehouse.
-
-
-
 Ha-ha!
-
-
-
 It's raining tree limbs.
-
-
-
 Ooh.
-
-
-
 Hmm, tastes good enough to eat.
-
-
-
 Is there anything you wouldn't eat?
-
-
-
 Hey, Pango. What's he doing?
-
-
-
 Don't know, mate.
 This cobber's gone b-b-bonkers on us.
-
-
-
 He's destroying the tree!
-
-
-
 Must keep sawing...
-
-
-
 Need to finish shelter.
-
-
-
 Must build...
-
-
-
-<i>Mmm.</i>
-
-
-
+Mmm.
 Ah! Yes, sir. More porridge, please.
-
-
-
-<i>We had no clue
-what Crusoe was up to.</i>
-
-
-
-<i>Sawing? Porridge?</i>
-
-
-
-<i>Yep, as Pango would say,
-he was bonkers to the max.</i>
-
-
-
+We had no clue
+what Crusoe was up to.
+Sawing? Porridge?
+Yep, as Pango would say,
+he was bonkers to the max.
 How are you coming along, May?
-
-
-
 Can I have just a little a peek'?
-
-
-
 Can you just wait?
 I'm cleaning them up.
-
-
-
 Well, could you at least tell me
 how big a litter we have?
-
-
-
 More than we'll ever be
 able to feed, I'm afraid.
-
-
-
 Oh, look at it...
-
-
-
 Hey!
-
-
-
 Ow!
-
-
-
 That smarts.
-
-
-
 I'm trying to work here.
 Go eat somewhere else.
-
-
-
 At this rate, I'll never get this built.
-
-
-
-<i>I</i> told you, go!
-
-
-
+I told you, go!
 Ah, never mind.
-
-
-
 What I wouldn't give
 for an extra set of hands.
-
-
-
-<i>For all his pounding and sawing,</i>
-
-
-
-<i>we couldn't figure out
-what he was actually doing.</i>
-
-
-
+For all his pounding and sawing,
+we couldn't figure out
+what he was actually doing.
 Whoa! Now what is going on?
-
-
-
 Argh, really?
-
-
-
-<i>I couldn't blame Rosie.</i>
-
-
-
-<i>When you've got an itch,
-you've gotta scratch it!</i>
-
-
-
-<i>But poor Crusoe,
-he didn't see it that way.</i>
-
-
-
-<i>He had had enough.</i>
-
-
-
-<i>And that's when it hit me! A nest!</i>
-
-
-
+I couldn't blame Rosie.
+When you've got an itch,
+you've gotta scratch it!
+But poor Crusoe,
+he didn't see it that way.
+He had had enough.
+And that's when it hit me! A nest!
 - Mmm-mmm.
 - Hey, guys!
-
-
-
 I figured out what he's doing.
-
-
-
 Uh, making a mess?
-
-
-
 No. He's building a shelter!
-
-
-
 Huh? Don't follow ya, mate.
-
-
-
 He's building a nest!
-
-
-
 - A nest?
 - So he is a bird.
-
-
-
 Scrubs. He's building
 a human nest in the tree!
-
-
-
 Oh! Pretty clever!
-
-
-
 I've never slept in a tree.
-
-
-
 If he stocks it with food,
 you'll sleep in a tree.
-
-
-
 Good point!
-
-
-
 So, guys, I got an idea.
-
-
-
 What do ya say we help him out,
 get this nest of his built?
-
-
-
 I must have been crazy thinking
 I could build this all by my... self.
-
-
-
-<i>We didn't really have
-any idea what we were getting into.</i>
-
-
-
-<i>We just figured let's help,</i>
-
-
-
-<i>use whatever abilities we had
-and hoped it all worked.</i>
-
-
-
+We didn't really have
+any idea what we were getting into.
+We just figured let's help,
+use whatever abilities we had
+and hoped it all worked.
 Well, I'll be gobsmacked!
-
-
-
 Slowly, slowly.
-
-
-
 Slowly, slowly.
-
-
-
 That's it, just a little more.
-
-
-
 Hi, Epi! Where are you headed
 with all that food?
-
-
-
 Whoa! I need a little help here, guys!
-
-
-
 - Easy.
 - Hmm, salty.
-
-
-
 Not that kind of help.
 No, no. That tickles!
-
-
-
 Epi, hold up. I'm starving!
-
-
-
 Whoa!
-
-
-
 Help!
-
-
-
-<i>Things didn't
-always go smoothly.</i>
-
-
-
-<i>And we had our ups and downs,
-that's for sure.</i>
-
-
-
-<i>But everyone was in fine spirits.</i>
-
-
-
-<i>And Crusoe seemed, well, happy.</i>
-
-
-
-<i>He made a funny little door for Epi
-and Pango to get into the nest.</i>
-
-
-
-<i>It was a pretty good idea.</i>
-
-
-
-<i>After a few modifications, that is.</i>
-
-
-
-<i>We became a real team,</i>
-
-
-
-<i>playing all these funny games
-Crusoe came up with.</i>
-
-
-
-<i>He had all sorts of crazy ideas.</i>
-
-
-
-<i>Oh! Like hiding seeds in the ground.</i>
-
-
-
-<i>Crusoe had a funny way of eating.</i>
-
-
-
-<i>He peeled the fruit.</i>
-
-
-
-<i>And boy, did he eat slow.</i>
-
-
-
+Things didn't
+always go smoothly.
+And we had our ups and downs,
+that's for sure.
+But everyone was in fine spirits.
+And Crusoe seemed, well, happy.
+He made a funny little door for Epi
+and Pango to get into the nest.
+It was a pretty good idea.
+After a few modifications, that is.
+We became a real team,
+playing all these funny games
+Crusoe came up with.
+He had all sorts of crazy ideas.
+Oh! Like hiding seeds in the ground.
+Crusoe had a funny way of eating.
+He peeled the fruit.
+And boy, did he eat slow.
 Ah!
-
-
-
-<i>It took quite a while,</i>
-
-
-
-<i>but despite his awkwardness
-and all of his flaws,</i>
-
-
-
-<i>Crusoe surprised even
-the most sceptical among us.</i>
-
-
-
+It took quite a while,
+but despite his awkwardness
+and all of his flaws,
+Crusoe surprised even
+the most sceptical among us.
 That's it, that's it. Watch your step.
-
-
-
 I just put the finishing touches
 on our new home.
-
-
-
 New home.
-
-
-
 Hold it right there.
-
-
-
 First thing we must do
 is christen the place.
-
-
-
 It's good luck, you know.
-
-
-
 I christen thee... Oh!
-
-
-
 Oh, never mind.
-
-
-
 Three cheers for us.
-
-
-
 Wow! Now, look at that.
-
-
-
 It's so beautiful!
-
-
-
-<i>Hip, hip, hooray!</i>
-
-
-
+Hip, hip, hooray!
 What in the world is that noise
 he's making?
-
-
-
 - Sounds like Scrubby when he needs food!
 - Hmm!
-
-
-
 It's painful, mates.
 Let's get outta here.
-
-
-
 Oh!
-
-
-
 Personally, I think it sounds beautiful.
-
-
-
 A party and we weren't invited.
-
-
-
 Mal! Quit your daydreaming.
 I am starving here!
-
-
-
 Oh, coming.
-
-
-
 You know how difficult it is
 in my condition to hunt right now.
-
-
-
 Have you tried to make it
 to the other island lately?
-
-
-
 Oh, May. You know the last time I tried
 I almost drowned.
-
-
-
 I'm afraid we're stuck
 with just the bugs and spiders.
-
-
-
 They sound delicious.
-
-
-
 Now, go and hunt some up for me.
-
-
-
 Right, darling.
-
-
-
 I'll wrap 'em in seaweed
 just the way you like 'em.
-
-
-
-<i>With the nest completed,
-Crusoe moved on to a new project.</i>
-
-
-
-<i>We didn't have to forage for food,
-we had this great nest.</i>
-
-
-
-<i>And we even had indoor plumbing!</i>
-
-
-
-<i>Paradise just got better.</i>
-
-
-
+With the nest completed,
+Crusoe moved on to a new project.
+We didn't have to forage for food,
+we had this great nest.
+And we even had indoor plumbing!
+Paradise just got better.
 That human sure has made life
 peachy for us.
-
-
-
 Rosie, he's bonzer to the max.
-
-
-
 I tell ya, old girl,
-
-
-
 if this new world Mak
 talks about is this cushy,
-
-
-
 it may not be that bad after all.
-
-
-
 Getting a little plump, aren't we?
 Sitting around all day.
-
-
-
 Ain't nothing wrong with a few curves,
 Kiki, honey.
-
-
-
 With Crusoe doing the fishing,
-
-
-
 we'll be putting some curves
 on you too in no time, Kiki.
-
-
-
 Ooh, what do we have here?
-
-
-
 Hmm. Looks like Crusoe is going to
 put your fishing skills to shame, Kiki.
-
-
-
-<i>As time passed, life became
-more and more comfortable for us all.</i>
-
-
-
-<i>Yet Crusoe seemed very sad at times.</i>
-
-
-
-<i>He missed his old world.</i>
-
-
-
-<i>He built a strange tower
-an the highest point of the island,</i>
-
-
-
-<i>with bright lights burning every night.</i>
-
-
-
+As time passed, life became
+more and more comfortable for us all.
+Yet Crusoe seemed very sad at times.
+He missed his old world.
+He built a strange tower
+an the highest point of the island,
+with bright lights burning every night.
 Another day, no ships in sight,
 little fella.
-
-
-
 What I wouldn't give to see the sun
 set over the Thames.
-
-
-
 Thames?
-
-
-
 Come on, partner.
-
-
-
 I don't get it.
-
-
-
 Why does he light this every night?
-
-
-
 In the hope that some other humans
 will pass by.
-
-
-
 If they see the signal,
 they'll come and rescue him.
-
-
-
-<i>I knew the chances
-of leaving this island</i>
-
-
-
-<i>were becoming slimmer as time went by.</i>
-
-
-
-<i>I just didn't know how slim.</i>
-
-
-
+I knew the chances
+of leaving this island
+were becoming slimmer as time went by.
+I just didn't know how slim.
 More humans on our island?
-
-
-
 That's not going to happen.
-
-
-
 And now, my friends,
 like all good Englishmen,
-
-
-
 a moment of silence to give thanks
 for this bountiful harvest.
-
-
-
 Psst! Mind your manners.
-
-
-
 - Our host is...
 - Taking a snooze, it appears.
-
-
-
 Or worse.
-
-
-
 Psst! Hey, stop fooling around.
-
-
-
 At least we're not out in that weather.
-
-
-
 Oh, it's miserable out there.
-
-
-
 Listen to you guys!
-
-
-
 We're meant to live in the weather.
-
-
-
 Have you all gone soft?
-
-
-
 Whoa, whoa, Kiki.
-
-
-
 Why get so worked up?
-
-
-
 Oh, you haven't seen worked up.
-
-
-
 Answer me this.
-
-
-
 What happens to us
 when Crusoe leaves this island?
-
-
-
 I mean, have you thought of that?
-
-
-
 Kiki, now... Now, listen.
-
-
-
 Oh, I'm listening.
 I'm listening loud and clear, Mak!
-
-
-
 Shall we eat'?
-
-
-
 If I could just find
 one little morsel.
-
-
-
 One measly little morsel.
-
-
-
 It's mine! It's all mine!
-
-
-
 Mine, mine, mine, mine!
-
-
-
 - What's yours?
 - Nothing.
-
-
-
 You wouldn't be depriving your family,
 now, would you, sweetheart?
-
-
-
 Yes. I mean no.
-
-
-
 Oh!
-
-
-
 Oh, May, that hurts.
-
-
-
 Shame on you! I should...
-
-
-
 Look, the ship's falling apart.
-
-
-
 Our luck is turning.
-
-
-
 Maybe we'll be able to make it back
 to the main island after all.
-
-
-
 Hey, what do you say we go outside
 and have some fun on the waterslide?
-
-
-
 Great idea!
 I love all the smells after a good rain.
-
-
-
 I'll catch up with you guys later.
-
-
-
 I'd better find Kiki first,
 make sure she's all right.
-
-
-
 Why didn't that ship just vanish
 into the sea?
-
-
-
 Our lives are never
 going to be the same again.
-
-
-
 Shall we have a little snack before
 we move on to the main island?
-
-
-
 Oh!
-
-
-
 Help!
-
-
-
 Scream all you want, little bird.
-
-
-
 No one's going to save you now.
-
-
-
 I'll be the son of a sea cook!
-
-
-
 Watch out, children, it's the human!
-
-
-
 Get your filthy paws off my bird!
-
-
-
 Epi, Pango, to the left.
-
-
-
 We'd better get out of here, quick!
-
-
-
 Come on, everyone,
 we've got them surrounded!
-
-
-
 Attack! Ka-boom!
-
-
-
-<i>Oh, he got me.</i>
-
-
-
+Oh, he got me.
 If this is heaven, why are you here?
-
-
-
 They're heading for the big island!
-
-
-
 They're everywhere! It's all my fault!
-
-
-
 We have to warn the others!
-
-
-
 Get to the nest! Now, hurry!
-
-
-
 - Predators!
 - What?
-
-
-
 Did he say predators?
-
-
-
 Oh, no! Hang on, everyone,
 I'll get my musket.
-
-
-
 Oh!
-
-
-
 Batten down the hatches!
-
-
-
 Batten down the hatches!
-
-
-
 I just need a little powder
 and then some shot.
-
-
-
 That's it, Tuesday, close everything up.
-
-
-
 Ow!
-
-
-
 Ah! They're everywhere!
-
-
-
 Get off of me!
-
-
-
 Ah!
-
-
-
 Ah!
-
-
-
 Stay away, you bloody ratters!
-
-
-
 Tuesday, ah!
-
-
-
 Help!
-
-
-
 Get me down from here!
-
-
-
 I may not know human
 but that's "help" in any language.
-
-
-
 Carmello! Crusoe needs our help.
-
-
-
 Oh!
-
-
-
 Ah!
-
-
-
 Uh-oh!
-
-
-
 Oh, duck!
-
-
-
 Ooh!
-
-
-
 Hurry, Epi!
-
-
-
 Whoa!
-
-
-
 Whoa!
-
-
-
 Oh!
-
-
-
 Yee-haa!
-
-
-
 Uh-oh.
-
-
-
 Pango! Over here! Jump!
-
-
-
 - Stand back, Epi!
 - Ooh! Hurry! He's right behind you!
-
-
-
 Yee-haa!
-
-
-
 Go. go!
-
-
-
 I need my musket.
-
-
-
 Now look what you've done!
 You guys stay put!
-
-
-
 Oh, not again!
 Stay away, you mangy cat!
-
-
-
 Hang on, Crusoe!
-
-
-
 Good job, buddy.
-
-
-
 Huh?
-
-
-
 That wasn't so bad.
-
-
-
 Keep pushing.
 I'll take care of these blighters!
-
-
-
 Whoa!
-
-
-
 Whoa!
-
-
-
 Pango!
-
-
-
 Help!
-
-
-
 Whoa! That's awful high.
-
-
-
 Come on, you can make it. Jump!
-
-
-
 Oh, my. Here goes.
-
-
-
 Ooh!
-
-
-
 - Oh, dear.
 - Good work!
-
-
-
 Now, let's get out of here.
-
-
-
 OK.
-
-
-
 So long, furball!
-
-
-
 Hungry, are we? Well, then, take that!
-
-
-
 And how about a banana?
-
-
-
 Whoo-hoo-hoo!
-
-
-
 So long, Knucklehead!
-
-
-
 Scrubby, the door!
-
-
-
 Come on!
-
-
-
 My turn!
-
-
-
 Hello there.
-
-
-
 Many thanks, Scrubs.
-
-
-
 Whoa, whoa, whoa!
-
-
-
 Over here, Epi, girl! Get in the bucket!
-
-
-
 Going up!
-
-
-
 Pango, get him off!
-
-
-
 Get off, you mangy cat!
-
-
-
 Good work, Epi!
-
-
-
 They'll never get me.
-
-
-
 We got rid of 'em, didn't we?
-
-
-
 Epi!
-
-
-
 Pango!
-
-
-
 Huh?
-
-
-
 Whoa! Help me.
-
-
-
 Look out behind you, Epi!
-
-
-
 Whoa!
-
-
-
 Whoa!
-
-
-
 - Help!
 - No! Epi!
-
-
-
 Hang on, I'm coming!
-
-
-
 Whoa!
-
-
-
 Let go of me!
-
-
-
 The cats are trying to get in
 through the hatch!
-
-
-
 No! Rosie, no, that was Crusoe.
-
-
-
 - Oops!
 - Help me get this open.
-
-
-
 Oh, I hope you didn't hurt him.
-
-
-
 Oh! Everybody OK?
-
-
-
 Everybody except Crusoe.
-
-
-
 Come on guys, all together.
 It's heavy.
-
-
-
 Spread out, Rosie.
 We need all the muscle we can muster!
-
-
-
 Really? OK, OK.
-
-
-
 One, two, three!
-
-
-
 Well, that's a bit of a bummer, mates.
-
-
-
 We need Crusoe! How's he doing, Kiki?
-
-
-
 He's alive
 but he won't be of any use to us.
-
-
-
 We're going to need a miracle
 to hold all these cats back.
-
-
-
 I got it. The musket!
-
-
-
 Watch out, guys, it's going to be noisy!
-
-
-
 Are you sure that's a good idea?
-
-
-
 It's worth a try. What else can we do?
-
-
-
 Uh-huh. This could be a bit more
 complicated than I thought.
-
-
-
 Hmm, the human's out.
-
-
-
 Time to make our move.
-
-
-
 Hurry!
 We can't hold them off much longer.
-
-
-
 He always pulls that
 thingamajig back first!
-
-
-
 OK, get ready.
-
-
-
 Huh? That's weird. Hmm.
-
-
-
 What's happening in there?
-
-
-
 Hey, Tuesday, maybe this thingy
 has something to do with it.
-
-
-
 What thingy?
-
-
-
 Ah!
-
-
-
 Now what?
 You know they're going to come back!
-
-
-
 Maybe Crusoe will come to and save us.
-
-
-
 I hate to break it to you guys.
 We're on our own.
-
-
-
 We have to get out of here,
 hide someplace.
-
-
-
 What about Crusoe?
-
-
-
 Pango's right! We can't leave him here.
-
-
-
 Guys, guys, it may not be perfect,
-
-
-
 but I think I've got a plan.
-
-
-
 Well, you'd better lay it out,
 cos we're out of time.
-
-
-
 All right, children, calm down.
 They just got lucky this time.
-
-
-
 We're going to sneak up on them
 and make them pay.
-
-
-
 Now let's show them what we're made of!
-
-
-
 Oh. yeah!
-
-
-
 Aw, you've got a broken wing, have you?
-
-
-
 Don't worry.
 We'll put you out of my misery.
-
-
-
 Stay back or I'll shoot!
-
-
-
 Not so brave now, are you?
-
-
-
 Uh-oh!
-
-
-
 Appears your luck has just run out.
-
-
-
 Oh!
-
-
-
 Whoa!
-
-
-
 You'll have to be quicker
 than that, ratter!
-
-
-
 Get him! He can't fly!
-
-
-
 That should take care of you
 quite nicely.
-
-
-
 Sweet dreams
 from your favourite ratter.
-
-
-
 Get ready!
-
-
-
 - We got him cornered, May.
 - Then, let's finish him off
-
-
-
 once and for all.
-
-
-
 Catch me if you can, ratter!
-
-
-
 Whoa! Hold on!
-
-
-
 Rosie, stop!
 We have to wait for the signal.
-
-
-
 This is it, give it all you have, Rosie!
-
-
-
 - Huh? What's going on?
 - They tricked us.
-
-
-
 Hold on to that tail,
 I'll take care of him.
-
-
-
-We're not <i>so</i> cocky any more, are we?
-
-
-
+We're not so cocky any more, are we?
 Tuesday's in trouble!
-
-
-
 Ah!
-
-
-
 Oh, ho! That was a bonzer plan
 you had there, mate.
-
-
-
 Couldn't have done it without you guys.
-
-
-
 Huh? The fire! Crusoe!
-
-
-
 Crusoe!
-
-
-
 Over here.
-
-
-
 Ouch, that must have really hurt!
-
-
-
 We pulled Crusoe out to safety,
 unconscious but alive.
-
-
-
 And then, out of the blue,
 we get cannon-blasted from your ship.
-
-
-
 Aye. The Captain can be one tough bloke.
-
-
-
 What do you expect?
 They're pirates, after all.
-
-
-
 Pirates?
-
-
-
 You know,
 like them nasty ratters,
-
-
-
 only worse.
-
-
-
 I had a pack of crazed cats on my right.
-
-
-
 I was sure I was a goner!
-
-
-
 I took my musket in one hand,
 my sword in the other
-
-
-
 and carved a swath to the savage hordes.
-
-
-
 Whoa!
-
-
-
 It was horrible, Captain!
-
-
-
 That is the most fantastical yarn
 I've heard in all me life!
-
-
-
 'Tis no yarn, Captain.
-
-
-
 Mmm. So you say.
-
-
-
 Well, then, 'tis time to set sail.
-
-
-
 You and your bird can take a bunk below.
-
-
-
 Oh, Captain. I cannot tell you
 how I long to see England again.
-
-
-
 England?
-
-
-
 We'll not be sailing for them ports.
-
-
-
 Lest we want to be hanging
 from the gallows.
-
-
-
 Right, me mates?
-
-
-
 But you see... We... I must...
-
-
-
 Can you at least drop me off
 a bit closer to home?
-
-
-
 You're with us now.
-
-
-
 Once a pirate, always a pirate.
-
-
-
 Have you got a problem with that?
-
-
-
 - But Captain, if I might...
 - Enough talk!
-
-
-
 Off with ya! And I'll be expectin' ya
 to carry your weight, lad.
-
-
-
 Or you'll be walkin' the plank, ye will,
-
-
-
 OI' worse.
-
-
-
 Look! ls it a mirage, May?
-
-
-
 It's not a mirage, you idiot!
-
-
-
 It's a ship! Children, start paddling!
-
-
-
-<i>♪ I ply my trade for the Union Jack</i>
-
-
-
-<i>♪ Upon the seven seas</i>
-
-
-
-<i>♪ And unless I eat some rancid... ♪</i>
-
-
-
+♪ I ply my trade for the Union Jack
+♪ Upon the seven seas
+♪ And unless I eat some rancid... ♪
 Hey, give it here!
 That be my rum ye be drinkin'!
-
-
-
 Oh, you want some rum, do ya?
 How's me fists instead?
-
-
-
 These are some nasty pirates.
-
-
-
 It won't end well, I'm afraid,
 if we stay another moment.
-
-
-
 Hey! What you be fixin' to do there?
-
-
-
 Oh, nothing. Nothing at all.
-
-
-
 Is that right?
-
-
-
 That ingrate we done rescued
 from the island
-
-
-
 is trying to steal one of our rowboats!
-
-
-
 If anybody gonna be stealing anything,
 it be us!
-
-
-
 No, I was just...
-
-
-
 Hey! What's going on out here?
-
-
-
 Bosun, he's trying to jump ship.
-
-
-
 Get him and throw him in the brig.
-
-
-
 Right! Let's teach him a lesson.
 Take that!
-
-
-
 Go get him!
-
-
-
 Hey, he's gettin' away! Grab him!
-
-
-
 Ha, give me a piece of him!
-
-
-
 There's no way off this ship, you fool!
-
-
-
 Ah!
-
-
-
 Whoa!
-
-
-
 Whoa!
-
-
-
 - Get him!
 - Tuesday!
-
-
-
 - He's mine!
 - I'll grab him.
-
-
-
 Whoa!
-
-
-
 A raft!
-
-
-
 You fools couldn't hit
 the broadside of a barn!
-
-
-
 Come on, lads, show me
 what ye be made of.
-
-
-
 Bosun!
-
-
-
 Get your scurvy excuse for a pirate
 down to my cabin! Now!
-
-
-
 Aye, aye, Cap'n. Right away!
-
-
-
 And the rest of you fools,
-
-
-
 back to work before I give you each
 ten lashes of me whip!
-
-
-
 Blasted bird.
-
-
-
 Cap'n, he's getting away!
-
-
-
 - Shall we send some men after him?
 - Nay. Let him go.
-
-
-
 Oh, Captain!
 Can't we fire a cannon shot,
-
-
-
 blow him to smithereens'?
-
-
-
 Why waste a good cannonball?
-
-
-
 Let him spend the rest of his life
 on that long-forgotten island.
-
-
-
 That is, if the wild beasts
 don't devour him first.
-
-
-
 Aye, aye, Captain!
-
-
-
 It's been nice knowing ya, Ruf.
-
-
-
 We did have ourselves
 a good run there, didn't we, Cec?
-
-
-
 Jump!
-
-
-
 I wasn't going to
 let those ratters get you.
-
-
-
 We friends gotta stick together.
-
-
-
 Nice of you to think so.
 Where we be headed off to, then?
-
-
-
 We're going home.
-
-
-
-<i>♪ We're dreaming about a new world</i>
-
-
-
-<i>♪ Nature removes the borders</i>
-
-
-
-<i>♪ The looks are stronger
-than the words</i>
-
-
-
-<i>♪ People are not strangers</i>
-
-
-
-<i>♪ A place where dazzle our friendships</i>
-
-
-
-<i>♪ Where we can read happiness
-on our lips</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ As long as the sun shines</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ And we can take it higher</i>
-
-
-
-<i>♪ We take it higher</i>
-
-
-
-<i>♪ We take it higher</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ We're dreaming about a new world</i>
-
-
-
-<i>♪ Everybody can understand</i>
-
-
-
-<i>♪ Every language, every colour</i>
-
-
-
-<i>♪ It's for these things that we stand</i>
-
-
-
-<i>♪ A place where dazzle our friendships</i>
-
-
-
-<i>♪ Where we can read happiness
-on our lips</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ As long as the sun shines</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ And we can take it higher</i>
-
-
-
-<i>♪ We take it higher</i>
-
-
-
-<i>♪ We take it higher</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ As long as the sun shines</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ And we can take it higher</i>
-
-
-
-<i>♪ We take it higher</i>
-
-
-
-<i>♪ The world belongs to us</i>
-
-
-
-<i>♪ To us, to us, to us</i>
-
-
-
-<i>♪ To us ♪</i>
+♪ We're dreaming about a new world
+♪ Nature removes the borders
+♪ The looks are stronger
+than the words
+♪ People are not strangers
+♪ A place where dazzle our friendships
+♪ Where we can read happiness
+on our lips
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ As long as the sun shines
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ And we can take it higher
+♪ We take it higher
+♪ We take it higher
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ We're dreaming about a new world
+♪ Everybody can understand
+♪ Every language, every colour
+♪ It's for these things that we stand
+♪ A place where dazzle our friendships
+♪ Where we can read happiness
+on our lips
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ As long as the sun shines
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ And we can take it higher
+♪ We take it higher
+♪ We take it higher
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ The world belongs to us
+♪ The world belongs to us
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ As long as the sun shines
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ And we can take it higher
+♪ We take it higher
+♪ The world belongs to us
+♪ To us, to us, to us
+♪ To us ♪

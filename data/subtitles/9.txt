@@ -1,1319 +1,1319 @@
-{25}{175}Advertise your product or brand here|contact www.OpenSubtitles.org today
-{398}{447}Domnule Bond?
-{491}{525}Da?
-{527}{598}Sunt locotenentul Mathis|de la Fortele Speciale de Politie.
-{694}{760}Acestea sunt acreditarile mele.
-{762}{811}Par a fi in regula.
-{814}{867}Veniti cu mine.
-{5712}{5823}Obisnuiau sa spuna ca un spion bun|este un simplu spion,si inauntru si afara.
-{5903}{5995}Trandafiri,figurine de Tanagra si Debussy.
-{6038}{6089}Canta Debussy in fiecare dupa amiaza
-{6091}{6169}de la apus pana era prea intuneric|ca sa mai poata citi notele.
-{6335}{6423}Statea mult timp in cap, manca bomboane.
-{6455}{6535}Isi lasa intestinele in jos|si le spala cu mana.
-{6544}{6622}Ceva ce a invatat|in timpul calatoriei in Tibet.
-{6726}{6800}M, ce ti-a dat?
-{6802}{6859}Am uitat sa mentionez leii.
-{6862}{6956}- Lei si...mai multi lei.|- Suntem inconjurati de lei.
-{7031}{7113}Nu am venit aici|sa fiu devorat de simbolurile monarhiei!
-{7116}{7165}Te avertizez, M, daca este o capcana...
-{7168}{7246}Calmati-va domnilor.|Nu e nici o capcana, va asigur.
-{7249}{7343}Leii sunt doar curiosi.|El are putini vizitatori.
-{7345}{7402}Asta o pot crede.
-{7750}{7817}Un rai veritabil, nu-i asa, domnilor??
-{7819}{7886}Un rai fara Eva este o absurditate.
-{7888}{7953}Un spion bun este doar un spion.
-{7955}{8018}Nu bun. Grozav.
-{8020}{8090}Cel mai mare spion din istorie, domnilor.
-{8092}{8207}Adevaratul, unicul,|originalul James Bond.
-{8643}{8717}- Domnii sunt aici, Sir James.|- Multumesc.
-{8976}{9039}- Dragul meu Bond.|- Dragul meu M.
-{9074}{9123}Ransome, CIA, Sir James.
-{9126}{9204}J-Junior cipher c-clerk in m-my day,|nu-i asa, Ransome?
-{9206}{9356}Yes, sir. JCC, class G, SIC to SCCT.|CIA, Washington DC.
-{9384}{9433}Smernov, KGB, Sir James.
-{9436}{9491}Ah, da. Inspector de teren.
-{9494}{9582}Ikon 988, GPU, sectorul Siberian.
-{9585}{9648}Imi amintesc de individul asta...Lenin, foarte bine.
-{9650}{9730}organizator de prima clasa, gandire da clasa a doua.
-{9732}{9791}Le Grand, Sir James.|Deuxième bureau.
-{9794}{9861}Promovat in sfarsit de la micile vicii?
-{9863}{9933}Arati incredibil de bine, James.
-{9935}{10015}Timpul, dragul meu M,|nu exista intre peretii acestia.
-{10029}{10165}- Astia nu sunt reali.|- Da, un stigat indepartat din infinita noastra lume.
-{10167}{10226}Pe vremea mea|spionajul era o alternativa la razboi.
-{10229}{10311}Spionul era membrul|al unei selecte si imaculate tagme preotesti,
-{10314}{10425}devotat vocational,|sublim dezinteresat.
-{10454}{10525}Aceasta este o descriere palida|a acestui acrobat sexual
-{10527}{10642}insensibil ce lasa |femeile gafaind in urma sa.
-{10656}{10715}-Ce vrei sa spui...|- Stii foarte bine ce vreau sa spun.
-{10718}{10789}Ingamfatul acela|caruia i-ai dat numele si numarul meu.
-{10791}{10881}Dragul meu James,cand ne-ai parasit|eram un departament mic,
-{10884}{10950}sub-finantat, ridicol de prost echipat.
-{10952}{11024}Era esential|ca legenda ta sa fie pastrata.
-{11027}{11130}Fara un James Bond 007,|nimeni nu ne-ar fi respectat.
-{11132}{11183}El si ale lui dispozitive nenorocite.
-{11185}{11242}Trebuie sa ne folosim|de armele timpului nostru.
-{11245}{11294}Am remarcat.
-{11297}{11422}Tu, Ransome, cu acel truc cu garoafa|care s-scuipa cianura.
-{11424}{11473}Ar trebui sa-ti fie rusine.
-{11498}{11547}Rusii au inceput.
-{11550}{11675}Si tu, Smernov,cu un arsenal|ascuns in bocancii aia grotesti.
-{11708}{11765}Asculta-le cum zdrangane.
-{11785}{11904}Si tu, Le Grand,cu otrava|diferita si mortala in fiecare din butonii tai zburatori.
-{11960}{12058}Si tu, M,|cu stilourile tale aruncatoare de flacari.
-{12060}{12136}V-V-Voi sunteti o gluma de spioni, domnilori.
-{12139}{12206}Suntem in ultima jumatate|a secolului 20, Sir James.
-{12208}{12307}- Chiar si tu trebuie sa recunosti.|- De ce ar trebui, daca eu ii pot face fata?
-{12338}{12459}Priviti-mi gradina.|Acolo afara, este un trandafir negru.
-{12469}{12535}Nu rosu inchis, negru.
-{12543}{12596}Ca o aripa de corb in miezul noptii.
-{12686}{12807}N-as schimba nici macar o singura petala|pentru nimic din ce are lumea voastra de oferit,
-{12810}{12888}inclusiv un Aston M-Martin|cu accesorii mortale.
-{12891}{12985}Aveti numai dispret pentru|proletariat, Sir James. Asta stim.
-{12988}{13074}Daca nu v-as cunoaste bine, as spune|ca v-ati pierdut increderea in democratie.
-{13077}{13153}Poti sparge sticla,|dar nu poti opri vremea.
-{13156}{13292}Lucrurile merg rau. Am pierdut 11 agenti|in ultimile 2 saptamani - 7 ucisi, 4 disparuti.
-{13295}{13400}- Tizul meu este printre ei?|- Ar putea foarte bine sa fie maine.
-{13402}{13471}8 dintre ai nostri au primit de lucru -|2 la Pentagon.
-{13473}{13537}- 16.|- KGB este deplorabil.
-{13539}{13590}Nu pot calcula exact cifrele.
-{13592}{13672}Inamicul a patruns|in cele mai secrete cercuri ale noastre.
-{13675}{13730}- Ne citeste gandurile.|- Din ce stim,
-{13733}{13784}este cu ochii pe noi acum.
-{13787}{13861}Sunteti siguri|ca nu este unul sau m-mai multi dintre voi?
-{13864}{13923}- Nu, nu.|- Sigur.
-{13926}{14031}Pana trece pericolul, trebuie|sa fim uniti in apararea tuturor spionilor,
-{14034}{14106}mari sau mici, indiferent de nationalitate.
-{14109}{14220}Necazurile fac oamenii rai si ciudati,|dar de ce, in puterea unitatii voastre,
-{14223}{14288}deranjati un domn|care s-a retras?
-{14290}{14360}Avem nevoie de inspiratia ta de a ne conduce.
-{14362}{14456}Te rugam da-ne beneficiul|incomparabilelor tale puteri de deductie.
-{14458}{14565}- Pentru toti oamenii liberi si iubitori.|- Pentru glorioasa revolutie socialista.
-{14568}{14621}Daca imi permiteti sa intrerup aceasta insiruire de clisee ,
-{14624}{14708}este momentul zilei|pe care l-am stabilit pentru Debussy.
-{15087}{15171}Poate acesta fi omul|care a castigat Victoria Cross la Mafeking?
-{15174}{15243}Eroul de la Ashanti Uprising?
-{15245}{15333}Ce geniu irosit|in serviciul unui imperiu prabusit.
-{15335}{15423}De ce, in apogeul carieirei,|a decis Bond sa se retraga?
-{15522}{15579}Mata Hari, dragul meu.
-{15582}{15666}- Care este legatura?|- Femeia din viata lui.
-{15668}{15734}- Nu pricep.|- A fost dureroasa lui datorie
-{15736}{15816}s-o momeasca dealungul frontierei Spaniei|prin Franta,
-{15818}{15904}unde a abandonat-o|in fata unui detasament de tragatori.
-{15907}{15956}Chiar a iubit-o.
-{16107}{16154}Deci, James?
-{16156}{16244}Imi pare rau, batrane,|dar ce imi ceri e imposibil.
-{16271}{16335}Poate asta i-ti va schimba decizia.
-{16460}{16579}Dosarul meu vorbeste de loialitatea mea.|Dar nu, nici macar pentru ea, McTarry.
-{16761}{16814}Imi pare rau, James.
-{16843}{16910}Acela este semnalul lui McTarry . Fiti gata.
-{16912}{16942}- Zero.|- On.
-{16944}{16997}- Foc!|- Foc!
-{17160}{17215}Mai sus cu 200!
-{17366}{17417}- Centrul catre Baza.|- Spune.
-{17427}{17484}Incepeti cu Smersh Planul B.
-{17487}{17623}Sir James Bond s-a intors, cu moralitatea lui,|juramintele lui, si cu imaginea de celibatar.
-{17633}{17684}Trebuie sa distrugem aceasta imagine.
-{17832}{17867}Riverbank catre Baza.
-{17869}{17949}- Spune.|- Tinta tocmai a intrat in Scotia.
-{18201}{18297}- Castelul lui M catre baza.|- Numele lui M este McTarry. Foloseste-l.
-{18299}{18344}Planul B in functiune.
-{18347}{18450}Castelul lui McTarry complet ocupat  ,|cu o singura modificare.
-{18452}{18534}Agent Mimi este acum vaduva lui M.
-{18536}{18607}Agentul Mimi a impresionat-o pe Lady Fiona?
-{18609}{18670}Ea a fost cel mai bun agent Scotian.
-{18685}{18744}Si asta este tot ce a mai ramas din McTarry.
-{18752}{18869}Sotul dumneavoastra a murit asa cum a trait,|Lady Fiona.In serviciul Majestatii Sale.
-{18876}{18954}M-am gandit ca ar fi|dureroasa mea datorie d-de-a aduce vestile.
-{18959}{19039}Cum ati stiut ca sotul dumneavostra M -|imi pare rau, McTarry - a murit?
-{19041}{19117}- Ni s-a spus.|-Va pot intreba cine v-a spus?
-{19139}{19205}- Grey Piper.|- Cine?
-{19234}{19295}Spune-i lui Sir James despre Grey Piper, lass.
-{19297}{19361}Ori de cate ori un McTarry moare,
-{19371}{19488}el coboara din munti,|over the loch and through the heather,
-{19490}{19535}intonand bocetul clanului.
-{19537}{19627}Noi punem intotdeauna un "tappit-hen" de|"usquebaugh" in fata usilor castelului.
-{19635}{19698}- "Tappit-hen"?|- Un sfert de whisky.
-{19700}{19757}- Este intr-adevar un cimpoier?|- Nu stim.
-{19760}{19830}Dar este acelasi de 600 de ani.
-{19869}{19959}- Nu a mai ramas nimic??|- Ma tem ca nimic despre care sa putem vorbi.
-{19977}{20078}A fost gasita intr-un copac,|100 de metri de unde stateam.
-{20089}{20177}Scoasa, asa cum era,si a zburat ca o p-pasare.
-{20190}{20257}But whether it is an article of apparel
-{20259}{20347}or an anatomical f-feature,|that is the question.
-{20349}{20480}Ar trebui sa-l inmormantam Crestineste?|Just how p-personal is a toupee?
-{20485}{20569}Poate fi privita doar ca o "peruca".
-{20584}{20678}Eliza,pune-o langa celelalte relicve ale gloriei lui McTarry .
-{20716}{20787}We all ken that|our beloved McTarry of the Glen
-{20789}{20853}was a different man in Whitehall.
-{20855}{20927}Dar femeile McTarry nu pun niciodata intrebari.
-{20982}{21066}In conformitate cu traditiile clanului,|cand lordul moare
-{21075}{21215}un tap negru trebuie luat viu|din Ben Tarry de cartre 6 virgine desculte.
-{21231}{21290}Eu insami il sacrific.
-{21293}{21396}Ficele smulg stomacul,|si-l umplu cu maruntaie.
-{21399}{21448}Minunate maruntaie.
-{21451}{21527}Il parjolesc, il fierb, si apoi il servesc.
-{21541}{21582}Si il mananca?
-{21585}{21688}- Duhoare fierbinte.|- Suna d-delicios.
-{21698}{21805}Incepem festinul la miezul noptii,|washin' the haggis down wi' usquebaugh.
-{21807}{21922}One gies strength to the limbs,|the other fire to the blood for dancin'.
-{21925}{21999}- Danseaza?|- The McTarry funeral fling.
-{22028}{22131}"Argar, argar garar goru argar" it goes.
-{22144}{22236}-Foarte m-miscator.|- Ah,dansam pana ne prabusim.
-{22238}{22320}Dupa o pauza de o ora,|cimpoierul ne trezeste
-{22323}{22384}cu melodia din "Away to the Grouse"
-{22386}{22458}si noi plecam|la o memorabila vanatoare de cocosi de munte.
-{22468}{22529}D-Dar nu este sezon de vanatoare|pentru cocosii de munte?
-{22534}{22643}Ori de cate ori moare un McTarry,|se face sezon pentru cocosii de munte.
-{22810}{22859}Eu sunt Heather.
-{22878}{22960}Eu sunt Meg. Baia dumneavoastra e pregatita, Sir James.
-{22963}{23018}- Multumesc.|- La capatul culoarului.
-{23020}{23135}- Sunteti foarte amabile.|- Lasa-ne sa te ajutam.
-{23137}{23229}- Nu,multumesc. M-ma descurc...|- Intotdeauna il ajutam pe Tati.
-{23243}{23331}Cate sunteti aici?|F-fiice,vreau sa spun .
-{23334}{23424}- 11 cu totul.|- 11? O-oh Doamne.
-{23452}{23530}Si ce varste aveti?
-{23533}{23586}Cine este cea mai... Cati ani are cea mai tanara?
-{23589}{23644}- 16.|- Si cea mai in varsta?
-{23646}{23685}19.
-{23687}{23756}Asta inseamna ca sunt doar...?|Ai grija cu rotula mea.
-{23758}{23842}Sunt numai 3 ani|intre voi 11?
-{23845}{23898}Unele dintre noi suntem adoptate.
-{23901}{23967}Inteleg. Usurel.
-{23969}{24069}- In casa asta sunt b-barbati?|- Nimeni in afara de cimpoieri.
-{24081}{24145}Tatalui meu ii plac numai fetitele.
-{24147}{24243}T-Tatal tau a fost|un om d-diferit in Whitehall.
-{25363}{25428}Verific temperatura apei
-{25430}{25479}cum faceam intotdeauna pentru tatal meu.
-{25504}{25569}Obisnuia sa-mi spuna micul lui termometru.
-{25611}{25662}Ei bine? Intra.
-{25686}{25735}- Sa intru?|- Intra!
-{26012}{26067}Esti sigura ca nu te i-inghesui?
-{26070}{26119}Intra.
-{26211}{26270}I-ti place sa fii spalat pe spate?
-{26272}{26321}Multumesc.
-{26358}{26450}- Cum te c-cheama,draga mea?|- Buttercup.
-{26452}{26526}-Cati ani ai?|- 17.
-{26563}{26635}- Mergi la scoala?|- Taticu'ne-a invatat.
-{26665}{26714}Uite. Esti neted ca un bebelus.
-{26735}{26784}Acum,intoarce-te.
-{27178}{27227}In ce clasa esti?
-{27230}{27316}Can ye nae judge that|for yourself, Sir James? 
-{27318}{27379}- Care este material ta preferata?|- Anatomia.
-{27381}{27432}Asta este mediastinum.
-{27435}{27509}Asta este|orbicularis oris.
-{27511}{27562}Asta este Azygos vein.
-{27565}{27692}Asta este articular cartilage,|si astia sunt synovial membranes.
-{27694}{27772}- Corect,corect.|- Se face foarte frig!
-{27774}{27837}- Quite.|- My daddy liked it hotter. 
-{27842}{27907}I am not your d-da... Quite.
-{28496}{28545}Multumesc.
-{28623}{28689}- La latifundie!|- La latifundie!
-{28766}{28916}In dreapta ta, Sir James - Lady Mary,|fiica Lordului Douglas McTarry,
-{28919}{29011}violata de Campbells in 1622.
-{29022}{29071}In legatura cu asta,
-{29074}{29220}Lordul Douglas l-a trimis pe unicul sau fiu Hamish|s-o violeze pe Lady Campbell lassies.
-{29237}{29329}- In acelasi t-timp?|- Cei mai in varsta primii,desigur.
-{29332}{29426}Cum a prezis scriptura.|Primul ia daruit tripleti.
-{29505}{29579}Casatoria lor a inceput|cu o binecuvantare generoasa,
-{29582}{29641}a contract of marriage was entered into
-{29644}{29759}which brought the McTarrys Black Loch,|Ben Torn, the Shags of Raugh,
-{29762}{29836}Glen Noch,|and a good stretch of salmon water.
-{30208}{30257}Toate cele bune.
-{30324}{30373}Am intrebat, ea face...?
-{31184}{31233}Noapte buna, doamnelor.
-{32653}{32735}Nu am avut somn|gandindu-ma la iubita mea.
-{32771}{32874}Toata noaptea am umblat,tarandu-ma ___________All the long night I walk, grovellin' in grief.
-{32885}{32934}Consoleaza-ma, Jamie lad.
-{32955}{33029}Da-mi umarul tau prietenesc ca sa pot plange.
-{33031}{33101}- Dublu, Jamie.|- Zau, doamna!
-{33103}{33251}Prin prezenta declar vaduvia mea|in acord cu traditia McTarry.
-{33253}{33302}lasa-ma sa-ti fiu mangaiere.
-{33333}{33382}Dublu!
-{33385}{33506}A quaint custom, but one more honoured|in the breach than in the observance.
-{33508}{33574}Atunci va trebui sa platesti flautistul!
-{33590}{33643}Flautistul?
-{33646}{33720}M-ai auzit,|you mean-mou'd, ill-willie cuif!
-{33725}{33784}You'll have to pay the piper!
-{34119}{34174}Robin! Jock!
-{34188}{34243}Sandy!
-{34245}{34347}Ai fost provocat la_____ to warsle|cu Sir James.
-{34391}{34440}He wants to warsle.
-{34619}{34724}I haven't warsled for years.|I may be a little out of p-practice.
-{35539}{35598}Play ball!
-{39397}{39463}Ha!|Superbe!
-{39489}{39540}Formidabil!
-{39602}{39665}Splendid! Bravo!
-{39786}{39849}Magnific. Dar...
-{39993}{40052}E surprinzator cat de repede se intorc toate.
-{40054}{40159}Ah, bine. Un mic somn de frumusete|inainte de vanatoare,poate?
-{40525}{40588}Beaters, urmareste-o pe Marie peste ______ the butts.
-{40633}{40700}Eliza, stacu mine|pentru numaratoare.
-{41229}{41342}Oh, iubirea mea este ca un trandafir, rosu
-{41372}{41452}that's newly sprung in June.
-{42867}{42916}- Foc, Mission.|- Roger.
-{42919}{43003}- Fuse alarm missiles.|- Roger.
-{43005}{43054}- Supercharge.|- Roger.
-{43144}{43187}Foc.
-{43414}{43463}Butonul!
-{43520}{43577}Butonul!
-{43611}{43670}Butonul!
-{43771}{43847}- Oh, draga!|- Ce bine ca mi te-ai alaturat.
-{43850}{43930}- Butonul! Butonul!|- Este cu el.
-{43940}{43993}Magnetic! Homing device!
-{43996}{44099}- Care buton este? Lasa-ma sa ma uit!|- Este un cutit in buzunarul meu.
-{44132}{44187}- Vezi!|- Da-mi drumul la maini._____Take off my braces.
-{44207}{44256}Mainile.
-{44719}{44816}Si acum, doamna, daca esti|draguta sa-mi dai cateva raspunsuri.
-{44818}{44919}Ordinele noastre au fost sa te corupem,|_____to befoul your image of yourself.
-{44921}{44976}Failing that, we were to kill you.
-{44979}{45061}- Am vazut.|- Uite! Au gasit butonul.
-{45355}{45437}- Cine ti-a dat aceste ordine?|- Authority.
-{45440}{45504}International Mothers' Help, East Berlin.
-{45899}{45948}Jolly good sport, what?
-{46015}{46064}Esti ranit.
-{46113}{46162}'Tis but a thimbleful.
-{46196}{46245}But heart's blood.
-{46281}{46365}Cu bine, Jamie.
-{46396}{46445}Draga mea.
-{46475}{46534}Din nou. Spune din nou.
-{46557}{46656}James Bond, my jo James.
-{46687}{46756}James Bond, my jo.
-{46803}{46852}Draga mea.
-{46865}{46914}Inca o cerere.
-{46939}{46988}Ultima.
-{47089}{47221}Gandeste-te la mine|ca la a doua femeie din viata ta.
-{47248}{47328}Cea dupa Mata Hari.
-{47395}{47465}Saruta-ma, Jamie.
-{47467}{47526}Saruta-ma de la revedere.
-{47695}{47758}Madam! Esti sigura ca esti pe moarte?
-{47798}{47880}Nu pe moarte, dar renuntand la viata mea.
-{47902}{47961}Ma duc in alta lume.
-{47997}{48065}Este un _____convent dupa acel deal.
-{48503}{48605}Bond parasind Scotia acum.|Am inteles instructiunile.
-{49392}{49443}Jag catre Dairy. Legatura efectuata.
-{49445}{49537}- Pregateste-te sa livrezi laptele.|- Dairy catre Jag. Am inteles.
-{49539}{49605}- Pregateste-te, Remote Control.|- Remote control gata.
-{49607}{49693}Viteza gata. Distanta gata.
-{49741}{49796}- Incepeti ____milk float.|- Contact.
-{50067}{50126}- Distanta 75 yarzi.|- Accelereaza.
-{50371}{50434}- Prima bomba.|- Verificat.
-{50674}{50731}- Gap has widened.|- 30 yarzi.
-{50733}{50782}- Retract detonators.|- Check.
-{50892}{50961}- Tine-le. Este prea aproape.|- Viteza in scadere.
-{50963}{51008}Ignora Jag. Mareste viteza.
-{52085}{52163}- Distanta_____ gauge failing.|- Vizibilitate in scadere. Fara vizibilitate.
-{52238}{52343}Schimb pe control automat.|Buna, Jag. Ma receptionezi?
-{52484}{52550}Reduc viteza. Sunt in linie dreapta.
-{52552}{52611}Jag catre Dairy. Redu viteza acum!
-{52618}{52675}Buna, Jag. Vino aici, Jag.
-{52678}{52727}- Detonators out.|- Out.
-{53364}{53442}Doamne! Moneypenny.|Nu te-ai schimbat decloc.
-{53548}{53630}De fapt,|sunt fata doamnei Moneypenny.
-{53664}{53762}- Ce face draga ta mama?|- Dupoa ce ai plecat, ____ she took the vows.
-{53764}{53825}That seems to be|the in thing to do these days.
-{53827}{53888}Trebuie sa spun, acest loc|imi rascoleste amintiri.
-{53891}{53944}Da,mama mi-a spus cateva dintre ele.
-{53986}{54119}She probably also told you that I'm partial|to jasmine tea. Lapsang Souchong.
-{54121}{54205}Apropo, de cand am venit aici|ai observat ca ma balbai?
-{54208}{54257}- Nu, sir.|- Anunta-ma cand observi.
-{54260}{54309}Nu am timp acum pentru asa ceva.
-{54312}{54390}- Vei avea nevoie de mine la noapte, sir?|- Aproape sigur.
-{54393}{54477}Daca voi prelua acest departamen,|trebuie sa stiu toate secretele lui M.
-{54479}{54542}Nu cele personale, desigur.
-{54554}{54638}- Va urez bine ati revenit, Sir James.|- Multumesc...
-{54640}{54699}- Hadley, sir.|- Bineinteles. Esti...
-{54702}{54794}- Fiul tatalui meu, sir.|- Si unde este tatal tau acum?
-{54796}{54857}- In acelasi loc, sir.|- Asta e incurajator.
-{54860}{54932}Punema-la curent.|Cine in ce misune e?
-{54934}{54998}- Nu e o imagine prea frumoasa.|- De ce e asa de sumbru?
-{55005}{55054}Mi se pare ca au fost lichidati.
-{55066}{55154}Finlanda - injunghiat pana a murit|intr-o sauna pentru femei, sir.
-{55190}{55259}Madrid - ars intr-un bordel, sir.
-{55261}{55353}Si Tokyo, sir -|strangulat intr-o casa de geishe.
-{55362}{55463}Este dezolant ca "agent secret"|a devenit sinonim cu "maniac sexual".
-{55465}{55565}- Apropo, unde este omologul meu?|- A trebuit sa ne descotorosim de el, sir.
-{55567}{55616}Acum face televiziune.
-{55625}{55688}De ce sunt doua steaguri|in Caraibe?
-{55690}{55784}Nu am mai fost in contact pentru o luna,|sir. Nu am fost siguri care a plecat.
-{55787}{55875}- Cine e acolo?|- Nepotul dvs., sir. Jimmy Bond.
-{55877}{55965}Mai mult o dezamagire,|din pacate, micul Jimmy.
-{55967}{56038}Asculta. Nu poti sa ma impusti.
-{56040}{56095}I have a very low threshold of death.
-{56098}{56198}Doctorul meu spune ca nu pot|fi impuscat niciodata.
-{56279}{56328}What if I said I was pregnant?
-{56437}{56552}Pot sa fumez o ultima tigara?|Ma voi lasa in orice zi de acum incolo.
-{56555}{56604}Multumesc.
-{56691}{56732}¡Listos!
-{56752}{56821}Iti dai seama ca asta inseamna|o scrisoare cu repros catre The Times.
-{56835}{56894}¡Apunten!
-{56896}{56943}¡Fuego!
-{56956}{57036}La revedere, fraierilor!
-{57165}{57210}¡Apunten! ¡Fuego!
-{57275}{57334}And so I think|we'd better count him out, sir.
-{57337}{57442}Yes. Hadley, we're up against|an opposition of fiendish ingenuity.
-{57444}{57524}- They make incredible use of women.|- Yes, they tend to nowadays.
-{57527}{57646}Female spies harassed me in Scotland,|female spies chased me to London.
-{57649}{57735}We need an AFSD -|Anti-Female-Spy Device.
-{57748}{57844}We find the one man all women want,|then we train him not to want women.
-{57854}{57921}Toti agentii nostri wantable |au disparut, sir.
-{57923}{58013}Asta e momentul in care intervii tu.|Verifica toate documentele auxiliare.
-{58015}{58066}Toate, sir? O sa dureze toate noaptea.
-{58076}{58127}Mama ta lucra cel mai bine noaptea.
-{59313}{59370}Sa continuam?
-{59525}{59632}- Si care este numele tau?|- Cooper, Big Eyes. Dar spune-mi Coop.
-{59635}{59719}- Ca un cotet de pasari.|- Asta's eu.
-{59782}{59916}- Trebuie sa notez calificarea ta.|- Inaltime 6ft 1/2, 184lb.
-{59918}{60023}Trofee la karate si judo,|detinator al centurii negre Kamasutra.
-{60026}{60120}- Impresionant. Cum traduci asta?|- O sa-ti arat.
-{60123}{60205}I have to check 15 more auxiliaries|in alphabetical...
-{60208}{60325}Call Mr Zacharias and tell him not to|wait up. The vacancy's just been filled.
-{60412}{60488}A first-class performance, Cooper.|Excellent.
-{60490}{60582}- Your primary statistics fit the bill.|- We aim to please, sir.
-{60584}{60650}You will start|your AFSD training immediately.
-{60652}{60738}Moneypenny, get a few dozen girls|for Cooper to start with.
-{60741}{60796}- Moneypenny?|- A few dozen girls...
-{60798}{60853}I appreciate your confidence, sir.
-{60856}{60959}All agents and trainees will now be known|as James Bond 007, including the girls.
-{60962}{61005}Won't that be confusing, sir?
-{61008}{61094}The enemy won't know which way|to turn. You are now James Bond.
-{61104}{61161}Congratulations, 007.
-{61164}{61234}And you, 007... sir.
-{61236}{61285}Good hunting, 007.
-{61873}{61932}Doesn't that do something to you, 007?
-{61934}{62036}It does but I'm being trained to ignore it.|Beauty's only skin-deep.
-{62054}{62125}How about some skin diving?
-{62127}{62176}Not today, Lorelei.
-{62179}{62228}Right. Ting-Ling.
-{62313}{62403}You know that every fifth child|born in the world is Chinese?
-{62406}{62511}- They'll have to keep it up without me.|- Why are you so inscrutable?
-{62513}{62589}- That's meant to be our racket.|- You might be a double agent.
-{62591}{62679}- What would you do if I was?|- Whether you are or not, sayonara.
-{62734}{62783}Next. Shirley.
-{62893}{62957}- You're not Shirley.|- No.
-{62959}{63020}I'm the new secret weapon.
-{63022}{63081}- I've just been perfected.|- Yes, haven't you?
-{63084}{63160}- They've kept me under wraps.|- Lucky them.
-{63211}{63260}What do you do that's so secret?
-{63263}{63374}I don't do anything.|But unless you're one of them, you do.
-{63513}{63599}You're really learning|to put up quite a resistance.
-{63601}{63666}- It goes against my nature.|- I sense that too.
-{63668}{63750}- What are you doing after the exercise?|- Getting my head examined.
-{63956}{64052}Our man in Delhi tells us gold will|be up two points by midday tomorrow.
-{64054}{64082}Buy gold.
-{64085}{64183}- It'll cost you three nuclear warheads.|- Offer two.
-{64185}{64246}Your offer for Rockefeller Center|is accepted.
-{64249}{64337}I've changed my mind. I like London.|What about Lord Nelson's statue?
-{64339}{64415}It was delivered today, Miss Lynd.
-{64464}{64515}My dear Miss Lynd.
-{64550}{64626}- Who are you, sir?|- I am Sir James Bond.
-{64704}{64763}But I thought you were retired, Sir James.
-{64766}{64832}The whole world believes|you were eaten by a shark.
-{64834}{64922}That was no shark,|that was my personal submarine.
-{64924}{64979}But enough of this polite conversation.
-{64981}{65067}- What is the purpose of your visit?|- I desperately need your help.
-{65069}{65180}My dear Sir James, I hardly ever|undertake assignments these days.
-{65182}{65283}I can see why, but I think I can|persuade you to undertake this one.
-{65285}{65352}Your reputation is remarkable.
-{65354}{65440}But believe me when I say|I save all my energies for business.
-{65470}{65552}I have here a writ|for just over £5 million tax arrears.
-{65563}{65616}If you were to be cooperative,
-{65618}{65698}I could arrange easy payments|and a substantial discount?
-{65737}{65827}Perhaps we should discuss|this matter in comfort, Sir James.
-{65830}{65918}Thank you. What a charming outfit that is.
-{65920}{65983}Do you often wear that in the office?
-{65985}{66056}If I wore it in the street,|people might stare.
-{66082}{66143}You said, Sir James, you needed my help.
-{66145}{66239}I did, didn't l? I have a dossier on a man|who works at the Buckingham Club.
-{66241}{66290}His name is Evelyn Tremble.
-{66545}{66623}Mr Evelyn Tremble?
-{66677}{66769}- Yes, that's right.|- Isn't Evelyn a girl's name?
-{66816}{66865}No, it's mine actually.
-{66938}{67032}- Do you know me from somewhere?|- Your book: Tremble On Baccarat.
-{67035}{67092}I've studied it very closely.
-{67102}{67182}At night, in my bed.
-{67207}{67256}Is that where you study it?
-{67280}{67370}There are several passes|you describe in your book
-{67373}{67424}which I don't fully understand.
-{67427}{67476}Which passes are these?
-{67479}{67588}They're all marked. I would|have to have my book. Your book.
-{67633}{67690}And my book is in...
-{67706}{67745}My bed.
-{67972}{68031}You're winning tonight.
-{68118}{68177}I'll send my car for you.
-{68519}{68591}- Yes?|- Hello. It's me, Evelyn Tremble.
-{68594}{68672}Hello, Mr Tremble.|Can you hold on for a moment?
-{68932}{69047}Eric? Don't forget to empty|the deepfreeze first thing in the morning.
-{69062}{69148}Hello, Mr Tremble.|I'm so sorry to keep you waiting,
-{69150}{69205}but I was just seeing someone off.
-{69208}{69290}Come right up, all right? Bye-bye.
-{69345}{69402}- So nice of you to come.|- My pleasure.
-{69405}{69441}This way.
-{69443}{69527}The look of love
-{69555}{69649}Is in your eyes
-{69667}{69859}A look your smile can't disguise
-{69899}{70014}The look oflove
-{70051}{70230}It's saying so much more|than just words could ever say
-{70289}{70359}And what my heart has heard
-{70361}{70453}Well, it takes my breath away
-{70478}{70548}I can hardly wait to hold you
-{70555}{70620}Feel my arms around you
-{70632}{70701}How long I have waited
-{70703}{70754}Waited just to love you
-{70757}{70839}Now that I have found you
-{70855}{70966}You've got the look of love
-{70988}{71078}It's on your face
-{71104}{71303}The look that time can't erase
-{71370}{71417}Hello.
-{71446}{71495}Hello.
-{71606}{71684}That's Lord Nelson, isn't it?
-{71687}{71755}- Yes. Isn't he beautiful?|- Yes.
-{71773}{71824}- And do you know what he said?|- What?
-{71840}{71924}England expects every man|to do his duty.
-{71944}{72106}So he did, yes. But this is Mayfair.|Lord Nelson's in Trafalgar Square surely.
-{72116}{72198}No, not any more. He's mine.|Haven't you read the papers today?
-{72200}{72309}- I don't normally get them quite so early.|- I get 'em before they're printed.
-{72311}{72383}I suppose you can do anything|if you have money.
-{72386}{72437}Why don't you come down to me?
-{72498}{72551}Thank you very much.
-{72553}{72608}Lovely place you've got down there.
-{72611}{72660}Sit here.
-{72767}{72864}I do so like to feel comfortable|whatever I'm doing.
-{72866}{72971}Yes indeed. Yes.|The more relaxed the muscles,
-{72973}{73088}the better the synchronisation|between mind and body.
-{73106}{73198}I should think you're frightfully|synchronised, Mr Tremble.
-{73300}{73366}- Martini?|- What about them?
-{73368}{73432}I was just about to offer you one.
-{73655}{73768}The things I didn't understand|too well in your book. Let me see...
-{73771}{73857}Was it in chapter seven or chapter six?
-{73904}{73961}Chapter six probably.
-{73964}{74060}Though of course|it could have been chapter seven.
-{74106}{74184}Have you got the book|or is it still in your bed?
-{74217}{74266}I believe it is.
-{74548}{74634}Well, we'd better go|right through the book, hadn't we?
-{74945}{75019}Do you get many complaints|from the neighbours?
-{75163}{75263}Do you really think that your system|is completely faultless?
-{75265}{75353}- Which system?|- Your system for winning at baccarat.
-{75360}{75551}Yes, yes.|The Evelyn Tremble system is faultless.
-{75553}{75637}Good. Come on. We have more to do.
-{75651}{75690}More?
-{75693}{75765}I like a man who is able|to retain his own personality,
-{75768}{75839}no matter what the circumstances.
-{75871}{75905}Yes.
-{75907}{75972}No matter how he's dressed.
-{75995}{76071}They say it's the clothes|that make the man.
-{76073}{76178}If we're gonna work together, I have|to know what kind of a man you are.
-{76235}{76305}I thought you might have|gathered a little from...
-{76307}{76405}I want to see what happens when|you put on a different hat, a costume.
-{76407}{76464}You know, that sort of thing.
-{76484}{76607}- You like that sort of thing, eh?|- You'll find clothes in there. Put them on.
-{76628}{76693}Well, if you think it's really necessary.
-{76695}{76750}Unless you'd like to|go around one more time.
-{76753}{76802}One more time?
-{77012}{77150}There is nothing wrong with the British|Army that a damn good swim won't cure.
-{77172}{77248}Now, Evelyn Tremble.
-{77251}{77320}38 years old, born in Highgate.
-{77330}{77385}Hello, sailor.
-{77484}{77533}The wrong one, yes?
-{77582}{77623}Perfect.
-{77625}{77724}Distinguishing birthmark,|little scar on right shoulder,
-{77726}{77794}strawberry-shaped birthmark on left thigh.
-{77796}{77860}Well, there's nothing unusual in that.
-{77862}{77950}No. I myself have|an apricot one on my hip.
-{77959}{78043}Well, I'll show you my strawberry|if you'll show me your apricot.
-{78045}{78102}Author of a book on baccarat.
-{78263}{78333}Have you ever heard of|a man called Le Chiffre?
-{78344}{78445}Yes. An excellent card player.|He once wrote me a fan letter.
-{78460}{78534}Keep your hands there. Perfect. Lovely.
-{78577}{78707}I devoted a chapter to him in my book.|His forte is baccarat.
-{78720}{78792}Beside baccarat, he deals in lechery.
-{78811}{78862}Well, nobody's perfect.
-{78874}{78977}Do you think you can|win against Le Chiffre?
-{78980}{79120}Well, you'll remember that to operate|my system completely free of risk
-{79122}{79192}a stake of £100,000 is required.
-{79209}{79262}Yes, I remember.
-{79265}{79314}Stand still.
-{79407}{79576}I'm gonna give you a 500th at f2.
-{79610}{79694}That's the nicest thing|that anyone's ever said to me.
-{79762}{79871}What would you say if I offered|to stake you in a game against Le Chiffre?
-{79920}{79956}What?
-{79958}{80060}I put up the money, you play the game|and we split 50-50.
-{80159}{80243}- I think I'll go now if you don't mind.|- What's wrong?
-{80280}{80362}I enjoyed the earlier part|of this evening very much.
-{80378}{80466}I shall always remember|the pleasure of your company.
-{80468}{80548}I didn't even mind this dressing-up bit.
-{80550}{80667}But I do mind bloody unnecessary jokes|about the one thing I really know well.
-{80669}{80788}Evelyn, I'm serious. It's because you|know about baccarat that I'm not joking.
-{80799}{80870}You said you needed £100,000?
-{80921}{80982}- It's yours.|- That's fantastic.
-{81008}{81113}But look here. Old Le Chiffre|would never agree to play me.
-{81115}{81174}He's read my book.|He'd recognise my name.
-{81176}{81244}- No, no. Not any more.|- Why?
-{81255}{81325}We have chosen a new name for you.
-{81338}{81385}James Bond.
-{81405}{81477}Welcome to|the James Bond 007 training school.
-{81480}{81595}It's a small Minnox camera, isn't it?|A friend of mine's got one of those.
-{81598}{81653}- It's Mr Bond, isn't it?|- Yes.
-{81656}{81717}If you'd be good enough to sign here, sir.
-{81720}{81827}It's not for me.|It's for the Official Secrets Act.
-{81829}{81855}Of course.
-{81857}{81927}Eyes right!
-{81956}{82003}Eyes front!
-{82005}{82083}- Carry on, Sergeant Major.|- Yes, sir. Mark time!
-{82112}{82175}Halt! About turn.
-{82250}{82305}You really do stock|everything at Harrod's.
-{82308}{82386}Don't pay too much attention.|It's all basic stuff.
-{82388}{82456}It'll be out of date by the January sales.
-{82562}{82629}- Good morning, Johnson.|- Sir!
-{82855}{82906}May I tell you something?
-{82909}{82981}- I'm being followed.|- I know. It's part of the training.
-{82984}{83037}Shadowing people without being seen.
-{83039}{83146}The whole point is I can quite clearly|see the man who is shadowing me.
-{83184}{83274}Oh! Him. Don't worry about him.|He's not one of our trainees.
-{83276}{83345}- He's our security man.|- I see.
-{83353}{83435}Good morning, lnspector.|Don't let me interrupt you.
-{83437}{83500}On the command,|the head is turned thus,
-{83502}{83573}the hat is aimed thus,|the gun is fired thus.
-{83679}{83742}Yes, we're still working on that one.
-{83765}{83834}Now to Agents' Outfitting. Here we are.
-{83874}{83942}- Morning, Q.|- Good morning, Fordyce. New man.
-{83996}{84062}If I could bother you|for the signature, sir.
-{84064}{84142}I shouldn't use that pen.|The moment the nib touches the paper,
-{84145}{84235}it releases a stream of poisonous gas|into the writer's eye.
-{84237}{84301}Good heavens!|What will they think of next?
-{84303}{84356}I won't be going near that.
-{84359}{84433}I suppose it's useful|if you want to send anyone a...
-{84435}{84484}Poison-pen letter.
-{84487}{84618}All our new men say that. I reply "I don't|wish to know that. Kindly leave Ml5."
-{84637}{84742}Yes, sir. We have a very highly developed|sense of humour down here.
-{84744}{84863}It isn't the only thing that's|highly developed down here. Fordyce!
-{84866}{84929}- Wristwatch.|- Sir.
-{84931}{85013}1965 Rolex Oyster Perpetual.
-{85023}{85124}Date indicator and log table|round the outer band.
-{85126}{85204}And a thing that shows you|what shape the moon is.
-{85230}{85324}- Now, this is very important. Try it on.|- Let me help you.
-{85327}{85432}It's your means of reporting to us|and our means of contacting you.
-{85434}{85497}Channel six, Fordyce.
-{85499}{85587}Don't worry too much about him, sir.|Channel six it is, sir.
-{85590}{85670}I don't think I know|which one is which myself now, sir.
-{85673}{85740}Look at your watch|and tell me what you see.
-{85761}{85880}It's five and 20 minutes past 11 .|It's the 14th of March and...
-{85892}{85953}I said channel six, Fordyce.
-{85983}{86032}Well, nobody's perfect.
-{86114}{86212}But it's absolutely amazing!|I've never seen anything like this.
-{86226}{86306}It's a two-way television|and radio wristwatch.
-{86327}{86425}It's an American idea. They got it|from one of their comic strips.
-{86427}{86496}- Good heavens.|- Ah! Tea.
-{86498}{86530}Three lumps.
-{86532}{86593}It's an incredible thing, this.
-{86596}{86670}Which side do you dress, sir?
-{86672}{86808}- I usually dress away from the window.|- It's just some protective clothing, sir.
-{86810}{86879}Let me help you|out of your hampering things.
-{86950}{87005}And it is of course Sanforized, sir,
-{87008}{87105}non-iron, and also available|in chocolate, oyster or clerical grey.
-{87107}{87209}- It's hand-reefed and double-charvered.|- Is it?
-{87211}{87297}- It's a little tight around the...|- Poison capsule compartment?
-{87299}{87412}I'm sure we can let it out above|the switchblade and Geiger counter.
-{87414}{87494}Do what you can, Fordyce.|Your intercom button's in here
-{87497}{87567}with midget transmitters|for short-range contacts.
-{87569}{87668}There's an infrared camera, a tape|recorder in the shoulder padding,
-{87670}{87805}a Beretta in the buttonhole,|and a cute little minigun in the gusset.
-{87807}{87856}Yes. Just one thing.
-{87859}{87943}What happens|if I suddenly need to go somewhere?
-{87951}{88070}In this, sir? You'll find safety|instructions under the left lapel.
-{88090}{88172}Don't worry.|You're in very good hands here.
-{88198}{88249}Now this won't hurt a bit, sir.
-{88260}{88375}- Who g-gave you these orders?|- International Mothers' Help, East Berlin.
-{88377}{88473}There it is, Hadley. Our only clue.|The voice of a beautiful woman.
-{88475}{88584}We've checked it out, sir.|It's a Smersh cover operation, sir.
-{88587}{88698}It supplies baby-sitters and au pair girls|to some of the most important families.
-{88701}{88781}Then it must be infiltrated|by someone absolutely reliable.
-{88783}{88861}- I hope you weren't thinking of me.|- I was thinking of Mata.
-{88864}{88948}- You can't mean Mata Hari, sir.|- No, her daughter Mata Bond.
-{88950}{89015}- Mata Bond, sir?|- Her mother gave her that name
-{89017}{89101}because I happen to be|the child's sort of godfather.
-{89103}{89201}And to think that you knew Mata Hari!|She really was one of the greats.
-{89203}{89283}Yes. Great little dancer, terrible spy.
-{89285}{89379}Whereas young Mata is a terrible dancer.|Might be a great little spy.
-{94237}{94354}It's uncanny. Quite uncanny.|What memories it brings back.
-{94357}{94484}Paris, Berlin, Vienna.|How madly we danced through the night.
-{94486}{94584}- I was disguised as a Hungarian hussar...|- What are you going on about?
-{94608}{94709}You're the very image of your mother|and every bit as beautiful.
-{94711}{94766}You knew my mum?
-{94784}{94833}I am Sir James Bond.
-{94856}{94905}- Daddy!|- My child.
-{94970}{95052}- Snail's egg?|- No, thanks. They don't agree with me.
-{95071}{95145}Well, you're a charmer, aren't you?
-{95183}{95300}You dump me in an orphanage when I'm|three, and now, because you need me...
-{95303}{95395}It really was very difficult.|My career was at its height...
-{95398}{95482}It was a traumatic experience,|I can tell you,
-{95485}{95565}being the illegitimate daughter|of Mata Hari and James Bond.
-{95568}{95637}Still, you do get my monthly paychecks?
-{95653}{95731}Your monthly paychecks|went on analysts' fees.
-{95734}{95808}That's why I came here.|I had to get away from it all.
-{95810}{95904}I had no idea. Well, I must say,|you seem to be very comfortable here.
-{95906}{95971}It's crazy. You want a drag?
-{95973}{96061}No, thank you. I'm trying to give that up.|Who are all these people?
-{96063}{96135}They're the high priests of the temple.|OK, Fred. Hop it.
-{96354}{96440}Extraordinary performance.|They seem to treat you like a goddess.
-{96443}{96556}Well, I am the Celestial Virgin|of the Sacred Altar.
-{96586}{96676}- Figuratively speaking, of course.|- Of course. Some tea.
-{96679}{96736}A cup of tea. Splendid.
-{96739}{96846}It's made from poppy seeds. Two cups of|this and you're stoned out of your mind.
-{96849}{96879}Thank you.
-{96882}{96993}You know, if you weren't my dad,|I think I could fancy you.
-{97024}{97083}Well, that's very good of you, my dear.
-{97086}{97178}- Rather warm in here, don't you think?|- Cool it, Charlie.
-{97181}{97232}So you want me to go to Berlin, huh?
-{97235}{97315}Now, Mata. You remember|the old house on the Feldmannstrasse?
-{97318}{97419}- Where Mum had her dancing school.|- It's become lnternational Mothers' Help.
-{97421}{97495}But that's just a cover|for its real function. It is...
-{97497}{97566}- Does he speak English?|- Hey, Charlie. Speak English?
-{97568}{97617}- No.|- Good.
-{97620}{97702}It is a training centre for what|are commonly referred to as spies.
-{97705}{97797}You are eminently suited|to infiltrate the organisation.
-{97799}{97877}Two weeks' briefing in London|and you're off to Berlin.
-{97921}{97974}You want me to be a spy like Mum, huh?
-{98000}{98059}- Well!|- Family tradition, my dear.
-{98062}{98152}Do I get an exploding briefcase|and a secret transmitter?
-{98154}{98226}- That won't be necessary.|- I have to have some equipment.
-{98228}{98341}Your mother wiped out three divisions|of infantry and five of cavalry and...
-{98344}{98434}Well, frankly, she had|much less equipment than you have.
-{98605}{98681}If you have any problems,|contact London immediately.
-{98683}{98781}- Are there any questions?|- Well, I have got one question.
-{98783}{98859}- How do I get to Berlin?|- Oh, dear! Silly me.
-{98862}{98911}Taxi!
-{98935}{98976}- Where to?|- Berlin.
-{98978}{99029}- East or West?|- West, of course.
-{99032}{99087}Well, that's all right, then.
-{99090}{99195}- Say goodbye to Dad for me.|- Yes. Have a good trip. Jolly good luck.
-{99323}{99397}Get out of it, you lunatic!|What are you trying to do?
-{99414}{99502}Come on! Move. Get out of it.|Get out the way! Go on.
-{99813}{99907}- That'll be £482 15s 9d.|- You'll have to wait.
-{99909}{99987}I've been caught like that before.|I haven't had my dinner yet.
-{99989}{100058}- I don't have any change.|- Here we go.
-{100109}{100158}What about my dinner then, eh?
-{100161}{100232}What a liberty. Any fish and chip shops|round here, mush?
-{101501}{101554}Who are you? What do you want?
-{101608}{101678}I'm here to enrol as a student.
-{101686}{101741}What are your qualifications?
-{101771}{101859}- I am the daughter of Mata Hari.|- Mata Hari!
-{101861}{101930}- You are a liar.|- Am l?
-{101975}{102046}Well, what about this, then?
-{102048}{102132}My little Mata Hari!
-{102135}{102237}- I told you she'd come back!|- Silence! Or I will switch you off.
-{102260}{102354}Not that! Anything but that.
-{102357}{102451}You're even more|fascinating than your mother.
-{102464}{102527}You must be Frau Hoffner,|Mum's teacher.
-{102529}{102590}- I had that honour.|- You must be Polo.
-{102602}{102696}She remembers me, her little Polo.|She remembers me.
-{102699}{102752}- Welcome home.|- Welcome indeed.
-{102755}{102798}Shtum!
-{102818}{102956}The Mata Hari School of Dancing is the|only international school of espionage.
-{102958}{103015}There is no political prejudice here.
-{103017}{103134}We train Russian spies for America|und American spies for Russia.
-{103136}{103203}- Very democratic.|- Very democratic.
-{103233}{103346}Some of the greatest spies in the world|have graduated from this institution.
-{103348}{103442}- Von Grudendorf, Malenvosky...|- Peter Lorre, Bela Lugosi.
-{103444}{103522}Here we have|the decoding and cipher class.
-{103725}{103803}We are even training animals|as espionage agents.
-{103806}{103896}We have in the Kremlin|a Russian-speaking parrot
-{103899}{103977}in constant radio communication|with the Pentagon.
-{103980}{104046}Und here is our class|in karate und self-defence.
-{104183}{104251}Excuse me. I have|an important conference to attend.
-{104253}{104310}Polo, you will show Mata to her room.
-{104313}{104362}Please, follow me.
-{104498}{104559}Mata? Allow me.
-{104607}{104666}- Thank you.|- Follow me.
-{104781}{104851}My battery needs recharging.
-{104870}{104979}- Might be your head needs examining.|- No, I had that examined last week.
-{105013}{105149}This is your mother's room. It has not|been opened since she left here in 1916.
-{105277}{105334}You see? Nothing has been touched.
-{105336}{105385}It's a wild room.
-{105405}{105464}Hey, what an enormous bed.
-{105467}{105553}The German army|was very large in those days.
-{105584}{105689}To see you here in your mother's room|brings back such happy memories.
-{105708}{105767}Here.
-{105769}{105915}What's all this about|an important conference, hm?
-{105959}{106025}A representative of Le Chiffre is coming.
-{106097}{106132}Tonight.
-{106134}{106191}Who is Le Chiffre?
-{106193}{106242}Nobody knows.
-{106298}{106351}Not even Le Chiffre.
-{106387}{106446}What's the conference about then, hm?
-{106490}{106625}Le Chiffre is trying to raise money|by selling his unique art collection.
-{106650}{106752}- Why does he need money?|- He is a compulsive gambler, that's why.
-{106754}{106863}Und he is using organisation funds|for his gambling!
-{106880}{106937}- You mean Smersh?|- Smersh!
-{106991}{107104}If he does not pay off his debts,|he will be liquidated.
-{107107}{107187}Liquidated? Who by?
-{107190}{107249}- By them.|- You mean...?
-{107251}{107317}You're so like your mother.|You're driving me mad.
-{107319}{107440}- Well, you haven't got far to go.|- Come to me, my little Mata. Come!
-{107467}{107530}About time you were|back in your box, innit?
-{107532}{107606}You must forgive me.|I lose control of myself.
-{107609}{107676}- I'm a mad fool. Mad.|- You want an argument?
-{107701}{107783}- Remember, forget everything I tell you.|- My lips are sealed.
-{107785}{107859}- Lips! Don't say such words.|- Run along, sonny.
-{107888}{107941}Le Chiffre. Mm-hm.
-{108255}{108316}It's the first john|I've ever gone round with.
-{109568}{109648}There you are.|I have been looking for you.
-{109650}{109722}- It is little Otto.|- Who is he?
-{109725}{109815}One of your mother's lovers.|We often find them lying around.
-{109817}{109889}- Is he dead?|- Hard to tell. He always looked like that.
-{109892}{109982}Come along, child.|The auction is about to begin.
-{110000}{110016}Auction?
-{110019}{110107}Tonight we are selling one of|the finest art collections in Europe.
-{110110}{110192}- Le Chiffre's collection.|- Who is Le Chiffre?
-{110194}{110262}- The man who owns the collection.|- What collection?
-{110264}{110346}- The one to be auctioned.|- Who said anything about an auction?
-{110349}{110390}- You did.|- Who am l?
-{110393}{110473}- Frau Hoffner.|- Never heard of her. You're insane.
-{110475}{110561}- Quite insane.|- I think she's right.
-{110611}{110713}Gentlemen! Please take your seats|and the auction will commence.
-{110715}{110762}Thank you.
-{110764}{110887}Gentlemen, I am here tonight on behalf of|Le Chiffre, of whom you will have heard,
-{110889}{110960}to auction this unique collection|of art treasures.
-{110969}{111043}Are there any specific|bidding instructions?
-{111046}{111151}When we sit, we are bidding.|When we stand, we are not bidding.
-{111167}{111276}We'll do our bidding sitting down.|When we stand up, we're not bidding.
-{111279}{111338}We stand, we bid.|We no stand, we no bid.
-{111341}{111406}And the British representatives?
-{111408}{111513}Well, I don't know actually.|A bit of both, I suppose, really.
-{111515}{111584}- Is that all right with you chaps?|- That's fine.
-{111590}{111645}Very well, gentlemen.
-{111670}{111725}Now then.
-{111728}{111806}This is an extraordinarily|embarrassing item,
-{111808}{111872}one of the classic|blackmail items of all time.
-{111874}{111931}What am I bid for this priceless picture?
-{111944}{111993}£14 10s.
-{111995}{112058}- 300 roubles.|- 300 roubles.
-{112060}{112111}- $1,000.|- $1,000.
-{112114}{112196}- 2 million Chinese dollars.|- 2 million Chinese dollars?
-{112198}{112288}Look at this masterpiece, gentlemen.|Surely we can do better than that.
-{112291}{112350}- Here, what about my fare?|- Get out!
-{112353}{112402}- Here!|- Stop it!
-{112405}{112485}Whatever you do, you must not|let Le Chiffre raise the money.
-{112488}{112537}Who are you?
-{112574}{112623}I'm Carleton Towers of the FO.
-{112626}{112681}- FO?|- The Foreign Office, dear.
-{112684}{112737}Wait outside and keep the motor running.
-{112821}{112891}- 200,000 American dollars!|- £100,000!
-{112893}{112987}- A wagonload of vodka!|- 70 million tons of rice!
-{112989}{113077}- 60 tons of caviar!|- 30 million trucks!
-{113318}{113371}Hey! It's war!
-{113556}{113644}Hello! Hello! Get me the Pentagon!
-{113652}{113701}Hello, Fenella?
-{113704}{113811}I shan't be able to get back|for dinner. A sort of war's broken out.
-{114141}{114210}You should not have done this thing.
-{114212}{114290}Now I will have to kill you.
-{114360}{114409}What are you doing to me?
-{114455}{114504}No!
-{114578}{114670}Positive, negative -|I never know which is which.
-{114917}{114966}Give me those films.
-{115093}{115148}She's got the films!
-{115179}{115248}Grab her! Get her! Get her!
-{115677}{115738}Now look here.
-{115925}{115978}- Taxi!|- Tally-ho!
-{116252}{116301}I'm sorry, madam.
-{116313}{116393}- Let me go! Taxi!|- Over here!
-{116495}{116544}Come on!
-{116721}{116793}- Good Lord! Captain Towers?|- How nice to see you.
-{116858}{116907}This way!
-{116976}{117029}No, no! Down. No.
-{117142}{117201}- Where to, miss?|- London!
-{117859}{117920}- Le Chiffre speaking.|- The scheme was a failure.
-{117930}{118001}And also Dr Noah knows|what you've been up to.
-{118012}{118096}- What now?|- I'll just have to raise the money.
-{118110}{118198}- But how?|- How? By playing baccarat.
-{118209}{118276}But Le Chiffre, what about me?
-{118286}{118335}What's going to happen to me?
-{119123}{119207}Thank you.|And welcome to France, Monsieur Bond.
-{119328}{119420}We don't want our little talk|to be overheard. Get in the car.
-{119423}{119494}Well, there's nothing|to talk about, is there?
-{119496}{119545}Perhaps. Perhaps not.
-{119548}{119628}The point is you must not|allow yourself to become involved.
-{119630}{119749}Don't forget there are many people here|who loathe and despise you.
-{120057}{120139}I have to warn you, Bond,|my instructions are
-{120142}{120232}that you play your game|with Le Chiffre and leave immediately.
-{120245}{120350}No one can be such a perverse idiot|as to assault a customs official.
-{120352}{120434}- It may just be natural talent, sir.|- I have to warn Vesper.
-{120437}{120503}- You mean James Bond 007, sir.|- Yes, yes, yes.
-{120796}{120853}Vesper? James Bond 007?
-{120869}{120953}- Vesper, are you there?|- Hello, Sir James. Yes, I'm here.
-{120956}{121027}I can't see you. Your picture's gone.
-{121029}{121098}No, it hasn't. I was|just getting into the bath.
-{121127}{121197}Vesper, do you think|Tremble could be a double agent?
-{121209}{121293}He has enough trouble being|a single agent. Leave him to me.
-{121304}{121361}Right. Over and out.
-{121524}{121573}Mr Bond?
-{121576}{121625}Missed, Mr Bond.
-{121651}{121686}Yes.
-{121688}{121755}I am Miss Goodthighs.
-{121757}{121806}I can see that.
-{121833}{121907}You've got your cork still in your bottle.
-{121919}{121983}So I have. What are you|going to do about it?
-{122037}{122094}Stick your arm out.
-{122189}{122273}The management of the Hotel Tropical|send their compliments
-{122275}{122342}and hope you will enjoy your stay with us.
-{122478}{122527}I see.
-{122549}{122623}Very sexy pants you're wearing, James.
-{122640}{122705}Yes, they're the new double-O-fronts.
-{122707}{122773}Tell me, Miss Goodthighs,
-{122775}{122841}how much did you tip the porter|to let you in here?
-{122846}{122926}- I just showed him a little kindness.|- How much?
-{122934}{122989}Not too much. He's 83.
-{122991}{123040}It's a good year.
-{123071}{123112}So...
-{123126}{123175}What can I do for you?
-{123178}{123247}The question should be|what can I do for you?
-{123249}{123321}- Have you got any suggestions?|- This, for one.
-{123771}{123820}Tell me about yourself, James.
-{123862}{123962}Well, I've had some|pretty wild times in my life.
-{124064}{124163}Could you move over a bit?|You're lying on my loose change.
-{124208}{124271}James, I need you.
-{124273}{124357}Yes, yes, yes.|Well, I can understand that, my dear.
-{124375}{124476}- I want to know you better.|- You're absolutely right.
-{124515}{124581}My goodness, this is strong shampoo.
-{124583}{124632}This really is.
-{124635}{124701}I think I'd better|freshen up a bit quick.
-{124711}{124822}I'll be back in five minutes.|If I'm not, start without me.
-{124909}{124989}James Bond playing at Casino Royale
-{124991}{125093}He won a lot of money|and a gal at Casino Royale
-{125231}{125297}Oh, he's not really|such a wonderful spy
-{125313}{125422}But winning lots of money|and a gal, he's a fabulous guy
-{126480}{126529}Evelyn! Evelyn!
-{126552}{126605}Evelyn! Evelyn!
-{126612}{126657}Evelyn! Evelyn!
-{126668}{126738}Evelyn, wake up!|Evelyn, what's the matter?
-{126745}{126837}- Wake up! You were drugged.|- What?
-{126845}{126937}- You were drugged.|- Yes, I know I was drugged.
-{126939}{126996}I put the antidote pill in. And then...
-{126999}{127118}Hey, I thought those antidote pills were|supposed to give me 24-hour protection.
-{127121}{127209}- I've got to get Sir James Bond...|- There is no time for that.
-{127211}{127316}Look at you! You're wearing your glasses|and you know you're not supposed to.
-{127319}{127370}James Bond doesn't wear glasses.
-{127373}{127467}Yes, but l... It's just that|I like to see who I'm shooting.
-{127470}{127595}There are only a few hours left|before the game. Now, get freshened up.
-{127597}{127656}Here, what about Miss Goodthighs?
-{127686}{127778}Don't worry. I took care of her.|Now concentrate on the game.
-{127840}{127906}Vesper, I've given this game|a lot of thought.
-{127908}{127963}When I go into that casino tonight,
-{127965}{128070}I'm going to sit down opposite|Le Chiffre, look him in the eye and say...
-{128428}{128477}No cards.
-{128498}{128567}- Neuf à la banque.|- It's amazing! He never loses.
-{128576}{128652}La banque gagne. La partie est terminée.
-{128654}{128705}Quiet. Absolute silence, please.
-{128707}{128804}For this experiment, I require|the assistance of a young lady.
-{128806}{128863}You, madam. Look me in the eyes!
-{128908}{128977}And you, Georges,|keep your eyes on my chips.
-{128999}{129093}I present you with the levitation|of the Princess Ayisha,
-{129122}{129239}an illusion taught to me|by an ancient vegetarian
-{129242}{129324}in the mountain fastnesses of Tibet.
-{129511}{129595}She feels no pain.|My assistants will enshroud her
-{129597}{129668}in this perfectly ordinary paisley shawl.
-{129738}{129810}Now will you all|place your hands on the table?
-{130287}{130344}Now let's get the show off the ground.
-{130501}{130626}Keep your hand in place, madam,|and continue to ascend into thin air.
-{130654}{130715}Don't take your eyes from her,|not one of you.
-{130718}{130775}It is by your perfect concentration
-{130777}{130849}that the young lady|remains floating in thin air.
-{130852}{130938}Excuse me, madam.|Sorry to keep you hanging around.
-{131110}{131173}Monsieur. You wish to make a deposit?
-{131175}{131245}- Yes.|- How much?
-{131247}{131329}- £100,000 sterling.|- One hundred thou...
-{131344}{131409}You can keep the case|with my compliments.
-{131430}{131508}Thank you, monsieur.|Could we have the name, please?
-{131523}{131568}Bond. James Bond.
-{131577}{131626}James B...
-{131663}{131737}- James Bond?|- Yes, James Bond.
-{131760}{131817}Yes. James Bond.
-{131839}{131933}I wonder if you'd be kind enough|to sign my autograph book.
-{131951}{132039}It's not for me, you understand.|It's my little sister.
-{132041}{132092}I wonder if you'd be kind enough
-{132095}{132193}to put your autograph on that receipt|for the £100,000 sterling.
-{132195}{132256}But of course, Mr Bond.
-{132258}{132319}It's not for me, it's for somebody else.
-{132344}{132426}- Now what happens?|- We go to the casino director's office.
-{132428}{132483}Point me. Just point me.
-{132604}{132680}- What's the matter?|- Nothing.
-{132683}{132767}Just a bit different|from the Buckingham Club, that's all.
-{132823}{132903}- Bond has arrived.|- Bond is here. All staff on the alert.
-{132939}{132988}Come in.
-{133022}{133088}Ah! Hello. How nice to see you again.
-{133090}{133141}- May I introduce...|- We have met.
-{133167}{133232}Mr Slymington-Jones, Mr James Bond.
-{133239}{133305}How do you do?|Do make yourself comfortable.
-{133418}{133487}I see you've put a tiger in your office.
-{133510}{133617}Yes. I have several actually.|That one that you so cleverly spotted,
-{133620}{133671}the head on the wall over there,
-{133674}{133766}and the one you're about to trip over.|Do be careful.
-{133769}{133814}Yes.
-{133856}{133917}The man in the white coat is Le Chiffre.
-{133919}{133986}Don't be afraid. It's a one-way mirror.
-{133988}{134037}- Which way?|- That way.
-{134096}{134145}- No card.|- No card.
-{134199}{134248}Neuf à la banque.
-{134266}{134358}Mr Bond, you can watch|Le Chiffre better on here.
-{134424}{134514}He's bought the bank for the evening,|and he's winning consistently.
-{134516}{134582}And showing off|with his magic throughout.
-{134906}{134965}- Why the dark glasses?|- Here.
-{135117}{135189}So if Le Chiffre wears|the same kind of glasses,
-{135192}{135241}he knows every card on the table.
-{135244}{135301}- Infrared glasses.|- The cheat!
-{135340}{135389}Listen, Evelyn.
-{135392}{135486}You win and he will almost certainly|be killed by his organisation.
-{135488}{135568}- But he'd try and avoid that, wouldn't he?|- If you win, yes.
-{135570}{135619}- How?|- By trying to kill you.
-{135622}{135712}- As in dead?|- Yes. But don't worry about that now.
-{135719}{135801}Let's go down there|and you play the game of your life.
-{135804}{135909}Yes, I better had. There may|not be too much more of it left.
-{135975}{136073}- Vesper...|- Don't worry. I'll take care of you.
-{136185}{136265}- Well, then. It's all under control now.|- I hope so.
-{136281}{136330}- Well, excuse me.|- Willingly.
-{136534}{136583}Messieurs, faites vos jeux.
-{136921}{136985}I believe you have my name|in a crevice. James Bond.
-{136987}{137057}- Pardon, monsieur?|- Bond. James Bond.
-{137059}{137108}Oh, yes, Mr Bond.
-{137120}{137214}Bond? James Bond?|The name is familiar.
-{137228}{137287}I don't believe I've had the pleasure.
-{137301}{137375}- I'm flattered you've heard of me.|- I have heard of you,
-{137377}{137451}but not as an expert on baccarat.
-{137453}{137504}Well, I'm sorry you weren't told.
-{137638}{137705}Don't think that went unnoticed, Mr Bond.
-{137728}{137795}I see everything that goes on at this table.
-{137820}{137888}- Nothing escapes me.|- I'm quite sure it doesn't.
-{137890}{137939}But we mustn't forget that
-{137942}{138014}the beggar who is in the marketplace
-{138016}{138100}is completely deaf|insomuch as far as listening
-{138103}{138189}to the song that is coming|from the mockingbird is concerned.
-{138191}{138254}I'm sorry, Mr Bond,|I don't get the connection.
-{138292}{138328}You will.
-{138357}{138406}Sim salabim.
-{138616}{138671}When you're quite ready.
-{138674}{138779}Now I require a perfectly ordinary|gentleman's pocket handkerchief.
-{138782}{138882}From the pocket|of one perfectly ordinary gentleman.
-{138884}{138951}That's the kind of remark|that leads to war.
-{138953}{139002}How much better for all humanity
-{139005}{139093}if all the nations could learn|to live together in peace.
-{139096}{139153}Marvellous!
-{139194}{139218}More!
-{139395}{139495}That's finished, is it?|Fantastic. Wonderful. Incredible.
-{139497}{139626}Incredible, isn't it? Absolutely marvellous.|I've never seen anything like it.
-{139660}{139763}And now if you're ready, Monsieur|Le Chiffre, I would like to play baccarat.
-{139765}{139843}- I use the Evelyn Tremble method.|- You read Tremble.
-{139872}{139956}I thought he'd only published|a few paperback editions.
-{139959}{140023}Well, I have an autographed first edition.
-{140025}{140121}It's a bit dog-eared now, mind you,|but it nevertheless has a certain...
-{140123}{140176}Uninformed quality?
-{140252}{140348}Six à la ponte et neuf à la banque.|La banque gagne.
-{140359}{140423}Aren't you a little|out of your depth, Mr Bond?
-{140425}{140517}In the last 20 minutes I have ruined|two Greeks and a maharajah.
-{140520}{140604}You know, Mr Bond,|we aren't playing for marbles.
-{140606}{140734}The night is young and the rose garden|is already littered with my victims.
-{140736}{140874}Yes, but the beggar in marketplace|are deaf to song of nightingale.
-{140885}{140975}- You amuse me, Mr Bond.|- I'm glad you're enjoying me.
-{140982}{141049}Shall we double the bank?
-{141073}{141134}If it'll improve your game.
-{141320}{141381}Pas de cartes.|No card.
-{141659}{141727}- Sept à la banque.|- He never loses!
-{141739}{141796}Cinq à la ponte. La banque gagne.
-{141798}{141867}What about one for the road?
-{141885}{141975}It looks as though luck isn't|on your side of the road, old man.
-{141978}{142035}She has a habit of moving around.
-{142038}{142122}Then we might as well|double the bank again.
-{142185}{142242}Suppose I were to treble it?
-{142245}{142304}Treble it? You haven't any chips!
-{142360}{142413}I think my credit's good.
-{142460}{142509}Bond credit good.
-{142512}{142571}The bank now stands at 50 million francs.
-{142746}{142795}Very well.
-{142817}{142884}Goodbye, Mr Bond.|It's been nice knowing you.
-{143232}{143287}Pas de cartes.|No card.
-{143810}{143869}- Baccarat.|- He lost!
-{143926}{143975}La ponte gagne.
-{143978}{144045}Goodbye, Monsieur Le Chiffre.|It was nice knowing you.
-{144047}{144127}Let's not say goodbye, Mr Bond.|Let's just say au revoir.
-{144129}{144188}- Lovely!|- Credit my account, would you?
-{144220}{144279}La partie est terminée.
-{144298}{144413}- A remarkable performance, Mr Bond.|- Thank you. Trifle unusual but...
-{144416}{144484}- How would you like the money?|- A cheque in a Swiss bank.
-{144486}{144578}- Would you like the cheque now?|- Yes, now, yes.
-{144581}{144649}I'll tell the cashier.|You can pick it up as you go out.
-{144651}{144700}- Excuse me.|- Willingly.
-{144736}{144845}Mr Bond, what are your movements|for the rest of the evening?
-{144866}{144985}We thought we'd have a bite to eat|and then back to the hotel.
-{144987}{145059}And you're leaving Royale|first thing in the morning.
-{145061}{145087}Are we?
-{145090}{145168}The inspector isn't asking us.|He's telling us.
-{145171}{145257}A police car will escort you|from the hotel to the airport.
-{145260}{145305}- Mr Mathis.|- Yes?
-{145307}{145358}Something's been worrying me.
-{145361}{145462}You're a French police officer|and yet you have a Scots accent.
-{145469}{145545}Aye. It worries me, too.
-{146172}{146250}Haven't by any chance seen|a young lady in a green dress?
-{146252}{146326}Would that be a lady|with a black bag over her head
-{146329}{146393}being manhandled|by two unsavoury gentlemens?
-{146395}{146454}- Could very well be.|- She went that way, sir.
-{146456}{146530}In a car. A very fast car!
-{146548}{146597}- Moss?|- Yes, sir.
-{146600}{146649}- Follow that car!|- Yes, sir.
-{146688}{146739}I'll use Fangio next time. Idiot!
-{146798}{146853}Grand Prix enthusiasts may be worried
-{146855}{146943}by the time it's taken me|to get into this Lotus Formula Three.
-{146946}{147063}They don't realise that although Le Chiffre|thinks he has a faster car than me,
-{147066}{147127}I am faster in my Lotus Formula Three!
-{147509}{147562}Wake up, Mr Bond. Wake up.
-{147658}{147754}Well, now, Mr Bond. You've had|your little victory at the baccarat table.
-{147756}{147838}Now it's my turn. I'm going to|have to have that cheque, Mr Bond.
-{147841}{147900}Smersh is going to be very unhappy.
-{147903}{148002}- You mean you're going to torture me?|- Persuade you, Mr Bond. Persuade you.
-{148124}{148247}Don't worry about that chair with the hole.|It's merely waiting to be reupholstered.
-{148250}{148315}- By me.|- You have an inventive mind, Mr Bond.
-{148317}{148383}But my methods are much more subtle.|They have to be.
-{148393}{148498}- What are you going to do?|- Physically, I'm not going to do anything.
-{148501}{148558}Oh, you're going to nothing me to death.
-{148575}{148700}Torture of the mind. The most|exquisite torture is all in the mind.
-{149017}{149070}I'm going to have to|have that cheque, Mr Bond.
-{149298}{149355}Suppose Mr Bond isn't ready|to give it to you?
-{149357}{149431}You are a tiresome little man.|Let's try another approach.
-{149487}{149542}It's a beauty contest, Mr Bond.
-{149797}{149852}You're supposed to pick the winner.
-{151452}{151561}- Excuse me. Are you Richard Burton?|- No, I'm Peter O'Toole.
-{151563}{151631}Then you're the finest man|that ever breathed.
-{151677}{151734}- God bless you, sir.|- Thank you.
-{152469}{152516}You've changed my plans, Miss Lynd.
-{152518}{152598}But neither you nor Bond will leave here|till I get that cheque!
-{152601}{152644}Mr Tremble?
-{152684}{152754}Never trust a rich spy.
-{152805}{152935}Le Chiffre, you're a fool. Smersh|believed you could win at baccarat.
-{152943}{153006}- All I need is 24 hours!|- It's too late.
-{153578}{153703}Oh, Daddy, I do so long to meet him.|All the girls do. He really turns me on.
-{153705}{153789}- Did that finishing school teach you that?|- No, I taught them.
-{153791}{153862}Now run along and watch|the Changing of the Guard.
-{153864}{153969}- I bet Mummy would have taken me in.|- Mummy took everyone in.
-{154797}{154854}Put me down! Put me down!!
-{154857}{154929}- What is it, a film?|- It must be a commercial.
-{155996}{156076}No time for window-gazing, Moneypenny.|Mata's been kidnapped.
-{156079}{156148}- But...|- That's an unidentified flying object.
-{156150}{156218}And our fastest jets|trying to track it down. Control?
-{156220}{156277}- That's the canteen.|- Control!
-{156280}{156362}Contact all operatives.|We must find out where it lands.
-{156364}{156456}- Air Ministry. They've lost it.|- Lost it? You were right on its tail.
-{156459}{156528}Well, you must have|one plane fast enough... I see.
-{156530}{156591}They stopped building those last week.
-{156641}{156702}I wonder if you'd care to help us.
-{156717}{156809}- Could you come back...|- Do please come in, Sister.
-{156848}{156922}It's our annual collection for needy girls.
-{157009}{157062}Your receipt?
-{157135}{157248}This department has always been|very helpful to needy girls.
-{157268}{157348}That's strange.|We've never had a receipt before.
-{157415}{157524}"They're taking your daughter|to Casino Royale. Sister McTarry."
-{157590}{157639}The Prime Minister, urgently.
-{158625}{158664}Daddy'll come after me.
-{158666}{158756}- That's what we're hopin'.|- You won't get away with this.
-{158778}{158870}Move to the door, Mata Bond.|You are a prisoner of Smersh.
-{158873}{158986}We already have most of your father's|agents here. You will complete the set.
-{159191}{159279}- Looks like a Smersh convention.|- Le directeur wishes to see you.
-{159281}{159377}- It is about your daughter.|- Tactic 4B if necessary.
-{159443}{159502}I will tell him you are here.
-{160221}{160270}Hold it! Back up.
-{160337}{160386}Face the curtains!
-{160404}{160453}March!
-{160474}{160566}You are now entering|the Smersh headquarters of Dr Noah.
-{160596}{160645}Tactic 33A.
-{160746}{160795}Now!
-{161349}{161435}Operation James Bond completed.
-{161437}{161504}Dr Noah, I presume.|Why don't you come out and face me?
-{161506}{161565}Because you are going to|come in and face me.
-{161567}{161616}Sir!
-{161655}{161704}Moneypenny!
-{162276}{162362}This is an historic day|in our saga, Sir James.
-{162386}{162489}The day Smersh finally eliminated|the original James Bond.
-{162497}{162581}- His world will soon follow.|- This is all very impressive.
-{162583}{162677}You might be even more impressed|to meet one of my 1,000 doubles.
-{162759}{162856}Waiting for the moment when|I command them to take over the world.
-{162869}{162924}It's fantastic. May I take a closer look?
-{162936}{162989}It's quite perfect.
-{163373}{163445}- Good Lord! It's my nephew.|- Jimmy Bond?
-{163448}{163565}This explains the Caribbean assignment.|Is this some kind of a joke?
-{163616}{163690}- He can't speak!|- Never could in my presence.
-{163692}{163788}Psychological block he's had since|childhood, based on hero worship.
-{163790}{163887}- He's Dr Noah?|- My nephew the head of Smersh?
-{163894}{164015}I have been bombed, bullied and baited|out of retirement to deal with you?
-{164018}{164092}- Do you suppose he's a junkie?|- Leave this to me.
-{164095}{164192}Now, Jimmy, as your uncle|I really must insist...
-{164194}{164274}- What is it?|- He's put a sheet of glass between us.
-{164421}{164518}I never should have let Nellie|send him to progressive school.
-{164570}{164609}What's that?
-{164611}{164730}Dr Noah's bacillus? Now, Jimmy,|even you wouldn't release germ warfare.
-{164743}{164854}Handle these capsules with care.|Dr Noah's bacillus is highly contagious.
-{164857}{164947}When distributed in the atmosphere|it will make all women beautiful
-{164949}{165008}and destroy all men over 4ft 6.
-{165011}{165118}- Please handle these capsules with care.|- So that's your plan, huh?
-{165120}{165235}A world full of beautiful women|and all men shorter than yourself.
-{165584}{165703}Good evening. All this just to make up|for your feeling of sexual inferiority?
-{165954}{166030}I'm beginning to think|you're a trifle neurotic.
-{166528}{166626}Maybe you can explain. Why was I|abducted and subjected to this?
-{166635}{166748}Because, of all Uncle James's 007s,|you're the most beautiful and desirable.
-{166751}{166814}Do you treat|all the girls you desire this way?
-{166816}{166906}Yes! I undress them and tie them up.|I learned that in the Boy Scouts.
-{166909}{167011}Let me ask you a question.|Do I appear menacing to you at all?
-{167013}{167083}- What are you laughing at?|- Nothing. I just think...
-{167085}{167175}Did you see yourself in the mirror lately?|I think you should.
-{167177}{167288}You are a wretched, grotesque,|ridiculous, insignificant little monster.
-{167291}{167394}Are you saying to me that you find|Uncle James more attractive than I am?
-{167396}{167484}Uncle James? He's a real man. Wow!
-{167487}{167577}Do you realise that anything|Uncle James can do I can do better?
-{167580}{167637}That will be the day.
-{168861}{168926}You're crazy. You are absolutely crazy.
-{168934}{169028}- They called Einstein crazy.|- No one ever called Einstein crazy.
-{169031}{169130}- They would have if he behaved like this.|- People respected Einstein.
-{169132}{169216}Einstein could never have conceived|of something like this.
-{169218}{169327}It looks like an aspirin, it tastes|like an aspirin, but it's not an aspirin.
-{169329}{169452}- It's cyanide.|- This pill contains 400 tiny time pills.
-{169454}{169540}They go off in the body,|forming a chain reaction,
-{169543}{169604}and turn the person|into a walking atomic bomb.
-{169607}{169681}Einstein's bomb was crude.|This is brilliant.
-{169690}{169739}It's crude to tie up women.
-{169744}{169818}In a week it'll be|April Fools' Day, my birthday.
-{169821}{169942}All world leaders will be assassinated|and my doubles will take their places.
-{169944}{170005}In five days' time|I'll be ruler of the Earth.
-{170029}{170115}- How would you like to be my co-ruler?|- Why not?
-{170118}{170200}- Why not? You hate me.|- I don't know.
-{170202}{170282}I'm beginning to wonder|if the real genius of the Bond family
-{170284}{170349}is not right here in the room with me now.
-{170375}{170428}- Why don't you unlock me?|- Yes, I will.
-{170430}{170502}I'll unlock you immediately|and we'll run amok.
-{170505}{170564}If you're too tired, we'll walk amok.
-{170567}{170661}I'm so sorry for all the things I said.|I didn't really mean it.
-{170664}{170777}- Here. Slip into this.|- Just a moment. Be careful.
-{170780}{170835}Yes. I don't want to|damage any of your parts.
-{170838}{170887}Multam.
-{170945}{170984}Multumesc.
-{170986}{171086}Now, turn yourself like a nice fool|while I slip this on.
-{171088}{171137}Da. Da, astept aici.
-{171140}{171245}Aceasta ii va arata lui Sir James odata pentru totdeauna|care din noi are un corp perfect.
-{171247}{171308}The poor boob! Grabeste-te, draga.
-{171311}{171374}Am planuri mari pentru noi.
-{171436}{171524}It's vaporised lysergic acid.|Este foarte exploziv.
-{171571}{171649}Intrati acum in|avionul personal al lui Dr Noah
-{171651}{171729}Unde dragul nostru conducator|a asamblat ____a collection
-{171732}{171797}of the world's|most distinguished doubles.
-{171799}{171902}Avionul spatial a Dr Noah|va ureaza bine ati venit la bord.
-{171920}{172037}A great likeness, isn't she?|I copied her right down to the last...
-{172039}{172146}Doi dintre noi au avut cateva|experiente religioase.
-{172149}{172241}Cum iti place locul asta? Am un|decorator care ma ajuta, dar lucrez cu ea.
-{172244}{172310}Seful vostru|has remoulded ordinary agents
-{172312}{172435}into replicas of the world's greatest|figures in culture, politics and the arts.
-{172438}{172514}- Look! They're uncovered!|- These are not doubles.
-{172517}{172615}These are the real people. I've already|substituted my robots for them.
-{172617}{172726}La acest moment lumea este condusa|de dublurile care sunt sub controlul meu.
-{172728}{172783}Ei bine, asta explica o multime de lucruri.
-{172785}{172848}Your rain-cooled Taittinger, sir.
-{172850}{172899}Bautura!
-{172938}{172989}Si pentru tine.
-{172992}{173120}Gandeste-te. O lume fara ____A world free of|poverty and pestilence and war.
-{173122}{173179}O lume in care toti oamenii sunt egali.
-{173181}{173261}In care un om, nu conteaza cat de scund,|poate inscrie _____can score with a top broad.
-{173264}{173366}in care un om fara a tine cont de rasa,|credinta, culoare, beneficiaza de lucrari stomatologice gratuite
-{173368}{173462}and a chance of subscription-buying|all the good things in life.
-{173464}{173515}Dar, Noah, tu esti de acord cu toate astea?
-{173518}{173577}Nu, nu. Eu nu sunt de acord.
-{173579}{173638}Iubesc politica!
-{173682}{173768}- Pentru viitor.|- Beau pentru asta.
-{173843}{173888}Sampania mea speciala.
-{173891}{173993}- With your very special pill in it.|- Despre ce vorbesti?
-{173995}{174085}Arata ca o aspirinalooks like an aspirin, it tastes|like an aspirin, but it isn't an aspirin.
-{174087}{174175}- And you just swallowed it.|- You're lying.
-{174230}{174361}398 more of those little pills to go off.|Have a real bomb of an evening!
-{174373}{174445}Alka Seltzer!
-{174485}{174534}Right?
-{174998}{175051}Charge!
-{175119}{175168}Delightful vintage, sir.
-{175171}{175234}- 297.|- Smooth to the palate.
-{175249}{175337}Here. There's a fish|in my mixture. You fool!
-{175396}{175468}I say! Super place for a coming-out party.
-{175471}{175524}Now now, Mata.
-{175534}{175589}- Through here!|- Down!
-{175887}{175957}Look! Quick, before the fuse burns out.
-{176079}{176140}Try not to look conspicuous.
-{176190}{176259}- Dumnezeule! Este unul de-al nostru.|- Domnule!
-{176261}{176353}- Trebuie sa iesim inainte sa explodeze!|- Trebuie sa gasim biroul.
-{176356}{176432}- Ce birou? | - Cel in care am coborat, bineinteles.
-{176496}{176545}Asta lasami-o mie.
-{176589}{176665}Unde e biroul? Biroul.
-{176679}{176742}Haide! Repede.
-{176781}{176844}Este foarte civil din partea dvs., domnule. Multumesc.
-{176941}{177002}Haide, da-mi mana.|- Ai grija!
-{177036}{177097}Urmati-ma!
-{177201}{177242}Charge!
-{177354}{177450}Mata, pune degetul|in urechea tigrului. O sa actioneze usile.
-{177518}{177590}- Bine.|- Care e strategia, domnule?
-{177592}{177663}Plecati din locul asta nenorocit|inainte sa explodeze.
-{177753}{177853}- Toata lumea sa stea in spatele meu.|- Nu mai risc sa trec prin casinoul acela din nou.
-{177855}{177945}- Mai bine cobor pe conducta de scurgere.|- Frumos, dar fara sustinere.
-{178017}{178091}Scoate fetele prin iesirea din spate.|Imi pare rau ca te-am bagat in asta.
-{178093}{178173}Pe naiba, tata.|Nu puteam sa ma distrez mai tare.
-{178175}{178234}Pe acolo.
-{178268}{178331}Evacueaza cladirea.|Este gata sa explodeze.
-{178333}{178396}As dori Londra. Whitehall 007.
-{178448}{178501}Pacat ca n-o sa o mai prinzi, Sir James.
-{178504}{178576}Am intampinat o gramada de necazuri|sa te aduc aici.
-{178578}{178641}Draga Vesper.|Ce nu faci tu pentru bani.
-{178651}{178704}De data asta e din dragoste, Sir James.
-{178706}{178765}- Nu astepta...|- Inapoi in birou.
-{178812}{178883}Ajutoarele americane, domnule. Au sosit.
-{179492}{179530}80.
-{179556}{179590}79.
-{181172}{181221}Geronimo!
-{181398}{181437}51.
-{182250}{182328}- Ne bucuram ca am putut fi de ajutor, domnule|- Dumnezeule! Ransome, nu-i asa?
-{182331}{182394}A-OK, Sir James. CIC at CIA.
-{182396}{182499}Nu incepe din nou.|Nu am terminat inca ultimul lot.
-{182533}{182607}- Cum spui, domnule|- A-OK, Ransome. A-OK.
-{182646}{182676}- Ciao.|- Ciao.
-{182703}{182741}37.
-{182780}{182831}- Au sosit francezii.|- Pardon?
-{182833}{182915}- Francezii sunt acolo.|- Imi pare rau, franceza mea e rudimentara.
-{182943}{183015}- Francezul a ajuns.|- Splendid. Multumesc.
-{183017}{183064}Uitat-te afara!
-{183066}{183135}- Merde!|- Ce? Uitat-te in carte.
-{183137}{183196}- Ouch.|- Pe aici.
-{183232}{183281}Politia!
-{183788}{183845}Am fost pacalit.
-{183847}{183937}Arma asta impusca invers.|Tocmai m-am omorat.
-{183965}{184024}18. Asteapta!
-{184051}{184089}17.
-{185168}{185198}Patru.
-{185215}{185262}Trei. Doi.
-{185346}{185409}Sapte James Bonds la Casino Royale
-{185411}{185505}Au venit sa salveze lumea|and win the gal at Casino Royale
-{185611}{185675}Six of them went to a heavenly spot
-{185677}{185792}The seventh one is going to a place|where it's terribly hot
-{185857}{185939}The formula is safe with old 007
-{185974}{186037}He's got a redhead in his arms
-{186065}{186126}Though he's a lover,|when you are in trouble
-{186129}{186205}Have no fear, look who's here
-{186217}{186336}James Bond!
-{186338}{186397}They've got us on the run
-{186400}{186472}With guns and knives
-{186532}{186581}We're fighting for our lives
-{186622}{186671}Have no fear, Bond is here
-{186709}{186797}He's going to save the world|at Casino Royale
-{187173}{187222}La Casino Royale
-{187256}{187350}Formula este sigura cu batranul 007
-{187382}{187441}He's got a redhead in his arms
-{187462}{187528}Though he's a lover,|when you are in trouble
-{187530}{187620}Nu va temeti, uite cine este aici
-{187627}{187744}James Bond!
-{187746}{187799}They've got us on the run
-{187802}{187878}Cu pusti si cutite
-{187938}{187987}We're fighting for our lives
-{188033}{188084}Nu va temeti, Bond este aici
-{188117}{188224}He's going to save the world|at Casino Royale
-{188227}{188309}James Bond este aici.
-{188312}{188530}Deci, nu va temeti.
-{188546}{188601}SFARSIT
-{188626}{188776}Support us and become VIP member |to remove all ads from www.OpenSubtitles.org
+Advertise your product or brand here|contact www.OpenSubtitles.org today
+Domnule Bond?
+Da?
+Sunt locotenentul Mathis|de la Fortele Speciale de Politie.
+Acestea sunt acreditarile mele.
+Par a fi in regula.
+Veniti cu mine.
+Obisnuiau sa spuna ca un spion bun|este un simplu spion,si inauntru si afara.
+Trandafiri,figurine de Tanagra si Debussy.
+Canta Debussy in fiecare dupa amiaza
+de la apus pana era prea intuneric|ca sa mai poata citi notele.
+Statea mult timp in cap, manca bomboane.
+Isi lasa intestinele in jos|si le spala cu mana.
+Ceva ce a invatat|in timpul calatoriei in Tibet.
+M, ce ti-a dat?
+Am uitat sa mentionez leii.
+- Lei si...mai multi lei.|- Suntem inconjurati de lei.
+Nu am venit aici|sa fiu devorat de simbolurile monarhiei!
+Te avertizez, M, daca este o capcana...
+Calmati-va domnilor.|Nu e nici o capcana, va asigur.
+Leii sunt doar curiosi.|El are putini vizitatori.
+Asta o pot crede.
+Un rai veritabil, nu-i asa, domnilor??
+Un rai fara Eva este o absurditate.
+Un spion bun este doar un spion.
+Nu bun. Grozav.
+Cel mai mare spion din istorie, domnilor.
+Adevaratul, unicul,|originalul James Bond.
+- Domnii sunt aici, Sir James.|- Multumesc.
+- Dragul meu Bond.|- Dragul meu M.
+Ransome, CIA, Sir James.
+J-Junior cipher c-clerk in m-my day,|nu-i asa, Ransome?
+Yes, sir. JCC, class G, SIC to SCCT.|CIA, Washington DC.
+Smernov, KGB, Sir James.
+Ah, da. Inspector de teren.
+Ikon 988, GPU, sectorul Siberian.
+Imi amintesc de individul asta...Lenin, foarte bine.
+organizator de prima clasa, gandire da clasa a doua.
+Le Grand, Sir James.|Deuxième bureau.
+Promovat in sfarsit de la micile vicii?
+Arati incredibil de bine, James.
+Timpul, dragul meu M,|nu exista intre peretii acestia.
+- Astia nu sunt reali.|- Da, un stigat indepartat din infinita noastra lume.
+Pe vremea mea|spionajul era o alternativa la razboi.
+Spionul era membrul|al unei selecte si imaculate tagme preotesti,
+devotat vocational,|sublim dezinteresat.
+Aceasta este o descriere palida|a acestui acrobat sexual
+insensibil ce lasa |femeile gafaind in urma sa.
+-Ce vrei sa spui...|- Stii foarte bine ce vreau sa spun.
+Ingamfatul acela|caruia i-ai dat numele si numarul meu.
+Dragul meu James,cand ne-ai parasit|eram un departament mic,
+sub-finantat, ridicol de prost echipat.
+Era esential|ca legenda ta sa fie pastrata.
+Fara un James Bond 007,|nimeni nu ne-ar fi respectat.
+El si ale lui dispozitive nenorocite.
+Trebuie sa ne folosim|de armele timpului nostru.
+Am remarcat.
+Tu, Ransome, cu acel truc cu garoafa|care s-scuipa cianura.
+Ar trebui sa-ti fie rusine.
+Rusii au inceput.
+Si tu, Smernov,cu un arsenal|ascuns in bocancii aia grotesti.
+Asculta-le cum zdrangane.
+Si tu, Le Grand,cu otrava|diferita si mortala in fiecare din butonii tai zburatori.
+Si tu, M,|cu stilourile tale aruncatoare de flacari.
+V-V-Voi sunteti o gluma de spioni, domnilori.
+Suntem in ultima jumatate|a secolului 20, Sir James.
+- Chiar si tu trebuie sa recunosti.|- De ce ar trebui, daca eu ii pot face fata?
+Priviti-mi gradina.|Acolo afara, este un trandafir negru.
+Nu rosu inchis, negru.
+Ca o aripa de corb in miezul noptii.
+N-as schimba nici macar o singura petala|pentru nimic din ce are lumea voastra de oferit,
+inclusiv un Aston M-Martin|cu accesorii mortale.
+Aveti numai dispret pentru|proletariat, Sir James. Asta stim.
+Daca nu v-as cunoaste bine, as spune|ca v-ati pierdut increderea in democratie.
+Poti sparge sticla,|dar nu poti opri vremea.
+Lucrurile merg rau. Am pierdut 11 agenti|in ultimile 2 saptamani - 7 ucisi, 4 disparuti.
+- Tizul meu este printre ei?|- Ar putea foarte bine sa fie maine.
+8 dintre ai nostri au primit de lucru -|2 la Pentagon.
+- 16.|- KGB este deplorabil.
+Nu pot calcula exact cifrele.
+Inamicul a patruns|in cele mai secrete cercuri ale noastre.
+- Ne citeste gandurile.|- Din ce stim,
+este cu ochii pe noi acum.
+Sunteti siguri|ca nu este unul sau m-mai multi dintre voi?
+- Nu, nu.|- Sigur.
+Pana trece pericolul, trebuie|sa fim uniti in apararea tuturor spionilor,
+mari sau mici, indiferent de nationalitate.
+Necazurile fac oamenii rai si ciudati,|dar de ce, in puterea unitatii voastre,
+deranjati un domn|care s-a retras?
+Avem nevoie de inspiratia ta de a ne conduce.
+Te rugam da-ne beneficiul|incomparabilelor tale puteri de deductie.
+- Pentru toti oamenii liberi si iubitori.|- Pentru glorioasa revolutie socialista.
+Daca imi permiteti sa intrerup aceasta insiruire de clisee ,
+este momentul zilei|pe care l-am stabilit pentru Debussy.
+Poate acesta fi omul|care a castigat Victoria Cross la Mafeking?
+Eroul de la Ashanti Uprising?
+Ce geniu irosit|in serviciul unui imperiu prabusit.
+De ce, in apogeul carieirei,|a decis Bond sa se retraga?
+Mata Hari, dragul meu.
+- Care este legatura?|- Femeia din viata lui.
+- Nu pricep.|- A fost dureroasa lui datorie
+s-o momeasca dealungul frontierei Spaniei|prin Franta,
+unde a abandonat-o|in fata unui detasament de tragatori.
+Chiar a iubit-o.
+Deci, James?
+Imi pare rau, batrane,|dar ce imi ceri e imposibil.
+Poate asta i-ti va schimba decizia.
+Dosarul meu vorbeste de loialitatea mea.|Dar nu, nici macar pentru ea, McTarry.
+Imi pare rau, James.
+Acela este semnalul lui McTarry . Fiti gata.
+- Zero.|- On.
+- Foc!|- Foc!
+Mai sus cu 200!
+- Centrul catre Baza.|- Spune.
+Incepeti cu Smersh Planul B.
+Sir James Bond s-a intors, cu moralitatea lui,|juramintele lui, si cu imaginea de celibatar.
+Trebuie sa distrugem aceasta imagine.
+Riverbank catre Baza.
+- Spune.|- Tinta tocmai a intrat in Scotia.
+- Castelul lui M catre baza.|- Numele lui M este McTarry. Foloseste-l.
+Planul B in functiune.
+Castelul lui McTarry complet ocupat  ,|cu o singura modificare.
+Agent Mimi este acum vaduva lui M.
+Agentul Mimi a impresionat-o pe Lady Fiona?
+Ea a fost cel mai bun agent Scotian.
+Si asta este tot ce a mai ramas din McTarry.
+Sotul dumneavoastra a murit asa cum a trait,|Lady Fiona.In serviciul Majestatii Sale.
+M-am gandit ca ar fi|dureroasa mea datorie d-de-a aduce vestile.
+Cum ati stiut ca sotul dumneavostra M -|imi pare rau, McTarry - a murit?
+- Ni s-a spus.|-Va pot intreba cine v-a spus?
+- Grey Piper.|- Cine?
+Spune-i lui Sir James despre Grey Piper, lass.
+Ori de cate ori un McTarry moare,
+el coboara din munti,|over the loch and through the heather,
+intonand bocetul clanului.
+Noi punem intotdeauna un "tappit-hen" de|"usquebaugh" in fata usilor castelului.
+- "Tappit-hen"?|- Un sfert de whisky.
+- Este intr-adevar un cimpoier?|- Nu stim.
+Dar este acelasi de 600 de ani.
+- Nu a mai ramas nimic??|- Ma tem ca nimic despre care sa putem vorbi.
+A fost gasita intr-un copac,|100 de metri de unde stateam.
+Scoasa, asa cum era,si a zburat ca o p-pasare.
+But whether it is an article of apparel
+or an anatomical f-feature,|that is the question.
+Ar trebui sa-l inmormantam Crestineste?|Just how p-personal is a toupee?
+Poate fi privita doar ca o "peruca".
+Eliza,pune-o langa celelalte relicve ale gloriei lui McTarry .
+We all ken that|our beloved McTarry of the Glen
+was a different man in Whitehall.
+Dar femeile McTarry nu pun niciodata intrebari.
+In conformitate cu traditiile clanului,|cand lordul moare
+un tap negru trebuie luat viu|din Ben Tarry de cartre 6 virgine desculte.
+Eu insami il sacrific.
+Ficele smulg stomacul,|si-l umplu cu maruntaie.
+Minunate maruntaie.
+Il parjolesc, il fierb, si apoi il servesc.
+Si il mananca?
+- Duhoare fierbinte.|- Suna d-delicios.
+Incepem festinul la miezul noptii,|washin' the haggis down wi' usquebaugh.
+One gies strength to the limbs,|the other fire to the blood for dancin'.
+- Danseaza?|- The McTarry funeral fling.
+"Argar, argar garar goru argar" it goes.
+-Foarte m-miscator.|- Ah,dansam pana ne prabusim.
+Dupa o pauza de o ora,|cimpoierul ne trezeste
+cu melodia din "Away to the Grouse"
+si noi plecam|la o memorabila vanatoare de cocosi de munte.
+D-Dar nu este sezon de vanatoare|pentru cocosii de munte?
+Ori de cate ori moare un McTarry,|se face sezon pentru cocosii de munte.
+Eu sunt Heather.
+Eu sunt Meg. Baia dumneavoastra e pregatita, Sir James.
+- Multumesc.|- La capatul culoarului.
+- Sunteti foarte amabile.|- Lasa-ne sa te ajutam.
+- Nu,multumesc. M-ma descurc...|- Intotdeauna il ajutam pe Tati.
+Cate sunteti aici?|F-fiice,vreau sa spun .
+- 11 cu totul.|- 11? O-oh Doamne.
+Si ce varste aveti?
+Cine este cea mai... Cati ani are cea mai tanara?
+- 16.|- Si cea mai in varsta?
+19.
+Asta inseamna ca sunt doar...?|Ai grija cu rotula mea.
+Sunt numai 3 ani|intre voi 11?
+Unele dintre noi suntem adoptate.
+Inteleg. Usurel.
+- In casa asta sunt b-barbati?|- Nimeni in afara de cimpoieri.
+Tatalui meu ii plac numai fetitele.
+T-Tatal tau a fost|un om d-diferit in Whitehall.
+Verific temperatura apei
+cum faceam intotdeauna pentru tatal meu.
+Obisnuia sa-mi spuna micul lui termometru.
+Ei bine? Intra.
+- Sa intru?|- Intra!
+Esti sigura ca nu te i-inghesui?
+Intra.
+I-ti place sa fii spalat pe spate?
+Multumesc.
+- Cum te c-cheama,draga mea?|- Buttercup.
+-Cati ani ai?|- 17.
+- Mergi la scoala?|- Taticu'ne-a invatat.
+Uite. Esti neted ca un bebelus.
+Acum,intoarce-te.
+In ce clasa esti?
+Can ye nae judge that|for yourself, Sir James? 
+- Care este material ta preferata?|- Anatomia.
+Asta este mediastinum.
+Asta este|orbicularis oris.
+Asta este Azygos vein.
+Asta este articular cartilage,|si astia sunt synovial membranes.
+- Corect,corect.|- Se face foarte frig!
+- Quite.|- My daddy liked it hotter. 
+I am not your d-da... Quite.
+Multumesc.
+- La latifundie!|- La latifundie!
+In dreapta ta, Sir James - Lady Mary,|fiica Lordului Douglas McTarry,
+violata de Campbells in 1622.
+In legatura cu asta,
+Lordul Douglas l-a trimis pe unicul sau fiu Hamish|s-o violeze pe Lady Campbell lassies.
+- In acelasi t-timp?|- Cei mai in varsta primii,desigur.
+Cum a prezis scriptura.|Primul ia daruit tripleti.
+Casatoria lor a inceput|cu o binecuvantare generoasa,
+a contract of marriage was entered into
+which brought the McTarrys Black Loch,|Ben Torn, the Shags of Raugh,
+Glen Noch,|and a good stretch of salmon water.
+Toate cele bune.
+Am intrebat, ea face...?
+Noapte buna, doamnelor.
+Nu am avut somn|gandindu-ma la iubita mea.
+Toata noaptea am umblat,tarandu-ma ___________All the long night I walk, grovellin' in grief.
+Consoleaza-ma, Jamie lad.
+Da-mi umarul tau prietenesc ca sa pot plange.
+- Dublu, Jamie.|- Zau, doamna!
+Prin prezenta declar vaduvia mea|in acord cu traditia McTarry.
+lasa-ma sa-ti fiu mangaiere.
+Dublu!
+A quaint custom, but one more honoured|in the breach than in the observance.
+Atunci va trebui sa platesti flautistul!
+Flautistul?
+M-ai auzit,|you mean-mou'd, ill-willie cuif!
+You'll have to pay the piper!
+Robin! Jock!
+Sandy!
+Ai fost provocat la_____ to warsle|cu Sir James.
+He wants to warsle.
+I haven't warsled for years.|I may be a little out of p-practice.
+Play ball!
+Ha!|Superbe!
+Formidabil!
+Splendid! Bravo!
+Magnific. Dar...
+E surprinzator cat de repede se intorc toate.
+Ah, bine. Un mic somn de frumusete|inainte de vanatoare,poate?
+Beaters, urmareste-o pe Marie peste ______ the butts.
+Eliza, stacu mine|pentru numaratoare.
+Oh, iubirea mea este ca un trandafir, rosu
+that's newly sprung in June.
+- Foc, Mission.|- Roger.
+- Fuse alarm missiles.|- Roger.
+- Supercharge.|- Roger.
+Foc.
+Butonul!
+Butonul!
+Butonul!
+- Oh, draga!|- Ce bine ca mi te-ai alaturat.
+- Butonul! Butonul!|- Este cu el.
+Magnetic! Homing device!
+- Care buton este? Lasa-ma sa ma uit!|- Este un cutit in buzunarul meu.
+- Vezi!|- Da-mi drumul la maini._____Take off my braces.
+Mainile.
+Si acum, doamna, daca esti|draguta sa-mi dai cateva raspunsuri.
+Ordinele noastre au fost sa te corupem,|_____to befoul your image of yourself.
+Failing that, we were to kill you.
+- Am vazut.|- Uite! Au gasit butonul.
+- Cine ti-a dat aceste ordine?|- Authority.
+International Mothers' Help, East Berlin.
+Jolly good sport, what?
+Esti ranit.
+'Tis but a thimbleful.
+But heart's blood.
+Cu bine, Jamie.
+Draga mea.
+Din nou. Spune din nou.
+James Bond, my jo James.
+James Bond, my jo.
+Draga mea.
+Inca o cerere.
+Ultima.
+Gandeste-te la mine|ca la a doua femeie din viata ta.
+Cea dupa Mata Hari.
+Saruta-ma, Jamie.
+Saruta-ma de la revedere.
+Madam! Esti sigura ca esti pe moarte?
+Nu pe moarte, dar renuntand la viata mea.
+Ma duc in alta lume.
+Este un _____convent dupa acel deal.
+Bond parasind Scotia acum.|Am inteles instructiunile.
+Jag catre Dairy. Legatura efectuata.
+- Pregateste-te sa livrezi laptele.|- Dairy catre Jag. Am inteles.
+- Pregateste-te, Remote Control.|- Remote control gata.
+Viteza gata. Distanta gata.
+- Incepeti ____milk float.|- Contact.
+- Distanta 75 yarzi.|- Accelereaza.
+- Prima bomba.|- Verificat.
+- Gap has widened.|- 30 yarzi.
+- Retract detonators.|- Check.
+- Tine-le. Este prea aproape.|- Viteza in scadere.
+Ignora Jag. Mareste viteza.
+- Distanta_____ gauge failing.|- Vizibilitate in scadere. Fara vizibilitate.
+Schimb pe control automat.|Buna, Jag. Ma receptionezi?
+Reduc viteza. Sunt in linie dreapta.
+Jag catre Dairy. Redu viteza acum!
+Buna, Jag. Vino aici, Jag.
+- Detonators out.|- Out.
+Doamne! Moneypenny.|Nu te-ai schimbat decloc.
+De fapt,|sunt fata doamnei Moneypenny.
+- Ce face draga ta mama?|- Dupoa ce ai plecat, ____ she took the vows.
+That seems to be|the in thing to do these days.
+Trebuie sa spun, acest loc|imi rascoleste amintiri.
+Da,mama mi-a spus cateva dintre ele.
+She probably also told you that I'm partial|to jasmine tea. Lapsang Souchong.
+Apropo, de cand am venit aici|ai observat ca ma balbai?
+- Nu, sir.|- Anunta-ma cand observi.
+Nu am timp acum pentru asa ceva.
+- Vei avea nevoie de mine la noapte, sir?|- Aproape sigur.
+Daca voi prelua acest departamen,|trebuie sa stiu toate secretele lui M.
+Nu cele personale, desigur.
+- Va urez bine ati revenit, Sir James.|- Multumesc...
+- Hadley, sir.|- Bineinteles. Esti...
+- Fiul tatalui meu, sir.|- Si unde este tatal tau acum?
+- In acelasi loc, sir.|- Asta e incurajator.
+Punema-la curent.|Cine in ce misune e?
+- Nu e o imagine prea frumoasa.|- De ce e asa de sumbru?
+Mi se pare ca au fost lichidati.
+Finlanda - injunghiat pana a murit|intr-o sauna pentru femei, sir.
+Madrid - ars intr-un bordel, sir.
+Si Tokyo, sir -|strangulat intr-o casa de geishe.
+Este dezolant ca "agent secret"|a devenit sinonim cu "maniac sexual".
+- Apropo, unde este omologul meu?|- A trebuit sa ne descotorosim de el, sir.
+Acum face televiziune.
+De ce sunt doua steaguri|in Caraibe?
+Nu am mai fost in contact pentru o luna,|sir. Nu am fost siguri care a plecat.
+- Cine e acolo?|- Nepotul dvs., sir. Jimmy Bond.
+Mai mult o dezamagire,|din pacate, micul Jimmy.
+Asculta. Nu poti sa ma impusti.
+I have a very low threshold of death.
+Doctorul meu spune ca nu pot|fi impuscat niciodata.
+What if I said I was pregnant?
+Pot sa fumez o ultima tigara?|Ma voi lasa in orice zi de acum incolo.
+Multumesc.
+¡Listos!
+Iti dai seama ca asta inseamna|o scrisoare cu repros catre The Times.
+¡Apunten!
+¡Fuego!
+La revedere, fraierilor!
+¡Apunten! ¡Fuego!
+And so I think|we'd better count him out, sir.
+Yes. Hadley, we're up against|an opposition of fiendish ingenuity.
+- They make incredible use of women.|- Yes, they tend to nowadays.
+Female spies harassed me in Scotland,|female spies chased me to London.
+We need an AFSD -|Anti-Female-Spy Device.
+We find the one man all women want,|then we train him not to want women.
+Toti agentii nostri wantable |au disparut, sir.
+Asta e momentul in care intervii tu.|Verifica toate documentele auxiliare.
+Toate, sir? O sa dureze toate noaptea.
+Mama ta lucra cel mai bine noaptea.
+Sa continuam?
+- Si care este numele tau?|- Cooper, Big Eyes. Dar spune-mi Coop.
+- Ca un cotet de pasari.|- Asta's eu.
+- Trebuie sa notez calificarea ta.|- Inaltime 6ft 1/2, 184lb.
+Trofee la karate si judo,|detinator al centurii negre Kamasutra.
+- Impresionant. Cum traduci asta?|- O sa-ti arat.
+I have to check 15 more auxiliaries|in alphabetical...
+Call Mr Zacharias and tell him not to|wait up. The vacancy's just been filled.
+A first-class performance, Cooper.|Excellent.
+- Your primary statistics fit the bill.|- We aim to please, sir.
+You will start|your AFSD training immediately.
+Moneypenny, get a few dozen girls|for Cooper to start with.
+- Moneypenny?|- A few dozen girls...
+I appreciate your confidence, sir.
+All agents and trainees will now be known|as James Bond 007, including the girls.
+Won't that be confusing, sir?
+The enemy won't know which way|to turn. You are now James Bond.
+Congratulations, 007.
+And you, 007... sir.
+Good hunting, 007.
+Doesn't that do something to you, 007?
+It does but I'm being trained to ignore it.|Beauty's only skin-deep.
+How about some skin diving?
+Not today, Lorelei.
+Right. Ting-Ling.
+You know that every fifth child|born in the world is Chinese?
+- They'll have to keep it up without me.|- Why are you so inscrutable?
+- That's meant to be our racket.|- You might be a double agent.
+- What would you do if I was?|- Whether you are or not, sayonara.
+Next. Shirley.
+- You're not Shirley.|- No.
+I'm the new secret weapon.
+- I've just been perfected.|- Yes, haven't you?
+- They've kept me under wraps.|- Lucky them.
+What do you do that's so secret?
+I don't do anything.|But unless you're one of them, you do.
+You're really learning|to put up quite a resistance.
+- It goes against my nature.|- I sense that too.
+- What are you doing after the exercise?|- Getting my head examined.
+Our man in Delhi tells us gold will|be up two points by midday tomorrow.
+Buy gold.
+- It'll cost you three nuclear warheads.|- Offer two.
+Your offer for Rockefeller Center|is accepted.
+I've changed my mind. I like London.|What about Lord Nelson's statue?
+It was delivered today, Miss Lynd.
+My dear Miss Lynd.
+- Who are you, sir?|- I am Sir James Bond.
+But I thought you were retired, Sir James.
+The whole world believes|you were eaten by a shark.
+That was no shark,|that was my personal submarine.
+But enough of this polite conversation.
+- What is the purpose of your visit?|- I desperately need your help.
+My dear Sir James, I hardly ever|undertake assignments these days.
+I can see why, but I think I can|persuade you to undertake this one.
+Your reputation is remarkable.
+But believe me when I say|I save all my energies for business.
+I have here a writ|for just over £5 million tax arrears.
+If you were to be cooperative,
+I could arrange easy payments|and a substantial discount?
+Perhaps we should discuss|this matter in comfort, Sir James.
+Thank you. What a charming outfit that is.
+Do you often wear that in the office?
+If I wore it in the street,|people might stare.
+You said, Sir James, you needed my help.
+I did, didn't l? I have a dossier on a man|who works at the Buckingham Club.
+His name is Evelyn Tremble.
+Mr Evelyn Tremble?
+- Yes, that's right.|- Isn't Evelyn a girl's name?
+No, it's mine actually.
+- Do you know me from somewhere?|- Your book: Tremble On Baccarat.
+I've studied it very closely.
+At night, in my bed.
+Is that where you study it?
+There are several passes|you describe in your book
+which I don't fully understand.
+Which passes are these?
+They're all marked. I would|have to have my book. Your book.
+And my book is in...
+My bed.
+You're winning tonight.
+I'll send my car for you.
+- Yes?|- Hello. It's me, Evelyn Tremble.
+Hello, Mr Tremble.|Can you hold on for a moment?
+Eric? Don't forget to empty|the deepfreeze first thing in the morning.
+Hello, Mr Tremble.|I'm so sorry to keep you waiting,
+but I was just seeing someone off.
+Come right up, all right? Bye-bye.
+- So nice of you to come.|- My pleasure.
+This way.
+The look of love
+Is in your eyes
+A look your smile can't disguise
+The look oflove
+It's saying so much more|than just words could ever say
+And what my heart has heard
+Well, it takes my breath away
+I can hardly wait to hold you
+Feel my arms around you
+How long I have waited
+Waited just to love you
+Now that I have found you
+You've got the look of love
+It's on your face
+The look that time can't erase
+Hello.
+Hello.
+That's Lord Nelson, isn't it?
+- Yes. Isn't he beautiful?|- Yes.
+- And do you know what he said?|- What?
+England expects every man|to do his duty.
+So he did, yes. But this is Mayfair.|Lord Nelson's in Trafalgar Square surely.
+No, not any more. He's mine.|Haven't you read the papers today?
+- I don't normally get them quite so early.|- I get 'em before they're printed.
+I suppose you can do anything|if you have money.
+Why don't you come down to me?
+Thank you very much.
+Lovely place you've got down there.
+Sit here.
+I do so like to feel comfortable|whatever I'm doing.
+Yes indeed. Yes.|The more relaxed the muscles,
+the better the synchronisation|between mind and body.
+I should think you're frightfully|synchronised, Mr Tremble.
+- Martini?|- What about them?
+I was just about to offer you one.
+The things I didn't understand|too well in your book. Let me see...
+Was it in chapter seven or chapter six?
+Chapter six probably.
+Though of course|it could have been chapter seven.
+Have you got the book|or is it still in your bed?
+I believe it is.
+Well, we'd better go|right through the book, hadn't we?
+Do you get many complaints|from the neighbours?
+Do you really think that your system|is completely faultless?
+- Which system?|- Your system for winning at baccarat.
+Yes, yes.|The Evelyn Tremble system is faultless.
+Good. Come on. We have more to do.
+More?
+I like a man who is able|to retain his own personality,
+no matter what the circumstances.
+Yes.
+No matter how he's dressed.
+They say it's the clothes|that make the man.
+If we're gonna work together, I have|to know what kind of a man you are.
+I thought you might have|gathered a little from...
+I want to see what happens when|you put on a different hat, a costume.
+You know, that sort of thing.
+- You like that sort of thing, eh?|- You'll find clothes in there. Put them on.
+Well, if you think it's really necessary.
+Unless you'd like to|go around one more time.
+One more time?
+There is nothing wrong with the British|Army that a damn good swim won't cure.
+Now, Evelyn Tremble.
+38 years old, born in Highgate.
+Hello, sailor.
+The wrong one, yes?
+Perfect.
+Distinguishing birthmark,|little scar on right shoulder,
+strawberry-shaped birthmark on left thigh.
+Well, there's nothing unusual in that.
+No. I myself have|an apricot one on my hip.
+Well, I'll show you my strawberry|if you'll show me your apricot.
+Author of a book on baccarat.
+Have you ever heard of|a man called Le Chiffre?
+Yes. An excellent card player.|He once wrote me a fan letter.
+Keep your hands there. Perfect. Lovely.
+I devoted a chapter to him in my book.|His forte is baccarat.
+Beside baccarat, he deals in lechery.
+Well, nobody's perfect.
+Do you think you can|win against Le Chiffre?
+Well, you'll remember that to operate|my system completely free of risk
+a stake of £100,000 is required.
+Yes, I remember.
+Stand still.
+I'm gonna give you a 500th at f2.
+That's the nicest thing|that anyone's ever said to me.
+What would you say if I offered|to stake you in a game against Le Chiffre?
+What?
+I put up the money, you play the game|and we split 50-50.
+- I think I'll go now if you don't mind.|- What's wrong?
+I enjoyed the earlier part|of this evening very much.
+I shall always remember|the pleasure of your company.
+I didn't even mind this dressing-up bit.
+But I do mind bloody unnecessary jokes|about the one thing I really know well.
+Evelyn, I'm serious. It's because you|know about baccarat that I'm not joking.
+You said you needed £100,000?
+- It's yours.|- That's fantastic.
+But look here. Old Le Chiffre|would never agree to play me.
+He's read my book.|He'd recognise my name.
+- No, no. Not any more.|- Why?
+We have chosen a new name for you.
+James Bond.
+Welcome to|the James Bond 007 training school.
+It's a small Minnox camera, isn't it?|A friend of mine's got one of those.
+- It's Mr Bond, isn't it?|- Yes.
+If you'd be good enough to sign here, sir.
+It's not for me.|It's for the Official Secrets Act.
+Of course.
+Eyes right!
+Eyes front!
+- Carry on, Sergeant Major.|- Yes, sir. Mark time!
+Halt! About turn.
+You really do stock|everything at Harrod's.
+Don't pay too much attention.|It's all basic stuff.
+It'll be out of date by the January sales.
+- Good morning, Johnson.|- Sir!
+May I tell you something?
+- I'm being followed.|- I know. It's part of the training.
+Shadowing people without being seen.
+The whole point is I can quite clearly|see the man who is shadowing me.
+Oh! Him. Don't worry about him.|He's not one of our trainees.
+- He's our security man.|- I see.
+Good morning, lnspector.|Don't let me interrupt you.
+On the command,|the head is turned thus,
+the hat is aimed thus,|the gun is fired thus.
+Yes, we're still working on that one.
+Now to Agents' Outfitting. Here we are.
+- Morning, Q.|- Good morning, Fordyce. New man.
+If I could bother you|for the signature, sir.
+I shouldn't use that pen.|The moment the nib touches the paper,
+it releases a stream of poisonous gas|into the writer's eye.
+Good heavens!|What will they think of next?
+I won't be going near that.
+I suppose it's useful|if you want to send anyone a...
+Poison-pen letter.
+All our new men say that. I reply "I don't|wish to know that. Kindly leave Ml5."
+Yes, sir. We have a very highly developed|sense of humour down here.
+It isn't the only thing that's|highly developed down here. Fordyce!
+- Wristwatch.|- Sir.
+1965 Rolex Oyster Perpetual.
+Date indicator and log table|round the outer band.
+And a thing that shows you|what shape the moon is.
+- Now, this is very important. Try it on.|- Let me help you.
+It's your means of reporting to us|and our means of contacting you.
+Channel six, Fordyce.
+Don't worry too much about him, sir.|Channel six it is, sir.
+I don't think I know|which one is which myself now, sir.
+Look at your watch|and tell me what you see.
+It's five and 20 minutes past 11 .|It's the 14th of March and...
+I said channel six, Fordyce.
+Well, nobody's perfect.
+But it's absolutely amazing!|I've never seen anything like this.
+It's a two-way television|and radio wristwatch.
+It's an American idea. They got it|from one of their comic strips.
+- Good heavens.|- Ah! Tea.
+Three lumps.
+It's an incredible thing, this.
+Which side do you dress, sir?
+- I usually dress away from the window.|- It's just some protective clothing, sir.
+Let me help you|out of your hampering things.
+And it is of course Sanforized, sir,
+non-iron, and also available|in chocolate, oyster or clerical grey.
+- It's hand-reefed and double-charvered.|- Is it?
+- It's a little tight around the...|- Poison capsule compartment?
+I'm sure we can let it out above|the switchblade and Geiger counter.
+Do what you can, Fordyce.|Your intercom button's in here
+with midget transmitters|for short-range contacts.
+There's an infrared camera, a tape|recorder in the shoulder padding,
+a Beretta in the buttonhole,|and a cute little minigun in the gusset.
+Yes. Just one thing.
+What happens|if I suddenly need to go somewhere?
+In this, sir? You'll find safety|instructions under the left lapel.
+Don't worry.|You're in very good hands here.
+Now this won't hurt a bit, sir.
+- Who g-gave you these orders?|- International Mothers' Help, East Berlin.
+There it is, Hadley. Our only clue.|The voice of a beautiful woman.
+We've checked it out, sir.|It's a Smersh cover operation, sir.
+It supplies baby-sitters and au pair girls|to some of the most important families.
+Then it must be infiltrated|by someone absolutely reliable.
+- I hope you weren't thinking of me.|- I was thinking of Mata.
+- You can't mean Mata Hari, sir.|- No, her daughter Mata Bond.
+- Mata Bond, sir?|- Her mother gave her that name
+because I happen to be|the child's sort of godfather.
+And to think that you knew Mata Hari!|She really was one of the greats.
+Yes. Great little dancer, terrible spy.
+Whereas young Mata is a terrible dancer.|Might be a great little spy.
+It's uncanny. Quite uncanny.|What memories it brings back.
+Paris, Berlin, Vienna.|How madly we danced through the night.
+- I was disguised as a Hungarian hussar...|- What are you going on about?
+You're the very image of your mother|and every bit as beautiful.
+You knew my mum?
+I am Sir James Bond.
+- Daddy!|- My child.
+- Snail's egg?|- No, thanks. They don't agree with me.
+Well, you're a charmer, aren't you?
+You dump me in an orphanage when I'm|three, and now, because you need me...
+It really was very difficult.|My career was at its height...
+It was a traumatic experience,|I can tell you,
+being the illegitimate daughter|of Mata Hari and James Bond.
+Still, you do get my monthly paychecks?
+Your monthly paychecks|went on analysts' fees.
+That's why I came here.|I had to get away from it all.
+I had no idea. Well, I must say,|you seem to be very comfortable here.
+It's crazy. You want a drag?
+No, thank you. I'm trying to give that up.|Who are all these people?
+They're the high priests of the temple.|OK, Fred. Hop it.
+Extraordinary performance.|They seem to treat you like a goddess.
+Well, I am the Celestial Virgin|of the Sacred Altar.
+- Figuratively speaking, of course.|- Of course. Some tea.
+A cup of tea. Splendid.
+It's made from poppy seeds. Two cups of|this and you're stoned out of your mind.
+Thank you.
+You know, if you weren't my dad,|I think I could fancy you.
+Well, that's very good of you, my dear.
+- Rather warm in here, don't you think?|- Cool it, Charlie.
+So you want me to go to Berlin, huh?
+Now, Mata. You remember|the old house on the Feldmannstrasse?
+- Where Mum had her dancing school.|- It's become lnternational Mothers' Help.
+But that's just a cover|for its real function. It is...
+- Does he speak English?|- Hey, Charlie. Speak English?
+- No.|- Good.
+It is a training centre for what|are commonly referred to as spies.
+You are eminently suited|to infiltrate the organisation.
+Two weeks' briefing in London|and you're off to Berlin.
+You want me to be a spy like Mum, huh?
+- Well!|- Family tradition, my dear.
+Do I get an exploding briefcase|and a secret transmitter?
+- That won't be necessary.|- I have to have some equipment.
+Your mother wiped out three divisions|of infantry and five of cavalry and...
+Well, frankly, she had|much less equipment than you have.
+If you have any problems,|contact London immediately.
+- Are there any questions?|- Well, I have got one question.
+- How do I get to Berlin?|- Oh, dear! Silly me.
+Taxi!
+- Where to?|- Berlin.
+- East or West?|- West, of course.
+Well, that's all right, then.
+- Say goodbye to Dad for me.|- Yes. Have a good trip. Jolly good luck.
+Get out of it, you lunatic!|What are you trying to do?
+Come on! Move. Get out of it.|Get out the way! Go on.
+- That'll be £482 15s 9d.|- You'll have to wait.
+I've been caught like that before.|I haven't had my dinner yet.
+- I don't have any change.|- Here we go.
+What about my dinner then, eh?
+What a liberty. Any fish and chip shops|round here, mush?
+Who are you? What do you want?
+I'm here to enrol as a student.
+What are your qualifications?
+- I am the daughter of Mata Hari.|- Mata Hari!
+- You are a liar.|- Am l?
+Well, what about this, then?
+My little Mata Hari!
+- I told you she'd come back!|- Silence! Or I will switch you off.
+Not that! Anything but that.
+You're even more|fascinating than your mother.
+You must be Frau Hoffner,|Mum's teacher.
+- I had that honour.|- You must be Polo.
+She remembers me, her little Polo.|She remembers me.
+- Welcome home.|- Welcome indeed.
+Shtum!
+The Mata Hari School of Dancing is the|only international school of espionage.
+There is no political prejudice here.
+We train Russian spies for America|und American spies for Russia.
+- Very democratic.|- Very democratic.
+Some of the greatest spies in the world|have graduated from this institution.
+- Von Grudendorf, Malenvosky...|- Peter Lorre, Bela Lugosi.
+Here we have|the decoding and cipher class.
+We are even training animals|as espionage agents.
+We have in the Kremlin|a Russian-speaking parrot
+in constant radio communication|with the Pentagon.
+Und here is our class|in karate und self-defence.
+Excuse me. I have|an important conference to attend.
+Polo, you will show Mata to her room.
+Please, follow me.
+Mata? Allow me.
+- Thank you.|- Follow me.
+My battery needs recharging.
+- Might be your head needs examining.|- No, I had that examined last week.
+This is your mother's room. It has not|been opened since she left here in 1916.
+You see? Nothing has been touched.
+It's a wild room.
+Hey, what an enormous bed.
+The German army|was very large in those days.
+To see you here in your mother's room|brings back such happy memories.
+Here.
+What's all this about|an important conference, hm?
+A representative of Le Chiffre is coming.
+Tonight.
+Who is Le Chiffre?
+Nobody knows.
+Not even Le Chiffre.
+What's the conference about then, hm?
+Le Chiffre is trying to raise money|by selling his unique art collection.
+- Why does he need money?|- He is a compulsive gambler, that's why.
+Und he is using organisation funds|for his gambling!
+- You mean Smersh?|- Smersh!
+If he does not pay off his debts,|he will be liquidated.
+Liquidated? Who by?
+- By them.|- You mean...?
+You're so like your mother.|You're driving me mad.
+- Well, you haven't got far to go.|- Come to me, my little Mata. Come!
+About time you were|back in your box, innit?
+You must forgive me.|I lose control of myself.
+- I'm a mad fool. Mad.|- You want an argument?
+- Remember, forget everything I tell you.|- My lips are sealed.
+- Lips! Don't say such words.|- Run along, sonny.
+Le Chiffre. Mm-hm.
+It's the first john|I've ever gone round with.
+There you are.|I have been looking for you.
+- It is little Otto.|- Who is he?
+One of your mother's lovers.|We often find them lying around.
+- Is he dead?|- Hard to tell. He always looked like that.
+Come along, child.|The auction is about to begin.
+Auction?
+Tonight we are selling one of|the finest art collections in Europe.
+- Le Chiffre's collection.|- Who is Le Chiffre?
+- The man who owns the collection.|- What collection?
+- The one to be auctioned.|- Who said anything about an auction?
+- You did.|- Who am l?
+- Frau Hoffner.|- Never heard of her. You're insane.
+- Quite insane.|- I think she's right.
+Gentlemen! Please take your seats|and the auction will commence.
+Thank you.
+Gentlemen, I am here tonight on behalf of|Le Chiffre, of whom you will have heard,
+to auction this unique collection|of art treasures.
+Are there any specific|bidding instructions?
+When we sit, we are bidding.|When we stand, we are not bidding.
+We'll do our bidding sitting down.|When we stand up, we're not bidding.
+We stand, we bid.|We no stand, we no bid.
+And the British representatives?
+Well, I don't know actually.|A bit of both, I suppose, really.
+- Is that all right with you chaps?|- That's fine.
+Very well, gentlemen.
+Now then.
+This is an extraordinarily|embarrassing item,
+one of the classic|blackmail items of all time.
+What am I bid for this priceless picture?
+£14 10s.
+- 300 roubles.|- 300 roubles.
+- $1,000.|- $1,000.
+- 2 million Chinese dollars.|- 2 million Chinese dollars?
+Look at this masterpiece, gentlemen.|Surely we can do better than that.
+- Here, what about my fare?|- Get out!
+- Here!|- Stop it!
+Whatever you do, you must not|let Le Chiffre raise the money.
+Who are you?
+I'm Carleton Towers of the FO.
+- FO?|- The Foreign Office, dear.
+Wait outside and keep the motor running.
+- 200,000 American dollars!|- £100,000!
+- A wagonload of vodka!|- 70 million tons of rice!
+- 60 tons of caviar!|- 30 million trucks!
+Hey! It's war!
+Hello! Hello! Get me the Pentagon!
+Hello, Fenella?
+I shan't be able to get back|for dinner. A sort of war's broken out.
+You should not have done this thing.
+Now I will have to kill you.
+What are you doing to me?
+No!
+Positive, negative -|I never know which is which.
+Give me those films.
+She's got the films!
+Grab her! Get her! Get her!
+Now look here.
+- Taxi!|- Tally-ho!
+I'm sorry, madam.
+- Let me go! Taxi!|- Over here!
+Come on!
+- Good Lord! Captain Towers?|- How nice to see you.
+This way!
+No, no! Down. No.
+- Where to, miss?|- London!
+- Le Chiffre speaking.|- The scheme was a failure.
+And also Dr Noah knows|what you've been up to.
+- What now?|- I'll just have to raise the money.
+- But how?|- How? By playing baccarat.
+But Le Chiffre, what about me?
+What's going to happen to me?
+Thank you.|And welcome to France, Monsieur Bond.
+We don't want our little talk|to be overheard. Get in the car.
+Well, there's nothing|to talk about, is there?
+Perhaps. Perhaps not.
+The point is you must not|allow yourself to become involved.
+Don't forget there are many people here|who loathe and despise you.
+I have to warn you, Bond,|my instructions are
+that you play your game|with Le Chiffre and leave immediately.
+No one can be such a perverse idiot|as to assault a customs official.
+- It may just be natural talent, sir.|- I have to warn Vesper.
+- You mean James Bond 007, sir.|- Yes, yes, yes.
+Vesper? James Bond 007?
+- Vesper, are you there?|- Hello, Sir James. Yes, I'm here.
+I can't see you. Your picture's gone.
+No, it hasn't. I was|just getting into the bath.
+Vesper, do you think|Tremble could be a double agent?
+He has enough trouble being|a single agent. Leave him to me.
+Right. Over and out.
+Mr Bond?
+Missed, Mr Bond.
+Yes.
+I am Miss Goodthighs.
+I can see that.
+You've got your cork still in your bottle.
+So I have. What are you|going to do about it?
+Stick your arm out.
+The management of the Hotel Tropical|send their compliments
+and hope you will enjoy your stay with us.
+I see.
+Very sexy pants you're wearing, James.
+Yes, they're the new double-O-fronts.
+Tell me, Miss Goodthighs,
+how much did you tip the porter|to let you in here?
+- I just showed him a little kindness.|- How much?
+Not too much. He's 83.
+It's a good year.
+So...
+What can I do for you?
+The question should be|what can I do for you?
+- Have you got any suggestions?|- This, for one.
+Tell me about yourself, James.
+Well, I've had some|pretty wild times in my life.
+Could you move over a bit?|You're lying on my loose change.
+James, I need you.
+Yes, yes, yes.|Well, I can understand that, my dear.
+- I want to know you better.|- You're absolutely right.
+My goodness, this is strong shampoo.
+This really is.
+I think I'd better|freshen up a bit quick.
+I'll be back in five minutes.|If I'm not, start without me.
+James Bond playing at Casino Royale
+He won a lot of money|and a gal at Casino Royale
+Oh, he's not really|such a wonderful spy
+But winning lots of money|and a gal, he's a fabulous guy
+Evelyn! Evelyn!
+Evelyn! Evelyn!
+Evelyn! Evelyn!
+Evelyn, wake up!|Evelyn, what's the matter?
+- Wake up! You were drugged.|- What?
+- You were drugged.|- Yes, I know I was drugged.
+I put the antidote pill in. And then...
+Hey, I thought those antidote pills were|supposed to give me 24-hour protection.
+- I've got to get Sir James Bond...|- There is no time for that.
+Look at you! You're wearing your glasses|and you know you're not supposed to.
+James Bond doesn't wear glasses.
+Yes, but l... It's just that|I like to see who I'm shooting.
+There are only a few hours left|before the game. Now, get freshened up.
+Here, what about Miss Goodthighs?
+Don't worry. I took care of her.|Now concentrate on the game.
+Vesper, I've given this game|a lot of thought.
+When I go into that casino tonight,
+I'm going to sit down opposite|Le Chiffre, look him in the eye and say...
+No cards.
+- Neuf à la banque.|- It's amazing! He never loses.
+La banque gagne. La partie est terminée.
+Quiet. Absolute silence, please.
+For this experiment, I require|the assistance of a young lady.
+You, madam. Look me in the eyes!
+And you, Georges,|keep your eyes on my chips.
+I present you with the levitation|of the Princess Ayisha,
+an illusion taught to me|by an ancient vegetarian
+in the mountain fastnesses of Tibet.
+She feels no pain.|My assistants will enshroud her
+in this perfectly ordinary paisley shawl.
+Now will you all|place your hands on the table?
+Now let's get the show off the ground.
+Keep your hand in place, madam,|and continue to ascend into thin air.
+Don't take your eyes from her,|not one of you.
+It is by your perfect concentration
+that the young lady|remains floating in thin air.
+Excuse me, madam.|Sorry to keep you hanging around.
+Monsieur. You wish to make a deposit?
+- Yes.|- How much?
+- £100,000 sterling.|- One hundred thou...
+You can keep the case|with my compliments.
+Thank you, monsieur.|Could we have the name, please?
+Bond. James Bond.
+James B...
+- James Bond?|- Yes, James Bond.
+Yes. James Bond.
+I wonder if you'd be kind enough|to sign my autograph book.
+It's not for me, you understand.|It's my little sister.
+I wonder if you'd be kind enough
+to put your autograph on that receipt|for the £100,000 sterling.
+But of course, Mr Bond.
+It's not for me, it's for somebody else.
+- Now what happens?|- We go to the casino director's office.
+Point me. Just point me.
+- What's the matter?|- Nothing.
+Just a bit different|from the Buckingham Club, that's all.
+- Bond has arrived.|- Bond is here. All staff on the alert.
+Come in.
+Ah! Hello. How nice to see you again.
+- May I introduce...|- We have met.
+Mr Slymington-Jones, Mr James Bond.
+How do you do?|Do make yourself comfortable.
+I see you've put a tiger in your office.
+Yes. I have several actually.|That one that you so cleverly spotted,
+the head on the wall over there,
+and the one you're about to trip over.|Do be careful.
+Yes.
+The man in the white coat is Le Chiffre.
+Don't be afraid. It's a one-way mirror.
+- Which way?|- That way.
+- No card.|- No card.
+Neuf à la banque.
+Mr Bond, you can watch|Le Chiffre better on here.
+He's bought the bank for the evening,|and he's winning consistently.
+And showing off|with his magic throughout.
+- Why the dark glasses?|- Here.
+So if Le Chiffre wears|the same kind of glasses,
+he knows every card on the table.
+- Infrared glasses.|- The cheat!
+Listen, Evelyn.
+You win and he will almost certainly|be killed by his organisation.
+- But he'd try and avoid that, wouldn't he?|- If you win, yes.
+- How?|- By trying to kill you.
+- As in dead?|- Yes. But don't worry about that now.
+Let's go down there|and you play the game of your life.
+Yes, I better had. There may|not be too much more of it left.
+- Vesper...|- Don't worry. I'll take care of you.
+- Well, then. It's all under control now.|- I hope so.
+- Well, excuse me.|- Willingly.
+Messieurs, faites vos jeux.
+I believe you have my name|in a crevice. James Bond.
+- Pardon, monsieur?|- Bond. James Bond.
+Oh, yes, Mr Bond.
+Bond? James Bond?|The name is familiar.
+I don't believe I've had the pleasure.
+- I'm flattered you've heard of me.|- I have heard of you,
+but not as an expert on baccarat.
+Well, I'm sorry you weren't told.
+Don't think that went unnoticed, Mr Bond.
+I see everything that goes on at this table.
+- Nothing escapes me.|- I'm quite sure it doesn't.
+But we mustn't forget that
+the beggar who is in the marketplace
+is completely deaf|insomuch as far as listening
+to the song that is coming|from the mockingbird is concerned.
+I'm sorry, Mr Bond,|I don't get the connection.
+You will.
+Sim salabim.
+When you're quite ready.
+Now I require a perfectly ordinary|gentleman's pocket handkerchief.
+From the pocket|of one perfectly ordinary gentleman.
+That's the kind of remark|that leads to war.
+How much better for all humanity
+if all the nations could learn|to live together in peace.
+Marvellous!
+More!
+That's finished, is it?|Fantastic. Wonderful. Incredible.
+Incredible, isn't it? Absolutely marvellous.|I've never seen anything like it.
+And now if you're ready, Monsieur|Le Chiffre, I would like to play baccarat.
+- I use the Evelyn Tremble method.|- You read Tremble.
+I thought he'd only published|a few paperback editions.
+Well, I have an autographed first edition.
+It's a bit dog-eared now, mind you,|but it nevertheless has a certain...
+Uninformed quality?
+Six à la ponte et neuf à la banque.|La banque gagne.
+Aren't you a little|out of your depth, Mr Bond?
+In the last 20 minutes I have ruined|two Greeks and a maharajah.
+You know, Mr Bond,|we aren't playing for marbles.
+The night is young and the rose garden|is already littered with my victims.
+Yes, but the beggar in marketplace|are deaf to song of nightingale.
+- You amuse me, Mr Bond.|- I'm glad you're enjoying me.
+Shall we double the bank?
+If it'll improve your game.
+Pas de cartes.|No card.
+- Sept à la banque.|- He never loses!
+Cinq à la ponte. La banque gagne.
+What about one for the road?
+It looks as though luck isn't|on your side of the road, old man.
+She has a habit of moving around.
+Then we might as well|double the bank again.
+Suppose I were to treble it?
+Treble it? You haven't any chips!
+I think my credit's good.
+Bond credit good.
+The bank now stands at 50 million francs.
+Very well.
+Goodbye, Mr Bond.|It's been nice knowing you.
+Pas de cartes.|No card.
+- Baccarat.|- He lost!
+La ponte gagne.
+Goodbye, Monsieur Le Chiffre.|It was nice knowing you.
+Let's not say goodbye, Mr Bond.|Let's just say au revoir.
+- Lovely!|- Credit my account, would you?
+La partie est terminée.
+- A remarkable performance, Mr Bond.|- Thank you. Trifle unusual but...
+- How would you like the money?|- A cheque in a Swiss bank.
+- Would you like the cheque now?|- Yes, now, yes.
+I'll tell the cashier.|You can pick it up as you go out.
+- Excuse me.|- Willingly.
+Mr Bond, what are your movements|for the rest of the evening?
+We thought we'd have a bite to eat|and then back to the hotel.
+And you're leaving Royale|first thing in the morning.
+Are we?
+The inspector isn't asking us.|He's telling us.
+A police car will escort you|from the hotel to the airport.
+- Mr Mathis.|- Yes?
+Something's been worrying me.
+You're a French police officer|and yet you have a Scots accent.
+Aye. It worries me, too.
+Haven't by any chance seen|a young lady in a green dress?
+Would that be a lady|with a black bag over her head
+being manhandled|by two unsavoury gentlemens?
+- Could very well be.|- She went that way, sir.
+In a car. A very fast car!
+- Moss?|- Yes, sir.
+- Follow that car!|- Yes, sir.
+I'll use Fangio next time. Idiot!
+Grand Prix enthusiasts may be worried
+by the time it's taken me|to get into this Lotus Formula Three.
+They don't realise that although Le Chiffre|thinks he has a faster car than me,
+I am faster in my Lotus Formula Three!
+Wake up, Mr Bond. Wake up.
+Well, now, Mr Bond. You've had|your little victory at the baccarat table.
+Now it's my turn. I'm going to|have to have that cheque, Mr Bond.
+Smersh is going to be very unhappy.
+- You mean you're going to torture me?|- Persuade you, Mr Bond. Persuade you.
+Don't worry about that chair with the hole.|It's merely waiting to be reupholstered.
+- By me.|- You have an inventive mind, Mr Bond.
+But my methods are much more subtle.|They have to be.
+- What are you going to do?|- Physically, I'm not going to do anything.
+Oh, you're going to nothing me to death.
+Torture of the mind. The most|exquisite torture is all in the mind.
+I'm going to have to|have that cheque, Mr Bond.
+Suppose Mr Bond isn't ready|to give it to you?
+You are a tiresome little man.|Let's try another approach.
+It's a beauty contest, Mr Bond.
+You're supposed to pick the winner.
+- Excuse me. Are you Richard Burton?|- No, I'm Peter O'Toole.
+Then you're the finest man|that ever breathed.
+- God bless you, sir.|- Thank you.
+You've changed my plans, Miss Lynd.
+But neither you nor Bond will leave here|till I get that cheque!
+Mr Tremble?
+Never trust a rich spy.
+Le Chiffre, you're a fool. Smersh|believed you could win at baccarat.
+- All I need is 24 hours!|- It's too late.
+Oh, Daddy, I do so long to meet him.|All the girls do. He really turns me on.
+- Did that finishing school teach you that?|- No, I taught them.
+Now run along and watch|the Changing of the Guard.
+- I bet Mummy would have taken me in.|- Mummy took everyone in.
+Put me down! Put me down!!
+- What is it, a film?|- It must be a commercial.
+No time for window-gazing, Moneypenny.|Mata's been kidnapped.
+- But...|- That's an unidentified flying object.
+And our fastest jets|trying to track it down. Control?
+- That's the canteen.|- Control!
+Contact all operatives.|We must find out where it lands.
+- Air Ministry. They've lost it.|- Lost it? You were right on its tail.
+Well, you must have|one plane fast enough... I see.
+They stopped building those last week.
+I wonder if you'd care to help us.
+- Could you come back...|- Do please come in, Sister.
+It's our annual collection for needy girls.
+Your receipt?
+This department has always been|very helpful to needy girls.
+That's strange.|We've never had a receipt before.
+"They're taking your daughter|to Casino Royale. Sister McTarry."
+The Prime Minister, urgently.
+Daddy'll come after me.
+- That's what we're hopin'.|- You won't get away with this.
+Move to the door, Mata Bond.|You are a prisoner of Smersh.
+We already have most of your father's|agents here. You will complete the set.
+- Looks like a Smersh convention.|- Le directeur wishes to see you.
+- It is about your daughter.|- Tactic 4B if necessary.
+I will tell him you are here.
+Hold it! Back up.
+Face the curtains!
+March!
+You are now entering|the Smersh headquarters of Dr Noah.
+Tactic 33A.
+Now!
+Operation James Bond completed.
+Dr Noah, I presume.|Why don't you come out and face me?
+Because you are going to|come in and face me.
+Sir!
+Moneypenny!
+This is an historic day|in our saga, Sir James.
+The day Smersh finally eliminated|the original James Bond.
+- His world will soon follow.|- This is all very impressive.
+You might be even more impressed|to meet one of my 1,000 doubles.
+Waiting for the moment when|I command them to take over the world.
+It's fantastic. May I take a closer look?
+It's quite perfect.
+- Good Lord! It's my nephew.|- Jimmy Bond?
+This explains the Caribbean assignment.|Is this some kind of a joke?
+- He can't speak!|- Never could in my presence.
+Psychological block he's had since|childhood, based on hero worship.
+- He's Dr Noah?|- My nephew the head of Smersh?
+I have been bombed, bullied and baited|out of retirement to deal with you?
+- Do you suppose he's a junkie?|- Leave this to me.
+Now, Jimmy, as your uncle|I really must insist...
+- What is it?|- He's put a sheet of glass between us.
+I never should have let Nellie|send him to progressive school.
+What's that?
+Dr Noah's bacillus? Now, Jimmy,|even you wouldn't release germ warfare.
+Handle these capsules with care.|Dr Noah's bacillus is highly contagious.
+When distributed in the atmosphere|it will make all women beautiful
+and destroy all men over 4ft 6.
+- Please handle these capsules with care.|- So that's your plan, huh?
+A world full of beautiful women|and all men shorter than yourself.
+Good evening. All this just to make up|for your feeling of sexual inferiority?
+I'm beginning to think|you're a trifle neurotic.
+Maybe you can explain. Why was I|abducted and subjected to this?
+Because, of all Uncle James's 007s,|you're the most beautiful and desirable.
+Do you treat|all the girls you desire this way?
+Yes! I undress them and tie them up.|I learned that in the Boy Scouts.
+Let me ask you a question.|Do I appear menacing to you at all?
+- What are you laughing at?|- Nothing. I just think...
+Did you see yourself in the mirror lately?|I think you should.
+You are a wretched, grotesque,|ridiculous, insignificant little monster.
+Are you saying to me that you find|Uncle James more attractive than I am?
+Uncle James? He's a real man. Wow!
+Do you realise that anything|Uncle James can do I can do better?
+That will be the day.
+You're crazy. You are absolutely crazy.
+- They called Einstein crazy.|- No one ever called Einstein crazy.
+- They would have if he behaved like this.|- People respected Einstein.
+Einstein could never have conceived|of something like this.
+It looks like an aspirin, it tastes|like an aspirin, but it's not an aspirin.
+- It's cyanide.|- This pill contains 400 tiny time pills.
+They go off in the body,|forming a chain reaction,
+and turn the person|into a walking atomic bomb.
+Einstein's bomb was crude.|This is brilliant.
+It's crude to tie up women.
+In a week it'll be|April Fools' Day, my birthday.
+All world leaders will be assassinated|and my doubles will take their places.
+In five days' time|I'll be ruler of the Earth.
+- How would you like to be my co-ruler?|- Why not?
+- Why not? You hate me.|- I don't know.
+I'm beginning to wonder|if the real genius of the Bond family
+is not right here in the room with me now.
+- Why don't you unlock me?|- Yes, I will.
+I'll unlock you immediately|and we'll run amok.
+If you're too tired, we'll walk amok.
+I'm so sorry for all the things I said.|I didn't really mean it.
+- Here. Slip into this.|- Just a moment. Be careful.
+Yes. I don't want to|damage any of your parts.
+Multam.
+Multumesc.
+Now, turn yourself like a nice fool|while I slip this on.
+Da. Da, astept aici.
+Aceasta ii va arata lui Sir James odata pentru totdeauna|care din noi are un corp perfect.
+The poor boob! Grabeste-te, draga.
+Am planuri mari pentru noi.
+It's vaporised lysergic acid.|Este foarte exploziv.
+Intrati acum in|avionul personal al lui Dr Noah
+Unde dragul nostru conducator|a asamblat ____a collection
+of the world's|most distinguished doubles.
+Avionul spatial a Dr Noah|va ureaza bine ati venit la bord.
+A great likeness, isn't she?|I copied her right down to the last...
+Doi dintre noi au avut cateva|experiente religioase.
+Cum iti place locul asta? Am un|decorator care ma ajuta, dar lucrez cu ea.
+Seful vostru|has remoulded ordinary agents
+into replicas of the world's greatest|figures in culture, politics and the arts.
+- Look! They're uncovered!|- These are not doubles.
+These are the real people. I've already|substituted my robots for them.
+La acest moment lumea este condusa|de dublurile care sunt sub controlul meu.
+Ei bine, asta explica o multime de lucruri.
+Your rain-cooled Taittinger, sir.
+Bautura!
+Si pentru tine.
+Gandeste-te. O lume fara ____A world free of|poverty and pestilence and war.
+O lume in care toti oamenii sunt egali.
+In care un om, nu conteaza cat de scund,|poate inscrie _____can score with a top broad.
+in care un om fara a tine cont de rasa,|credinta, culoare, beneficiaza de lucrari stomatologice gratuite
+and a chance of subscription-buying|all the good things in life.
+Dar, Noah, tu esti de acord cu toate astea?
+Nu, nu. Eu nu sunt de acord.
+Iubesc politica!
+- Pentru viitor.|- Beau pentru asta.
+Sampania mea speciala.
+- With your very special pill in it.|- Despre ce vorbesti?
+Arata ca o aspirinalooks like an aspirin, it tastes|like an aspirin, but it isn't an aspirin.
+- And you just swallowed it.|- You're lying.
+398 more of those little pills to go off.|Have a real bomb of an evening!
+Alka Seltzer!
+Right?
+Charge!
+Delightful vintage, sir.
+- 297.|- Smooth to the palate.
+Here. There's a fish|in my mixture. You fool!
+I say! Super place for a coming-out party.
+Now now, Mata.
+- Through here!|- Down!
+Look! Quick, before the fuse burns out.
+Try not to look conspicuous.
+- Dumnezeule! Este unul de-al nostru.|- Domnule!
+- Trebuie sa iesim inainte sa explodeze!|- Trebuie sa gasim biroul.
+- Ce birou? | - Cel in care am coborat, bineinteles.
+Asta lasami-o mie.
+Unde e biroul? Biroul.
+Haide! Repede.
+Este foarte civil din partea dvs., domnule. Multumesc.
+Haide, da-mi mana.|- Ai grija!
+Urmati-ma!
+Charge!
+Mata, pune degetul|in urechea tigrului. O sa actioneze usile.
+- Bine.|- Care e strategia, domnule?
+Plecati din locul asta nenorocit|inainte sa explodeze.
+- Toata lumea sa stea in spatele meu.|- Nu mai risc sa trec prin casinoul acela din nou.
+- Mai bine cobor pe conducta de scurgere.|- Frumos, dar fara sustinere.
+Scoate fetele prin iesirea din spate.|Imi pare rau ca te-am bagat in asta.
+Pe naiba, tata.|Nu puteam sa ma distrez mai tare.
+Pe acolo.
+Evacueaza cladirea.|Este gata sa explodeze.
+As dori Londra. Whitehall 007.
+Pacat ca n-o sa o mai prinzi, Sir James.
+Am intampinat o gramada de necazuri|sa te aduc aici.
+Draga Vesper.|Ce nu faci tu pentru bani.
+De data asta e din dragoste, Sir James.
+- Nu astepta...|- Inapoi in birou.
+Ajutoarele americane, domnule. Au sosit.
+80.
+79.
+Geronimo!
+51.
+- Ne bucuram ca am putut fi de ajutor, domnule|- Dumnezeule! Ransome, nu-i asa?
+A-OK, Sir James. CIC at CIA.
+Nu incepe din nou.|Nu am terminat inca ultimul lot.
+- Cum spui, domnule|- A-OK, Ransome. A-OK.
+- Ciao.|- Ciao.
+37.
+- Au sosit francezii.|- Pardon?
+- Francezii sunt acolo.|- Imi pare rau, franceza mea e rudimentara.
+- Francezul a ajuns.|- Splendid. Multumesc.
+Uitat-te afara!
+- Merde!|- Ce? Uitat-te in carte.
+- Ouch.|- Pe aici.
+Politia!
+Am fost pacalit.
+Arma asta impusca invers.|Tocmai m-am omorat.
+18. Asteapta!
+17.
+Patru.
+Trei. Doi.
+Sapte James Bonds la Casino Royale
+Au venit sa salveze lumea|and win the gal at Casino Royale
+Six of them went to a heavenly spot
+The seventh one is going to a place|where it's terribly hot
+The formula is safe with old 007
+He's got a redhead in his arms
+Though he's a lover,|when you are in trouble
+Have no fear, look who's here
+James Bond!
+They've got us on the run
+With guns and knives
+We're fighting for our lives
+Have no fear, Bond is here
+He's going to save the world|at Casino Royale
+La Casino Royale
+Formula este sigura cu batranul 007
+He's got a redhead in his arms
+Though he's a lover,|when you are in trouble
+Nu va temeti, uite cine este aici
+James Bond!
+They've got us on the run
+Cu pusti si cutite
+We're fighting for our lives
+Nu va temeti, Bond este aici
+He's going to save the world|at Casino Royale
+James Bond este aici.
+Deci, nu va temeti.
+SFARSIT
+Support us and become VIP member |to remove all ads from www.OpenSubtitles.org

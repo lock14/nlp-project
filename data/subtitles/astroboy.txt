@@ -1,4905 +1,1564 @@
-
-
 Here we are,
 floating peacefully in the sky.
-
-
-
 Metro City, the jewel in the crown.
-
-
-
 Beautiful, isn't it? But how did we get here?
-
-
-
 A century ago, the founders of Metro City,
 seeing our world was changing,
-
-
-
 took Mount Sofia and lifted it
 out of the Earth and into the sky
-
-
-
 to be an oasis, a floating paradise.
-
-
-
 We don't really know
 what happens these days
-
-
-
 on the strange and mysterious Surface
 we left behind.
-
-
-
 But life in Metro City is better than ever,
 thanks to our friends, the robots.
-
-
-
 Robots do our shopping.
-
-
-
 They cook for us. They serve our meals.
-
-
-
 They take good care of us.
-
-
-
 They even do the really important things
-
-
-
 like reminding us to call Mom
 on her birthday.
-
-
-
 Whether it's raising our children,
 building our buildings,
-
-
-
 taking care of our city
 or making sure we're all fit and healthy,
-
-
-
 for these guys, no job is too big
-
-
-
 or too small.
-
-
-
 Plus, robots do a lot of the things that
 frankly we just don't want to do anymore.
-
-
-
 Oh, no!
-
-
-
 Don't worry, folks,
 that street will get clean.
-
-
-
 The best and brightest of them get picked
 for the more exciting tasks.
-
-
-
 This lucky guy is starting the first day
 at his new job.
-
-
-
 And it's all thanks to this man, Dr. Tenma,
-
-
-
 head of the Ministry of Science
 and father of modern robotics.
-
-
-
 Thanks to him and
 the incredible innovations he introduced...
-
-
-
 Hey, Toby, isn't that your dad?
-
-
-
 - It sure is.
 - Hush!
-
-
-
 Our friends, the robots, help us.
 Thousands are created every day,
-
-
-
 and thousands are disposed of
 in the great unending cycle
-
-
-
 that sustains life in our great city.
-
-
-
 Thanks for everything, guys.
 May you rust in peace.
-
-
-
 Okay, students. Ready for a pop quiz?
-
-
-
 - What?
 - Oh, no.
-
-
-
 Begin.
-
-
-
 - Oh, man.
 - I am so busted.
-
-
-
 Yes, Toby. Is there a problem?
-
-
-
 There's no problem.
 I'm just finished, and I'd like to leave.
-
-
-
 Finished?
-
-
-
 For rocket science,
 it wasn't exactly rocket science.
-
-
-
 I don't suppose there's much point
 in you staying.
-
-
-
 - Good luck, guys.
 - Jeez.
-
-
-
 Just like his father.
-
-
-
 Hello, Master Toby.
 Did you have a good day at...
-
-
-
 Think fast, Orrin.
-
-
-
 Thank you, Master Toby.
 Very good throw, by the way.
-
-
-
 - Hello, Son.
 - Hello, sir.
-
-
-
 - How was school?
 - Oh, great.
-
-
-
 Moustachio dropped a pop quiz on us,
 but I'm pretty sure I got 100%.
-
-
-
 That's good, Son, very good,
 but I don't want you to become complacent.
-
-
-
 It's important to keep studying.
 Onward and upward, Toby.
-
-
-
 Sure, Dad.
-
-
-
 I'm aware I said I'd take you
 to that symposium on quantum mechanics,
-
-
-
 but I'm afraid
 I have to take a rain check again.
-
-
-
 - But you promised.
 - I'm sorry, Toby, but it's unavoidable.
-
-
-
 President Stone has brought forward
 the unveiling of the Peacekeeper.
-
-
-
 The Peacekeeper?
 You've got to be kidding me!
-
-
-
 I never kid. Goodbye, Son.
-
-
-
 The Peacekeeper, huh?
-
-
-
 Hey, Orrin, change of plan.
 Take me to the Ministry of Science.
-
-
-
 I'm sorry, Master Toby, but your father
 gave me strict instructions to...
-
-
-
 Stop that! What are you doing back there?
 Hey! Hey!
-
-
-
 Next stop, Ministry of Science.
-
-
-
 You ready to blow me away today, Tenma?
-
-
-
 To make my hair stand up,
 to knock my socks off?
-
-
-
 - Yes, yes, metaphorically speaking.
 - Well, that's the spirit.
-
-
-
 Dr. Elefun is an esteemed colleague
 of mine, Mr. President.
-
-
-
 He may be resistant to having his discovery
 used for military purposes.
-
-
-
 Well, you leave Dr. Elefun to me.
-
-
-
 - Dad!
 - Hold that kid!
-
-
-
 What are you doing here?
 I gave Orrin specific instructions to...
-
-
-
 Ow, ow.
-
-
-
 I wanted to see the demonstration.
 You're always talking
-
-
-
 - about the Peacekeeper and...
 - Really, Toby.
-
-
-
 - Your boy?
 - Yes, sir.
-
-
-
 Well, let him tag along.
-
-
-
 Releasing potential threat.
-
-
-
 It'll be good for him, educational.
-
-
-
 Yes, sir.
-
-
-
 So, you're interested in robots, son?
 Robot weapons?
-
-
-
 Absolutely, though I'm sure you'll agree
 the latest D-Class Interceptor
-
-
-
 underlying deployment-to-target system
 is quite old-fashioned.
-
-
-
 Nobody likes a smarty-pants, kid.
-
-
-
 Take this boy to a safe place
 and keep him there.
-
-
-
 What the...
-
-
-
 - Dad!
 - I think it's for the best, Toby.
-
-
-
 But you said I could see the Peacekeeper.
-
-
-
 You still can,
 on tonight's news with everybody else.
-
-
-
 Ladies and gentlemen,
-
-
-
 allow me to present Blue Core energy.
-
-
-
 - Wow.
 - Blue Core energy,
-
-
-
 a new self-sustaining power source
-
-
-
 much stronger than nuclear energy
 and infinitely cleaner.
-
-
-
 The raw materials came from space.
-
-
-
 A fragment of a star millions of light-years
 away that no longer even exists.
-
-
-
 This is now all that's left of it.
-
-
-
 Properly harnessed,
 this small sphere could transform
-
-
-
 not only Metro City,
 but life for those on the Surface, as well.
-
-
-
 Imagine cleaning up Earth's water.
-
-
-
 Imagine bringing back the forests.
-
-
-
 Imagine overcoming the effects
 of centuries of pollution.
-
-
-
 I know he's a bit of a dreamer,
 but he's a brilliant scientist.
-
-
-
 He's a dangerous idiot
 who happens to have a high IQ.
-
-
-
 Unfortunately, there's no such thing
 as a free lunch.
-
-
-
 When we extracted the positive blue energy
 from the fragment,
-
-
-
 we were left with this highly unstable
 by-product, negative red energy.
-
-
-
 I like that one.
-
-
-
 Women voters are partial
 to the color red, you know.
-
-
-
 Until we discover how to
 safely dispose of it... What...
-
-
-
 What are you doing? Stop!
-
-
-
 - Keep the cores apart or you'll kill us all!
 - Do as he says.
-
-
-
 This is outrageous!
 What are you intending to do with it?
-
-
-
 I'm gonna give
 the people of this city
-
-
-
 - a reason to re-elect me.
 - How?
-
-
-
 The only way you can, Doctor.
 I'm gonna kick some butt.
-
-
-
 - This is so unfair.
 - Now cool off, hotshot.
-
-
-
 Please don't leave me in here, sir!
-
-
-
 I can't stand small places.
 Anywhere but here!
-
-
-
 Jeez, kid. You're like 13 years old.
 It's time you grew a backbone.
-
-
-
 Thanks for the life lesson,
 and thank you for this.
-
-
-
 As one friend to another,
 don't do this, Tenma.
-
-
-
 Come on, Elefun. You know as well as I do,
 without military funding
-
-
-
 all of our research, including yours,
 would grind to a halt.
-
-
-
 Start it up.
-
-
-
 I told President Stone,
 "You gotta bring out the big guns."
-
-
-
 "Onward and upward, Toby."
-
-
-
 Load the Blue Core.
-
-
-
 Hold on. This Blue Core,
 it's all sweetness and light, right?
-
-
-
 I mean, "Save the dolphins,"
 "Give peace a chance," and so forth?
-
-
-
 It's pure positive energy.
-
-
-
 Call me a dreamer, but I think we'll get a bit
 more bang for our buck using the red one.
-
-
-
 Oh, you're not joking.
-
-
-
 Sir, we're not putting something that
 dangerous into something that dangerous.
-
-
-
 Listen, Tenma, I've got an election to win.
-
-
-
 I need my robot to be a fighter, not a lover.
-
-
-
 - Load the red one.
 - I won't.
-
-
-
 Well, then I'll do it. Move over, sweetheart.
-
-
-
 - Hey!
 - No!
-
-
-
 It's like a video game.
-
-
-
 Core loaded.
-
-
-
 Piece of cake.
-
-
-
 Activate weapon drones.
-
-
-
 I hate this job.
-
-
-
 I gotta get a better look.
-
-
-
 - Time to check the classifieds.
 - I hear you.
-
-
-
 It's using that drone against
 the other drones. How's that possible?
-
-
-
 It's called "adaptive technology."
 It can absorb and control anything.
-
-
-
 Well, I may have
 flunked out of college,
-
-
-
 but I was right about the Red Core.
-
-
-
 You scientists think
 you're the only ones with the brains.
-
-
-
 Huh? Sir?
-
-
-
 Dad! Dad!
-
-
-
 - Toby!
 - Dad!
-
-
-
 I can't open it! I can't open it!
-
-
-
 Help me, Dad! Help!
-
-
-
 - Toby!
 - Dad!
-
-
-
 It's going to be okay, Toby.
 I'm going to get you out!
-
-
-
 Everything's going to be fine, I promise.
-
-
-
 Toby!
-
-
-
 Fire now.
-
-
-
 Where's Toby? Where's my son?
-
-
-
 I'm so sorry, Tenma.
-
-
-
 Toby.
-
-
-
 It's all my fault.
-
-
-
 He hasn't eaten or slept for days.
-
-
-
 - I know.
 - He's gone crazy, hasn't he?
-
-
-
 If you lose your son like that
 and you don't go crazy,
-
-
-
 you're not a human being.
-
-
-
 Clear the lab.
-
-
-
 It looks just like him, doesn't it?
 A perfect replica.
-
-
-
 Plus, I've uploaded all of Toby's memories.
-
-
-
 - It will think it is Toby.
 - Don't expect too much, Tenma.
-
-
-
 It has the most advanced defense systems
 ever created.
-
-
-
 I won't lose him again.
-
-
-
 Did you bring what I asked?
-
-
-
 I couldn't refuse a grieving father.
-
-
-
 The Core is unpredictable.
 I can't guarantee what effect...
-
-
-
 It's gonna make it perfect! Perfect!
-
-
-
 Just like Toby was.
-
-
-
 Dad?
-
-
-
 Toby.
-
-
-
 Whoa. Whoa.
-
-
-
 Dad!
-
-
-
 Welcome back, Son.
-
-
-
 Thank you, Elefun.
 I'm going to take it, him, home now.
-
-
-
 Quality time. Bonding. All the good things.
-
-
-
 Bye, Dr. Elefun.
-
-
-
 Bye, Toby.
-
-
-
 Incredible.
-
-
-
 Dad?
-
-
-
 Good morning, Son. How do you feel?
-
-
-
 Uh, kind of weird.
 Have I been sick or something?
-
-
-
 No, you're fine, Toby. You're perfect.
 You're wonderful.
-
-
-
 Oh, that's good, 'cause...
-
-
-
 Um, are you okay?
-
-
-
 No. I must be malfunctioning.
 Wires crossing, short-circuiting.
-
-
-
 It can't be you. You're...
-
-
-
 Oh, my gosh!
-
-
-
 You're... You're...
-
-
-
 Hey, Orrin, you okay?
-
-
-
 You're gonna be late for school.
-
-
-
 Well, I must say,
 it's very nice to see you again.
-
-
-
 Sit down, Toby. I wanna talk to you.
-
-
-
 - Sure, Dad.
 - It's about school.
-
-
-
 I've decided
 you shouldn't go anymore, Son.
-
-
-
 I'm gonna teach you at home myself.
-
-
-
 Sounds good to me.
-
-
-
 Hey, Orrin, looks like we're gonna be
 hanging out together.
-
-
-
 Together? Well, that'll be very nice,
 Master Toby.
-
-
-
 - Oh, dear.
 - Please, Toby,
-
-
-
 - just let the robot do its thing.
 - Sorry.
-
-
-
 Hey, if you're going to be home-schooling
 me, what about the Ministry? Yourjob?
-
-
-
 My job now is to be your father.
-
-
-
 Huh.
-
-
-
 I am so freaked!
-
-
-
 Let's start you out with something familiar.
-
-
-
 Four-dimensional calculus.
 It's your favorite.
-
-
-
 I guess it is.
-
-
-
 If sir wishes,
 perhaps I could help Master Toby with...
-
-
-
 Oh, bad idea. Bad idea. I'm a robot.
 What am I thinking?
-
-
-
 Wrong way.
-
-
-
 Okay, there.
-
-
-
 Excellent.
-
-
-
 Yeah.
-
-
-
 Interesting solution.
-
-
-
 Good. Good.
-
-
-
 Bravo. Wonderful. Excellent, Toby.
 First rate, Son. First rate.
-
-
-
 You ain't seen nothing yet.
-
-
-
 Howdy!
-
-
-
 Hey, that fractal's looking fair
 Cosine, tangent, there's a square!
-
-
-
 Is that secant high or low?
 Watch me as I do-si-do
-
-
-
 Let's get back to basics.
 Remember this one?
-
-
-
 Kant's Critique of Pure Reason.
-
-
-
 I used to read it to you in bed
 when you were little.
-
-
-
 To put me to sleep?
-
-
-
 Yes! You asked for it every night.
-
-
-
 That's not quite what I...
-
-
-
 Just try re-reading these.
 Get the old brain humming again.
-
-
-
 Whir.
-
-
-
 Hmm.
-
-
-
 Next.
-
-
-
 Huh.
-
-
-
 Huh.
-
-
-
 Beautiful. I got it! I got it!
-
-
-
 - Whoa! Close.
 - Way to go, Orrin. You're the man.
-
-
-
 Yes. You know, I haven't had
 this much fun since, well, ever.
-
-
-
 Check this out.
-
-
-
 Oh!
-
-
-
 I'm impressed.
 Not knocked out, but impressed.
-
-
-
 That's nothing. Watch this!
-
-
-
 Oh!
-
-
-
 Now, that is impressive, Master Toby!
-
-
-
 Just "Toby" is fine, Orrin.
-
-
-
 Toby.
-
-
-
 What are you doing? I said to read
 these books, not destroy them.
-
-
-
 I just wanted to
 test da Vinci's theories.
-
-
-
 I um, perhaps encouraged Master Toby, sir.
-
-
-
 You should not be wearing that hat.
-
-
-
 A robot should not be wearing my son's...
 Toby's hat.
-
-
-
 Dad, it's fine. I don't even like the hat.
-
-
-
 I think you should go to your room.
-
-
-
 - But, Dad...
 - Do as you're told!
-
-
-
 Tenma? What's wrong?
-
-
-
 I think I've made a terrible mistake.
-
-
-
 I thought he would be like Toby,
 but he's not.
-
-
-
 He's strange. He's very strange.
-
-
-
 Strange? Strange how?
-
-
-
 He's brilliant as Toby was, but different.
-
-
-
 Well, you can't expect him to
 be a carbon copy. Give him time, Tenma.
-
-
-
 You don't understand.
-
-
-
 He was meant to replace Toby,
-
-
-
 but every time I look at him,
 it just reminds me that Toby is gone
-
-
-
 and he's never coming back.
-
-
-
 What's different?
 I haven't seen Dad angry before.
-
-
-
 Check out the haircut on that one.
-
-
-
 It looks like he's got horns.
-
-
-
 Horns! Good one!
-
-
-
 What do you mean horns? It's gel!
-
-
-
 - Wait. I can understand you?
 - Whoa! That's creepy.
-
-
-
 - What is?
 - It's like he can understand us.
-
-
-
 - Don't be a dummy!
 - I can hear what you're saying!
-
-
-
 It's as if he can hear what we're saying.
-
-
-
 There's no way. He's a human!
-
-
-
 Come on, let's go leak oil on some statues.
-
-
-
 Okey-dokey.
-
-
-
 How can I understand what you're saying?
 You're robots.
-
-
-
 We don't want any trouble.
-
-
-
 - Wait up! I just wanna know...
 - Hey, leave him alone!
-
-
-
 ...what's going on. What's happened to me?
-
-
-
 Okay, guys, let's back up very carefully.
-
-
-
 Oh, no!
-
-
-
 Hang on, buddy! We're coming!
 We're coming!
-
-
-
 That's too freaky for me.
-
-
-
 Whoa! Whoa! Whoa!
-
-
-
 Whoa! Whoa!
-
-
-
 Uh-oh!
-
-
-
 Waiter, this steak is under-cooked.
-
-
-
 Ah.
-
-
-
 This is so cool. I gotta show Dad.
-
-
-
 How can my approval ratings be this low?
-
-
-
 I was very popular in high school. I've cut
 taxes for a lot of very influential friends.
-
-
-
 What more do people want?
-
-
-
 We're tracking an unidentified object
 flying over Metro City, sir.
-
-
-
 The Surface dwellers are firing at us?
-
-
-
 This is what I've been waiting for!
 Declare war on them!
-
-
-
 This is going to get me re-elected.
-
-
-
 This didn't come from the Surface, sir.
-
-
-
 It's my opponent. He's taken the gloves off.
-
-
-
 He's playing hardball.
-
-
-
 It's Blue Core energy, sir!
-
-
-
 What? Elefun told me the Blue Core
 was destroyed.
-
-
-
 Get me a location and mobilize all units!
 I want that thing now!
-
-
-
 I got here as fast as I could.
-
-
-
 Where is he? Where's Toby?
-
-
-
 I sent him to his room. Please,
 just deactivate him and take him away.
-
-
-
 I can't bear to see his face again.
-
-
-
 Come on, Tenma. You can't just
 throw him away like a piece ofjunk.
-
-
-
 Dad?
-
-
-
 What's going on?
-
-
-
 Why are you talking about me like this?
-
-
-
 Toby, there's been a bit
 of a misunderstanding.
-
-
-
 You're not actually
 an entirely ordinary boy.
-
-
-
 I know.
-
-
-
 Dad, I can fly. I can drill my way
 through solid rock. It's amazing.
-
-
-
 How did I think this could work?
-
-
-
 What's wrong with me?
 Why don't you love me anymore?
-
-
-
 He's programmed with the memories
 of your own son, Tenma.
-
-
-
 - Programmed?
 - Doesn't that mean anything to you?
-
-
-
 But he isn't my son.
-
-
-
 Dad.
-
-
-
 I'm not your dad.
 You're not Toby.
-
-
-
 You're a copy of Toby.
-
-
-
 Not my son, a robot,
-
-
-
 and I don't want you anymore.
-
-
-
 No! No!
-
-
-
 Toby, wait!
-
-
-
 I can't see into the future,
 but I'm sure there's a place for you.
-
-
-
 You just have to find it.
-
-
-
 He's my father. This is my home.
 It's all I know.
-
-
-
 Everyone has their destiny, Toby.
-
-
-
 Didn't you hear him? I'm not Toby.
-
-
-
 Please, Elefun.
-
-
-
 It's true.
-
-
-
 What?
-
-
-
 Sir, we've located
 the signal's source, but it's a child.
-
-
-
 Readings for the Core are off the chart!
-
-
-
 Is that Tenma's boy?
-
-
-
 Of course not! Holy cow.
 Tenma must've lost his mind.
-
-
-
 Bring it in.
-
-
-
 This is Stinger One.
 Set weapons for capture.
-
-
-
 Oh, no.
-
-
-
 Whoa! He just took off!
-
-
-
 Commander, engage the subject
 with intent to capture.
-
-
-
 What do you guys want?
-
-
-
 Command Center, we have it in our sights.
-
-
-
 - Huh?
 - Ta da!
-
-
-
 Oh, my God!
-
-
-
 I'm just gonna take these things back.
-
-
-
 I'm getting married!
-
-
-
 Get him!
-
-
-
 Where'd he go? Huh?
-
-
-
 What?
-
-
-
 We've got him.
 We're coming home.
-
-
-
 No, no, no!
-
-
-
 Oh, no!
-
-
-
 Send in the Spirit of Freedom.
-
-
-
 Destroy the robot, then collect the Core.
-
-
-
 You're safe.
-
-
-
 Again? What's with you guys?
-
-
-
 I love you!
-
-
-
 Come on, then!
-
-
-
 Fire!
-
-
-
 Finish it.
-
-
-
 Touchdown!
-
-
-
 Hey, where's he going?
-
-
-
 - It's falling to the Surface, sir.
 - Get him back!
-
-
-
 I am declaring
 a state of national emergency.
-
-
-
 Leave for all military personnel is canceled
 until Tenma's boy is found.
-
-
-
 Welcome to your new home, kid.
-
-
-
 Hello.
-
-
-
 Batteries! He's got new batteries!
-
-
-
 Spare a few volts for a fellow Sparky?
-
-
-
 New batteries.
-
-
-
 Help me, son. I'm fading...
-
-
-
 Table for one.
 Smoking or non-smoking?
-
-
-
 Smoking. I'm smoking.
 I'm definitely smoking.
-
-
-
 You're one of us, now. Happy to meet you.
-
-
-
 No, I... No, no, I'm not one of you guys.
-
-
-
 You're a robot, ain't you?
-
-
-
 - Yes, but...
 - Well, welcome to the scrap heap.
-
-
-
 This is where we all end up sooner or later.
-
-
-
 No way, I'm not ready yet.
-
-
-
 Hey! Hey, get off of me!
 What are you doing?
-
-
-
 One of us.
-
-
-
 Incoming!
-
-
-
 What do I do?
-
-
-
 Dad?
-
-
-
 Who's there?
-
-
-
 Whoa!
-
-
-
 You like me, huh? "Trashcan."
-
-
-
 So, are you lost, Trashcan?
-
-
-
 I know I sure am.
-
-
-
 What is it, boy?
-
-
-
 Someone's in trouble?
-
-
-
 Oh, no.
-
-
-
 Trashcan, wait up!
-
-
-
 Over here? Whoa!
-
-
-
 Is this it? Hello!
-
-
-
 They could be miles down.
-
-
-
 The hole looks pretty deep!
-
-
-
 Quick, get the restraints on it. Hurry!
-
-
-
 Good work, boy! Treat for you.
-
-
-
 Hey, hey! Knock it off!
-
-
-
 - That's not a robot.
 - It's a kid.
-
-
-
 - That's... That's right. I'm a kid like you.
 - What?
-
-
-
 We want robots, not kids,
 you stupid garbage-eater.
-
-
-
 So, where are you from, non-robot?
-
-
-
 I'm from Metro City.
-
-
-
 Metro City! Can you
 believe it, guys? He's from Metro City,
-
-
-
 - and he's actually talking to me.
 - Are you feeling okay?
-
-
-
 Oh, my gosh! He talked to me twice.
-
-
-
 Well, this is definitely going in my diary
 as the most exciting day of my life.
-
-
-
 Okay, I get it.
 You don't like people from Metro City.
-
-
-
 Metro City.
 Robots waiting on you hand and foot.
-
-
-
 I'd love to visit, just for one day.
-
-
-
 They wouldn't let you in.
-
-
-
 They have a strict "No losers
 from the Surface allowed" policy.
-
-
-
 Anyway, why would you want
 to go someplace
-
-
-
 where people think you're garbage?
-
-
-
 I mean, look at this.
-
-
-
 Can you believe someone
 just threw it away?
-
-
-
 Nu-uh! Finders keepers.
-
-
-
 So, what are you doing down here?
-
-
-
 I don't know yet. Looking for something,
 I guess, somewhere.
-
-
-
 Did you run away?
-
-
-
 Not exactly.
 They sort of suggested I find a new place,
-
-
-
 whatever that means.
-
-
-
 Dude, it means they kicked you out.
-
-
-
 - Well, I...
 - I'm Zane.
-
-
-
 - I'm Widget.
 - Hi, I'm Sludge,
-
-
-
 - and I'm older than her.
 - By 90 seconds.
-
-
-
 - And I'm Cora. What's your name?
 - Oh, it's...
-
-
-
 - Viva la Roboto-lution!
 - Viva la Roboto-lution!
-
-
-
 What just happened?
-
-
-
 Did you see the humans' faces?
 They were quaking in their capitalist boots!
-
-
-
 Don't worry, brother. You're safe!
-
-
-
 You have been rescued by...
-
-
-
 The Robot Revolutionary Front!
-
-
-
 I'm Sparx, the brains.
-
-
-
 And I'm Robotsky, the muscle.
-
-
-
 And I'm Mike the Fridge. I'm the fridge.
-
-
-
 You are now liberated!
-
-
-
 Go ahead, comrade.
 Take your first step as a free robot.
-
-
-
 Take it! Take it!
-
-
-
 Feels different, doesn't it?
-
-
-
 - It feels wetter.
 - It feels wetter! Liberation!
-
-
-
 - Yeah!
 - What are you doing?
-
-
-
 Uh, sorry. I'll pick it up.
-
-
-
 Yes, please.
-
-
-
 You look like a pretty advanced model
 if I might say so, brother.
-
-
-
 Just out of interest, no particular reason
 for me asking, but are you exempt
-
-
-
 - from the laws of robotics?
 - Remind me?
-
-
-
 A robot cannot harm a human,
 be a cause of any harm to a human,
-
-
-
 blah-blah-blah, boring, boring, boring.
-
-
-
 Well, I don't really want to harm anybody.
-
-
-
 Lug nuts!
 The RRF are dedicated to freeing robot-kind
-
-
-
 from human slavery
 by any means necessary.
-
-
-
 And he means any means necessary.
-
-
-
 What is your name, comrade?
-
-
-
 - Toby.
 - Toby?
-
-
-
 Well, that's not much of a name.
-
-
-
 No, you want something
 with a bit more oomph to it.
-
-
-
 - Something like the Ice-maker.
 - Yeah, or the Annihilator.
-
-
-
 Or Pauline.
-
-
-
 - Well, I guess I'll...
 - Hang on a minute.
-
-
-
 We haven't come up
 with a new name for you yet.
-
-
-
 What about...
-
-
-
 What about Astro?
-
-
-
 Oh, be quiet. If you can't come up
 with a sensible suggestion,
-
-
-
 - then kindly mind your own business.
 - Sorry.
-
-
-
 Think. Think.
-
-
-
 - I've got it!
 - What?
-
-
-
 - Astro!
 - That's marvelous, that is.
-
-
-
 It's modern, a little space-age. I love it.
-
-
-
 Thanks, guys. Well, I better get going.
-
-
-
 Show Astro the plan!
-
-
-
 As you wish, comrade. This is Hamegg!
-
-
-
 - Nice.
 - The likes of him enslave our kind.
-
-
-
 We need to make an example of Hamegg.
-
-
-
 We want to do something so horrible,
 so frightening, so shocking,
-
-
-
 that the humans will be forced
 to free all robots.
-
-
-
 - What are you gonna do?
 - We're gonna sneak into town.
-
-
-
 - We're going to lie in wait for Hamegg.
 - And?
-
-
-
 - And when he shows up...
 - Yes?
-
-
-
 Now bear in mind, we're forced to follow
 the laws of robotics.
-
-
-
 - Okay.
 - We are going to tickle him with a feather!
-
-
-
 Viva la Roboto-lution!
-
-
-
 That's the plan?
-
-
-
 We're already looking into purchasing
 the feather.
-
-
-
 Oh, blimey!
-
-
-
 - You okay?
 - How did you find our secret hideout?
-
-
-
 You guys really need to work on
 your camouflage skills.
-
-
-
 Don't make us dismantle you.
 We just want the kid back.
-
-
-
 Kid? What are you talking about? He's a...
-
-
-
 Ow!
-
-
-
 You want a piece of me, tin man?
-
-
-
 Be cool.
 I'm an undercover robot from Metro City.
-
-
-
 I knew it. Viva la Roboto-lution.
-
-
-
 These guys aren't doing any harm.
 Let's just leave them.
-
-
-
 Whatever you say.
-
-
-
 Thank you, brother.
 The RRF are forever in your debt.
-
-
-
 So, what is your name?
-
-
-
 Toby, but that's not who I really am.
-
-
-
 - You see...
 - Dude, it's a simple question.
-
-
-
 Um...
-
-
-
 My name's Astro. Call me Astro.
-
-
-
 Cool. Sounds modern.
-
-
-
 A little space-age. I love it.
-
-
-
 Hold on, I'll be right there.
-
-
-
 - Good afternoon. How...
 - Excuse me, robot. Thank you.
-
-
-
 Search the apartment!
 Leave no stone unturned.
-
-
-
 - Arrest this man.
 - Yes, sir.
-
-
-
 - What are you doing? Stop!
 - Where is Tenma's robot son?
-
-
-
 He isn't here.
-
-
-
 What is the meaning of this?
-
-
-
 You put the Core for my Peacekeeper
 into your robot.
-
-
-
 I'm running for re-election,
 in case you hadn't noticed,
-
-
-
 and we're in an arms race with the Surface!
-
-
-
 An arms race? What nonsense.
-
-
-
 It was a stupid mistake. When I lost my son,
-
-
-
 I thought I'd be able to... I thought...
-
-
-
 I know. I hate losing, too. You want proof
 of that, you can ask any of my wives,
-
-
-
 but we got to get over
 all this personal stuff, Tenma.
-
-
-
 You're head of the Ministry of Science.
 It's time to move on.
-
-
-
 Get the Core back.
 Get it in the Peacekeeper.
-
-
-
 Let some good come from all this mess.
-
-
-
 When you find the robot,
 I'll deactivate it and give you the Core.
-
-
-
 Good man. Let him go.
-
-
-
 Let's hope you never find him.
-
-
-
 So, there's actually people
 living in these ruins?
-
-
-
 Ruins? Hey, it might not look like much to a
 Metro City kid, but this place is home to us.
-
-
-
 - Here we are.
 - Huh?
-
-
-
 Come on, Astro.
-
-
-
 Whoa!
-
-
-
 Sorry.
-
-
-
 What's the password?
-
-
-
 Don't make me hurt you.
-
-
-
 Close enough.
-
-
-
 Fore!
-
-
-
 - Five!
 - You're out!
-
-
-
 We're out of apples. We're on to grapes.
-
-
-
 Hey, Cora,
 did you bring me back something?
-
-
-
 The perfect gift for a sweet little girl.
-
-
-
 - Thanks!
 - Be careful!
-
-
-
 - Too late!
 - Hey, we're kind of tired!
-
-
-
 - Are you okay?
 - Sure.
-
-
-
 You need 10 sets of eyes around here.
-
-
-
 Hey, Hamegg!
-
-
-
 Back so soon?
-
-
-
 Did you guys find anything
 good for me today?
-
-
-
 I don't know, kids. A lot of dead batteries.
 A lot of elbows here.
-
-
-
 The knee joint of a toilet-cleaning robot?
 I told you, I need heads.
-
-
-
 We would've gotten better stuff, but the...
-
-
-
 Well, well.
-
-
-
 His name's Astro. He's from Metro City.
-
-
-
 Metro City? Wow,
 I used to work there once upon a time.
-
-
-
 Really?
-
-
-
 Why am I running a crummy
 body repair shop down here
-
-
-
 when I could be creating
 state-of-the-art robots in Metro City?
-
-
-
 No, I didn't mean to...
-
-
-
 Relax, son. We're family here.
 We're allowed to ask questions.
-
-
-
 The answer is I love robots,
 especially the discarded ones.
-
-
-
 The more banged-up they are,
 the more abused,
-
-
-
 the more I like getting them
 back on their feet.
-
-
-
 - Oh, wow.
 - It's almost a religious thing with me,
-
-
-
 kind of like the way saints feel
 about the poor
-
-
-
 or women feel about shoes
 or fat people feel about donuts
-
-
-
 or... I'll stop with fat people and donuts.
-
-
-
 So, you're not into enslaving robots?
-
-
-
 - What?
 - He ran into the RRF.
-
-
-
 I don't enslave robots. I love robots!
-
-
-
 They're our friends,
 and we rely on them for our daily bread.
-
-
-
 Speaking of which,
 are any of you misfits hungry?
-
-
-
 Let me guess, take-out pizza again?
-
-
-
 More like "taken out of the trash" again!
-
-
-
 Picky, picky. It's only a couple of days old.
-
-
-
 Look, this one still has toppings!
-
-
-
 Oh!
-
-
-
 Hey, haven't you forgotten something?
-
-
-
 What have they forgotten, son?
-
-
-
 - Grace?
 - Exactly. Grace!
-
-
-
 - What?
 - Turn on the TV, sweetheart,
-
-
-
 would you, please? There's a dear.
-
-
-
 Well, bon appétit.
-
-
-
 Yo, new guy, you gonna eat that?
-
-
-
 You can have it if you want it.
-
-
-
 Don't be so nice.
-
-
-
 You're gonna starve to death
 or be the only survivor.
-
-
-
 So, tell me, Astro,
 do your folks know where you are?
-
-
-
 I don't have any parents.
-
-
-
 How very sad. Did you lose them?
 Or, even sadder, did they lose you?
-
-
-
 No. The truth is I'm actually a...
-
-
-
 I'm a...
-
-
-
 A what?
-
-
-
 Don't worry, son.
-
-
-
 We're all orphans down here.
 Nothing to be ashamed about.
-
-
-
 So, none of you have parents?
-
-
-
 Parents? Are you kidding me?
-
-
-
 This whole place is a parent-free zone.
-
-
-
 I was born in the scrap heap.
 I was raised by wild dogs.
-
-
-
 Really? Are you sure it wasn't wild pigs?
-
-
-
 Feeling homesick
 for Metro City, Astro?
-
-
-
 - No.
 - Me neither.
-
-
-
 I was head of advanced robotics
 at the Ministry of Science.
-
-
-
 Oh, yeah. Right up there with Tenma
 and the other mucky-mucks.
-
-
-
 - What happened?
 - What always happens to genius.
-
-
-
 They were intimidated by my talent,
 my ideas,
-
-
-
 so they threw me away like an old battery.
-
-
-
 I'm sorry.
-
-
-
 Not your problem. You know,
 I've got a hunch about you, Astro.
-
-
-
 There's always room for a good kid
 in this family.
-
-
-
 Now, how about getting some shut-eye?
-
-
-
 Good night, son.
-
-
-
 Good night, Hamegg.
-
-
-
 I'm gonna tell them, just not yet, okay?
-
-
-
 Hey, quit bugging me.
-
-
-
 I said I would.
 I just want them to get used to me first.
-
-
-
 What does Hamegg want
 all these parts for?
-
-
-
 He's a genius. He can make cool robots
 from pretty much any old scrap.
-
-
-
 And then he puts them
 into Hamegg's Robot Games.
-
-
-
 Robot Games?
-
-
-
 They're a tradition down here.
 It's kind of a Roman thing.
-
-
-
 And it's pretty cool.
-
-
-
 You're not going to find much here.
 It's a graveyard.
-
-
-
 Mr. Metro City's first day
 and he's already an expert.
-
-
-
 You'd be surprised.
 I know a thing or two about robots.
-
-
-
 Hey, guys, I think we've got something.
-
-
-
 - See? Coming!
 - Look!
-
-
-
 Hey, what's the matter, boy?
-
-
-
 Almost makes me wish I could read.
-
-
-
 Nice try, rust-bucket.
-
-
-
 Whoa! Cora, hey, I think I found something!
-
-
-
 Ha! That's just an old construction robot.
-
-
-
 It fell to the Surface, like, 100 years ago.
-
-
-
 Do you think Hamegg could use it?
-
-
-
 Yeah, if he had a robot like that,
 he'd make a fortune in the Games,
-
-
-
 but it's just junk.
 We used to have picnics in its head.
-
-
-
 - Just give me a minute.
 - It weighs hundreds of tons.
-
-
-
 What are you going to do,
 put it in your backpack?
-
-
-
 She'd flip if she knew I could carry it.
-
-
-
 Hmm.
-
-
-
 I know you're not dead.
 You're just pretending.
-
-
-
 Come on, big guy.
-
-
-
 Time to wake up.
-
-
-
 Zog, let me help you.
-
-
-
 Come on.
-
-
-
 Okay, tiger, show me what you got.
-
-
-
 Hold it right there, twinkle-toes.
-
-
-
 What are you, some kind of ice-skater?
-
-
-
 You planning on ballroom dancing
 with this guy or you gonna fight him?
-
-
-
 That's better! Now hit him below the belt.
-
-
-
 Yeah, that's what I'm talking about!
-
-
-
 Now get him in a headlock and pound him!
 Pound him! Use your thumbs!
-
-
-
 Great, great. Kid, I think you've got
 the makings of a champion.
-
-
-
 Hi, Hamegg!
-
-
-
 Sorry about your robot.
-
-
-
 What? Oh, him?
 He wasn't really working out anyway.
-
-
-
 But, hey, this guy's something else!
 Look at the legs on this baby.
-
-
-
 Look at those feet. None of your
 carbon-fiber plastic junk on this guy.
-
-
-
 That's solid pig iron.
-
-
-
 Astro got it running,
 which I'm still having trouble believing.
-
-
-
 But it's been dead for at least a century!
 How did you do it?
-
-
-
 Please, tell me! How did you do it?
-
-
-
 I just kicked it, you know,
 like a vending machine.
-
-
-
 "Give me back my money!" It was nothing.
-
-
-
 You hear that, kids?
 A genius with modesty.
-
-
-
 I didn't think it occurred in nature.
-
-
-
 Ah! You're almost too good to be true, kid.
-
-
-
 Keep this up
 and I may just have to adopt you.
-
-
-
 Holy cow.
 This thing's got enough juice to run a city.
-
-
-
 What was that?
-
-
-
 Oh, nothing, son, just another machine
 with a mind of its own.
-
-
-
 Ready, guys?
-
-
-
 We are young, we run green
-
-
-
 Keep our teeth, nice and clean
-
-
-
 See our friends, see the sights, feel all right
-
-
-
 We wake up, we go out, smoke a fag
-
-
-
 Put it out, see our friends
-
-
-
 See the sights, feel all right
-
-
-
 Are we like you?
-
-
-
 I can't be sure
-
-
-
 Of the scene, as she turns
-
-
-
 We are strange in our worlds
-
-
-
 But we are young
-
-
-
 Are we like you?
-
-
-
 I can't be sure
-
-
-
 Of the scene, as she turns
-
-
-
 Hey! I thought I was... And you were...
-
-
-
 How did you do that?
-
-
-
 I'm faster than I look.
-
-
-
 Keep our teeth, nice and clean
-
-
-
 See our friends, see the sights, feel all right
-
-
-
 Everybody say, "Limburger."
-
-
-
 Limburger!
-
-
-
 Good night, Zog.
-
-
-
 Hey, Trashcan, you wanna play?
-
-
-
 Fetch!
-
-
-
 Oops!
-
-
-
 Hello?
-
-
-
 Hello?
-
-
-
 - Hello?
 - Hello?
-
-
-
 Ouch!
-
-
-
 Hey, didn't your nanny-bots tell you
 it's rude to sneak up on people?
-
-
-
 - How's your head?
 - Well, it's still on.
-
-
-
 You know, they say that sometimes
 when it's really clear, like tonight,
-
-
-
 you can still call through to Metro City.
-
-
-
 You wanna call Metro City?
-
-
-
 Yeah. What?
 You've never made a prank call before?
-
-
-
 The only thing is
 I can't get this stupid phone to work.
-
-
-
 - Let me try.
 - Knock yourself out.
-
-
-
 Ow.
-
-
-
 Here. It's kind of weak, but there is a signal.
-
-
-
 Hey, not bad. The kid has hidden talents.
-
-
-
 You have no idea.
-
-
-
 Hi.
-
-
-
 Come on, somebody, pick up.
 Please, pick up. It's me, Cora.
-
-
-
 I miss you guys.
-
-
-
 Are you okay?
-
-
-
 Sometimes I wonder
 if they've even noticed I'm gone.
-
-
-
 Who?
-
-
-
 My parents.
-
-
-
 Your... Your parents?
-
-
-
 That's right.
 Now you know the truth about me.
-
-
-
 Well, what are you waiting for?
 Go tell Zane and the others
-
-
-
 that Cora's from Metro City
 and that she's still trying to call home.
-
-
-
 Don't forget the part
 about you being raised by nanny-bots.
-
-
-
 Everybody's got secrets. I wouldn't tell.
 You can trust me, Cora.
-
-
-
 I know. You're a good guy, Astro.
-
-
-
 Can... Can I tell you something, my secret?
-
-
-
 Sure, that's what friends are for, right?
-
-
-
 Do you ever feel like you just don't fit in,
-
-
-
 like you're different to everyone else,
 kind of an outsider?
-
-
-
 Of course,
 everyone feels like that sometimes.
-
-
-
 Well, the last few days have been different
 for me,
-
-
-
 I mean,
 being with all you guys and Hamegg.
-
-
-
 The thing I need to tell you is, I'm a...
-
-
-
 I'm kind of a...
-
-
-
 I'm a...
-
-
-
 Yeah?
-
-
-
 I'm really starting to like it here with you,
-
-
-
 - with you guys.
 - Yeah?
-
-
-
 Well, we like you too, Astro.
-
-
-
 Hey, Trashcan.
-
-
-
 I know it's not the same thing,
 but isn't Hamegg sort of like our dad now?
-
-
-
 Yeah, I guess.
-
-
-
 Robot Revolutionary Front,
 transform!
-
-
-
 Check, check, check.
-
-
-
 Yeah.
-
-
-
 Ow!
-
-
-
 Get off me! Which part
 of "ninja-like" do you not understand?
-
-
-
 What's a ninja?
-
-
-
 Bring out the secret weapon.
-
-
-
 I've been looking for that.
-
-
-
 Yeah. Oh.
-
-
-
 - Viva la Roboto-lution!
 - Viva la Roboto-lution!
-
-
-
 My fellow Surface dwellers,
 today is the day you've all been waiting for!
-
-
-
 Give him a hand, folks,
 the kid in the red boots!
-
-
-
 He's the one who got this killing machine
 up and running!
-
-
-
 Look out, Hamegg.
-
-
-
 You are the golden child.
 Hamegg really likes you.
-
-
-
 I like him, too.
-
-
-
 What's he mean by "killing machine"?
-
-
-
 Well, the robots fight until one of them
 is destroyed.
-
-
-
 What?
-
-
-
 Don't worry.
 Zog is gonna crush them all.
-
-
-
 That's what happens
 at the Robot Games?
-
-
-
 Well, what did you expect?
 Rock, paper, scissors?
-
-
-
 - Who's the robot?
 - I'm the robot!
-
-
-
 - No mercy!
 - No mercy!
-
-
-
 - No mercy!
 - No mercy! No mercy! No mercy!
-
-
-
 - Mercy?
 - Nice knowing you, kid.
-
-
-
 I thought it was a show,
 not a slaughter.
-
-
-
 - They're just robots, son.
 - I thought you liked robots.
-
-
-
 I do, but at the end of the day,
 they're just junk waiting to happen.
-
-
-
 I know, some of those more advanced ones
-
-
-
 from Metro City are programmed to smile
 and laugh just like us.
-
-
-
 Really?
-
-
-
 Yeah. Unfortunately,
 they don't have real emotions,
-
-
-
 which is why I have no problem doing this!
-
-
-
 - It worked! I don't believe it!
 - What are you doing?
-
-
-
 I swiped this from Dr. Tenma after
 he fired me from the Ministry of Science.
-
-
-
 - Who cares? Why did you do that to Astro?
 - He's our friend!
-
-
-
 I thought I raised you better. Are you blind?
-
-
-
 He's a robot!
-
-
-
 That's not true. It can't be true.
-
-
-
 Somebody programmed him to be nice.
 He's not really nice.
-
-
-
 He's just an incredibly powerful machine.
-
-
-
 But he was so...
-
-
-
 I know, sweetheart. It's got to be tough.
-
-
-
 What are you gonna do with him?
-
-
-
 Take a wild guess.
-
-
-
 Ladies and gentlemen,
 boys and girls,
-
-
-
 and all you riff-raff who snuck in
 without buying a ticket,
-
-
-
 allow me to present Astro Boy!
-
-
-
 I know, I know. You're wondering
 what a nice-looking kid like that
-
-
-
 is doing in a place like this.
-
-
-
 That ain't no kid, folks.
-
-
-
 That's a robot from Metro City.
-
-
-
 Get this, folks. Astro personally told me
 he doesn't think much
-
-
-
 of our fighting robots.
-
-
-
 Boo!
-
-
-
 Thinks they're all a bunch of sissies!
-
-
-
 Thinks you're all trailer park trash!
-
-
-
 He didn't say that.
-
-
-
 He didn't say he was a robot, either.
-
-
-
 This is what we've all been waiting for,
-
-
-
 a fight between the Surface and Metro City.
-
-
-
 Let's get it on!
-
-
-
 I'm not fighting.
-
-
-
 Ah!
-
-
-
 I'm not doing this.
-
-
-
 - Yeah!
 - Go, Astro!
-
-
-
 Bring out the Little Stinker!
-
-
-
 Will you play with us?
-
-
-
 - Us?
 - Yes, us.
-
-
-
 Hey, fella.
-
-
-
 Oh, no!
-
-
-
 Oh!
-
-
-
 I have a boo-boo.
-
-
-
 Get him! Get him! Get him!
 Get him! Get him!
-
-
-
 Go! Go!
-
-
-
 - Stand back!
 - What are you...
-
-
-
 We've got a feather,
 and we're not afraid to use it.
-
-
-
 Oh!
-
-
-
 I may have spoken in haste.
-
-
-
 Why fight, brothers?
 A great robot once said...
-
-
-
 Me schnoz!
-
-
-
 Yeah! Yeah!
-
-
-
 - We've located Tenma's son, sir.
 - What?
-
-
-
 I win again!
-
-
-
 And now, the final challenger.
-
-
-
 A robot so fearsome, so powerful,
 even I'm afraid to watch.
-
-
-
 I give you the mighty Zog!
-
-
-
 - Oh, no.
 - No.
-
-
-
 Let's see how Astro Boy does
 against a robot
-
-
-
 powered with the same energy he's got.
-
-
-
 I'm not fighting you, Zog.
-
-
-
 I mean it. I won't fight.
-
-
-
 Oh, no.
-
-
-
 Yeah!
-
-
-
 Great! A love-in. Some big finale.
 I said fight!
-
-
-
 - I won't fight.
 - Fight!
-
-
-
 That's enough!
-
-
-
 What's the matter with you?
-
-
-
 They're just machines!
 They'll do what I tell them!
-
-
-
 What? I'm gonna get embarrassed
-
-
-
 by some souped-up hotshot
 from Metro City,
-
-
-
 and a 100-year-old bulldozer
 from New Jersey?
-
-
-
 I don't think so!
-
-
-
 I'm turning you both off!
-
-
-
 Stop! The laws of robotics!
-
-
-
 You can't hurt a human!
 It's been that way for 50 years!
-
-
-
 I'm old school.
-
-
-
 Look!
-
-
-
 What kind of robot are you?
-
-
-
 We've got to recruit the big guy.
-
-
-
 What are they doing here?
-
-
-
 Seize the rogue robot and secure the area.
-
-
-
 - Hey!
 - Come here.
-
-
-
 Zog, stop! Put them down.
-
-
-
 It doesn't matter anymore.
-
-
-
 - I'm okay. I'm okay.
 - Come on.
-
-
-
 Boo!
-
-
-
 - I'm sorry. I tried to tell you.
 - Keep moving.
-
-
-
 Trashcan, no!
-
-
-
 Hey, get off me, you dumb robot! Get off!
-
-
-
 It's okay, Trashcan.
-
-
-
 Oh, no.
-
-
-
 President Stone's
 approval rating reached a new low today
-
-
-
 when he failed to show up for
 a televised debate with Robert Logan,
-
-
-
 the man many pundits are picking
 as the next President of Metro City.
-
-
-
 No darn dirty hippie's gonna sit
 in my Oval Office
-
-
-
 eating mung beans
 and stinking of patchouli oil.
-
-
-
 I've got the Blue Core,
-
-
-
 and my Peacekeeper's gonna start
 a war with the Surface.
-
-
-
 That's bound to get me re-elected.
-
-
-
 Why the long face, robot boy?
 We're taking you home to your dad.
-
-
-
 Care for a drink?
-
-
-
 Very funny, Mr. President.
-
-
-
 The experiment is over.
 I want the Blue Core removed
-
-
-
 and transferred into the Peacekeeper now.
-
-
-
 Will you help me, Elefun?
-
-
-
 This is where we created him.
-
-
-
 Well, un-create him. Unplug him.
-
-
-
 It's a matter of national security.
-
-
-
 Let me talk to him first.
-
-
-
 - Hello, Dr. Elefun.
 - Hello, Toby.
-
-
-
 Toby? Nobody's called me that for a while.
-
-
-
 This isn't your fault, you know.
 You're fantastic.
-
-
-
 Absolutely first-class. Superb. Wonderful.
-
-
-
 Thank you. You know,
 I tried to find my place in the world.
-
-
-
 I thought I'd found it, but I guess fitting in
-
-
-
 can be a lot more complicated
 than it seems, huh?
-
-
-
 Dear boy, if you only knew.
-
-
-
 I think maybe this is what's supposed
 to happen.
-
-
-
 This is my destiny.
-
-
-
 Boo-hoo-hoo.
-
-
-
 It's a machine.
-
-
-
 Come on, let's get moving, people.
-
-
-
 This is wrong, Tenma. You know it!
-
-
-
 The President is right. It's just a machine.
-
-
-
 Bye, Dr. Elefun.
-
-
-
 Load the Blue Core into the Peacekeeper.
-
-
-
 I've got a press conference scheduled
 in 10 minutes.
-
-
-
 I'm sorry.
-
-
-
 Don't be. I'm sorry I couldn't have been
 a better Toby for you,
-
-
-
 Dad.
-
-
-
 Well, Tenma, is it done?
-
-
-
 It's done.
-
-
-
 Good man.
-
-
-
 When I'm re-elected,
 you can have the funding
-
-
-
 to make as many little toys as you want.
-
-
-
 No. If you want the Core,
 you're gonna have to kill me.
-
-
-
 Tenma, no! I created the Core.
 They're gonna have to kill me.
-
-
-
 Well, I think Metro City can learn
 to cope without you. Hand it over.
-
-
-
 - Oh, it appears I don't have it.
 - Tenma!
-
-
-
 Tenma, open this!
-
-
-
 Open that door!
-
-
-
 Oh, please.
-
-
-
 I said, open that door!
-
-
-
 - Never.
 - Now!
-
-
-
 Blast.
-
-
-
 If you want something done,
 you gotta do it yourself.
-
-
-
 Whoa! What are you doing?
-
-
-
 You may not be Toby,
 but you're still my son.
-
-
-
 Dad.
-
-
-
 Now fly! Fly!
-
-
-
 No! No!
-
-
-
 Arrest them immediately!
 I want them shot for treason.
-
-
-
 We're gonna have to use the Peacekeeper
 to get the Blue Core back.
-
-
-
 Don't use the Red Core,
 the negative energy.
-
-
-
 We can't know how it will behave.
-
-
-
 Doctor, in any conflict between positive
 and negative energy,
-
-
-
 the negative always prevails.
 Look at human history! Look at me!
-
-
-
 My point exactly.
-
-
-
 - Turn this thing on.
 - I won't.
-
-
-
 I have 50 reporters waiting outside!
 Turn it on!
-
-
-
 You don't understand the technology.
-
-
-
 Technology! Who cares about technology?
 Who understands technology?
-
-
-
 It's a robot. It'll do what I say.
-
-
-
 Red Core loaded.
-
-
-
 You ready to do as you're told?
 You ready to rock 'n' roll?
-
-
-
 Sir!
-
-
-
 Destroy the boy robot
 and bring back the Blue Core.
-
-
-
 What? Are you deaf?
 I told you to destroy the boy robot...
-
-
-
 And bring back the Blue Core.
-
-
-
 - Everybody out! Now!
 - Let's go!
-
-
-
 Move it!
-
-
-
 Uh, sorry, guys. I'm getting word that
 President Stone may be slightly delayed.
-
-
-
 Is this thing on?
-
-
-
 Where are you going? Come back!
-
-
-
 Monster, stand down
 by order of President Stone.
-
-
-
 This is the life, buddy. Smooth sailing.
-
-
-
 Whoa!
-
-
-
 Sorry, guys.
-
-
-
 Oh, no! It's that crazy flying kid again!
-
-
-
 I'm a robot just like you. Well,
 what are you doing all the way out here?
-
-
-
 We got tired of the rat race.
 We dropped out.
-
-
-
 We're trying to live more natural, you know,
 like real birds.
-
-
-
 - What's that?
 - You know what humans are like.
-
-
-
 New Year's, Fourth of July, Mother's Day.
-
-
-
 - We've got to do something.
 - What?
-
-
-
 Help the humans? We're robots.
 It's not our problem.
-
-
-
 Yeah, forget about them.
 What did they ever do for us?
-
-
-
 He's right. According to the rules
 of robotics, we gotta go help.
-
-
-
 A squeezy bottle's gotta do
 what a squeezy bottle's gotta do.
-
-
-
 Come out, come out,
 wherever you are!
-
-
-
 Where are you, robot boy?
-
-
-
 Oh, no.
-
-
-
 There you are.
-
-
-
 What?
-
-
-
 Ha! Cool!
-
-
-
 That has to be Astro.
-
-
-
 I don't care if he's a robot. I miss him.
-
-
-
 I hear you.
-
-
-
 When the going gets tough,
 smart people take a hike.
-
-
-
 Bye-bye, kids.
 What do you want, an apology?
-
-
-
 Nope. Just the car.
-
-
-
 I would love to oblige you, but...
-
-
-
 Come on, I love you guys!
 Please, call off the freaking robot!
-
-
-
 Gotcha!
-
-
-
 Huh?
-
-
-
 This city elected me!
-
-
-
 I own it! It's mine!
-
-
-
 Hey! I'm voting for the other guy!
-
-
-
 Huh?
-
-
-
 Thank you. Anytime you need me.
-
-
-
 Huh?
-
-
-
 What?
-
-
-
 I got machine guns in my butt?
-
-
-
 You gotta be kidding.
-
-
-
 Batter up!
-
-
-
 Home run!
-
-
-
 - Astro.
 - Cora?
-
-
-
 Thanks, guys. Hey, who's driving?
-
-
-
 Trashcan, faster!
-
-
-
 Move over!
-
-
-
 Are we going up?
-
-
-
 No, the city's going down!
-
-
-
 Cora, I have to take care of this.
-
-
-
 Astro! No!
-
-
-
 Astro!
-
-
-
 Look!
-
-
-
 Right then, comrades. To arms!
-
-
-
 I've got three arms.
-
-
-
 Ow!
-
-
-
 Where is he?
-
-
-
 Will he be okay?
-
-
-
 I hope so.
-
-
-
 Hey! Ugly!
-
-
-
 Down here!
-
-
-
 We demand immediately
 that you cease oppressing
-
-
-
 our comrade, Astro.
 We may not be allowed to harm humans,
-
-
-
 but there's nothing to say we can't do
 some serious damage to a monster.
-
-
-
 Aye, comrades?
-
-
-
 Oh! Look over there!
-
-
-
 Where are you, robot boy?
 I know you're still alive.
-
-
-
 You can't hide from...
-
-
-
 Is that all you've got?
-
-
-
 Come here!
-
-
-
 Party's over, kid. Blue Core obtained.
-
-
-
 Toby!
-
-
-
 Dad!
-
-
-
 I don't understand.
 Why didn't it absorb me?
-
-
-
 Because it can't.
-
-
-
 If the Red and the Blue Core come together,
 well, you both die.
-
-
-
 Come on, Son. We need to get far away.
-
-
-
 Where are you, Astro?
-
-
-
 Where's your robot friend? Where is he?
-
-
-
 I've got an election to win,
 and I want that Core.
-
-
-
 Tell me where he's hiding! Tell me!
-
-
-
 Do you hear me? Where is he?
-
-
-
 We have to go.
-
-
-
 This is it. This is what I was created for.
-
-
-
 This is my destiny.
-
-
-
 Toby, now!
-
-
-
 I'm sorry, but this is who I am.
-
-
-
 - Onward and upward, Dad.
 - No!
-
-
-
 You're back for more?
-
-
-
 Wait! Wait. No, no! Wait. Wait.
-
-
-
 Wait! No!
-
-
-
 - My son.
 - Dad.
-
-
-
 Get out of me now!
-
-
-
 Get out!
-
-
-
 - Get us out of here!
 - I'm trying!
-
-
-
 No! No!
-
-
-
 Oh, nuts.
-
-
-
 Son.
-
-
-
 Gotta seize this girl immediately.
 She kicked me! She can't kick me!
-
-
-
 President Stone, sir, you're under arrest.
-
-
-
 No, you can't do this to me!
 I've got an election to win.
-
-
-
 - Astro!
 - Astro!
-
-
-
 - Astro!
 - Astro!
-
-
-
 Astro!
-
-
-
 Oh, no.
-
-
-
 Oh, Astro.
-
-
-
 - Who was he?
 - That robot saved the whole city.
-
-
-
 Why would he care?
-
-
-
 Because that robot had more humanity
 than most of us.
-
-
-
 Who are you?
-
-
-
 I'm a friend of his from the Surface.
-
-
-
 You're from the Surface?
-
-
-
 Can you fix him?
-
-
-
 No, I'm afraid not.
 His Blue Core was unique.
-
-
-
 Now it's died with him.
-
-
-
 It's not fair.
 All he ever did was help people.
-
-
-
 Not just people.
-
-
-
 - Astro brought Zog back to life.
 - How?
-
-
-
 The blue stuff.
-
-
-
 Do you have
 any of that blue stuff left?
-
-
-
 Do you think you could spare some
 for our friend here?
-
-
-
 Mommy, look!
-
-
-
 Dad? Cora? What happened?
-
-
-
 - Is the Peacekeeper gone?
 - Yes.
-
-
-
 But... But how am I still...
-
-
-
 Thank you, Zog.
-
-
-
 It was no biggie.
-
-
-
 Astro, I think you've finally found
 your place in the world.
-
-
-
 You're a hero,
 a robot with the heart of a lion.
-
-
-
 And everyone finally knows it.
-
-
-
 I love happy endings.
-
-
-
 - Would you?
 - Sure.
-
-
-
 Thanks.
-
-
-
 - Cora!
 - Huh?
-
-
-
 - Cora!
 - Cora!
-
-
-
 Mom? Dad?
-
-
-
 - Where have you been, sweetie?
 - We searched high and low for you.
-
-
-
 Really?
-
-
-
 - Viva la Roboto-lution!
 - Viva la Roboto-lution!
-
-
-
 It looks like all the interesting stuff's over.
-
-
-
 Typical, just typical.
-
-
-
 Thanks for your help, guys.
-
-
-
 Yeah, it was nothing.
-
-
-
 Well, when you think about it, Sparxy,
 it really was nothing.
-
-
-
 Are you trying to upset me?
-
-
-
 Will you be wanting the car, sir?
-
-
-
 I don't want you to call me
 "sir" anymore, Orrin.
-
-
-
 In fact, take the day off. Go on and enjoy
 yourself with the robot ladies and so forth.
-
-
-
 Thank you, Dr. Tenma.
-
-
-
 Call me Bill.
-
-
-
 I am so freaked right now.
-
-
-
 Everybody, take cover!
 We're under alien attack!
-
-
-
 Wait. Are you sure
 you're ready for this, Astro?
-
-
-
 I was made ready.

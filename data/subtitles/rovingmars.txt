@@ -1,1889 +1,699 @@
 ﻿1
-
 Space exploration began with dreaming.
 Thousands of years of humans staring
-
-
-
 into the heavens and wondering, "How
 did this begin? What else is out there?"
-
-
-
 The earliest answers
 were given in myth and poetry.
-
-
-
 Now, they are sought
 by space-age technology.
-
-
-
 And while each mission increases
 our knowledge,
-
-
-
 it also leads our imagination
 further and further.
-
-
-
 How did life begin? Did it happen
 more than once in the universe?
-
-
-
 The answer may lie on Mars.
-
-
-
 ROVING MARS
-
-
-
 Mars today is desolate, dry, and barren.
-
-
-
 And at first glance, has little in
 common with our own planet.
-
-
-
 And yet from orbit, we see what looked
 like dried-up lakebeds and canyons.
-
-
-
 Clues that three or four billion years ago,
-
-
-
 Mars may once have been wetter and
 more Earth-like.
-
-
-
 And since life blossomed here on Earth,
 the question is:
-
-
-
 Did it ever take place on Mars?
-
-
-
 To answer this question, NASA's jet
 propulsion laboratory brought together a team
-
-
-
 of scientists and engineers whose mission
 was to discover if Mars ever had
-
-
-
 what was needed to support life.
-
-
-
 A geologist and astronomer at
 Cornell University,
-
-
-
 Steve Squyres, was chosen to lead
 the science team.
-
-
-
 As principal investigator, he would direct
 the team's search for
-
-
-
 life's most essential resource: water.
-
-
-
 I've been working on the question of water
 on Mars for twenty-eight years.
-
-
-
 You can't learn what you need from
 a telescope. You must be a geologist.
-
-
-
 A geologist is sort of like a detective
 at the scene of a crime.
-
-
-
 Um, somethin' happened here a long time ago.
 What happened?
-
-
-
 Was it warm? Was it wet?
 Could life have existed here?
-
-
-
 The key is in the clues and the
 clues are in the rocks.
-
-
-
 On Earth, a geologist can find
 an interesting rock,
-
-
-
 crack it open with a hammer,
 and just look at what's inside.
-
-
-
 But we're not ready to send
 human geologist to Mars yet.
-
-
-
 So we had to build a robot geologist.
-
-
-
 And the only place this could be done
 was NASA's jet propulsion laboratory
-
-
-
 where some of the most innovative
 engineers in the country work.
-
-
-
 We're talking about a robot.
 A rover that can go to Mars,
-
-
-
 land on the surface, take a look around,
 and then cut the cord and go
-
-
-
 carrying everything it needs with it:
-
-
-
 cameras, instruments, communications
 equipment. Everything.
-
-
-
 Something that can look inside rocks
 and that can tell us
-
-
-
 what clues those rocks hold.
-
-
-
 This place, to me, is almost sacred.
-
-
-
 This is the place where our rovers
 are assembled for the last time
-
-
-
 before they leave this planet.
-
-
-
 Everything that we do in this room must
 be perfect.
-
-
-
 Over four thousand people have worked
 on this mission.
-
-
-
 For every single piece of this spacecraft
 down to the tiniest one,
-
-
-
 there was a person somewhere who conceived
 it. Who nurtured it.
-
-
-
 Who took it from a concept to
 something real.
-
-
-
 It's taken this team three years to design
 and build and test these rovers
-
-
-
 and we still have work to do.
-
-
-
 We can only launch when the two planets are
 properly aligned
-
-
-
 and that's just a month away.
-
-
-
 But we still have tests to run.
 We're working in shifts.
-
-
-
 We're working almost around the clock
 and we don't know if we're gonna make it.
-
-
-
 There's no one person who can really get
 their arms around the whole thing and say
-
-
-
 "I understand everything about this vehicle."
-
-
-
 It's now burst the bounds
 of our brains.
-
-
-
 Well this rover is-is more than just
 a roving geologist.
-
-
-
 This rover also has to be a-a spacecraft.
-
-
-
 It actually has to fly itself from
 Earth to Mars.
-
-
-
 In addition, it has to do the very subtle
 and quick timing control
-
-
-
 of all the things that happen as it enters
 and lands the vehicle.
-
-
-
 We had to stuff all that intelligence
 and capability into
-
-
-
 that little six-wheel vehicle back there, so
 that it could get there safely on its own.
-
-
-
 I call our spacecraft "The Origami Spacecraft,"
 which means it's really
-
-
-
 a complicated series of folds.
-
-
-
 We've had to punch holes in the lander
 pedals for the wheels to snake through.
-
-
-
 We've had to fold everything into these
 complicated shapes to get this system
-
-
-
 to fit inside this tetrahedron.
-
-
-
 It's beautiful, but at a price.
 And that price in this case is complexity.
-
-
-
 There have been missions to Mars
 since the sixties.
-
-
-
 There've been dozens of them.
 But two-thirds of those missions failed.
-
-
-
 Mars is a spacecraft graveyard.
-
-
-
 A spacecraft has to travel about three
 hundred million miles to get to Mars
-
-
-
 at about sixty thousand miles an hour.
-
-
-
 But it still takes seven months
 to get there.
-
-
-
 Trying to hit our landing sites from that
 distance is like shooting a basketball
-
-
-
 from Los Angeles to New York and having it
 go through the hoop without touching the rim.
-
-
-
 The smallest mistake on our part
 could put the whole mission in jeopardy.
-
-
-
 Two of the last three missions
 to Mars were failures.
-
-
-
 One spacecraft burned up in
 the Martian atmosphere,
-
-
-
 the other one crashed on the surface.
-
-
-
 This time, NASA decided to send
 two identical spacecraft
-
-
-
 to double our chances of success.
-
-
-
 The two rovers are named Spirit
 and Opportunity.
-
-
-
 The rovers have very different
 personalities.
-
-
-
 They did even when they were babies,
 back when we were first building 'em.
-
-
-
 Spirit was our troublesome first-born.
-
-
-
 Every test we ran, it seemed
 that we ran on Spirit first
-
-
-
 and the first time you try
 something it usually doesn't work.
-
-
-
 So we'd run these tests on Spirit and
 they'd fail and we'd try to fix things
-
-
-
 and we'd run another test
 and that would fail too.
-
-
-
 By the time we got to Opportunity,
-
-
-
 we'd learn stuff and things
 went much more smoothly.
-
-
-
 The biggest problem was that we
 underestimated the size and weight
-
-
-
 of the rovers. Once we realized how
 big they really had to be,
-
-
-
 we also realized that the
 landing system we planned to use
-
-
-
 couldn't get them to the ground
 in one piece.
-
-
-
 As the rover got heavier,
 the lander got heavier.
-
-
-
 As the lander got heavier,
 the arrow shell got heavier.
-
-
-
 The whole thing got heavier
 and heavier and heavier.
-
-
-
 From the very beginning on this mission,
 it seemed like nothing was going right.
-
-
-
 The air bags are like the air bags in
 your car but way more expensive.
-
-
-
 They inflate explosively around the
 vehicle and they cushion the landing.
-
-
-
 The first time we tested them,
 they tore open and deflated.
-
-
-
 The setbacks we knew
 they are going to happen.
-
-
-
 I always tell people when
 you start these projects.
-
-
-
 Uh, the same thing probably what happened
 to Lewis and Clark and, uh,
-
-
-
 Captain Cook in their exploration.
-
-
-
 Uh, what is guaranteed is that
 there will be setbacks.
-
-
-
 Three...two...one.
-
-
-
 These rovers have to land
 using a supersonic parachute.
-
-
-
 The parachute design we
 thought would work ripped to shreds.
-
-
-
 The lander had gotten so heavy that
 the chute just couldn't handle it.
-
-
-
 We were practically out of time and
 all we had was a chute design
-
-
-
 would destroy
 the spacecraft when we tried to land.
-
-
-
 We had to build a whole 'nother set of new designs.
-
-
-
 No less than three or four
 designs that we had to test
-
-
-
 We were running out of money,
 we were running out of time.
-
-
-
 Uh, well, I mean, the drop was successful.
-
-
-
 Yeah.
-
-
-
 See, uh, the fact that, uh, the parachute
 exploded...not a good thing.
-
-
-
 Well, yeah, I'd rather have it
 happen here than any place else.
-
-
-
 Mars.
-
-
-
 Yeah.
-
-
-
 That's right. Unfortunately, strictly
 speaking, that chute that just exploded
-
-
-
 was the chute that we
 were planning on taking to Mars.
-
-
-
 Mars is a tough place to send a spacecraft.
-
-
-
 The average temperature is sixty degrees
 below zero.
-
-
-
 It goes down to a hundred below zero
 at night.
-
-
-
 There can be dust storms
 that darken the skies for months at a time.
-
-
-
 But if the rovers make it, they'll give us
 the experience of
-
-
-
 what it would be like to be on Mars.
-
-
-
 We'll be able to look off into the distance
 and say, "Yeah. I'd like to go there,"
-
-
-
 and then actually go and see what we find.
-
-
-
 The rover's arm has the same dimensions
 as a human arm with a shoulder,
-
-
-
 an elbow, and a wrist. The arm tucks up
 tight under the front of the vehicle
-
-
-
 for when we drive around. But when
 we get to a rock that we want to examine,
-
-
-
 the arm unstows and reaches out
 using all of its joints
-
-
-
 to place the instruments on a rock
 and to begin to study them.
-
-
-
 The hand has four fingers. One is a
 microscope, two are spectrometers
-
-
-
 to tell us, in detail, what the rocks are made of.
-
-
-
 And the fourth one is called the RAT.
-
-
-
 The Rock Abrasion Tool.
-
-
-
 MARS
-
-
-
 To examine the rocks, we've got to
 get to them and Mars is very bumpy.
-
-
-
 So to deal with the bumps, our engineers
 came up with something called a
-
-
-
 rocker-bogie suspension system. It's a very
 clever design that allows each of
-
-
-
 the six wheels to go up and over
 a rock independently
-
-
-
 while the rover itself hardly tilts at all.
-
-
-
 'Kay. Come on in, guys.
 Now stay clear, watch it. Watch it.
-
-
-
 Stay clear of this thing 'cause
 it's gonna move in a second.
-
-
-
 Watch! Watch the wheels. Watch the wheels.
 Watch the wheels. Now watch.
-
-
-
 It goes way beyond this single mission.
-
-
-
 See that?
-
-
-
 The eventual goal is to send humans to Mars.
-
-
-
 But the first person to walk on
 Mars is not an astronaut today.
-
-
-
 It's someone in high school.
 Or in elementary school.
-
-
-
 So it's turnin' in place, then when it gets
 lined up just right,
-
-
-
 we're gonna drive it backwards.
-
-
-
 We've invested so much work...
 so many years...
-
-
-
 so much of our hopes and our
 dreams into these rovers.
-
-
-
 And then when you think about
 where they're going,
-
-
-
 the ride they're gonna get on
 that rocket, the transit through space,
-
-
-
 what it's gonna be like when
 that parachute goes out
-
-
-
 at mach two goin' through
 the Martian atmosphere....
-
-
-
 You're standing next to this little robot
 and you realize it's gonna spend eternity on
-
-
-
 the surface of another world.
 It's goin' to another planet for real.
-
-
-
 And once they're gone, that's it.
 After the rovers launch,
-
-
-
 we're never gonna see
 them again with our own eyes.
-
-
-
 We've done everything we can to prepare them
 for the dangers they'll have to face.
-
-
-
 But it's gonna be very hard to say goodbye.
-
-
-
 NASA
-
-
-
 Spirit will be launched first, then
 Opportunity, three weeks later.
-
-
-
 Mars and Earth are both orbiting the sun so
 they're always moving
-
-
-
 relative to each other.
 Every twenty-six months,
-
-
-
 there's a brief interval when the
 planets are lined up just right.
-
-
-
 At that time, and only at that time,
 we have enough rocket fuel to make it.
-
-
-
 So this is our one shot.
-
-
-
 We don't fire a rocket motor
 all the way to Mars.
-
-
-
 We don't need to. We just place the
 spacecraft on a trajectory
-
-
-
 to Mars and let it
 coast for seven months and three hundred
-
-
-
 million miles until it reaches the planet.
-
-
-
 Once it's been pushed on it's way
 to Mars by the launch vehicle
-
-
-
 it has to, uh, maintain its orientation
 toward the sun and it needs to be able
-
-
-
 to correct its orientation and
 direction so that it would hit Mars
-
-
-
 and-and get to this very, very tiny,
 uh, spot on Mars that we're aiming for.
-
-
-
 So all that has to take place over the
 course of the seven month journey.
-
-
-
 7 MONTHS AFTER LAUNCH
-
-
-
 SPIRIT LANDING DAY
-
-
-
 Planning is when the real challenge begins.
-
-
-
 Mars is so far away it takes about ten
 minutes for a radio signal to travel
-
-
-
 one way between Mars and Earth.
 But it's only six minutes from when
-
-
-
 you first hit the top of the Martian
 atmosphere to when
-
-
-
 we're bouncing on the surface.
-
-
-
 So there's nothing we can do
 to help when it's time to land.
-
-
-
 The rovers are on their own, and we're just
 passive, passionately interested observers
-
-
-
 waiting for a radio signal that shows
 whether or not they've survived.
-
-
-
 Not going to be an issue. The current
 reported temperature is about zero degrees
-
-
-
 Celsius which, um, is close to the
 limit-- the flight allowable limit.
-
-
-
 However...
 Landing a spacecraft on Mars is so complicated.
-
-
-
 There are so many things that can go wrong.
-
-
-
 The flight computer has to know precisely
 the right time to deploy the parachute.
-
-
-
 If it deploys it too high, when the
 parachute opens the wind forces
-
-
-
 will just rip it to shreds.
-
-
-
 If we deploy the parachute too low of an
 altitude, it won't open in time
-
-
-
 and it
 will just crash right into the ground.
-
-
-
 The trick is, every time there's
 some critical event:
-
-
-
 the parachute deploys, the heat
 shield falls away, we change the frequency
-
-
-
 of the radio signal.
-
-
-
 And so Polly's sitting at her console and
 she's looking for these changing frequencies
-
-
-
 and when the number changes,
 she knows that this event has happened.
-
-
-
 That event has happened.
-
-
-
 Flight director, Jason Willis, reporting
 that all systems are go for entry
-
-
-
 descent and landing.
 We are roughly eleven minutes,
-
-
-
 forty-eight seconds from landing at the
 Gusev Crater
-
-
-
 in the southern hemisphere of Mars.
-
-
-
 Atmospheric entry in three...two...one.
-
-
-
 We have just passed one minute
 to atmospheric entry.
-
-
-
 Current altitude: one hundred
 and twenty-one miles.
-
-
-
 Current velocity: twelve thousand
 eighty-four miles per hour.
-
-
-
 We are now at an altitude
 of seventy-three miles,
-
-
-
 moving at a speed of twelve thousand
 one hundred ninety-two miles per hour.
-
-
-
 Expected parachute deploy in five seconds.
 Four...three...two...one...mark.
-
-
-
 We're awaiting confirmation the
 parachute has deployed.
-
-
-
 Parachute's been detected.
-
-
-
 Heat shield deployed event.
-
-
-
 Uh, spacecraft reporting that heat
 shield has indeed jettisoned...
-
-
-
 Spacecraft reporting lander has separated.
 Moving at a speed of
-
-
-
 one hundred seventy-three miles per hour.
 We are near our terminal velocity.
-
-
-
 Expected retro rocket ignition on my mark.
 Mark.
-
-
-
 At this point in time,
 we should be on the ground.
-
-
-
 Any signal that we receive from now
 indicates the vehicle would be alive,
-
-
-
 on the ground, and bouncing.
-
-
-
 The spacecraft has to survive all the
 bounces for the landing to be a success.
-
-
-
 No signal at the moment.
-
-
-
 Standby.
-
-
-
 Signal strength is currently intermittent.
-
-
-
 We don't see a signal at the moment.
-
-
-
 Right. We saw an intermittent signal
 that indicated we were bouncing
-
-
-
 however...however, we currently
 do not have signal from the spacecraft.
-
-
-
 Okay.
 Please stand by.
-
-
-
 This time, we're approximately ten minutes
 after landing.
-
-
-
 The vehicle should have
 rolled to a stop by now.
-
-
-
 The deep space network stations at Goldstone
 and Canberra are still searching for the signal.
-
-
-
 They see it.
-
-
-
 What do we see?
-
-
-
 We've got the signal!
-
-
-
 The first thing we have to do after
 we land is open our solar panels
-
-
-
 to the sun so we'll have some power.
 This charges up the batteries.
-
-
-
 After that, we can deploy the camera
 mast so the rover can see
-
-
-
 and deploy the antenna so
 the rover can talk to us.
-
-
-
 Our first pictures from Mars!
-
-
-
 Look at that!
 That's looking down on our vehicle.
-
-
-
 We could not have imaged returns
 as early as this, as clear as this,
-
-
-
 as successful as this, and in the
 volume that it has been.
-
-
-
 Uh, ladies and gentlemen, Mars.
-
-
-
 We sent Spirit to Gusev Crater, a crater
 in the southern highlands of Mars.
-
-
-
 It's a hundred miles in diameter.
-
-
-
 What makes it special is that emptying
 into it is a giant watercarved channel.
-
-
-
 So Gusev is a hole in the ground
 with a dry river flowing into it.
-
-
-
 There has to have been a lake
 in this crater once upon a time.
-
-
-
 We sent Spirit there to seek out sediments.
-
-
-
 To look for sedimentary rocks that
 were laid down long ago in that lake.
-
-
-
 Once we landed, I think the scariest
 part of the whole mission
-
-
-
 was the initial unfolding of the rover.
-
-
-
 There are so many gears and springs
 and motors and hinges and latches
-
-
-
 that have to work just right or you're done.
-
-
-
 Once everything's deployed,
 we're ready to start lookin' around.
-
-
-
 We can look off into the distance with our
 cameras and with our infrared spectrometer,
-
-
-
 and we can learn a lot from a distance of
 fifty yards, a hundred yards about what the
-
-
-
 look like and what they're made of.
 Then, if we see a rock that has a texture or
-
-
-
 a composition that looks interesting to us,
 we can drive over to it
-
-
-
 and check it out in detail.
-
-
-
 For driving, the rover has these kinda
 googly-eyed cameras that it uses
-
-
-
 to take images of the terrain in front
 of it. They've got wide-angle lenses
-
-
-
 and they provide sort of a fish-eye view.
 Spirit uses these pictures to
-
-
-
 make it's own decisions about how to drive.
-
-
-
 It'll drive forward and then take
 a look at a rock and say,
-
-
-
 "That's too big, I have to go around that."
 Or, maybe it'll see smooth sailing
-
-
-
 and just move on.
-
-
-
 But we can actually program different
 levels of courage or cowardice
-
-
-
 into the rover, telling it how aggressive it
 should be depending on how dangerous
-
-
-
 we think the terrain is.
-
-
-
 These rovers are so complicated, that it
 takes hours to get a set of commands right.
-
-
-
 So when we operate 'em, we'll normally
 send commands to them just once a day.
-
-
-
 The first rock that we looked at was this
 one. We named it Adirondack.
-
-
-
 When a rock sits on the surface of a planet,
 it can undergo what's called 'weathering.'
-
-
-
 When it's exposed to sunlight or humidity
 or wind, the surface of the rock
-
-
-
 can be modified and the evidence of
 how it formed can be destroyed.
-
-
-
 So to get to the clues you need,
 you have to get inside the rock
-
-
-
 below the weathered surface.
-
-
-
 The key to understanding Adirondack
 was the rock abrasion tool.
-
-
-
 The RAT gives us the ability to grind into a
 rock, exposing the unaltered
-
-
-
 evidence inside.
-
-
-
 So we put a RAT hole into Adirondack
 and then we hit it with everything we had.
-
-
-
 We looked at it with our cameras,
 we looked at it with our spectrometers,
-
-
-
 we looked at it with our microscope.
 Adirondack is a piece of lava.
-
-
-
 It's not a sedimentary rock.
 And every other rock around it
-
-
-
 is a piece of lava too. This was a huge
 disappointment.
-
-
-
 We came to Gusev Crater looking
 for sediments that were laid down
-
-
-
 long ago in a lake, but what we
 found was lava. Volcanic rock.
-
-
-
 The sedimentary rock must be there but it's
 been buried under the lava
-
-
-
 and we couldn't get to it.
-
-
-
 When we realized that we hadn't
 landed on the stuff we came for,
-
-
-
 we decided we had to go some place else.
 A mile and a half away,
-
-
-
 there's this spectacular range
 of hills called the Columbia Hills.
-
-
-
 You gotta remember that Spirit was designed
 to go only six hundred yards
-
-
-
 over its lifetime.
-
-
-
 So we set out for those hills not
 knowin' if we'd ever make it.
-
-
-
 Meanwhile, on the other side of Mars,
 Opportunity was about to land.
-
-
-
 When Opportunity landed at Eagle Crater,
-
-
-
 it was a three-hundred million mile
 interplanetary hole-in-one.
-
-
-
 We rolled to a stop right in
 front of layered bedrock.
-
-
-
 Bedrock is geologic truth. Opportunity
 landed in front of a Martian history book.
-
-
-
 When we drove off the lander
 and looked at the soil in front of us,
-
-
-
 we saw that it was littered with what looked
 like little round beads.
-
-
-
 An uncountable number
 of little round things.
-
-
-
 We took out our microscope,
 we reached out,
-
-
-
 and looked at the soil in detail and
 the picture that came down was astounding.
-
-
-
 They were perfect spheres.
 I will remember for the rest of my life
-
-
-
 how I felt when I saw that first picture.
-
-
-
 When we got to the outcrop
 and looked at it up close, we realized
-
-
-
 that the spheres are embedded in the
 rock, like blueberries in a muffin.
-
-
-
 The rock erodes away and
 the blueberries fall out.
-
-
-
 And roll down into the soil.
-
-
-
 The blueberries, it turns out,
 are made of hematite,
-
-
-
 a mineral that on Earth is
 often formed in liquid water.
-
-
-
 Next, we found jarosite, which is a
 mineral that couldn't have formed
-
-
-
 unless there had been water in the rocks.
 So there was water underground here.
-
-
-
 Our most extraordinary discovery
 came when we found ripples in the rocks.
-
-
-
 Ancient ripples that formed when water
 flowed over sand on Mars
-
-
-
 billions of years ago.
-
-
-
 So there wasn't just water underground
 here... there was water at the surface.
-
-
-
 Opportunity discovered that
 at this place billions of years ago,
-
-
-
 Mars was most
 likely a habitable world.
-
-
-
 It was a place that, for some interval of
 time, was suitable for some forms of life.
-
-
-
 Decades of work paid off with this discovery.
-
-
-
 Billions of years ago there were shallow,
 occasional pools of water.
-
-
-
 Don't think an ocean, think of salt flats.
-
-
-
 And the water may not have
 been a pretty blue.
-
-
-
 In fact, it may have been so acid
 it dissolved iron out of the rocks
-
-
-
 and made wine-red pools under a
 pink Martian sky.
-
-
-
 All the discoveries that Opportunity
 made about water
-
-
-
 happened in the first six weeks of the mission.
 Everything went right for that rover.
-
-
-
 I call Opportunity
 "Little Miss Perfect".
-
-
-
 Opportunity lands in this place
 where the evidence is right there.
-
-
-
 The driving is
 like a parking lot. Everything is perfect.
-
-
-
 Spirit, our kinda tough hard-working
 blue collar rover lands
-
-
-
 in this awful, rocky, rugged place
 on a lava plane a mile and a half from
-
-
-
 the nearest interesting rocks and has to
 struggle for five months
-
-
-
 just to begin her mission.
-
-
-
 Spirit had to work for everything,
 literally had to climb a mountain on Mars.
-
-
-
 We use the power that comes from the
 sun to operate the vehicle
-
-
-
 and to charge the batteries.
 So the solar arrays are essential.
-
-
-
 On the way to the Columbia Hills, Spirit's
 solar rays were getting coated with dust.
-
-
-
 We were getting to the point where
 Spirit was simply gonna die.
-
-
-
 Then, one wonderful day we, climbed
 up onto the crest of a ridge where
-
-
-
 we were hit by not one but several gusts of
 wind that just cleaned the solar arrays off.
-
-
-
 It was like having a brand new rover.
 Spirit got high up in the Columbia Hills
-
-
-
 and started to find stuff that was different
 from anything we'd seen.
-
-
-
 There were salt deposits in
 the hills and there were rocks
-
-
-
 that clearly had been altered by water.
 It took months of work and struggle
-
-
-
 but Spirit finally showed us there had
 been water on both sides of the planet.
-
-
-
 She gave us exactly what we needed.
-
-
-
 These rovers were designed
 to last only ninety Mars days
-
-
-
 and they've already done many times that.
 They've developed personalities.
-
-
-
 They're work horses. They say,
 "Push us. Ask us to do more.
-
-
-
 We can go further, we can go faster."
 So we asked so much more
-
-
-
 than they were ever intended to.
 And to our amazement, they'd do it.
-
-
-
 We don't know what will kill these rovers;
 they do get old, motors break,
-
-
-
 lubrication goes away in the motors,
 the wheels may stop turning.
-
-
-
 We have no idea what will happen.
-
-
-
 But they're not gonna last forever.
 And as the dust keeps falling,
-
-
-
 the solar arrays keep getting dirty.
-
-
-
 What could happen, with time,
 is some day we won't be able
-
-
-
 to charge the batteries enough
 to keep the rover warm at night.
-
-
-
 And if that happens,
 the rover's going to get too cold.
-
-
-
 And one morning, it just won't wake up.
-
-
-
 Spirit and Opportunity have shown us that
 once, three to four billion years ago,
-
-
-
 Mars had the essential ingredients for life.
 So the next step is to seek out evidence
-
-
-
 of life itself. Right now,
 we have one example of life. Us.
-
-
-
 We may be all there is.
 We simply don't know.
-
-
-
 But if you can show that life
 developed twice in one solar system
-
-
-
 and then you considere the
 multitude of solar systems out there,
-
-
-
 it takes no great leap of imagination to
 believe that
-
-
-
 life might be a common phenomenon
 throughout the universe.
-
-
-
 Our rovers have gone farther, harder,
 and longer than even we, their creators,
-
-
-
 believed possible. They've done heroic work.
-
-
-
 But some day we won't need robots.
-
-
-
 Some day, there'll be humans on the surface
 of Mars and boot prints in our wheel tracks.
-
-
-
 This mission has put us on
 a great trajectory to learn
-
-
-
 more about Mars and about ourselves.
-
-
-
 But right now, Spirit and Opportunity
 are still roving Mars.
-
-
-
 It's not just
 that they've exceeded our wildest dreams.
-
-
-
 In many ways, they are our wildest dreams.
-

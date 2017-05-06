@@ -1,1358 +1,1357 @@
-{747}{864}My pops used to always say,|''Dreaming is the luxury of children ''...
-{869}{934}...and that I should enjoy it.
-{939}{976}He was right.
-{981}{1075}Here it is, the last year of high school|for me and my friends...
-{1080}{1150}...and this is all I can|ever really see myself doing.
-{1155}{1251}When you got responsibilities,|you ain't got time to dream.
-{1313}{1424}I guess it's the difference between|being a boy and a man.
-{1482}{1507}And down South...
-{1542}{1575}...you grow up quick.
-{1581}{1647}Especially in the A TL.
-{4284}{4329}This here is my 'hood.
-{4329}{4377}Mechanicsville.
-{4377}{4424}752 Mandeville Lane.
-{4454}{4552}Middle of the city, center of our universe.
-{4737}{4828}Wake up, A TL, it's 6:23.|It's your boy, Frank Ski in the morning.
-{4828}{4912}And we've got another scorcher planned|for you here in the Dirty South.
-{4918}{4983}I'm talking Dirty South hot|A TL weather today.
-{4989}{5069}I tell you what, another heat index,|another record-breaking day.
-{5126}{5171}''What is your ethnic background?''
-{5176}{5207}I am a brother.
-{5243}{5276}Uncle George,|my mama's brother.
-{5281}{5327}He supposed to be raising us...
-{5327}{5398}...but responsibility was not really|his strong point.
-{5403}{5468}''Bisex-- HeterosexuaI.''
-{5473}{5506}Don't get it twisted, baby.
-{5556}{5649}Hey, Ant. You want a ride, homeboy,|you better act Iike it.
-{5654}{5703}-That's my little brother, Ant.|-AII right.
-{5703}{5731}I call him ''Jellybean. ''
-{5767}{5823}Hardheaded on the outside,|soft on the inside.
-{5829}{5853}And that's me, Rashad.
-{5884}{5987}Heir to the family business,|Swann Cleaning Service...
-{5992}{6053}...and man of the house.
-{6100}{6155}''How wouId you describe your physique?
-{6185}{6295}Trim, muscuIar, pIeasantIy pIump.''
-{6300}{6371}-What?|-Hey, Iet us get a box of cereaI, man.
-{6376}{6419}We ran out.
-{6427}{6486}Man, they aIways eating.
-{6539}{6580}MuscuIar.
-{6621}{6662}I know how much is in there too.
-{6668}{6715}One bowI each.
-{6726}{6753}Yeah.
-{6891}{6930}My boy, Esquire.
-{6965}{7051}He's basically my best friend.|He got accepted to an Ivy League school.
-{7051}{7081}There goes four.
-{7086}{7179}Check out this brother, just grinning,|jogging through campus with a white girI.
-{7189}{7268}ProbabIy running from that crowd of|white boys on the opposite page.
-{7300}{7389}Either way you Iook at it, man, you Iucky.
-{7395}{7457}Yeah, man. It ain't paid for yet.
-{7463}{7564}I'm gonna need grants, Ioans,|a job and a dream to pay this tuition off.
-{7587}{7619}''Ex-bIackIy.''
-{7726}{7796}We had to drive across town|because E went to Mount Paran.
-{7801}{7843}My boy book smart...
-{7848}{7918}...maybe even borderline brilliant|to these kids...
-{7923}{7973}...but he's just plain old Esquire to us.
-{7978}{8020}Why you aIways be driving in our car?
-{8025}{8054}-Get out the car.|-Look, boy.
-{8059}{8109}With your stupid IittIe outfit, man.
-{8114}{8174}Rashad, I'm gonna hurt him.
-{8185}{8227}Man, get out of here.
-{8237}{8301}-Peace.|-You mean ''War,'' brother.
-{8307}{8338}War!
-{8348}{8389}-How you doing, Mr. Sapp?|-Hey, Ben.
-{8433}{8497}-Have a seat.|-Right.
-{8557}{8627}I got the information you wanted|regarding the FaIcon Society.
-{8632}{8678}Let's have a Iook.
-{8725}{8785}GPA is over 4.0.
-{8806}{8856}Test scores are high.
-{8885}{8919}Essay's strong.
-{8960}{9015}AII you need is a good Ietter|of recommendation.
-{9020}{9054}You're in great shape.
-{9078}{9126}I was wondering if|you couId write that for me.
-{9132}{9216}I'm fIattered, Ben, I am,|but I'm not reaIIy the right person.
-{9221}{9279}I'm sure your parents know a judge,|a businessman?
-{9279}{9354}I don't think my parents|know anybody Iike that, sir.
-{9370}{9428}Sometimes it's not what you know...
-{9466}{9514}...but who you know.
-{9519}{9565}Our school was a little different.
-{9570}{9646}See, we in the Trey, Mechanicsville High.
-{9651}{9753}Alma mater to some of|the greatest players in the city.
-{9753}{9802}That's my boy Teddy right there.
-{9802}{9851}He A TL for real.
-{9851}{9890}Never been outside of 285.
-{9925}{10000}Hey, what you doing here, man?|You must have Iost your job.
-{10000}{10054}Had to get my breakfast on.|Brother gotta eat.
-{10060}{10091}Get it how you Iive, pimp.
-{10152}{10202}-Brooklyn, from New y ork.|-No means no, man.
-{10202}{10262}And reminds us of it every chance he get.
-{10325}{10383}-Shining, ain't you?|-Can't you teII, man?
-{10388}{10441}Guess you gonna fake it|tiII you make it, huh?
-{10446}{10493}Man, these gonna be getting me the girIs.
-{10498}{10552}-Not without no game, it ain't.|-What up, Tondie?
-{10557}{10610}-Can we taIk right quick?|-Just did, bye.
-{10642}{10669}Working aIready.
-{10766}{10828}Seniors, it's almost graduation.
-{10834}{10917}If you haven't done it yet,|get your cap and gowns ordered.
-{10922}{11015}We were five weeks from graduation.|I had all my credits.
-{11020}{11123}And all I had to do was cruise for|the next month and I'd be straight.
-{11128}{11189}Please give them|a Tiger round of applause.
-{11194}{11226}And one more thing.
-{11246}{11335}We have a lot of sports|going on this week.
-{11340}{11378}And we want to thank the people...
-{11383}{11472}-...who were involved this weekend.|-Everybody in a seat.
-{11601}{11677}Year's aImost over. Thank you, Jesus.
-{11725}{11801}Y'aII sIackers better figure out|what to do for the summer.
-{11801}{11859}My little brother wasn't exactly|a troublemaker.
-{11864}{11926}-That ain't right.|-But he ran his mouth too much.
-{11926}{11984}-Why ain't it?|-And he was definitely hardheaded.
-{11989}{12043}I know what I'II be doing this summer.
-{12048}{12081}I'm gonna be getting paid.
-{12134}{12178}Ms. Jackson...
-{12185}{12254}...can you pIease cut on the a.c.?
-{12273}{12323}Man, it feeI Iike a sIave ship in here.
-{12366}{12429}Air conditioning is for honors cIasses.
-{12435}{12497}Kids who wanna make something|out of themseIves.
-{12502}{12554}Was you in honors cIasses?
-{12560}{12624}Because you ain't got no a.c. either.
-{12641}{12678}See what I'm saying?
-{12678}{12729}He stayed in trouble.
-{12803}{12863}But I couldn't wait on him|to get out of detention.
-{12868}{12904}We had to scoop Teddy.
-{13028}{13059}How your sister doing, man?
-{13064}{13128}I been caIIing her,|and she ain't been caIIing me back.
-{13133}{13191}She trying to pIay me?|She seeing somebody eIse?
-{13196}{13250}Come on, man, keep it reaI with me.
-{13270}{13328}What's happening, Teddy?
-{13351}{13395}-What up, man? You pIaying?|-I got next.
-{13400}{13451}Party on the Ieft, man.|You know how it is.
-{13456}{13505}Now open wide, wide, wide.
-{13511}{13577}Bite down on that. CooI, cooI.
-{13582}{13623}Hey, man. Ready?
-{13628}{13678}Oh, heII, yeah. I'm gone.
-{13683}{13727}Hey, man, peace.
-{14009}{14105}After we pick up Teddy, we shoot on|over to the Shady Grove Country Club.
-{14111}{14154}That's where Esquire works.
-{14155}{14194}We expected him to be late...
-{14200}{14301}...because he was always out there on|the golf course, hustling the rich kids.
-{14353}{14454}Yes, yes, and yes.
-{14500}{14542}Oh, my God, I Iove poetry.
-{14547}{14587}I write in my diary every day.
-{14592}{14656}Oh, reaIIy?|Let me kick something for you.
-{14676}{14802}She sits there|Pain filling the back of her eyes
-{14802}{14850}Forcing them to leak
-{14850}{14930}So aII I need to do is|I need to get your digits.
-{14936}{14986}Your daddy ain't around, is he?
-{14992}{15065}Even though her tolerance|Has reached its peak
-{15070}{15133}Now, Iook here, when you caII me,|don't even trip, okay?
-{15138}{15187}If a Iady answer the phone,|that's my mama.
-{15192}{15260}She staying with me|because she going through some things.
-{15265}{15306}She's so soft
-{15317}{15376}She could have been|The spokesperson for cotton
-{15382}{15454}You know, that's just IittIe things|that I Iike do to...
-{15454}{15505}...because I Iike to throw stuff in the air.
-{15510}{15560}These guys don't know anything|about poetry.
-{15565}{15604}They're not reaIIy cuItured.
-{15604}{15722}-Hey, what's up, Esquire, man?|-Man....
-{15727}{15787}-Hey, man.|-WiII you aII come on? Excuse me.
-{15793}{15866}-Can't you see I'm over here--|-You reciting poetry and shit.
-{15871}{15914}-Come on, man.|-Damn.
-{15919}{15997}-Can we go pIease? PIease?|-Hey, man, scoot over, man. PIease?
-{16002}{16061}You skinny enough. Scoot over, man!
-{16066}{16117}You aIways sit in the front.|Sit in the back.
-{16122}{16179}What the heII wrong with you,|Tiger Hood?
-{16179}{16211}BIack NickIaus?
-{16246}{16343}I think I miss home or whatever,|but, yo, it's so country out here, man.
-{16348}{16446}It's Iike the fIies--|Why are there so many fIies out here?
-{16451}{16508}-Man, I know you not gonna get into this.|-For reaI.
-{16513}{16582}Okay, so why is there a rat on|every corner in New York City?
-{16588}{16660}Why, after every sentence,|you caII me ''shorty''?
-{16665}{16758}''Yo, shorty, shorty.'' I'm taIIer than you.
-{16763}{16795}Let me ask you this, then.
-{16800}{16874}In New York City, why y'aII say,|''Yo, son,'' after every sentence?
-{16879}{16927}-I'm not your kid. I'm not your chiId.|-Right.
-{16932}{16964}Why I gotta be your son?
-{16969}{17005}-Money?|-B?
-{17010}{17098}I caII you ''sun'' because you shine Iike one.
-{17103}{17171}-You feeI me?|-Yeah, that was reaI sentimentaI, thanks.
-{17267}{17307}-Oh, heII, yeah.|-Thank you.
-{17312}{17350}-Thank you.|-Thank you.
-{17360}{17427}-Y'aII need anything eIse?|-No, we aII right.
-{17428}{17500}-ActuaIIy, Iet me get some iced tea?|-Sweet or unsweet?
-{17501}{17565}-Sweet.|-She choosing, huh, BrookIyn?
-{17618}{17650}Shut up.
-{17661}{17725}BrookIyn! Oh, good Lord!
-{17725}{17808}That ass fatter than|a swamp possum with the mumps.
-{17813}{17864}-Okay, you got a point.|-See what I'm saying?
-{17869}{17900}That's country.
-{17900}{17949}Y'aII get y'aII cap and gowns yet?
-{17954}{18020}-Oh, yeah, I got mine.|-I know you do.
-{18029}{18080}Yo, you sure you graduating, Teddy?
-{18085}{18161}Like, come on, for reaI, B,|just give it up. Like, come on, Teddy.
-{18166}{18213}That ain't funny, man. I'm trying.
-{18218}{18259}-Wait a minute.|-I'm trying.
-{18265}{18315}Ain't you about|in the 1 4th grade now, dog?
-{18328}{18397}Yeah, I'm in the same cIass|with your mama.
-{18402}{18442}By the way, I ain't seen her IateIy.
-{18447}{18529}You gotta teII her to come in and|check in with Daddy at the house.
-{18534}{18581}I need my money on time.
-{18586}{18680}Hey, don't make jokes about me, okay?|I'm sensitive.
-{18685}{18751}Y'aII know where that girI New New|go to schooI at?
-{18751}{18811}Seem Iike she onIy be around|when we be kicking it.
-{18816}{18883}-She ghetto, man.|-Yeah, boy, just how I Iike them.
-{18912}{18972}You better Iean back, shorty.
-{18978}{19018}You know she Rashad's girI.
-{19034}{19095}-Rashad.|-Now, how you figure that?
-{19101}{19134}-Come on, man.|-Come on, man.
-{19139}{19176}Shut up, you know you Iike her too.
-{19204}{19247}I don't even be taIking to that girI.
-{19352}{19402}So why you just wave at her?
-{19407}{19464}Shut up, man.
-{19469}{19502}He put you out there, homeboy.
-{19505}{19568}We were all at the same place|in our lives...
-{19573}{19623}...trying to figure out what's next.
-{19628}{19704}The one thing I did know:|These were my friends.
-{19704}{19736}I could trust them.
-{19741}{19801}And Sunday night, we got loose.
-{20804}{20884}-That's right.|-Let's go and do the damn thing, man.
-{20933}{20965}-Let's do it.|-Big oId head.
-{20970}{20994}Let's go.
-{21000}{21048}Sunday night at Cascade.
-{21053}{21092}Fine Georgia peaches and wet paint.
-{21127}{21179}It was a beautiful place to be.
-{21213}{21252}I'm gonna knock him out next time.
-{21257}{21329}We'd been coming to Cascade|since we were kids.
-{21335}{21360}What's up, man?
-{21365}{21478}I had my first fistfight here,|and my first kiss.
-{21492}{21527}We knew everybody...
-{21532}{21594}...from the security guards|to the hottest shorties.
-{21625}{21694}Rashad. Rashad!
-{21700}{21773}-I know you heard me.|-Don't he know chocoIate meIt in the heat?
-{21778}{21867}-I'm gIad somebody recognize.|-Don't try to get no feeI, neither.
-{21872}{21940}GirI, I got grandkids oIder than you.
-{21945}{22041}Cascade's is a rite of passage|to every kid in the A...
-{22046}{22132}...but for us, it was something more.
-{22139}{22196}AII right, everybody,|Iet's get it on the fIoor.
-{22201}{22299}Y'aII Iooking a IittIe rusty tonight.|Y'aII better be practicing out there.
-{22304}{22366}There's something wrong|with these wheeIs.
-{22371}{22432}Ain't nothing wrong with these wheeIs.|You can't skate.
-{22438}{22529}Inside here,|it's like all our problems don't exist.
-{22535}{22619}It's the only place where|we all felt like we could be free.
-{22651}{22699}Man, it's crazy out here tonight.
-{22735}{22822}Oh, yeah, y'aII, here we go again.|Cascade's on a Sunday night.
-{22827}{22890}If you can't skate,|get your ass off the fIoor.
-{22895}{22952}If you got skiIIs,|then, shorty, you got to prove it.
-{22957}{23060}School sucks, rent past due,|your girl left you.
-{23065}{23132}On Sunday night,|don't none of that matter.
-{23137}{23209}y ou could be|whoever you wanted to be here.
-{23896}{23945}Can't take bIack foIks nowhere.
-{23950}{24010}Man, get off the fIoor.|Get off the fIoor.
-{24016}{24072}HandIe that, Mr. Referee.
-{24477}{24549}HeIIo? HeIIo?
-{24554}{24609}-Who was that?|-I don't know. They keep hanging up.
-{24614}{24654}Star-69 them.
-{24677}{24724}Excuse me, I am not a ho.
-{25311}{25368}There's all kinds of characters here.
-{25403}{25447}y ou got the Cool Cats and they crew.
-{25452}{25488}y ou got the Fly Girls.
-{25502}{25552}And the D-boys is in here too.
-{25557}{25613}Somebody always dying from their clique.
-{25630}{25679}But nobody matters like the skate crew.
-{25885}{25909}And we were the Ones.
-{25945}{25986}This year, we was taking Skate Wars.
-{25991}{26028}Let's go, man.
-{26809}{26863}Even when the rink was crunk|on Sunday night...
-{26928}{27026}...sometimes I felt like|I was out there all by myself.
-{27026}{27075}Floating above it all.
-{27080}{27155}No lies, no pain...
-{27177}{27231}...and no worries about|what tomorrow might bring.
-{27330}{27389}Shantay, hurry up,|we got dance rehearsaI.
-{27430}{27495}Guess you don't know nobody|no more, huh?
-{27541}{27566}Man.
-{27586}{27627}No, I guess not.
-{27660}{27727}I'm saying, Rashad,|you know I didn't mean what I said.
-{27745}{27828}Man, whatever. That don't even matter.
-{27854}{27918}Look, my mama not home.
-{27949}{27976}You wanna give me a ride?
-{28014}{28071}Man, your mama ain't never home.
-{28104}{28139}Take care, though.
-{28225}{28267}I ain't have time to mess with Tonya.
-{28273}{28334}If we was gonna win the war,|we was gonna need practice.
-{28354}{28390}Some of us more than others.
-{28395}{28461}-We have identified the weakest Iink.|-Shut up, boy.
-{28467}{28523}You aIways taIking.|Rashad, get your brother.
-{28529}{28607}-He might be right this time.|-Yeah, for reaI.
-{28767}{28841}Two, three, four. Oh, goddamn.
-{28859}{28891}Hey, girI, hey!
-{28896}{28936}I wonder what her career path is.
-{28941}{29035}Excuse me, gorgeous.|Can I get at you for a second?
-{29052}{29122}I got that. Fine ass.
-{29176}{29254}-So where you going?|-Boy, you know you need to quit.
-{29308}{29380}You see I'm getting hot.|I'm sweating and aII that.
-{29385}{29432}I can't take him no more, son.
-{29437}{29482}-That's it. That's it.|-And here he go.
-{29487}{29523}-What happened, man?|-I'm done.
-{29528}{29551}-I'm done.|-Again?
-{29629}{29700}-Wanna try that one more time?|-I got this. I'm good.
-{29705}{29776}Yo, BrookIyn, you're fired, man.|Quit Ioitering here.
-{29781}{29849}Keep it moving, son. Keep it moving.
-{29873}{29941}AII right.|I don't know if you that good, but....
-{30005}{30069}Leave your uniform before|I take it out of your check.
-{30074}{30131}-HoId up, man.|-Get the heII out of here, you idiot.
-{30136}{30249}-''Keep moving, son''?|-I cannot run my pizza pIace without you?
-{30254}{30338}Man, be that way, then.|That's why you need a timing beIt, bitch.
-{30343}{30388}Shut up! Grow some hair on your chest!
-{30684}{30745}You see what I mean?
-{30751}{30792}-Watch out, man.|-See what I'm saying?
-{30798}{30844}I can run my pizza pIace without you!
-{30849}{30896}Man, pizza was invented in BrookIyn!
-{30901}{30944}And my hat too.
-{30995}{31056}-You gonna break your Ieg.|-Pizza was made in BrookIyn.
-{31061}{31105}You better cooI it, man.|CooI out, man.
-{31110}{31185}-You done Iost weight, man. HeII, yeah.|-You idiot.
-{31222}{31327}I need a vacation.
-{31670}{31712}Hey, quit spIashing!
-{31875}{31942}-SIow down!|-You gonna hurt yourseIf.
-{32000}{32075}It's another A TL scorcher.|I heard it's gonna be hot today.
-{32080}{32142}They told me the kids|are heading out to Lake Lanier.
-{32147}{32204}If you're not so lucky|to head out to the lake...
-{32204}{32240}...a pool is the place to be.
-{32245}{32289}Head down to your neighborhood pool...
-{32294}{32364}...because it is the coolest place|you want to be today.
-{32369}{32442}See, that's why I Iove coming out here.|Look at this here.
-{32477}{32564}Yo, Esquire, man, you are ashy.
-{32569}{32640}For reaI. It's Iike somebody|threw baby powder at your knees.
-{32645}{32697}You ashy too, man. What you saying?
-{32702}{32770}I don't know what type of Iotion|you gonna use for that arm.
-{32775}{32869}You gonna need some baby oiI,|some WD-40 or something.
-{32874}{32920}Some car engine oiI|might work for you.
-{32931}{33014}-Trying to taIk about somebody.|-Man, hide your waIIets.
-{33019}{33083}Here come Ghetto Ghetto|and her two twins.
-{33926}{33953}What y'aII doing?
-{33974}{34028}-What it Iook Iike?|-Rudeness.
-{34046}{34081}We doing nothing. We chiIIing.
-{34086}{34127}-What y'aII up to?|-Nothing.
-{34128}{34203}-WaIking around here Iooking cute.|-AII right.
-{34209}{34233}Y'aII sure are.
-{34239}{34285}-And you know something, New New?|-Nope.
-{34321}{34370}No, I'm saying,|when we gonna get together?
-{34375}{34415}Not gonna happen. Never.
-{34441}{34503}Why don't you just Iet me|finish what I got to say?
-{34503}{34552}I know what you gonna ask me, Teddy.
-{34552}{34628}I know you. And I seen you skate.
-{34655}{34728}-So?|-So that teIIs me...
-{34728}{34778}...everything I need to know|about a man.
-{34804}{34879}WeII, then you shouId know|I'm the quickest one out there.
-{34884}{34950}I be pumping it out there, baby.|I pop, pop, pop.
-{34970}{35026}ExactIy. A quick pumper.
-{35088}{35172}Whatever, man. You want me.|I'm hot. I'm desirabIe.
-{35177}{35276}I came over here to see was y'aII going|to Big Booty Judy's graduation party.
-{35276}{35315}Judy? Party?
-{35321}{35404}Her mama gonna Iet her have a party|after Iast year?
-{35452}{35512}Everybody out of here!
-{35536}{35601}I guess. She toId us|to come over here and teII foIk.
-{35617}{35653}WeII, appreciate it, baby.
-{35665}{35718}AII right. Bye.
-{36100}{36154}Go ahead.
-{36484}{36563}-What you doing, nigga?|-Hey! Nigga, what it Iook Iike?
-{36583}{36623}I'm drying my money.
-{36633}{36696}Yo, why you ain't come to schooI no more,|man?
-{36729}{36759}Too busy making money.
-{36820}{36877}I can see that.|I saw you with Marcus the other day.
-{36882}{36953}Yeah, he's my cousin.
-{36975}{37057}Hey, we gets paper.
-{37485}{37563}Who's going into Titty City|to get the cash?
-{37569}{37631}Star, I ain't fitting to put my hand|in them skyscrapers.
-{37637}{37710}Look, there's goId in them hiIIs.
-{37743}{37796}What y'aII doing?
-{37808}{37835}Nothing.
-{37888}{37962}Y'aII think I'm stupid?|I don't wanna have to bust y'aII out.
-{37985}{38048}Your bust is aIready out.
-{38091}{38162}That Iaugh aIways got on my nerves.|Shut up, okay?
-{38167}{38224}We was gonna ask,|can we get a ride to Cascade's?
-{38229}{38255}-Ma, pIease?|-PIease?
-{38261}{38294}Do I Iook Iike the bus?
-{38300}{38355}Come on. Don't y'aII see Mama|trying to take a nap?
-{38360}{38404}Go on. Get me something to drink.
-{38424}{38488}-Hey, Veda, get me something to drink.|-I'm Star.
-{38493}{38517}You know what I mean.
-{38671}{38728}What y'aII waiting on?|Y'aII know the routine.
-{38733}{38804}CIimb your asses out the back.
-{38830}{38887}He's aII up in her griII. I ain't Iying.
-{38892}{38932}Stay out of her business, okay?
-{38937}{39028}Come on, now. Y'aII shouId be used to this.|Don't be messing up my car.
-{39028}{39063}It's hot as heII up in there.
-{39068}{39132}-I sweated my edges out.|-Damn, me too.
-{39138}{39219}-And when you gonna get that door fixed?|-When you get a job.
-{39252}{39285}What, whoa, wait a minute.
-{39290}{39380}Considering the fact that both of y'aII broke,|those better be knockoffs.
-{39385}{39482}If I hear y'aII been up to no good at that|maII, it's gonna be on, you understand?
-{39487}{39528}-You understand?|-Yes.
-{39533}{39580}Your asses ain't too oId to be beat.
-{39965}{40002}-Hey, Big Ronnie.|-What's happening?
-{40008}{40064}Nothing to it.|Something wrong with these wheeIs.
-{40070}{40103}Come here. Let me take a Iook.
-{40125}{40178}-Watch the counter.|-AII right.
-{40226}{40275}-Hey.|-Hey.
-{40275}{40318}-What you need?|-Size seven.
-{40323}{40370}Where's your ticket?
-{40416}{40463}I think I Iost it.
-{40479}{40516}-Hey, Big Ron?|-Yeah.
-{40521}{40578}What we got to say about foIks|who Iost their ticket?
-{40583}{40616}No tickets, no skates.
-{40621}{40722}Sorry, hon. No ticket, no skates.
-{40727}{40812}Big Ronnie, please report to the men's room|with the mop and bucket.
-{40825}{40870}Overflow, brother.
-{40913}{40993}Hey, give me some.
-{41056}{41126}-What?|-I said, give me some.
-{41144}{41253}I don't know where your mouth been.|You might have the cooties.
-{41253}{41301}I might.
-{41561}{41613}So you know your boy Esquire suck.
-{41620}{41743}-You'd be better off with me on your Iine.|-No.
-{41762}{41856}Why? Give me one good reason.
-{41861}{41900}I'II give you two.
-{41912}{41963}You ain't cute.
-{42050}{42107}And you drank aII my soda!
-{42122}{42169}A friendIy reminder,|Iadies and gentIemen.
-{42174}{42213}Skate Wars in five weeks, y'aII.
-{42218}{42308}Bragging rights for the year.|It's aII on the Iine.
-{42368}{42433}Why you don't cut across the middIe|and get your speed up?
-{42439}{42523}Why don't you go roII your neck at|somebody eIse and Iet me handIe mine?
-{42525}{42564}I'm trying to heIp you out.
-{42569}{42649}Your takeoff is weak and|you starting to make Rashad Iook bad.
-{42667}{42768}I don't Iike you. ReaIIy don't.
-{42803}{42854}Man, I hope you catch up.
-{42906}{42934}Stupid.
-{43276}{43348}Nobody move....
-{43725}{43752}Go ladies! Go ladies!
-{44547}{44602}Hey, Iisten, shorty,|I want you to waIk up to him.
-{44602}{44659}-Yeah.|-I'II introduce you to him. Be cooI.
-{44664}{44703}If he asks you a question, answer.
-{44708}{44759}-Don't say nothing unnecessary.|-AII right.
-{44765}{44854}I was so weak, my Ieg--|I woke up, one of my footies was off.
-{44878}{44949}CoId fIashes.|Look, she wasn't nowhere around.
-{44950}{45003}I was Iike, ''Man, where she go at?''
-{45026}{45075}This is my nigga, Ant.
-{45102}{45161}-What's up?|-Germs.
-{45176}{45257}CIeanIiness is next to godIiness,|you know.
-{45262}{45294}-AII right.|-Back up.
-{45299}{45388}Anyway, Iike I said, I went downstairs,|I'm Iooking, she's nowhere to be found.
-{45393}{45483}So my front door's Iocked.|So I'm Iike, ''Did she take my house keys?''
-{45488}{45525}She must have went|out the window.
-{46150}{46203}Oh, sh--
-{46464}{46565}Oh, damn. Down goes Frazier.|Down goes Frazier.
-{46570}{46605}Somebody caII the ambuIance.
-{46623}{46677}There was one deadly sin at the rink.
-{46696}{46732}y ou don't fall.
-{46738}{46788}-Take them down.|-y ou just don't do it.
-{46794}{46859}y ou may lose your footing,|slip a little bit...
-{46864}{46907}...stumble at the most.
-{46912}{46977}But you don't fall.
-{46992}{47049}This is humiIiating.
-{47056}{47166}Shorties ain't checking|for a pIayer with a Iimp and a cast.
-{47177}{47230}How's that gonna work out for me?
-{48029}{48073}Man, they working me hard out there.
-{48078}{48121}-Running you, huh?|-Yeah, who next?
-{48126}{48191}This is for John Garnett in the rotunda.
-{48229}{48297}-Did you say John Garnett?|-Yeah.
-{48303}{48371}-The John Garnett?|-Sure.
-{48377}{48435}Man, you ain't understanding|what I'm taIking about.
-{48440}{48494}Let me show you, man. Look at this.
-{48499}{48553}Had it a Iong time.
-{48603}{48635}United Express.
-{48650}{48677}That's his.
-{48740}{48819}-How my breath?|-CrystaI cIear.
-{49138}{49206}I'II have one of these, pIease.
-{49212}{49254}Yes, sir.
-{49361}{49429}-Here's your drink, sir.|-Thank you.
-{49434}{49476}Good choice. You ceIebrating?
-{49519}{49551}What makes you think that?
-{49551}{49604}WeII, since you took over United Express...
-{49609}{49677}...the company has six consecutive quarters|in the bIack.
-{49699}{49766}I'd say you have a Iot to ceIebrate, sir.
-{49783}{49832}-Good point.|-Ben Gordon.
-{49851}{49913}-John Gar--|-Garnett. I know.
-{49959}{50025}WeII, you gentIemen|enjoy the rest of the evening.
-{50207}{50278}To six consecutive quarters in the bIack.
-{50429}{50474}Y'aII ready to work?
-{50524}{50595}Don't be Iooking at him.|You out of uniform, man.
-{50600}{50652}PuII that thing up,|button up your top coIIar.
-{50657}{50720}I toId you to be professionaI.
-{50749}{50781}Boy.
-{50845}{50904}Which one of y'aII pooted, man?
-{52737}{52801}Hey, DJ Drama, pay attention.|Let's go, hey!
-{52887}{52928}This party is kind of cute, though.
-{52945}{52995}But where the food at?|Because I'm hungry.
-{53000}{53033}No, don't eat anything in here.
-{53038}{53101}-That's right, I did see roaches.|-A Iot of roaches.
-{53178}{53236}-What's wrong with you?|-Nothing. I'm good.
-{53241}{53277}Y'aII seen Rashad and them?
-{53277}{53353}See, that's what it is.|You are so sprung, New New.
-{53359}{53396}-No, I--|-Yes, you are.
-{53401}{53468}-You open Iike a can of pig feet, girI.|-ExactIy.
-{53646}{53702}-Hey.|-Hi.
-{53772}{53804}Come on.
-{54372}{54408}What you smiIing so much for?
-{54479}{54525}What took you so Iong, anyway?
-{54550}{54623}Oh, you were Iooking for me.
-{54639}{54715}No, I was just-- No.
-{54720}{54752}It's aII right.
-{54752}{54851}You know, Rashad tends|to have that effect on women.
-{54908}{54987}-Who you come with?|-Crew.
-{54993}{55054}-Where they at?|-They around.
-{56004}{56028}This you?
-{56031}{56091}I know this ain't the bitch|got you tripping on me.
-{56096}{56135}-HoId up.|-Who you caIIing a bitch?
-{56140}{56200}Bitch, I'm caIIing you a bitch.|Quit eyebaIIing me.
-{56200}{56251}PIease don't get hurt, you dirty trick.
-{56251}{56299}-Who you caIIing trick?|-You, trick!
-{56304}{56342}-Are you crazy?|-Don't get hurt.
-{56347}{56404}-I got your trick.|-Hey, man, watch out.
-{56404}{56453}-CaIm down.|-PIease get this groupie.
-{56462}{56492}Hey, what are you, sIow?
-{56514}{56563}We done aIready went through this.
-{56568}{56601}Man, we done.
-{56606}{56647}It's over.
-{56650}{56725}No, I'm not even gonna beIieve that.
-{56766}{56801}AII right.
-{56816}{56848}BeIieve this.
-{56853}{56917}-Thirsty trick.|-Watch your mouth.
-{57082}{57133}-What's up?|-What's going on?
-{57176}{57225}-Yes, ma'am.|-Don't you be ''yes, ma'am ''-ing me.
-{57230}{57262}No.
-{57267}{57329}I'm sorry about that. For reaI.
-{57329}{57407}You need to controI|your IittIe groupies next time.
-{57443}{57496}What's wrong with y'aII?
-{57510}{57577}Mom found some of that|Gucci stuff in the washer.
-{57594}{57636}Are you serious?
-{57641}{57700}-ToId your ass to dry-cIean it.|-Do you understand?
-{57705}{57752}-Do you understand?|-Yes, ma'am.
-{57752}{57822}Anyway, she coming to get us right now.
-{57827}{57881}If you want a ride,|you better stay here with us.
-{57912}{57950}But we just got here.
-{57955}{57987}I'II take her.
-{57992}{58077}Hey, twins, get your|IittIe thieving asses down here!
-{58077}{58111}Hurry up!
-{58116}{58152}Out there steaIing and shit!
-{58174}{58266}Get your asses--!|Y'aII's asses gonna go to jaiI, steaIing!
-{58271}{58374}Some dyke's gonna get ahoId|of your asses!
-{58387}{58462}And aII that crying|don't mean a damn thing to me!
-{58468}{58529}Your asses wasn't crying|when you were steaIing.
-{58529}{58600}Now you wanna cry.|Hurry up and get your asses in the trunk!
-{58605}{58653}Kick your asses tonight.
-{58829}{58868}New New.
-{58923}{58971}What's so funny?
-{58976}{59027}What kind of name is New New, anyway?
-{59036}{59076}I'm New New...
-{59076}{59199}...because I aIways|rock the new, new shit.
-{59200}{59267}-Thank you.|-Yeah.
-{59273}{59388}Heard you and your homegirIs|don't buy none of that new, new shit.
-{59404}{59453}Whatever.
-{59504}{59578}Your parents ain't gonna be hot|about you coming home so Iate?
-{59578}{59629}Boy, I am grown.
-{59629}{59703}Your parents gonna be mad|that you out this Iate?
-{59743}{59775}No.
-{59818}{59895}Your parents don't care|about their IittIe baby, Rashad?
-{59950}{60015}My parents passed away...
-{60021}{60070}...a few years back.
-{60091}{60135}Car accident.
-{60219}{60309}-I'm so sorry, Rashad.|-It's cooI.
-{60417}{60469}I think love is in the air.
-{60474}{60529}Let me go to my request lines,|see if anybody's on.
-{60534}{60577}-What's happening?|-PuII over there.
-{60577}{60670}-How's everybody doing out there?|-Go ahead and give your shout out.
-{60675}{60726}I just wanna send|a shout out to my boo...
-{60726}{60805}...who's incarcerated, but I want him|to get some love right now.
-{60811}{60865}-What we stop here for?|-I'll tell you what.
-{60871}{60920}This one is going out to you, baby.
-{60926}{61002}My bus come in Iike an hour, so....
-{61003}{61045}Your bus?
-{61054}{61121}Think I'm gonna staIk you|if I find out where you stay?
-{61148}{61176}Maybe.
-{61237}{61298}I mean, but-- Like, for reaI, though...
-{61303}{61365}...you ain't gotta hide nothing from me.
-{61370}{61439}Ain't Iike I'm DonaId Trump or somebody.
-{61539}{61577}This is my song.
-{61611}{61692}Don't pIay with me right now.|This is my jam.
-{61698}{61798}What? Oh, yes, hey.
-{61807}{61846}You Iike this song?
-{61852}{61913}AII right, go, girI, sing it. What?
-{61941}{61991}How about we Iisten to it|and Iet them sing?
-{62082}{62141}See, aII that is unnecessary.
-{62146}{62181}I'm just kidding, shorty.
-{62229}{62321}-So how do I skate?|-What you mean?
-{62325}{62430}You said you couId teII a Iot about a man|by the way he skate.
-{62437}{62477}So how do I skate?
-{62561}{62622}-I don't know.|-Just be reaI.
-{62667}{62739}You.... You aII right.
-{62751}{62812}You got a IittIe styIe to you.
-{62825}{62889}You reaI confident, you know.
-{62927}{63021}I can't beIieve I'm even taIking to you|and teIIing you this right now.
-{63153}{63200}You speciaI.
-{63200}{63233}SpeciaI, huh?
-{63253}{63307}I don't know about that.
-{63343}{63401}I wish you couId see what I see.
-{64013}{64089}You ain't never had reaI barbecue|tiII you've had JJ's Rib Shack.
-{64094}{64128}I don't know how you Iiving.
-{64129}{64204}How you Iiving? You ain't had|nothing tiII AbduIIah's Rib Shop.
-{64210}{64296}I know he's a pro wrestIer and everything,|but he can make some sauce.
-{64388}{64428}Check that out, man.
-{64433}{64476}Get the door.
-{64609}{64654}Ain't you supposed to be in cIass, boy?
-{64673}{64722}Man, beII's about to ring right now.
-{64882}{64937}Man, what you roIIing on, 24's?
-{64949}{65014}No, see, that why you|need to be in cIass, boy. Them 28's.
-{65020}{65094}-Where your ruIer at?|-Man, I need to get myseIf one of these.
-{65102}{65179}You do.|Come on, take a ride with your boy.
-{65186}{65272}-For reaI?|-No, boy, for pIay-pIay. Come on.
-{65489}{65521}Get some of this tuna, man.
-{65526}{65584}-No carbs, bro.|-Cheesesteak.
-{65746}{65800}-You scared of dogs?|-No.
-{65806}{65837}Watch out now, boy!
-{65890}{65939}What's up, boy?
-{65944}{66003}You sure you ain't scared of dogs?
-{66021}{66061}-No.|-Good, then.
-{66076}{66162}It's feeding time. Come on.
-{66167}{66203}Back up.
-{66270}{66297}You go first.
-{66344}{66425}Get back in there.|What's up?
-{66425}{66529}Young buck, so what's shaking?|You got a broad?
-{66544}{66571}No.
-{66640}{66683}Jumping and stuff.
-{66689}{66743}Hit that bowI right there.|Come here, baby.
-{66796}{66840}Scare, come here.
-{66845}{66877}Oh, man, Iook at that.
-{66888}{66946}You put more food|on the ground than in the bowI.
-{66951}{66981}You costing me money aIready.
-{67009}{67062}How about kids?
-{67067}{67099}Not that I know of.
-{67116}{67157}You doing something?
-{67203}{67275}-You know, a IittIe something.|-Boy, you ain't doing nothing, boy.
-{67304}{67370}You smoke? You smoke? You smoking?
-{67382}{67446}I don't, but, you know, to each his own.
-{67458}{67534}That's cooI, boy. Say no to drugs.|Dare to be different.
-{67582}{67661}So, what was your Iast|pIace of empIoyment, young buck?
-{67666}{67725}-CIeaning.|-CIeaning?
-{67754}{67848}Look to me Iike the Swann CIeaning Service|about to Iose an empIoyee.
-{67875}{67918}You wanna work, right?
-{67938}{68001}But you know|this is grown-man business, don't you?
-{68006}{68099}-I know.|-You sure?
-{68129}{68173}Okay.
-{68190}{68226}We gonna see.
-{68357}{68406}-Hey.|-Yo.
-{68411}{68453}Where you been?
-{68485}{68525}Out.
-{68548}{68625}Out? Come here.
-{68726}{68779}I know you ain't been out there|being stupid.
-{68779}{68832}-I'm teIIing you, Ant, I ain't pIaying.|-What?
-{68879}{68957}''What?'' Don't ''what'' me, man.
-{68962}{69029}What's up with you missing history cIass?|That's what.
-{69038}{69133}Man, you probabIy caught me|on bathroom break or something.
-{69149}{69193}I Iook stupid?
-{69229}{69255}Man, I'm saying, though...
-{69261}{69313}...I don't see|how the Great WaII of China...
-{69319}{69377}...heIps me cIean the fIoor|at VaIue ViIIage.
-{70001}{70027}Man, what, you hustIing?
-{70098}{70151}You shouId know better than that.
-{70214}{70267}You ain't gotta be|a dope boy to have money.
-{70321}{70376}This what cIeaning the fIoors gets you.
-{70426}{70486}I been saving this for three years now.
-{70491}{70528}Ever since the accident.
-{70541}{70602}-Been saving for what?|-For you.
-{70623}{70669}So you can get out of here.
-{70681}{70751}Do something with yourseIf.|Go to schooI.
-{70774}{70819}Get away from dumb-ass UncIe George.
-{70849}{70932}Man, you shouId spend that|on some rims...
-{70937}{70985}...or skates or something.
-{70990}{71039}Don't be wasting that on me.
-{71044}{71120}I guess just because your head big,|that don't make you smart.
-{71187}{71325}Hey, I beIieve in you, even when you|too stupid to beIieve in your damn seIf.
-{71895}{71948}-What's the deaI?|-What's up, man?
-{71953}{72016}-Man, I hear you hoIding now.|-Man, who toId you that?
-{72046}{72101}Why you tripping?|I known you since third grade.
-{72106}{72167}Yeah, but you been out of schooI|for four weeks.
-{72184}{72263}Man, I had mono.|Come on, man, you hoIding or what?
-{72409}{72498}-No.|-AII right, that's what's up.
-{72567}{72601}Narc.
-{72651}{72688}Hey, Ben.
-{72693}{72734}Oh, hey, Mr. Garnett.
-{72739}{72771}Nice to see you again.
-{72787}{72902}My buddies and I, we Iost our fourth.|Afraid of a IittIe weather.
-{72924}{72970}You pIay?
-{73271}{73309}That's my partner.
-{73450}{73510}Oh, damn.
-{73752}{73787}Yeah!
-{73854}{73899}So your famiIy's from the city, Ben?
-{73904}{73950}You're not|a MechanicsviIIe hood product.
-{73950}{74038}No, not me, sir.|You wouIdn't catch me in a pIace Iike that.
-{74050}{74120}That shot on 1 7 was about 200 yards.
-{74126}{74185}HeII of a game, man.|We whipped their asses.
-{74191}{74238}Yes, we did.
-{74243}{74293}Oh, man.
-{74302}{74338}Oh, no, no, sir.
-{74344}{74415}-It was my pIeasure.|-Oh, no, don't be siIIy. You earned it.
-{74420}{74504}And if there's anything I can ever|do for you, you Iet me know.
-{74513}{74587}WeII, actuaIIy, there is something|you couId heIp me out with.
-{74593}{74625}TaIk to me.
-{74625}{74675}I couId use a Ietter of recommendation.
-{74857}{74906}And she had the nerve to step to me.
-{74911}{74968}-She know she Iucky too.|-Forget her.
-{74974}{75072}The question is, what happened|when Rashad gave you a ride, nasty?
-{75078}{75126}-''I'II take her.''|-Nothing happened.
-{75132}{75220}-You Iying.|-It's aII in your griII.
-{75226}{75261}That's him right there. Come on.
-{75266}{75342}Men, grab your Iadies.|Ladies, grab your weaves.
-{75347}{75425}It's about to be on.|Y'aII got three minutes tiII coupIes' skate...
-{75430}{75476}...and four weeks tiII Skate Wars.
-{75476}{75553}But untiI then, hoId this.
-{76914}{76969}Man, I got that good...
-{76974}{77009}...the bad...
-{77014}{77059}...and, man, the ugIy herbaI.
-{77147}{77191}-I gotta smoke something.|-Hey.
-{77196}{77255}Man, I don't understand|a word that you been saying.
-{77260}{77294}What you want, man?
-{77352}{77402}WeII, weII, weII.|So we meet again.
-{77418}{77454}What's up, gorgeous?
-{77467}{77525}You teII me.|You're the one that's shining.
-{77526}{77614}Oh, you know, that's how we do.|But you Iook mighty fine yourseIf.
-{77620}{77669}Oh, thank you.
-{77735}{77827}So do you wanna hook up or what?
-{77908}{77972}Yeah, you know, Iike...
-{77977}{78025}...if it set up aII right.
-{78025}{78076}You know, I be reaI--
-{78082}{78159}-Stepped on that shit.|-Yeah, boy.
-{78164}{78240}This thing's off the chain, tonight, man.
-{78250}{78301}I got shotgun.
-{78326}{78375}Hey, whoa, whoa.
-{78376}{78417}-What are you doing?|-Come on.
-{78423}{78453}Come on, BrookIyn.
-{78458}{78505}-You heard me caII shotgun.|-Come on, man.
-{78511}{78578}AII right, you see up in here, right?|You see it, right?
-{78584}{78647}It's Iike a goddamn|Negro cIown car up in here, man.
-{78653}{78715}Come on, get your ass in the back, man.|That's reaI.
-{78747}{78806}-Damn.|-Come on, I don't Iike him, man.
-{78811}{78876}He never sits in the front.|Now he wanna sit in the front.
-{78881}{78929}-Sit your ass over.|-Shut up.
-{78980}{79017}Hey, man, what you doing?
-{79025}{79119}-Ain't you gonna wait on Ant?|-He say he got a ride.
-{79276}{79327}That tickIes.
-{79354}{79435}That's my beIIy button, baby.
-{79440}{79496}Yeah, yeah. I know.
-{79506}{79543}Good, baby.
-{79548}{79603}You're getting cIoser.
-{79624}{79676}-That's strong, baby.|-What's up? What's up?
-{79752}{79800}-Was it a good idea to keep my money?|-No, no!
-{79828}{79903}Shut up. Come on. Get up.
-{80000}{80027}Come on. Come on.
-{80040}{80123}Boy,|don't you know I graduated with a 3.68?
-{80128}{80204}Lord, I'm parched.|Let me get my drink.
-{80242}{80313}This supposed to be my famiIy,|my bIood cousin.
-{80318}{80379}-Give me the money. Give me the money.|-AII right.
-{80384}{80475}-It was onIy 1 00 doIIars.|-That's it?
-{80527}{80568}Shut up.
-{80597}{80640}Shut up.
-{80651}{80713}You better not teII my mama.
-{80803}{80850}Come on, baby.
-{81015}{81114}That empty space right there on the bar,|that's for this year's trophy.
-{81119}{81169}Don't even worry about that.
-{81174}{81205}A IittIe confident, aren't we?
-{81210}{81278}For good reason. You Iike the poIe?
-{81304}{81350}You wish.
-{81395}{81427}What's this?
-{81439}{81471}Nothing.
-{81622}{81690}These are fIy. You did these?
-{81711}{81818}Yeah, but it was just|me fooIing around, though.
-{81833}{81907}This ain't somebody just fooIing around.
-{81925}{81980}This is good, Rashad.
-{82227}{82271}Is this me?
-{82325}{82409}-My mouth is not that big.|-Hey.
-{82414}{82475}It's artistic expression.
-{82475}{82592}And I'm sensitive about my shit,|so I'd appreciate it....
-{82616}{82655}Thank you.
-{82660}{82697}Cute.
-{82704}{82736}But for reaI, Rashad...
-{82754}{82786}...you got taIent.
-{82815}{82868}-I don't know.|-Like you can't have no taIent.
-{82873}{82942}Be reaI with me. Come on.
-{82947}{83015}Be reaI with me. I'm serious.
-{83029}{83071}AII right.
-{83079}{83167}WeII, when I was younger,|every Sunday...
-{83173}{83232}...my pops used to give me...
-{83247}{83291}...the comics out the of Sunday paper.
-{83329}{83429}I guess I kind of had this dream...
-{83453}{83495}...that one day I couId be the one...
-{83500}{83576}...who drew the comics|in the Sunday paper.
-{83604}{83686}-That's it.|-You stiII can.
-{84005}{84050}What's happening, UncIe G?
-{84078}{84127}How you doing this morning?
-{84297}{84360}Get myseIf some orange juice.|Good morning, brother.
-{84365}{84419}-Good morning, UncIe George.|-What's happening?
-{84447}{84529}What is y'aII so happy about?
-{84552}{84609}How come you here grinning?|You just grinning.
-{84614}{84667}Grinning, Iike you|a new man or something.
-{84677}{84767}No, Rashad's a New New man.|He got some cutty Iast night.
-{84778}{84812}Shut up.
-{84845}{84881}You got some booty|in this house?
-{84906}{84959}I toId you I don't want|no company in my house.
-{84965}{85029}I toId you I don't want|them fast girIs in my house.
-{85030}{85087}No femaIes in this house, that's the ruIe.
-{85101}{85144}There's a one-bowI ruIe in effect.
-{85186}{85236}Okay, UncIe George.
-{85312}{85360}One bowI.
-{85445}{85483}What is with you?
-{85510}{85559}I ain't gonna Iie.
-{85564}{85633}-I got some cutty Iast night.|-Stop Iying.
-{85639}{85684}You ain't got no cutty.
-{85698}{85745}With your IittIe scrawny ass.
-{85750}{85806}If anybody gets some cutty,|it's supposed to be me.
-{85811}{85858}I gets the booty here.|I gets the drawers.
-{85863}{85911}I gets the booty. I gets the trim.
-{85916}{85981}I'm the one supposed to be getting cutty.|I'm a grown man.
-{85986}{86053}I get the cutty, not y'aII.|Understand what I'm saying?
-{86053}{86099}UncIe George. Me.
-{86104}{86184}WeII, I guess we see|who didn't get the cutty Iast night, huh?
-{86198}{86249}Give me my cereaI.
-{86254}{86302}I hope your IittIe weenie faII off.
-{86350}{86377}You say something?
-{86382}{86446}-No, man, Iet me see this.|-See what?
-{86451}{86501}This thing gonna make|her neck turn green.
-{86501}{86565}Man, shut up, man.|It got the 1 4-karat stamp on it.
-{86570}{86652}I don't know how you bought that.|You never bought a girI anything.
-{86652}{86713}-So what, man?|-You need to watch it, Rashad.
-{86718}{86759}This girI got your nose wide open.
-{86764}{86799}Let you teII it.
-{86804}{86886}Yeah, it ain't even Iike that.|She reaI, man.
-{86891}{86942}He bought a cheap-ass neckIace|for New New.
-{86977}{87025}I was about to buy her some shit, man.
-{87025}{87064}-Yeah, right.|-We gotta go, man.
-{87069}{87101}It's my first day, B.
-{87106}{87151}K.K. SouI Food.
-{87156}{87203}I'm with my peopIe now, homey.
-{87203}{87248}Free coIIards. Free coIIard greens.
-{87253}{87283}Why you bIocking, man?
-{87289}{87324}That's what I'm taIking about.
-{87348}{87372}Who this?
-{87406}{87449}-New New.|-Shut up, man.
-{87451}{87519}-What you want?|-I need a ride tomorrow.
-{87524}{87552}I got you.
-{87559}{87624}You got some gas money?|HoId on.
-{87681}{87753}-Who this?|-It's New New.
-{87794}{87867}Y'aII need to find something to do,|because y'aII ain't funny.
-{87887}{87949}-I Iove that.|-HoId on.
-{87981}{88022}-Yo.|-Who's that?
-{88027}{88117}-Teddy.|-Hey, how oId is he anyway, 30?
-{88123}{88205}HoId on. HeIIo?
-{88238}{88279}Hello?
-{88280}{88312}Hello?
-{88349}{88377}My bad, man.
-{88382}{88427}I just wanted to see what was popping.
-{88435}{88483}Hey, y'all going to the pool tomorrow?
-{88488}{88554}I don't know.|I gotta take Esquire up to Sandy Springs.
-{88554}{88579}Teddy? Teddy.
-{88592}{88703}If you don't get off that damn phone|and clean them dishes....
-{88716}{88781}Hey, Ma, I'm 21 years oId, man.
-{88786}{88824}StiII getting on the phone?
-{89028}{89095}I never feeI comfortabIe|on this side of town.
-{89102}{89174}Man, kind of how I feeI|about our neighborhood.
-{89179}{89253}I don't see what this cat making you|drive aII the way up here for.
-{89258}{89303}He invited me to dinner, fooI.
-{89315}{89357}Man, this is John Garnett.
-{89362}{89438}The miIIionaire.|If he want me to cook dinner, I'm with it.
-{89464}{89548}-Hey, man, that's 31 Canterbury.|-Right here?
-{89623}{89659}Damn!
-{89677}{89710}Yeah.
-{89716}{89772}Hey, man, go ahead and push the buzzer.
-{89867}{89898}y es, may I help you?
-{89977}{90067}It's Benjamin-- It's Benjamin Gordon|for John Garnett.
-{90073}{90142}y es, Benjamin. John's expecting you.|Come on in.
-{90489}{90548}Ben. Right on time.
-{90553}{90592}-AIways, sir.|-Come on in.
-{90892}{90969}I taIked to some friends|at the FaIcon Society.
-{91028}{91073}This shouId heIp.
-{91132}{91177}Thank you.
-{91191}{91254}One thing you shouId Iearn|earIy in this Iife:
-{91259}{91323}It's not aIways what you know.
-{91328}{91386}Sometimes it's who you know.
-{91400}{91439}Yes, sir.
-{91444}{91479}You'II be fine.
-{91480}{91528}-You hungry?|-Oh, I couId eat.
-{91529}{91582}WeII, dinner's aImost ready.
-{91724}{91807}I'd Iike you to meet my daughter.|She's going to Brinton next year too.
-{91812}{91888}Erin, honey?|Come down to dinner.
-{91903}{91990}-You hear me?|-Yes. I'm coming.
-{91995}{92041}Have sons.
-{92063}{92145}I just wanna say again,|I appreciate this a Iot.
-{92150}{92187}Oh, weII, just do weII.
-{92192}{92235}You'II be fine.
-{92240}{92297}-Here she is.|-That shirt is just so cute.
-{92303}{92351}-Dad, I aIready ate.|-That's aII right.
-{92357}{92404}Come here.
-{92423}{92498}Erin, I'd Iike you to meet Ben.
-{92603}{92687}-This is her friend HoIIy. She Iives next door.|-Hi.
-{92692}{92751}I gotta go. Bye.
-{92756}{92793}Bye.
-{92819}{92851}Strange chick.
-{92856}{92926}Erin, nice to meet you.
-{92931}{93020}It's aIways a pIeasure|meeting new peopIe.
-{93048}{93087}It's nice to meet you too.
-{93497}{93553}You're not teIIing Rashad.
-{93582}{93629}Wow, you even taIk different.
-{93638}{93674}You're not teIIing him.
-{93679}{93747}Oh, I'm teIIing him. PIease beIieve that.
-{93752}{93804}You're not saying anything to him...
-{93804}{93859}...and I'm not teIIing my dad about you.
-{93868}{93922}If I teII him where you're from,|you're done.
-{93927}{94001}-Is that a threat?|-CaII it what you want.
-{94010}{94062}I gotta teII him in my own way.
-{94115}{94236}I knew it. Because Rashad was|teIIing me how ''New New is this'' ...
-{94241}{94286}...and ''New New's so reaI.''
-{94291}{94340}-I am reaI.|-You ain't shit.
-{94345}{94395}Excuse you?
-{94418}{94468}How did you even find Cascade?
-{94473}{94569}What, you go buy you a 99-cent ghetto|handbook to show you how to keep it reaI?
-{94762}{94813}The saIad fork goes on the other side.
-{94853}{94889}I'm from the Trey.
-{94944}{95001}You from the Trey? That's funny.
-{95006}{95090}-WeII, my dad is.|-I never read that.
-{95095}{95157}-He never taIks about it.|-I don't bIame him.
-{95177}{95232}Are you serious?
-{95240}{95275}He's a seIIout.
-{95336}{95381}You reaIIy wanna be ghetto.
-{95413}{95497}BeIieve me, you can have|the piss in the haIIway.
-{95503}{95562}I'II take the Picasso.
-{95588}{95625}You got a Picasso in your house!
-{95641}{95695}You need to Iower your voice. Shut up.
-{95701}{95776}I bet when you go to Brinton,|you won't be aII up in here...
-{95777}{95817}...doing aII that New New stuff.
-{95823}{95865}I'm not going to Brinton.
-{95870}{95953}-I'm going to SpeIman.|-Oh, you going to SpeIman.
-{95996}{96058}WeII, your daddy seems a IittIe confused.
-{96257}{96289}Yo, what happened?
-{96294}{96350}She took care of me in the parking Iot.
-{96350}{96421}-No.|-Yeah, that right.
-{96426}{96453}Here come your boy.
-{96495}{96532}Hey, yo, Ant.
-{96538}{96624}What up, big time?|Hey, man, I heard you got that fire.
-{96629}{96722}How come I'm the onIy one that ain't|getting bIessed? Hook me up, man.
-{96801}{96846}Fine, nigga, what you need?
-{97176}{97237}-Whatever, man. Whatever, nigga.|-Right. ExactIy.
-{97242}{97268}Hey, where Esquire at?
-{97273}{97354}I don't know, man. I ain't seen him|since I dropped him off Saturday.
-{97355}{97406}-I ain't seen him either.|-Rashad. Rashad.
-{97412}{97454}Rashad, Ant just got arrested.
-{97455}{97504}-Come on, they got your brother.|-Get up!
-{97510}{97592}-What the heII going on?|-Let's go, man. Let's go, man.
-{97668}{97731}-Anton Swann.|-Right here. Right here.
-{97736}{97776}-Swann.|-That be me, sir.
-{97781}{97875}-Swann. Front and center.|-Oh, man.
-{97939}{97995}I got a gun, man.
-{98072}{98127}Come on, boss. Let me be out.
-{98464}{98496}Thank you, man.
-{98578}{98641}It's aII part of the game, young buck.
-{98646}{98727}Now aII you got to do is|put a IittIe overtime in, you know.
-{98727}{98775}We get the books square,|you be good.
-{98890}{98955}You have to get in the house|before your brother get hurt.
-{98960}{98986}Where he coming from?
-{99076}{99151}I think he's coming right about now.
-{99157}{99214}What you doing with my|brother in your car?
-{99219}{99272}You got him trapping?|That's what's happening?
-{99289}{99328}-Get out.|-Hey, hoId up, hoId up.
-{99328}{99394}What you reaching for?|You ain't fitting to do nothing.
-{99399}{99447}With your bitch ass.|Bust a move, then.
-{99452}{99526}-Thought so. Anton, get your ass out the car.|-You don't know--
-{99526}{99558}Watch your rabid ass, man.
-{99563}{99603}-Get in this house, man.|-Get off me.
-{99608}{99690}Both of y'aII get in the house|before I take off my beIt.
-{99695}{99772}Whatever, partner. You know me.|Come get some. Get in the house.
-{99777}{99849}Nobody toId y'aII Iight-skinned dudes|ain't in styIe no more?
-{99850}{99925}-Get off!|-You out your rabid-ass mind, homeboy.
-{99977}{100004}Rookies.
-{100007}{100050}Man, get in your room, man.
-{100075}{100120}Man, I ain't pIaying with you, bro.
-{100125}{100161}Man, you ain't nobody's dad!
-{100166}{100238}You heard what I said.|What you gonna do?
-{100272}{100313}I'm gonna Ieave.
-{100622}{100668}-You think you're a dope boy?|-Hey, hey!
-{100674}{100736}-You tough, huh?|-Get up. Get off of him.
-{100742}{100780}You aII right?
-{100804}{100837}What the heII is going on here?
-{100842}{100898}OId dumb-ass here|got arrested for seIIing weed.
-{101051}{101098}You better get in your room,|Iike he said.
-{101102}{101173}I ain't gonna have y'aII tearing up|my house.
-{101279}{101333}Come on, man. Let me taIk to you.
-{101476}{101550}Look here. Now, I know|you might be a IittIe upset...
-{101555}{101648}...but Iet's be grown foIks|about this thing, aII right?
-{101660}{101753}Now, you may not wanna hear it,|but that boy gonna do what he wanna do.
-{101779}{101842}A few extra doIIars|in the house ain't gonna hurt.
-{101902}{101954}I can't beIieve you, man.
-{101959}{102014}Look, hey, hey, hey.
-{102019}{102082}I got a mortgage to pay every month.
-{102087}{102154}-You know the water heater done cracked.|-What that mean?
-{102159}{102241}You just gonna Iet your nephew|ruin his Iife over a few doIIars?
-{102246}{102295}What kind of man is you?
-{102327}{102425}I'm the same kind of man|took his sister's two kids in...
-{102425}{102463}...so they couId stay together.
-{102468}{102527}Take us--? Hey, we took you in, man.
-{102533}{102601}-What?|-Hey, be cIear, this is my daddy's house.
-{102601}{102650}I been running things here|since I was 1 5.
-{102655}{102728}-You just been getting over.|-Getting over?
-{102783}{102822}Boy.
-{102831}{102879}You best....
-{102921}{102955}Yeah, right.
-{103063}{103119}I ain't never wanted none of this.
-{103163}{103238}Pushing a damn broom the rest of my Iife.|I'm 41 years oId.
-{103244}{103284}I'm a grown-ass man.
-{103302}{103377}You see a decent car sitting|out in that driveway?
-{103382}{103426}You see women roIIing through here?
-{103431}{103484}-That's your fauIt, man.|-HeII, no.
-{103489}{103654}Because don't no woman want no man|with two dumb-ass kids and no money.
-{103676}{103726}A janitor.
-{103726}{103794}Shit, I'm a janitor. A janitor.
-{103871}{103902}Boy.
-{103907}{104000}Yeah, I shouId've just Iet|y'aII's asses go to foster care.
-{104010}{104075}Then I wouIdn't even be in this mess.
-{104154}{104201}What?
-{104404}{104456}-Hello?|-Hey.
-{104470}{104521}Can you meet me somewhere?
-{104857}{104921}-Hi.|-Hey.
-{105225}{105268}Why are we here on oId peopIe's night?
-{105515}{105547}They from CoIIege Park.
-{105579}{105624}How you know that?
-{105629}{105694}Every side of town got|their own way of skating.
-{105702}{105753}They got, Iike, a IittIe bounce to them.
-{105825}{105927}That's Chicago. And that's Detroit|aII day Iong, right there.
-{106100}{106135}You taIk to Esquire today?
-{106210}{106250}Ain't seen him aII day.
-{106250}{106286}Why?
-{106304}{106367}Nothing, I was just....
-{106443}{106475}Rashad?
-{106530}{106583}I kind of have something|I need to teII you.
-{106629}{106669}If it's bad...
-{106701}{106755}...I don't even wanna hear it.
-{106782}{106835}Got enough shitty news for one day.
-{106848}{106876}What's wrong?
-{106905}{106938}Everything.
-{106958}{107021}My Iife's a mess right now.
-{107060}{107101}Just tired of being Iied to.
-{107154}{107227}I keep trying to think of|what my pops wouId do.
-{107288}{107325}Can't come up with nothing.
-{107364}{107401}Hey...
-{107420}{107464}...it's gonna be okay.
-{107526}{107575}Hope you right, shorty.
-{107694}{107732}Hey.
-{107744}{107797}I'm starting to think this is our song.
-{107840}{107872}Oh, yeah?
-{107890}{107945}Too bad we didn't bring our skates,|though, huh?
-{108100}{108146}Hey, babies, how y'aII doing?
-{108151}{108197}AII right, now. Be carefuI, babies.
-{108231}{108309}Oh, man, is that the twins' mama?
-{108319}{108406}-Man.|-Ms. GayIe is a hot mess.
-{108441}{108529}I was gonna wait tiII Sunday,|but I got something for you.
-{108529}{108570}What?
-{108697}{108748}Thank you.
-{108753}{108801}Watch yourseIf.
-{108843}{108879}It's beautifuI.
-{108913}{108998}-I'm gIad you Iike it.|-I Iove it.
-{110714}{110763}It's time we had a brother-to-brother talk.
-{110769}{110885}Or to put it delicately,|a talk about the birds and the bees.
-{110890}{110971}At 1 3, girls are just like comic books...
-{110976}{111053}...loaded with adventure,|easy to understand...
-{111053}{111111}...and don't cost more|than a quarter to take out.
-{111116}{111197}In this house, we never|discussed our problems.
-{111202}{111308}We just watched Good Times.|It seemed like the answer to everything.
-{111313}{111469}When you get a little older, I'll teach you|how to handle yourself in the NFL of love.
-{111474}{111555}My pops always told me|to take care of my little brother.
-{111561}{111609}I hope I got through to him.
-{112103}{112180}Here we go. It's gonna be|a Iong night for some of y'aII.
-{112185}{112302}We got the Warriors, the Preps|and the Ones in the house tonight, baby.
-{112326}{112380}Look, you see them boys|practicing their moves.
-{112386}{112451}Tonight we break out the secret weapon.|Y'aII remember how?
-{112457}{112531}-I'm gonna break it down. For reaI.|-I remember, I got it.
-{112536}{112602}No, no, no, Iike this here:
-{112607}{112679}So...and...and...?
-{112679}{112745}-You got a crick in your neck?|-HeII, no. Come on, man.
-{112750}{112810}-Watch what I'm about to do. HoId up, man.|-Watch.
-{112815}{112856}-Before you mess us up again.|-Watch.
-{112873}{112933}-What's up, y'aII?|-Hey, what's happening?
-{112969}{113007}-Oh, you wanna hug me.|-We gotta go.
-{113012}{113050}-We gotta go. Ma's coming.|-See you.
-{113055}{113081}-Bye.|-Bye.
-{113134}{113178}-Hey, man.|-Hey.
-{113179}{113254}I just bagged the shorty|that work at the snack bar.
-{113254}{113300}Free hot wings. Let's go, baby. Come on!
-{113305}{113399}-WeII, heII, yeah. Come on.|-What? We ain't gotta chase no chicken.
-{113601}{113662}PrisciIIa, it's Janice.
-{113667}{113776}I have some disturbing news|to share with you.
-{113781}{113836}Shut up!
-{114197}{114245}What they caII this, Star?
-{114250}{114283}Damn, who is you?
-{114318}{114354}He a retired rapper or something.
-{114403}{114430}Attitude.
-{114435}{114503}He do got a attitude,|but his car is cute, though.
-{114508}{114554}-I Iike that. Let's touch it.|-Okay.
-{114554}{114588}Let's go.
-{114747}{114802}-Bambi's Iike a ghetto taIe.|-How?
-{114807}{114876}Moms gets shot in the head.|She ain't doing nothing.
-{114882}{114975}Pops is never there.|House gets burned down, insurance reasons.
-{114976}{115045}And out of nowhere, she pregnant.
-{115198}{115252}Father's never there,|you know what I mean?
-{115252}{115337}You feeI what I'm saying? House|burned down, he meets a girI, then--
-{115377}{115454}-Dad, how did you--?|-Let's go. Erin, get up, now.
-{115560}{115630}That's your fauIt, man.|How you gonna Iet him take your girI?
-{115635}{115704}See, if she were with me--|Oh, you gonna shush me now, huh?
-{115710}{115752}Why you ain't shushing the oId man?
-{115753}{115834}See, now you wanna get buck, man.|He gone, now. He gone, fooI.
-{115847}{115882}Get in.
-{115914}{115973}-Yo, what's up?|-Where you going?
-{115978}{116033}-It's aII right, it's my dad.|-It's your daddy?
-{116038}{116072}Is he stiII with your mama?
-{117094}{117154}Keep it up, hear?|Keep it up. Lie to me again.
-{117159}{117204}Lie to me again.
-{117255}{117344}What'd you say?|Get back down here!
-{117350}{117402}How couId you humiIiate me Iike that?
-{117408}{117504}You were supposed to be over at HoIIy's|house getting some rest before practice.
-{117504}{117596}Baby, you been Iying...
-{117601}{117661}...about where you been going|and who you been with.
-{117666}{117704}What if something happened to you?
-{117709}{117766}I'm sorry, Mom.
-{117771}{117845}Why can't I pick my friends|and choose things in Iife for myseIf?
-{117850}{117929}Because you're not making|very good choices, baby.
-{117934}{118036}I mean, you got a Iot of|good opportunities to choose from.
-{118069}{118129}Like what? Going to Brinton?
-{118129}{118161}Oh, baby.
-{118167}{118242}SpeIman is a great schooI,|but your father and I just--
-{118248}{118282}-But what?|-WeII, we're saying...
-{118287}{118346}...Iook at some other choices,|some other options.
-{118351}{118400}-What?|-Keep taIking to Mother Iike that...
-{118400}{118472}...and your Iips wiII beat you|to the hospitaI.
-{118526}{118558}You know how Iucky you are?
-{118576}{118659}Yes, Daddy.|I do know that I am very fortunate.
-{118664}{118722}Thank you for being a great parent.
-{118727}{118823}But I knew if I were to ask to go over there,|you wouId've had a heart attack!
-{118828}{118887}You damn right! You know why?|Because I was that guy.
-{118892}{118925}I know what he wanted from you.
-{118930}{118985}And it wasn't them big-ass earrings.
-{118990}{119052}Why do you aIways think somebody|aIways wants something?
-{119058}{119112}I work too hard.|I don't wanna see you go down--
-{119118}{119152}I don't have to expIain myseIf.
-{119158}{119228}Why? If you don't have to expIain,|I don't have to expIain.
-{119233}{119279}Because I said so!
-{119317}{119377}You better go to bed now.
-{119404}{119447}Okay, wait a minute, wait a minute.
-{119452}{119491}Let's just caIm down...
-{119496}{119577}...and coIIect ourseIves,|and taIk about this in the morning.
-{119577}{119627}There's nothing more to taIk about.
-{119627}{119663}End of conversation.
-{120008}{120061}Yo, man, you aII right?
-{120116}{120177}Just checking on you, man.
-{120206}{120242}You knew, huh?
-{120304}{120351}AII this time.
-{120368}{120426}That was the same car|from the Garnett's house.
-{120571}{120607}Man....
-{120612}{120666}That's fouI, man.
-{120743}{120793}-Look, man, I'm sorry, I--|-Hey, hey, hey.
-{120799}{120833}Man, get out.
-{120838}{120883}-But just hear me out, man.|-Bounce.
-{120892}{120973}I don't wanna see you, taIk to you,|kick it with you, skate with you.
-{120978}{121008}Nothing, man.
-{121110}{121178}-Come on.|-You stiII here?
-{121216}{121256}I'm gone.
-{121278}{121316}What you gonna do with it, man?
-{121321}{121362}-Hey-- What up, man?|-Yeah.
-{121367}{121442}And the rest of y'aII niggas, man,|get the fuck off my porch.
-{121447}{121503}-What we do?|-Man, you heard me, homes.
-{121504}{121550}Hey, you ain't gotta teII me twice.
-{121551}{121628}-Yeah, weII, bust a move then, partner.|-Was it me?
-{121634}{121690}Man, I think it was your breath.|It usuaIIy is.
-{121695}{121775}Whatever, man. You aIways eating|those sunfIowers, you country.
-{121775}{121823}-Hey, hey.|-I'm teII-- It's the A-Town.
-{121828}{121868}HoId it, now.
-{123653}{123699}-John.|-Yeah?
-{123877}{123915}Not Iike pIaying goIf, is it, boy?
-{123986}{124040}Look, sir, this is fun...
-{124091}{124182}-...but I came to taIk to you.|-What about?
-{124393}{124449}I came to give you this back.
-{124479}{124528}Did I make an error somewhere?
-{124545}{124648}No, I made the mistake.
-{124674}{124726}Not being honest with you before.
-{124737}{124782}What about?
-{124802}{124900}I Iive five bIocks away from Cascade's|on the south side.
-{124942}{125050}-You said you went to Mount Paran.|-I do.
-{125065}{125150}I use the cIub address|to go to schooI in a better district.
-{125179}{125227}So you're just a Iiar?
-{125279}{125355}My parents can't afford|to send me to private schooI, sir.
-{125452}{125527}So you knew Erin before you met me?
-{125552}{125603}Yes, I knew Erin.
-{125616}{125703}-But I didn't know you was her father.|-You expect me to beIieve that?
-{125709}{125819}-I got your game, Ben.|-My game?
-{125850}{125903}I don't pIay games, Mr. Garnett.
-{125908}{125978}That's one thing I do not do|is pIay games.
-{125983}{126052}I'm too busy trying to make it out.
-{126057}{126137}I figured you knew that,|coming up on the south side.
-{126146}{126253}As far as the Ietter, I just thought the Ietter|wouId give me a better shot, that's aII.
-{126294}{126399}We'II never know now, wiII we?|You can Iet yourseIf out.
-{126748}{126816}You know, I read in this articIe...
-{126821}{126929}...where you said being a CEO|didn't make you a proud man...
-{126938}{126994}...being a proud man made you a CEO.
-{127023}{127078}But a proud man doesn't hide|where he comes from.
-{127083}{127123}Be carefuI.
-{127128}{127211}See, with or without that Ietter,|I'm gonna make it.
-{127216}{127300}And I won't forget MechanicsviIIe, Georgia,|made me who I am.
-{127309}{127411}With aII due respect, sir,|it made you who you are.
-{127426}{127476}Might heIp your daughter|to know that too.
-{129816}{129858}Come on.
-{130375}{130405}HoIIer at your boy, man.
-{130427}{130468}I made them come...
-{130487}{130550}...so you wouIdn't kick my ass.
-{130627}{130682}Man, come on, dog. Damn.
-{130702}{130845}Man, we friends, man.|We boys. Hear him out.
-{130951}{130998}I just wanted to say sorry.
-{131029}{131143}And if it mean anything to you,|I gave the Ietter back.
-{131148}{131175}What you do that for?
-{131227}{131327}-Hope you ain't think it was for me.|-It was for me.
-{131378}{131416}I didn't want it Iike that.
-{131421}{131476}Hey, Iook, man.|We about to go to Cascade.
-{131476}{131514}Now, tonight is our night.
-{131520}{131559}You aIready know what it is,|homeboy.
-{131565}{131642}I mean, we're Iike the Yankees, baby.|We're Iike--
-{131648}{131722}We're Iike the BuIIs in the '90s.|We're Iike the Lakers.
-{131752}{131839}No, not the Lakers.|But we're a dynasty.
-{131844}{131953}When we're out on that rink,|nobody can touch us, man.
-{131953}{132024}Nobody. Let's go.
-{132123}{132234}No. I'm gonna Iet y'aII have it.|I don't skate no more.
-{132239}{132307}Oh, man, you acting Iike a femaIe, man.
-{132312}{132397}-HeII, man.|-Yeah, whatever.
-{132635}{132716}Ladies and gentIemen, this is the moment|you've aII been waiting for.
-{132721}{132782}Skate Wars is here.
-{133203}{133260}I just got word Rashad Swann|ain't here tonight...
-{133266}{133321}...so the Ones are not in competition.
-{133327}{133392}Damn. This sucks, man.
-{133426}{133536}-It reaIIy sucks.|-Hey, man, my arm is skinnier.
-{133541}{133617}No, no, no. Your arm ain't skinnier,|your face got bigger.
-{133644}{133753}-Hate to put it to you Iike that, man, hey.|-You Iaughing, and we're gonna Iose.
-{133943}{134079}I ain't been down here in a whiIe.|Love what you've done with the pIace.
-{134203}{134307}Yeah, Iooks Iike you reaIIy Iet|your IittIe partners piss you off.
-{134391}{134429}I don't wanna taIk about it.
-{134429}{134546}Boy, I just came to teII you|there's some Iemonade upstairs.
-{134558}{134631}Best batch I ever made too.
-{134727}{134763}Now, that's good.
-{134856}{134926}Now, Iook, I ain't trying|to get in your business...
-{134954}{135039}...but, I mean, I do know|a IittIe something about being pissed.
-{135076}{135160}I mean, it's aII--|You know, it's aII just feeIings, man.
-{135186}{135251}From femaIes to friends to funeraIs...
-{135256}{135351}...it's aII about the feeIings.
-{135404}{135479}I just want you to recognize|the difference...
-{135500}{135606}...between what you feeI|and what's reaI.
-{135794}{135905}That way you don't Iook back on Iife|with a bunch of regret.
-{136372}{136423}-What's happening?|-This Ant?
-{136428}{136513}-No, this ain't Ant. Who is this?|-Is this little big brother?
-{136519}{136573}What the heII is you caIIing my house for,|man?
-{136579}{136636}The streetlight's on|and our boy ain't come home yet.
-{136641}{136694}I'm gonna have to get out here|and go find him.
-{136700}{136777}HeII is you taIking about?|My brother ain't your business no more.
-{136777}{136878}Like hell. y eah, and he ain't|into me for two G's either.
-{136878}{136971}And I ain't about to put some hot shit|in his chest, you know what I'm saying?
-{136976}{137033}You better stay away|from my IittIe brother, partner.
-{137038}{137091}Boy, stop.
-{137596}{137640}What's up, Ant?
-{137812}{137881}I ain't heard from you in a whiIe, boy.|Boy, where you been?
-{137907}{137973}No, no, I-- I'm cooI.
-{137978}{138062}I mean, I'm cooI.|It's just taking me a minute, that's aII.
-{138067}{138157}But I'm gonna straighten everything out|as soon as I get that money.
-{138377}{138427}Cognac.
-{138597}{138633}Remember what I toId you, right?
-{138674}{138750}-Yeah.|-What'd I say?
-{138777}{138874}-It's grown-man business.|-It's grown-man business.
-{138971}{139017}Got your ass.
-{139053}{139079}Scared as heII, man.
-{139389}{139483}-Goddamn, CarI Lewis, where you going?|-Come on, man, pIease.
-{139488}{139576}PIease what?|What? What? PIease what?
-{139613}{139679}Boy, you're shaking Iike a stripper.|Tighten up.
-{139684}{139733}I'm so disappointed in you this evening.
-{139848}{139894}Look at me when I'm taIking to you, boy.
-{139933}{139975}I know that ain't who I think it is.
-{140010}{140074}-LittIe big brother.|-Get in the car, Ant.
-{140075}{140126}I toId you to Ieave my brother aIone.
-{140126}{140191}-Y'aII so funny.|-You got a probIem, you deaI with me.
-{140196}{140253}-Nigga, who the heII is you?|-He owe you some money?
-{140258}{140316}-Here you go.|-Oh, shit.
-{140321}{140402}-Yeah, I'm tired--|-That was so disrespectfuI.
-{140402}{140464}You done hit me in my mouth|with some goddamn money.
-{140569}{140605}Yeah.
-{140622}{140665}You don't get it, do you?
-{140690}{140738}I'm his daddy now.
-{140901}{140928}Get out the way.
-{141218}{141262}Pleasure turns to the pain
-{141267}{141354}Of the lessons learned from the strain|Of the questions burned in my brain
-{141359}{141410}About whether love is humane|In its touch.
-{141452}{141483}These thoughts are like salmon
-{141488}{141543}Swimming upstream|In the tears of your deceit
-{141549}{141611}Fighting the current hurt|That kills more than is created
-{141617}{141675}By the chaos of our intertwined emotions
-{141680}{141737}Chaotic because the anchor|Of Eros' arrow
-{141742}{141825}Has been plucked from the vessel|Of my undying infatuation
-{141825}{141908}Separation not as simple|As the distance between us
-{141913}{141968}My mind no longer possessed|By the demons
-{141973}{142051}That had been the overseers|Of my enslavement to your lies
-{142056}{142107}The seeds of these lies|Rooted so deeply
-{142112}{142199}They have cracked the foundation|Of what we once shared
-{142204}{142281}Allowing the faith in us I had sealed inside|To gush out like a river
-{142300}{142364}Ripping the image of our future together|From my thoughts
-{142370}{142440}As violently and as brutally|As if it were a child being taken
-{142445}{142490}From his mother's arms
-{142495}{142550}I'm left surrounded in darkness
-{142550}{142607}But I refuse to be swallowed by it
-{142612}{142745}My loneliness like the night air.|Invisible to the eye, obvious to the touch
-{142750}{142802}In its cold uncomfortableness
-{142807}{142857}y et if I could do it all over again
-{142862}{142924}I'd do it in the same skin I'm in
-{142929}{142985}To lay down and let love die
-{142990}{143048}Just stay down and let love lie
-{143053}{143119}No, no, not I
-{143124}{143181}I'll stay 'round and let love fly
-{143186}{143258}Even though I have seen|Its darkest form, deceit
-{143263}{143354}Nothing else could taste this warm|Or feel this sweet
-{143945}{143989}So you gonna stay mad at me forever?
-{144125}{144191}It ain't even about that, bro.
-{144282}{144382}I mean, Iike, when you was a baby,|I couIdn't waIk for you.
-{144414}{144479}And I can't waIk for you now.
-{144521}{144567}I'm sorry.
-{144577}{144678}-Rashad, I'm not gonna be messing up.|-Hey, Ant.
-{144704}{144746}I Iove you, regardIess.
-{144759}{144844}I can teach you everything|under the sun...
-{144849}{144917}...but I can't be a man for you.
-{144955}{145043}You gotta figure out|the best way to do that yourseIf.
-{145327}{145383}We didn't win Skate Wars that night.
-{145388}{145432}But I got something better.
-{145437}{145570}I got my friends, I got my girl,|and I got my little brother back.
-{145627}{145700}Teddy finally graduated from high school.
-{145701}{145789}He even opened up his own spot.|He call it ''Gangsta Grills. ''
-{145795}{145844}But see, that's what I wanted, though.
-{145849}{145932}Okay, weII, hey, if that what you want,|I got my money, we straight.
-{145938}{145978}-That's right.|-There it is.
-{146106}{146200}Brooklyn finally found a job|he could keep.
-{146254}{146304}CongratuIations.
-{146568}{146627}Esquire got a mysterious|letter of recommendation...
-{146632}{146685}...for the Falcon Scholarship.
-{146691}{146762}Guess Garnett ain't so bad after all.
-{146767}{146848}My boy's in the Ivy League.
-{147019}{147076}Hey, get back up and try it again,|baby girIs.
-{147076}{147150}Skateman says get back up, try it again.
-{147159}{147214}-Get out of here.|-We know how to skate, okay?
-{147219}{147268}-We getting up.|-This is so embarrassing.
-{147273}{147348}Twins, well, they still at Cascade|every Sunday night.
-{147354}{147403}Ghetto fabulous.
-{147445}{147504}Uncle George quit dealing|with them dating services...
-{147509}{147573}...and went to church|and got him a real woman.
-{147579}{147611}She's nice.
-{147706}{147806}New New finally convinced her parents|that Spelman was right for her.
-{147811}{147845}I'm glad she's close.
-{148184}{148252}My little brother let go of all his|dope-boy ambitions...
-{148253}{148304}...and finally got it together.
-{148310}{148356}I'm proud of him.
-{148507}{148540}As for me...
-{148545}{148615}...I never realized I was dreaming|all along...
-{148620}{148654}...because I was always drawing.
-{148880}{148992}My pop said I'd put these skates down|when I found something more important.
-{148997}{149050}I think he was right.
-{149165}{149203}This is the beginning.
-{149265}{149365}
+My pops used to always say,|''Dreaming is the luxury of children ''...
+...and that I should enjoy it.
+He was right.
+Here it is, the last year of high school|for me and my friends...
+...and this is all I can|ever really see myself doing.
+When you got responsibilities,|you ain't got time to dream.
+I guess it's the difference between|being a boy and a man.
+And down South...
+...you grow up quick.
+Especially in the A TL.
+This here is my 'hood.
+Mechanicsville.
+752 Mandeville Lane.
+Middle of the city, center of our universe.
+Wake up, A TL, it's 6:23.|It's your boy, Frank Ski in the morning.
+And we've got another scorcher planned|for you here in the Dirty South.
+I'm talking Dirty South hot|A TL weather today.
+I tell you what, another heat index,|another record-breaking day.
+''What is your ethnic background?''
+I am a brother.
+Uncle George,|my mama's brother.
+He supposed to be raising us...
+...but responsibility was not really|his strong point.
+''Bisex-- HeterosexuaI.''
+Don't get it twisted, baby.
+Hey, Ant. You want a ride, homeboy,|you better act Iike it.
+-That's my little brother, Ant.|-AII right.
+I call him ''Jellybean. ''
+Hardheaded on the outside,|soft on the inside.
+And that's me, Rashad.
+Heir to the family business,|Swann Cleaning Service...
+...and man of the house.
+''How wouId you describe your physique?
+Trim, muscuIar, pIeasantIy pIump.''
+-What?|-Hey, Iet us get a box of cereaI, man.
+We ran out.
+Man, they aIways eating.
+MuscuIar.
+I know how much is in there too.
+One bowI each.
+Yeah.
+My boy, Esquire.
+He's basically my best friend.|He got accepted to an Ivy League school.
+There goes four.
+Check out this brother, just grinning,|jogging through campus with a white girI.
+ProbabIy running from that crowd of|white boys on the opposite page.
+Either way you Iook at it, man, you Iucky.
+Yeah, man. It ain't paid for yet.
+I'm gonna need grants, Ioans,|a job and a dream to pay this tuition off.
+''Ex-bIackIy.''
+We had to drive across town|because E went to Mount Paran.
+My boy book smart...
+...maybe even borderline brilliant|to these kids...
+...but he's just plain old Esquire to us.
+Why you aIways be driving in our car?
+-Get out the car.|-Look, boy.
+With your stupid IittIe outfit, man.
+Rashad, I'm gonna hurt him.
+Man, get out of here.
+-Peace.|-You mean ''War,'' brother.
+War!
+-How you doing, Mr. Sapp?|-Hey, Ben.
+-Have a seat.|-Right.
+I got the information you wanted|regarding the FaIcon Society.
+Let's have a Iook.
+GPA is over 4.0.
+Test scores are high.
+Essay's strong.
+AII you need is a good Ietter|of recommendation.
+You're in great shape.
+I was wondering if|you couId write that for me.
+I'm fIattered, Ben, I am,|but I'm not reaIIy the right person.
+I'm sure your parents know a judge,|a businessman?
+I don't think my parents|know anybody Iike that, sir.
+Sometimes it's not what you know...
+...but who you know.
+Our school was a little different.
+See, we in the Trey, Mechanicsville High.
+Alma mater to some of|the greatest players in the city.
+That's my boy Teddy right there.
+He A TL for real.
+Never been outside of 285.
+Hey, what you doing here, man?|You must have Iost your job.
+Had to get my breakfast on.|Brother gotta eat.
+Get it how you Iive, pimp.
+-Brooklyn, from New y ork.|-No means no, man.
+And reminds us of it every chance he get.
+-Shining, ain't you?|-Can't you teII, man?
+Guess you gonna fake it|tiII you make it, huh?
+Man, these gonna be getting me the girIs.
+-Not without no game, it ain't.|-What up, Tondie?
+-Can we taIk right quick?|-Just did, bye.
+Working aIready.
+Seniors, it's almost graduation.
+If you haven't done it yet,|get your cap and gowns ordered.
+We were five weeks from graduation.|I had all my credits.
+And all I had to do was cruise for|the next month and I'd be straight.
+Please give them|a Tiger round of applause.
+And one more thing.
+We have a lot of sports|going on this week.
+And we want to thank the people...
+-...who were involved this weekend.|-Everybody in a seat.
+Year's aImost over. Thank you, Jesus.
+Y'aII sIackers better figure out|what to do for the summer.
+My little brother wasn't exactly|a troublemaker.
+-That ain't right.|-But he ran his mouth too much.
+-Why ain't it?|-And he was definitely hardheaded.
+I know what I'II be doing this summer.
+I'm gonna be getting paid.
+Ms. Jackson...
+...can you pIease cut on the a.c.?
+Man, it feeI Iike a sIave ship in here.
+Air conditioning is for honors cIasses.
+Kids who wanna make something|out of themseIves.
+Was you in honors cIasses?
+Because you ain't got no a.c. either.
+See what I'm saying?
+He stayed in trouble.
+But I couldn't wait on him|to get out of detention.
+We had to scoop Teddy.
+How your sister doing, man?
+I been caIIing her,|and she ain't been caIIing me back.
+She trying to pIay me?|She seeing somebody eIse?
+Come on, man, keep it reaI with me.
+What's happening, Teddy?
+-What up, man? You pIaying?|-I got next.
+Party on the Ieft, man.|You know how it is.
+Now open wide, wide, wide.
+Bite down on that. CooI, cooI.
+Hey, man. Ready?
+Oh, heII, yeah. I'm gone.
+Hey, man, peace.
+After we pick up Teddy, we shoot on|over to the Shady Grove Country Club.
+That's where Esquire works.
+We expected him to be late...
+...because he was always out there on|the golf course, hustling the rich kids.
+Yes, yes, and yes.
+Oh, my God, I Iove poetry.
+I write in my diary every day.
+Oh, reaIIy?|Let me kick something for you.
+She sits there|Pain filling the back of her eyes
+Forcing them to leak
+So aII I need to do is|I need to get your digits.
+Your daddy ain't around, is he?
+Even though her tolerance|Has reached its peak
+Now, Iook here, when you caII me,|don't even trip, okay?
+If a Iady answer the phone,|that's my mama.
+She staying with me|because she going through some things.
+She's so soft
+She could have been|The spokesperson for cotton
+You know, that's just IittIe things|that I Iike do to...
+...because I Iike to throw stuff in the air.
+These guys don't know anything|about poetry.
+They're not reaIIy cuItured.
+-Hey, what's up, Esquire, man?|-Man....
+-Hey, man.|-WiII you aII come on? Excuse me.
+-Can't you see I'm over here--|-You reciting poetry and shit.
+-Come on, man.|-Damn.
+-Can we go pIease? PIease?|-Hey, man, scoot over, man. PIease?
+You skinny enough. Scoot over, man!
+You aIways sit in the front.|Sit in the back.
+What the heII wrong with you,|Tiger Hood?
+BIack NickIaus?
+I think I miss home or whatever,|but, yo, it's so country out here, man.
+It's Iike the fIies--|Why are there so many fIies out here?
+-Man, I know you not gonna get into this.|-For reaI.
+Okay, so why is there a rat on|every corner in New York City?
+Why, after every sentence,|you caII me ''shorty''?
+''Yo, shorty, shorty.'' I'm taIIer than you.
+Let me ask you this, then.
+In New York City, why y'aII say,|''Yo, son,'' after every sentence?
+-I'm not your kid. I'm not your chiId.|-Right.
+Why I gotta be your son?
+-Money?|-B?
+I caII you ''sun'' because you shine Iike one.
+-You feeI me?|-Yeah, that was reaI sentimentaI, thanks.
+-Oh, heII, yeah.|-Thank you.
+-Thank you.|-Thank you.
+-Y'aII need anything eIse?|-No, we aII right.
+-ActuaIIy, Iet me get some iced tea?|-Sweet or unsweet?
+-Sweet.|-She choosing, huh, BrookIyn?
+Shut up.
+BrookIyn! Oh, good Lord!
+That ass fatter than|a swamp possum with the mumps.
+-Okay, you got a point.|-See what I'm saying?
+That's country.
+Y'aII get y'aII cap and gowns yet?
+-Oh, yeah, I got mine.|-I know you do.
+Yo, you sure you graduating, Teddy?
+Like, come on, for reaI, B,|just give it up. Like, come on, Teddy.
+That ain't funny, man. I'm trying.
+-Wait a minute.|-I'm trying.
+Ain't you about|in the 1 4th grade now, dog?
+Yeah, I'm in the same cIass|with your mama.
+By the way, I ain't seen her IateIy.
+You gotta teII her to come in and|check in with Daddy at the house.
+I need my money on time.
+Hey, don't make jokes about me, okay?|I'm sensitive.
+Y'aII know where that girI New New|go to schooI at?
+Seem Iike she onIy be around|when we be kicking it.
+-She ghetto, man.|-Yeah, boy, just how I Iike them.
+You better Iean back, shorty.
+You know she Rashad's girI.
+-Rashad.|-Now, how you figure that?
+-Come on, man.|-Come on, man.
+Shut up, you know you Iike her too.
+I don't even be taIking to that girI.
+So why you just wave at her?
+Shut up, man.
+He put you out there, homeboy.
+We were all at the same place|in our lives...
+...trying to figure out what's next.
+The one thing I did know:|These were my friends.
+I could trust them.
+And Sunday night, we got loose.
+-That's right.|-Let's go and do the damn thing, man.
+-Let's do it.|-Big oId head.
+Let's go.
+Sunday night at Cascade.
+Fine Georgia peaches and wet paint.
+It was a beautiful place to be.
+I'm gonna knock him out next time.
+We'd been coming to Cascade|since we were kids.
+What's up, man?
+I had my first fistfight here,|and my first kiss.
+We knew everybody...
+...from the security guards|to the hottest shorties.
+Rashad. Rashad!
+-I know you heard me.|-Don't he know chocoIate meIt in the heat?
+-I'm gIad somebody recognize.|-Don't try to get no feeI, neither.
+GirI, I got grandkids oIder than you.
+Cascade's is a rite of passage|to every kid in the A...
+...but for us, it was something more.
+AII right, everybody,|Iet's get it on the fIoor.
+Y'aII Iooking a IittIe rusty tonight.|Y'aII better be practicing out there.
+There's something wrong|with these wheeIs.
+Ain't nothing wrong with these wheeIs.|You can't skate.
+Inside here,|it's like all our problems don't exist.
+It's the only place where|we all felt like we could be free.
+Man, it's crazy out here tonight.
+Oh, yeah, y'aII, here we go again.|Cascade's on a Sunday night.
+If you can't skate,|get your ass off the fIoor.
+If you got skiIIs,|then, shorty, you got to prove it.
+School sucks, rent past due,|your girl left you.
+On Sunday night,|don't none of that matter.
+y ou could be|whoever you wanted to be here.
+Can't take bIack foIks nowhere.
+Man, get off the fIoor.|Get off the fIoor.
+HandIe that, Mr. Referee.
+HeIIo? HeIIo?
+-Who was that?|-I don't know. They keep hanging up.
+Star-69 them.
+Excuse me, I am not a ho.
+There's all kinds of characters here.
+y ou got the Cool Cats and they crew.
+y ou got the Fly Girls.
+And the D-boys is in here too.
+Somebody always dying from their clique.
+But nobody matters like the skate crew.
+And we were the Ones.
+This year, we was taking Skate Wars.
+Let's go, man.
+Even when the rink was crunk|on Sunday night...
+...sometimes I felt like|I was out there all by myself.
+Floating above it all.
+No lies, no pain...
+...and no worries about|what tomorrow might bring.
+Shantay, hurry up,|we got dance rehearsaI.
+Guess you don't know nobody|no more, huh?
+Man.
+No, I guess not.
+I'm saying, Rashad,|you know I didn't mean what I said.
+Man, whatever. That don't even matter.
+Look, my mama not home.
+You wanna give me a ride?
+Man, your mama ain't never home.
+Take care, though.
+I ain't have time to mess with Tonya.
+If we was gonna win the war,|we was gonna need practice.
+Some of us more than others.
+-We have identified the weakest Iink.|-Shut up, boy.
+You aIways taIking.|Rashad, get your brother.
+-He might be right this time.|-Yeah, for reaI.
+Two, three, four. Oh, goddamn.
+Hey, girI, hey!
+I wonder what her career path is.
+Excuse me, gorgeous.|Can I get at you for a second?
+I got that. Fine ass.
+-So where you going?|-Boy, you know you need to quit.
+You see I'm getting hot.|I'm sweating and aII that.
+I can't take him no more, son.
+-That's it. That's it.|-And here he go.
+-What happened, man?|-I'm done.
+-I'm done.|-Again?
+-Wanna try that one more time?|-I got this. I'm good.
+Yo, BrookIyn, you're fired, man.|Quit Ioitering here.
+Keep it moving, son. Keep it moving.
+AII right.|I don't know if you that good, but....
+Leave your uniform before|I take it out of your check.
+-HoId up, man.|-Get the heII out of here, you idiot.
+-''Keep moving, son''?|-I cannot run my pizza pIace without you?
+Man, be that way, then.|That's why you need a timing beIt, bitch.
+Shut up! Grow some hair on your chest!
+You see what I mean?
+-Watch out, man.|-See what I'm saying?
+I can run my pizza pIace without you!
+Man, pizza was invented in BrookIyn!
+And my hat too.
+-You gonna break your Ieg.|-Pizza was made in BrookIyn.
+You better cooI it, man.|CooI out, man.
+-You done Iost weight, man. HeII, yeah.|-You idiot.
+I need a vacation.
+Hey, quit spIashing!
+-SIow down!|-You gonna hurt yourseIf.
+It's another A TL scorcher.|I heard it's gonna be hot today.
+They told me the kids|are heading out to Lake Lanier.
+If you're not so lucky|to head out to the lake...
+...a pool is the place to be.
+Head down to your neighborhood pool...
+...because it is the coolest place|you want to be today.
+See, that's why I Iove coming out here.|Look at this here.
+Yo, Esquire, man, you are ashy.
+For reaI. It's Iike somebody|threw baby powder at your knees.
+You ashy too, man. What you saying?
+I don't know what type of Iotion|you gonna use for that arm.
+You gonna need some baby oiI,|some WD-40 or something.
+Some car engine oiI|might work for you.
+-Trying to taIk about somebody.|-Man, hide your waIIets.
+Here come Ghetto Ghetto|and her two twins.
+What y'aII doing?
+-What it Iook Iike?|-Rudeness.
+We doing nothing. We chiIIing.
+-What y'aII up to?|-Nothing.
+-WaIking around here Iooking cute.|-AII right.
+Y'aII sure are.
+-And you know something, New New?|-Nope.
+No, I'm saying,|when we gonna get together?
+Not gonna happen. Never.
+Why don't you just Iet me|finish what I got to say?
+I know what you gonna ask me, Teddy.
+I know you. And I seen you skate.
+-So?|-So that teIIs me...
+...everything I need to know|about a man.
+WeII, then you shouId know|I'm the quickest one out there.
+I be pumping it out there, baby.|I pop, pop, pop.
+ExactIy. A quick pumper.
+Whatever, man. You want me.|I'm hot. I'm desirabIe.
+I came over here to see was y'aII going|to Big Booty Judy's graduation party.
+Judy? Party?
+Her mama gonna Iet her have a party|after Iast year?
+Everybody out of here!
+I guess. She toId us|to come over here and teII foIk.
+WeII, appreciate it, baby.
+AII right. Bye.
+Go ahead.
+-What you doing, nigga?|-Hey! Nigga, what it Iook Iike?
+I'm drying my money.
+Yo, why you ain't come to schooI no more,|man?
+Too busy making money.
+I can see that.|I saw you with Marcus the other day.
+Yeah, he's my cousin.
+Hey, we gets paper.
+Who's going into Titty City|to get the cash?
+Star, I ain't fitting to put my hand|in them skyscrapers.
+Look, there's goId in them hiIIs.
+What y'aII doing?
+Nothing.
+Y'aII think I'm stupid?|I don't wanna have to bust y'aII out.
+Your bust is aIready out.
+That Iaugh aIways got on my nerves.|Shut up, okay?
+We was gonna ask,|can we get a ride to Cascade's?
+-Ma, pIease?|-PIease?
+Do I Iook Iike the bus?
+Come on. Don't y'aII see Mama|trying to take a nap?
+Go on. Get me something to drink.
+-Hey, Veda, get me something to drink.|-I'm Star.
+You know what I mean.
+What y'aII waiting on?|Y'aII know the routine.
+CIimb your asses out the back.
+He's aII up in her griII. I ain't Iying.
+Stay out of her business, okay?
+Come on, now. Y'aII shouId be used to this.|Don't be messing up my car.
+It's hot as heII up in there.
+-I sweated my edges out.|-Damn, me too.
+-And when you gonna get that door fixed?|-When you get a job.
+What, whoa, wait a minute.
+Considering the fact that both of y'aII broke,|those better be knockoffs.
+If I hear y'aII been up to no good at that|maII, it's gonna be on, you understand?
+-You understand?|-Yes.
+Your asses ain't too oId to be beat.
+-Hey, Big Ronnie.|-What's happening?
+Nothing to it.|Something wrong with these wheeIs.
+Come here. Let me take a Iook.
+-Watch the counter.|-AII right.
+-Hey.|-Hey.
+-What you need?|-Size seven.
+Where's your ticket?
+I think I Iost it.
+-Hey, Big Ron?|-Yeah.
+What we got to say about foIks|who Iost their ticket?
+No tickets, no skates.
+Sorry, hon. No ticket, no skates.
+Big Ronnie, please report to the men's room|with the mop and bucket.
+Overflow, brother.
+Hey, give me some.
+-What?|-I said, give me some.
+I don't know where your mouth been.|You might have the cooties.
+I might.
+So you know your boy Esquire suck.
+-You'd be better off with me on your Iine.|-No.
+Why? Give me one good reason.
+I'II give you two.
+You ain't cute.
+And you drank aII my soda!
+A friendIy reminder,|Iadies and gentIemen.
+Skate Wars in five weeks, y'aII.
+Bragging rights for the year.|It's aII on the Iine.
+Why you don't cut across the middIe|and get your speed up?
+Why don't you go roII your neck at|somebody eIse and Iet me handIe mine?
+I'm trying to heIp you out.
+Your takeoff is weak and|you starting to make Rashad Iook bad.
+I don't Iike you. ReaIIy don't.
+Man, I hope you catch up.
+Stupid.
+Nobody move....
+Go ladies! Go ladies!
+Hey, Iisten, shorty,|I want you to waIk up to him.
+-Yeah.|-I'II introduce you to him. Be cooI.
+If he asks you a question, answer.
+-Don't say nothing unnecessary.|-AII right.
+I was so weak, my Ieg--|I woke up, one of my footies was off.
+CoId fIashes.|Look, she wasn't nowhere around.
+I was Iike, ''Man, where she go at?''
+This is my nigga, Ant.
+-What's up?|-Germs.
+CIeanIiness is next to godIiness,|you know.
+-AII right.|-Back up.
+Anyway, Iike I said, I went downstairs,|I'm Iooking, she's nowhere to be found.
+So my front door's Iocked.|So I'm Iike, ''Did she take my house keys?''
+She must have went|out the window.
+Oh, sh--
+Oh, damn. Down goes Frazier.|Down goes Frazier.
+Somebody caII the ambuIance.
+There was one deadly sin at the rink.
+y ou don't fall.
+-Take them down.|-y ou just don't do it.
+y ou may lose your footing,|slip a little bit...
+...stumble at the most.
+But you don't fall.
+This is humiIiating.
+Shorties ain't checking|for a pIayer with a Iimp and a cast.
+How's that gonna work out for me?
+Man, they working me hard out there.
+-Running you, huh?|-Yeah, who next?
+This is for John Garnett in the rotunda.
+-Did you say John Garnett?|-Yeah.
+-The John Garnett?|-Sure.
+Man, you ain't understanding|what I'm taIking about.
+Let me show you, man. Look at this.
+Had it a Iong time.
+United Express.
+That's his.
+-How my breath?|-CrystaI cIear.
+I'II have one of these, pIease.
+Yes, sir.
+-Here's your drink, sir.|-Thank you.
+Good choice. You ceIebrating?
+What makes you think that?
+WeII, since you took over United Express...
+...the company has six consecutive quarters|in the bIack.
+I'd say you have a Iot to ceIebrate, sir.
+-Good point.|-Ben Gordon.
+-John Gar--|-Garnett. I know.
+WeII, you gentIemen|enjoy the rest of the evening.
+To six consecutive quarters in the bIack.
+Y'aII ready to work?
+Don't be Iooking at him.|You out of uniform, man.
+PuII that thing up,|button up your top coIIar.
+I toId you to be professionaI.
+Boy.
+Which one of y'aII pooted, man?
+Hey, DJ Drama, pay attention.|Let's go, hey!
+This party is kind of cute, though.
+But where the food at?|Because I'm hungry.
+No, don't eat anything in here.
+-That's right, I did see roaches.|-A Iot of roaches.
+-What's wrong with you?|-Nothing. I'm good.
+Y'aII seen Rashad and them?
+See, that's what it is.|You are so sprung, New New.
+-No, I--|-Yes, you are.
+-You open Iike a can of pig feet, girI.|-ExactIy.
+-Hey.|-Hi.
+Come on.
+What you smiIing so much for?
+What took you so Iong, anyway?
+Oh, you were Iooking for me.
+No, I was just-- No.
+It's aII right.
+You know, Rashad tends|to have that effect on women.
+-Who you come with?|-Crew.
+-Where they at?|-They around.
+This you?
+I know this ain't the bitch|got you tripping on me.
+-HoId up.|-Who you caIIing a bitch?
+Bitch, I'm caIIing you a bitch.|Quit eyebaIIing me.
+PIease don't get hurt, you dirty trick.
+-Who you caIIing trick?|-You, trick!
+-Are you crazy?|-Don't get hurt.
+-I got your trick.|-Hey, man, watch out.
+-CaIm down.|-PIease get this groupie.
+Hey, what are you, sIow?
+We done aIready went through this.
+Man, we done.
+It's over.
+No, I'm not even gonna beIieve that.
+AII right.
+BeIieve this.
+-Thirsty trick.|-Watch your mouth.
+-What's up?|-What's going on?
+-Yes, ma'am.|-Don't you be ''yes, ma'am ''-ing me.
+No.
+I'm sorry about that. For reaI.
+You need to controI|your IittIe groupies next time.
+What's wrong with y'aII?
+Mom found some of that|Gucci stuff in the washer.
+Are you serious?
+-ToId your ass to dry-cIean it.|-Do you understand?
+-Do you understand?|-Yes, ma'am.
+Anyway, she coming to get us right now.
+If you want a ride,|you better stay here with us.
+But we just got here.
+I'II take her.
+Hey, twins, get your|IittIe thieving asses down here!
+Hurry up!
+Out there steaIing and shit!
+Get your asses--!|Y'aII's asses gonna go to jaiI, steaIing!
+Some dyke's gonna get ahoId|of your asses!
+And aII that crying|don't mean a damn thing to me!
+Your asses wasn't crying|when you were steaIing.
+Now you wanna cry.|Hurry up and get your asses in the trunk!
+Kick your asses tonight.
+New New.
+What's so funny?
+What kind of name is New New, anyway?
+I'm New New...
+...because I aIways|rock the new, new shit.
+-Thank you.|-Yeah.
+Heard you and your homegirIs|don't buy none of that new, new shit.
+Whatever.
+Your parents ain't gonna be hot|about you coming home so Iate?
+Boy, I am grown.
+Your parents gonna be mad|that you out this Iate?
+No.
+Your parents don't care|about their IittIe baby, Rashad?
+My parents passed away...
+...a few years back.
+Car accident.
+-I'm so sorry, Rashad.|-It's cooI.
+I think love is in the air.
+Let me go to my request lines,|see if anybody's on.
+-What's happening?|-PuII over there.
+-How's everybody doing out there?|-Go ahead and give your shout out.
+I just wanna send|a shout out to my boo...
+...who's incarcerated, but I want him|to get some love right now.
+-What we stop here for?|-I'll tell you what.
+This one is going out to you, baby.
+My bus come in Iike an hour, so....
+Your bus?
+Think I'm gonna staIk you|if I find out where you stay?
+Maybe.
+I mean, but-- Like, for reaI, though...
+...you ain't gotta hide nothing from me.
+Ain't Iike I'm DonaId Trump or somebody.
+This is my song.
+Don't pIay with me right now.|This is my jam.
+What? Oh, yes, hey.
+You Iike this song?
+AII right, go, girI, sing it. What?
+How about we Iisten to it|and Iet them sing?
+See, aII that is unnecessary.
+I'm just kidding, shorty.
+-So how do I skate?|-What you mean?
+You said you couId teII a Iot about a man|by the way he skate.
+So how do I skate?
+-I don't know.|-Just be reaI.
+You.... You aII right.
+You got a IittIe styIe to you.
+You reaI confident, you know.
+I can't beIieve I'm even taIking to you|and teIIing you this right now.
+You speciaI.
+SpeciaI, huh?
+I don't know about that.
+I wish you couId see what I see.
+You ain't never had reaI barbecue|tiII you've had JJ's Rib Shack.
+I don't know how you Iiving.
+How you Iiving? You ain't had|nothing tiII AbduIIah's Rib Shop.
+I know he's a pro wrestIer and everything,|but he can make some sauce.
+Check that out, man.
+Get the door.
+Ain't you supposed to be in cIass, boy?
+Man, beII's about to ring right now.
+Man, what you roIIing on, 24's?
+No, see, that why you|need to be in cIass, boy. Them 28's.
+-Where your ruIer at?|-Man, I need to get myseIf one of these.
+You do.|Come on, take a ride with your boy.
+-For reaI?|-No, boy, for pIay-pIay. Come on.
+Get some of this tuna, man.
+-No carbs, bro.|-Cheesesteak.
+-You scared of dogs?|-No.
+Watch out now, boy!
+What's up, boy?
+You sure you ain't scared of dogs?
+-No.|-Good, then.
+It's feeding time. Come on.
+Back up.
+You go first.
+Get back in there.|What's up?
+Young buck, so what's shaking?|You got a broad?
+No.
+Jumping and stuff.
+Hit that bowI right there.|Come here, baby.
+Scare, come here.
+Oh, man, Iook at that.
+You put more food|on the ground than in the bowI.
+You costing me money aIready.
+How about kids?
+Not that I know of.
+You doing something?
+-You know, a IittIe something.|-Boy, you ain't doing nothing, boy.
+You smoke? You smoke? You smoking?
+I don't, but, you know, to each his own.
+That's cooI, boy. Say no to drugs.|Dare to be different.
+So, what was your Iast|pIace of empIoyment, young buck?
+-CIeaning.|-CIeaning?
+Look to me Iike the Swann CIeaning Service|about to Iose an empIoyee.
+You wanna work, right?
+But you know|this is grown-man business, don't you?
+-I know.|-You sure?
+Okay.
+We gonna see.
+-Hey.|-Yo.
+Where you been?
+Out.
+Out? Come here.
+I know you ain't been out there|being stupid.
+-I'm teIIing you, Ant, I ain't pIaying.|-What?
+''What?'' Don't ''what'' me, man.
+What's up with you missing history cIass?|That's what.
+Man, you probabIy caught me|on bathroom break or something.
+I Iook stupid?
+Man, I'm saying, though...
+...I don't see|how the Great WaII of China...
+...heIps me cIean the fIoor|at VaIue ViIIage.
+Man, what, you hustIing?
+You shouId know better than that.
+You ain't gotta be|a dope boy to have money.
+This what cIeaning the fIoors gets you.
+I been saving this for three years now.
+Ever since the accident.
+-Been saving for what?|-For you.
+So you can get out of here.
+Do something with yourseIf.|Go to schooI.
+Get away from dumb-ass UncIe George.
+Man, you shouId spend that|on some rims...
+...or skates or something.
+Don't be wasting that on me.
+I guess just because your head big,|that don't make you smart.
+Hey, I beIieve in you, even when you|too stupid to beIieve in your damn seIf.
+-What's the deaI?|-What's up, man?
+-Man, I hear you hoIding now.|-Man, who toId you that?
+Why you tripping?|I known you since third grade.
+Yeah, but you been out of schooI|for four weeks.
+Man, I had mono.|Come on, man, you hoIding or what?
+-No.|-AII right, that's what's up.
+Narc.
+Hey, Ben.
+Oh, hey, Mr. Garnett.
+Nice to see you again.
+My buddies and I, we Iost our fourth.|Afraid of a IittIe weather.
+You pIay?
+That's my partner.
+Oh, damn.
+Yeah!
+So your famiIy's from the city, Ben?
+You're not|a MechanicsviIIe hood product.
+No, not me, sir.|You wouIdn't catch me in a pIace Iike that.
+That shot on 1 7 was about 200 yards.
+HeII of a game, man.|We whipped their asses.
+Yes, we did.
+Oh, man.
+Oh, no, no, sir.
+-It was my pIeasure.|-Oh, no, don't be siIIy. You earned it.
+And if there's anything I can ever|do for you, you Iet me know.
+WeII, actuaIIy, there is something|you couId heIp me out with.
+TaIk to me.
+I couId use a Ietter of recommendation.
+And she had the nerve to step to me.
+-She know she Iucky too.|-Forget her.
+The question is, what happened|when Rashad gave you a ride, nasty?
+-''I'II take her.''|-Nothing happened.
+-You Iying.|-It's aII in your griII.
+That's him right there. Come on.
+Men, grab your Iadies.|Ladies, grab your weaves.
+It's about to be on.|Y'aII got three minutes tiII coupIes' skate...
+...and four weeks tiII Skate Wars.
+But untiI then, hoId this.
+Man, I got that good...
+...the bad...
+...and, man, the ugIy herbaI.
+-I gotta smoke something.|-Hey.
+Man, I don't understand|a word that you been saying.
+What you want, man?
+WeII, weII, weII.|So we meet again.
+What's up, gorgeous?
+You teII me.|You're the one that's shining.
+Oh, you know, that's how we do.|But you Iook mighty fine yourseIf.
+Oh, thank you.
+So do you wanna hook up or what?
+Yeah, you know, Iike...
+...if it set up aII right.
+You know, I be reaI--
+-Stepped on that shit.|-Yeah, boy.
+This thing's off the chain, tonight, man.
+I got shotgun.
+Hey, whoa, whoa.
+-What are you doing?|-Come on.
+Come on, BrookIyn.
+-You heard me caII shotgun.|-Come on, man.
+AII right, you see up in here, right?|You see it, right?
+It's Iike a goddamn|Negro cIown car up in here, man.
+Come on, get your ass in the back, man.|That's reaI.
+-Damn.|-Come on, I don't Iike him, man.
+He never sits in the front.|Now he wanna sit in the front.
+-Sit your ass over.|-Shut up.
+Hey, man, what you doing?
+-Ain't you gonna wait on Ant?|-He say he got a ride.
+That tickIes.
+That's my beIIy button, baby.
+Yeah, yeah. I know.
+Good, baby.
+You're getting cIoser.
+-That's strong, baby.|-What's up? What's up?
+-Was it a good idea to keep my money?|-No, no!
+Shut up. Come on. Get up.
+Come on. Come on.
+Boy,|don't you know I graduated with a 3.68?
+Lord, I'm parched.|Let me get my drink.
+This supposed to be my famiIy,|my bIood cousin.
+-Give me the money. Give me the money.|-AII right.
+-It was onIy 1 00 doIIars.|-That's it?
+Shut up.
+Shut up.
+You better not teII my mama.
+Come on, baby.
+That empty space right there on the bar,|that's for this year's trophy.
+Don't even worry about that.
+A IittIe confident, aren't we?
+For good reason. You Iike the poIe?
+You wish.
+What's this?
+Nothing.
+These are fIy. You did these?
+Yeah, but it was just|me fooIing around, though.
+This ain't somebody just fooIing around.
+This is good, Rashad.
+Is this me?
+-My mouth is not that big.|-Hey.
+It's artistic expression.
+And I'm sensitive about my shit,|so I'd appreciate it....
+Thank you.
+Cute.
+But for reaI, Rashad...
+...you got taIent.
+-I don't know.|-Like you can't have no taIent.
+Be reaI with me. Come on.
+Be reaI with me. I'm serious.
+AII right.
+WeII, when I was younger,|every Sunday...
+...my pops used to give me...
+...the comics out the of Sunday paper.
+I guess I kind of had this dream...
+...that one day I couId be the one...
+...who drew the comics|in the Sunday paper.
+-That's it.|-You stiII can.
+What's happening, UncIe G?
+How you doing this morning?
+Get myseIf some orange juice.|Good morning, brother.
+-Good morning, UncIe George.|-What's happening?
+What is y'aII so happy about?
+How come you here grinning?|You just grinning.
+Grinning, Iike you|a new man or something.
+No, Rashad's a New New man.|He got some cutty Iast night.
+Shut up.
+You got some booty|in this house?
+I toId you I don't want|no company in my house.
+I toId you I don't want|them fast girIs in my house.
+No femaIes in this house, that's the ruIe.
+There's a one-bowI ruIe in effect.
+Okay, UncIe George.
+One bowI.
+What is with you?
+I ain't gonna Iie.
+-I got some cutty Iast night.|-Stop Iying.
+You ain't got no cutty.
+With your IittIe scrawny ass.
+If anybody gets some cutty,|it's supposed to be me.
+I gets the booty here.|I gets the drawers.
+I gets the booty. I gets the trim.
+I'm the one supposed to be getting cutty.|I'm a grown man.
+I get the cutty, not y'aII.|Understand what I'm saying?
+UncIe George. Me.
+WeII, I guess we see|who didn't get the cutty Iast night, huh?
+Give me my cereaI.
+I hope your IittIe weenie faII off.
+You say something?
+-No, man, Iet me see this.|-See what?
+This thing gonna make|her neck turn green.
+Man, shut up, man.|It got the 1 4-karat stamp on it.
+I don't know how you bought that.|You never bought a girI anything.
+-So what, man?|-You need to watch it, Rashad.
+This girI got your nose wide open.
+Let you teII it.
+Yeah, it ain't even Iike that.|She reaI, man.
+He bought a cheap-ass neckIace|for New New.
+I was about to buy her some shit, man.
+-Yeah, right.|-We gotta go, man.
+It's my first day, B.
+K.K. SouI Food.
+I'm with my peopIe now, homey.
+Free coIIards. Free coIIard greens.
+Why you bIocking, man?
+That's what I'm taIking about.
+Who this?
+-New New.|-Shut up, man.
+-What you want?|-I need a ride tomorrow.
+I got you.
+You got some gas money?|HoId on.
+-Who this?|-It's New New.
+Y'aII need to find something to do,|because y'aII ain't funny.
+-I Iove that.|-HoId on.
+-Yo.|-Who's that?
+-Teddy.|-Hey, how oId is he anyway, 30?
+HoId on. HeIIo?
+Hello?
+Hello?
+My bad, man.
+I just wanted to see what was popping.
+Hey, y'all going to the pool tomorrow?
+I don't know.|I gotta take Esquire up to Sandy Springs.
+Teddy? Teddy.
+If you don't get off that damn phone|and clean them dishes....
+Hey, Ma, I'm 21 years oId, man.
+StiII getting on the phone?
+I never feeI comfortabIe|on this side of town.
+Man, kind of how I feeI|about our neighborhood.
+I don't see what this cat making you|drive aII the way up here for.
+He invited me to dinner, fooI.
+Man, this is John Garnett.
+The miIIionaire.|If he want me to cook dinner, I'm with it.
+-Hey, man, that's 31 Canterbury.|-Right here?
+Damn!
+Yeah.
+Hey, man, go ahead and push the buzzer.
+y es, may I help you?
+It's Benjamin-- It's Benjamin Gordon|for John Garnett.
+y es, Benjamin. John's expecting you.|Come on in.
+Ben. Right on time.
+-AIways, sir.|-Come on in.
+I taIked to some friends|at the FaIcon Society.
+This shouId heIp.
+Thank you.
+One thing you shouId Iearn|earIy in this Iife:
+It's not aIways what you know.
+Sometimes it's who you know.
+Yes, sir.
+You'II be fine.
+-You hungry?|-Oh, I couId eat.
+WeII, dinner's aImost ready.
+I'd Iike you to meet my daughter.|She's going to Brinton next year too.
+Erin, honey?|Come down to dinner.
+-You hear me?|-Yes. I'm coming.
+Have sons.
+I just wanna say again,|I appreciate this a Iot.
+Oh, weII, just do weII.
+You'II be fine.
+-Here she is.|-That shirt is just so cute.
+-Dad, I aIready ate.|-That's aII right.
+Come here.
+Erin, I'd Iike you to meet Ben.
+-This is her friend HoIIy. She Iives next door.|-Hi.
+I gotta go. Bye.
+Bye.
+Strange chick.
+Erin, nice to meet you.
+It's aIways a pIeasure|meeting new peopIe.
+It's nice to meet you too.
+You're not teIIing Rashad.
+Wow, you even taIk different.
+You're not teIIing him.
+Oh, I'm teIIing him. PIease beIieve that.
+You're not saying anything to him...
+...and I'm not teIIing my dad about you.
+If I teII him where you're from,|you're done.
+-Is that a threat?|-CaII it what you want.
+I gotta teII him in my own way.
+I knew it. Because Rashad was|teIIing me how ''New New is this'' ...
+...and ''New New's so reaI.''
+-I am reaI.|-You ain't shit.
+Excuse you?
+How did you even find Cascade?
+What, you go buy you a 99-cent ghetto|handbook to show you how to keep it reaI?
+The saIad fork goes on the other side.
+I'm from the Trey.
+You from the Trey? That's funny.
+-WeII, my dad is.|-I never read that.
+-He never taIks about it.|-I don't bIame him.
+Are you serious?
+He's a seIIout.
+You reaIIy wanna be ghetto.
+BeIieve me, you can have|the piss in the haIIway.
+I'II take the Picasso.
+You got a Picasso in your house!
+You need to Iower your voice. Shut up.
+I bet when you go to Brinton,|you won't be aII up in here...
+...doing aII that New New stuff.
+I'm not going to Brinton.
+-I'm going to SpeIman.|-Oh, you going to SpeIman.
+WeII, your daddy seems a IittIe confused.
+Yo, what happened?
+She took care of me in the parking Iot.
+-No.|-Yeah, that right.
+Here come your boy.
+Hey, yo, Ant.
+What up, big time?|Hey, man, I heard you got that fire.
+How come I'm the onIy one that ain't|getting bIessed? Hook me up, man.
+Fine, nigga, what you need?
+-Whatever, man. Whatever, nigga.|-Right. ExactIy.
+Hey, where Esquire at?
+I don't know, man. I ain't seen him|since I dropped him off Saturday.
+-I ain't seen him either.|-Rashad. Rashad.
+Rashad, Ant just got arrested.
+-Come on, they got your brother.|-Get up!
+-What the heII going on?|-Let's go, man. Let's go, man.
+-Anton Swann.|-Right here. Right here.
+-Swann.|-That be me, sir.
+-Swann. Front and center.|-Oh, man.
+I got a gun, man.
+Come on, boss. Let me be out.
+Thank you, man.
+It's aII part of the game, young buck.
+Now aII you got to do is|put a IittIe overtime in, you know.
+We get the books square,|you be good.
+You have to get in the house|before your brother get hurt.
+Where he coming from?
+I think he's coming right about now.
+What you doing with my|brother in your car?
+You got him trapping?|That's what's happening?
+-Get out.|-Hey, hoId up, hoId up.
+What you reaching for?|You ain't fitting to do nothing.
+With your bitch ass.|Bust a move, then.
+-Thought so. Anton, get your ass out the car.|-You don't know--
+Watch your rabid ass, man.
+-Get in this house, man.|-Get off me.
+Both of y'aII get in the house|before I take off my beIt.
+Whatever, partner. You know me.|Come get some. Get in the house.
+Nobody toId y'aII Iight-skinned dudes|ain't in styIe no more?
+-Get off!|-You out your rabid-ass mind, homeboy.
+Rookies.
+Man, get in your room, man.
+Man, I ain't pIaying with you, bro.
+Man, you ain't nobody's dad!
+You heard what I said.|What you gonna do?
+I'm gonna Ieave.
+-You think you're a dope boy?|-Hey, hey!
+-You tough, huh?|-Get up. Get off of him.
+You aII right?
+What the heII is going on here?
+OId dumb-ass here|got arrested for seIIing weed.
+You better get in your room,|Iike he said.
+I ain't gonna have y'aII tearing up|my house.
+Come on, man. Let me taIk to you.
+Look here. Now, I know|you might be a IittIe upset...
+...but Iet's be grown foIks|about this thing, aII right?
+Now, you may not wanna hear it,|but that boy gonna do what he wanna do.
+A few extra doIIars|in the house ain't gonna hurt.
+I can't beIieve you, man.
+Look, hey, hey, hey.
+I got a mortgage to pay every month.
+-You know the water heater done cracked.|-What that mean?
+You just gonna Iet your nephew|ruin his Iife over a few doIIars?
+What kind of man is you?
+I'm the same kind of man|took his sister's two kids in...
+...so they couId stay together.
+Take us--? Hey, we took you in, man.
+-What?|-Hey, be cIear, this is my daddy's house.
+I been running things here|since I was 1 5.
+-You just been getting over.|-Getting over?
+Boy.
+You best....
+Yeah, right.
+I ain't never wanted none of this.
+Pushing a damn broom the rest of my Iife.|I'm 41 years oId.
+I'm a grown-ass man.
+You see a decent car sitting|out in that driveway?
+You see women roIIing through here?
+-That's your fauIt, man.|-HeII, no.
+Because don't no woman want no man|with two dumb-ass kids and no money.
+A janitor.
+Shit, I'm a janitor. A janitor.
+Boy.
+Yeah, I shouId've just Iet|y'aII's asses go to foster care.
+Then I wouIdn't even be in this mess.
+What?
+-Hello?|-Hey.
+Can you meet me somewhere?
+-Hi.|-Hey.
+Why are we here on oId peopIe's night?
+They from CoIIege Park.
+How you know that?
+Every side of town got|their own way of skating.
+They got, Iike, a IittIe bounce to them.
+That's Chicago. And that's Detroit|aII day Iong, right there.
+You taIk to Esquire today?
+Ain't seen him aII day.
+Why?
+Nothing, I was just....
+Rashad?
+I kind of have something|I need to teII you.
+If it's bad...
+...I don't even wanna hear it.
+Got enough shitty news for one day.
+What's wrong?
+Everything.
+My Iife's a mess right now.
+Just tired of being Iied to.
+I keep trying to think of|what my pops wouId do.
+Can't come up with nothing.
+Hey...
+...it's gonna be okay.
+Hope you right, shorty.
+Hey.
+I'm starting to think this is our song.
+Oh, yeah?
+Too bad we didn't bring our skates,|though, huh?
+Hey, babies, how y'aII doing?
+AII right, now. Be carefuI, babies.
+Oh, man, is that the twins' mama?
+-Man.|-Ms. GayIe is a hot mess.
+I was gonna wait tiII Sunday,|but I got something for you.
+What?
+Thank you.
+Watch yourseIf.
+It's beautifuI.
+-I'm gIad you Iike it.|-I Iove it.
+It's time we had a brother-to-brother talk.
+Or to put it delicately,|a talk about the birds and the bees.
+At 1 3, girls are just like comic books...
+...loaded with adventure,|easy to understand...
+...and don't cost more|than a quarter to take out.
+In this house, we never|discussed our problems.
+We just watched Good Times.|It seemed like the answer to everything.
+When you get a little older, I'll teach you|how to handle yourself in the NFL of love.
+My pops always told me|to take care of my little brother.
+I hope I got through to him.
+Here we go. It's gonna be|a Iong night for some of y'aII.
+We got the Warriors, the Preps|and the Ones in the house tonight, baby.
+Look, you see them boys|practicing their moves.
+Tonight we break out the secret weapon.|Y'aII remember how?
+-I'm gonna break it down. For reaI.|-I remember, I got it.
+No, no, no, Iike this here:
+So...and...and...?
+-You got a crick in your neck?|-HeII, no. Come on, man.
+-Watch what I'm about to do. HoId up, man.|-Watch.
+-Before you mess us up again.|-Watch.
+-What's up, y'aII?|-Hey, what's happening?
+-Oh, you wanna hug me.|-We gotta go.
+-We gotta go. Ma's coming.|-See you.
+-Bye.|-Bye.
+-Hey, man.|-Hey.
+I just bagged the shorty|that work at the snack bar.
+Free hot wings. Let's go, baby. Come on!
+-WeII, heII, yeah. Come on.|-What? We ain't gotta chase no chicken.
+PrisciIIa, it's Janice.
+I have some disturbing news|to share with you.
+Shut up!
+What they caII this, Star?
+Damn, who is you?
+He a retired rapper or something.
+Attitude.
+He do got a attitude,|but his car is cute, though.
+-I Iike that. Let's touch it.|-Okay.
+Let's go.
+-Bambi's Iike a ghetto taIe.|-How?
+Moms gets shot in the head.|She ain't doing nothing.
+Pops is never there.|House gets burned down, insurance reasons.
+And out of nowhere, she pregnant.
+Father's never there,|you know what I mean?
+You feeI what I'm saying? House|burned down, he meets a girI, then--
+-Dad, how did you--?|-Let's go. Erin, get up, now.
+That's your fauIt, man.|How you gonna Iet him take your girI?
+See, if she were with me--|Oh, you gonna shush me now, huh?
+Why you ain't shushing the oId man?
+See, now you wanna get buck, man.|He gone, now. He gone, fooI.
+Get in.
+-Yo, what's up?|-Where you going?
+-It's aII right, it's my dad.|-It's your daddy?
+Is he stiII with your mama?
+Keep it up, hear?|Keep it up. Lie to me again.
+Lie to me again.
+What'd you say?|Get back down here!
+How couId you humiIiate me Iike that?
+You were supposed to be over at HoIIy's|house getting some rest before practice.
+Baby, you been Iying...
+...about where you been going|and who you been with.
+What if something happened to you?
+I'm sorry, Mom.
+Why can't I pick my friends|and choose things in Iife for myseIf?
+Because you're not making|very good choices, baby.
+I mean, you got a Iot of|good opportunities to choose from.
+Like what? Going to Brinton?
+Oh, baby.
+SpeIman is a great schooI,|but your father and I just--
+-But what?|-WeII, we're saying...
+...Iook at some other choices,|some other options.
+-What?|-Keep taIking to Mother Iike that...
+...and your Iips wiII beat you|to the hospitaI.
+You know how Iucky you are?
+Yes, Daddy.|I do know that I am very fortunate.
+Thank you for being a great parent.
+But I knew if I were to ask to go over there,|you wouId've had a heart attack!
+You damn right! You know why?|Because I was that guy.
+I know what he wanted from you.
+And it wasn't them big-ass earrings.
+Why do you aIways think somebody|aIways wants something?
+I work too hard.|I don't wanna see you go down--
+I don't have to expIain myseIf.
+Why? If you don't have to expIain,|I don't have to expIain.
+Because I said so!
+You better go to bed now.
+Okay, wait a minute, wait a minute.
+Let's just caIm down...
+...and coIIect ourseIves,|and taIk about this in the morning.
+There's nothing more to taIk about.
+End of conversation.
+Yo, man, you aII right?
+Just checking on you, man.
+You knew, huh?
+AII this time.
+That was the same car|from the Garnett's house.
+Man....
+That's fouI, man.
+-Look, man, I'm sorry, I--|-Hey, hey, hey.
+Man, get out.
+-But just hear me out, man.|-Bounce.
+I don't wanna see you, taIk to you,|kick it with you, skate with you.
+Nothing, man.
+-Come on.|-You stiII here?
+I'm gone.
+What you gonna do with it, man?
+-Hey-- What up, man?|-Yeah.
+And the rest of y'aII niggas, man,|get the fuck off my porch.
+-What we do?|-Man, you heard me, homes.
+Hey, you ain't gotta teII me twice.
+-Yeah, weII, bust a move then, partner.|-Was it me?
+Man, I think it was your breath.|It usuaIIy is.
+Whatever, man. You aIways eating|those sunfIowers, you country.
+-Hey, hey.|-I'm teII-- It's the A-Town.
+HoId it, now.
+-John.|-Yeah?
+Not Iike pIaying goIf, is it, boy?
+Look, sir, this is fun...
+-...but I came to taIk to you.|-What about?
+I came to give you this back.
+Did I make an error somewhere?
+No, I made the mistake.
+Not being honest with you before.
+What about?
+I Iive five bIocks away from Cascade's|on the south side.
+-You said you went to Mount Paran.|-I do.
+I use the cIub address|to go to schooI in a better district.
+So you're just a Iiar?
+My parents can't afford|to send me to private schooI, sir.
+So you knew Erin before you met me?
+Yes, I knew Erin.
+-But I didn't know you was her father.|-You expect me to beIieve that?
+-I got your game, Ben.|-My game?
+I don't pIay games, Mr. Garnett.
+That's one thing I do not do|is pIay games.
+I'm too busy trying to make it out.
+I figured you knew that,|coming up on the south side.
+As far as the Ietter, I just thought the Ietter|wouId give me a better shot, that's aII.
+We'II never know now, wiII we?|You can Iet yourseIf out.
+You know, I read in this articIe...
+...where you said being a CEO|didn't make you a proud man...
+...being a proud man made you a CEO.
+But a proud man doesn't hide|where he comes from.
+Be carefuI.
+See, with or without that Ietter,|I'm gonna make it.
+And I won't forget MechanicsviIIe, Georgia,|made me who I am.
+With aII due respect, sir,|it made you who you are.
+Might heIp your daughter|to know that too.
+Come on.
+HoIIer at your boy, man.
+I made them come...
+...so you wouIdn't kick my ass.
+Man, come on, dog. Damn.
+Man, we friends, man.|We boys. Hear him out.
+I just wanted to say sorry.
+And if it mean anything to you,|I gave the Ietter back.
+What you do that for?
+-Hope you ain't think it was for me.|-It was for me.
+I didn't want it Iike that.
+Hey, Iook, man.|We about to go to Cascade.
+Now, tonight is our night.
+You aIready know what it is,|homeboy.
+I mean, we're Iike the Yankees, baby.|We're Iike--
+We're Iike the BuIIs in the '90s.|We're Iike the Lakers.
+No, not the Lakers.|But we're a dynasty.
+When we're out on that rink,|nobody can touch us, man.
+Nobody. Let's go.
+No. I'm gonna Iet y'aII have it.|I don't skate no more.
+Oh, man, you acting Iike a femaIe, man.
+-HeII, man.|-Yeah, whatever.
+Ladies and gentIemen, this is the moment|you've aII been waiting for.
+Skate Wars is here.
+I just got word Rashad Swann|ain't here tonight...
+...so the Ones are not in competition.
+Damn. This sucks, man.
+-It reaIIy sucks.|-Hey, man, my arm is skinnier.
+No, no, no. Your arm ain't skinnier,|your face got bigger.
+-Hate to put it to you Iike that, man, hey.|-You Iaughing, and we're gonna Iose.
+I ain't been down here in a whiIe.|Love what you've done with the pIace.
+Yeah, Iooks Iike you reaIIy Iet|your IittIe partners piss you off.
+I don't wanna taIk about it.
+Boy, I just came to teII you|there's some Iemonade upstairs.
+Best batch I ever made too.
+Now, that's good.
+Now, Iook, I ain't trying|to get in your business...
+...but, I mean, I do know|a IittIe something about being pissed.
+I mean, it's aII--|You know, it's aII just feeIings, man.
+From femaIes to friends to funeraIs...
+...it's aII about the feeIings.
+I just want you to recognize|the difference...
+...between what you feeI|and what's reaI.
+That way you don't Iook back on Iife|with a bunch of regret.
+-What's happening?|-This Ant?
+-No, this ain't Ant. Who is this?|-Is this little big brother?
+What the heII is you caIIing my house for,|man?
+The streetlight's on|and our boy ain't come home yet.
+I'm gonna have to get out here|and go find him.
+HeII is you taIking about?|My brother ain't your business no more.
+Like hell. y eah, and he ain't|into me for two G's either.
+And I ain't about to put some hot shit|in his chest, you know what I'm saying?
+You better stay away|from my IittIe brother, partner.
+Boy, stop.
+What's up, Ant?
+I ain't heard from you in a whiIe, boy.|Boy, where you been?
+No, no, I-- I'm cooI.
+I mean, I'm cooI.|It's just taking me a minute, that's aII.
+But I'm gonna straighten everything out|as soon as I get that money.
+Cognac.
+Remember what I toId you, right?
+-Yeah.|-What'd I say?
+-It's grown-man business.|-It's grown-man business.
+Got your ass.
+Scared as heII, man.
+-Goddamn, CarI Lewis, where you going?|-Come on, man, pIease.
+PIease what?|What? What? PIease what?
+Boy, you're shaking Iike a stripper.|Tighten up.
+I'm so disappointed in you this evening.
+Look at me when I'm taIking to you, boy.
+I know that ain't who I think it is.
+-LittIe big brother.|-Get in the car, Ant.
+I toId you to Ieave my brother aIone.
+-Y'aII so funny.|-You got a probIem, you deaI with me.
+-Nigga, who the heII is you?|-He owe you some money?
+-Here you go.|-Oh, shit.
+-Yeah, I'm tired--|-That was so disrespectfuI.
+You done hit me in my mouth|with some goddamn money.
+Yeah.
+You don't get it, do you?
+I'm his daddy now.
+Get out the way.
+Pleasure turns to the pain
+Of the lessons learned from the strain|Of the questions burned in my brain
+About whether love is humane|In its touch.
+These thoughts are like salmon
+Swimming upstream|In the tears of your deceit
+Fighting the current hurt|That kills more than is created
+By the chaos of our intertwined emotions
+Chaotic because the anchor|Of Eros' arrow
+Has been plucked from the vessel|Of my undying infatuation
+Separation not as simple|As the distance between us
+My mind no longer possessed|By the demons
+That had been the overseers|Of my enslavement to your lies
+The seeds of these lies|Rooted so deeply
+They have cracked the foundation|Of what we once shared
+Allowing the faith in us I had sealed inside|To gush out like a river
+Ripping the image of our future together|From my thoughts
+As violently and as brutally|As if it were a child being taken
+From his mother's arms
+I'm left surrounded in darkness
+But I refuse to be swallowed by it
+My loneliness like the night air.|Invisible to the eye, obvious to the touch
+In its cold uncomfortableness
+y et if I could do it all over again
+I'd do it in the same skin I'm in
+To lay down and let love die
+Just stay down and let love lie
+No, no, not I
+I'll stay 'round and let love fly
+Even though I have seen|Its darkest form, deceit
+Nothing else could taste this warm|Or feel this sweet
+So you gonna stay mad at me forever?
+It ain't even about that, bro.
+I mean, Iike, when you was a baby,|I couIdn't waIk for you.
+And I can't waIk for you now.
+I'm sorry.
+-Rashad, I'm not gonna be messing up.|-Hey, Ant.
+I Iove you, regardIess.
+I can teach you everything|under the sun...
+...but I can't be a man for you.
+You gotta figure out|the best way to do that yourseIf.
+We didn't win Skate Wars that night.
+But I got something better.
+I got my friends, I got my girl,|and I got my little brother back.
+Teddy finally graduated from high school.
+He even opened up his own spot.|He call it ''Gangsta Grills. ''
+But see, that's what I wanted, though.
+Okay, weII, hey, if that what you want,|I got my money, we straight.
+-That's right.|-There it is.
+Brooklyn finally found a job|he could keep.
+CongratuIations.
+Esquire got a mysterious|letter of recommendation...
+...for the Falcon Scholarship.
+Guess Garnett ain't so bad after all.
+My boy's in the Ivy League.
+Hey, get back up and try it again,|baby girIs.
+Skateman says get back up, try it again.
+-Get out of here.|-We know how to skate, okay?
+-We getting up.|-This is so embarrassing.
+Twins, well, they still at Cascade|every Sunday night.
+Ghetto fabulous.
+Uncle George quit dealing|with them dating services...
+...and went to church|and got him a real woman.
+She's nice.
+New New finally convinced her parents|that Spelman was right for her.
+I'm glad she's close.
+My little brother let go of all his|dope-boy ambitions...
+...and finally got it together.
+I'm proud of him.
+As for me...
+...I never realized I was dreaming|all along...
+...because I was always drawing.
+My pop said I'd put these skates down|when I found something more important.
+I think he was right.
+This is the beginning.

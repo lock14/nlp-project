@@ -1,915 +1,915 @@
-{1}{1}25.000
-{26}{176}Advertise your product or brand here|contact www.OpenSubtitles.org today
-{1400}{1466}Tammy, open the door.|Tell them Dad's not home.
-{1531}{1601}They're here to buy the car,|they don't need to know I'm a widow.
-{1606}{1690}Tell them your father's not home,|but your Mom is. It's okay, go on.
-{1715}{1787}Esty can go.|- I won't be part of this.
-{2145}{2200}Hi, we're here about the Peugeot.
-{2228}{2292}My father's not home.|- When is he due back?
-{2321}{2342}I don't know.
-{2357}{2437}It's about the car? Good,|come on in, I'll get the keys.
-{2442}{2495}My husband just stepped out.|- We don't want to disturb...
-{2500}{2546}I'll bring the papers.|- We work nearby.
-{2550}{2642}We'll come back when your husband's|at home. Have a nice day.
-{2655}{2680}See you.
-{2731}{2834}{Y:i}My father died of cancer a year|ago, two weeks before Lag B'Omer.
-{2848}{2897}{Y:i}I was 15 at the time.
-{2912}{2959}{Y:i}This week|the year of mourning ended
-{2963}{3016}{Y:i}and Mom finally decided|to sell Dad's car.
-{3020}{3107}{Y:i}It's been sitting in the same spot|since Dad last parked it there.
-{3118}{3217}{Y:i}Since these are hard times for the|people of Israel, Mom also decided
-{3221}{3298}{Y:i}to join the founding group of|a new settlement in the West Bank.
-{3305}{3401}{Y:i}But first she has to pass Motke|Kupfer's acceptance committee.
-{3423}{3461}{Y:i}This is Motke.
-{3465}{3522}{Y:i}He likes to have his picture taken|with important people.
-{3554}{3597}{Y:i}Mom always says that Motke
-{3601}{3670}{Y:i}is one of the most influential|people in Religious Zionism.
-{3676}{3745}{Y:i}But I think that my father|didn't like him much.
-{3783}{3846}{Y:i}Shula, his wife,|is a good friend of my mother's
-{3852}{3936}{Y:i}and Ya'ir, their youngest son,|is in my youth group.
-{3962}{4031}{Y:i}Even the Minister of Interior|came to his Bar Mitzva.
-{4045}{4104}Okay, tell us what you do.
-{4110}{4188}I'm a construction engineer,|I work for a building company.
-{4192}{4259}I'm an insurance agent.|- I'm a lawyer in a Tel-Aviv office.
-{4263}{4361}I'm a special-ed teacher. - I'm an|English teacher for 5th graders.
-{4368}{4413}Tell him what you do in the army.
-{4444}{4532}In reserve duty,|I'm a battalion commander.
-{4538}{4637}I think that these days we|should all take the initiative
-{4641}{4709}and strengthen these settlements.
-{4713}{4750}We feel that this|is the need of the hour.
-{4754}{4847}And quality of life for the kids.|We couldn't afford that in the city.
-{4851}{4935}It's really important to us,|to have a house with a lawn...
-{4939}{5001}We couldn't afford that in the city.|- Yes, of course.
-{5005}{5057}But that's not the main reason...
-{5061}{5100}If you were on|the acceptance committee,
-{5105}{5174}what kind of people would you pick|as your neighbors?
-{5200}{5238}People like us, I think.
-{5242}{5270}People like us.
-{5274}{5302}Mainly people like us.
-{5326}{5360}People like you.
-{5397}{5481}You know, establishing a settlement|isn't just having meetings.
-{5497}{5579}It's also hard physical work.|Are you sure you can handle it?
-{5598}{5647}Alone?|- I'm not alone.
-{5690}{5747}I won't lie to you. The number|of trailers we have is limited.
-{5751}{5797}And if you move into one of them...
-{5802}{5873}it means one less man|for guard duty,
-{5880}{5930}one less for the prayer quorum.
-{5934}{5966}It's something I need to consider.
-{5970}{6046}I can't complete a quorum,|but I can do guard duty.
-{6050}{6100}I see no problem here.
-{6122}{6201}Okay, Rachel. Let us think about it|and get back to you.
-{6213}{6250}Keep up the good work!
-{6290}{6343}I'd just like to tell you
-{6347}{6430}that being a part of this settlement|is very important to me.
-{6457}{6515}You don't need another guard.
-{6527}{6576}You need someone|who believes in the cause.
-{6580}{6630}Someone strong enough|to withstand the difficulties,
-{6634}{6731}and I have that strength more than|most of the people you know here.
-{6780}{6821}This is my dream.
-{6937}{7003}His name is Yossi Moraly.|The sweetest man, a bachelor.
-{7007}{7081}If it's okay, I'll give him|your number. He'll call you.
-{7111}{7167}Say yes, Rachel.|What's there to lose?
-{7171}{7210}I've been planning this|for a year now.
-{7215}{7260}It will also help them see|that you're serious.
-{7264}{7315}I'm very serious. That's why|I said what I did earlier.
-{7319}{7367}I just hope they understood me.
-{7377}{7440}So you agree?|Can I give him your number?
-{7512}{7557}All right.|What did you say his name was?
-{7561}{7603}Yossi.|Yossi Moraly.
-{7614}{7666}Why do you have to beg them?
-{7683}{7747}If they want you, they'll say so.|And if they don't,
-{7751}{7790}there's nothing for you there|anyway.
-{7794}{7845}What do you mean, "if they don't|want us?" They don't.
-{7849}{7884}Didn't you see how they treated us?
-{7888}{7931}As though we were lepers|or something.
-{7935}{7999}Anyway I'm not moving to that place.|There's nothing for me there.
-{8003}{8068}So where do you intend to live?|I'm renting out the apartment.
-{8072}{8143}If you rent it, I'll live on the|street and become a prostitute.
-{8147}{8207}You'll have one daughter a settler|and another daughter a hooker.
-{8211}{8264}What will you do?|Drag me there by force?
-{8268}{8336}I don't want to live in that|settlement with your friends.
-{8368}{8440}{Y:i}And I decided that at all costs,|no matter what,
-{8456}{8501}{Y:i}this year I'll be happy.
-{8725}{8788}Ignore them.|- Tammy Gerlick!
-{8793}{8838}What's up?
-{8857}{8935}Tammy Gerlick, what's up?|Got your period today?
-{8943}{8996}Do you know them?|- They're in my youth group.
-{9000}{9043}Tammy Gerlick!
-{9075}{9149}Can I help you? - Yes.|You can behave like a human being.
-{9153}{9185}What's that?
-{9189}{9234}Go on, turn around!|Why d'you stop?
-{9238}{9285}Watch your mouth. You don't|know who you're dealing with!
-{9289}{9351}You're right, absolutely right.|We're sorry.
-{9525}{9590}In my time we didn't have|people like that in Bnei Akiva.
-{9596}{9633}He's cute...
-{9713}{9739}Hello.
-{9794}{9846}Just a moment, I'm not sure.|I'll see.
-{9858}{9925}Dad, it's for you!|About the car!
-{9951}{9979}Dad!
-{10049}{10126}Mom, is Dad home?|It's about the car.
-{10200}{10226}Dad!
-{10230}{10286}Would you stop that already?|It's not funny anymore.
-{11057}{11087}Hello.
-{11119}{11173}Hello.|I'm Yossi.
-{11180}{11232}Rachel.|Nice to meet you.
-{11265}{11334}Are you hungry? 'Cause I haven't|eaten all day. - Very hungry.
-{12180}{12213}Here.|Sit here.
-{12347}{12390}Everything okay?
-{12723}{12762}Everything okay?
-{12787}{12866}I can turn on the heating.|- No thanks, I'm fine.
-{12881}{12927}How do you know...|- I can...
-{12934}{12996}Sorry. - No, no. Go ahead.|What were you saying?
-{13000}{13077}No, I just wanted to ask|how you know Motke and Shula.
-{13081}{13123}I heard you were good friends.
-{13127}{13187}Motke and I were in yeshiva|together.
-{13210}{13269}And I knew Shula even before that.
-{13277}{13347}She's been trying to marry me off|for twenty years now.
-{13379}{13498}{Y:i}Electricity flows from your hands|Love me gently
-{13536}{13681}{Y:i}Love me with your hands,|Slowly, desperately
-{13771}{13843}{Y:i}Cheek, neck, shoulder...
-{13848}{14004}{Y:i}Love me with your hands,|slowly...
-{14068}{14158}I'll have the sweet and sour|chicken, please. - Same for me.
-{14348}{14401}She says you could order|something else
-{14405}{14453}and she'll put it in the middle.|- No.
-{14457}{14526}Chicken is fine.|Let her bring chicken. Excellent.
-{14530}{14590}But she should bring us bread,|for the blessing.
-{14594}{14659}I don't think they have bread|in a Chinese restaurant.
-{14844}{14909}Eggroll, bring eggrolls.|Eggrolls are good.
-{14913}{14984}She should bring eggrolls.|I've tried them, they're delicious.
-{15271}{15337}Nice place, isn't it?|- Yes.
-{16666}{16712}Did we disturb you?
-{16722}{16751}No.
-{18148}{18218}Well, what do you think?|- About what?
-{18224}{18280}Think you'll want to see me again?
-{18341}{18392}It's okay,|you can say no.
-{18415}{18467}I know we're not right|for each other.
-{18490}{18581}But I enjoyed tonight anyway.|I enjoyed meeting you. Really.
-{18610}{18642}Thank you.
-{18666}{18746}Am I your first date|since your husband died?
-{18797}{18847}So how was it?|Okay?
-{18878}{18945}I think so. I don't know.|You tell me.
-{18972}{19038}I've been on much worse dates.|- Worse than this?
-{19042}{19081}Believe me.
-{19092}{19186}Once I was fixed up with a woman,|on a blind date, just like this,
-{19193}{19241}and when I came to pick her up|it turned out
-{19245}{19304}we'd already been fixed up|a few years before.
-{19330}{19381}What, you didn't remember her name?|- No.
-{19385}{19464}Neither did she.|How can you remember so many names?
-{19468}{19548}Why, how many dates are we talking|about? How many women did you meet?
-{19556}{19586}Hundreds.
-{19619}{19650}But I stopped all that.
-{19654}{19712}In the last two years|I stopped saying yes.
-{19726}{19745}Why?
-{19757}{19804}It wasn't working.
-{19808}{19838}I felt bad.
-{19842}{19894}I felt people had given up on me.
-{19909}{19966}Truth is,|I pretty much gave up on myself.
-{19970}{20047}And tonight? - You know Shula.|She's really pushy.
-{20058}{20100}I thought she'd|already given up on me,
-{20104}{20187}but then she came up with this idea|that I have to meet you...
-{20195}{20249}So I felt awkward.|I agreed.
-{20255}{20290}And that's it.
-{20309}{20353}And you're terrific.
-{20431}{20488}Okay, let's take you home.
-{20802}{20877}MiniYossi Bus Service -
-{21060}{21112}The best of luck to you, Rachel.
-{21140}{21215}Just don't despair, everything|will be okay, I'm telling you.
-{21256}{21345}And if you ever need a ride|anywhere, call me.
-{21373}{21443}Okay, thanks.|- Good night. - Good night.
-{24512}{24575}Esty, be careful not to walk|barefoot here now.
-{24580}{24608}What?
-{24856}{24904}What are you doing?
-{24917}{24976}No one locks doors in my house.
-{24982}{25034}You want privacy?|Get married.
-{25092}{25138}Tammy, be careful|not to walk barefoot here.
-{25142}{25173}Are you out of your mind?
-{25177}{25246}You're a total psycho! What's wrong|with you? You should be committed.
-{25250}{25308}I swear, I'll call the police!
-{25312}{25370}Tammy. Bring me the garbage-can.|- Does this seem normal to you?
-{25374}{25418}Why are you helping this madwoman?
-{25422}{25487}Think I care?|I'll show you privacy!
-{25623}{25708}Help! There's a crazy woman here!|Someone call the police!
-{25712}{25744}Help!
-{25750}{25808}If you don't come inside,|I'll smash your guitar.
-{25812}{25885}If you touch my guitar, I'll take|off my clothes for everyone to see!
-{25889}{25965}We'll see what they think of that|at the acceptance committee.
-{26143}{26172}Hello.
-{26241}{26316}My Dad's in army reserve duty.|Call back in a month.
-{26469}{26514}We've decided to accept you|to the founding group.
-{26518}{26550}But for a trial period.
-{26560}{26621}I'm very sorry, Rachel,|but you have to understand.
-{26625}{26690}A settlement is like a|delicate plant. A tiny plant.
-{26714}{26778}Too much wind, too much rain,|and the plant dies.
-{26792}{26881}So before I put it in the ground,|I have to make sure
-{26885}{26991}it's strong, that all|the elements are at their best.
-{27011}{27074}Let me get this straight.|Am I in, or not?
-{27108}{27166}Before we move to the site,|we'll have a vote.
-{27170}{27222}Are there any other people|on a trial period?
-{27244}{27266}No.
-{27272}{27361}Don't worry, I'm sure they'll accept|you in the end. Not to worry.
-{27420}{27463}Did you talk to Yossi?
-{27467}{27524}I understand|you're not interested.
-{27532}{27614}Still, I wanted to thank you.|I'm glad I did it.
-{27620}{27659}I'm glad too.
-{27664}{27747}Remember, this is a second marriage.|Don't expect any fireworks.
-{27751}{27812}You have to get it into your head|that you're looking for...
-{27825}{27886}I don't know, a good friend|who'll keep you company.
-{27890}{27980}He doesn't need to be a knight in shinin|armor. He just needs to be a "mensch."
-{28028}{28098}Look,|I have someone else for you,
-{28109}{28150}but I don't want to bother him|for nothing.
-{28154}{28215}Maybe you're not ready yet.|- I'm ready.
-{28220}{28262}His name is Moshe Weinstock,|he's divorced.
-{28266}{28316}Motke knows him from the army,|he was an army cantor.
-{28320}{28365}He's a very impressive,|very wealthy man.
-{28369}{28431}He gets invited from all over|the world to lead the prayers.
-{28446}{28492}Do you know him?|- No.
-{28496}{28577}But I think Shmuel once|went to see him sing at a concert.
-{28604}{28666}So are you interested?|- I think so. I...
-{28670}{28719}Good, I'll talk to him.
-{28725}{28776}But Rachel, I have to know|that you're serious.
-{28780}{28854}He's not someone to play games|with. He's no MiniYossi.
-{28870}{28911}Okay.|I get it.
-{28975}{29042}It stings a little, but don't worry.
-{29071}{29131}You have to keep it on|for ten minutes.
-{29211}{29270}Careful you don't eat it...
-{29292}{29323}You do that all your life?
-{29327}{29389}You wish! Soon you'll start|growing a beard too.
-{29393}{29480}But don't get upset. It's well-known|that hairy women are smarter.
-{29492}{29556}I'd rather be stupid|but not have a beard.
-{29565}{29605}At least you got Dad's coloring.
-{29609}{29679}Imagine what it's like to have|a mustache like mine and Mom's.
-{30067}{30128}Enough already.|Make up.
-{30181}{30235}Know why Dad died quickly?
-{30254}{30344}The doctors said some people|live for years with his illness.
-{30362}{30448}He knew Mom didn't have|the patience to take care of him.
-{30469}{30499}Tammy!
-{30532}{30571}Tammy, come to eat.
-{30812}{30887}{Y:i}I know you don't like to hear|Zionist talk.
-{30894}{30974}{Y:i}But still,|here are just a few clean words.
-{30978}{31048}{Y:i}We're setting out on a mission|thousands of kilometers from here
-{31052}{31099}{Y:i}in order to save Israelis.
-{31109}{31194}{Y:i}Just because they're Israelis.|And Jews.
-{31217}{31313}{Y:i}And if we don't do it,|no one else will do it for us.
-{31347}{31423}{Y:i}This is a long and complicated|operation
-{31429}{31469}{Y:i}and I want to emphasize
-{31473}{31532}{Y:i}that the success or failure|of the mission
-{31547}{31631}{Y:i}depends on us alone.|Good luck.
-{32528}{32575}{Y:i}Blessed be the True Judge.
-{32642}{32675}{Y:i}Yoni is dead.
-{33277}{33375}Goslan, you nut! Don't you dare|show your face here again!
-{34915}{34961}Rachel?|- Yes. Moshe?
-{34966}{35039}Moshe. Moshe Weinstock.|Hello. Nice to meet you.
-{35081}{35139}I hope you didn't wait long?|- No.
-{35182}{35242}Nice hotel, no?|I like it a lot.
-{35246}{35352}Exclusive.|But not too fancy-shmancy.
-{35391}{35474}They have a cake here.|A cheesecake. Unbelievable.
-{35478}{35542}I'm not just saying that.|It's world-class.
-{35562}{35607}You have to taste it.
-{35629}{35717}Do you come here often?|- You might say they know me here.
-{35738}{35810}Shula tells me you're a cantor.|- Cantor...
-{35830}{35921}I just lead the prayers once in|a while. No need to exaggerate.
-{35974}{36095}{Y:i}Kol Nidrei...
-{36103}{36175}This is my favorite part.|It's my father's melody.
-{36507}{36560}Come on, what are you afraid of?
-{36564}{36622}I'm not getting into trouble|with your mother.
-{36626}{36668}There's no one here.|- Are you out of your mind?
-{36672}{36741}I'm not going into that room.|Think I'm crazy?
-{36789}{36871}What's the matter? Come on.|- Come downstairs.
-{36877}{36936}I don't want to go downstairs.|Who cares about the door?
-{36940}{37008}Stop it, Esty.|I'm not kidding. I'm leaving.
-{37016}{37062}Okay then, leave.
-{37068}{37118}Don't be crazy.|We can't be here with that door.
-{37122}{37162}Your mother's due back any minute.
-{37179}{37251}Okay. No one's forcing you|to stay here. Go.
-{37296}{37365}I swear, you're even crazier|than your mother.
-{37736}{37776}Are you nuts? Blowing up|bullets here in the Center?
-{37780}{37844}But what a cool explosion!|- He'll kick you out.
-{37904}{37981}What's the matter, Tammy Gerlick?|Too snotty to say hi?
-{37996}{38040}What, we don't exist?
-{38044}{38100}If you'd say hi,|I'd answer you.
-{38124}{38199}Okay, but why did you stop?|Keep going. Get lost!
-{38203}{38255}Hey, you moron!|Forget about him, Tammy.
-{38259}{38295}He's a psycho.|You can stay.
-{38299}{38348}Why is she staring at us?|- Why are you chasing her away?
-{38352}{38389}I feel like it.|- Great.
-{38393}{38453}It's okay.|I have to go anyway.
-{38556}{38663}Tammy Gerlick, is it true|that you put out? Tammy Gerlick.
-{38668}{38708}Tammy Gerlick!
-{38735}{38782}Stop it.|Shut up already.
-{38871}{38909}Wait a minute, Tammy.
-{38957}{38981}Hi.
-{39038}{39110}I just wanted to tell you|not to be offended by what happened.
-{39114}{39168}That Goslan guy is insane.
-{39176}{39242}It's okay.|But thanks.
-{39314}{39361}Who's the soldier|who was with you the other day?
-{39365}{39417}Who, llan?|- He's just Yaniv's brother.
-{39423}{39506}He doesn't have any friends his age,|so he hangs out with us.
-{39691}{39743}I hope that's not yours.
-{39753}{39791}Actually, it is.
-{39849}{39896}It's okay, you can sit.
-{39900}{39948}No one's touched it for a year.
-{39952}{40007}I bet the battery's dead.
-{40024}{40102}You know about cars?|- A little. Why?
-{41008}{41056}Nothing.|The battery's dead.
-{41060}{41106}Not just the battery...
-{41219}{41264}Is this weird for you?
-{41297}{41353}Why didn't you want us to visit you|while you were mourning?
-{41357}{41396}Who said I didn't want you to?
-{41400}{41437}That's what they said.
-{41444}{41496}Ya'ir and Ayala would come to|the Center, huddle-up in a corner,
-{41501}{41579}and then they'd choose the|delegation to comfort you.
-{41585}{41681}Whoever wasn't chosen would stay|at the meeting with all the geeks.
-{41726}{41775}So you stayed with the geeks?
-{41779}{41836}The geeks and the lowlifes.
-{41854}{41902}But then I went home.
-{41908}{41977}That's how it is, when Ya'ir|and Ayala and you aren't there,
-{41981}{42050}there is no point in staying.|Don't you know that?
-{42054}{42084}That's funny.
-{42102}{42186}I'm always sure that wherever I am|is where it's the least interesting.
-{42210}{42287}Shame you didn't come to comfort us,|you'd see I was right.
-{42324}{42394}They said your family didn't want|too many people coming.
-{42421}{42477}Actually, I wanted you to come.
-{42778}{42815}I have to go.
-{42912}{42994}See you at the bonfire? - I may not|go to the youth group's bonfire.
-{42998}{43017}Why not?
-{43033}{43123}I think we'll have our own bonfire.|All the geeks and lowlives.
-{43150}{43221}Shame.|My birthday's on Lag B'Omer.
-{43225}{43278}What, right on the day?
-{43289}{43342}According to the Gregorian calender|it's the day before.
-{43346}{43392}A day before doesn't count.
-{43458}{43478}'Bye.
-{44061}{44129}Did you call for a ride?|- Thank you.
-{44695}{44753}The world is like Noah's Ark.
-{44758}{44814}If you're not in a couple,|you're left out.
-{44818}{44856}What's so bad about that?
-{44860}{44906}Maybe it's easier for men.
-{44928}{45020}I want you to know, I look at you|and think how lucky you are.
-{45025}{45125}You have two daughters,|a nice apartment, a community.
-{45134}{45166}That's a lot.
-{45209}{45267}And you're still young|and beautiful.
-{45292}{45359}I probably won't have children.
-{45368}{45415}I have some friends...
-{45432}{45504}You've never had a serious|relationship with a woman?
-{45519}{45574}All those women you met?
-{45640}{45690}I'm attracted to women,|if that's what you're asking.
-{45695}{45741}No, of course...|I just didn't understand.
-{45745}{45817}But I've never had sexual relations|with a woman.
-{46029}{46108}When I was at the Yeshiva, I said,|"I'll wait till I'm married."
-{46123}{46163}And it didn't happen.
-{46204}{46252}I'm sorry.|I didn't mean to embarrass you.
-{46256}{46340}It's not something that usually|comes up. - It's okay. Really.
-{46466}{46513}Are your parents alive?
-{46562}{46599}Brothers? Sisters?
-{46603}{46680}I have three sisters.|They're all grandmothers by now.
-{46734}{46789}So you're in touch|with your nephews?
-{46793}{46872}When they were kids,|I was the cool uncle.
-{46894}{46945}The one who brought presents.
-{46949}{46993}But in the last few years|everything changed.
-{46997}{47044}They're busy with their own lives.
-{47104}{47139}Everyone's busy.
-{47193}{47242}What do you do on Shabbat?
-{47295}{47323}Sleep.
-{47665}{47743}Well, I think I'll be going.|It's late.
-{48056}{48124}Good night, Yossi.|- Good night. Rachel.
-{48131}{48223}If you ever need a ride anywhere,|call me. - Sure.
-{48266}{48312}Good night.|- Good night.
-{49186}{49258}Happy birthday, Tammy.|- Thanks.
-{49262}{49326}You're welcome.|It's your birthday.
-{49341}{49484}And I think this a great opportunity|for us to sit down and talk.
-{49488}{49598}Since Dad died|I may not have done enough
-{49602}{49708}to find out what you're going through,|but I'd like to change that.
-{49713}{49795}I want to hear everything|you have to say, really I do.
-{49799}{49881}Tell me everything that's|on your mind. Let it all out.
-{49959}{50007}Tammy, do you want to start?
-{50046}{50079}Esty can start.
-{50140}{50211}In the last year|you've completely lost it.
-{50215}{50277}That thing with the door,|what was that about?
-{50282}{50332}The whole settlement thing,|Dad would never move there.
-{50337}{50399}I'm sure he wouldn't have sucked up|to them like you do.
-{50404}{50473}If that committee told you to run|around naked,
-{50477}{50552}you'd do it and the last thing|you'd care about would be us.
-{50583}{50632}That's what's on my mind.
-{50784}{50809}Tammy?
-{50904}{50968}I know you're having a hard time,|Mom,
-{50983}{51039}but sometimes I feel...
-{51045}{51119}you try so hard|to show the world we're okay,
-{51123}{51199}that you overlook the fact that|we have feelings too.
-{51226}{51346}We can't lead our lives according|to what Shula and Motke decree.
-{51402}{51457}Of course, of course.
-{51465}{51525}I'll take that into consideration.
-{51541}{51580}I just want you to know
-{51585}{51637}that you are the most precious|thing in the world to me
-{51644}{51726}and that your lack of consideration|and cooperation...
-{51764}{51816}I just feel that you do it|to spite me.
-{51820}{51892}I feel that you blame me|for Dad's death.
-{51912}{51952}You're young,|you don't understand...
-{51957}{51996}and I hope you never will,
-{52000}{52051}but I want you to understand this:
-{52055}{52111}We're living under|a magnifying glass.
-{52116}{52206}I want you to know that if we're not|accepted into this new settlement,
-{52210}{52275}I'll be left here without|one single set of friends.
-{52279}{52339}What you're doing is simply|spitting in my face.
-{52343}{52405}If you want to be left|without a mother too,
-{52410}{52460}then this is the way to achieve it.|- I don't need this.
-{52464}{52508}Happy birthday. Tammy.
-{53548}{53568}So you came?
-{53573}{53651}No, but I brought you|a birthday present.
-{53970}{53994}Thank you.
-{53999}{54043}Do this with your hand.
-{54311}{54366}Happy Birthday, Rafi -
-{54417}{54442}Thank you.
-{54513}{54609}Well, I'm off. They're waiting|for me at the bonfire. 'Bye.
-{54639}{54664}'Bye.
-{55412}{55479}{Y:i}Rejoice and be happy,|praise the holy word
-{55484}{55553}{Y:i}Shimon Peres is a stinking turd...
-{55734}{55829}{Y:i}Sanctify your life,|with the Torah
-{55840}{55937}{Y:i}And purify it|through the labor.
-{55945}{56056}{Y:i}Boys! The fruit of your labor|will make you happy!
-{56060}{56176}{Y:i}Girls! The fruit of your labor|will make you happy!
-{56506}{56600}Well? I hear from Moshe|that it was a big success.
-{56604}{56671}That's what he told you?|- He hinted that it could lead somewhere,
-{56676}{56724}but he wouldn't tell me too much.|You tell me.
-{56728}{56773}It's a real experience,|to meet him, isn't it?
-{56777}{56830}I'm very surprised|that's what he told you.
-{56834}{56856}See?
-{56860}{56946}Soon we won't know where you are,|you'll be globe-trotting with him!
-{57329}{57398}How long do you think|he can mess with that piece of wood?
-{57402}{57438}His entire life.
-{57605}{57657}Want to go to Rafi's bonfire?
-{57661}{57694}Now?
-{57699}{57775}Why not?|We'll say hi to Rafi and come back.
-{57779}{57808}I don't know.
-{57812}{57882}No one here's giving us|the time of day anyway.
-{57903}{57957}No. Forget it.|I don't feel like it.
-{57992}{58062}Okay, I'm going.
-{58423}{58479}{Y:i}Cute little girl|take off your shirt
-{58483}{58554}{Y:i}And if you're sweaty|take off your bra
-{58563}{58641}{Y:i}An angel from heaven|will come and kiss your breasts...
-{58645}{58717}Let's go back.|Suddenly I don't feel like going.
-{58721}{58770}Go back?|We're there already.
-{58801}{58851}Let's at least say hi.
-{58906}{58971}Okay, but if I want to go,|you're coming with me.
-{58975}{59022}I'm not going back alone.
-{59042}{59129}{Y:i}Tammy the whore|opened the store
-{59133}{59203}{Y:i}Everyone's standing in line|with a huge hard-on
-{59228}{59323}{Y:i}Inbal the whore|opened the store
-{59338}{59413}{Y:i}Everyone's standing in line|with a huge hard-on
-{59424}{59572}{Y:i}Here I pass|Standing near the stone
-{59590}{59733}{Y:i}Rocks and ridges|A black asphalt road,
-{59759}{59913}{Y:i}Evening falls slowly,|A sea breeze blows
-{59932}{60062}{Y:i}The first star shines|Over beit-Machsir
-{60104}{60255}{Y:i}Bab-el-Wad, forever|remember our names
-{60293}{60442}{Y:i}Convoys broke through|on their way to the city...
-{60462}{60498}Anyway, he pays her,
-{60503}{60587}She comes over and undresses him,|he does her and comes,
-{60591}{60659}she gets dressed,|so he says to her: Just a minute,
-{60663}{60703}this was a regular fuck,|what was Spanish about it?
-{60707}{60759}So she says:|You're right, I forgot.
-{60763}{60799}Ole!
-{60823}{60869}Hey, you morons,|you don't get jokes.
-{60873}{60913}No, that was funny.|Great joke.
-{60926}{60979}Here's another. The same rabbit|walks in the forest.
-{60983}{61040}Wait, wait a minute.|Enough of your rabbit.
-{61057}{61100}Maybe the girls have a joke.
-{61109}{61149}Give them a chance.
-{61153}{61213}Go on, relax a bit.|Got a joke? Tell us.
-{61217}{61299}I'll laugh for sure.|Here, I'm already laughing.
-{61307}{61354}Okay, I have a joke.
-{61359}{61448}I don't believe it.|- Not very funny, but never mind.
-{61500}{61593}A guy decides to give his wife|a jacuzzi for her birthday.
-{61610}{61696}She's happy, gives him a kiss.
-{61700}{61750}They both undress|and get into the jacuzzi,
-{61755}{61796}splash around in the water.
-{61806}{61856}Suddenly the doorbell rings.
-{61863}{61910}So the wife gets out,|puts on her robe
-{61915}{61963}and goes to see who it is.
-{61968}{62036}When she opens the door it's|the upstairs neighbor, Mr. Cohen.
-{62058}{62157}He looks at her with her robe|half open and says:
-{62161}{62219}I didn't know you were so pretty.
-{62240}{62325}I'll give you 100 dollars if you|open your robe more at the neck.
-{62333}{62379}Just a little.|Half an inch.
-{62383}{62461}So she opens her robe a little|at the neck,
-{62465}{62553}Mr. Cohen looks and gives her|100 dollars.
-{62609}{62657}Wow, this is|such a stupid joke...
-{62662}{62748}Why? - Go on. You can't stop in|the middle of a joke. It's the rule.
-{62756}{62780}Okay.
-{62807}{62932}So Mr. Cohen looks at her legs
-{62945}{63007}and says: If you open the robe|a little on the bottom,
-{63011}{63057}I'll give you 100 dollars.
-{63062}{63112}Open it just a tiny bit.|- Wait, what about the husband?
-{63116}{63185}He didn't notice that his|wife is opening her robe? - Shut up!
-{63191}{63230}Don't you know this joke?
-{63277}{63325}Everyone came.
-{63339}{63375}It was a success, wasn't it?
-{63380}{63428}It's always a success.
-{63477}{63535}Pity we didn't invite|Moshe Weinstock tonight.
-{63551}{63599}Well, he's not|in the founding group.
-{63610}{63670}But maybe Rachel will persuade him|to join us.
-{63703}{63771}It was really successful tonight.|- It was, wasn't it?
-{63775}{63809}Good night.|- I'm glad you came.
-{63813}{63877}See you tomorrow at the march.|- Yes, sure.
-{63881}{63936}Good night.|- Good night.
-{65573}{65637}Yossi?|Did I wake you?
-{65646}{65683}It's Rachel.
-{65700}{65740}Hello.
-{65766}{65907}I thought you might want to come|to the march with me tomorrow.
-{65988}{66064}Cool. I didn't know girls had jokes|like that. - You'd be surprised.
-{66071}{66142}You're crazy. Girls are twice as|horny as guys.
-{66149}{66188}Am I right?
-{66192}{66252}If I knew what it's like for guys,|I'd tell you.
-{66290}{66340}I can't believe|you're even answering him.
-{66345}{66410}Okay, I'm cold.|I want to go back.
-{66432}{66480}I have a jacket in the car.|Want it?
-{66485}{66535}You sure?|- You coming?
-{66540}{66586}Stay a bit longer.|Don't go.
-{66592}{66657}Till the fire goes out,|then we'll walk you back.
-{66662}{66691}Okay?
-{66696}{66755}If you like, you can sit|in the car and warm up.
-{66764}{66847}Come to the side for a moment.|- What? Why leave?
-{66882}{66949}Till the fire goes out,|then we'll go. I promise.
-{67014}{67070}Okay, I'll be in the car.
-{67652}{67716}Shirt hanging out,|shoelaces untied.
-{67720}{67757}Didn't know where I came from.
-{67762}{67807}Like I'm a reserve guy,|he says:
-{67812}{67897}Soldier, over here!|So immediately I start to limp.
-{67925}{68015}Sorry, do you mind|if I put my hand there?
-{68059}{68103}I think the fire's going out.|No?
-{68108}{68146}Wait, sweetie,|where're you going?
-{68151}{68188}I think I'd better go.
-{68193}{68261}Yaniv, go get the jerrycan.|Do me a favor.
-{68267}{68337}Wait a minute, what's the rush?|- Leave me alone, I want to go.
-{68342}{68419}Okay, we said, till the fire|goes out. It's not out yet.
-{68431}{68489}Yaniv, pour some on we'll see if|it's gone out. - Let go of her, llan.
-{68494}{68534}Pour it!
-{68812}{68887}What? Just a kiss.|What's the big deal?
-{68913}{68945}You okay?
-{68986}{69064}Just say if you're okay or not.|I don't want you to start screaming.
-{69069}{69094}You okay?
-{69134}{69181}I want to leave.|- No problem.
-{69200}{69240}Anyone stopping you?
-{69429}{69483}What about the others?
-{69489}{69539}They don't deserve|a goodnight kiss?
-{69544}{69593}What about Goslan?|He doesn't deserve one?
-{69599}{69641}And my brother doesn't deserve one?
-{69645}{69712}Come on, Goslan,|let's see what you can do.
-{69724}{69763}I'm holding her,|do what you want.
-{69767}{69801}Let her go,|you'll get into trouble.
-{69805}{69854}She agrees.|What are you uptight about?
-{69861}{69906}You agree, don't you?
-{69919}{69971}What did she come here for?
-{70180}{70251}Here, see?|She agrees.
-{70320}{70370}What do you think?|That's how women are.
-{70375}{70442}First they say no,|but then they enjoy it.
-{70446}{70479}Do you think|she doesn't want it?
-{70484}{70556}Sure she does.|She just won't say she wants it.
-{70984}{71046}It feels good, right?|See? It's not so bad.
-{71051}{71077}Can't you see she's crying?
-{71083}{71120}Come on, let her go, Goslan.|Let her go!
-{71124}{71182}What are you yelling about?|Are you her father?
-{71195}{71254}We're just playing around.|No big deal.
-{71284}{71348}Here, I'm letting her go.
-{71548}{71595}If she touches my dick,|I'll let her go.
-{71612}{71641}I swear.
-{71704}{71757}Just touch it for a second,|and I'll let you go.
-{71766}{71838}What do you care?|No force, just a little touch.
-{71844}{71872}That's all.
-{71920}{71975}Convince her to say yes,|and I'll let her go.
-{71992}{72042}What's the big deal?
-{72101}{72160}Here,|I'll give you ten shekels too.
-{72243}{72274}Come on, Tammy.
-{72360}{72415}I'll let you go right after.|I swear.
-{72431}{72490}Just a tiny touch,|and you get to keep the money.
-{72553}{72595}Don't play hard to get.
-{72602}{72650}And then|you swear you'll let her go?
-{72664}{72721}I swear.|I swear by my mother.
-{72848}{72895}Do you agree?
-{73162}{73235}Tammy! Tammy!
-{73247}{73350}Tammy! Tammy! Tammy!
-{74344}{74403}What's the matter, Rafi?|Are you okay?
-{74440}{74499}Look,|I'm sorry I hit you earlier.
-{74578}{74627}I just wanted|to tell you something.
-{74649}{74720}It's better to fuck some bimbo|than to be a snitch.
-{74776}{74825}I hope you understand that.
-{75732}{75799}You're Tammy, right?|- Yes.
-{75811}{75850}I'm Yossi.
-{75882}{75909}I know.
-{75920}{75983}Your mother asked me to|drive her to the march.
-{75987}{76041}So I'm waiting for her.
-{76050}{76092}Shall I get her?|- No.
-{76100}{76149}We're supposed to meet in|ten minutes. I'm just early.
-{76153}{76195}I don't want her to be pressured.
-{76270}{76328}Were you at the bonfire all night?|- Yeah.
-{76370}{76463}What fun.|How I miss those days.
-{76820}{76871}I hope you had a good time.|- What?
-{76886}{76967}Ayala and Ya'ir got home|two hours ago.
-{76978}{77052}Can you tell me where you've been|till now? - With Inbal.
-{77097}{77167}What's that smell?|Did you sit inside the bonfire?
-{77174}{77229}By the way, your ride is here.
-{78300}{78371}How was yesterday?|- It was nice. Pity you didn't come.
-{78379}{78437}I thought only the founding group|was invited.
-{78568}{78616}Maybe we shouldn't go to the march?
-{78620}{78663}Really?|- Yes.
-{78726}{78797}So where do you want to go?|- I don't know.
-{78815}{78875}Maybe somewhere with less people.
-{78895}{78944}I know just the place.
-{79102}{79145}Gerlick -
-{79323}{79389}Hello there.|- Hi.
-{79472}{79537}Is Tammy home?|- Yes. Want to come in?
-{79542}{79584}I'll get her.
-{79589}{79636}What's your name?|- Rafi.
-{79641}{79687}Just a second, Rafi.
-{79948}{80005}I don't know.|She won't answer me.
-{80014}{80105}Maybe you want to come back this|afternoon? - No, it's okay. Thanks.
-{80146}{80179}'Bye.
-{80235}{80288}Do you miss your husband?
-{80294}{80352}The girls miss him.
-{80362}{80406}And you?
-{80410}{80485}I miss having a man in the house.
-{80502}{80590}But my marriage wasn't very good.|I married so young...
-{80637}{80692}So why did you stay with him?
-{80728}{80768}I don't know.
-{80806}{80863}He was good to me.
-{80940}{81012}What's with all the questions?|- Sorry.
-{81017}{81081}No, it's okay.|You can ask.
-{81107}{81154}I don't mind.
-{81177}{81232}What do you want to know?
-{81289}{81348}Did he know you didn't love him?
-{81387}{81436}I think so.
-{81511}{81544}More questions.
-{81567}{81637}I have one more,|but I'm afraid of your response.
-{81645}{81706}Ask away.|Worst case, I won't answer.
-{81848}{81930}Is there any chance of you sleeping|with a man you're not married to?
-{82088}{82178}You're very direct.|- Sorry. I shouldn't have asked that.
-{82239}{82291}And if I asked you|the same question?
-{82398}{82446}I've decided I would.
-{82901}{82967}Where's Tammy?|- In her room.
-{83181}{83238}Tammy, did you lock the door?
-{83245}{83294}Shall I bring the hammer?
-{83320}{83401}Tammy, open the door. - She's been|locked in since this morning.
-{83411}{83454}Tammy, are you all right?
-{83459}{83529}What do you mean, since this|morning? - I mean this morning.
-{83534}{83583}Which part don't you get?
-{83624}{83717}Tammy, why did you lock the door?|You know we don't lock doors here.
-{83721}{83747}I'm sorry.
-{83798}{83862}What's this? Don't you want|to change? Take a shower?
-{83869}{83921}I'm tired.|Tomorrow, okay, Mom?
-{84198}{84277}Someone named Moshe Weinstock|called. Twice.
-{84294}{84372}Said to tell you he's coming to that|scouting trip of yours tomorrow.
-{84461}{84539}So what did you tell him? - Don't|worry, I didn't spoil it for you.
-{84651}{84775}{Y:i}And the sons, and the sons|returned to their homeland...
-{85512}{85570}Where the hell are we?
-{85621}{85723}Motke, couldn't you settle|somewhere closer to the city?
-{85732}{85783}What, Ramallah isn't a city?
-{87644}{87676}Why did you leave?
-{87690}{87732}You can't hear a thing anyway,|with all that wind.
-{87736}{87805}Get used to it. Do you know what|the wind is like here at night?
-{88237}{88304}There are rumors going around about|what happened at Rafi's bonfire.
-{88341}{88410}What are you talking about?|- Rumors.
-{88485}{88592}I just wanted to say,|I don't blame you or anything.
-{88670}{88777}And if you want to talk about it,|you can talk to me.
-{89010}{89124}I just think that if we're going to|live together in this settlement,
-{89139}{89179}we should talk.
-{89222}{89299}What did you hear? What rumors?|- All kinds of things.
-{89317}{89377}Tell me.|I want to know what you heard.
-{89404}{89445}Don't you know?
-{89476}{89496}No.
-{89543}{89598}That you put out.
-{89635}{89682}That I put out?
-{89695}{89756}But I told you,|I don't blame you.
-{89760}{89828}It's natural.
-{90011}{90062}Ya'ir, what are you doing?
-{90111}{90150}Are you crazy?|What are you doing?
-{90154}{90205}I thought you wanted to.|- Idiot!
-{90209}{90250}What happened?
-{90716}{90737}Hi.
-{91401}{91483}It's not right. Why didn't they|say there'd be cows here?
-{91795}{91824}So beautiful.
-{92892}{92952}Tammy, go in.|I'm coming.
-{92970}{93010}Good night.
-{93112}{93188}I'm sorry, I didn't plan|for Moshe Weinstock to be there
-{93192}{93284}but I couldn't hurt his feelings.|- I know. It's okay.
-{93316}{93418}Though Weinstock doesn't seem|the type to take offense easily.
-{93434}{93482}You've noticed.
-{93589}{93636}He invited me|to come to his concert.
-{93675}{93740}Are you going?|- I don't know.
-{93758}{93817}I told him I'd have to see|if I can make it.
-{93844}{93902}It's really funny, you know...
-{93912}{93982}Shmuel, my husband, wanted to be|a cantor. He loved cantorial music.
-{93986}{94039}And he had a good voice.
-{94044}{94107}But he was too shy|to sing in front of people.
-{94121}{94215}I really hated it. He'd try to|drag me to all these concerts.
-{94219}{94295}We'd fight,|and finally he'd go alone.
-{94357}{94405}Go to that concert.
-{94428}{94482}I hear he's pretty good.
-{94693}{94749}I have to go.|- Okay.
-{94772}{94838}If you need a ride anywhere...|- I'll call.
-{95164}{95225}I know you're waiting|for someone better than me.
-{95255}{95339}I can even understand it. I just|want you to know that I love you.
-{95371}{95426}I think you're|a very special woman.
-{95515}{95574}It's okay.|You don't have to answer me.
-{95625}{95699}Good night.|- Good night.
-{96093}{96178}I'm not waiting for someone better|than you. Don't ever say that.
-{96194}{96259}You're the nicest person|I've ever met.
-{96286}{96329}So what are you waiting for?
-{96401}{96437}I don't know.
-{96480}{96522}I'm waiting to fall in love.
-{96560}{96619}I'm 42 years old,|and I've never been in love.
-{96677}{96767}Shula says I shouldn't|wait for fireworks,
-{96772}{96831}but that's exactly|what I'm waiting for.
-{96963}{97045}You're so self-centered, you don't|even hear what you're saying.
-{97051}{97103}Good night, Rachel.
-{97612}{97679}What's that?|- Holy shit!
-{97684}{97768}- Tammy Gerlick's a whore -|My mother will die.
-{97778}{97853}Each candidate commits himself|in writing to be able
-{97857}{97919}to pay the settlement's|monthly taxes. - No, wait, wait.
-{97923}{98004}I just don't think it's my job to|check other people's bank accounts.
-{98009}{98108}No, but they can sign a statement|that they're able to pay the taxes.
-{98112}{98149}That's what the committee|is for, right?
-{98154}{98260}But it means that from the onset|people without money can't join.
-{98264}{98343}I want to get this straight. Is that|the message we want to send out?
-{98347}{98420}It's not about a message. It's|about reasonable administration.
-{98426}{98489}We're about to start a settlement|with very low living expenses.
-{98493}{98540}A trailer or a mobile home|hardly costs anything.
-{98546}{98615}If you want to control the quality|of your neighbors, you have to make sure
-{98619}{98692}they're not here just because|it's the cheapest solution. See?
-{98699}{98798}But our goal is not just to settle|the land, but to unite the people.
-{98803}{98878}So let the National Committee add|a clause about uniting the people.
-{98893}{98975}I'm not moving to the middle|of nowhere to live in a slum.
-{99005}{99090}That's the whole idea. An|ideological settlement. Simple.
-{99153}{99233}And you should be the first to know|what I'm talking about, Rachel.
-{99401}{99470}Could you tell me|what that's supposed to mean?
-{99504}{99615}Take a walk around the neighborhood.|It's all over the walls.
-{99719}{99831}Remember, these are the worst years.|From now on things will get better.
-{99846}{99921}How many years, exactly,|until the worst part is over?
-{99931}{99990}Two years, three at the most.
-{100024}{100103}Just take a deep breath and hold|your nose till high school's over.
-{100111}{100173}Then go do your National Service|in the desert, or somewhere.
-{100178}{100228}As far away from here as possible.
-{100233}{100315}Not like me. If Dad hadn't died,|I'd go serve in Eilat,
-{100321}{100381}or even in Egypt.
-{100606}{100659}How I hated it|when he smoked.
-{100719}{100767}I miss him so much.
-{100803}{100844}I know.|Me too.
-{100876}{100956}Whenever I think of him I remember|how Mom would drive him crazy.
-{100960}{100981}Poor guy.
-{101644}{101709}Want to tell me|what happened at the bonfire?
-{103381}{103458}Esty.|Esty, wake up.
-{103494}{103556}What do you want?|- I need your help.
-{104171}{104226}When are you coming back today?
-{104285}{104347}Are you talking to me?|- Yes, I want us to buy you sandals.
-{104352}{104407}I don't have time today.|- So find time.
-{104411}{104467}Would you talk to me for one minute?|- I'm late.
-{104472}{104538}Never mind. Be late.|I want to talk to you.
-{104554}{104648}I'm not angry with you. I just want|to know what happened at the bonfire
-{104692}{104753}Tammy, if you don't tell me,|I won't be able to help you.
-{104758}{104812}If someone hurt you,|I have to know about it.
-{104816}{104902}Mom, I beg you, don't do anything.|- That's exactly what hurts me.
-{104906}{104980}You didn't come to me when it|happened. Am I your enemy?
-{104984}{105033}It's good to know what hurts you.
-{105037}{105101}I don't need your help.|- Why are you taking that tone with me?
-{105106}{105174}You don't need my help?|Are you trying to punish me again?
-{105187}{105218}My life isn't hard enough?
-{105222}{105287}I need to hear from Shula Kupfer|that my daughter's a whore?
-{105292}{105348}Do you have any idea|where I spent the night?
-{105353}{105412}I went around erasing graffiti|from the walls.
-{105451}{105486}Thank you very much|for your help.
-{105490}{105561}I want to know where all the|counsellors were when it happened!
-{105566}{105636}How's it possible that I send|a 15 year-old, innocent child
-{105641}{105671}to a Bnei Akiva bonfire
-{105675}{105734}and she ends up spending the|night with a bunch of hoodlums?
-{105738}{105773}I won't keep quiet about this.
-{105777}{105856}I'm telling you, no one will get|away with this! I promise you!
-{106127}{106155}Hello.
-{106204}{106278}No, my Dad died a year ago.|If you want to buy our car,
-{106282}{106347}you'll have to talk to my mother.|Good luck.
-{106451}{106508}We know who they are|and it's being taken care of.
-{106513}{106546}Believe me, it is.
-{106560}{106622}This isn't the first time|we've had trouble with them.
-{106628}{106669}So what are they doing|at Bnei Akiva?
-{106673}{106721}Why didn't they...|- It's not that simple, Rachel.
-{106751}{106827}They didn't come to the Center,|your daughter came to them.
-{106858}{106926}We can't control everything|that goes on outside the Center.
-{106932}{107018}But what am I supposed to do?|It could happen to another girl.
-{107060}{107118}The fact is,|it didn't happen to another girl.
-{107194}{107280}Motke, I'm going to the police.
-{107286}{107336}And you'll be sorry|for the rest of your life.
-{107352}{107438}You really want some cop to start|questioning all of Tammy's friends?
-{107442}{107509}You don't know what really|happened there, either.
-{107531}{107585}You don't let out things|like this.
-{107589}{107627}Believe me,|it'll make the papers
-{107631}{107704}and the whole world will talk|about the slut from Bnei Akiva
-{107709}{107759}who seduced the boys in her group.|- She didn't seduce them!
-{107764}{107847}She's not a slut, she didn't seduce them|- That's not what I said.
-{107851}{107915}I said that's what they'll say|if it comes out.
-{108003}{108049}So what am I supposed to do?
-{108055}{108124}Nothing. It'll blow over, Rachel.
-{108166}{108206}I promise you.
-{108845}{108986}{Y:i}Look from Heaven|and perceive
-{109016}{109165}{Y:i}That we have become an object|of scorn and derision
-{109295}{109383}{Y:i}among the nations
-{112691}{112757}Yossi, it's Rachel.
-{112816}{112872}I need a ride.|Urgently.
-{112892}{112939}I don't know...
-{113553}{113614}Are you okay?|- No.
-{113956}{114049}I'm sorry. I'm a horrible person.|- No. You're not.
-{114134}{114251}I hurt everyone around me.|Shmuel, my girls, now you.
-{114255}{114325}Something's wrong with me.|- Not true.
-{114476}{114583}Remember what you said that night,|under my house?
-{114607}{114675}I'm trying to forget.|- Don't forget.
-{114719}{114776}I want you to love me.
-{115603}{115672}But I already love you.
-{116392}{116444}I'm going to wake them.
-{116613}{116663}You know Yossi, don't you?
-{116667}{116786}Esty, you haven't met Yossi.|Yossi, Esty. Esty, Yossi.
-{116803}{116889}I have two very important things|I want to discuss.
-{116912}{116948}First...
-{116967}{117057}I want to know what you think|of the new settlement.
-{117072}{117185}Before Motke calls his vote,|I want us to have our own vote.
-{117289}{117355}Who's against moving|to the new settlement?
-{117662}{117740}Okay.|Now, Tammy...
-{117748}{117819}I want to talk to you alone,|in your room.
-{118379}{118466}I just want to know that you're|all right, that nobody hurt you.
-{118489}{118552}If you don't want to tell me,|you don't have to.
-{118563}{118619}You can tell someone else,
-{118626}{118710}the school counselor,|a psychologist.
-{118743}{118827}You can write it down on a piece|of paper if you're embarrassed.
-{118866}{118916}But it's not good to keep silent.
-{118980}{119040}Silence is what I want now, Mom.
-{119074}{119107}I'm okay.
-{119240}{119280}I believe you.
-{119359}{119403}I trust you.
-{119804}{119838}I'm okay.
-{119875}{119910}Don't worry.
-{121537}{121575}Are you leaving?
-{121599}{121647}I have to work this morning.
-{121651}{121710}Don't you want to drink something?|- No, thanks.
-{121714}{121770}I'm really late already.|Thanks.
-{121878}{121923}Need a ride to school?
-{121940}{121998}Hang on, I'll bring my bag.
-{122144}{122234}Why did you run away this morning?|- You ran away too, didn't you?
-{122238}{122278}What do you mean?
-{122305}{122393}Do you usually go to school|at six-twenty in the morning?
-{122471}{122519}So you don't have to work?
-{122542}{122608}My mother will be offended.|- You think?
-{122612}{122662}She likes to take offense.
-{122677}{122773}So maybe it's better not to tell her|I didn't have to work this morning.
-{122921}{122976}Why didn't you ever get married?
-{123066}{123135}I guess something's wrong with me.|- I'm serious.
-{123139}{123176}So am I.
-{123284}{123387}God doesn't want certain people|to marry, so they won't reproduce.
-{123391}{123454}So He spoils something|in their personality.
-{123458}{123536}Something little,|that you don't notice at first.
-{123557}{123619}But that something|makes them stay alone.
-{123654}{123705}That doesn't make sense to me.
-{123721}{123830}I know some couples... I can't|believe God wants them to reproduce.
-{123905}{123964}So you think you'll never marry?
-{124123}{124166}Chances are, no.
-{124204}{124304}My mother will be sad to wake up|and find you gone. - You think?
-{124310}{124343}I think so.
-{124540}{124591}So we won't see you anymore?
-{125120}{125177}Hello. Come in.|- Hello.
-{125238}{125316}We'll sit in the living room.|A drink? - No, thank you.
-{125320}{125389}Shall I bring you coffee and cake?|- No, thank you.
-{125478}{125550}How's Tammy? Is everything alright?|- Tammy's fine.
-{125554}{125601}I'm glad to hear it.
-{125615}{125680}It's terrible what's happening|at the Center...
-{125684}{125775}Some kids in Tammy's group|come from very problematic homes.
-{125779}{125850}You wouldn't believe the stories|I hear from Ya'ir.
-{125866}{125939}But things will probably be|much easier in the settlement.
-{125944}{126067}You're in. We had a vote yesterday,|and I insisted you'd be in.
-{126071}{126110}That's it.
-{126115}{126166}What, did I surprise you?
-{126171}{126228}Now the real thing begins.|There's lots of work.
-{126232}{126280}Before we start|with the real thing,
-{126285}{126349}I came to tell you that|I don't want to join the settlement.
-{126353}{126408}I'm giving up my place.
-{126460}{126524}What do you mean?|- I don't want to be there.
-{126543}{126576}I don't understand.
-{126581}{126666}I'm in shock! Do you realize how|hard Motke worked to get you in?
-{126673}{126751}It was your dream.|Can you tell me what happened?
-{126755}{126852}Well, I'm sure you'll find|a good family to replace us.
-{126962}{126983}Well...
-{126989}{127088}I'm shocked. Simply shocked.|- Stop being shocked about everything.
-{127092}{127146}Don't talk to me like that!
-{127168}{127228}Well, I think I'll be on my way.
-{127249}{127317}I wish you the best of luck.
-{127333}{127393}By the way, if you don't want|a reputation for being picky,
-{127397}{127446}you should return|Moshe Weinstock's calls.
-{127450}{127493}It's not very considerate|towards us either.
-{127497}{127599}How picky can I be if I've been|your friend for all those years?
-{127802}{127844}How ungrateful!
-{128891}{128929}Hi. - Hi.
-{128973}{129054}How did you know where I live?|- You're on the contact list.
-{129058}{129154}Rafi, you coming? - Just a minute,|Goslan. I'll be right there.
-{129230}{129296}I feel so shitty about|what happened at the bonfire.
-{129340}{129387}Why did you come over there,|anyway?
-{129404}{129435}For you.
-{129759}{129800}So we'll be seeing you?
-{129848}{129914}Do you want to see me?|- Yes.
-{130163}{130249}{Y:i}And I decided that at all costs,|no matter what,
-{130253}{130300}{Y:i}this year I'll be happy.
-{130670}{130694}Start it!
-{132505}{132664}English: Ruth Shek-Yasur
-{132698}{132831}Subtitles:|Cinematyp Studios Ltd.
-{132832}{132932}>> Napisy pobrane z http:/napisy. org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
-{132957}{133107}Support us and become VIP member |to remove all ads from www.OpenSubtitles.org
+25.000
+Advertise your product or brand here|contact www.OpenSubtitles.org today
+Tammy, open the door.|Tell them Dad's not home.
+They're here to buy the car,|they don't need to know I'm a widow.
+Tell them your father's not home,|but your Mom is. It's okay, go on.
+Esty can go.|- I won't be part of this.
+Hi, we're here about the Peugeot.
+My father's not home.|- When is he due back?
+I don't know.
+It's about the car? Good,|come on in, I'll get the keys.
+My husband just stepped out.|- We don't want to disturb...
+I'll bring the papers.|- We work nearby.
+We'll come back when your husband's|at home. Have a nice day.
+See you.
+My father died of cancer a year|ago, two weeks before Lag B'Omer.
+I was 15 at the time.
+This week|the year of mourning ended
+and Mom finally decided|to sell Dad's car.
+It's been sitting in the same spot|since Dad last parked it there.
+Since these are hard times for the|people of Israel, Mom also decided
+to join the founding group of|a new settlement in the West Bank.
+But first she has to pass Motke|Kupfer's acceptance committee.
+This is Motke.
+He likes to have his picture taken|with important people.
+Mom always says that Motke
+is one of the most influential|people in Religious Zionism.
+But I think that my father|didn't like him much.
+Shula, his wife,|is a good friend of my mother's
+and Ya'ir, their youngest son,|is in my youth group.
+Even the Minister of Interior|came to his Bar Mitzva.
+Okay, tell us what you do.
+I'm a construction engineer,|I work for a building company.
+I'm an insurance agent.|- I'm a lawyer in a Tel-Aviv office.
+I'm a special-ed teacher. - I'm an|English teacher for 5th graders.
+Tell him what you do in the army.
+In reserve duty,|I'm a battalion commander.
+I think that these days we|should all take the initiative
+and strengthen these settlements.
+We feel that this|is the need of the hour.
+And quality of life for the kids.|We couldn't afford that in the city.
+It's really important to us,|to have a house with a lawn...
+We couldn't afford that in the city.|- Yes, of course.
+But that's not the main reason...
+If you were on|the acceptance committee,
+what kind of people would you pick|as your neighbors?
+People like us, I think.
+People like us.
+Mainly people like us.
+People like you.
+You know, establishing a settlement|isn't just having meetings.
+It's also hard physical work.|Are you sure you can handle it?
+Alone?|- I'm not alone.
+I won't lie to you. The number|of trailers we have is limited.
+And if you move into one of them...
+it means one less man|for guard duty,
+one less for the prayer quorum.
+It's something I need to consider.
+I can't complete a quorum,|but I can do guard duty.
+I see no problem here.
+Okay, Rachel. Let us think about it|and get back to you.
+Keep up the good work!
+I'd just like to tell you
+that being a part of this settlement|is very important to me.
+You don't need another guard.
+You need someone|who believes in the cause.
+Someone strong enough|to withstand the difficulties,
+and I have that strength more than|most of the people you know here.
+This is my dream.
+His name is Yossi Moraly.|The sweetest man, a bachelor.
+If it's okay, I'll give him|your number. He'll call you.
+Say yes, Rachel.|What's there to lose?
+I've been planning this|for a year now.
+It will also help them see|that you're serious.
+I'm very serious. That's why|I said what I did earlier.
+I just hope they understood me.
+So you agree?|Can I give him your number?
+All right.|What did you say his name was?
+Yossi.|Yossi Moraly.
+Why do you have to beg them?
+If they want you, they'll say so.|And if they don't,
+there's nothing for you there|anyway.
+What do you mean, "if they don't|want us?" They don't.
+Didn't you see how they treated us?
+As though we were lepers|or something.
+Anyway I'm not moving to that place.|There's nothing for me there.
+So where do you intend to live?|I'm renting out the apartment.
+If you rent it, I'll live on the|street and become a prostitute.
+You'll have one daughter a settler|and another daughter a hooker.
+What will you do?|Drag me there by force?
+I don't want to live in that|settlement with your friends.
+And I decided that at all costs,|no matter what,
+this year I'll be happy.
+Ignore them.|- Tammy Gerlick!
+What's up?
+Tammy Gerlick, what's up?|Got your period today?
+Do you know them?|- They're in my youth group.
+Tammy Gerlick!
+Can I help you? - Yes.|You can behave like a human being.
+What's that?
+Go on, turn around!|Why d'you stop?
+Watch your mouth. You don't|know who you're dealing with!
+You're right, absolutely right.|We're sorry.
+In my time we didn't have|people like that in Bnei Akiva.
+He's cute...
+Hello.
+Just a moment, I'm not sure.|I'll see.
+Dad, it's for you!|About the car!
+Dad!
+Mom, is Dad home?|It's about the car.
+Dad!
+Would you stop that already?|It's not funny anymore.
+Hello.
+Hello.|I'm Yossi.
+Rachel.|Nice to meet you.
+Are you hungry? 'Cause I haven't|eaten all day. - Very hungry.
+Here.|Sit here.
+Everything okay?
+Everything okay?
+I can turn on the heating.|- No thanks, I'm fine.
+How do you know...|- I can...
+Sorry. - No, no. Go ahead.|What were you saying?
+No, I just wanted to ask|how you know Motke and Shula.
+I heard you were good friends.
+Motke and I were in yeshiva|together.
+And I knew Shula even before that.
+She's been trying to marry me off|for twenty years now.
+Electricity flows from your hands|Love me gently
+Love me with your hands,|Slowly, desperately
+Cheek, neck, shoulder...
+Love me with your hands,|slowly...
+I'll have the sweet and sour|chicken, please. - Same for me.
+She says you could order|something else
+and she'll put it in the middle.|- No.
+Chicken is fine.|Let her bring chicken. Excellent.
+But she should bring us bread,|for the blessing.
+I don't think they have bread|in a Chinese restaurant.
+Eggroll, bring eggrolls.|Eggrolls are good.
+She should bring eggrolls.|I've tried them, they're delicious.
+Nice place, isn't it?|- Yes.
+Did we disturb you?
+No.
+Well, what do you think?|- About what?
+Think you'll want to see me again?
+It's okay,|you can say no.
+I know we're not right|for each other.
+But I enjoyed tonight anyway.|I enjoyed meeting you. Really.
+Thank you.
+Am I your first date|since your husband died?
+So how was it?|Okay?
+I think so. I don't know.|You tell me.
+I've been on much worse dates.|- Worse than this?
+Believe me.
+Once I was fixed up with a woman,|on a blind date, just like this,
+and when I came to pick her up|it turned out
+we'd already been fixed up|a few years before.
+What, you didn't remember her name?|- No.
+Neither did she.|How can you remember so many names?
+Why, how many dates are we talking|about? How many women did you meet?
+Hundreds.
+But I stopped all that.
+In the last two years|I stopped saying yes.
+Why?
+It wasn't working.
+I felt bad.
+I felt people had given up on me.
+Truth is,|I pretty much gave up on myself.
+And tonight? - You know Shula.|She's really pushy.
+I thought she'd|already given up on me,
+but then she came up with this idea|that I have to meet you...
+So I felt awkward.|I agreed.
+And that's it.
+And you're terrific.
+Okay, let's take you home.
+MiniYossi Bus Service -
+The best of luck to you, Rachel.
+Just don't despair, everything|will be okay, I'm telling you.
+And if you ever need a ride|anywhere, call me.
+Okay, thanks.|- Good night. - Good night.
+Esty, be careful not to walk|barefoot here now.
+What?
+What are you doing?
+No one locks doors in my house.
+You want privacy?|Get married.
+Tammy, be careful|not to walk barefoot here.
+Are you out of your mind?
+You're a total psycho! What's wrong|with you? You should be committed.
+I swear, I'll call the police!
+Tammy. Bring me the garbage-can.|- Does this seem normal to you?
+Why are you helping this madwoman?
+Think I care?|I'll show you privacy!
+Help! There's a crazy woman here!|Someone call the police!
+Help!
+If you don't come inside,|I'll smash your guitar.
+If you touch my guitar, I'll take|off my clothes for everyone to see!
+We'll see what they think of that|at the acceptance committee.
+Hello.
+My Dad's in army reserve duty.|Call back in a month.
+We've decided to accept you|to the founding group.
+But for a trial period.
+I'm very sorry, Rachel,|but you have to understand.
+A settlement is like a|delicate plant. A tiny plant.
+Too much wind, too much rain,|and the plant dies.
+So before I put it in the ground,|I have to make sure
+it's strong, that all|the elements are at their best.
+Let me get this straight.|Am I in, or not?
+Before we move to the site,|we'll have a vote.
+Are there any other people|on a trial period?
+No.
+Don't worry, I'm sure they'll accept|you in the end. Not to worry.
+Did you talk to Yossi?
+I understand|you're not interested.
+Still, I wanted to thank you.|I'm glad I did it.
+I'm glad too.
+Remember, this is a second marriage.|Don't expect any fireworks.
+You have to get it into your head|that you're looking for...
+I don't know, a good friend|who'll keep you company.
+He doesn't need to be a knight in shinin|armor. He just needs to be a "mensch."
+Look,|I have someone else for you,
+but I don't want to bother him|for nothing.
+Maybe you're not ready yet.|- I'm ready.
+His name is Moshe Weinstock,|he's divorced.
+Motke knows him from the army,|he was an army cantor.
+He's a very impressive,|very wealthy man.
+He gets invited from all over|the world to lead the prayers.
+Do you know him?|- No.
+But I think Shmuel once|went to see him sing at a concert.
+So are you interested?|- I think so. I...
+Good, I'll talk to him.
+But Rachel, I have to know|that you're serious.
+He's not someone to play games|with. He's no MiniYossi.
+Okay.|I get it.
+It stings a little, but don't worry.
+You have to keep it on|for ten minutes.
+Careful you don't eat it...
+You do that all your life?
+You wish! Soon you'll start|growing a beard too.
+But don't get upset. It's well-known|that hairy women are smarter.
+I'd rather be stupid|but not have a beard.
+At least you got Dad's coloring.
+Imagine what it's like to have|a mustache like mine and Mom's.
+Enough already.|Make up.
+Know why Dad died quickly?
+The doctors said some people|live for years with his illness.
+He knew Mom didn't have|the patience to take care of him.
+Tammy!
+Tammy, come to eat.
+I know you don't like to hear|Zionist talk.
+But still,|here are just a few clean words.
+We're setting out on a mission|thousands of kilometers from here
+in order to save Israelis.
+Just because they're Israelis.|And Jews.
+And if we don't do it,|no one else will do it for us.
+This is a long and complicated|operation
+and I want to emphasize
+that the success or failure|of the mission
+depends on us alone.|Good luck.
+Blessed be the True Judge.
+Yoni is dead.
+Goslan, you nut! Don't you dare|show your face here again!
+Rachel?|- Yes. Moshe?
+Moshe. Moshe Weinstock.|Hello. Nice to meet you.
+I hope you didn't wait long?|- No.
+Nice hotel, no?|I like it a lot.
+Exclusive.|But not too fancy-shmancy.
+They have a cake here.|A cheesecake. Unbelievable.
+I'm not just saying that.|It's world-class.
+You have to taste it.
+Do you come here often?|- You might say they know me here.
+Shula tells me you're a cantor.|- Cantor...
+I just lead the prayers once in|a while. No need to exaggerate.
+Kol Nidrei...
+This is my favorite part.|It's my father's melody.
+Come on, what are you afraid of?
+I'm not getting into trouble|with your mother.
+There's no one here.|- Are you out of your mind?
+I'm not going into that room.|Think I'm crazy?
+What's the matter? Come on.|- Come downstairs.
+I don't want to go downstairs.|Who cares about the door?
+Stop it, Esty.|I'm not kidding. I'm leaving.
+Okay then, leave.
+Don't be crazy.|We can't be here with that door.
+Your mother's due back any minute.
+Okay. No one's forcing you|to stay here. Go.
+I swear, you're even crazier|than your mother.
+Are you nuts? Blowing up|bullets here in the Center?
+But what a cool explosion!|- He'll kick you out.
+What's the matter, Tammy Gerlick?|Too snotty to say hi?
+What, we don't exist?
+If you'd say hi,|I'd answer you.
+Okay, but why did you stop?|Keep going. Get lost!
+Hey, you moron!|Forget about him, Tammy.
+He's a psycho.|You can stay.
+Why is she staring at us?|- Why are you chasing her away?
+I feel like it.|- Great.
+It's okay.|I have to go anyway.
+Tammy Gerlick, is it true|that you put out? Tammy Gerlick.
+Tammy Gerlick!
+Stop it.|Shut up already.
+Wait a minute, Tammy.
+Hi.
+I just wanted to tell you|not to be offended by what happened.
+That Goslan guy is insane.
+It's okay.|But thanks.
+Who's the soldier|who was with you the other day?
+Who, llan?|- He's just Yaniv's brother.
+He doesn't have any friends his age,|so he hangs out with us.
+I hope that's not yours.
+Actually, it is.
+It's okay, you can sit.
+No one's touched it for a year.
+I bet the battery's dead.
+You know about cars?|- A little. Why?
+Nothing.|The battery's dead.
+Not just the battery...
+Is this weird for you?
+Why didn't you want us to visit you|while you were mourning?
+Who said I didn't want you to?
+That's what they said.
+Ya'ir and Ayala would come to|the Center, huddle-up in a corner,
+and then they'd choose the|delegation to comfort you.
+Whoever wasn't chosen would stay|at the meeting with all the geeks.
+So you stayed with the geeks?
+The geeks and the lowlifes.
+But then I went home.
+That's how it is, when Ya'ir|and Ayala and you aren't there,
+there is no point in staying.|Don't you know that?
+That's funny.
+I'm always sure that wherever I am|is where it's the least interesting.
+Shame you didn't come to comfort us,|you'd see I was right.
+They said your family didn't want|too many people coming.
+Actually, I wanted you to come.
+I have to go.
+See you at the bonfire? - I may not|go to the youth group's bonfire.
+Why not?
+I think we'll have our own bonfire.|All the geeks and lowlives.
+Shame.|My birthday's on Lag B'Omer.
+What, right on the day?
+According to the Gregorian calender|it's the day before.
+A day before doesn't count.
+'Bye.
+Did you call for a ride?|- Thank you.
+The world is like Noah's Ark.
+If you're not in a couple,|you're left out.
+What's so bad about that?
+Maybe it's easier for men.
+I want you to know, I look at you|and think how lucky you are.
+You have two daughters,|a nice apartment, a community.
+That's a lot.
+And you're still young|and beautiful.
+I probably won't have children.
+I have some friends...
+You've never had a serious|relationship with a woman?
+All those women you met?
+I'm attracted to women,|if that's what you're asking.
+No, of course...|I just didn't understand.
+But I've never had sexual relations|with a woman.
+When I was at the Yeshiva, I said,|"I'll wait till I'm married."
+And it didn't happen.
+I'm sorry.|I didn't mean to embarrass you.
+It's not something that usually|comes up. - It's okay. Really.
+Are your parents alive?
+Brothers? Sisters?
+I have three sisters.|They're all grandmothers by now.
+So you're in touch|with your nephews?
+When they were kids,|I was the cool uncle.
+The one who brought presents.
+But in the last few years|everything changed.
+They're busy with their own lives.
+Everyone's busy.
+What do you do on Shabbat?
+Sleep.
+Well, I think I'll be going.|It's late.
+Good night, Yossi.|- Good night. Rachel.
+If you ever need a ride anywhere,|call me. - Sure.
+Good night.|- Good night.
+Happy birthday, Tammy.|- Thanks.
+You're welcome.|It's your birthday.
+And I think this a great opportunity|for us to sit down and talk.
+Since Dad died|I may not have done enough
+to find out what you're going through,|but I'd like to change that.
+I want to hear everything|you have to say, really I do.
+Tell me everything that's|on your mind. Let it all out.
+Tammy, do you want to start?
+Esty can start.
+In the last year|you've completely lost it.
+That thing with the door,|what was that about?
+The whole settlement thing,|Dad would never move there.
+I'm sure he wouldn't have sucked up|to them like you do.
+If that committee told you to run|around naked,
+you'd do it and the last thing|you'd care about would be us.
+That's what's on my mind.
+Tammy?
+I know you're having a hard time,|Mom,
+but sometimes I feel...
+you try so hard|to show the world we're okay,
+that you overlook the fact that|we have feelings too.
+We can't lead our lives according|to what Shula and Motke decree.
+Of course, of course.
+I'll take that into consideration.
+I just want you to know
+that you are the most precious|thing in the world to me
+and that your lack of consideration|and cooperation...
+I just feel that you do it|to spite me.
+I feel that you blame me|for Dad's death.
+You're young,|you don't understand...
+and I hope you never will,
+but I want you to understand this:
+We're living under|a magnifying glass.
+I want you to know that if we're not|accepted into this new settlement,
+I'll be left here without|one single set of friends.
+What you're doing is simply|spitting in my face.
+If you want to be left|without a mother too,
+then this is the way to achieve it.|- I don't need this.
+Happy birthday. Tammy.
+So you came?
+No, but I brought you|a birthday present.
+Thank you.
+Do this with your hand.
+Happy Birthday, Rafi -
+Thank you.
+Well, I'm off. They're waiting|for me at the bonfire. 'Bye.
+'Bye.
+Rejoice and be happy,|praise the holy word
+Shimon Peres is a stinking turd...
+Sanctify your life,|with the Torah
+And purify it|through the labor.
+Boys! The fruit of your labor|will make you happy!
+Girls! The fruit of your labor|will make you happy!
+Well? I hear from Moshe|that it was a big success.
+That's what he told you?|- He hinted that it could lead somewhere,
+but he wouldn't tell me too much.|You tell me.
+It's a real experience,|to meet him, isn't it?
+I'm very surprised|that's what he told you.
+See?
+Soon we won't know where you are,|you'll be globe-trotting with him!
+How long do you think|he can mess with that piece of wood?
+His entire life.
+Want to go to Rafi's bonfire?
+Now?
+Why not?|We'll say hi to Rafi and come back.
+I don't know.
+No one here's giving us|the time of day anyway.
+No. Forget it.|I don't feel like it.
+Okay, I'm going.
+Cute little girl|take off your shirt
+And if you're sweaty|take off your bra
+An angel from heaven|will come and kiss your breasts...
+Let's go back.|Suddenly I don't feel like going.
+Go back?|We're there already.
+Let's at least say hi.
+Okay, but if I want to go,|you're coming with me.
+I'm not going back alone.
+Tammy the whore|opened the store
+Everyone's standing in line|with a huge hard-on
+Inbal the whore|opened the store
+Everyone's standing in line|with a huge hard-on
+Here I pass|Standing near the stone
+Rocks and ridges|A black asphalt road,
+Evening falls slowly,|A sea breeze blows
+The first star shines|Over beit-Machsir
+Bab-el-Wad, forever|remember our names
+Convoys broke through|on their way to the city...
+Anyway, he pays her,
+She comes over and undresses him,|he does her and comes,
+she gets dressed,|so he says to her: Just a minute,
+this was a regular fuck,|what was Spanish about it?
+So she says:|You're right, I forgot.
+Ole!
+Hey, you morons,|you don't get jokes.
+No, that was funny.|Great joke.
+Here's another. The same rabbit|walks in the forest.
+Wait, wait a minute.|Enough of your rabbit.
+Maybe the girls have a joke.
+Give them a chance.
+Go on, relax a bit.|Got a joke? Tell us.
+I'll laugh for sure.|Here, I'm already laughing.
+Okay, I have a joke.
+I don't believe it.|- Not very funny, but never mind.
+A guy decides to give his wife|a jacuzzi for her birthday.
+She's happy, gives him a kiss.
+They both undress|and get into the jacuzzi,
+splash around in the water.
+Suddenly the doorbell rings.
+So the wife gets out,|puts on her robe
+and goes to see who it is.
+When she opens the door it's|the upstairs neighbor, Mr. Cohen.
+He looks at her with her robe|half open and says:
+I didn't know you were so pretty.
+I'll give you 100 dollars if you|open your robe more at the neck.
+Just a little.|Half an inch.
+So she opens her robe a little|at the neck,
+Mr. Cohen looks and gives her|100 dollars.
+Wow, this is|such a stupid joke...
+Why? - Go on. You can't stop in|the middle of a joke. It's the rule.
+Okay.
+So Mr. Cohen looks at her legs
+and says: If you open the robe|a little on the bottom,
+I'll give you 100 dollars.
+Open it just a tiny bit.|- Wait, what about the husband?
+He didn't notice that his|wife is opening her robe? - Shut up!
+Don't you know this joke?
+Everyone came.
+It was a success, wasn't it?
+It's always a success.
+Pity we didn't invite|Moshe Weinstock tonight.
+Well, he's not|in the founding group.
+But maybe Rachel will persuade him|to join us.
+It was really successful tonight.|- It was, wasn't it?
+Good night.|- I'm glad you came.
+See you tomorrow at the march.|- Yes, sure.
+Good night.|- Good night.
+Yossi?|Did I wake you?
+It's Rachel.
+Hello.
+I thought you might want to come|to the march with me tomorrow.
+Cool. I didn't know girls had jokes|like that. - You'd be surprised.
+You're crazy. Girls are twice as|horny as guys.
+Am I right?
+If I knew what it's like for guys,|I'd tell you.
+I can't believe|you're even answering him.
+Okay, I'm cold.|I want to go back.
+I have a jacket in the car.|Want it?
+You sure?|- You coming?
+Stay a bit longer.|Don't go.
+Till the fire goes out,|then we'll walk you back.
+Okay?
+If you like, you can sit|in the car and warm up.
+Come to the side for a moment.|- What? Why leave?
+Till the fire goes out,|then we'll go. I promise.
+Okay, I'll be in the car.
+Shirt hanging out,|shoelaces untied.
+Didn't know where I came from.
+Like I'm a reserve guy,|he says:
+Soldier, over here!|So immediately I start to limp.
+Sorry, do you mind|if I put my hand there?
+I think the fire's going out.|No?
+Wait, sweetie,|where're you going?
+I think I'd better go.
+Yaniv, go get the jerrycan.|Do me a favor.
+Wait a minute, what's the rush?|- Leave me alone, I want to go.
+Okay, we said, till the fire|goes out. It's not out yet.
+Yaniv, pour some on we'll see if|it's gone out. - Let go of her, llan.
+Pour it!
+What? Just a kiss.|What's the big deal?
+You okay?
+Just say if you're okay or not.|I don't want you to start screaming.
+You okay?
+I want to leave.|- No problem.
+Anyone stopping you?
+What about the others?
+They don't deserve|a goodnight kiss?
+What about Goslan?|He doesn't deserve one?
+And my brother doesn't deserve one?
+Come on, Goslan,|let's see what you can do.
+I'm holding her,|do what you want.
+Let her go,|you'll get into trouble.
+She agrees.|What are you uptight about?
+You agree, don't you?
+What did she come here for?
+Here, see?|She agrees.
+What do you think?|That's how women are.
+First they say no,|but then they enjoy it.
+Do you think|she doesn't want it?
+Sure she does.|She just won't say she wants it.
+It feels good, right?|See? It's not so bad.
+Can't you see she's crying?
+Come on, let her go, Goslan.|Let her go!
+What are you yelling about?|Are you her father?
+We're just playing around.|No big deal.
+Here, I'm letting her go.
+If she touches my dick,|I'll let her go.
+I swear.
+Just touch it for a second,|and I'll let you go.
+What do you care?|No force, just a little touch.
+That's all.
+Convince her to say yes,|and I'll let her go.
+What's the big deal?
+Here,|I'll give you ten shekels too.
+Come on, Tammy.
+I'll let you go right after.|I swear.
+Just a tiny touch,|and you get to keep the money.
+Don't play hard to get.
+And then|you swear you'll let her go?
+I swear.|I swear by my mother.
+Do you agree?
+Tammy! Tammy!
+Tammy! Tammy! Tammy!
+What's the matter, Rafi?|Are you okay?
+Look,|I'm sorry I hit you earlier.
+I just wanted|to tell you something.
+It's better to fuck some bimbo|than to be a snitch.
+I hope you understand that.
+You're Tammy, right?|- Yes.
+I'm Yossi.
+I know.
+Your mother asked me to|drive her to the march.
+So I'm waiting for her.
+Shall I get her?|- No.
+We're supposed to meet in|ten minutes. I'm just early.
+I don't want her to be pressured.
+Were you at the bonfire all night?|- Yeah.
+What fun.|How I miss those days.
+I hope you had a good time.|- What?
+Ayala and Ya'ir got home|two hours ago.
+Can you tell me where you've been|till now? - With Inbal.
+What's that smell?|Did you sit inside the bonfire?
+By the way, your ride is here.
+How was yesterday?|- It was nice. Pity you didn't come.
+I thought only the founding group|was invited.
+Maybe we shouldn't go to the march?
+Really?|- Yes.
+So where do you want to go?|- I don't know.
+Maybe somewhere with less people.
+I know just the place.
+Gerlick -
+Hello there.|- Hi.
+Is Tammy home?|- Yes. Want to come in?
+I'll get her.
+What's your name?|- Rafi.
+Just a second, Rafi.
+I don't know.|She won't answer me.
+Maybe you want to come back this|afternoon? - No, it's okay. Thanks.
+'Bye.
+Do you miss your husband?
+The girls miss him.
+And you?
+I miss having a man in the house.
+But my marriage wasn't very good.|I married so young...
+So why did you stay with him?
+I don't know.
+He was good to me.
+What's with all the questions?|- Sorry.
+No, it's okay.|You can ask.
+I don't mind.
+What do you want to know?
+Did he know you didn't love him?
+I think so.
+More questions.
+I have one more,|but I'm afraid of your response.
+Ask away.|Worst case, I won't answer.
+Is there any chance of you sleeping|with a man you're not married to?
+You're very direct.|- Sorry. I shouldn't have asked that.
+And if I asked you|the same question?
+I've decided I would.
+Where's Tammy?|- In her room.
+Tammy, did you lock the door?
+Shall I bring the hammer?
+Tammy, open the door. - She's been|locked in since this morning.
+Tammy, are you all right?
+What do you mean, since this|morning? - I mean this morning.
+Which part don't you get?
+Tammy, why did you lock the door?|You know we don't lock doors here.
+I'm sorry.
+What's this? Don't you want|to change? Take a shower?
+I'm tired.|Tomorrow, okay, Mom?
+Someone named Moshe Weinstock|called. Twice.
+Said to tell you he's coming to that|scouting trip of yours tomorrow.
+So what did you tell him? - Don't|worry, I didn't spoil it for you.
+And the sons, and the sons|returned to their homeland...
+Where the hell are we?
+Motke, couldn't you settle|somewhere closer to the city?
+What, Ramallah isn't a city?
+Why did you leave?
+You can't hear a thing anyway,|with all that wind.
+Get used to it. Do you know what|the wind is like here at night?
+There are rumors going around about|what happened at Rafi's bonfire.
+What are you talking about?|- Rumors.
+I just wanted to say,|I don't blame you or anything.
+And if you want to talk about it,|you can talk to me.
+I just think that if we're going to|live together in this settlement,
+we should talk.
+What did you hear? What rumors?|- All kinds of things.
+Tell me.|I want to know what you heard.
+Don't you know?
+No.
+That you put out.
+That I put out?
+But I told you,|I don't blame you.
+It's natural.
+Ya'ir, what are you doing?
+Are you crazy?|What are you doing?
+I thought you wanted to.|- Idiot!
+What happened?
+Hi.
+It's not right. Why didn't they|say there'd be cows here?
+So beautiful.
+Tammy, go in.|I'm coming.
+Good night.
+I'm sorry, I didn't plan|for Moshe Weinstock to be there
+but I couldn't hurt his feelings.|- I know. It's okay.
+Though Weinstock doesn't seem|the type to take offense easily.
+You've noticed.
+He invited me|to come to his concert.
+Are you going?|- I don't know.
+I told him I'd have to see|if I can make it.
+It's really funny, you know...
+Shmuel, my husband, wanted to be|a cantor. He loved cantorial music.
+And he had a good voice.
+But he was too shy|to sing in front of people.
+I really hated it. He'd try to|drag me to all these concerts.
+We'd fight,|and finally he'd go alone.
+Go to that concert.
+I hear he's pretty good.
+I have to go.|- Okay.
+If you need a ride anywhere...|- I'll call.
+I know you're waiting|for someone better than me.
+I can even understand it. I just|want you to know that I love you.
+I think you're|a very special woman.
+It's okay.|You don't have to answer me.
+Good night.|- Good night.
+I'm not waiting for someone better|than you. Don't ever say that.
+You're the nicest person|I've ever met.
+So what are you waiting for?
+I don't know.
+I'm waiting to fall in love.
+I'm 42 years old,|and I've never been in love.
+Shula says I shouldn't|wait for fireworks,
+but that's exactly|what I'm waiting for.
+You're so self-centered, you don't|even hear what you're saying.
+Good night, Rachel.
+What's that?|- Holy shit!
+- Tammy Gerlick's a whore -|My mother will die.
+Each candidate commits himself|in writing to be able
+to pay the settlement's|monthly taxes. - No, wait, wait.
+I just don't think it's my job to|check other people's bank accounts.
+No, but they can sign a statement|that they're able to pay the taxes.
+That's what the committee|is for, right?
+But it means that from the onset|people without money can't join.
+I want to get this straight. Is that|the message we want to send out?
+It's not about a message. It's|about reasonable administration.
+We're about to start a settlement|with very low living expenses.
+A trailer or a mobile home|hardly costs anything.
+If you want to control the quality|of your neighbors, you have to make sure
+they're not here just because|it's the cheapest solution. See?
+But our goal is not just to settle|the land, but to unite the people.
+So let the National Committee add|a clause about uniting the people.
+I'm not moving to the middle|of nowhere to live in a slum.
+That's the whole idea. An|ideological settlement. Simple.
+And you should be the first to know|what I'm talking about, Rachel.
+Could you tell me|what that's supposed to mean?
+Take a walk around the neighborhood.|It's all over the walls.
+Remember, these are the worst years.|From now on things will get better.
+How many years, exactly,|until the worst part is over?
+Two years, three at the most.
+Just take a deep breath and hold|your nose till high school's over.
+Then go do your National Service|in the desert, or somewhere.
+As far away from here as possible.
+Not like me. If Dad hadn't died,|I'd go serve in Eilat,
+or even in Egypt.
+How I hated it|when he smoked.
+I miss him so much.
+I know.|Me too.
+Whenever I think of him I remember|how Mom would drive him crazy.
+Poor guy.
+Want to tell me|what happened at the bonfire?
+Esty.|Esty, wake up.
+What do you want?|- I need your help.
+When are you coming back today?
+Are you talking to me?|- Yes, I want us to buy you sandals.
+I don't have time today.|- So find time.
+Would you talk to me for one minute?|- I'm late.
+Never mind. Be late.|I want to talk to you.
+I'm not angry with you. I just want|to know what happened at the bonfire
+Tammy, if you don't tell me,|I won't be able to help you.
+If someone hurt you,|I have to know about it.
+Mom, I beg you, don't do anything.|- That's exactly what hurts me.
+You didn't come to me when it|happened. Am I your enemy?
+It's good to know what hurts you.
+I don't need your help.|- Why are you taking that tone with me?
+You don't need my help?|Are you trying to punish me again?
+My life isn't hard enough?
+I need to hear from Shula Kupfer|that my daughter's a whore?
+Do you have any idea|where I spent the night?
+I went around erasing graffiti|from the walls.
+Thank you very much|for your help.
+I want to know where all the|counsellors were when it happened!
+How's it possible that I send|a 15 year-old, innocent child
+to a Bnei Akiva bonfire
+and she ends up spending the|night with a bunch of hoodlums?
+I won't keep quiet about this.
+I'm telling you, no one will get|away with this! I promise you!
+Hello.
+No, my Dad died a year ago.|If you want to buy our car,
+you'll have to talk to my mother.|Good luck.
+We know who they are|and it's being taken care of.
+Believe me, it is.
+This isn't the first time|we've had trouble with them.
+So what are they doing|at Bnei Akiva?
+Why didn't they...|- It's not that simple, Rachel.
+They didn't come to the Center,|your daughter came to them.
+We can't control everything|that goes on outside the Center.
+But what am I supposed to do?|It could happen to another girl.
+The fact is,|it didn't happen to another girl.
+Motke, I'm going to the police.
+And you'll be sorry|for the rest of your life.
+You really want some cop to start|questioning all of Tammy's friends?
+You don't know what really|happened there, either.
+You don't let out things|like this.
+Believe me,|it'll make the papers
+and the whole world will talk|about the slut from Bnei Akiva
+who seduced the boys in her group.|- She didn't seduce them!
+She's not a slut, she didn't seduce them|- That's not what I said.
+I said that's what they'll say|if it comes out.
+So what am I supposed to do?
+Nothing. It'll blow over, Rachel.
+I promise you.
+Look from Heaven|and perceive
+That we have become an object|of scorn and derision
+among the nations
+Yossi, it's Rachel.
+I need a ride.|Urgently.
+I don't know...
+Are you okay?|- No.
+I'm sorry. I'm a horrible person.|- No. You're not.
+I hurt everyone around me.|Shmuel, my girls, now you.
+Something's wrong with me.|- Not true.
+Remember what you said that night,|under my house?
+I'm trying to forget.|- Don't forget.
+I want you to love me.
+But I already love you.
+I'm going to wake them.
+You know Yossi, don't you?
+Esty, you haven't met Yossi.|Yossi, Esty. Esty, Yossi.
+I have two very important things|I want to discuss.
+First...
+I want to know what you think|of the new settlement.
+Before Motke calls his vote,|I want us to have our own vote.
+Who's against moving|to the new settlement?
+Okay.|Now, Tammy...
+I want to talk to you alone,|in your room.
+I just want to know that you're|all right, that nobody hurt you.
+If you don't want to tell me,|you don't have to.
+You can tell someone else,
+the school counselor,|a psychologist.
+You can write it down on a piece|of paper if you're embarrassed.
+But it's not good to keep silent.
+Silence is what I want now, Mom.
+I'm okay.
+I believe you.
+I trust you.
+I'm okay.
+Don't worry.
+Are you leaving?
+I have to work this morning.
+Don't you want to drink something?|- No, thanks.
+I'm really late already.|Thanks.
+Need a ride to school?
+Hang on, I'll bring my bag.
+Why did you run away this morning?|- You ran away too, didn't you?
+What do you mean?
+Do you usually go to school|at six-twenty in the morning?
+So you don't have to work?
+My mother will be offended.|- You think?
+She likes to take offense.
+So maybe it's better not to tell her|I didn't have to work this morning.
+Why didn't you ever get married?
+I guess something's wrong with me.|- I'm serious.
+So am I.
+God doesn't want certain people|to marry, so they won't reproduce.
+So He spoils something|in their personality.
+Something little,|that you don't notice at first.
+But that something|makes them stay alone.
+That doesn't make sense to me.
+I know some couples... I can't|believe God wants them to reproduce.
+So you think you'll never marry?
+Chances are, no.
+My mother will be sad to wake up|and find you gone. - You think?
+I think so.
+So we won't see you anymore?
+Hello. Come in.|- Hello.
+We'll sit in the living room.|A drink? - No, thank you.
+Shall I bring you coffee and cake?|- No, thank you.
+How's Tammy? Is everything alright?|- Tammy's fine.
+I'm glad to hear it.
+It's terrible what's happening|at the Center...
+Some kids in Tammy's group|come from very problematic homes.
+You wouldn't believe the stories|I hear from Ya'ir.
+But things will probably be|much easier in the settlement.
+You're in. We had a vote yesterday,|and I insisted you'd be in.
+That's it.
+What, did I surprise you?
+Now the real thing begins.|There's lots of work.
+Before we start|with the real thing,
+I came to tell you that|I don't want to join the settlement.
+I'm giving up my place.
+What do you mean?|- I don't want to be there.
+I don't understand.
+I'm in shock! Do you realize how|hard Motke worked to get you in?
+It was your dream.|Can you tell me what happened?
+Well, I'm sure you'll find|a good family to replace us.
+Well...
+I'm shocked. Simply shocked.|- Stop being shocked about everything.
+Don't talk to me like that!
+Well, I think I'll be on my way.
+I wish you the best of luck.
+By the way, if you don't want|a reputation for being picky,
+you should return|Moshe Weinstock's calls.
+It's not very considerate|towards us either.
+How picky can I be if I've been|your friend for all those years?
+How ungrateful!
+Hi. - Hi.
+How did you know where I live?|- You're on the contact list.
+Rafi, you coming? - Just a minute,|Goslan. I'll be right there.
+I feel so shitty about|what happened at the bonfire.
+Why did you come over there,|anyway?
+For you.
+So we'll be seeing you?
+Do you want to see me?|- Yes.
+And I decided that at all costs,|no matter what,
+this year I'll be happy.
+Start it!
+English: Ruth Shek-Yasur
+Subtitles:|Cinematyp Studios Ltd.
+>> Napisy pobrane z http:/napisy. org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
+Support us and become VIP member |to remove all ads from www.OpenSubtitles.org

@@ -1,744 +1,744 @@
-{1843}{1873}I think everyone is here.
-{1875}{1942}If you'd all please take your seats,|we can get started.
-{2198}{2291}George Fitch, Christmas Eve, Nanking,|China, 1937.
-{2318}{2417}What I am about to relate is a story|which I feel must be told,
-{2420}{2483}even if it is seen by only a few.
-{2486}{2556}I cannot rest until I have told it and,|perhaps fortunately,
-{2558}{2630}I am one of a very few|who are in a position to tell it.
-{2648}{2717}It is not complete, only a part of the whole,
-{2754}{2833}{y:i}and God alone knows|when it will be finished.
-{2836}{2879}{y:i}I pray it may be soon,
-{2882}{2989}{y:i}but I am afraid it is going to go on|for many months to come.
-{3016}{3098}I believe it has no parallel|in modern history.
-{3112}{3206}Bob Wilson.|I was born and grew up here in China.
-{3209}{3253}My parents were both missionaries.
-{3271}{3318}I went away to medical school at Harvard,
-{3320}{3398}{y:i}but I came back here to live,|and practice medicine.
-{3401}{3449}{y:i}Nanking is my home.
-{3576}{3677}Minnie Vautrin. Dean of Ginling|Women's College in Nanking.
-{3692}{3802}I'm from Secor, Illinois,|a small farming town on the prairie.
-{3971}{4012}John Rabe.
-{4014}{4088}I moved to China from Hamburg|on business, over 30 years ago.
-{4103}{4155}I married my childhood sweetheart|from Germany,
-{4158}{4213}and we raised our two children here.
-{4216}{4289}For the last six years, I've been director|of Siemens China company,
-{4292}{4337}here in Nanking, the capital.
-{7618}{7686}{y:i}March of Time newsreel, August, 1937.
-{7704}{7788}"Today, out of the Far East,|come grim messages of a new conflict."
-{7813}{7890}{y:i}" The gory chronicle of Japan's war|to crush all of China..."
-{7898}{7976}{y:i}and gain for herself|sole mastery of the Orient.
-{8048}{8118}{y:i}Shanghai tastes war at its worst.
-{8190}{8260}{y:i}For, in a war of today,|there is a new element:
-{8262}{8308}{y:i}a fearsome, haphazard, modern fighting
-{8310}{8420}{y:i}that takes its toll on peaceful cities|and their non-combatant populations.
-{9226}{9287}We always knew Japan wanted China.
-{9290}{9370}I knew it since I was little.|My parents always said,
-{9373}{9488}"Japan wants to conquer China because|we have all the land and all the wealth."
-{9490}{9540}{y:i}And we were right next door.
-{9830}{9877}Everywhere, dugouts can be seen.
-{9906}{9985}In some places,|they are as close as every 200 feet.
-{10010}{10047}{y:i}Just as you would show|your rose garden
-{10050}{10082}{y:i}to your friends when they call,
-{10085}{10110}{y:i}now it's customary
-{10113}{10206}{y:i}to take your friends to your trenches|and caves, to ask their opinion.
-{11147}{11194}Today, we had a genuine thrill.
-{11202}{11275}The first air raid|that any of us had ever experienced.
-{11294}{11335}It probably won't be the last.
-{14985}{15063}During the worst of the bombing,|on the 19th and 20th of September,
-{15078}{15137}I sat with my Chinese|in our homemade dugout,
-{15140}{15174}which is certainly not bomb-proof,
-{15177}{15263}{y:i}but at least provides protection|against shrapnel and bomb fragments.
-{15278}{15359}{y:i}Out in the garden, we've also spread|a 20-by-20-foot piece of canvas,
-{15362}{15414}{y:i}with a swastika painted on it.
-{15433}{15473}{y:i}In the long hours|of crouching in the dugout,
-{15475}{15534}during the recent bombardment,|I turned on Radio Shanghai
-{15537}{15603}to take my mind off things|with a little music.
-{15606}{15677}And they were playing|Beethoven's "Funeral March"!
-{15680}{15759}Then, to make matters worse,|they announced to their listeners,
-{15762}{15870}"This music is kindly dedicated to you|by the Shanghai Funeral Directors."
-{15904}{16003}{y:i}Most of the shops|on the business streets are locked,
-{16006}{16075}and the city has a deserted and forlorn look.
-{16086}{16185}The glances cast at me as much as say,|"What? Are you still here?"
-{16252}{16342}{y:i}September 25th.|This has been a terrible day.
-{16365}{16419}{y:i}Bombs seem to be raining around.
-{16422}{16526}{y:i}Nanking was subjected|to three terrific air raids.
-{16529}{16616}{y:i}The count of raids and alarms|has now risen to 39.
-{16618}{16704}Gallons of civilian blood flowed today.
-{17531}{17609}Under such circumstances, can I...
-{17638}{17687}May I cut and run?
-{17715}{17758}I don't think so.
-{17777}{17877}Anyone who has ever sat in the dugout and|held a trembling Chinese child in each hand
-{17879}{17972}through the long hours of an air raid|can understand what I feel.
-{17985}{18080}The rich are fleeing.|The poor remain behind.
-{18082}{18175}{y:i}They don't know where to go.|They don't have the means to flee.
-{18180}{18262}{y:i}Aren't they in danger|of being slaughtered in great numbers?
-{18265}{18332}{y:i}Shouldn't one make|an attempt to help them?
-{18339}{18396}There's a question of morality here.
-{18398}{18463}And, so far,|I haven't been able to sidestep it.
-{19008}{19103}Tuesday evening, we took our entire|hospital staff to Shokwan Station,
-{19106}{19186}where about 1,200 Chinese soldiers|lay around.
-{19202}{19275}{y:i}We found the soldiers|scattered thickly at the station.
-{19278}{19333}{y:i}Some men were in great agony.
-{19336}{19421}{y:i}One of the men had his leg shot off|up near the hip.
-{19450}{19492}{y:i}The wound had not been attended.
-{19494}{19601}{y:i}The odor of his flesh,|I can never, never forget.
-{19603}{19678}When I reached home,|I first washed with Lysol, and then soap,
-{19681}{19721}but the odor still remained.
-{19724}{19806}I used cold cream,|and then later perfume, but...
-{19808}{19877}All day today, I am still conscious of it.
-{20394}{20488}At 9:00 p.m., a letter came|by special messenger from the Embassy.
-{20490}{20562}{y:i}They are asking all men and women|to evacuate Nanking.
-{20590}{20655}{y:i}It was a very clear, emphatic statement.
-{20812}{20859}{y:i}Standing offshore|from the doomed city is
-{20862}{20941}{y:i}the United States gunboat Panay|of the Yangtze Patrol.
-{20944}{21020}{y:i}Fleeing from the beleaguered city,|a number of Americans and others
-{21022}{21100}{y:i}arrive at the riverside,|hoping to get aboard the Panay.
-{21102}{21203}{y:i}Diplomats representing the United States|government pack important state papers
-{21206}{21317}{y:i}and head for the Panay in cars prominently|marked with the American colors.
-{21348}{21418}I personally feel that I cannot leave.
-{21420}{21478}Men are not asked to leave their ships|when they are in danger,
-{21481}{21545}and women are not asked|to leave their children.
-{21554}{21641}If Americans leave,|a great many of the Chinese would go, also.
-{21648}{21754}{y:i}The hospital would have to close,|or be operated by military authorities.
-{21795}{21897}One can't help feeling that leaving right now|would be passing up an opportunity
-{21900}{21985}for service of the highest kind.
-{22956}{23026}At 1:30 this afternoon,|I drove to Zhongshan Wharf.
-{23078}{23147}{y:i}After a brief goodbye to the passengers,|I take the launch,
-{23150}{23225}{y:i}which is honking impatiently now,|back to Shokwan.
-{23265}{23312}My last bridge is burned.
-{23511}{23590}{y:i}The city|is practically deserted now,
-{23593}{23676}except for the poor,|who have no place to go.
-{23848}{23943}This morning, after the service began,|the warning siren sounded.
-{23953}{24016}{y:i}The pastor asked,|"Shall we continue, or go to a dugout?"
-{24018}{24113}{y:i}One man said, "Continue." And we did so.
-{24116}{24190}{y:i}Life is real. Life is earnest these days.
-{24217}{24292}{y:i}Slowly, the heavy bombers drew near.
-{24294}{24383}{y:i}When the bombing could be plainly heard|inside the city,
-{24391}{24505}the pastor stopped preaching,|and asked us all to pray silently for peace.
-{25042}{25121}The Chinese appear to regard Shanghai|as the main theater of war,
-{25124}{25187}because Shanghai protects Nanking.
-{25215}{25252}But for how long?
-{25333}{25382}{y:i}Smoke-filled skies|signal to the world
-{25385}{25456}{y:i}the final chapter|of the greatest war drama yet filmed.
-{25530}{25573}{y:i}The actual fall of Shanghai!
-{27223}{27277}{y:i}At 10:00 a.m.,|the order came.
-{27295}{27345}"Regiment is to pursue enemy|towards Nanking."
-{27366}{27418}"All troops have to be ready immediately."
-{27599}{27657}{y:i}General Matsui said Nanking|is the capital of China,
-{27659}{27737}{y:i}and our capturing of it|will be an international event.
-{27739}{27854}{y:i}With General Matsui's principle in mind,|we began immediately to make our plans.
-{27878}{27933}{y:i}From the Tokyo|Nichi-Nichi newspaper,
-{27936}{27981}{y:i}reported on the road to Nanking.
-{27983}{28021}"There are two|young commissioned officers
-{28024}{28104}"who have undertaken a contest|to cut down a hundred with their swords.
-{28125}{28242}{y:i}" It is said that one man has already killed|56 men and the other has killed 25.
-{28245}{28304}{y:i}" When we reporters came upon|the two of them conferring,
-{28306}{28373}{y:i}"second lieutenant Mukai said,|'With things going like this,
-{28375}{28477}{y:i}"'I'll probably cut down 100 by the time|we reach Danyang, never mind Nanking.
-{28479}{28541}"'You're going to lose.|My sword has killed 55,
-{28543}{28576}"'and it's only got one little nick on it.'
-{28598}{28637}{y:i}"Second lieutenant Noda responded,
-{28639}{28737}{y:i}"'By the time you're in Danyang, I'll show|you what kind of a record I can rack up.'"
-{28782}{28842}{y:i}Every time we seize a village|on the way to Nanking,
-{28845}{28890}newly-commissioned officers|will test their swords
-{28893}{28945}on the defeated Chinese soldiers.
-{28947}{29008}When you behead someone,|you need to use a strong stroke,
-{29010}{29097}so you raise the sword high,|and bring it down with force.
-{29110}{29204}The head falls, and blood flies straight up|like a red pillar of fire.
-{29219}{29315}There's an officer I know|who always bragged about killing people.
-{29318}{29357}He would tie their wrists|and ankles with rope
-{29360}{29454}so that the person to be beheaded|won't be able to stand or stretch his legs.
-{29477}{29524}{y:i}Everyone copied his style.
-{30014}{30060}Tonight's news, none too good.
-{30097}{30175}Conditions look bad. Rumors and unrest.
-{30202}{30289}{y:i}Word is, the Japanese are approaching|from three directions.
-{30852}{30876}{y:i}Over and over again,
-{30879}{30974}{y:i}I am struck by the similarity|of Jesus' day and today in China.
-{30986}{31072}{y:i}Three other missionaries and I|spent an hour and a half today
-{31074}{31165}{y:i}trying to see what Christians|can do in this present situation.
-{31177}{31259}Are we to stand by hopelessly,|or is there something we can do?
-{31262}{31305}And if so, what?
-{31475}{31538}{y:i}Telegram we sent|to the Japanese Ambassador.
-{31541}{31616}"An international committee|composed of nationals of Denmark,
-{31620}{31671}"Germany, Great Britain,|and the United States
-{31682}{31748}{y:i}"desires to suggest|to the Chinese and Japanese authorities
-{31750}{31874}{y:i}"the establishment of a Safety Zone|for civilian refugees at or near Nanking.
-{31882}{31937}"The committee would respectfully request|a prompt reply
-{31939}{31993}"from the Japanese authorities|to this proposal."
-{32004}{32058}We will bear tremendous responsibility
-{32061}{32161}if we first order the remaining populace|of Nanking into the neutral zone
-{32163}{32236}and then later are turned down|by the Japanese.
-{32250}{32338}To our surprise, the big-hearted German|who we'd elected chairman
-{32341}{32394}turned out to be|the National-Socialist leader here.
-{32408}{32470}I continue to hope that Hitler will help us.
-{32481}{32567}{y:i}He has deep sympathy,|not only for the distress of his own people,
-{32570}{32620}{y:i}but for the anguish of the Chinese as well.
-{32622}{32701}So now, it turns out that the burden of work|is to be carried out
-{32703}{32814}{y:i}by a group of American missionaries|and a group of German Nazi businessmen.
-{32846}{32916}{y:i}At 2:30,|as I walked down Shanghai Road,
-{32918}{33042}again and again, I met groups of women|and children in search of the Safety Zone.
-{33049}{33151}{y:i}I told them that it was not yet certain,|but when it was, they would be notified.
-{33168}{33227}The Safety Zone is not yet assured.
-{33259}{33321}{y:i}Telegram|to the United States Embassy.
-{33324}{33401}"Japanese authorities|have duly noted request for a Safety Zone
-{33403}{33448}"but regret cannot grant it."
-{33455}{33562}According to radio reports, London regards|this reply as a flat-out refusal.
-{33583}{33639}We're of a different opinion here.
-{33642}{33715}Their answer is cleverly couched|in diplomatic terms,
-{33718}{33763}leaving a back door open.
-{34290}{34405}Mayor Ma virtually turned over to us|administrative responsibilities for the Zone,
-{34408}{34473}along with a police force of 450 men,
-{34475}{34594}{y:i}2,000 tons of rice, 10,000 bags of flour,|and some salt.
-{34659}{34709}{y:i}Since Mayor Ma|left Nanking yesterday,
-{34712}{34797}{y:i}and since the committee is forced to deal|with all the administrative problems
-{34800}{34860}and workings inside our Safety Zone,
-{34862}{34974}I've, in face of this, become something|very like an acting mayor.
-{34977}{35029}Enough to give you a fit, Rabe.
-{35070}{35145}{y:i}The Japanese are now nearing|the halfway mark from Shanghai
-{35148}{35224}{y:i}and we have already heard|the rumble of big guns.
-{35679}{35728}{y:i}Thousands of refugees are fleeing
-{35730}{35802}{y:i}into our so-called Safety Zone|from all directions.
-{35818}{35900}The sight of the poorest of the poor|wandering aimlessly in the streets
-{35903}{35945}is enough to make you weep.
-{35970}{36053}{y:i}As it grows dark, some families,|unable to find shelter anywhere,
-{36056}{36138}{y:i}stretch out to sleep|in nooks and alcoves of buildings,
-{36141}{36227}{y:i}or simply on the street, despite the cold.
-{36258}{36325}We are working feverishly|to develop the Zone.
-{37304}{37368}{y:i}Around us here,|we now have thousands of poor people
-{37370}{37427}{y:i}crowded into all the available buildings.
-{37430}{37497}What will happen to them|is mere conjecture.
-{37522}{37572}{y:i}The Zone is all marked|with flags and banners,
-{37574}{37643}{y:i}and so far,|the Japanese have not bombed it.
-{37654}{37725}{y:i}We still have hopes|that even if they do not recognize it,
-{37727}{37761}{y:i}they might respect it.
-{37764}{37867}{y:i}If they do, it will mean the saving|of thousands of lives of poor people.
-{38010}{38092}Five air raids on Monday|and one on Tuesday.
-{38095}{38148}I'm writing this during our sixty-first.
-{38170}{38216}{y:i}Tonight,|the flames are lighting the sky
-{38218}{38272}{y:i}above the whole|southwest corner of the city.
-{38293}{38354}And in the afternoon,|we had seen clouds of smoke
-{38357}{38418}rising in every direction, save northwest.
-{38506}{38622}{y:i}It is quite a sensation to be|the only surgeon in a big, war-torn city.
-{38662}{38721}{y:i}How can we leave the sick patients?
-{38814}{38913}The Japs have now reached a point|about 25 miles from the city.
-{38916}{39012}Gunfire could be heard.|It won't be long now.
-{39046}{39122}{y:i}The city gates|are to be closed tomorrow.
-{39125}{39165}{y:i}I sent a telegram to Siemens today,
-{39167}{39267}{y:i}asking them to pay up any|life insurance premiums that may be due.
-{39295}{39396}If I were to say I was not afraid, I'd be lying.
-{39440}{39501}{y:i}The swift Japanese|advance on the national capital
-{39506}{39572}{y:i}make the vicinity of Nanking|a place of danger.
-{39577}{39669}{y:i}The Nipponese invaders strike westward|with incredible speed.
-{39671}{39785}{y:i}The defenders bravely ignore a Japanese|ultimatum calling on them to surrender.
-{39942}{40007}{y:i}If you're getting the same sort|of radio reports that we are,
-{40010}{40086}{y:i}you are undoubtedly alarmed|for our safety here.
-{40113}{40172}We're a little concerned ourselves.
-{40269}{40350}{y:i}Today's air raid brings our tally to 114.
-{40462}{40500}The tally must come to a close,
-{40503}{40591}as today was one long air raid,|from morning till night.
-{40644}{40743}{y:i}I am writing this to the tune of big guns,|just outside of the city.
-{40800}{40896}{y:i}Japanese advance guards|have reached the walls in several places.
-{40975}{41037}Until about 1:00 p.m., December 10th,
-{41039}{41104}General Asaka and I had been waiting|outside of Zhongshan Gate
-{41106}{41193}{y:i}for the bearer of the flag of truce|from the Chinese army.
-{41288}{41329}{y:i}However, he never came.
-{41332}{41382}{y:i}For that reason, from about 2:00 p.m.,
-{41385}{41452}{y:i}a general attack|was commenced against Nanking.
-{41713}{41797}Shells from Japanese guns|commenced falling inside the city walls,
-{41800}{41839}and I went outside to watch them.
-{41842}{41877}They formed a perfect pattern,
-{41880}{42005}{y:i}the explosions advancing in regular rows|about 25 yards every half-minute.
-{42068}{42164}They were coming from outside|the South Gate, directly towards me.
-{42256}{42332}Uninterrupted artillery fire|from Purple Mountain.
-{42340}{42433}Thunder and lightning around the hill.|And suddenly, the whole hill is in flames.
-{42591}{42637}{y:i}An old adage says,
-{42650}{42740}"When Purple Mountain burns,|Nanking is lost."
-{42992}{43026}{y:i}December 13th.
-{43029}{43090}{y:i}I was in the middle of my service|when the telephone rang,
-{43093}{43132}{y:i}and I answered it.
-{43159}{43221}I was asked to immediately go to the|Zone committee's headquarters.
-{43231}{43288}The Japanese had broken into the city.
-{43331}{43368}{y:i}The wall had been breached,
-{43371}{43431}{y:i}and the damage to the southern part|of the city was tremendous.
-{43434}{43507}{y:i}No one will ever know|what the Chinese casualties were,
-{43510}{43554}{y:i}but they must have been enormous.
-{43557}{43604}Soldiers streamed|through the city from the south,
-{43607}{43655}many of them passing through the Zone.
-{50259}{50325}{y:i}In the morning,|the fresh-blood-colored flags
-{50328}{50392}{y:i}of the Rising Sun were fluttering everywhere,
-{50394}{50514}each proclaiming, with its red symbol,|the freshly spilled blood of Nanking.
-{50630}{50670}{y:i}Three dangers are past:
-{50673}{50761}{y:i}that of looting soldiers,|bombing from airplanes,
-{50764}{50849}{y:i}and shelling from big guns.|But the fourth is still before us:
-{50856}{50931}our fate at the hands of a victorious army.
-{52302}{52410}{y:i}It's not until we tour the city|that we learn the extent of the destruction.
-{52413}{52498}{y:i}We come across corpses|every 100 or 200 yards.
-{52509}{52610}{y:i}The bodies of civilians that I examined|had bullet holes in their backs.
-{52613}{52720}These people had presumably been fleeing,|and were shot from behind.
-{54974}{55041}From 8:30 this morning|until 6:00 this evening,
-{55043}{55150}{y:i}I stood at the front gate of Ginling College,|as the refugees poured in.
-{55153}{55231}{y:i}They'd disguised themselves|in every possible way.
-{55241}{55336}Many had cut their hair,|most of them had blackened their faces.
-{55354}{55466}Many were wearing men or boys' clothing,|or even that of old women.
-{55891}{55957}{y:i}Nanking has no lights, no water,|no telephone,
-{55959}{56030}{y:i}no telegraph, no city paper, no radio!
-{56060}{56167}We are indeed separated from all of you|by an impenetrable zone.
-{56191}{56278}{y:i}The Japanese march through the city|in groups of 10 to 20 soldiers
-{56281}{56321}{y:i}and loot the shops.
-{56324}{56416}{y:i}They smash open windows and doors,|and take whatever they like.
-{56418}{56471}We ran across a group|of 200 Chinese workers
-{56473}{56565}whom Japanese soldiers have picked up|off the streets of the Safety Zone,
-{56568}{56669}{y:i}and after having been tied up|are now being driven out of the city.
-{56709}{56769}{y:i}At the last moment,|thousands of Chinese soldiers
-{56772}{56822}{y:i}threw away their uniforms and equipment,
-{56825}{56893}looted civilian clothes,|and crowded into the Zone.
-{56925}{57001}{y:i}I had made up my mind|to bury the Chinese soldiers' clothes.
-{57005}{57080}They had been thrown|onto the campus by the fleeing soldiers.
-{57082}{57175}But when I got to the carpenter's shop|I could see that the gardeners were wiser.
-{57177}{57256}They had burned them,|and thrown the grenades into a pond.
-{57315}{57360}{y:i}At headquarters,|we found a mob of men
-{57362}{57410}{y:i}outside that had been disarmed.
-{57421}{57465}About 1,300 in all.
-{57505}{57575}{y:i}We argued the Japanese|would not shoot disarmed men.
-{57577}{57653}{y:i}So we went to our staff conference|quite relieved.
-{57664}{57735}{y:i}We knew that there were a number|of ex-soldiers among them.
-{57738}{57781}But Rabe had been promised by an officer
-{57784}{57844}that very afternoon|that their lives would be spared.
-{57852}{57900}But in a half-hour, we were called back.
-{57906}{57961}{y:i}The Japanese had come back for them.
-{57963}{58054}{y:i}The men were lined up|and roped together in groups of about 100
-{58057}{58125}{y:i}by Japanese soldiers with bayonets fixed.
-{58392}{58484}I tried for hours to prevent the Japanese|from marching these men out for execution.
-{58520}{58553}But I failed.
-{58657}{58762}By the light of our headlights,|we watched them march away to their doom.
-{58794}{58869}Not a whimper came from the entire throng.
-{58897}{58945}Our own hearts were lead.
-{58998}{59038}{y:i}MILLS McCALLUM: During this time,|we really felt
-{59041}{59107}{y:i}that we were contending|with the powers of evil.
-{59128}{59201}This memory will remain with me forever.
-{59240}{59308}We could do nothing to avert this tragedy.
-{59365}{59446}{y:i}Japanese 6th Brigade Operation Order 138.
-{59449}{59523}{y:i}" Since the defeated enemy soldiers|are believed to be in plain clothes,
-{59525}{59612}{y:i}"you must arrest any person|who is suspected of being so.
-{59614}{59713}"Regard every adult man up to middle age|as a plain-clothes soldier."
-{59728}{59800}There is no system.|Soldiers seize anyone they suspect.
-{59802}{59869}{y:i}Calluses on hands|are proof the man is a soldier.
-{59871}{59973}{y:i}Rickshaw coolies, carpenters,|and other laborers are frequently taken.
-{61259}{61341}I took moving pictures of a group|of about 70 or so Chinese men
-{61343}{61372}being gathered on the road.
-{61379}{61459}And in the picture, the women are kneeling|before the Japanese,
-{61461}{61505}{y:i}begging for their menfolk.
-{65131}{65226}How many thousands|were mown down by guns? Or bayoneted?
-{65229}{65280}We shall probably never know.
-{65282}{65350}But in many cases,|oil was thrown over the bodies,
-{65353}{65398}and they were burned.
-{65401}{65493}Charred bones tell the story|of many of those tragedies.
-{68797}{68892}Some Japanese soldiers|were fierce and unreasonable.
-{68895}{68996}And many of them|had their bayonets ready for use.
-{68998}{69096}And on not a few of them,|I saw fresh bloodstains.
-{70024}{70108}There seems to be no stop|to the ferocity of the brutes.
-{70131}{70237}{y:i}At first I tried to be pleasant to them,|to avoid arousing their ire.
-{70240}{70297}{y:i}But the smile has gradually worn off,
-{70299}{70393}and my stare|is fully as cool and fishy as theirs.
-{71108}{71187}A colonel and his staff called at my office,|and spent an hour trying to discover
-{71189}{71271}where all the additional|disarmed soldiers were.
-{71274}{71323}They insisted that they were hiding|within the Zone,
-{71325}{71375}and that we were responsible|for concealing them.
-{72698}{72772}Miss Vautrin ran to us,|and begged us to claim someone.
-{72788}{72860}She told us if we claimed a man,|we would save a life.
-{72878}{72919}As long as you had a relative,
-{72930}{73003}the Japanese would assume|you were not a soldier.
-{73009}{73100}There were two or three thousand|young men, some soldiers, some not.
-{73102}{73149}We each claimed someone.
-{73151}{73244}All day, I watched her running back|and forth across Ginling in this work.
-{73327}{73411}Sometimes, one gets weary of spirit.
-{73427}{73464}There is so much suffering.
-{73466}{73549}{y:i}So many in such difficult|and impossible circumstances,
-{73552}{73596}{y:i}it makes one hopeless.
-{73613}{73656}{y:i}And when will it end?
-{73716}{73763}{y:i}I can see little indication of God
-{73765}{73818}in the tremendous wave of cruelty and greed
-{73821}{73890}{y:i}that has engulfed a big piece of our world.
-{73931}{73997}{y:i}I wish Emperor Hirohito|could see the mangled bodies
-{74000}{74047}{y:i}of these simple, Chinese common people,
-{74049}{74120}{y:i}which his spokesmen|profess to love so much.
-{74141}{74205}{y:i}Or that I could carry some of the men|and women with legs blown off
-{74208}{74263}{y:i}into the elegant parlors|of the rich Americans
-{74265}{74337}who fatten on selling war supplies to Japan.
-{74339}{74391}{y:i}They would probably worry more|about their rugs
-{74393}{74440}{y:i}than about the wounded.
-{74521}{74554}{y:i}Religious faith is believing
-{74557}{74637}{y:i}that good things are worth doing|for their own sake.
-{74670}{74743}{y:i}Even in a world|that seems overpoweringly evil.
-{74825}{74867}{y:i}I remain assured in hard experience
-{74869}{74920}{y:i}that neither by national guns|nor by national gods
-{74922}{74966}{y:i}will mankind be saved,
-{75004}{75102}{y:i}but only by the genuine regard|for all members of the human family.
-{75208}{75309}{y:i}God, comfort the heartbroken|mothers and fathers of innocent sons
-{75311}{75353}{y:i}who were shot today.
-{75393}{75517}And guard the young women and girls|through the agonizing hours of this night.
-{75577}{75643}Speed the day when war shall be no more.
-{75687}{75772}In Nanking, we had time on our hands|and nothing to do.
-{75785}{75824}{y:i}So we raped girls.
-{82402}{82449}{y:i}December 18th, Saturday.
-{82460}{82515}All days seem alike now.
-{82517}{82561}Went to gate at 7:30.
-{82564}{82655}A stream of weary,|wild-eyed women were coming in.
-{82657}{82716}They said|their night had been one of horror.
-{82718}{82806}That again and again,|their homes were visited by soldiers.
-{82834}{82909}Twelve-year-old girls,|60-year-old women. Raped.
-{82948}{83066}If only the thoughtful people of Japan|knew the facts of these days of horror.
-{83197}{83236}We had on the grounds of our college
-{83239}{83322}more than 10,000|women and children refugees.
-{83325}{83427}{y:i}Every night, the soldiers|would enter our grounds to get the girls,
-{83429}{83534}and every night Miss Vautrin|would try to keep them from the girls.
-{83572}{83640}{y:i}It seems in several homes|near West Flower Gate,
-{83642}{83744}{y:i}the soldiers, failing to find young girls,|are using teenage boys.
-{83809}{83862}Tonight, I asked George Fitch|how the day went,
-{83865}{83905}and what progress they had made,
-{83908}{83972}and his reply was,
-{83974}{84052}"It was hell today.|The blackest day of my life."
-{84097}{84153}Certainly it was the same for me.
-{84187}{84284}Tonight, a truck passed|in which there were eight or ten girls.
-{84287}{84365}{y:i}And as it passed,|they called, "Jo ming! Jo ming!"
-{84389}{84430}"Save our lives!"
-{84484}{84532}{y:i}Six Japanese|climb over my garden wall
-{84534}{84596}{y:i}and attempt|to open my gates from the inside.
-{84598}{84674}When I arrive and shine my flashlight|on the face of one of them,
-{84677}{84722}he reaches for his pistol.
-{84725}{84796}But his hand drops quickly enough|when I yell at him
-{84799}{84873}and hold my swastika armband|under his nose.
-{84876}{84981}Then, on my orders,|all six have to scramble back over the wall.
-{84983}{85047}My gates will never be opened|to a riffraff like that!
-{86523}{86624}Every day, we call at the Japanese Embassy,|and present our protests and appeals,
-{86626}{86683}our reports of violence and crime.
-{86685}{86772}"For the kind attention of Mr. Kiyoshi Fukui,
-{86774}{86833}"Second Secretary, Japanese Embassy.
-{86853}{86946}"Dear Sirs,|we are very sorry to trouble you again,
-{86949}{87023}"but the sufferings and needs|of 200,000 civilians
-{87025}{87083}"for whom we are trying to care|make it urgent
-{87085}{87166}{y:i}" that we try to secure action|from your military authorities
-{87169}{87253}"to stop present disorder|among Japanese soldiers
-{87257}{87308}"wandering through the Safety Zone."
-{87328}{87361}"Case number 15,
-{87363}{87420}"Japanese soldiers entered a house|on Hankow Road,
-{87422}{87488}"raped a young wife,|and took away three women.
-{87490}{87553}"When two husbands ran,|the soldiers shot both of them."
-{87556}{87616}"Case number 154,
-{87618}{87740}"a girl, 13 years old, was raped|by three Japanese soldiers
-{87743}{87792}"at Chen Chia Chai number 6."
-{87795}{87828}"Case number 290,
-{87830}{87923}"four soldiers raped a young girl,|a little over 10, by turns."
-{87975}{88067}{y:i}Fukuda and Tanaka of|the Japanese Embassy had nothing to say,
-{88069}{88139}{y:i}except Fukuda's remark|that the army is very mad,
-{88141}{88188}{y:i}because they say|it is the first time in history
-{88190}{88277}{y:i}that an army had to conquer a place|with neutral observers on hand.
-{88280}{88368}Quite a false view,|but we felt it was not time to argue.
-{88370}{88449}{y:i}We have come to understand the Japanese|much better than we did.
-{88452}{88503}{y:i}A week before their entry,|I preached to our group,
-{88505}{88609}{y:i}and I urged them to have faith in the|goodness and humanity of the Japanese.
-{88612}{88694}{y:i}The Chinese are still laughing at us|for our innocence.
-{88714}{88774}{y:i}And we better understand|Japanese propaganda.
-{88777}{88805}{y:i}In the midst of great suffering,
-{88808}{88872}{y:i}Japanese news squads|went around staging pictures
-{88874}{88996}{y:i}of Japanese soldiers giving candy to a child|or an army doctor examining 20 children.
-{89050}{89153}Some Japanese newsmen came to the camp|and handed out cakes and apples,
-{89156}{89213}and a few coins to the refugees.
-{89229}{89296}{y:i}A moving picture was taken of this kind act.
-{89298}{89342}At the same time, a bunch of soldiers
-{89345}{89442}climbed the back wall of the compound|and raped a dozen or so women.
-{89445}{89500}{y:i}No pictures were taken out back.
-{89759}{89805}{y:i}We are introduced|to Commandant Matsui,
-{89808}{89858}{y:i}who shakes hands all around.
-{89861}{89900}{y:i}I assume the role of spokesman
-{89902}{89970}and explain to Mr. Tanaka|of the Japanese Embassy
-{89973}{90046}that we infer|that the city is to be burned down.
-{90067}{90132}Tanaka denies this with a smile.
-{90134}{90233}Statement by the Japanese military|posted throughout the city.
-{90236}{90308}{y:i}" The municipality of Nanking is quiet.
-{90310}{90360}{y:i}" The herds of refugees|who fled for their lives
-{90362}{90461}{y:i}" from the midst of death have met with|the gentle soothing of the Japanese army.
-{90464}{90504}{y:i}" The Imperial army entered the city,
-{90506}{90589}{y:i}"put their bayonets into sheaths,|and stretched forth merciful hands
-{90592}{90644}{y:i}" in order to examine and to heal,
-{90647}{90744}{y:i}" diffusing grace and favor|to the excellent, true citizens.
-{90747}{90781}{y:i}" Many thousands of refugees
-{90783}{90872}{y:i}" cast off their former absurd attitudes|of opposing Japan,
-{90874}{90985}{y:i}" and clasped their hands in congratulation|for receiving assurance of life.
-{90989}{91059}{y:i}" Looking down, one sees a playground|for Nanking children,
-{91061}{91160}{y:i}" with soldiers and Chinese children|playing joyfully on all sides."
-{91193}{91267}{y:i}The proclamation on the handbills|which airplanes scattered over the city,
-{91269}{91337}{y:i}saying the Japanese|are the only real friends of the Chinese
-{91339}{91389}{y:i}and would protect the good, of course
-{91392}{91456}{y:i}meant no more|than most of their statements.
-{91459}{91578}And to show their sincerity,|they raped, looted, and killed at will.
-{91585}{91683}In these hard times,|it is certainly a life-saver to be in a gang.
-{91711}{91777}{y:i}The thing about the whole situation|that startles us all
-{91780}{91820}{y:i}is how we, unarmed handful of foreigners,
-{91823}{91898}{y:i}can chase the Japanese soldiers|out of rooms in school buildings,
-{91901}{91981}{y:i}rooms in foreign houses,|and rooms in Chinese homes.
-{91983}{92038}{y:i}And still, no one gets hurt.
-{92041}{92104}{y:i}The soldiers often actually run away.
-{92107}{92149}{y:i}Part of it is pure bluff.
-{92152}{92222}If we batted an eye, we'd be done for.
-{92248}{92289}Our group here at the house|drafted a message
-{92292}{92344}to the American Consulate General|in Shanghai,
-{92347}{92416}asking that diplomatic representatives|be sent here immediately,
-{92418}{92455}as the situation was urgent,
-{92457}{92533}then asked the Japanese|to send it via Navy radio.
-{92536}{92612}Needless to say, it was never sent.
-{92615}{92704}{y:i}When things were at their worst,|the fellows at our house remarked at supper,
-{92706}{92734}{y:i}" The first fellow that gets killed,
-{92737}{92831}{y:i}" we're going to carry his body over|and put it in the Japanese Embassy."
-{92833}{92920}{y:i}Each night, the eight of us wonder|who would be missing the next night.
-{92922}{93000}We said,|"We just can't all get through this alive."
-{93020}{93112}At noon, a man was led to headquarters|with head burned cinder-black,
-{93114}{93176}eyes and ears gone, nose partly gone...
-{93194}{93244}{y:i}A ghastly sight.
-{93246}{93357}I took him to the hospital in my car,|where he died a few hours later.
-{93360}{93415}His story was|that he was one of the gang of some 100,
-{93417}{93453}who had been tied together,
-{93455}{93526}then gasoline thrown over them,|and set afire.
-{93632}{93725}December 24th, the day before Christmas.
-{93727}{93835}About 10:00, I was called to my office|by a high military advisor.
-{93851}{93958}Miss Minnie Vautrin, our American Minnie,|a proper lady to the core...
-{93979}{94090}{y:i}She believes in her girls and guards them|the way a hen guards her chicks.
-{94093}{94123}{y:i}I shall never forget her
-{94125}{94199}{y:i}marching at the head of some|400 female refugees through the town,
-{94201}{94281}{y:i}right past groups of vagabonding|Japanese soldiers,
-{94284}{94384}to guide the refugees to the safety|of her girls' camp in Ginling College.
-{94413}{94473}And now, something terrible|has happened to our Minnie.
-{94475}{94516}The request was
-{94518}{94628}that they be allowed to pick out|prostitute women from our 10,000 refugees.
-{94630}{94687}They said they wanted 100.
-{94689}{94768}They feel that if they can start a regular,|licensed place for the soldiers,
-{94770}{94848}then they will not molest innocent|or decent women.
-{94862}{94936}And, with hands clenched in horror,|Minnie is forced to watch
-{94938}{95046}as authorized underlings force their way|into her girls' assembly hall,
-{95049}{95108}filled with hundreds of good girls.
-{95124}{95192}{y:i}She's not going to hand over|even one of them willingly.
-{95194}{95290}But then, a number of young refugee girls|step forward.
-{95313}{95365}Evidently, former prostitutes.
-{95394}{95436}Minnie is speechless.
-{95451}{95504}They finally secured 21.
-{95507}{95576}But group after group of women|have asked me
-{95578}{95678}if they will select the other 79|from the decent women and girls.
-{95709}{95752}And all I can answer is,
-{95754}{95841}"They will not do so|if it is in my power to prevent it."
-{95915}{95997}{y:i}Bob Wilson helped out|at our house last night.
-{95999}{96068}{y:i}He got home early|for the first time in two weeks.
-{96070}{96123}{y:i}So he went to the university gardens,
-{96125}{96222}brought six big poinsettias,|and put them around our living room.
-{96225}{96262}So we look like Christmas, anyway.
-{96294}{96363}{y:i}Everyone is competing to make this|a happy Christmas for me.
-{96365}{96410}It's really touching.
-{96413}{96507}Chang brought some Christmas roses|and has decorated the house with them.
-{96509}{96587}He even managed to find a little fir tree|that he wants to decorate.
-{96589}{96637}And he just came in grinning with joy
-{96639}{96723}and carrying six very long candles|that he rounded up somewhere.
-{96745}{96790}Everybody likes me, suddenly.
-{96793}{96845}And it used to be, or so I thought,
-{96848}{96920}that no one wanted|to have much to do with me.
-{96933}{96989}Or might I have been wrong there?
-{97009}{97082}How strange, my dear Dora,|my dear children and grandchildren.
-{97085}{97148}I know you're all praying for me today.
-{97181}{97256}{y:i}I feel as if I'm surrounded|by loving thoughts.
-{97294}{97326}{y:i}Believe me,
-{97329}{97409}I have a prayer in my heart|for all of you, as well.
-{97423}{97489}{y:i}It seems like anything|but Christmas Eve.
-{97505}{97580}{y:i}It is sort of tough to keep|Japanese soldiers from looting a hospital
-{97582}{97668}{y:i}in the center of what was,|a few weeks ago, a great city,
-{97689}{97782}{y:i}while the rest of the family|is scattered all over the globe.
-{97785}{97846}{y:i}My baby will be six months old in four days,
-{97849}{97933}{y:i}and I have only seen her|for seven weeks of that time.
-{97936}{97984}{y:i}It would be pleasant to close the year
-{97986}{98041}{y:i}with some sort of|brighter outlook for the next,
-{98043}{98121}{y:i}but we seem to be closing|on a note of deepest gloom,
-{98124}{98181}{y:i}without a glimmer of light ahead.
-{98198}{98271}{y:i}The only consolation is that|it can't be worse.
-{98285}{98380}They can't kill as many people,|as there aren't any more to kill.
-{98553}{98613}Christmas Eve, Nanking, China, 1937.
-{98645}{98725}What I am about to relate|is a story which I feel must be told,
-{98728}{98786}even if it is seen by only a few.
-{98820}{98856}{y:i}In these two short weeks,
-{98858}{98918}{y:i}we here in Nanking|have been through a siege.
-{98921}{99019}{y:i}The Chinese army has left, defeated,|and the Japanese have come in.
-{99036}{99093}On that day, Nanking was still
-{99096}{99205}{y:i}the beautiful city we were so proud of,|with law and order still prevailing.
-{99221}{99345}{y:i}Today, it is a city laid waste, ravaged,|completely looted, much of it burned.
-{99372}{99438}{y:i}Complete anarchy has reigned for 10 days.
-{99461}{99512}{y:i}It has been a hell on earth.
-{99570}{99648}Not that my life has been|in serious danger at any time,
-{99650}{99709}though turning lust-mad, drunken soldiers|out of houses
-{99711}{99817}where they were raping the women|is not altogether a safe occupation.
-{99819}{99865}Nor does one feel|perhaps too sure of himself
-{99868}{99964}when he finds a bayonet at his chest|or a revolver at his head,
-{99985}{100092}and knows it is handled by someone|who heartily wishes him out of the way.
-{100105}{100204}{y:i}The Japanese army is anything but pleased|at our being here.
-{100206}{100253}{y:i}They wanted no observers.
-{100272}{100322}But to have to stand by,
-{100325}{100407}while even the very poor are having|their last possessions taken from them,
-{100409}{100469}their last coin, their last bit of bedding,
-{100471}{100571}{y:i}while thousands of disarmed soldiers|who had sought sanctuary within,
-{100573}{100633}{y:i}together with many hundreds|of innocent civilians,
-{100636}{100739}{y:i}are taken out before your eyes to be shot|or used for bayonet practice.
-{100757}{100859}{y:i}And we have to listen to the sounds|of the guns that are killing them.
-{100886}{100977}Over a thousand women kneel before you,|crying hysterically,
-{100979}{101085}begging you to save them|from the beasts who are preying on them.
-{101088}{101176}To stand by and do nothing,|while your flag is taken down and insulted?
-{101179}{101224}Not once, but a dozen times.
-{101226}{101285}And your own house is being looted?
-{101309}{101373}{y:i}And then to watch|the city you have come to love
-{101395}{101456}{y:i}and the institutions|to which you'd planned to devote your best
-{101459}{101547}{y:i}deliberately and systematically|burned by fire?
-{101597}{101667}This is a hell I had never before envisaged.
-{101706}{101767}And we keep asking ourselves,|"How long can this last?"
-{101769}{101853}Day by day, we are assured by the officials|that things will be better soon,
-{101856}{101905}that "we will do our best."
-{101944}{102001}But each day|has been worse than the day before.
-{102242}{102316}January 1st, a new year filled with hope.
-{102599}{102663}There was a worship ceremony|at 8:30 this morning.
-{102665}{102780}In the solemn air, the trumpets sounded,|and the Japanese flag was raised.
-{102782}{102887}{y:i}It is moving beyond words,|with the swords sparkling in the rising sun.
-{102933}{102965}{y:i}We saluted the military flag,
-{102968}{103040}{y:i}gave three cheers|for our Emperor and Empress.
-{103064}{103157}January 4. It is just three weeks|since Nanking was taken,
-{103159}{103256}and, as yet, there has been no foreigner|allowed in or out.
-{103258}{103352}The Japanese try to cover things up|wherever it's even vaguely feasible.
-{103354}{103407}And the ban on anyone entering or leaving
-{103409}{103514}{y:i}is one of their ways of keeping the world|ignorant of Nanking's present state.
-{103542}{103576}We have now received news
-{103578}{103675}that the Japanese want to close|all refugee camps on February 4th.
-{103701}{103781}{y:i}The refugees are supposed to return|to the devastated city.
-{103783}{103860}{y:i}And it doesn't matter|where they live amid the ruins.
-{103863}{103961}{y:i}This could be awful, but we don't know|how to avert this calamity.
-{103964}{104022}The military has all the power.
-{104064}{104199}At 3:00 p.m., two embassy police came|and asked us to get all the refugees together
-{104201}{104300}so they could explain to them|the plan of returning to their homes.
-{104313}{104425}A Chinese man was with them who|used to be a low-level Chinese army officer.
-{104428}{104519}In order not to be killed,|he became a Japanese collaborator.
-{104540}{104657}When he was alone with Miss Vautrin,|he told her not to let the young girls go.
-{104674}{104717}He wept as he spoke.
-{104727}{104813}Their real object|is to get these people away from us,
-{104816}{104886}who have been their protection|during these terrible weeks.
-{104897}{104940}If they do not go back,
-{104942}{105015}the refugees in camps|will be driven out by soldiers.
-{105017}{105077}{y:i}Some of the refugees|have registered and gone home,
-{105080}{105127}{y:i}hoping to live there peacefully.
-{105129}{105195}{y:i}But, unexpectedly,|when the refugees arrived home,
-{105197}{105278}Japanese soldiers were seen,|hunting for women.
-{105284}{105350}{y:i}I shall never bring pressure|on women to leave again.
-{105353}{105419}My experience on that was too bitter.
-{105421}{105539}One woman of 27, whom we urged|to go back to her husband,
-{105541}{105636}was raped by three soldiers|within three hours after she left us.
-{105652}{105694}I learned my lesson,
-{105721}{105777}and shall not easily forget it.
-{105810}{105860}We have the possibility of a massacre.
-{105862}{105930}But I don't see myself staying out of sight|while soldiers use bayonets
-{105933}{105980}on women and children who trusted us.
-{105982}{106038}I scolded two Japanese soldiers.
-{106053}{106156}The fellow in front was taking it all right,|but the one in back was a surly fellow.
-{106159}{106244}He drew his bayonet,|and then he made a pass at my middle.
-{106246}{106293}I stood my ground.
-{106296}{106341}But since his first pass was unsuccessful,
-{106343}{106423}he took his bayonet|and held it to my neck for a moment.
-{106425}{106523}He muttered something in Japanese,|and jerked his bayonet forward.
-{106525}{106598}When I ducked my head back, it drew blood.
-{106641}{106729}{y:i}I fear that the military|intends to clear the Zone by force.
-{106769}{106852}The middle paths are the only open spot|left in the garden.
-{106855}{106908}As they come outside,|they all fall to their knees,
-{106910}{106978}and cannot be persuaded to get up|from the cold cement path
-{106981}{107038}until I give the following speech.
-{107071}{107118}"The Japanese have publicly announced
-{107121}{107209}"that you must leave the refugee camps|in the Zone today.
-{107234}{107348}"I personally shall not chase you away,|but what can I, a single foreigner, do?
-{107364}{107447}"Nonetheless, I'll try|to prevent the Japanese from entering."
-{107730}{107832}When I return home in my car today,|I am received with a royal salute.
-{107835}{107906}My poor refugees|have formed two long lines.
-{107909}{108022}Then all my 600 parishioners surround me|and give me a greeting written on a banner.
-{108025}{108136}They all bow three times, and are very happy|when I bow my head in gratitude.
-{108158}{108220}Then one of my Chinese friends|translates the greeting.
-{108223}{108331}You are the living Buddha|for 100,000 people.
-{108333}{108431}You have saved thousands of people|from danger and want.
-{108433}{108564}May the favor of heaven be granted to you.|May God's blessing rest upon you.
-{108711}{108779}{y:i}As is obvious from the letters|that arrived for me yesterday
-{108781}{108832}{y:i}from Shanghai via the German Embassy,
-{108834}{108926}people there have not the vaguest notion|of current conditions here.
-{108929}{108975}And what do we do next?
-{108977}{109031}We've about shot our bolts.
-{109121}{109205}{y:i}At 6:40, I took the Japanese military|train to Shanghai.
-{109228}{109318}{y:i}I was crowded in with about as unsavory|a crowd of soldiers as one could imagine
-{109321}{109351}{y:i}in a third-class coach.
-{109353}{109449}Nervous, because sewed into the lining|of my camel's hair greatcoat
-{109452}{109542}were eight reels of 16 mm movie film|of atrocity cases,
-{109545}{109636}most of which were taken|at the university hospital by John Magee.
-{109638}{109728}They were so terrible|that they had to be seen to be believed.
-{109730}{109808}My baggage would undoubtedly|be carefully examined by the military
-{109810}{109868}when we got to Shanghai.
-{109870}{109932}What might happen,|if they discovered these films?
-{112132}{112160}The pictures shown herewith
-{112162}{112225}give but a fragmentary glimpse|of the unspeakable things that happened
-{112228}{112328}following the Japanese occupation|of Nanking on December 13, 1937.
-{112360}{112423}{y:i}One must remember|that of the thousands injured,
-{112425}{112525}{y:i}only a small percentage got to the hospital|or were even heard of.
-{112573}{112641}{y:i}These pictures have been taken|with no thought
-{112643}{112707}{y:i}of stirring up a spirit of hatred|against the Japanese,
-{112709}{112842}{y:i}but only with the desire to make|all people realize how horrible war is.
-{112890}{112973}Great care had to be exercised|not to be seen while taking pictures.
-{112975}{113066}Otherwise, the camera|would have been smashed or confiscated.
-{113103}{113170}Fortunately, the reels weren't discovered.
-{113201}{113229}{y:i}Washington.
-{113232}{113304}I was the guest of Undersecretary of State,|Dr. Stanley Hornbeck,
-{113307}{113339}whom I had known in China,
-{113341}{113408}and I was given the opportunity|to see many people of importance.
-{113410}{113470}And I also showed my films|to newspapermen
-{113473}{113525}and the Foreign Affairs Committee|of the House.
-{113528}{113593}In Los Angeles,|a couple of speeches were lined up for me,
-{113596}{113671}{y:i}and one, where I showed my films,|caused something of a sensation,
-{113673}{113726}{y:i}even illness|on the part of a couple of the audience.
-{113745}{113826}And, following the meeting,|a Japanese gentleman approached me
-{113829}{113921}and said that my statements about|the atrocities in Nanking were not true.
-{113924}{114062}They could not be true,|for Japanese were incapable of such acts.
-{114065}{114132}He asked me to retract|some of the things I had said,
-{114134}{114217}and intimated that it would be best for me|if I did so.
-{114241}{114301}I told him that I had many Japanese friends
-{114304}{114390}and knew that most Japanese were|incapable of such acts as I had described.
-{114393}{114544}But, I said, unfortunately,|everything I said was true,
-{114546}{114605}and hence, I could retract nothing.
-{115038}{115120}The war has rolled on|to engulf a thousand other towns like ours.
-{115122}{115236}This story of invasion, massacre,|rape and oppression
-{115239}{115319}will be reenacted among countless|communities in China.
-{115349}{115438}{y:i}Nanking looks like a garden|that's been devoured by locusts.
-{115453}{115525}The enemy creates a desert|and calls it peace.
-{115640}{115675}At the conclusion of World War II,
-{115677}{115764}the Allies convened|a War Crimes Tribunal in Tokyo.
-{115767}{115807}{y:i}From the summary judgment,
-{115809}{115883}{y:i}approximately 20,000 cases of rape|occurred in Nanking
-{115885}{115955}{y:i}within the first month of the occupation.
-{115957}{116040}{y:i}Estimates indicate that the total number|of civilians and prisoners of war
-{116043}{116087}{y:i}murdered in Nanking and its vicinity
-{116089}{116156}{y:i}during the first six weeks|of the Japanese occupation
-{116158}{116200}{y:i}was over 200,000.
-{117299}{117357}{y:i}Do I hate the Japanese? No.
-{117397}{117481}{y:i}I dislike very much their policy,|and I dislike very much
-{117484}{117546}{y:i}the way they are treating|the common people of China.
-{117549}{117631}{y:i}But if I am ever given the opportunity|of doing the same for the Japanese
-{117634}{117705}{y:i}as we have done here for the Chinese men,|women and children,
-{117708}{117768}I would do the same right over again.
-{118373}{118480}{y:i}I have deeply loved and respected|the cause of missions and Ginling College.
-{118492}{118616}Had I 10 lives, I would dedicate them all|to this cause of kingdom-building.
-{118674}{118745}But alas, I have failed.
-{119196}{119225}{y:i}Dearest,
-{119243}{119305}{y:i}don't think for a moment|that I wouldn't give my right eye
-{119308}{119387}{y:i}to be with you|and our unbelievably adorable child.
-{119409}{119501}We have been caught up in a cataclysm,|and during the immediate crisis,
-{119504}{119570}until some light|gets thrown upon future events,
-{119573}{119635}it is absolutely essential to sit tight.
-{120154}{120216}{y:i}I do not regret having stayed on here.
-{120239}{120305}For my presence has saved many lives.
-{120331}{120419}But all the same,|my suffering is indescribable.
-{122505}{122606}{y:i}The Chinese have an unsurpassed|capacity for suffering and endurance,
-{122621}{122677}in addition to their many other qualities,
-{122681}{122744}and right must triumph in the end.
-{122775}{122853}I shall always be glad|I threw in my lot with them.
-{124292}{124316}Subtitle extracted by LeapinLar
+I think everyone is here.
+If you'd all please take your seats,|we can get started.
+George Fitch, Christmas Eve, Nanking,|China, 1937.
+What I am about to relate is a story|which I feel must be told,
+even if it is seen by only a few.
+I cannot rest until I have told it and,|perhaps fortunately,
+I am one of a very few|who are in a position to tell it.
+It is not complete, only a part of the whole,
+and God alone knows|when it will be finished.
+I pray it may be soon,
+but I am afraid it is going to go on|for many months to come.
+I believe it has no parallel|in modern history.
+Bob Wilson.|I was born and grew up here in China.
+My parents were both missionaries.
+I went away to medical school at Harvard,
+but I came back here to live,|and practice medicine.
+Nanking is my home.
+Minnie Vautrin. Dean of Ginling|Women's College in Nanking.
+I'm from Secor, Illinois,|a small farming town on the prairie.
+John Rabe.
+I moved to China from Hamburg|on business, over 30 years ago.
+I married my childhood sweetheart|from Germany,
+and we raised our two children here.
+For the last six years, I've been director|of Siemens China company,
+here in Nanking, the capital.
+March of Time newsreel, August, 1937.
+"Today, out of the Far East,|come grim messages of a new conflict."
+" The gory chronicle of Japan's war|to crush all of China..."
+and gain for herself|sole mastery of the Orient.
+Shanghai tastes war at its worst.
+For, in a war of today,|there is a new element:
+a fearsome, haphazard, modern fighting
+that takes its toll on peaceful cities|and their non-combatant populations.
+We always knew Japan wanted China.
+I knew it since I was little.|My parents always said,
+"Japan wants to conquer China because|we have all the land and all the wealth."
+And we were right next door.
+Everywhere, dugouts can be seen.
+In some places,|they are as close as every 200 feet.
+Just as you would show|your rose garden
+to your friends when they call,
+now it's customary
+to take your friends to your trenches|and caves, to ask their opinion.
+Today, we had a genuine thrill.
+The first air raid|that any of us had ever experienced.
+It probably won't be the last.
+During the worst of the bombing,|on the 19th and 20th of September,
+I sat with my Chinese|in our homemade dugout,
+which is certainly not bomb-proof,
+but at least provides protection|against shrapnel and bomb fragments.
+Out in the garden, we've also spread|a 20-by-20-foot piece of canvas,
+with a swastika painted on it.
+In the long hours|of crouching in the dugout,
+during the recent bombardment,|I turned on Radio Shanghai
+to take my mind off things|with a little music.
+And they were playing|Beethoven's "Funeral March"!
+Then, to make matters worse,|they announced to their listeners,
+"This music is kindly dedicated to you|by the Shanghai Funeral Directors."
+Most of the shops|on the business streets are locked,
+and the city has a deserted and forlorn look.
+The glances cast at me as much as say,|"What? Are you still here?"
+September 25th.|This has been a terrible day.
+Bombs seem to be raining around.
+Nanking was subjected|to three terrific air raids.
+The count of raids and alarms|has now risen to 39.
+Gallons of civilian blood flowed today.
+Under such circumstances, can I...
+May I cut and run?
+I don't think so.
+Anyone who has ever sat in the dugout and|held a trembling Chinese child in each hand
+through the long hours of an air raid|can understand what I feel.
+The rich are fleeing.|The poor remain behind.
+They don't know where to go.|They don't have the means to flee.
+Aren't they in danger|of being slaughtered in great numbers?
+Shouldn't one make|an attempt to help them?
+There's a question of morality here.
+And, so far,|I haven't been able to sidestep it.
+Tuesday evening, we took our entire|hospital staff to Shokwan Station,
+where about 1,200 Chinese soldiers|lay around.
+We found the soldiers|scattered thickly at the station.
+Some men were in great agony.
+One of the men had his leg shot off|up near the hip.
+The wound had not been attended.
+The odor of his flesh,|I can never, never forget.
+When I reached home,|I first washed with Lysol, and then soap,
+but the odor still remained.
+I used cold cream,|and then later perfume, but...
+All day today, I am still conscious of it.
+At 9:00 p.m., a letter came|by special messenger from the Embassy.
+They are asking all men and women|to evacuate Nanking.
+It was a very clear, emphatic statement.
+Standing offshore|from the doomed city is
+the United States gunboat Panay|of the Yangtze Patrol.
+Fleeing from the beleaguered city,|a number of Americans and others
+arrive at the riverside,|hoping to get aboard the Panay.
+Diplomats representing the United States|government pack important state papers
+and head for the Panay in cars prominently|marked with the American colors.
+I personally feel that I cannot leave.
+Men are not asked to leave their ships|when they are in danger,
+and women are not asked|to leave their children.
+If Americans leave,|a great many of the Chinese would go, also.
+The hospital would have to close,|or be operated by military authorities.
+One can't help feeling that leaving right now|would be passing up an opportunity
+for service of the highest kind.
+At 1:30 this afternoon,|I drove to Zhongshan Wharf.
+After a brief goodbye to the passengers,|I take the launch,
+which is honking impatiently now,|back to Shokwan.
+My last bridge is burned.
+The city|is practically deserted now,
+except for the poor,|who have no place to go.
+This morning, after the service began,|the warning siren sounded.
+The pastor asked,|"Shall we continue, or go to a dugout?"
+One man said, "Continue." And we did so.
+Life is real. Life is earnest these days.
+Slowly, the heavy bombers drew near.
+When the bombing could be plainly heard|inside the city,
+the pastor stopped preaching,|and asked us all to pray silently for peace.
+The Chinese appear to regard Shanghai|as the main theater of war,
+because Shanghai protects Nanking.
+But for how long?
+Smoke-filled skies|signal to the world
+the final chapter|of the greatest war drama yet filmed.
+The actual fall of Shanghai!
+At 10:00 a.m.,|the order came.
+"Regiment is to pursue enemy|towards Nanking."
+"All troops have to be ready immediately."
+General Matsui said Nanking|is the capital of China,
+and our capturing of it|will be an international event.
+With General Matsui's principle in mind,|we began immediately to make our plans.
+From the Tokyo|Nichi-Nichi newspaper,
+reported on the road to Nanking.
+"There are two|young commissioned officers
+"who have undertaken a contest|to cut down a hundred with their swords.
+" It is said that one man has already killed|56 men and the other has killed 25.
+" When we reporters came upon|the two of them conferring,
+"second lieutenant Mukai said,|'With things going like this,
+"'I'll probably cut down 100 by the time|we reach Danyang, never mind Nanking.
+"'You're going to lose.|My sword has killed 55,
+"'and it's only got one little nick on it.'
+"Second lieutenant Noda responded,
+"'By the time you're in Danyang, I'll show|you what kind of a record I can rack up.'"
+Every time we seize a village|on the way to Nanking,
+newly-commissioned officers|will test their swords
+on the defeated Chinese soldiers.
+When you behead someone,|you need to use a strong stroke,
+so you raise the sword high,|and bring it down with force.
+The head falls, and blood flies straight up|like a red pillar of fire.
+There's an officer I know|who always bragged about killing people.
+He would tie their wrists|and ankles with rope
+so that the person to be beheaded|won't be able to stand or stretch his legs.
+Everyone copied his style.
+Tonight's news, none too good.
+Conditions look bad. Rumors and unrest.
+Word is, the Japanese are approaching|from three directions.
+Over and over again,
+I am struck by the similarity|of Jesus' day and today in China.
+Three other missionaries and I|spent an hour and a half today
+trying to see what Christians|can do in this present situation.
+Are we to stand by hopelessly,|or is there something we can do?
+And if so, what?
+Telegram we sent|to the Japanese Ambassador.
+"An international committee|composed of nationals of Denmark,
+"Germany, Great Britain,|and the United States
+"desires to suggest|to the Chinese and Japanese authorities
+"the establishment of a Safety Zone|for civilian refugees at or near Nanking.
+"The committee would respectfully request|a prompt reply
+"from the Japanese authorities|to this proposal."
+We will bear tremendous responsibility
+if we first order the remaining populace|of Nanking into the neutral zone
+and then later are turned down|by the Japanese.
+To our surprise, the big-hearted German|who we'd elected chairman
+turned out to be|the National-Socialist leader here.
+I continue to hope that Hitler will help us.
+He has deep sympathy,|not only for the distress of his own people,
+but for the anguish of the Chinese as well.
+So now, it turns out that the burden of work|is to be carried out
+by a group of American missionaries|and a group of German Nazi businessmen.
+At 2:30,|as I walked down Shanghai Road,
+again and again, I met groups of women|and children in search of the Safety Zone.
+I told them that it was not yet certain,|but when it was, they would be notified.
+The Safety Zone is not yet assured.
+Telegram|to the United States Embassy.
+"Japanese authorities|have duly noted request for a Safety Zone
+"but regret cannot grant it."
+According to radio reports, London regards|this reply as a flat-out refusal.
+We're of a different opinion here.
+Their answer is cleverly couched|in diplomatic terms,
+leaving a back door open.
+Mayor Ma virtually turned over to us|administrative responsibilities for the Zone,
+along with a police force of 450 men,
+2,000 tons of rice, 10,000 bags of flour,|and some salt.
+Since Mayor Ma|left Nanking yesterday,
+and since the committee is forced to deal|with all the administrative problems
+and workings inside our Safety Zone,
+I've, in face of this, become something|very like an acting mayor.
+Enough to give you a fit, Rabe.
+The Japanese are now nearing|the halfway mark from Shanghai
+and we have already heard|the rumble of big guns.
+Thousands of refugees are fleeing
+into our so-called Safety Zone|from all directions.
+The sight of the poorest of the poor|wandering aimlessly in the streets
+is enough to make you weep.
+As it grows dark, some families,|unable to find shelter anywhere,
+stretch out to sleep|in nooks and alcoves of buildings,
+or simply on the street, despite the cold.
+We are working feverishly|to develop the Zone.
+Around us here,|we now have thousands of poor people
+crowded into all the available buildings.
+What will happen to them|is mere conjecture.
+The Zone is all marked|with flags and banners,
+and so far,|the Japanese have not bombed it.
+We still have hopes|that even if they do not recognize it,
+they might respect it.
+If they do, it will mean the saving|of thousands of lives of poor people.
+Five air raids on Monday|and one on Tuesday.
+I'm writing this during our sixty-first.
+Tonight,|the flames are lighting the sky
+above the whole|southwest corner of the city.
+And in the afternoon,|we had seen clouds of smoke
+rising in every direction, save northwest.
+It is quite a sensation to be|the only surgeon in a big, war-torn city.
+How can we leave the sick patients?
+The Japs have now reached a point|about 25 miles from the city.
+Gunfire could be heard.|It won't be long now.
+The city gates|are to be closed tomorrow.
+I sent a telegram to Siemens today,
+asking them to pay up any|life insurance premiums that may be due.
+If I were to say I was not afraid, I'd be lying.
+The swift Japanese|advance on the national capital
+make the vicinity of Nanking|a place of danger.
+The Nipponese invaders strike westward|with incredible speed.
+The defenders bravely ignore a Japanese|ultimatum calling on them to surrender.
+If you're getting the same sort|of radio reports that we are,
+you are undoubtedly alarmed|for our safety here.
+We're a little concerned ourselves.
+Today's air raid brings our tally to 114.
+The tally must come to a close,
+as today was one long air raid,|from morning till night.
+I am writing this to the tune of big guns,|just outside of the city.
+Japanese advance guards|have reached the walls in several places.
+Until about 1:00 p.m., December 10th,
+General Asaka and I had been waiting|outside of Zhongshan Gate
+for the bearer of the flag of truce|from the Chinese army.
+However, he never came.
+For that reason, from about 2:00 p.m.,
+a general attack|was commenced against Nanking.
+Shells from Japanese guns|commenced falling inside the city walls,
+and I went outside to watch them.
+They formed a perfect pattern,
+the explosions advancing in regular rows|about 25 yards every half-minute.
+They were coming from outside|the South Gate, directly towards me.
+Uninterrupted artillery fire|from Purple Mountain.
+Thunder and lightning around the hill.|And suddenly, the whole hill is in flames.
+An old adage says,
+"When Purple Mountain burns,|Nanking is lost."
+December 13th.
+I was in the middle of my service|when the telephone rang,
+and I answered it.
+I was asked to immediately go to the|Zone committee's headquarters.
+The Japanese had broken into the city.
+The wall had been breached,
+and the damage to the southern part|of the city was tremendous.
+No one will ever know|what the Chinese casualties were,
+but they must have been enormous.
+Soldiers streamed|through the city from the south,
+many of them passing through the Zone.
+In the morning,|the fresh-blood-colored flags
+of the Rising Sun were fluttering everywhere,
+each proclaiming, with its red symbol,|the freshly spilled blood of Nanking.
+Three dangers are past:
+that of looting soldiers,|bombing from airplanes,
+and shelling from big guns.|But the fourth is still before us:
+our fate at the hands of a victorious army.
+It's not until we tour the city|that we learn the extent of the destruction.
+We come across corpses|every 100 or 200 yards.
+The bodies of civilians that I examined|had bullet holes in their backs.
+These people had presumably been fleeing,|and were shot from behind.
+From 8:30 this morning|until 6:00 this evening,
+I stood at the front gate of Ginling College,|as the refugees poured in.
+They'd disguised themselves|in every possible way.
+Many had cut their hair,|most of them had blackened their faces.
+Many were wearing men or boys' clothing,|or even that of old women.
+Nanking has no lights, no water,|no telephone,
+no telegraph, no city paper, no radio!
+We are indeed separated from all of you|by an impenetrable zone.
+The Japanese march through the city|in groups of 10 to 20 soldiers
+and loot the shops.
+They smash open windows and doors,|and take whatever they like.
+We ran across a group|of 200 Chinese workers
+whom Japanese soldiers have picked up|off the streets of the Safety Zone,
+and after having been tied up|are now being driven out of the city.
+At the last moment,|thousands of Chinese soldiers
+threw away their uniforms and equipment,
+looted civilian clothes,|and crowded into the Zone.
+I had made up my mind|to bury the Chinese soldiers' clothes.
+They had been thrown|onto the campus by the fleeing soldiers.
+But when I got to the carpenter's shop|I could see that the gardeners were wiser.
+They had burned them,|and thrown the grenades into a pond.
+At headquarters,|we found a mob of men
+outside that had been disarmed.
+About 1,300 in all.
+We argued the Japanese|would not shoot disarmed men.
+So we went to our staff conference|quite relieved.
+We knew that there were a number|of ex-soldiers among them.
+But Rabe had been promised by an officer
+that very afternoon|that their lives would be spared.
+But in a half-hour, we were called back.
+The Japanese had come back for them.
+The men were lined up|and roped together in groups of about 100
+by Japanese soldiers with bayonets fixed.
+I tried for hours to prevent the Japanese|from marching these men out for execution.
+But I failed.
+By the light of our headlights,|we watched them march away to their doom.
+Not a whimper came from the entire throng.
+Our own hearts were lead.
+MILLS McCALLUM: During this time,|we really felt
+that we were contending|with the powers of evil.
+This memory will remain with me forever.
+We could do nothing to avert this tragedy.
+Japanese 6th Brigade Operation Order 138.
+" Since the defeated enemy soldiers|are believed to be in plain clothes,
+"you must arrest any person|who is suspected of being so.
+"Regard every adult man up to middle age|as a plain-clothes soldier."
+There is no system.|Soldiers seize anyone they suspect.
+Calluses on hands|are proof the man is a soldier.
+Rickshaw coolies, carpenters,|and other laborers are frequently taken.
+I took moving pictures of a group|of about 70 or so Chinese men
+being gathered on the road.
+And in the picture, the women are kneeling|before the Japanese,
+begging for their menfolk.
+How many thousands|were mown down by guns? Or bayoneted?
+We shall probably never know.
+But in many cases,|oil was thrown over the bodies,
+and they were burned.
+Charred bones tell the story|of many of those tragedies.
+Some Japanese soldiers|were fierce and unreasonable.
+And many of them|had their bayonets ready for use.
+And on not a few of them,|I saw fresh bloodstains.
+There seems to be no stop|to the ferocity of the brutes.
+At first I tried to be pleasant to them,|to avoid arousing their ire.
+But the smile has gradually worn off,
+and my stare|is fully as cool and fishy as theirs.
+A colonel and his staff called at my office,|and spent an hour trying to discover
+where all the additional|disarmed soldiers were.
+They insisted that they were hiding|within the Zone,
+and that we were responsible|for concealing them.
+Miss Vautrin ran to us,|and begged us to claim someone.
+She told us if we claimed a man,|we would save a life.
+As long as you had a relative,
+the Japanese would assume|you were not a soldier.
+There were two or three thousand|young men, some soldiers, some not.
+We each claimed someone.
+All day, I watched her running back|and forth across Ginling in this work.
+Sometimes, one gets weary of spirit.
+There is so much suffering.
+So many in such difficult|and impossible circumstances,
+it makes one hopeless.
+And when will it end?
+I can see little indication of God
+in the tremendous wave of cruelty and greed
+that has engulfed a big piece of our world.
+I wish Emperor Hirohito|could see the mangled bodies
+of these simple, Chinese common people,
+which his spokesmen|profess to love so much.
+Or that I could carry some of the men|and women with legs blown off
+into the elegant parlors|of the rich Americans
+who fatten on selling war supplies to Japan.
+They would probably worry more|about their rugs
+than about the wounded.
+Religious faith is believing
+that good things are worth doing|for their own sake.
+Even in a world|that seems overpoweringly evil.
+I remain assured in hard experience
+that neither by national guns|nor by national gods
+will mankind be saved,
+but only by the genuine regard|for all members of the human family.
+God, comfort the heartbroken|mothers and fathers of innocent sons
+who were shot today.
+And guard the young women and girls|through the agonizing hours of this night.
+Speed the day when war shall be no more.
+In Nanking, we had time on our hands|and nothing to do.
+So we raped girls.
+December 18th, Saturday.
+All days seem alike now.
+Went to gate at 7:30.
+A stream of weary,|wild-eyed women were coming in.
+They said|their night had been one of horror.
+That again and again,|their homes were visited by soldiers.
+Twelve-year-old girls,|60-year-old women. Raped.
+If only the thoughtful people of Japan|knew the facts of these days of horror.
+We had on the grounds of our college
+more than 10,000|women and children refugees.
+Every night, the soldiers|would enter our grounds to get the girls,
+and every night Miss Vautrin|would try to keep them from the girls.
+It seems in several homes|near West Flower Gate,
+the soldiers, failing to find young girls,|are using teenage boys.
+Tonight, I asked George Fitch|how the day went,
+and what progress they had made,
+and his reply was,
+"It was hell today.|The blackest day of my life."
+Certainly it was the same for me.
+Tonight, a truck passed|in which there were eight or ten girls.
+And as it passed,|they called, "Jo ming! Jo ming!"
+"Save our lives!"
+Six Japanese|climb over my garden wall
+and attempt|to open my gates from the inside.
+When I arrive and shine my flashlight|on the face of one of them,
+he reaches for his pistol.
+But his hand drops quickly enough|when I yell at him
+and hold my swastika armband|under his nose.
+Then, on my orders,|all six have to scramble back over the wall.
+My gates will never be opened|to a riffraff like that!
+Every day, we call at the Japanese Embassy,|and present our protests and appeals,
+our reports of violence and crime.
+"For the kind attention of Mr. Kiyoshi Fukui,
+"Second Secretary, Japanese Embassy.
+"Dear Sirs,|we are very sorry to trouble you again,
+"but the sufferings and needs|of 200,000 civilians
+"for whom we are trying to care|make it urgent
+" that we try to secure action|from your military authorities
+"to stop present disorder|among Japanese soldiers
+"wandering through the Safety Zone."
+"Case number 15,
+"Japanese soldiers entered a house|on Hankow Road,
+"raped a young wife,|and took away three women.
+"When two husbands ran,|the soldiers shot both of them."
+"Case number 154,
+"a girl, 13 years old, was raped|by three Japanese soldiers
+"at Chen Chia Chai number 6."
+"Case number 290,
+"four soldiers raped a young girl,|a little over 10, by turns."
+Fukuda and Tanaka of|the Japanese Embassy had nothing to say,
+except Fukuda's remark|that the army is very mad,
+because they say|it is the first time in history
+that an army had to conquer a place|with neutral observers on hand.
+Quite a false view,|but we felt it was not time to argue.
+We have come to understand the Japanese|much better than we did.
+A week before their entry,|I preached to our group,
+and I urged them to have faith in the|goodness and humanity of the Japanese.
+The Chinese are still laughing at us|for our innocence.
+And we better understand|Japanese propaganda.
+In the midst of great suffering,
+Japanese news squads|went around staging pictures
+of Japanese soldiers giving candy to a child|or an army doctor examining 20 children.
+Some Japanese newsmen came to the camp|and handed out cakes and apples,
+and a few coins to the refugees.
+A moving picture was taken of this kind act.
+At the same time, a bunch of soldiers
+climbed the back wall of the compound|and raped a dozen or so women.
+No pictures were taken out back.
+We are introduced|to Commandant Matsui,
+who shakes hands all around.
+I assume the role of spokesman
+and explain to Mr. Tanaka|of the Japanese Embassy
+that we infer|that the city is to be burned down.
+Tanaka denies this with a smile.
+Statement by the Japanese military|posted throughout the city.
+" The municipality of Nanking is quiet.
+" The herds of refugees|who fled for their lives
+" from the midst of death have met with|the gentle soothing of the Japanese army.
+" The Imperial army entered the city,
+"put their bayonets into sheaths,|and stretched forth merciful hands
+" in order to examine and to heal,
+" diffusing grace and favor|to the excellent, true citizens.
+" Many thousands of refugees
+" cast off their former absurd attitudes|of opposing Japan,
+" and clasped their hands in congratulation|for receiving assurance of life.
+" Looking down, one sees a playground|for Nanking children,
+" with soldiers and Chinese children|playing joyfully on all sides."
+The proclamation on the handbills|which airplanes scattered over the city,
+saying the Japanese|are the only real friends of the Chinese
+and would protect the good, of course
+meant no more|than most of their statements.
+And to show their sincerity,|they raped, looted, and killed at will.
+In these hard times,|it is certainly a life-saver to be in a gang.
+The thing about the whole situation|that startles us all
+is how we, unarmed handful of foreigners,
+can chase the Japanese soldiers|out of rooms in school buildings,
+rooms in foreign houses,|and rooms in Chinese homes.
+And still, no one gets hurt.
+The soldiers often actually run away.
+Part of it is pure bluff.
+If we batted an eye, we'd be done for.
+Our group here at the house|drafted a message
+to the American Consulate General|in Shanghai,
+asking that diplomatic representatives|be sent here immediately,
+as the situation was urgent,
+then asked the Japanese|to send it via Navy radio.
+Needless to say, it was never sent.
+When things were at their worst,|the fellows at our house remarked at supper,
+" The first fellow that gets killed,
+" we're going to carry his body over|and put it in the Japanese Embassy."
+Each night, the eight of us wonder|who would be missing the next night.
+We said,|"We just can't all get through this alive."
+At noon, a man was led to headquarters|with head burned cinder-black,
+eyes and ears gone, nose partly gone...
+A ghastly sight.
+I took him to the hospital in my car,|where he died a few hours later.
+His story was|that he was one of the gang of some 100,
+who had been tied together,
+then gasoline thrown over them,|and set afire.
+December 24th, the day before Christmas.
+About 10:00, I was called to my office|by a high military advisor.
+Miss Minnie Vautrin, our American Minnie,|a proper lady to the core...
+She believes in her girls and guards them|the way a hen guards her chicks.
+I shall never forget her
+marching at the head of some|400 female refugees through the town,
+right past groups of vagabonding|Japanese soldiers,
+to guide the refugees to the safety|of her girls' camp in Ginling College.
+And now, something terrible|has happened to our Minnie.
+The request was
+that they be allowed to pick out|prostitute women from our 10,000 refugees.
+They said they wanted 100.
+They feel that if they can start a regular,|licensed place for the soldiers,
+then they will not molest innocent|or decent women.
+And, with hands clenched in horror,|Minnie is forced to watch
+as authorized underlings force their way|into her girls' assembly hall,
+filled with hundreds of good girls.
+She's not going to hand over|even one of them willingly.
+But then, a number of young refugee girls|step forward.
+Evidently, former prostitutes.
+Minnie is speechless.
+They finally secured 21.
+But group after group of women|have asked me
+if they will select the other 79|from the decent women and girls.
+And all I can answer is,
+"They will not do so|if it is in my power to prevent it."
+Bob Wilson helped out|at our house last night.
+He got home early|for the first time in two weeks.
+So he went to the university gardens,
+brought six big poinsettias,|and put them around our living room.
+So we look like Christmas, anyway.
+Everyone is competing to make this|a happy Christmas for me.
+It's really touching.
+Chang brought some Christmas roses|and has decorated the house with them.
+He even managed to find a little fir tree|that he wants to decorate.
+And he just came in grinning with joy
+and carrying six very long candles|that he rounded up somewhere.
+Everybody likes me, suddenly.
+And it used to be, or so I thought,
+that no one wanted|to have much to do with me.
+Or might I have been wrong there?
+How strange, my dear Dora,|my dear children and grandchildren.
+I know you're all praying for me today.
+I feel as if I'm surrounded|by loving thoughts.
+Believe me,
+I have a prayer in my heart|for all of you, as well.
+It seems like anything|but Christmas Eve.
+It is sort of tough to keep|Japanese soldiers from looting a hospital
+in the center of what was,|a few weeks ago, a great city,
+while the rest of the family|is scattered all over the globe.
+My baby will be six months old in four days,
+and I have only seen her|for seven weeks of that time.
+It would be pleasant to close the year
+with some sort of|brighter outlook for the next,
+but we seem to be closing|on a note of deepest gloom,
+without a glimmer of light ahead.
+The only consolation is that|it can't be worse.
+They can't kill as many people,|as there aren't any more to kill.
+Christmas Eve, Nanking, China, 1937.
+What I am about to relate|is a story which I feel must be told,
+even if it is seen by only a few.
+In these two short weeks,
+we here in Nanking|have been through a siege.
+The Chinese army has left, defeated,|and the Japanese have come in.
+On that day, Nanking was still
+the beautiful city we were so proud of,|with law and order still prevailing.
+Today, it is a city laid waste, ravaged,|completely looted, much of it burned.
+Complete anarchy has reigned for 10 days.
+It has been a hell on earth.
+Not that my life has been|in serious danger at any time,
+though turning lust-mad, drunken soldiers|out of houses
+where they were raping the women|is not altogether a safe occupation.
+Nor does one feel|perhaps too sure of himself
+when he finds a bayonet at his chest|or a revolver at his head,
+and knows it is handled by someone|who heartily wishes him out of the way.
+The Japanese army is anything but pleased|at our being here.
+They wanted no observers.
+But to have to stand by,
+while even the very poor are having|their last possessions taken from them,
+their last coin, their last bit of bedding,
+while thousands of disarmed soldiers|who had sought sanctuary within,
+together with many hundreds|of innocent civilians,
+are taken out before your eyes to be shot|or used for bayonet practice.
+And we have to listen to the sounds|of the guns that are killing them.
+Over a thousand women kneel before you,|crying hysterically,
+begging you to save them|from the beasts who are preying on them.
+To stand by and do nothing,|while your flag is taken down and insulted?
+Not once, but a dozen times.
+And your own house is being looted?
+And then to watch|the city you have come to love
+and the institutions|to which you'd planned to devote your best
+deliberately and systematically|burned by fire?
+This is a hell I had never before envisaged.
+And we keep asking ourselves,|"How long can this last?"
+Day by day, we are assured by the officials|that things will be better soon,
+that "we will do our best."
+But each day|has been worse than the day before.
+January 1st, a new year filled with hope.
+There was a worship ceremony|at 8:30 this morning.
+In the solemn air, the trumpets sounded,|and the Japanese flag was raised.
+It is moving beyond words,|with the swords sparkling in the rising sun.
+We saluted the military flag,
+gave three cheers|for our Emperor and Empress.
+January 4. It is just three weeks|since Nanking was taken,
+and, as yet, there has been no foreigner|allowed in or out.
+The Japanese try to cover things up|wherever it's even vaguely feasible.
+And the ban on anyone entering or leaving
+is one of their ways of keeping the world|ignorant of Nanking's present state.
+We have now received news
+that the Japanese want to close|all refugee camps on February 4th.
+The refugees are supposed to return|to the devastated city.
+And it doesn't matter|where they live amid the ruins.
+This could be awful, but we don't know|how to avert this calamity.
+The military has all the power.
+At 3:00 p.m., two embassy police came|and asked us to get all the refugees together
+so they could explain to them|the plan of returning to their homes.
+A Chinese man was with them who|used to be a low-level Chinese army officer.
+In order not to be killed,|he became a Japanese collaborator.
+When he was alone with Miss Vautrin,|he told her not to let the young girls go.
+He wept as he spoke.
+Their real object|is to get these people away from us,
+who have been their protection|during these terrible weeks.
+If they do not go back,
+the refugees in camps|will be driven out by soldiers.
+Some of the refugees|have registered and gone home,
+hoping to live there peacefully.
+But, unexpectedly,|when the refugees arrived home,
+Japanese soldiers were seen,|hunting for women.
+I shall never bring pressure|on women to leave again.
+My experience on that was too bitter.
+One woman of 27, whom we urged|to go back to her husband,
+was raped by three soldiers|within three hours after she left us.
+I learned my lesson,
+and shall not easily forget it.
+We have the possibility of a massacre.
+But I don't see myself staying out of sight|while soldiers use bayonets
+on women and children who trusted us.
+I scolded two Japanese soldiers.
+The fellow in front was taking it all right,|but the one in back was a surly fellow.
+He drew his bayonet,|and then he made a pass at my middle.
+I stood my ground.
+But since his first pass was unsuccessful,
+he took his bayonet|and held it to my neck for a moment.
+He muttered something in Japanese,|and jerked his bayonet forward.
+When I ducked my head back, it drew blood.
+I fear that the military|intends to clear the Zone by force.
+The middle paths are the only open spot|left in the garden.
+As they come outside,|they all fall to their knees,
+and cannot be persuaded to get up|from the cold cement path
+until I give the following speech.
+"The Japanese have publicly announced
+"that you must leave the refugee camps|in the Zone today.
+"I personally shall not chase you away,|but what can I, a single foreigner, do?
+"Nonetheless, I'll try|to prevent the Japanese from entering."
+When I return home in my car today,|I am received with a royal salute.
+My poor refugees|have formed two long lines.
+Then all my 600 parishioners surround me|and give me a greeting written on a banner.
+They all bow three times, and are very happy|when I bow my head in gratitude.
+Then one of my Chinese friends|translates the greeting.
+You are the living Buddha|for 100,000 people.
+You have saved thousands of people|from danger and want.
+May the favor of heaven be granted to you.|May God's blessing rest upon you.
+As is obvious from the letters|that arrived for me yesterday
+from Shanghai via the German Embassy,
+people there have not the vaguest notion|of current conditions here.
+And what do we do next?
+We've about shot our bolts.
+At 6:40, I took the Japanese military|train to Shanghai.
+I was crowded in with about as unsavory|a crowd of soldiers as one could imagine
+in a third-class coach.
+Nervous, because sewed into the lining|of my camel's hair greatcoat
+were eight reels of 16 mm movie film|of atrocity cases,
+most of which were taken|at the university hospital by John Magee.
+They were so terrible|that they had to be seen to be believed.
+My baggage would undoubtedly|be carefully examined by the military
+when we got to Shanghai.
+What might happen,|if they discovered these films?
+The pictures shown herewith
+give but a fragmentary glimpse|of the unspeakable things that happened
+following the Japanese occupation|of Nanking on December 13, 1937.
+One must remember|that of the thousands injured,
+only a small percentage got to the hospital|or were even heard of.
+These pictures have been taken|with no thought
+of stirring up a spirit of hatred|against the Japanese,
+but only with the desire to make|all people realize how horrible war is.
+Great care had to be exercised|not to be seen while taking pictures.
+Otherwise, the camera|would have been smashed or confiscated.
+Fortunately, the reels weren't discovered.
+Washington.
+I was the guest of Undersecretary of State,|Dr. Stanley Hornbeck,
+whom I had known in China,
+and I was given the opportunity|to see many people of importance.
+And I also showed my films|to newspapermen
+and the Foreign Affairs Committee|of the House.
+In Los Angeles,|a couple of speeches were lined up for me,
+and one, where I showed my films,|caused something of a sensation,
+even illness|on the part of a couple of the audience.
+And, following the meeting,|a Japanese gentleman approached me
+and said that my statements about|the atrocities in Nanking were not true.
+They could not be true,|for Japanese were incapable of such acts.
+He asked me to retract|some of the things I had said,
+and intimated that it would be best for me|if I did so.
+I told him that I had many Japanese friends
+and knew that most Japanese were|incapable of such acts as I had described.
+But, I said, unfortunately,|everything I said was true,
+and hence, I could retract nothing.
+The war has rolled on|to engulf a thousand other towns like ours.
+This story of invasion, massacre,|rape and oppression
+will be reenacted among countless|communities in China.
+Nanking looks like a garden|that's been devoured by locusts.
+The enemy creates a desert|and calls it peace.
+At the conclusion of World War II,
+the Allies convened|a War Crimes Tribunal in Tokyo.
+From the summary judgment,
+approximately 20,000 cases of rape|occurred in Nanking
+within the first month of the occupation.
+Estimates indicate that the total number|of civilians and prisoners of war
+murdered in Nanking and its vicinity
+during the first six weeks|of the Japanese occupation
+was over 200,000.
+Do I hate the Japanese? No.
+I dislike very much their policy,|and I dislike very much
+the way they are treating|the common people of China.
+But if I am ever given the opportunity|of doing the same for the Japanese
+as we have done here for the Chinese men,|women and children,
+I would do the same right over again.
+I have deeply loved and respected|the cause of missions and Ginling College.
+Had I 10 lives, I would dedicate them all|to this cause of kingdom-building.
+But alas, I have failed.
+Dearest,
+don't think for a moment|that I wouldn't give my right eye
+to be with you|and our unbelievably adorable child.
+We have been caught up in a cataclysm,|and during the immediate crisis,
+until some light|gets thrown upon future events,
+it is absolutely essential to sit tight.
+I do not regret having stayed on here.
+For my presence has saved many lives.
+But all the same,|my suffering is indescribable.
+The Chinese have an unsurpassed|capacity for suffering and endurance,
+in addition to their many other qualities,
+and right must triumph in the end.
+I shall always be glad|I threw in my lot with them.
+Subtitle extracted by LeapinLar

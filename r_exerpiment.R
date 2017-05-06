@@ -1,5 +1,5 @@
 library(text2vec)
-libraty(data.table)
+library(data.table)
 library(glmnet)
 
 load(file="data/rdata/meta+review.RData")
@@ -26,11 +26,17 @@ it_test = itoken(meta_test$review_text, preprocessor = prep_fun, tokenizer = tok
 dtm_test = create_dtm(it_test, bigram_vectorizer)
 
 # do regression
-glmnet_classifier = cv.glmnet(x = dtm_train, y = meta_train[['US_Gross']], family = "gaussian", alpha = 1, type.measure = "mae", nfolds = 10, thresh = 1e-3, maxit = 1e3)
+for (i in c(0.05, 0.1, 0.15, 0.2, 0.25,  0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1)) {
+    for (j in 1:62) {
+        glmnet_classifier = cv.glmnet(x = dtm_train, y = meta_train[['US_Gross']], family = "gaussian", alpha = i, type.measure = "mae", nfolds = 10, thresh = 1e-3, maxit = 1e3)
+        print(sprintf("max MAE (lambda %d, alpha %f) = %f", j, i, round(max(glmnet_classifier$cvm), 4)))
+    }
+}
 
 # not sure what to do now (here's some random stuff)
 plot(glmnet_classifier)
 print(paste("max MAE =", round(max(glmnet_classifier$cvm), 4)))
+print(paste("min MAE =", round(min(glmnet_classifier$cvm), 4)))
 
 # prediction
 preds = predict(glmnet_classifier, dtm_test, type = 'response')[,1]

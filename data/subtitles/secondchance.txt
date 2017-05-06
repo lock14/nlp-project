@@ -1,1156 +1,1155 @@
-{1}{72}/
-{3647}{3700}Your son's on that roof again.
-{3713}{3738}If he did what I told him
-{3741}{3797}he wouldn't make|a very good preacher's kid, now would he?
-{3799}{3881}Daddy, they're here,|and momma says you'd better behave.
-{3968}{3992}Showtime.
-{4266}{4334}It's a privilege and an honor,|as mayor of this great city,
-{4346}{4440}to do my part in linking arms|with people from all walks of life.
-{4451}{4548}{y:i}The city needs strategic partnerships with|{y:i}churches like Second Chance and The Rock,
-{4558}{4609}and we need strong advocates|for the inner city,
-{4611}{4690}- like my friend Reverend Jenkins here.|- And how do you know Reverend Jenkins?
-{4693}{4752}I first met Jerry at an integrated jail cell.
-{4755}{4839}We were both arrested in 1960|at a lunch counter sit-in.
-{4850}{4938}Now when I want a restaurant shut down,|I just call the health department.
-{5082}{5146}- Two scoop.|- Sorry, I was told to give one.
-{5149}{5222}- Jake always give me two scoop.|- Tiki, you bothering the help?
-{5246}{5277}It's cool.
-{5287}{5348}So, I hear you're getting groomed|to take the old man's place.
-{5350}{5398}Yep. When the time comes.
-{5421}{5494}You got the shoes for it.|What are those, Gucci?
-{5501}{5537}Come on, folks. Keep it moving.
-{5543}{5567}Oops.
-{5570}{5648}- Sorry about that.|- My lucky tie. It's ruined.
-{5658}{5732}I'm sorry. Look, there's more napkins|down by the silverware, okay?
-{5734}{5816}And I've got a job interview today.|I might as well not even go now.
-{5902}{5928}{y:i}Here.
-{5962}{6015}Take mine. Take it.
-{6063}{6110}Hey, it better be lucky.
-{6123}{6194}Have time to answer a few questions|before we pack up?
-{6196}{6264}- Hey, Jake can you cover me?|- Got you covered.
-{6269}{6292}{y:i}Yes, ma'am.
-{6294}{6368}{y:i}I know your suburban church|{y:i}is pouring resources into this area,
-{6370}{6433}yet crime and unemployment remain high.
-{6437}{6471}{y:i}Well, like my friend the mayor said,
-{6474}{6538}{y:i}our partnership with the inner city|{y:i}is for the long haul.
-{6541}{6607}{y:i}You know, I'm proud|{y:i}of what we've accomplished so far.
-{6610}{6680}{y:i}But if you want an insider's perspective,
-{6716}{6788}- Pastor Jake's the man.|- Pastor, care to comment?
-{6793}{6846}Are you talking about|helping-rich-white-folks-sleep-at-night
-{6849}{6878}kind of difference?
-{6881}{6929}That's what these cameras are for, right?
-{6931}{7001}Meanwhile, our mayor's idea|of urban renewal
-{7003}{7093}is building baseball stadiums|so poor people can sell the peanuts.
-{7108}{7181}Maybe if he went back to kissing babies|instead of kissing corporations
-{7184}{7221}on their big, fat self-serving...
-{7223}{7289}As far as crime and unemployment|are concerned,
-{7291}{7326}the statistics are showing improvement.
-{7328}{7415}But the real bottom line for us|is meeting people's needs.
-{7418}{7476}- Isn't that right, honey?|- That's right, honey.
-{7861}{7908}The Second Chance video runs|during the choir number.
-{7910}{7967}After that you got two minutes, max,|for the pledge cards.
-{7970}{8027}- You cannot go overtime again.|- Pastor Ethan.
-{8076}{8108}- Good morning, Parker.|- Hey.
-{8110}{8150}Hey, how's it going?
-{8233}{8266}Here you go.
-{8270}{8324}Okay, let me see a pledge card.
-{8399}{8442}Let's let Pastor Jake make the pitch, okay?
-{8445}{8516}Personally I'd love to, but|I got a lot of board members complaining
-{8518}{8564}we're already spending too much money|down there, so...
-{8566}{8661}- I think he'd be more effective.|- Ethan, this is television, all right?
-{8665}{8729}The guy's a loose cannon.|We got him on the platform.
-{8731}{8765}We don't need him in the pulpit.
-{8842}{8953}{y:i}You are the source of my strength
-{9006}{9124}{y:i}You are the strength of my life
-{9169}{9289}{y:i}I lift my hands in total
-{9311}{9392}{y:i}Praise to you
-{9417}{9498}{y:i}Amen
-{9500}{9574}{y:i}Amen
-{9582}{9661}{y:i}Amen
-{9664}{9736}{y:i}Amen
-{9745}{9825}{y:i}Amen
-{9827}{9905}{y:i}Amen
-{9910}{9990}{y:i}Amen
-{9993}{10070}{y:i}Amen
-{10704}{10784}{y:i}Who says church has to be boring? Amen?
-{10787}{10817}Amen!
-{10925}{10969}- I love you.|- Love you.
-{11078}{11113}{y:i}Thank you, Dad.
-{11208}{11306}{y:i}Yesterday my eyes were opened|{y:i}to what goes on at our sister church.
-{11310}{11394}{y:i}Many of you all know my dad pastored|{y:i}Second Chance when I was a little kid.
-{11397}{11472}{y:i}But I hadn't been down there|{y:i}in nearly 20 years.
-{11474}{11543}{y:i}I could barely recognize|{y:i}the old neighborhood.
-{11546}{11646}{y:i}Wasn't all hugs and smiles.|{y:i}It was hard work, some grim reality.
-{11681}{11783}{y:i}I still think I got a little gravy on my loafers,|{y:i}right where the penny used to go.
-{11835}{11879}{y:i}Well, it's a tough gig down there.
-{11882}{11944}{y:i}I got to see Jake in action last night,
-{11946}{12014}{y:i}and I'm here to tell you|{y:i}he is the right man for the job.
-{12027}{12101}{y:i}You're going to get a chance to meet|{y:i}Jake and Amanda after the service,
-{12104}{12181}{y:i}but right now,|{y:i}let's give them a round of applause
-{12184}{12252}{y:i}for all the hard work they're doing|{y:i}in the worst part of town.
-{12604}{12671}{y:i}Jake, we got all these pledge cards here.
-{12674}{12747}{y:i}Why don't you come up here and tell us|{y:i}what we're investing in.
-{12908}{12955}{y:i}Thank you, Brother Ethan.
-{13038}{13111}{y:i}I've got a Q-tip in the car|{y:i}if you want to clean those loafers.
-{13190}{13292}{y:i}This morning I was stuck at a stoplight|{y:i}in my 'hood,
-{13318}{13382}{y:i}that would be neighborhood to you, sir.
-{13422}{13509}{y:i}This woman comes up holding|{y:i}what looks like a baby wrapped in a blanket.
-{13538}{13625}{y:i}She's tapping at my window|{y:i}asking for money,
-{13644}{13751}{y:i}and I know that baby is a plastic doll,|{y:i}but she keeps tapping.
-{13778}{13860}{y:i}So finally, I give her a dollar|{y:i}just to get rid of her.
-{13876}{13965}{y:i}James, Chapter 1, teaches us
-{13968}{14068}{y:i}to be doers of the word|{y:i}and not hearers only.
-{14093}{14210}{y:i}Every year I feel like we come here|{y:i}tapping on your window,
-{14230}{14272}{y:i}but our baby's real.
-{14301}{14348}{y:i}I'm not asking for your money.
-{14373}{14438}{y:i}I've got gifted children in my community
-{14451}{14514}{y:i}who need some hands-on guidance.
-{14542}{14624}{y:i}My wife needs tutors to help women
-{14626}{14696}{y:i}trying to escape the bonds of prostitution.
-{14718}{14828}{y:i}We need after-school supervisors,|{y:i}Bible school teachers.
-{14997}{15042}{y:i}Hold these up so I can see them.
-{15127}{15191}{y:i}This is how we fix problems in America.
-{15210}{15324}{y:i}We roll down our windows,|{y:i}toss out some money, and drive away.
-{15347}{15431}{y:i}So my message to you|{y:i}on Second Chance Sunday is this,
-{15457}{15547}{y:i}if you aren't willing to come down|{y:i}and get a little gravy on your shoes,
-{15628}{15677}{y:i}just keep your damn money.
-{15795}{15834}Nice work, Ethan.
-{16030}{16133}{y:i}It's good to know|{y:i}what's going on in our other areas.
-{16154}{16210}{y:i}And now if our ushers would come forward,
-{16213}{16280}{y:i}allowing us an opportunity for our giving.
-{16392}{16437}- This guy stuck his finger in our face.|- Let me...
-{16439}{16488}- Let me finish.|- Where does he get off lecturing us?
-{16490}{16573}All he is saying is that we need|to stop pretending and start participating.
-{16576}{16636}We've been participating|for nearly $2 million
-{16638}{16682}for the last 15 years and I'm tired of it.
-{16685}{16725}All right, maybe|we should all take a breather.
-{16727}{16773}Look, this is not about|repaving the parking lot.
-{16775}{16850}- We're on the front page here.|- We all read the paper, Mike.
-{16856}{16894}Look, what if we run a full-page ad?
-{16897}{16979}Reprint the headline at the top|and then beneath it in big letters:
-{16992}{17026}"Fine, We Will."
-{17069}{17133}- I think Mike's going to pay for that ad.|- Yeah.
-{17160}{17242}Look, the point is we all want to|be good stewards of God's money.
-{17245}{17311}And we're too big a church|to be defined by any one ministry.
-{17314}{17380}But Second Chance isn't just any ministry.
-{17384}{17500}It's our roots, and we probably haven't|paid them as much attention as we should.
-{17503}{17586}Jeremiah, it's Ethan's fault|for giving him the pulpit.
-{17594}{17685}Look, this keeps happening every Sunday.|He changes things around.
-{17687}{17740}- It's driving the TV crew nuts.|- All right, slow down, Mike.
-{17742}{17807}Yes, we are getting complaints|about Ethan's style,
-{17810}{17837}about the music he chooses.
-{17840}{17898}Let him play his music. He's a rock star.
-{17900}{17957}But senior pastor? Not on my watch.
-{17959}{18052}Hold on. So what if he is unconventional?|My family likes that.
-{18054}{18135}I'm Ethan's biggest fan.|But, Jerry, you have got a global vision.
-{18143}{18208}And it totally depends on grooming|a successor
-{18210}{18257}that this whole church can get behind.
-{18259}{18345}If Ethan's our man, he has got to learn|discipline and accountability.
-{18361}{18396}Starting now.
-{18435}{18473}I'll talk to him.
-{18499}{18598}He needs more than a sermon, Jerry.|He needs his wings clipped.
-{18662}{18717}And if you don't do it, we will.
-{18833}{18892}Jerry brought me here|on our first anniversary.
-{18908}{18956}Some traditions die hard.
-{18970}{19037}- I haven't seen Green Goddess in a while.|- I know.
-{19052}{19136}- How's the house coming?|- Slow. They're still painting.
-{19148}{19241}It's a little spooky staying there by myself,|but it's easier to supervise.
-{19254}{19308}I just want it all done by the wedding.
-{19311}{19359}Yeah. I think we need to hear|what Jake's saying, Dad.
-{19362}{19418}I mean, get our hands dirty down there.
-{19421}{19485}Send our high-schoolers|on a summer work project.
-{19492}{19568}Well, it would be good|to have more of our staff involved.
-{19570}{19653}Yeah. You know what,|send Aaron, the junior out pastor.
-{19657}{19704}I hear he speaks Ebonics.
-{19796}{19872}Wait a minute. You want me to go?|Is this a joke?
-{19878}{19905}You can't be serious.
-{19907}{19963}I'm the associate pastor, Dad,|I'm not a social worker.
-{19966}{20055}- It'll be a good ministry experience.|- Jake's not going to listen to me.
-{20063}{20129}You're not going there to fix anything, son.
-{20131}{20174}I just want you to observe and to learn.
-{20177}{20209}Look, I've been busting it for two years
-{20211}{20252}to move this church into the 21st century.
-{20254}{20323}Attendance is up, giving is up,|we've got the best music in town.
-{20326}{20397}- None of that is going to change.|- My book just came out, Dad.
-{20400}{20480}- Happy birthday, Mrs. Jenkins.|- Thank you, that's beautiful.
-{20482}{20574}- Are you still working on that steak, Pastor?|- No, I think I'm finished.
-{20577}{20655}- Was it well-done enough for you?|- It was delicious.
-{20758}{20865}Son, you're blessed|with charisma, musical gifts.
-{20878}{20933}You're a natural at the pulpit.
-{20936}{21009}But there's more to being a pastor|than Sunday morning.
-{21019}{21100}Yeah? Before you send me off|to be a glorified intern,
-{21102}{21162}I think you better check with the board first.
-{21208}{21258}The board met this morning.
-{21416}{21503}- Happy birthday, Mom.|- Happy birthday, Claudia.
-{21510}{21541}Thank you.
-{21663}{21741}- Well, you weren't very delicate.|- I was honest with him.
-{21743}{21802}Oh, right, and the steak was delicious?
-{21842}{21871}Make your wish.
-{22281}{22360}Hey, baby! You want some action, baby?
-{22367}{22466}- We got some money if you got the honey.|- Come take a ride with us, baby, come on!
-{22799}{22858}{y:i}"And they grumbled against the boss,
-{22861}{22949}{y:i}"'These men who were hired last,|{y:i}worked only one hour,
-{22966}{23031}"'and you have made them equal to us
-{23034}{23090}"'who have borne the burden of the work.'
-{23226}{23264}"But he answered,
-{23267}{23354}"'Friend, I am not being unfair to you.
-{23370}{23433}"'Didn't you agree to work for a dollar?
-{23450}{23543}"'Are you envious|because I am generous? So...
-{23642}{23751}"'So the first will be last|and the last will be first."'
-{23814}{23882}Gentlemen, do you understand|what this means?
-{23891}{23991}You may have lost some years to addictions.|You may have lost some years in prison.
-{23994}{24041}You all know I did some time myself.
-{24043}{24134}But the Word of God teaches us|that time can be redeemed.
-{24155}{24217}Yeah, tell that to the chump who took|one look at my record
-{24220}{24268}and said he wasn't hiring.
-{24274}{24345}- All right, what did Jonesy just do?|- Blame the Man.
-{24347}{24399}That's right. Blame the Man all day,
-{24402}{24484}but what are you doing to show|that you're trustworthy and eager to work?
-{24490}{24576}Tell us about this chump, Jonesy.|Did you shake his hand when you met him?
-{24578}{24653}- He didn't give it.|- Did you look him in the eye?
-{24694}{24723}Stand up, Jonesy.
-{24805}{24840}Shake my hand.
-{24917}{25019}Man, I got a wet sandwich here.|Come on. Look me in the eye.
-{25030}{25075}Squeeze my hand, Jonesy.
-{25078}{25114}You call that a squeeze?
-{25351}{25384}I'm sorry, Pastor.
-{25386}{25466}- Javier, you know what time it is?|- Yes, sir.
-{25470}{25545}You come in half-dressed and late again.|What's the excuse this time?
-{25548}{25620}- 'Cause the job was on the line?|- No excuses, Pastor.
-{25624}{25697}I gave you three strikes.|I can't give you four.
-{25709}{25753}{y:i}Hasta mañana, brother.
-{25892}{25972}Hey, Javier, wait a minute, man.|Let me walk you out.
-{26002}{26050}- She took the kids.|- She did what?
-{26053}{26092}She took the kids.
-{26346}{26437}"Javier, I take the kids|and go back to El Paso.
-{26457}{26517}"You make too many broken promises."
-{26541}{26587}You want me to keep going?
-{26609}{26701}She took the money we saved|and left me with nothing to follow.
-{26718}{26789}My boys, they need their father.
-{27034}{27070}It's all right.
-{27094}{27139}It's gonna be all right, brother.
-{27206}{27251}You looking for Amanda?
-{27295}{27345}They're meeting downstairs.
-{27678}{27741}I thought tonight was about job interviews.
-{27762}{27824}But I believe God would have us|put our plans aside
-{27827}{27886}and walk with our brother.
-{27898}{27927}Hold on.
-{28025}{28062}We need to talk.
-{28158}{28197}Wait in my office.
-{28346}{28409}Let's gather around our brother|and pray for him.
-{28556}{28605}Do we need him in the room?
-{28634}{28749}I'm sorry, gentlemen. This is Pastor Ethan,|visiting with us from The Rock.
-{28785}{28827}I thought they already did that.
-{28866}{28960}Pastor Ethan, we'd be privileged|to have you lead us in prayer.
-{28995}{29022}Sure.
-{29170}{29201}Let's pray.
-{29219}{29309}"Father, I want to thank you|for the new start that only you can give.
-{29322}{29366}"And for this group of men|who have come together
-{29369}{29425}"who want to serve you with their lives.
-{29428}{29481}"I especially want to lift up our brother..."
-{29515}{29551}Our brother...
-{29559}{29583}Javier.
-{29586}{29653}Our brother Gabriel.
-{29681}{29733}"Lord, You know us|better than we know ourselves."
-{29758}{29797}Back, back!
-{29847}{29889}- Green light.|- Red light!
-{29902}{29941}Back.
-{29962}{29989}- Green light!|- Red light!
-{29991}{30065}- Back!|- Brownies, brownies, brownies, everybody.
-{30106}{30149}Payton, one brownie.
-{30208}{30254}Something I could do for you, honey?
-{30281}{30360}- You let your kids play with them?|- Sure. They love it here.
-{30390}{30499}- I got a kid. A girl.|- Well, you bring her. You're both welcome.
-{30504}{30559}No, I ain't seen her in a while.
-{30593}{30681}- Well, what's her name?|- Kenya, like the country.
-{30705}{30737}Beautiful.
-{30747}{30825}- What's your name?|- You know, I'm gonna get her back.
-{30880}{30978}A child should be with her mother.|You want a cup of tea?
-{30982}{31095}- No, I just need some money.|- We don't give out cash, honey.
-{31098}{31125}A smart girl like you knows that.
-{31128}{31215}Yeah, well, you can't buy gas without it.|Smart woman like you knows that.
-{31255}{31308}- Amen.|- Strengthen our brother, Lord.
-{31310}{31343}Amen.
-{31347}{31391}- Empower him, Lord.|- Yes.
-{31402}{31481}Lord, we all need a helping hand|from time to time,
-{31507}{31554}and I want Javier to know,
-{31557}{31618}I'm claiming this Powerball number|in your name.
-{31642}{31717}8-10-11-18-25-40.
-{31744}{31848}You sprinkle your power on that number,|Lord, and I'm giving you 15%.
-{31866}{31933}Now, I know the Bible says 10,|but it's a big pot,
-{31948}{32015}and I'm going to use it to fly Javier|to El Paso so he...
-{32018}{32050}- Amen.|- Amen.
-{32111}{32167}We'll see most of you all at the Habitat build
-{32170}{32228}and if anybody wants coffee,|Jonesy's buying.
-{32232}{32256}Huh?
-{32258}{32285}You got enough money for Powerball,
-{32288}{32366}you got enough money|to buy your friends some coffee.
-{32390}{32432}All right, all right.
-{32478}{32516}Payton, get down.
-{32550}{32581}I told you.
-{32590}{32645}How far along are you?
-{32718}{32812}- He's gonna kill me.|- We have a room here for you.
-{32841}{32932}- Nah, I can't.|- Come on, let me make you that cup of tea.
-{32970}{33002}Come on.
-{33223}{33283}You got away pretty quick|after Sunday service.
-{33286}{33344}Big building.|Didn't want to get lost in the crowd.
-{33346}{33401}Oh, I would have been happy to tell you|where to go.
-{33403}{33435}Exit's that way.
-{33513}{33617}Look, I gave you my pulpit time televised|and you use it to start a fight.
-{33639}{33681}Now I got the whole church mad at me
-{33684}{33760}like I'm the one who wrote|your "get whitey" speech.
-{33777}{33843}They called a board meeting, Jake.|I wasn't invited.
-{33872}{33922}That makes two of us.
-{33976}{34055}Hey, hold up. This isn't funny.
-{34070}{34119}Your little rant could have cost me my job.
-{34122}{34211}Oh. So it's about the job.|Well, cheer up, Gucci,
-{34231}{34305}I hear you're in pretty tight with the pastor.
-{34355}{34459}You're pretty cocky for a guy whose salary|gets approved by the same board.
-{34483}{34530}Are you listening to me?
-{34578}{34604}Are you listening to me?
-{34606}{34640}Yours to keep, man.
-{34657}{34740}- Hey, I'm talking to you!|- Oh, is that your preacher voice?
-{34770}{34811}I think he's coming.
-{34879}{34994}- Listen, Jake. Hey, I'm on your side, okay?|- Look, Gucci, what do you want from me?
-{35027}{35094}Well, you know what,|you could start by saying "I'm sorry."
-{35153}{35183}All right.
-{35242}{35334}I'm sorry for associate pastors|who got this all figured out
-{35337}{35401}'cause they spent an hour down here|slinging potatoes.
-{35408}{35446}I'm sorry for rock stars who think
-{35449}{35494}they've lived|the African-American experience
-{35497}{35540}riding a tour bus with Tina Turner.
-{35542}{35624}And I'm sorry for "whiteys"|who try and get their conscience fixed
-{35626}{35650}by coming down here
-{35653}{35729}and hanging with their homeboys|in the ghetto once a year.
-{35751}{35784}How's that?
-{35878}{35922}You're the most self-righteous...
-{36042}{36086}I'll see you tomorrow.
-{36174}{36265}What do you mean, "see you tomorrow"?|What do you mean, "see you tomorrow"?
-{36474}{36532}Self-righteous? Self-righteous.
-{36599}{36664}- Who's your friend?|- This is Julius.
-{36741}{36781}You gonna read that?
-{36836}{36904}What you looking at him for?|He ain't gonna read it for you.
-{36930}{36965}He wants out.
-{37054}{37105}Did you tell him how you got out?
-{37137}{37227}- He doesn't have family out of town.|- No parents, grandparents?
-{37253}{37348}- My brother's the only family I got.|- Maybe he'll bend the rules for you.
-{37353}{37433}He didn't bend them when I got in.|They beat the hell out of me.
-{37461}{37552}It's a free-for-all, Jake. And it's worse|going out then it is coming in.
-{37567}{37649}Your brother's got it all jacked up, kid.|Ain't even a real game.
-{37658}{37690}Where do they come up with this stuff?
-{37693}{37757}Man, last year two of my crew got dumped|at the hospital.
-{37760}{37841}- One came out in a Ziploc.|- You preached the funeral.
-{37902}{37938}Yeah, I did.
-{38008}{38057}I don't want to be preaching another.
-{38161}{38237}My momma brought me to hear|Dr. Martin Luther King
-{38240}{38305}speak in this very church in 1967.
-{38315}{38357}I was nine years old.
-{38360}{38419}And I'll never forget what he did,|right here on this very spot,
-{38422}{38485}when I held my hand out to him|after the service.
-{38490}{38557}Here, put out your hand like you're me.
-{38579}{38645}He shook it just like that.
-{38682}{38749}Toilet in the men's room is running.|Might be the chain.
-{38752}{38805}Costing us money. Got to fix that.
-{38809}{38847}Good man, Sonny.
-{38894}{38938}How many "I's" in traveling?
-{38979}{39065}- Looks right to me.|- Nah, I think it's only one.
-{39069}{39113}Maybe it's one of those words|spelled both ways.
-{39117}{39158}- It can't be.|- Look it up.
-{39162}{39205}Don't have to look it up.
-{39268}{39353}So. Got a call from Jeremiah this morning.
-{39355}{39407}Says you're here for a while|to observe and learn.
-{39410}{39441}Yeah, whatever that means.
-{39443}{39515}Hey, look, this is just as awkward for me|as it is for you, okay?
-{39518}{39572}- Since we both got bosses, just...|- No, I got a boss.
-{39574}{39643}- You got a daddy.|- Just show me to my office.
-{39646}{39684}You want to see your office?
-{39815}{39847}Follow me.
-{40444}{40516}So I just imagined your raised eyebrow|when I locked my car?
-{40518}{40553}Projection, my man.
-{40555}{40613}But if you got a guilty conscience,|why you driving it?
-{40616}{40673}I don't have a guilty conscience.
-{40760}{40830}We got some sack lunches|at the park at noon.
-{40927}{40968}What are you doing?
-{41191}{41222}The last thing you want to do is
-{41225}{41278}make people feel like|you're talking down to them.
-{41281}{41345}Which is why we ask the staff|to voluntarily avoid
-{41347}{41423}- displays of conspicuous consumption.|- Like my car.
-{41426}{41477}Look, if you want me to take the bus,|just say it, okay?
-{41479}{41547}Easy, Gucci.|You the one that brought this up.
-{41550}{41575}Drive what you want.
-{41578}{41655}You ain't gonna be here long enough|to learn the bus schedules, now are you?
-{41721}{41759}A little help here, Hobart.
-{42242}{42332}- What's going on up there? Is that a fire?|- No, no.
-{42482}{42544}They're at it again, Pastor. You smell that?
-{42550}{42643}I got a call from social services.|There's a duplex coming up next week.
-{42669}{42752}Oh, Ethan, this is Tamela.|Tamela, this is a white man.
-{42769}{42832}- Is this hazelnut?|- Don't be changing the subject.
-{42835}{42867}You got to stop them up there.
-{42870}{42964}Between my chemicals and their campfires,|we could all blow up.
-{43006}{43037}All right.
-{43126}{43160}We're going in.
-{43357}{43412}Hope we don't catch|one of them back drafts.
-{43630}{43658}Fire marshal.
-{43736}{43765}Open up.
-{43903}{43949}Honey, will you let me in?
-{44051}{44092}Thank you, sweetie.
-{44268}{44313}Kali, you barbecuing again?
-{44334}{44405}How many times I tell you,|there's no ventilation in here.
-{44414}{44458}Use the stove.
-{44464}{44522}- Goat no good on stove.|- Goat?
-{44550}{44605}Where did you find goat around here?
-{44635}{44690}They gonna burn this place down.
-{44798}{44852}Ask your daddy why he's not at work.
-{45038}{45101}He said no good job for a professor.
-{45159}{45197}Did you hear that?
-{45233}{45334}Well, you tell the professor that|unless he's got a better offer from Harvard,
-{45337}{45429}he needs to get back down to Wal-Mart|and start wrangling those shopping carts.
-{45461}{45490}Tell him.
-{45519}{45544}Is that you?
-{45546}{45574}Tell him.
-{45778}{45816}Oh, very pretty.
-{45840}{45918}The soldiers come. They shoot us.
-{45939}{46032}You got to make him understand, Kali.|The well's gonna run dry.
-{46482}{46565}Bags too heavy? Arms getting tired?
-{46586}{46638}- I got them.|- Then how about a smile, huh?
-{46641}{46729}God loves a cheerful giver.|Tiki, where you going? Got your lunch.
-{46734}{46793}I'm full, man. Salisbury steak.
-{46842}{46880}That's our spot.
-{46900}{46960}Been here every Wednesday for eight years.
-{46991}{47014}I'm...
-{47026}{47085}needing some money|to pick up my stomach medicine.
-{47090}{47140}I'll pay you back on Friday.
-{47400}{47432}Would you like something to eat?
-{47434}{47525}Just set your belongings over there|and join us for a hot meal, okay?
-{47534}{47609}You see, Sister, we brought|these sandwiches from the church...
-{47612}{47644}Sandwiches.
-{47680}{47759}- I see everyone get a bag.|- Sister, those are...
-{47784}{47813}Never mind.
-{47899}{47944}They've even got music.
-{47965}{48014}I'm needing some real food.
-{48666}{48731}Are you aware that family|almost got murdered in Africa?
-{48735}{48799}Escaped with the clothes on their back.
-{48826}{48850}And you'd really kick them out
-{48853}{48904}because the dad doesn't want to collect|shopping carts.
-{48906}{48931}Yep.
-{48964}{49036}The guys like Tiki get a free meal|any time they show up?
-{49110}{49200}Well, it's nice they can count on you|to feed them once they're on the street.
-{49218}{49278}- I'll have the usual.|- What do you get here?
-{49306}{49340}Make it two.
-{49517}{49540}Is that...
-{49546}{49582}Is that you?
-{49585}{49661}- You played pro ball?|- Yeah.
-{49673}{49776}Lasted two playoff-free seasons.|Till coach started making us pee in cups.
-{49822}{49886}Hey, Gucci, you ever see an Eskimo pee?
-{49966}{50040}Yeah, that's when I did|my eight months for possession.
-{50063}{50153}- I didn't know any L.A. Lawyers.|- Oh, come on, Jake.
-{50169}{50244}Maybe I didn't do hard time|but I didn't get off.
-{50247}{50284}Everyone thinks court-ordered rehab
-{50287}{50360}is like going to a resort|to hang out with celebrities.
-{50362}{50397}But it's not.
-{50801}{50920}So, I hear your dad's franchising himself|all over these days.
-{50955}{51022}Nairobi, Bombay.
-{51042}{51109}What, has The Rock finally gotten|too small for him?
-{51111}{51149}What's that supposed to mean?
-{51158}{51256}It's just that he's always flying off|to preach somewhere.
-{51329}{51402}- You're missing the vitamins.|- I believe it's called the Great Commission.
-{51405}{51465}Do you know how many converts|we've had in Africa alone?
-{51468}{51525}It ain't a ball game, Gucci.|Nobody's keeping score.
-{51528}{51577}We're sending ministry teams|all around the world.
-{51580}{51637}- Doctors, teachers...|- It's all good.
-{51641}{51715}I just think the home front|should take priority. That's all.
-{51718}{51765}You mean your home front.
-{51839}{51901}Back when your dad first hired me|as youth pastor,
-{51914}{51981}we were more than a team. We were family.
-{51998}{52066}Then he goes off to the suburbs|to preach to...
-{52090}{52158}The rich white people|without a care in the world, right?
-{52303}{52340}Try some bread.
-{52580}{52609}Eskimo pee.
-{52746}{52830}Yeah, I was born here, but man,|it's like night and day.
-{52839}{52916}30% unemployment. Babies having babies.
-{52927}{52988}Half these kids won't graduate|from high school.
-{52990}{53019}What up, holmes?
-{53056}{53097}- All right, who's getting it today?|- Me, me, me.
-{53100}{53164}- Come on, PJ. Keep it going.|- Yeah, that's it. Keep it going.
-{53166}{53232}Come on. Come on. Keep it going.|Keep it going. That's it. That's it.
-{53234}{53292}Pass it on, pass it on. Take it. Take it.
-{53299}{53369}- Come on, Coach.|- Pass it on. Pass it on.
-{53531}{53584}Hey, Julius.
-{53746}{53781}Hey, Julius.
-{53854}{53890}Hey, Julius.
-{53935}{53991}- What's up?|- Hey, I got to go, Pastor.
-{54053}{54093}Hey! Wait!
-{54530}{54581}Jamal, you keeping things proper?
-{54634}{54701}Julius, tell your brother|I asked him a question.
-{54752}{54777}Yeah.
-{54793}{54876}- Julius tell you he wants out?|- He know how to get out.
-{54890}{54916}Yeah.
-{54930}{54992}He tell you I'm through|burying your ex-mules?
-{55057}{55116}Gangster, I'm talking to you.
-{55171}{55260}Man, look, my 'hood, my rules,
-{55310}{55334}my nigga.
-{55454}{55483}Back up.
-{55491}{55552}You see that cross|over on top of that church steeple?
-{55554}{55596}- You see it?|- I see it.
-{55598}{55652}You look good,|'cause anywhere in this neighborhood
-{55654}{55697}you see that cross is my 'hood.
-{55700}{55789}- And my rules say slavery is over.|- You can't bend rules for family.
-{55791}{55854}Yeah, then how about I bend your arm|over your head?
-{55864}{55924}Jake, you're going to break his arm.
-{56036}{56061}Now,
-{56102}{56174}I'm going to give you some time|to pray about this.
-{56202}{56248}And if I don't like your answer,
-{56250}{56340}then I'm gonna open up a can|of the wrath of God all over your sorry ass.
-{56766}{56845}What was that?|And what's this wrath of God stuff?
-{56853}{56893}Ever hear of "What would Jesus do?"
-{56896}{56932}Tell me again why you're here.
-{56934}{56999}Jake, you just can't go around threatening|one guy
-{57002}{57089}and then throwing a drunk back his bottle.|I mean, it's not consistent.
-{57092}{57155}Answer the question. Why are you here?
-{57203}{57234}To observe and learn.
-{57237}{57299}Do you always observe|with your mouth open?
-{57335}{57406}- All right. You made your point.|- No, I don't think I have.
-{57419}{57475}Sit. Sit.
-{57798}{57845}Back when I was on lock,
-{57855}{57939}every day on my way to the yard,|I walked by the chapel.
-{57943}{58012}Comfortable chairs, coffee pot,
-{58034}{58088}and there sat the chapel|waiting for customers.
-{58105}{58144}I never went once.
-{58159}{58214}Then along came your dad|and his prison ministry.
-{58217}{58300}Met me on my turf.|Wanted to know my story.
-{58317}{58366}Gave me a chance after I got out.
-{58383}{58452}He couldn't have done that preaching|from a stadium or on TV
-{58454}{58532}or even from the pulpit|of a rundown old sanctuary.
-{58539}{58615}He did that by walking the streets|and listening.
-{58830}{58859}That's my car.
-{59343}{59397}- Is there a switch inside?|- It's locked, Jake.
-{59430}{59468}Not anymore.
-{59726}{59794}You see who did this?|You see who did this?
-{59915}{59952}Yeah, I want to report a crime.
-{59954}{60020}Yeah, my brown leather jacket,|my golf clubs.
-{60022}{60075}- Jake, where are we?|- You calling 911?
-{60078}{60117}Tell her where we are.
-{60174}{60199}What are you doing?
-{60202}{60257}Man, your insurance check will get here|before the cops.
-{60259}{60342}- Let me get you a cup of coffee.|- What am I supposed to do with my car?
-{60368}{60409}Do you sell windows?
-{60445}{60512}- I'm calling the auto club.|- Suit yourself.
-{60518}{60589}Watch the man's car till the truck gets here.
-{60614}{60638}What?
-{60659}{60750}- You know what, you're crazy.|- You're right. You figure it out.
-{60895}{60970}I don't care who bought it, I don't care|what your classmates are wearing,
-{60973}{61015}I don't care|if everybody came to school naked.
-{61018}{61083}- You ain't going out dressed like that.|- I'll wear what I want.
-{61086}{61129}Excuse me,|you take yourself back up to your room
-{61132}{61161}and you put something over that.
-{61164}{61213}I didn't wear nothing|you didn't used to wear.
-{61216}{61264}I am your mother, don't talk to me like that.
-{61266}{61326}I ain't had a mother my whole life.
-{61514}{61541}Trina?
-{61713}{61780}Trina, why are you here?
-{61806}{61835}My baby.
-{61850}{61905}Judge got to give me back my baby.
-{61908}{61935}Well, then, you got to be ready
-{61938}{62032}'cause it's going to be a whole lot tougher|getting back your daughter's respect.
-{62208}{62286}Mommy, I want to do that again.|I can do it better.
-{62328}{62362}- Next time.|- Okay.
-{62365}{62424}Everybody, let's just take a break.
-{62452}{62481}Come on.
-{62566}{62629}No, I want to pick out the china pattern|with you.
-{62632}{62669}I just don't know how long|this is gonna take
-{62672}{62732}and I'm probably going to need to get|a rental car.
-{62786}{62849}Did you hear that? Did you hear that?
-{62859}{62908}No, I think it was gunfire.
-{62911}{62979}And forget china,|I want to pick out a flak jacket.
-{63006}{63053}Honey, it's just a joke.
-{63069}{63133}Look, I'll call you|when the truck gets here, okay?
-{63136}{63185}All right. Love you, too.
-{63282}{63317}You like that one?
-{63369}{63436}So they were cooking goat?|You ever try goat?
-{63447}{63534}- It's like eating rubber bands.|- How would you know?
-{63559}{63632}- Ethan, I raised them when I was a kid.|- Oh, yeah, that's right.
-{63634}{63691}This is called "Butterfly Garden."
-{63694}{63741}- It's a little too busy.|- Yes.
-{63783}{63828}I want you to be safe down there.
-{63856}{63919}It's not that bad. It's just really different.
-{63922}{64004}Royal Cambridge has just come out|with this coronation re-issue.
-{64006}{64046}Quite beautiful, isn't it?
-{64098}{64136}- No.|- No.
-{64154}{64222}This is a sample that just came in Monday.
-{64226}{64277}Hand-painted in Budapest.
-{64286}{64369}- Absolutely exquisite.|- That's lovely.
-{64372}{64437}- How much?|- $350 per setting.
-{64499}{64559}We got to let our rich friends|buy us something.
-{64582}{64646}- Sorry.|- That's okay. Can I see the other pieces?
-{64649}{64681}Absolutely.
-{64734}{64780}Think about this in our dining room.
-{64782}{64843}Do you still have those paint chips|in your wallet?
-{64985}{65017}What's that?
-{65094}{65125}Here we are.
-{65190}{65233}I think we're gonna keep looking.
-{65244}{65286}- Really.|- Thanks for your help.
-{65289}{65337}- Of course.|- I'll pull the car up.
-{65340}{65397}- I'm sorry. Thank you.|- Good luck.
-{65413}{65441}Ethan?
-{66535}{66605}I need one coffee and a glazed donut.
-{66952}{66992}And I'll take one lottery ticket.
-{67044}{67076}Thank you.
-{67226}{67293}Hey, guys.|Remember me from the men's group?
-{67305}{67400}- I know who you are.|- You're Jonesy, you're Javier.
-{67461}{67516}Oh, good donut.
-{67535}{67567}You make this?
-{67759}{67801}Hey, see you later, buddy.
-{67824}{67925}Javier, hang on.|Look, I know about your situation.
-{67938}{67977}I'd like to help you out.
-{68006}{68065}Look, I want you to take this.
-{68083}{68154}I want you to use this to get your family|back from El Paso.
-{68157}{68225}Take it. Your kids need their dad.
-{68255}{68328}- Take it, please.|{y:i}- Gracias.
-{68335}{68358}Bless you.
-{68559}{68602}Hey, I don't know|if that was such a good idea.
-{68605}{68634}Why not?
-{68637}{68714}Well, you don't want to give junkies|a wad of cash.
-{68779}{68893}- You mean he's doing?|- He's been clean six months, I think.
-{69014}{69110}- Coffee's hot.|- Hey, maybe it's a test from God, huh?
-{69206}{69279}Look. I bought you this.
-{69373}{69423}- I thought you was a pastor.|- I am.
-{69448}{69543}- I just want you to have it.|- Pastor Jake know about this?
-{69639}{69728}It'll be our secret.|You let me know if you hit the jackpot.
-{69812}{69908}You know, I got myself|a job interview today.
-{69937}{69974}I just don't want to jinx it.
-{70245}{70316}Right. All right, Kali,|remember to follow through, okay?
-{70474}{70526}Someone want to tell me what's so funny?
-{70587}{70624}I want 10 laps.
-{70670}{70742}Yo, Globetrotter, count them down|and lock up, will you?
-{70758}{70814}Let's go, 10 laps. Let's go!
-{70842}{70915}Kali, you don't need to run the laps, okay?
-{70990}{71033}Nine more, let's go!
-{71053}{71110}Let's go, guys. Come on, keep it up.
-{71150}{71188}Keep going. Nine more!
-{71199}{71227}Kali, wait up.
-{71292}{71373}Hey, wait up. Hey, look,|hey, you didn't do anything wrong.
-{71404}{71478}How's your family?|Is your dad still working at Wal-Mart?
-{71488}{71529}Has he got a new job?
-{71636}{71663}Hey, Kali.
-{71736}{71763}Never mind.
-{72318}{72367}Well? What do you think?
-{72408}{72457}Nice images. It's colorful.
-{72473}{72505}It just doesn't...
-{72553}{72610}It makes us look like a country club.
-{72613}{72672}I mean, there's no mention|of our inner-city ministries,
-{72675}{72748}- nothing about what we're doing overseas.|- Go on.
-{72757}{72814}You know what, maybe it's because|I've been gone for two weeks,
-{72817}{72871}but it's just... It's not real.
-{72878}{72914}And why aren't you in it?
-{72917}{72970}Parker thought|it shouldn't be personality driven.
-{72973}{73027}Well, Parker's wrong, as usual.
-{73060}{73158}Open up the Africa bin|and pull up that shot with dad and the kids.
-{73227}{73316}You see this? You're a personality, Dad.
-{73332}{73373}God uses personalities.
-{73376}{73424}Name one preacher|who isn't bigger than life,
-{73426}{73468}who doesn't have a little rock star in him.
-{73470}{73532}Jake's sure got it. He learned it from you.
-{73615}{73702}Hey, pull up that shot of Jake and me|at the homeless lunch.
-{73762}{73796}Yeah, go back.
-{73811}{73858}Yeah, slow it down about 50%.
-{73886}{73916}Go back, yeah.
-{74050}{74074}Yeah.
-{74116}{74168}Got to go, Dad. Late for work.
-{74691}{74755}Well, I figure we're gonna need|a couple of blocks on the other side
-{74758}{74793}- for a cloverleaf.|- Look at that.
-{74795}{74851}They're practically on church property.
-{74870}{74955}This area needs a clean sweep.|It's like Baltimore, right?
-{74958}{75013}Camden Yard goes up, crime goes down.
-{75016}{75069}And the Orioles still can't win.
-{75322}{75417}Hey, just in time.|I need 20 bucks to get my medicine.
-{75440}{75487}I saved you the last roast beef, all right?
-{75490}{75527}I'm not giving you cash.
-{75530}{75600}You need medicine,|I'll walk you to the drugstore.
-{75633}{75661}I like you.
-{75663}{75773}First time I saw you I thought you|were a chump loser. You're all right.
-{75860}{75906}I'm still not giving you cash.
-{76021}{76091}Well, I think I'm going to need|a couple more weeks
-{76094}{76174}- to sell this to my board.|- What? This is a favor, Parker.
-{76177}{76242}A favor to you and your church.|If it's going to be controversial...
-{76245}{76338}- No, no, no. I'm just building consensus.|- Consensus, my ass.
-{76341}{76386}I've got councilmen pushing alternate sites.
-{76389}{76453}You guaranteed me a no-hassle transition.
-{76476}{76517}May I help you gentlemen?
-{76558}{76636}- Hey! Ethan, right?|- Mayor Long, good to see you.
-{76638}{76702}Yeah, good to see you.|What have you got there?
-{76715}{76793}Well, I got a little bologna, deviled ham...
-{76819}{76873}I'm hearing good stuff|about what you're doing down here.
-{76875}{76913}Really. From who?
-{76986}{77036}So, how are you getting along with Jake?
-{77038}{77107}Well, he's got his basketball clinic going on.
-{77110}{77156}Want to suit up, Parker?|A little one-on-one?
-{77158}{77208}No, no, no. You guys are out of my league.
-{77210}{77246}Hey, good to see you.
-{77534}{77601}Trina! Trina, you need to slow down.
-{77614}{77659}Trina, let's talk about this.
-{77675}{77729}Why are you in my face? I am not your kid!
-{77731}{77786}You need to think about|what you're doing here.
-{77789}{77841}But he's taking me shopping, all right?|He's even buying lunch.
-{77844}{77899}The only reason that Buster is here|is to buy your abortion
-{77902}{77949}and put you back on the street.
-{77952}{78007}Hey, we are having a conversation!
-{78030}{78054}Trina!
-{78189}{78265}Trina. Trina, he is lying to you!
-{78489}{78531}I don't know how you do it.
-{78564}{78600}One girl at a time.
-{78618}{78691}Yeah, but how many really turn around?
-{78813}{78850}You're looking at one.
-{78942}{79023}Watch your opponent.|Find his weakness and exploit it.
-{79154}{79226}- It looks easy.|- That's the way I could be going.
-{79290}{79365}Wear your opponent down|with aggressive moves.
-{79476}{79561}Now, why'd I go for the lay-up?|Why not the slam-dunk?
-{79564}{79635}- 'Cause it ain't showbiz.|- That's right. It ain't showbiz.
-{79638}{79683}Your team's counting on you|to sink the points.
-{79686}{79753}You don't get any extra points|by being a showoff.
-{79799}{79849}Don't let him drive to the basket.
-{79929}{80007}- Larry Bird.|- Larry Bird.
-{80054}{80112}Now, when your opponent has the ball,|where's your focus?
-{80114}{80150}- The ball?|- Wrong. Where's your focus?
-{80152}{80240}- His hands.|- Wrong again. His eyes. You lock eyes.
-{80242}{80306}Eyes will tell you everything|you need to know.
-{80365}{80401}Hey!
-{80571}{80622}All right, that's enough for today.
-{80780}{80813}New shoes, Kali?
-{81021}{81088}- Something you want to tell me?|- What do you mean?
-{81097}{81155}- Did you give him money?|- No. Why would you even say that?
-{81158}{81197}I know about Javier.
-{81241}{81293}- Look, I was just trying to help, okay?|- Yeah?
-{81296}{81374}Well, nobody's seen him for over a week,|including his boss.
-{81382}{81421}Well, how do you know he's not in El Paso?
-{81423}{81503}How do you know he's not strung out|under a bridge somewhere?
-{81583}{81612}Let's get you a coat.
-{81630}{81696}{y:i}I'll point you to Jesus
-{81698}{81769}{y:i}I'll point you to Jesus
-{81771}{81841}{y:i}I'll point you to Jesus
-{81843}{81919}{y:i}I'll point you to Jesus
-{81922}{81994}{y:i}I'll point you to Jesus
-{81997}{82069}{y:i}To turn your darkness
-{82072}{82125}{y:i}Into day
-{82128}{82170}Good!
-{82218}{82270}Can I help you, Pastor Ethan?
-{82279}{82315}I'm just listening.
-{82318}{82406}We have plenty of empty seats up here.|Isn't that right, choir?
-{82460}{82522}Come on over here, Pastor Ethan. Come on.
-{82595}{82656}You know,|I remember when he was a little boy,
-{82662}{82704}he used to sit at this piano
-{82706}{82745}and in between services|he would play songs.
-{82748}{82825}- Do you still play piano, Pastor Ethan?|- Little bit.
-{82833}{82873}Well, praise the Lord!
-{82876}{82973}Come on over here and play for us|so I can conduct proper.
-{82981}{83004}Come on.
-{83030}{83073}Come on. Thank you.
-{83110}{83179}What is wrong with you all?|Come on now, get with it.
-{83258}{83303}Pastor, do you know {y:i}Follow Me?
-{83314}{83338}Yeah.
-{83355}{83443}Well, I would like to do it up-tempo.|Can you set the tempo, please?
-{83521}{83548}Go ahead.
-{84026}{84112}{y:i}I have a friend indeed
-{84142}{84237}{y:i}One who supplies my every need
-{84266}{84358}{y:i}Follow me, I'll show you the way
-{84385}{84481}{y:i}To turn your darkness into day
-{84513}{84601}{y:i}He'll turn your darkness into day
-{84619}{84675}I just don't know about this cat, baby.
-{84689}{84735}He's not doing anything wrong.
-{84738}{84805}He's shown up every day for work|for two weeks.
-{84808}{84853}He's done everything we asked him.
-{84877}{84977}Now if I could learn to stop cursing,|surely you could learn to use a computer.
-{84979}{85065}Yeah, well, you let me know when that|happens and I might let you buy me one.
-{85067}{85093}Keep going.
-{85096}{85171}It's just that he's always got his eye|on the audience.
-{85177}{85236}Whether he's giving away his necktie
-{85238}{85331}or letting somebody walk off with his jacket,|I just feel like he's waiting for applause.
-{85334}{85400}Honey, he's a musician.|He's used to applause.
-{85402}{85456}Well, we both know|he ain't gonna get it down here.
-{85458}{85537}Soon as he figures that out,|like father, like son.
-{85582}{85611}You hear that?
-{85652}{85693}What's going on out there?
-{85701}{85742}Sounds like music.
-{85872}{85931}{y:i}- Follow me|{y:i}- Follow me
-{85934}{85993}{y:i}- Follow me|{y:i}- Follow me
-{85995}{86058}{y:i}- Follow me|{y:i}- Follow me
-{86061}{86093}{y:i}Follow me
-{86096}{86158}{y:i}- I'll point you to Jesus|{y:i}- I'll point you to Jesus
-{86161}{86184}{y:i}Yes, I will
-{86186}{86238}{y:i}- I'll point you to Jesus|{y:i}- Point you to Jesus
-{86241}{86294}{y:i}- I'll point you to Jesus|{y:i}- And we'll go there
-{86297}{86349}{y:i}- I'll point you to Jesus|{y:i}- Yes, I will
-{86352}{86406}{y:i}- I'll point you to Jesus|{y:i}- Yes, I will
-{86409}{86468}{y:i}- I'll point you to Jesus|{y:i}- Point you to Jesus
-{86471}{86531}{y:i}- I'll point you to Jesus|{y:i}- Point you to Jesus
-{86534}{86615}{y:i}- I'll point you to Jesus|{y:i}- I'll point you Jesus
-{86618}{86676}{y:i}- Yes, I will|{y:i}- I'll point you to Jesus
-{86678}{86746}{y:i}- I'll point you to Jesus|{y:i}- Point you to Jesus
-{86749}{86791}{y:i}Yes, I will, yeah, yeah, yeah
-{86794}{86874}{y:i}He'll turn your darkness into day
-{86877}{86905}{y:i}Yeah, yeah
-{86907}{86984}{y:i}- He'll turn your darkness into day|{y:i}- Oh, yeah
-{86986}{87034}{y:i}Yeah
-{87073}{87124}{y:i}Yes, he will
-{87127}{87176}{y:i}Yes, yeah!
-{87421}{87483}That's a real gift you got there,|Pastor Ethan.
-{87486}{87552}- Isn't that right, Pastor Jake?|- Yes, ma'am!
-{87558}{87619}The Music Man has come to River City.
-{87626}{87671}See everybody on Sunday.
-{87674}{87745}Enjoy him while you can, Miss Burdoe,|he's just on loan.
-{87747}{87791}Could be a fine match.
-{87797}{87867}- Amen to that.|- Ask him.
-{87886}{87979}What are your future plans, Ethan?|Gonna be with us for a while?
-{87982}{88059}'Cause we sure have seen enough|of those ghetto tourists down here.
-{88062}{88096}Haven't we, honey?
-{88098}{88189}Hanging around just long enough|to be able to tell their congregation,
-{88197}{88239}"I've been there."
-{88242}{88308}Miss Burdoe, let me walk you to your car.
-{88366}{88392}You behave.
-{88458}{88537}Now, Pastor Jake,|don't be messing with my piano man.
-{88671}{88725}Is that how they teach teamwork|in the pros?
-{88727}{88769}Humiliate your teammates?
-{88789}{88812}Are you on my team?
-{88815}{88857}What do you think|I've been doing down here?
-{88860}{88961}- Passing out sandwiches, being ball boy?|- That's right. It's all good.
-{88979}{89074}But you've got the look of a man|that's serving time. Are you on my team?
-{89125}{89207}I don't have the patience or the heart|to invest in you, Ethan.
-{89219}{89309}'Cause I know you're gonna walk out on us.|Just like your old man did.
-{89381}{89423}Maybe it's time to go home.
-{89933}{89990}- He should have been here by now.|- Relax.
-{90042}{90111}- Man, he ain't supposed to bring the crew.|- It's cool.
-{90131}{90206}- I got a bad feeling about this.|- I'm gonna be okay, man.
-{90212}{90260}Your brother and I got history.
-{90274}{90357}You made your decision.|He's just gonna have to respect it.
-{90501}{90524}Tony.
-{90534}{90597}Just stay out of sight, man. And pray.
-{91662}{91689}Pastor Jake!
-{91735}{91793}- Where's Pastor Jake?|- He's not here. What's up?
-{91796}{91830}I think they killed him.
-{92174}{92197}Tony.
-{92386}{92475}{y:i}Dr. Bruce, telephone, please.|{y:i}Dr. Bruce, telephone.
-{92702}{92761}{y:i}Here at PayDay, we understand|{y:i}how hard it is when there's an...
-{92950}{92992}No, you didn't.
-{93042}{93080}You son of a...
-{93552}{93578}I'm coming.
-{93711}{93739}Hey.
-{93753}{93797}- What's going on?|- I'm okay.
-{93800}{93864}Hey, what's going...|Hey, what you got on your shirt?
-{93866}{93917}- I'm okay.|- Ethan!
-{94049}{94104}The doctor wanted him in overnight.
-{94107}{94192}And there was no way he wanted to go fight|those kids again.
-{94264}{94360}I mean, what 19-year-old do we know|who would take someone else's beating?
-{94399}{94424}Sorry.
-{94450}{94486}What's that cash doing there?
-{94489}{94545}It's $500 left over from the painters.
-{94548}{94612}- Can you re-deposit it for me?|- Write a check.
-{94652}{94692}Write a check next time.
-{95067}{95120}Do you like it? It was going to be...
-{95122}{95172}Do we really need all this stuff?
-{95183}{95226}It was gonna be a surprise.
-{95625}{95701}Ethan, you picked this neighborhood.
-{95720}{95760}You designed this house.
-{95793}{95868}I told you from the beginning|I didn't need any of this.
-{95990}{96021}What's going on?
-{96085}{96130}He would've died for that kid.
-{96186}{96220}I couldn't do that.
-{96486}{96521}I think you could.
-{97129}{97187}You and me taking the kids camping again.
-{97207}{97236}That's right.
-{97323}{97403}- You gonna go to the doctor?|- I've been to the doctor, Sonny.
-{97426}{97481}Well, maybe you should go back.
-{97580}{97652}- Oh, sorry. Does it hurt?|- Yes, it hurts, Sonny.
-{97665}{97714}Hurts like hell, all right?
-{97717}{97768}God doesn't like it when you swear.
-{97790}{97861}Let's go. Anybody seen Julius?
-{98007}{98071}Hey, hey.|Start with the trash along the fence.
-{98090}{98120}Julius!
-{98127}{98188}Hey, man,|why you climbing in the backyard?
-{98190}{98254}Don't you know we can come around|the front now?
-{98277}{98339}Guess you like doing things|the hard way, huh?
-{98366}{98394}Young blood.
-{98398}{98422}What's up?
-{98454}{98517}Gonna get you|some of that great outdoors, huh?
-{98621}{98710}...they got canoeing|and horseback riding
-{98713}{98818}and all kinds of games you can play,|and we can go for a hike or two.
-{98843}{98884}You should've called me.
-{98890}{98932}Well, he's out.
-{98974}{99033}Everybody's in. Let's go.
-{99542}{99582}All right, let's roll out!
-{99659}{99682}Let's go.
-{100985}{101008}Kali.
-{101231}{101278}- What you got in your pocket?|- Nothing.
-{101281}{101306}Let's see.
-{101469}{101503}Let me see the bag.
-{101606}{101652}Man, you been busy.
-{101742}{101769}What's this?
-{101827}{101865}Business is picking up.
-{102229}{102254}Follow me.
-{102277}{102352}All right, guys, pack it up,|go to the church, right now.
-{102632}{102679}Tell him how old you are, Kali.
-{102719}{102743}Go ahead.
-{102761}{102789}Seven.
-{102812}{102860}What else you going to tell him?
-{102878}{102947}Remember? You're going to tell him,|"I quit."
-{102955}{102985}I quit.
-{102988}{103050}I don't think he heard you above the traffic.
-{103069}{103100}I quit.
-{103112}{103148}Get on back.
-{103264}{103327}- Yo, I want my ends.|- Your ends?
-{103330}{103380}You just made a contribution to feed
-{103382}{103457}about 80 of your less-privileged|brothers and sisters...
-{103460}{103483}Dude!
-{103486}{103532}Dude, why you always in my business, man?
-{103534}{103573}You don't know nothing about me
-{103576}{103629}and you don't know nothing|about these streets.
-{103690}{103760}- Give him the money, Jake.|- Yo, the bridge is closed.
-{103777}{103832}Come on, Jake. Give him the money.
-{103838}{103935}That's right, shoot the white man|on the bridge during rush hour. Go ahead.
-{104055}{104084}Check it out,
-{104133}{104157}$500.
-{104160}{104207}Beat it, Gucci.|There ain't no cameras up here.
-{104210}{104255}$500. Just let him go.
-{104311}{104344}Check it out.
-{104730}{104802}Oh, Jake. Are you all right?|Let me help you up.
-{104825}{104869}- Let me help you up.|- Take it!
-{104948}{105024}- Let me help you.|- I said take it! Take the money.
-{105094}{105177}You don't want my help?|You can keep your money.
-{105357}{105425}Albania and the Ukraine|will be operational in six months.
-{105428}{105521}Nairobi will be in expansion of|our existing compound, same with Bombay.
-{105530}{105569}Seems like a lot to bite off.
-{105572}{105634}Well, to me|it seems like an answer to prayer.
-{105638}{105719}With the infusion of capital|that comes with the city's generous offer,
-{105722}{105782}we can fund these outreach centers|for five full years
-{105785}{105849}without touching|our regular operational budget.
-{105860}{105909}Can't we take a few more days|to pray about it?
-{105912}{105980}Well, we can take the rest of the year,|but unless the city has our yes
-{105982}{106074}by 10:00 a.m. Tomorrow, they're gonna|move that stadium site across the river.
-{106077}{106136}Gentlemen, we knew this deadline|was coming.
-{106152}{106184}Now, I know this is difficult,
-{106186}{106246}but we are not here|to make decisions based on emotion.
-{106248}{106320}"To whom much is given, much is required."
-{106322}{106416}And good stewardship requires us|to think about God's greater plan.
-{106446}{106526}Now, if there's no more questions,|I move we bring this to a vote.
-{106529}{106592}- Second.|- How can we even think of voting
-{106594}{106649}when the people this affects most|are not even here?
-{106652}{106689}This is not their decision to make.
-{106692}{106747}Well, they're going to find out about it|sooner or later.
-{106750}{106789}You think they're just gonna stand by
-{106791}{106840}and let the city take|a wrecking ball to their church?
-{106842}{106878}The city has eminent domain.
-{106881}{106929}They can do what they want,|with or without any of us.
-{106932}{106995}This way everyone benefits.|Including Second Chance.
-{106998}{107068}- So let them at least participate.|- Okay, look, look.
-{107072}{107115}I am with Parker on this, Todd.
-{107118}{107185}There is no sense in stirring anything up.
-{107197}{107246}We don't need any more headlines.
-{107335}{107364}All in favor?
-{107762}{107791}Opposed?
-{107903}{107950}One opposed, two abstentions.
-{107957}{108013}I don't abstain. I quit.
-{108536}{108593}Hey, Julius. It's a new day.
-{108599}{108659}- Thanks for everything.|- You got it.
-{108750}{108792}- Bye, Julius.|- Bye, Julius.
-{109562}{109641}Yesterday, Sonny told me that he had|something on his heart
-{109644}{109698}he wanted to share at staff devotions.
-{109735}{109762}You ready?
-{110006}{110038}I've been reading,
-{110070}{110121}reading in my Bible
-{110131}{110202}where Jesus did something special|for his friends,
-{110227}{110261}his best friends...
-{110306}{110330}Go on.
-{110714}{110765}Sonny, what are you doing?
-{110767}{110841}- I need to ask forgiveness.|- What are you talking about?
-{110846}{110923}Remember when you said it hurt like hell
-{110945}{111025}- and I said God don't like it when we swear?|- Yeah.
-{111033}{111092}I was more worried about you saying "hell"
-{111095}{111131}than about how you was feeling.
-{111134}{111208}- Well, I shouldn't have said that, Sonny.|- I judged you.
-{111211}{111289}And I ain't ever been beat up like that.
-{111567}{111599}I love you, Tony.
-{111638}{111676}I love you too, Sonny.
-{111710}{111749}You're my best friend.
-{114011}{114066}- You pay for that?|- Huh?
-{114107}{114143}Did you pay for that?
-{114630}{114696}Hey, give me that backpack.
-{114910}{114945}You late for school.
-{115391}{115479}Hey, and I want to start seeing|some rent money from your sorry ass.
-{115785}{115820}You're not hungry this morning, Jake?
-{115822}{115888}- No, just wondering why we're here.|- Honey.
-{115942}{115975}Well, Jake,
-{116006}{116059}over the past few years we've seen|the hand of God
-{116062}{116133}do some amazing things|at Second Chance and...
-{116158}{116215}Well, right now, if you'll all follow me,
-{116226}{116337}I would just like to share with you|an exciting new vision for your ministry.
-{116430}{116473}We've doubled the seating capacity.
-{116475}{116513}We doubled the number of classrooms.
-{116516}{116601}We got the new dorms for your women's|outreach with entirely separate entrances...
-{116604}{116633}Where is the church?
-{116636}{116695}- Well, the sanctuary's here.|- No. Where's our church?
-{116698}{116741}This is a brand new campus, Jake.
-{116744}{116828}It's on a piece of property|five miles north of our current structure.
-{116831}{116861}Check this out, Mrs. Sanders.
-{116863}{116921}Right here in the center|of the educational wing,
-{116924}{116970}state-of-the-art kitchen. And we've got
-{116973}{117053}two new mini-buses|to shuttle people up from the old 'hood.
-{117076}{117144}Gentlemen, we appreciate the effort|that you put into this,
-{117146}{117201}but our church|is the backbone of our community.
-{117203}{117265}Well, without landmark status|the building is,
-{117268}{117332}it's really just become|too expensive to maintain, I mean,
-{117334}{117391}to restore it would cost|twice the price tag of all this.
-{117394}{117454}I'm sorry for all the work|you've put into this,
-{117457}{117522}but I'm afraid we're going|to have to vote no.
-{117525}{117605}Jake, the board's already made its decision.
-{117654}{117731}Parker, what are you putting here?|Hotel, parking lot?
-{117754}{117805}I see the Mayor's baseball stadium.
-{117821}{117913}This is a necessary step in rebuilding|our city's urban core.
-{117916}{117964}- I'm not going to apologize...|- It's an off-ramp.
-{117967}{118050}They're tearing down our church|for a bigger off-ramp. Unbelievable.
-{118053}{118117}That baseball stadium|is going to provide economic stimulus...
-{118119}{118144}For my people!
-{118146}{118200}My people are lining up to sell hotdogs!
-{118202}{118243}Pastor, you started Second Chance.
-{118247}{118284}It's the right time, Amanda.
-{118286}{118349}God's gonna use|ministries like these everywhere
-{118352}{118385}to help more needy people.
-{118388}{118435}Is that how you justify selling us out?
-{118438}{118486}For what it's worth,|he was outvoted on this by the board.
-{118489}{118576}For what it's worth, we didn't even|have a say when he ran off to the suburbs.
-{118578}{118670}I plant churches, Jake. I planted yours.
-{118673}{118785}And all that good that you see|going on there, I see it at The Rock.
-{118789}{118846}And I want to see more of it|all over the world.
-{118849}{118929}It's a global vision, Jake.|We're just trying to be good stewards.
-{118932}{118984}This isn't about stewardship.
-{119002}{119049}It's about money and power.
-{119065}{119119}And I don't believe|Jesus spoke highly of either.
-{119122}{119164}Well, what about arrogance?
-{119267}{119341}I guess these things happen|when we keep our damn money.
-{119381}{119443}You know what makes me crazy|about the Bible?
-{119638}{119678}It says I gotta love you.
-{119951}{119981}And right now,
-{120039}{120101}all I want to do is beat the hell out of you.
-{120393}{120439}You don't want to lose that, Pastor.
-{123068}{123165}When I was a young boy of 13...
-{123485}{123587}When I was a young boy,|I took my pocketknife
-{123626}{123683}and carved into my bunk bed
-{123699}{123749}the words of Malcolm X.
-{123789}{123841}"We didn't land on Plymouth Rock.
-{123879}{123964}"Plymouth Rock landed on us."
-{124074}{124186}Those words are still ringing|in my ears today,
-{124233}{124318}because soon this sanctuary
-{124341}{124405}will become smashed-up rubble.
-{124458}{124539}Once again the crushing rock of injustice
-{124562}{124672}leaves us with a dry, gritty taste|in our mouths.
-{125121}{125158}Brothers and sisters,
-{125242}{125282}I'm here to tell you
-{125361}{125426}that I've traded in Plymouth Rock.
-{125510}{125549}I've traded it in
-{125590}{125651}for a Rock that builds me up.
-{125729}{125807}I've traded it in for a Rock|that gives me dignity,
-{125849}{125917}courage, and compassion.
-{126074}{126173}I traded in Plymouth Rock|for the Rock of Ages.
-{126382}{126448}And when we stand on the Rock of Ages,
-{126494}{126590}we are required to stand tall|in the face of adversity.
-{126761}{126798}When we stand
-{126840}{126875}on the Rock of Ages,
-{126966}{126996}we are asked...
-{127085}{127108}We are...
-{127183}{127213}We're commanded
-{127299}{127350}- to love our enemies.|- Amen.
-{128519}{128609}There's a song I learned in this place,|when I was a boy.
-{128702}{128749}{y:i}On Christ the solid
-{128786}{128821}{y:i}Rock I stand
-{128866}{128911}{y:i}All other ground is
-{128949}{128980}{y:i}Sinking sand
-{129036}{129117}{y:i}All other ground is sinking sand
-{129280}{129316}Most of you all know
-{129341}{129403}that I didn't come to Second Chance|by choice.
-{129484}{129543}I'd spent a lot of years in sinking sand,
-{129583}{129623}then God called me home.
-{129673}{129713}And I wanted to serve Him
-{129743}{129795}as long as I could stay comfortable,
-{129798}{129839}stay where it's safe.
-{129899}{129957}Brothers and sisters, I want to thank you
-{129990}{130021}for teaching me
-{130081}{130125}that comfort is sinking sand.
-{130171}{130256}Safety is sinking sand.
-{130315}{130364}And even this beautiful sanctuary
-{130400}{130437}wasn't built to last.
-{130524}{130577}The building isn't the church, is it?
-{130640}{130694}Jonesy, you're the church.
-{130730}{130810}Charday, you're the church.
-{130887}{130937}Sonny, Amanda,
-{130985}{131008}Tony,
-{131077}{131133}you all have shown me the love of Jesus
-{131169}{131204}by being His church.
-{131320}{131343}And Jake,
-{131455}{131495}if you'll allow us,
-{131516}{131591}my future wife Val and I|would love to move into this community
-{131594}{131634}and be a part of your team
-{131664}{131728}in whatever way you and the Lord see fit.
-{132104}{132169}{y:i}My hope is built
-{132172}{132244}{y:i}On nothing less
-{132247}{132327}{y:i}Than Jesus' blood
-{132330}{132408}{y:i}And righteousness
-{132410}{132490}{y:i}I dare not trust
-{132493}{132568}{y:i}The sweetest frame
-{132570}{132648}{y:i}But wholly lean
-{132650}{132728}{y:i}On Jesus' name
-{132730}{132847}{y:i}On Christ the solid Rock
-{132850}{132885}{y:i}I stand
-{132888}{132966}{y:i}All other ground
-{132969}{133049}{y:i}Is sinking sand
-{133051}{133124}{y:i}All other ground
-{133127}{133224}{y:i}Is sinking sand
-{135030}{135097}- Beautiful old church.|- Yes, it is.
-{135117}{135178}I wish we could've at least saved|the windows.
-{135199}{135228}It's a shame.
-{135840}{135871}Hey, Tony!
-{135907}{135944}Some dude on the roof.
-{135974}{136000}Up there.
-{136149}{136199}What the hell's he doing up there?
-{136326}{136368}Hey! Hey!
-{136395}{136445}- Somebody's up there.|- Off the fence, boy.
-{136448}{136514}- Somebody's up there.|- Get down off of this fence right now!
-{136517}{136592}- Get down off the fence.|- There's somebody up there.
-{136594}{136670}- Dad?|- There's somebody up there.
-{136737}{136789}- You need to calm down.|- I didn't see you.
-{136792}{136845}You need to calm down|before I have you restrained.
-{136848}{136872}No. No.
-{136984}{137014}Are you coming?
-{137321}{137386}Hold up, now. You better stay down here.
-{137478}{137542}You know your momma's gonna|kill us both, right?
-{137736}{137778}You need to get here. Okay.
-{137793}{137823}Can you open up?
-{137826}{137859}- Mr. Mayor...|- Yes.
-{137862}{137926}- Who's in charge here?|- I think he is.
-{138059}{138085}Whoa!
-{138107}{138159}Time to get some shoes|with better traction, Gucci.
-{138162}{138193}- Yeah.|- Got it?
-{138195}{138218}Got it.
-{138338}{138367}Yeah, he's a good man.
-{138422}{138478}I guess something just happened to him.
-{138515}{138592}Hey, Chief. We got a situation.
-{138791}{138814}Pastor!
-{138837}{138884}Don't get up. Don't get up.
-{138933}{139003}Dad, what are you doing?
-{139038}{139093}Studying for next Sunday's sermon.
-{139155}{139194}So why are you studying up here?
-{139197}{139301}If I'm not studying here,|this church is coming down.
-{139339}{139379}I remember you.
-{139407}{139469}{y:i}This is city property.
-{139472}{139556}{y:i}You are required|{y:i}to vacate the rooftop, immediately.
-{139711}{139740}Okay.
-{139770}{139837}Do something.|Just get these people out of here right now.
-{139848}{139884}This is turning into a sideshow.
-{139887}{139939}{y:i}I need all of you to leave the area.
-{140012}{140124}{y:i}I repeat, you are required|{y:i}to leave the area at once.
-{140290}{140325}What is she doing?
-{140345}{140380}They sitting down?
-{140392}{140463}No, no, no, no.
-{140530}{140596}Jake, you remember the last time|we were up here?
-{140677}{140723}We needed a new lightning rod.
-{140731}{140776}But we didn't have any money,
-{140803}{140845}so we wired up that cross.
-{140873}{140953}I want to remember what it's like|to be that lightning rod.
-{140974}{141077}To fear absolutely nothing|but God Almighty.
-{141077}{141177}
+/
+Your son's on that roof again.
+If he did what I told him
+he wouldn't make|a very good preacher's kid, now would he?
+Daddy, they're here,|and momma says you'd better behave.
+Showtime.
+It's a privilege and an honor,|as mayor of this great city,
+to do my part in linking arms|with people from all walks of life.
+The city needs strategic partnerships with|churches like Second Chance and The Rock,
+and we need strong advocates|for the inner city,
+- like my friend Reverend Jenkins here.|- And how do you know Reverend Jenkins?
+I first met Jerry at an integrated jail cell.
+We were both arrested in 1960|at a lunch counter sit-in.
+Now when I want a restaurant shut down,|I just call the health department.
+- Two scoop.|- Sorry, I was told to give one.
+- Jake always give me two scoop.|- Tiki, you bothering the help?
+It's cool.
+So, I hear you're getting groomed|to take the old man's place.
+Yep. When the time comes.
+You got the shoes for it.|What are those, Gucci?
+Come on, folks. Keep it moving.
+Oops.
+- Sorry about that.|- My lucky tie. It's ruined.
+I'm sorry. Look, there's more napkins|down by the silverware, okay?
+And I've got a job interview today.|I might as well not even go now.
+Here.
+Take mine. Take it.
+Hey, it better be lucky.
+Have time to answer a few questions|before we pack up?
+- Hey, Jake can you cover me?|- Got you covered.
+Yes, ma'am.
+I know your suburban church|is pouring resources into this area,
+yet crime and unemployment remain high.
+Well, like my friend the mayor said,
+our partnership with the inner city|is for the long haul.
+You know, I'm proud|of what we've accomplished so far.
+But if you want an insider's perspective,
+- Pastor Jake's the man.|- Pastor, care to comment?
+Are you talking about|helping-rich-white-folks-sleep-at-night
+kind of difference?
+That's what these cameras are for, right?
+Meanwhile, our mayor's idea|of urban renewal
+is building baseball stadiums|so poor people can sell the peanuts.
+Maybe if he went back to kissing babies|instead of kissing corporations
+on their big, fat self-serving...
+As far as crime and unemployment|are concerned,
+the statistics are showing improvement.
+But the real bottom line for us|is meeting people's needs.
+- Isn't that right, honey?|- That's right, honey.
+The Second Chance video runs|during the choir number.
+After that you got two minutes, max,|for the pledge cards.
+- You cannot go overtime again.|- Pastor Ethan.
+- Good morning, Parker.|- Hey.
+Hey, how's it going?
+Here you go.
+Okay, let me see a pledge card.
+Let's let Pastor Jake make the pitch, okay?
+Personally I'd love to, but|I got a lot of board members complaining
+we're already spending too much money|down there, so...
+- I think he'd be more effective.|- Ethan, this is television, all right?
+The guy's a loose cannon.|We got him on the platform.
+We don't need him in the pulpit.
+You are the source of my strength
+You are the strength of my life
+I lift my hands in total
+Praise to you
+Amen
+Amen
+Amen
+Amen
+Amen
+Amen
+Amen
+Amen
+Who says church has to be boring? Amen?
+Amen!
+- I love you.|- Love you.
+Thank you, Dad.
+Yesterday my eyes were opened|to what goes on at our sister church.
+Many of you all know my dad pastored|Second Chance when I was a little kid.
+But I hadn't been down there|in nearly 20 years.
+I could barely recognize|the old neighborhood.
+Wasn't all hugs and smiles.|It was hard work, some grim reality.
+I still think I got a little gravy on my loafers,|right where the penny used to go.
+Well, it's a tough gig down there.
+I got to see Jake in action last night,
+and I'm here to tell you|he is the right man for the job.
+You're going to get a chance to meet|Jake and Amanda after the service,
+but right now,|let's give them a round of applause
+for all the hard work they're doing|in the worst part of town.
+Jake, we got all these pledge cards here.
+Why don't you come up here and tell us|what we're investing in.
+Thank you, Brother Ethan.
+I've got a Q-tip in the car|if you want to clean those loafers.
+This morning I was stuck at a stoplight|in my 'hood,
+that would be neighborhood to you, sir.
+This woman comes up holding|what looks like a baby wrapped in a blanket.
+She's tapping at my window|asking for money,
+and I know that baby is a plastic doll,|but she keeps tapping.
+So finally, I give her a dollar|just to get rid of her.
+James, Chapter 1, teaches us
+to be doers of the word|and not hearers only.
+Every year I feel like we come here|tapping on your window,
+but our baby's real.
+I'm not asking for your money.
+I've got gifted children in my community
+who need some hands-on guidance.
+My wife needs tutors to help women
+trying to escape the bonds of prostitution.
+We need after-school supervisors,|Bible school teachers.
+Hold these up so I can see them.
+This is how we fix problems in America.
+We roll down our windows,|toss out some money, and drive away.
+So my message to you|on Second Chance Sunday is this,
+if you aren't willing to come down|and get a little gravy on your shoes,
+just keep your damn money.
+Nice work, Ethan.
+It's good to know|what's going on in our other areas.
+And now if our ushers would come forward,
+allowing us an opportunity for our giving.
+- This guy stuck his finger in our face.|- Let me...
+- Let me finish.|- Where does he get off lecturing us?
+All he is saying is that we need|to stop pretending and start participating.
+We've been participating|for nearly $2 million
+for the last 15 years and I'm tired of it.
+All right, maybe|we should all take a breather.
+Look, this is not about|repaving the parking lot.
+- We're on the front page here.|- We all read the paper, Mike.
+Look, what if we run a full-page ad?
+Reprint the headline at the top|and then beneath it in big letters:
+"Fine, We Will."
+- I think Mike's going to pay for that ad.|- Yeah.
+Look, the point is we all want to|be good stewards of God's money.
+And we're too big a church|to be defined by any one ministry.
+But Second Chance isn't just any ministry.
+It's our roots, and we probably haven't|paid them as much attention as we should.
+Jeremiah, it's Ethan's fault|for giving him the pulpit.
+Look, this keeps happening every Sunday.|He changes things around.
+- It's driving the TV crew nuts.|- All right, slow down, Mike.
+Yes, we are getting complaints|about Ethan's style,
+about the music he chooses.
+Let him play his music. He's a rock star.
+But senior pastor? Not on my watch.
+Hold on. So what if he is unconventional?|My family likes that.
+I'm Ethan's biggest fan.|But, Jerry, you have got a global vision.
+And it totally depends on grooming|a successor
+that this whole church can get behind.
+If Ethan's our man, he has got to learn|discipline and accountability.
+Starting now.
+I'll talk to him.
+He needs more than a sermon, Jerry.|He needs his wings clipped.
+And if you don't do it, we will.
+Jerry brought me here|on our first anniversary.
+Some traditions die hard.
+- I haven't seen Green Goddess in a while.|- I know.
+- How's the house coming?|- Slow. They're still painting.
+It's a little spooky staying there by myself,|but it's easier to supervise.
+I just want it all done by the wedding.
+Yeah. I think we need to hear|what Jake's saying, Dad.
+I mean, get our hands dirty down there.
+Send our high-schoolers|on a summer work project.
+Well, it would be good|to have more of our staff involved.
+Yeah. You know what,|send Aaron, the junior out pastor.
+I hear he speaks Ebonics.
+Wait a minute. You want me to go?|Is this a joke?
+You can't be serious.
+I'm the associate pastor, Dad,|I'm not a social worker.
+- It'll be a good ministry experience.|- Jake's not going to listen to me.
+You're not going there to fix anything, son.
+I just want you to observe and to learn.
+Look, I've been busting it for two years
+to move this church into the 21st century.
+Attendance is up, giving is up,|we've got the best music in town.
+- None of that is going to change.|- My book just came out, Dad.
+- Happy birthday, Mrs. Jenkins.|- Thank you, that's beautiful.
+- Are you still working on that steak, Pastor?|- No, I think I'm finished.
+- Was it well-done enough for you?|- It was delicious.
+Son, you're blessed|with charisma, musical gifts.
+You're a natural at the pulpit.
+But there's more to being a pastor|than Sunday morning.
+Yeah? Before you send me off|to be a glorified intern,
+I think you better check with the board first.
+The board met this morning.
+- Happy birthday, Mom.|- Happy birthday, Claudia.
+Thank you.
+- Well, you weren't very delicate.|- I was honest with him.
+Oh, right, and the steak was delicious?
+Make your wish.
+Hey, baby! You want some action, baby?
+- We got some money if you got the honey.|- Come take a ride with us, baby, come on!
+"And they grumbled against the boss,
+"'These men who were hired last,|worked only one hour,
+"'and you have made them equal to us
+"'who have borne the burden of the work.'
+"But he answered,
+"'Friend, I am not being unfair to you.
+"'Didn't you agree to work for a dollar?
+"'Are you envious|because I am generous? So...
+"'So the first will be last|and the last will be first."'
+Gentlemen, do you understand|what this means?
+You may have lost some years to addictions.|You may have lost some years in prison.
+You all know I did some time myself.
+But the Word of God teaches us|that time can be redeemed.
+Yeah, tell that to the chump who took|one look at my record
+and said he wasn't hiring.
+- All right, what did Jonesy just do?|- Blame the Man.
+That's right. Blame the Man all day,
+but what are you doing to show|that you're trustworthy and eager to work?
+Tell us about this chump, Jonesy.|Did you shake his hand when you met him?
+- He didn't give it.|- Did you look him in the eye?
+Stand up, Jonesy.
+Shake my hand.
+Man, I got a wet sandwich here.|Come on. Look me in the eye.
+Squeeze my hand, Jonesy.
+You call that a squeeze?
+I'm sorry, Pastor.
+- Javier, you know what time it is?|- Yes, sir.
+You come in half-dressed and late again.|What's the excuse this time?
+- 'Cause the job was on the line?|- No excuses, Pastor.
+I gave you three strikes.|I can't give you four.
+Hasta mañana, brother.
+Hey, Javier, wait a minute, man.|Let me walk you out.
+- She took the kids.|- She did what?
+She took the kids.
+"Javier, I take the kids|and go back to El Paso.
+"You make too many broken promises."
+You want me to keep going?
+She took the money we saved|and left me with nothing to follow.
+My boys, they need their father.
+It's all right.
+It's gonna be all right, brother.
+You looking for Amanda?
+They're meeting downstairs.
+I thought tonight was about job interviews.
+But I believe God would have us|put our plans aside
+and walk with our brother.
+Hold on.
+We need to talk.
+Wait in my office.
+Let's gather around our brother|and pray for him.
+Do we need him in the room?
+I'm sorry, gentlemen. This is Pastor Ethan,|visiting with us from The Rock.
+I thought they already did that.
+Pastor Ethan, we'd be privileged|to have you lead us in prayer.
+Sure.
+Let's pray.
+"Father, I want to thank you|for the new start that only you can give.
+"And for this group of men|who have come together
+"who want to serve you with their lives.
+"I especially want to lift up our brother..."
+Our brother...
+Javier.
+Our brother Gabriel.
+"Lord, You know us|better than we know ourselves."
+Back, back!
+- Green light.|- Red light!
+Back.
+- Green light!|- Red light!
+- Back!|- Brownies, brownies, brownies, everybody.
+Payton, one brownie.
+Something I could do for you, honey?
+- You let your kids play with them?|- Sure. They love it here.
+- I got a kid. A girl.|- Well, you bring her. You're both welcome.
+No, I ain't seen her in a while.
+- Well, what's her name?|- Kenya, like the country.
+Beautiful.
+- What's your name?|- You know, I'm gonna get her back.
+A child should be with her mother.|You want a cup of tea?
+- No, I just need some money.|- We don't give out cash, honey.
+A smart girl like you knows that.
+Yeah, well, you can't buy gas without it.|Smart woman like you knows that.
+- Amen.|- Strengthen our brother, Lord.
+Amen.
+- Empower him, Lord.|- Yes.
+Lord, we all need a helping hand|from time to time,
+and I want Javier to know,
+I'm claiming this Powerball number|in your name.
+8-10-11-18-25-40.
+You sprinkle your power on that number,|Lord, and I'm giving you 15%.
+Now, I know the Bible says 10,|but it's a big pot,
+and I'm going to use it to fly Javier|to El Paso so he...
+- Amen.|- Amen.
+We'll see most of you all at the Habitat build
+and if anybody wants coffee,|Jonesy's buying.
+Huh?
+You got enough money for Powerball,
+you got enough money|to buy your friends some coffee.
+All right, all right.
+Payton, get down.
+I told you.
+How far along are you?
+- He's gonna kill me.|- We have a room here for you.
+- Nah, I can't.|- Come on, let me make you that cup of tea.
+Come on.
+You got away pretty quick|after Sunday service.
+Big building.|Didn't want to get lost in the crowd.
+Oh, I would have been happy to tell you|where to go.
+Exit's that way.
+Look, I gave you my pulpit time televised|and you use it to start a fight.
+Now I got the whole church mad at me
+like I'm the one who wrote|your "get whitey" speech.
+They called a board meeting, Jake.|I wasn't invited.
+That makes two of us.
+Hey, hold up. This isn't funny.
+Your little rant could have cost me my job.
+Oh. So it's about the job.|Well, cheer up, Gucci,
+I hear you're in pretty tight with the pastor.
+You're pretty cocky for a guy whose salary|gets approved by the same board.
+Are you listening to me?
+Are you listening to me?
+Yours to keep, man.
+- Hey, I'm talking to you!|- Oh, is that your preacher voice?
+I think he's coming.
+- Listen, Jake. Hey, I'm on your side, okay?|- Look, Gucci, what do you want from me?
+Well, you know what,|you could start by saying "I'm sorry."
+All right.
+I'm sorry for associate pastors|who got this all figured out
+'cause they spent an hour down here|slinging potatoes.
+I'm sorry for rock stars who think
+they've lived|the African-American experience
+riding a tour bus with Tina Turner.
+And I'm sorry for "whiteys"|who try and get their conscience fixed
+by coming down here
+and hanging with their homeboys|in the ghetto once a year.
+How's that?
+You're the most self-righteous...
+I'll see you tomorrow.
+What do you mean, "see you tomorrow"?|What do you mean, "see you tomorrow"?
+Self-righteous? Self-righteous.
+- Who's your friend?|- This is Julius.
+You gonna read that?
+What you looking at him for?|He ain't gonna read it for you.
+He wants out.
+Did you tell him how you got out?
+- He doesn't have family out of town.|- No parents, grandparents?
+- My brother's the only family I got.|- Maybe he'll bend the rules for you.
+He didn't bend them when I got in.|They beat the hell out of me.
+It's a free-for-all, Jake. And it's worse|going out then it is coming in.
+Your brother's got it all jacked up, kid.|Ain't even a real game.
+Where do they come up with this stuff?
+Man, last year two of my crew got dumped|at the hospital.
+- One came out in a Ziploc.|- You preached the funeral.
+Yeah, I did.
+I don't want to be preaching another.
+My momma brought me to hear|Dr. Martin Luther King
+speak in this very church in 1967.
+I was nine years old.
+And I'll never forget what he did,|right here on this very spot,
+when I held my hand out to him|after the service.
+Here, put out your hand like you're me.
+He shook it just like that.
+Toilet in the men's room is running.|Might be the chain.
+Costing us money. Got to fix that.
+Good man, Sonny.
+How many "I's" in traveling?
+- Looks right to me.|- Nah, I think it's only one.
+Maybe it's one of those words|spelled both ways.
+- It can't be.|- Look it up.
+Don't have to look it up.
+So. Got a call from Jeremiah this morning.
+Says you're here for a while|to observe and learn.
+Yeah, whatever that means.
+Hey, look, this is just as awkward for me|as it is for you, okay?
+- Since we both got bosses, just...|- No, I got a boss.
+- You got a daddy.|- Just show me to my office.
+You want to see your office?
+Follow me.
+So I just imagined your raised eyebrow|when I locked my car?
+Projection, my man.
+But if you got a guilty conscience,|why you driving it?
+I don't have a guilty conscience.
+We got some sack lunches|at the park at noon.
+What are you doing?
+The last thing you want to do is
+make people feel like|you're talking down to them.
+Which is why we ask the staff|to voluntarily avoid
+- displays of conspicuous consumption.|- Like my car.
+Look, if you want me to take the bus,|just say it, okay?
+Easy, Gucci.|You the one that brought this up.
+Drive what you want.
+You ain't gonna be here long enough|to learn the bus schedules, now are you?
+A little help here, Hobart.
+- What's going on up there? Is that a fire?|- No, no.
+They're at it again, Pastor. You smell that?
+I got a call from social services.|There's a duplex coming up next week.
+Oh, Ethan, this is Tamela.|Tamela, this is a white man.
+- Is this hazelnut?|- Don't be changing the subject.
+You got to stop them up there.
+Between my chemicals and their campfires,|we could all blow up.
+All right.
+We're going in.
+Hope we don't catch|one of them back drafts.
+Fire marshal.
+Open up.
+Honey, will you let me in?
+Thank you, sweetie.
+Kali, you barbecuing again?
+How many times I tell you,|there's no ventilation in here.
+Use the stove.
+- Goat no good on stove.|- Goat?
+Where did you find goat around here?
+They gonna burn this place down.
+Ask your daddy why he's not at work.
+He said no good job for a professor.
+Did you hear that?
+Well, you tell the professor that|unless he's got a better offer from Harvard,
+he needs to get back down to Wal-Mart|and start wrangling those shopping carts.
+Tell him.
+Is that you?
+Tell him.
+Oh, very pretty.
+The soldiers come. They shoot us.
+You got to make him understand, Kali.|The well's gonna run dry.
+Bags too heavy? Arms getting tired?
+- I got them.|- Then how about a smile, huh?
+God loves a cheerful giver.|Tiki, where you going? Got your lunch.
+I'm full, man. Salisbury steak.
+That's our spot.
+Been here every Wednesday for eight years.
+I'm...
+needing some money|to pick up my stomach medicine.
+I'll pay you back on Friday.
+Would you like something to eat?
+Just set your belongings over there|and join us for a hot meal, okay?
+You see, Sister, we brought|these sandwiches from the church...
+Sandwiches.
+- I see everyone get a bag.|- Sister, those are...
+Never mind.
+They've even got music.
+I'm needing some real food.
+Are you aware that family|almost got murdered in Africa?
+Escaped with the clothes on their back.
+And you'd really kick them out
+because the dad doesn't want to collect|shopping carts.
+Yep.
+The guys like Tiki get a free meal|any time they show up?
+Well, it's nice they can count on you|to feed them once they're on the street.
+- I'll have the usual.|- What do you get here?
+Make it two.
+Is that...
+Is that you?
+- You played pro ball?|- Yeah.
+Lasted two playoff-free seasons.|Till coach started making us pee in cups.
+Hey, Gucci, you ever see an Eskimo pee?
+Yeah, that's when I did|my eight months for possession.
+- I didn't know any L.A. Lawyers.|- Oh, come on, Jake.
+Maybe I didn't do hard time|but I didn't get off.
+Everyone thinks court-ordered rehab
+is like going to a resort|to hang out with celebrities.
+But it's not.
+So, I hear your dad's franchising himself|all over these days.
+Nairobi, Bombay.
+What, has The Rock finally gotten|too small for him?
+What's that supposed to mean?
+It's just that he's always flying off|to preach somewhere.
+- You're missing the vitamins.|- I believe it's called the Great Commission.
+Do you know how many converts|we've had in Africa alone?
+It ain't a ball game, Gucci.|Nobody's keeping score.
+We're sending ministry teams|all around the world.
+- Doctors, teachers...|- It's all good.
+I just think the home front|should take priority. That's all.
+You mean your home front.
+Back when your dad first hired me|as youth pastor,
+we were more than a team. We were family.
+Then he goes off to the suburbs|to preach to...
+The rich white people|without a care in the world, right?
+Try some bread.
+Eskimo pee.
+Yeah, I was born here, but man,|it's like night and day.
+30% unemployment. Babies having babies.
+Half these kids won't graduate|from high school.
+What up, holmes?
+- All right, who's getting it today?|- Me, me, me.
+- Come on, PJ. Keep it going.|- Yeah, that's it. Keep it going.
+Come on. Come on. Keep it going.|Keep it going. That's it. That's it.
+Pass it on, pass it on. Take it. Take it.
+- Come on, Coach.|- Pass it on. Pass it on.
+Hey, Julius.
+Hey, Julius.
+Hey, Julius.
+- What's up?|- Hey, I got to go, Pastor.
+Hey! Wait!
+Jamal, you keeping things proper?
+Julius, tell your brother|I asked him a question.
+Yeah.
+- Julius tell you he wants out?|- He know how to get out.
+Yeah.
+He tell you I'm through|burying your ex-mules?
+Gangster, I'm talking to you.
+Man, look, my 'hood, my rules,
+my nigga.
+Back up.
+You see that cross|over on top of that church steeple?
+- You see it?|- I see it.
+You look good,|'cause anywhere in this neighborhood
+you see that cross is my 'hood.
+- And my rules say slavery is over.|- You can't bend rules for family.
+Yeah, then how about I bend your arm|over your head?
+Jake, you're going to break his arm.
+Now,
+I'm going to give you some time|to pray about this.
+And if I don't like your answer,
+then I'm gonna open up a can|of the wrath of God all over your sorry ass.
+What was that?|And what's this wrath of God stuff?
+Ever hear of "What would Jesus do?"
+Tell me again why you're here.
+Jake, you just can't go around threatening|one guy
+and then throwing a drunk back his bottle.|I mean, it's not consistent.
+Answer the question. Why are you here?
+To observe and learn.
+Do you always observe|with your mouth open?
+- All right. You made your point.|- No, I don't think I have.
+Sit. Sit.
+Back when I was on lock,
+every day on my way to the yard,|I walked by the chapel.
+Comfortable chairs, coffee pot,
+and there sat the chapel|waiting for customers.
+I never went once.
+Then along came your dad|and his prison ministry.
+Met me on my turf.|Wanted to know my story.
+Gave me a chance after I got out.
+He couldn't have done that preaching|from a stadium or on TV
+or even from the pulpit|of a rundown old sanctuary.
+He did that by walking the streets|and listening.
+That's my car.
+- Is there a switch inside?|- It's locked, Jake.
+Not anymore.
+You see who did this?|You see who did this?
+Yeah, I want to report a crime.
+Yeah, my brown leather jacket,|my golf clubs.
+- Jake, where are we?|- You calling 911?
+Tell her where we are.
+What are you doing?
+Man, your insurance check will get here|before the cops.
+- Let me get you a cup of coffee.|- What am I supposed to do with my car?
+Do you sell windows?
+- I'm calling the auto club.|- Suit yourself.
+Watch the man's car till the truck gets here.
+What?
+- You know what, you're crazy.|- You're right. You figure it out.
+I don't care who bought it, I don't care|what your classmates are wearing,
+I don't care|if everybody came to school naked.
+- You ain't going out dressed like that.|- I'll wear what I want.
+Excuse me,|you take yourself back up to your room
+and you put something over that.
+I didn't wear nothing|you didn't used to wear.
+I am your mother, don't talk to me like that.
+I ain't had a mother my whole life.
+Trina?
+Trina, why are you here?
+My baby.
+Judge got to give me back my baby.
+Well, then, you got to be ready
+'cause it's going to be a whole lot tougher|getting back your daughter's respect.
+Mommy, I want to do that again.|I can do it better.
+- Next time.|- Okay.
+Everybody, let's just take a break.
+Come on.
+No, I want to pick out the china pattern|with you.
+I just don't know how long|this is gonna take
+and I'm probably going to need to get|a rental car.
+Did you hear that? Did you hear that?
+No, I think it was gunfire.
+And forget china,|I want to pick out a flak jacket.
+Honey, it's just a joke.
+Look, I'll call you|when the truck gets here, okay?
+All right. Love you, too.
+You like that one?
+So they were cooking goat?|You ever try goat?
+- It's like eating rubber bands.|- How would you know?
+- Ethan, I raised them when I was a kid.|- Oh, yeah, that's right.
+This is called "Butterfly Garden."
+- It's a little too busy.|- Yes.
+I want you to be safe down there.
+It's not that bad. It's just really different.
+Royal Cambridge has just come out|with this coronation re-issue.
+Quite beautiful, isn't it?
+- No.|- No.
+This is a sample that just came in Monday.
+Hand-painted in Budapest.
+- Absolutely exquisite.|- That's lovely.
+- How much?|- $350 per setting.
+We got to let our rich friends|buy us something.
+- Sorry.|- That's okay. Can I see the other pieces?
+Absolutely.
+Think about this in our dining room.
+Do you still have those paint chips|in your wallet?
+What's that?
+Here we are.
+I think we're gonna keep looking.
+- Really.|- Thanks for your help.
+- Of course.|- I'll pull the car up.
+- I'm sorry. Thank you.|- Good luck.
+Ethan?
+I need one coffee and a glazed donut.
+And I'll take one lottery ticket.
+Thank you.
+Hey, guys.|Remember me from the men's group?
+- I know who you are.|- You're Jonesy, you're Javier.
+Oh, good donut.
+You make this?
+Hey, see you later, buddy.
+Javier, hang on.|Look, I know about your situation.
+I'd like to help you out.
+Look, I want you to take this.
+I want you to use this to get your family|back from El Paso.
+Take it. Your kids need their dad.
+- Take it, please.|- Gracias.
+Bless you.
+Hey, I don't know|if that was such a good idea.
+Why not?
+Well, you don't want to give junkies|a wad of cash.
+- You mean he's doing?|- He's been clean six months, I think.
+- Coffee's hot.|- Hey, maybe it's a test from God, huh?
+Look. I bought you this.
+- I thought you was a pastor.|- I am.
+- I just want you to have it.|- Pastor Jake know about this?
+It'll be our secret.|You let me know if you hit the jackpot.
+You know, I got myself|a job interview today.
+I just don't want to jinx it.
+Right. All right, Kali,|remember to follow through, okay?
+Someone want to tell me what's so funny?
+I want 10 laps.
+Yo, Globetrotter, count them down|and lock up, will you?
+Let's go, 10 laps. Let's go!
+Kali, you don't need to run the laps, okay?
+Nine more, let's go!
+Let's go, guys. Come on, keep it up.
+Keep going. Nine more!
+Kali, wait up.
+Hey, wait up. Hey, look,|hey, you didn't do anything wrong.
+How's your family?|Is your dad still working at Wal-Mart?
+Has he got a new job?
+Hey, Kali.
+Never mind.
+Well? What do you think?
+Nice images. It's colorful.
+It just doesn't...
+It makes us look like a country club.
+I mean, there's no mention|of our inner-city ministries,
+- nothing about what we're doing overseas.|- Go on.
+You know what, maybe it's because|I've been gone for two weeks,
+but it's just... It's not real.
+And why aren't you in it?
+Parker thought|it shouldn't be personality driven.
+Well, Parker's wrong, as usual.
+Open up the Africa bin|and pull up that shot with dad and the kids.
+You see this? You're a personality, Dad.
+God uses personalities.
+Name one preacher|who isn't bigger than life,
+who doesn't have a little rock star in him.
+Jake's sure got it. He learned it from you.
+Hey, pull up that shot of Jake and me|at the homeless lunch.
+Yeah, go back.
+Yeah, slow it down about 50%.
+Go back, yeah.
+Yeah.
+Got to go, Dad. Late for work.
+Well, I figure we're gonna need|a couple of blocks on the other side
+- for a cloverleaf.|- Look at that.
+They're practically on church property.
+This area needs a clean sweep.|It's like Baltimore, right?
+Camden Yard goes up, crime goes down.
+And the Orioles still can't win.
+Hey, just in time.|I need 20 bucks to get my medicine.
+I saved you the last roast beef, all right?
+I'm not giving you cash.
+You need medicine,|I'll walk you to the drugstore.
+I like you.
+First time I saw you I thought you|were a chump loser. You're all right.
+I'm still not giving you cash.
+Well, I think I'm going to need|a couple more weeks
+- to sell this to my board.|- What? This is a favor, Parker.
+A favor to you and your church.|If it's going to be controversial...
+- No, no, no. I'm just building consensus.|- Consensus, my ass.
+I've got councilmen pushing alternate sites.
+You guaranteed me a no-hassle transition.
+May I help you gentlemen?
+- Hey! Ethan, right?|- Mayor Long, good to see you.
+Yeah, good to see you.|What have you got there?
+Well, I got a little bologna, deviled ham...
+I'm hearing good stuff|about what you're doing down here.
+Really. From who?
+So, how are you getting along with Jake?
+Well, he's got his basketball clinic going on.
+Want to suit up, Parker?|A little one-on-one?
+No, no, no. You guys are out of my league.
+Hey, good to see you.
+Trina! Trina, you need to slow down.
+Trina, let's talk about this.
+Why are you in my face? I am not your kid!
+You need to think about|what you're doing here.
+But he's taking me shopping, all right?|He's even buying lunch.
+The only reason that Buster is here|is to buy your abortion
+and put you back on the street.
+Hey, we are having a conversation!
+Trina!
+Trina. Trina, he is lying to you!
+I don't know how you do it.
+One girl at a time.
+Yeah, but how many really turn around?
+You're looking at one.
+Watch your opponent.|Find his weakness and exploit it.
+- It looks easy.|- That's the way I could be going.
+Wear your opponent down|with aggressive moves.
+Now, why'd I go for the lay-up?|Why not the slam-dunk?
+- 'Cause it ain't showbiz.|- That's right. It ain't showbiz.
+Your team's counting on you|to sink the points.
+You don't get any extra points|by being a showoff.
+Don't let him drive to the basket.
+- Larry Bird.|- Larry Bird.
+Now, when your opponent has the ball,|where's your focus?
+- The ball?|- Wrong. Where's your focus?
+- His hands.|- Wrong again. His eyes. You lock eyes.
+Eyes will tell you everything|you need to know.
+Hey!
+All right, that's enough for today.
+New shoes, Kali?
+- Something you want to tell me?|- What do you mean?
+- Did you give him money?|- No. Why would you even say that?
+I know about Javier.
+- Look, I was just trying to help, okay?|- Yeah?
+Well, nobody's seen him for over a week,|including his boss.
+Well, how do you know he's not in El Paso?
+How do you know he's not strung out|under a bridge somewhere?
+Let's get you a coat.
+I'll point you to Jesus
+I'll point you to Jesus
+I'll point you to Jesus
+I'll point you to Jesus
+I'll point you to Jesus
+To turn your darkness
+Into day
+Good!
+Can I help you, Pastor Ethan?
+I'm just listening.
+We have plenty of empty seats up here.|Isn't that right, choir?
+Come on over here, Pastor Ethan. Come on.
+You know,|I remember when he was a little boy,
+he used to sit at this piano
+and in between services|he would play songs.
+- Do you still play piano, Pastor Ethan?|- Little bit.
+Well, praise the Lord!
+Come on over here and play for us|so I can conduct proper.
+Come on.
+Come on. Thank you.
+What is wrong with you all?|Come on now, get with it.
+Pastor, do you know Follow Me?
+Yeah.
+Well, I would like to do it up-tempo.|Can you set the tempo, please?
+Go ahead.
+I have a friend indeed
+One who supplies my every need
+Follow me, I'll show you the way
+To turn your darkness into day
+He'll turn your darkness into day
+I just don't know about this cat, baby.
+He's not doing anything wrong.
+He's shown up every day for work|for two weeks.
+He's done everything we asked him.
+Now if I could learn to stop cursing,|surely you could learn to use a computer.
+Yeah, well, you let me know when that|happens and I might let you buy me one.
+Keep going.
+It's just that he's always got his eye|on the audience.
+Whether he's giving away his necktie
+or letting somebody walk off with his jacket,|I just feel like he's waiting for applause.
+Honey, he's a musician.|He's used to applause.
+Well, we both know|he ain't gonna get it down here.
+Soon as he figures that out,|like father, like son.
+You hear that?
+What's going on out there?
+Sounds like music.
+- Follow me|- Follow me
+- Follow me|- Follow me
+- Follow me|- Follow me
+Follow me
+- I'll point you to Jesus|- I'll point you to Jesus
+Yes, I will
+- I'll point you to Jesus|- Point you to Jesus
+- I'll point you to Jesus|- And we'll go there
+- I'll point you to Jesus|- Yes, I will
+- I'll point you to Jesus|- Yes, I will
+- I'll point you to Jesus|- Point you to Jesus
+- I'll point you to Jesus|- Point you to Jesus
+- I'll point you to Jesus|- I'll point you Jesus
+- Yes, I will|- I'll point you to Jesus
+- I'll point you to Jesus|- Point you to Jesus
+Yes, I will, yeah, yeah, yeah
+He'll turn your darkness into day
+Yeah, yeah
+- He'll turn your darkness into day|- Oh, yeah
+Yeah
+Yes, he will
+Yes, yeah!
+That's a real gift you got there,|Pastor Ethan.
+- Isn't that right, Pastor Jake?|- Yes, ma'am!
+The Music Man has come to River City.
+See everybody on Sunday.
+Enjoy him while you can, Miss Burdoe,|he's just on loan.
+Could be a fine match.
+- Amen to that.|- Ask him.
+What are your future plans, Ethan?|Gonna be with us for a while?
+'Cause we sure have seen enough|of those ghetto tourists down here.
+Haven't we, honey?
+Hanging around just long enough|to be able to tell their congregation,
+"I've been there."
+Miss Burdoe, let me walk you to your car.
+You behave.
+Now, Pastor Jake,|don't be messing with my piano man.
+Is that how they teach teamwork|in the pros?
+Humiliate your teammates?
+Are you on my team?
+What do you think|I've been doing down here?
+- Passing out sandwiches, being ball boy?|- That's right. It's all good.
+But you've got the look of a man|that's serving time. Are you on my team?
+I don't have the patience or the heart|to invest in you, Ethan.
+'Cause I know you're gonna walk out on us.|Just like your old man did.
+Maybe it's time to go home.
+- He should have been here by now.|- Relax.
+- Man, he ain't supposed to bring the crew.|- It's cool.
+- I got a bad feeling about this.|- I'm gonna be okay, man.
+Your brother and I got history.
+You made your decision.|He's just gonna have to respect it.
+Tony.
+Just stay out of sight, man. And pray.
+Pastor Jake!
+- Where's Pastor Jake?|- He's not here. What's up?
+I think they killed him.
+Tony.
+Dr. Bruce, telephone, please.|Dr. Bruce, telephone.
+Here at PayDay, we understand|how hard it is when there's an...
+No, you didn't.
+You son of a...
+I'm coming.
+Hey.
+- What's going on?|- I'm okay.
+Hey, what's going...|Hey, what you got on your shirt?
+- I'm okay.|- Ethan!
+The doctor wanted him in overnight.
+And there was no way he wanted to go fight|those kids again.
+I mean, what 19-year-old do we know|who would take someone else's beating?
+Sorry.
+What's that cash doing there?
+It's $500 left over from the painters.
+- Can you re-deposit it for me?|- Write a check.
+Write a check next time.
+Do you like it? It was going to be...
+Do we really need all this stuff?
+It was gonna be a surprise.
+Ethan, you picked this neighborhood.
+You designed this house.
+I told you from the beginning|I didn't need any of this.
+What's going on?
+He would've died for that kid.
+I couldn't do that.
+I think you could.
+You and me taking the kids camping again.
+That's right.
+- You gonna go to the doctor?|- I've been to the doctor, Sonny.
+Well, maybe you should go back.
+- Oh, sorry. Does it hurt?|- Yes, it hurts, Sonny.
+Hurts like hell, all right?
+God doesn't like it when you swear.
+Let's go. Anybody seen Julius?
+Hey, hey.|Start with the trash along the fence.
+Julius!
+Hey, man,|why you climbing in the backyard?
+Don't you know we can come around|the front now?
+Guess you like doing things|the hard way, huh?
+Young blood.
+What's up?
+Gonna get you|some of that great outdoors, huh?
+...they got canoeing|and horseback riding
+and all kinds of games you can play,|and we can go for a hike or two.
+You should've called me.
+Well, he's out.
+Everybody's in. Let's go.
+All right, let's roll out!
+Let's go.
+Kali.
+- What you got in your pocket?|- Nothing.
+Let's see.
+Let me see the bag.
+Man, you been busy.
+What's this?
+Business is picking up.
+Follow me.
+All right, guys, pack it up,|go to the church, right now.
+Tell him how old you are, Kali.
+Go ahead.
+Seven.
+What else you going to tell him?
+Remember? You're going to tell him,|"I quit."
+I quit.
+I don't think he heard you above the traffic.
+I quit.
+Get on back.
+- Yo, I want my ends.|- Your ends?
+You just made a contribution to feed
+about 80 of your less-privileged|brothers and sisters...
+Dude!
+Dude, why you always in my business, man?
+You don't know nothing about me
+and you don't know nothing|about these streets.
+- Give him the money, Jake.|- Yo, the bridge is closed.
+Come on, Jake. Give him the money.
+That's right, shoot the white man|on the bridge during rush hour. Go ahead.
+Check it out,
+$500.
+Beat it, Gucci.|There ain't no cameras up here.
+$500. Just let him go.
+Check it out.
+Oh, Jake. Are you all right?|Let me help you up.
+- Let me help you up.|- Take it!
+- Let me help you.|- I said take it! Take the money.
+You don't want my help?|You can keep your money.
+Albania and the Ukraine|will be operational in six months.
+Nairobi will be in expansion of|our existing compound, same with Bombay.
+Seems like a lot to bite off.
+Well, to me|it seems like an answer to prayer.
+With the infusion of capital|that comes with the city's generous offer,
+we can fund these outreach centers|for five full years
+without touching|our regular operational budget.
+Can't we take a few more days|to pray about it?
+Well, we can take the rest of the year,|but unless the city has our yes
+by 10:00 a.m. Tomorrow, they're gonna|move that stadium site across the river.
+Gentlemen, we knew this deadline|was coming.
+Now, I know this is difficult,
+but we are not here|to make decisions based on emotion.
+"To whom much is given, much is required."
+And good stewardship requires us|to think about God's greater plan.
+Now, if there's no more questions,|I move we bring this to a vote.
+- Second.|- How can we even think of voting
+when the people this affects most|are not even here?
+This is not their decision to make.
+Well, they're going to find out about it|sooner or later.
+You think they're just gonna stand by
+and let the city take|a wrecking ball to their church?
+The city has eminent domain.
+They can do what they want,|with or without any of us.
+This way everyone benefits.|Including Second Chance.
+- So let them at least participate.|- Okay, look, look.
+I am with Parker on this, Todd.
+There is no sense in stirring anything up.
+We don't need any more headlines.
+All in favor?
+Opposed?
+One opposed, two abstentions.
+I don't abstain. I quit.
+Hey, Julius. It's a new day.
+- Thanks for everything.|- You got it.
+- Bye, Julius.|- Bye, Julius.
+Yesterday, Sonny told me that he had|something on his heart
+he wanted to share at staff devotions.
+You ready?
+I've been reading,
+reading in my Bible
+where Jesus did something special|for his friends,
+his best friends...
+Go on.
+Sonny, what are you doing?
+- I need to ask forgiveness.|- What are you talking about?
+Remember when you said it hurt like hell
+- and I said God don't like it when we swear?|- Yeah.
+I was more worried about you saying "hell"
+than about how you was feeling.
+- Well, I shouldn't have said that, Sonny.|- I judged you.
+And I ain't ever been beat up like that.
+I love you, Tony.
+I love you too, Sonny.
+You're my best friend.
+- You pay for that?|- Huh?
+Did you pay for that?
+Hey, give me that backpack.
+You late for school.
+Hey, and I want to start seeing|some rent money from your sorry ass.
+You're not hungry this morning, Jake?
+- No, just wondering why we're here.|- Honey.
+Well, Jake,
+over the past few years we've seen|the hand of God
+do some amazing things|at Second Chance and...
+Well, right now, if you'll all follow me,
+I would just like to share with you|an exciting new vision for your ministry.
+We've doubled the seating capacity.
+We doubled the number of classrooms.
+We got the new dorms for your women's|outreach with entirely separate entrances...
+Where is the church?
+- Well, the sanctuary's here.|- No. Where's our church?
+This is a brand new campus, Jake.
+It's on a piece of property|five miles north of our current structure.
+Check this out, Mrs. Sanders.
+Right here in the center|of the educational wing,
+state-of-the-art kitchen. And we've got
+two new mini-buses|to shuttle people up from the old 'hood.
+Gentlemen, we appreciate the effort|that you put into this,
+but our church|is the backbone of our community.
+Well, without landmark status|the building is,
+it's really just become|too expensive to maintain, I mean,
+to restore it would cost|twice the price tag of all this.
+I'm sorry for all the work|you've put into this,
+but I'm afraid we're going|to have to vote no.
+Jake, the board's already made its decision.
+Parker, what are you putting here?|Hotel, parking lot?
+I see the Mayor's baseball stadium.
+This is a necessary step in rebuilding|our city's urban core.
+- I'm not going to apologize...|- It's an off-ramp.
+They're tearing down our church|for a bigger off-ramp. Unbelievable.
+That baseball stadium|is going to provide economic stimulus...
+For my people!
+My people are lining up to sell hotdogs!
+Pastor, you started Second Chance.
+It's the right time, Amanda.
+God's gonna use|ministries like these everywhere
+to help more needy people.
+Is that how you justify selling us out?
+For what it's worth,|he was outvoted on this by the board.
+For what it's worth, we didn't even|have a say when he ran off to the suburbs.
+I plant churches, Jake. I planted yours.
+And all that good that you see|going on there, I see it at The Rock.
+And I want to see more of it|all over the world.
+It's a global vision, Jake.|We're just trying to be good stewards.
+This isn't about stewardship.
+It's about money and power.
+And I don't believe|Jesus spoke highly of either.
+Well, what about arrogance?
+I guess these things happen|when we keep our damn money.
+You know what makes me crazy|about the Bible?
+It says I gotta love you.
+And right now,
+all I want to do is beat the hell out of you.
+You don't want to lose that, Pastor.
+When I was a young boy of 13...
+When I was a young boy,|I took my pocketknife
+and carved into my bunk bed
+the words of Malcolm X.
+"We didn't land on Plymouth Rock.
+"Plymouth Rock landed on us."
+Those words are still ringing|in my ears today,
+because soon this sanctuary
+will become smashed-up rubble.
+Once again the crushing rock of injustice
+leaves us with a dry, gritty taste|in our mouths.
+Brothers and sisters,
+I'm here to tell you
+that I've traded in Plymouth Rock.
+I've traded it in
+for a Rock that builds me up.
+I've traded it in for a Rock|that gives me dignity,
+courage, and compassion.
+I traded in Plymouth Rock|for the Rock of Ages.
+And when we stand on the Rock of Ages,
+we are required to stand tall|in the face of adversity.
+When we stand
+on the Rock of Ages,
+we are asked...
+We are...
+We're commanded
+- to love our enemies.|- Amen.
+There's a song I learned in this place,|when I was a boy.
+On Christ the solid
+Rock I stand
+All other ground is
+Sinking sand
+All other ground is sinking sand
+Most of you all know
+that I didn't come to Second Chance|by choice.
+I'd spent a lot of years in sinking sand,
+then God called me home.
+And I wanted to serve Him
+as long as I could stay comfortable,
+stay where it's safe.
+Brothers and sisters, I want to thank you
+for teaching me
+that comfort is sinking sand.
+Safety is sinking sand.
+And even this beautiful sanctuary
+wasn't built to last.
+The building isn't the church, is it?
+Jonesy, you're the church.
+Charday, you're the church.
+Sonny, Amanda,
+Tony,
+you all have shown me the love of Jesus
+by being His church.
+And Jake,
+if you'll allow us,
+my future wife Val and I|would love to move into this community
+and be a part of your team
+in whatever way you and the Lord see fit.
+My hope is built
+On nothing less
+Than Jesus' blood
+And righteousness
+I dare not trust
+The sweetest frame
+But wholly lean
+On Jesus' name
+On Christ the solid Rock
+I stand
+All other ground
+Is sinking sand
+All other ground
+Is sinking sand
+- Beautiful old church.|- Yes, it is.
+I wish we could've at least saved|the windows.
+It's a shame.
+Hey, Tony!
+Some dude on the roof.
+Up there.
+What the hell's he doing up there?
+Hey! Hey!
+- Somebody's up there.|- Off the fence, boy.
+- Somebody's up there.|- Get down off of this fence right now!
+- Get down off the fence.|- There's somebody up there.
+- Dad?|- There's somebody up there.
+- You need to calm down.|- I didn't see you.
+You need to calm down|before I have you restrained.
+No. No.
+Are you coming?
+Hold up, now. You better stay down here.
+You know your momma's gonna|kill us both, right?
+You need to get here. Okay.
+Can you open up?
+- Mr. Mayor...|- Yes.
+- Who's in charge here?|- I think he is.
+Whoa!
+Time to get some shoes|with better traction, Gucci.
+- Yeah.|- Got it?
+Got it.
+Yeah, he's a good man.
+I guess something just happened to him.
+Hey, Chief. We got a situation.
+Pastor!
+Don't get up. Don't get up.
+Dad, what are you doing?
+Studying for next Sunday's sermon.
+So why are you studying up here?
+If I'm not studying here,|this church is coming down.
+I remember you.
+This is city property.
+You are required|to vacate the rooftop, immediately.
+Okay.
+Do something.|Just get these people out of here right now.
+This is turning into a sideshow.
+I need all of you to leave the area.
+I repeat, you are required|to leave the area at once.
+What is she doing?
+They sitting down?
+No, no, no, no.
+Jake, you remember the last time|we were up here?
+We needed a new lightning rod.
+But we didn't have any money,
+so we wired up that cross.
+I want to remember what it's like|to be that lightning rod.
+To fear absolutely nothing|but God Almighty.

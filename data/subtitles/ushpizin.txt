@@ -1,1150 +1,1150 @@
-{1}{1}25.000
-{678}{768}Gilgamesh Productions|presents:
-{783}{868}A film by Gidi Dar|and Shuli Rand
-{891}{976}Ushpizin
-{1000}{1101}Lulavs, citrons, myrtles!
-{1458}{1498}How much for this?
-{1608}{1671}This citron is worth|at least 300 Shekels.
-{1673}{1778}So bring another inspector!|Some would say even 500.
-{1785}{1862}You want the truth?|100 Shekels, thaùs all.
-{1867}{1929}OK, Wasserman.
-{1943}{1981}Next.
-{2079}{2142}Look at this one.
-{2206}{2251}What do you say?
-{2356}{2464}Marvelous! Really marvelous!
-{2466}{2521}How much do you|think iùs worth?
-{2527}{2616}Iùs been years since|I've seen one so beautiful.
-{2673}{2766}I told you, no one else|has citrons like this.
-{2770}{2846}Excuse me.|- Yes, rabbi, how can I help?
-{2848}{2895}May I look at the citrons?|- Look over there,
-{2897}{2961}there are some for 30,|40, 50. Very nice ones.
-{2989}{3070}So, what do you say,|at least 500 Shekels, no?
-{3073}{3156}More.|- How much, then?
-{3163}{3232}This citron can get you... at|least...
-{3234}{3332}800, even a 1000.|- A thousand?!
-{3335}{3379}Who'd give a thousand|for a citron?
-{3381}{3426}They'll give, they'll give.
-{3503}{3533}May I have a look|at this one?
-{3535}{3594}Iùs not for you, rabbi;|its expensive.
-{3596}{3638}Can I look?
-{3708}{3765}Easy... Easy.
-{3821}{3860}May I?
-{3963}{4003}How much did you say?
-{4005}{4041}A thousand Shekels.
-{4047}{4114}This really is|a beautiful citron.
-{4218}{4303}You're not buying?|- With GoÔs help.
-{4347}{4398}Next...
-{4837}{4888}Hello, Moshe. - Hello, Ben Baruch.|- How are things?
-{4892}{4934}Could be better.
-{4941}{4990}Whaùs with the long face?|Yom Kippur's over!
-{4992}{5072}Did you build a Succah?|- How? I'm dead broke.
-{5075}{5158}Citron, lulav? 4 species?|- Nothing, don't you get it.
-{5160}{5231}Wake up!|The Holiday is tomorrow!
-{5233}{5285}Any way you can help me,|Ben Baruch?
-{5288}{5350}No, really not.|- Come on, Ben Baruch
-{5356}{5402}I spent it all on wood.
-{5505}{5546}If I hear of something,|I'll tell you.
-{5553}{5579}Moshe...
-{5616}{5669}Give us a smile.
-{5781}{5877}What can I tell you, Father.|The situation stinks.
-{6451}{6538}Merciful Father, make him go away.|I can't take it anymore.
-{6540}{6641}Make him go away, please...|Make him go away...
-{6683}{6755}Thank you, Father.|Thank you very much.
-{6847}{6927}I told you, I'm not built for|working in the sun.
-{6929}{6970}I suffer from migraines.
-{6972}{7066}So work the city;|go to houses, restaurants;
-{7068}{7137}"When the evil urge|provokes one to anger,
-{7139}{7199}"at that moment, good|wants to descend from above.
-{7201}{7247}"The evil urge|wants to ruin that.
-{7249}{7323}"Thus, one should always|guard himself against anger.
-{7325}{7427}"Not to ruin the good that|Heaven wants to bestow."
-{7429}{7560}Oh man. You have to keep|your eyes wide open.
-{7562}{7633}We're all being|constantly tested.
-{7693}{7733}Iùs not allowed.|- What?
-{7735}{7797}This.|- Who told you that?
-{7799}{7845}They announced|you can't smoke in here.
-{7848}{7916}And what does a smoker do?|- He goes to the balcony.
-{8198}{8297}How's it going, Moshe?|- Terrible! His name be praised.
-{8299}{8387}I couldn't do anything. I tried.|- I'm sure you did.
-{8433}{8510}What do they give, Moshe?|Pennies, nothing.
-{8513}{8586}Nothing for you, maybe.|For me, iùs everything.
-{8588}{8648}I promised my wife I'd bring|home some money today.
-{8650}{8691}I can't face her.
-{8693}{8771}900 shekels would at least|get me through the holiday.
-{8791}{8895}What can we do? We'll pass|this, too. Thaùs His will.
-{8974}{9062}I can't go back there.|- You don't have a choice.
-{9065}{9119}Why are you standing there?|We'll be late.
-{9121}{9181}I can't, Yossef.
-{9184}{9226}The smell...
-{9231}{9284}The smell is killing me.
-{9287}{9393}Whaùs Lysol made from?|- I know? From Lysol.
-{9457}{9539}Thaùs why I hate|going on leave.
-{9541}{9584}I hate going back.
-{9586}{9658}What are you doing? - I'm going.|- Going where? - Home!
-{9661}{9718}They'll catch you in no time.
-{9720}{9809}Not home, then! To hell!|Just not there.
-{9894}{9928}Wait up!
-{9998}{10023}Wait up!
-{10303}{10406}This is perfect for you.|- How much is it?
-{10408}{10485}Only 40 Shekels.|- 40 Shekels?
-{10487}{10541}Iùs handmade.|I sell them for 60.
-{10544}{10596}40 is a special price,|for neighbors.
-{10806}{10843}What is it?
-{11052}{11097}Mali, iùs me, open up.
-{11414}{11511}OK. I'll be off now.|- Well, do you want it?
-{11513}{11606}Iùs a bit expensive.|- Make it 30, then.
-{11609}{11716}I'll consult my husband.|See you. Thanks.
-{11718}{11767}So long, Mrs. Neiman.
-{11833}{11902}She buy anything?|- Don't count on it.
-{11904}{11953}Rothman was here.|- What did he want?
-{11955}{12011}He wanted his rent!
-{12013}{12070}Could you give him something?|I can't take it any more.
-{12073}{12120}Where will I get|the money from?
-{12190}{12268}Have you been to the Yeshiva?|- Yes.
-{12288}{12326}And?|- What?
-{12344}{12393}What do you mean, what?
-{12395}{12460}Souisa's wife told me|they got the money!
-{12462}{12517}We have nothing, honey.|- What?
-{12519}{12552}The supervisors had a meeting.
-{12554}{12613}They decided not to give me|anything this month.
-{12746}{12845}Who decided? Why?|- I wasn't there enough.
-{12853}{12913}And what did you say?|- What could I say...
-{12918}{12972}You said nothing?|- What could I tell them?
-{12976}{13010}Sure you said nothing!
-{13012}{13078}You played the saint,|accepting it all with love!
-{13081}{13144}You want me to start arguing?|That was their decision.
-{13147}{13196}Whose decision?|- Thaùs what God wanted.
-{13198}{13235}Stop! Give me a break!
-{13237}{13297}Maybe God wanted you|to stand up for yourself?!
-{13299}{13346}You know why they|didn't give you the money?
-{13348}{13395}They knew that|you'd let it pass.
-{13443}{13492}Leùs see them not give|Souisa the money!
-{13494}{13549}He'd burn down the Yeshiva!|- Enough!
-{13554}{13599}I don't understand|what you want.
-{13602}{13663}What do you want me to do?|Start hitting people?!
-{13666}{13721}We became religious,|we don't behave that way.
-{13723}{13785}God will help!|Do we have faith or not?!
-{13790}{13893}Be quiet there!|- OK, Weisglass, we heard you.
-{13897}{13972}You're not alone here!|- You're right.
-{14048}{14101}Blessed are You, Lord our|God, King of the universe,
-{14103}{14143}Who sanctified us with His|commandments
-{14145}{14201}and commanded us regarding the|washing of hands. - Amen.
-{14452}{14524}Don't be upset, sweetheart.|I promise you, God willing,
-{14526}{14633}we'll live to see a table|laden with delicacies... - Amen.
-{14643}{14669}And a baby boy.
-{14671}{14708}Stop it...
-{14880}{14932}What do we do about a Succah?
-{14978}{15058}God will not forsake us.|We'll have a Succah.
-{15062}{15088}Tomorrow's Succoth eve.
-{15090}{15137}I heard a nice saying|today by Rabbi Nathan...
-{15139}{15268}how did it go..."Wherever|something is lacking,
-{15271}{15331}"I know that either|it wasn't prayed for,
-{15333}{15401}"or that it wasn't|prayed for enough."
-{15421}{15494}Nice, isn't it?|- Nice.
-{15593}{15666}Then, why don't you go pray?|- What, now?
-{15668}{15735}When else? Tomorrow is|Succoth eve.
-{15737}{15813}I wanted to get some sleep.|- Enough with this sleeping.
-{15815}{15876}I'm beat, I'm telling you.|I stayed up all night.
-{15878}{15931}So why are you bringing in|Rabbi Nathan?
-{15933}{15971}Empty words!
-{15974}{16054}Tomorrow is Succoth eve,|don't you get it? Go pray.
-{16119}{16153}Go on.
-{16545}{16583}We need a miracle.
-{16637}{16678}We will see miracles, Moshe.
-{17996}{18078}Truth be told, God Almighty,|I'm down in the dumps.
-{18128}{18241}OK, I know you hate sadness,|but I'm sad as can be.
-{18273}{18319}I'm all sadness.
-{18327}{18373}A lump of sadness.
-{18395}{18492}Not that I think you owe me|anything, God Almighty,
-{18498}{18597}but I don't understand.|I really don't understand.
-{18604}{18650}Sometimes I don't know what|you want from me.
-{18652}{18701}Sometimes I think that|you're a bit rough on me,
-{18703}{18748}a bit on my case.
-{18769}{18823}"I shall cry,
-{18825}{18923}and He will pay|heed..."
-{18953}{19051}To be a good Jew, thaùs all.|Don't want anything more.
-{19053}{19116}I want to have a Succah,|a lulav, 4 species,
-{19118}{19195}food for the Holiday.|Not too much for you, is it?
-{19283}{19338}If not for my sake,|then for my wife's.
-{19340}{19375}Honestly, what has|Malka Bat Mazal
-{19377}{19412}done to offend you?
-{19431}{19518}Poor woman, she loves|and respects you so much.
-{19521}{19573}What does she have?|What do I bring her? Nothing.
-{19575}{19646}The Torah?|I don't give her anything.
-{19649}{19742}Do I make a living?|Did I give her a child?
-{19772}{19849}Six, seven, eight...
-{19873}{19920}Hi Zwible.
-{19929}{19979}Did you deliver everything?|- Almost.
-{19981}{20037}I still have 1000 dollars.|- How come?
-{20039}{20130}The old man from Musrara|passed away.
-{20158}{20243}I heard! I forgot to tell you.
-{20249}{20303}May he rest in peace.
-{20313}{20393}So here's 1000 dollars.|What do I do with it?
-{20398}{20457}You'll find someone|to give it to.
-{20459}{20544}Zwible, I want to wrap it up;|I have to go out of town.
-{20588}{20680}There you go; I'm sure|you'll find someone here.
-{20794}{20838}I don't know...
-{20846}{20888}Pick a number.
-{20890}{20962}What do you mean?|- Come on, pick a number.
-{20970}{21060}Do I know... 35.|- Start counting.
-{21257}{21318}God Almighty...|We need a miracle.
-{21343}{21410}A miracle, God Almighty,|a miracle
-{21414}{21479}Please, a miracle,|Lord of the universe...
-{21489}{21548}Please, a miracle...
-{21573}{21656}Our holy Rabbi Nahman|from Breslau, God Almighty,
-{21658}{21731}in his virtue, hear our|prayer, give us a miracle...
-{21843}{21875}A miracle...
-{21878}{21932}"He leads me beside|the still waters..."
-{21934}{22014}A miracle, God Almighty,|a miracle, a miracle...
-{22028}{22093}"I shall fear no evil|for you are with me..."
-{22288}{22333}Moshe Belanga... you know him?
-{22335}{22366}Yes...
-{22368}{22469}From around Shmuel Hanavi?|- Yes, I think I know him!
-{22471}{22586}A Breslau Hassid... Oh, well.|I'll go there now.
-{22604}{22669}May you be rewarded.|- Stay well.
-{22958}{22998}Where were you?!|- Whaùs the matter?
-{23000}{23039}I've been looking|for you all day long!
-{23041}{23157}I've been praying.|- You prayed well, my friend.
-{23160}{23212}What is it?|- I found a Succah for you.
-{23214}{23265}Get out...|- Iùs out of this world!
-{23267}{23352}You won't believe it, thaùs|what I prayed for. Where is it?
-{23354}{23418}Remember where the old|Yeshiva office used to be?
-{23420}{23480}Hold it. Whose is it?|- Nobody's. - How come?
-{23482}{23528}It belonged to Gabay.|But he isn't using it.
-{23530}{23562}Are you sure?|- I'm sure!
-{23564}{23624}Iùs a Succah like you|wouldn't believe, come on!
-{23634}{23691}But how will we move it,|with movers? I'm broke.
-{23693}{23748}God sent you a Succah,|he'll send a truck!
-{23911}{23971}May you have an accident.
-{25353}{25444}Nothing beats freedom.|- Jerusalem.
-{25448}{25539}How did we end up here?|- C'mon, iùs the Holy City.
-{25541}{25575}Holy city?|Iùs a pile of stones.
-{25578}{25667}Don't turn around,|a pig just walked in.
-{25732}{25772}Maybe they're|already looking for us.
-{25774}{25877}Relax, who cares about you.|You think you're Al Capone?
-{25908}{25945}He's sitting down.
-{25947}{26003}Breathe, enjoy the freedom.
-{26005}{26074}And then what? You know|anybody in Jerusalem?
-{26077}{26120}I had an aunt up here...
-{26122}{26187}But she's dead.|- So why did we come here?!
-{26190}{26247}Good evening.|Are you into spirituality?
-{26262}{26312}Sorry, bro, I'm broke.
-{26314}{26355}Thaùs OK. Iùs the|thought that counts.
-{26362}{26456}Come here a second.|- Yes?
-{26522}{26610}Let me see the box.|- There you go.
-{26631}{26696}"The Hidden Light."|- The Hidden Light.
-{26698}{26754}Are you from this Yeshiva?|- I am, praise God.
-{26758}{26824}Breslau, right?|- Yes, Breslau.
-{26827}{26886}Know a guy named Moshe?|- Which Moshe?
-{26888}{26930}There are lots of them.
-{26932}{26988}Moshe Belanga, from Eilat,|tall guy, know him?
-{26990}{27026}Yeah, sure, he studies there.
-{27058}{27142}Where's "there," man?|- Shmuel Hanavi Street.
-{27146}{27254}If I go there now, I'll meet him?|- No, bro, iùs already late,
-{27256}{27318}but you could probably find|him there tomorrow morning.
-{27489}{27535}Bless you, brother.
-{27608}{27655}Who is this Moshe guy?
-{27694}{27748}Moshe Belanga.
-{27766}{27822}A friend.|- Close friend?
-{27824}{27874}If we find him,|we've got it made.
-{27882}{27940}Many roads I've taken
-{27947}{28007}Searchin' for some truth
-{28018}{28086}And I never hesitated
-{28090}{28156}Doin' things I shouldn't do
-{28175}{28249}We didn't find ourselves
-{28253}{28326}Don't want to be a liar
-{28329}{28396}This culture isn't for us
-{28401}{28467}Our hearts are full of fire
-{28471}{28541}And I am so small
-{28548}{28618}Most wretched of them all...
-{28703}{28745}You got a splinter?
-{28774}{28819}I'm going for a second.|- Where to?
-{28821}{28878}To make my wife happy.|She was worried about the Succah.
-{28880}{28920}Go, go...
-{28979}{29093}I stand here,|in wonder and awe.
-{29112}{29274}For you are holy,|and your name is holy,
-{29299}{29447}Saints praise your name|by day and by night...
-{29449}{29623}For you are holy,|and your name is holy,
-{29628}{29778}Saints praise your name|by day and by night...
-{29839}{29918}Moshe, you saint,|God loves you so much!
-{29920}{29992}Are you OK? Everything's OK?|- Better than OK.
-{29994}{30041}Remember what I told you|before you left?
-{30128}{30180}Whaùs this?|- Open it.
-{30254}{30294}Whaùs this? Whose is it?
-{30296}{30342}Someone slipped it|under the door.
-{30345}{30405}Who's 'someone'?|- Don't know, didn't look, read!
-{30463}{30531}"Rabbi Moshe Belanga,|Happy Holiday,
-{30533}{30648}"Accept this gift,|which need not be repaid..."
-{30708}{30780}How much is there?|- A thousand dollars.
-{30789}{30826}Are you sure?
-{30834}{30909}I've counted it 30 times.|An even thousand.
-{31042}{31098}Do you understand what|has happened here, my wife?
-{31100}{31146}See the power of prayer?
-{31283}{31384}Iùs a miracle,|a real miracle.
-{31417}{31488}Blessed be the Lord|who listens to prayers.
-{31495}{31571}A miracle. - Blessed be the Lord|who listens to prayers.
-{31580}{31640}I don't believe it. A miracle!
-{31643}{31701}Iùs a miracle.|- A miracle!
-{31705}{31760}A downright miracle!
-{31763}{31824}1000 dollars,|His name be praised!
-{31827}{31906}God Almighty, you're for real!
-{31909}{31973}You did it big time!|- Father, thank you.
-{31975}{32033}It is a miracle.|I can't believe it!
-{32059}{32122}Father, thank you,|thank you very much!
-{32124}{32221}It was a miracle.|A miracle, God Almighty!
-{32253}{32308}This should be enough, right?|- Big time.
-{32311}{32369}Look, I have it|all mapped out:
-{32371}{32437}We'll pay back what we owe,|and with whaùs left,
-{32439}{32492}Leùs make a big, beautiful|Succah for the Lord.
-{32521}{32570}Moshe, whaùs wrong?|- Wait a second.
-{32631}{32727}Have a look at something.|See that? Iùs ours.
-{32730}{32792}Ours? From where?
-{32864}{32953}Sing for Him, chant for Him,|talk of all His wonders...
-{32955}{32993}Like that?|- Only like that!
-{32995}{33091}Sing for Him, chant for Him,|talk of all His wonders...
-{33165}{33202}Moshe!
-{33291}{33331}A tenth for charity.
-{33344}{33434}Ben Baruch! Ben Baruch!
-{33436}{33473}Whaùs wrong?
-{33625}{33673}Whaùs with you, Moshe?|Have you lost it?
-{33678}{33752}Ben Baruch, how righteous|the Lord is, how merciful!
-{33755}{33823}How righteous! Take!
-{33838}{33873}Take it!
-{33892}{33922}Iùs a lot of money, Moshe.
-{33924}{33966}The lord has sent it to you!|Take it!
-{34053}{34101}Why did we stop dancing?|- Beats me!
-{34104}{34210}Sing for Him, chant for Him,|talk of all His wonders...
-{34347}{34448}They just took it?|- They came with a pickup truck.
-{34453}{34504}And you didn't tell them it|was mine?
-{34506}{34595}I did, and they said it was OK.|- Nobody told me anything.
-{34621}{34696}Do you know them?|- It was that Breslau guy,
-{34698}{34753}that goes around in the|morning with the charity box.
-{34818}{34881}Ben Baruch...|- Yes, Ben Baruch.
-{35268}{35315}Some people...
-{35431}{35467}Wow, iùs huge.
-{35474}{35529}Thaùs good. Maybe God|will send you guests.
-{35545}{35576}Does it fit?
-{35772}{35820}Too bad, we lost|the door knob.
-{35975}{36020}Enough?|- No, bring more.
-{36033}{36062}When will you pay?
-{36064}{36132}You worried, Elazar? Lùll be OK.|Bring some more.
-{36980}{37063}May I help you?|- We're looking for Moshe Belanga.
-{37068}{37134}Is he here?|- Not right now.
-{37171}{37261}Thaùs his sister's kid.|Could you help us find him?
-{37264}{37339}Sure, with pleasure.|- Thanks, man.
-{37520}{37576}Is it sold?|- I beg your pardon?
-{37579}{37668}That nice citron, is it sold?|- We have lots of nice ones.
-{37670}{37754}No, I mean the nicest one.|It went for 1000 Shekels.
-{37757}{37869}He means 'the diamonÔ.|- Yes, that 'diamonÔ. Sold?
-{37871}{37913}Iùs right here.
-{37943}{37976}Leùs have it.
-{38048}{38094}There's a thousand.
-{38393}{38445}How sweet is the Lord.
-{38474}{38500}Happy Holiday.
-{39002}{39051}Where have you been?|Iùs almost Succoth!
-{39086}{39171}Shopping... Nick of time.
-{39589}{39629}This is for you.
-{39722}{39749}For me?
-{39959}{40066}Iùs perfect. You shouldn't have.|- Put them on...
-{40614}{40657}Have a look at something.
-{40799}{40829}Iùs lovely.
-{40841}{40911}'Lovely'? Just 'lovely'?
-{40947}{40989}Iùs The Diamond.
-{40991}{41073}The Diamond?|- Thaùs what they call it.
-{41098}{41152}The most beautiful citron|in Jerusalem.
-{41192}{41226}Let me see a second.
-{41329}{41369}How much did it cost you?
-{41438}{41494}You want the truth?|- Only the truth.
-{41543}{41576}One hundred?
-{41598}{41657}You're out of your mind.|- I had to.
-{41660}{41705}Moshe, you're out of your mind!|- I had to.
-{41708}{41752}Moshe, you're crazy.|- I had to!
-{41754}{41797}But 1000 Shekels for a citron?
-{41812}{41861}Honey, don't get angry.
-{41913}{41959}Iùs a 'blessing'|for having boys.
-{41997}{42054}Says who?|- Iùs written in the books.
-{42056}{42107}A beautiful citron is|a blessing for having boys.
-{42137}{42196}I better go before they close|the mikveh (ritual baths).
-{42445}{42531}The earrings look good on you.|- Thanks.
-{42533}{42572}What am I without you?
-{42575}{42667}Nothing. A half-person.|- OK, OK, Moshe.
-{42705}{42766}Happy Holiday.|- Happy Holiday, Moshe.
-{43261}{43300}Why is the door open...
-{43668}{43699}Moshe!
-{43723}{43803}I can't believe it!|Iùs Moshe!
-{43818}{43894}Eliyahu, iùs really you!
-{43915}{43949}What are you doing here?
-{43964}{44055}Visiting. I've missed you.|Is that illegal?
-{44058}{44091}God forbid.
-{44132}{44169}You don't seem too happy.
-{44171}{44253}No, I just thought|you were still doing time.
-{44274}{44331}Thaùs it? They released you?
-{44373}{44446}Praise God. 'I've paid|my debt to society.'
-{44448}{44481}Praise God.
-{44497}{44594}What a surprise. Who's this?|- Yossef. A close friend.
-{44639}{44695}Welcome.|- Pleased to meet you.
-{44713}{44807}Eliyahu Scorpio. I don't|believe it.
-{44814}{44868}How long has it been? Years...
-{44871}{44905}We're in Jerusalem on business,
-{44907}{44948}so I said to Yossef|I have to see you.
-{44951}{45019}Wait... how did you find|out where I lived?
-{45021}{45081}They told us in your Yeshiva.
-{45083}{45121}Is this a bad time?
-{45156}{45237}Just a minute,|let me get this straight.
-{45240}{45298}Where are you spending|the Holiday? In Jerusalem?
-{45300}{45342}We don't know yet.|Maybe in Tel Aviv.
-{45344}{45430}Whaùs in Tel Aviv?|Succoth in Jerusalem.
-{45433}{45524}Is anything better than that?|- The Holy City, after all...
-{45545}{45586}Be my guests.
-{45623}{45689}What, and just crash|your Holiday?
-{45692}{45760}Crash my Holiday? If you|only knew how I prayed
-{45762}{45828}that the Lord would send me|guests to the Succah.
-{45830}{45896}And such guests he sent!
-{45923}{46024}Praise God. Set the table|for four. We have guests.
-{46028}{46089}Guests? Who?|- Friends.
-{46100}{46155}From the Yeshiva?|- No. From the old days.
-{46157}{46198}Actually, iùs one friend|and his friend.
-{46202}{46249}Where are the yarmulkes?|I put them here.
-{46336}{46402}Which friends from|'the old days'? - Mali, iùs OK.
-{46405}{46461}Where did I put the yarmulkes?
-{46542}{46622}The mikveh is about to close.|- From way back?
-{46626}{46681}Mali, Iùs OK.|They're OK people.
-{46778}{46808}Thanks.
-{46946}{47015}You don't look happy.|- Sure I am.
-{47017}{47060}I didn't prepare|for guests.
-{47062}{47108}What can I do?|Do we run the world?
-{47110}{47181}God sent guests to our Succah.|Should we send them away?
-{47184}{47256}They'll wash hands|and bless the food.
-{47258}{47346}They'll sit in a Succah, maybe|for the first time ever!
-{47348}{47400}Does it get any better than that?
-{47402}{47459}You tell me, does it?
-{47478}{47538}You're all glowing.|- Like a torch.
-{47541}{47667}I feel that we are about to|receive abundance from Heaven.
-{47681}{47713}God willing.
-{47736}{47811}Happy Holiday.|- Happy Holiday, sweetheart.
-{47825}{47900}Say, Moshe, whaùs with the hat?|- The shtreimel?
-{47903}{47943}You wear it on Shabbat,|or Holidays.
-{47945}{47992}Whaùs it made of? Cat fur?
-{47995}{48098}No. Fox tails.|- Get out of here!
-{48100}{48145}Where do they|get that many foxes?
-{48147}{48168}From abroad.
-{48170}{48228}What, no foxes in Israel?|- Where do we have foxes?
-{48231}{48280}We do. In the desert.|- How many? Seven?
-{48283}{48352}They bring it from abroad.|Thaùs why iùs so expensive.
-{48354}{48403}How expensive?|How much for one?
-{48405}{48455}There are all sorts.|- How much is yours?
-{48457}{48519}Mine is nothing special.|Iùs old. Second hand.
-{48521}{48561}Looks like a flat tire.
-{48563}{48618}Eliyahu, don't dare talk|that way about my shtreimel.
-{48632}{48696}How much is that one?|- Could run up to 2000 dollars.
-{48701}{48755}2000 dollars?|I don't believe it.
-{48799}{48845}Did you hear that,|Eliyahu?! 2000 dollars!
-{48847}{48919}What did you think?|Until you catch the fox,
-{48921}{48990}relax him, skin him...|Ioads of work.
-{48992}{49075}And if I bring you 10 pieces,|can you fence them?
-{49142}{49198}Yossef has a criminal mind.|Iùs in his blood.
-{49200}{49267}You go by on a motorcycle,|you can snatch a dozen.
-{49269}{49327}Moshe knows people;|he could fence them easy!
-{49329}{49394}This street alone is worth,|roughly, 200,000 dollars.
-{49397}{49440}Thaùs not peanuts.
-{49457}{49498}Snap out of it, Yossef.
-{49543}{49601}Don't talk like that|around my wife.
-{49608}{49646}Just kidding.|- Don't.
-{49649}{49736}She's not into that.|No jail, no holdups, nothing.
-{49746}{49837}Moshe, don't worry, we'll|pretend we met in college.
-{49839}{49908}No 'I did time,' no 'we did time,|'None of that talk.
-{49910}{49946}Trust me, Moshe.
-{50323}{50378}Happy Holiday!|- Happy Holiday!
-{50380}{50466}Eliyahu, Yossef.|Our Ushpizin.
-{50491}{50556}Pleased to meet you. I'm Mali.|- Pleased to meet you.
-{50563}{50625}Come Yossef, sit here.|Come in, Eliyahu.
-{50641}{50696}Make yourselves at home.
-{50937}{51005}So?|- Far out.
-{51017}{51129}King of the universe,
-{51131}{51208}King of the universe,
-{51219}{51308}Who creates the fruit|of the vine. - Amen.
-{51325}{51439}Blessed are You, Lord our|God, King of the universe,
-{51445}{51572}Who chose us amongst nations,|Who gave us a holy tongue,
-{51574}{51628}Who sanctified us|with His commandments...
-{51630}{51777}And lovingly set forth,
-{51779}{51889}joyous holy days...
-{51893}{51984}such as this Succoth|holiday...
-{51997}{52135}A time to rejoice and remember|the Exodus from Egypt.
-{52265}{52318}Have some more.|- Gladly.
-{52335}{52428}Oh, the fish. Heavenly.|- To your health.
-{52430}{52490}You made it, Moshe?|- Heaven forbid. It was her.
-{52493}{52563}Bless those hands.|- Thanks.
-{52576}{52642}I like this 'kiddush' thing.|- Give me your glass.
-{52741}{52788}Watch it with him, Moshe.
-{52934}{52991}Whaùs with the looks?|Iùs just wine!
-{53265}{53346}Why has the Lord commanded|us to stay in the Succah?
-{53349}{53417}Not only stay there,|but everything:
-{53419}{53488}Eat, drink, sleep,|all in the Succah.
-{53491}{53559}Why is that?|God wanted us to feel
-{53561}{53663}that just as the Succah|is a temporary dwelling,
-{53666}{53754}so is this world,|temporary, passing,
-{53756}{53816}where we're merely guests.
-{53825}{53871}Now, he also explains...
-{53873}{53930}Man, you're heavy, Moshe.
-{53993}{54036}Well, OK. I'm done.
-{54081}{54124}Go on, Moshe. I want to hear.
-{54126}{54208}No, iùs OK. I'm done.|- Why? Iùs interesting.
-{54210}{54261}Say, iùs all there, in the book?|- Iùs all there.
-{54263}{54296}Let me have a look.
-{54414}{54478}Watch it, Yossef, you'll|end up finding God.
-{54512}{54543}Why not?
-{54554}{54597}The yarmulke suits him, no?
-{54655}{54698}Why not, really?
-{54700}{54818}Iùs not a bad life.|This temporary stuff's cool.
-{54821}{54906}You do your permanent stuff,|then we can talk temporary.
-{55168}{55261}I'm hungry. I had 3 helpings,|and I'm still hungry.
-{55263}{55296}There's plenty more.
-{55310}{55346}I'll clear the dishes.
-{55437}{55471}I'll get this...
-{55527}{55568}How long you been married,|Moshe?
-{55583}{55643}Almost 5 years.
-{55676}{55719}Hey, we haven't met in ages.
-{55721}{55792}Ages!
-{55854}{55903}What about kids, Moshe?
-{55989}{56042}None.|- How come?
-{56072}{56160}With GoÔs help.|I don't pray enough for it.
-{56196}{56262}With GoÔs help.|- But you have to!
-{56267}{56333}Iùs a commandment, right?|- Sure it is: 'Pru U'rvu'.
-{56335}{56380}Be fruitful and multiply...
-{56383}{56479}'Children are such joy... '|- Will you quit it, Yossef?
-{56482}{56523}Eat. Give him some bread.
-{56806}{56861}Don't know whaùs wrong with me.|I can't stop eating.
-{56863}{56939}Don't fill up on salad.|The meaùs on its way.
-{56962}{57022}You know what,|maybe she needs help.
-{57024}{57061}Wait, I'll be right back.
-{57246}{57285}Nice guy, huh?
-{57341}{57455}Don't be fooled. I don't|buy this saint routine.
-{57495}{57561}I know Moshe Belanga.|- People change.
-{57578}{57694}When did you last see him?|- Doesn't matter. I raised him.
-{57710}{57750}We were close like this.
-{57805}{57938}If he only thought you said|the wrong word, he'd attack.
-{57967}{58026}And I don't mean just attack,|I mean ATTACK!
-{58042}{58089}So now he's Moses?
-{58170}{58255}Whaùs the matter?|- Leave me alone.
-{58257}{58306}Whaùs with the face?|- What face?
-{58309}{58339}This one.
-{58424}{58491}The meaùs getting cold.|Leùs take it to the Succah.
-{58537}{58597}So they aren't exactly|the Holy Ushpizin, so what?
-{58609}{58639}So what?
-{58693}{58727}Are we any better?
-{58768}{58802}Iùs not just that.
-{58818}{58853}What is it, then?
-{59027}{59139}We will have a child.|- I'm not so sure anymore.
-{59172}{59257}We will have a child.|- You have to go, Moshe.
-{59259}{59354}I don't want to go.|I want a child with you.
-{59368}{59420}Like that?|- Only like that.
-{59536}{59607}Now leùs get to the Succah,|before Eliyahu eats the table.
-{59645}{59720}Did you see how|they attacked the fish?
-{59723}{59774}I wish them good health.
-{59815}{59865}Tell me, who are they?
-{59869}{59929}Eliyahu is from Eilat.|Yossef, I don't know him.
-{59943}{59997}And you didn't know|they were coming?
-{60034}{60087}So how come they|showed up like that?
-{60224}{60274}Aren't you drinking,|Moshe?
-{60276}{60338}Nothing left.|You finished it off.
-{60370}{60423}Where's the strong stuff?
-{60431}{60498}You want some strong stuff?|- Do you have any?
-{60500}{60573}What do you think?|I'd go without?
-{61320}{61380}Enough.|- You've hardly had any.
-{61383}{61482}I've had enough.|- I can't believe it, Yossef.
-{61527}{61592}If you only knew|who this man is.
-{61615}{61701}He could toss back two|bottles without twitching.
-{61704}{61759}What happened?|Does the Torah forbid it?
-{61761}{61830}No, a little bit is fine,|a lot is forbidden.
-{61853}{61885}Last one.
-{62148}{62223}Good night.|- Good night.
-{62242}{62277}Good night, Mali.
-{62360}{62413}How will I make it|to synagogue tomorrow?
-{62416}{62473}Every day, Moshe? No skipping?
-{62475}{62534}Skipping? Why skipping?|Tell me, Eliyahu, seriously,
-{62536}{62590}do you know what light will|descend upon us tomorrow?
-{62592}{62637}Rabbi Nahman from Breslau|says that
-{62639}{62745}the light descending is beyond|spirit, soul: Endless light!
-{62747}{62797}A light that can never|be conceived. By the mind.
-{62799}{62822}Except for one thing.
-{62825}{62910}You know how one can conceive it?|Only through faith. Only...
-{62912}{62972}You know what|I'm remembering now?
-{62985}{63050}Now, as we're sitting here,|drinking...
-{63052}{63159}That time, in the restaurant,|'The Fisherman's Boaù?
-{63168}{63243}There were lots of times.|- No!
-{63287}{63343}The time with the Americans,|remember?
-{63358}{63457}Eliyahu, leùs not reminisce,|OK?
-{63467}{63518}You hearing this, Yossef?
-{63560}{63627}Just to give you an idea of|who this man is,
-{63670}{63767}we're sitting, drinking,|having fun, when suddenly,
-{63769}{63815}three Americans walk in,
-{63818}{63952}big guys, huge, totally drunk.
-{63977}{64061}We see they're making|fun of us. Provoking us.
-{64072}{64146}I see Moshe starting|to heat up,
-{64184}{64277}and when he heats up,|there's nothing you can do.
-{64279}{64343}One of them steps up.
-{64358}{64457}Before he knows what hit him,
-{64460}{64517}Moshe...
-{64661}{64762}You remember, Moshe?|Blood gushing...
-{64772}{64801}Eliyahu, what are you doing?
-{64803}{64898}I'm telling Yossef who you are.|- OK, but no need to break bottles.
-{64900}{64941}Drop what you're holding.|- Whaùs wrong?
-{64948}{64997}Drop what your holding!
-{65315}{65357}You fight?
-{65385}{65429}Hard to believe.|- This is nothing!
-{65432}{65501}And this whole act.
-{65503}{65535}And this whole act.
-{65701}{65754}Moshe Belanga...
-{65927}{65976}The entire City of Eilat|was afraid of him.
-{65978}{66026}When he gets angry,|God have mercy.
-{66028}{66063}God have mercy, indeed.
-{66065}{66133}I hope I'll manage to repent|for all I've done in this world.
-{66142}{66208}Come on! Get off it!
-{66217}{66268}Beating people up;|- Drink!
-{66270}{66303}Iùs disgusting.
-{66305}{66399}Don't bring me down.|We were having a good time.
-{66424}{66512}A hammer, a nail,|we'll quickly take...
-{66529}{66600}A Succah, we'll build...
-{67056}{67133}Happy Holiday, Moyshe.|- What can I say, Rabbi.
-{67135}{67225}I didn't wake up.|- Better late than never!
-{67297}{67342}Whaùs happening, Moyshe?
-{67356}{67446}I'm a mess, Rabbi.|- Haven't seen you in a while.
-{67449}{67536}I had problems...|- How are things at home?
-{67538}{67621}Fine, thank God. The Lord|has been very generous.
-{67623}{67664}No complaints.|We've seen miracles.
-{67666}{67697}Nice.
-{67714}{67779}How's your wife?|- My wife's fine.
-{67835}{67912}Happy?|- Sort of happy.
-{67957}{68034}You should make her happy.|Always remember that.
-{68036}{68107}Your wife comes first.|She's the most important.
-{68111}{68182}Iùs your way of worshipping.|Iùs your Holiday.
-{68191}{68252}Rabbi, thaùs the problem.|You see, we have guests.
-{68257}{68316}Guests for the Holiday?|Whaùs the problem?
-{68320}{68402}Iùs good. Succoth is|a holiday of guests:
-{68404}{68487}The Holy Ushpizin!|- Rabbi, my guests are not so holy.
-{68489}{68567}Iùs a friend from|the old days, and his friend.
-{68570}{68660}They're not into the Torah|and commandments.
-{68662}{68760}All the better!|Thaùs the point.
-{68770}{68842}Don't forget where you were|until not long ago.
-{68845}{68901}I'm not forgetting.|I never forget that.
-{68903}{69008}Good. The holiday will pass,|the guests will leave,
-{69010}{69086}you'll have the intermediate|days, sit with her, talk,
-{69088}{69142}make her happy,|thaùs what matters.
-{69169}{69200}Go pray now.
-{69723}{69815}Wait up, Gabay. Wait up!
-{69885}{69946}Why are you angry at me?|- Drop it, iùs a holiday.
-{69948}{70014}I don't want to get upset.|- I was sure you abandoned it.
-{70041}{70135}Did you hear me say that?|- I saw you buy a new one.
-{70137}{70179}So what if I did?!
-{70181}{70268}Did I say I abandoned|the old one?
-{70286}{70340}We have laws, man!
-{70348}{70389}You know what you've done?
-{70395}{70492}You've ruined|my holiday, Ben Baruch!
-{70496}{70567}It wasn't even for me.|I wanted to help a friend.
-{70572}{70657}He had nothing.|Talk about evil urge!
-{70686}{70753}I wanted to help one Jew, and|ended up wronging another.
-{70772}{70863}Forgive me, brother.|- OK. Whaùs done is done.
-{70866}{70903}Happy Holiday.
-{70918}{70950}No way.
-{70955}{70980}What?
-{70982}{71049}You can't just walk away.|Give me a hug.
-{71054}{71106}Enough, Ben Baruch.|Whaùs done is done.
-{71108}{71150}Give me a hug!
-{71270}{71318}Who can resist you?! Ben Ba...
-{71557}{71624}Nice here, no?|- Sure is.
-{71634}{71723}Told you we'd manage.|- They must be looking for us.
-{71727}{71800}Don't worry.|They won't get here so fast.
-{71815}{71883}What would the cops look for|here, with the 'penguins'?
-{71889}{71966}Suits me fine.|I'd stay right here.
-{71973}{72071}I'm not sure it suits your friend.|- Who cares about him?
-{72079}{72166}He wants to be a saint, right?|Let him exercise hospitality.
-{72284}{72329}His wife's the problem.
-{72332}{72433}She's a jinx.|- Some couple. Bert and Ernie.
-{72443}{72544}Bert and Ernie! Good one!
-{72569}{72618}I'm hungry.
-{72624}{72718}Pass the salt.|- You have it. Leave some!
-{72720}{72762}We ran out.
-{72776}{72819}Is this piece available?|- That one's mine!
-{72821}{72876}You've eaten enough.|- Look who's talking.
-{73136}{73233}Blessed are You, Lord our|God, King of the universe,
-{73235}{73310}Who distinguishes the|sacred from the secular,
-{73312}{73387}light from darkness,|Israel from the nations,
-{73389}{73455}the seventh day of rest|from the six days of labor.
-{73457}{73529}Blessed is the Lord,
-{73531}{73600}Who separates the sacred|from the secular.
-{73882}{73958}Now, a cigarette.
-{74255}{74333}I'm going away.|- Whaùs that again?
-{74338}{74408}To my in-laws in Gedera.|What a drag.
-{74423}{74461}Oh.
-{74496}{74554}When?|- Now, in a bit.
-{74557}{74637}Can't really blow it off.|We promised to come.
-{74640}{74686}I didn't know we'd|have guests.
-{74885}{74950}OK. So...
-{74952}{75024}We'll also be off.|- Why so soon?
-{75026}{75083}Leùs have some coffee|for the road.
-{75085}{75121}Coffee, Eliyahu?
-{75196}{75278}No need.|- Right, no need.
-{75296}{75328}Leùs roll.
-{75770}{75824}See you, my brothers.
-{76202}{76279}I feel awful.|- What about?
-{76285}{76376}About the way I treated the guests.|I don't know what came over me.
-{76379}{76469}You treated them just fine.|They weren't too nice themselves.
-{76474}{76566}Thaùs just it. Iùs clear|as day that it was a test.
-{76576}{76639}Some test it woulÔve been|if they were nice guests.
-{76707}{76760}They couldn't wait to leave,|huh?
-{76762}{76856}No, they wanted to stay.|- You sent them away?
-{76859}{76981}I told them we were going to|see your parents. In Gedera.
-{77032}{77065}You lied.
-{77087}{77118}I lied.
-{77216}{77261}Shall we bake them?
-{77285}{77334}A blessing for having sons.
-{77406}{77444}What do we do now?
-{77503}{77540}Don't know.
-{77550}{77628}I don't like to plan.|Be spontaneous, Yossef.
-{77652}{77707}Your friend pulled|a fast one on us.
-{77743}{77805}Did you fall for that|Gedera line of his?
-{77847}{77907}You think he lied?|- I'm sure!
-{77969}{78010}Wanna bet?
-{78307}{78336}To life.
-{78357}{78393}To life.
-{78526}{78604}Why aren't you drinking?|- Don't feel like it.
-{78610}{78655}Oh, come on!
-{78675}{78756}Pure evil urge.|What a disgrace.
-{78792}{78860}We blew it, Moshe.|We blew it big time.
-{78874}{78919}So we blew it.
-{78928}{78990}Don't worry. The Lord|will send us other guests.
-{79012}{79098}Look at Abraham and Sarah.|They had a rough time, too.
-{79100}{79190}Think about it. Moshe.|They didn't have children.
-{79192}{79331}Year in year out,|decade in, decade out...
-{79348}{79423}What a rat...|- Told you so!
-{79458}{79551}Eating fish. I'd love|to see them choke on it.
-{79556}{79663}The worst people would|come to them. Heretics.
-{79671}{79742}And they waited on them,|served them,
-{79758}{79845}taught them that there is|a Master of this world.
-{79901}{80011}Finally, they were granted a son.|- Eat, sweetheart, eat.
-{80060}{80108}Who could it be this late?
-{80128}{80182}You wanted guests,|maybe God heard you.
-{80216}{80253}Who is it?
-{80419}{80457}Is this a bad time?
-{80514}{80547}Not at all.
-{80552}{80608}Not at all. Welcome.
-{80611}{80646}Please, come in.
-{80649}{80700}If you prefer to be|left alone, thaùs fine.
-{80709}{80747}Don't let us spoil|the romance.
-{80786}{80902}Look, Eliyahu: Fish, wine,|candlelight. How romantic!
-{80921}{80983}Moshe, nice one.
-{81010}{81096}Thaùs the Moshe I know.|- You know what, Eliyahu,
-{81148}{81221}I get this feeling|like we're not wanted here.
-{81224}{81293}Why do you say that?|God forbid! Come, sit.
-{81296}{81410}Maybe the rabbi's wife|would mind, huh, Mali?
-{81412}{81463}Not at all, we're so|pleased to see you.
-{81465}{81502}We didn't know|where you went, and...
-{81504}{81543}Whaùs that?
-{81546}{81599}Did you make that, Moshe?|Mullets?
-{81609}{81711}Sea Bream.|- Oh, Sea Bream!
-{81722}{81762}Good Lord!
-{81775}{81818}What a smell of garlic!
-{81942}{81987}Why didn't you go, then?
-{81989}{82068}My wife didn't feel too well,|so we decided to stay.
-{82070}{82142}You sick?|- I wasn't feeling too well.
-{82149}{82184}Get well soon.
-{82186}{82274}Thanks.|I feel a lot better now.
-{82276}{82311}Great.
-{82574}{82616}What about you?
-{82618}{82683}We already ate,|Lord be praised.
-{83103}{83156}Some salad would|work for me right now.
-{83158}{83193}Salad on the way.
-{83238}{83297}Heavy on the lemon, dear.|- No problem.
-{83418}{83477}Why are you standing, Moshe? Sit!|- Wait.
-{83479}{83518}Something to drink?
-{83521}{83583}No soda.
-{83585}{83651}Can't stand gases.|Bring something natural.
-{83655}{83708}Would you go|for some orange juice?
-{83772}{83834}I would run for it.|- Coming up.
-{83876}{83906}Moshe.
-{83998}{84033}What, bro?
-{84124}{84182}Got it. On me.
-{84311}{84395}Whaùs that?|- Moshe's French fries.
-{84588}{84657}The Lord loves you so much.|- Can you believe it?
-{84660}{84704}How they showed up.|I almost died.
-{84717}{84806}Did you add lemon? - A bit.|- Add more. Eliyahu loves it.
-{84808}{84831}Yes?
-{84863}{84892}How merciful is God.
-{84894}{84972}Lord, I love you so much.|What would I do without you?
-{85066}{85165}Moshe's French fries...|- 'Moshe's French fries... '
-{85212}{85253}Can I have a cigarette?
-{85330}{85398}Scorpio, a cigarette? Light?
-{85619}{85670}Yossef, more orange juice?
-{85685}{85713}I'm beat.
-{85840}{85884}Iùs OK if we sleep here?
-{85886}{85975}Of course. Today, tomorrow and|the next day, as long as you want.
-{85977}{86003}Right, Malka?
-{86005}{86061}What a question!|As long as you want.
-{86064}{86121}Are you sure? You don't|have to go anywhere?
-{86145}{86221}Gedera, Hadera, somewhere?
-{86413}{86473}Whaùs with them?|- Flow with it.
-{86693}{86785}You know, Moshe, one could|say many things about you,
-{86788}{86841}that you're a liar,|you're trash
-{86844}{86952}but if someone tells me|that you can't cook fish,
-{86955}{87014}I'd tell him you're a liar!|- Thanks.
-{87016}{87088}Whaùs right is right.
-{87370}{87411}I have to tell you:
-{87458}{87512}You're sweet,
-{87522}{87594}righteous, beloved.
-{87612}{87683}I'm just crazy about you.
-{87696}{87798}You did it big time. You've|given me another chance.
-{87825}{87952}Father. I swear I'll do anything|not to let you down.
-{87956}{87986}Anything.
-{88219}{88261}Good morning.|- Good morning.
-{88264}{88350}Is Moshe home?|- He's out. What do you need?
-{88352}{88393}You got a grill?|- Huh?
-{88395}{88509}A grill, A grill!|- A grill? Sure, wait a second.
-{88929}{88988}Excuse me, here's the grill.
-{89001}{89065}What, no meat?|- No. All gone.
-{89069}{89143}So what gooÔs a grill?|- When Moshe comes we'll buy some.
-{89145}{89237}Iùs noon. Eliyahu's hungry.|- What can I do?
-{89401}{89485}Moshe read all these?|- He's trying.
-{89495}{89536}Really nice.
-{89554}{89639}When is he coming home?|- Soon, any minute.
-{89645}{89727}Whaùs keeping you?|- There's a grill, but no meat.
-{89772}{89815}So what gooÔs a grill?
-{89945}{89991}What a mess.
-{90184}{90242}Where is a butcher|around here?
-{90252}{90334}There's one very close,|near the market...
-{90336}{90424}I can show you, iùs simple...
-{90429}{90509}Got any money left, Yossef?|- None.
-{90552}{90597}So what do we do? I'm hungry.
-{90655}{90704}You need money?
-{90724}{90823}A small loan would help.|- Sure, why not.
-{90994}{91034}Will this do?
-{91145}{91187}If you can spare another...
-{91255}{91325}Please.|To your health. Go and buy.
-{91328}{91381}Thanks!|- Yes, go and buy.
-{91549}{91591}Thanks a lot.
-{91602}{91660}Shake a leg, Yossef,|before it closes.
-{91758}{91799}Thanks, Father.
-{91814}{91907}Now you tell me?|Now you tell me?
-{91909}{91979}I didn't want to upset you.|Besides, we settled things!
-{92011}{92071}Ben Baruch...|Now it all adds up!
-{92074}{92147}That Succah brought me|nothing but grief.
-{92149}{92241}Stress, nerves, had a fight|with my wife, guests came.
-{92243}{92314}I threw them out. Lied to them.|Don't ask.
-{92317}{92402}Now I understand.|I stole the Succah!
-{92444}{92487}Where does he live?|- Who?
-{92489}{92543}Gabay, the guy whose Succah|we took.
-{92546}{92593}Near the market place,|by the Iraqi Synagogue.
-{92631}{92731}I'm going over there.|- Why? I told you iùs settled.
-{92737}{92825}Besides, he doesn't mind.|- I want to hear it for myself.
-{92830}{92881}Now I get why|these two showed up.
-{93166}{93206}Why are they staring at us?
-{93209}{93260}Go on, break it up! Go on!
-{93264}{93370}Get out of here! Animals!|- Listen to how you're talking.
-{93373}{93438}I'll say what I want.|I want them out of here!
-{93441}{93535}Thaùll get you nowhere!|Be nice. Let me, OK?
-{93611}{93658}Righteous one,|holy righteous ones.
-{93660}{93703}This is a religious neighborhood.
-{93706}{93748}What you're doing is inappropriate.
-{93750}{93803}Yeah, whatever. Beat it.
-{93845}{93891}Why do you talk to me|like that?
-{93898}{93950}Go! Go...
-{94030}{94112}Lord have mercy on your souls...|and make you repent...
-{94142}{94183}Whaùs going on?|Is it ready?
-{94185}{94235}Turn off the tape!
-{94252}{94291}Who's gonna make me?
-{94302}{94351}Mrs. Belanga, this is|impossible.
-{94382}{94434}What have you brought|into our neighborhood?
-{94478}{94520}Turn off the tape, please.|- Why?
-{94522}{94572}Iùs a religious neighborhood.|Turn off the tape.
-{94574}{94623}"Thou shalt rejoice in your|in your Festivals." Whaùs wrong?
-{94625}{94655}Wrong?!|Iùs a religious neighborhood!
-{94657}{94680}Don't you get it?
-{94682}{94710}You can't behave like this.
-{94713}{94789}Villains! - Why are you shouting?|- Blasphemy! Criminals!
-{94792}{94890}Profanity! Profanity!|- Thieves, Psychopaths!
-{94892}{94986}What kind of talk is this?|Watch your mouth.
-{94988}{95062}What you're doing, thaùs|blasphemy!
-{95145}{95239}God Almighty, you're the best.|Now I understand everything.
-{95242}{95333}Nothing is without reason.|No nature. Nothing by chance.
-{95335}{95380}I'd have never taken|taken that Succah.
-{95382}{95438}I asked Ben Baruch,|"Are you sure?"
-{95440}{95483}He said, "I'm sure".
-{95522}{95610}Lord, I'm begging you, open|Gabay's heart to forgive me,
-{95612}{95689}because I cant take this test|any longer! Forgiveness.
-{95741}{95807}Why are you doing this?
-{95809}{95879}Get in the Succah,|I beg of you!
-{95885}{95948}Sacrilege!|- Enough!
-{95977}{96022}They are Jews!
-{96037}{96093}No matter what,|I'm not turning it off.
-{96351}{96383}Who's there?
-{96418}{96462}Why are you shouting?|- Are you David Gabay?
-{96466}{96528}Yes, I am.|- Iùs me, with the Succah.
-{96535}{96608}What Succah? - I took your Succah,|with Ben Baruch.
-{96610}{96644}He told me he spoke with you.
-{96647}{96754}Iùs you. - Iùs me.|- I talked to him.
-{96769}{96807}Atonement for my sins.
-{96813}{96873}You absolve me?|You won't bear a grudge?
-{96877}{96934}No.|- Say it.
-{96938}{96993}Say what?|- That you absolve me.
-{97027}{97078}I absolve you.|- No, my good man.
-{97080}{97158}Say: "absolved, absolved,|absolved". Say it.
-{97214}{97278}Absolved, absolved,|Absolved.
-{97312}{97363}You've made me very happy.|Happy Holiday.
-{97382}{97452}If you only knew...|- Happy Holiday, good man.
-{97463}{97504}Forgiveness. Forgiveness.
-{97507}{97536}Sacrilege!
-{97539}{97567}I'm gonna kill him!!
-{97581}{97614}No!
-{97617}{97661}Drop what you're holding.|- She's nuts.
-{97666}{97732}I said drop it!|- Fine!
-{97735}{97794}Get in the house! Get in!
-{97797}{97900}Mali, what? A few laughs.|- Get in!
-{97973}{98032}Get in.|- OK, OK.
-{98041}{98096}Take it easy.
-{98139}{98168}Whaùs this?
-{98303}{98342}Mali!
-{98636}{98669}What happened?
-{99530}{99561}Mali.
-{99626}{99661}What happened here?
-{99701}{99731}Give me a cigarette.
-{99772}{99810}The neighbors, Mali...
-{99830}{99903}They've seen everything.|Give me a cigarette.
-{100237}{100271}What happened here?
-{100288}{100318}Where were you?
-{100326}{100363}Where were you the whole day?!
-{100366}{100417}I had something|important to check.
-{100420}{100468}Why did you leave me|alone with them?!
-{100470}{100498}I left them in the Succah!
-{100501}{100567}Like they'd stay|there all day!
-{100570}{100639}Just know, Heaven will|judge you for this.
-{100653}{100694}What did they do?
-{100701}{100775}What did they do?!|- They tried to kill Wolf!
-{100780}{100811}Animals!
-{100819}{100882}Keep your friends on a leash!
-{100894}{100950}Tell him what happened.
-{100954}{100995}They called the cops.
-{101016}{101072}I want law and order here!
-{101075}{101134}Where are they now?|- In the house.
-{101138}{101216}Go there, tell them to hide,|and don't open for anybody.
-{101226}{101267}Why?!|- Do as I say!
-{101293}{101348}Moshe, whaùs going on here?|- Do as I say. Quickly!
-{101661}{101738}Whaùs going on, Mali?|- A neighbor called the cops.
-{101745}{101769}Cops?!
-{102062}{102105}So much for time|off for good behavior.
-{102107}{102150}We lost that long ago!
-{102174}{102213}Escaped convicts...
-{102253}{102291}Moshe, I'll kill you.
-{102298}{102394}They had a BBQ, they made|trouble, people got angry,
-{102397}{102484}we sent them home.|We'll get over it.
-{102487}{102598}No harm done? Nobody hurt?|- No, the guy's just a bit crazy.
-{102605}{102653}Alright?
-{102691}{102727}Whaùs your name?
-{102759}{102838}Don't let it happen again.|- It won't.
-{102848}{102899}Is the coast clear?|- Wait a minute.
-{102904}{102963}My knees hurt. I'm coming out.|- Don't you dare!
-{103046}{103112}Who is it?|- Mali, open up, iùs me.
-{103249}{103316}He's gone. What miracles.
-{103349}{103400}Where are they?|- Here, Moshe.
-{103468}{103521}What are you doing?|Whaùs wrong?
-{103579}{103658}Whaùs wrong?|What are you doing?
-{103676}{103729}Liar.|- When have I lied?
-{103731}{103783}You know very well.|- No, I don't.
-{103787}{103820}Liar!
-{103881}{103947}What did you tell her?|- Not a word. I swear, Moshe.
-{103949}{103989}Wait, wait, I'll get to you.
-{104002}{104050}What is this all about?|- I'm leaving.
-{104052}{104105}But why? You can't just leave.
-{104108}{104150}You bet I can.|- But I don't know why.
-{104153}{104240}Step aside. - But what did I do?|- Let her go.
-{104242}{104302}'Friends from the old days! '|Liar!
-{104305}{104337}They are.|What do you want?
-{104339}{104394}Like you didn't know they|were criminals on the run?
-{104396}{104485}What? God forbid. Yossef,|Eliyahu, did you tell me this?
-{104489}{104551}Still lying?!|Do you think I'm an idiot?!
-{104553}{104583}He thinks I'm an idiot!
-{104585}{104635}Why did you turn white|when you saw the cops?
-{104637}{104674}Because you knew, right?
-{104681}{104715}Right or wrong?
-{104723}{104763}Mali, he didn't know.
-{104771}{104849}Shut up! Stay out of it!|- OK, OK.
-{104857}{104909}Shut up! Shut up!
-{104977}{105026}Did you know or not?
-{105081}{105142}I knew.|- Thaùs it. Now let me go.
-{105153}{105187}No!
-{105195}{105258}Let go of me,|or I'll beat you up!
-{105262}{105301}Let me explain...|- Explain what?
-{105303}{105342}Why you left me|here with killers!
-{105344}{105369}They're not killers.
-{105371}{105436}I don't care! Let me out!|- Mali, why the insults?
-{105439}{105478}Shut up!|Stay out of it!
-{105480}{105551}Moshe, Moshe!|- Shut up!
-{105639}{105680}Mali...
-{105836}{105905}Poor guy. We got him in deep.
-{105929}{105996}My love, all this grief,|all this mess...
-{105998}{106075}Iùs all because of the Succah.|Iùs over.
-{106077}{106116}I talked to him.|Gabay absolved me.
-{106118}{106144}What do you want from me?
-{106147}{106208}Ben Baruch told me that|it was abandoned!
-{106212}{106265}What was?|- The Succah!
-{106283}{106334}Wait a minute, Mali.
-{106386}{106444}My love, wait a minute,|don't go.
-{106462}{106493}Wait a minute.
-{106535}{106591}Look, I talked to him,|and he absolved me.
-{106593}{106648}Who? Ben Baruch?|- No! Don't you get it!
-{106650}{106703}Gabay! He lives|by the Iraqis' synagogue.
-{106706}{106781}You lost it totally, Moshe.|Leave me alone, OK?
-{106805}{106838}Mali?
-{106890}{106955}Wait. Iùs a test, right?
-{106969}{107034}Remember what you said|about Abraham and Sarah?
-{107036}{107100}It was a test,|I didn't want to blow it.
-{107122}{107159}Forget it.
-{107216}{107241}I don't want to.
-{107270}{107345}Forget it, Moshe. There won't|be a child. Not with me.
-{107367}{107453}Only with you.|- Go away, Moshe.
-{107455}{107541}Go find a new wife, make|a home, a family, children.
-{107544}{107644}You can. Don't get stuck|with me out of pity.
-{107671}{107727}Now, step aside|and let me go.
-{107732}{107788}Please stop following me.|I'm asking you.
-{107803}{107839}Like that?
-{107852}{107889}Only like that.
-{109368}{109446}Your wife left?|- She left.
-{109516}{109581}Did she really leave,|or will she come back?
-{109608}{109676}Don't know. I hope she'll|come back.
-{109724}{109817}She'll be back, with GoÔs help.|- With GoÔs help.
-{109892}{109981}Sorry, Moshe.|- For what?
-{110024}{110086}You didn't do anything.|- Not true.
-{110089}{110154}We came uninvited.|We messed up your life.
-{110218}{110283}Sorry.|- You didn't do anything.
-{110294}{110372}What are you? You're nothing.
-{110378}{110432}No Yossef, no Eliyahu.|Nothing.
-{110446}{110540}There's only God.|And he has his reasons.
-{110557}{110608}You hear that, Eliyahu?
-{110610}{110682}He said we were nothing.|And what are you?
-{110688}{110750}Shut up, Yossef.|- Who does he think he is?
-{110787}{110823}Nothing.
-{110830}{110863}Just like you.
-{111292}{111353}Hello?|- What time is it?
-{111359}{111474}2 AM. You sleeping?|- No.
-{111565}{111605}When are you coming back?
-{111607}{111647}I'm not.
-{111713}{111780}Get on a bus tomorrow,|come home.
-{111797}{111840}I miss you.
-{111938}{112029}I spoke with the Rabbi.|- What did he say?
-{112035}{112103}That I should stay at my mother's.|Go to the Rabbi.
-{112315}{112373}Who's out there?|- Belanga.
-{112393}{112479}He wants to see the Rabbi.|I told him to wait till morning.
-{112499}{112560}And?|- He said he'd wait.
-{112613}{112650}Send him in.
-{112930}{113026}Hello, Rabbi.|- To what do I owe the pleasure?
-{113030}{113088}My wife told me the Rabbi|was looking me.
-{113100}{113124}Sit down.
-{113269}{113321}Rabbi, she doesn't want|to come home.
-{113331}{113381}I told her to rest|for a few days.
-{113388}{113430}The Rabbi told her.
-{113433}{113492}Otherwise you wouldn't come.|I missed you.
-{113539}{113598}Could the Rabbi|speak with her again,
-{113600}{113637}tell her to come back?
-{113639}{113760}You know, Rabbi, I love her.|I can't live without her.
-{113776}{113827}You're a sweet man, Moshe.
-{113835}{113896}If you only knew what happened.|- I heard.
-{113904}{113983}I heard it all.|It will all be for the best.
-{113986}{114028}With GoÔs help.
-{114065}{114106}Rabbi, time for prayers.
-{114125}{114170}Do you have a prayer shawl|and 4 species?
-{114172}{114218}I left them at home.
-{114225}{114293}Vaknin, get him a prayer|shawl and 4 species.
-{114295}{114333}I want you to pray with me.
-{114573}{114623}Look at what our|teacher wrote here,
-{114625}{114658}a marvelous thing:
-{114690}{114774}When a man passes a test,
-{114777}{114855}he progresses. Right?
-{114886}{114936}He thinks that he earned|some rest.
-{114948}{115028}Iùs then that he's given|an even harder test.
-{115034}{115157}No 'resù.|No rest in this world.
-{115368}{115470}Above all, Moyshe,|don't get angry!
-{115483}{115527}Don't get angry!
-{115576}{115700}God Almighty,|save us from anger.
-{115705}{115755}Save us from anger.
-{115807}{115853}Thaùs a great lemon!
-{116074}{116108}Come on.
-{116123}{116195}Does it look OK?|- A 5 star hotel!
-{116198}{116246}Do we wait?|- You bet!
-{116249}{116344}Leùs make the man happy.|We messed him up for no reason.
-{116367}{116442}Good morning!|- Happy Holiday!
-{116444}{116543}Happy Holiday.|- Whaùs up?
-{116566}{116656}Moshe, Moshe.|- Did you invite guests?
-{116668}{116721}This is for you.|- For me?
-{116802}{116838}Looking good...
-{116861}{116915}Some more salad?|- Gladly.
-{116923}{116964}This salad hits the spot.
-{116995}{117027}Moshe,
-{117048}{117112}from all my heart,|I want to tell you something.
-{117136}{117212}You changed completely.|The truth...
-{117258}{117357}At first you pissed me off.|I didn't believe you one bit,
-{117363}{117495}but now I see iùs for real.|I have respect for that.
-{117589}{117652}I respect that.|- Thanks.
-{117680}{117757}How's the salad?|- Iùs pure health.
-{117760}{117856}Lemon kills all diseases.|- You didn't overdo it.
-{117858}{117923}Well, there was only one.|- None in the fridge?
-{117926}{117976}No, I checked everywhere.
-{117978}{118066}But suddenly, I see one on|a shelf. Luck!
-{118069}{118127}Who'd put a lemon on a shelf?|- Thaùs what I thought!
-{118129}{118243}And mind you, not in the|kitchen, in the living room!
-{118277}{118328}In the living room?
-{118887}{118932}No!
-{119167}{119208}Oh, no...
-{119255}{119302}Whaùs wrong with him?|- Moshe, whaùs wrong?
-{119326}{119354}Moshe, whaùs wrong?!
-{119450}{119481}Moshe, don't!
-{119766}{119811}Moshe...
-{121002}{121080}What?!|What, I don't understand!
-{121115}{121218}I really don't understand!|I don't understand at all.
-{121247}{121307}What do You want from me?|What?
-{121322}{121414}I just don't get it!|Have mercy. Explain it to me!
-{121421}{121530}I don't want to be angry,|God Almighty.
-{121546}{121634}I don't want to be angry!|I don't want to be angry,
-{121639}{121685}God Almighty.
-{121687}{121759}Have mercy on me...
-{121761}{121831}Have mercy on me...
-{123758}{123793}Moshe.
-{123808}{123848}Mali.
-{124069}{124098}You look good.
-{124156}{124190}I wanted to see you.
-{124337}{124374}Whaùs so funny?
-{124403}{124431}Nahman.
-{124466}{124491}What about Nahman?
-{124505}{124547}I want us to call him Nahman.
-{124737}{124781}What, you're...
-{124933}{124969}Are you sure?
-{125115}{125171}Mazal Tov, Moshe.
-{125174}{125263}Moshe, Mazal Tov.|- Mazal Tov, Mazal Tov.
-{125294}{125343}My Nachman.
-{125442}{125495}Blessed are You, Lord our|God, King of the universe,
-{125497}{125536}Who sanctified us with His|commandments
-{125538}{125578}and commanded us regarding|circumcision.
-{126019}{126061}Say 'absolveÔ, Gabay.
-{126063}{126108}Absolved, absolved,|absolved...
-{126110}{126181}Moshe, I told you there'd|be miracles!
-{126333}{126419}One must pass in this world|through some confusion,
-{126421}{126538}some obstacles, some changes,|until he understands
-{126543}{126655}a man has to pass this world|on a very narrow bridge
-{126658}{126768}and the truth is sharp|like a strand of hair
-{126770}{126886}and the main thing is|not to be afraid at all.
-{126889}{126993}We've got to rejoice and|never forget what we really are.
-{127004}{127179}There is God.|There's only God.
-{127207}{127296}In memory of RAFI BUKAEE|the film's producer
-{127418}{127495}Shuli Rand
-{127523}{127604}Michal Bat Sheva Rand
-{127633}{127705}Shaul Mizrahi
-{127738}{127812}llan Ganani
-{127843}{127925}Avraham Abutbul, Yonathan Danino|Rabbi Daniel Dayan, Michael Vaigel
-{127954}{128028}Direrctor: Gidi Dar
-{128057}{128137}Script: Shuli Rand
-{128164}{128246}Producers:|Rafi Bukaee - Gidi Dar
-{128271}{128348}Director of Phtography:|Amit Yasur
-{128375}{128458}Editors:|Isaac Sehayek - Nadav Harel
-{128479}{128560}Art Director: Ido Dollev
-{128586}{128668}Music: Nethaniel Mechaly
-{128691}{128773}Sound Designer & Mix: Chen|Harpaz
-{128798}{128885}Executive Producer: Shlomit Smadja|Line Producer: Gadi Levi
-{128902}{128991}Co-Producers: Maayan Milo,|Ziv Ben-Zvi
-{129024}{129121}English: Cnaan Liphshiz|Martin Rubinstein
+25.000
+Gilgamesh Productions|presents:
+A film by Gidi Dar|and Shuli Rand
+Ushpizin
+Lulavs, citrons, myrtles!
+How much for this?
+This citron is worth|at least 300 Shekels.
+So bring another inspector!|Some would say even 500.
+You want the truth?|100 Shekels, thaùs all.
+OK, Wasserman.
+Next.
+Look at this one.
+What do you say?
+Marvelous! Really marvelous!
+How much do you|think iùs worth?
+Iùs been years since|I've seen one so beautiful.
+I told you, no one else|has citrons like this.
+Excuse me.|- Yes, rabbi, how can I help?
+May I look at the citrons?|- Look over there,
+there are some for 30,|40, 50. Very nice ones.
+So, what do you say,|at least 500 Shekels, no?
+More.|- How much, then?
+This citron can get you... at|least...
+800, even a 1000.|- A thousand?!
+Who'd give a thousand|for a citron?
+They'll give, they'll give.
+May I have a look|at this one?
+Iùs not for you, rabbi;|its expensive.
+Can I look?
+Easy... Easy.
+May I?
+How much did you say?
+A thousand Shekels.
+This really is|a beautiful citron.
+You're not buying?|- With GoÔs help.
+Next...
+Hello, Moshe. - Hello, Ben Baruch.|- How are things?
+Could be better.
+Whaùs with the long face?|Yom Kippur's over!
+Did you build a Succah?|- How? I'm dead broke.
+Citron, lulav? 4 species?|- Nothing, don't you get it.
+Wake up!|The Holiday is tomorrow!
+Any way you can help me,|Ben Baruch?
+No, really not.|- Come on, Ben Baruch
+I spent it all on wood.
+If I hear of something,|I'll tell you.
+Moshe...
+Give us a smile.
+What can I tell you, Father.|The situation stinks.
+Merciful Father, make him go away.|I can't take it anymore.
+Make him go away, please...|Make him go away...
+Thank you, Father.|Thank you very much.
+I told you, I'm not built for|working in the sun.
+I suffer from migraines.
+So work the city;|go to houses, restaurants;
+"When the evil urge|provokes one to anger,
+"at that moment, good|wants to descend from above.
+"The evil urge|wants to ruin that.
+"Thus, one should always|guard himself against anger.
+"Not to ruin the good that|Heaven wants to bestow."
+Oh man. You have to keep|your eyes wide open.
+We're all being|constantly tested.
+Iùs not allowed.|- What?
+This.|- Who told you that?
+They announced|you can't smoke in here.
+And what does a smoker do?|- He goes to the balcony.
+How's it going, Moshe?|- Terrible! His name be praised.
+I couldn't do anything. I tried.|- I'm sure you did.
+What do they give, Moshe?|Pennies, nothing.
+Nothing for you, maybe.|For me, iùs everything.
+I promised my wife I'd bring|home some money today.
+I can't face her.
+900 shekels would at least|get me through the holiday.
+What can we do? We'll pass|this, too. Thaùs His will.
+I can't go back there.|- You don't have a choice.
+Why are you standing there?|We'll be late.
+I can't, Yossef.
+The smell...
+The smell is killing me.
+Whaùs Lysol made from?|- I know? From Lysol.
+Thaùs why I hate|going on leave.
+I hate going back.
+What are you doing? - I'm going.|- Going where? - Home!
+They'll catch you in no time.
+Not home, then! To hell!|Just not there.
+Wait up!
+Wait up!
+This is perfect for you.|- How much is it?
+Only 40 Shekels.|- 40 Shekels?
+Iùs handmade.|I sell them for 60.
+40 is a special price,|for neighbors.
+What is it?
+Mali, iùs me, open up.
+OK. I'll be off now.|- Well, do you want it?
+Iùs a bit expensive.|- Make it 30, then.
+I'll consult my husband.|See you. Thanks.
+So long, Mrs. Neiman.
+She buy anything?|- Don't count on it.
+Rothman was here.|- What did he want?
+He wanted his rent!
+Could you give him something?|I can't take it any more.
+Where will I get|the money from?
+Have you been to the Yeshiva?|- Yes.
+And?|- What?
+What do you mean, what?
+Souisa's wife told me|they got the money!
+We have nothing, honey.|- What?
+The supervisors had a meeting.
+They decided not to give me|anything this month.
+Who decided? Why?|- I wasn't there enough.
+And what did you say?|- What could I say...
+You said nothing?|- What could I tell them?
+Sure you said nothing!
+You played the saint,|accepting it all with love!
+You want me to start arguing?|That was their decision.
+Whose decision?|- Thaùs what God wanted.
+Stop! Give me a break!
+Maybe God wanted you|to stand up for yourself?!
+You know why they|didn't give you the money?
+They knew that|you'd let it pass.
+Leùs see them not give|Souisa the money!
+He'd burn down the Yeshiva!|- Enough!
+I don't understand|what you want.
+What do you want me to do?|Start hitting people?!
+We became religious,|we don't behave that way.
+God will help!|Do we have faith or not?!
+Be quiet there!|- OK, Weisglass, we heard you.
+You're not alone here!|- You're right.
+Blessed are You, Lord our|God, King of the universe,
+Who sanctified us with His|commandments
+and commanded us regarding the|washing of hands. - Amen.
+Don't be upset, sweetheart.|I promise you, God willing,
+we'll live to see a table|laden with delicacies... - Amen.
+And a baby boy.
+Stop it...
+What do we do about a Succah?
+God will not forsake us.|We'll have a Succah.
+Tomorrow's Succoth eve.
+I heard a nice saying|today by Rabbi Nathan...
+how did it go..."Wherever|something is lacking,
+"I know that either|it wasn't prayed for,
+"or that it wasn't|prayed for enough."
+Nice, isn't it?|- Nice.
+Then, why don't you go pray?|- What, now?
+When else? Tomorrow is|Succoth eve.
+I wanted to get some sleep.|- Enough with this sleeping.
+I'm beat, I'm telling you.|I stayed up all night.
+So why are you bringing in|Rabbi Nathan?
+Empty words!
+Tomorrow is Succoth eve,|don't you get it? Go pray.
+Go on.
+We need a miracle.
+We will see miracles, Moshe.
+Truth be told, God Almighty,|I'm down in the dumps.
+OK, I know you hate sadness,|but I'm sad as can be.
+I'm all sadness.
+A lump of sadness.
+Not that I think you owe me|anything, God Almighty,
+but I don't understand.|I really don't understand.
+Sometimes I don't know what|you want from me.
+Sometimes I think that|you're a bit rough on me,
+a bit on my case.
+"I shall cry,
+and He will pay|heed..."
+To be a good Jew, thaùs all.|Don't want anything more.
+I want to have a Succah,|a lulav, 4 species,
+food for the Holiday.|Not too much for you, is it?
+If not for my sake,|then for my wife's.
+Honestly, what has|Malka Bat Mazal
+done to offend you?
+Poor woman, she loves|and respects you so much.
+What does she have?|What do I bring her? Nothing.
+The Torah?|I don't give her anything.
+Do I make a living?|Did I give her a child?
+Six, seven, eight...
+Hi Zwible.
+Did you deliver everything?|- Almost.
+I still have 1000 dollars.|- How come?
+The old man from Musrara|passed away.
+I heard! I forgot to tell you.
+May he rest in peace.
+So here's 1000 dollars.|What do I do with it?
+You'll find someone|to give it to.
+Zwible, I want to wrap it up;|I have to go out of town.
+There you go; I'm sure|you'll find someone here.
+I don't know...
+Pick a number.
+What do you mean?|- Come on, pick a number.
+Do I know... 35.|- Start counting.
+God Almighty...|We need a miracle.
+A miracle, God Almighty,|a miracle
+Please, a miracle,|Lord of the universe...
+Please, a miracle...
+Our holy Rabbi Nahman|from Breslau, God Almighty,
+in his virtue, hear our|prayer, give us a miracle...
+A miracle...
+"He leads me beside|the still waters..."
+A miracle, God Almighty,|a miracle, a miracle...
+"I shall fear no evil|for you are with me..."
+Moshe Belanga... you know him?
+Yes...
+From around Shmuel Hanavi?|- Yes, I think I know him!
+A Breslau Hassid... Oh, well.|I'll go there now.
+May you be rewarded.|- Stay well.
+Where were you?!|- Whaùs the matter?
+I've been looking|for you all day long!
+I've been praying.|- You prayed well, my friend.
+What is it?|- I found a Succah for you.
+Get out...|- Iùs out of this world!
+You won't believe it, thaùs|what I prayed for. Where is it?
+Remember where the old|Yeshiva office used to be?
+Hold it. Whose is it?|- Nobody's. - How come?
+It belonged to Gabay.|But he isn't using it.
+Are you sure?|- I'm sure!
+Iùs a Succah like you|wouldn't believe, come on!
+But how will we move it,|with movers? I'm broke.
+God sent you a Succah,|he'll send a truck!
+May you have an accident.
+Nothing beats freedom.|- Jerusalem.
+How did we end up here?|- C'mon, iùs the Holy City.
+Holy city?|Iùs a pile of stones.
+Don't turn around,|a pig just walked in.
+Maybe they're|already looking for us.
+Relax, who cares about you.|You think you're Al Capone?
+He's sitting down.
+Breathe, enjoy the freedom.
+And then what? You know|anybody in Jerusalem?
+I had an aunt up here...
+But she's dead.|- So why did we come here?!
+Good evening.|Are you into spirituality?
+Sorry, bro, I'm broke.
+Thaùs OK. Iùs the|thought that counts.
+Come here a second.|- Yes?
+Let me see the box.|- There you go.
+"The Hidden Light."|- The Hidden Light.
+Are you from this Yeshiva?|- I am, praise God.
+Breslau, right?|- Yes, Breslau.
+Know a guy named Moshe?|- Which Moshe?
+There are lots of them.
+Moshe Belanga, from Eilat,|tall guy, know him?
+Yeah, sure, he studies there.
+Where's "there," man?|- Shmuel Hanavi Street.
+If I go there now, I'll meet him?|- No, bro, iùs already late,
+but you could probably find|him there tomorrow morning.
+Bless you, brother.
+Who is this Moshe guy?
+Moshe Belanga.
+A friend.|- Close friend?
+If we find him,|we've got it made.
+Many roads I've taken
+Searchin' for some truth
+And I never hesitated
+Doin' things I shouldn't do
+We didn't find ourselves
+Don't want to be a liar
+This culture isn't for us
+Our hearts are full of fire
+And I am so small
+Most wretched of them all...
+You got a splinter?
+I'm going for a second.|- Where to?
+To make my wife happy.|She was worried about the Succah.
+Go, go...
+I stand here,|in wonder and awe.
+For you are holy,|and your name is holy,
+Saints praise your name|by day and by night...
+For you are holy,|and your name is holy,
+Saints praise your name|by day and by night...
+Moshe, you saint,|God loves you so much!
+Are you OK? Everything's OK?|- Better than OK.
+Remember what I told you|before you left?
+Whaùs this?|- Open it.
+Whaùs this? Whose is it?
+Someone slipped it|under the door.
+Who's 'someone'?|- Don't know, didn't look, read!
+"Rabbi Moshe Belanga,|Happy Holiday,
+"Accept this gift,|which need not be repaid..."
+How much is there?|- A thousand dollars.
+Are you sure?
+I've counted it 30 times.|An even thousand.
+Do you understand what|has happened here, my wife?
+See the power of prayer?
+Iùs a miracle,|a real miracle.
+Blessed be the Lord|who listens to prayers.
+A miracle. - Blessed be the Lord|who listens to prayers.
+I don't believe it. A miracle!
+Iùs a miracle.|- A miracle!
+A downright miracle!
+1000 dollars,|His name be praised!
+God Almighty, you're for real!
+You did it big time!|- Father, thank you.
+It is a miracle.|I can't believe it!
+Father, thank you,|thank you very much!
+It was a miracle.|A miracle, God Almighty!
+This should be enough, right?|- Big time.
+Look, I have it|all mapped out:
+We'll pay back what we owe,|and with whaùs left,
+Leùs make a big, beautiful|Succah for the Lord.
+Moshe, whaùs wrong?|- Wait a second.
+Have a look at something.|See that? Iùs ours.
+Ours? From where?
+Sing for Him, chant for Him,|talk of all His wonders...
+Like that?|- Only like that!
+Sing for Him, chant for Him,|talk of all His wonders...
+Moshe!
+A tenth for charity.
+Ben Baruch! Ben Baruch!
+Whaùs wrong?
+Whaùs with you, Moshe?|Have you lost it?
+Ben Baruch, how righteous|the Lord is, how merciful!
+How righteous! Take!
+Take it!
+Iùs a lot of money, Moshe.
+The lord has sent it to you!|Take it!
+Why did we stop dancing?|- Beats me!
+Sing for Him, chant for Him,|talk of all His wonders...
+They just took it?|- They came with a pickup truck.
+And you didn't tell them it|was mine?
+I did, and they said it was OK.|- Nobody told me anything.
+Do you know them?|- It was that Breslau guy,
+that goes around in the|morning with the charity box.
+Ben Baruch...|- Yes, Ben Baruch.
+Some people...
+Wow, iùs huge.
+Thaùs good. Maybe God|will send you guests.
+Does it fit?
+Too bad, we lost|the door knob.
+Enough?|- No, bring more.
+When will you pay?
+You worried, Elazar? Lùll be OK.|Bring some more.
+May I help you?|- We're looking for Moshe Belanga.
+Is he here?|- Not right now.
+Thaùs his sister's kid.|Could you help us find him?
+Sure, with pleasure.|- Thanks, man.
+Is it sold?|- I beg your pardon?
+That nice citron, is it sold?|- We have lots of nice ones.
+No, I mean the nicest one.|It went for 1000 Shekels.
+He means 'the diamonÔ.|- Yes, that 'diamonÔ. Sold?
+Iùs right here.
+Leùs have it.
+There's a thousand.
+How sweet is the Lord.
+Happy Holiday.
+Where have you been?|Iùs almost Succoth!
+Shopping... Nick of time.
+This is for you.
+For me?
+Iùs perfect. You shouldn't have.|- Put them on...
+Have a look at something.
+Iùs lovely.
+'Lovely'? Just 'lovely'?
+Iùs The Diamond.
+The Diamond?|- Thaùs what they call it.
+The most beautiful citron|in Jerusalem.
+Let me see a second.
+How much did it cost you?
+You want the truth?|- Only the truth.
+One hundred?
+You're out of your mind.|- I had to.
+Moshe, you're out of your mind!|- I had to.
+Moshe, you're crazy.|- I had to!
+But 1000 Shekels for a citron?
+Honey, don't get angry.
+Iùs a 'blessing'|for having boys.
+Says who?|- Iùs written in the books.
+A beautiful citron is|a blessing for having boys.
+I better go before they close|the mikveh (ritual baths).
+The earrings look good on you.|- Thanks.
+What am I without you?
+Nothing. A half-person.|- OK, OK, Moshe.
+Happy Holiday.|- Happy Holiday, Moshe.
+Why is the door open...
+Moshe!
+I can't believe it!|Iùs Moshe!
+Eliyahu, iùs really you!
+What are you doing here?
+Visiting. I've missed you.|Is that illegal?
+God forbid.
+You don't seem too happy.
+No, I just thought|you were still doing time.
+Thaùs it? They released you?
+Praise God. 'I've paid|my debt to society.'
+Praise God.
+What a surprise. Who's this?|- Yossef. A close friend.
+Welcome.|- Pleased to meet you.
+Eliyahu Scorpio. I don't|believe it.
+How long has it been? Years...
+We're in Jerusalem on business,
+so I said to Yossef|I have to see you.
+Wait... how did you find|out where I lived?
+They told us in your Yeshiva.
+Is this a bad time?
+Just a minute,|let me get this straight.
+Where are you spending|the Holiday? In Jerusalem?
+We don't know yet.|Maybe in Tel Aviv.
+Whaùs in Tel Aviv?|Succoth in Jerusalem.
+Is anything better than that?|- The Holy City, after all...
+Be my guests.
+What, and just crash|your Holiday?
+Crash my Holiday? If you|only knew how I prayed
+that the Lord would send me|guests to the Succah.
+And such guests he sent!
+Praise God. Set the table|for four. We have guests.
+Guests? Who?|- Friends.
+From the Yeshiva?|- No. From the old days.
+Actually, iùs one friend|and his friend.
+Where are the yarmulkes?|I put them here.
+Which friends from|'the old days'? - Mali, iùs OK.
+Where did I put the yarmulkes?
+The mikveh is about to close.|- From way back?
+Mali, Iùs OK.|They're OK people.
+Thanks.
+You don't look happy.|- Sure I am.
+I didn't prepare|for guests.
+What can I do?|Do we run the world?
+God sent guests to our Succah.|Should we send them away?
+They'll wash hands|and bless the food.
+They'll sit in a Succah, maybe|for the first time ever!
+Does it get any better than that?
+You tell me, does it?
+You're all glowing.|- Like a torch.
+I feel that we are about to|receive abundance from Heaven.
+God willing.
+Happy Holiday.|- Happy Holiday, sweetheart.
+Say, Moshe, whaùs with the hat?|- The shtreimel?
+You wear it on Shabbat,|or Holidays.
+Whaùs it made of? Cat fur?
+No. Fox tails.|- Get out of here!
+Where do they|get that many foxes?
+From abroad.
+What, no foxes in Israel?|- Where do we have foxes?
+We do. In the desert.|- How many? Seven?
+They bring it from abroad.|Thaùs why iùs so expensive.
+How expensive?|How much for one?
+There are all sorts.|- How much is yours?
+Mine is nothing special.|Iùs old. Second hand.
+Looks like a flat tire.
+Eliyahu, don't dare talk|that way about my shtreimel.
+How much is that one?|- Could run up to 2000 dollars.
+2000 dollars?|I don't believe it.
+Did you hear that,|Eliyahu?! 2000 dollars!
+What did you think?|Until you catch the fox,
+relax him, skin him...|Ioads of work.
+And if I bring you 10 pieces,|can you fence them?
+Yossef has a criminal mind.|Iùs in his blood.
+You go by on a motorcycle,|you can snatch a dozen.
+Moshe knows people;|he could fence them easy!
+This street alone is worth,|roughly, 200,000 dollars.
+Thaùs not peanuts.
+Snap out of it, Yossef.
+Don't talk like that|around my wife.
+Just kidding.|- Don't.
+She's not into that.|No jail, no holdups, nothing.
+Moshe, don't worry, we'll|pretend we met in college.
+No 'I did time,' no 'we did time,|'None of that talk.
+Trust me, Moshe.
+Happy Holiday!|- Happy Holiday!
+Eliyahu, Yossef.|Our Ushpizin.
+Pleased to meet you. I'm Mali.|- Pleased to meet you.
+Come Yossef, sit here.|Come in, Eliyahu.
+Make yourselves at home.
+So?|- Far out.
+King of the universe,
+King of the universe,
+Who creates the fruit|of the vine. - Amen.
+Blessed are You, Lord our|God, King of the universe,
+Who chose us amongst nations,|Who gave us a holy tongue,
+Who sanctified us|with His commandments...
+And lovingly set forth,
+joyous holy days...
+such as this Succoth|holiday...
+A time to rejoice and remember|the Exodus from Egypt.
+Have some more.|- Gladly.
+Oh, the fish. Heavenly.|- To your health.
+You made it, Moshe?|- Heaven forbid. It was her.
+Bless those hands.|- Thanks.
+I like this 'kiddush' thing.|- Give me your glass.
+Watch it with him, Moshe.
+Whaùs with the looks?|Iùs just wine!
+Why has the Lord commanded|us to stay in the Succah?
+Not only stay there,|but everything:
+Eat, drink, sleep,|all in the Succah.
+Why is that?|God wanted us to feel
+that just as the Succah|is a temporary dwelling,
+so is this world,|temporary, passing,
+where we're merely guests.
+Now, he also explains...
+Man, you're heavy, Moshe.
+Well, OK. I'm done.
+Go on, Moshe. I want to hear.
+No, iùs OK. I'm done.|- Why? Iùs interesting.
+Say, iùs all there, in the book?|- Iùs all there.
+Let me have a look.
+Watch it, Yossef, you'll|end up finding God.
+Why not?
+The yarmulke suits him, no?
+Why not, really?
+Iùs not a bad life.|This temporary stuff's cool.
+You do your permanent stuff,|then we can talk temporary.
+I'm hungry. I had 3 helpings,|and I'm still hungry.
+There's plenty more.
+I'll clear the dishes.
+I'll get this...
+How long you been married,|Moshe?
+Almost 5 years.
+Hey, we haven't met in ages.
+Ages!
+What about kids, Moshe?
+None.|- How come?
+With GoÔs help.|I don't pray enough for it.
+With GoÔs help.|- But you have to!
+Iùs a commandment, right?|- Sure it is: 'Pru U'rvu'.
+Be fruitful and multiply...
+'Children are such joy... '|- Will you quit it, Yossef?
+Eat. Give him some bread.
+Don't know whaùs wrong with me.|I can't stop eating.
+Don't fill up on salad.|The meaùs on its way.
+You know what,|maybe she needs help.
+Wait, I'll be right back.
+Nice guy, huh?
+Don't be fooled. I don't|buy this saint routine.
+I know Moshe Belanga.|- People change.
+When did you last see him?|- Doesn't matter. I raised him.
+We were close like this.
+If he only thought you said|the wrong word, he'd attack.
+And I don't mean just attack,|I mean ATTACK!
+So now he's Moses?
+Whaùs the matter?|- Leave me alone.
+Whaùs with the face?|- What face?
+This one.
+The meaùs getting cold.|Leùs take it to the Succah.
+So they aren't exactly|the Holy Ushpizin, so what?
+So what?
+Are we any better?
+Iùs not just that.
+What is it, then?
+We will have a child.|- I'm not so sure anymore.
+We will have a child.|- You have to go, Moshe.
+I don't want to go.|I want a child with you.
+Like that?|- Only like that.
+Now leùs get to the Succah,|before Eliyahu eats the table.
+Did you see how|they attacked the fish?
+I wish them good health.
+Tell me, who are they?
+Eliyahu is from Eilat.|Yossef, I don't know him.
+And you didn't know|they were coming?
+So how come they|showed up like that?
+Aren't you drinking,|Moshe?
+Nothing left.|You finished it off.
+Where's the strong stuff?
+You want some strong stuff?|- Do you have any?
+What do you think?|I'd go without?
+Enough.|- You've hardly had any.
+I've had enough.|- I can't believe it, Yossef.
+If you only knew|who this man is.
+He could toss back two|bottles without twitching.
+What happened?|Does the Torah forbid it?
+No, a little bit is fine,|a lot is forbidden.
+Last one.
+Good night.|- Good night.
+Good night, Mali.
+How will I make it|to synagogue tomorrow?
+Every day, Moshe? No skipping?
+Skipping? Why skipping?|Tell me, Eliyahu, seriously,
+do you know what light will|descend upon us tomorrow?
+Rabbi Nahman from Breslau|says that
+the light descending is beyond|spirit, soul: Endless light!
+A light that can never|be conceived. By the mind.
+Except for one thing.
+You know how one can conceive it?|Only through faith. Only...
+You know what|I'm remembering now?
+Now, as we're sitting here,|drinking...
+That time, in the restaurant,|'The Fisherman's Boaù?
+There were lots of times.|- No!
+The time with the Americans,|remember?
+Eliyahu, leùs not reminisce,|OK?
+You hearing this, Yossef?
+Just to give you an idea of|who this man is,
+we're sitting, drinking,|having fun, when suddenly,
+three Americans walk in,
+big guys, huge, totally drunk.
+We see they're making|fun of us. Provoking us.
+I see Moshe starting|to heat up,
+and when he heats up,|there's nothing you can do.
+One of them steps up.
+Before he knows what hit him,
+Moshe...
+You remember, Moshe?|Blood gushing...
+Eliyahu, what are you doing?
+I'm telling Yossef who you are.|- OK, but no need to break bottles.
+Drop what you're holding.|- Whaùs wrong?
+Drop what your holding!
+You fight?
+Hard to believe.|- This is nothing!
+And this whole act.
+And this whole act.
+Moshe Belanga...
+The entire City of Eilat|was afraid of him.
+When he gets angry,|God have mercy.
+God have mercy, indeed.
+I hope I'll manage to repent|for all I've done in this world.
+Come on! Get off it!
+Beating people up;|- Drink!
+Iùs disgusting.
+Don't bring me down.|We were having a good time.
+A hammer, a nail,|we'll quickly take...
+A Succah, we'll build...
+Happy Holiday, Moyshe.|- What can I say, Rabbi.
+I didn't wake up.|- Better late than never!
+Whaùs happening, Moyshe?
+I'm a mess, Rabbi.|- Haven't seen you in a while.
+I had problems...|- How are things at home?
+Fine, thank God. The Lord|has been very generous.
+No complaints.|We've seen miracles.
+Nice.
+How's your wife?|- My wife's fine.
+Happy?|- Sort of happy.
+You should make her happy.|Always remember that.
+Your wife comes first.|She's the most important.
+Iùs your way of worshipping.|Iùs your Holiday.
+Rabbi, thaùs the problem.|You see, we have guests.
+Guests for the Holiday?|Whaùs the problem?
+Iùs good. Succoth is|a holiday of guests:
+The Holy Ushpizin!|- Rabbi, my guests are not so holy.
+Iùs a friend from|the old days, and his friend.
+They're not into the Torah|and commandments.
+All the better!|Thaùs the point.
+Don't forget where you were|until not long ago.
+I'm not forgetting.|I never forget that.
+Good. The holiday will pass,|the guests will leave,
+you'll have the intermediate|days, sit with her, talk,
+make her happy,|thaùs what matters.
+Go pray now.
+Wait up, Gabay. Wait up!
+Why are you angry at me?|- Drop it, iùs a holiday.
+I don't want to get upset.|- I was sure you abandoned it.
+Did you hear me say that?|- I saw you buy a new one.
+So what if I did?!
+Did I say I abandoned|the old one?
+We have laws, man!
+You know what you've done?
+You've ruined|my holiday, Ben Baruch!
+It wasn't even for me.|I wanted to help a friend.
+He had nothing.|Talk about evil urge!
+I wanted to help one Jew, and|ended up wronging another.
+Forgive me, brother.|- OK. Whaùs done is done.
+Happy Holiday.
+No way.
+What?
+You can't just walk away.|Give me a hug.
+Enough, Ben Baruch.|Whaùs done is done.
+Give me a hug!
+Who can resist you?! Ben Ba...
+Nice here, no?|- Sure is.
+Told you we'd manage.|- They must be looking for us.
+Don't worry.|They won't get here so fast.
+What would the cops look for|here, with the 'penguins'?
+Suits me fine.|I'd stay right here.
+I'm not sure it suits your friend.|- Who cares about him?
+He wants to be a saint, right?|Let him exercise hospitality.
+His wife's the problem.
+She's a jinx.|- Some couple. Bert and Ernie.
+Bert and Ernie! Good one!
+I'm hungry.
+Pass the salt.|- You have it. Leave some!
+We ran out.
+Is this piece available?|- That one's mine!
+You've eaten enough.|- Look who's talking.
+Blessed are You, Lord our|God, King of the universe,
+Who distinguishes the|sacred from the secular,
+light from darkness,|Israel from the nations,
+the seventh day of rest|from the six days of labor.
+Blessed is the Lord,
+Who separates the sacred|from the secular.
+Now, a cigarette.
+I'm going away.|- Whaùs that again?
+To my in-laws in Gedera.|What a drag.
+Oh.
+When?|- Now, in a bit.
+Can't really blow it off.|We promised to come.
+I didn't know we'd|have guests.
+OK. So...
+We'll also be off.|- Why so soon?
+Leùs have some coffee|for the road.
+Coffee, Eliyahu?
+No need.|- Right, no need.
+Leùs roll.
+See you, my brothers.
+I feel awful.|- What about?
+About the way I treated the guests.|I don't know what came over me.
+You treated them just fine.|They weren't too nice themselves.
+Thaùs just it. Iùs clear|as day that it was a test.
+Some test it woulÔve been|if they were nice guests.
+They couldn't wait to leave,|huh?
+No, they wanted to stay.|- You sent them away?
+I told them we were going to|see your parents. In Gedera.
+You lied.
+I lied.
+Shall we bake them?
+A blessing for having sons.
+What do we do now?
+Don't know.
+I don't like to plan.|Be spontaneous, Yossef.
+Your friend pulled|a fast one on us.
+Did you fall for that|Gedera line of his?
+You think he lied?|- I'm sure!
+Wanna bet?
+To life.
+To life.
+Why aren't you drinking?|- Don't feel like it.
+Oh, come on!
+Pure evil urge.|What a disgrace.
+We blew it, Moshe.|We blew it big time.
+So we blew it.
+Don't worry. The Lord|will send us other guests.
+Look at Abraham and Sarah.|They had a rough time, too.
+Think about it. Moshe.|They didn't have children.
+Year in year out,|decade in, decade out...
+What a rat...|- Told you so!
+Eating fish. I'd love|to see them choke on it.
+The worst people would|come to them. Heretics.
+And they waited on them,|served them,
+taught them that there is|a Master of this world.
+Finally, they were granted a son.|- Eat, sweetheart, eat.
+Who could it be this late?
+You wanted guests,|maybe God heard you.
+Who is it?
+Is this a bad time?
+Not at all.
+Not at all. Welcome.
+Please, come in.
+If you prefer to be|left alone, thaùs fine.
+Don't let us spoil|the romance.
+Look, Eliyahu: Fish, wine,|candlelight. How romantic!
+Moshe, nice one.
+Thaùs the Moshe I know.|- You know what, Eliyahu,
+I get this feeling|like we're not wanted here.
+Why do you say that?|God forbid! Come, sit.
+Maybe the rabbi's wife|would mind, huh, Mali?
+Not at all, we're so|pleased to see you.
+We didn't know|where you went, and...
+Whaùs that?
+Did you make that, Moshe?|Mullets?
+Sea Bream.|- Oh, Sea Bream!
+Good Lord!
+What a smell of garlic!
+Why didn't you go, then?
+My wife didn't feel too well,|so we decided to stay.
+You sick?|- I wasn't feeling too well.
+Get well soon.
+Thanks.|I feel a lot better now.
+Great.
+What about you?
+We already ate,|Lord be praised.
+Some salad would|work for me right now.
+Salad on the way.
+Heavy on the lemon, dear.|- No problem.
+Why are you standing, Moshe? Sit!|- Wait.
+Something to drink?
+No soda.
+Can't stand gases.|Bring something natural.
+Would you go|for some orange juice?
+I would run for it.|- Coming up.
+Moshe.
+What, bro?
+Got it. On me.
+Whaùs that?|- Moshe's French fries.
+The Lord loves you so much.|- Can you believe it?
+How they showed up.|I almost died.
+Did you add lemon? - A bit.|- Add more. Eliyahu loves it.
+Yes?
+How merciful is God.
+Lord, I love you so much.|What would I do without you?
+Moshe's French fries...|- 'Moshe's French fries... '
+Can I have a cigarette?
+Scorpio, a cigarette? Light?
+Yossef, more orange juice?
+I'm beat.
+Iùs OK if we sleep here?
+Of course. Today, tomorrow and|the next day, as long as you want.
+Right, Malka?
+What a question!|As long as you want.
+Are you sure? You don't|have to go anywhere?
+Gedera, Hadera, somewhere?
+Whaùs with them?|- Flow with it.
+You know, Moshe, one could|say many things about you,
+that you're a liar,|you're trash
+but if someone tells me|that you can't cook fish,
+I'd tell him you're a liar!|- Thanks.
+Whaùs right is right.
+I have to tell you:
+You're sweet,
+righteous, beloved.
+I'm just crazy about you.
+You did it big time. You've|given me another chance.
+Father. I swear I'll do anything|not to let you down.
+Anything.
+Good morning.|- Good morning.
+Is Moshe home?|- He's out. What do you need?
+You got a grill?|- Huh?
+A grill, A grill!|- A grill? Sure, wait a second.
+Excuse me, here's the grill.
+What, no meat?|- No. All gone.
+So what gooÔs a grill?|- When Moshe comes we'll buy some.
+Iùs noon. Eliyahu's hungry.|- What can I do?
+Moshe read all these?|- He's trying.
+Really nice.
+When is he coming home?|- Soon, any minute.
+Whaùs keeping you?|- There's a grill, but no meat.
+So what gooÔs a grill?
+What a mess.
+Where is a butcher|around here?
+There's one very close,|near the market...
+I can show you, iùs simple...
+Got any money left, Yossef?|- None.
+So what do we do? I'm hungry.
+You need money?
+A small loan would help.|- Sure, why not.
+Will this do?
+If you can spare another...
+Please.|To your health. Go and buy.
+Thanks!|- Yes, go and buy.
+Thanks a lot.
+Shake a leg, Yossef,|before it closes.
+Thanks, Father.
+Now you tell me?|Now you tell me?
+I didn't want to upset you.|Besides, we settled things!
+Ben Baruch...|Now it all adds up!
+That Succah brought me|nothing but grief.
+Stress, nerves, had a fight|with my wife, guests came.
+I threw them out. Lied to them.|Don't ask.
+Now I understand.|I stole the Succah!
+Where does he live?|- Who?
+Gabay, the guy whose Succah|we took.
+Near the market place,|by the Iraqi Synagogue.
+I'm going over there.|- Why? I told you iùs settled.
+Besides, he doesn't mind.|- I want to hear it for myself.
+Now I get why|these two showed up.
+Why are they staring at us?
+Go on, break it up! Go on!
+Get out of here! Animals!|- Listen to how you're talking.
+I'll say what I want.|I want them out of here!
+Thaùll get you nowhere!|Be nice. Let me, OK?
+Righteous one,|holy righteous ones.
+This is a religious neighborhood.
+What you're doing is inappropriate.
+Yeah, whatever. Beat it.
+Why do you talk to me|like that?
+Go! Go...
+Lord have mercy on your souls...|and make you repent...
+Whaùs going on?|Is it ready?
+Turn off the tape!
+Who's gonna make me?
+Mrs. Belanga, this is|impossible.
+What have you brought|into our neighborhood?
+Turn off the tape, please.|- Why?
+Iùs a religious neighborhood.|Turn off the tape.
+"Thou shalt rejoice in your|in your Festivals." Whaùs wrong?
+Wrong?!|Iùs a religious neighborhood!
+Don't you get it?
+You can't behave like this.
+Villains! - Why are you shouting?|- Blasphemy! Criminals!
+Profanity! Profanity!|- Thieves, Psychopaths!
+What kind of talk is this?|Watch your mouth.
+What you're doing, thaùs|blasphemy!
+God Almighty, you're the best.|Now I understand everything.
+Nothing is without reason.|No nature. Nothing by chance.
+I'd have never taken|taken that Succah.
+I asked Ben Baruch,|"Are you sure?"
+He said, "I'm sure".
+Lord, I'm begging you, open|Gabay's heart to forgive me,
+because I cant take this test|any longer! Forgiveness.
+Why are you doing this?
+Get in the Succah,|I beg of you!
+Sacrilege!|- Enough!
+They are Jews!
+No matter what,|I'm not turning it off.
+Who's there?
+Why are you shouting?|- Are you David Gabay?
+Yes, I am.|- Iùs me, with the Succah.
+What Succah? - I took your Succah,|with Ben Baruch.
+He told me he spoke with you.
+Iùs you. - Iùs me.|- I talked to him.
+Atonement for my sins.
+You absolve me?|You won't bear a grudge?
+No.|- Say it.
+Say what?|- That you absolve me.
+I absolve you.|- No, my good man.
+Say: "absolved, absolved,|absolved". Say it.
+Absolved, absolved,|Absolved.
+You've made me very happy.|Happy Holiday.
+If you only knew...|- Happy Holiday, good man.
+Forgiveness. Forgiveness.
+Sacrilege!
+I'm gonna kill him!!
+No!
+Drop what you're holding.|- She's nuts.
+I said drop it!|- Fine!
+Get in the house! Get in!
+Mali, what? A few laughs.|- Get in!
+Get in.|- OK, OK.
+Take it easy.
+Whaùs this?
+Mali!
+What happened?
+Mali.
+What happened here?
+Give me a cigarette.
+The neighbors, Mali...
+They've seen everything.|Give me a cigarette.
+What happened here?
+Where were you?
+Where were you the whole day?!
+I had something|important to check.
+Why did you leave me|alone with them?!
+I left them in the Succah!
+Like they'd stay|there all day!
+Just know, Heaven will|judge you for this.
+What did they do?
+What did they do?!|- They tried to kill Wolf!
+Animals!
+Keep your friends on a leash!
+Tell him what happened.
+They called the cops.
+I want law and order here!
+Where are they now?|- In the house.
+Go there, tell them to hide,|and don't open for anybody.
+Why?!|- Do as I say!
+Moshe, whaùs going on here?|- Do as I say. Quickly!
+Whaùs going on, Mali?|- A neighbor called the cops.
+Cops?!
+So much for time|off for good behavior.
+We lost that long ago!
+Escaped convicts...
+Moshe, I'll kill you.
+They had a BBQ, they made|trouble, people got angry,
+we sent them home.|We'll get over it.
+No harm done? Nobody hurt?|- No, the guy's just a bit crazy.
+Alright?
+Whaùs your name?
+Don't let it happen again.|- It won't.
+Is the coast clear?|- Wait a minute.
+My knees hurt. I'm coming out.|- Don't you dare!
+Who is it?|- Mali, open up, iùs me.
+He's gone. What miracles.
+Where are they?|- Here, Moshe.
+What are you doing?|Whaùs wrong?
+Whaùs wrong?|What are you doing?
+Liar.|- When have I lied?
+You know very well.|- No, I don't.
+Liar!
+What did you tell her?|- Not a word. I swear, Moshe.
+Wait, wait, I'll get to you.
+What is this all about?|- I'm leaving.
+But why? You can't just leave.
+You bet I can.|- But I don't know why.
+Step aside. - But what did I do?|- Let her go.
+'Friends from the old days! '|Liar!
+They are.|What do you want?
+Like you didn't know they|were criminals on the run?
+What? God forbid. Yossef,|Eliyahu, did you tell me this?
+Still lying?!|Do you think I'm an idiot?!
+He thinks I'm an idiot!
+Why did you turn white|when you saw the cops?
+Because you knew, right?
+Right or wrong?
+Mali, he didn't know.
+Shut up! Stay out of it!|- OK, OK.
+Shut up! Shut up!
+Did you know or not?
+I knew.|- Thaùs it. Now let me go.
+No!
+Let go of me,|or I'll beat you up!
+Let me explain...|- Explain what?
+Why you left me|here with killers!
+They're not killers.
+I don't care! Let me out!|- Mali, why the insults?
+Shut up!|Stay out of it!
+Moshe, Moshe!|- Shut up!
+Mali...
+Poor guy. We got him in deep.
+My love, all this grief,|all this mess...
+Iùs all because of the Succah.|Iùs over.
+I talked to him.|Gabay absolved me.
+What do you want from me?
+Ben Baruch told me that|it was abandoned!
+What was?|- The Succah!
+Wait a minute, Mali.
+My love, wait a minute,|don't go.
+Wait a minute.
+Look, I talked to him,|and he absolved me.
+Who? Ben Baruch?|- No! Don't you get it!
+Gabay! He lives|by the Iraqis' synagogue.
+You lost it totally, Moshe.|Leave me alone, OK?
+Mali?
+Wait. Iùs a test, right?
+Remember what you said|about Abraham and Sarah?
+It was a test,|I didn't want to blow it.
+Forget it.
+I don't want to.
+Forget it, Moshe. There won't|be a child. Not with me.
+Only with you.|- Go away, Moshe.
+Go find a new wife, make|a home, a family, children.
+You can. Don't get stuck|with me out of pity.
+Now, step aside|and let me go.
+Please stop following me.|I'm asking you.
+Like that?
+Only like that.
+Your wife left?|- She left.
+Did she really leave,|or will she come back?
+Don't know. I hope she'll|come back.
+She'll be back, with GoÔs help.|- With GoÔs help.
+Sorry, Moshe.|- For what?
+You didn't do anything.|- Not true.
+We came uninvited.|We messed up your life.
+Sorry.|- You didn't do anything.
+What are you? You're nothing.
+No Yossef, no Eliyahu.|Nothing.
+There's only God.|And he has his reasons.
+You hear that, Eliyahu?
+He said we were nothing.|And what are you?
+Shut up, Yossef.|- Who does he think he is?
+Nothing.
+Just like you.
+Hello?|- What time is it?
+2 AM. You sleeping?|- No.
+When are you coming back?
+I'm not.
+Get on a bus tomorrow,|come home.
+I miss you.
+I spoke with the Rabbi.|- What did he say?
+That I should stay at my mother's.|Go to the Rabbi.
+Who's out there?|- Belanga.
+He wants to see the Rabbi.|I told him to wait till morning.
+And?|- He said he'd wait.
+Send him in.
+Hello, Rabbi.|- To what do I owe the pleasure?
+My wife told me the Rabbi|was looking me.
+Sit down.
+Rabbi, she doesn't want|to come home.
+I told her to rest|for a few days.
+The Rabbi told her.
+Otherwise you wouldn't come.|I missed you.
+Could the Rabbi|speak with her again,
+tell her to come back?
+You know, Rabbi, I love her.|I can't live without her.
+You're a sweet man, Moshe.
+If you only knew what happened.|- I heard.
+I heard it all.|It will all be for the best.
+With GoÔs help.
+Rabbi, time for prayers.
+Do you have a prayer shawl|and 4 species?
+I left them at home.
+Vaknin, get him a prayer|shawl and 4 species.
+I want you to pray with me.
+Look at what our|teacher wrote here,
+a marvelous thing:
+When a man passes a test,
+he progresses. Right?
+He thinks that he earned|some rest.
+Iùs then that he's given|an even harder test.
+No 'resù.|No rest in this world.
+Above all, Moyshe,|don't get angry!
+Don't get angry!
+God Almighty,|save us from anger.
+Save us from anger.
+Thaùs a great lemon!
+Come on.
+Does it look OK?|- A 5 star hotel!
+Do we wait?|- You bet!
+Leùs make the man happy.|We messed him up for no reason.
+Good morning!|- Happy Holiday!
+Happy Holiday.|- Whaùs up?
+Moshe, Moshe.|- Did you invite guests?
+This is for you.|- For me?
+Looking good...
+Some more salad?|- Gladly.
+This salad hits the spot.
+Moshe,
+from all my heart,|I want to tell you something.
+You changed completely.|The truth...
+At first you pissed me off.|I didn't believe you one bit,
+but now I see iùs for real.|I have respect for that.
+I respect that.|- Thanks.
+How's the salad?|- Iùs pure health.
+Lemon kills all diseases.|- You didn't overdo it.
+Well, there was only one.|- None in the fridge?
+No, I checked everywhere.
+But suddenly, I see one on|a shelf. Luck!
+Who'd put a lemon on a shelf?|- Thaùs what I thought!
+And mind you, not in the|kitchen, in the living room!
+In the living room?
+No!
+Oh, no...
+Whaùs wrong with him?|- Moshe, whaùs wrong?
+Moshe, whaùs wrong?!
+Moshe, don't!
+Moshe...
+What?!|What, I don't understand!
+I really don't understand!|I don't understand at all.
+What do You want from me?|What?
+I just don't get it!|Have mercy. Explain it to me!
+I don't want to be angry,|God Almighty.
+I don't want to be angry!|I don't want to be angry,
+God Almighty.
+Have mercy on me...
+Have mercy on me...
+Moshe.
+Mali.
+You look good.
+I wanted to see you.
+Whaùs so funny?
+Nahman.
+What about Nahman?
+I want us to call him Nahman.
+What, you're...
+Are you sure?
+Mazal Tov, Moshe.
+Moshe, Mazal Tov.|- Mazal Tov, Mazal Tov.
+My Nachman.
+Blessed are You, Lord our|God, King of the universe,
+Who sanctified us with His|commandments
+and commanded us regarding|circumcision.
+Say 'absolveÔ, Gabay.
+Absolved, absolved,|absolved...
+Moshe, I told you there'd|be miracles!
+One must pass in this world|through some confusion,
+some obstacles, some changes,|until he understands
+a man has to pass this world|on a very narrow bridge
+and the truth is sharp|like a strand of hair
+and the main thing is|not to be afraid at all.
+We've got to rejoice and|never forget what we really are.
+There is God.|There's only God.
+In memory of RAFI BUKAEE|the film's producer
+Shuli Rand
+Michal Bat Sheva Rand
+Shaul Mizrahi
+llan Ganani
+Avraham Abutbul, Yonathan Danino|Rabbi Daniel Dayan, Michael Vaigel
+Direrctor: Gidi Dar
+Script: Shuli Rand
+Producers:|Rafi Bukaee - Gidi Dar
+Director of Phtography:|Amit Yasur
+Editors:|Isaac Sehayek - Nadav Harel
+Art Director: Ido Dollev
+Music: Nethaniel Mechaly
+Sound Designer & Mix: Chen|Harpaz
+Executive Producer: Shlomit Smadja|Line Producer: Gadi Levi
+Co-Producers: Maayan Milo,|Ziv Ben-Zvi
+English: Cnaan Liphshiz|Martin Rubinstein

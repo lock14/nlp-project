@@ -1,146 +1,43 @@
 ﻿1
-
 Advertise your product or brand here
 contact www.OpenSubtitles.org today
-
-
-
 [Birds: TWITTERING]
-
-
-
 [Water: RIPPLING]
-
-
-
 [Wind: BLOWING]
-
-
-
 [KISS]
-
-
-
 [Dog: BARKING]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [Wind: HOWLING]
-
-
-
 [Wind: HOWLING]
-
-
-
 [Bird: WHISTLE]
-
-
-
 [Birds: WHISTLING]
-
-
-
 [Bird: WHISTLE]
-
-
-
 [Wind: HOWLING]
-
-
-
 [CLANG]
-
-
-
 [Wind: HOWLING]
-
-
-
 [Dog: BARKING]
-
-
-
 [Dog: BARKING]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [SNIFFS]
-
-
-
 [Wind: BLOWING]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [CHUCKLES]
-
-
-
 [Mum: SHOUTING]
 Patrick!
-
-
-
 Come home immediately,
 clean your room,
-
-
-
 and make your homework,
 and you need to eat!
-
-
-
 Come home
 immediately!
-
-
-
 [Swing: chain RATTLES]
-
-
-
 [Birds: TWITTERING]
-
-
-
 [Music]
-
-
-
 The End
-
-
-
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 + |T|h|e| |D|e|a|f| |B|o|y|s| |F|o|r| |B|o|y|s| |G|r|o|u|p|  +
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
@@ -168,8 +65,5 @@ ____           __            ___   __              ___        __               _
 +                          A big Thank You to EVERYBODY                            +
 +        involved in making [closed capture] srt files and supporting us       +
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-
-
-
 Support us and become VIP member 
 to remove all ads from www.OpenSubtitles.org

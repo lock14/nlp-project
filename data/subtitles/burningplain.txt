@@ -1,3515 +1,1194 @@
-
-
 The Burning Plain
-
-
-
 - Subtitle -
 Completely fixed: titler
-
-
-
 Get up.
-
-
-
 What?
-
-
-
 Fell asleep again.
-
-
-
 Okay, just five more
 minutes, please.
-
-
-
 No.
-
-
-
 Get out.
-
-
-
 Come on.
-
-
-
 Hey.
-
-
-
 Late night?
-
-
-
 I guess.
-
-
-
 - Again?
 - Yep, again.
-
-
-
 Mmm.
 Same guy?
-
-
-
 Mmm.
-
-
-
 - Do I know him?
 - Maybe.
-
-
-
 Do you know him?
-
-
-
 - Good morning, everyone.
 - 'Morning.
-
-
-
 Talk to me, Lawrence.
 What do we have for specials?
-
-
-
 Lobster in a
 white wine sauce.
-
-
-
 - Mm-hmm. What else?
 - Halibut with spinach and almonds.
-
-
-
 - Mmm.
 - Seafood linguini in a tomato sauce.
-
-
-
 That looks good.
-
-
-
 What was it, 25 no-shows
 from last night's wedding?
-
-
-
 Welcome back,
 Mr. and Mrs. Evans.
-
-
-
 So nice to see you again.
 You remember Sophie.
-
-
-
 She'll escort you to
 your usual table.
-
-
-
 - Have a lovely meal.
 - Thank you.
-
-
-
 Follow me.
-
-
-
 Sylvia, table 6 needs
 help with wine.
-
-
-
 Okay, thank you.
-
-
-
 - Good afternoon.
 - Hi.
-
-
-
 Vivi just told me you need
 a wine recommendation.
-
-
-
 Yeah, we're having
 the petite filet.
-
-
-
 Um, I would highly
 recommend
-
-
-
 the '87 Chateau Castés.
 It's a beautiful Bordeaux.
-
-
-
 Mmm.
 I haven't heard of it.
-
-
-
 Well, it's not on our list.
-
-
-
 We have it on special
 reserve down in the cellar.
-
-
-
 But I think you'll
 really enjoy it.
-
-
-
 Thank you.
 That would be fantastic.
-
-
-
 - I'll be right back.
 - Okay.
-
-
-
 - Table 18 just ordered the check.
 - Okay.
-
-
-
 All right. I'll just have Vivi give
 you a tour before she closes out.
-
-
-
 I'm running out for a
 quick cigarette, all right?
-
-
-
 All right.
-
-
-
 That was a great suggestion,
 that Chateau Castés.
-
-
-
 It's one of my favorites.
-
-
-
 Yeah? Which white
 would you recommend?
-
-
-
 That would depend
 on the meal.
-
-
-
 It's okay. You can figure that
 out when I buy you dinner.
-
-
-
 Look,
 I don't date customers.
-
-
-
 This is where my dad and
 that fucking slut burned.
-
-
-
 How did the fire start?
-
-
-
 The cops said they left
 the gas on and it exploded.
-
-
-
 - So it was an accident?
 - Yeah.
-
-
-
 That's what
 the sheriff said.
-
-
-
 They were fucking
 when they died.
-
-
-
 Their bodies got stuck together
 'cause of the fire.
-
-
-
 They had to use a knife
 to cut them apart.
-
-
-
 And who was the bitch?
-
-
-
 Some married woman
 from Maroma.
-
-
-
 This is where they met...
-
-
-
 halfway between both towns.
-
-
-
 What the hell
 are you doing?
-
-
-
 What do you guess was going on through
 Dad's head when he was burning?
-
-
-
 Why'd you bring Xavier?
-
-
-
 'Cause he's my friend.
-
-
-
 We bury Dad tomorrow
 and you're running a circus.
-
-
-
 I ain't running
 no circus, bitch.
-
-
-
 Fuck you.
-
-
-
 Hey, Mom,
 Aunt Paula, Rebecca.
-
-
-
 Did you fight with Cristobal?
-
-
-
 No.
-
-
-
 I don't want any
 more fighting.
-
-
-
 Now more than ever.
-
-
-
 Okay.
-
-
-
 Hey, that's my
 dad's whiskey.
-
-
-
 Is it?
-
-
-
 When the hell is
 he gonna drink it?
-
-
-
 All I did was take care of him
-
-
-
 and take care of his boys!
-
-
-
 And this is what I get!
-
-
-
 If that's what he did to me,
 then you have to live with it
-
-
-
 like I have to live with it!
-
-
-
 He ruined my life!
 Everywhere I go,
-
-
-
 I have to look
 at that thing!
-
-
-
 I hate him!
-
-
-
 I'm a good person!
 I was a good wife!
-
-
-
-<i>Santiago?</i>
-
-
-
+Santiago?
 - Excuse me.
 - Cristobal?
-
-
-
 Your mom ain't going
 to the funeral.
-
-
-
 Me and Rebecca,
 we ain't going either.
-
-
-
 Son of a bitch
 doesn't deserve it.
-
-
-
 He never did
 anything to you.
-
-
-
 Take care of everything,
 both of you.
-
-
-
 "... but deliver us from evil,
-
-
-
 for Thine is the
 kingdom in heaven,
-
-
-
 forever and ever, amen. "
-
-
-
 - Amen.
 - Name of the Father and of the Son
-
-
-
 and of the Holy Spirit, amen.
-
-
-
 Amen.
-
-
-
 Who are they?
-
-
-
 Don't know.
-
-
-
 And now we bid farewell
-
-
-
 to our brother Nick Martinez.
-
-
-
 I hope your father's
 rotting in hell.
-
-
-
 That wetback piece of shit took
 away the best thing I ever had.
-
-
-
 Hey, leave the boys alone.
-
-
-
 Alone? It's their father's fault
 that my kids lost their mom!
-
-
-
 I hope you rot too.
-
-
-
 - Where is the ranch?
 - Finish it, buddy.
-
-
-
 There's a job in Los Aztecas.
-
-
-
 - Who wants to take it?
 - I win!
-
-
-
 How much are they
 paying per hectare?
-
-
-
 How much are they paying?
 50 pesos.
-
-
-
 There's 80 hectares.
-
-
-
 We'll take it.
-
-
-
 The pilot's on his way.
-
-
-
 One two three four,
 five six...
-
-
-
-<i>Maria, come on!</i>
-
-
-
+Maria, come on!
 Coming!
-
-
-
-<i>Maria, now!</i>
-
-
-
+Maria, now!
 Hurry Maria,
 your father's waiting.
-
-
-
 See you later.
-
-
-
 - It's a sorghum?
 - Yeah, a sorghum field.
-
-
-
 Hey, Daddy, what's up?
-
-
-
 Hey, honey...
-
-
-
 We got a job.
-
-
-
 Can I stay
 with my friends?
-
-
-
 Sorry, sweetie,
 we gotta go.
-
-
-
 - Please?
 - No, my dear.
-
-
-
 - Come on, please.
 - No.
-
-
-
 - Come on, please, come on please.
 - Stop it!
-
-
-
 Stop it? Stop it?
 You little whiner, get to work!
-
-
-
 Hold this for me, whiner.
-
-
-
 - You have the coordinates?
 - Yeah. I just put them into the GPS.
-
-
-
 That's the ranch.
-
-
-
 - Morning.
 - Good morning.
-
-
-
 Santiago Martinez,
 from Aero Fumigation.
-
-
-
 Carlos Alarid.
 Morning.
-
-
-
 We need you to dust
 this side of the ranch.
-
-
-
 We've pulled all the workers out,
 so it's all clear.
-
-
-
 There's a stove in that shack,
 and flour to make tortillas.
-
-
-
 - Do you need anything else?
 - No, thanks, we'll manage.
-
-
-
 - See you later then.
 - Hey, can I borrow your bicycle?
-
-
-
 - Sure, no problem.
 Thanks.
-
-
-
 - So, who goes first?
 - Let's flip fot it.
-
-
-
 - Come on, you go first.
 - Call it.
-
-
-
 - Tails, always tails.
 - Heads.
-
-
-
 Come on, you go first.
-
-
-
 - Hey, man, come on.
 - O.K.
-
-
-
 - You owe me one.
 - I owe you two.
-
-
-
 Be back in a minute.
-
-
-
 Ahh!
-
-
-
 What are you doing here?
 Like you've never done this before?
-
-
-
 I'm going to town
 to buy cigarettes.
-
-
-
 - O.K. I'll fix us something to eat.
 - Good.
-
-
-
 I'm sorry I'm late.
 I couldn't get away.
-
-
-
 Don't worry.
-
-
-
 Can I get in?
-
-
-
 Sure.
-
-
-
 Hi.
-
-
-
 Hi.
-
-
-
 Not there.
-
-
-
 Please.
-
-
-
 Do you want us to leave it
 for some other day?
-
-
-
 No.
-
-
-
 No, that's okay.
-
-
-
 Listen...
-
-
-
 my cousin lent me this place.
 I've never been there.
-
-
-
 But he tells me it's
 far away from everything.
-
-
-
 Do you want to go?
-
-
-
 It ain't no Hilton.
-
-
-
 I want cereal, Mariana.
-
-
-
 I wanted them
 over easy!
-
-
-
 Well, that's too bad for you
 'cause you got 'em well done.
-
-
-
 Mariana, what's for dinner?
-
-
-
 I can fix you and your friends
 some cereal.
-
-
-
 Hi, guys.
-
-
-
 The supermarket
 was packed.
-
-
-
 Lines wrapped around
 the aisles.
-
-
-
 Did your daddy call?
-
-
-
 Yeah. He's gonna come in
 the day after tomorrow.
-
-
-
 He's making a delivery
 to Abilene.
-
-
-
 That's okay.
 I'll, I'll do it.
-
-
-
 - Hey.
 - Hey. Guess what?
-
-
-
 Senator Parkes's
 office just called.
-
-
-
 He's coming in today for
 lunch with a party of eight.
-
-
-
 Shit. They can't call
 a day ahead?
-
-
-
 Lawrence?
-
-
-
 We have the senator
 coming in in two hours.
-
-
-
 - He'll want the usual.
 - Two hours?
-
-
-
 Where does he expect
 me to get everything?
-
-
-
 Let me call Forrester at the
 fish market, see what he can do.
-
-
-
 Where were you
 last night?
-
-
-
 What?
-
-
-
 Where were you
 last night?
-
-
-
 Home.
-
-
-
 Who with?
-
-
-
 You promised to never
 ask any questions.
-
-
-
 Who the fuck with?
-
-
-
 We have work to do.
-
-
-
 I'll be right back with another bottle.
 Enjoy your meal.
-
-
-
 Why is the senator's
 wine glass empty?
-
-
-
 Sorry, Sylvia.
-
-
-
 The senator seemed pleased.
-
-
-
 I'll say.
 He left a $500 tip.
-
-
-
 I think he wants us to vote
 for him in his next election.
-
-
-
 - You're unbelievable.
 - No, I'm not.
-
-
-
 That's what I want for
 Christmas next year.
-
-
-
 Remember that.
-
-
-
 Have fun!
-
-
-
 Sylvia, who the
 hell is this guy?
-
-
-
 Jesus Christ, John,
 don't do this right now.
-
-
-
 - He's just a friend, okay?
 - He's a customer.
-
-
-
 I saw him having lunch
 here yesterday.
-
-
-
 Yeah, yesterday.
-
-
-
 Hey, what, do you just fuck
 whoever you want to fuck,
-
-
-
 and that's it?
-
-
-
 When you leave your wife,
 then you can talk.
-
-
-
 Let's go.
-
-
-
 - Jesus.
 - I want to talk to you.
-
-
-
 - Unlock the door.
 - Hey.
-
-
-
 - Come out and talk to me.
 - Come on, leave her alone.
-
-
-
 Fuck off.
 Sylvia.
-
-
-
 - What is your problem?
 - I want to talk to you.
-
-
-
 - My friend, leave her alone.
 - I told you to fuck off.
-
-
-
 - Didn't I?
 - John!
-
-
-
 Jesus Christ.
 What are you, seven?
-
-
-
 - What are you doing?
 - I want to talk to you.
-
-
-
 Oh, this is bullshit.
 I'll leave you
-
-
-
 to figure your shit out
 with your boyfriend.
-
-
-
 - He's not my boyfriend.
 - What's wrong with you?
-
-
-
 - What are you doing this for?
 - Don't fucking touch me.
-
-
-
 - Give me five minutes.
 - What do you think,
-
-
-
 - you can just fucking follow me?
 - Hey, Sylvia.
-
-
-
 You don't own me, John.
 Do me a favor and fuck off.
-
-
-
 I'll... let me
 take you home.
-
-
-
 - What do you want?
 - Are you ok?
-
-
-
 - Are you ok?
 - I don't understand you!
-
-
-
 Hey hey...
-
-
-
 - I can drive you home.
 - What?
-
-
-
 I can drive you home.
-
-
-
 Come on.
 Hey. I'll take you home.
-
-
-
 Come on.
-
-
-
 What's your name?
-
-
-
 My name's Carlos.
-
-
-
 You?
-
-
-
 Sylvia.
-
-
-
 Sylvia?
-
-
-
 Yeah, Sylvia.
-
-
-
 Hi.
-
-
-
 You know who I am?
-
-
-
 I'm not here to fight.
-
-
-
 Then what do you want?
-
-
-
 I just want to know more,
 that's all.
-
-
-
 Who your mom was...
-
-
-
 what she did with my dad.
-
-
-
 We already know
 what she did.
-
-
-
 No, we don't.
-
-
-
 Can I talk to
 you someday?
-
-
-
 Okay. I'll come
 look for you then.
-
-
-
 Daddy!
-
-
-
 Daddy!
-
-
-
 Daddy!
-
-
-
 - Hey.
 - Hey, darlin'.
-
-
-
 I thought you didn't get
 back until tomorrow.
-
-
-
 Yeah,
 but I wrapped up early.
-
-
-
 - Mmm.
 - Mmm.
-
-
-
 - So where are the kids?
 - They went to a baseball game.
-
-
-
 You want to wait and
 have lunch with them?
-
-
-
 Yes.
-
-
-
 I'll get cleaned up.
-
-
-
 - Here, hon.
 - Thanks, baby.
-
-
-
 I'll have this working
 in no time.
-
-
-
 I have to go out
 this evening.
-
-
-
 Where?
-
-
-
 To the Kmart
 in Santa Elena.
-
-
-
 I'll come with you.
-
-
-
 Well, I have to pick up fabric
 and go to the butcher's.
-
-
-
 That's all right. I'll ride along.
 I need to... buy me a radio.
-
-
-
 - Whoa.
 - Hey.
-
-
-
 Hey.
 Hi, guys.
-
-
-
 - Working now.
 - Daddy, Daddy!
-
-
-
 I'm so happy
 you're here!
-
-
-
 - Yes!
 - Ooh!
-
-
-
 - Hey, Dad.
 - Hey, little girl.
-
-
-
 Come on, sweetheart,
 hop in.
-
-
-
 There you go.
-
-
-
 Oh, I forgot my wallet.
-
-
-
 I want the window!
-
-
-
 Bobby, Monnie...
 Bobby!
-
-
-
 Bobby, she was there first.
 Either sit down or get in the back.
-
-
-
 - Put your seat belt on.
 - It's not fair.
-
-
-
 - Put your seat belt on.
 - Kids, listen to your sister.
-
-
-
 - I'm gonna go pee.
 - This isn't even my seat belt.
-
-
-
 I, I miss you too.
-
-
-
 I'll try.
 I'll try to get loose.
-
-
-
 - Love you.
 - Who're you talkin' to?
-
-
-
 Your Aunt Leticia.
 Come on, they're waiting for us.
-
-
-
 - Where are you going?
 - Bathroom.
-
-
-
 Daddy, I want that one.
-
-
-
 No, we're trying to
 save up now, remember?
-
-
-
 I need you to find these
 things on the list.
-
-
-
 And please help
 Monnie find a blouse.
-
-
-
 Could I have the keys? I want to
 go pick up that fabric I ordered.
-
-
-
 I want to
 come with you.
-
-
-
 You go with your sister and
 find a blouse. I won't be long.
-
-
-
 - Come on, baby.
 - Dad, I'm gonna go over here.
-
-
-
 Hi.
-
-
-
 Hi.
-
-
-
 There she is.
-
-
-
 I'm sorry, guys.
-
-
-
 The order wasn't ready
 and they made me wait.
-
-
-
 I gotta go back
 and pick it up.
-
-
-
 I've got to be able to make Monnie's
 dress for the school presentation.
-
-
-
 Did you get everything
 on the list?
-
-
-
 - Mariana?
 - Could you open the back, honey?
-
-
-
 Oh, sure.
-
-
-
 - Give me the keys.
 - Okay, guys.
-
-
-
 You okay?
-
-
-
 You want to come in?
-
-
-
 Come in?
-
-
-
 Yes, come in.
-
-
-
 Um...
-
-
-
 Okay.
-
-
-
 Do you want
 something to drink?
-
-
-
 Drink?
 No. No drink.
-
-
-
 I'm gonna change.
 I'm freezing.
-
-
-
 Sure you don't want some?
-
-
-
 No.
-
-
-
 Why?
-
-
-
 You don't like me?
-
-
-
 What are you doing?
-
-
-
 If my dad finds out you're here,
 he's gonna kill you.
-
-
-
 I told you I'd
 come look for you.
-
-
-
 Yeah, but not here.
-
-
-
 Wait for me at the windmill,
 on the way to Guadalupe.
-
-
-
 Okay.
-
-
-
 Why do you want
 to see me?
-
-
-
 I don't know.
-
-
-
 I don't think it's okay
 for you to talk to me.
-
-
-
 Why?
-
-
-
 Do you look like
 your mom?
-
-
-
 No.
 Do you look like your dad?
-
-
-
 A little.
-
-
-
 Do you know how your mom
 and my dad met?
-
-
-
 No, I have no idea.
-
-
-
 Hand it over.
-
-
-
 I got it.
-
-
-
 You like hunting?
-
-
-
 A lot. A boyfriend
 used to take me,
-
-
-
 but I haven't gone back
 since we broke up.
-
-
-
 My dad taught me
 how to hunt.
-
-
-
 Did you love your dad?
-
-
-
 Yeah.
-
-
-
 I loved my mom too, but,
 I didn't like her.
-
-
-
 Do you have any pictures?
-
-
-
 You don't look
 like him at all.
-
-
-
 It's done.
 Take it off.
-
-
-
 I can't.
 It's too hot.
-
-
-
 Doesn't that burn?
-
-
-
 Here, sweetie.
-
-
-
 - No, thanks. - Just have a little.
 You haven't had anything all day.
-
-
-
 - Are you Carlos Alarid?
 - Yes.
-
-
-
 The patient has asked
 to speak to you.
-
-
-
 He asked just for him.
-
-
-
 Wait for me,
 I'll be right back.
-
-
-
 Let's go.
-
-
-
 I don't have time to argue.
 Please, come on.
-
-
-
 I need you to pack a suitcase with
 enough clothes to last a week.
-
-
-
 I'm not going anywhere.
-
-
-
 - I don't want to meet that woman.
 - Just pack your bag and take a bath.
-
-
-
 - And if I don't want to?
 - She's your mother.
-
-
-
 - My mother? I've never seen her!
 - You're coming with me, ok?
-
-
-
 - Fuck, I don't want to!
 - Where did you learn to talk like that?
-
-
-
 Ever hear your father curse like that?
 Take a bath and pack your stuff.
-
-
-
 - You're getting on that plane
 whether you like it or not. - No!
-
-
-
 How do you like it?
-
-
-
 It's cold.
-
-
-
 There you go. The room
 will warm up in a bit.
-
-
-
 Did you meet my mother?
-
-
-
 I met your dad after she left.
-
-
-
 Why did she leave us?
-
-
-
 I don't know.
-
-
-
 Your dad tried to find
 her several times.
-
-
-
 He just recently found
 out where she lives.
-
-
-
 - I don't want to meet her. Let's go back.
 - Don't start, please.
-
-
-
 Your father asked
 me to find her.
-
-
-
 And we are going to find her.
-
-
-
 Hi.
-
-
-
 Wow.
 Look at this place.
-
-
-
 Ha!
-
-
-
 You make me so happy.
-
-
-
 And I'd be even happier if we
 could have some hot water
-
-
-
 so I could take a shower.
-
-
-
 You taste better this way.
-
-
-
 No, no.
-
-
-
 Please not, not there.
-
-
-
 Why?
-
-
-
 Because I don't like
 that part of my body.
-
-
-
 And how do you know
 I'm not gonna like it?
-
-
-
 I had cancer
 two years ago.
-
-
-
 Hey.
-
-
-
 Where were you?
-
-
-
 I was at Libby's.
-
-
-
 Bobby cut his arm
 with a piece of glass.
-
-
-
 Dr. Page had to
 sew him up.
-
-
-
 - Is he okay?
 - He's fine.
-
-
-
 He wouldn't stop crying
 and asking for you.
-
-
-
 - Y'all be good now.
 - Bye!
-
-
-
 I forgot my homework.
 Keep going.
-
-
-
 - I'll catch up with you later.
 - We'll wait for you.
-
-
-
 No, go on.
-
-
-
 - Hi.
 - Hi.
-
-
-
 Now we are finally
 getting some hot water.
-
-
-
 - Can I help you?
 - That's okay.
-
-
-
 Almost there.
-
-
-
 - Is it working?
 - That's it.
-
-
-
 What are you doing?
-
-
-
 What do you want?
-
-
-
 We have to talk, Mariana.
-
-
-
 You have the wrong girl.
 My name is Sylvia. Okay?
-
-
-
 Santiago sent me
 to look for you.
-
-
-
 What did you just say?
-
-
-
 Santiago...
-
-
-
 ...sent me to look for you.
-
-
-
 Mariana,
 this is your daughter.
-
-
-
 Her name is Maria.
-
-
-
 Stay away from me.
-
-
-
 This is my mom and dad
 with us when we were little.
-
-
-
 You look like Betty
 from "Archie. "
-
-
-
 This is my mother's
 last picture.
-
-
-
 It was her birthday.
-
-
-
 And this is me.
-
-
-
 Can I have this one?
-
-
-
 Only if you give me a scar.
-
-
-
 What?
-
-
-
 I want to
 remember this day.
-
-
-
 Will you give me one?
-
-
-
 Come get me tonight.
-
-
-
 My dad's away
 on business.
-
-
-
 We can go to the desert
 and burn chollas.
-
-
-
 My grandfather told
 me that the smoke
-
-
-
 of a burnt cholla
 is purifying.
-
-
-
 They burn like fireworks.
-
-
-
 Yeah.
 I love it.
-
-
-
 Roll up your sleeves.
-
-
-
 What for?
-
-
-
 So you can give
 me your scar.
-
-
-
 Shit.
-
-
-
 It burns.
-
-
-
 Stop it.
 You're gonna hurt yourself.
-
-
-
 This is for you.
-
-
-
 Good night.
-
-
-
 Let me sleep with you.
-
-
-
 Are you crazy?
-
-
-
 I swear, I won't
 lay a finger on you.
-
-
-
 You're gonna wake up
 my sister Monnie.
-
-
-
 You said your dad's
 not home.
-
-
-
 We could sleep
 in his room.
-
-
-
 What did your mom
 wear to bed?
-
-
-
 A slip.
-
-
-
 Can you put it on?
-
-
-
 I'm wearing my
 father's shirt.
-
-
-
 You promise not
 to touch me?
-
-
-
 I promise.
-
-
-
 Does your burn hurt?
-
-
-
 No.
-
-
-
 Mine hurts a lot.
-
-
-
 You promised you
 wouldn't touch me.
-
-
-
 Do you want me to go?
-
-
-
 No.
-
-
-
 Sylvia,
 Mr. Drummond called.
-
-
-
 He's bringing a big
 party of eight.
-
-
-
 - And we're booked.
 - I know.
-
-
-
 What do you want
 me to do, Sophie?
-
-
-
 Are you okay?
-
-
-
 Just take care of things
 for a while. I'll be back.
-
-
-
 Hi.
-
-
-
 Can you come outside?
-
-
-
 We need to talk.
-
-
-
 What's up?
-
-
-
 Do you like me?
-
-
-
 I mean...
-
-
-
 do you think you
 could love me?
-
-
-
 I don't know.
 I guess so.
-
-
-
 Let's just
 get out of here.
-
-
-
 Just me and you, today.
-
-
-
 What are you
 talking about?
-
-
-
 Let's just pack your car up
 and we'll go somewhere new
-
-
-
 and start over. Somewhere,
 anywhere but here. Just, let's go.
-
-
-
 - You know, I don't understand...
 - Yes or no.
-
-
-
 I don't know.
 I gotta think about it.
-
-
-
 Mariana.
-
-
-
 Mariana!
-
-
-
 I can certainly
 sympathize with him.
-
-
-
 I've had a weight
 problem my entire life.
-
-
-
 Of course I've always
 liked to eat...
-
-
-
 Hiya, everybody.
-
-
-
 Hi, Mom.
-
-
-
 You had dinner?
-
-
-
 No, we were
 waiting for you.
-
-
-
 I'll go get it started.
-
-
-
 Why are you so late?
-
-
-
 Honey, you scared me.
-
-
-
 What did you do today?
-
-
-
 I went to pick up
 some fabric
-
-
-
 and then I went
 to Libby's.
-
-
-
 I also went to Libby's.
 I didn't see you there.
-
-
-
 Well, maybe you weren't
 there when I was there.
-
-
-
 I was there since 4:00.
-
-
-
 Stop asking questions
-
-
-
 and help me
 clean up this mess.
-
-
-
 Nick?
 Hey, it's Gina.
-
-
-
 I need to talk to you.
-
-
-
 No, not at the trailer.
-
-
-
 Um, the supermarket?
-
-
-
 Say, 11:00?
-
-
-
 Okay, bye.
-
-
-
 I love you. You love me.
 I don't know if it's right,
-
-
-
 but it's real.
 Do you want to let it go?
-
-
-
 Nick, please
 just understand.
-
-
-
 Answer me.
 Do you want to let it go?
-
-
-
 I don't want to
 see you anymore.
-
-
-
 Forever?
-
-
-
 I can't keep seeing you.
-
-
-
 I'm gonna wait for you at
 the trailer every day at noon
-
-
-
 until you come back.
-
-
-
 - Hi, Mom.
 - Hey.
-
-
-
 I've got a surprise.
-
-
-
 What's this?
-
-
-
 Well, we haven't had a picnic in
 a long time, so I just thought...
-
-
-
 On the patio?
 It's kind of cold out here, honey.
-
-
-
 - Is there anything for Stripes?
 - Stripes can have a cookie.
-
-
-
 - Okay.
 - Can I have a cookie?
-
-
-
 No, not until you've
 had your lunch.
-
-
-
 I'll do the burgers.
-
-
-
 - Is mine ready?
 - No, not yet.
-
-
-
 Hey, guys,
 come join us.
-
-
-
 - Hey, kids.
 - Why are we having a party?
-
-
-
 It's not a party.
 It's just a picnic...
-
-
-
 just for fun.
-
-
-
 - I have homework to do.
 - Oh, come on.
-
-
-
 Don't you want to roast
 some marshmallows?
-
-
-
 I'm not a kid, Mom.
-
-
-
 Mariana, how about you?
 Just for a little bit.
-
-
-
 I have to go to Carrie's house
 to work on a school project.
-
-
-
 - Bye, Daddy.
 - Bye, sweetie.
-
-
-
 I can't.
-
-
-
 I just can't.
-
-
-
 I'm sorry.
-
-
-
 You may want to brush up on the
 newest traffic laws in Oregon...
-
-
-
 Coming.
-
-
-
 Hey.
-
-
-
 Are you okay?
-
-
-
 They haven't
 been here either.
-
-
-
 - I think we should check
 The Palms. - No.
-
-
-
 We're never gonna find them.
 They're gone.
-
-
-
 Believe me, a Mexican
 and a 12-year-old girl
-
-
-
 are pretty hard to hide.
-
-
-
 We're gonna find her.
-
-
-
 We just need to
 keep looking.
-
-
-
 When was the last
 time you saw her?
-
-
-
 I left her two days
 after she was born.
-
-
-
 Why?
-
-
-
 I didn't deserve her.
-
-
-
 Teachers must
 really like you!
-
-
-
 - Hey, hon.
 - Hey.
-
-
-
 - There's somebody here
 to see you. - Hi.
-
-
-
 Hey, you never told
 us about Mariana.
-
-
-
 She's a friend from school.
-
-
-
 You want to
 stay for lunch?
-
-
-
 No, thanks.
-
-
-
 No, we're gonna grab
 lunch somewhere else.
-
-
-
 All right, well, we're gonna
 have lunch at Paula's.
-
-
-
 Yeah.
-
-
-
 - It's very nice to meet you.
 - Nice to meet you.
-
-
-
 - See you later.
 - Bye.
-
-
-
 Have fun.
-
-
-
 See you.
-
-
-
 What are you doing here?
-
-
-
 I wanted to see
 your parents' room.
-
-
-
 It's this way.
-
-
-
 Did your mom and
 dad get along?
-
-
-
 So-so.
-
-
-
 Come here.
-
-
-
 Still hurt?
-
-
-
 No.
-
-
-
 With a little girl?
 You're sure?
-
-
-
 Thank you.
-
-
-
 They're in room 51.
-
-
-
 - What?
 - 51.
-
-
-
 What do you want?
-
-
-
 - I want to see my daughter.
 - I don't understand.
-
-
-
 - Her hija, her daughter. - Eh?
 - I don't want to see her!
-
-
-
 - She doesn't want to see you.
 - Tell her to go away!
-
-
-
 - You left us standing in the street.
 Now fuck off! - Maria!
-
-
-
 Don't worry.
 We'll figure something out.
-
-
-
 Hey.
-
-
-
 Hey!
-
-
-
 Maria?
-
-
-
 Please, just let me talk
 to you for a second.
-
-
-
 - What the fuck do you want?
 - No, just...
-
-
-
 - What the fuck do you want?
 - I am begging you, please, just...
-
-
-
 - Leave her in peace! - Please...
 - Fuck you "please"!
-
-
-
 - Carlos?
 - What?
-
-
-
 Leave her.
-
-
-
 Are you sure, sweetie?
-
-
-
 Can I sit down?
-
-
-
 I'm really sorry I ran away
 like that yesterday.
-
-
-
 I didn't...
-
-
-
 You just...
-
-
-
 Maria, do you
 speak English?
-
-
-
 You're all grown up.
-
-
-
 I think about you
 all the time...
-
-
-
 especially on
 your birthdays.
-
-
-
 I try to imagine
 what you look like.
-
-
-
 You're so beautiful.
-
-
-
 You look just
 like your father.
-
-
-
 My dad's in the hospital.
-
-
-
 Why?
-
-
-
 His plane crashed.
-
-
-
 Is he okay?
-
-
-
 I don't know.
-
-
-
 He's a pilot?
-
-
-
 He's a crop duster.
-
-
-
 You didn't know?
-
-
-
 Is everything fine?
-
-
-
 Your father asked me to bring
 her back to Mexico with us.
-
-
-
 Do you want her to come?
-
-
-
 Alright.
-
-
-
 'And may You take care
 of us and everyone else'.
-
-
-
 Amen.
-
-
-
 Okay, hop in.
-
-
-
 Have you said
 your prayers?
-
-
-
 I don't pray anymore.
-
-
-
 That's wrong, Mariana.
-
-
-
 Lots of things
 are wrong, Mom,
-
-
-
 and they can't be
 fixed by praying.
-
-
-
 You've been acting
 so strange lately.
-
-
-
 Tomorrow I want you to tell
 me what's on your mind.
-
-
-
 - Good night, sweetie.
 - Good night, Mom.
-
-
-
 Good night.
-
-
-
 The girl you brought
 home the other day...
-
-
-
 ...it was her daughter?
-
-
-
 Yes.
-
-
-
 Are you fucking her?
-
-
-
 Why are you doing this?
-
-
-
 It's none of your business.
-
-
-
 - Can't be doing this shit to your mom.
 - Stay out of this.
-
-
-
 It's not enough what
 already happened?
-
-
-
 It's got nothing
 to do with you.
-
-
-
 You're gonna stop
 seeing her.
-
-
-
 You understand?
-
-
-
 Do you understand?
-
-
-
 Do you enjoy
 betraying your family?
-
-
-
 I'm talking to you,
 you son of a bitch.
-
-
-
 - I didn't betray anyone.
 - You are worse than your father.
-
-
-
 You dared to
 bring her home?
-
-
-
 You're going to be
 buried in hell with him.
-
-
-
 I'm sorry.
-
-
-
 Get out of here!
-
-
-
 Ahh!
-
-
-
 What happened?
-
-
-
 Tell me this ain't true.
-
-
-
 This...
 tell me this is a lie.
-
-
-
 Did you actually
 sleep with him?
-
-
-
 Santiago, my dad is on
 his way to get you.
-
-
-
 Go now, and come get me.
-
-
-
 What grade are you in?
-
-
-
 In eighth grade.
-
-
-
 Do you have a boyfriend?
-
-
-
 No.
-
-
-
 Do you?
-
-
-
 I don't have a boyfriend.
-
-
-
 Jose Sanchez Martinez.
-
-
-
 I want to have plastic
 surgery on my breast.
-
-
-
 Don't do it.
 I love how you look.
-
-
-
 The scar is so ugly.
-
-
-
 You beat death.
 You fought and won.
-
-
-
 That makes your
 scar beautiful.
-
-
-
 Don't erase it.
-
-
-
 Get out, Mom.
-
-
-
 Get out, Mom, get out, Mom,
 get out, Mom, get out...
-
-
-
 Mom!
-
-
-
 - Is it alright if the girl hears this?
 - Yes, it's her father.
-
-
-
 We have to operate.
 There have been complications...
-
-
-
 ...and if the infection is
 worse than we think...
-
-
-
 ...we might have to
 amputate his leg.
-
-
-
 May we see him?
-
-
-
 You can see him,
 but he's sedated.
-
-
-
 Hey, Daddy.
-
-
-
 Don't get too close.
-
-
-
 He's going to be okay, right?
-
-
-
 Yeah, he's gonna be fine.
-
-
-
 I love you, Daddy.
-
-
-
 No...
-
-
-
 You can't be in here,
 you have to leave.
-
-
-
 Let's go.
-
-
-
 Maria, let's go.
 It's time.
-
-
-
 Come on.
-
-
-
 Can I...
-
-
-
 can I just stay
 for a little longer?
-
-
-
 What did she say?
-
-
-
 She's his wife,
 I think she wants to stay.
-
-
-
 Two minutes.
-
-
-
 Santiago?
-
-
-
 It's me...
-
-
-
 Mariana.
-
-
-
 You're not gonna die,
 are you?
-
-
-
 'Cause if you die, I wouldn't
 know what to do with her.
-
-
-
 I can barely look
 her in the eyes.
-
-
-
 She needs you.
-
-
-
 And I need you.
-
-
-
 I'm so scared.
-
-
-
 I've been living scared of
 myself and now I can't...
-
-
-
 I can't run away anymore.
-
-
-
 I killed them.
-
-
-
 I killed your father
 and my mother.
-
-
-
 I didn't mean to, but...
-
-
-
 now I can't get the smell
 of them burning...
-
-
-
 I can't get rid of it.
-
-
-
 Why did you want me
 to come back here?
-
-
-
 Why?
-
-
-
 Why?
-
-
-
 Mariana, where
 are you going?
-
-
-
 - What the hell are you doing?
 - Just let me go!
-
-
-
 I'm gonna tell Dad.
-
-
-
 Tell him whatever you want.
-
-
-
 You know, you can sleep in your room.
 I'll sleep out here.
-
-
-
 No, it's okay.
-
-
-
 What happened?
-
-
-
 Nothing, I just
 burned myself once.
-
-
-
 My dad has the same scar
 in the same place.
-
-
-
 He says he did it
 to never forget you.
-
-
-
 So did I.
-
-
-
 I have a scar too.
-
-
-
 What happened?
-
-
-
 I fell when I was three.
-
-
-
 Are you gonna
 stay with us?
-
-
-
 I don't know.
 I have to talk to him.
-
-
-
 You know, it's been
 a long time and...
-
-
-
 You're leaving again,
 aren't you?
-
-
-
 I'm tired.
-
-
-
 Good night.
-
-
-
 Good night.
-
-
-
 Where are we?
-
-
-
 That's Mexico.
-
-
-
 What are we gonna
 do over there?
-
-
-
 Live in peace.
-
-
-
 I'll never have peace again.
-
-
-
 I'm pregnant.
-
-
-
 - What?
 - I'm pregnant and I don't want it.
-
-
-
 We can live in Mexico...
 the three of us.
-
-
-
 No, I can't.
 I can't have it.
-
-
-
 Can I talk to you
 for a minute?
-
-
-
 Maria...
-
-
-
 ...do you think you
 can forgive me for not...
-
-
-
 ...for not being here
 all these years?
-
-
-
 I left you because I was
 scared that you'd be like me...
-
-
-
 ...that you'd come
 out like me.
-
-
-
 Do you think you
 can forgive me?
-
-
-
 Please?
-
-
-
 I want to go
 see my dad now.
-
-
-
 - Good day. - Good day, Doctor.
 How did the operation go?
-
-
-
 We were able to clean the infection,
 and we pinned the bone.
-
-
-
 - Did he lose the leg?
 - No, he didn't.
-
-
-
 We still have to see how things go,
 but he's doing pretty well.
-
-
-
 - May I see him?
 - Yes, you can see him.
-
-
-
 My dad's gonna be okay.
-
-
-
 Are you coming?
-
-
-
 - Subtitle -
 Completely fixed: titler

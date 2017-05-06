@@ -1,2027 +1,614 @@
-
-
 It seems our little secret's out.
-
-
-
 - They're opening up everywhere.
 - All over the world.
-
-
-
 This is it, we're about to make history.
-
-
-
 Stop him. Do whatever you have to.
-
-
-
 See, I know that you think
 you're doing the right thing,
-
-
-
 but you couldn't be more wrong.
-
-
-
 New Dawn kills everything.
-
-
-
 There are dinosaurs roaming the streets.
-
-
-
 - That's what the ARC's for!
 - The ARC has failed.
-
-
-
 Yes! I'm in.
-
-
-
 - It's Connor.
 - Get him down from there.
-
-
-
 Come on, April.
 Don't give me an excuse to fry you.
-
-
-
 Philip! You've got to
 listen to me, I've seen this!
-
-
-
 You're going to kill everything.
 Philip, no!
-
-
-
-<i>Auxiliary power activated.</i>
-
-
-
+Auxiliary power activated.
 Cheer up, Matt, it's working.
-
-
-
 - No!
 - Connor!
-
-
-
 No!
-
-
-
 We have to go after Connor.
-
-
-
 Philip, at least let me go after him!
-
-
-
 No one is going after Connor
 until this anomaly is stable.
-
-
-
 But you can't control this!
 You have to listen to me!
-
-
-
 No, you listen to me.
-
-
-
 This machine is already generating
 more power
-
-
-
 than the entire National Grid
 and this is only the beginning.
-
-
-
 Did you ever even care about him?
-
-
-
 That kid worshipped you!
-
-
-
 Of course I cared for him.
-
-
-
 And if he is dead, it'll be your fault.
-
-
-
 Because he wouldn't even
 have been up there
-
-
-
 had you not poisoned him against me.
-
-
-
 Look around you, Matt.
-
-
-
 The world didn't end.
-
-
-
 You were wrong.
-
-
-
 This machine is a force for good.
-
-
-
 My work, Connor's work.
-
-
-
 I know he would have been proud
 of what he has achieved.
-
-
-
 You were wrong.
-
-
-
 You.
-
-
-
 Get him out of here.
-
-
-
 Emily, I have to go after Connor.
 I have no choice.
-
-
-
 - I'm going to get him.
 - No, no, no, I'm going to come with you.
-
-
-
 No! I'm going to go and I'm going to
 bring him back, I promise.
-
-
-
 You're going to stay here because
 I need both of you here, okay?
-
-
-
 Abby?
-
-
-
 Connor, do you read me?
-
-
-
 Anyone, do you read me?
-
-
-
 No, not here.
-
-
-
 Connor!
-
-
-
 Connor!
-
-
-
 It's growing too quickly.
-
-
-
 No. That can't be right.
 Run those tests again, will you?
-
-
-
 It's all right, Ray, I expected this.
-
-
-
 Connor!
-
-
-
 Matt!
-
-
-
 Connor.
-
-
-
 Connor. Connor.
-
-
-
 I can't breathe.
-
-
-
 Okay, on three
 we're going to move, okay?
-
-
-
 - I don't think I can.
 - You're going to do it, mate.
-
-
-
 You're going to do it.
-
-
-
 Move back, we've got to move back.
-
-
-
 Get up. Where's Emily?
-
-
-
 Distracting the guards.
-
-
-
 Matt, it's coming again!
-
-
-
 Okay, follow me. Come on.
-
-
-
 These winds are toxic.
-
-
-
 We'll be safe in here, help me.
-
-
-
 Connor, get in.
-
-
-
 Abby, go, go!
-
-
-
 - Are you okay?
 - Yeah.
-
-
-
 Where are we, though?
-
-
-
 Okay. Here, sit him over here.
 He needs water.
-
-
-
 You just keep breathing and that pain
 is going to pass, all right?
-
-
-
 Just keep breathing.
-
-
-
 Hey.
-
-
-
 What is this place?
-
-
-
 Our only hope.
-
-
-
 My lungs are burning.
-
-
-
 Hello?
-
-
-
 He needs water.
-
-
-
 Okay.
-
-
-
 How did you know this place was here?
-
-
-
 Water. There must be water.
-
-
-
 This is my time.
-
-
-
 But I'm guessing later. Or close to it.
-
-
-
 You actually lived out there?
-
-
-
 Nothing can survive out there, Abby.
-
-
-
 Except those ugly freaks.
-
-
-
 Oh, no.
-
-
-
 It's clean, it's clean! Here.
-
-
-
 Okay. Drink this. Okay.
-
-
-
 It's okay.
-
-
-
 The storms are erratic
 and hard to predict.
-
-
-
 We're going to have to
 time this carefully.
-
-
-
 You lived underground?
-
-
-
 Yeah, we moved from shelter to shelter,
-
-
-
 tried to avoid the storms,
 fought the predators.
-
-
-
 When I got to your time,
 I thought it was the Garden of Eden.
-
-
-
 Where is everyone now?
-
-
-
 Everyone is dead, Abby.
-
-
-
 Have a good look.
-
-
-
 This is what New Dawn did to the earth,
-
-
-
 turned it into hell.
-
-
-
 What is wrong with you people?
-
-
-
 Can't you see that I'm actually
 quite busy here?
-
-
-
 They might be dead now because of you.
-
-
-
 Take her away.
-
-
-
 You have to stop Burton!
-
-
-
 Listen to me! Let me out of here!
-
-
-
-<i>- Malfunction. Emergency.</i>
-
-
-
-<i>Anomaly expanding.</i>
-
-
-
+- Malfunction. Emergency.
+Anomaly expanding.
 Check the magnetic field brackets.
-
-
-
 What are you doing? Where are you going?
 I need you!
-
-
-
-<i>Primary reactor offline.</i>
-
-
-
-<i>Emergency, emergency,</i>
-<i>emergency, emergency,</i>
-
-
-
-<i>emergency, emergency,</i>
-<i>emergency, emergency,</i>
-
-
-
-<i>emergency, emergency,</i>
-<i>emergency, emergency...</i>
-
-
-
+Primary reactor offline.
+Emergency, emergency,
+emergency, emergency,
+emergency, emergency,
+emergency, emergency,
+emergency, emergency,
+emergency, emergency...
 Helen won.
-
-
-
 And I helped her.
-
-
-
 All I ever wanted to do was to prove
-
-
-
 to Cutter that he was right to trust me,
-
-
-
 and I ended up just betraying everything
 that he even stood for.
-
-
-
 It's okay.
-
-
-
 Are you okay? What happened?
-
-
-
 Could Philip not afford to pay
 the electricity bill?
-
-
-
 There was some kind of electrical surge,
 everything went dead.
-
-
-
 We're on emergency power.
-
-
-
 The system is fried,
 the detector's offline
-
-
-
 and I can't get through
 to anyone on comms.
-
-
-
 Okay, we'll just get someone to fix it.
-
-
-
 Everyone is out in the field.
-
-
-
 And I don't think the power-out
 is restricted to the ARC.
-
-
-
 Philip's infernal machine.
-
-
-
 Now I've seen it all, mobile phone
 reception when you really need it.
-
-
-
 It's Becker.
-
-
-
 The electricity is out
 all across the city.
-
-
-
 It's as if someone set off
 a huge electro-magnetic weapon.
-
-
-
-<i>- What's Matt say?</i>
+- What's Matt say?
 - We've lost touch with him.
-
-
-
 Get to New Dawn
 and find out what's going on.
-
-
-
 Try that.
-
-
-
 We're on our way.
-
-
-
 Good man.
-
-
-
 Good man.
-
-
-
 Every second we stay here
 New Dawn gets stronger,
-
-
-
 we need to go and we need to go now.
-
-
-
 You two go on ahead.
-
-
-
 I'll catch up with you
 when I feel a bit better.
-
-
-
 Don't even think about giving up on me.
-
-
-
 I'll slow you down.
-
-
-
 Never.
-
-
-
 Whatever we do, we do together,
 that's the deal.
-
-
-
 I need you to stop that machine,
 I can't do it.
-
-
-
 Come on, nothing's finished yet.
-
-
-
 Connor, forget about Philip
 and the machine.
-
-
-
 You have to go back.
-
-
-
 Why?
-
-
-
 Because...
-
-
-
 - Really?
 - Yeah.
-
-
-
 Stop messing around and help us.
-
-
-
 Come on.
-
-
-
 The wind's died down.
-
-
-
 We doing this or what, then?
-
-
-
 It's clear, hurry.
-
-
-
 Let's go!
-
-
-
 Matt!
-
-
-
 Matt! Matt!
-
-
-
 It's expanded too quickly,
 it's not safe inside, come on.
-
-
-
-<i>You will find a way.</i>
-
-
-
-<i>Our hopes rest on you.</i>
-
-
-
-<i>The future is in your hands</i>
-
-
-
-<i>and there's no doubt you will do it.</i>
-
-
-
-<i>The future is in your hands.</i>
-
-
-
+You will find a way.
+Our hopes rest on you.
+The future is in your hands
+and there's no doubt you will do it.
+The future is in your hands.
 Philip. Philip!
-
-
-
 - Connor, you're alive!
 - I need you to help us.
-
-
-
 I know this is what Helen wanted.
-
-
-
 I just don't understand why!
-
-
-
 The anomaly has grown so powerful.
-
-
-
 Give us the code
 so we can shut down the system.
-
-
-
 - It's too late, it's too...
 - Stop lying to me, Philip!
-
-
-
 Otherwise I'll drag you
 through that anomaly myself
-
-
-
 and I'll show you what you've done!
-
-
-
 Listen to me.
 I know your intentions were good
-
-
-
 and I know you were trying to help...
-
-
-
 This is what Helen exploited,
-
-
-
 this is what she always exploited.
-
-
-
 Humanity.
-
-
-
 Your humanity.
-
-
-
 She didn't exploit my humanity, Abby.
-
-
-
 She exploited my ego.
-
-
-
 Give us the codes,
 we can still fix this!
-
-
-
 It's no use,
 the EM surge would have fried the data.
-
-
-
 We can't just quit the programme.
-
-
-
 Unless...
-
-
-
 There is a way. There is a possibility.
-
-
-
 Connor, I need you to crash
 the computer in the turbine room.
-
-
-
 - Do it.
 - Then find Emily, I'm going with Philip.
-
-
-
 Come on.
-
-
-
 Any news?
-
-
-
 No.
-
-
-
 What if they've failed
-
-
-
 and this is the beginning of the end,
 just like Matt said?
-
-
-
 What if they're all dead?
-
-
-
 They're not dead, Jess,
 and it's not the end of the world.
-
-
-
 If it was, someone would have
 sent us a memo.
-
-
-
 You know what my father used to say
 when things got rough?
-
-
-
 "Where's that ruddy whisky?"
-
-
-
 Oh, no!
-
-
-
 Don't tell me you're teetotal.
-
-
-
 There's...
-
-
-
 There's...
-
-
-
 Don't...
-
-
-
 Don't make a sound.
-
-
-
 Okay, how do we do this?
-
-
-
 I can shut this machine down,
 but when I do,
-
-
-
 there won't be much left
 of this building.
-
-
-
 You need to leave, Matt.
-
-
-
 Can't we shut it down
 and then make a run for it?
-
-
-
 As soon as I take
 the last system offline,
-
-
-
 it'll be like slamming the brakes
 on an aircraft
-
-
-
 travelling at 500 miles an hour.
-
-
-
 Everything in here will be vaporised?
-
-
-
-<i>Anomaly expanding at critical level.</i>
-
-
-
+Anomaly expanding at critical level.
 Including you, Philip?
-
-
-
 Matt,
-
-
-
 I'm the bad guy.
-
-
-
-<i>Primary reactor overloaded.</i>
-
-
-
-<i>Primary reactor overloaded.</i>
-
-
-
-<i>Emergency, emergency,</i>
-<i>emergency, emergency...</i>
-
-
-
+Primary reactor overloaded.
+Primary reactor overloaded.
+Emergency, emergency,
+emergency, emergency...
 - We've got to get down and override it.
 - But it isn't safe!
-
-
-
 I know, I know, just do it, Abby.
-
-
-
 Shutting it down now.
-
-
-
 Then what?
-
-
-
 We need to get out of here!
-
-
-
 Where... Where's Philip?
-
-
-
 He's not going to make it.
-
-
-
 He wants to do the right thing.
-
-
-
 No, no, we don't have to...
-
-
-
 He's locked himself in,
 there's nothing we can do.
-
-
-
 Well, we can't just let him...
-
-
-
 Connor, Connor,
 if this is what he wants.
-
-
-
 Come on, we're leaving.
 We have to get out of here.
-
-
-
 - Come on.
 - Come on.
-
-
-
 Get clear of the building,
 I'll find Emily.
-
-
-
-<i>Emergency. Emergency.</i>
-
-
-
+Emergency. Emergency.
 Emily!
-
-
-
 Emily!
-
-
-
 Emily!
-
-
-
 Emily!
-
-
-
 Matt?
-
-
-
 What took you so long?
-
-
-
-<i>Self-destruction sequence initiated.</i>
-
-
-
-<i>Five seconds to self-destruct.</i>
-
-
-
-<i>Four, three, two, one.</i>
-
-
-
+Self-destruction sequence initiated.
+Five seconds to self-destruct.
+Four, three, two, one.
 The anomaly is too powerful,
 it doesn't need the machine any more.
-
-
-
 There's no way we can stop it now.
-
-
-
 What are you doing?
-
-
-
 Texting Becker.
-
-
-
 What is it?
-
-
-
 Almost out of power.
-
-
-
 We've got one shot, maybe two.
-
-
-
 It's not going to be enough.
-
-
-
 Okay, we're going to have to
 get to the armoury.
-
-
-
 Shouldn't we stay here? Becker will
 get the message and he'll come.
-
-
-
 There's got to be something
 we can do about this.
-
-
-
 - It's over.
 - There's nothing more we can do.
-
-
-
 Won't the anomaly close
 on its own eventually,
-
-
-
 just like they always do?
-
-
-
 This one's manmade. It's stable.
-
-
-
 It was designed to stay open forever,
-
-
-
 to provide it like an endless
 energy source, it's unstoppable.
-
-
-
 Okay, so plan A was rubbish,
 what about plan B?
-
-
-
 We're working on it.
-
-
-
 Jess said all the anomalies
 had disappeared,
-
-
-
 how the hell did she miss that?
-
-
-
 Maybe it overwhelmed the system.
-
-
-
 It's from Jess.
-
-
-
 There are future predators at the ARC,
 her and Lester are trapped.
-
-
-
 Predators? How can there be predators?
-
-
-
 Your anomaly, the one in your lab,
-
-
-
 it was the prototype
 for this one, right?
-
-
-
 Yeah.
-
-
-
 So, essentially, it's the same anomaly.
-
-
-
 It must have re-opened, which is how
 the predators got into the ARC.
-
-
-
 There's a way to destabilise
 the anomaly,
-
-
-
 by merging the prototype with this one.
-
-
-
 Where is everything?
-
-
-
 All the teams are out in the field,
-
-
-
 but I thought there'd be
 more than this left.
-
-
-
 There's no power.
-
-
-
 Power packs.
-
-
-
 There.
-
-
-
 This?
-
-
-
 Oh, God!
-
-
-
 Hey, hey, hey.
-
-
-
 Over here!
-
-
-
 Hey, hey, hey.
 Jess, you're all right now, we're here.
-
-
-
 Abby, keep a lookout.
-
-
-
 Okay, let's get a drip in him
-
-
-
 and seal him in the medical bay.
 That's all we can do for now, right?
-
-
-
 Jess. Jess, how many were there?
-
-
-
 Um, four or five, maybe more.
-
-
-
 Becker, check the car park.
-
-
-
 James?
-
-
-
 Internal video system is down,
 everything is.
-
-
-
 Connor.
-
-
-
 I need to get to my lab,
 I need to get to that anomaly.
-
-
-
 Okay, James. Come on. Up you get.
-
-
-
 Okay.
-
-
-
 That's it. All right, let's go.
 One, two, three, take a deep breath.
-
-
-
 Just breathe.
-
-
-
 Look after Jess.
-
-
-
 Hey.
-
-
-
 We're all going to die, aren't we?
-
-
-
 We're all going to die.
-
-
-
 Of course not.
-
-
-
 Jess,
-
-
-
 have you got a laptop here?
-
-
-
 Yeah. Yeah.
-
-
-
 Good.
-
-
-
 Don't worry, I've got an idea.
-
-
-
 It's going to be okay.
-
-
-
 Listen, we have beaten
 these creatures before,
-
-
-
 we'll beat them again. Okay?
-
-
-
 Will it hold?
-
-
-
 Yeah, yeah, he'll be safe for now.
-
-
-
 Okay. You sweep through this way
 and we'll meet you at Connor's lab.
-
-
-
 Okay.
-
-
-
 Your secret weapon is sound?
-
-
-
 Not exactly. But disruptive sound
 should seriously mess them up.
-
-
-
 They work on sonar,
-
-
-
 it means they pick up infrasound,
-
-
-
 low-pitched noises
 way beyond our hearing.
-
-
-
 I'm going to overload
 their nasty little brains.
-
-
-
 Will it be enough to kill them?
-
-
-
 No, but it should slow them down
 enough for us to shoot them.
-
-
-
 Just access this file...
-
-
-
 Why did it go?
-
-
-
 Wait here.
-
-
-
 Out! I'm out!
-
-
-
 That's the first one
 I've managed to hit.
-
-
-
 Thank you.
-
-
-
 Becker!
-
-
-
 Nice plan, Abby.
-
-
-
 All right, it's safe.
-
-
-
 Okay, Matt, when I...
 When I tell you to close it,
-
-
-
 do it in one fluid movement, all right?
-
-
-
 Good luck.
-
-
-
 Cheers.
-
-
-
 Close it.
-
-
-
 That's good.
-
-
-
 We're locked.
-
-
-
 Okay. Ready?
-
-
-
 One, two, three.
-
-
-
 Easy. Easy.
-
-
-
 If we damage the sun cage in any way,
 we might lose the anomaly.
-
-
-
 Okay, got it.
-
-
-
 Yeah?
-
-
-
 Look, no offence, but do you
 really think this is going to work?
-
-
-
 Well,
-
-
-
 we've got three options.
-
-
-
 One, we merge this
 with Philip's anomaly,
-
-
-
 it makes the big one unstable,
 it closes and the plan's worked.
-
-
-
 Two, nothing happens
 and it doesn't change a thing, right?
-
-
-
 Right.
-
-
-
 So far, I prefer option one.
-
-
-
 What's option three?
-
-
-
 It makes the big one even more powerful
-
-
-
 and it accelerates the whole apocalyptic
 end-of-the-world type thing.
-
-
-
 Basically, not good.
-
-
-
 Right, let's find out.
-
-
-
 - Ready?
 - Yeah.
-
-
-
 Okay.
-
-
-
 We're good.
-
-
-
 I'm going to go and rig the car.
-
-
-
 Okay.
-
-
-
 Okay.
-
-
-
 You're going to drive it yourself?
-
-
-
 It's the only chance we have.
-
-
-
 You know what I have to do.
-
-
-
 It's all about this.
-
-
-
 If you fail,
-
-
-
 you die.
-
-
-
 If you succeed,
-
-
-
 if you change the future,
-
-
-
 you might never even have existed.
-
-
-
 You could just...
-
-
-
 - disappear.
 - Hey.
-
-
-
 It's okay.
-
-
-
 - Ready?
 - Ready.
-
-
-
 You just need to secure
 the steering wheel with the seatbelt.
-
-
-
 Okay, I've got that.
-
-
-
 - What are you doing?
 - Matt!
-
-
-
 - Stop it!
 - No!
-
-
-
 - No! No!
 - Matt!
-
-
-
 Matt.
-
-
-
 Matt?
-
-
-
 Hey, hey, hey!
-
-
-
 - How did you survive?
 - I have no idea.
-
-
-
 It's so good to see you.
-
-
-
 Do you think we did it?
-
-
-
 Do you think we changed the future?
-
-
-
 Yeah.
-
-
-
 I think so.
-
-
-
 Matt, what about my truck?
-
-
-
 No.
-
-
-
 Oh, well, I guess we'll just
 walk back to the ARC.
-
-
-
 Yeah.
-
-
-
 - How's Lester?
 - He's going to be okay.
-
-
-
 He's already threatening
 to sack the medics.
-
-
-
 Hey.
-
-
-
 - Abby, could I just have a word?
 - Yeah.
-
-
-
 Um...
-
-
-
 I wanted to,
-
-
-
 you know, the...
-
-
-
 whispered thing?
-
-
-
 Whisper?
-
-
-
 Well, yeah.
-
-
-
 You said that when we were back
 and, you know, all this was...
-
-
-
 all this was over then,
 well, you said you were going to...
-
-
-
 You know, you...
-
-
-
 You said you...
-
-
-
 Great, you don't remember.
-
-
-
 Connor...
-
-
-
 - Yep?
 - Temple...
-
-
-
 Will you marry me?
-
-
-
 - I'll have to think about it.
 - Forget it.
-
-
-
 Yes.
-
-
-
 So yes.
-
-
-
 Oh, please, for goodness sake,
 stop fussing.
-
-
-
 I'm perfectly capable of
 walking by myself.
-
-
-
 Here we are.
 How are you feeling, Lester?
-
-
-
 What an idiotic question,
 how do you think I'm feeling?
-
-
-
 It's so good to see you.
-
-
-
 - I take it this means we've won, then?
 - Here we go.
-
-
-
 You did it.
-
-
-
 I guess this means
 we're stuck with you now.
-
-
-
 I guess it does.
-
-
-
 I think we should keep
 the whole "man from the future" thing
-
-
-
 just between ourselves, don't you?
-
-
-
 The Minister's confused enough as it is.
-
-
-
 Well, this is turning into
 a surprisingly good day,
-
-
-
 with us, you know,
 saving the world and...
-
-
-
 Well, I suppose that's the end
 of the anomalies.
-
-
-
 It is possible
-
-
-
 Philip's machine might have
 closed the anomalies forever.
-
-
-
 It'll be really weird
 being normal again.
-
-
-
 Ah. Only two people
 have got that number,
-
-
-
 one's the Minister
 and the other's my wife.
-
-
-
 Either way,
 I think I'm in for an earful.
-
-
-
 James Lester.
-
-
-
 Understood.
-
-
-
 So much for being normal, Connor.
-
-
-
 A train just left Kings Cross,
 disappeared into thin air.
-
-
-
 Sorry, does that sound
 familiar to anyone?
-
-
-
 Anomalies? Chop-chop!
-
-
-
 Yep.
-
-
-
 Everyone grab a black box,
 I'll get the system up and running.
-
-
-
 Right. Let's go.
-
-
-
 Well, Parker, don't just stand there,
-
-
-
 get back to work.
-
-
-
 Emily, comms are still down.
-
-
-
 I'm going to get my phone.
-
-
-
 Hello?
-
-
-
 Go back.
-
-
-
 You have to go back.
-
-
-
 Matt?
-
-
-
 What's wrong?
-
-
-
 Nothing.
-
-
-
 I'm fine.
-
-
-
 We're ready to go.
-
