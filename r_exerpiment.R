@@ -25,19 +25,20 @@ dtm_train = create_dtm(it_train, bigram_vectorizer)
 it_test = itoken(meta_test$review_text, preprocessor = prep_fun, tokenizer = tok_fun, progressbar = FALSE)
 dtm_test = create_dtm(it_test, bigram_vectorizer)
 
-# do regression
-for (i in c(0.05, 0.1, 0.15, 0.2, 0.25,  0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1)) {
-    for (j in 1:62) {
-        glmnet_classifier = cv.glmnet(x = dtm_train, y = meta_train[['US_Gross']], family = "gaussian", alpha = i, type.measure = "mae", nfolds = 10, thresh = 1e-3, maxit = 1e3)
-        print(sprintf("max MAE (lambda %d, alpha %f) = %f", j, i, round(max(glmnet_classifier$cvm), 4)))
+# do regression. Fencepost situation, do first training outside of loop
+min_fit = cv.glmnet(x = dtm_train, y = meta_train[['US_Gross']], family = "gaussian", alpha = 0.05, type.measure = "mae")
+print(sprintf("min MAE (alpha %f) = %f", 0.05, round(min(min_fit$cvm), 4)))
+for (i in c(0.1, 0.15, 0.2, 0.25,  0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1)) {
+    fit = cv.glmnet(x = dtm_train, y = meta_train[['US_Gross']], family = "gaussian", alpha = i, type.measure = "mae")
+    print(sprintf("min MAE (alpha %f) = %f", i, round(min(fit$cvm), 4)))
+    if (min(fit$cvm) <= min(min_fit$cvm)) {
+        min_fit <- fit
     }
 }
 
-# not sure what to do now (here's some random stuff)
-plot(glmnet_classifier)
-print(paste("max MAE =", round(max(glmnet_classifier$cvm), 4)))
-print(paste("min MAE =", round(min(glmnet_classifier$cvm), 4)))
-
-# prediction
-preds = predict(glmnet_classifier, dtm_test, type = 'response')[,1]
-glmnet:::auc(meta_test$US_Gross, preds)
+# prediction: Metrics libary conflicts with others,
+# load it here instead of at beginning to avoid conflicts
+library(Metrics)
+preds = predict(min_fit, dtm_test, type = 'response')[,1]
+pred_mae = mae(meta_test$US_Gross, preds)
+print(sprintf("Predicttion MAE: %f", pred_mae))
