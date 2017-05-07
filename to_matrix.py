@@ -11,15 +11,15 @@ import pathlib
 def main(subtitles=None, scripts=None, max_ngram=3, debug=False):
     vectorizer = CountVectorizer(
         input="filename", ngram_range=(1, max_ngram), min_df=1, stop_words="english")
-    
+
+
     if subtitles:
-        vectorizer.fit(subtitles)
-    if scripts:
-        vectorizer.fit(scripts)
+        vectorizer.fit(subtitles + scripts)
 
     subtitle_features = vectorizer.transform(subtitles)
 
     script_features = vectorizer.transform(scripts)
+
     features = scipy.sparse.hstack([subtitle_features, script_features]).toarray()
     if debug:
             print(subtitle_features.toarray())
