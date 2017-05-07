@@ -17,5 +17,5 @@ setup(name='nlp-project',
       scripts=[
           "bin/predict.py",
           "bin/xml_to_txt.py"
-          ]
+          ],
       zip_safe=False)
