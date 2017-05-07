@@ -1,28 +1,24 @@
 #!/usr/bin/env python3
 
-
-import scipy.io as sio
-import numpy
-import sklearn
-from sklearn import linear_model
 import argh
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
-import xml.etree.ElementTree as ET
 import itertools
 import scipy
 import glob
 import os
 import datetime
 import random
+import sklearn
+from sklearn import feature_extraction
+from sklearn import linear_model
+import xml.etree.ElementTree as ET
 
 
 def fit_vectorizer(datasets, min_ngrams, max_ngrams, max_features, stop_words, count):
 
     if count:
-        vect = CountVectorizer
+        vect = feature_extraction.text.CountVectorizer
     else:
-        vect = TfidfVectorizer
+        vect = feature_extraction.text.TfidfVectorizer
     vectorizer = vect(
         input="filename", ngram_range=(min_ngrams, max_ngrams), min_df=1,
         max_features=max_features, stop_words=stop_words,
@@ -53,24 +49,6 @@ def test(elastic_net, test_x, test_y):
     mae = sklearn.metrics.mean_absolute_error(test_y, values)
     return mae, r2
     
-
-def read_data(train_x, train_y, test_x, test_y):
-    train_x_data = sio.mmread(train_x)
-    train_y_data = numpy.fromfile(train_y, sep="\n")
-
-    test_x_data = sio.mmread(test_x)
-    test_y_data = numpy.fromfile(test_y, sep="\n")
-
-    print("data have been read")
-
-    trained_elastic_net = train(train_x_data, train_y_data)
-    print("trained on training data")
-
-    mae = test(trained_elastic_net, test_x_data, test_y_data)
-    print("tested on test data")
-    print("MAE: ", mae)
-    return revenue
-
 def get_metadata(xml_directory):
     earnings = {}
     metadata = {}
