@@ -14,4 +14,8 @@ setup(name='nlp-project',
           "scipy",
           "sklearn"
           ],
+      scripts=[
+          "bin/predict.py",
+          "bin/xml_to_txt.py"
+          ]
       zip_safe=False)
