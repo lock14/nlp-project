@@ -1,0 +1,31 @@
+
+Allocating train and test sets...
+Creating vocabulary...
+Creating train document term matrix...
+Creating test document term matrix...
+Begin Training:
+min MAE (alpha 0.050000) = 6752537.367000
+min MAE (alpha 0.100000) = 6688708.208000
+min MAE (alpha 0.150000) = 6515926.903900
+min MAE (alpha 0.200000) = 6531119.883000
+min MAE (alpha 0.250000) = 6548942.710400
+min MAE (alpha 0.300000) = 6409296.613000
+min MAE (alpha 0.350000) = 6528985.846800
+min MAE (alpha 0.400000) = 6481338.259500
+min MAE (alpha 0.450000) = 6679495.230600
+min MAE (alpha 0.500000) = 6577300.653700
+min MAE (alpha 0.550000) = 6629908.694900
+min MAE (alpha 0.600000) = 6698488.483300
+min MAE (alpha 0.650000) = 6486023.124500
+min MAE (alpha 0.700000) = 6786701.207400
+min MAE (alpha 0.750000) = 6486788.342100
+min MAE (alpha 0.800000) = 7026349.701300
+min MAE (alpha 0.850000) = 7211070.112700
+min MAE (alpha 0.900000) = 6536058.153800
+min MAE (alpha 0.950000) = 6610696.780400
+min MAE (alpha 1.000000) = 6828277.359400
+Best Model: alpha = 0.300000, lambda = 2818933.752340
+Creating predictions on test data
+Prediction MAE: 8024646.670074
+r^2: 0.558694
+r: 0.747458
