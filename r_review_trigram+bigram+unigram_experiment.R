@@ -3,7 +3,7 @@ library(data.table)
 library(glmnet)
 library(tm)
 
-trace_file <- "./trace_files/r_review_bigram_experiment.txt"
+trace_file <- "./trace_files/r_review_trigram+bigram+unigram_experiment.txt"
 
 load(file="data/rdata/meta+review.RData")
 setDT(meta_review)
