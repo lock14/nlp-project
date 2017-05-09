@@ -105,7 +105,9 @@ def get_metadata(xml_directory):
 
         if budget is not None:
             budget = math.log(money_to_float(budget.text))
-
+        else:
+            budget = 0
+            
         if origin.text == "USA":
             origin  = "USA"
         else:
@@ -114,7 +116,7 @@ def get_metadata(xml_directory):
         try:
             running_time = int(running_time)
         except:
-            running_time = None
+            running_time = 0
 
         metadata.at[movie, "date"] = str(date.year)
         metadata.at[movie, "origin"] = origin
