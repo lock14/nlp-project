@@ -12,7 +12,8 @@ setup(name='nlp-project',
       install_requires=[
           "argh",
           "scipy",
-          "sklearn"
+          "sklearn",
+          "pandas"
           ],
       scripts=[
           "bin/predict.py",
