@@ -3,7 +3,7 @@ library(data.table)
 library(glmnet)
 library(tm)
 
-trace_file <- "./trace_files/r_review_bigram_experiment.txt"
+trace_file <- "./trace_files/r_review_bigram+unigram_experiment.txt"
 
 load(file="data/rdata/meta+review.RData")
 setDT(meta_review)
@@ -25,7 +25,7 @@ tok_fun = word_tokenizer
 
 write("Creating vocabulary...", file = trace_file, append = TRUE)
 it_train = itoken(meta_train$review_text, preprocessor = prep_fun, tokenizer = tok_fun, progressbar = FALSE)
-vocab = create_vocabulary(it_train, ngram = c(2L, 2L), stopwords = stop_words)
+vocab = create_vocabulary(it_train, ngram = c(1L, 2L), stopwords = stop_words)
 vocab = vocab %>% prune_vocabulary(term_count_min = 10, doc_proportion_max = 0.5)
 bigram_vectorizer = vocab_vectorizer(vocab)
 write("Creating train document term matrix...", file = trace_file, append = TRUE)
