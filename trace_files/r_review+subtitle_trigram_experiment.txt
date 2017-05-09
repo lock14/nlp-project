@@ -27,4 +27,3 @@ Best Model: alpha = 0.700000, lambda = 1704730.874935
 Creating predictions on test data
 Prediction MAE: 10978288.361842
 r^2: 0.040184
-r: 0.200458

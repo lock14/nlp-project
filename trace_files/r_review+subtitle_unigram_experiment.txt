@@ -1,31 +1,30 @@
-
 Allocating train and test sets...
 Creating vocabulary...
 Creating train document term matrix...
 Creating test document term matrix...
 Begin Training:
-min MAE (alpha 0.050000) = 7332304.183000
-min MAE (alpha 0.100000) = 7185057.164500
-min MAE (alpha 0.150000) = 7346267.757600
-min MAE (alpha 0.200000) = 7244838.499600
-min MAE (alpha 0.250000) = 7317799.342000
-min MAE (alpha 0.300000) = 7285630.482900
-min MAE (alpha 0.350000) = 7289511.315900
-min MAE (alpha 0.400000) = 7414718.088300
-min MAE (alpha 0.450000) = 7158601.915300
-min MAE (alpha 0.500000) = 7190635.148000
-min MAE (alpha 0.550000) = 7252105.162900
-min MAE (alpha 0.600000) = 7364170.245300
-min MAE (alpha 0.650000) = 7385325.366900
-min MAE (alpha 0.700000) = 8210001.987100
-min MAE (alpha 0.750000) = 7171855.474600
-min MAE (alpha 0.800000) = 7195741.054800
-min MAE (alpha 0.850000) = 7914569.979900
-min MAE (alpha 0.900000) = 7138164.658500
-min MAE (alpha 0.950000) = 7174762.597300
-min MAE (alpha 1.000000) = 7193919.628500
-Best Model: alpha = 0.900000, lambda = 1040919.893162
+min MAE (alpha 0.050000) = 7091637.936600
+min MAE (alpha 0.100000) = 6919782.177400
+min MAE (alpha 0.150000) = 6932722.169600
+min MAE (alpha 0.200000) = 6929275.470300
+min MAE (alpha 0.250000) = 7207099.476600
+min MAE (alpha 0.300000) = 7177177.088400
+min MAE (alpha 0.350000) = 7336008.902900
+min MAE (alpha 0.400000) = 7064717.143100
+min MAE (alpha 0.450000) = 7040382.752600
+min MAE (alpha 0.500000) = 7211783.069000
+min MAE (alpha 0.550000) = 6987055.214100
+min MAE (alpha 0.600000) = 7074926.739900
+min MAE (alpha 0.650000) = 6932721.825100
+min MAE (alpha 0.700000) = 7184303.170600
+min MAE (alpha 0.750000) = 7111403.836700
+min MAE (alpha 0.800000) = 7216235.493600
+min MAE (alpha 0.850000) = 7094310.865300
+min MAE (alpha 0.900000) = 7388382.830800
+min MAE (alpha 0.950000) = 7021764.843400
+min MAE (alpha 1.000000) = 7042806.292000
+Best Model: alpha = 0.100000, lambda = 7424200.924986
 Creating predictions on test data
-Prediction MAE: 9234142.400681
-r^2: 0.342462
-r: 0.585203
+Prediction MAE: 8456351.847767
+r^2: 0.439368
+r: 0.662849

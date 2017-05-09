@@ -3,28 +3,28 @@ Creating vocabulary...
 Creating train document term matrix...
 Creating test document term matrix...
 Begin Training:
-min MAE (alpha 0.050000) = 7255024.793700
-min MAE (alpha 0.100000) = 7447696.472100
-min MAE (alpha 0.150000) = 7564030.462200
-min MAE (alpha 0.200000) = 7524435.842900
-min MAE (alpha 0.250000) = 7471357.835800
-min MAE (alpha 0.300000) = 7572867.203700
-min MAE (alpha 0.350000) = 7645341.271600
-min MAE (alpha 0.400000) = 7455200.389400
-min MAE (alpha 0.450000) = 7861662.469100
-min MAE (alpha 0.500000) = 7460244.920800
-min MAE (alpha 0.550000) = 7421114.733900
-min MAE (alpha 0.600000) = 7472735.985200
-min MAE (alpha 0.650000) = 7625922.884100
-min MAE (alpha 0.700000) = 7420095.806400
-min MAE (alpha 0.750000) = 7495361.820400
-min MAE (alpha 0.800000) = 7560641.813700
-min MAE (alpha 0.850000) = 7613991.114900
-min MAE (alpha 0.900000) = 7365326.052900
-min MAE (alpha 0.950000) = 7559634.217000
-min MAE (alpha 1.000000) = 7580798.253600
-Best Model: alpha = 0.050000, lambda = 11701215.741554
+min MAE (alpha 0.050000) = 7251357.025900
+min MAE (alpha 0.100000) = 7363221.981300
+min MAE (alpha 0.150000) = 7181814.170400
+min MAE (alpha 0.200000) = 7275285.223500
+min MAE (alpha 0.250000) = 7540470.265700
+min MAE (alpha 0.300000) = 7372886.140500
+min MAE (alpha 0.350000) = 7612869.308900
+min MAE (alpha 0.400000) = 7355478.970000
+min MAE (alpha 0.450000) = 7559559.584700
+min MAE (alpha 0.500000) = 7083883.958800
+min MAE (alpha 0.550000) = 7555870.504100
+min MAE (alpha 0.600000) = 7483812.636200
+min MAE (alpha 0.650000) = 7583275.689300
+min MAE (alpha 0.700000) = 7514494.105100
+min MAE (alpha 0.750000) = 7353846.649800
+min MAE (alpha 0.800000) = 7655734.241100
+min MAE (alpha 0.850000) = 7564124.665700
+min MAE (alpha 0.900000) = 7375878.477100
+min MAE (alpha 0.950000) = 7441834.340500
+min MAE (alpha 1.000000) = 7768576.690900
+Best Model: alpha = 0.500000, lambda = 1225837.793764
 Creating predictions on test data
-Prediction MAE: 8770175.729004
-r^2: 0.365338
-r: 0.604432
+Prediction MAE: 8658446.444236
+r^2: 0.419787
+r: 0.647909

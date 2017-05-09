@@ -28,3 +28,4 @@ Creating predictions on test data
 Prediction MAE: 9477273.018912
 r^2: 0.277429
 r: 0.526716
+
