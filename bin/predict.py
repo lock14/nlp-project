@@ -80,13 +80,13 @@ def test(elastic_net, test_x, test_y):
     mae = sklearn.metrics.mean_absolute_error(test_y, values)
     return mae, r2
     
-def get_metadata(xml_directory):
+def get_metadata(xml_directory, predict):
     earnings = {}
     metadata = pandas.DataFrame()
     for xml_file in glob.glob(os.path.join(xml_directory, "*.xml")):
         tree = ET.parse(xml_file)
         root = tree.getroot()
-        revenue = root.find("weekend_gross")
+        revenue = root.find(predict)
 
         basename = os.path.basename(xml_file)
         movie = os.path.splitext(basename)[0]
@@ -195,7 +195,7 @@ def get_metadata_features(movies, metadata):
 def main(xml_directory, text_directories=None, use_metadata=False,
          max_ngrams=3, seed=1, min_ngrams=1, stop_words=None,
          max_features=20000, count=False, dump_movies=None,
-         import_movies=None):
+         import_movies=None, predict="weekend_gross"):
 
     print(sys.argv[1:])
 
@@ -203,7 +203,7 @@ def main(xml_directory, text_directories=None, use_metadata=False,
         print("need to use either text or metadata")
         sys.exit(0)
     
-    earnings, metadata = get_metadata(xml_directory)
+    earnings, metadata = get_metadata(xml_directory, predict)
 
     texts = []
     if text_directories:
