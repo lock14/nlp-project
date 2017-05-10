@@ -1,0 +1,1706 @@
+<font color="#ff8000" face="Goudy Old Style">THE HIDDEN BLADE</font>
+<font color="#ff8000" face="Goudy Old Style">Masatoshi Nagase</font>
+<font color="#ff8000" face="Goudy Old Style">Takako Matsu</font>
+<font color="#ff8000" face="Goudy Old Style">Hidetaka Yoshioka
+Yukiyoshi Ozawa</font>
+<font color="#ff8000" face="Goudy Old Style">Ken Ogata</font>
+<font color="#ff8000" face="Goudy Old Style">Executive Producer
+Junichi Sakomoto
+Produced by
+Takeo Hisamatsu</font>
+<font color="#ff8000" face="Goudy Old Style">Producers
+Hiroshi Fukasawa
+Ichiro Yamamoto</font>
+<font color="#ff8000" face="Goudy Old Style">Based on the stories by
+Shuhei Fujisawa</font>
+<font color="#ff8000" face="Goudy Old Style">Screenplay
+Yoji Yamada
+Yoshitaka Asama</font>
+<font color="#ff8000" face="Goudy Old Style">Cinematography
+Mutsuo Naganuma</font>
+<font color="#ff8000" face="Goudy Old Style">Art Director
+Mitsuo Degawa</font>
+<font color="#ff8000" face="Goudy Old Style">Artistic Supervisor
+Yoshinobu Nishioka</font>
+<font color="#ff8000" face="Goudy Old Style">Lighting
+Gen Nakaoka</font>
+<font color="#ff8000" face="Goudy Old Style">Sound Recordist
+Kazumi Kishida</font>
+<font color="#ff8000" face="Goudy Old Style">Costume Design
+Kazuko Kurosawa</font>
+<font color="#ff8000" face="Goudy Old Style">Editor
+Iwao Ishii</font>
+<font color="#ff8000" face="Goudy Old Style">Music
+Isao Tomita</font>
+<font color="#ff8000" face="Goudy Old Style">Directed by
+Yoji Yamada</font>
+<font color="#ff8000" face="Goudy Old Style">Edo... that's a long ways to go.</font>
+<font color="#ff8000" face="Goudy Old Style">It'll be hard living alone there,
+leaving a pretty wife here.</font>
+<font color="#ff8000" face="Goudy Old Style">Money can buy you
+lots of girls in Edo.</font>
+<font color="#ff8000" face="Goudy Old Style">She'll hear you!</font>
+<font color="#ff8000" face="Goudy Old Style">No matter.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll take my leave.</font>
+<font color="#ff8000" face="Goudy Old Style">Take care.</font>
+<font color="#ff8000" face="Goudy Old Style">Get yourselves posted to Edo, too.</font>
+<font color="#ff8000" face="Goudy Old Style">Thank you for coming.</font>
+<font color="#ff8000" face="Goudy Old Style">He's a man who'll rise in the world.</font>
+<font color="#ff8000" face="Goudy Old Style">Let's hope so.</font>
+<font color="#ff8000" face="Goudy Old Style">Why do you say that?</font>
+<font color="#ff8000" face="Goudy Old Style">I just have
+a bad feeling about all this.</font>
+<font color="#ff8000" face="Goudy Old Style">May I come visit?</font>
+<font color="#ff8000" face="Goudy Old Style">You're expected.</font>
+<font color="#ff8000" face="Goudy Old Style">My sister's got the house in an uproar
+making the cod stew her hubby likes.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm not her 'hubby' yet.</font>
+<font color="#ff8000" face="Goudy Old Style">Whoops? I'm sorry!
+No, you're not married yet? Are you.</font>
+<font color="#ff8000" face="Goudy Old Style">No.</font>
+<font color="#ff8000" face="Goudy Old Style">That was good!</font>
+<font color="#ff8000" face="Goudy Old Style">It was?</font>
+<font color="#ff8000" face="Goudy Old Style">Did you make this stew,
+Miss Shino?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes. With a little help from Kie.</font>
+<font color="#ff8000" face="Goudy Old Style">'A little'! Listen to her!</font>
+<font color="#ff8000" face="Goudy Old Style">Mother!</font>
+<font color="#ff8000" face="Goudy Old Style">Kie!</font>
+<font color="#ff8000" face="Goudy Old Style">Who made this cod stew?</font>
+<font color="#ff8000" face="Goudy Old Style">Miss Shino, of course.</font>
+<font color="#ff8000" face="Goudy Old Style">The secret's out.</font>
+<font color="#ff8000" face="Goudy Old Style">Kie made it? Didn't she.</font>
+<font color="#ff8000" face="Goudy Old Style">I sliced the radish!</font>
+<font color="#ff8000" face="Goudy Old Style">Any child could do that.
+What'll we do with you!</font>
+<font color="#ff8000" face="Goudy Old Style">This?</font>
+<font color="#ff8000" face="Goudy Old Style">You sliced this?</font>
+<font color="#ff8000" face="Goudy Old Style">Very well done!</font>
+<font color="#ff8000" face="Goudy Old Style">You didn't have to say that!
+You're horrible!</font>
+<font color="#ff8000" face="Goudy Old Style">Sir, you shouldn't...</font>
+<font color="#ff8000" face="Goudy Old Style">...make fun of her
+before Squire Shimada!</font>
+<font color="#ff8000" face="Goudy Old Style">Kie!</font>
+<font color="#ff8000" face="Goudy Old Style">You poor thing!</font>
+<font color="#ff8000" face="Goudy Old Style">Yes? You're right.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sorry, Shino.</font>
+<font color="#ff8000" face="Goudy Old Style">Come on, pour Samon a drink!</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Samon...</font>
+<font color="#ff8000" face="Goudy Old Style">...this is a good time to ask.</font>
+<font color="#ff8000" face="Goudy Old Style">Do you really mean
+to take this girl to wife?</font>
+<font color="#ff8000" face="Goudy Old Style">Why do you ask?</font>
+<font color="#ff8000" face="Goudy Old Style">When her father was alive,
+our stipend was 100 koku of rice.</font>
+<font color="#ff8000" face="Goudy Old Style">That is not so much less than yours.</font>
+<font color="#ff8000" face="Goudy Old Style">But after he had to commit suicide,
+we were reduced to 30 koku per year.</font>
+<font color="#ff8000" face="Goudy Old Style">Our prospects for advancement
+are not good? Either.</font>
+<font color="#ff8000" face="Goudy Old Style">Are you not worried about
+what your family will think...</font>
+<font color="#ff8000" face="Goudy Old Style">...if you marry one of us?</font>
+<font color="#ff8000" face="Goudy Old Style">Don't be concerned.
+I will choose who I marry.</font>
+<font color="#ff8000" face="Goudy Old Style">That is good to hear.</font>
+<font color="#ff8000" face="Goudy Old Style">There's just one thing
+that displeases me.</font>
+<font color="#ff8000" face="Goudy Old Style">What?</font>
+<font color="#ff8000" face="Goudy Old Style">You'll be my 'elder brother'.
+I don't look forward to that.</font>
+<font color="#ff8000" face="Goudy Old Style">Fool!</font>
+<font color="#ff8000" face="Goudy Old Style">It'll go to your head.</font>
+<font color="#ff8000" face="Goudy Old Style">Kie? Did you hear that?</font>
+<font color="#ff8000" face="Goudy Old Style">Agh!</font>
+<font color="#ff8000" face="Goudy Old Style">Yes? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">He's not making sense!</font>
+<font color="#ff8000" face="Goudy Old Style">I understand perfectly
+how Squire Shimada feels.</font>
+<font color="#ff8000" face="Goudy Old Style">What?!</font>
+<font color="#ff8000" face="Goudy Old Style">See?</font>
+<font color="#ff8000" face="Goudy Old Style">Drink up, 'kid brother'!</font>
+<font color="#ff8000" face="Goudy Old Style">Kie watched over my sister, she was married to Smon.</font>
+<font color="#ff8000" face="Goudy Old Style">Next it was her turn
+to leave us forever...</font>
+<font color="#ff8000" face="Goudy Old Style">...when she married into
+merchant family.</font>
+<font color="#ff8000" face="Goudy Old Style">It was as if the light
+had gone out in our house.</font>
+<font color="#ff8000" face="Goudy Old Style">Kie!</font>
+<font color="#ff8000" face="Goudy Old Style">Hello? Sir!</font>
+<font color="#ff8000" face="Goudy Old Style">I thought it was you!</font>
+<font color="#ff8000" face="Goudy Old Style">Are you well?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sorry I couldn't come to
+your mother's one-year memorial.</font>
+<font color="#ff8000" face="Goudy Old Style">It was rude of me.</font>
+<font color="#ff8000" face="Goudy Old Style">Shopping?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes. For cloth and thread.</font>
+<font color="#ff8000" face="Goudy Old Style">Let me buy you
+a kimono collar? Then.</font>
+<font color="#ff8000" face="Goudy Old Style">What have you got
+that would suit her?</font>
+<font color="#ff8000" face="Goudy Old Style">You've lost weight.</font>
+<font color="#ff8000" face="Goudy Old Style">I was in bed with a cold
+last month.</font>
+<font color="#ff8000" face="Goudy Old Style">That's not good.
+Are you better now?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes.</font>
+<font color="#ff8000" face="Goudy Old Style">How's this one?</font>
+<font color="#ff8000" face="Goudy Old Style">We'll take that? Then.</font>
+<font color="#ff8000" face="Goudy Old Style">Why, thank you!</font>
+<font color="#ff8000" face="Goudy Old Style">I'm so pleased...</font>
+<font color="#ff8000" face="Goudy Old Style">Are you happy?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes.</font>
+<font color="#ff8000" face="Goudy Old Style">Why are you crying?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm so happy to see you again...</font>
+<font color="#ff8000" face="Goudy Old Style">...the tears just came.</font>
+<font color="#ff8000" face="Goudy Old Style">Is your husband
+taking good care of you?</font>
+<font color="#ff8000" face="Goudy Old Style">Are you sure?</font>
+<font color="#ff8000" face="Goudy Old Style">I'll treasure this collar.</font>
+<font color="#ff8000" face="Goudy Old Style">Excuse me.</font>
+<font color="#ff8000" face="Goudy Old Style">Um...</font>
+<font color="#ff8000" face="Goudy Old Style">...you're married by now?
+Aren't you, sir?</font>
+<font color="#ff8000" face="Goudy Old Style">Uh, no...</font>
+<font color="#ff8000" face="Goudy Old Style">...I'm afraid not.</font>
+<font color="#ff8000" face="Goudy Old Style">Since Mother died
+the house is a mess.</font>
+<font color="#ff8000" face="Goudy Old Style">Perhaps you could come
+and do some cleaning.</font>
+<font color="#ff8000" face="Goudy Old Style">I promise I will.</font>
+<font color="#ff8000" face="Goudy Old Style">You know, Kume...</font>
+<font color="#ff8000" face="Goudy Old Style">...I saw Kie today.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh.</font>
+<font color="#ff8000" face="Goudy Old Style">I thought she was happily married
+into the Iseya family...</font>
+<font color="#ff8000" face="Goudy Old Style">...but today...</font>
+<font color="#ff8000" face="Goudy Old Style">...she'd grown so pale
+and thin in the shoulders...</font>
+<font color="#ff8000" face="Goudy Old Style">She was always
+so cheerful and healthy...</font>
+<font color="#ff8000" face="Goudy Old Style">Now she looks ill.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? Dear!</font>
+<font color="#ff8000" face="Goudy Old Style">I asked if she was happy...</font>
+<font color="#ff8000" face="Goudy Old Style">...and she started crying.</font>
+<font color="#ff8000" face="Goudy Old Style">The poor girl!</font>
+<font color="#ff8000" face="Goudy Old Style">I wanted to help her,
+but I didn't know what to do.</font>
+<font color="#ff8000" face="Goudy Old Style">Perhaps I should have just
+brought her back here with me.</font>
+<font color="#ff8000" face="Goudy Old Style">I've cared for her ever since
+she was 16...</font>
+<font color="#ff8000" face="Goudy Old Style">...like a younger sister.</font>
+<font color="#ff8000" face="Goudy Old Style">And now she's...</font>
+<font color="#ff8000" face="Goudy Old Style">I'm going home? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">You are? Good night.</font>
+<font color="#ff8000" face="Goudy Old Style">I couldn't help but worry about Kie.</font>
+<font color="#ff8000" face="Goudy Old Style">I was Iso feeling guilty
+bout my inability to understand...</font>
+<font color="#ff8000" face="Goudy Old Style">...the principles
+of the new western artillery.</font>
+<font color="#ff8000" face="Goudy Old Style">Now? This is vital.</font>
+<font color="#ff8000" face="Goudy Old Style">Wearing the finger stall? You insert
+the right forefinger into the vent.</font>
+<font color="#ff8000" face="Goudy Old Style">This prevents air from being expelled
+when the shot is loaded...</font>
+<font color="#ff8000" face="Goudy Old Style">...which could be disastrous.</font>
+<font color="#ff8000" face="Goudy Old Style">Bang!</font>
+<font color="#ff8000" face="Goudy Old Style">A premature discharge,
+causing burns and even death.</font>
+<font color="#ff8000" face="Goudy Old Style">I had a colleague die that way.</font>
+<font color="#ff8000" face="Goudy Old Style">Next occurs the 'ranging' of the gun.
+This involves four techniques:</font>
+<font color="#ff8000" face="Goudy Old Style">1: Quadrant. 2: Tangent scale.
+3: Breech sight...</font>
+<font color="#ff8000" face="Goudy Old Style">...and 4: Pendulum hausse.
+You learned these yesterday.</font>
+<font color="#ff8000" face="Goudy Old Style">Questions?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes?</font>
+<font color="#ff8000" face="Goudy Old Style">This book says
+the English 'Armstrong' cannon...</font>
+<font color="#ff8000" face="Goudy Old Style">...has a vent piece, so you don't
+have to stick your finger in it.</font>
+<font color="#ff8000" face="Goudy Old Style">It costs more.</font>
+<font color="#ff8000" face="Goudy Old Style">One Armstrong costs as much as
+500 of your old matchlocks.</font>
+<font color="#ff8000" face="Goudy Old Style">Wars now are won by
+the most expensive weaponry.</font>
+<font color="#ff8000" face="Goudy Old Style">By money. Such is the age
+that is upon us.</font>
+<font color="#ff8000" face="Goudy Old Style">Sensei...</font>
+<font color="#ff8000" face="Goudy Old Style">Yes?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sorry, but...</font>
+<font color="#ff8000" face="Goudy Old Style">...I haven't the foggiest idea
+what you're talking about.</font>
+<font color="#ff8000" face="Goudy Old Style">It'd help if you'd speak
+the way we're used to...</font>
+<font color="#ff8000" face="Goudy Old Style">He can't!</font>
+<font color="#ff8000" face="Goudy Old Style">Then why get an instructor
+from Edo?</font>
+<font color="#ff8000" face="Goudy Old Style">Could you at least translate
+all those English and Dutch words?</font>
+<font color="#ff8000" face="Goudy Old Style">They put my head in a whirl.</font>
+<font color="#ff8000" face="Goudy Old Style">The longer I sit the stupider I feel!</font>
+<font color="#ff8000" face="Goudy Old Style">You find this amusing?</font>
+<font color="#ff8000" face="Goudy Old Style">Is this a time for levity?</font>
+<font color="#ff8000" face="Goudy Old Style">To prepare you to face an emergency
+with modern artillery...</font>
+<font color="#ff8000" face="Goudy Old Style">...your clan has summoned me
+from Edo to this backwater!</font>
+<font color="#ff8000" face="Goudy Old Style">This is no laughing matter!</font>
+<font color="#ff8000" face="Goudy Old Style">With all due respect? Sir...
+a 'backwater'?</font>
+<font color="#ff8000" face="Goudy Old Style">We are hereditary vassals
+to the Tokugawa shogun.</font>
+<font color="#ff8000" face="Goudy Old Style">At the Battle of Sekigahara
+our first chieftain...</font>
+<font color="#ff8000" face="Goudy Old Style">I am well aware of that.</font>
+<font color="#ff8000" face="Goudy Old Style">I apologize.
+We will pause for a moment.</font>
+<font color="#ff8000" face="Goudy Old Style">Stupid back-country samurai!</font>
+<font color="#ff8000" face="Goudy Old Style">Not that far!</font>
+<font color="#ff8000" face="Goudy Old Style">Left...</font>
+<font color="#ff8000" face="Goudy Old Style">Left!</font>
+<font color="#ff8000" face="Goudy Old Style">All right!</font>
+<font color="#ff8000" face="Goudy Old Style">Plaatsen!</font>
+<font color="#ff8000" face="Goudy Old Style">'Post'!</font>
+<font color="#ff8000" face="Goudy Old Style">Ladde!</font>
+<font color="#ff8000" face="Goudy Old Style">'Load'!</font>
+<font color="#ff8000" face="Goudy Old Style">Watch? You men. When he shouts,
+you all move.</font>
+<font color="#ff8000" face="Goudy Old Style">That's the western way.</font>
+<font color="#ff8000" face="Goudy Old Style">Don't stop to bow!</font>
+<font color="#ff8000" face="Goudy Old Style">See what he's doing?
+That's 'aiming'.</font>
+<font color="#ff8000" face="Goudy Old Style">Vaardig!</font>
+<font color="#ff8000" face="Goudy Old Style">'Ready to fire'!</font>
+<font color="#ff8000" face="Goudy Old Style">Ready!</font>
+<font color="#ff8000" face="Goudy Old Style">Vuur!</font>
+<font color="#ff8000" face="Goudy Old Style">'Fire'!</font>
+<font color="#ff8000" face="Goudy Old Style">Bang!!!</font>
+<font color="#ff8000" face="Goudy Old Style">Sailing far over the castle wall?
+The shot lands amid the enemy ranks...</font>
+<font color="#ff8000" face="Goudy Old Style">...killing dozens of samurai!</font>
+<font color="#ff8000" face="Goudy Old Style">Hurrah!</font>
+<font color="#ff8000" face="Goudy Old Style">'Post'!</font>
+<font color="#ff8000" face="Goudy Old Style">'Load'!</font>
+<font color="#ff8000" face="Goudy Old Style">I will explain, My lord.</font>
+<font color="#ff8000" face="Goudy Old Style">When the gunpowder explodes?
+The gun is thrust violently back.</font>
+<font color="#ff8000" face="Goudy Old Style">This mound of earth
+will bring it to a stop.</font>
+<font color="#ff8000" face="Goudy Old Style">It is then returned to position
+and reloaded.</font>
+<font color="#ff8000" face="Goudy Old Style">Stand back? Please.
+You're in danger there.</font>
+<font color="#ff8000" face="Goudy Old Style">'Post'!</font>
+<font color="#ff8000" face="Goudy Old Style">We will now fire the cannon.</font>
+<font color="#ff8000" face="Goudy Old Style">Target: The enemy castle tower!</font>
+<font color="#ff8000" face="Goudy Old Style">'Fire'!</font>
+<font color="#ff8000" face="Goudy Old Style">Be careful! Watch out!</font>
+<font color="#ff8000" face="Goudy Old Style">The north-country spring,
+when leaves burst forth...</font>
+<font color="#ff8000" face="Goudy Old Style">...as if waiting for
+the snow to melt...</font>
+<font color="#ff8000" face="Goudy Old Style">...was a time I passed
+in an empty, barren state of mind.</font>
+<font color="#ff8000" face="Goudy Old Style">Fire!</font>
+<font color="#ff8000" face="Goudy Old Style">Watch out!</font>
+<font color="#ff8000" face="Goudy Old Style">Get back! Get back!</font>
+<font color="#ff8000" face="Goudy Old Style">Thank you.</font>
+<font color="#ff8000" face="Goudy Old Style">Uncle!</font>
+<font color="#ff8000" face="Goudy Old Style">You've come far? Uncle, to attend
+this memorial of my mother's passing.</font>
+<font color="#ff8000" face="Goudy Old Style">I am truly grateful.</font>
+<font color="#ff8000" face="Goudy Old Style">Thank you very much, Sir Bunemon.</font>
+<font color="#ff8000" face="Goudy Old Style">Has your health been good?</font>
+<font color="#ff8000" face="Goudy Old Style">Damn your civilities!</font>
+<font color="#ff8000" face="Goudy Old Style">What was that disgraceful performance
+before His Lordship the other day?!</font>
+<font color="#ff8000" face="Goudy Old Style">Aye!</font>
+<font color="#ff8000" face="Goudy Old Style">What is a samurai doing...</font>
+<font color="#ff8000" face="Goudy Old Style">...welcoming these confounded firearms!</font>
+<font color="#ff8000" face="Goudy Old Style">Firearms are not for samurai!</font>
+<font color="#ff8000" face="Goudy Old Style">Disgraceful!</font>
+<font color="#ff8000" face="Goudy Old Style">In battle you stand ready
+with sword or spear.</font>
+<font color="#ff8000" face="Goudy Old Style">'I, Kanbei Katagiri?
+Do challenge you! '</font>
+<font color="#ff8000" face="Goudy Old Style">Thus you announce your name?
+And let the skills you have mastered...</font>
+<font color="#ff8000" face="Goudy Old Style">...decide the victor.</font>
+<font color="#ff8000" face="Goudy Old Style">That's how it must be!</font>
+<font color="#ff8000" face="Goudy Old Style">The westerners are barbarians.
+They feed on beasts!</font>
+<font color="#ff8000" face="Goudy Old Style">With all due respect? Uncle...</font>
+<font color="#ff8000" face="Goudy Old Style">...we have fought since the Genpei War
+with sword and spear...</font>
+<font color="#ff8000" face="Goudy Old Style">...and bow and arrow as well.</font>
+<font color="#ff8000" face="Goudy Old Style">But in those 700 years the west
+has devoted its ingenuity...</font>
+<font color="#ff8000" face="Goudy Old Style">...to creating new weapons of war.</font>
+<font color="#ff8000" face="Goudy Old Style">Aye!</font>
+<font color="#ff8000" face="Goudy Old Style">Inventing new things?
+Discarding the old.</font>
+<font color="#ff8000" face="Goudy Old Style">That's the way of the west?
+And perhaps one of these days...</font>
+<font color="#ff8000" face="Goudy Old Style">...we'll have to change how we think
+about war, and everything else.</font>
+<font color="#ff8000" face="Goudy Old Style">Discarding the old?!</font>
+<font color="#ff8000" face="Goudy Old Style">It's those western airs you put on...</font>
+<font color="#ff8000" face="Goudy Old Style">...that keep you from finding a wife,
+you young oaf!</font>
+<font color="#ff8000" face="Goudy Old Style">'Oaf'? I have a wife.</font>
+<font color="#ff8000" face="Goudy Old Style">It's Munezo here who doesn't.</font>
+<font color="#ff8000" face="Goudy Old Style">It's you?</font>
+<font color="#ff8000" face="Goudy Old Style">What's the connection between
+firearms and a wife for me?</font>
+<font color="#ff8000" face="Goudy Old Style">Everything's connected, you fool!</font>
+<font color="#ff8000" face="Goudy Old Style">Feather brain!</font>
+<font color="#ff8000" face="Goudy Old Style">No-account!</font>
+<font color="#ff8000" face="Goudy Old Style">Disgrace!</font>
+<font color="#ff8000" face="Goudy Old Style">Uncle...</font>
+<font color="#ff8000" face="Goudy Old Style">The refreshments are ready.</font>
+<font color="#ff8000" face="Goudy Old Style">Who are you again?</font>
+<font color="#ff8000" face="Goudy Old Style">Munezo's sister.</font>
+<font color="#ff8000" face="Goudy Old Style">The tea's ready? 'Father'.</font>
+<font color="#ff8000" face="Goudy Old Style">They really lit into you?
+'Elder Brother'.</font>
+<font color="#ff8000" face="Goudy Old Style">And you? 'Father'.</font>
+<font color="#ff8000" face="Goudy Old Style">I've always hated that man.
+He's so full of himself!</font>
+<font color="#ff8000" face="Goudy Old Style">He had no call to talk like that,
+spraying spit all over the place...</font>
+<font color="#ff8000" face="Goudy Old Style">It's my own fault
+for not finding myself a wife.</font>
+<font color="#ff8000" face="Goudy Old Style">Aye.</font>
+<font color="#ff8000" face="Goudy Old Style">You can't beat me yet, 'Father'.</font>
+<font color="#ff8000" face="Goudy Old Style">Kane? Bring my sewing box.</font>
+<font color="#ff8000" face="Goudy Old Style">Brother...</font>
+<font color="#ff8000" face="Goudy Old Style">What?</font>
+<font color="#ff8000" face="Goudy Old Style">Your cloak's ripped. I couldn't
+take my eyes off it at the ceremony.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? They do say
+single men breed maggots...</font>
+<font color="#ff8000" face="Goudy Old Style">...but still? He's getting
+really scruffy.</font>
+<font color="#ff8000" face="Goudy Old Style">He wasn't like that
+when Kie was around.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? Kie... how is she?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm worried. I think I'll...</font>
+<font color="#ff8000" face="Goudy Old Style">Is something wrong with Kie?</font>
+<font color="#ff8000" face="Goudy Old Style">She's in bed sick.</font>
+<font color="#ff8000" face="Goudy Old Style">She's sick? Is it bad?</font>
+<font color="#ff8000" face="Goudy Old Style">It looks that way.</font>
+<font color="#ff8000" face="Goudy Old Style">The clerk from the next store
+was here, and he told me...</font>
+<font color="#ff8000" face="Goudy Old Style">...that from the day after her wedding
+Kie was up before everyone...</font>
+<font color="#ff8000" face="Goudy Old Style">...cleaning and cooking
+for all the apprentices...</font>
+<font color="#ff8000" face="Goudy Old Style">...and bathing last at night
+in everyone's grime.</font>
+<font color="#ff8000" face="Goudy Old Style">The clerk said anyone
+would get sick that way.</font>
+<font color="#ff8000" face="Goudy Old Style">That's a real shame.</font>
+<font color="#ff8000" face="Goudy Old Style">He said she miscarried last fall
+and they gave her no time to rest.</font>
+<font color="#ff8000" face="Goudy Old Style">And now she's ill they won't spend
+the money for a doctor.</font>
+<font color="#ff8000" face="Goudy Old Style">That's terrible!</font>
+<font color="#ff8000" face="Goudy Old Style">Her father came to see her.</font>
+<font color="#ff8000" face="Goudy Old Style">They said Kie was of their family now,
+and he wasn't to interfere.</font>
+<font color="#ff8000" face="Goudy Old Style">They turned him away.</font>
+<font color="#ff8000" face="Goudy Old Style">They re terrible.</font>
+<font color="#ff8000" face="Goudy Old Style">How long has she been in bed?</font>
+<font color="#ff8000" face="Goudy Old Style">She hasn't been seen in the shop
+in two months.</font>
+<font color="#ff8000" face="Goudy Old Style">If you knew that,
+why haven't you been to see her?!</font>
+<font color="#ff8000" face="Goudy Old Style">I couldn't go to a merchant's house!</font>
+<font color="#ff8000" face="Goudy Old Style">Where are you going?</font>
+<font color="#ff8000" face="Goudy Old Style">I've been worried about her
+all through the winter.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll go see her.</font>
+<font color="#ff8000" face="Goudy Old Style">Hey!</font>
+<font color="#ff8000" face="Goudy Old Style">I'll go? Too.</font>
+<font color="#ff8000" face="Goudy Old Style">Well! What can I do for you?</font>
+<font color="#ff8000" face="Goudy Old Style">Your daughter-in-law once served
+in my house. My name is Katagiri.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? Yes! Kie's told us all about you.</font>
+<font color="#ff8000" face="Goudy Old Style">I've heard Kie is ill.
+I'm here to see her.</font>
+<font color="#ff8000" face="Goudy Old Style">That's very nice of you.</font>
+<font color="#ff8000" face="Goudy Old Style">Yes? She is ill...</font>
+<font color="#ff8000" face="Goudy Old Style">...but I'm looking after her,
+so you need have no fear.</font>
+<font color="#ff8000" face="Goudy Old Style">Once she's recovered?
+I'll have her come and thank you.</font>
+<font color="#ff8000" face="Goudy Old Style">Is she very ill?</font>
+<font color="#ff8000" face="Goudy Old Style">Not seriously.</font>
+<font color="#ff8000" face="Goudy Old Style">A circulatory problem.
+It's quite common.</font>
+<font color="#ff8000" face="Goudy Old Style">But I'm told she's been ill
+for two months now.</font>
+<font color="#ff8000" face="Goudy Old Style">Has a doctor seen her?</font>
+<font color="#ff8000" face="Goudy Old Style">Of course! Our family doctor
+attends to her.</font>
+<font color="#ff8000" face="Goudy Old Style">Since I've come all this way?
+I'd like to see her once before I go.</font>
+<font color="#ff8000" face="Goudy Old Style">Kie is my son's wife.</font>
+<font color="#ff8000" face="Goudy Old Style">I can't have a man visiting her,
+former employer or not.</font>
+<font color="#ff8000" face="Goudy Old Style">The very idea!</font>
+<font color="#ff8000" face="Goudy Old Style">You refuse?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes! I have young people
+working here to consider.</font>
+<font color="#ff8000" face="Goudy Old Style">I will see her.</font>
+<font color="#ff8000" face="Goudy Old Style">Samurai or not? The answer is 'no'.
+Now leave, please.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll see her whether you like it or not!</font>
+<font color="#ff8000" face="Goudy Old Style">Shall I call the Constable?</font>
+<font color="#ff8000" face="Goudy Old Style">Where is Kie? Take me to her!</font>
+<font color="#ff8000" face="Goudy Old Style">Hey!</font>
+<font color="#ff8000" face="Goudy Old Style">She's no use to us anyway!</font>
+<font color="#ff8000" face="Goudy Old Style">This room's freezing!</font>
+<font color="#ff8000" face="Goudy Old Style">Kie...</font>
+<font color="#ff8000" face="Goudy Old Style">...do you recognize me?</font>
+<font color="#ff8000" face="Goudy Old Style">Your house...</font>
+<font color="#ff8000" face="Goudy Old Style">I didn't come to clean your house.
+Forgive me.</font>
+<font color="#ff8000" face="Goudy Old Style">I do.</font>
+<font color="#ff8000" face="Goudy Old Style">I was so busy...</font>
+<font color="#ff8000" face="Goudy Old Style">...all through New Year's...</font>
+<font color="#ff8000" face="Goudy Old Style">Then I got sick...</font>
+<font color="#ff8000" face="Goudy Old Style">...and I couldn't get up.</font>
+<font color="#ff8000" face="Goudy Old Style">No?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm afraid if I go on like this
+I'm going to die.</font>
+<font color="#ff8000" face="Goudy Old Style">But...</font>
+<font color="#ff8000" face="Goudy Old Style">...I wanted to see you first, sir...</font>
+<font color="#ff8000" face="Goudy Old Style">...and apologize.</font>
+<font color="#ff8000" face="Goudy Old Style">That's fine. You can
+tell me all about it later.</font>
+<font color="#ff8000" face="Goudy Old Style">Let's go.</font>
+<font color="#ff8000" face="Goudy Old Style">Come with me.</font>
+<font color="#ff8000" face="Goudy Old Style">What did you say?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm ashamed... to be seen like this.</font>
+<font color="#ff8000" face="Goudy Old Style">Don't be.</font>
+<font color="#ff8000" face="Goudy Old Style">It's that old witch's fault
+this happened.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm taking Kie.</font>
+<font color="#ff8000" face="Goudy Old Style">Write a statement of divorce.
+I'll come for it later.</font>
+<font color="#ff8000" face="Goudy Old Style">You're in the way! Move!</font>
+<font color="#ff8000" face="Goudy Old Style">All right? Kie... hold on tight.</font>
+<font color="#ff8000" face="Goudy Old Style">Hold onto me.</font>
+<font color="#ff8000" face="Goudy Old Style">She's ours! Where are you taking her?</font>
+<font color="#ff8000" face="Goudy Old Style">You listen to me!</font>
+<font color="#ff8000" face="Goudy Old Style">Kie trained as a maid with us
+for three and a half years.</font>
+<font color="#ff8000" face="Goudy Old Style">From my late mother...</font>
+<font color="#ff8000" face="Goudy Old Style">...she learned housework
+and deportment...</font>
+<font color="#ff8000" face="Goudy Old Style">...so she could go proudly
+as a bride into any house.</font>
+<font color="#ff8000" face="Goudy Old Style">It enrages me to see her...</font>
+<font color="#ff8000" face="Goudy Old Style">...in a pitiful state like this!</font>
+<font color="#ff8000" face="Goudy Old Style">File a complaint if you wish.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll protect her
+if it takes my sword to do it!</font>
+<font color="#ff8000" face="Goudy Old Style">Milksop!</font>
+<font color="#ff8000" face="Goudy Old Style">The basket, Naota!</font>
+<font color="#ff8000" face="Goudy Old Style">What are you doing?</font>
+<font color="#ff8000" face="Goudy Old Style">The chicken got away!</font>
+<font color="#ff8000" face="Goudy Old Style">Shino! I'm glad you came.</font>
+<font color="#ff8000" face="Goudy Old Style">Naota told me everything.
+Where is she?</font>
+<font color="#ff8000" face="Goudy Old Style">In the back room.</font>
+<font color="#ff8000" face="Goudy Old Style">What did the doctor say?</font>
+<font color="#ff8000" face="Goudy Old Style">That she's weak,
+but not badly ill.</font>
+<font color="#ff8000" face="Goudy Old Style">Really?</font>
+<font color="#ff8000" face="Goudy Old Style">He says with food and rest
+she'll be fine.</font>
+<font color="#ff8000" face="Goudy Old Style">Kie...</font>
+<font color="#ff8000" face="Goudy Old Style">...it's me.</font>
+<font color="#ff8000" face="Goudy Old Style">Do you recognize me?</font>
+<font color="#ff8000" face="Goudy Old Style">You poor thing! You're so thin!</font>
+<font color="#ff8000" face="Goudy Old Style">We should have come sooner!</font>
+<font color="#ff8000" face="Goudy Old Style">No, don't get up.</font>
+<font color="#ff8000" face="Goudy Old Style">Just lay back and rest.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll wipe her down.
+Heat some water.</font>
+<font color="#ff8000" face="Goudy Old Style">I already am.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll get her one of Mother's robes.
+Where are they?</font>
+<font color="#ff8000" face="Goudy Old Style">I'll do it.</font>
+<font color="#ff8000" face="Goudy Old Style">Shino!</font>
+<font color="#ff8000" face="Goudy Old Style">I thought we could make her
+some chicken broth.</font>
+<font color="#ff8000" face="Goudy Old Style">Get busy!</font>
+<font color="#ff8000" face="Goudy Old Style">You can't feed her anything
+as oily as that now!</font>
+<font color="#ff8000" face="Goudy Old Style">Make some rice gruel.</font>
+<font color="#ff8000" face="Goudy Old Style">How do you make that?</font>
+<font color="#ff8000" face="Goudy Old Style">Boil a little rice in water.</font>
+<font color="#ff8000" face="Goudy Old Style">Kane? You do it.</font>
+<font color="#ff8000" face="Goudy Old Style">Munezo? Heat me some water!</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? Yeah...</font>
+<font color="#ff8000" face="Goudy Old Style">Kume! Go somewhere
+out of the way!</font>
+<font color="#ff8000" face="Goudy Old Style">What can I do?</font>
+<font color="#ff8000" face="Goudy Old Style">You're in the way, too.</font>
+<font color="#ff8000" face="Goudy Old Style">What are you doing?!</font>
+<font color="#ff8000" face="Goudy Old Style">I'll do it.</font>
+<font color="#ff8000" face="Goudy Old Style">Don't let go!</font>
+<font color="#ff8000" face="Goudy Old Style">Kume? look in on Kie
+before you go to bed.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll come back tomorrow.</font>
+<font color="#ff8000" face="Goudy Old Style">Sorry to keep you here this late.</font>
+<font color="#ff8000" face="Goudy Old Style">What's going to come of this?</font>
+<font color="#ff8000" face="Goudy Old Style">A samurai carrying
+a girl on his back...</font>
+<font color="#ff8000" face="Goudy Old Style">...in broad daylight!</font>
+<font color="#ff8000" face="Goudy Old Style">People will talk.</font>
+<font color="#ff8000" face="Goudy Old Style">Here? Kie. This'll warm your feet.</font>
+<font color="#ff8000" face="Goudy Old Style">Tomorrow I'll go back
+to the Iseya...</font>
+<font color="#ff8000" face="Goudy Old Style">...and settle everything.</font>
+<font color="#ff8000" face="Goudy Old Style">There's nothing to worry about.
+You just rest here.</font>
+<font color="#ff8000" face="Goudy Old Style">Think of this as your own home.</font>
+<font color="#ff8000" face="Goudy Old Style">All right?</font>
+<font color="#ff8000" face="Goudy Old Style">Hello...</font>
+<font color="#ff8000" face="Goudy Old Style">Hello!</font>
+<font color="#ff8000" face="Goudy Old Style">Is this Squire Katagiri's house?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm Kie's sister. I've come to see her.</font>
+<font color="#ff8000" face="Goudy Old Style">Good day to you.</font>
+<font color="#ff8000" face="Goudy Old Style">In there.</font>
+<font color="#ff8000" face="Goudy Old Style">Sis?</font>
+<font color="#ff8000" face="Goudy Old Style">Bun!</font>
+<font color="#ff8000" face="Goudy Old Style">Pa said come see you.</font>
+<font color="#ff8000" face="Goudy Old Style">You came all that way?
+And by yourself!</font>
+<font color="#ff8000" face="Goudy Old Style">I'm so glad you're all right!</font>
+<font color="#ff8000" face="Goudy Old Style">I was so worried!</font>
+<font color="#ff8000" face="Goudy Old Style">Who are you?
+What are you doing here?</font>
+<font color="#ff8000" face="Goudy Old Style">No, that's not necessary.</font>
+<font color="#ff8000" face="Goudy Old Style">Who are you, child?</font>
+<font color="#ff8000" face="Goudy Old Style">Do I seem such an ogre, then?</font>
+<font color="#ff8000" face="Goudy Old Style">That's a surprise to me.</font>
+<font color="#ff8000" face="Goudy Old Style">It's not that you're an ogre? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">Samurai scare her.</font>
+<font color="#ff8000" face="Goudy Old Style">She's never seen one
+up close before.</font>
+<font color="#ff8000" face="Goudy Old Style">Why do we scare her?</font>
+<font color="#ff8000" face="Goudy Old Style">Because you carry swords.</font>
+<font color="#ff8000" face="Goudy Old Style">I grew up thinking
+that if I offended a samurai...</font>
+<font color="#ff8000" face="Goudy Old Style">...he'd cut me down
+right there on the spot.</font>
+<font color="#ff8000" face="Goudy Old Style">That's just not so? Kie.</font>
+<font color="#ff8000" face="Goudy Old Style">A sword is something
+you hardly ever draw.</font>
+<font color="#ff8000" face="Goudy Old Style">I've never drawn mine
+except to tend to it.</font>
+<font color="#ff8000" face="Goudy Old Style">Is that the truth, sir?</font>
+<font color="#ff8000" face="Goudy Old Style">Of course!</font>
+<font color="#ff8000" face="Goudy Old Style">Killing is frightening,
+even for a samurai.</font>
+<font color="#ff8000" face="Goudy Old Style">That's something
+I've never heard before.</font>
+<font color="#ff8000" face="Goudy Old Style">So were you afraid of me
+when you first came here?</font>
+<font color="#ff8000" face="Goudy Old Style">My heart was pounding, sir.
+I thought I might die any moment.</font>
+<font color="#ff8000" face="Goudy Old Style">Is that really what you thought?</font>
+<font color="#ff8000" face="Goudy Old Style">And here my heart was pounding...</font>
+<font color="#ff8000" face="Goudy Old Style">...over this young girl
+who'd come to our house.</font>
+<font color="#ff8000" face="Goudy Old Style">Is something wrong?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm fooling with you, sir.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? Of all the nerve!</font>
+<font color="#ff8000" face="Goudy Old Style">Making fun of me!
+Can you imagine that? Naota?</font>
+<font color="#ff8000" face="Goudy Old Style">Now? That's a big mouth!</font>
+<font color="#ff8000" face="Goudy Old Style">See, Bun? Your sister's laughing.</font>
+<font color="#ff8000" face="Goudy Old Style">Watch your head!</font>
+<font color="#ff8000" face="Goudy Old Style">Naota!</font>
+<font color="#ff8000" face="Goudy Old Style">No sleeping late tomorrow, now.</font>
+<font color="#ff8000" face="Goudy Old Style">You've got to grow up right
+and make a good wife of yourself.</font>
+<font color="#ff8000" face="Goudy Old Style">Will you go as a bride again?</font>
+<font color="#ff8000" face="Goudy Old Style">No. I've learned my lesson.</font>
+<font color="#ff8000" face="Goudy Old Style">When I'm better,
+I'll just look after the master.</font>
+<font color="#ff8000" face="Goudy Old Style">I owe him my life, after all.</font>
+<font color="#ff8000" face="Goudy Old Style">Will you marry the master? Then?</font>
+<font color="#ff8000" face="Goudy Old Style">No. The master and I
+are of different castes.</font>
+<font color="#ff8000" face="Goudy Old Style">Different what?</font>
+<font color="#ff8000" face="Goudy Old Style">'Castes'.</font>
+<font color="#ff8000" face="Goudy Old Style">What does that mean?</font>
+<font color="#ff8000" face="Goudy Old Style">I don't really know.</font>
+<font color="#ff8000" face="Goudy Old Style">I've never thought about it before.</font>
+<font color="#ff8000" face="Goudy Old Style">Hello!</font>
+<font color="#ff8000" face="Goudy Old Style">Hello!</font>
+<font color="#ff8000" face="Goudy Old Style">Who's there?</font>
+<font color="#ff8000" face="Goudy Old Style">Who is it?</font>
+<font color="#ff8000" face="Goudy Old Style">It's me? Samon.</font>
+<font color="#ff8000" face="Goudy Old Style">There's trouble.</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama's been sent down
+from Edo for plotting rebellion.</font>
+<font color="#ff8000" face="Goudy Old Style">He'll be caged here in the domain.</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama? Caged?</font>
+<font color="#ff8000" face="Goudy Old Style">He was involved with some reformers
+inside the Shogunate.</font>
+<font color="#ff8000" face="Goudy Old Style">Senior Retainer Hori found out.</font>
+<font color="#ff8000" face="Goudy Old Style">Some got off with har-kiri,
+but Hazama wasn't so lucky.</font>
+<font color="#ff8000" face="Goudy Old Style">He's on the Ou Highway now...</font>
+<font color="#ff8000" face="Goudy Old Style">...being brought here
+in a prisoner's basket.</font>
+<font color="#ff8000" face="Goudy Old Style">When does he arrive?</font>
+<font color="#ff8000" face="Goudy Old Style">In two days.</font>
+<font color="#ff8000" face="Goudy Old Style">Who told you?</font>
+<font color="#ff8000" face="Goudy Old Style">My father.</font>
+<font color="#ff8000" face="Goudy Old Style">It's all being kept
+very secret.</font>
+<font color="#ff8000" face="Goudy Old Style">Anyone who talks
+is guilty of an offence.</font>
+<font color="#ff8000" face="Goudy Old Style">My father knows
+we were friends with Hazama...</font>
+<font color="#ff8000" face="Goudy Old Style">...so he warned me.</font>
+<font color="#ff8000" face="Goudy Old Style">I was afraid
+he'd get into trouble down there...</font>
+<font color="#ff8000" face="Goudy Old Style">...but I never thought he'd come home
+in a prisoner's basket!</font>
+<font color="#ff8000" face="Goudy Old Style">...the clan dealt with them in secret.</font>
+<font color="#ff8000" face="Goudy Old Style">...the privilege of suicide.</font>
+<font color="#ff8000" face="Goudy Old Style">He was held in solitary confinement...</font>
+<font color="#ff8000" face="Goudy Old Style">...'cged'in the clan's domain.</font>
+<font color="#ff8000" face="Goudy Old Style">Watch him!</font>
+<font color="#ff8000" face="Goudy Old Style">On your feet!</font>
+<font color="#ff8000" face="Goudy Old Style">Damn rebel!</font>
+<font color="#ff8000" face="Goudy Old Style">Let him rot here!</font>
+<font color="#ff8000" face="Goudy Old Style">Let's go.</font>
+<font color="#ff8000" face="Goudy Old Style">Is Squire Katagiri here?</font>
+<font color="#ff8000" face="Goudy Old Style">Katagiri!</font>
+<font color="#ff8000" face="Goudy Old Style">You're to report to
+the Head Overseer for questioning.</font>
+<font color="#ff8000" face="Goudy Old Style">The Head Overseer's here?</font>
+<font color="#ff8000" face="Goudy Old Style">He arrived by swift-palanquin
+from Edo yesterday.</font>
+<font color="#ff8000" face="Goudy Old Style">This must be about Hazama.</font>
+<font color="#ff8000" face="Goudy Old Style">What does Squire Katagiri
+have to do with him?</font>
+<font color="#ff8000" face="Goudy Old Style">You don't know?</font>
+<font color="#ff8000" face="Goudy Old Style">He and Hazama studied fencing
+under Master Toda.</font>
+<font color="#ff8000" face="Goudy Old Style">They were an even match.</font>
+<font color="#ff8000" face="Goudy Old Style">So is Squire Katagiri
+mixed up in this plot?</font>
+<font color="#ff8000" face="Goudy Old Style">Shh! Don't talk about that!
+You'll lose your head if you do!</font>
+<font color="#ff8000" face="Goudy Old Style">The head came off!</font>
+<font color="#ff8000" face="Goudy Old Style">Munezo Katagiri,
+of our Training Corps.</font>
+<font color="#ff8000" face="Goudy Old Style">I will begin.</font>
+<font color="#ff8000" face="Goudy Old Style">You know Yaichiro Hazama
+of our Edo Horse Guard...</font>
+<font color="#ff8000" face="Goudy Old Style">Tell the Senior Retainer of your
+connection? Omitting nothing.</font>
+<font color="#ff8000" face="Goudy Old Style">We studied fencing together
+under Master Toda.</font>
+<font color="#ff8000" face="Goudy Old Style">We are brothers of the sword.</font>
+<font color="#ff8000" face="Goudy Old Style">'Toda'?</font>
+<font color="#ff8000" face="Goudy Old Style">Kansai Toda. Under our late Lord
+he surrendered samurai status...</font>
+<font color="#ff8000" face="Goudy Old Style">...and became a farmer.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? That madman...</font>
+<font color="#ff8000" face="Goudy Old Style">So were you and Hazama...</font>
+<font color="#ff8000" face="Goudy Old Style">...very close friends?</font>
+<font color="#ff8000" face="Goudy Old Style">May I enquire...</font>
+<font color="#ff8000" face="Goudy Old Style">...of what crime
+Hazama stands accused?</font>
+<font color="#ff8000" face="Goudy Old Style">Silence! You will answer
+the questions you are asked!</font>
+<font color="#ff8000" face="Goudy Old Style">Such impertinence
+to the Head Overseer!</font>
+<font color="#ff8000" face="Goudy Old Style">'Katagiri'... the son of
+Hanbei Katagiri?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes? Sir. He committed har-kiri
+over the Goken River improvements.</font>
+<font color="#ff8000" face="Goudy Old Style">He has his father's insolence.</font>
+<font color="#ff8000" face="Goudy Old Style">Continue.</font>
+<font color="#ff8000" face="Goudy Old Style">I am told Hazama left in anger
+when Toda chose you over him...</font>
+<font color="#ff8000" face="Goudy Old Style">...to learn the esoteric arts
+of his school called 'The Hidden Blade'.</font>
+<font color="#ff8000" face="Goudy Old Style">Is this true?</font>
+<font color="#ff8000" face="Goudy Old Style">I am sworn to silence
+about 'The Hidden Blade'.</font>
+<font color="#ff8000" face="Goudy Old Style">I beg your indulgence.</font>
+<font color="#ff8000" face="Goudy Old Style">Now? Now. You won't get anywhere
+losing your temper.</font>
+<font color="#ff8000" face="Goudy Old Style">Katagiri...</font>
+<font color="#ff8000" face="Goudy Old Style">...who is the better swordsman?
+You or Hazama?</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama, I would think.</font>
+<font color="#ff8000" face="Goudy Old Style">That's strange...</font>
+<font color="#ff8000" face="Goudy Old Style">You competed before His Lordship
+some years ago, and of three matches...</font>
+<font color="#ff8000" face="Goudy Old Style">...you won two.</font>
+<font color="#ff8000" face="Goudy Old Style">Had we fought with real swords,
+Hazama would have won.</font>
+<font color="#ff8000" face="Goudy Old Style">All right? Then.</font>
+<font color="#ff8000" face="Goudy Old Style">Have you received letters from him
+since he left three years ago?</font>
+<font color="#ff8000" face="Goudy Old Style">Two or three times,
+New Year's greetings and the like.</font>
+<font color="#ff8000" face="Goudy Old Style">Katagiri...</font>
+<font color="#ff8000" face="Goudy Old Style">Don't write this.</font>
+<font color="#ff8000" face="Goudy Old Style">Who among the retainers here
+is Hazama close to?</font>
+<font color="#ff8000" face="Goudy Old Style">You must know that.</font>
+<font color="#ff8000" face="Goudy Old Style">This is a list of those
+who have studied under Master Toda.</font>
+<font color="#ff8000" face="Goudy Old Style">Your name is among them.</font>
+<font color="#ff8000" face="Goudy Old Style">Tell us who else here
+is friendly with Hazama.</font>
+<font color="#ff8000" face="Goudy Old Style">I wouldn't know.</font>
+<font color="#ff8000" face="Goudy Old Style">And even if I did know...</font>
+<font color="#ff8000" face="Goudy Old Style">...I could not say.</font>
+<font color="#ff8000" face="Goudy Old Style">And why not?</font>
+<font color="#ff8000" face="Goudy Old Style">A samurai does not inform
+on his fellows.</font>
+<font color="#ff8000" face="Goudy Old Style">My lord! No!</font>
+<font color="#ff8000" face="Goudy Old Style">This is important! I won't take this
+from a low-caste samurai!</font>
+<font color="#ff8000" face="Goudy Old Style">Remember to whom you speak!</font>
+<font color="#ff8000" face="Goudy Old Style">You insolent cur!</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Hazama? Time to eat.</font>
+<font color="#ff8000" face="Goudy Old Style">Squire?</font>
+<font color="#ff8000" face="Goudy Old Style">Welcome home, sir.</font>
+<font color="#ff8000" face="Goudy Old Style">Mother didn't teach you
+how to chop wood? Did she.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm just not strong enough.</font>
+<font color="#ff8000" face="Goudy Old Style">Spread your knees and hold the wood
+straight in front of you.</font>
+<font color="#ff8000" face="Goudy Old Style">Don't lift the wood into the air.</font>
+<font color="#ff8000" face="Goudy Old Style">Lift the axe, take aim...</font>
+<font color="#ff8000" face="Goudy Old Style">...and bring it down.</font>
+<font color="#ff8000" face="Goudy Old Style">Hold the axe loosely?
+Then put your weight behind it.</font>
+<font color="#ff8000" face="Goudy Old Style">Can you do that?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">How was your work today?</font>
+<font color="#ff8000" face="Goudy Old Style">Why do you ask?</font>
+<font color="#ff8000" face="Goudy Old Style">You're so pale I thought perhaps
+something made you angry.</font>
+<font color="#ff8000" face="Goudy Old Style">Those things happen every day.</font>
+<font color="#ff8000" face="Goudy Old Style">One must bear them
+like a samurai.</font>
+<font color="#ff8000" face="Goudy Old Style">Um...</font>
+<font color="#ff8000" face="Goudy Old Style">...here.</font>
+<font color="#ff8000" face="Goudy Old Style">Thank you!</font>
+<font color="#ff8000" face="Goudy Old Style">But because one is a samurai
+there are things one must not bear!</font>
+<font color="#ff8000" face="Goudy Old Style">Excuse me... I've brought tea.</font>
+<font color="#ff8000" face="Goudy Old Style">I hate to interrupt your studies,
+but could I ask you to stand up?</font>
+<font color="#ff8000" face="Goudy Old Style">Why?</font>
+<font color="#ff8000" face="Goudy Old Style">I'd like to see how this kimono
+of your father's fits you.</font>
+<font color="#ff8000" face="Goudy Old Style">Your mother often said
+how it would suit you...</font>
+<font color="#ff8000" face="Goudy Old Style">...and that she was going
+to adjust it for you.</font>
+<font color="#ff8000" face="Goudy Old Style">Why, it's perfect!
+The sleeves and the length.</font>
+<font color="#ff8000" face="Goudy Old Style">You could wear it just like that? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">I guess I have
+my father's build.</font>
+<font color="#ff8000" face="Goudy Old Style">Do you resemble him
+in the face? Too?</font>
+<font color="#ff8000" face="Goudy Old Style">No, not at all.</font>
+<font color="#ff8000" face="Goudy Old Style">My father had a face
+like a crab.</font>
+<font color="#ff8000" face="Goudy Old Style">When he got mad? The spit would fly.</font>
+<font color="#ff8000" face="Goudy Old Style">Nothing ever scared me like that.</font>
+<font color="#ff8000" face="Goudy Old Style">If he were alive? He'd be 60 now.</font>
+<font color="#ff8000" face="Goudy Old Style">You've heard what happened?
+Haven't you?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes...</font>
+<font color="#ff8000" face="Goudy Old Style">Father!</font>
+<font color="#ff8000" face="Goudy Old Style">There was a problem with the accounts
+for the Goken River bridge.</font>
+<font color="#ff8000" face="Goudy Old Style">My father took responsibility,
+and committed suicide.</font>
+<font color="#ff8000" face="Goudy Old Style">He left me a letter.</font>
+<font color="#ff8000" face="Goudy Old Style">'I have not sinned...</font>
+<font color="#ff8000" face="Goudy Old Style">'... but I live to obey my liege lord.</font>
+<font color="#ff8000" face="Goudy Old Style">'Though you be young?
+You are my son.</font>
+<font color="#ff8000" face="Goudy Old Style">'This you will understand.'</font>
+<font color="#ff8000" face="Goudy Old Style">It's a very sad thing.</font>
+<font color="#ff8000" face="Goudy Old Style">We were driven out of
+the big house we'd lived in...</font>
+<font color="#ff8000" face="Goudy Old Style">...the very next day...</font>
+<font color="#ff8000" face="Goudy Old Style">...and came here.</font>
+<font color="#ff8000" face="Goudy Old Style">Our relatives would have
+nothing to do with us.</font>
+<font color="#ff8000" face="Goudy Old Style">Those were wretched days for
+my mother, Shino and me.</font>
+<font color="#ff8000" face="Goudy Old Style">Then you came along?
+A ruddy-faced girl...</font>
+<font color="#ff8000" face="Goudy Old Style">...fresh off the farm.</font>
+<font color="#ff8000" face="Goudy Old Style">I didn't know how to behave,
+or how to speak properly...</font>
+<font color="#ff8000" face="Goudy Old Style">Mother certainly took a shine to you.
+She said you were brighter than Shino.</font>
+<font color="#ff8000" face="Goudy Old Style">She taught me everything I know.</font>
+<font color="#ff8000" face="Goudy Old Style">How to clean, lay up preserves,
+make miso...</font>
+<font color="#ff8000" face="Goudy Old Style">...how to cook? Sew...</font>
+<font color="#ff8000" face="Goudy Old Style">...weave, grow flowers...</font>
+<font color="#ff8000" face="Goudy Old Style">...calligraphy, poetry...</font>
+<font color="#ff8000" face="Goudy Old Style">She taught you poems?</font>
+<font color="#ff8000" face="Goudy Old Style">She spelled them out
+so I could practice them.</font>
+<font color="#ff8000" face="Goudy Old Style">What poems?</font>
+<font color="#ff8000" face="Goudy Old Style">Different ones.</font>
+<font color="#ff8000" face="Goudy Old Style">Chant one for me.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? I couldn't!</font>
+<font color="#ff8000" face="Goudy Old Style">Your master commands it.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? All right.</font>
+<font color="#ff8000" face="Goudy Old Style">'Methinks you hunt by morn...</font>
+<font color="#ff8000" face="Goudy Old Style">'Methinks you ride now to the hunt...</font>
+<font color="#ff8000" face="Goudy Old Style">'The sound of your catalpa wood bow...</font>
+<font color="#ff8000" face="Goudy Old Style">'... comes to me... '</font>
+<font color="#ff8000" face="Goudy Old Style">You have a beautiful voice.</font>
+<font color="#ff8000" face="Goudy Old Style">Keep singing!</font>
+<font color="#ff8000" face="Goudy Old Style">No!</font>
+<font color="#ff8000" face="Goudy Old Style">Even if your master asks?</font>
+<font color="#ff8000" face="Goudy Old Style">All right.</font>
+<font color="#ff8000" face="Goudy Old Style">'You who rules this land...</font>
+<font color="#ff8000" face="Goudy Old Style">'By morn...</font>
+<font color="#ff8000" face="Goudy Old Style">'... you caress me... '</font>
+<font color="#ff8000" face="Goudy Old Style">Hey!</font>
+<font color="#ff8000" face="Goudy Old Style">'At eve you stand by me... '</font>
+<font color="#ff8000" face="Goudy Old Style">Kume! Kume! Go take your bath.</font>
+<font color="#ff8000" face="Goudy Old Style">'I hear the sound...</font>
+<font color="#ff8000" face="Goudy Old Style">'... of the golden string...</font>
+<font color="#ff8000" face="Goudy Old Style">'... of your catalpa wood bow... '</font>
+<font color="#ff8000" face="Goudy Old Style">Once again!</font>
+<font color="#ff8000" face="Goudy Old Style">Eyes...</font>
+<font color="#ff8000" face="Goudy Old Style">...left!</font>
+<font color="#ff8000" face="Goudy Old Style">As you were!</font>
+<font color="#ff8000" face="Goudy Old Style">Why can you not move
+'click-click! ' on my order?</font>
+<font color="#ff8000" face="Goudy Old Style">If you retainers cannot...</font>
+<font color="#ff8000" face="Goudy Old Style">...however will you instruct
+the foot soldiers?</font>
+<font color="#ff8000" face="Goudy Old Style">Sensei, why do we have to move
+'click-click! ' like that?</font>
+<font color="#ff8000" face="Goudy Old Style">As I have explained...</font>
+<font color="#ff8000" face="Goudy Old Style">...before a gun crew is instructed
+in artillery...</font>
+<font color="#ff8000" face="Goudy Old Style">...it must learn to respond
+'click-click! ' to orders.</font>
+<font color="#ff8000" face="Goudy Old Style">That is the reason for this drill.</font>
+<font color="#ff8000" face="Goudy Old Style">We will move on to marching.</font>
+<font color="#ff8000" face="Goudy Old Style">Front rank? Forward, march!</font>
+<font color="#ff8000" face="Goudy Old Style">No, no, no, no!</font>
+<font color="#ff8000" face="Goudy Old Style">Left foot forward?
+Then swing the opposite arm!</font>
+<font color="#ff8000" face="Goudy Old Style">Like so!</font>
+<font color="#ff8000" face="Goudy Old Style">What's so funny? What?!</font>
+<font color="#ff8000" face="Goudy Old Style">This is the new
+English style of walking!</font>
+<font color="#ff8000" face="Goudy Old Style">Now you try it.</font>
+<font color="#ff8000" face="Goudy Old Style">Front rank? Forward, march!</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Katagiri! Swing your right arm
+as you raise your left foot.</font>
+<font color="#ff8000" face="Goudy Old Style">Why can't you people do this?!</font>
+<font color="#ff8000" face="Goudy Old Style">Right!</font>
+<font color="#ff8000" face="Goudy Old Style">Left!</font>
+<font color="#ff8000" face="Goudy Old Style">Right!</font>
+<font color="#ff8000" face="Goudy Old Style">Left!</font>
+<font color="#ff8000" face="Goudy Old Style">Don't make me say this again!</font>
+<font color="#ff8000" face="Goudy Old Style">Swing your arms, and you will
+naturally run much faster.</font>
+<font color="#ff8000" face="Goudy Old Style">You first five? On my order,
+please run.</font>
+<font color="#ff8000" face="Goudy Old Style">Ready...</font>
+<font color="#ff8000" face="Goudy Old Style">Run!</font>
+<font color="#ff8000" face="Goudy Old Style">What's wrong with that? Sensei?</font>
+<font color="#ff8000" face="Goudy Old Style">You'll get shot
+if you don't run faster than that!</font>
+<font color="#ff8000" face="Goudy Old Style">I thought we were running
+pretty fast...</font>
+<font color="#ff8000" face="Goudy Old Style">All right? We'll compare.
+We'll have a race.</font>
+<font color="#ff8000" face="Goudy Old Style">You're on!</font>
+<font color="#ff8000" face="Goudy Old Style">You run in your old samurai style?
+And I will run in the new English way.</font>
+<font color="#ff8000" face="Goudy Old Style">Go get 'em!</font>
+<font color="#ff8000" face="Goudy Old Style">Ready?</font>
+<font color="#ff8000" face="Goudy Old Style">Run!</font>
+<font color="#ff8000" face="Goudy Old Style">Faster!</font>
+<font color="#ff8000" face="Goudy Old Style">Go!</font>
+<font color="#ff8000" face="Goudy Old Style">Quick!</font>
+<font color="#ff8000" face="Goudy Old Style">Go on! Go!</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Hirota? Are you all right?!</font>
+<font color="#ff8000" face="Goudy Old Style">Where's the Sensei?</font>
+<font color="#ff8000" face="Goudy Old Style">He's tired. He's laying down
+in his room.</font>
+<font color="#ff8000" face="Goudy Old Style">I feel sorry for him, you know.
+An instructor from Edo...</font>
+<font color="#ff8000" face="Goudy Old Style">...up here shouting at
+us bumpkins all day...</font>
+<font color="#ff8000" face="Goudy Old Style">We should take him into
+Mugiyamachi for a drink.</font>
+<font color="#ff8000" face="Goudy Old Style">Good idea! We'll set him up
+with a girl.</font>
+<font color="#ff8000" face="Goudy Old Style">Through for the day?</font>
+<font color="#ff8000" face="Goudy Old Style">Aye.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? I'll be on my way.</font>
+<font color="#ff8000" face="Goudy Old Style">Leaving already?</font>
+<font color="#ff8000" face="Goudy Old Style">Katagiri's not very sociable lately.
+Always rushing off home.</font>
+<font color="#ff8000" face="Goudy Old Style">He's got a sweet little maid
+waiting there for him.</font>
+<font color="#ff8000" face="Goudy Old Style">That's right.</font>
+<font color="#ff8000" face="Goudy Old Style">The lucky dog!</font>
+<font color="#ff8000" face="Goudy Old Style">Left foot, right arm!
+Een, twee! Halt!</font>
+<font color="#ff8000" face="Goudy Old Style">About turn!</font>
+<font color="#ff8000" face="Goudy Old Style">Forward, march!</font>
+<font color="#ff8000" face="Goudy Old Style">Not like that!</font>
+<font color="#ff8000" face="Goudy Old Style">So what's on your mind?</font>
+<font color="#ff8000" face="Goudy Old Style">Captain Takamine called me
+to his house the other day.</font>
+<font color="#ff8000" face="Goudy Old Style">He's looking for a husband
+for his youngest girl...</font>
+<font color="#ff8000" face="Goudy Old Style">...and asked if I might know
+of anyone.</font>
+<font color="#ff8000" face="Goudy Old Style">I suggested you.</font>
+<font color="#ff8000" face="Goudy Old Style">I've met her twice.
+She's a nice girl.</font>
+<font color="#ff8000" face="Goudy Old Style">No, thanks. I don't need
+the trouble.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm fine as I am.</font>
+<font color="#ff8000" face="Goudy Old Style">Fool!</font>
+<font color="#ff8000" face="Goudy Old Style">You don't have to say no.
+He already did.</font>
+<font color="#ff8000" face="Goudy Old Style">And that's not all.</font>
+<font color="#ff8000" face="Goudy Old Style">He gave me hell for my effrontery
+in suggesting you...</font>
+<font color="#ff8000" face="Goudy Old Style">...as a husband
+for his precious daughter.</font>
+<font color="#ff8000" face="Goudy Old Style">Why did he do that?</font>
+<font color="#ff8000" face="Goudy Old Style">Don't you understand?</font>
+<font color="#ff8000" face="Goudy Old Style">Your father had to commit suicide.</font>
+<font color="#ff8000" face="Goudy Old Style">His son took the young Iseya wife?
+And keeps her like a mistress.</font>
+<font color="#ff8000" face="Goudy Old Style">My father did nothing wrong!</font>
+<font color="#ff8000" face="Goudy Old Style">And there are many
+who sympathized with him.</font>
+<font color="#ff8000" face="Goudy Old Style">But what about Kie?</font>
+<font color="#ff8000" face="Goudy Old Style">It's caused talk among the retainers.
+My parents take it out on Shino.</font>
+<font color="#ff8000" face="Goudy Old Style">She was in tears last night.</font>
+<font color="#ff8000" face="Goudy Old Style">The poor thing...</font>
+<font color="#ff8000" face="Goudy Old Style">I speak as your friend...
+do something about Kie.</font>
+<font color="#ff8000" face="Goudy Old Style">Do what?</font>
+<font color="#ff8000" face="Goudy Old Style">That's up to you.</font>
+<font color="#ff8000" face="Goudy Old Style">But things can't go on as they are.</font>
+<font color="#ff8000" face="Goudy Old Style">I have to hear this from you, too?</font>
+<font color="#ff8000" face="Goudy Old Style">There is nothing to provoke scandal
+between Kie and me.</font>
+<font color="#ff8000" face="Goudy Old Style">She is a kind
+and good-natured girl.</font>
+<font color="#ff8000" face="Goudy Old Style">I know that very well!</font>
+<font color="#ff8000" face="Goudy Old Style">That's why I'm telling you this!</font>
+<font color="#ff8000" face="Goudy Old Style">You won't listen to sense!</font>
+<font color="#ff8000" face="Goudy Old Style">Have you ever seen the sea?</font>
+<font color="#ff8000" face="Goudy Old Style">No.</font>
+<font color="#ff8000" face="Goudy Old Style">I've dreamed about seeing it
+all my life.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm off-duty tomorrow.</font>
+<font color="#ff8000" face="Goudy Old Style">Shall we take a lunch and go?</font>
+<font color="#ff8000" face="Goudy Old Style">Really?</font>
+<font color="#ff8000" face="Goudy Old Style">You'll really take me to the sea?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm so glad!</font>
+<font color="#ff8000" face="Goudy Old Style">It's getting to be a while now
+since you came back.</font>
+<font color="#ff8000" face="Goudy Old Style">You're healthy again.</font>
+<font color="#ff8000" face="Goudy Old Style">It's about time you went home...</font>
+<font color="#ff8000" face="Goudy Old Style">...to your parents.</font>
+<font color="#ff8000" face="Goudy Old Style">I've been happy to take advantage
+of having you with me...</font>
+<font color="#ff8000" face="Goudy Old Style">...what with you knowing
+our house so well...</font>
+<font color="#ff8000" face="Goudy Old Style">...but that can't go on forever.</font>
+<font color="#ff8000" face="Goudy Old Style">Being with you,
+and taking care of you...</font>
+<font color="#ff8000" face="Goudy Old Style">...suits me very well? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">Can we not go on as we are?</font>
+<font color="#ff8000" face="Goudy Old Style">No. We can't do that.</font>
+<font color="#ff8000" face="Goudy Old Style">Why not?</font>
+<font color="#ff8000" face="Goudy Old Style">You are young? Bright?
+Good-natured and beautiful.</font>
+<font color="#ff8000" face="Goudy Old Style">You need to find a hard-working man
+who will cherish you...</font>
+<font color="#ff8000" face="Goudy Old Style">...have children, and be happy.</font>
+<font color="#ff8000" face="Goudy Old Style">I've no intention
+of marrying again.</font>
+<font color="#ff8000" face="Goudy Old Style">I've learned my lesson.</font>
+<font color="#ff8000" face="Goudy Old Style">Rather than suffer that again...</font>
+<font color="#ff8000" face="Goudy Old Style">...I'd much rather sit watching you...</font>
+<font color="#ff8000" face="Goudy Old Style">...eating the food I've made you
+with a hearty appetite...</font>
+<font color="#ff8000" face="Goudy Old Style">...and studying late into the night.</font>
+<font color="#ff8000" face="Goudy Old Style">If that doesn't please you...</font>
+<font color="#ff8000" face="Goudy Old Style">I don't say that.</font>
+<font color="#ff8000" face="Goudy Old Style">Then would you allow me
+to stay with you...</font>
+<font color="#ff8000" face="Goudy Old Style">...until you find a wife?</font>
+<font color="#ff8000" face="Goudy Old Style">I don't know when that will be.</font>
+<font color="#ff8000" face="Goudy Old Style">That's fine by me.</font>
+<font color="#ff8000" face="Goudy Old Style">You have your own life to live!</font>
+<font color="#ff8000" face="Goudy Old Style">You can't waste it as my maid!</font>
+<font color="#ff8000" face="Goudy Old Style">So Kie...</font>
+<font color="#ff8000" face="Goudy Old Style">...go home.</font>
+<font color="#ff8000" face="Goudy Old Style">Is that...</font>
+<font color="#ff8000" face="Goudy Old Style">...what you wish, sir?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes. That is my command.</font>
+<font color="#ff8000" face="Goudy Old Style">All right.</font>
+<font color="#ff8000" face="Goudy Old Style">Then I have no choice
+but to obey.</font>
+<font color="#ff8000" face="Goudy Old Style">Thank you very much
+for all you have done for me.</font>
+<font color="#ff8000" face="Goudy Old Style">Got one!</font>
+<font color="#ff8000" face="Goudy Old Style">You did?</font>
+<font color="#ff8000" face="Goudy Old Style">A Manual of Infantry Training</font>
+<font color="#ff8000" face="Goudy Old Style">Kume? Could you come here?</font>
+<font color="#ff8000" face="Goudy Old Style">Now? The unlined summer kimonos
+are in the top drawer of the chest...</font>
+<font color="#ff8000" face="Goudy Old Style">...and the winter ones
+are in the bottom drawer.</font>
+<font color="#ff8000" face="Goudy Old Style">Socks are down here.</font>
+<font color="#ff8000" face="Goudy Old Style">Every so often make sure...</font>
+<font color="#ff8000" face="Goudy Old Style">...to look at his socks.</font>
+<font color="#ff8000" face="Goudy Old Style">There might be holes in them?
+And he won't care.</font>
+<font color="#ff8000" face="Goudy Old Style">Don't forget to turn the preserves
+so the rice-bran doesn't go off.</font>
+<font color="#ff8000" face="Goudy Old Style">It'll be rainy season soon.</font>
+<font color="#ff8000" face="Goudy Old Style">Turn the tatmi mats.</font>
+<font color="#ff8000" face="Goudy Old Style">And always watch the fire.</font>
+<font color="#ff8000" face="Goudy Old Style">Don't burn the place down.</font>
+<font color="#ff8000" face="Goudy Old Style">I'd meant to take Kie back
+to her parents home...</font>
+<font color="#ff8000" face="Goudy Old Style">...but when I got up
+the next morning...</font>
+<font color="#ff8000" face="Goudy Old Style">...she hd gone wy
+on her own.</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Hazama? Time to eat.</font>
+<font color="#ff8000" face="Goudy Old Style">Squire?</font>
+<font color="#ff8000" face="Goudy Old Style">Is he dead?</font>
+<font color="#ff8000" face="Goudy Old Style">Squire?</font>
+<font color="#ff8000" face="Goudy Old Style">Give me the key or
+I'll break your arm!</font>
+<font color="#ff8000" face="Goudy Old Style">All right!</font>
+<font color="#ff8000" face="Goudy Old Style">Killer on the loose!</font>
+<font color="#ff8000" face="Goudy Old Style">Halt!</font>
+<font color="#ff8000" face="Goudy Old Style">Assistance!</font>
+<font color="#ff8000" face="Goudy Old Style">Assistance!</font>
+<font color="#ff8000" face="Goudy Old Style">What?</font>
+<font color="#ff8000" face="Goudy Old Style">He's dead!</font>
+<font color="#ff8000" face="Goudy Old Style">Take his feet!</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Katagiri is here.</font>
+<font color="#ff8000" face="Goudy Old Style">Something serious has happened.
+Yaichiro Hazama has escaped.</font>
+<font color="#ff8000" face="Goudy Old Style">As you know, he is very skilled,
+and crafty as any snake.</font>
+<font color="#ff8000" face="Goudy Old Style">He has barricaded himself
+in a peasant family's hut...</font>
+<font color="#ff8000" face="Goudy Old Style">...and is holding them hostage.</font>
+<font color="#ff8000" face="Goudy Old Style">Behind him is a range
+of very high mountains.</font>
+<font color="#ff8000" face="Goudy Old Style">It's impossible for him
+to flee across them...</font>
+<font color="#ff8000" face="Goudy Old Style">...and he doesn't mean to try.</font>
+<font color="#ff8000" face="Goudy Old Style">We know this because
+he had the guard...</font>
+<font color="#ff8000" face="Goudy Old Style">...bring a letter
+to Senior Retainer Hori.</font>
+<font color="#ff8000" face="Goudy Old Style">'I will neither run nor hide.
+Send a force against me.</font>
+<font color="#ff8000" face="Goudy Old Style">'One by one I will cut them down...</font>
+<font color="#ff8000" face="Goudy Old Style">'... until I have built
+a mountain of corpses.'</font>
+<font color="#ff8000" face="Goudy Old Style">What pure gall!</font>
+<font color="#ff8000" face="Goudy Old Style">The Senior Retainer is furious.</font>
+<font color="#ff8000" face="Goudy Old Style">Even weakened by long imprisonment,
+Hazama is still...</font>
+<font color="#ff8000" face="Goudy Old Style">...the best swordsman in the clan.</font>
+<font color="#ff8000" face="Goudy Old Style">He would injure or even kill
+foot soldiers.</font>
+<font color="#ff8000" face="Goudy Old Style">That is why your name came up.</font>
+<font color="#ff8000" face="Goudy Old Style">You are the only one
+who can cut Hazama down.</font>
+<font color="#ff8000" face="Goudy Old Style">By doing that...</font>
+<font color="#ff8000" face="Goudy Old Style">...you will erase any suspicion
+that you have plotted with him.</font>
+<font color="#ff8000" face="Goudy Old Style">Go out and face him.</font>
+<font color="#ff8000" face="Goudy Old Style">Those are the words
+of the Senior Retainer.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? Will you do it?</font>
+<font color="#ff8000" face="Goudy Old Style">I am being ordered
+to kill an old friend?</font>
+<font color="#ff8000" face="Goudy Old Style">If you do not, you will be considered
+in league with him.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? Will you do it or not?</font>
+<font color="#ff8000" face="Goudy Old Style">Is this an order?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes. It is the order of your clan.</font>
+<font color="#ff8000" face="Goudy Old Style">I understand. I will go.</font>
+<font color="#ff8000" face="Goudy Old Style">Very good. I'll report this
+to the Senior Retainer.</font>
+<font color="#ff8000" face="Goudy Old Style">We'll dispatch a squad of riflemen
+today? As well.</font>
+<font color="#ff8000" face="Goudy Old Style">Make your preparations tonight.</font>
+<font color="#ff8000" face="Goudy Old Style">An official will call in the morning.</font>
+<font color="#ff8000" face="Goudy Old Style">Good luck.</font>
+<font color="#ff8000" face="Goudy Old Style">Toda-sensei...</font>
+<font color="#ff8000" face="Goudy Old Style">Forgive my neglect of you.
+Are you well?</font>
+<font color="#ff8000" face="Goudy Old Style">Munezo Katagiri...</font>
+<font color="#ff8000" face="Goudy Old Style">Yes.</font>
+<font color="#ff8000" face="Goudy Old Style">It's been a long time.</font>
+<font color="#ff8000" face="Goudy Old Style">Something worries you.</font>
+<font color="#ff8000" face="Goudy Old Style">What is it?</font>
+<font color="#ff8000" face="Goudy Old Style">Would you remember
+a man named Hazama?</font>
+<font color="#ff8000" face="Goudy Old Style">We studied together.</font>
+<font color="#ff8000" face="Goudy Old Style">Yaichiro Hazama...</font>
+<font color="#ff8000" face="Goudy Old Style">It has come about that
+I must face him in combat.</font>
+<font color="#ff8000" face="Goudy Old Style">You and Hazama,
+in a fight to the death...</font>
+<font color="#ff8000" face="Goudy Old Style">I always thought
+that would happen someday.</font>
+<font color="#ff8000" face="Goudy Old Style">Everyone tenses when swords
+are drawn.</font>
+<font color="#ff8000" face="Goudy Old Style">You can tell a man to stay calm?
+But he won't.</font>
+<font color="#ff8000" face="Goudy Old Style">He is tense in body and mind.
+There's no help for it.</font>
+<font color="#ff8000" face="Goudy Old Style">Now...</font>
+<font color="#ff8000" face="Goudy Old Style">...try to make your body relax.</font>
+<font color="#ff8000" face="Goudy Old Style">Go loose.</font>
+<font color="#ff8000" face="Goudy Old Style">Concentrate on parrying.
+If he attacks, step back.</font>
+<font color="#ff8000" face="Goudy Old Style">He will grow angry.</font>
+<font color="#ff8000" face="Goudy Old Style">That is your aim.</font>
+<font color="#ff8000" face="Goudy Old Style">But while the body retreats?
+The spirit does not.</font>
+<font color="#ff8000" face="Goudy Old Style">The spirit is always attacking.</font>
+<font color="#ff8000" face="Goudy Old Style">I yield.</font>
+<font color="#ff8000" face="Goudy Old Style">Now let me show you something.</font>
+<font color="#ff8000" face="Goudy Old Style">Come at me.</font>
+<font color="#ff8000" face="Goudy Old Style">I will.</font>
+<font color="#ff8000" face="Goudy Old Style">I yield.</font>
+<font color="#ff8000" face="Goudy Old Style">Once more.</font>
+<font color="#ff8000" face="Goudy Old Style">Unlike 'The Devil's Claw',
+which I taught you long ago...</font>
+<font color="#ff8000" face="Goudy Old Style">...this is meant for use
+in a real sword fight.</font>
+<font color="#ff8000" face="Goudy Old Style">It's a dangerous trick.</font>
+<font color="#ff8000" face="Goudy Old Style">Be ready to die.</font>
+<font color="#ff8000" face="Goudy Old Style">I thank you.</font>
+<font color="#ff8000" face="Goudy Old Style">Take your eyes off
+your opponent...</font>
+<font color="#ff8000" face="Goudy Old Style">...and turn your back.</font>
+<font color="#ff8000" face="Goudy Old Style">Will I really be able to do
+a crazy thing like that?</font>
+<font color="#ff8000" face="Goudy Old Style">Hello?</font>
+<font color="#ff8000" face="Goudy Old Style">A woman...</font>
+<font color="#ff8000" face="Goudy Old Style">I'll go.</font>
+<font color="#ff8000" face="Goudy Old Style">Who is it?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sorry to bother you
+this late at night.</font>
+<font color="#ff8000" face="Goudy Old Style">Is this the home
+of Squire Munezo Katagiri?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes. I am he.</font>
+<font color="#ff8000" face="Goudy Old Style">Do you remember me?</font>
+<font color="#ff8000" face="Goudy Old Style">I am Yaichiro Hazama's wife.</font>
+<font color="#ff8000" face="Goudy Old Style">I have a favour to ask
+concerning my husband.</font>
+<font color="#ff8000" face="Goudy Old Style">Please, come in.</font>
+<font color="#ff8000" face="Goudy Old Style">No.</font>
+<font color="#ff8000" face="Goudy Old Style">It's not seemly for me
+to be calling on you at all.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll just sit here, if I may.</font>
+<font color="#ff8000" face="Goudy Old Style">How may I help you?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm told he has fled from his cell.
+The man is truly hopeless.</font>
+<font color="#ff8000" face="Goudy Old Style">I was always afraid
+something like this would happen.</font>
+<font color="#ff8000" face="Goudy Old Style">You have my sympathy.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm also told you have been chosen
+to stand against him.</font>
+<font color="#ff8000" face="Goudy Old Style">It is an order from the clan.
+I have no choice.</font>
+<font color="#ff8000" face="Goudy Old Style">When will you go?</font>
+<font color="#ff8000" face="Goudy Old Style">Tomorrow morning.</font>
+<font color="#ff8000" face="Goudy Old Style">Could you possibly let him escape?</font>
+<font color="#ff8000" face="Goudy Old Style">Escape?</font>
+<font color="#ff8000" face="Goudy Old Style">Over the mountains lies Ugo.</font>
+<font color="#ff8000" face="Goudy Old Style">My husband was born there,
+in Satake.</font>
+<font color="#ff8000" face="Goudy Old Style">He can survive there somehow.</font>
+<font color="#ff8000" face="Goudy Old Style">You ask the impossible.</font>
+<font color="#ff8000" face="Goudy Old Style">He intends to kill whoever is sent
+after him? And then to die himself.</font>
+<font color="#ff8000" face="Goudy Old Style">If an old friend like you
+were to reason with him...</font>
+<font color="#ff8000" face="Goudy Old Style">...that wouldn't happen.</font>
+<font color="#ff8000" face="Goudy Old Style">You know him well.</font>
+<font color="#ff8000" face="Goudy Old Style">If he lives he will become
+a powerful man.</font>
+<font color="#ff8000" face="Goudy Old Style">It will not hurt your prospects then
+if he is in your debt.</font>
+<font color="#ff8000" face="Goudy Old Style">Madam? Please!</font>
+<font color="#ff8000" face="Goudy Old Style">My gain or loss
+is of no consequence.</font>
+<font color="#ff8000" face="Goudy Old Style">If you wish...</font>
+<font color="#ff8000" face="Goudy Old Style">...I will offer myself to you.</font>
+<font color="#ff8000" face="Goudy Old Style">Whenever you say the word.</font>
+<font color="#ff8000" face="Goudy Old Style">You mustn't say things like that!</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama has made this
+a fight to the death.</font>
+<font color="#ff8000" face="Goudy Old Style">He will die? Or I will.
+Our lives are both at stake.</font>
+<font color="#ff8000" face="Goudy Old Style">I will forget what you've said.</font>
+<font color="#ff8000" face="Goudy Old Style">Please do the same.</font>
+<font color="#ff8000" face="Goudy Old Style">You're an honest man,
+just as my husband said.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sorry to have disturbed you
+so late. Good night.</font>
+<font color="#ff8000" face="Goudy Old Style">Let me give you a light
+for your lantern.</font>
+<font color="#ff8000" face="Goudy Old Style">The road is dark. Take care.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll go to Lord Hori?
+The Senior Retainer.</font>
+<font color="#ff8000" face="Goudy Old Style">The Senior Retainer? Why?</font>
+<font color="#ff8000" face="Goudy Old Style">I'll ask him to order you
+not to kill Hazama.</font>
+<font color="#ff8000" face="Goudy Old Style">No!</font>
+<font color="#ff8000" face="Goudy Old Style">You can't trust him!
+You'll be wasting your time.</font>
+<font color="#ff8000" face="Goudy Old Style">I know that.</font>
+<font color="#ff8000" face="Goudy Old Style">Madam! Don't!</font>
+<font color="#ff8000" face="Goudy Old Style">Naota, I'm going to write a letter.</font>
+<font color="#ff8000" face="Goudy Old Style">If I die tomorrow...</font>
+<font color="#ff8000" face="Goudy Old Style">...take it to Kie for me.</font>
+<font color="#ff8000" face="Goudy Old Style">Understand?</font>
+<font color="#ff8000" face="Goudy Old Style">Take the letter to Kie.</font>
+<font color="#ff8000" face="Goudy Old Style">Aye.</font>
+<font color="#ff8000" face="Goudy Old Style">Thank you for coming, sir.</font>
+<font color="#ff8000" face="Goudy Old Style">That house?</font>
+<font color="#ff8000" face="Goudy Old Style">Aye.</font>
+<font color="#ff8000" face="Goudy Old Style">There's a lot of smoke
+coming from it.</font>
+<font color="#ff8000" face="Goudy Old Style">It looks like he's eating
+all the rice they've got.</font>
+<font color="#ff8000" face="Goudy Old Style">The old man's come out.</font>
+<font color="#ff8000" face="Goudy Old Style">Poor old Kamezo!</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama's holding the old man
+and his grand-daughter hostage.</font>
+<font color="#ff8000" face="Goudy Old Style">He's got a sword
+he's holding on the girl...</font>
+<font color="#ff8000" face="Goudy Old Style">...so our hands are tied.</font>
+<font color="#ff8000" face="Goudy Old Style">Would you like to watch
+for a while?</font>
+<font color="#ff8000" face="Goudy Old Style">I'll get ready and go.</font>
+<font color="#ff8000" face="Goudy Old Style">How long should we wait?</font>
+<font color="#ff8000" face="Goudy Old Style">We have orders to shoot?
+Even if it means killing the hostages.</font>
+<font color="#ff8000" face="Goudy Old Style">No.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll have it settled by dark.</font>
+<font color="#ff8000" face="Goudy Old Style">If I'm not back by sunset,
+the rest is in your hands.</font>
+<font color="#ff8000" face="Goudy Old Style">Yes? Sir.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? If it isn't Katagiri!
+They sent you after me?</font>
+<font color="#ff8000" face="Goudy Old Style">Let me talk to you.</font>
+<font color="#ff8000" face="Goudy Old Style">Go in.</font>
+<font color="#ff8000" face="Goudy Old Style">Are you well?</font>
+<font color="#ff8000" face="Goudy Old Style">How do you think I'd be...</font>
+<font color="#ff8000" face="Goudy Old Style">...locked in a dark cell
+on two bowls of gruel of day?</font>
+<font color="#ff8000" face="Goudy Old Style">Let's not waste words.</font>
+<font color="#ff8000" face="Goudy Old Style">I guess you're right.</font>
+<font color="#ff8000" face="Goudy Old Style">So what are you here to do?
+Kill me?</font>
+<font color="#ff8000" face="Goudy Old Style">Commit suicide?
+As a samurai should.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll be your second.</font>
+<font color="#ff8000" face="Goudy Old Style">And if I say no?</font>
+<font color="#ff8000" face="Goudy Old Style">Then I must...</font>
+<font color="#ff8000" face="Goudy Old Style">...kill you.</font>
+<font color="#ff8000" face="Goudy Old Style">The clan orders it.</font>
+<font color="#ff8000" face="Goudy Old Style">The clan!</font>
+<font color="#ff8000" face="Goudy Old Style">Hori sent you? Didn't he.
+'Go kill that rebel? ' he said.</font>
+<font color="#ff8000" face="Goudy Old Style">Aye.</font>
+<font color="#ff8000" face="Goudy Old Style">That meddlesome old fool!</font>
+<font color="#ff8000" face="Goudy Old Style">This isn't the time to argue about
+opening up to the foreigners or not.</font>
+<font color="#ff8000" face="Goudy Old Style">What we're doing is for the clan?
+And for the country!</font>
+<font color="#ff8000" face="Goudy Old Style">There's nothing disloyal about it!</font>
+<font color="#ff8000" face="Goudy Old Style">The one who should be struck down
+is Hori...</font>
+<font color="#ff8000" face="Goudy Old Style">...who cares only for filling his
+own pockets. He's the traitor!</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama...</font>
+<font color="#ff8000" face="Goudy Old Style">What?</font>
+<font color="#ff8000" face="Goudy Old Style">There are riflemen
+all around this house.</font>
+<font color="#ff8000" face="Goudy Old Style">You'll never get out of here alive.</font>
+<font color="#ff8000" face="Goudy Old Style">So they're going to kill me
+with guns, are they?</font>
+<font color="#ff8000" face="Goudy Old Style">Hey...</font>
+<font color="#ff8000" face="Goudy Old Style">...I'm sure you haven't forgotten,
+four years ago before His Lordship.</font>
+<font color="#ff8000" face="Goudy Old Style">I lost to you.</font>
+<font color="#ff8000" face="Goudy Old Style">'Hazama lost to Katagiri? ' they said.
+'Serves him right! '</font>
+<font color="#ff8000" face="Goudy Old Style">The whole clan laughed at me.</font>
+<font color="#ff8000" face="Goudy Old Style">But...</font>
+<font color="#ff8000" face="Goudy Old Style">...I was holding back.</font>
+<font color="#ff8000" face="Goudy Old Style">If I'd meant to, I could have
+smashed your skull wide open.</font>
+<font color="#ff8000" face="Goudy Old Style">I didn't because it was
+before His Lordship.</font>
+<font color="#ff8000" face="Goudy Old Style">I knew that.</font>
+<font color="#ff8000" face="Goudy Old Style">You did?</font>
+<font color="#ff8000" face="Goudy Old Style">Fine, then! We'll settle accounts
+with real swords now.</font>
+<font color="#ff8000" face="Goudy Old Style">Those bastards will think again
+when I kill you.</font>
+<font color="#ff8000" face="Goudy Old Style">I am the best swordsman
+in the Unasaka Clan!</font>
+<font color="#ff8000" face="Goudy Old Style">Draw!</font>
+<font color="#ff8000" face="Goudy Old Style">Some farmer did had this
+hidden for years.</font>
+<font color="#ff8000" face="Goudy Old Style">It's rusty? But it still cuts.</font>
+<font color="#ff8000" face="Goudy Old Style">Use your head, will you?</font>
+<font color="#ff8000" face="Goudy Old Style">If you kill yourself according to
+the law, you keep your honour.</font>
+<font color="#ff8000" face="Goudy Old Style">Killing you in a fight
+will keep me my honour.</font>
+<font color="#ff8000" face="Goudy Old Style">Wait!</font>
+<font color="#ff8000" face="Goudy Old Style">Think of your wife!</font>
+<font color="#ff8000" face="Goudy Old Style">If you don't kill yourself,
+she'll be the wife of a criminal!</font>
+<font color="#ff8000" face="Goudy Old Style">I've told her to cut her throat
+and follow me.</font>
+<font color="#ff8000" face="Goudy Old Style">You don't have to fret over that.</font>
+<font color="#ff8000" face="Goudy Old Style">Cut her throat?</font>
+<font color="#ff8000" face="Goudy Old Style">Why make her do a thing like that?</font>
+<font color="#ff8000" face="Goudy Old Style">Since when is my wife
+of concern to you?</font>
+<font color="#ff8000" face="Goudy Old Style">Draw!</font>
+<font color="#ff8000" face="Goudy Old Style">Draw, will you!</font>
+<font color="#ff8000" face="Goudy Old Style">You always were good
+at getting out of the way.</font>
+<font color="#ff8000" face="Goudy Old Style">Do you insist, Hazama?</font>
+<font color="#ff8000" face="Goudy Old Style">Have you ever killed a man?</font>
+<font color="#ff8000" face="Goudy Old Style">No.</font>
+<font color="#ff8000" face="Goudy Old Style">I've killed several? In Edo.
+Just to try my hand.</font>
+<font color="#ff8000" face="Goudy Old Style">Hurry!</font>
+<font color="#ff8000" face="Goudy Old Style">What?</font>
+<font color="#ff8000" face="Goudy Old Style">Why don't you attack?</font>
+<font color="#ff8000" face="Goudy Old Style">Are you afraid?</font>
+<font color="#ff8000" face="Goudy Old Style">Are you going to use
+'The Hidden Blade'?</font>
+<font color="#ff8000" face="Goudy Old Style">That 'Devil's Claw' trick
+that Toda-sensei taught you?</font>
+<font color="#ff8000" face="Goudy Old Style">He should have
+passed that down to me!</font>
+<font color="#ff8000" face="Goudy Old Style">Come on, then.
+Show me 'The Devil's Claw'.</font>
+<font color="#ff8000" face="Goudy Old Style">If that's how you mean to kill me...</font>
+<font color="#ff8000" face="Goudy Old Style">...then try.</font>
+<font color="#ff8000" face="Goudy Old Style">'The Devil's Claw' isn't something
+you use in a sword fight.</font>
+<font color="#ff8000" face="Goudy Old Style">And I didn't learn it
+to use on you!</font>
+<font color="#ff8000" face="Goudy Old Style">Damn you!</font>
+<font color="#ff8000" face="Goudy Old Style">Enough of this! Kill yourself!</font>
+<font color="#ff8000" face="Goudy Old Style">After I kill you!</font>
+<font color="#ff8000" face="Goudy Old Style">What, you're running?</font>
+<font color="#ff8000" face="Goudy Old Style">What was that?</font>
+<font color="#ff8000" face="Goudy Old Style">'The Devil's Claw'?</font>
+<font color="#ff8000" face="Goudy Old Style">No.</font>
+<font color="#ff8000" face="Goudy Old Style">That wasn't 'The Devil's Claw'.</font>
+<font color="#ff8000" face="Goudy Old Style">That was a coward's trick.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll kill you!</font>
+<font color="#ff8000" face="Goudy Old Style">Wait!</font>
+<font color="#ff8000" face="Goudy Old Style">Hold your fire!</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama!</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama...</font>
+<font color="#ff8000" face="Goudy Old Style">...I'm sorry!</font>
+<font color="#ff8000" face="Goudy Old Style">You wouldn't have wanted...</font>
+<font color="#ff8000" face="Goudy Old Style">...to die by the gun!</font>
+<font color="#ff8000" face="Goudy Old Style">I'm very sorry.</font>
+<font color="#ff8000" face="Goudy Old Style">I pray you will not hate me.</font>
+<font color="#ff8000" face="Goudy Old Style">I have some things to tell you
+of how your husband met his end...</font>
+<font color="#ff8000" face="Goudy Old Style">...but first I must report
+to the Senior Retainer.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll take my leave.</font>
+<font color="#ff8000" face="Goudy Old Style">Squire Katagiri...</font>
+<font color="#ff8000" face="Goudy Old Style">...did the Senior Retainer not tell you
+to spare my husband?</font>
+<font color="#ff8000" face="Goudy Old Style">What?!</font>
+<font color="#ff8000" face="Goudy Old Style">He promised me he would.</font>
+<font color="#ff8000" face="Goudy Old Style">You really went to
+the Senior Retainer's home last night?</font>
+<font color="#ff8000" face="Goudy Old Style">And he told you
+he would spare Hazama?</font>
+<font color="#ff8000" face="Goudy Old Style">You've been a fool!</font>
+<font color="#ff8000" face="Goudy Old Style">I told you not to go!</font>
+<font color="#ff8000" face="Goudy Old Style">I knew that would happen!</font>
+<font color="#ff8000" face="Goudy Old Style">He said nothing to me.</font>
+<font color="#ff8000" face="Goudy Old Style">You've been deceived.</font>
+<font color="#ff8000" face="Goudy Old Style">Here they are.</font>
+<font color="#ff8000" face="Goudy Old Style">He was standing at the front door.
+I had to drag him in here.</font>
+<font color="#ff8000" face="Goudy Old Style">Well? Here you are!</font>
+<font color="#ff8000" face="Goudy Old Style">Well done!
+I was sure you'd beat him.</font>
+<font color="#ff8000" face="Goudy Old Style">No, it was the new guns
+that got me out of a tight spot.</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? You used the guns?</font>
+<font color="#ff8000" face="Goudy Old Style">We'd never used them on a man before.
+They're very effective.</font>
+<font color="#ff8000" face="Goudy Old Style">Far better than matchlocks.</font>
+<font color="#ff8000" face="Goudy Old Style">They were expensive,
+but I guess they're worth it.</font>
+<font color="#ff8000" face="Goudy Old Style">Katagiri, come here.
+We'll drink a pledge.</font>
+<font color="#ff8000" face="Goudy Old Style">This man has just killed
+a samurai in a duel.</font>
+<font color="#ff8000" face="Goudy Old Style">His opponent was the greatest
+swordsman in the Unasaka clan!</font>
+<font color="#ff8000" face="Goudy Old Style">That's awful!</font>
+<font color="#ff8000" face="Goudy Old Style">We'd certainly like to hear about it?
+But this is not the time.</font>
+<font color="#ff8000" face="Goudy Old Style">You may greet the Senior Retainer
+and withdraw.</font>
+<font color="#ff8000" face="Goudy Old Style">There'll be a reward for you.</font>
+<font color="#ff8000" face="Goudy Old Style">Hey!</font>
+<font color="#ff8000" face="Goudy Old Style">I said you may leave.</font>
+<font color="#ff8000" face="Goudy Old Style">I have something to ask
+the Senior Retainer.</font>
+<font color="#ff8000" face="Goudy Old Style">What?</font>
+<font color="#ff8000" face="Goudy Old Style">Did you receive a visit last night
+from Hazama's wife?</font>
+<font color="#ff8000" face="Goudy Old Style">How did you know that?</font>
+<font color="#ff8000" face="Goudy Old Style">Hazama's wife came
+to my house last night.</font>
+<font color="#ff8000" face="Goudy Old Style">She said she was going
+to see you.</font>
+<font color="#ff8000" face="Goudy Old Style">Yes.</font>
+<font color="#ff8000" face="Goudy Old Style">She did.</font>
+<font color="#ff8000" face="Goudy Old Style">She's beautiful...</font>
+<font color="#ff8000" face="Goudy Old Style">...so they say.</font>
+<font color="#ff8000" face="Goudy Old Style">She is. I wondered what she wanted
+so late at night...</font>
+<font color="#ff8000" face="Goudy Old Style">...but as she was so attractive,
+I brought her here and heard her out.</font>
+<font color="#ff8000" face="Goudy Old Style">What did she want?</font>
+<font color="#ff8000" face="Goudy Old Style">His life.</font>
+<font color="#ff8000" face="Goudy Old Style">She asked me to order Katagiri
+to let Hazama escape.</font>
+<font color="#ff8000" face="Goudy Old Style">Imagine a criminal's wife asking
+such a thing! Out of the question!</font>
+<font color="#ff8000" face="Goudy Old Style">So you refused?</font>
+<font color="#ff8000" face="Goudy Old Style">Of course.</font>
+<font color="#ff8000" face="Goudy Old Style">But? Koda,
+she was very beautiful.</font>
+<font color="#ff8000" face="Goudy Old Style">She turned her charm on me,
+and I couldn't say no.</font>
+<font color="#ff8000" face="Goudy Old Style">What man could resist
+a woman like that?</font>
+<font color="#ff8000" face="Goudy Old Style">So you and the lady...</font>
+<font color="#ff8000" face="Goudy Old Style">Yes. I enjoyed her to the full?
+There in the next room.</font>
+<font color="#ff8000" face="Goudy Old Style">But sir, I received no order
+from you...</font>
+<font color="#ff8000" face="Goudy Old Style">...to let Hazama escape.</font>
+<font color="#ff8000" face="Goudy Old Style">Of course not! She knew very well
+she was asking the impossible.</font>
+<font color="#ff8000" face="Goudy Old Style">As proof of that,
+she enjoyed herself immensely.</font>
+<font color="#ff8000" face="Goudy Old Style">A fine body she has? Too.</font>
+<font color="#ff8000" face="Goudy Old Style">And? What is it you wish to say?</font>
+<font color="#ff8000" face="Goudy Old Style">Senior Retainer or not...</font>
+<font color="#ff8000" face="Goudy Old Style">...to take advantage of a wife
+pleading for her husband's life...</font>
+<font color="#ff8000" face="Goudy Old Style">...was a foul thing to do.</font>
+<font color="#ff8000" face="Goudy Old Style">...to Hazama's wife!</font>
+<font color="#ff8000" face="Goudy Old Style">You presume upon
+my kind words to you.</font>
+<font color="#ff8000" face="Goudy Old Style">I did what she wanted!</font>
+<font color="#ff8000" face="Goudy Old Style">Your impertinence knows no end!</font>
+<font color="#ff8000" face="Goudy Old Style">I'll deal with you later!</font>
+<font color="#ff8000" face="Goudy Old Style">Fool!</font>
+<font color="#ff8000" face="Goudy Old Style">Sir!</font>
+<font color="#ff8000" face="Goudy Old Style">I wanted to see Hazama's wife
+nd tell her not to be rash...</font>
+<font color="#ff8000" face="Goudy Old Style">...and that life is a treasure
+not to be lightly discarded...</font>
+<font color="#ff8000" face="Goudy Old Style">...but I was too late.</font>
+<font color="#ff8000" face="Goudy Old Style">Square formation!</font>
+<font color="#ff8000" face="Goudy Old Style">Prepare to resist cavalry!</font>
+<font color="#ff8000" face="Goudy Old Style">Fall in!</font>
+<font color="#ff8000" face="Goudy Old Style">Right turn!</font>
+<font color="#ff8000" face="Goudy Old Style">Forward, march!</font>
+<font color="#ff8000" face="Goudy Old Style">Not a damned drop!</font>
+<font color="#ff8000" face="Goudy Old Style">Go on! You bother me!</font>
+<font color="#ff8000" face="Goudy Old Style">After all the money
+I've paid that quack!</font>
+<font color="#ff8000" face="Goudy Old Style">Damn it!</font>
+<font color="#ff8000" face="Goudy Old Style">Katagiri? What do you want?</font>
+<font color="#ff8000" face="Goudy Old Style">Sir?</font>
+<font color="#ff8000" face="Goudy Old Style">Sir!</font>
+<font color="#ff8000" face="Goudy Old Style">What's wrong?!</font>
+<font color="#ff8000" face="Goudy Old Style">Are you ill?</font>
+<font color="#ff8000" face="Goudy Old Style">Sir?</font>
+<font color="#ff8000" face="Goudy Old Style">Sir!</font>
+<font color="#ff8000" face="Goudy Old Style">What's wrong?</font>
+<font color="#ff8000" face="Goudy Old Style">Don't move him! Bring the doctor!</font>
+<font color="#ff8000" face="Goudy Old Style">Doctor! Hurry? Please!</font>
+<font color="#ff8000" face="Goudy Old Style">Doctor!</font>
+<font color="#ff8000" face="Goudy Old Style">Help him!</font>
+<font color="#ff8000" face="Goudy Old Style">Well? Doctor?</font>
+<font color="#ff8000" face="Goudy Old Style">It's as if some thing’s been sent
+straight through his heart.</font>
+<font color="#ff8000" face="Goudy Old Style">Certainly this wound
+is the cause of death.</font>
+<font color="#ff8000" face="Goudy Old Style">How could that happen
+without any bleeding?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes... what caused the wound?</font>
+<font color="#ff8000" face="Goudy Old Style">Could it have been...</font>
+<font color="#ff8000" face="Goudy Old Style">...something other than human,
+perhaps?</font>
+<font color="#ff8000" face="Goudy Old Style">I wouldn't move him.</font>
+<font color="#ff8000" face="Goudy Old Style">Inside he's probably
+a sea of blood.</font>
+<font color="#ff8000" face="Goudy Old Style">I have taken vengeance
+for you and for Hazama.</font>
+<font color="#ff8000" face="Goudy Old Style">May you rise to Buddha.</font>
+<font color="#ff8000" face="Goudy Old Style">But why...</font>
+<font color="#ff8000" face="Goudy Old Style">...do I feel so empty?</font>
+<font color="#ff8000" face="Goudy Old Style">What will I do now?</font>
+<font color="#ff8000" face="Goudy Old Style">I resigned my position
+nd abandoned my samurai status.</font>
+<font color="#ff8000" face="Goudy Old Style">I never want to kill again.</font>
+<font color="#ff8000" face="Goudy Old Style">I'll leave you here.</font>
+<font color="#ff8000" face="Goudy Old Style">Ezo... that's a long ways to go.</font>
+<font color="#ff8000" face="Goudy Old Style">You poor man... all alone
+in that wilderness!</font>
+<font color="#ff8000" face="Goudy Old Style">If only you had a wife
+to go with you!</font>
+<font color="#ff8000" face="Goudy Old Style">Shimada... take good care
+of this crybaby, will you?</font>
+<font color="#ff8000" face="Goudy Old Style">We'll be fine.
+Don't you worry about us.</font>
+<font color="#ff8000" face="Goudy Old Style">Is this the last
+we'll ever see of you?</font>
+<font color="#ff8000" face="Goudy Old Style">Shino, I'm going.</font>
+<font color="#ff8000" face="Goudy Old Style">Goodbye.</font>
+<font color="#ff8000" face="Goudy Old Style">Sis!</font>
+<font color="#ff8000" face="Goudy Old Style">A visitor!</font>
+<font color="#ff8000" face="Goudy Old Style">The Master!</font>
+<font color="#ff8000" face="Goudy Old Style">Oh? My!</font>
+<font color="#ff8000" face="Goudy Old Style">How have you been? Kie?</font>
+<font color="#ff8000" face="Goudy Old Style">What brings you here?</font>
+<font color="#ff8000" face="Goudy Old Style">And why are you dressed like that?</font>
+<font color="#ff8000" face="Goudy Old Style">Are you going on a journey?</font>
+<font color="#ff8000" face="Goudy Old Style">Are you going to Edo?
+Or maybe Kyoto?</font>
+<font color="#ff8000" face="Goudy Old Style">Now? Now? Calm down.
+That's why I've come to see you.</font>
+<font color="#ff8000" face="Goudy Old Style">Let's sit over there.</font>
+<font color="#ff8000" face="Goudy Old Style">Is farm work hard?</font>
+<font color="#ff8000" face="Goudy Old Style">We're about to start planting,
+so it's the busiest time of the year.</font>
+<font color="#ff8000" face="Goudy Old Style">But compared to the Iseya?
+With that old witch yelling at me...</font>
+<font color="#ff8000" face="Goudy Old Style">...and working so hard
+I had no time to eat...</font>
+<font color="#ff8000" face="Goudy Old Style">...this is nothing. It's child's play.</font>
+<font color="#ff8000" face="Goudy Old Style">I see...</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sorry about coming
+to talk to you at such a busy time...</font>
+<font color="#ff8000" face="Goudy Old Style">What is it?</font>
+<font color="#ff8000" face="Goudy Old Style">Have you made any arrangements
+for a marriage?</font>
+<font color="#ff8000" face="Goudy Old Style">My father's brought
+any number of offers...</font>
+<font color="#ff8000" face="Goudy Old Style">But you haven't accepted any?</font>
+<font color="#ff8000" face="Goudy Old Style">It so happens...</font>
+<font color="#ff8000" face="Goudy Old Style">...I'm going to the island of Ezo.</font>
+<font color="#ff8000" face="Goudy Old Style">Ezo? Way up north?</font>
+<font color="#ff8000" face="Goudy Old Style">I'm sick of being a samurai.</font>
+<font color="#ff8000" face="Goudy Old Style">I've renounced my status.
+I'm a townsman now.</font>
+<font color="#ff8000" face="Goudy Old Style">I'm thinking of going into trade
+in Ezo.</font>
+<font color="#ff8000" face="Goudy Old Style">How long will it take you
+to get there?</font>
+<font color="#ff8000" face="Goudy Old Style">A month, two if the seas are rough.</font>
+<font color="#ff8000" face="Goudy Old Style">But then I'll never
+be able to see you again!</font>
+<font color="#ff8000" face="Goudy Old Style">Kie...</font>
+<font color="#ff8000" face="Goudy Old Style">...will you come with me?</font>
+<font color="#ff8000" face="Goudy Old Style">There's no hardship I can't bear
+if I'm with you.</font>
+<font color="#ff8000" face="Goudy Old Style">That's what I've come here to say.</font>
+<font color="#ff8000" face="Goudy Old Style">Will you be my wife?</font>
+<font color="#ff8000" face="Goudy Old Style">Well... this is all so sudden...</font>
+<font color="#ff8000" face="Goudy Old Style">There's nothing stopping us.</font>
+<font color="#ff8000" face="Goudy Old Style">If I love you? And you love me,
+that's all we need.</font>
+<font color="#ff8000" face="Goudy Old Style">And I love you.</font>
+<font color="#ff8000" face="Goudy Old Style">I have ever since
+I first saw you.</font>
+<font color="#ff8000" face="Goudy Old Style">Kie...</font>
+<font color="#ff8000" face="Goudy Old Style">...what do you think?</font>
+<font color="#ff8000" face="Goudy Old Style">I've never ever
+given it a thought!</font>
+<font color="#ff8000" face="Goudy Old Style">Would you give it a thought now?</font>
+<font color="#ff8000" face="Goudy Old Style">Well?</font>
+<font color="#ff8000" face="Goudy Old Style">Have you thought about it?</font>
+<font color="#ff8000" face="Goudy Old Style">Is that...</font>
+<font color="#ff8000" face="Goudy Old Style">...what you wish, sir?</font>
+<font color="#ff8000" face="Goudy Old Style">Yes.</font>
+<font color="#ff8000" face="Goudy Old Style">That is my command.</font>
+<font color="#ff8000" face="Goudy Old Style">Then I have no choice
+but to obey.</font>
