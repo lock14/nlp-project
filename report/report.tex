@@ -1,4 +1,6 @@
 \documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage[english]{babel}
 \usepackage{acl2014}
 \usepackage{times}
@@ -66,7 +68,7 @@ unsuccessful. We do discuss alternative features that can be tested in our secti
 future work. Perhaps some of these features may end up performing as well as movie reviews
 in predicting box office revenue.
 
-\section{Prediction Task}
+\section{Problem Definition}
 \subsection{Data}
 Joshi et al. made their data set accessible to the public. We retrieved there data
 and used it as the source the relevant meta data features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
@@ -96,18 +98,37 @@ While we would have preferred to get subtitles for every movie, we felt that thi
 enough to move forward with our regression experiments. The cleaned subtitles are
 publicly available from our code repository.
 
+\subsection{Task Definition}
+The task at hand was to evaluate how well plot related features, in our case subtitles,
+performed in predicting opening weekend revenue in U.S. dollars. Specifically, given
+a film's subtitles (and possibly meta data features) in text form, how well can we
+predict the film's opening weekend box office revenue.
 
-\subsection{Predictive Task}
-Precisely define the problem you are addressing (i.e. formally specify the inputs and
-outputs). Elaborate on why this is an interesting and important problem.
+We use Linear Text Regression to perform this task, where the response variable $y$ is
+the film's oppening weekend revenue, and the subtitles and meta data features are
+converted into a feature matrix $X$.
 
 \subsection{Algorithm Definition}
-Describe in reasonable detail the algorithm you are using to address this problem. A
-psuedocode description of the algorithm you are using is frequently useful. Trace through
-a concrete example, showing how your algorithm processes this example. The example should
-be complex enough to illustrate all of the important aspects of the problem but simple
-enough to be easily understood. If possible, an intuitively meaningful example is better
-than one with meaningless symbols.
+We use the Guassian family of linear models as the basis for our prediction method.
+Given a response variable $y$, and a feature vector $\vec{x} \in \mathbb{R}^p$, we
+predict a value $\hat{y} = \beta_0 + \vec{x}^T \beta$. The parameter $\beta$ and $\beta$
+is learned by minimizing the sum of squares errors of the training set. Let the training
+set contain $N$ pairs $x_i,y_i$, where $x_i \in \mathbb{R}^p$ and $y_i \in \mathbb{R}$,
+then $\beta_0$ and $\beta$ are obtained from the following formula:
+
+$$ \min_{(\beta_0, \beta) \in \mathbb{R}^{p+1}} \frac{1}{2N} \sum_{i=1}^N (y_i - \beta_0 
+- \vec{x}_i^T\beta)^2 + \lambda P(\beta)$$
+
+where $\lambda \geq 0$ is a complexity parameter. The penalty term $P(\beta)$ is 
+defined as follows:
+$$P(\beta) = \frac{1}{2}(1 - \alpha) \| \beta \|_2^2 + \alpha \|\beta\|_1$$
+
+$0 \leq \alpha \leq 1$ is compromise between ridge\\ ($\alpha = 0$) and lasso
+($\alpha = 1$) regularization.
+
+Coordinate descent is applied to solve the problem of picking the minimum $\beta_0$ and
+$\beta$. Our implementation uses the python packages x,y,z (update) which contain
+efficient libraries for training a Guassian model using coordinate descent.
 
 \section{Experimental Evaluation}
 \subsection{Methodology}
