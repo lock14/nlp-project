@@ -194,11 +194,14 @@ def get_metadata_features(movies, metadata):
 @argh.arg("-t", "--text-directories", nargs="+")
 def main(xml_directory, text_directories=None, use_metadata=False,
          max_ngrams=3, seed=1, min_ngrams=1, stop_words=None,
-         max_features=20000, count=False):
+         max_features=20000, count=False, dump_movies=None,
+         import_movies=None):
+
+    print(sys.argv[1:])
 
     if not text_directories and not use_metadata:
         print("need to use either text or metadata")
-        sys.exit(1)
+        sys.exit(0)
     
     earnings, metadata = get_metadata(xml_directory)
 
@@ -208,6 +211,17 @@ def main(xml_directory, text_directories=None, use_metadata=False,
         
     complete_movies = check_data(earnings, texts, metadata, use_metadata)
 
+    if import_movies:
+        complete_movies = set()
+        with open(import_movies) as handle:
+            for line in handle:
+                complete_movies.add(line.rstrip())
+
+    if dump_movies:
+        with open(dump_movies, 'w') as handle:
+            for movie in complete_movies:
+                print(movie, file=handle)
+                
     num_total = len(earnings.keys())
     num_complete = len(complete_movies)
     print("{0} movies used out of {1} total".format(num_complete, num_total))
