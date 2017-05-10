@@ -1,61 +1,193 @@
 \documentclass[11pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{tabu}
-\usepackage{amsmath}
-\usepackage[T1]{fontenc}
-\usepackage{textcomp}
-\usepackage{tgpagella}
-\usepackage{graphicx}
-\DeclareGraphicsExtensions{.pdf,.png,.jpg}
-\setlength{\oddsidemargin}{.25in}
-\setlength{\evensidemargin}{.25in}
-\setlength{\textwidth}{5.5in}
-\setlength{\topmargin}{-0.4in}
-\setlength{\textheight}{8.5in}
 \usepackage[english]{babel}
-\usepackage{multicol}
+\usepackage{acl2014}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{amssymb}
 
 \begin{document}
-\title{Text Regression on Movie Subtitles}
+\title{Linear Text Regression on Movie Subtitles}
 \author{Brian Bechtel, Jonathan Stites\\
        University of Texas at Austin}
 \date{}
+
 \maketitle
 
-\begin{multicols}{2}
 \begin{abstract}
-Below are guidlines on how to write-up your report for the final project. Of course, for a short class project, all of the comments may not be relevant. However, please use it as a general guide in structuring your final report.
+\noindent
+Plot specific features may be useful in predicting box office revenue of films.
+In this paper we present a method for analyzing movie subtitles as such a predictive
+feature using Linear Text Regression. We compare the performance of subtitles against
+using movie reviews and find that subtitles do not perform as well in predictive power.
+We discuss alternative features that reflect plot should extensions of this work be
+done in the future.
 \end{abstract}
 
-A "standard" experimental NLP paper consists of the following sections: 
 \section{Introduction}
-Motivate and abstractly describe the problem you are addressing and how you are addressing it. What is the problem? Why is it important? What is your basic approach? A short discussion of how it fits into related work in the area is also desirable. Summarize the basic results and conclusions that you will present.
+\subsection{Background and Motivation}
+Text regression is a a useful tool to predict real world values from textual inputs.
+In 2010, Joshi et al. used text regression on movie reviews to predict box office revenue.
+In their paper they analyzed the performance of using reviews as predictor vs using meta
+data alone (such as budget, number of screens, release date, etc.). They found that text
+from reviews could both substitute for and improve over a strong meta data based approach.
 
-\section{Problem Definition and Algorithm}
+A limitation in the methodology of Joshi et al. is that they used features that are only
+available late into film's production, such as pre-release movie reviews. A pre-release
+review requires a cut of the film, which means much, if not all, of the filming has
+finished. Thus, the procedure described by Joshi et al. is limited in that a prediction
+can only be made late into the production cycle of a film. At such a late point,
+significant investments have already been made in the film and thus a prediction of
+revenue is of less use for financial planning.
+
+\subsection{Main Goal}
+The main goal of this paper was to try and identify prediction features that occur much
+earlier in the film making process. We hypothesized that features that captured a film's
+plot directly might be useful for predicting revenue. If such features prove useful as
+predictors of revenue, then as a consequence prediction can be done much earlier in the
+film making process, greatly improving the utility of the model.
+
+We initially wanted to use the film's script as such a feature, but found that getting
+enough script data was challenging as there ended up not being any great sources of
+move script data. From the sources we were able to identify we were only able to
+obtain about $140$ movie scripts of any use, which was not nearly enough data to perform
+proper regression on. In retrospect, this makes sense as film scripts are considered
+intellectual property, and thus the scripts are not widely available to the public.
+
+As an alternative to scripts, we decided to use the subtitles for the films instead. The
+majority of text in a script is the characters' dialogue, and thus since subtitles contain
+all the dialogue of the film, we felt that they were a reasonable proxy for scripts.
+Scripts do contain other textual information not in subtitles, such as describing a scene,
+which makes subtitles not a perfect substitute for scripts.
+
+\subsection{Summary of Results}
+In the following sections we describe our methodology for analyzing the subtitle text
+and making predictions of box office revenue. Our findings indicate that subtitles do
+not perform as well as movie reviews in predicting revenue, though there is some small
+predictive value. In general, our attempt to find features that can be used
+earlier in the film making process, as compared to those presented in Joshi et al, was 
+unsuccessful. However, since we did find that subtitles had some predictive value, it is possible that other plot related features of a film may do better. We discuss some of
+these alternative plot features in our section on future work.
+
+\section{Problem Definition}
+\subsection{Data}
+Joshi et al. made their data set accessible to the public. We retrieved there data
+and used it as the source the relevant meta data features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
+xml which made extracting the features and review text relatively straightforward.
+
+While processing there data, we 
+did find that there were some inconsistencies in meta features such one movie
+have its $\mathsf{running\_time}$ feature listed as "Spanish". These erroneous entries
+were not too prevalent however, and when encountered we simply replaced them with
+sensible defaults. Our process for deciding the defaults is elaborated on more in the
+next section.
+
+As mentioned in the introduction, we initally tried to collect script data. We tried
+gathering scripts from IMSDb.com, as well as a few other sources, but were only able
+to obtain 139 scripts that belonged to the movies in the Josh et al. data set. We then
+decided to fall back on using subtitles as the main plot describing feature instead.
+
+We used $\mathsf{subliminal}$, a python CLI program, to download the appropriate
+subtitles. $\mathsf{subliminal}$ uses OpenSubtitles.org as the main source of subtitle
+data. Once we obtained the subtitles we cleaned them of irrelevant text, such as time
+stamps, until only the dialogue text was left. We also sample $5$\% of the subtitles to
+verify that they indeed belonged to the correct movie. All subtitles that were manually
+checked were correct, which gave us confidence that the $\mathsf{subliminal}$ program
+had correctly retrieved the subtitles. Out of the $1718$ movies in the Joshi
+et al. data set, we were able to obtain subtitles for $1345$ (placeholder) of them.
+While we would have preferred to get subtitles for every movie, we felt that this was
+enough to move forward with our regression experiments. The cleaned subtitles are
+publicly available from our code repository.
+
 \subsection{Task Definition}
-Precisely define the problem you are addressing (i.e. formally specify the inputs and outputs). Elaborate on why this is an interesting and important problem. 
+The task at hand was to evaluate how well plot related features, in our case subtitles,
+performed in predicting opening weekend revenue in U.S. dollars. Specifically, given
+a film's subtitles (and possibly meta data features) in text form, how well can we
+predict the film's opening weekend box office revenue.
+
+We use Linear Text Regression to perform this task, where the response variable $y$ is
+the film's oppening weekend revenue, and the subtitles and meta data features are
+converted into a feature matrix $X$.
 
 \subsection{Algorithm Definition}
-Describe in reasonable detail the algorithm you are using to address this problem. A psuedocode description of the algorithm you are using is frequently useful. Trace through a concrete example, showing how your algorithm processes this example. The example should be complex enough to illustrate all of the important aspects of the problem but simple enough to be easily understood. If possible, an intuitively meaningful example is better than one with meaningless symbols. 
+We use the Guassian family of linear models as the basis for our prediction method.
+Given a response variable $y$, and a feature vector $\vec{x} \in \mathbb{R}^p$, we
+predict a value $\hat{y} = \beta_0 + \vec{x}^T \beta$. The parameter $\beta$ and $\beta$
+is learned by minimizing the sum of squares errors of the training set.
+
+More specifically we use the Elastic Net model which is a regularized regression method
+that linearly combines the penalties from the Lasso and Ridge methods. Let the training
+set contain $N$ pairs $x_i,y_i$, where $x_i \in \mathbb{R}^p$ and $y_i \in \mathbb{R}$,
+then the Elastic Net equation is as follows:
+
+$$ \min_{(\beta_0, \beta) \in \mathbb{R}^{p+1}} \frac{1}{2N} \sum_{i=1}^N \left(
+(y_i - \beta_0 - \vec{x}_i^T\beta)^2 + \lambda P(\beta)\right)$$
+
+\noindent where $\lambda \geq 0$ is a complexity parameter. The penalty term $P(\beta)$
+is defined as follows:
+$$P(\beta) = \frac{1}{2}(1 - \alpha) \| \beta \|_2^2 + \alpha \|\beta\|_1$$
+
+\noindent where $0 \leq \alpha \leq 1$ is compromise between Ridge ($\alpha = 0$) and
+Lasso ($\alpha = 1$) regularization.
+
+Coordinate descent is applied to solve the problem of picking the minimum $\beta_0$ and
+$\beta$. Our implementation uses the python package $\mathsf{sklearn}$ which which
+contains efficient libraries for training an Elastic Net model using coordinate descent
+with cross validation. The hyper parameters $\alpha$ and $\lambda$ are tuned on the dev
+data set.
 
 \section{Experimental Evaluation}
 \subsection{Methodology}
-What are criteria you are using to evaluate your method? What specific hypotheses does your experiment test? Describe the experimental methodology that you used. What are the dependent and independent variables? What is the training/test data that was used, and why is it realistic or interesting? Exactly what performance data did you collect and how are you presenting and analyzing it? Comparisons to competing methods that address the same problem are particularly useful. 
+What are criteria you are using to evaluate your method? What specific hypotheses does
+your experiment test? Describe the experimental methodology that you used. What are the
+dependent and independent variables? What is the training/test data that was used, and why
+is it realistic or interesting? Exactly what performance data did you collect and how are
+you presenting and analyzing it? Comparisons to competing methods that address the same
+problem are particularly useful.
 
 \subsection{Results}
-Present the quantitative results of your experiments. Graphical data presentation such as graphs and histograms are frequently better than tables. What are the basic differences revealed in the data. Are they statistically significant?
+Present the quantitative results of your experiments. Graphical data presentation such as
+graphs and histograms are frequently better than tables. What are the basic differences
+revealed in the data. Are they statistically significant?
+\begin{table*}[b]
+\caption{Experiment Results}
+\centering
+\begin{tabular}{|l r r|}
+  \hline
+  \textbf{Experiment} & \textbf{MAE (\$M)} & \textbf{$r$}\\
+  \hline
+  Forward        & train         &  9.043 \\
+  Backward       & train         &  9.013 \\
+  Bidirectional  & train         &        \\
+  Forward        & test          &  19.34 \\
+  Backward       & test          &  19.36 \\
+  Bidirectional  & test          &        \\
+  \hline
+\end{tabular}
+\end{table*}
 
 \subsection{Discussion}
-Is your hypothesis supported? What conclusions do the results support about the strengths and weaknesses of your method compared to other methods? How can the results be explained in terms of the underlying properties of the algorithm and/or the data.
+Is your hypothesis supported? What conclusions do the results support about the strengths
+and weaknesses of your method compared to other methods? How can the results be explained
+in terms of the underlying properties of the algorithm and/or the data.
 
 \section{Related Work}
-Answer the following questions for each piece of related work that addresses the same or a similar problem. What is their problem and method? How is your problem and method different? Why is your problem and method better?
+Answer the following questions for each piece of related work that addresses the same or
+a similar problem. What is their problem and method? How is your problem and method
+different? Why is your problem and method better?
 
 \section{Future Work}
-What are the major shortcomings of your current method? For each shortcoming, propose additions or enhancements that would help overcome it
+What are the major shortcomings of your current method? For each shortcoming, propose
+additions or enhancements that would help overcome it
 
 \section{Conclusion}
-Briefly summarize the important results and conclusions presented in the paper. What are the most important points illustrated by your work? How will your results improve future research and applications in the area? 
+For the task of predicting box office revenue through text regression, subtitles
+substantially under perform other text features such as movie reviews. However,
+subtitles do have some predictive power, indicating the features related to a film's plot
+do have an impact on revenue generated. It seems worth while to investigate other
+features related to plot, such as plot summaries, in future work to evaluate how well
+plot features perform in general.
 
 \begin{thebibliography}{9}
 
@@ -86,7 +218,6 @@ Briefly summarize the important results and conclusions presented in the paper. 
     http://www.imsdb.com/disclaimer/
   
 \end{thebibliography}
-\end{multicols}
 \end{document}
 %%% Local Variables: 
 %%% mode: latex
