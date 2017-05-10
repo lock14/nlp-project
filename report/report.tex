@@ -1,11 +1,11 @@
 \documentclass[11pt]{article}
-\usepackage{amsmath}
-\usepackage{amssymb}
 \usepackage[english]{babel}
 \usepackage{acl2014}
 \usepackage{times}
 \usepackage{url}
 \usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{amssymb}
 
 \begin{document}
 \title{Linear Text Regression on Movie Subtitles}
@@ -26,6 +26,7 @@ done in the future.
 \end{abstract}
 
 \section{Introduction}
+\subsection{Background and Motivation}
 Text regression is a a useful tool to predict real world values from textual inputs.
 In 2010, Joshi et al. used text regression on movie reviews to predict box office revenue.
 In their paper they analyzed the performance of using reviews as predictor vs using meta
@@ -40,6 +41,7 @@ can only be made late into the production cycle of a film. At such a late point,
 significant investments have already been made in the film and thus a prediction of
 revenue is of less use for financial planning.
 
+\subsection{Main Goal}
 The main goal of this paper was to try and identify prediction features that occur much
 earlier in the film making process. We hypothesized that features that captured a film's
 plot directly might be useful for predicting revenue. If such features prove useful as
@@ -59,14 +61,14 @@ all the dialogue of the film, we felt that they were a reasonable proxy for scri
 Scripts do contain other textual information not in subtitles, such as describing a scene,
 which makes subtitles not a perfect substitute for scripts.
 
+\subsection{Summary of Results}
 In the following sections we describe our methodology for analyzing the subtitle text
 and making predictions of box office revenue. Our findings indicate that subtitles do
 not perform as well as movie reviews in predicting revenue, though there is some small
-predictive value. In general our attempt to find predictive features that can be used
-earlier in the film making process as compared to those presented in Joshi et al. was 
-unsuccessful. We do discuss alternative features that can be tested in our sections on
-future work. Perhaps some of these features may end up performing as well as movie reviews
-in predicting box office revenue.
+predictive value. In general, our attempt to find features that can be used
+earlier in the film making process, as compared to those presented in Joshi et al, was 
+unsuccessful. However, since we did find that subtitles had some predictive value, it is possible that other plot related features of a film may do better. We discuss some of
+these alternative plot features in our section on future work.
 
 \section{Problem Definition}
 \subsection{Data}
@@ -112,23 +114,28 @@ converted into a feature matrix $X$.
 We use the Guassian family of linear models as the basis for our prediction method.
 Given a response variable $y$, and a feature vector $\vec{x} \in \mathbb{R}^p$, we
 predict a value $\hat{y} = \beta_0 + \vec{x}^T \beta$. The parameter $\beta$ and $\beta$
-is learned by minimizing the sum of squares errors of the training set. Let the training
+is learned by minimizing the sum of squares errors of the training set.
+
+More specifically we use the Elastic Net model which is a regularized regression method
+that linearly combines the penalties from the Lasso and Ridge methods. Let the training
 set contain $N$ pairs $x_i,y_i$, where $x_i \in \mathbb{R}^p$ and $y_i \in \mathbb{R}$,
-then $\beta_0$ and $\beta$ are obtained from the following formula:
+then the Elastic Net equation is as follows:
 
-$$ \min_{(\beta_0, \beta) \in \mathbb{R}^{p+1}} \frac{1}{2N} \sum_{i=1}^N (y_i - \beta_0 
-- \vec{x}_i^T\beta)^2 + \lambda P(\beta)$$
+$$ \min_{(\beta_0, \beta) \in \mathbb{R}^{p+1}} \frac{1}{2N} \sum_{i=1}^N \left(
+(y_i - \beta_0 - \vec{x}_i^T\beta)^2 + \lambda P(\beta)\right)$$
 
-where $\lambda \geq 0$ is a complexity parameter. The penalty term $P(\beta)$ is 
-defined as follows:
+\noindent where $\lambda \geq 0$ is a complexity parameter. The penalty term $P(\beta)$
+is defined as follows:
 $$P(\beta) = \frac{1}{2}(1 - \alpha) \| \beta \|_2^2 + \alpha \|\beta\|_1$$
 
-$0 \leq \alpha \leq 1$ is compromise between ridge\\ ($\alpha = 0$) and lasso
-($\alpha = 1$) regularization.
+\noindent where $0 \leq \alpha \leq 1$ is compromise between Ridge ($\alpha = 0$) and
+Lasso ($\alpha = 1$) regularization.
 
 Coordinate descent is applied to solve the problem of picking the minimum $\beta_0$ and
-$\beta$. Our implementation uses the python packages x,y,z (update) which contain
-efficient libraries for training a Guassian model using coordinate descent.
+$\beta$. Our implementation uses the python package $\mathsf{sklearn}$ which which
+contains efficient libraries for training an Elastic Net model using coordinate descent
+with cross validation. The hyper parameters $\alpha$ and $\lambda$ are tuned on the dev
+data set.
 
 \section{Experimental Evaluation}
 \subsection{Methodology}
@@ -143,6 +150,22 @@ problem are particularly useful.
 Present the quantitative results of your experiments. Graphical data presentation such as
 graphs and histograms are frequently better than tables. What are the basic differences
 revealed in the data. Are they statistically significant?
+\begin{table*}[b]
+\caption{Experiment Results}
+\centering
+\begin{tabular}{|l r r|}
+  \hline
+  \textbf{Experiment} & \textbf{MAE (\$M)} & \textbf{$r$}\\
+  \hline
+  Forward        & train         &  9.043 \\
+  Backward       & train         &  9.013 \\
+  Bidirectional  & train         &        \\
+  Forward        & test          &  19.34 \\
+  Backward       & test          &  19.36 \\
+  Bidirectional  & test          &        \\
+  \hline
+\end{tabular}
+\end{table*}
 
 \subsection{Discussion}
 Is your hypothesis supported? What conclusions do the results support about the strengths
