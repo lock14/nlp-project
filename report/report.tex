@@ -66,10 +66,40 @@ unsuccessful. We do discuss alternative features that can be tested in our secti
 future work. Perhaps some of these features may end up performing as well as movie reviews
 in predicting box office revenue.
 
-\section{Prediction Model}
-\subsection{Task Definition}
+\section{Prediction Task}
+\subsection{Data}
+Joshi et al. made their data set accessible to the public. We retrieved there data
+and used it as the source the relevant meta data features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
+xml which made extracting the features and review text relatively straightforward.
+
+While processing there data, we 
+did find that there were some inconsistencies in meta features such one movie
+have its $\mathsf{running\_time}$ feature listed as "Spanish". These erroneous entries
+were not too prevalent however, and when encountered we simply replaced them with
+sensible defaults. Our process for deciding the defaults is elaborated on more in the
+next section.
+
+As mentioned in the introduction, we initally tried to collect script data. We tried
+gathering scripts from IMSDb.com, as well as a few other sources, but were only able
+to obtain 139 scripts that belonged to the movies in the Josh et al. data set. We then
+decided to fall back on using subtitles as the main plot describing feature instead.
+
+We used $\mathsf{subliminal}$, a python CLI program, to download the appropriate
+subtitles. $\mathsf{subliminal}$ uses OpenSubtitles.org as the main source of subtitle
+data. Once we obtained the subtitles we cleaned them of irrelevant text, such as time
+stamps, until only the dialogue text was left. We also sample $5$\% of the subtitles to
+verify that they indeed belonged to the correct movie. All subtitles that were manually
+checked were correct, which gave us confidence that the $\mathsf{subliminal}$ program
+had correctly retrieved the subtitles. Out of the $1718$ movies in the Joshi
+et al. data set, we were able to obtain subtitles for $1345$ (placeholder) of them.
+While we would have preferred to get subtitles for every movie, we felt that this was
+enough to move forward with our regression experiments. The cleaned subtitles are
+publicly available from our code repository.
+
+
+\subsection{Predictive Task}
 Precisely define the problem you are addressing (i.e. formally specify the inputs and
-outputs). Elaborate on why this is an interesting and important problem. 
+outputs). Elaborate on why this is an interesting and important problem.
 
 \subsection{Algorithm Definition}
 Describe in reasonable detail the algorithm you are using to address this problem. A
@@ -108,9 +138,12 @@ What are the major shortcomings of your current method? For each shortcoming, pr
 additions or enhancements that would help overcome it
 
 \section{Conclusion}
-Briefly summarize the important results and conclusions presented in the paper. What are
-the most important points illustrated by your work? How will your results improve future
-research and applications in the area?
+For the task of predicting box office revenue through text regression, subtitles
+substantially under perform other text features such as movie reviews. However,
+subtitles do have some predictive power, indicating the features related to a film's plot
+do have an impact on revenue generated. It seems worth while to investigate other
+features related to plot, such as plot summaries, in future work to evaluate how well
+plot features perform in general.
 
 \begin{thebibliography}{9}
 
