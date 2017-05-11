@@ -173,9 +173,31 @@ and weaknesses of your method compared to other methods? How can the results be 
 in terms of the underlying properties of the algorithm and/or the data.
 
 \section{Related Work}
-Answer the following questions for each piece of related work that addresses the same or
-a similar problem. What is their problem and method? How is your problem and method
-different? Why is your problem and method better?
+Joshi et al. (2010) is the main basis for our paper. In there paper they describe their
+technique to use Linear Text Regression on movie reviews to predict box office revenue.
+Their work is based on sentiment analysis of Pang et al. (2002) and the uses of critic
+reviews of Terry et al. (2005). The main difference in the work of Joshi et al. is that
+they considered the review text directly rather than sentiment, number of start, etc. as
+well as using the analysis to predict future real valued quantities. Prior work had
+used all data including those past the release of the movie to predict revenue. Joshi
+et al. limited themselves to data that was available only prior to the films's release.
+Our work is an extension of Joshi et al. in that we are using text features, i.e.
+subtitles, that are available much earlier in the film making process. Given the results
+of our experiments it is hard to say if our method is strictly better than that proposed
+by Joshi et al. However, since we did find some predictive value in using the text of
+subtitles, our method may have marginal utility over that of Joshi et al. in that our
+method allows a prediction much sooner than their method.
+
+Bitvai et al. (2015) extended the work of Joshi et al. They used the data set and
+features described by Joshi et al, but instead of using a linear model they apply
+a non-linear method based on a deep convolutional neural network. They reported a 40\%
+relative improvement over sparse linear models. The work of Bitvai et al. is parallel to
+ours in that both our work and that of Bitvai et al are extension of the method described
+by Joshi et al. The key difference is that they enhanced the underlying model of Joshi
+et al. while our enhancement centered around using text features available earlier
+in the film making process. The strength of the improvement reported by Bitvai et al. indicates that their enhancement is likely better than our,  the enhancements are in orthogonal directions it is unclear how to compare the two exactly. It would be
+interesting to combine the work of Bitvai et al. with ours to see if a CNN can use
+subtitles more effectively than a linear model.
 
 \section{Future Work}
 What are the major shortcomings of your current method? For each shortcoming, propose
@@ -191,31 +213,49 @@ plot features perform in general.
 
 \begin{thebibliography}{9}
 
+\bibitem{Bitvai2015}
+  Zsolt Bitvai, Trevor Cohn,
+  Non-Linear Text Regression with a Deep Convolutional Neural Network,
+  Proceedings of the 53rd Annual Meeting of the Association for Computational
+  Linguistics and the 7th International Joint Conference on Natural Language Processing,
+  2015.
+    
 \bibitem{Joshi2010}
   Mahesh Joshi, Dipanjan Das, Kevin Gimpel, Noah A. Smith,
   Movie Reviews and Revenues: An Experiment in Text Regression,
   Proceedings of NAACL-HLT,
   2010.
   
-\bibitem{Bitvai2015}
-    Zsolt Bitvai, Trevor Cohn,
-    Non-Linear Text Regression with a Deep Convolutional Neural Network,
-    Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics
-    and the 7th International Joint Conference on Natural Language Processing,
-    2015.
+\bibitem{Pang2002}
+  Bo Pang, Lillian Lee, Shivakumar Vaithyanathan,
+  Thumbs up? Sentiment Classification using Machine Learning Techniques,
+  Proceedings of EMNLP,
+  2002.
+  
+\bibitem{Terry2002}
+  Neil Terry, Michael Butler, De'Arno De'Armond,
+  The Determinants of Domestic Box Office Performance In the Motion Picture Industry,
+  Southwestern Economic Review,
+  2005.
     
 \bibitem{JoshiData}
   Mahesh Joshi, Dipanjan Das, Kevin Gimpel, Noah A. Smith,
-  "Movie\$ Data",
+  "Movie Data",
   Web,
-  Accessed 08 April 2017,
+  Accessed 04 May 2017,
   https://www.cs.cmu.edu/~ark/movie\$-data/
 
 \bibitem{IMSDb}
     "The Internet Movie Script Database",
     Web,
-    Accessed 08 April 2017,
+    Accessed 14 April 2017,
     http://www.imsdb.com/disclaimer/
+    
+\bibitem{Subliminal}
+    "Subliminal: python library to search and download subtitles",
+    Web,
+    Accessed 04 May 2017,
+    https://subliminal.readthedocs.io/en/latest/r/
   
 \end{thebibliography}
 \end{document}
