@@ -140,42 +140,35 @@ data set.
 
 \section{Experimental Evaluation}
 \subsection{Methodology}
-What are criteria you are using to evaluate your method? What specific hypotheses does
-your experiment test? Describe the experimental methodology that you used. What are the
-dependent and independent variables? What is the training/test data that was used, and why
-is it realistic or interesting? Exactly what performance data did you collect and how are
-you presenting and analyzing it? Comparisons to competing methods that address the same
-problem are particularly useful.
+Our goal was test the effectiveness of subtitles in predicting box office revenue.
+To that end, we replicated a portion of the experiments done by Joshi et al. using
+movie reviews to use as a baseline for our comparison. We then ran the same set of
+experiments substituting subtitles for the movie reviews. This way we could directly
+compare the relative performance of subtitles over movie reviews.
 
-We first wanted to verify that we could replicate the results of Joshi et al.
-Therefore, we ran experiments with reviews only, metadata only, and reviews and metadata. 
+Our allocation of training, dev, and test sets differed from Joshi et al.'s in a few
+respects. Rather than breaking up the training data into training and dev by year (2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training set (2005-2008). We agreed that it made sense to test the model against movies that were set in
+the future from the training data. After all, this model is intended to predict the opening revenue of future movies. However, we were skeptical that this was necessary for good cross-
+validation.
 
-Our implementation differed 
-from Joshi et al.'s in a few respects. Rather than breaking up the training data into 
-training and dev by year (2005-2007, 2008, respectively), we simply used
-3-fold cross-validation on a training set (2005-2008). We agreed that it made sense
-to test the model against movies that were set in the future from the training data.
-After all, this model is intended to predict the opening revenue of future movies.
-However, we were skeptical that this was necessary for good cross-validation.
+In the experiments we used both text features and metadata features. The metadata features we selected were the release date, whether the movie was domestic or foreign, the production
+budget, the number of screens, the film's rating, the genre of the film, and its running
+time. This is a strict subset of the metadata used by Joshi et al. We left out some of the
+metadata features they used such as 'number of oscar winning actors' as the data set they
+provided was inconsistent in recording such features. We felt the meta data features they
+we did use was a good sampling of the most predictive features available.
 
-Additionally, we used at most
-the top 10,000 entries per ngram type. This adds to at most 30,000 features in when using
-unigrams, bigrams, and trigrams. Joshi et al. did no filtering on 
-by ngram frequency. 
-
-We also did not use all of the metadata available to Joshi et al. We used the year
-of the movie, wh er the movie was domestic or foreign, the production budget,
-the number of moscreens, 
-
-       metadata.at[movie, "date"] = str(date.year)
-        metadata.at[movie, "origin"] = origin
-        metadata.at[movie, "budget"] = budget
-        metadata.at[movie, "screens"] = int(num_screens.text.replace(",", ""))
-        metadata.at[movie, "genre"] = genre.text
-        metadata.at[movie, "rating"] = rating.text
-        metadata.at[movie, "running_time"] =
-
- 
+We used $n$-grams as the basis for extracting text fetures. This corresponds to type
+$I$ text features extracted by Joshi et al. In the case of reviews, we combined all
+each review for a movie into one large document when extracting text features, in the
+case of subtitles there was only one document per film. Before extracting n-grams we
+preprocessed the documents using common NLP techniques. This consisted of converting
+the text to lower case and filtering out common English stop words. One the documents
+had been preprocessed we extracted various types of $n$-grams depending upon the
+experiment type. We considered using unigrams alone, unigrams + bigrams, unigrams +
+bigrams + trigrams, bigrams + trigrams, and trigrams alone. Additionally, we used at most
+the top 10,000 entries per $n$-gram type. This adds to at most 30,000 features in when using
+unigrams, bigrams, and trigrams. Joshi et al. did no filtering on by ngram frequency.
 
 \begin{table*}[t]
 \caption{Experiment Results for Unigrams + Bigrams with a Max Feature Size of 10,000}
