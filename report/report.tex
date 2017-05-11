@@ -147,6 +147,36 @@ is it realistic or interesting? Exactly what performance data did you collect an
 you presenting and analyzing it? Comparisons to competing methods that address the same
 problem are particularly useful.
 
+We first wanted to verify that we could replicate the results of Joshi et al.
+Therefore, we ran experiments with reviews only, metadata only, and reviews and metadata. 
+
+Our implementation differed 
+from Joshi et al.'s in a few respects. Rather than breaking up the training data into 
+training and dev by year (2005-2007, 2008, respectively), we simply used
+3-fold cross-validation on a training set (2005-2008). We agreed that it made sense
+to test the model against movies that were set in the future from the training data.
+After all, this model is intended to predict the opening revenue of future movies.
+However, we were skeptical that this was necessary for good cross-validation.
+
+Additionally, we used at most
+the top 10,000 entries per ngram type. This adds to at most 30,000 features in when using
+unigrams, bigrams, and trigrams. Joshi et al. did no filtering on 
+by ngram frequency. 
+
+We also did not use all of the metadata available to Joshi et al. We used the year
+of the movie, wh er the movie was domestic or foreign, the production budget,
+the number of moscreens, 
+
+       metadata.at[movie, "date"] = str(date.year)
+        metadata.at[movie, "origin"] = origin
+        metadata.at[movie, "budget"] = budget
+        metadata.at[movie, "screens"] = int(num_screens.text.replace(",", ""))
+        metadata.at[movie, "genre"] = genre.text
+        metadata.at[movie, "rating"] = rating.text
+        metadata.at[movie, "running_time"] =
+
+ 
+
 \begin{table*}[t]
 \caption{Experiment Results for Unigrams + Bigrams with a Max Feature Size of 10,000}
 \centering

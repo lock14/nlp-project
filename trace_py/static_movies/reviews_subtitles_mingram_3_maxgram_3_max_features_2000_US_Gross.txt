@@ -1,0 +1,34 @@
+['/home/jon/Data/nlp/project/movies-data-v1.0/metacritic+starpower+holiday+revenue+screens+reviews', '--seed', '1', '--import-movies', 'data/movie_subset/minimal_set.txt', '--min-ngrams', '3', '--max-ngrams', '3', '--max-features', '2000', '--predict', 'US_Gross', '-t', 'data/reviews', 'data/subtitles']
+1349 movies used out of 1718 total
+movies in training set:  899
+movies in dev set:  224
+movies in test set:  226
+fitting vectorizer...
+extracting text features...
+training...
+training with tol:  0.0001
+score:  0.238155170158
+training with tol:  0.001
+score:  0.238076744199
+training with tol:  0.01
+score:  0.238086969653
+training with tol:  0.1
+score:  0.241137729483
+training with tol:  0.15
+score:  0.242888329968
+training with tol:  0.2
+score:  0.242021211915
+training with tol:  0.25
+score:  0.225187059466
+training with tol:  0.5
+score:  0.235077608404
+elastic net params:  alpha:  84852.0512526 l1_ratio:  1.0 tol: 0.15
+testing...
+First 5 predictions:
+	 6095004.0 18024229.429
+	 16044025.0 27445695.5365
+	 51733921.0 44263346.4635
+	 1725141.0 19654458.199
+	 133375846.0 41882932.7385
+MAE:  33467681.0276
+r2:  0.153831071804
