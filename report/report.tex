@@ -165,12 +165,13 @@ metadata features they used such as 'number of oscar winning actors' as the data
 provided was inconsistent in recording such features. We felt the meta data features they
 we did use was a good sampling of the most predictive features available.
 
-We used $n$-grams as the basis for extracting text fetures. This corresponds to type
-$I$ text features extracted by Joshi et al. In the case of reviews, we combined all
-each review for a movie into one large document when extracting text features, in the
-case of subtitles there was only one document per film. Before extracting n-grams we
+We used $n$-grams as the basis for extracting text features. This corresponds to type
+$I$ text features extracted by Joshi et al. In the case of reviews, we combined
+each review for a movie into one large document when extracting text features. In the
+case of subtitles there was only one document per film. Before extracting $n$-grams we
 preprocessed the documents using common NLP techniques. This consisted of converting
-the text to lower case and filtering out common English stop words. One the documents
+the text to lower case, removing punctuation, and removing $n$-grams that occured in all documents. 
+Once the documents
 had been preprocessed we extracted various types of $n$-grams depending upon the
 experiment type. We considered using unigrams alone, unigrams + bigrams, unigrams +
 bigrams + trigrams, bigrams + trigrams, and trigrams alone. Additionally, we used at most
