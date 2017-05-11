@@ -177,13 +177,13 @@ revealed in the data. Are they statistically significant?
 \resizebox {\columnwidth} {!} {
 \begin{tikzpicture}
 \begin{axis}[
-    title={Opening Weekend MAE dependence on n-grams},
+    title={Weekend MAE dependence on n-grams},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
-    xmin=1, xmax=5,
+    xmin=1, xmax=6,
     ymin=7, ymax=12,
-    xtick={1,2,3,4,5},
-    xticklabels={1-1,1-2,1-3,2-2,3-3},
+    xtick={1,2,3,4,5,6},
+    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
     ytick={7,8,9,10,11,12},
     legend pos=south east,
     ymajorgrids=true,
@@ -195,7 +195,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,9.124)(2,8.444)(3,9.044)(4,9.238)(5,10.023)
+    (1,9.124)(2,8.444)(3,9.044)(4,9.238)(5,8.842)(6,10.023)
     };
     \legend{reviews}
 
@@ -204,7 +204,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,10.567)(2,10.345)(3,10.316)(4,11.550)(5,11.460)
+    (1,10.567)(2,10.345)(3,10.316)(4,11.550)(5,11.406)(6,11.460)
     };
     \addlegendentry{subtitles}
     
@@ -213,7 +213,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,8.724)(2,8.310)(3,9.020)(4,9.527)(5,10.960)
+    (1,8.724)(2,8.310)(3,9.020)(4,9.527)(5,9.335)(6,10.960)
     };
     \addlegendentry{reviews+subtitles}
  
@@ -229,10 +229,10 @@ revealed in the data. Are they statistically significant?
     title={U.S. Gross MAE dependence on n-grams},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
-    xmin=1, xmax=5,
+    xmin=1, xmax=6,
     ymin=23, ymax=35,
-    xtick={1,2,3,4,5},
-    xticklabels={1-1,1-2,1-3,2-2,3-3},
+    xtick={1,2,3,4,5,6},
+    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
     ytick={24,26,28,30,32,34},
     legend pos=south east,
     ymajorgrids=true,
@@ -244,7 +244,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,30.732)
+    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,28.256)(6,30.732)
     };
     \legend{reviews}
 
@@ -253,7 +253,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.530)
+    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.327)(6,34.530)
     };
     \addlegendentry{subtitles}
     
@@ -262,7 +262,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,30.216)
+    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,28.357)(6,30.216)
     };
     \addlegendentry{reviews+subtitles}
  
