@@ -141,46 +141,6 @@ contains efficient libraries for training an Elastic Net model using coordinate 
 with cross validation. The hyper parameters $\alpha$ and $\lambda$ are tuned on the dev
 data set.
 
-\section{Experimental Evaluation}
-\subsection{Methodology}
-Our goal was test the effectiveness of subtitles in predicting box office revenue.
-To that end, we replicated a portion of the experiments done by Joshi et al. using
-movie reviews to use as a baseline for our comparison. We then ran the same set of
-experiments substituting subtitles for the movie reviews. This way we could directly
-compare the relative performance of subtitles over movie reviews.
-
-Our allocation of training, dev, and test sets differed from Joshi et al.'s in a few
-respects. Rather than breaking up the training data into training and dev by year
-(2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training
-set (2005-2008). We agreed that it made sense to test the model against movies that were
-set in the future from the training data. After all, this model is intended to predict
-the opening revenue of future movies. However, we were skeptical that this was necessary
-for good cross-validation.
-
-In the experiments we used both text features and metadata features. The metadata features
-we selected were the release date, whether the movie was domestic or foreign, the production
-budget, the number of screens, the film's rating, the genre of the film, and its running
-time. This is a strict subset of the metadata used by Joshi et al. We left out some of the
-metadata features they used such as 'number of oscar winning actors' as the data set they
-provided was inconsistent in recording such features. We felt the meta data features they
-we did use was a good sampling of the most predictive features available.
-
-We used $n$-grams as the basis for extracting text features. This corresponds to type
-$I$ text features extracted by Joshi et al. In the case of reviews, we combined
-each review for a movie into one large document when extracting text features. In the
-case of subtitles there was only one document per film. Before extracting $n$-grams we
-preprocessed the documents using common NLP techniques. This consisted of converting
-the text to lower case, removing punctuation, and removing $n$-grams that occured in all documents. 
-Once the documents
-had been preprocessed we extracted various types of $n$-grams depending upon the
-experiment type. We considered using unigrams alone, unigrams + bigrams, unigrams +
-bigrams + trigrams, bigrams + trigrams, and trigrams alone. Additionally, we used at most
-the top 10,000 entries per $n$-gram type. This adds to at most 30,000 features in when using
-unigrams, bigrams, and trigrams. Joshi et al. did no filtering on by ngram frequency.
-
-We evaluated our models using mean absolute error (MAE) and $r^2$ of weekend gross revenue
-and of United States gross revenue. 
-
 \begin{table*}[t]
 \caption{Experiment Results for Unigrams + Bigrams with a Max Feature Size of 10,000}
 \centering
@@ -202,17 +162,80 @@ and of United States gross revenue.
 \end{tabular}
 \end{table*}
 
+\section{Experimental Evaluation}
+\subsection{Methodology}
+Our goal was test the effectiveness of subtitles in predicting box office revenue.
+To that end, we replicated a portion of the experiments done by Joshi et al. using
+movie reviews to use as a baseline for our comparison. We then ran the same set of
+experiments substituting subtitles for the movie reviews. This way we could directly
+compare the relative performance of subtitles over movie reviews. In addition we
+tested combining the text of reviews and subtitles to see of the combination performed
+better than each one individually.
+
+Our allocation of training, dev, and test sets differed from Joshi et al.'s in a few
+respects. Rather than breaking up the training data into training and dev by year
+(2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training
+set (2005-2008). We agreed that it made sense to test the model against movies that were
+set in the future from the training data. After all, this model is intended to predict
+the opening revenue of future movies. However, we were skeptical that this was necessary
+for good cross-validation. We allocated films from 2009 as our test set.
+
+In the experiments we used both text features and metadata features. The metadata features
+we selected were the release date, whether the movie was domestic or foreign, the production
+budget, the number of screens, the film's rating, the genre of the film, and its running
+time. This is a strict subset of the metadata used by Joshi et al. We left out some of the
+metadata features they used such as 'number of oscar winning actors' as the data set they
+provided was inconsistent in recording such features. We felt the meta data features we
+selected was a good sampling of the most predictive features available.
+
+We used $n$-grams as the basis for extracting text features. This corresponds to type
+\textbf{I} text features extracted by Joshi et al. In the case of reviews, we combined
+each review for a movie into one large document when extracting text features. In the
+case of subtitles there was only one document per film. Before extracting $n$-grams we
+preprocessed the documents using common NLP techniques. This consisted of converting
+the text to lower case, removing punctuation, and filtering out common English stop words that occured in all documents. Once the documents had been preprocessed we extracted various types of $n$-grams depending upon the experiment type. We considered using unigrams alone,
+unigrams + bigrams, unigrams + bigrams + trigrams, bigrams + trigrams, and trigrams alone.
+Additionally, we used at most the top 10,000 entries per $n$-gram type. This adds to at most
+30,000 features in when using unigrams, bigrams, and trigrams. Joshi et al. did no filtering
+by ngram frequency.
+
+We evaluated our models using mean absolute error (MAE) and $r^2$ of weekend gross revenue
+and of United States gross revenue. 
+
 \subsection{Results}
-Present the quantitative results of your experiments. Graphical data presentation such as
-graphs and histograms are frequently better than tables. What are the basic differences
-revealed in the data. Are they statistically significant?
+In Table 1, we present the results of the experiments that used Unigrams and Bigrams
+for text features with a maximum feature set size of 10,000. Of all the experiments we
+ran, this category showed the best average results across the different text domains.
+Using critic reviews achieved an MAE of $8.444$ on gross opening weekend revenue with
+an $r^2$ of $0.518$. These results for reviews are similar to those of Joshi et al. for
+the same category of experiment (Type \textbf{I-}), which gives us confidence that we
+are implementing there model correctly.
+
+Subtitles performed significantly worse than reviews with an MAE of $10.345$ on opening
+weekend revenue with an $r^2$ of $0.085$. While this shows a slight predictive element
+to using subtitle text, it would not likely be enough to be useful in practice.
+
+Combining review and subtitle text did slightly better than review text alone. The
+combination achieved an MAE of $8.310$ on opening weekend revenue with an $r^2$ of
+$0.526$. This experiment also confirms that subtitles have a small predictive element
+as combining subtitles with reviews performed slightly better than just using review test
+alone.
+
+We also ran experiments using metdata features in addition to text features. Using meta
+data features alone achieves an MAE of $7.061$ on opening weekend revenue with an $r^2$
+of $0.471$. Interestingly, the use of metadata almost brings reviews and subtitles in
+line with each other as our metadata+reviews experiment achieved an MAE of $6.969$ with
+an $r^2$ of $0.450$ whereas the metadata+subtitles achieved an MAE of $7.062$ with an
+$r^2$ of $0.468$. Both metadata+reviews and metadata+subtitles barely achieved better
+results than the metadata basline indicating that much of the predicitve power of these
+two categories came from the metadata rather then the document text.
 
 \begin{figure}[h]
 \resizebox {\columnwidth} {!} {
 \begin{tikzpicture}
 \begin{axis}[
-    title={Weekend MAE dependence on n-grams},
-    xlabel={ngrams used},
+    title={Weekend MAE dependence on ngrams},
+    xlabel={maximum number of features used},
     ylabel={Opening weekend MAE (\$M)},
     xmin=1, xmax=6,
     ymin=7, ymax=12,
@@ -260,14 +283,14 @@ revealed in the data. Are they statistically significant?
 \resizebox {\columnwidth} {!} {
 \begin{tikzpicture}
 \begin{axis}[
-    title={U.S. Gross MAE dependence on n-grams},
+    title={Weekend MAE dependence on max features},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
     xmin=1, xmax=6,
-    ymin=23, ymax=35,
+    ymin=6.5, ymax=12,
     xtick={1,2,3,4,5,6},
-    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
-    ytick={24,26,28,30,32,34},
+    xticklabels={100,500,1000,2000,4000,10000},
+    ytick={7,8,9,10,11,12},
     legend pos=south east,
     ymajorgrids=true,
     grid style=dashed,
@@ -278,7 +301,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,28.256)(6,30.732)
+    (1,10.581)(2,9.861)(3,9.722)(4,9.455)(5,8.823)(6,8.444)
     };
     \legend{reviews}
 
@@ -287,7 +310,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.327)(6,34.530)
+    (1,10.915)(2,11.117)(3,11.097)(4,11.393)(5,10.490)(6,10.345)
     };
     \addlegendentry{subtitles}
     
@@ -296,7 +319,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,28.357)(6,30.216)
+    (1,10.702)(2,10.003)(3,10.233)(4,9.992)(5,9.516)(6,8.307)
     };
     \addlegendentry{reviews+subtitles}
  
@@ -305,23 +328,30 @@ revealed in the data. Are they statistically significant?
 }
 \end{figure}
 
+We also plotted how the MAE of opening weekend revenue changed depending on the number
+of $n$-grams used and the maximum number of features used. As can be seen MAE is minimized
+in most cases when using a combination of unigrams and bigrams on the review text. MAE
+also decreases as the maximum number of features used increases. It is likely that the
+quantity of review text and subtitle text was not large enough to take proper advantage
+of trigrams. Both unigrams and bigrams alone achieve a roughly similar MAE on their own
+so it is sensible that combining the two would achieve a lower MAE as the model can make
+use of information from both types of features.
+
 \subsection{Discussion}
 Our hypothesis that movie subtitles could be used to predict the weekend gross revenue
-was confirmed. However, the predictive power is weak and unlikely
-to be useful in practice. 
+was confirmed. However, the predictive power is very weak and unlikely to be useful in practice. 
 
 Our original hypothesis, that scripts would have predictive power, is based on
-the idea that plot matters. However, subtitles are very imperfect proxies for plot. 
-Therefore, we think that there is simply not very much information to be gained from
-scripts. 
-
-If a movie studio could be convinced to release a bulk collection of movie scripts,
-then perhaps a model could be trained on scripts and be useful practice.
+the idea that plot matters in which movies are successful. However, subtitles are
+a very imperfect proxies for plot as they only contain dialogue. Scripts do contain
+other plot information and thus if a movie studio could be convinced to release a bulk
+collection of movie scripts, then perhaps a model could be trained on scripts and be
+useful practice.
 
 Additionally, linear text regression treats the documents as a bag of words. While
 this can be useful, as in the case of reviews, it does preclude the ability of the
-model to "learn" about a movie's plot. 
-
+model to "learn" detailed information about a movie's plot. It is quite likely that
+a richer model could perform better on using plot features such a subtitles.
 
 \section{Related Work}
 Joshi et al. (2010) is the main basis for our paper. In their paper they describe their
