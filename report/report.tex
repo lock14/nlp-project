@@ -140,13 +140,6 @@ data set.
 
 \section{Experimental Evaluation}
 \subsection{Methodology}
-What are criteria you are using to evaluate your method? What specific hypotheses does
-your experiment test? Describe the experimental methodology that you used. What are the
-dependent and independent variables? What is the training/test data that was used, and why
-is it realistic or interesting? Exactly what performance data did you collect and how are
-you presenting and analyzing it? Comparisons to competing methods that address the same
-problem are particularly useful.
-
 We first wanted to verify that we could replicate the results of Joshi et al.
 Therefore, we ran experiments with reviews only, metadata only, and reviews and metadata. 
 
@@ -163,18 +156,17 @@ the top 10,000 entries per ngram type. This adds to at most 30,000 features in w
 unigrams, bigrams, and trigrams. Joshi et al. did no filtering on 
 by ngram frequency. 
 
-We also did not use all of the metadata available to Joshi et al. We used the year
-of the movie, wh er the movie was domestic or foreign, the production budget,
-the number of moscreens, 
+As metadata, we used the year
+of the movie, whether the movie was domestic or foreign, the production budget,
+the number of movie screens on opening weekend, the genre, the MPAA rating, and 
+the running time. We chose not to use other metadata, such as the names of the lead actors,
+the director.
 
-       metadata.at[movie, "date"] = str(date.year)
-        metadata.at[movie, "origin"] = origin
-        metadata.at[movie, "budget"] = budget
-        metadata.at[movie, "screens"] = int(num_screens.text.replace(",", ""))
-        metadata.at[movie, "genre"] = genre.text
-        metadata.at[movie, "rating"] = rating.text
-        metadata.at[movie, "running_time"] =
+We then compared models that used metadata only, reviews only, subtitles only, and every
+combination of these data.
 
+We evaluated our models using mean absolute error (MAE) and $r^2$ of weekend gross revenue
+and of United States gross revenue. 
  
 
 \begin{table*}[t]
@@ -207,13 +199,13 @@ revealed in the data. Are they statistically significant?
 \resizebox {\columnwidth} {!} {
 \begin{tikzpicture}
 \begin{axis}[
-    title={Weekend MAE dependence on n-grams},
+    title={Opening Weekend MAE dependence on n-grams},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
-    xmin=1, xmax=6,
+    xmin=1, xmax=5,
     ymin=7, ymax=12,
-    xtick={1,2,3,4,5,6},
-    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
+    xtick={1,2,3,4,5},
+    xticklabels={1-1,1-2,1-3,2-2,3-3},
     ytick={7,8,9,10,11,12},
     legend pos=south east,
     ymajorgrids=true,
@@ -225,7 +217,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,9.124)(2,8.444)(3,9.044)(4,9.238)(5,8.842)(6,10.023)
+    (1,9.124)(2,8.444)(3,9.044)(4,9.238)(5,10.023)
     };
     \legend{reviews}
 
@@ -234,7 +226,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,10.567)(2,10.345)(3,10.316)(4,11.550)(5,11.406)(6,11.460)
+    (1,10.567)(2,10.345)(3,10.316)(4,11.550)(5,11.460)
     };
     \addlegendentry{subtitles}
     
@@ -243,7 +235,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,8.724)(2,8.310)(3,9.020)(4,9.527)(5,9.335)(6,10.960)
+    (1,8.724)(2,8.310)(3,9.020)(4,9.527)(5,10.960)
     };
     \addlegendentry{reviews+subtitles}
  
@@ -259,10 +251,10 @@ revealed in the data. Are they statistically significant?
     title={U.S. Gross MAE dependence on n-grams},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
-    xmin=1, xmax=6,
+    xmin=1, xmax=5,
     ymin=23, ymax=35,
-    xtick={1,2,3,4,5,6},
-    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
+    xtick={1,2,3,4,5},
+    xticklabels={1-1,1-2,1-3,2-2,3-3},
     ytick={24,26,28,30,32,34},
     legend pos=south east,
     ymajorgrids=true,
@@ -274,7 +266,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,28.256)(6,30.732)
+    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,30.732)
     };
     \legend{reviews}
 
@@ -283,7 +275,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.327)(6,34.530)
+    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.530)
     };
     \addlegendentry{subtitles}
     
@@ -292,7 +284,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,28.357)(6,30.216)
+    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,30.216)
     };
     \addlegendentry{reviews+subtitles}
  
