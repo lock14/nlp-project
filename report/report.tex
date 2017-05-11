@@ -19,20 +19,20 @@
 \begin{abstract}
 \noindent
 Plot specific features may be useful in predicting box office revenue of films.
-In this paper we present a method for analyzing movie subtitles as such a predictive
-feature using Linear Text Regression. We compare the performance of subtitles against
-using movie reviews and find that subtitles do not perform as well in predictive power.
-We discuss alternative features that reflect plot should extensions of this work be
-done in the future.
+Here we present a method for analyzing movie subtitles as a predictive
+feature using Linear Text Regression. We find that subtitles have some predictive
+power, though not as much as reviews.
+We also discuss alternative features that could be used as extensions of this work 
+in the future.
 \end{abstract}
 
 \section{Introduction}
 \subsection{Background and Motivation}
 Text regression is a a useful tool to predict real world values from textual inputs.
 In 2010, Joshi et al. used text regression on movie reviews to predict box office revenue.
-In their paper they analyzed the performance of using reviews as predictor vs using meta
-data alone (such as budget, number of screens, release date, etc.). They found that text
-from reviews could both substitute for and improve over a strong meta data based approach.
+In their paper they analyzed the performance of using reviews as predictor vs using metadata 
+alone (such as budget, number of screens, release date, etc.). They found that text
+from reviews could both substitute for and improve over a strong metadata based approach.
 
 A limitation in the methodology of Joshi et al. is that they used features that are only
 available late into film's production, such as pre-release movie reviews. A pre-release
@@ -49,12 +49,14 @@ plot directly might be useful for predicting revenue. If such features prove use
 predictors of revenue, then as a consequence prediction can be done much earlier in the
 film making process, greatly improving the utility of the model.
 
-We initially wanted to use the film's script as such a feature, but found that getting
-enough script data was challenging as there ended up not being any great sources of
-move script data. From the sources we were able to identify we were only able to
-obtain about $140$ movie scripts of any use, which was not nearly enough data to perform
-proper regression on. In retrospect, this makes sense as film scripts are considered
+We initially wanted to use the film's script as such a feature, but found 
+there were no large sources of movie scripts.
+From the sources we were able to identify we were only able to
+obtain about $140$ usable movie scripts that overlapped with the Joshi et al. data. 
+In retrospect, this makes sense as film scripts are considered
 intellectual property, and thus the scripts are not widely available to the public.
+This legally murky status, in addition to the small amount of data, led to us not
+attempting text regression on movie scripts.
 
 As an alternative to scripts, we decided to use the subtitles for the films instead. The
 majority of text in a script is the characters' dialogue, and thus since subtitles contain
@@ -66,19 +68,20 @@ which makes subtitles not a perfect substitute for scripts.
 In the following sections we describe our methodology for analyzing the subtitle text
 and making predictions of box office revenue. Our findings indicate that subtitles do
 not perform as well as movie reviews in predicting revenue, though there is some small
-predictive value. In general, our attempt to find features that can be used
+predictive value. In general, our attempt to create an effective model that can be used
 earlier in the film making process, as compared to those presented in Joshi et al, was 
-unsuccessful. However, since we did find that subtitles had some predictive value, it is possible that other plot related features of a film may do better. We discuss some of
+unsuccessful. However, since we did find that subtitles had some predictive value, it 
+is possible that other plot related features of a film may do better. We discuss some of
 these alternative plot features in our section on future work.
 
 \section{Problem Definition}
 \subsection{Data}
 Joshi et al. made their data set accessible to the public. We retrieved there data
-and used it as the source the relevant meta data features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
+and used it as the source the relevant metadata features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
 xml which made extracting the features and review text relatively straightforward.
 
 While processing there data, we 
-did find that there were some inconsistencies in meta features such one movie
+did find that there were some inconsistencies in metadata features such one movie
 have its $\mathsf{running\_time}$ feature listed as "Spanish". These erroneous entries
 were not too prevalent however, and when encountered we simply replaced them with
 sensible defaults. Our process for deciding the defaults is elaborated on more in the
@@ -104,11 +107,11 @@ publicly available from our code repository.
 \subsection{Task Definition}
 The task at hand was to evaluate how well plot related features, in our case subtitles,
 performed in predicting opening weekend revenue in U.S. dollars. Specifically, given
-a film's subtitles (and possibly meta data features) in text form, how well can we
+a film's subtitles (and possibly metadata features) in text form, how well can we
 predict the film's opening weekend box office revenue.
 
 We use Linear Text Regression to perform this task, where the response variable $y$ is
-the film's oppening weekend revenue, and the subtitles and meta data features are
+the film's oppening weekend revenue, and the subtitles and metadata features are
 converted into a feature matrix $X$.
 
 \subsection{Algorithm Definition}
