@@ -1,0 +1,10 @@
+reviews_mingram_1_maxgram_1_max_features_10000_US_Gross.txt MAE:  26766076.9187 r2:  0.440265662436
+reviews_mingram_1_maxgram_1_max_features_10000_weekend_gross.txt MAE:  9123658.37862 r2:  0.466706313999
+reviews_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  27289488.4527 r2:  0.353069230051
+reviews_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  8444211.85059 r2:  0.51837892206
+reviews_mingram_1_maxgram_3_max_features_10000_US_Gross.txt MAE:  27237803.8572 r2:  0.382503002419
+reviews_mingram_1_maxgram_3_max_features_10000_weekend_gross.txt MAE:  9043784.10788 r2:  0.423909799081
+reviews_mingram_2_maxgram_2_max_features_10000_US_Gross.txt MAE:  27497713.6918 r2:  0.375322325521
+reviews_mingram_2_maxgram_2_max_features_10000_weekend_gross.txt MAE:  9237588.04966 r2:  0.414380765577
+reviews_mingram_3_maxgram_3_max_features_10000_US_Gross.txt MAE:  30732372.814 r2:  0.178465741211
+reviews_mingram_3_maxgram_3_max_features_10000_weekend_gross.txt MAE:  10022905.7345 r2:  0.25754157519

@@ -1,0 +1,14 @@
+metadata_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  22009859.9096 r2:  0.497339992857
+metadata_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  7061195.31421 r2:  0.4714831394
+reviews_metadata_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  21583282.5088 r2:  0.486470409198
+reviews_metadata_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  6968870.3648 r2:  0.449204960048
+reviews_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  27289488.4527 r2:  0.353069230051
+reviews_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  8444211.85059 r2:  0.51837892206
+reviews_subtitles_metadata_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  22093412.2882 r2:  0.496250980743
+reviews_subtitles_metadata_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  6971535.78442 r2:  0.463543280515
+reviews_subtitles_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  27179053.0606 r2:  0.39436811574
+reviews_subtitles_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  8307032.41899 r2:  0.525820042915
+subtitles_metadata_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  22000013.887 r2:  0.495976658303
+subtitles_metadata_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  7062216.70427 r2:  0.468163411074
+subtitles_mingram_1_maxgram_2_max_features_10000_US_Gross.txt MAE:  32553749.9051 r2:  0.0953354445677
+subtitles_mingram_1_maxgram_2_max_features_10000_weekend_gross.txt MAE:  10345239.7914 r2:  0.0847085186123
