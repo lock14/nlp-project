@@ -200,8 +200,28 @@ interesting to combine the work of Bitvai et al. with ours to see if a CNN can u
 subtitles more effectively than a linear model.
 
 \section{Future Work}
-What are the major shortcomings of your current method? For each shortcoming, propose
-additions or enhancements that would help overcome it
+The first major weakness of our work is that we had to rely on using subtitles as the
+major plot related textual feature. As previously mentioned, our initial desire was to
+use the film's scripts but we had to abandon that approach as there was not enough
+movie script data to use. If sufficient script data could be obtained a potential
+enhancement would be to substitute script data for the subtitle data we used.
+
+A second potential enhancement, related to the first, is to experiment with other
+plot related text features. For example plot summaries could be used instead of subtitles.
+The relatively weak performance of subtitles could be from a low signal to noise ratio
+where much of the predictive information is lost to irrelevant data. A more concise
+description of the plot, such as a plot summary, may have a higher signal to noise ratio.
+A good extension of our work would be to test if such concise plot features have higher
+predictive power.
+
+Another weakness is that we did not change the underlying predictive model. We still
+used linear regression even though better text regression models have been developed in
+recent years. We felt that using a linear model was fine because our main goal was to
+test the predictive power of plot related features. Since our results did indicate small
+predictive element an nice improvement over our work would be to improve the underlying
+predictive model to test if more relevant information can be extracted from subtitles.
+The work done by Bitvai et al using convolutional neural networks would be a natural place
+to start with this type of enhancement. 
 
 \section{Conclusion}
 For the task of predicting box office revenue through text regression, subtitles
