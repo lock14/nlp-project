@@ -19,20 +19,20 @@
 \begin{abstract}
 \noindent
 Plot specific features may be useful in predicting box office revenue of films.
-In this paper we present a method for analyzing movie subtitles as such a predictive
-feature using Linear Text Regression. We compare the performance of subtitles against
-using movie reviews and find that subtitles do not perform as well in predictive power.
-We discuss alternative features that reflect plot should extensions of this work be
-done in the future.
+Here we present a method for analyzing movie subtitles as a predictive
+feature using Linear Text Regression. We find that subtitles have some predictive
+power, though not as much as reviews.
+We also discuss alternative features that could be used as extensions of this work 
+in the future.
 \end{abstract}
 
 \section{Introduction}
 \subsection{Background and Motivation}
 Text regression is a a useful tool to predict real world values from textual inputs.
 In 2010, Joshi et al. used text regression on movie reviews to predict box office revenue.
-In their paper they analyzed the performance of using reviews as predictor vs using meta
-data alone (such as budget, number of screens, release date, etc.). They found that text
-from reviews could both substitute for and improve over a strong meta data based approach.
+In their paper they analyzed the performance of using reviews as predictor vs using metadata 
+alone (such as budget, number of screens, release date, etc.). They found that text
+from reviews could both substitute for and improve over a strong metadata based approach.
 
 A limitation in the methodology of Joshi et al. is that they used features that are only
 available late into film's production, such as pre-release movie reviews. A pre-release
@@ -49,12 +49,14 @@ plot directly might be useful for predicting revenue. If such features prove use
 predictors of revenue, then as a consequence prediction can be done much earlier in the
 film making process, greatly improving the utility of the model.
 
-We initially wanted to use the film's script as such a feature, but found that getting
-enough script data was challenging as there ended up not being any great sources of
-move script data. From the sources we were able to identify we were only able to
-obtain about $140$ movie scripts of any use, which was not nearly enough data to perform
-proper regression on. In retrospect, this makes sense as film scripts are considered
+We initially wanted to use the film's script as such a feature, but found 
+there were no large sources of movie scripts.
+From the sources we were able to identify we were only able to
+obtain about $140$ usable movie scripts that overlapped with the Joshi et al. data. 
+In retrospect, this makes sense as film scripts are considered
 intellectual property, and thus the scripts are not widely available to the public.
+This legally murky status, in addition to the small amount of data, led to us not
+attempting text regression on movie scripts.
 
 As an alternative to scripts, we decided to use the subtitles for the films instead. The
 majority of text in a script is the characters' dialogue, and thus since subtitles contain
@@ -66,19 +68,20 @@ which makes subtitles not a perfect substitute for scripts.
 In the following sections we describe our methodology for analyzing the subtitle text
 and making predictions of box office revenue. Our findings indicate that subtitles do
 not perform as well as movie reviews in predicting revenue, though there is some small
-predictive value. In general, our attempt to find features that can be used
+predictive value. In general, our attempt to create an effective model that can be used
 earlier in the film making process, as compared to those presented in Joshi et al, was 
-unsuccessful. However, since we did find that subtitles had some predictive value, it is possible that other plot related features of a film may do better. We discuss some of
+unsuccessful. However, since we did find that subtitles had some predictive value, it 
+is possible that other plot related features of a film may do better. We discuss some of
 these alternative plot features in our section on future work.
 
 \section{Problem Definition}
 \subsection{Data}
 Joshi et al. made their data set accessible to the public. We retrieved there data
-and used it as the source the relevant meta data features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
+and used it as the source the relevant metadata features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
 xml which made extracting the features and review text relatively straightforward.
 
 While processing there data, we 
-did find that there were some inconsistencies in meta features such one movie
+did find that there were some inconsistencies in metadata features such one movie
 have its $\mathsf{running\_time}$ feature listed as "Spanish". These erroneous entries
 were not too prevalent however, and when encountered we simply replaced them with
 sensible defaults. Our process for deciding the defaults is elaborated on more in the
@@ -104,11 +107,11 @@ publicly available from our code repository.
 \subsection{Task Definition}
 The task at hand was to evaluate how well plot related features, in our case subtitles,
 performed in predicting opening weekend revenue in U.S. dollars. Specifically, given
-a film's subtitles (and possibly meta data features) in text form, how well can we
+a film's subtitles (and possibly metadata features) in text form, how well can we
 predict the film's opening weekend box office revenue.
 
 We use Linear Text Regression to perform this task, where the response variable $y$ is
-the film's oppening weekend revenue, and the subtitles and meta data features are
+the film's oppening weekend revenue, and the subtitles and metadata features are
 converted into a feature matrix $X$.
 
 \subsection{Algorithm Definition}
@@ -147,11 +150,15 @@ experiments substituting subtitles for the movie reviews. This way we could dire
 compare the relative performance of subtitles over movie reviews.
 
 Our allocation of training, dev, and test sets differed from Joshi et al.'s in a few
-respects. Rather than breaking up the training data into training and dev by year (2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training set (2005-2008). We agreed that it made sense to test the model against movies that were set in
-the future from the training data. After all, this model is intended to predict the opening revenue of future movies. However, we were skeptical that this was necessary for good cross-
-validation.
+respects. Rather than breaking up the training data into training and dev by year
+(2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training
+set (2005-2008). We agreed that it made sense to test the model against movies that were
+set in the future from the training data. After all, this model is intended to predict
+the opening revenue of future movies. However, we were skeptical that this was necessary
+for good cross-validation.
 
-In the experiments we used both text features and metadata features. The metadata features we selected were the release date, whether the movie was domestic or foreign, the production
+In the experiments we used both text features and metadata features. The metadata features
+we selected were the release date, whether the movie was domestic or foreign, the production
 budget, the number of screens, the film's rating, the genre of the film, and its running
 time. This is a strict subset of the metadata used by Joshi et al. We left out some of the
 metadata features they used such as 'number of oscar winning actors' as the data set they
@@ -169,6 +176,9 @@ experiment type. We considered using unigrams alone, unigrams + bigrams, unigram
 bigrams + trigrams, bigrams + trigrams, and trigrams alone. Additionally, we used at most
 the top 10,000 entries per $n$-gram type. This adds to at most 30,000 features in when using
 unigrams, bigrams, and trigrams. Joshi et al. did no filtering on by ngram frequency.
+
+We evaluated our models using mean absolute error (MAE) and $r^2$ of weekend gross revenue
+and of United States gross revenue. 
 
 \begin{table*}[t]
 \caption{Experiment Results for Unigrams + Bigrams with a Max Feature Size of 10,000}
@@ -200,13 +210,13 @@ revealed in the data. Are they statistically significant?
 \resizebox {\columnwidth} {!} {
 \begin{tikzpicture}
 \begin{axis}[
-    title={Weekend MAE dependence on n-grams},
+    title={Opening Weekend MAE dependence on n-grams},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
-    xmin=1, xmax=6,
+    xmin=1, xmax=5,
     ymin=7, ymax=12,
-    xtick={1,2,3,4,5,6},
-    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
+    xtick={1,2,3,4,5},
+    xticklabels={1-1,1-2,1-3,2-2,3-3},
     ytick={7,8,9,10,11,12},
     legend pos=south east,
     ymajorgrids=true,
@@ -218,7 +228,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,9.124)(2,8.444)(3,9.044)(4,9.238)(5,8.842)(6,10.023)
+    (1,9.124)(2,8.444)(3,9.044)(4,9.238)(5,10.023)
     };
     \legend{reviews}
 
@@ -227,7 +237,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,10.567)(2,10.345)(3,10.316)(4,11.550)(5,11.406)(6,11.460)
+    (1,10.567)(2,10.345)(3,10.316)(4,11.550)(5,11.460)
     };
     \addlegendentry{subtitles}
     
@@ -236,7 +246,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,8.724)(2,8.310)(3,9.020)(4,9.527)(5,9.335)(6,10.960)
+    (1,8.724)(2,8.310)(3,9.020)(4,9.527)(5,10.960)
     };
     \addlegendentry{reviews+subtitles}
  
@@ -252,10 +262,10 @@ revealed in the data. Are they statistically significant?
     title={U.S. Gross MAE dependence on n-grams},
     xlabel={ngrams used},
     ylabel={Opening weekend MAE (\$M)},
-    xmin=1, xmax=6,
+    xmin=1, xmax=5,
     ymin=23, ymax=35,
-    xtick={1,2,3,4,5,6},
-    xticklabels={1-1,1-2,1-3,2-2,2-3,3-3},
+    xtick={1,2,3,4,5},
+    xticklabels={1-1,1-2,1-3,2-2,3-3},
     ytick={24,26,28,30,32,34},
     legend pos=south east,
     ymajorgrids=true,
@@ -267,7 +277,7 @@ revealed in the data. Are they statistically significant?
     mark=square,
     ]
     coordinates {
-    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,28.256)(6,30.732)
+    (1,26.767)(2,27.290)(3,27.238)(4,27.500)(5,30.732)
     };
     \legend{reviews}
 
@@ -276,7 +286,7 @@ revealed in the data. Are they statistically significant?
     mark=triangle,
     ]
     coordinates {
-    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.327)(6,34.530)
+    (1,32.923)(2,32.553)(3,32.424)(4,33.462)(5,34.530)
     };
     \addlegendentry{subtitles}
     
@@ -285,7 +295,7 @@ revealed in the data. Are they statistically significant?
     mark=diamond,
     ]
     coordinates {
-    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,28.357)(6,30.216)
+    (1,27.249)(2,27.179)(3,27.326)(4,28.467)(5,30.216)
     };
     \addlegendentry{reviews+subtitles}
  
