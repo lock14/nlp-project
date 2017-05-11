@@ -306,12 +306,25 @@ revealed in the data. Are they statistically significant?
 \end{figure}
 
 \subsection{Discussion}
-Is your hypothesis supported? What conclusions do the results support about the strengths
-and weaknesses of your method compared to other methods? How can the results be explained
-in terms of the underlying properties of the algorithm and/or the data.
+Our hypothesis that movie subtitles could be used to predict the weekend gross revenue
+was confirmed. However, the predictive power is weak and unlikely
+to be useful in practice. 
+
+Our original hypothesis, that scripts would have predictive power, is based on
+the idea that plot matters. However, subtitles are very imperfect proxies for plot. 
+Therefore, we think that there is simply not very much information to be gained from
+scripts. 
+
+If a movie studio could be convinced to release a bulk collection of movie scripts,
+then perhaps a model could be trained on scripts and be useful practice.
+
+Additionally, linear text regression treats the documents as a bag of words. While
+this can be useful, as in the case of reviews, it does preclude the ability of the
+model to "learn" about a movie's plot. 
+
 
 \section{Related Work}
-Joshi et al. (2010) is the main basis for our paper. In there paper they describe their
+Joshi et al. (2010) is the main basis for our paper. In their paper they describe their
 technique to use Linear Text Regression on movie reviews to predict box office revenue.
 Their work is based on sentiment analysis of Pang et al. (2002) and the uses of critic
 reviews of Terry et al. (2005). The main difference in the work of Joshi et al. is that
@@ -333,7 +346,8 @@ relative improvement over sparse linear models. The work of Bitvai et al. is par
 ours in that both our work and that of Bitvai et al are extension of the method described
 by Joshi et al. The key difference is that they enhanced the underlying model of Joshi
 et al. while our enhancement centered around using text features available earlier
-in the film making process. The strength of the improvement reported by Bitvai et al. indicates that their enhancement is likely better than ours, however their enhancement is
+in the film making process. The strength of the improvement reported by Bitvai et al. 
+indicates that their enhancement is likely better than ours, however their enhancement is
 in an orthogonal direction to direction making it unclear how to do a direct comparison.
 It would be interesting to combine the work of Bitvai et al. with ours to see if a
 convolutional neural network can use subtitles more effectively than a linear model.
