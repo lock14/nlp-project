@@ -20,7 +20,7 @@
 \noindent
 Plot specific features may be useful in predicting box office revenue of films.
 Here we present a method for analyzing such a feature, movie subtitle, using Linear Text Regression. We find that subtitles have a small amount of predictive power, though they
-do not perform as well as critic reviews. As a result, We discuss alternative plot related
+do not perform as well as critic reviews. As a result, we discuss alternative plot related
 features that may perform better than subtitles as potential extensions of this work in the
 future.
 \end{abstract}
@@ -61,13 +61,13 @@ As an alternative to scripts, we decided to use the subtitles for the films inst
 majority of text in a script is the characters' dialogue, and thus since subtitles contain
 all the dialogue of the film, we felt that they were a reasonable proxy for scripts.
 Scripts do contain other textual information not in subtitles, such as describing a scene,
-which makes subtitles not a perfect substitute for scripts however.
+which makes subtitles an imperfect substitute for scripts however.
 
 \subsection{Summary of Results}
 In the following sections we describe our methodology for analyzing the subtitle text
 and making predictions of box office revenue. Our findings indicate that subtitles do
 not perform as well as movie reviews in predicting revenue, though there is some small
-predictive value. In general, our attempt to create an effective model that can be used
+predictive value. Our attempt to create an effective model that can be used
 earlier in the film making process, as compared to those presented in Joshi et al, was 
 unsuccessful. However, since we did find that subtitles had some predictive value, it 
 is possible that other plot related features of a film may do better. We discuss some of
@@ -75,15 +75,15 @@ these alternative plot features in our section on future work.
 
 \section{Problem Definition}
 \subsection{Data}
-Joshi et al. made their data set accessible to the public. We retrieved there data
-and used it as the source the relevant metadata features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
+Joshi et al. made their dataset accessible to the public. From this dataset,
+we extracted relevant metadata features, review text, and the gross revenue figures for each movie we analyzed in our experiments. The data was stored as
 xml which made extracting the features and review text relatively straightforward.
 
 While processing there data, we 
 did find that there were some inconsistencies in metadata features such one movie
 have its $\mathsf{running\_time}$ feature listed as "Spanish". These erroneous entries
-were not too prevalent however, and when encountered we simply replaced them with
-sensible defaults.
+were not too prevalent, therefore we simply replaced them with
+0 as a default.
 
 As mentioned in the introduction, we initally tried to collect script data. We tried
 gathering scripts from IMSDb.com, as well as a few other sources, but were only able
@@ -171,12 +171,13 @@ tested combining the text of reviews and subtitles to see if the combination per
 better than each one individually.
 
 Our allocation of training, dev, and test sets differed from Joshi et al.'s in a few
-respects. Rather than breaking up the data into training and dev sets by year
-(2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training
-set (2005-2008). We felt that it made sense to test the model against movies that were
+respects. Their data was split into training, dev, and test sets by year
+(2005-2007, 2008, 2009, respectively). We believed that one larger training dataset
+(2005-2008) with 3-fold cross-validation would be sufficient for training hyperparameters.
+Like Joshi et al., we allocated films from 2009 as our test set.
+We felt it was most conservative to test the model against movies that were
 set in the future from the training data. After all, this model is intended to predict
-the opening revenue of future movies. However, we were skeptical that this was necessary
-for good cross-validation. We allocated films from 2009 as our test set.
+the opening revenue of future movies. 
 
 In the experiments we used both text features and metadata features. The metadata features
 we selected were the release date, whether the movie was domestic or foreign, the production
@@ -340,7 +341,7 @@ Our hypothesis that movie subtitles could be used to predict the weekend gross r
 was confirmed. However, the predictive power is very weak and unlikely to be useful in practice. 
 
 Our more general hypothesis, that plot related features would have predictive power,
-also supported by our finding.  However, subtitles are a very imperfect proxies for plot
+is supported by our findings.  However, subtitles are a very imperfect proxies for plot
 as they only contain dialogue. Our original idea for a plot related feature, scripts,
 contain other plot information and thus if a movie studio could be convinced to release a
 bulk collection of movie scripts, it would be interesting to perform the same set of
