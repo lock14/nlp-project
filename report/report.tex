@@ -62,7 +62,7 @@ As an alternative to scripts, we decided to use the subtitles for the films inst
 majority of text in a script is the characters' dialogue, and thus since subtitles contain
 all the dialogue of the film, we felt that they were a reasonable proxy for scripts.
 Scripts do contain other textual information not in subtitles, such as describing a scene,
-which makes subtitles not a perfect substitute for scripts.
+which makes subtitles not a perfect substitute for scripts however.
 
 \subsection{Summary of Results}
 In the following sections we describe our methodology for analyzing the subtitle text
@@ -84,8 +84,7 @@ While processing there data, we
 did find that there were some inconsistencies in metadata features such one movie
 have its $\mathsf{running\_time}$ feature listed as "Spanish". These erroneous entries
 were not too prevalent however, and when encountered we simply replaced them with
-sensible defaults. Our process for deciding the defaults is elaborated on more in the
-next section.
+sensible defaults.
 
 As mentioned in the introduction, we initally tried to collect script data. We tried
 gathering scripts from IMSDb.com, as well as a few other sources, but were only able
@@ -95,11 +94,11 @@ decided to fall back on using subtitles as the main plot describing feature inst
 We used $\mathsf{subliminal}$, a python CLI program, to download the appropriate
 subtitles. $\mathsf{subliminal}$ uses OpenSubtitles.org as the main source of subtitle
 data. Once we obtained the subtitles we cleaned them of irrelevant text, such as time
-stamps, until only the dialogue text was left. We also sample $5$\% of the subtitles to
+stamps, until only the dialogue text was left. We also sampled $5$\% of the subtitles to
 verify that they indeed belonged to the correct movie. All subtitles that were manually
 checked were correct, which gave us confidence that the $\mathsf{subliminal}$ program
 had correctly retrieved the subtitles. Out of the $1718$ movies in the Joshi
-et al. data set, we were able to obtain subtitles for $1345$ (placeholder) of them.
+et al. data set, we were able to obtain subtitles for $1349$ of them.
 While we would have preferred to get subtitles for every movie, we felt that this was
 enough to move forward with our regression experiments. The cleaned subtitles are
 publicly available from our code repository.
@@ -110,17 +109,17 @@ performed in predicting opening weekend revenue in U.S. dollars. Specifically, g
 a film's subtitles (and possibly metadata features) in text form, how well can we
 predict the film's opening weekend box office revenue.
 
-We use Linear Text Regression to perform this task, where the response variable $y$ is
-the film's oppening weekend revenue, and the subtitles and metadata features are
-converted into a feature matrix $X$.
+We use Linear Text Regression to perform this task, where the dependent variable is
+the film's oppening weekend revenue, and the independent variables are the subtitle/review
+text features and/or meta data features.
 
 \subsection{Algorithm Definition}
 We use the Guassian family of linear models as the basis for our prediction method.
 Given a response variable $y$, and a feature vector $\vec{x} \in \mathbb{R}^p$, we
-predict a value $\hat{y} = \beta_0 + \vec{x}^T \beta$. The parameter $\beta$ and $\beta$
+predict a value $\hat{y} = \beta_0 + \vec{x}^T \beta$. The parameters $\beta_0$ and $\beta$
 is learned by minimizing the sum of squares errors of the training set.
 
-More specifically we use the Elastic Net model which is a regularized regression method
+More specifically, we use the Elastic Net model which is a regularized regression method
 that linearly combines the penalties from the Lasso and Ridge methods. Let the training
 set contain $N$ pairs $x_i,y_i$, where $x_i \in \mathbb{R}^p$ and $y_i \in \mathbb{R}$,
 then the Elastic Net equation is as follows:
@@ -158,7 +157,7 @@ data set.
   metadata+reviews+subtitles  &  6.972 &  0.464  & 22.093  & 0.496\\
   \hline
   \multicolumn{5}{l}{\textsuperscript{*}\footnotesize{WG: weekend gross revenue. USG:
-  United States Gross Revenue}}
+  U.S. Gross Revenue}}
 \end{tabular}
 \end{table*}
 
@@ -169,13 +168,13 @@ To that end, we replicated a portion of the experiments done by Joshi et al. usi
 movie reviews to use as a baseline for our comparison. We then ran the same set of
 experiments substituting subtitles for the movie reviews. This way we could directly
 compare the relative performance of subtitles over movie reviews. In addition we
-tested combining the text of reviews and subtitles to see of the combination performed
+tested combining the text of reviews and subtitles to see if the combination performed
 better than each one individually.
 
 Our allocation of training, dev, and test sets differed from Joshi et al.'s in a few
-respects. Rather than breaking up the training data into training and dev by year
+respects. Rather than breaking up the data into training and dev sets by year
 (2005-2007, 2008, respectively), we simply used 3-fold cross-validation on a training
-set (2005-2008). We agreed that it made sense to test the model against movies that were
+set (2005-2008). We felt that it made sense to test the model against movies that were
 set in the future from the training data. After all, this model is intended to predict
 the opening revenue of future movies. However, we were skeptical that this was necessary
 for good cross-validation. We allocated films from 2009 as our test set.
@@ -199,36 +198,36 @@ Additionally, we used at most the top 10,000 entries per $n$-gram type. This add
 30,000 features in when using unigrams, bigrams, and trigrams. Joshi et al. did no filtering
 by ngram frequency.
 
-We evaluated our models using mean absolute error (MAE) and $r^2$ of weekend gross revenue
-and of United States gross revenue. 
+We evaluated our models using mean absolute error (MAE) and $r^2$ of opening weekend gross
+revenue and of gross revenue in the United States. 
 
 \subsection{Results}
-In Table 1, we present the results of the experiments that used Unigrams and Bigrams
-for text features with a maximum feature set size of 10,000. Of all the experiments we
-ran, this category showed the best average results across the different text domains.
+In Table 1, we present the results of the experiment that used unigrams combined with
+bigrams as text features with a maximum feature set size of 10,000. Of all the experiments
+we ran, this category showed the best average results across the different text domains.
 Using critic reviews achieved an MAE of $8.444$ on gross opening weekend revenue with
 an $r^2$ of $0.518$. These results for reviews are similar to those of Joshi et al. for
 the same category of experiment (Type \textbf{I-}), which gives us confidence that we
-are implementing there model correctly.
+are implemented their model correctly.
 
 Subtitles performed significantly worse than reviews with an MAE of $10.345$ on opening
 weekend revenue with an $r^2$ of $0.085$. While this shows a slight predictive element
-to using subtitle text, it would not likely be enough to be useful in practice.
+to using subtitle text, it would not likely be enough to be useful in any practical way.
 
 Combining review and subtitle text did slightly better than review text alone. The
 combination achieved an MAE of $8.310$ on opening weekend revenue with an $r^2$ of
 $0.526$. This experiment also confirms that subtitles have a small predictive element
-as combining subtitles with reviews performed slightly better than just using review test
+as combining subtitles with reviews performed slightly better than just using review text
 alone.
 
-We also ran experiments using metdata features in addition to text features. Using meta
-data features alone achieves an MAE of $7.061$ on opening weekend revenue with an $r^2$
-of $0.471$. Interestingly, the use of metadata almost brings reviews and subtitles in
-line with each other as our metadata+reviews experiment achieved an MAE of $6.969$ with
+In addition, we ran experiments using metdata features combined with text features. Using
+meta data features alone achieves an MAE of $7.061$ on opening weekend revenue with an
+$r^2$ of $0.471$. Interestingly, the use of metadata almost brings reviews and subtitles
+in line with each other as our metadata+reviews experiment achieved an MAE of $6.969$ with
 an $r^2$ of $0.450$ whereas the metadata+subtitles achieved an MAE of $7.062$ with an
 $r^2$ of $0.468$. Both metadata+reviews and metadata+subtitles barely achieved better
-results than the metadata basline indicating that much of the predicitve power of these
-two categories came from the metadata rather then the document text.
+results than the metadata-only baseline indicating that much of the predicitve power of
+these two categories came from the metadata rather than the textual features.
 
 \begin{figure}[h]
 \resizebox {\columnwidth} {!} {
@@ -329,7 +328,7 @@ two categories came from the metadata rather then the document text.
 \end{figure}
 
 We also plotted how the MAE of opening weekend revenue changed depending on the number
-of $n$-grams used and the maximum number of features used. As can be seen MAE is minimized
+of $n$-grams used and the maximum number of features used. As can be seen, MAE is minimized
 in most cases when using a combination of unigrams and bigrams on the review text. MAE
 also decreases as the maximum number of features used increases. It is likely that the
 quantity of review text and subtitle text was not large enough to take proper advantage
@@ -341,28 +340,28 @@ use of information from both types of features.
 Our hypothesis that movie subtitles could be used to predict the weekend gross revenue
 was confirmed. However, the predictive power is very weak and unlikely to be useful in practice. 
 
-Our original hypothesis, that scripts would have predictive power, is based on
-the idea that plot matters in which movies are successful. However, subtitles are
-a very imperfect proxies for plot as they only contain dialogue. Scripts do contain
-other plot information and thus if a movie studio could be convinced to release a bulk
-collection of movie scripts, then perhaps a model could be trained on scripts and be
-useful practice.
+Our more general hypothesis, that plot related features would have predictive power,
+also supported by our finding.  However, subtitles are a very imperfect proxies for plot
+as they only contain dialogue. Our original idea for a plot related feature, scripts,
+contain other plot information and thus if a movie studio could be convinced to release a
+bulk collection of movie scripts, it would be interesting to perform the same set of
+experiments to see if they achieve better results.
 
-Additionally, linear text regression treats the documents as a bag of words. While
-this can be useful, as in the case of reviews, it does preclude the ability of the
-model to "learn" detailed information about a movie's plot. It is quite likely that
-a richer model could perform better on using plot features such a subtitles.
+Finally, linear text regression is limited in that it treats the documents as a bag of
+words. While this can be useful, as in the case of reviews, it does preclude the ability
+of the model to "learn" detailed information about a movie's plot. It is quite likely that
+a richer model may perform better using related plot features such a subtitles.
 
 \section{Related Work}
 Joshi et al. (2010) is the main basis for our paper. In their paper they describe their
 technique to use Linear Text Regression on movie reviews to predict box office revenue.
 Their work is based on sentiment analysis of Pang et al. (2002) and the uses of critic
 reviews of Terry et al. (2005). The main difference in the work of Joshi et al. is that
-they considered the review text directly rather than sentiment, number of start, etc. as
-well as using the analysis to predict future real valued quantities. Prior work had
+they considered the review text directly rather than sentiment, number of stars, etc. as
+well as using their analysis to predict future real valued quantities. Prior work had
 used all data including those past the release of the movie to predict revenue. Joshi
 et al. limited themselves to data that was available only prior to the films's release.
-Our work is an extension of Joshi et al. in that we are using text features, i.e.
+Our work is an extension of Joshi et al. in that we are using text features, e.g.
 subtitles, that are available much earlier in the film making process. Given the results
 of our experiments it is hard to say if our method is strictly better than that proposed
 by Joshi et al. However, since we did find some predictive value in using the text of
@@ -401,7 +400,7 @@ Another weakness is that we did not change the underlying predictive model. We s
 used linear regression even though better text regression models have been developed in
 recent years. We felt that using a linear model was fine because our main goal was to
 test the predictive power of plot related features. Since our results did indicate small
-predictive element an nice improvement over our work would be to improve the underlying
+predictive element, a nice improvement over our work would be to improve the underlying
 predictive model to test if more relevant information can be extracted from subtitles.
 The work done by Bitvai et al using convolutional neural networks would be a natural place
 to start with this type of enhancement. 
