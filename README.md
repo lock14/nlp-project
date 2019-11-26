@@ -1,11 +1,11 @@
 # nlp-project
 Do to our inexperience with using regression tools we intially built protypes in both
-R and python. We used the protypes to test if ther were giving similar results. Once
-we were confident that are protypes were working correctly we abandoned the R code
+R and python. We used the protypes to test if they were giving similar results. Once
+we were confident that our protypes were working correctly we abandoned the R code
 and refined the python code to support the full range of experiments we wanted to
 perform. The R code has been included, as a novelty mostly, in the "r_code" directory
 along with some of the trace files for the intial R experiments we did. Since the
-main project uses the python code we will only discuss how to setup and run this
+main project uses the python code we will only discuss how to setup and run that
 version of the code.
 
 ## Setup
